@@ -1,0 +1,609 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q63706;Miaoli County;административно-территориальная единица;1;60;to
+Q249868;Hualien County;административно-территориальная единица;1;82;to
+Q237258;Yilan County;местонахождение;1;4;to
+Q237258;Yilan County;категория объединяет темы;1;3;to
+Q237258;Yilan County;является столицей;1;1;to
+Q237258;Yilan County;происходит из;1;3;to
+Q237258;Yilan County;место смерти;1;1;to
+Q237258;Yilan County;общая тема категории;1;1;to
+Q237258;Yilan County;административно делится на;1;1;to
+Q249868;Hualien County;административно делится на;1;1;to
+Q63706;Miaoli County;административно делится на;1;1;to
+Q249868;Hualien County;государство;1;1;from
+Q249868;Hualien County;изображение;1;1;from
+Q249868;Hualien County;законодательный орган;1;1;from
+Q249868;Hualien County;карта местонахождения;1;1;from
+Q249868;Hualien County;это частный случай понятия;1;1;from
+Q249868;Hualien County;столица;1;1;from
+Q249868;Hualien County;имеет границы с;1;5;to
+Q237258;Yilan County;владельцем является;1;1;to
+Q237258;Yilan County;заменён на;1;2;to
+Q237258;Yilan County;место рождения;1;30;to
+Q237258;Yilan County;юрисдикция распространяется на;1;8;to
+Q237258;Yilan County;площадь;1;1;from
+Q237258;Yilan County;коллаж;1;1;from
+Q237258;Yilan County;используемый язык;1;3;from
+Q237258;Yilan County;ISO 3166-2;1;1;from
+Q237258;Yilan County;код темы Quora;1;1;from
+Q237258;Yilan County;категория на Викискладе;1;1;from
+Q237258;Yilan County;ID отношения в OpenStreetMap;1;1;from
+Q237258;Yilan County;код административного деления Тайваня;1;2;from
+Q237258;Yilan County;географические координаты;1;1;from
+Q237258;Yilan County;код Freebase;1;1;from
+Q237258;Yilan County;Who's on First ID;1;1;from
+Q237258;Yilan County;категория карт на Викискладе;1;1;from
+Q237258;Yilan County;официальный сайт;1;2;from
+Q237258;Yilan County;основная категория по теме;1;1;from
+Q237258;Yilan County;баннер Викигида;1;1;from
+Q249868;Hualien County;глава правительства;1;3;from
+Q249868;Hualien County;численность населения;1;3;from
+Q249868;Hualien County;должность главы правительства;1;1;from
+Q249868;Hualien County;баннер Викигида;1;1;from
+Q249868;Hualien County;dmoz;1;1;from
+Q249868;Hualien County;расположение штаб-квартиры;1;2;to
+Q249868;Hualien County;место рождения;1;38;to
+Q249868;Hualien County;юрисдикция распространяется на;1;8;to
+Q249868;Hualien County;категория объединяет темы;1;6;to
+Q249868;Hualien County;происходит из;1;6;to
+Q249868;Hualien County;местонахождение;1;1;to
+Q249868;Hualien County;владельцем является;1;1;to
+Q249868;Hualien County;место смерти;1;1;to
+Q249868;Hualien County;часть от;1;1;to
+Q249868;Hualien County;является столицей;1;1;to
+Q249868;Hualien County;общая тема категории;1;1;to
+Q249872;Lienchiang County;административно-территориальная единица;1;10;to
+Q249872;Lienchiang County;административно делится на;1;1;to
+Q249872;Lienchiang County;государство;1;1;from
+Q249868;Hualien County;место в MusicBrainz;1;1;from
+Q249868;Hualien County;основная категория по теме;1;1;from
+Q249868;Hualien County;код в энциклопедии «Британника онлайн»;1;1;from
+Q249868;Hualien County;официальный сайт;1;1;from
+Q249868;Hualien County;код GeoNames;1;1;from
+Q249868;Hualien County;владеет;1;1;from
+Q249868;Hualien County;площадь;1;1;from
+Q249868;Hualien County;коллаж;1;1;from
+Q249868;Hualien County;используемый язык;1;5;from
+Q249868;Hualien County;ISO 3166-2;1;1;from
+Q249868;Hualien County;код темы Quora;1;1;from
+Q249868;Hualien County;категория на Викискладе;1;1;from
+Q249868;Hualien County;ID отношения в OpenStreetMap;1;1;from
+Q249868;Hualien County;часовой пояс;1;1;from
+Q249868;Hualien County;код административного деления Тайваня;1;1;from
+Q249868;Hualien County;географические координаты;1;1;from
+Q249868;Hualien County;код Freebase;1;1;from
+Q249868;Hualien County;Who's on First ID;1;1;from
+Q249868;Hualien County;категория карт на Викискладе;1;1;from
+Q237258;Yilan County;код GeoNames;1;1;from
+Q237258;Yilan County;код в энциклопедии «Британника онлайн»;1;1;from
+Q237258;Yilan County;заменил;1;4;from
+Q198525;Penghu County;код Freebase;1;1;from
+Q198525;Penghu County;баннер Викигида;1;1;from
+Q198525;Penghu County;местонахождение;1;4;to
+Q198525;Penghu County;юрисдикция распространяется на;1;7;to
+Q198525;Penghu County;место рождения;1;15;to
+Q198525;Penghu County;основная тема;1;1;to
+Q198525;Penghu County;категория объединяет темы;1;1;to
+Q198525;Penghu County;изображённый объект;1;1;to
+Q198525;Penghu County;является столицей;1;1;to
+Q198525;Penghu County;место смерти;1;1;to
+Q198525;Penghu County;происходит из;1;1;to
+Q219147;Kaohsiung County;административно-территориальная единица;1;1;from
+Q219147;Kaohsiung County;государство;1;1;from
+Q219147;Kaohsiung County;карта местонахождения;1;1;from
+Q219147;Kaohsiung County;это частный случай понятия;1;2;from
+Q219147;Kaohsiung County;столица;1;1;from
+Q198525;Penghu County;Who's on First ID;1;1;from
+Q198525;Penghu County;географические координаты;1;1;from
+Q219147;Kaohsiung County;численность населения;1;1;from
+Q198525;Penghu County;код административного деления Тайваня;1;1;from
+Q198525;Penghu County;глава правительства;1;4;from
+Q198525;Penghu County;численность населения;1;3;from
+Q198525;Penghu County;должность главы правительства;1;1;from
+Q198525;Penghu County;описывается в источниках;1;1;from
+Q198525;Penghu County;код GeoNames;1;1;from
+Q198525;Penghu County;код TGN;1;1;from
+Q198525;Penghu County;площадь;1;1;from
+Q198525;Penghu County;коллаж;1;1;from
+Q198525;Penghu County;используемый язык;1;1;from
+Q198525;Penghu County;ISO 3166-2;1;1;from
+Q198525;Penghu County;занимает ту же территорию с;1;1;to
+Q198525;Penghu County;код темы Quora;1;1;from
+Q198525;Penghu County;категория на Викискладе;1;1;from
+Q198525;Penghu County;ID отношения в OpenStreetMap;1;1;from
+Q198525;Penghu County;часовой пояс;1;1;from
+Q219147;Kaohsiung County;глава правительства;1;35;from
+Q219147;Kaohsiung County;должность главы правительства;1;1;from
+Q237258;Yilan County;должность главы правительства;1;1;from
+Q219147;Kaohsiung County;происходит из;1;3;to
+Q219147;Kaohsiung County;категория объединяет темы;1;1;to
+Q219147;Kaohsiung County;общая тема категории;1;1;to
+Q219147;Kaohsiung County;административно делится на;1;1;to
+Q237258;Yilan County;административно-территориальная единица;1;65;to
+Q237258;Yilan County;изображение печати/эмблемы;1;1;from
+Q237258;Yilan County;государство;1;1;from
+Q237258;Yilan County;изображение;1;1;from
+Q237258;Yilan County;законодательный орган;1;1;from
+Q237258;Yilan County;карта местонахождения;1;1;from
+Q237258;Yilan County;это частный случай понятия;1;1;from
+Q237258;Yilan County;столица;1;1;from
+Q237258;Yilan County;изображение флага;1;1;from
+Q237258;Yilan County;имеет границы с;1;3;to
+Q237258;Yilan County;глава правительства;1;1;from
+Q237258;Yilan County;численность населения;1;3;from
+Q219147;Kaohsiung County;юрисдикция распространяется на;1;1;to
+Q219147;Kaohsiung County;место рождения;1;20;to
+Q219147;Kaohsiung County;код в энциклопедии «Британника онлайн»;1;1;from
+Q219147;Kaohsiung County;место в MusicBrainz;1;1;from
+Q219147;Kaohsiung County;код GeoNames;1;1;from
+Q219147;Kaohsiung County;не путать с;1;1;to
+Q219147;Kaohsiung County;позиционная карта;1;1;from
+Q219147;Kaohsiung County;площадь;1;1;from
+Q219147;Kaohsiung County;используемый язык;1;4;from
+Q219147;Kaohsiung County;ISO 3166-2;1;1;from
+Q219147;Kaohsiung County;категория на Викискладе;1;1;from
+Q219147;Kaohsiung County;часовой пояс;1;1;from
+Q219147;Kaohsiung County;код административного деления Тайваня;1;1;from
+Q219147;Kaohsiung County;дата основания/создания/возникновения;1;1;from
+Q219147;Kaohsiung County;дата прекращения существования;1;1;from
+Q219147;Kaohsiung County;код Freebase;1;1;from
+Q219147;Kaohsiung County;категория карт на Викискладе;1;1;from
+Q219147;Kaohsiung County;официальный сайт;1;1;from
+Q219147;Kaohsiung County;основная категория по теме;1;1;from
+Q249872;Lienchiang County;законодательный орган;1;1;from
+Q249872;Lienchiang County;карта местонахождения;1;1;from
+Q249872;Lienchiang County;это частный случай понятия;1;1;from
+Q701682;Taichung County;столица;1;1;from
+Q701682;Taichung County;код GeoNames;1;1;from
+Q701682;Taichung County;площадь;1;1;from
+Q701682;Taichung County;ISO 3166-2;1;1;from
+Q701682;Taichung County;категория на Викискладе;1;1;from
+Q701682;Taichung County;код административного деления Тайваня;1;1;from
+Q701682;Taichung County;дата основания/создания/возникновения;1;1;from
+Q701682;Taichung County;дата прекращения существования;1;1;from
+Q701682;Taichung County;географические координаты;1;1;from
+Q701682;Taichung County;код Freebase;1;1;from
+Q701682;Taichung County;категория карт на Викискладе;1;1;from
+Q701682;Taichung County;основная категория по теме;1;1;from
+Q701682;Taichung County;место рождения;1;20;to
+Q701682;Taichung County;местонахождение;1;1;to
+Q701682;Taichung County;место смерти;1;1;to
+Q701682;Taichung County;юрисдикция распространяется на;1;1;to
+Q701682;Taichung County;код US National Archives;1;1;from
+Q701682;Taichung County;это частный случай понятия;1;1;from
+Q701682;Taichung County;категория объединяет темы;1;1;to
+Q701682;Taichung County;государство;1;1;from
+Q477601;Tainan County;географические координаты;1;1;from
+Q477601;Tainan County;код Freebase;1;1;from
+Q477601;Tainan County;категория карт на Викискладе;1;1;from
+Q477601;Tainan County;основная категория по теме;1;1;from
+Q477601;Tainan County;галерея на Викискладе;1;1;from
+Q477601;Tainan County;место в MusicBrainz;1;1;from
+Q477601;Tainan County;место рождения;1;26;to
+Q477601;Tainan County;заменил;1;1;to
+Q477601;Tainan County;юрисдикция распространяется на;1;1;to
+Q477601;Tainan County;является столицей;1;1;to
+Q477601;Tainan County;происходит из;1;2;to
+Q477601;Tainan County;категория объединяет темы;1;1;to
+Q477601;Tainan County;общая тема категории;1;1;to
+Q477601;Tainan County;административно делится на;1;1;to
+Q701682;Taichung County;административно-территориальная единица;1;1;from
+Q701682;Taichung County;является столицей;1;1;to
+Q701682;Taichung County;общая тема категории;1;1;to
+Q477601;Tainan County;дата основания/создания/возникновения;1;1;from
+Q25303104;Taoyuan County;дата прекращения существования;1;1;from
+Q25303104;Taoyuan County;место рождения;1;17;to
+Q25303104;Taoyuan County;заменил;1;1;to
+Q25303104;Taoyuan County;местонахождение;1;1;to
+Q34475301;Q34475301;административно-территориальная единица;1;1;from
+Q34475301;Q34475301;государство;1;1;from
+Q34475301;Q34475301;это частный случай понятия;1;2;from
+Q34475791;Q34475791;административно-территориальная единица;1;1;from
+Q34475791;Q34475791;государство;1;1;from
+Q34475791;Q34475791;это частный случай понятия;1;2;from
+Q34476188;Q34476188;административно-территориальная единица;1;1;to
+Q34476188;Q34476188;государство;1;1;from
+Q34476188;Q34476188;это частный случай понятия;1;2;from
+Q34477165;Q34477165;административно-территориальная единица;1;9;from
+Q34477165;Q34477165;государство;1;2;from
+Q34477165;Q34477165;это частный случай понятия;1;2;from
+Q25303104;Taoyuan County;юрисдикция распространяется на;1;2;to
+Q25303104;Taoyuan County;дата основания/создания/возникновения;1;1;from
+Q701682;Taichung County;административно делится на;1;1;to
+Q25303104;Taoyuan County;заменён на;1;1;from
+Q24287568;Taipei County;государство;1;1;from
+Q24287568;Taipei County;это частный случай понятия;1;1;from
+Q24287568;Taipei County;глава правительства;1;11;from
+Q24287568;Taipei County;код US National Archives;1;1;from
+Q24287568;Taipei County;заменил;1;1;to
+Q24287568;Taipei County;заменён на;1;6;to
+Q24287568;Taipei County;дата прекращения существования;1;1;from
+Q24287568;Taipei County;юрисдикция распространяется на;1;19;to
+Q24287568;Taipei County;место рождения;1;34;to
+Q24287568;Taipei County;административно-территориальная единица;1;3;to
+Q25303104;Taoyuan County;административно-территориальная единица;1;3;to
+Q25303104;Taoyuan County;государство;1;1;from
+Q25303104;Taoyuan County;исполнительная власть;1;1;from
+Q25303104;Taoyuan County;это частный случай понятия;1;1;from
+Q25303104;Taoyuan County;должность главы правительства;1;1;from
+Q477601;Tainan County;дата прекращения существования;1;1;from
+Q477601;Tainan County;код административного деления Тайваня;1;1;from
+Q249872;Lienchiang County;столица;1;1;from
+Q249872;Lienchiang County;является столицей;1;1;to
+Q249904;Taitung County;административно делится на;1;1;to
+Q249904;Taitung County;государство;1;1;from
+Q249904;Taitung County;изображение;1;1;from
+Q249904;Taitung County;законодательный орган;1;1;from
+Q249904;Taitung County;карта местонахождения;1;1;from
+Q249904;Taitung County;это частный случай понятия;1;2;from
+Q249904;Taitung County;столица;1;1;from
+Q249904;Taitung County;изображение флага;1;1;from
+Q249904;Taitung County;имеет границы с;1;3;to
+Q249904;Taitung County;глава правительства;1;1;from
+Q249904;Taitung County;численность населения;1;3;from
+Q249904;Taitung County;должность главы правительства;1;1;from
+Q249904;Taitung County;код в энциклопедии «Британника онлайн»;1;1;from
+Q249904;Taitung County;код GeoNames;1;1;from
+Q249904;Taitung County;категория для людей, связанных с местностью;1;1;from
+Q249904;Taitung County;административно-территориальная единица;1;79;to
+Q249872;Lienchiang County;категория карт на Викискладе;1;1;to
+Q249904;Taitung County;коллаж;1;1;from
+Q249872;Lienchiang County;юрисдикция распространяется на;1;7;to
+Q249872;Lienchiang County;глава правительства;1;5;from
+Q249872;Lienchiang County;численность населения;1;3;from
+Q249872;Lienchiang County;должность главы правительства;1;1;from
+Q249872;Lienchiang County;код GeoNames;1;1;from
+Q249872;Lienchiang County;не путать с;1;1;to
+Q249872;Lienchiang County;площадь;1;1;from
+Q249872;Lienchiang County;ISO 3166-2;1;1;from
+Q249872;Lienchiang County;занимает ту же территорию с;1;1;to
+Q249872;Lienchiang County;категория на Викискладе;1;1;from
+Q249872;Lienchiang County;ID отношения в OpenStreetMap;1;1;from
+Q249872;Lienchiang County;часовой пояс;1;1;from
+Q249872;Lienchiang County;код административного деления Тайваня;1;1;from
+Q249872;Lienchiang County;географические координаты;1;1;from
+Q249872;Lienchiang County;Who's on First ID;1;1;from
+Q249872;Lienchiang County;официальный сайт;1;1;from
+Q249904;Taitung County;площадь;1;1;from
+Q249904;Taitung County;используемый язык;1;6;from
+Q477601;Tainan County;категория на Викискладе;1;1;from
+Q249904;Taitung County;категория объединяет темы;1;6;to
+Q249904;Taitung County;часть от;1;2;to
+Q249904;Taitung County;является столицей;1;1;to
+Q249904;Taitung County;общая тема категории;1;1;to
+Q477601;Tainan County;административно-территориальная единица;1;1;from
+Q477601;Tainan County;государство;1;1;from
+Q477601;Tainan County;карта местонахождения;1;1;from
+Q477601;Tainan County;это частный случай понятия;1;1;from
+Q477601;Tainan County;столица;1;1;from
+Q477601;Tainan County;должность главы правительства;1;1;from
+Q477601;Tainan County;заменён на;1;1;from
+Q477601;Tainan County;код в энциклопедии «Британника онлайн»;1;1;from
+Q477601;Tainan County;код GeoNames;1;1;from
+Q477601;Tainan County;площадь;1;1;from
+Q477601;Tainan County;используемый язык;1;2;from
+Q477601;Tainan County;ISO 3166-2;1;1;from
+Q249904;Taitung County;местонахождение;1;1;to
+Q249904;Taitung County;место смерти;1;2;to
+Q249904;Taitung County;ISO 3166-2;1;1;from
+Q249904;Taitung County;происходит из;1;7;to
+Q249904;Taitung County;код темы Quora;1;1;from
+Q249904;Taitung County;категория на Викискладе;1;1;from
+Q249904;Taitung County;ID отношения в OpenStreetMap;1;1;from
+Q249904;Taitung County;код административного деления Тайваня;1;1;from
+Q249904;Taitung County;географические координаты;1;1;from
+Q249904;Taitung County;код Freebase;1;1;from
+Q249904;Taitung County;Who's on First ID;1;1;from
+Q249904;Taitung County;категория карт на Викискладе;1;1;from
+Q249904;Taitung County;официальный сайт;1;1;from
+Q249904;Taitung County;основная категория по теме;1;1;from
+Q249904;Taitung County;баннер Викигида;1;1;from
+Q249904;Taitung County;место в MusicBrainz;1;1;from
+Q249904;Taitung County;dmoz;1;1;from
+Q249904;Taitung County;место рождения;1;40;to
+Q249904;Taitung County;юрисдикция распространяется на;1;9;to
+Q198525;Penghu County;изображение флага;1;1;from
+Q198525;Penghu County;столица;1;1;from
+Q198525;Penghu County;это частный случай понятия;1;1;from
+Q82357;Nantou County;глава правительства;1;29;from
+Q82357;Nantou County;должность главы правительства;1;1;from
+Q82357;Nantou County;код GeoNames;1;1;from
+Q82357;Nantou County;категория для людей, связанных с местностью;1;1;from
+Q82357;Nantou County;площадь;1;1;from
+Q82357;Nantou County;коллаж;1;1;from
+Q82357;Nantou County;используемый язык;1;5;from
+Q82357;Nantou County;ISO 3166-2;1;1;from
+Q82357;Nantou County;код темы Quora;1;1;from
+Q82357;Nantou County;категория на Викискладе;1;1;from
+Q82357;Nantou County;ID отношения в OpenStreetMap;1;1;from
+Q82357;Nantou County;код административного деления Тайваня;1;1;from
+Q82357;Nantou County;географические координаты;1;1;from
+Q82357;Nantou County;код Freebase;1;1;from
+Q82357;Nantou County;Who's on First ID;1;1;from
+Q82357;Nantou County;категория карт на Викискладе;1;1;from
+Q82357;Nantou County;численность населения;1;3;from
+Q82357;Nantou County;имеет границы с;1;4;to
+Q82357;Nantou County;основная категория по теме;1;1;from
+Q82357;Nantou County;столица;1;1;from
+Q74054;Hsinchu County;юрисдикция распространяется на;1;7;to
+Q74054;Hsinchu County;место рождения;1;21;to
+Q74054;Hsinchu County;место смерти;1;1;to
+Q74054;Hsinchu County;местонахождение;1;2;to
+Q74054;Hsinchu County;происходит из;1;1;to
+Q74054;Hsinchu County;место жительства;1;1;to
+Q74054;Hsinchu County;общая тема категории;1;1;to
+Q74054;Hsinchu County;является столицей;1;1;to
+Q82357;Nantou County;административно-территориальная единица;1;45;to
+Q82357;Nantou County;изображение печати/эмблемы;1;1;from
+Q82357;Nantou County;государство;1;1;from
+Q82357;Nantou County;законодательный орган;1;1;from
+Q82357;Nantou County;исполнительная власть;1;1;from
+Q82357;Nantou County;карта местонахождения;1;1;from
+Q82357;Nantou County;это частный случай понятия;1;1;from
+Q82357;Nantou County;официальный сайт;1;1;from
+Q82357;Nantou County;баннер Викигида;1;1;from
+Q74054;Hsinchu County;категория объединяет темы;1;6;to
+Q133865;Changhua County;изображение флага;1;1;from
+Q133865;Changhua County;глава правительства;1;19;from
+Q133865;Changhua County;изображение герба;1;1;from
+Q133865;Changhua County;численность населения;1;3;from
+Q133865;Changhua County;должность главы правительства;1;1;from
+Q133865;Changhua County;код GeoNames;1;1;from
+Q133865;Changhua County;площадь;1;1;from
+Q133865;Changhua County;коллаж;1;1;from
+Q133865;Changhua County;используемый язык;1;1;from
+Q133865;Changhua County;ISO 3166-2;1;1;from
+Q133865;Changhua County;категория на Викискладе;1;1;from
+Q133865;Changhua County;ID отношения в OpenStreetMap;1;1;from
+Q133865;Changhua County;код административного деления Тайваня;1;1;from
+Q133865;Changhua County;географические координаты;1;1;from
+Q133865;Changhua County;код Freebase;1;1;from
+Q133865;Changhua County;Who's on First ID;1;1;from
+Q133865;Changhua County;имеет границы с;1;3;to
+Q133865;Changhua County;столица;1;1;from
+Q82357;Nantou County;dmoz;1;1;from
+Q133865;Changhua County;это частный случай понятия;1;1;from
+Q82357;Nantou County;место рождения;1;24;to
+Q82357;Nantou County;юрисдикция распространяется на;1;7;to
+Q82357;Nantou County;пункт назначения;1;1;to
+Q82357;Nantou County;начало пути;1;1;to
+Q82357;Nantou County;категория объединяет темы;1;10;to
+Q82357;Nantou County;происходит из;1;5;to
+Q82357;Nantou County;часть от;1;1;to
+Q82357;Nantou County;является столицей;1;1;to
+Q82357;Nantou County;общая тема категории;1;1;to
+Q82357;Nantou County;административно делится на;1;1;to
+Q133865;Changhua County;административно-территориальная единица;1;52;to
+Q133865;Changhua County;государство;1;1;from
+Q133865;Changhua County;изображение;1;1;from
+Q133865;Changhua County;законодательный орган;1;1;from
+Q133865;Changhua County;карта местонахождения;1;1;from
+Q74054;Hsinchu County;расположение штаб-квартиры;1;2;to
+Q74054;Hsinchu County;dmoz;1;1;from
+Q133865;Changhua County;официальный сайт;1;1;from
+Q63706;Miaoli County;ISO 3166-2;1;1;from
+Q63706;Miaoli County;категория на Викискладе;1;1;from
+Q63706;Miaoli County;ID отношения в OpenStreetMap;1;1;from
+Q63706;Miaoli County;код административного деления Тайваня;1;1;from
+Q63706;Miaoli County;географические координаты;1;1;from
+Q63706;Miaoli County;код Freebase;1;1;from
+Q63706;Miaoli County;Who's on First ID;1;1;from
+Q63706;Miaoli County;категория карт на Викискладе;1;1;from
+Q63706;Miaoli County;официальный сайт;1;3;from
+Q63706;Miaoli County;основная категория по теме;1;1;from
+Q63706;Miaoli County;галерея на Викискладе;1;1;from
+Q63706;Miaoli County;баннер Викигида;1;1;from
+Q63706;Miaoli County;место в MusicBrainz;1;1;from
+Q63706;Miaoli County;категория объединяет темы;1;7;to
+Q63706;Miaoli County;место рождения;1;15;to
+Q63706;Miaoli County;юрисдикция распространяется на;1;7;to
+Q63706;Miaoli County;код темы Quora;1;1;from
+Q63706;Miaoli County;используемый язык;1;3;from
+Q63706;Miaoli County;является столицей;1;1;to
+Q63706;Miaoli County;коллаж;1;1;from
+Q63706;Miaoli County;государство;1;1;from
+Q63706;Miaoli County;изображение;1;1;from
+Q63706;Miaoli County;город-побратим;1;1;to
+Q63706;Miaoli County;законодательный орган;1;1;from
+Q63706;Miaoli County;карта местонахождения;1;1;from
+Q63706;Miaoli County;это частный случай понятия;1;2;from
+Q63706;Miaoli County;столица;1;1;from
+Q63706;Miaoli County;изображение флага;1;1;from
+Q63706;Miaoli County;имеет границы с;1;1;to
+Q63706;Miaoli County;глава правительства;1;1;from
+Q63706;Miaoli County;численность населения;1;3;from
+Q63706;Miaoli County;должность главы правительства;1;1;from
+Q63706;Miaoli County;код GeoNames;1;1;from
+Q63706;Miaoli County;площадь;1;1;from
+Q63706;Miaoli County;код BNF;1;1;from
+Q63706;Miaoli County;местонахождение;1;3;to
+Q63706;Miaoli County;расположение штаб-квартиры;1;1;to
+Q74054;Hsinchu County;место в MusicBrainz;1;1;from
+Q74054;Hsinchu County;код в энциклопедии «Британника онлайн»;1;1;from
+Q74054;Hsinchu County;категория для людей, связанных с местностью;1;1;from
+Q74054;Hsinchu County;площадь;1;1;from
+Q74054;Hsinchu County;коллаж;1;1;from
+Q74054;Hsinchu County;используемый язык;1;1;from
+Q74054;Hsinchu County;ISO 3166-2;1;1;from
+Q74054;Hsinchu County;категория на Викискладе;1;1;from
+Q74054;Hsinchu County;ID отношения в OpenStreetMap;1;1;from
+Q74054;Hsinchu County;код административного деления Тайваня;1;1;from
+Q74054;Hsinchu County;географические координаты;1;1;from
+Q74054;Hsinchu County;код Freebase;1;1;from
+Q74054;Hsinchu County;Who's on First ID;1;1;from
+Q74054;Hsinchu County;категория карт на Викискладе;1;1;from
+Q74054;Hsinchu County;официальный сайт;1;3;from
+Q74054;Hsinchu County;основная категория по теме;1;1;from
+Q74054;Hsinchu County;баннер Викигида;1;1;from
+Q74054;Hsinchu County;код GeoNames;1;1;from
+Q74054;Hsinchu County;должность главы правительства;1;1;from
+Q63706;Miaoli County;происходит из;1;3;to
+Q74054;Hsinchu County;численность населения;1;3;from
+Q63706;Miaoli County;общая тема категории;1;1;to
+Q74054;Hsinchu County;административно-территориальная единица;1;58;to
+Q74054;Hsinchu County;административно делится на;1;1;to
+Q74054;Hsinchu County;изображение печати/эмблемы;1;1;from
+Q74054;Hsinchu County;государство;1;1;from
+Q74054;Hsinchu County;изображение;1;1;from
+Q74054;Hsinchu County;законодательный орган;1;1;from
+Q74054;Hsinchu County;исполнительная власть;1;1;from
+Q74054;Hsinchu County;карта местонахождения;1;1;from
+Q74054;Hsinchu County;код LCNAF;1;1;from
+Q74054;Hsinchu County;это частный случай понятия;1;2;from
+Q74054;Hsinchu County;столица;1;1;from
+Q74054;Hsinchu County;изображение флага;1;1;from
+Q74054;Hsinchu County;имеет границы с;1;1;to
+Q74054;Hsinchu County;глава правительства;1;35;from
+Q133865;Changhua County;категория карт на Викискладе;1;1;from
+Q133865;Changhua County;основная категория по теме;1;1;from
+Q198525;Penghu County;карта местонахождения;1;1;from
+Q166977;Chiayi County;административно делится на;1;1;to
+Q194989;Pingtung County;изображение печати/эмблемы;1;1;from
+Q194989;Pingtung County;государство;1;1;from
+Q194989;Pingtung County;изображение;1;1;from
+Q194989;Pingtung County;законодательный орган;1;1;from
+Q194989;Pingtung County;находится на берегу водоёма;1;1;from
+Q194989;Pingtung County;карта местонахождения;1;1;from
+Q194989;Pingtung County;это частный случай понятия;1;2;from
+Q194989;Pingtung County;столица;1;1;from
+Q194989;Pingtung County;изображение флага;1;1;from
+Q194989;Pingtung County;имеет границы с;1;2;to
+Q194989;Pingtung County;глава правительства;1;1;from
+Q194989;Pingtung County;численность населения;1;4;from
+Q194989;Pingtung County;WOEID;1;1;from
+Q194989;Pingtung County;должность главы правительства;1;1;from
+Q194989;Pingtung County;код в энциклопедии «Британника онлайн»;1;1;from
+Q194989;Pingtung County;административно-территориальная единица;1;95;to
+Q166977;Chiayi County;общая тема категории;1;1;to
+Q194989;Pingtung County;категория для людей, связанных с местностью;1;1;from
+Q166977;Chiayi County;происходит из;1;2;to
+Q166977;Chiayi County;код Freebase;1;1;from
+Q166977;Chiayi County;Who's on First ID;1;1;from
+Q166977;Chiayi County;категория карт на Викискладе;1;1;from
+Q166977;Chiayi County;официальный сайт;1;2;from
+Q166977;Chiayi County;основная категория по теме;1;1;from
+Q166977;Chiayi County;баннер Викигида;1;1;from
+Q166977;Chiayi County;место в MusicBrainz;1;1;from
+Q166977;Chiayi County;dmoz;1;1;from
+Q166977;Chiayi County;местонахождение;1;2;to
+Q166977;Chiayi County;юрисдикция распространяется на;1;7;to
+Q166977;Chiayi County;место рождения;1;30;to
+Q166977;Chiayi County;категория объединяет темы;1;4;to
+Q166977;Chiayi County;анклав в;1;1;to
+Q166977;Chiayi County;является столицей;1;1;to
+Q166977;Chiayi County;место смерти;1;1;to
+Q194989;Pingtung County;код GeoNames;1;1;from
+Q194989;Pingtung County;не путать с;1;1;to
+Q166977;Chiayi County;код административного деления Тайваня;1;1;from
+Q194989;Pingtung County;место рождения;1;45;to
+Q194989;Pingtung County;пункт назначения;1;1;to
+Q194989;Pingtung County;начало пути;1;1;to
+Q194989;Pingtung County;категория объединяет темы;1;7;to
+Q194989;Pingtung County;расположение конечной точки;1;1;to
+Q194989;Pingtung County;является столицей;1;1;to
+Q194989;Pingtung County;происходит из;1;2;to
+Q194989;Pingtung County;общая тема категории;1;1;to
+Q194989;Pingtung County;административно делится на;1;1;to
+Q198525;Penghu County;административно-территориальная единица;1;43;to
+Q198525;Penghu County;административно делится на;1;1;to
+Q198525;Penghu County;государство;1;1;from
+Q198525;Penghu County;изображение;1;1;from
+Q198525;Penghu County;город-побратим;1;1;to
+Q198525;Penghu County;законодательный орган;1;1;from
+Q198525;Penghu County;исполнительная власть;1;1;from
+Q194989;Pingtung County;местонахождение;1;4;to
+Q194989;Pingtung County;юрисдикция распространяется на;1;7;to
+Q194989;Pingtung County;площадь;1;1;from
+Q194989;Pingtung County;место в MusicBrainz;1;1;from
+Q194989;Pingtung County;коллаж;1;1;from
+Q194989;Pingtung County;используемый язык;1;2;from
+Q194989;Pingtung County;ISO 3166-2;1;1;from
+Q194989;Pingtung County;код темы Quora;1;1;from
+Q194989;Pingtung County;категория на Викискладе;1;1;from
+Q194989;Pingtung County;ID отношения в OpenStreetMap;1;1;from
+Q194989;Pingtung County;код административного деления Тайваня;1;1;from
+Q194989;Pingtung County;географические координаты;1;1;from
+Q194989;Pingtung County;код Freebase;1;1;from
+Q194989;Pingtung County;Who's on First ID;1;1;from
+Q194989;Pingtung County;категория карт на Викискладе;1;1;from
+Q194989;Pingtung County;официальный сайт;1;1;from
+Q194989;Pingtung County;основная категория по теме;1;1;from
+Q194989;Pingtung County;галерея на Викискладе;1;1;from
+Q194989;Pingtung County;баннер Викигида;1;1;from
+Q166977;Chiayi County;географические координаты;1;1;from
+Q166977;Chiayi County;ID отношения в OpenStreetMap;1;1;from
+Q133865;Changhua County;баннер Викигида;1;1;from
+Q153221;Yunlin County;исполнительная власть;1;1;from
+Q153221;Yunlin County;это частный случай понятия;1;2;from
+Q153221;Yunlin County;столица;1;1;from
+Q153221;Yunlin County;изображение флага;1;1;from
+Q153221;Yunlin County;имеет границы с;1;2;to
+Q153221;Yunlin County;глава правительства;1;1;from
+Q153221;Yunlin County;изображение герба;1;1;from
+Q153221;Yunlin County;численность населения;1;3;from
+Q153221;Yunlin County;должность главы правительства;1;1;from
+Q153221;Yunlin County;код в энциклопедии «Британника онлайн»;1;1;from
+Q153221;Yunlin County;основной шаблон по теме;1;1;from
+Q153221;Yunlin County;код GeoNames;1;1;from
+Q153221;Yunlin County;площадь;1;1;from
+Q153221;Yunlin County;коллаж;1;1;from
+Q153221;Yunlin County;ISO 3166-2;1;1;from
+Q153221;Yunlin County;код темы Quora;1;1;from
+Q153221;Yunlin County;карта местонахождения;1;1;from
+Q153221;Yunlin County;законодательный орган;1;1;from
+Q153221;Yunlin County;ID отношения в OpenStreetMap;1;1;from
+Q153221;Yunlin County;изображение;1;1;from
+Q133865;Changhua County;место в MusicBrainz;1;1;from
+Q133865;Changhua County;dmoz;1;1;from
+Q133865;Changhua County;местонахождение;1;3;to
+Q133865;Changhua County;юрисдикция распространяется на;1;8;to
+Q133865;Changhua County;место рождения;1;51;to
+Q133865;Changhua County;категория объединяет темы;1;5;to
+Q133865;Changhua County;является столицей;1;1;to
+Q133865;Changhua County;расположение штаб-квартиры;1;1;to
+Q133865;Changhua County;заменён на;1;1;to
+Q133865;Changhua County;происходит из;1;1;to
+Q133865;Changhua County;общая тема категории;1;1;to
+Q133865;Changhua County;владельцем является;1;1;to
+Q133865;Changhua County;административно делится на;1;1;to
+Q153221;Yunlin County;административно-территориальная единица;1;46;to
+Q153221;Yunlin County;государство;1;1;from
+Q153221;Yunlin County;категория на Викискладе;1;1;from
+Q153221;Yunlin County;код административного деления Тайваня;1;1;from
+Q166977;Chiayi County;категория на Викискладе;1;1;from
+Q166977;Chiayi County;законодательный орган;1;1;from
+Q166977;Chiayi County;это частный случай понятия;1;2;from
+Q166977;Chiayi County;столица;1;1;from
+Q166977;Chiayi County;изображение флага;1;1;from
+Q166977;Chiayi County;имеет границы с;1;3;to
+Q166977;Chiayi County;глава правительства;1;1;from
+Q166977;Chiayi County;изображение герба;1;1;from
+Q166977;Chiayi County;численность населения;1;3;from
+Q166977;Chiayi County;должность главы правительства;1;1;from
+Q166977;Chiayi County;код в энциклопедии «Британника онлайн»;1;1;from
+Q166977;Chiayi County;код GeoNames;1;1;from
+Q166977;Chiayi County;площадь;1;1;from
+Q166977;Chiayi County;коллаж;1;1;from
+Q166977;Chiayi County;используемый язык;1;2;from
+Q166977;Chiayi County;ISO 3166-2;1;1;from
+Q166977;Chiayi County;код темы Quora;1;1;from
+Q166977;Chiayi County;карта местонахождения;1;1;from
+Q166977;Chiayi County;изображение;1;1;from
+Q153221;Yunlin County;географические координаты;1;1;from
+Q166977;Chiayi County;государство;1;1;from
+Q153221;Yunlin County;код Freebase;1;1;from
+Q153221;Yunlin County;Who's on First ID;1;1;from
+Q153221;Yunlin County;категория карт на Викискладе;1;1;from
+Q153221;Yunlin County;официальный сайт;1;2;from
+Q153221;Yunlin County;основная категория по теме;1;1;from
+Q153221;Yunlin County;местонахождение;1;4;to
+Q153221;Yunlin County;категория объединяет темы;1;6;to
+Q153221;Yunlin County;место рождения;1;47;to
+Q153221;Yunlin County;юрисдикция распространяется на;1;7;to
+Q153221;Yunlin County;основная тема;1;1;to
+Q153221;Yunlin County;основная тема шаблона;1;1;to
+Q153221;Yunlin County;является столицей;1;1;to
+Q153221;Yunlin County;общая тема категории;1;1;to
+Q153221;Yunlin County;административно делится на;1;1;to
+Q166977;Chiayi County;административно-территориальная единица;1;58;to
+Q34477165;Q34477165;административно делится на;1;3;to

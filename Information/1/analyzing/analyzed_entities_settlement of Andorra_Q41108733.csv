@@ -1,0 +1,414 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q24371;L'Aldosa de Canillo;административно-территориальная единица;1;1;from
+Q24611;Nagol;код GeoNames;1;1;from
+Q24622;Llumeneres;это частный случай понятия;1;1;from
+Q24622;Llumeneres;изображение;1;2;from
+Q24622;Llumeneres;государство;1;1;from
+Q24622;Llumeneres;административно-территориальная единица;1;1;from
+Q24611;Nagol;административно делится на;1;1;to
+Q24611;Nagol;часть от;1;2;to
+Q24611;Nagol;Who's on First ID;1;1;from
+Q24611;Nagol;код Freebase;1;1;from
+Q24611;Nagol;географические координаты;1;1;from
+Q24611;Nagol;высота над уровнем моря;1;1;from
+Q24611;Nagol;код в Большой каталанской энциклопедии;1;1;from
+Q24622;Llumeneres;код в Большой каталанской энциклопедии;1;1;from
+Q24611;Nagol;это частный случай понятия;1;1;from
+Q24611;Nagol;изображение;1;2;from
+Q24611;Nagol;государство;1;1;from
+Q24611;Nagol;административно-территориальная единица;1;1;from
+Q24566;Escàs;административно делится на;1;1;to
+Q24566;Escàs;Who's on First ID;1;1;from
+Q24566;Escàs;код Freebase;1;1;from
+Q24566;Escàs;географические координаты;1;1;from
+Q24566;Escàs;высота над уровнем моря;1;1;from
+Q24566;Escàs;код GeoNames;1;1;from
+Q24622;Llumeneres;численность населения;1;2;from
+Q24622;Llumeneres;код GeoNames;1;1;from
+Q24566;Escàs;это частный случай понятия;1;1;from
+Q24625;Juberri;код тезауруса PACTOLS;1;1;from
+Q24629;Fontaneda;высота над уровнем моря;1;1;from
+Q24629;Fontaneda;код в Большой каталанской энциклопедии;1;1;from
+Q24629;Fontaneda;это частный случай понятия;1;1;from
+Q24629;Fontaneda;изображение;1;1;from
+Q24629;Fontaneda;государство;1;1;from
+Q24629;Fontaneda;административно-территориальная единица;1;1;from
+Q24625;Juberri;административно делится на;1;1;to
+Q24625;Juberri;Who's on First ID;1;1;from
+Q24625;Juberri;код Freebase;1;1;from
+Q24625;Juberri;географические координаты;1;1;from
+Q24625;Juberri;высота над уровнем моря;1;1;from
+Q24622;Llumeneres;высота над уровнем моря;1;1;from
+Q24625;Juberri;код GeoNames;1;1;from
+Q24625;Juberri;код в Большой каталанской энциклопедии;1;1;from
+Q24625;Juberri;это частный случай понятия;1;2;from
+Q24625;Juberri;государство;1;1;from
+Q24625;Juberri;административно-территориальная единица;1;1;from
+Q24622;Llumeneres;административно делится на;1;1;to
+Q24622;Llumeneres;Who's on First ID;1;1;from
+Q24622;Llumeneres;код Freebase;1;1;from
+Q24622;Llumeneres;географические координаты;1;1;from
+Q24622;Llumeneres;используемый язык;1;1;from
+Q24566;Escàs;код в Большой каталанской энциклопедии;1;1;from
+Q24566;Escàs;государство;1;1;from
+Q24554;Arinsal;расположение конечной точки;1;1;to
+Q24556;Erts;географические координаты;1;1;from
+Q24558;Pal;это частный случай понятия;1;1;from
+Q24558;Pal;изображение;1;2;from
+Q24558;Pal;государство;1;1;from
+Q24558;Pal;административно-территориальная единица;1;1;from
+Q24556;Erts;административно делится на;1;1;to
+Q24556;Erts;часть от;1;1;to
+Q24556;Erts;место жительства;1;1;to
+Q24556;Erts;расположение конечной точки;1;1;to
+Q24556;Erts;Who's on First ID;1;1;from
+Q24556;Erts;код Freebase;1;1;from
+Q24556;Erts;высота над уровнем моря;1;1;from
+Q24558;Pal;код в Большой каталанской энциклопедии;1;1;from
+Q24556;Erts;код GeoNames;1;1;from
+Q24556;Erts;код в Большой каталанской энциклопедии;1;1;from
+Q24556;Erts;это частный случай понятия;1;1;from
+Q24556;Erts;изображение;1;1;from
+Q24556;Erts;государство;1;1;from
+Q24556;Erts;административно-территориальная единица;1;1;from
+Q24554;Arinsal;административно делится на;1;1;to
+Q24554;Arinsal;место рождения;1;1;to
+Q24554;Arinsal;часть от;1;1;to
+Q24554;Arinsal;значимое место;1;1;to
+Q24558;Pal;WOEID;1;1;from
+Q24558;Pal;код GeoNames;1;1;from
+Q24566;Escàs;административно-территориальная единица;1;1;from
+Q24562;Sispony;это частный случай понятия;1;1;from
+Q24562;Sispony;административно делится на;1;1;to
+Q24562;Sispony;местонахождение;1;1;to
+Q24562;Sispony;часть от;1;2;to
+Q24562;Sispony;Who's on First ID;1;1;from
+Q24562;Sispony;код Freebase;1;1;from
+Q24562;Sispony;географические координаты;1;1;from
+Q24562;Sispony;высота над уровнем моря;1;1;from
+Q24562;Sispony;код GeoNames;1;1;from
+Q24562;Sispony;код в Большой каталанской энциклопедии;1;1;from
+Q24562;Sispony;WOEID;1;1;from
+Q24562;Sispony;изображение;1;4;from
+Q24558;Pal;высота над уровнем моря;1;1;from
+Q24562;Sispony;государство;1;1;from
+Q24562;Sispony;административно-территориальная единица;1;1;from
+Q24558;Pal;административно делится на;1;1;to
+Q24558;Pal;состоит из;1;1;to
+Q24558;Pal;часть от;1;1;to
+Q24558;Pal;баннер Викигида;1;1;from
+Q24558;Pal;Who's on First ID;1;1;from
+Q24558;Pal;код Freebase;1;1;from
+Q24558;Pal;географические координаты;1;1;from
+Q24558;Pal;категория на Викискладе;1;1;from
+Q24629;Fontaneda;географические координаты;1;1;from
+Q24629;Fontaneda;расположение конечной точки;1;2;to
+Q24629;Fontaneda;часть от;1;1;to
+Q386802;Canillo;это частный случай понятия;1;1;from
+Q1120573;Sant Julià de Lòria;государство;1;1;from
+Q1120573;Sant Julià de Lòria;административно-территориальная единица;1;2;to
+Q386802;Canillo;административно делится на;1;1;to
+Q386802;Canillo;столица;1;1;to
+Q386802;Canillo;местонахождение;1;1;to
+Q386802;Canillo;место рождения;1;1;to
+Q386802;Canillo;официальный сайт;1;1;from
+Q386802;Canillo;географические координаты;1;1;from
+Q386802;Canillo;категория на Викискладе;1;1;from
+Q386802;Canillo;является столицей;1;1;from
+Q386802;Canillo;изображение;1;1;from
+Q1120573;Sant Julià de Lòria;является столицей;1;1;from
+Q386802;Canillo;государство;1;1;from
+Q386802;Canillo;административно-территориальная единица;1;1;from
+Q24668;Aixirivall;часть от;1;1;to
+Q24668;Aixirivall;административно делится на;1;1;to
+Q24668;Aixirivall;Who's on First ID;1;1;from
+Q24668;Aixirivall;код Freebase;1;1;from
+Q24668;Aixirivall;географические координаты;1;1;from
+Q24668;Aixirivall;высота над уровнем моря;1;1;from
+Q24668;Aixirivall;код GeoNames;1;1;from
+Q24668;Aixirivall;код в Большой каталанской энциклопедии;1;1;from
+Q1120573;Sant Julià de Lòria;это частный случай понятия;1;1;from
+Q1120573;Sant Julià de Lòria;категория для людей, родившихся здесь;1;1;from
+Q24629;Fontaneda;административно делится на;1;1;to
+Q3820973;La Massana;государство;1;1;from
+Q3820973;La Massana;административно делится на;1;1;to
+Q3820973;La Massana;место рождения;1;1;to
+Q3820973;La Massana;расположение штаб-квартиры;1;1;to
+Q3820973;La Massana;официальный сайт;1;1;from
+Q3820973;La Massana;Who's on First ID;1;1;from
+Q3820973;La Massana;географические координаты;1;2;from
+Q3820973;La Massana;высота над уровнем моря;1;2;from
+Q3820973;La Massana;код GeoNames;1;1;from
+Q3820973;La Massana;является столицей;1;1;from
+Q3820973;La Massana;это частный случай понятия;1;1;from
+Q3820973;La Massana;административно-территориальная единица;1;1;from
+Q1120573;Sant Julià de Lòria;код GeoNames;1;1;from
+Q1120573;Sant Julià de Lòria;административно делится на;1;1;to
+Q1120573;Sant Julià de Lòria;столица;1;1;to
+Q1120573;Sant Julià de Lòria;категория объединяет темы;1;2;to
+Q1120573;Sant Julià de Lòria;общая тема категории;1;1;to
+Q1120573;Sant Julià de Lòria;основная категория по теме;1;1;from
+Q1120573;Sant Julià de Lòria;Who's on First ID;1;1;from
+Q1120573;Sant Julià de Lòria;географические координаты;1;2;from
+Q1120573;Sant Julià de Lòria;высота над уровнем моря;1;1;from
+Q1120573;Sant Julià de Lòria;категория для людей, связанных с местностью;1;1;from
+Q1120573;Sant Julià de Lòria;код TGN;1;1;from
+Q24668;Aixirivall;это частный случай понятия;1;1;from
+Q24668;Aixirivall;изображение;1;1;from
+Q24668;Aixirivall;государство;1;1;from
+Q24641;Bixessarri;административно-территориальная единица;1;1;from
+Q24641;Bixessarri;часть от;1;1;to
+Q24641;Bixessarri;Who's on First ID;1;1;from
+Q24641;Bixessarri;код Freebase;1;1;from
+Q24641;Bixessarri;географические координаты;1;1;from
+Q24641;Bixessarri;высота над уровнем моря;1;1;from
+Q24641;Bixessarri;код GeoNames;1;1;from
+Q24641;Bixessarri;код в Большой каталанской энциклопедии;1;1;from
+Q24641;Bixessarri;это частный случай понятия;1;1;from
+Q24641;Bixessarri;изображение;1;2;from
+Q24641;Bixessarri;государство;1;1;from
+Q24630;Certers;административно делится на;1;1;to
+Q24668;Aixirivall;административно-территориальная единица;1;1;from
+Q24630;Certers;расположение конечной точки;1;1;to
+Q24630;Certers;Who's on First ID;1;1;from
+Q24630;Certers;код Freebase;1;1;from
+Q24630;Certers;географические координаты;1;1;from
+Q24630;Certers;высота над уровнем моря;1;1;from
+Q24630;Certers;код GeoNames;1;1;from
+Q24630;Certers;код в Большой каталанской энциклопедии;1;1;from
+Q24630;Certers;это частный случай понятия;1;1;from
+Q24630;Certers;государство;1;1;from
+Q24630;Certers;административно-территориальная единица;1;1;from
+Q24641;Bixessarri;административно делится на;1;1;to
+Q24650;Aubinyà;административно-территориальная единица;1;1;from
+Q24650;Aubinyà;государство;1;1;from
+Q24650;Aubinyà;изображение;1;1;from
+Q24656;Aixovall;административно делится на;1;1;to
+Q24656;Aixovall;расположение конечной точки;1;1;to
+Q24656;Aixovall;Who's on First ID;1;1;from
+Q24656;Aixovall;код Freebase;1;1;from
+Q24656;Aixovall;географические координаты;1;1;from
+Q24656;Aixovall;высота над уровнем моря;1;1;from
+Q24656;Aixovall;код GeoNames;1;1;from
+Q24656;Aixovall;код в Большой каталанской энциклопедии;1;1;from
+Q24656;Aixovall;это частный случай понятия;1;1;from
+Q24656;Aixovall;изображение;1;1;from
+Q24656;Aixovall;государство;1;1;from
+Q24656;Aixovall;административно-территориальная единица;1;2;to
+Q24650;Aubinyà;административно делится на;1;1;to
+Q24650;Aubinyà;местонахождение;1;1;to
+Q24650;Aubinyà;Who's on First ID;1;1;from
+Q24650;Aubinyà;код Freebase;1;1;from
+Q24650;Aubinyà;географические координаты;1;1;from
+Q24650;Aubinyà;высота над уровнем моря;1;1;from
+Q24650;Aubinyà;код GeoNames;1;1;from
+Q24650;Aubinyà;код в Большой каталанской энциклопедии;1;1;from
+Q24650;Aubinyà;это частный случай понятия;1;1;from
+Q24554;Arinsal;местонахождение;1;2;to
+Q24554;Arinsal;dmoz;1;1;from
+Q24371;L'Aldosa de Canillo;государство;1;1;from
+Q24411;El Vilar;Who's on First ID;1;1;from
+Q24415;Prats;географические координаты;1;1;from
+Q24415;Prats;почтовый индекс;1;1;from
+Q24415;Prats;высота над уровнем моря;1;1;from
+Q24415;Prats;код в Большой каталанской энциклопедии;1;1;from
+Q24415;Prats;WOEID;1;1;from
+Q24415;Prats;это частный случай понятия;1;1;from
+Q24415;Prats;изображение;1;1;from
+Q24415;Prats;государство;1;1;from
+Q24415;Prats;административно-территориальная единица;1;1;from
+Q24411;El Vilar;административно делится на;1;1;to
+Q24411;El Vilar;код Freebase;1;1;from
+Q24415;Prats;Who's on First ID;1;1;from
+Q24411;El Vilar;географические координаты;1;1;from
+Q24411;El Vilar;высота над уровнем моря;1;1;from
+Q24411;El Vilar;код GeoNames;1;1;from
+Q24411;El Vilar;код в Большой каталанской энциклопедии;1;1;from
+Q24411;El Vilar;это частный случай понятия;1;1;from
+Q24411;El Vilar;государство;1;1;from
+Q24411;El Vilar;административно-территориальная единица;1;1;from
+Q24392;Ransol;административно делится на;1;1;to
+Q24392;Ransol;Who's on First ID;1;1;from
+Q24392;Ransol;код Freebase;1;1;from
+Q24415;Prats;код Freebase;1;1;from
+Q24415;Prats;часть от;1;2;to
+Q24392;Ransol;категория на Викискладе;1;1;from
+Q24459;Vila;код в Большой каталанской энциклопедии;1;1;from
+Q24475;Ansalonga;государство;1;1;from
+Q24475;Ansalonga;административно-территориальная единица;1;1;from
+Q24459;Vila;административно делится на;1;1;to
+Q24459;Vila;часть от;1;1;to
+Q24459;Vila;Who's on First ID;1;1;from
+Q24459;Vila;код Freebase;1;1;from
+Q24459;Vila;географические координаты;1;1;from
+Q24459;Vila;почтовый индекс;1;1;from
+Q24459;Vila;высота над уровнем моря;1;1;from
+Q24459;Vila;код GeoNames;1;1;from
+Q24459;Vila;это частный случай понятия;1;1;from
+Q24415;Prats;административно делится на;1;1;to
+Q24459;Vila;изображение;1;1;from
+Q24459;Vila;государство;1;1;from
+Q24459;Vila;административно-территориальная единица;1;1;from
+Q24417;Els Plans;административно делится на;1;1;to
+Q24417;Els Plans;географические координаты;1;1;from
+Q24417;Els Plans;высота над уровнем моря;1;1;from
+Q24417;Els Plans;код в Большой каталанской энциклопедии;1;1;from
+Q24417;Els Plans;это частный случай понятия;1;1;from
+Q24417;Els Plans;государство;1;1;from
+Q24417;Els Plans;административно-территориальная единица;1;1;from
+Q24392;Ransol;географические координаты;1;1;from
+Q24392;Ransol;почтовый индекс;1;1;from
+Q24554;Arinsal;баннер Викигида;1;1;from
+Q24379;El Forn;государство;1;1;from
+Q24388;Incles;изображение;1;1;from
+Q24388;Incles;государство;1;1;from
+Q24388;Incles;административно-территориальная единица;1;1;from
+Q24379;El Forn;административно делится на;1;1;to
+Q24379;El Forn;код Freebase;1;1;from
+Q24379;El Forn;географические координаты;1;1;from
+Q24379;El Forn;почтовый индекс;1;1;from
+Q24379;El Forn;код GeoNames;1;1;from
+Q24379;El Forn;код в Большой каталанской энциклопедии;1;1;from
+Q24379;El Forn;это частный случай понятия;1;1;from
+Q24379;El Forn;административно-территориальная единица;1;1;from
+Q24388;Incles;код в Большой каталанской энциклопедии;1;1;from
+Q24371;L'Aldosa de Canillo;административно делится на;1;1;to
+Q24371;L'Aldosa de Canillo;Who's on First ID;1;1;from
+Q24371;L'Aldosa de Canillo;код Freebase;1;1;from
+Q24371;L'Aldosa de Canillo;географические координаты;1;1;from
+Q24371;L'Aldosa de Canillo;почтовый индекс;1;1;from
+Q24371;L'Aldosa de Canillo;высота над уровнем моря;1;1;from
+Q24371;L'Aldosa de Canillo;код GeoNames;1;1;from
+Q24371;L'Aldosa de Canillo;код в Большой каталанской энциклопедии;1;1;from
+Q24371;L'Aldosa de Canillo;это частный случай понятия;1;1;from
+Q24371;L'Aldosa de Canillo;изображение;1;1;from
+Q24388;Incles;это частный случай понятия;1;1;from
+Q24388;Incles;код GeoNames;1;1;from
+Q24392;Ransol;высота над уровнем моря;1;1;from
+Q24390;Meritxell;высота над уровнем моря;1;1;from
+Q24392;Ransol;код GeoNames;1;1;from
+Q24392;Ransol;код в Большой каталанской энциклопедии;1;1;from
+Q24392;Ransol;это частный случай понятия;1;1;from
+Q24392;Ransol;изображение;1;1;from
+Q24392;Ransol;государство;1;1;from
+Q24392;Ransol;административно-территориальная единица;1;1;from
+Q24390;Meritxell;административно делится на;1;1;to
+Q24390;Meritxell;часть от;1;2;to
+Q24390;Meritxell;Who's on First ID;1;1;from
+Q24390;Meritxell;географические координаты;1;1;from
+Q24390;Meritxell;код GeoNames;1;1;from
+Q24388;Incles;почтовый индекс;1;1;from
+Q24390;Meritxell;код в Большой каталанской энциклопедии;1;1;from
+Q24390;Meritxell;это частный случай понятия;1;1;from
+Q24390;Meritxell;изображение;1;2;from
+Q24390;Meritxell;государство;1;1;from
+Q24390;Meritxell;административно-территориальная единица;1;1;from
+Q24388;Incles;административно делится на;1;1;to
+Q24388;Incles;место рождения;1;1;to
+Q24388;Incles;Who's on First ID;1;1;from
+Q24388;Incles;код Freebase;1;1;from
+Q24388;Incles;географические координаты;1;1;from
+Q24475;Ansalonga;изображение;1;1;from
+Q24475;Ansalonga;это частный случай понятия;1;1;from
+Q24475;Ansalonga;WOEID;1;1;from
+Q24499;Segudet;Who's on First ID;1;1;from
+Q24540;L'Aldosa de la Massana;код Freebase;1;1;from
+Q24540;L'Aldosa de la Massana;географические координаты;1;1;from
+Q24540;L'Aldosa de la Massana;высота над уровнем моря;1;1;from
+Q24540;L'Aldosa de la Massana;код в Большой каталанской энциклопедии;1;1;from
+Q24540;L'Aldosa de la Massana;это частный случай понятия;1;1;from
+Q24540;L'Aldosa de la Massana;изображение;1;1;from
+Q24540;L'Aldosa de la Massana;государство;1;1;from
+Q24540;L'Aldosa de la Massana;административно-территориальная единица;1;1;from
+Q24499;Segudet;административно делится на;1;1;to
+Q24499;Segudet;часть от;1;1;to
+Q24499;Segudet;код Freebase;1;1;from
+Q24540;L'Aldosa de la Massana;административно делится на;1;1;to
+Q24499;Segudet;географические координаты;1;1;from
+Q24499;Segudet;почтовый индекс;1;1;from
+Q24499;Segudet;высота над уровнем моря;1;1;from
+Q24499;Segudet;код GeoNames;1;1;from
+Q24499;Segudet;код в Большой каталанской энциклопедии;1;1;from
+Q24499;Segudet;это частный случай понятия;1;1;from
+Q24499;Segudet;изображение;1;1;from
+Q24499;Segudet;государство;1;1;from
+Q24499;Segudet;административно-территориальная единица;1;1;to
+Q24495;Sornàs;административно делится на;1;1;to
+Q24540;L'Aldosa de la Massana;часть от;1;1;to
+Q24551;Anyós;административно-территориальная единица;1;1;from
+Q24475;Ansalonga;код в Большой каталанской энциклопедии;1;1;from
+Q24554;Arinsal;государство;1;1;from
+Q24554;Arinsal;Who's on First ID;1;1;from
+Q24554;Arinsal;код Freebase;1;1;from
+Q24554;Arinsal;географические координаты;1;1;from
+Q24554;Arinsal;категория на Викискладе;1;1;from
+Q24554;Arinsal;высота над уровнем моря;1;1;from
+Q24554;Arinsal;код GeoNames;1;1;from
+Q24554;Arinsal;код в Большой каталанской энциклопедии;1;1;from
+Q24554;Arinsal;WOEID;1;1;from
+Q24554;Arinsal;это частный случай понятия;1;1;from
+Q24554;Arinsal;изображение;1;2;from
+Q24554;Arinsal;административно-территориальная единица;1;3;to
+Q24551;Anyós;государство;1;1;from
+Q24551;Anyós;административно делится на;1;1;to
+Q24551;Anyós;часть от;1;1;to
+Q24551;Anyós;Who's on First ID;1;1;from
+Q24551;Anyós;код Freebase;1;1;from
+Q24551;Anyós;географические координаты;1;1;from
+Q24551;Anyós;высота над уровнем моря;1;1;from
+Q24551;Anyós;код GeoNames;1;1;from
+Q24551;Anyós;код в Большой каталанской энциклопедии;1;1;from
+Q24551;Anyós;это частный случай понятия;1;1;from
+Q24551;Anyós;изображение;1;4;from
+Q24495;Sornàs;начало пути;1;2;to
+Q24495;Sornàs;часть от;1;1;to
+Q24495;Sornàs;Who's on First ID;1;1;from
+Q24478;Arans;это частный случай понятия;1;1;from
+Q24486;La Cortinada;государство;1;1;from
+Q24486;La Cortinada;административно-территориальная единица;1;4;to
+Q24478;Arans;административно делится на;1;1;to
+Q24478;Arans;Who's on First ID;1;1;from
+Q24478;Arans;код Freebase;1;1;from
+Q24478;Arans;географические координаты;1;1;from
+Q24478;Arans;почтовый индекс;1;1;from
+Q24478;Arans;высота над уровнем моря;1;1;from
+Q24478;Arans;код GeoNames;1;1;from
+Q24478;Arans;код в Большой каталанской энциклопедии;1;1;from
+Q24478;Arans;государство;1;1;from
+Q24495;Sornàs;код Freebase;1;1;from
+Q24478;Arans;административно-территориальная единица;1;1;from
+Q24475;Ansalonga;административно делится на;1;1;to
+Q24475;Ansalonga;часть от;1;1;to
+Q24475;Ansalonga;Who's on First ID;1;1;from
+Q24475;Ansalonga;код Freebase;1;1;from
+Q24475;Ansalonga;географические координаты;1;1;from
+Q24475;Ansalonga;категория на Викискладе;1;1;from
+Q24475;Ansalonga;почтовый индекс;1;1;from
+Q24475;Ansalonga;высота над уровнем моря;1;1;from
+Q24475;Ansalonga;код GeoNames;1;1;from
+Q24486;La Cortinada;изображение;1;2;from
+Q24486;La Cortinada;это частный случай понятия;1;1;from
+Q24486;La Cortinada;численность населения;1;2;from
+Q24486;La Cortinada;WOEID;1;1;from
+Q24495;Sornàs;географические координаты;1;1;from
+Q24495;Sornàs;почтовый индекс;1;1;from
+Q24495;Sornàs;высота над уровнем моря;1;1;from
+Q24495;Sornàs;код GeoNames;1;1;from
+Q24495;Sornàs;код в Большой каталанской энциклопедии;1;1;from
+Q24495;Sornàs;это частный случай понятия;1;1;from
+Q24495;Sornàs;изображение;1;1;from
+Q24495;Sornàs;государство;1;1;from
+Q24495;Sornàs;административно-территориальная единица;1;1;from
+Q24486;La Cortinada;административно делится на;1;1;to
+Q24486;La Cortinada;часть от;1;2;to
+Q24486;La Cortinada;место рождения;1;1;to
+Q24486;La Cortinada;Who's on First ID;1;1;from
+Q24486;La Cortinada;код Freebase;1;1;from
+Q24486;La Cortinada;географические координаты;1;1;from
+Q24486;La Cortinada;идентификатор местоположения ArchINFORM;1;1;from
+Q24486;La Cortinada;категория на Викискладе;1;1;from
+Q24486;La Cortinada;почтовый индекс;1;1;from
+Q24486;La Cortinada;высота над уровнем моря;1;1;from
+Q24486;La Cortinada;код GeoNames;1;1;from
+Q24486;La Cortinada;код в Большой каталанской энциклопедии;1;1;from
+Q3820973;La Massana;столица;1;1;to

@@ -1,0 +1,2422 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix data: <https://www.wikidata.org/wiki/Special:EntityData/> .
+@prefix s: <http://www.wikidata.org/entity/statement/> .
+@prefix ref: <http://www.wikidata.org/reference/> .
+@prefix v: <http://www.wikidata.org/value/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wdtn: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix ps: <http://www.wikidata.org/prop/statement/> .
+@prefix psv: <http://www.wikidata.org/prop/statement/value/> .
+@prefix psn: <http://www.wikidata.org/prop/statement/value-normalized/> .
+@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
+@prefix pqv: <http://www.wikidata.org/prop/qualifier/value/> .
+@prefix pqn: <http://www.wikidata.org/prop/qualifier/value-normalized/> .
+@prefix pr: <http://www.wikidata.org/prop/reference/> .
+@prefix prv: <http://www.wikidata.org/prop/reference/value/> .
+@prefix prn: <http://www.wikidata.org/prop/reference/value-normalized/> .
+@prefix wdno: <http://www.wikidata.org/prop/novalue/> .
+
+data:Q4940 a schema:Dataset ;
+	schema:about wd:Q4940 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "783665531"^^xsd:integer ;
+	schema:dateModified "2018-11-07T04:29:31Z"^^xsd:dateTime ;
+	wikibase:statements "2"^^xsd:integer ;
+	wikibase:identifiers "0"^^xsd:integer ;
+	wikibase:sitelinks "2"^^xsd:integer .
+
+wd:Q4940 a wikibase:Item .
+
+<https://en.wikipedia.org/wiki/Macedonian_mafia> a schema:Article ;
+	schema:about wd:Q4940 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://en.wikipedia.org/> ;
+	schema:name "Macedonian mafia"@en .
+
+<https://en.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://mk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B0_%D0%BC%D0%B0%D1%84%D0%B8%D1%98%D0%B0> a schema:Article ;
+	schema:about wd:Q4940 ;
+	schema:inLanguage "mk" ;
+	schema:isPartOf <https://mk.wikipedia.org/> ;
+	schema:name "Македонска мафија"@mk .
+
+<https://mk.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+wd:Q4940 rdfs:label "Macedonian mafia"@en ;
+	skos:prefLabel "Macedonian mafia"@en ;
+	schema:name "Macedonian mafia"@en ;
+	rdfs:label "Македонска мафија"@mk ;
+	skos:prefLabel "Македонска мафија"@mk ;
+	schema:name "Македонска мафија"@mk ;
+	rdfs:label "Македонская мафия"@ru ;
+	skos:prefLabel "Македонская мафия"@ru ;
+	schema:name "Македонская мафия"@ru ;
+	rdfs:label "Mazedonische Mafia"@de ;
+	skos:prefLabel "Mazedonische Mafia"@de ;
+	schema:name "Mazedonische Mafia"@de ;
+	rdfs:label "mafia macedonia"@es ;
+	skos:prefLabel "mafia macedonia"@es ;
+	schema:name "mafia macedonia"@es ;
+	rdfs:label "Macedonian mafia"@en-ca ;
+	skos:prefLabel "Macedonian mafia"@en-ca ;
+	schema:name "Macedonian mafia"@en-ca ;
+	rdfs:label "Macedonian mafia"@en-gb ;
+	skos:prefLabel "Macedonian mafia"@en-gb ;
+	schema:name "Macedonian mafia"@en-gb ;
+	rdfs:label "Mafia macedone"@it ;
+	skos:prefLabel "Mafia macedone"@it ;
+	schema:name "Mafia macedone"@it ;
+	rdfs:label "mafia macédonienne"@fr ;
+	skos:prefLabel "mafia macédonienne"@fr ;
+	schema:name "mafia macédonienne"@fr ;
+	rdfs:label "makedona mafio"@eo ;
+	skos:prefLabel "makedona mafio"@eo ;
+	schema:name "makedona mafio"@eo ;
+	schema:description "kriminelle Organisation in und aus Mazedonien"@de,
+		"organización criminal"@es,
+		"organizzazione criminale macedone"@it,
+		"body of illegal gangs and criminal organisations operating in the Republic of Macedonia"@en,
+		"corps de gangs illégaux et les organisations criminelles"@fr,
+		"म्यासिडोनियाको गणतन्त्रका अवैध गिरोहहरू र सञ्चालित आपराधिक संस्थाहरुको शरीर"@ne ;
+	wdt:P31 wd:Q18550 ;
+	wdt:P17 wd:Q221 ;
+	p:P31 s:Q4940-b9afe457-4ee0-5571-6265-c9adc7e7e2d0 .
+
+s:Q4940-b9afe457-4ee0-5571-6265-c9adc7e7e2d0 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P31 wd:Q18550 .
+
+wd:Q4940 p:P17 s:Q4940-bc02f7a6-4dd0-f5af-c7db-da679d30d94b .
+
+s:Q4940-bc02f7a6-4dd0-f5af-c7db-da679d30d94b a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P17 wd:Q221 .
+
+wd:Q18550 a wikibase:Item ;
+	rdfs:label "Mafia"@de ;
+	skos:prefLabel "Mafia"@de ;
+	schema:name "Mafia"@de ;
+	rdfs:label "Мафия"@bg ;
+	skos:prefLabel "Мафия"@bg ;
+	schema:name "Мафия"@bg ;
+	rdfs:label "Mafia"@br ;
+	skos:prefLabel "Mafia"@br ;
+	schema:name "Mafia"@br ;
+	rdfs:label "Mafija"@bs ;
+	skos:prefLabel "Mafija"@bs ;
+	schema:name "Mafija"@bs ;
+	rdfs:label "Màfia"@ca ;
+	skos:prefLabel "Màfia"@ca ;
+	schema:name "Màfia"@ca ;
+	rdfs:label "Mafie"@cs ;
+	skos:prefLabel "Mafie"@cs ;
+	schema:name "Mafie"@cs ;
+	rdfs:label "Mafia"@da ;
+	skos:prefLabel "Mafia"@da ;
+	schema:name "Mafia"@da ;
+	rdfs:label "Mafio"@eo ;
+	skos:prefLabel "Mafio"@eo ;
+	schema:name "Mafio"@eo ;
+	rdfs:label "mafia"@es ;
+	skos:prefLabel "mafia"@es ;
+	schema:name "mafia"@es ;
+	rdfs:label "Maffia"@et ;
+	skos:prefLabel "Maffia"@et ;
+	schema:name "Maffia"@et ;
+	rdfs:label "Mafia"@eu ;
+	skos:prefLabel "Mafia"@eu ;
+	schema:name "Mafia"@eu ;
+	rdfs:label "مافیا"@fa ;
+	skos:prefLabel "مافیا"@fa ;
+	schema:name "مافیا"@fa ;
+	rdfs:label "Mafia"@fi ;
+	skos:prefLabel "Mafia"@fi ;
+	schema:name "Mafia"@fi ;
+	rdfs:label "mafia"@fr ;
+	skos:prefLabel "mafia"@fr ;
+	schema:name "mafia"@fr ;
+	rdfs:label "Maifia"@ga ;
+	skos:prefLabel "Maifia"@ga ;
+	schema:name "Maifia"@ga ;
+	rdfs:label "מאפיה"@he ;
+	skos:prefLabel "מאפיה"@he ;
+	schema:name "מאפיה"@he ;
+	rdfs:label "माफिया"@hi ;
+	skos:prefLabel "माफिया"@hi ;
+	schema:name "माफिया"@hi ;
+	rdfs:label "Mafija"@hr ;
+	skos:prefLabel "Mafija"@hr ;
+	schema:name "Mafija"@hr ;
+	rdfs:label "maffia"@hu ;
+	skos:prefLabel "maffia"@hu ;
+	schema:name "maffia"@hu ;
+	rdfs:label "Mafia"@id ;
+	skos:prefLabel "Mafia"@id ;
+	schema:name "Mafia"@id ;
+	rdfs:label "mafia"@it ;
+	skos:prefLabel "mafia"@it ;
+	schema:name "mafia"@it ;
+	rdfs:label "マフィア"@ja ;
+	skos:prefLabel "マフィア"@ja ;
+	schema:name "マフィア"@ja ;
+	rdfs:label "მაფია"@ka ;
+	skos:prefLabel "მაფია"@ka ;
+	schema:name "მაფია"@ka ;
+	rdfs:label "마피아"@ko ;
+	skos:prefLabel "마피아"@ko ;
+	schema:name "마피아"@ko ;
+	rdfs:label "Mafia"@la ;
+	skos:prefLabel "Mafia"@la ;
+	schema:name "Mafia"@la ;
+	rdfs:label "Mafija"@lt ;
+	skos:prefLabel "Mafija"@lt ;
+	schema:name "Mafija"@lt ;
+	rdfs:label "Mafija"@lv ;
+	skos:prefLabel "Mafija"@lv ;
+	schema:name "Mafija"@lv ;
+	rdfs:label "Мафија"@mk ;
+	skos:prefLabel "Мафија"@mk ;
+	schema:name "Мафија"@mk ;
+	rdfs:label "മാഫിയ"@ml ;
+	skos:prefLabel "മാഫിയ"@ml ;
+	schema:name "മാഫിയ"@ml ;
+	rdfs:label "Mafia"@ms ;
+	skos:prefLabel "Mafia"@ms ;
+	schema:name "Mafia"@ms ;
+	rdfs:label "maffia"@nl ;
+	skos:prefLabel "maffia"@nl ;
+	schema:name "maffia"@nl ;
+	rdfs:label "Mafia"@pl ;
+	skos:prefLabel "Mafia"@pl ;
+	schema:name "Mafia"@pl ;
+	rdfs:label "máfia"@pt ;
+	skos:prefLabel "máfia"@pt ;
+	schema:name "máfia"@pt ;
+	rdfs:label "Mafia"@ro ;
+	skos:prefLabel "Mafia"@ro ;
+	schema:name "Mafia"@ro ;
+	rdfs:label "мафия"@ru ;
+	skos:prefLabel "мафия"@ru ;
+	schema:name "мафия"@ru ;
+	rdfs:label "Mafia"@scn ;
+	skos:prefLabel "Mafia"@scn ;
+	schema:name "Mafia"@scn ;
+	rdfs:label "Mafia"@sk ;
+	skos:prefLabel "Mafia"@sk ;
+	schema:name "Mafia"@sk ;
+	rdfs:label "Mafija"@sl ;
+	skos:prefLabel "Mafija"@sl ;
+	schema:name "Mafija"@sl ;
+	rdfs:label "Mafia"@sq ;
+	skos:prefLabel "Mafia"@sq ;
+	schema:name "Mafia"@sq ;
+	rdfs:label "мафија"@sr ;
+	skos:prefLabel "мафија"@sr ;
+	schema:name "мафија"@sr ;
+	rdfs:label "Maffia"@sv ;
+	skos:prefLabel "Maffia"@sv ;
+	schema:name "Maffia"@sv ;
+	rdfs:label "மாஃப்பியா"@ta ;
+	skos:prefLabel "மாஃப்பியா"@ta ;
+	schema:name "மாஃப்பியா"@ta ;
+	rdfs:label "มาเฟีย"@th ;
+	skos:prefLabel "มาเฟีย"@th ;
+	schema:name "มาเฟีย"@th ;
+	rdfs:label "Mafya"@tr ;
+	skos:prefLabel "Mafya"@tr ;
+	schema:name "Mafya"@tr ;
+	rdfs:label "Мафія"@uk ;
+	skos:prefLabel "Мафія"@uk ;
+	schema:name "Мафія"@uk ;
+	rdfs:label "Mafia"@vec ;
+	skos:prefLabel "Mafia"@vec ;
+	schema:name "Mafia"@vec ;
+	rdfs:label "Mafii"@vep ;
+	skos:prefLabel "Mafii"@vep ;
+	schema:name "Mafii"@vep ;
+	rdfs:label "Mafia"@vi ;
+	skos:prefLabel "Mafia"@vi ;
+	schema:name "Mafia"@vi ;
+	rdfs:label "מאפיא"@yi ;
+	skos:prefLabel "מאפיא"@yi ;
+	schema:name "מאפיא"@yi ;
+	rdfs:label "黑手党"@zh ;
+	skos:prefLabel "黑手党"@zh ;
+	schema:name "黑手党"@zh ;
+	rdfs:label "Mafia"@en-gb ;
+	skos:prefLabel "Mafia"@en-gb ;
+	schema:name "Mafia"@en-gb ;
+	rdfs:label "Mafia"@sco ;
+	skos:prefLabel "Mafia"@sco ;
+	schema:name "Mafia"@sco ;
+	rdfs:label "Mafia"@tl ;
+	skos:prefLabel "Mafia"@tl ;
+	schema:name "Mafia"@tl ;
+	rdfs:label "Mafja"@mt ;
+	skos:prefLabel "Mafja"@mt ;
+	schema:name "Mafja"@mt ;
+	rdfs:label "Мафия"@kk ;
+	skos:prefLabel "Мафия"@kk ;
+	schema:name "Мафия"@kk ;
+	rdfs:label "Mafia"@nap ;
+	skos:prefLabel "Mafia"@nap ;
+	schema:name "Mafia"@nap ;
+	rdfs:label "Mafija"@sh ;
+	skos:prefLabel "Mafija"@sh ;
+	schema:name "Mafija"@sh ;
+	rdfs:label "mafia"@en ;
+	skos:prefLabel "mafia"@en ;
+	schema:name "mafia"@en ;
+	rdfs:label "mafia"@nb ;
+	skos:prefLabel "mafia"@nb ;
+	schema:name "mafia"@nb ;
+	rdfs:label "Mafiya"@az ;
+	skos:prefLabel "Mafiya"@az ;
+	schema:name "Mafiya"@az ;
+	rdfs:label "黑手黨"@yue ;
+	skos:prefLabel "黑手黨"@yue ;
+	schema:name "黑手黨"@yue ;
+	rdfs:label "مافيا"@ar ;
+	skos:prefLabel "مافيا"@ar ;
+	schema:name "مافيا"@ar ;
+	rdfs:label "Màfia"@oc ;
+	skos:prefLabel "Màfia"@oc ;
+	schema:name "Màfia"@oc ;
+	rdfs:label "Mafiya"@uz ;
+	skos:prefLabel "Mafiya"@uz ;
+	schema:name "Mafiya"@uz ;
+	rdfs:label "Maffia"@cy ;
+	skos:prefLabel "Maffia"@cy ;
+	schema:name "Maffia"@cy ;
+	rdfs:label "Mafia"@war ;
+	skos:prefLabel "Mafia"@war ;
+	schema:name "Mafia"@war ;
+	rdfs:label "мафія"@be-tarask ;
+	skos:prefLabel "мафія"@be-tarask ;
+	schema:name "мафія"@be-tarask ;
+	rdfs:label "Μαφία"@el ;
+	skos:prefLabel "Μαφία"@el ;
+	schema:name "Μαφία"@el ;
+	rdfs:label "Մաֆիա"@hy ;
+	skos:prefLabel "Մաֆիա"@hy ;
+	schema:name "Մաֆիա"@hy ;
+	rdfs:label "Мафия"@tg ;
+	skos:prefLabel "Мафия"@tg ;
+	schema:name "Мафия"@tg ;
+	rdfs:label "مافیا"@ur ;
+	skos:prefLabel "مافیا"@ur ;
+	schema:name "مافیا"@ur ;
+	rdfs:label "Mafio"@io ;
+	skos:prefLabel "Mafio"@io ;
+	schema:name "Mafio"@io ;
+	rdfs:label "Mafia"@sc ;
+	skos:prefLabel "Mafia"@sc ;
+	schema:name "Mafia"@sc ;
+	rdfs:label "မာဖီးယား"@my ;
+	skos:prefLabel "မာဖီးယား"@my ;
+	schema:name "မာဖီးယား"@my ;
+	rdfs:label "مافیا"@ckb ;
+	skos:prefLabel "مافیا"@ckb ;
+	schema:name "مافیا"@ckb ;
+	rdfs:label "Maffia"@fy ;
+	skos:prefLabel "Maffia"@fy ;
+	schema:name "Maffia"@fy ;
+	rdfs:label "黑手党"@wuu ;
+	skos:prefLabel "黑手党"@wuu ;
+	schema:name "黑手党"@wuu ;
+	rdfs:label "მაფია"@xmf ;
+	skos:prefLabel "მაფია"@xmf ;
+	schema:name "მაფია"@xmf ;
+	rdfs:label "Мафія"@be ;
+	skos:prefLabel "Мафія"@be ;
+	schema:name "Мафія"@be ;
+	schema:description "Verbrecherorganisation, organisierte Kriminalität"@de,
+		"전 세계적으로 최대 범죄 조직으로 널리 알려진 범죄 조직이다."@ko,
+		"tipologia di organizzazione criminale"@it,
+		"tipo de organización dedicada al crimen organizado"@es,
+		"organisation criminelle dont les activités sont soumises à une direction collégiale occulte et qui repose sur une stratégie d’infiltration de la société civile et des institutions"@fr,
+		"type of organized crime enterprise"@en,
+		"криминальная организация"@ru,
+		"teep o organisit crime enterprise"@sco,
+		"таємнича недержавна злочинна організація, здебільшого бандитська організація, яка шляхом залякування, рекету й терору втручається в політичне життя країни"@uk,
+		"tổ chức tội phạm"@vi,
+		"ארגון העוסק בפשע מאורגן"@he,
+		"таемная злачынная арганізацыя"@be-tarask,
+		"criminele organisatie"@nl,
+		"järjestäytyneen rikollisuuden muoto"@fi,
+		"form av organiserad brottslighet"@sv,
+		"عصابات"@ar .
+
+wd:P31 a wikibase:Property,
+		wikibase:Property ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P31 ;
+	wikibase:claim p:P31 ;
+	wikibase:statementProperty ps:P31 ;
+	wikibase:statementValue psv:P31 ;
+	wikibase:qualifier pq:P31 ;
+	wikibase:qualifierValue pqv:P31 ;
+	wikibase:reference pr:P31 ;
+	wikibase:referenceValue prv:P31 ;
+	wikibase:novalue wdno:P31 .
+
+p:P31 a owl:ObjectProperty .
+
+psv:P31 a owl:ObjectProperty .
+
+pqv:P31 a owl:ObjectProperty .
+
+prv:P31 a owl:ObjectProperty .
+
+wdt:P31 a owl:ObjectProperty .
+
+ps:P31 a owl:ObjectProperty .
+
+pq:P31 a owl:ObjectProperty .
+
+pr:P31 a owl:ObjectProperty .
+
+wdno:P31 a owl:Class ;
+	owl:complementOf _:3d66a9a972a16b3583effd41e5f2aff4 .
+
+_:3d66a9a972a16b3583effd41e5f2aff4 a owl:Restriction ;
+	owl:onProperty wdt:P31 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P31 rdfs:label "instance of"@en ;
+	skos:prefLabel "instance of"@en ;
+	schema:name "instance of"@en ;
+	rdfs:label "nature de l'élément"@fr ;
+	skos:prefLabel "nature de l'élément"@fr ;
+	schema:name "nature de l'élément"@fr ;
+	rdfs:label "ist ein(e)"@de ;
+	skos:prefLabel "ist ein(e)"@de ;
+	schema:name "ist ein(e)"@de ;
+	rdfs:label "istanza di"@it ;
+	skos:prefLabel "istanza di"@it ;
+	schema:name "istanza di"@it ;
+	rdfs:label "instância de"@pt-br ;
+	skos:prefLabel "instância de"@pt-br ;
+	schema:name "instância de"@pt-br ;
+	rdfs:label "estas"@eo ;
+	skos:prefLabel "estas"@eo ;
+	schema:name "estas"@eo ;
+	rdfs:label "מופע של"@he ;
+	skos:prefLabel "מופע של"@he ;
+	schema:name "מופע של"@he ;
+	rdfs:label "instancia de"@es ;
+	skos:prefLabel "instancia de"@es ;
+	schema:name "instancia de"@es ;
+	rdfs:label "esiintymä kohteesta"@fi ;
+	skos:prefLabel "esiintymä kohteesta"@fi ;
+	schema:name "esiintymä kohteesta"@fi ;
+	rdfs:label "osztály, amelynek példánya"@hu ;
+	skos:prefLabel "osztály, amelynek példánya"@hu ;
+	schema:name "osztály, amelynek példánya"@hu ;
+	rdfs:label "это частный случай понятия"@ru ;
+	skos:prefLabel "это частный случай понятия"@ru ;
+	schema:name "это частный случай понятия"@ru ;
+	rdfs:label "primjerak od"@hr ;
+	skos:prefLabel "primjerak od"@hr ;
+	schema:name "primjerak od"@hr ;
+	rdfs:label "is een"@nl ;
+	skos:prefLabel "is een"@nl ;
+	schema:name "is een"@nl ;
+	rdfs:label "είναι"@el ;
+	skos:prefLabel "είναι"@el ;
+	schema:name "είναι"@el ;
+	rdfs:label "jest to"@pl ;
+	skos:prefLabel "jest to"@pl ;
+	schema:name "jest to"@pl ;
+	rdfs:label "је"@sr ;
+	skos:prefLabel "је"@sr ;
+	schema:name "је"@sr ;
+	rdfs:label "instància de"@ca ;
+	skos:prefLabel "instància de"@ca ;
+	schema:name "instància de"@ca ;
+	rdfs:label "instance (čeho)"@cs ;
+	skos:prefLabel "instance (čeho)"@cs ;
+	schema:name "instance (čeho)"@cs ;
+	rdfs:label "forekomst av"@nb ;
+	skos:prefLabel "forekomst av"@nb ;
+	schema:name "forekomst av"@nb ;
+	rdfs:label "instância de"@pt ;
+	skos:prefLabel "instância de"@pt ;
+	schema:name "instância de"@pt ;
+	rdfs:label "pagarigan iti"@ilo ;
+	skos:prefLabel "pagarigan iti"@ilo ;
+	schema:name "pagarigan iti"@ilo ;
+	rdfs:label "primerek od"@sl ;
+	skos:prefLabel "primerek od"@sl ;
+	schema:name "primerek od"@sl ;
+	rdfs:label "гэта"@be ;
+	skos:prefLabel "гэта"@be ;
+	schema:name "гэта"@be ;
+	rdfs:label "다음 종류에 속함"@ko ;
+	skos:prefLabel "다음 종류에 속함"@ko ;
+	schema:name "다음 종류에 속함"@ko ;
+	rdfs:label "førekomst av"@nn ;
+	skos:prefLabel "førekomst av"@nn ;
+	schema:name "førekomst av"@nn ;
+	rdfs:label "là một"@vi ;
+	skos:prefLabel "là một"@vi ;
+	schema:name "là một"@vi ;
+	rdfs:label "асобны выпадак панятку"@be-tarask ;
+	skos:prefLabel "асобны выпадак панятку"@be-tarask ;
+	schema:name "асобны выпадак панятку"@be-tarask ;
+	rdfs:label "je"@bs ;
+	skos:prefLabel "je"@bs ;
+	schema:name "je"@bs ;
+	rdfs:label "เป็น"@th ;
+	skos:prefLabel "เป็น"@th ;
+	schema:name "เป็น"@th ;
+	rdfs:label "є одним із"@uk ;
+	skos:prefLabel "є одним із"@uk ;
+	schema:name "є одним із"@uk ;
+	rdfs:label "instance of"@en-gb ;
+	skos:prefLabel "instance of"@en-gb ;
+	schema:name "instance of"@en-gb ;
+	rdfs:label "instance of"@en-ca ;
+	skos:prefLabel "instance of"@en-ca ;
+	schema:name "instance of"@en-ca ;
+	rdfs:label "分類"@ja ;
+	skos:prefLabel "分類"@ja ;
+	schema:name "分類"@ja ;
+	rdfs:label "bu"@uz ;
+	skos:prefLabel "bu"@uz ;
+	schema:name "bu"@uz ;
+	rdfs:label "ir"@lv ;
+	skos:prefLabel "ir"@lv ;
+	schema:name "ir"@lv ;
+	rdfs:label "est"@la ;
+	skos:prefLabel "est"@la ;
+	schema:name "est"@la ;
+	rdfs:label "یک نمونه از"@fa ;
+	skos:prefLabel "یک نمونه از"@fa ;
+	schema:name "یک نمونه از"@fa ;
+	rdfs:label "instans av"@sv ;
+	skos:prefLabel "instans av"@sv ;
+	schema:name "instans av"@sv ;
+	rdfs:label "is en"@nds ;
+	skos:prefLabel "is en"@nds ;
+	schema:name "is en"@nds ;
+	rdfs:label "este un/o"@ro ;
+	skos:prefLabel "este un/o"@ro ;
+	schema:name "este un/o"@ro ;
+	rdfs:label "வகை"@ta ;
+	skos:prefLabel "வகை"@ta ;
+	schema:name "வகை"@ta ;
+	rdfs:label "adolah"@min ;
+	skos:prefLabel "adolah"@min ;
+	schema:name "adolah"@min ;
+	rdfs:label "adalah"@id ;
+	skos:prefLabel "adalah"@id ;
+	schema:name "adalah"@id ;
+	rdfs:label "instancia de"@gl ;
+	skos:prefLabel "instancia de"@gl ;
+	schema:name "instancia de"@gl ;
+	rdfs:label "er"@is ;
+	skos:prefLabel "er"@is ;
+	schema:name "er"@is ;
+	rdfs:label "is 'n"@af ;
+	skos:prefLabel "is 'n"@af ;
+	schema:name "is 'n"@af ;
+	rdfs:label "არის"@ka ;
+	skos:prefLabel "არის"@ka ;
+	schema:name "არის"@ka ;
+	rdfs:label "ist eine Instanz von"@de-at ;
+	skos:prefLabel "ist eine Instanz von"@de-at ;
+	schema:name "ist eine Instanz von"@de-at ;
+	rdfs:label "tilfælde af"@da ;
+	skos:prefLabel "tilfælde af"@da ;
+	schema:name "tilfælde af"@da ;
+	rdfs:label "instance o"@sco ;
+	skos:prefLabel "instance o"@sco ;
+	schema:name "instance o"@sco ;
+	rdfs:label "je"@sk ;
+	skos:prefLabel "je"@sk ;
+	schema:name "je"@sk ;
+	rdfs:label "ist eine Instanz von"@de-ch ;
+	skos:prefLabel "ist eine Instanz von"@de-ch ;
+	schema:name "ist eine Instanz von"@de-ch ;
+	rdfs:label "is a"@bar ;
+	skos:prefLabel "is a"@bar ;
+	schema:name "is a"@bar ;
+	rdfs:label "স্বরূপ"@bn ;
+	skos:prefLabel "স্বরূপ"@bn ;
+	schema:name "স্বরূপ"@bn ;
+	rdfs:label "l'è un(a)"@lmo ;
+	skos:prefLabel "l'è un(a)"@lmo ;
+	schema:name "l'è un(a)"@lmo ;
+	rdfs:label "is een"@nds-nl ;
+	skos:prefLabel "is een"@nds-nl ;
+	schema:name "is een"@nds-nl ;
+	rdfs:label "je(su)"@sh ;
+	skos:prefLabel "je(su)"@sh ;
+	schema:name "je(su)"@sh ;
+	rdfs:label "natur an elfenn"@br ;
+	skos:prefLabel "natur an elfenn"@br ;
+	schema:name "natur an elfenn"@br ;
+	rdfs:label "екземпляр на"@bg ;
+	skos:prefLabel "екземпляр на"@bg ;
+	schema:name "екземпляр на"@bg ;
+	rdfs:label "प्रकार"@mr ;
+	skos:prefLabel "प्रकार"@mr ;
+	schema:name "प्रकार"@mr ;
+	rdfs:label "نموونەیەک لە"@ckb ;
+	skos:prefLabel "نموونەیەک لە"@ckb ;
+	schema:name "نموونەیەک لە"@ckb ;
+	rdfs:label "حالة من"@ar ;
+	skos:prefLabel "حالة من"@ar ;
+	schema:name "حالة من"@ar ;
+	rdfs:label "üksikjuht nähtusest"@et ;
+	skos:prefLabel "üksikjuht nähtusest"@et ;
+	schema:name "üksikjuht nähtusest"@et ;
+	rdfs:label "est un"@pcd ;
+	skos:prefLabel "est un"@pcd ;
+	schema:name "est un"@pcd ;
+	rdfs:label "nedir"@tr ;
+	skos:prefLabel "nedir"@tr ;
+	schema:name "nedir"@tr ;
+	rdfs:label "उदहारण है"@hi ;
+	skos:prefLabel "उदहारण है"@hi ;
+	schema:name "उदहारण है"@hi ;
+	rdfs:label "је"@sr-ec ;
+	skos:prefLabel "је"@sr-ec ;
+	schema:name "је"@sr-ec ;
+	rdfs:label "istanza di"@co ;
+	skos:prefLabel "istanza di"@co ;
+	schema:name "istanza di"@co ;
+	rdfs:label "natura de l'element"@oc ;
+	skos:prefLabel "natura de l'element"@oc ;
+	schema:name "natura de l'element"@oc ;
+	rdfs:label "е"@mk ;
+	skos:prefLabel "е"@mk ;
+	schema:name "е"@mk ;
+	rdfs:label "פֿאַל"@yi ;
+	skos:prefLabel "פֿאַל"@yi ;
+	schema:name "פֿאַל"@yi ;
+	rdfs:label "性質"@zh ;
+	skos:prefLabel "性質"@zh ;
+	schema:name "性質"@zh ;
+	rdfs:label "serese mupli"@jbo ;
+	skos:prefLabel "serese mupli"@jbo ;
+	schema:name "serese mupli"@jbo ;
+	rdfs:label "ઉદાહરણ"@gu ;
+	skos:prefLabel "ઉદાહરણ"@gu ;
+	schema:name "ઉદાહરણ"@gu ;
+	rdfs:label "contoh"@ms ;
+	skos:prefLabel "contoh"@ms ;
+	schema:name "contoh"@ms ;
+	rdfs:label "ay halimbawa ng"@tl ;
+	skos:prefLabel "ay halimbawa ng"@tl ;
+	schema:name "ay halimbawa ng"@tl ;
+	rdfs:label "è in(a)"@rm ;
+	skos:prefLabel "è in(a)"@rm ;
+	schema:name "è in(a)"@rm ;
+	rdfs:label "es e Beischpell för e(n(e))"@ksh ;
+	skos:prefLabel "es e Beischpell för e(n(e))"@ksh ;
+	schema:name "es e Beischpell för e(n(e))"@ksh ;
+	rdfs:label "ass eng/e(e)(n)"@lb ;
+	skos:prefLabel "ass eng/e(e)(n)"@lb ;
+	schema:name "ass eng/e(e)(n)"@lb ;
+	rdfs:label "to je"@csb ;
+	skos:prefLabel "to je"@csb ;
+	schema:name "to je"@csb ;
+	rdfs:label "Nchumu"@ts ;
+	skos:prefLabel "Nchumu"@ts ;
+	schema:name "Nchumu"@ts ;
+	rdfs:label "isch e"@gsw ;
+	skos:prefLabel "isch e"@gsw ;
+	schema:name "isch e"@gsw ;
+	rdfs:label "دِلِوس"@mzn ;
+	skos:prefLabel "دِلِوس"@mzn ;
+	schema:name "دِلِوس"@mzn ;
+	rdfs:label "అవతారం"@te ;
+	skos:prefLabel "అవతారం"@te ;
+	schema:name "అవతారం"@te ;
+	rdfs:label "ଦୃଷ୍ଟାନ୍ତ"@or ;
+	skos:prefLabel "ଦୃଷ୍ଟାନ୍ତ"@or ;
+	schema:name "ଦୃଷ୍ଟାନ୍ତ"@or ;
+	rdfs:label "je"@sr-el ;
+	skos:prefLabel "je"@sr-el ;
+	schema:name "je"@sr-el ;
+	rdfs:label "is n(e)"@stq ;
+	skos:prefLabel "is n(e)"@stq ;
+	schema:name "is n(e)"@stq ;
+	rdfs:label "instantia de"@ia ;
+	skos:prefLabel "instantia de"@ia ;
+	schema:name "instantia de"@ia ;
+	rdfs:label "no tipo 'e"@nap ;
+	skos:prefLabel "no tipo 'e"@nap ;
+	schema:name "no tipo 'e"@nap ;
+	rdfs:label "係一個"@yue ;
+	skos:prefLabel "係一個"@yue ;
+	schema:name "係一個"@yue ;
+	rdfs:label "karazana"@mg ;
+	skos:prefLabel "karazana"@mg ;
+	schema:name "karazana"@mg ;
+	rdfs:label "esimplari di"@scn ;
+	skos:prefLabel "esimplari di"@scn ;
+	schema:name "esimplari di"@scn ;
+	rdfs:label "honako hau da"@eu ;
+	skos:prefLabel "honako hau da"@eu ;
+	schema:name "honako hau da"@eu ;
+	rdfs:label "is in"@fy ;
+	skos:prefLabel "is in"@fy ;
+	schema:name "is in"@fy ;
+	rdfs:label "തരം"@ml ;
+	skos:prefLabel "തരം"@ml ;
+	schema:name "തരം"@ml ;
+	rdfs:label "төшенчәнең аерым очрагы"@tt ;
+	skos:prefLabel "төшенчәнең аерым очрагы"@tt ;
+	schema:name "төшенчәнең аерым очрагы"@tt ;
+	rdfs:label "хӀара долара кхетам бу"@ce ;
+	skos:prefLabel "хӀара долара кхетам бу"@ce ;
+	schema:name "хӀара долара кхетам бу"@ce ;
+	rdfs:label "उदाहरण"@ne ;
+	skos:prefLabel "उदाहरण"@ne ;
+	schema:name "उदाहरण"@ne ;
+	rdfs:label "instancia de"@ast ;
+	skos:prefLabel "instancia de"@ast ;
+	schema:name "instancia de"@ast ;
+	rdfs:label "enghraifft o'r canlynol"@cy ;
+	skos:prefLabel "enghraifft o'r canlynol"@cy ;
+	schema:name "enghraifft o'r canlynol"@cy ;
+	rdfs:label "yra"@lt ;
+	skos:prefLabel "yra"@lt ;
+	schema:name "yra"@lt ;
+	rdfs:label "հասկացության մասնավոր դեպք"@hy ;
+	skos:prefLabel "հասկացության մասնավոր դեպք"@hy ;
+	schema:name "հասկացության մասնավոր դեպք"@hy ;
+	rdfs:label "उदाहरण"@mai ;
+	skos:prefLabel "उदाहरण"@mai ;
+	schema:name "उदाहरण"@mai ;
+	rdfs:label "as en"@frr ;
+	skos:prefLabel "as en"@frr ;
+	schema:name "as en"@frr ;
+	rdfs:label "er eitt"@fo ;
+	skos:prefLabel "er eitt"@fo ;
+	schema:name "er eitt"@fo ;
+	rdfs:label "ಉದಾಹರಣೆಗೆ"@kn ;
+	skos:prefLabel "ಉದಾಹರಣೆಗೆ"@kn ;
+	schema:name "ಉದಾಹರಣೆಗೆ"@kn ;
+	rdfs:label "sampla de"@ga ;
+	skos:prefLabel "sampla de"@ga ;
+	schema:name "sampla de"@ga ;
+	rdfs:label "egzanp nan"@ht ;
+	skos:prefLabel "egzanp nan"@ht ;
+	schema:name "egzanp nan"@ht ;
+	rdfs:label "esas"@io ;
+	skos:prefLabel "esas"@io ;
+	schema:name "esas"@io ;
+	rdfs:label "binon"@vo ;
+	skos:prefLabel "binon"@vo ;
+	schema:name "binon"@vo ;
+	rdfs:label "性質"@zh-hant ;
+	skos:prefLabel "性質"@zh-hant ;
+	schema:name "性質"@zh-hant ;
+	rdfs:label "性质"@zh-hans ;
+	skos:prefLabel "性质"@zh-hans ;
+	schema:name "性质"@zh-hans ;
+	rdfs:label "性質"@zh-hk ;
+	skos:prefLabel "性質"@zh-hk ;
+	schema:name "性質"@zh-hk ;
+	rdfs:label "性质"@zh-cn ;
+	skos:prefLabel "性质"@zh-cn ;
+	schema:name "性质"@zh-cn ;
+	rdfs:label "性質"@zh-mo ;
+	skos:prefLabel "性質"@zh-mo ;
+	schema:name "性質"@zh-mo ;
+	rdfs:label "性质"@zh-sg ;
+	skos:prefLabel "性质"@zh-sg ;
+	schema:name "性质"@zh-sg ;
+	rdfs:label "性質"@zh-tw ;
+	skos:prefLabel "性質"@zh-tw ;
+	schema:name "性質"@zh-tw ;
+	rdfs:label "ਕੀ ਹੈ?"@pa ;
+	skos:prefLabel "ਕੀ ਹੈ?"@pa ;
+	schema:name "ਕੀ ਹੈ?"@pa ;
+	rdfs:label "mînakek ji bo"@ku-latn ;
+	skos:prefLabel "mînakek ji bo"@ku-latn ;
+	schema:name "mînakek ji bo"@ku-latn ;
+	rdfs:label "instancë e"@sq ;
+	skos:prefLabel "instancë e"@sq ;
+	schema:name "instancë e"@sq ;
+	rdfs:label "alimbawa ning"@pam ;
+	skos:prefLabel "alimbawa ning"@pam ;
+	schema:name "alimbawa ning"@pam ;
+	rdfs:label "je"@hsb ;
+	skos:prefLabel "je"@hsb ;
+	schema:name "je"@hsb ;
+	rdfs:label "instancia de"@an ;
+	skos:prefLabel "instancia de"@an ;
+	schema:name "instancia de"@an ;
+	rdfs:label "як намуна аз"@tg ;
+	skos:prefLabel "як намуна аз"@tg ;
+	schema:name "як намуна аз"@tg ;
+	rdfs:label "классы"@ky ;
+	skos:prefLabel "классы"@ky ;
+	schema:name "классы"@ky ;
+	rdfs:label "төшөнсәнең шәхсән осрағы"@ba ;
+	skos:prefLabel "төшөнсәнең шәхсән осрағы"@ba ;
+	schema:name "төшөнсәнең шәхсән осрағы"@ba ;
+	rdfs:label "àkórí"@yo ;
+	skos:prefLabel "àkórí"@yo ;
+	schema:name "àkórí"@yo ;
+	rdfs:label "ಉದಾರ್ಮೆಗ್"@tcy ;
+	skos:prefLabel "ಉದಾರ್ಮೆಗ್"@tcy ;
+	schema:name "ಉದಾರ್ಮೆಗ್"@tcy ;
+	rdfs:label "як намуна аз"@tg-cyrl ;
+	skos:prefLabel "як намуна аз"@tg-cyrl ;
+	schema:name "як намуна аз"@tg-cyrl ;
+	rdfs:label "yak namuna az"@tg-latn ;
+	skos:prefLabel "yak namuna az"@tg-latn ;
+	schema:name "yak namuna az"@tg-latn ;
+	rdfs:label "töşençäneñ ayırım oçrağı"@tt-latn ;
+	skos:prefLabel "töşençäneñ ayırım oçrağı"@tt-latn ;
+	schema:name "töşençäneñ ayırım oçrağı"@tt-latn ;
+	rdfs:label "төшенчәнең аерым очрагы"@tt-cyrl ;
+	skos:prefLabel "төшенчәнең аерым очрагы"@tt-cyrl ;
+	schema:name "төшенчәнең аерым очрагы"@tt-cyrl ;
+	rdfs:label "anlayışın sinfi"@az ;
+	skos:prefLabel "anlayışın sinfi"@az ;
+	schema:name "anlayışın sinfi"@az ;
+	rdfs:label "قسم"@ur ;
+	skos:prefLabel "قسم"@ur ;
+	schema:name "قسم"@ur ;
+	rdfs:label "واحد من"@arz ;
+	skos:prefLabel "واحد من"@arz ;
+	schema:name "واحد من"@arz ;
+	rdfs:label "өйдөбүл сорҕото (биирдэмэ)"@sah ;
+	skos:prefLabel "өйдөбүл сорҕото (биирдэмэ)"@sah ;
+	schema:name "өйдөбүл сорҕото (биирдэмэ)"@sah ;
+	rdfs:label "व्यक्तिः कस्य जातेः?"@sa ;
+	skos:prefLabel "व्यक्तिः कस्य जातेः?"@sa ;
+	schema:name "व्यक्तिः कस्य जातेः?"@sa ;
+	rdfs:label "nateure di l’ elemint"@wa ;
+	skos:prefLabel "nateure di l’ elemint"@wa ;
+	schema:name "nateure di l’ elemint"@wa ;
+	rdfs:label "тайӧ торъя вӧвлӧмтор"@kv ;
+	skos:prefLabel "тайӧ торъя вӧвлӧмтор"@kv ;
+	schema:name "тайӧ торъя вӧвлӧмтор"@kv ;
+	rdfs:label "es"@lfn ;
+	skos:prefLabel "es"@lfn ;
+	schema:name "es"@lfn ;
+	rdfs:label "iri"@ha ;
+	skos:prefLabel "iri"@ha ;
+	schema:name "iri"@ha ;
+	rdfs:label "性质"@zh-my ;
+	skos:prefLabel "性质"@zh-my ;
+	schema:name "性质"@zh-my ;
+	rdfs:label "minangka"@jv ;
+	skos:prefLabel "minangka"@jv ;
+	schema:name "minangka"@jv ;
+	rdfs:label "د بیلګې په توګه"@ps ;
+	skos:prefLabel "د بیلګې په توګه"@ps ;
+	schema:name "د بیلګې په توګه"@ps ;
+	rdfs:label "sī chi̍t ê"@nan ;
+	skos:prefLabel "sī chi̍t ê"@nan ;
+	schema:name "sī chi̍t ê"@nan ;
+	rdfs:label "sê siŏh ciáh"@cdo ;
+	skos:prefLabel "sê siŏh ciáh"@cdo ;
+	schema:name "sê siŏh ciáh"@cdo ;
+	rdfs:label "he yit chak"@hak ;
+	skos:prefLabel "he yit chak"@hak ;
+	schema:name "he yit chak"@hak ;
+	rdfs:label "али ангилалда багтадаг"@bxr ;
+	skos:prefLabel "али ангилалда багтадаг"@bxr ;
+	schema:name "али ангилалда багтадаг"@bxr ;
+	rdfs:label "වර්ගය"@si ;
+	skos:prefLabel "වර්ගය"@si ;
+	schema:name "වර්ගය"@si ;
+	rdfs:label "izahat"@diq ;
+	skos:prefLabel "izahat"@diq ;
+	schema:name "izahat"@diq ;
+	rdfs:label "አይነተ አባል"@am ;
+	skos:prefLabel "አይነተ አባል"@am ;
+	schema:name "አይነተ አባል"@am ;
+	rdfs:label "ကနဦး အားဖြင့်"@my ;
+	skos:prefLabel "ကနဦး အားဖြင့်"@my ;
+	schema:name "ကနဦး အားဖြင့်"@my ;
+	rdfs:label "ߝߌ߬ߛߌ ߛߎ߲ߞߎ߲"@nqo ;
+	skos:prefLabel "ߝߌ߬ߛߌ ߛߎ߲ߞߎ߲"@nqo ;
+	schema:name "ߝߌ߬ߛߌ ߛߎ߲ߞߎ߲"@nqo ;
+	rdfs:label "istansa de"@vec ;
+	skos:prefLabel "istansa de"@vec ;
+	schema:name "istansa de"@vec ;
+	rdfs:label "inggih punika"@ban ;
+	skos:prefLabel "inggih punika"@ban ;
+	schema:name "inggih punika"@ban ;
+	rdfs:label "mmadụ"@ig ;
+	skos:prefLabel "mmadụ"@ig ;
+	schema:name "mmadụ"@ig ;
+	rdfs:label "طبيعة لعنصر"@ary ;
+	skos:prefLabel "طبيعة لعنصر"@ary ;
+	schema:name "طبيعة لعنصر"@ary ;
+	schema:description "that class of which this subject is a particular example and member"@en,
+		"questo elemento è un'istanza di questa classe, categoria o gruppo di oggetti"@it,
+		"cet élément est un exemple spécifique de cette classe qui en précise la nature. Ne pas confondre avec la propriété P279 (sous-classe de)"@fr,
+		"aquela classe a qual este sujeito é um membro e exemplo particular. (O sujeito é tipicamente um membro individual com um Nome Próprio). Diferente da P279 (subclasse de)"@pt-br,
+		"a csoport, amelynek az elem egy példánya vagy tagja; nem egyenlő a P279 (alosztálya ennek) tulajdonsággal"@hu,
+		"ova stavka je primjer ove druge stavke"@hr,
+		"Ausprägung oder Exemplar einer Sache, Mitglied einer Klasse. Zu unterscheiden von P279 (Unterklasse von)."@de,
+		"αυτό το αντικείμενο είναι εξειδικευμένο παράδειγμα και μέλος αυτής της τάξης. Δεν θα πρέπει να συγχέεται με την Ιδιότητα:P279"@el,
+		"kohde, johon ominaisuus liitetään, on esiintymä ominaisuuden arvoksi asetettavasta kohteesta"@fi,
+		"daytoy a banag ket maysa a pagarigan iti daytoy a sabali a banag"@ilo,
+		"dette elementet er et konkret objekt/eksemplar (instans) av denne klassen, kategorien eller objektgruppen"@nb,
+		"este elemento es un ejemplar del otro elemento"@es,
+		"một phân loại mà đối tượng này là một thành viên hoặc một ví dụ cụ thể (đối tượng thường là một thành viên có nhãn tên thích hợp); khác với P279; nhãn này không còn được dùng làm từ khu biệt nữa—hãy dùng P2868 hoặc P3831"@vi,
+		"агульнае азначэньне, чым зьяўляецца аб’ект"@be-tarask,
+		"この項目をインスタンスとする種類・概念"@ja,
+		"that class of which this subject is a particular example and member. (Subject typically an individual member with Proper Name label.) Different from P279 (subclass of)"@en-gb,
+		"that class of which this subject is a particular example and member. (Subject typically an individual member with Proper Name label.) Different from P279 (subclass of)"@en-ca,
+		"stanowi przykład (jest elementem) danej klasy"@pl,
+		"šī vienība ir šīs citas vienības instance"@lv,
+		"aquest element és un objecte concret (instància) d'aquesta classe, categoria o grup d'objectes"@ca,
+		"är ett konkret objekt (instans) av denna klass, kategori eller objektgrupp"@sv,
+		"آیتم مورد نظر یک نوع ... است"@fa,
+		"o elemento é unha instancia doutro elemento"@gl,
+		"Þessi hlutur er dæmi um annan hlut"@is,
+		"dit item is een exemplaar (instantie) van deze groep elementen"@nl,
+		"данный элемент представляет собой конкретный объект (экземпляр / частный случай) класса, категории. Не путать с Property:P279 (\"подкласс от\")."@ru,
+		"цей елемент є конкретним прикладом об'єкта (окремим випадком) такого класу, категорії чи групи об'єктів"@uk,
+		"Ausprägung oder Exemplar einer Sache"@de-at,
+		"dette emne er et konkret objekt af denne kategori, klasse eller objektgruppe."@da,
+		"acest element este un exemplar din clasa definită de acel element"@ro,
+		"Ausprägung oder Exemplar einer Sache"@de-ch,
+		"dit objekt is een eksemplaar (instanty) van disse grup objekten"@nds-nl,
+		"הקבוצה או המחלקה שהנדון שייך אליה"@he,
+		"обектът е инстанция на даден клас"@bg,
+		"यह आइटम इस अन्य आइटम का उदहारण है"@hi,
+		"класа чији је субјекат посебан пример и члан. (Субјекат је обично појединачни члан са ознаком Исправан назив.) Различито од P279 (је подкласа од)"@sr,
+		"ова ставка је конкретан објекат (инстанца) класе, категорије или групе објеката"@sr-ec,
+		"предметот е примерок/случај на друг предмет"@mk,
+		"tato položka je jedna konkrétní věc (exemplář, příklad) patřící do této třídy, kategorie nebo skupiny předmětů"@cs,
+		"આ લેખ આ પ્રકાર અથવા શ્રેણીના અન્ય લેખોનું સચોટ ઉદાહરણ છે."@gu,
+		"di Saach es ene beschtemmpte, konkrete Jääjeschtand vun dä Zoot, udder Jropp, udder dä Aat"@ksh,
+		"tiu ĉi ero estas konkreta aĵo (instanco) de tiu ĉi klaso, kategorio aŭ objektogrupo"@eo,
+		"항목 주제는 다음 종류에 속함 (해당 종류에 속하는 것 중 하나를 고르라고 했을 때 이 항목도 고를 수 있어야 함)"@ko,
+		"natura de, expression de o exemplar de"@oc,
+		"آیتم جور"@mzn,
+		"本項目所屬的性質，本以項目為實例的類別（特別是擁有名稱標籤的獨立個體）；與P279不同；作為限定符的用法已棄用，請改以P2868或P3831代替"@zh,
+		"este item é uma instância deste outro item"@pt,
+		"Butir ini adalah contoh spesifik dan anggota dari sebuah kelas tertentu. Jangan bingung dengan atribut Property:P279 (subkelas dari)."@id,
+		"ova stavka je konkretan objekat (instanca) klase, kategorije ili grupe objekata"@sr-el,
+		"bez' ez eo an elfenn-mañ un draezenn fetis eus ar c'hevrennad, rummad pe strollad traezoù-mañ"@br,
+		"je konkretna izvedba objekta v razredu, kategoriji ali skupini objektov"@sl,
+		"sto fatto o sta cosa è no tipo 'e nato elemento"@nap,
+		"حجيج"@rif,
+		"呢件嘢係以下概念嘅一個實例（特別係嗰啲擁有名號嘅獨立個體），同 P279 唔同，如果您要攞嚟做限定符嘅話，請改用 P2868 或者 P3831 代替。"@yue,
+		"sta cosa è n'esimplari cuncretu di sta classi, di sta catigurìa, o di stu cuncettu"@scn,
+		"elementu hau mota, kategoria edo ale talde honen ale (adibide) konkretu bat da"@eu,
+		"कुनै पनि वस्तुको एक स्थिती जनाउँछ र कुनै पनि समूहको सदस्य रहेको जनाउँछ"@ne,
+		"esti elementu ye un casu concretu d'esta categoría o grupu"@ast,
+		"இவ்வுருப்படியானது, குறிப்பிடப்படுகின்ற வகுப்பைச் சேர்ந்ததும் அவ்வகுப்புக்கான ஒரு திட்டவட்டமான எடுத்துக்காட்டும் ஆகும்."@ta,
+		"本項目所屬的性質，本以項目為實例的類別（特別是擁有名稱標籤的獨立個體）；與P279不同；作為限定符的用法已棄用，請改以P2868或P3831代替"@zh-hant,
+		"本项目所属的性质，本以项目为实例的类别（特别是拥有名称标签的独立个体）；与P279不同；作为限定符的用法已弃用，请改以P2868或P3831代替"@zh-hans,
+		"本項目所屬的性質，本以項目為實例的類別（特別是擁有名稱標籤的獨立個體）；與P279不同；作為限定符的用法已棄用，請改以P2868或P3831代替"@zh-hk,
+		"本项目所属的性质，本以项目为实例的类别（特别是拥有名称标签的独立个体）；与P279不同；作为限定符的用法已弃用，请改以P2868或P3831代替"@zh-cn,
+		"本項目所屬的性質，本以項目為實例的類別（特別是擁有名稱標籤的獨立個體）；與P279不同；作為限定符的用法已棄用，請改以P2868或P3831代替"@zh-mo,
+		"本项目所属的性质，本以项目为实例的类别（特别是拥有名称标签的独立个体）；与P279不同；作为限定符的用法已弃用，请改以P2868或P3831代替"@zh-sg,
+		"本項目所屬的性質，本以項目為實例的類別（特別是擁有名稱標籤的獨立個體）；與P279不同；作為限定符的用法已棄用，請改以P2868或P3831代替"@zh-tw,
+		"აღნიშნული ელემენტი წარმოადგენს კონკრეტული ობიექტის კლასს, კატეგორიას ან ობიექტთა ჯგუფს"@ka,
+		"ky artikull është një shembull specifik dhe një anëtar i asaj klase. Për të mos ngatërrohet me tiparin Property:P279 (nënklasën e)"@sq,
+		"táto položka je jedna konkrétna vec (exemplár, príklad) patriaci do tejto triedy, kategórie alebo skupiny predmetov"@sk,
+		"Bu madde belirli bir örnektir ve o sınıfın bir üyesidir. Özellikle karıştırılmamalıdır:P279 (alt sınıfı)"@tr,
+		"što je objekt?"@hsb,
+		"صنف من الأشياء يوجد شيء واحد منه ولا يتكرر. ويجب أن لا يتم الخلط بينه وبين الخاصية: P279 (نوع فرعي من)"@ar,
+		"คุณลักษณะที่บ่งบอกถึงสิ่งๆ นั้นว่าเป็นตัวอย่างและเป็นสมาชิกของกลุ่มใด (โดยปกติทุกรายการมีป้ายชื่อที่ถูกต้อง) แตกต่างจาก P279 (กลุ่มย่อยของ)"@th,
+		"Element vun enger Grupp, Kategorie oder Klass"@lb,
+		"ಈ ವಿಸಯೊ ಒಂಜಿ ನಿರ್ದಿಸ್ಟೊ ಉದಾರ್ಮೆ ಬುಕ್ಕೊ ಸದಸ್ಯೆ ಆದಿಪ್ಪುನ ಹ್ಯಾಟ್ ವರ್ಗೊ."@tcy,
+		"that cless o that this subject is a particular exemple an member. (Subject teepically an individual member wi Proper Name label.) Different frae P279 (subcless o)."@sco,
+		"bu element müəyyən anlayışın xüsusi halını təsvir edir. P279 (yarımsinif) ilə səhv salmayın."@az,
+		"kelas di mana subjek ini merupakan contoh tertentu dan ahli. (Subjek biasanya ahli individu dengan label Nama Khas.) Berbeza daripada P279 (subkelas)"@ms,
+		"бу тыл ханнык эрэ бөлөх биирдэмэ. Маны кытта булкуйума: Property:P279"@sah,
+		"بنیادی موضوع"@ur,
+		"本项目所属的性质，本以项目为实例的类别（特别是拥有名称标签的独立个体）；与P279不同；作为限定符的用法已弃用，请改以P2868或P3831代替"@zh-my,
+		"սա ինչ է՞"@hy,
+		"klass, mida see konkreetne objekt esindab ja mille üksikliige see objekt on"@et,
+		"dette elementet er eit konkret objekt/eksemplar (døme) av denne klassen, kategorien eller objektgruppa"@nn,
+		"ଏହି ଉଦାହରଣଟି କେଉଁ ଶ୍ରେଣୀ କିମ୍ବା ପ୍ରଜାତିକୁ ସୂଚାଉଛି ଓ ଏହାର ଅନ୍ୟ କୌଣସି ଉଇକି ଡାଟା ଆଇଟମ ସହିତ ସାମଞ୍ଜସ୍ଯ କଣ"@or,
+		"чӣ будани элементро нишон медиҳад. Бо Property:P279 (зернавъ аз) иштибоҳ насозед"@tg,
+		"Butir iko adolah contoh spesifik dan anggota dari sabuah kelas tatantu.Ijan binguang jo atribut Property:P279 (subkelas dari)."@min,
+		"sto elemento la xé on istansa de sta clase, categoria o grupo de ojeti"@vec,
+		"ఈ విషయం ఒక ప్రత్యేక ఉదాహరణ మరియు సభ్యుడు"@te,
+		"onye nwere ụkwụ abụọ na-aga ije"@ig .
+
+wd:Q221 a wikibase:Item ;
+	rdfs:label "Мақдунияи Шимолӣ"@tg ;
+	skos:prefLabel "Мақдунияи Шимолӣ"@tg ;
+	schema:name "Мақдунияи Шимолӣ"@tg ;
+	rdfs:label "Severné Macedónsko"@sk ;
+	skos:prefLabel "Severné Macedónsko"@sk ;
+	schema:name "Severné Macedónsko"@sk ;
+	rdfs:label "مقدونیہ"@pnb ;
+	skos:prefLabel "مقدونیہ"@pnb ;
+	schema:name "مقدونیہ"@pnb ;
+	rdfs:label "Matedoniya"@na ;
+	skos:prefLabel "Matedoniya"@na ;
+	schema:name "Matedoniya"@na ;
+	rdfs:label "Македонија"@mk ;
+	skos:prefLabel "Македонија"@mk ;
+	schema:name "Македонија"@mk ;
+	rdfs:label "উত্তর ম্যাসেডোনিয়া"@bn ;
+	skos:prefLabel "উত্তর ম্যাসেডোনিয়া"@bn ;
+	schema:name "উত্তর ম্যাসেডোনিয়া"@bn ;
+	rdfs:label "IMakedoniya"@zu ;
+	skos:prefLabel "IMakedoniya"@zu ;
+	schema:name "IMakedoniya"@zu ;
+	rdfs:label "মেসিডোনিয়া"@bpy ;
+	skos:prefLabel "মেসিডোনিয়া"@bpy ;
+	schema:name "মেসিডোনিয়া"@bpy ;
+	rdfs:label "उत्तर मैसिडोनिया"@hi ;
+	skos:prefLabel "उत्तर मैसिडोनिया"@hi ;
+	schema:name "उत्तर मैसिडोनिया"@hi ;
+	rdfs:label "Poblachd na Masadoine"@gd ;
+	skos:prefLabel "Poblachd na Masadoine"@gd ;
+	schema:name "Poblachd na Masadoine"@gd ;
+	rdfs:label "شمالی مقدونیہ"@ur ;
+	skos:prefLabel "شمالی مقدونیہ"@ur ;
+	schema:name "شمالی مقدونیہ"@ur ;
+	rdfs:label "Jamhuuriyada Waqooyiga Macedonia"@so ;
+	skos:prefLabel "Jamhuuriyada Waqooyiga Macedonia"@so ;
+	schema:name "Jamhuuriyada Waqooyiga Macedonia"@so ;
+	rdfs:label "Ripoblik a Masiduonia"@jam ;
+	skos:prefLabel "Ripoblik a Masiduonia"@jam ;
+	schema:name "Ripoblik a Masiduonia"@jam ;
+	rdfs:label "Північна Македонія"@uk ;
+	skos:prefLabel "Північна Македонія"@uk ;
+	schema:name "Північна Македонія"@uk ;
+	rdfs:label "Masidonia"@tw ;
+	skos:prefLabel "Masidonia"@tw ;
+	schema:name "Masidonia"@tw ;
+	rdfs:label "Хойто Македони"@bxr ;
+	skos:prefLabel "Хойто Македони"@bxr ;
+	schema:name "Хойто Македони"@bxr ;
+	rdfs:label "Masedoniya"@ff ;
+	skos:prefLabel "Masedoniya"@ff ;
+	schema:name "Masedoniya"@ff ;
+	rdfs:label "Baek Macedonia"@za ;
+	skos:prefLabel "Baek Macedonia"@za ;
+	schema:name "Baek Macedonia"@za ;
+	rdfs:label "Orílẹ̀-èdè Olómìnira ilẹ̀ Makẹdóníà"@yo ;
+	skos:prefLabel "Orílẹ̀-èdè Olómìnira ilẹ̀ Makẹdóníà"@yo ;
+	schema:name "Orílẹ̀-èdè Olómìnira ilẹ̀ Makẹdóníà"@yo ;
+	rdfs:label "Repúbrica de Macedónia"@ext ;
+	skos:prefLabel "Repúbrica de Macedónia"@ext ;
+	schema:name "Repúbrica de Macedónia"@ext ;
+	rdfs:label "Түндүк Македония"@ky ;
+	skos:prefLabel "Түндүк Македония"@ky ;
+	schema:name "Түндүк Македония"@ky ;
+	rdfs:label "Macedonia del Norte"@es ;
+	skos:prefLabel "Macedonia del Norte"@es ;
+	schema:name "Macedonia del Norte"@es ;
+	rdfs:label "ମାସିଡୋନିଆ"@or ;
+	skos:prefLabel "ମାସିଡୋନିଆ"@or ;
+	schema:name "ମାସିଡୋନିଆ"@or ;
+	rdfs:label "Македония Мастор"@myv ;
+	skos:prefLabel "Македония Мастор"@myv ;
+	schema:name "Македония Мастор"@myv ;
+	rdfs:label "רעפובליק פון מאקעדאניע"@yi ;
+	skos:prefLabel "רעפובליק פון מאקעדאניע"@yi ;
+	schema:name "רעפובליק פון מאקעדאניע"@yi ;
+	rdfs:label "An Mhacadóin Thuaidh"@ga ;
+	skos:prefLabel "An Mhacadóin Thuaidh"@ga ;
+	schema:name "An Mhacadóin Thuaidh"@ga ;
+	rdfs:label "Nordowô Macedońskô"@csb ;
+	skos:prefLabel "Nordowô Macedońskô"@csb ;
+	schema:name "Nordowô Macedońskô"@csb ;
+	rdfs:label "Poyraz Makedoniya"@gag ;
+	skos:prefLabel "Poyraz Makedoniya"@gag ;
+	schema:name "Poyraz Makedoniya"@gag ;
+	rdfs:label "Macedònia del Nòrd"@oc ;
+	skos:prefLabel "Macedònia del Nòrd"@oc ;
+	schema:name "Macedònia del Nòrd"@oc ;
+	rdfs:label "Masedoniya ya Ruguru"@rw ;
+	skos:prefLabel "Masedoniya ya Ruguru"@rw ;
+	schema:name "Masedoniya ya Ruguru"@rw ;
+	rdfs:label "North Macedonie"@sco ;
+	skos:prefLabel "North Macedonie"@sco ;
+	schema:name "North Macedonie"@sco ;
+	rdfs:label "Makeduonėjė"@sgs ;
+	skos:prefLabel "Makeduonėjė"@sgs ;
+	schema:name "Makeduonėjė"@sgs ;
+	rdfs:label "Zīmeļmakedoneja"@ltg ;
+	skos:prefLabel "Zīmeļmakedoneja"@ltg ;
+	schema:name "Zīmeļmakedoneja"@ltg ;
+	rdfs:label "Masadoiniya ta Arewa"@ha ;
+	skos:prefLabel "Masadoiniya ta Arewa"@ha ;
+	schema:name "Masadoiniya ta Arewa"@ha ;
+	rdfs:label "Şimali Makedoniya"@az ;
+	skos:prefLabel "Şimali Makedoniya"@az ;
+	schema:name "Şimali Makedoniya"@az ;
+	rdfs:label "مقدونیه"@mzn ;
+	skos:prefLabel "مقدونیه"@mzn ;
+	schema:name "مقدونیه"@mzn ;
+	rdfs:label "北马其顿"@zh ;
+	skos:prefLabel "北马其顿"@zh ;
+	schema:name "北马其顿"@zh ;
+	rdfs:label "Republika Severna Makedonija"@sr-el ;
+	skos:prefLabel "Republika Severna Makedonija"@sr-el ;
+	schema:name "Republika Severna Makedonija"@sr-el ;
+	rdfs:label "ಮ್ಯಾಸೆಡೊನಿಯ ಗಣರಾಜ್ಯ"@kn ;
+	skos:prefLabel "ಮ್ಯಾಸೆಡೊನಿಯ ಗಣರಾಜ್ಯ"@kn ;
+	schema:name "ಮ್ಯಾಸೆಡೊನಿಯ ಗಣರಾಜ್ಯ"@kn ;
+	rdfs:label "Noord-Macedonië"@nl ;
+	skos:prefLabel "Noord-Macedonië"@nl ;
+	schema:name "Noord-Macedonië"@nl ;
+	rdfs:label "Macedonia del Norte"@ast ;
+	skos:prefLabel "Macedonia del Norte"@ast ;
+	schema:name "Macedonia del Norte"@ast ;
+	rdfs:label "Republik Macedonia"@ms ;
+	skos:prefLabel "Republik Macedonia"@ms ;
+	schema:name "Republik Macedonia"@ms ;
+	rdfs:label "Républik Makedonia"@jv ;
+	skos:prefLabel "Républik Makedonia"@jv ;
+	schema:name "Républik Makedonia"@jv ;
+	rdfs:label "Šiaurės Makedonija"@lt ;
+	skos:prefLabel "Šiaurės Makedonija"@lt ;
+	schema:name "Šiaurės Makedonija"@lt ;
+	rdfs:label "Македония Җөмһүрияте"@tt ;
+	skos:prefLabel "Македония Җөмһүрияте"@tt ;
+	schema:name "Македония Җөмһүрияте"@tt ;
+	rdfs:label "Умард Македон"@mn ;
+	skos:prefLabel "Умард Македон"@mn ;
+	schema:name "Умард Македон"@mn ;
+	rdfs:label "Macedònia dël Nòrd"@pms ;
+	skos:prefLabel "Macedònia dël Nòrd"@pms ;
+	schema:name "Macedònia dël Nòrd"@pms ;
+	rdfs:label "Maqedooniyaa"@om ;
+	skos:prefLabel "Maqedooniyaa"@om ;
+	schema:name "Maqedooniyaa"@om ;
+	rdfs:label "Severna Makedonija"@sl ;
+	skos:prefLabel "Severna Makedonija"@sl ;
+	schema:name "Severna Makedonija"@sl ;
+	rdfs:label "Şimaliy Makedoniya"@crh ;
+	skos:prefLabel "Şimaliy Makedoniya"@crh ;
+	schema:name "Şimaliy Makedoniya"@crh ;
+	rdfs:label "வடக்கு மாக்கடோனியா"@ta ;
+	skos:prefLabel "வடக்கு மாக்கடோனியா"@ta ;
+	schema:name "வடக்கு மாக்கடோனியா"@ta ;
+	rdfs:label "Macedonia de Nord"@ro ;
+	skos:prefLabel "Macedonia de Nord"@ro ;
+	schema:name "Macedonia de Nord"@ro ;
+	rdfs:label "मेसीडोनिया"@bho ;
+	skos:prefLabel "मेसीडोनिया"@bho ;
+	schema:name "मेसीडोनिया"@bho ;
+	rdfs:label "Республика Македония"@av ;
+	skos:prefLabel "Республика Македония"@av ;
+	schema:name "Республика Македония"@av ;
+	rdfs:label "Nordmazedonien"@lb ;
+	skos:prefLabel "Nordmazedonien"@lb ;
+	schema:name "Nordmazedonien"@lb ;
+	rdfs:label "Macedonia di u Nordu"@co ;
+	skos:prefLabel "Macedonia di u Nordu"@co ;
+	schema:name "Macedonia di u Nordu"@co ;
+	rdfs:label "North Macedonia"@en-gb ;
+	skos:prefLabel "North Macedonia"@en-gb ;
+	schema:name "North Macedonia"@en-gb ;
+	rdfs:label "Makedoniya"@kaa ;
+	skos:prefLabel "Makedoniya"@kaa ;
+	schema:name "Makedoniya"@kaa ;
+	rdfs:label "Makõdoonia Vabariik"@vro ;
+	skos:prefLabel "Makõdoonia Vabariik"@vro ;
+	schema:name "Makõdoonia Vabariik"@vro ;
+	rdfs:label "جمهورية مقدونيا"@aeb-arab ;
+	skos:prefLabel "جمهورية مقدونيا"@aeb-arab ;
+	schema:name "جمهورية مقدونيا"@aeb-arab ;
+	rdfs:label "ມາຊິໂດເນຍເໜືອ"@lo ;
+	skos:prefLabel "ມາຊິໂດເນຍເໜືອ"@lo ;
+	schema:name "ມາຊິໂດເນຍເໜືອ"@lo ;
+	rdfs:label "Masedonia ya Kaskazini"@sw ;
+	skos:prefLabel "Masedonia ya Kaskazini"@sw ;
+	schema:name "Masedonia ya Kaskazini"@sw ;
+	rdfs:label "Noordmakedonien"@nds ;
+	skos:prefLabel "Noordmakedonien"@nds ;
+	schema:name "Noordmakedonien"@nds ;
+	rdfs:label "Masedoniya"@pag ;
+	skos:prefLabel "Masedoniya"@pag ;
+	schema:name "Masedoniya"@pag ;
+	rdfs:label "Republika kan Masedonya"@bcl ;
+	skos:prefLabel "Republika kan Masedonya"@bcl ;
+	schema:name "Republika kan Masedonya"@bcl ;
+	rdfs:label "Nordmakedonien"@da ;
+	skos:prefLabel "Nordmakedonien"@da ;
+	schema:name "Nordmakedonien"@da ;
+	rdfs:label "Macedònia del Nord"@ca ;
+	skos:prefLabel "Macedònia del Nord"@ca ;
+	schema:name "Macedònia del Nord"@ca ;
+	rdfs:label "Βόρεια Μακεδονία"@el ;
+	skos:prefLabel "Βόρεια Μακεδονία"@el ;
+	schema:name "Βόρεια Μακεδονία"@el ;
+	rdfs:label "Ziemeļmaķedonija"@lv ;
+	skos:prefLabel "Ziemeļmaķedonija"@lv ;
+	schema:name "Ziemeļmaķedonija"@lv ;
+	rdfs:label "𐌼𐌰𐌺𐌰𐌹𐌳𐍉𐌽𐌾𐌰"@got ;
+	skos:prefLabel "𐌼𐌰𐌺𐌰𐌹𐌳𐍉𐌽𐌾𐌰"@got ;
+	schema:name "𐌼𐌰𐌺𐌰𐌹𐌳𐍉𐌽𐌾𐌰"@got ;
+	rdfs:label "Республикэу Македоние"@ady ;
+	skos:prefLabel "Республикэу Македоние"@ady ;
+	schema:name "Республикэу Македоние"@ady ;
+	rdfs:label "Macedonia"@gom-latn ;
+	skos:prefLabel "Macedonia"@gom-latn ;
+	schema:name "Macedonia"@gom-latn ;
+	rdfs:label "Pobblaght y Vassadoan Hwoaie"@gv ;
+	skos:prefLabel "Pobblaght y Vassadoan Hwoaie"@gv ;
+	schema:name "Pobblaght y Vassadoan Hwoaie"@gv ;
+	rdfs:label "مقدونيا الشمالية"@ar ;
+	skos:prefLabel "مقدونيا الشمالية"@ar ;
+	schema:name "مقدونيا الشمالية"@ar ;
+	rdfs:label "Masedoniyakondre"@srn ;
+	skos:prefLabel "Masedoniyakondre"@srn ;
+	schema:name "Masedoniyakondre"@srn ;
+	rdfs:label "Makedonya Zımey"@diq ;
+	skos:prefLabel "Makedonya Zımey"@diq ;
+	schema:name "Makedonya Zımey"@diq ;
+	rdfs:label "Repablik o' Masedoenya"@pih ;
+	skos:prefLabel "Repablik o' Masedoenya"@pih ;
+	schema:name "Repablik o' Masedoenya"@pih ;
+	rdfs:label "Půłnocno Macedůńijo"@szl ;
+	skos:prefLabel "Půłnocno Macedůńijo"@szl ;
+	schema:name "Půłnocno Macedůńijo"@szl ;
+	rdfs:label "Makèdonia Utara"@ace ;
+	skos:prefLabel "Makèdonia Utara"@ace ;
+	schema:name "Makèdonia Utara"@ace ;
+	rdfs:label "Çурçĕр Македони"@cv ;
+	skos:prefLabel "Çурçĕр Македони"@cv ;
+	schema:name "Çурçĕр Македони"@cv ;
+	rdfs:label "Macedónia do Norte"@pt ;
+	skos:prefLabel "Macedónia do Norte"@pt ;
+	schema:name "Macedónia do Norte"@pt ;
+	rdfs:label "Makedoniya Cumhuriyeti"@crh-latn ;
+	skos:prefLabel "Makedoniya Cumhuriyeti"@crh-latn ;
+	schema:name "Makedoniya Cumhuriyeti"@crh-latn ;
+	rdfs:label "Republiko Norda-Macedonia"@io ;
+	skos:prefLabel "Republiko Norda-Macedonia"@io ;
+	schema:name "Republiko Norda-Macedonia"@io ;
+	rdfs:label "Северная Македония"@ru ;
+	skos:prefLabel "Северная Македония"@ru ;
+	schema:name "Северная Македония"@ru ;
+	rdfs:label "Republic of Macedonia"@tpi ;
+	skos:prefLabel "Republic of Macedonia"@tpi ;
+	schema:name "Republic of Macedonia"@tpi ;
+	rdfs:label "Hilagang Macedonia"@tl ;
+	skos:prefLabel "Hilagang Macedonia"@tl ;
+	schema:name "Hilagang Macedonia"@tl ;
+	rdfs:label "Masedonia"@mg ;
+	skos:prefLabel "Masedonia"@mg ;
+	schema:name "Masedonia"@mg ;
+	rdfs:label "شومالی مقدونیه"@azb ;
+	skos:prefLabel "شومالی مقدونیه"@azb ;
+	schema:name "شومالی مقدونیه"@azb ;
+	rdfs:label "Macedonia d'o Norte"@an ;
+	skos:prefLabel "Macedonia d'o Norte"@an ;
+	schema:name "Macedonia d'o Norte"@an ;
+	rdfs:label "Հյուսիսային Մակեդոնիա"@hy ;
+	skos:prefLabel "Հյուսիսային Մակեդոնիա"@hy ;
+	schema:name "Հյուսիսային Մակեդոնիա"@hy ;
+	rdfs:label "Pohjoižmakedonii"@vep ;
+	skos:prefLabel "Pohjoižmakedonii"@vep ;
+	schema:name "Pohjoižmakedonii"@vep ;
+	rdfs:label "म्यासेडोनिया"@mai ;
+	skos:prefLabel "म्यासेडोनिया"@mai ;
+	schema:name "म्यासेडोनिया"@mai ;
+	rdfs:label "Észak-Macedónia"@hu ;
+	skos:prefLabel "Észak-Macedónia"@hu ;
+	schema:name "Észak-Macedónia"@hu ;
+	rdfs:label "म्यासेडोनिया"@ne ;
+	skos:prefLabel "म्यासेडोनिया"@ne ;
+	schema:name "म्यासेडोनिया"@ne ;
+	rdfs:label "Nord-Makedonio"@eo ;
+	skos:prefLabel "Nord-Makedonio"@eo ;
+	schema:name "Nord-Makedonio"@eo ;
+	rdfs:label "Nordmazedonien"@de ;
+	skos:prefLabel "Nordmazedonien"@de ;
+	schema:name "Nordmazedonien"@de ;
+	rdfs:label "Ripapelika o Maketonia"@sm ;
+	skos:prefLabel "Ripapelika o Maketonia"@sm ;
+	schema:name "Ripapelika o Maketonia"@sm ;
+	rdfs:label "Republika ning Masedonya"@pam ;
+	skos:prefLabel "Republika ning Masedonya"@pam ;
+	schema:name "Republika ning Masedonya"@pam ;
+	rdfs:label "Norte nga Macedonia"@war ;
+	skos:prefLabel "Norte nga Macedonia"@war ;
+	schema:name "Norte nga Macedonia"@war ;
+	rdfs:label "Republika Makedoniya"@rmy ;
+	skos:prefLabel "Republika Makedoniya"@rmy ;
+	schema:name "Republika Makedoniya"@rmy ;
+	rdfs:label "Республикэ Македониэ"@kbd ;
+	skos:prefLabel "Республикэ Македониэ"@kbd ;
+	schema:name "Республикэ Македониэ"@kbd ;
+	rdfs:label "Македоние"@mdf ;
+	skos:prefLabel "Македоние"@mdf ;
+	schema:name "Македоние"@mdf ;
+	rdfs:label "Macedónia de l Norte"@mwl ;
+	skos:prefLabel "Macedónia de l Norte"@mwl ;
+	schema:name "Macedónia de l Norte"@mwl ;
+	rdfs:label "North Macedonia"@en ;
+	skos:prefLabel "North Macedonia"@en ;
+	schema:name "North Macedonia"@en ;
+	rdfs:label "Noard-Masedoanje"@fy ;
+	skos:prefLabel "Noard-Masedoanje"@fy ;
+	schema:name "Noard-Masedoanje"@fy ;
+	rdfs:label "မက်စီဒိုးနီးယားနိုင်ငံ"@my ;
+	skos:prefLabel "မက်စီဒိုးနီးယားနိုင်ငံ"@my ;
+	schema:name "မက်စီဒိုးနီးယားနိုင်ငံ"@my ;
+	rdfs:label "Põhja-Makedoonia"@et ;
+	skos:prefLabel "Põhja-Makedoonia"@et ;
+	schema:name "Põhja-Makedoonia"@et ;
+	rdfs:label "Macedonia del Norte"@cbk-zam ;
+	skos:prefLabel "Macedonia del Norte"@cbk-zam ;
+	schema:name "Macedonia del Norte"@cbk-zam ;
+	rdfs:label "Réewum Maseduwaan"@wo ;
+	skos:prefLabel "Réewum Maseduwaan"@wo ;
+	schema:name "Réewum Maseduwaan"@wo ;
+	rdfs:label "Цæгат Македони"@os ;
+	skos:prefLabel "Цæгат Македони"@os ;
+	schema:name "Цæгат Македони"@os ;
+	rdfs:label "北馬其頓"@zh-tw ;
+	skos:prefLabel "北馬其頓"@zh-tw ;
+	schema:name "北馬其頓"@zh-tw ;
+	rdfs:label "Nord-Makedonia"@nn ;
+	skos:prefLabel "Nord-Makedonia"@nn ;
+	schema:name "Nord-Makedonia"@nn ;
+	rdfs:label "Republike de Makedonia"@nov ;
+	skos:prefLabel "Republike de Makedonia"@nov ;
+	schema:name "Republike de Makedonia"@nov ;
+	rdfs:label "ᎹᏎᏙᏂᏯ"@chr ;
+	skos:prefLabel "ᎹᏎᏙᏂᏯ"@chr ;
+	schema:name "ᎹᏎᏙᏂᏯ"@chr ;
+	rdfs:label "马其顿"@wuu ;
+	skos:prefLabel "马其顿"@wuu ;
+	schema:name "马其顿"@wuu ;
+	rdfs:label "Macedonia do Norte"@gl ;
+	skos:prefLabel "Macedonia do Norte"@gl ;
+	schema:name "Macedonia do Norte"@gl ;
+	rdfs:label "North Macedonia"@ee ;
+	skos:prefLabel "North Macedonia"@ee ;
+	schema:name "North Macedonia"@ee ;
+	rdfs:label "Not Macedonia"@bi ;
+	skos:prefLabel "Not Macedonia"@bi ;
+	schema:name "Not Macedonia"@bi ;
+	rdfs:label "Makedonia"@kg ;
+	skos:prefLabel "Makedonia"@kg ;
+	schema:name "Makedonia"@kg ;
+	rdfs:label "നോർത്ത് മാസിഡോണിയ"@ml ;
+	skos:prefLabel "നോർത്ത് മാസിഡോണിയ"@ml ;
+	schema:name "നോർത്ത് മാസിഡോണിയ"@ml ;
+	rdfs:label "کۆماری مەقدوونیا"@ckb ;
+	skos:prefLabel "کۆماری مەقدوونیا"@ckb ;
+	schema:name "کۆماری مەقدوونیا"@ckb ;
+	rdfs:label "Macedonia"@ig ;
+	skos:prefLabel "Macedonia"@ig ;
+	schema:name "Macedonia"@ig ;
+	rdfs:label "Macèdonie du Nord"@frp ;
+	skos:prefLabel "Macèdonie du Nord"@frp ;
+	schema:name "Macèdonie du Nord"@frp ;
+	rdfs:label "Gogledd Macedonia"@cy ;
+	skos:prefLabel "Gogledd Macedonia"@cy ;
+	schema:name "Gogledd Macedonia"@cy ;
+	rdfs:label "Macedonia Septentrionalis"@la ;
+	skos:prefLabel "Macedonia Septentrionalis"@la ;
+	schema:name "Macedonia Septentrionalis"@la ;
+	rdfs:label "Machedonia di Nord"@rup ;
+	skos:prefLabel "Machedonia di Nord"@rup ;
+	schema:name "Machedonia di Nord"@rup ;
+	rdfs:label "Noord-Macedonië"@zea ;
+	skos:prefLabel "Noord-Macedonië"@zea ;
+	schema:name "Noord-Macedonië"@zea ;
+	rdfs:label "उत्तर मॅसिडोनिया"@mr ;
+	skos:prefLabel "उत्तर मॅसिडोनिया"@mr ;
+	schema:name "उत्तर मॅसिडोनिया"@mr ;
+	rdfs:label "Lýðveldið Makedónia"@fo ;
+	skos:prefLabel "Lýðveldið Makedónia"@fo ;
+	schema:name "Lýðveldið Makedónia"@fo ;
+	rdfs:label "Macédoine du Nord"@fr ;
+	skos:prefLabel "Macédoine du Nord"@fr ;
+	schema:name "Macédoine du Nord"@fr ;
+	rdfs:label "Norður-Makedónía"@is ;
+	skos:prefLabel "Norður-Makedónía"@is ;
+	schema:name "Norður-Makedónía"@is ;
+	rdfs:label "Sewjerna Makedonska"@hsb ;
+	skos:prefLabel "Sewjerna Makedonska"@hsb ;
+	schema:name "Sewjerna Makedonska"@hsb ;
+	rdfs:label "Maċedonja ta' Fuq"@mt ;
+	skos:prefLabel "Maċedonja ta' Fuq"@mt ;
+	schema:name "Maċedonja ta' Fuq"@mt ;
+	rdfs:label "Noord-Macedonië"@li ;
+	skos:prefLabel "Noord-Macedonië"@li ;
+	schema:name "Noord-Macedonië"@li ;
+	rdfs:label "د مقدونيې ولسمشريزه"@ps ;
+	skos:prefLabel "د مقدونيې ولسمشريزه"@ps ;
+	schema:name "د مقدونيې ولسمشريزه"@ps ;
+	rdfs:label "Pohjois-Makedonia"@fi ;
+	skos:prefLabel "Pohjois-Makedonia"@fi ;
+	schema:name "Pohjois-Makedonia"@fi ;
+	rdfs:label "北馬其頓"@zh-hant ;
+	skos:prefLabel "北馬其頓"@zh-hant ;
+	schema:name "北馬其頓"@zh-hant ;
+	rdfs:label "Republik Makedonia Utara"@id ;
+	skos:prefLabel "Republik Makedonia Utara"@id ;
+	schema:name "Republik Makedonia Utara"@id ;
+	rdfs:label "मॅसिडोनिया"@gom ;
+	skos:prefLabel "मॅसिडोनिया"@gom ;
+	schema:name "मॅसिडोनिया"@gom ;
+	rdfs:label "મેસેડોનિયા"@gu ;
+	skos:prefLabel "મેસેડોનિયા"@gu ;
+	schema:name "મેસેડોનિયા"@gu ;
+	rdfs:label "Makédonia Kalér"@su ;
+	skos:prefLabel "Makédonia Kalér"@su ;
+	schema:name "Makédonia Kalér"@su ;
+	rdfs:label "Republica del Macedonia del Nord"@ia ;
+	skos:prefLabel "Republica del Macedonia del Nord"@ia ;
+	schema:name "Republica del Macedonia del Nord"@ia ;
+	rdfs:label "ਰੀਪਬਲਿਕ ਆਫ ਨਾਰਥ ਮਕਦੂਨੀਆ"@pa ;
+	skos:prefLabel "ਰੀਪਬਲਿਕ ਆਫ ਨਾਰਥ ਮਕਦੂਨੀਆ"@pa ;
+	schema:name "ਰੀਪਬਲਿਕ ਆਫ ਨਾਰਥ ਮਕਦੂਨੀਆ"@pa ;
+	rdfs:label "Bắc Macedonia"@vi ;
+	skos:prefLabel "Bắc Macedonia"@vi ;
+	schema:name "Bắc Macedonia"@vi ;
+	rdfs:label "Amianan a Macedonia"@ilo ;
+	skos:prefLabel "Amianan a Macedonia"@ilo ;
+	schema:name "Amianan a Macedonia"@ilo ;
+	rdfs:label "Repubbleche de Macidonie"@roa-tara ;
+	skos:prefLabel "Repubbleche de Macidonie"@roa-tara ;
+	schema:name "Repubbleche de Macidonie"@roa-tara ;
+	rdfs:label "Republiek Noord-Masedonië"@af ;
+	skos:prefLabel "Republiek Noord-Masedonië"@af ;
+	schema:name "Republiek Noord-Masedonië"@af ;
+	rdfs:label "Republika sa Macedonia"@ceb ;
+	skos:prefLabel "Republika sa Macedonia"@ceb ;
+	schema:name "Republika sa Macedonia"@ceb ;
+	rdfs:label "Шимал Македония"@krc ;
+	skos:prefLabel "Шимал Македония"@krc ;
+	schema:name "Шимал Македония"@krc ;
+	rdfs:label "Nord-Makedonia"@nb ;
+	skos:prefLabel "Nord-Makedonia"@nb ;
+	schema:name "Nord-Makedonia"@nb ;
+	rdfs:label "Republik Mazedonie"@gsw ;
+	skos:prefLabel "Republik Mazedonie"@gsw ;
+	schema:name "Republik Mazedonie"@gsw ;
+	rdfs:label "උතුරු මැසිඩෝනියාව"@si ;
+	skos:prefLabel "උතුරු මැසිඩෝනියාව"@si ;
+	schema:name "උතුරු මැසිඩෝනියාව"@si ;
+	rdfs:label "北马其顿"@zh-hans ;
+	skos:prefLabel "北马其顿"@zh-hans ;
+	schema:name "北马其顿"@zh-hans ;
+	rdfs:label "Nordmakedonien"@sv ;
+	skos:prefLabel "Nordmakedonien"@sv ;
+	schema:name "Nordmakedonien"@sv ;
+	rdfs:label "Nordmazedonien"@de-ch ;
+	skos:prefLabel "Nordmazedonien"@de-ch ;
+	schema:name "Nordmazedonien"@de-ch ;
+	rdfs:label "Ripùbblica di Macidonia"@scn ;
+	skos:prefLabel "Ripùbblica di Macidonia"@scn ;
+	schema:name "Ripùbblica di Macidonia"@scn ;
+	rdfs:label "Северна Македония"@bg ;
+	skos:prefLabel "Северна Македония"@bg ;
+	schema:name "Северна Македония"@bg ;
+	rdfs:label "Ipar Mazedonia"@eu ;
+	skos:prefLabel "Ipar Mazedonia"@eu ;
+	schema:name "Ipar Mazedonia"@eu ;
+	rdfs:label "ოორუე მაკედონია"@xmf ;
+	skos:prefLabel "ოორუე მაკედონია"@xmf ;
+	schema:name "ოორუე მაკედონია"@xmf ;
+	rdfs:label "Nolüda-Makedoniyän"@vo ;
+	skos:prefLabel "Nolüda-Makedoniyän"@vo ;
+	schema:name "Nolüda-Makedoniyän"@vo ;
+	rdfs:label "ᱢᱟᱥᱤᱰᱚᱱᱤᱭᱟ"@sat ;
+	skos:prefLabel "ᱢᱟᱥᱤᱰᱚᱱᱤᱭᱟ"@sat ;
+	schema:name "ᱢᱟᱥᱤᱰᱚᱱᱤᱭᱟ"@sat ;
+	rdfs:label "Macedonia del Nord"@it ;
+	skos:prefLabel "Macedonia del Nord"@it ;
+	schema:name "Macedonia del Nord"@it ;
+	rdfs:label "Nort Macedonia"@pap ;
+	skos:prefLabel "Nort Macedonia"@pap ;
+	schema:name "Nort Macedonia"@pap ;
+	rdfs:label "मॅसिडोनिया"@gom-deva ;
+	skos:prefLabel "मॅसिडोनिया"@gom-deva ;
+	schema:name "मॅसिडोनिया"@gom-deva ;
+	rdfs:label "Repupalika o ‘Ākau Masedonia"@haw ;
+	skos:prefLabel "Repupalika o ‘Ākau Masedonia"@haw ;
+	schema:name "Repupalika o ‘Ākau Masedonia"@haw ;
+	rdfs:label "Machédoène"@pcd ;
+	skos:prefLabel "Machédoène"@pcd ;
+	schema:name "Machédoène"@pcd ;
+	rdfs:label "Makedonia"@kl ;
+	skos:prefLabel "Makedonia"@kl ;
+	schema:name "Makedonia"@kl ;
+	rdfs:label "מקדוניה הצפונית"@he ;
+	skos:prefLabel "מקדוניה הצפונית"@he ;
+	schema:name "מקדוניה הצפונית"@he ;
+	rdfs:label "Makedońska"@dsb ;
+	skos:prefLabel "Makedońska"@dsb ;
+	schema:name "Makedońska"@dsb ;
+	rdfs:label "Pohjas-Makedounii"@olo ;
+	skos:prefLabel "Pohjas-Makedounii"@olo ;
+	schema:name "Pohjas-Makedounii"@olo ;
+	rdfs:label "Republica de Macedonia"@vec ;
+	skos:prefLabel "Republica de Macedonia"@vec ;
+	schema:name "Republica de Macedonia"@vec ;
+	rdfs:label "Báe̤k Mā-gì-dóng"@cdo ;
+	skos:prefLabel "Báe̤k Mā-gì-dóng"@cdo ;
+	schema:name "Báe̤k Mā-gì-dóng"@cdo ;
+	rdfs:label "Pak Macedonia"@nan ;
+	skos:prefLabel "Pak Macedonia"@nan ;
+	schema:name "Pak Macedonia"@nan ;
+	rdfs:label "Yvate Masendoña"@gn ;
+	skos:prefLabel "Yvate Masendoña"@gn ;
+	schema:name "Yvate Masendoña"@gn ;
+	rdfs:label "مقدونیه شمالی"@fa ;
+	skos:prefLabel "مقدونیه شمالی"@fa ;
+	schema:name "مقدونیه شمالی"@fa ;
+	rdfs:label "Sjeverna Makedonija"@bs ;
+	skos:prefLabel "Sjeverna Makedonija"@bs ;
+	schema:name "Sjeverna Makedonija"@bs ;
+	rdfs:label "Severna Makedonija"@sh ;
+	skos:prefLabel "Severna Makedonija"@sh ;
+	schema:name "Severna Makedonija"@sh ;
+	rdfs:label "北馬其頓共和國"@yue ;
+	skos:prefLabel "北馬其頓共和國"@yue ;
+	schema:name "北馬其頓共和國"@yue ;
+	rdfs:label "ఉత్తర మెసిడోనియా"@te ;
+	skos:prefLabel "ఉత్తర మెసిడోనియా"@te ;
+	schema:name "ఉత్తర మెసిడోనియా"@te ;
+	rdfs:label "Ойвыв Македония"@koi ;
+	skos:prefLabel "Ойвыв Македония"@koi ;
+	schema:name "Ойвыв Македония"@koi ;
+	rdfs:label "Төньяҡ Македония"@ba ;
+	skos:prefLabel "Төньяҡ Македония"@ba ;
+	schema:name "Төньяҡ Македония"@ba ;
+	rdfs:label "Македония Республиката"@sah ;
+	skos:prefLabel "Македония Республиката"@sah ;
+	schema:name "Македония Республиката"@sah ;
+	rdfs:label "Cynewīse Macedonia"@ang ;
+	skos:prefLabel "Cynewīse Macedonia"@ang ;
+	schema:name "Cynewīse Macedonia"@ang ;
+	rdfs:label "मेसेडोनिया"@pi ;
+	skos:prefLabel "मेसेडोनिया"@pi ;
+	schema:name "मेसेडोनिया"@pi ;
+	rdfs:label "Shimoliy Makedoniya"@uz ;
+	skos:prefLabel "Shimoliy Makedoniya"@uz ;
+	schema:name "Shimoliy Makedoniya"@uz ;
+	rdfs:label "Demirgazyk Makedoniýa"@tk ;
+	skos:prefLabel "Demirgazyk Makedoniýa"@tk ;
+	schema:name "Demirgazyk Makedoniýa"@tk ;
+	rdfs:label "Republic of Macedonia"@hif ;
+	skos:prefLabel "Republic of Macedonia"@hif ;
+	schema:name "Republic of Macedonia"@hif ;
+	rdfs:label "Масидин Орн"@xal ;
+	skos:prefLabel "Масидин Орн"@xal ;
+	schema:name "Масидин Орн"@xal ;
+	rdfs:label "Сѣвєрьна Макєдонїꙗ"@cu ;
+	skos:prefLabel "Сѣвєрьна Макєдонїꙗ"@cu ;
+	schema:name "Сѣвєрьна Макєдонїꙗ"@cu ;
+	rdfs:label "Noadmazedonien"@bar ;
+	skos:prefLabel "Noadmazedonien"@bar ;
+	schema:name "Noadmazedonien"@bar ;
+	rdfs:label "Macedonie dal Nort"@fur ;
+	skos:prefLabel "Macedonie dal Nort"@fur ;
+	schema:name "Macedonie dal Nort"@fur ;
+	rdfs:label "Паўночная Македонія"@be-tarask ;
+	skos:prefLabel "Паўночная Македонія"@be-tarask ;
+	schema:name "Паўночная Македонія"@be-tarask ;
+	rdfs:label "Macedonia"@sn ;
+	skos:prefLabel "Macedonia"@sn ;
+	schema:name "Macedonia"@sn ;
+	rdfs:label "북마케도니아"@ko ;
+	skos:prefLabel "북마케도니아"@ko ;
+	schema:name "북마케도니아"@ko ;
+	rdfs:label "Nord-Macedonia"@ie ;
+	skos:prefLabel "Nord-Macedonia"@ie ;
+	schema:name "Nord-Macedonia"@ie ;
+	rdfs:label "Repiblik d Masedoni"@ht ;
+	skos:prefLabel "Repiblik d Masedoni"@ht ;
+	schema:name "Repiblik d Masedoni"@ht ;
+	rdfs:label "Паўночная Македонія"@be ;
+	skos:prefLabel "Паўночная Македонія"@be ;
+	schema:name "Паўночная Македонія"@be ;
+	rdfs:label "ჩრდილოეთი მაკედონია"@ka ;
+	skos:prefLabel "ჩრდილოეთი მაკედონია"@ka ;
+	schema:name "ჩრდილოეთი მაკედონია"@ka ;
+	rdfs:label "Къилбаседа Македони"@ce ;
+	skos:prefLabel "Къилбаседа Македони"@ce ;
+	schema:name "Къилбаседа Македони"@ce ;
+	rdfs:label "Македония Республика"@kv ;
+	skos:prefLabel "Македония Республика"@kv ;
+	schema:name "Македония Республика"@kv ;
+	rdfs:label "Noudmakedonien"@stq ;
+	skos:prefLabel "Noudmakedonien"@stq ;
+	schema:name "Noudmakedonien"@stq ;
+	rdfs:label "Noord-Macedonie"@nds-nl ;
+	skos:prefLabel "Noord-Macedonie"@nds-nl ;
+	schema:name "Noord-Macedonie"@nds-nl ;
+	rdfs:label "མ་སེ་ཌོ་ནིཡ།"@bo ;
+	skos:prefLabel "མ་སེ་ཌོ་ནིཡ།"@bo ;
+	schema:name "མ་སེ་ཌོ་ནིཡ།"@bo ;
+	rdfs:label "Makerōnia"@mi ;
+	skos:prefLabel "Makerōnia"@mi ;
+	schema:name "Makerōnia"@mi ;
+	rdfs:label "Macedonia Północna"@pl ;
+	skos:prefLabel "Macedonia Północna"@pl ;
+	schema:name "Macedonia Północna"@pl ;
+	rdfs:label "North Macedonia"@en-ca ;
+	skos:prefLabel "North Macedonia"@en-ca ;
+	schema:name "North Macedonia"@en-ca ;
+	rdfs:label "Nordmazedonien"@de-at ;
+	skos:prefLabel "Nordmazedonien"@de-at ;
+	schema:name "Nordmazedonien"@de-at ;
+	rdfs:label "የመቄዶንያ ሬፑብሊክ"@am ;
+	skos:prefLabel "የመቄዶንያ ሬፑብሊክ"@am ;
+	schema:name "የመቄዶንያ ሬፑብሊክ"@am ;
+	rdfs:label "Уйпал Македония"@udm ;
+	skos:prefLabel "Уйпал Македония"@udm ;
+	schema:name "Уйпал Македония"@udm ;
+	rdfs:label "Солтүстік Македония"@kk ;
+	skos:prefLabel "Солтүстік Македония"@kk ;
+	schema:name "Солтүстік Македония"@kk ;
+	rdfs:label "Masedónia Norte"@tet ;
+	skos:prefLabel "Masedónia Norte"@tet ;
+	schema:name "Masedónia Norte"@tet ;
+	rdfs:label "Nuurd-Matsedoonien"@frr ;
+	skos:prefLabel "Nuurd-Matsedoonien"@frr ;
+	schema:name "Nuurd-Matsedoonien"@frr ;
+	rdfs:label "Noord-Macedonië"@vls ;
+	skos:prefLabel "Noord-Macedonië"@vls ;
+	schema:name "Noord-Macedonië"@vls ;
+	rdfs:label "Maqedonia e Veriut"@sq ;
+	skos:prefLabel "Maqedonia e Veriut"@sq ;
+	schema:name "Maqedonia e Veriut"@sq ;
+	rdfs:label "म्यासेडोनिया"@new ;
+	skos:prefLabel "म्यासेडोनिया"@new ;
+	schema:name "म्यासेडोनिया"@new ;
+	rdfs:label "Βόρεια Μακεδονία"@pnt ;
+	skos:prefLabel "Βόρεια Μακεδονία"@pnt ;
+	schema:name "Βόρεια Μακεδονία"@pnt ;
+	rdfs:label "Macedônia do Norte"@pt-br ;
+	skos:prefLabel "Macedônia do Norte"@pt-br ;
+	schema:name "Macedônia do Norte"@pt-br ;
+	rdfs:label "Йӱдвел Македоний"@mhr ;
+	skos:prefLabel "Йӱдвел Македоний"@mhr ;
+	schema:name "Йӱдвел Македоний"@mhr ;
+	rdfs:label "ماكېدونىيە"@ug ;
+	skos:prefLabel "ماكېدونىيە"@ug ;
+	schema:name "ماكېدونىيە"@ug ;
+	rdfs:label "Сѣверна Македонія"@rue ;
+	skos:prefLabel "Сѣверна Македонія"@rue ;
+	schema:name "Сѣверна Македонія"@rue ;
+	rdfs:label "Matzedònia de su Norte"@sc ;
+	skos:prefLabel "Matzedònia de su Norte"@sc ;
+	schema:name "Matzedònia de su Norte"@sc ;
+	rdfs:label "Makedonyaya Bakur"@ku ;
+	skos:prefLabel "Makedonyaya Bakur"@ku ;
+	schema:name "Makedonyaya Bakur"@ku ;
+	rdfs:label "ܩܘܛܢܝܘܬܐ ܕܡܩܕܘܢܝܐ"@arc ;
+	skos:prefLabel "ܩܘܛܢܝܘܬܐ ܕܡܩܕܘܢܝܐ"@arc ;
+	schema:name "ܩܘܛܢܝܘܬܐ ܕܡܩܕܘܢܝܐ"@arc ;
+	rdfs:label "IMakhedoniya"@ss ;
+	skos:prefLabel "IMakhedoniya"@ss ;
+	schema:name "IMakhedoniya"@ss ;
+	rdfs:label "Republic of Macedonia"@ts ;
+	skos:prefLabel "Republic of Macedonia"@ts ;
+	schema:name "Republic of Macedonia"@ts ;
+	rdfs:label "މެސެޑޯނިއާ"@dv ;
+	skos:prefLabel "މެސެޑޯނިއާ"@dv ;
+	schema:name "މެސެޑޯނިއާ"@dv ;
+	rdfs:label "جمهورية مقدونيا"@arz ;
+	skos:prefLabel "جمهورية مقدونيا"@arz ;
+	schema:name "جمهورية مقدونيا"@arz ;
+	rdfs:label "Davvi-Makedonia"@se ;
+	skos:prefLabel "Davvi-Makedonia"@se ;
+	schema:name "Davvi-Makedonia"@se ;
+	rdfs:label "Tlācatlahtohcāyōtl Macedonia"@nah ;
+	skos:prefLabel "Tlācatlahtohcāyōtl Macedonia"@nah ;
+	schema:name "Tlācatlahtohcāyōtl Macedonia"@nah ;
+	rdfs:label "Chinchay Masitunya"@qu ;
+	skos:prefLabel "Chinchay Masitunya"@qu ;
+	schema:name "Chinchay Masitunya"@qu ;
+	rdfs:label "Severní Makedonie"@cs ;
+	skos:prefLabel "Severní Makedonie"@cs ;
+	schema:name "Severní Makedonie"@cs ;
+	rdfs:label "Repoblek Makedoni"@kw ;
+	skos:prefLabel "Repoblek Makedoni"@kw ;
+	schema:name "Repoblek Makedoni"@kw ;
+	rdfs:label "Maçedònia do Nòrd"@lij ;
+	skos:prefLabel "Maçedònia do Nòrd"@lij ;
+	schema:name "Maçedònia do Nòrd"@lij ;
+	rdfs:label "Makedonia"@lad ;
+	skos:prefLabel "Makedonia"@lad ;
+	schema:name "Makedonia"@lad ;
+	rdfs:label "Република Северна Македонија"@sr-ec ;
+	skos:prefLabel "Република Северна Македонија"@sr-ec ;
+	schema:name "Република Северна Македонија"@sr-ec ;
+	rdfs:label "Sjeverna Makedonija"@hr ;
+	skos:prefLabel "Sjeverna Makedonija"@hr ;
+	schema:name "Sjeverna Makedonija"@hr ;
+	rdfs:label "北マケドニア"@ja ;
+	skos:prefLabel "北マケドニア"@ja ;
+	schema:name "北マケドニア"@ja ;
+	rdfs:label "Kuzey Makedonya"@tr ;
+	skos:prefLabel "Kuzey Makedonya"@tr ;
+	schema:name "Kuzey Makedonya"@tr ;
+	rdfs:label "Macedonia"@lfn ;
+	skos:prefLabel "Macedonia"@lfn ;
+	schema:name "Macedonia"@lfn ;
+	rdfs:label "Makedonia an Norzh"@br ;
+	skos:prefLabel "Makedonia an Norzh"@br ;
+	schema:name "Makedonia an Norzh"@br ;
+	rdfs:label "北馬其頓"@lzh ;
+	skos:prefLabel "北馬其頓"@lzh ;
+	schema:name "北馬其頓"@lzh ;
+	rdfs:label "मेसेडोनिया"@sa ;
+	skos:prefLabel "मेसेडोनिया"@sa ;
+	schema:name "मेसेडोनिया"@sa ;
+	rdfs:label "Macedonia del Nord"@lmo ;
+	skos:prefLabel "Macedonia del Nord"@lmo ;
+	schema:name "Macedonia del Nord"@lmo ;
+	rdfs:label "ประเทศนอร์ทมาซิโดเนีย"@th ;
+	skos:prefLabel "ประเทศนอร์ทมาซิโดเนีย"@th ;
+	schema:name "ประเทศนอร์ทมาซิโดเนีย"@th ;
+	rdfs:label "Pet Macedonia"@hak ;
+	skos:prefLabel "Pet Macedonia"@hak ;
+	schema:name "Pet Macedonia"@hak ;
+	rdfs:label "म्यासेडोनिया"@dty ;
+	skos:prefLabel "म्यासेडोनिया"@dty ;
+	schema:name "म्यासेडोनिया"@dty ;
+	rdfs:label "Северна Македонија"@sr ;
+	skos:prefLabel "Северна Македонија"@sr ;
+	schema:name "Северна Македонија"@sr ;
+	rdfs:label "ម៉ាសេដូនាខាងត្បូង"@km ;
+	skos:prefLabel "ម៉ាសេដូនាខាងត្បូង"@km ;
+	schema:name "ម៉ាសេដូនាខាងត្បូង"@km ;
+	rdfs:label "Аҩадатәи Македониа"@ab ;
+	skos:prefLabel "Аҩадатәи Македониа"@ab ;
+	schema:name "Аҩадатәи Македониа"@ab ;
+	rdfs:label "北馬其頓"@zh-hk ;
+	skos:prefLabel "北馬其頓"@zh-hk ;
+	schema:name "北馬其頓"@zh-hk ;
+	rdfs:label "北马其顿"@zh-cn ;
+	skos:prefLabel "北马其顿"@zh-cn ;
+	schema:name "北马其顿"@zh-cn ;
+	rdfs:label "北马其顿"@zh-sg ;
+	skos:prefLabel "北马其顿"@zh-sg ;
+	schema:name "北马其顿"@zh-sg ;
+	rdfs:label "北马其顿"@zh-my ;
+	skos:prefLabel "北马其顿"@zh-my ;
+	schema:name "北马其顿"@zh-my ;
+	rdfs:label "Masedoni ya Nola"@ln ;
+	skos:prefLabel "Masedoni ya Nola"@ln ;
+	schema:name "Masedoni ya Nola"@ln ;
+	rdfs:label "Macedonia Utara"@ban ;
+	skos:prefLabel "Macedonia Utara"@ban ;
+	schema:name "Macedonia Utara"@ban ;
+	rdfs:label "Macedonia"@szy ;
+	skos:prefLabel "Macedonia"@szy ;
+	schema:name "Macedonia"@szy ;
+	rdfs:label "Masédwann (péyi)"@gcr ;
+	skos:prefLabel "Masédwann (péyi)"@gcr ;
+	schema:name "Masédwann (péyi)"@gcr ;
+	rdfs:label "شمال مقدونيا"@ary ;
+	skos:prefLabel "شمال مقدونيا"@ary ;
+	schema:name "شمال مقدونيا"@ary ;
+	rdfs:label "Macedonia dal Nord"@rm ;
+	skos:prefLabel "Macedonia dal Nord"@rm ;
+	schema:name "Macedonia dal Nord"@rm ;
+	rdfs:label "Nordmazedonien"@als ;
+	skos:prefLabel "Nordmazedonien"@als ;
+	schema:name "Nordmazedonien"@als ;
+	rdfs:label "Šiaurės Makeduonėjė"@bat-smg ;
+	skos:prefLabel "Šiaurės Makeduonėjė"@bat-smg ;
+	schema:name "Šiaurės Makeduonėjė"@bat-smg ;
+	rdfs:label "Паўночная Македонія"@be-x-old ;
+	skos:prefLabel "Паўночная Македонія"@be-x-old ;
+	schema:name "Паўночная Македонія"@be-x-old ;
+	rdfs:label "मेसीडोनिया"@bh ;
+	skos:prefLabel "मेसीडोनिया"@bh ;
+	schema:name "मेसीडोनिया"@bh ;
+	rdfs:label "Põh'a Makõdoonia"@fiu-vro ;
+	skos:prefLabel "Põh'a Makõdoonia"@fiu-vro ;
+	schema:name "Põh'a Makõdoonia"@fiu-vro ;
+	rdfs:label "Nord-Makedonia"@no ;
+	skos:prefLabel "Nord-Makedonia"@no ;
+	schema:name "Nord-Makedonia"@no ;
+	rdfs:label "Machedonia di Nord"@roa-rup ;
+	skos:prefLabel "Machedonia di Nord"@roa-rup ;
+	schema:name "Machedonia di Nord"@roa-rup ;
+	rdfs:label "North Macedonia"@simple ;
+	skos:prefLabel "North Macedonia"@simple ;
+	schema:name "North Macedonia"@simple ;
+	rdfs:label "北馬其頓"@zh-classical ;
+	skos:prefLabel "北馬其頓"@zh-classical ;
+	schema:name "北馬其頓"@zh-classical ;
+	rdfs:label "Pak Macedonia"@zh-min-nan ;
+	skos:prefLabel "Pak Macedonia"@zh-min-nan ;
+	schema:name "Pak Macedonia"@zh-min-nan ;
+	rdfs:label "北馬其頓"@zh-yue ;
+	skos:prefLabel "北馬其頓"@zh-yue ;
+	schema:name "北馬其頓"@zh-yue ;
+	schema:description "štát v juhovýchodnej Európe"@sk,
+		"земја во југоисточна Европа"@mk,
+		"Landingeslote republiek op die Balkanskiereiland"@af,
+		"État d'Europe du Sud"@fr,
+		"國家"@zh,
+		"Stato della penisola balcanica"@it,
+		"stat w juhowuchodnej Europje"@hsb,
+		"দক্ষিণ পূর্ব ইউরোপের দেশ"@bn,
+		"valtio Euroopassa"@fi,
+		"Balkanlar'da bir ülke"@tr,
+		"держава у Південно-Східній Європі, на Балканському півострові"@uk,
+		"negara Republik di Eropa Tenggara"@id,
+		"дзяржава ў Еўропе"@be,
+		"país balcânico no sudeste da Europa"@pt,
+		"ქვეყანა სამხრეთ-აღმოსავლეთ ევროპაში"@ka,
+		"государство в Южной Европе, на территории Балканского полуострова"@ru,
+		"Staat in Südosteuropa"@de-ch,
+		"کشوری در قاره اروپا"@fa,
+		"nước cộng hòa vùng Balkan thuộc châu Âu"@vi,
+		"republika idiay Abagatan a daya nga Europa"@ilo,
+		"país de Europa"@es,
+		"Staat in Südosteuropa"@de-at,
+		"państwo w Europie Południowej"@pl,
+		"republic in Southeast Europe"@en-ca,
+		"innlandsstat på Balkan"@nb,
+		"állam Délkelet-Európában"@hu,
+		"दक्षिण युरोपको देश"@ne,
+		"位于东南欧的巴尔干半岛南部的内陆国家"@zh-hans,
+		"land in Europa"@nl,
+		"Binnenstaat in Südosteuropa, ehemalige Teilrepublik von Jugoslawien"@de,
+		"republik i Sydeuropa"@sv,
+		"държава в Югоизточна Европа"@bg,
+		"دولة في جنوب أوروبا الشرقية"@ar,
+		"republikë në Evropën Juglindore"@sq,
+		"país balcânico no sudeste da Europa"@pt-br,
+		"država u jugoistočnoj Evropi"@sr-el,
+		"sovereign state in Southeast Europe"@en,
+		"Stoot in Sidosteiropa"@bar,
+		"valdund Suvievropas"@vep,
+		"país d'Europa"@ast,
+		"Europako herrialdea"@eu,
+		"stát v jihovýchodní Evropě"@cs,
+		"מדינה באירופה"@he,
+		"stat suveran din Europa de Sud, fostă republică iugoslavă"@ro,
+		"país europeo situado na península dos Balcáns"@gl,
+		"Land a Südosteuropa"@lb,
+		"држава у југоисточној Европи"@sr-ec,
+		"country in Southeast Europe"@en-gb,
+		"država jugoistočne Europe"@hr,
+		"東ヨーロッパのバルカン半島に位置する共和国"@ja,
+		"mamlakat"@uz,
+		"lando en sudorienta Eŭropo, kies ĉefurbo estas Skopjo"@eo,
+		"สาธารณรัฐในยุโรปตะวันออกเฉียงใต้"@th,
+		"Et land i Sydøsteuropa"@da,
+		"република у Југоисточној Европи"@sr,
+		"κράτος της Νοτιοανατολικής Ευρώπης"@el,
+		"valsts Eiropas dienvidaustrumos, Balkānu pussalā"@lv,
+		"país d'Euròpa"@oc,
+		"Un Land in Europa"@ie,
+		"riika Eurohpás"@se,
+		"유럽 발칸반도에 있는 나라"@ko,
+		"država smještena na Balkanskom poluostrvu"@bs .
+
+wd:P17 a wikibase:Property,
+		wikibase:Property ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P17 ;
+	wikibase:claim p:P17 ;
+	wikibase:statementProperty ps:P17 ;
+	wikibase:statementValue psv:P17 ;
+	wikibase:qualifier pq:P17 ;
+	wikibase:qualifierValue pqv:P17 ;
+	wikibase:reference pr:P17 ;
+	wikibase:referenceValue prv:P17 ;
+	wikibase:novalue wdno:P17 .
+
+p:P17 a owl:ObjectProperty .
+
+psv:P17 a owl:ObjectProperty .
+
+pqv:P17 a owl:ObjectProperty .
+
+prv:P17 a owl:ObjectProperty .
+
+wdt:P17 a owl:ObjectProperty .
+
+ps:P17 a owl:ObjectProperty .
+
+pq:P17 a owl:ObjectProperty .
+
+pr:P17 a owl:ObjectProperty .
+
+wdno:P17 a owl:Class ;
+	owl:complementOf _:2239e2b1bcf15b06180ded3580bd0cef .
+
+_:2239e2b1bcf15b06180ded3580bd0cef a owl:Restriction ;
+	owl:onProperty wdt:P17 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P17 rdfs:label "country"@en ;
+	skos:prefLabel "country"@en ;
+	schema:name "country"@en ;
+	rdfs:label "Paese"@it ;
+	skos:prefLabel "Paese"@it ;
+	schema:name "Paese"@it ;
+	rdfs:label "pays"@fr ;
+	skos:prefLabel "pays"@fr ;
+	schema:name "pays"@fr ;
+	rdfs:label "国家"@zh ;
+	skos:prefLabel "国家"@zh ;
+	schema:name "国家"@zh ;
+	rdfs:label "国家"@zh-hans ;
+	skos:prefLabel "国家"@zh-hans ;
+	schema:name "国家"@zh-hans ;
+	rdfs:label "國家"@zh-hant ;
+	skos:prefLabel "國家"@zh-hant ;
+	schema:name "國家"@zh-hant ;
+	rdfs:label "Staat"@de ;
+	skos:prefLabel "Staat"@de ;
+	schema:name "Staat"@de ;
+	rdfs:label "valtio"@fi ;
+	skos:prefLabel "valtio"@fi ;
+	schema:name "valtio"@fi ;
+	rdfs:label "מדינה"@he ;
+	skos:prefLabel "מדינה"@he ;
+	schema:name "מדינה"@he ;
+	rdfs:label "stát"@cs ;
+	skos:prefLabel "stát"@cs ;
+	schema:name "stát"@cs ;
+	rdfs:label "land"@is ;
+	skos:prefLabel "land"@is ;
+	schema:name "land"@is ;
+	rdfs:label "ქვეყანა"@ka ;
+	skos:prefLabel "ქვეყანა"@ka ;
+	schema:name "ქვეყანა"@ka ;
+	rdfs:label "государство"@ru ;
+	skos:prefLabel "государство"@ru ;
+	schema:name "государство"@ru ;
+	rdfs:label "ország"@hu ;
+	skos:prefLabel "ország"@hu ;
+	schema:name "ország"@hu ;
+	rdfs:label "zemlja"@hr ;
+	skos:prefLabel "zemlja"@hr ;
+	schema:name "zemlja"@hr ;
+	rdfs:label "país"@es ;
+	skos:prefLabel "país"@es ;
+	schema:name "país"@es ;
+	rdfs:label "χώρα"@el ;
+	skos:prefLabel "χώρα"@el ;
+	schema:name "χώρα"@el ;
+	rdfs:label "land"@nl ;
+	skos:prefLabel "land"@nl ;
+	schema:name "land"@nl ;
+	rdfs:label "Stàt"@lmo ;
+	skos:prefLabel "Stàt"@lmo ;
+	schema:name "Stàt"@lmo ;
+	rdfs:label "państwo"@pl ;
+	skos:prefLabel "państwo"@pl ;
+	schema:name "państwo"@pl ;
+	rdfs:label "држава"@sr ;
+	skos:prefLabel "држава"@sr ;
+	schema:name "држава"@sr ;
+	rdfs:label "estat"@ca ;
+	skos:prefLabel "estat"@ca ;
+	schema:name "estat"@ca ;
+	rdfs:label "land"@nb ;
+	skos:prefLabel "land"@nb ;
+	schema:name "land"@nb ;
+	rdfs:label "pagilian"@ilo ;
+	skos:prefLabel "pagilian"@ilo ;
+	schema:name "pagilian"@ilo ;
+	rdfs:label "краіна"@be ;
+	skos:prefLabel "краіна"@be ;
+	schema:name "краіна"@be ;
+	rdfs:label "کشور"@fa ;
+	skos:prefLabel "کشور"@fa ;
+	schema:name "کشور"@fa ;
+	rdfs:label "다음 나라의 것임"@ko ;
+	skos:prefLabel "다음 나라의 것임"@ko ;
+	schema:name "다음 나라의 것임"@ko ;
+	rdfs:label "краіна"@be-tarask ;
+	skos:prefLabel "краіна"@be-tarask ;
+	schema:name "краіна"@be-tarask ;
+	rdfs:label "国家"@zh-cn ;
+	skos:prefLabel "国家"@zh-cn ;
+	schema:name "国家"@zh-cn ;
+	rdfs:label "நாடு"@ta ;
+	skos:prefLabel "நாடு"@ta ;
+	schema:name "நாடு"@ta ;
+	rdfs:label "国"@ja ;
+	skos:prefLabel "国"@ja ;
+	schema:name "国"@ja ;
+	rdfs:label "land"@nn ;
+	skos:prefLabel "land"@nn ;
+	schema:name "land"@nn ;
+	rdfs:label "país"@pt-br ;
+	skos:prefLabel "país"@pt-br ;
+	schema:name "país"@pt-br ;
+	rdfs:label "país"@pt ;
+	skos:prefLabel "país"@pt ;
+	schema:name "país"@pt ;
+	rdfs:label "land"@da ;
+	skos:prefLabel "land"@da ;
+	schema:name "land"@da ;
+	rdfs:label "country"@en-gb ;
+	skos:prefLabel "country"@en-gb ;
+	schema:name "country"@en-gb ;
+	rdfs:label "country"@en-ca ;
+	skos:prefLabel "country"@en-ca ;
+	schema:name "country"@en-ca ;
+	rdfs:label "quốc gia"@vi ;
+	skos:prefLabel "quốc gia"@vi ;
+	schema:name "quốc gia"@vi ;
+	rdfs:label "država"@bs ;
+	skos:prefLabel "država"@bs ;
+	schema:name "država"@bs ;
+	rdfs:label "ประเทศ"@th ;
+	skos:prefLabel "ประเทศ"@th ;
+	schema:name "ประเทศ"@th ;
+	rdfs:label "держава"@uk ;
+	skos:prefLabel "держава"@uk ;
+	schema:name "держава"@uk ;
+	rdfs:label "davlat"@uz ;
+	skos:prefLabel "davlat"@uz ;
+	schema:name "davlat"@uz ;
+	rdfs:label "valsts"@lv ;
+	skos:prefLabel "valsts"@lv ;
+	schema:name "valsts"@lv ;
+	rdfs:label "देश"@hi ;
+	skos:prefLabel "देश"@hi ;
+	schema:name "देश"@hi ;
+	rdfs:label "Land"@nds ;
+	skos:prefLabel "Land"@nds ;
+	schema:name "Land"@nds ;
+	rdfs:label "lando"@eo ;
+	skos:prefLabel "lando"@eo ;
+	schema:name "lando"@eo ;
+	rdfs:label "država"@sl ;
+	skos:prefLabel "država"@sl ;
+	schema:name "država"@sl ;
+	rdfs:label "land"@sv ;
+	skos:prefLabel "land"@sv ;
+	schema:name "land"@sv ;
+	rdfs:label "Lound"@stq ;
+	skos:prefLabel "Lound"@stq ;
+	schema:name "Lound"@stq ;
+	rdfs:label "negara"@id ;
+	skos:prefLabel "negara"@id ;
+	schema:name "negara"@id ;
+	rdfs:label "țară"@ro ;
+	skos:prefLabel "țară"@ro ;
+	schema:name "țară"@ro ;
+	rdfs:label "stadi"@rm ;
+	skos:prefLabel "stadi"@rm ;
+	schema:name "stadi"@rm ;
+	rdfs:label "രാജ്യം"@ml ;
+	skos:prefLabel "രാജ്യം"@ml ;
+	schema:name "രാജ്യം"@ml ;
+	rdfs:label "البلد"@ar ;
+	skos:prefLabel "البلد"@ar ;
+	schema:name "البلد"@ar ;
+	rdfs:label "nagara"@min ;
+	skos:prefLabel "nagara"@min ;
+	schema:name "nagara"@min ;
+	rdfs:label "國家"@zh-tw ;
+	skos:prefLabel "國家"@zh-tw ;
+	schema:name "國家"@zh-tw ;
+	rdfs:label "país"@gl ;
+	skos:prefLabel "país"@gl ;
+	schema:name "país"@gl ;
+	rdfs:label "земја"@mk ;
+	skos:prefLabel "земја"@mk ;
+	schema:name "земја"@mk ;
+	rdfs:label "land"@af ;
+	skos:prefLabel "land"@af ;
+	schema:name "land"@af ;
+	rdfs:label "देश"@mr ;
+	skos:prefLabel "देश"@mr ;
+	schema:name "देश"@mr ;
+	rdfs:label "kintra"@sco ;
+	skos:prefLabel "kintra"@sco ;
+	schema:name "kintra"@sco ;
+	rdfs:label "রাষ্ট্র"@bn ;
+	skos:prefLabel "রাষ্ট্র"@bn ;
+	schema:name "রাষ্ট্র"@bn ;
+	rdfs:label "štát"@sk ;
+	skos:prefLabel "štát"@sk ;
+	schema:name "štát"@sk ;
+	rdfs:label "land"@nds-nl ;
+	skos:prefLabel "land"@nds-nl ;
+	schema:name "land"@nds-nl ;
+	rdfs:label "Stad"@br ;
+	skos:prefLabel "Stad"@br ;
+	schema:name "Stad"@br ;
+	rdfs:label "civitas"@la ;
+	skos:prefLabel "civitas"@la ;
+	schema:name "civitas"@la ;
+	rdfs:label "valstybė"@lt ;
+	skos:prefLabel "valstybė"@lt ;
+	schema:name "valstybė"@lt ;
+	rdfs:label "държава"@bg ;
+	skos:prefLabel "държава"@bg ;
+	schema:name "държава"@bg ;
+	rdfs:label "وڵات"@ckb ;
+	skos:prefLabel "وڵات"@ckb ;
+	schema:name "وڵات"@ckb ;
+	rdfs:label "Land"@de-ch ;
+	skos:prefLabel "Land"@de-ch ;
+	schema:name "Land"@de-ch ;
+	rdfs:label "riik"@et ;
+	skos:prefLabel "riik"@et ;
+	schema:name "riik"@et ;
+	rdfs:label "pays"@pcd ;
+	skos:prefLabel "pays"@pcd ;
+	schema:name "pays"@pcd ;
+	rdfs:label "ülkesi"@tr ;
+	skos:prefLabel "ülkesi"@tr ;
+	schema:name "ülkesi"@tr ;
+	rdfs:label "paese"@co ;
+	skos:prefLabel "paese"@co ;
+	schema:name "paese"@co ;
+	rdfs:label "מדינה"@yi ;
+	skos:prefLabel "מדינה"@yi ;
+	schema:name "מדינה"@yi ;
+	rdfs:label "país"@oc ;
+	skos:prefLabel "país"@oc ;
+	schema:name "país"@oc ;
+	rdfs:label "gugde"@jbo ;
+	skos:prefLabel "gugde"@jbo ;
+	schema:name "gugde"@jbo ;
+	rdfs:label "State"@roa-tara ;
+	skos:prefLabel "State"@roa-tara ;
+	schema:name "State"@roa-tara ;
+	rdfs:label "દેશ"@gu ;
+	skos:prefLabel "દેશ"@gu ;
+	schema:name "દેશ"@gu ;
+	rdfs:label "negara"@ms ;
+	skos:prefLabel "negara"@ms ;
+	schema:name "negara"@ms ;
+	rdfs:label "bansa"@tl ;
+	skos:prefLabel "bansa"@tl ;
+	schema:name "bansa"@tl ;
+	rdfs:label "држава"@sr-ec ;
+	skos:prefLabel "држава"@sr-ec ;
+	schema:name "држава"@sr-ec ;
+	rdfs:label "država"@sr-el ;
+	skos:prefLabel "država"@sr-el ;
+	schema:name "država"@sr-el ;
+	rdfs:label "zemlja"@sh ;
+	skos:prefLabel "zemlja"@sh ;
+	schema:name "zemlja"@sh ;
+	rdfs:label "Firenena"@mg ;
+	skos:prefLabel "Firenena"@mg ;
+	schema:name "Firenena"@mg ;
+	rdfs:label "Staat"@gsw ;
+	skos:prefLabel "Staat"@gsw ;
+	schema:name "Staat"@gsw ;
+	rdfs:label "Land"@lb ;
+	skos:prefLabel "Land"@lb ;
+	schema:name "Land"@lb ;
+	rdfs:label "దేశం"@te ;
+	skos:prefLabel "దేశం"@te ;
+	schema:name "దేశం"@te ;
+	rdfs:label "Tiko"@ts ;
+	skos:prefLabel "Tiko"@ts ;
+	schema:name "Tiko"@ts ;
+	rdfs:label "дәүләт"@tt ;
+	skos:prefLabel "дәүләт"@tt ;
+	schema:name "дәүләт"@tt ;
+	rdfs:label "國"@yue ;
+	skos:prefLabel "國"@yue ;
+	schema:name "國"@yue ;
+	rdfs:label "國家"@zh-hk ;
+	skos:prefLabel "國家"@zh-hk ;
+	schema:name "國家"@zh-hk ;
+	rdfs:label "ଦେଶ"@or ;
+	skos:prefLabel "ଦେଶ"@or ;
+	schema:name "ଦେଶ"@or ;
+	rdfs:label "pais"@ia ;
+	skos:prefLabel "pais"@ia ;
+	schema:name "pais"@ia ;
+	rdfs:label "Staat"@de-at ;
+	skos:prefLabel "Staat"@de-at ;
+	schema:name "Staat"@de-at ;
+	rdfs:label "Schtaht"@ksh ;
+	skos:prefLabel "Schtaht"@ksh ;
+	schema:name "Schtaht"@ksh ;
+	rdfs:label "herrialdea"@eu ;
+	skos:prefLabel "herrialdea"@eu ;
+	schema:name "herrialdea"@eu ;
+	rdfs:label "paìsi"@scn ;
+	skos:prefLabel "paìsi"@scn ;
+	schema:name "paìsi"@scn ;
+	rdfs:label "lân"@fy ;
+	skos:prefLabel "lân"@fy ;
+	schema:name "lân"@fy ;
+	rdfs:label "пачхьалкх"@ce ;
+	skos:prefLabel "пачхьалкх"@ce ;
+	schema:name "пачхьалкх"@ce ;
+	rdfs:label "देश"@ne ;
+	skos:prefLabel "देश"@ne ;
+	schema:name "देश"@ne ;
+	rdfs:label "país"@ast ;
+	skos:prefLabel "país"@ast ;
+	schema:name "país"@ast ;
+	rdfs:label "gwladwriaeth"@cy ;
+	skos:prefLabel "gwladwriaeth"@cy ;
+	schema:name "gwladwriaeth"@cy ;
+	rdfs:label "мастор"@myv ;
+	skos:prefLabel "мастор"@myv ;
+	schema:name "мастор"@myv ;
+	rdfs:label "երկիր"@hy ;
+	skos:prefLabel "երկիր"@hy ;
+	schema:name "երկիր"@hy ;
+	rdfs:label "мланде"@mhr ;
+	skos:prefLabel "мланде"@mhr ;
+	schema:name "мланде"@mhr ;
+	rdfs:label "shteti"@sq ;
+	skos:prefLabel "shteti"@sq ;
+	schema:name "shteti"@sq ;
+	rdfs:label "pajjiż"@mt ;
+	skos:prefLabel "pajjiż"@mt ;
+	schema:name "pajjiż"@mt ;
+	rdfs:label "देश"@mai ;
+	skos:prefLabel "देश"@mai ;
+	schema:name "देश"@mai ;
+	rdfs:label "هېواد"@ps ;
+	skos:prefLabel "هېواد"@ps ;
+	schema:name "هېواد"@ps ;
+	rdfs:label "stoot"@frr ;
+	skos:prefLabel "stoot"@frr ;
+	schema:name "stoot"@frr ;
+	rdfs:label "land"@fo ;
+	skos:prefLabel "land"@fo ;
+	schema:name "land"@fo ;
+	rdfs:label "ದೇಶ"@kn ;
+	skos:prefLabel "ದೇಶ"@kn ;
+	schema:name "ದೇಶ"@kn ;
+	rdfs:label "tír"@ga ;
+	skos:prefLabel "tír"@ga ;
+	schema:name "tír"@ga ;
+	rdfs:label "dùthaich"@gd ;
+	skos:prefLabel "dùthaich"@gd ;
+	schema:name "dùthaich"@gd ;
+	rdfs:label "ਦੇਸ਼"@pa ;
+	skos:prefLabel "ਦੇਸ਼"@pa ;
+	schema:name "ਦੇਸ਼"@pa ;
+	rdfs:label "кишвар"@tg ;
+	skos:prefLabel "кишвар"@tg ;
+	schema:name "кишвар"@tg ;
+	rdfs:label "stat"@hsb ;
+	skos:prefLabel "stat"@hsb ;
+	schema:name "stat"@hsb ;
+	rdfs:label "welat"@ku-latn ;
+	skos:prefLabel "welat"@ku-latn ;
+	schema:name "welat"@ku-latn ;
+	rdfs:label "valdivo"@olo ;
+	skos:prefLabel "valdivo"@olo ;
+	schema:name "valdivo"@olo ;
+	rdfs:label "國家"@zh-mo ;
+	skos:prefLabel "國家"@zh-mo ;
+	schema:name "國家"@zh-mo ;
+	rdfs:label "国家"@zh-my ;
+	skos:prefLabel "国家"@zh-my ;
+	schema:name "国家"@zh-my ;
+	rdfs:label "国家"@zh-sg ;
+	skos:prefLabel "国家"@zh-sg ;
+	schema:name "国家"@zh-sg ;
+	rdfs:label "bangsa"@pam ;
+	skos:prefLabel "bangsa"@pam ;
+	schema:name "bangsa"@pam ;
+	rdfs:label "дәүләт"@ba ;
+	skos:prefLabel "дәүләт"@ba ;
+	schema:name "дәүләт"@ba ;
+	rdfs:label "Naga"@nso ;
+	skos:prefLabel "Naga"@nso ;
+	schema:name "Naga"@nso ;
+	rdfs:label "país"@an ;
+	skos:prefLabel "país"@an ;
+	schema:name "país"@an ;
+	rdfs:label "Stoot"@bar ;
+	skos:prefLabel "Stoot"@bar ;
+	schema:name "Stoot"@bar ;
+	rdfs:label "Мамлекет"@ky ;
+	skos:prefLabel "Мамлекет"@ky ;
+	schema:name "Мамлекет"@ky ;
+	rdfs:label "ملک"@ur ;
+	skos:prefLabel "ملک"@ur ;
+	schema:name "ملک"@ur ;
+	rdfs:label "orílè-èdè"@yo ;
+	skos:prefLabel "orílè-èdè"@yo ;
+	schema:name "orílè-èdè"@yo ;
+	rdfs:label "давлат"@tg-cyrl ;
+	skos:prefLabel "давлат"@tg-cyrl ;
+	schema:name "давлат"@tg-cyrl ;
+	rdfs:label "နိုင်ငံ"@my ;
+	skos:prefLabel "နိုင်ငံ"@my ;
+	schema:name "နိုင်ငံ"@my ;
+	rdfs:label "البلاد"@aeb-arab ;
+	skos:prefLabel "البلاد"@aeb-arab ;
+	schema:name "البلاد"@aeb-arab ;
+	rdfs:label "дәүләт"@tt-cyrl ;
+	skos:prefLabel "дәүләт"@tt-cyrl ;
+	schema:name "дәүләт"@tt-cyrl ;
+	rdfs:label "däwlät"@tt-latn ;
+	skos:prefLabel "däwlät"@tt-latn ;
+	schema:name "däwlät"@tt-latn ;
+	rdfs:label "riika"@se ;
+	skos:prefLabel "riika"@se ;
+	schema:name "riika"@se ;
+	rdfs:label "රට"@si ;
+	skos:prefLabel "රට"@si ;
+	schema:name "රට"@si ;
+	rdfs:label "lando"@io ;
+	skos:prefLabel "lando"@io ;
+	schema:name "lando"@io ;
+	rdfs:label "län"@vo ;
+	skos:prefLabel "län"@vo ;
+	schema:name "län"@vo ;
+	rdfs:label "pais"@lfn ;
+	skos:prefLabel "pais"@lfn ;
+	schema:name "pais"@lfn ;
+	rdfs:label "ƙasa"@ha ;
+	skos:prefLabel "ƙasa"@ha ;
+	schema:name "ƙasa"@ha ;
+	rdfs:label "ölkə"@az ;
+	skos:prefLabel "ölkə"@az ;
+	schema:name "ölkə"@az ;
+	rdfs:label "askik"@atj ;
+	skos:prefLabel "askik"@atj ;
+	schema:name "askik"@atj ;
+	rdfs:label "አገር"@am ;
+	skos:prefLabel "አገር"@am ;
+	schema:name "አገር"@am ;
+	rdfs:label "dewlete"@diq ;
+	skos:prefLabel "dewlete"@diq ;
+	schema:name "dewlete"@diq ;
+	rdfs:label "vaļsteiba"@ltg ;
+	skos:prefLabel "vaļsteiba"@ltg ;
+	schema:name "vaļsteiba"@ltg ;
+	rdfs:label "šalės"@sgs ;
+	skos:prefLabel "šalės"@sgs ;
+	schema:name "šalės"@sgs ;
+	rdfs:label "nagara"@jv ;
+	skos:prefLabel "nagara"@jv ;
+	schema:name "nagara"@jv ;
+	rdfs:label "tamurt"@kab ;
+	skos:prefLabel "tamurt"@kab ;
+	schema:name "tamurt"@kab ;
+	rdfs:label "гьукумат"@lez ;
+	skos:prefLabel "гьукумат"@lez ;
+	schema:name "гьукумат"@lez ;
+	rdfs:label "ߖߡߊ߬ߣߊ߫"@nqo ;
+	skos:prefLabel "ߖߡߊ߬ߣߊ߫"@nqo ;
+	schema:name "ߖߡߊ߬ߣߊ߫"@nqo ;
+	rdfs:label "whenua"@mi ;
+	skos:prefLabel "whenua"@mi ;
+	schema:name "whenua"@mi ;
+	rdfs:label "stato"@vec ;
+	skos:prefLabel "stato"@vec ;
+	schema:name "stato"@vec ;
+	rdfs:label "بلاد"@ary ;
+	skos:prefLabel "بلاد"@ary ;
+	schema:name "بلاد"@ary ;
+	schema:description "sovereign state of this item (not to be used for human beings)"@en,
+		"État souverain ou sur lequel se trouve l'élément physique (ne pas utiliser sur les humains)"@fr,
+		"ordinamento giuridico politico indipendente a cui appartiene questo elemento"@it,
+		"suverena država ovog elementa"@hr,
+		"Estado soberano de este elemento (no usar con humanos)"@es,
+		"souveräner Staat, in dem sich das Objekt befindet"@de,
+		"το κυρίαρχο κράτος αυτού του αντικείμενου"@el,
+		"valtio, jossa kohde sijaitsee"@fi,
+		"ti naturay nga estado iti daytoy a banag"@ilo,
+		"samostatný státní útvar"@cs,
+		"מדינה ריבונית, אוניטארית או פדרלית"@he,
+		"den selvstændige stat hvori dette objekt befinder sig"@da,
+		"項目所屬的主權國家；不可用於人類"@zh,
+		"sovereign state of this item (not to be used for human beings)"@en-gb,
+		"sovereign state of this item (not to be used for human beings)"@en-ca,
+		"quốc gia của khoản mục này, không được dùng trong người"@vi,
+		"de soevereine staat van een item"@nl,
+		"इस आइटम का संप्रभु राज्य"@hi,
+		"suverena država, kateri objekt pripada"@sl,
+		"項目所屬或所在的主權國"@zh-hant,
+		"项目所属的主权国家；不可用于人类"@zh-hans,
+		"இந்த உருப்படியின் இறையாண்மையுள்ள நாடு"@ta,
+		"negara berdaulat dari butir ini; jangan gunakan pada manusia"@id,
+		"statul suveran al elementului"@ro,
+		"valsts, uz kuru šī vienība attiecas/pieder"@lv,
+		"項目所屬的主權國"@zh-tw,
+		"tillhör suverän stat"@sv,
+		"项目所属的主权国"@zh-cn,
+		"суверенное государство этого элемента"@ru,
+		"suvereine ståt van dit objekt"@nds-nl,
+		"stad souveren an elfenn-mañ"@br,
+		"суверенната политическа общност от която е част обектът"@bg,
+		"gehört zu diesem Datenobjekt"@de-ch,
+		"во која суверена држава се наоѓа предметот"@mk,
+		"estat sobirà de l'element"@ca,
+		"країна, в якій знаходиться елемент"@uk,
+		"سرزمین"@fa,
+		"ordinamende giurideche politeche indipendende"@roa-tara,
+		"આ લેખનું સાર્વભૌમ રાષ્ટ્ર"@gu,
+		"país ao qual o item pertence"@pt,
+		"суверена држава ове ставке; не користите на људима"@sr,
+		"суверена држава којој ставка припада"@sr-ec,
+		"suverena država kojoj stavka pripada"@sr-el,
+		"suverena država"@sh,
+		"suveren stat som elementet befinner seg i eller hører til"@nb,
+		"de suveräni Staat, wu s Objäkt dinne lyt"@gsw,
+		"szuverén ország, ahol az elem található"@hu,
+		"項目所屬的主權國"@zh-hk,
+		"souveräner Staat, in dem sich das Objekt befindet"@de-at,
+		"Dä suvverähne Schtahd, wo dat es"@ksh,
+		"statu suvranu assuciatu a' stu suggettu"@scn,
+		"この項目についての主権国家"@ja,
+		"elementu honen estatu subiranoa"@eu,
+		"estáu soberanu d'esti elementu"@ast,
+		"gwladwriaeth neu wlad"@cy,
+		"państwo, w którym obiekt się znajduje"@pl,
+		"տվյալ տարրի ինքնիշխան պետություն"@hy,
+		"estado soberano deste item"@pt-br,
+		"항목 주제는 다음 나라(국가)의 것을 다루고 있음"@ko,
+		"دولة ذات سيادة لهذا البند؛ لا تستخدم على الأشخاص"@ar,
+		"ଏହି ବସ୍ତୁର ରାଜ୍ୟ"@or,
+		"এই আইটেমের সার্বভৌম পরিচিতি"@bn,
+		"njewotwisny stat, w kotrymž so objekt nadeńdźe"@hsb,
+		"ამ ელემენტის სუვერენული სახელმწიფო"@ka,
+		"項目所屬的主權國"@zh-mo,
+		"项目所属的主权国"@zh-my,
+		"项目所属的主权国"@zh-sg,
+		"был элементтың бойондороҡһоҙ дәүләте"@ba,
+		"Stoot wo dea Beziak liegt"@bar,
+		"Souveräne Staat"@lb,
+		"ఈ అంశం యొక్క సార్వభౌమ రాజ్యం"@te,
+		"bu ögenin egemenlik durumu"@tr,
+		"negeri berdaulat item ini; jangan gunakan pada manusia"@ms,
+		"මෙම අයිතමය අයත් ස්වෛරී රාජ්‍යය"@si,
+		"項目主題屬於邊個國家 (唔好用喺人類)"@yue,
+		"ਇਸ ਆਈਟਮ ਦਾ ਪ੍ਰਭੂਸੱਤਾ ਸੰਪੰਨ ਰਾਜ; ਇਨਸਾਨਾਂ ਤੇ ਨਾ ਵਰਤੋ"@pa,
+		"сувэрэнная дзяржава гэтага элемэнту; не прымяняйце для людзей"@be-tarask,
+		"сарзамин"@tg,
+		"nagara mardika saka wiji iki; aja dianggo tumrap manungsa"@jv,
+		"estado soberano do elemento (non usar con seres humanos)"@gl,
+		"ߖߊ߬ߡߊ ߣߊ߫"@nqo,
+		"bu maddənin suveren dövləti; insanlara istifadə etməyin"@az,
+		"Stato sovran del ełemento"@vec .

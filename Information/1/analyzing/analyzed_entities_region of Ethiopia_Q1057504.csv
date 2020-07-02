@@ -1,0 +1,394 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q3624;Addis Ababa;административно-территориальная единица;1;161;to
+Q203193;Southern Nations, Nationalities, and Peoples' Region;административно-территориальная единица;1;303;to
+Q203009;Amhara Region;место рождения;1;1;to
+Q203009;Amhara Region;местонахождение;1;2;to
+Q203009;Amhara Region;основная тема;1;1;to
+Q203009;Amhara Region;является столицей;1;1;to
+Q203009;Amhara Region;категория объединяет темы;1;2;to
+Q203009;Amhara Region;происходит из;1;10;to
+Q203009;Amhara Region;место смерти;1;3;to
+Q203009;Amhara Region;административно делится на;1;1;to
+Q203009;Amhara Region;место в MusicBrainz;1;1;from
+Q203009;Amhara Region;баннер Викигида;1;1;from
+Q203009;Amhara Region;основная категория по теме;1;1;from
+Q203009;Amhara Region;FIPS 10-4 (страны и регионы);1;1;from
+Q203009;Amhara Region;Who's on First ID;1;1;from
+Q203009;Amhara Region;код Freebase;1;1;from
+Q203009;Amhara Region;географические координаты;1;1;from
+Q203009;Amhara Region;дата основания/создания/возникновения;1;1;from
+Q203009;Amhara Region;ID отношения в OpenStreetMap;1;1;from
+Q203009;Amhara Region;категория на Викискладе;1;1;from
+Q203009;Amhara Region;код темы Quora;1;1;from
+Q203009;Amhara Region;ISO 3166-2;1;1;from
+Q203009;Amhara Region;используемый язык;1;10;from
+Q203009;Amhara Region;общая тема категории;1;1;to
+Q203193;Southern Nations, Nationalities, and Peoples' Region;государство;1;1;from
+Q202800;Somali Region;карта местонахождения;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;карта местонахождения;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;основная категория по теме;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;FIPS 10-4 (страны и регионы);1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;официальный сайт;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;идентификатор ROR;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;Who's on First ID;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;код Freebase;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;географические координаты;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;дата основания/создания/возникновения;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;ID отношения в OpenStreetMap;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;категория на Викискладе;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;ISO 3166-2;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;код grid global research;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;площадь;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;код TGN;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;код GeoNames;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;категория для людей, родившихся здесь;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;численность населения;1;2;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;имеет границы с;1;3;to
+Q203193;Southern Nations, Nationalities, and Peoples' Region;изображение флага;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;столица;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;это частный случай понятия;1;1;to
+Q203009;Amhara Region;код BabelNet;1;1;from
+Q203009;Amhara Region;площадь;1;1;from
+Q203009;Amhara Region;не путать с;1;1;to
+Q203009;Amhara Region;название на языке оригинала;1;1;from
+Q202800;Somali Region;FIPS 10-4 (страны и регионы);1;1;from
+Q202800;Somali Region;официальный сайт;1;1;from
+Q202800;Somali Region;Who's on First ID;1;1;from
+Q202800;Somali Region;код Freebase;1;1;from
+Q202800;Somali Region;географические координаты;1;1;from
+Q202800;Somali Region;ID отношения в OpenStreetMap;1;1;from
+Q202800;Somali Region;категория на Викискладе;1;1;from
+Q202800;Somali Region;занимает ту же территорию с;1;1;to
+Q202800;Somali Region;ISO 3166-2;1;1;from
+Q202800;Somali Region;используемый язык;1;3;from
+Q202800;Somali Region;площадь;1;1;from
+Q202800;Somali Region;название на языке оригинала;1;1;from
+Q202800;Somali Region;код TGN;1;1;from
+Q202800;Somali Region;код GeoNames;1;1;from
+Q202800;Somali Region;категория для людей, родившихся здесь;1;1;from
+Q202800;Somali Region;официальное название;1;1;from
+Q202800;Somali Region;численность населения;1;1;from
+Q202800;Somali Region;имеет границы с;1;3;to
+Q202800;Somali Region;изображение флага;1;1;from
+Q202800;Somali Region;официальный язык;1;1;from
+Q202800;Somali Region;столица;1;1;from
+Q202800;Somali Region;основная категория по теме;1;1;from
+Q202800;Somali Region;административно делится на;1;1;to
+Q202800;Somali Region;происходит из;1;3;to
+Q203009;Amhara Region;столица;1;1;from
+Q203009;Amhara Region;код TGN;1;1;from
+Q203009;Amhara Region;код GeoNames;1;1;from
+Q203009;Amhara Region;категория для людей, родившихся здесь;1;1;from
+Q203009;Amhara Region;официальное название;1;1;from
+Q203009;Amhara Region;код в Большой каталанской энциклопедии;1;1;from
+Q203009;Amhara Region;численность населения;1;1;from
+Q203009;Amhara Region;имеет границы с;1;4;to
+Q203009;Amhara Region;изображение флага;1;1;from
+Q203009;Amhara Region;официальный язык;1;1;from
+Q203009;Amhara Region;это частный случай понятия;1;1;from
+Q202800;Somali Region;следующее по порядку;1;1;to
+Q203009;Amhara Region;карта местонахождения;1;1;from
+Q203009;Amhara Region;изображение;1;1;from
+Q203009;Amhara Region;государство;1;1;from
+Q203009;Amhara Region;административно-территориальная единица;1;621;to
+Q202800;Somali Region;общая тема категории;1;1;to
+Q202800;Somali Region;является столицей;1;1;to
+Q202800;Somali Region;основная тема;1;1;to
+Q202800;Somali Region;категория объединяет темы;1;1;to
+Q202800;Somali Region;местонахождение;1;3;to
+Q203193;Southern Nations, Nationalities, and Peoples' Region;баннер Викигида;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;административно делится на;1;1;to
+Q203193;Southern Nations, Nationalities, and Peoples' Region;категория объединяет темы;1;2;to
+Q207638;Gambela Region;площадь;1;2;from
+Q1033855;Harari Region;столица;1;1;from
+Q1033855;Harari Region;это частный случай понятия;1;1;from
+Q1033855;Harari Region;карта местонахождения;1;1;from
+Q1033855;Harari Region;изображение;1;1;from
+Q1033855;Harari Region;государство;1;1;from
+Q1033855;Harari Region;административно-территориальная единица;1;1;to
+Q207638;Gambela Region;общая тема категории;1;1;to
+Q207638;Gambela Region;является столицей;1;1;to
+Q207638;Gambela Region;место смерти;1;1;to
+Q207638;Gambela Region;происходит из;1;7;to
+Q207638;Gambela Region;местонахождение;1;1;to
+Q207638;Gambela Region;административно делится на;1;1;to
+Q207638;Gambela Region;основная категория по теме;1;1;from
+Q207638;Gambela Region;FIPS 10-4 (страны и регионы);1;1;from
+Q207638;Gambela Region;Who's on First ID;1;1;from
+Q207638;Gambela Region;код Freebase;1;1;from
+Q207638;Gambela Region;географические координаты;1;1;from
+Q207638;Gambela Region;ID отношения в OpenStreetMap;1;1;from
+Q207638;Gambela Region;категория на Викискладе;1;1;from
+Q207638;Gambela Region;код темы Quora;1;1;from
+Q207638;Gambela Region;ISO 3166-2;1;1;from
+Q1033855;Harari Region;официальный язык;1;2;from
+Q1033855;Harari Region;изображение флага;1;1;from
+Q1033855;Harari Region;имеет границы с;1;1;to
+Q1033855;Harari Region;код Freebase;1;1;from
+Q1033855;Harari Region;общая тема категории;1;1;to
+Q1033855;Harari Region;место смерти;1;1;to
+Q1033855;Harari Region;является столицей;1;1;to
+Q1033855;Harari Region;место рождения;1;2;to
+Q1033855;Harari Region;следующее по порядку;1;1;to
+Q1033855;Harari Region;административно делится на;1;1;to
+Q1033855;Harari Region;основная категория по теме;1;1;from
+Q1033855;Harari Region;FIPS 10-4 (страны и регионы);1;1;from
+Q1033855;Harari Region;Who's on First ID;1;1;from
+Q1033855;Harari Region;географические координаты;1;1;from
+Q1033855;Harari Region;индекс человеческого развития;1;2;from
+Q1033855;Harari Region;анклав в;1;1;from
+Q1033855;Harari Region;ID отношения в OpenStreetMap;1;1;from
+Q1033855;Harari Region;категория на Викискладе;1;1;from
+Q1033855;Harari Region;ISO 3166-2;1;1;from
+Q1033855;Harari Region;используемый язык;1;1;from
+Q1033855;Harari Region;площадь;1;1;from
+Q1033855;Harari Region;код TGN;1;1;from
+Q1033855;Harari Region;код GeoNames;1;1;from
+Q1033855;Harari Region;численность населения;1;1;from
+Q207638;Gambela Region;используемый язык;1;7;from
+Q207638;Gambela Region;код TGN;1;1;from
+Q203193;Southern Nations, Nationalities, and Peoples' Region;место рождения;1;1;to
+Q207638;Gambela Region;код GeoNames;1;1;from
+Q207635;Benishangul-Gumuz Region;категория на Викискладе;1;1;from
+Q207635;Benishangul-Gumuz Region;ISO 3166-2;1;1;from
+Q207635;Benishangul-Gumuz Region;используемый язык;1;8;from
+Q207635;Benishangul-Gumuz Region;площадь;1;1;from
+Q207635;Benishangul-Gumuz Region;категория для людей, связанных с местностью;1;1;from
+Q207635;Benishangul-Gumuz Region;код TGN;1;1;from
+Q207635;Benishangul-Gumuz Region;код GeoNames;1;1;from
+Q207635;Benishangul-Gumuz Region;значение в OmegaWiki;1;1;from
+Q207635;Benishangul-Gumuz Region;численность населения;1;1;from
+Q207635;Benishangul-Gumuz Region;глава правительства;1;1;from
+Q207635;Benishangul-Gumuz Region;имеет границы с;1;2;to
+Q207635;Benishangul-Gumuz Region;изображение флага;1;1;from
+Q207635;Benishangul-Gumuz Region;официальный язык;1;1;from
+Q207635;Benishangul-Gumuz Region;столица;1;1;from
+Q207635;Benishangul-Gumuz Region;это частный случай понятия;1;1;from
+Q207635;Benishangul-Gumuz Region;карта местонахождения;1;1;from
+Q207635;Benishangul-Gumuz Region;изображение;1;1;from
+Q207635;Benishangul-Gumuz Region;государство;1;1;from
+Q207635;Benishangul-Gumuz Region;административно-территориальная единица;1;105;to
+Q203193;Southern Nations, Nationalities, and Peoples' Region;общая тема категории;1;1;to
+Q203193;Southern Nations, Nationalities, and Peoples' Region;является столицей;1;1;to
+Q207635;Benishangul-Gumuz Region;ID отношения в OpenStreetMap;1;1;from
+Q207635;Benishangul-Gumuz Region;часовой пояс;1;1;from
+Q207635;Benishangul-Gumuz Region;географические координаты;1;1;from
+Q207638;Gambela Region;административно-территориальная единица;1;39;to
+Q207638;Gambela Region;численность населения;1;1;from
+Q207638;Gambela Region;имеет границы с;1;3;to
+Q207638;Gambela Region;изображение флага;1;1;from
+Q207638;Gambela Region;официальный язык;1;1;from
+Q207638;Gambela Region;столица;1;1;from
+Q207638;Gambela Region;это частный случай понятия;1;1;from
+Q207638;Gambela Region;карта местонахождения;1;1;from
+Q207638;Gambela Region;изображение;1;1;from
+Q207638;Gambela Region;государство;1;1;from
+Q207635;Benishangul-Gumuz Region;общая тема категории;1;1;to
+Q207635;Benishangul-Gumuz Region;код Freebase;1;1;from
+Q207635;Benishangul-Gumuz Region;является столицей;1;1;to
+Q207635;Benishangul-Gumuz Region;категория объединяет темы;1;1;to
+Q207635;Benishangul-Gumuz Region;место рождения;1;2;to
+Q207635;Benishangul-Gumuz Region;происходит из;1;8;to
+Q207635;Benishangul-Gumuz Region;административно делится на;1;1;to
+Q207635;Benishangul-Gumuz Region;основная категория по теме;1;1;from
+Q207635;Benishangul-Gumuz Region;FIPS 10-4 (страны и регионы);1;1;from
+Q207635;Benishangul-Gumuz Region;официальный сайт;1;1;from
+Q207635;Benishangul-Gumuz Region;Who's on First ID;1;1;from
+Q202800;Somali Region;это частный случай понятия;1;1;from
+Q202800;Somali Region;изображение;1;1;from
+Q3624;Addis Ababa;государство;1;1;from
+Q3624;Addis Ababa;категория объединяет темы;1;7;to
+Q3624;Addis Ababa;значимое место;1;1;to
+Q3624;Addis Ababa;тематически относится к;1;1;to
+Q3624;Addis Ababa;место создания;1;3;to
+Q3624;Addis Ababa;юрисдикция распространяется на;1;1;to
+Q3624;Addis Ababa;местонахождение;1;39;to
+Q3624;Addis Ababa;место активности;1;4;to
+Q3624;Addis Ababa;происходит из;1;5;to
+Q3624;Addis Ababa;расположение штаб-квартиры;1;48;to
+Q3624;Addis Ababa;место смерти;1;89;to
+Q3624;Addis Ababa;место жительства;1;12;to
+Q3624;Addis Ababa;место рождения;1;210;to
+Q3624;Addis Ababa;административно делится на;1;1;to
+Q3624;Addis Ababa;столица;1;7;to
+Q3624;Addis Ababa;место в MusicBrainz;1;1;from
+Q3624;Addis Ababa;код NLI;1;1;from
+Q3624;Addis Ababa;баннер Викигида;1;1;from
+Q3624;Addis Ababa;галерея на Викискладе;1;1;from
+Q3624;Addis Ababa;основная категория по теме;1;1;from
+Q3624;Addis Ababa;FIPS 10-4 (страны и регионы);1;1;from
+Q3624;Addis Ababa;официальный сайт;1;1;from
+Q3624;Addis Ababa;категория карт на Викискладе;1;1;from
+Q3624;Addis Ababa;место погребения;1;1;to
+Q3624;Addis Ababa;место публикации;1;2;to
+Q202800;Somali Region;государство;1;1;from
+Q3624;Addis Ababa;история происходит в месте;1;1;to
+Q193494;Afar;код GeoNames;1;1;from
+Q193494;Afar;официальное название;1;2;from
+Q193494;Afar;код в Большой каталанской энциклопедии;1;1;from
+Q193494;Afar;численность населения;1;2;from
+Q193494;Afar;изображение герба;1;1;from
+Q193494;Afar;имеет границы с;1;4;to
+Q193494;Afar;изображение флага;1;1;from
+Q193494;Afar;официальный язык;1;1;from
+Q193494;Afar;столица;1;1;from
+Q193494;Afar;это частный случай понятия;1;1;from
+Q193494;Afar;карта местонахождения;1;1;from
+Q193494;Afar;изображение;1;1;from
+Q193494;Afar;государство;1;1;from
+Q193494;Afar;административно-территориальная единица;1;395;to
+Q3624;Addis Ababa;названо в честь;1;1;to
+Q3624;Addis Ababa;конечная;1;1;to
+Q3624;Addis Ababa;пункт назначения;1;1;to
+Q3624;Addis Ababa;общая тема категории;1;1;to
+Q3624;Addis Ababa;основной порт;1;1;to
+Q3624;Addis Ababa;основная тема;1;5;to
+Q3624;Addis Ababa;обслуживаемый город;1;2;to
+Q3624;Addis Ababa;French Vikidia ID;1;1;from
+Q3624;Addis Ababa;код NKC;1;1;from
+Q3624;Addis Ababa;DR topic ID;1;1;from
+Q3624;Addis Ababa;Who's on First ID;1;1;from
+Q3624;Addis Ababa;категория для людей, связанных с местностью;1;1;from
+Q3624;Addis Ababa;название на языке оригинала;1;2;from
+Q3624;Addis Ababa;код GeoNames;1;2;from
+Q3624;Addis Ababa;категория для людей, умерших здесь;1;1;from
+Q3624;Addis Ababa;категория для людей, родившихся здесь;1;1;from
+Q3624;Addis Ababa;код в энциклопедии «Британника онлайн»;1;1;from
+Q3624;Addis Ababa;является столицей;1;6;from
+Q3624;Addis Ababa;описывается в источниках;1;1;from
+Q3624;Addis Ababa;код в Национальной библиотеке Австралии (персоналии);1;1;from
+Q3624;Addis Ababa;код в Большой каталанской энциклопедии;1;1;from
+Q3624;Addis Ababa;значение в OmegaWiki;1;1;from
+Q3624;Addis Ababa;код US National Archives;1;1;from
+Q3624;Addis Ababa;численность населения;1;2;from
+Q3624;Addis Ababa;глава правительства;1;1;from
+Q3624;Addis Ababa;имеет границы с;1;1;to
+Q3624;Addis Ababa;это частный случай понятия;1;4;from
+Q3624;Addis Ababa;код LCNAF;1;1;from
+Q3624;Addis Ababa;карта местонахождения;1;1;from
+Q3624;Addis Ababa;код GND;1;1;from
+Q3624;Addis Ababa;код VIAF;1;1;from
+Q3624;Addis Ababa;город-побратим;1;13;to
+Q3624;Addis Ababa;код Trismegistos;1;1;from
+Q3624;Addis Ababa;код места в Facebook;1;1;from
+Q3624;Addis Ababa;высота над уровнем моря;1;2;from
+Q3624;Addis Ababa;местный телефонный код;1;1;from
+Q3624;Addis Ababa;идентификатор BlackPast.org;1;1;from
+Q3624;Addis Ababa;код Freebase;1;1;from
+Q3624;Addis Ababa;идентификатор Dizionario di Storia;1;1;from
+Q3624;Addis Ababa;географические координаты;1;1;from
+Q3624;Addis Ababa;код Comic Vine;1;1;from
+Q3624;Addis Ababa;Gynopedia ID;1;1;from
+Q3624;Addis Ababa;дата основания/создания/возникновения;1;1;from
+Q3624;Addis Ababa;идентификатор местоположения ArchINFORM;1;1;from
+Q3624;Addis Ababa;код в Православной энциклопедии онлайн;1;1;from
+Q3624;Addis Ababa;часовой пояс;1;2;from
+Q3624;Addis Ababa;площадь;1;1;from
+Q3624;Addis Ababa;ID отношения в OpenStreetMap;1;1;from
+Q3624;Addis Ababa;категория на Викискладе;1;1;from
+Q3624;Addis Ababa;код темы Quora;1;1;from
+Q3624;Addis Ababa;код в Encyclopædia Universalis;1;1;from
+Q3624;Addis Ababa;ISO 3166-2;1;1;from
+Q3624;Addis Ababa;используемый язык;1;5;from
+Q3624;Addis Ababa;код в Большой российской энциклопедии онлайн;1;1;from
+Q3624;Addis Ababa;код BNF;1;2;from
+Q3624;Addis Ababa;история темы;1;1;from
+Q193494;Afar;код TGN;1;1;from
+Q193494;Afar;название на языке оригинала;1;1;from
+Q193494;Afar;площадь;1;1;from
+Q200127;Tigray Region;Who's on First ID;1;1;from
+Q202107;Oromia Region;код TGN;1;1;from
+Q202107;Oromia Region;код GeoNames;1;1;from
+Q202107;Oromia Region;категория для людей, родившихся здесь;1;1;from
+Q202107;Oromia Region;имеет границы с;1;9;to
+Q202107;Oromia Region;изображение флага;1;1;from
+Q202107;Oromia Region;столица;1;2;from
+Q202107;Oromia Region;это частный случай понятия;1;1;from
+Q202107;Oromia Region;карта местонахождения;1;1;from
+Q202107;Oromia Region;государство;1;1;to
+Q202107;Oromia Region;административно-территориальная единица;1;1388;to
+Q200127;Tigray Region;происходит из;1;3;to
+Q200127;Tigray Region;общая тема категории;1;1;to
+Q200127;Tigray Region;часть от;1;1;to
+Q200127;Tigray Region;изображённый объект;1;1;to
+Q200127;Tigray Region;является столицей;1;1;to
+Q200127;Tigray Region;категория объединяет темы;1;2;to
+Q200127;Tigray Region;основная тема;1;2;to
+Q200127;Tigray Region;место рождения;1;6;to
+Q200127;Tigray Region;административно делится на;1;1;to
+Q200127;Tigray Region;баннер Викигида;1;1;from
+Q200127;Tigray Region;основная категория по теме;1;1;from
+Q202107;Oromia Region;категория для людей, связанных с местностью;1;1;from
+Q202107;Oromia Region;площадь;1;1;from
+Q202107;Oromia Region;используемый язык;1;28;from
+Q202107;Oromia Region;административно делится на;1;1;to
+Q202800;Somali Region;административно-территориальная единица;1;329;to
+Q202107;Oromia Region;общая тема категории;1;1;to
+Q202107;Oromia Region;является столицей;1;1;to
+Q202107;Oromia Region;категория объединяет темы;1;3;to
+Q202107;Oromia Region;местонахождение;1;3;to
+Q202107;Oromia Region;следующее по порядку;1;1;to
+Q202107;Oromia Region;место рождения;1;20;to
+Q202107;Oromia Region;происходит из;1;29;to
+Q202107;Oromia Region;анклав в;1;1;to
+Q202107;Oromia Region;место в MusicBrainz;1;1;from
+Q202107;Oromia Region;ISO 3166-2;1;1;from
+Q202107;Oromia Region;баннер Викигида;1;1;from
+Q202107;Oromia Region;основная категория по теме;1;1;from
+Q202107;Oromia Region;FIPS 10-4 (страны и регионы);1;1;from
+Q202107;Oromia Region;Who's on First ID;1;1;from
+Q202107;Oromia Region;код Freebase;1;1;from
+Q202107;Oromia Region;географические координаты;1;1;from
+Q202107;Oromia Region;часовой пояс;1;1;from
+Q202107;Oromia Region;ID отношения в OpenStreetMap;1;1;from
+Q202107;Oromia Region;категория на Викискладе;1;1;from
+Q200127;Tigray Region;FIPS 10-4 (страны и регионы);1;1;from
+Q200127;Tigray Region;код Freebase;1;1;from
+Q193494;Afar;используемый язык;1;5;from
+Q200127;Tigray Region;идентификатор Dizionario di Storia;1;1;from
+Q200127;Tigray Region;административно-территориальная единица;1;354;to
+Q193494;Afar;происходит из;1;5;to
+Q193494;Afar;общая тема категории;1;1;to
+Q193494;Afar;изображённый объект;1;1;to
+Q193494;Afar;основная тема;1;3;to
+Q193494;Afar;место рождения;1;2;to
+Q193494;Afar;является столицей;1;1;to
+Q193494;Afar;местонахождение;1;1;to
+Q193494;Afar;следующее по порядку;1;1;to
+Q193494;Afar;административно делится на;1;1;to
+Q193494;Afar;баннер Викигида;1;1;from
+Q193494;Afar;основная категория по теме;1;1;from
+Q193494;Afar;FIPS 10-4 (страны и регионы);1;1;from
+Q193494;Afar;Who's on First ID;1;1;from
+Q193494;Afar;код Freebase;1;1;from
+Q193494;Afar;географические координаты;1;1;from
+Q193494;Afar;код в Большой норвежской энциклопедии;1;1;from
+Q193494;Afar;часовой пояс;1;1;from
+Q193494;Afar;ID отношения в OpenStreetMap;1;1;from
+Q193494;Afar;категория на Викискладе;1;1;from
+Q193494;Afar;ISO 3166-2;1;1;from
+Q200127;Tigray Region;государство;1;1;from
+Q200127;Tigray Region;изображение;1;1;from
+Q200127;Tigray Region;карта местонахождения;1;1;from
+Q200127;Tigray Region;категория для людей, связанных с местностью;1;1;from
+Q200127;Tigray Region;географические координаты;1;1;from
+Q200127;Tigray Region;код тезауруса PACTOLS;1;1;from
+Q200127;Tigray Region;часовой пояс;1;1;from
+Q200127;Tigray Region;ID отношения в OpenStreetMap;1;1;from
+Q200127;Tigray Region;категория на Викискладе;1;1;from
+Q200127;Tigray Region;код темы Quora;1;1;from
+Q200127;Tigray Region;ISO 3166-2;1;1;from
+Q200127;Tigray Region;используемый язык;1;3;from
+Q200127;Tigray Region;площадь;1;1;from
+Q200127;Tigray Region;код TGN;1;1;from
+Q200127;Tigray Region;это частный случай понятия;1;1;from
+Q200127;Tigray Region;код GeoNames;1;1;from
+Q200127;Tigray Region;категория для людей, родившихся здесь;1;1;from
+Q200127;Tigray Region;код в энциклопедии «Британника онлайн»;1;2;from
+Q200127;Tigray Region;описывается в источниках;1;2;from
+Q200127;Tigray Region;численность населения;1;2;from
+Q200127;Tigray Region;имеет границы с;1;2;to
+Q200127;Tigray Region;изображение флага;1;1;from
+Q200127;Tigray Region;официальный язык;1;1;from
+Q200127;Tigray Region;столица;1;1;from
+Q1033855;Harari Region;происходит из;1;1;to

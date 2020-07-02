@@ -1,0 +1,856 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q252731;Margareten;административно-территориальная единица;1;85;to
+Q519552;Landstraße;галерея на Викискладе;1;1;from
+Q519552;Landstraße;код австрийского муниципалитета;1;1;from
+Q519552;Landstraße;место в MusicBrainz;1;1;from
+Q519552;Landstraße;место рождения;1;2;to
+Q519552;Landstraße;расположение штаб-квартиры;1;1;to
+Q519552;Landstraße;местонахождение;1;1;to
+Q519552;Landstraße;место смерти;1;2;to
+Q519552;Landstraße;общая тема категории;1;1;to
+Q519552;Landstraße;административно делится на;1;1;to
+Q636910;Hietzing;административно-территориальная единица;1;194;to
+Q636910;Hietzing;государство;1;1;from
+Q636910;Hietzing;код VIAF;1;1;from
+Q636910;Hietzing;код GND;1;1;from
+Q636910;Hietzing;карта местонахождения;1;1;from
+Q636910;Hietzing;код LCNAF;1;1;from
+Q636910;Hietzing;это частный случай понятия;1;1;from
+Q636910;Hietzing;имеет границы с;1;8;to
+Q636910;Hietzing;глава правительства;1;3;from
+Q636910;Hietzing;изображение герба;1;1;from
+Q636910;Hietzing;список памятников;1;1;from
+Q636910;Hietzing;код GeoNames;1;1;from
+Q636910;Hietzing;не путать с;1;1;to
+Q636910;Hietzing;высота над уровнем моря;1;1;from
+Q636910;Hietzing;площадь;1;1;from
+Q519552;Landstraße;баннер Викигида;1;1;from
+Q519552;Landstraße;основная категория по теме;1;1;from
+Q519552;Landstraße;административно-территориальная единица;1;212;to
+Q519552;Landstraße;транскрипция в МФА;1;1;from
+Q519552;Landstraße;государство;1;1;from
+Q519552;Landstraße;код VIAF;1;1;from
+Q519552;Landstraße;код GND;1;1;from
+Q519552;Landstraße;карта местонахождения;1;1;from
+Q519552;Landstraße;код LCNAF;1;1;from
+Q519552;Landstraße;это частный случай понятия;1;1;from
+Q519552;Landstraße;имеет границы с;1;5;to
+Q519552;Landstraße;глава правительства;1;1;from
+Q519552;Landstraße;изображение герба;1;1;from
+Q519552;Landstraße;список памятников;1;1;from
+Q519552;Landstraße;код GeoNames;1;1;from
+Q519552;Landstraße;не путать с;1;2;to
+Q519552;Landstraße;высота над уровнем моря;1;1;from
+Q519552;Landstraße;площадь;1;1;from
+Q519552;Landstraße;почтовый индекс;1;1;from
+Q519552;Landstraße;категория на Викискладе;1;1;from
+Q519552;Landstraße;произношение (звуковой файл);1;1;from
+Q519552;Landstraße;состоит из;1;3;from
+Q519552;Landstraße;идентификатор местоположения ArchINFORM;1;1;from
+Q519552;Landstraße;RegiowikiAT ID;1;1;from
+Q519552;Landstraße;географические координаты;1;1;from
+Q519552;Landstraße;код Freebase;1;1;from
+Q519552;Landstraße;официальный сайт;1;1;from
+Q636910;Hietzing;почтовый индекс;1;1;from
+Q636910;Hietzing;категория на Викискладе;1;1;from
+Q636910;Hietzing;произношение (звуковой файл);1;1;from
+Q636910;Hietzing;состоит из;1;9;from
+Q653289;Rudolfsheim-Fünfhaus;это частный случай понятия;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;имеет границы с;1;9;to
+Q653289;Rudolfsheim-Fünfhaus;глава правительства;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;изображение герба;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;код GeoNames;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;высота над уровнем моря;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;площадь;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;почтовый индекс;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;категория на Викискладе;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;произношение (звуковой файл);1;1;from
+Q653289;Rudolfsheim-Fünfhaus;состоит из;1;3;from
+Q653289;Rudolfsheim-Fünfhaus;идентификатор местоположения ArchINFORM;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;географические координаты;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;код Freebase;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;официальный сайт;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;транскрипция в МФА;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;основная категория по теме;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;галерея на Викискладе;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;код австрийского муниципалитета;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;расположение штаб-квартиры;1;1;to
+Q653289;Rudolfsheim-Fünfhaus;общая тема категории;1;1;to
+Q653289;Rudolfsheim-Fünfhaus;административно делится на;1;1;to
+Q654812;Mariahilf;административно-территориальная единица;1;91;to
+Q653289;Rudolfsheim-Fünfhaus;код LCNAF;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;карта местонахождения;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;код GND;1;1;from
+Q636910;Hietzing;галерея на Викискладе;1;1;from
+Q636910;Hietzing;идентификатор местоположения ArchINFORM;1;1;from
+Q636910;Hietzing;наивысшая точка;1;1;from
+Q636910;Hietzing;RegiowikiAT ID;1;1;from
+Q636910;Hietzing;географические координаты;1;1;from
+Q636910;Hietzing;код Freebase;1;1;from
+Q636910;Hietzing;Who's on First ID;1;1;from
+Q636910;Hietzing;код NKC;1;1;from
+Q636910;Hietzing;официальный сайт;1;1;from
+Q636910;Hietzing;транскрипция в МФА;1;1;from
+Q636910;Hietzing;основная категория по теме;1;1;from
+Q636910;Hietzing;баннер Викигида;1;1;from
+Q653289;Rudolfsheim-Fünfhaus;код VIAF;1;1;from
+Q636910;Hietzing;код австрийского муниципалитета;1;1;from
+Q636910;Hietzing;место в MusicBrainz;1;1;from
+Q636910;Hietzing;место смерти;1;10;to
+Q636910;Hietzing;названо в честь;1;1;to
+Q636910;Hietzing;место рождения;1;5;to
+Q636910;Hietzing;место погребения;1;1;to
+Q636910;Hietzing;общая тема категории;1;1;to
+Q636910;Hietzing;административно делится на;1;1;to
+Q653289;Rudolfsheim-Fünfhaus;административно-территориальная единица;1;91;to
+Q653289;Rudolfsheim-Fünfhaus;государство;1;1;from
+Q519552;Landstraße;названо в честь;1;1;to
+Q279028;Simmering;административно делится на;1;1;to
+Q654812;Mariahilf;код VIAF;1;1;from
+Q268001;Wieden;код австрийского муниципалитета;1;1;from
+Q268001;Wieden;местонахождение;1;2;to
+Q268001;Wieden;город-побратим;1;2;to
+Q268001;Wieden;место смерти;1;1;to
+Q268001;Wieden;расположение штаб-квартиры;1;1;to
+Q268001;Wieden;общая тема категории;1;1;to
+Q268001;Wieden;административно делится на;1;1;to
+Q278900;Liesing;административно-территориальная единица;1;178;to
+Q278900;Liesing;государство;1;1;from
+Q278900;Liesing;город-побратим;1;1;to
+Q278900;Liesing;код VIAF;1;1;from
+Q278900;Liesing;код GND;1;1;from
+Q278900;Liesing;карта местонахождения;1;1;from
+Q278900;Liesing;это частный случай понятия;1;1;from
+Q278900;Liesing;имеет границы с;1;5;to
+Q278900;Liesing;изображение герба;1;1;from
+Q278900;Liesing;категория для людей, родившихся здесь;1;1;from
+Q278900;Liesing;код GeoNames;1;1;from
+Q278900;Liesing;не путать с;1;1;to
+Q278900;Liesing;высота над уровнем моря;1;1;from
+Q278900;Liesing;площадь;1;1;from
+Q278900;Liesing;почтовый индекс;1;1;from
+Q278900;Liesing;категория на Викискладе;1;1;from
+Q278900;Liesing;произношение (звуковой файл);1;1;from
+Q268001;Wieden;место рождения;1;2;to
+Q268001;Wieden;баннер Викигида;1;1;from
+Q279028;Simmering;общая тема категории;1;1;to
+Q268001;Wieden;галерея на Викискладе;1;1;from
+Q268001;Wieden;код VIAF;1;1;from
+Q268001;Wieden;код GND;1;1;from
+Q268001;Wieden;карта местонахождения;1;1;from
+Q268001;Wieden;это частный случай понятия;1;1;from
+Q268001;Wieden;имеет границы с;1;5;to
+Q268001;Wieden;глава правительства;1;2;from
+Q268001;Wieden;изображение герба;1;1;from
+Q268001;Wieden;код GeoNames;1;1;from
+Q268001;Wieden;не путать с;1;2;to
+Q268001;Wieden;высота над уровнем моря;1;1;from
+Q268001;Wieden;площадь;1;1;from
+Q268001;Wieden;почтовый индекс;1;1;from
+Q268001;Wieden;код темы Quora;1;1;from
+Q268001;Wieden;категория на Викискладе;1;1;from
+Q268001;Wieden;произношение (звуковой файл);1;1;from
+Q268001;Wieden;состоит из;1;3;from
+Q268001;Wieden;идентификатор местоположения ArchINFORM;1;1;from
+Q268001;Wieden;RegiowikiAT ID;1;1;from
+Q268001;Wieden;географические координаты;1;1;from
+Q268001;Wieden;код Freebase;1;1;from
+Q268001;Wieden;официальный сайт;1;1;from
+Q268001;Wieden;транскрипция в МФА;1;1;from
+Q268001;Wieden;основная категория по теме;1;1;from
+Q278900;Liesing;состоит из;1;8;from
+Q278900;Liesing;идентификатор местоположения ArchINFORM;1;1;from
+Q278900;Liesing;наивысшая точка;1;1;from
+Q278900;Liesing;RegiowikiAT ID;1;1;from
+Q279028;Simmering;код GeoNames;1;1;from
+Q279028;Simmering;не путать с;1;2;to
+Q279028;Simmering;высота над уровнем моря;1;1;from
+Q279028;Simmering;площадь;1;1;from
+Q279028;Simmering;почтовый индекс;1;1;from
+Q279028;Simmering;категория на Викискладе;1;1;from
+Q279028;Simmering;произношение (звуковой файл);1;1;from
+Q279028;Simmering;состоит из;1;3;from
+Q279028;Simmering;идентификатор местоположения ArchINFORM;1;1;from
+Q279028;Simmering;RegiowikiAT ID;1;1;from
+Q279028;Simmering;географические координаты;1;1;from
+Q279028;Simmering;код Freebase;1;1;from
+Q279028;Simmering;код NKC;1;1;from
+Q279028;Simmering;официальный сайт;1;1;from
+Q279028;Simmering;транскрипция в МФА;1;1;from
+Q279028;Simmering;основная категория по теме;1;1;from
+Q279028;Simmering;галерея на Викискладе;1;1;from
+Q279028;Simmering;код австрийского муниципалитета;1;1;from
+Q279028;Simmering;место в MusicBrainz;1;1;from
+Q279028;Simmering;место рождения;1;5;to
+Q279028;Simmering;названо в честь;1;1;to
+Q279028;Simmering;место создания;1;2;to
+Q279028;Simmering;расположение штаб-квартиры;1;1;to
+Q279028;Simmering;численность населения;1;1;from
+Q279028;Simmering;изображение герба;1;1;from
+Q279028;Simmering;глава правительства;1;1;from
+Q278900;Liesing;место смерти;1;2;to
+Q278900;Liesing;географические координаты;1;1;from
+Q278900;Liesing;код Freebase;1;1;from
+Q278900;Liesing;официальный сайт;1;1;from
+Q278900;Liesing;транскрипция в МФА;1;1;from
+Q278900;Liesing;основная категория по теме;1;1;from
+Q278900;Liesing;галерея на Викискладе;1;1;from
+Q278900;Liesing;код австрийского муниципалитета;1;1;from
+Q278900;Liesing;место в MusicBrainz;1;1;from
+Q278900;Liesing;расположение штаб-квартиры;1;1;to
+Q278900;Liesing;категория объединяет темы;1;1;to
+Q278900;Liesing;место рождения;1;3;to
+Q279028;Simmering;имеет границы с;1;4;to
+Q278900;Liesing;общая тема категории;1;1;to
+Q278900;Liesing;административно делится на;1;1;to
+Q279028;Simmering;административно-территориальная единица;1;101;to
+Q279028;Simmering;государство;1;1;from
+Q279028;Simmering;изображение;1;1;from
+Q279028;Simmering;код VIAF;1;1;from
+Q279028;Simmering;код GND;1;1;from
+Q279028;Simmering;карта местонахождения;1;1;from
+Q279028;Simmering;код LCNAF;1;1;from
+Q279028;Simmering;это частный случай понятия;1;1;from
+Q654812;Mariahilf;государство;1;1;from
+Q654812;Mariahilf;код GND;1;1;from
+Q268001;Wieden;государство;1;1;from
+Q690417;Währing;код австрийского муниципалитета;1;1;from
+Q690417;Währing;названо в честь;1;1;to
+Q690417;Währing;место рождения;1;3;to
+Q690417;Währing;основная тема;1;1;to
+Q690417;Währing;общая тема категории;1;1;to
+Q690417;Währing;местонахождение;1;2;to
+Q690417;Währing;административно делится на;1;1;to
+Q697548;Favoriten;административно-территориальная единица;1;160;to
+Q697548;Favoriten;государство;1;1;from
+Q697548;Favoriten;изображение;1;1;from
+Q697548;Favoriten;код VIAF;1;1;from
+Q697548;Favoriten;код GND;1;1;from
+Q697548;Favoriten;карта местонахождения;1;1;from
+Q697548;Favoriten;код LCNAF;1;1;from
+Q697548;Favoriten;это частный случай понятия;1;1;from
+Q697548;Favoriten;имеет границы с;1;7;to
+Q697548;Favoriten;глава правительства;1;2;from
+Q697548;Favoriten;изображение герба;1;1;from
+Q697548;Favoriten;код GeoNames;1;1;from
+Q697548;Favoriten;не путать с;1;1;to
+Q697548;Favoriten;высота над уровнем моря;1;1;from
+Q697548;Favoriten;площадь;1;1;from
+Q697548;Favoriten;почтовый индекс;1;1;from
+Q697548;Favoriten;категория на Викискладе;1;1;from
+Q690417;Währing;место смерти;1;3;to
+Q690417;Währing;галерея на Викискладе;1;1;from
+Q690417;Währing;код VIAF;1;1;from
+Q690417;Währing;основная категория по теме;1;1;from
+Q690417;Währing;карта местонахождения;1;1;from
+Q690417;Währing;код LCNAF;1;1;from
+Q690417;Währing;это частный случай понятия;1;1;from
+Q690417;Währing;имеет границы с;1;10;to
+Q690417;Währing;глава правительства;1;4;from
+Q690417;Währing;изображение герба;1;1;from
+Q690417;Währing;код GeoNames;1;1;from
+Q690417;Währing;не путать с;1;2;to
+Q690417;Währing;позиционная карта;1;1;from
+Q690417;Währing;высота над уровнем моря;1;1;from
+Q690417;Währing;площадь;1;1;from
+Q690417;Währing;почтовый индекс;1;1;from
+Q690417;Währing;категория на Викискладе;1;1;from
+Q690417;Währing;произношение (звуковой файл);1;1;from
+Q690417;Währing;состоит из;1;8;from
+Q690417;Währing;идентификатор местоположения ArchINFORM;1;1;from
+Q690417;Währing;наивысшая точка;1;1;from
+Q690417;Währing;RegiowikiAT ID;1;1;from
+Q690417;Währing;географические координаты;1;1;from
+Q690417;Währing;код Freebase;1;1;from
+Q690417;Währing;Who's on First ID;1;1;from
+Q690417;Währing;официальный сайт;1;1;from
+Q690417;Währing;транскрипция в МФА;1;1;from
+Q697548;Favoriten;произношение (звуковой файл);1;1;from
+Q697548;Favoriten;состоит из;1;5;from
+Q697548;Favoriten;идентификатор местоположения ArchINFORM;1;1;from
+Q697548;Favoriten;RegiowikiAT ID;1;1;from
+Q697557;Meidling;категория для людей, связанных с местностью;1;1;from
+Q697557;Meidling;не путать с;1;1;to
+Q697557;Meidling;высота над уровнем моря;1;1;from
+Q697557;Meidling;площадь;1;1;from
+Q697557;Meidling;почтовый индекс;1;1;from
+Q697557;Meidling;категория на Викискладе;1;1;from
+Q697557;Meidling;произношение (звуковой файл);1;1;from
+Q697557;Meidling;идентификатор местоположения ArchINFORM;1;1;from
+Q697557;Meidling;RegiowikiAT ID;1;1;from
+Q697557;Meidling;географические координаты;1;1;from
+Q697557;Meidling;код Freebase;1;1;from
+Q697557;Meidling;Who's on First ID;1;1;from
+Q697557;Meidling;официальный сайт;1;1;from
+Q697557;Meidling;транскрипция в МФА;1;1;from
+Q697557;Meidling;основная категория по теме;1;1;from
+Q697557;Meidling;галерея на Викискладе;1;1;from
+Q697557;Meidling;код австрийского муниципалитета;1;1;from
+Q697557;Meidling;место в MusicBrainz;1;1;from
+Q697557;Meidling;местонахождение;1;1;to
+Q697557;Meidling;место рождения;1;4;to
+Q697557;Meidling;место смерти;1;1;to
+Q697557;Meidling;расположение штаб-квартиры;1;2;to
+Q697557;Meidling;общая тема категории;1;1;to
+Q697557;Meidling;код GeoNames;1;1;from
+Q697557;Meidling;изображение герба;1;1;from
+Q697557;Meidling;глава правительства;1;2;from
+Q697548;Favoriten;местонахождение;1;2;to
+Q697548;Favoriten;географические координаты;1;1;from
+Q697548;Favoriten;код Freebase;1;1;from
+Q697548;Favoriten;Who's on First ID;1;1;from
+Q697548;Favoriten;официальный сайт;1;1;from
+Q697548;Favoriten;транскрипция в МФА;1;1;from
+Q697548;Favoriten;основная категория по теме;1;1;from
+Q697548;Favoriten;галерея на Викискладе;1;1;from
+Q697548;Favoriten;код австрийского муниципалитета;1;1;from
+Q697548;Favoriten;место в MusicBrainz;1;1;from
+Q697548;Favoriten;место рождения;1;2;to
+Q697548;Favoriten;общая тема категории;1;1;to
+Q697557;Meidling;имеет границы с;1;7;to
+Q697548;Favoriten;административно делится на;1;1;to
+Q697557;Meidling;административно-территориальная единица;1;77;to
+Q697557;Meidling;названо в честь;1;1;from
+Q697557;Meidling;административно делится на;1;1;to
+Q697557;Meidling;государство;1;1;from
+Q697557;Meidling;код VIAF;1;1;from
+Q697557;Meidling;код GND;1;1;from
+Q697557;Meidling;карта местонахождения;1;1;from
+Q697557;Meidling;код LCNAF;1;1;from
+Q697557;Meidling;это частный случай понятия;1;1;from
+Q690417;Währing;код GND;1;1;from
+Q690417;Währing;государство;1;1;from
+Q654812;Mariahilf;карта местонахождения;1;1;from
+Q654812;Mariahilf;место смерти;1;1;to
+Q654812;Mariahilf;основная тема;1;1;to
+Q654812;Mariahilf;местонахождение;1;1;to
+Q654812;Mariahilf;общая тема категории;1;1;to
+Q654812;Mariahilf;административно делится на;1;1;to
+Q664835;Neubau;административно-территориальная единица;1;175;to
+Q664835;Neubau;государство;1;3;from
+Q664835;Neubau;код VIAF;1;1;from
+Q664835;Neubau;код GND;1;1;from
+Q664835;Neubau;карта местонахождения;1;1;from
+Q664835;Neubau;код LCNAF;1;1;from
+Q664835;Neubau;это частный случай понятия;1;1;from
+Q664835;Neubau;имеет границы с;1;6;to
+Q664835;Neubau;глава правительства;1;1;from
+Q664835;Neubau;изображение герба;1;1;from
+Q664835;Neubau;код GeoNames;1;1;from
+Q664835;Neubau;не путать с;1;2;to
+Q664835;Neubau;высота над уровнем моря;1;1;from
+Q664835;Neubau;площадь;1;1;from
+Q664835;Neubau;почтовый индекс;1;1;from
+Q664835;Neubau;категория на Викискладе;1;1;from
+Q664835;Neubau;произношение (звуковой файл);1;1;from
+Q664835;Neubau;состоит из;1;5;from
+Q664835;Neubau;идентификатор местоположения ArchINFORM;1;1;from
+Q654812;Mariahilf;место рождения;1;3;to
+Q654812;Mariahilf;код австрийского муниципалитета;1;1;from
+Q690417;Währing;административно-территориальная единица;1;97;to
+Q654812;Mariahilf;баннер Викигида;1;1;from
+Q654812;Mariahilf;код LCNAF;1;1;from
+Q654812;Mariahilf;это частный случай понятия;1;1;from
+Q654812;Mariahilf;имеет границы с;1;6;to
+Q654812;Mariahilf;глава правительства;1;2;from
+Q654812;Mariahilf;изображение герба;1;1;from
+Q654812;Mariahilf;описывается в источниках;1;1;from
+Q654812;Mariahilf;код GeoNames;1;1;from
+Q654812;Mariahilf;не путать с;1;2;to
+Q654812;Mariahilf;высота над уровнем моря;1;1;from
+Q654812;Mariahilf;площадь;1;1;from
+Q654812;Mariahilf;почтовый индекс;1;1;from
+Q654812;Mariahilf;категория на Викискладе;1;1;from
+Q654812;Mariahilf;произношение (звуковой файл);1;1;from
+Q654812;Mariahilf;состоит из;1;5;from
+Q654812;Mariahilf;идентификатор местоположения ArchINFORM;1;1;from
+Q654812;Mariahilf;RegiowikiAT ID;1;1;from
+Q654812;Mariahilf;географические координаты;1;1;from
+Q654812;Mariahilf;код Freebase;1;1;from
+Q654812;Mariahilf;Who's on First ID;1;1;from
+Q654812;Mariahilf;официальный сайт;1;1;from
+Q654812;Mariahilf;транскрипция в МФА;1;1;from
+Q654812;Mariahilf;основная категория по теме;1;1;from
+Q654812;Mariahilf;галерея на Викискладе;1;1;from
+Q664835;Neubau;RegiowikiAT ID;1;1;from
+Q664835;Neubau;географические координаты;1;1;from
+Q664835;Neubau;код Freebase;1;1;from
+Q664835;Neubau;официальный сайт;1;1;from
+Q690335;Penzing;не путать с;1;1;to
+Q690335;Penzing;высота над уровнем моря;1;1;from
+Q690335;Penzing;площадь;1;1;from
+Q690335;Penzing;почтовый индекс;1;1;from
+Q690335;Penzing;категория на Викискладе;1;1;from
+Q690335;Penzing;произношение (звуковой файл);1;1;from
+Q690335;Penzing;состоит из;1;7;from
+Q690335;Penzing;идентификатор местоположения ArchINFORM;1;1;from
+Q690335;Penzing;наивысшая точка;1;1;from
+Q690335;Penzing;RegiowikiAT ID;1;1;from
+Q690335;Penzing;географические координаты;1;1;from
+Q690335;Penzing;код Freebase;1;1;from
+Q690335;Penzing;официальный сайт;1;1;from
+Q690335;Penzing;транскрипция в МФА;1;1;from
+Q690335;Penzing;основная категория по теме;1;1;from
+Q690335;Penzing;галерея на Викискладе;1;1;from
+Q690335;Penzing;код австрийского муниципалитета;1;1;from
+Q690335;Penzing;место в MusicBrainz;1;1;from
+Q690335;Penzing;категория объединяет темы;1;2;to
+Q690335;Penzing;место смерти;1;5;to
+Q690335;Penzing;место рождения;1;4;to
+Q690335;Penzing;общая тема категории;1;1;to
+Q690335;Penzing;административно делится на;1;1;to
+Q690335;Penzing;категория для людей, связанных с местностью;1;1;from
+Q690335;Penzing;код GeoNames;1;1;from
+Q690335;Penzing;категория для людей, родившихся здесь;1;1;from
+Q664835;Neubau;место создания;1;1;to
+Q664835;Neubau;транскрипция в МФА;1;1;from
+Q664835;Neubau;основная категория по теме;1;1;from
+Q664835;Neubau;галерея на Викискладе;1;1;from
+Q664835;Neubau;баннер Викигида;1;1;from
+Q664835;Neubau;код австрийского муниципалитета;1;1;from
+Q664835;Neubau;место в MusicBrainz;1;1;from
+Q664835;Neubau;расположение штаб-квартиры;1;3;to
+Q664835;Neubau;место жительства;1;1;to
+Q664835;Neubau;место рождения;1;3;to
+Q664835;Neubau;место активности;1;1;to
+Q664835;Neubau;местонахождение;1;1;to
+Q690335;Penzing;изображение герба;1;1;from
+Q664835;Neubau;общая тема категории;1;1;to
+Q664835;Neubau;административно делится на;1;1;to
+Q690335;Penzing;административно-территориальная единица;1;139;to
+Q690335;Penzing;государство;1;1;from
+Q690335;Penzing;код VIAF;1;1;from
+Q690335;Penzing;код GND;1;1;from
+Q690335;Penzing;карта местонахождения;1;1;from
+Q690335;Penzing;это частный случай понятия;1;1;from
+Q690335;Penzing;имеет границы с;1;10;to
+Q690335;Penzing;глава правительства;1;2;from
+Q268001;Wieden;изображение;1;1;from
+Q268001;Wieden;административно-территориальная единица;1;107;to
+Q252731;Margareten;государство;1;1;from
+Q258333;Donaustadt;географические координаты;1;1;from
+Q258333;Donaustadt;Who's on First ID;1;1;from
+Q258333;Donaustadt;код NKC;1;1;from
+Q258333;Donaustadt;официальный сайт;1;1;from
+Q258333;Donaustadt;транскрипция в МФА;1;1;from
+Q258333;Donaustadt;основная категория по теме;1;1;from
+Q258333;Donaustadt;галерея на Викискладе;1;1;from
+Q258333;Donaustadt;код австрийского муниципалитета;1;1;from
+Q258333;Donaustadt;названо в честь;1;2;to
+Q258333;Donaustadt;местонахождение;1;2;to
+Q258333;Donaustadt;расположение штаб-квартиры;1;1;to
+Q258333;Donaustadt;общая тема категории;1;1;to
+Q258333;Donaustadt;административно делится на;1;1;to
+Q259120;Leopoldstadt;административно-территориальная единица;1;147;to
+Q259120;Leopoldstadt;государство;1;1;from
+Q259120;Leopoldstadt;изображение;1;1;from
+Q259120;Leopoldstadt;город-побратим;1;1;to
+Q259120;Leopoldstadt;код VIAF;1;1;from
+Q259120;Leopoldstadt;код GND;1;1;from
+Q259120;Leopoldstadt;карта местонахождения;1;1;from
+Q259120;Leopoldstadt;код LCNAF;1;1;from
+Q259120;Leopoldstadt;это частный случай понятия;1;1;from
+Q259120;Leopoldstadt;имеет границы с;1;7;to
+Q259120;Leopoldstadt;глава правительства;1;1;from
+Q258333;Donaustadt;код Freebase;1;1;from
+Q258333;Donaustadt;идентификатор местоположения ArchINFORM;1;1;from
+Q257780;Alsergrund;расположение штаб-квартиры;1;2;to
+Q258333;Donaustadt;состоит из;1;10;from
+Q257780;Alsergrund;место активности;1;2;to
+Q257780;Alsergrund;местонахождение;1;1;to
+Q257780;Alsergrund;категория объединяет темы;1;1;to
+Q257780;Alsergrund;общая тема категории;1;1;to
+Q257780;Alsergrund;место смерти;1;1;to
+Q258333;Donaustadt;административно-территориальная единица;1;147;to
+Q258333;Donaustadt;государство;1;1;from
+Q258333;Donaustadt;изображение;1;1;from
+Q258333;Donaustadt;код VIAF;1;1;from
+Q258333;Donaustadt;код GND;1;1;from
+Q258333;Donaustadt;карта местонахождения;1;1;from
+Q258333;Donaustadt;код LCNAF;1;1;from
+Q258333;Donaustadt;это частный случай понятия;1;1;from
+Q258333;Donaustadt;имеет границы с;1;4;to
+Q258333;Donaustadt;глава правительства;1;1;from
+Q258333;Donaustadt;изображение герба;1;1;from
+Q258333;Donaustadt;код GeoNames;1;1;from
+Q258333;Donaustadt;код TGN;1;1;from
+Q258333;Donaustadt;высота над уровнем моря;1;1;from
+Q258333;Donaustadt;площадь;1;1;from
+Q258333;Donaustadt;почтовый индекс;1;1;from
+Q258333;Donaustadt;категория на Викискладе;1;1;from
+Q258333;Donaustadt;произношение (звуковой файл);1;1;from
+Q259120;Leopoldstadt;изображение герба;1;1;from
+Q259120;Leopoldstadt;код в энциклопедии «Британника онлайн»;1;1;from
+Q259120;Leopoldstadt;код GeoNames;1;1;from
+Q259120;Leopoldstadt;не путать с;1;2;to
+Q262808;Hernals;государство;1;1;from
+Q262808;Hernals;код VIAF;1;1;from
+Q262808;Hernals;код GND;1;1;from
+Q262808;Hernals;карта местонахождения;1;1;from
+Q262808;Hernals;код LCNAF;1;1;from
+Q262808;Hernals;это частный случай понятия;1;1;from
+Q262808;Hernals;имеет границы с;1;13;to
+Q262808;Hernals;глава правительства;1;1;from
+Q262808;Hernals;изображение герба;1;1;from
+Q262808;Hernals;код GeoNames;1;1;from
+Q262808;Hernals;код Pleiades;1;1;from
+Q262808;Hernals;код TGN;1;1;from
+Q262808;Hernals;не путать с;1;1;to
+Q262808;Hernals;высота над уровнем моря;1;1;from
+Q262808;Hernals;площадь;1;1;from
+Q262808;Hernals;почтовый индекс;1;1;from
+Q262808;Hernals;категория на Викискладе;1;1;from
+Q262808;Hernals;произношение (звуковой файл);1;1;from
+Q262808;Hernals;состоит из;1;3;from
+Q262808;Hernals;идентификатор местоположения ArchINFORM;1;1;from
+Q262808;Hernals;наивысшая точка;1;1;from
+Q262808;Hernals;RegiowikiAT ID;1;1;from
+Q262808;Hernals;географические координаты;1;1;from
+Q262808;Hernals;административно-территориальная единица;1;80;to
+Q259120;Leopoldstadt;административно делится на;1;1;to
+Q259120;Leopoldstadt;общая тема категории;1;1;to
+Q259120;Leopoldstadt;официальный сайт;1;1;from
+Q259120;Leopoldstadt;высота над уровнем моря;1;1;from
+Q259120;Leopoldstadt;площадь;1;1;from
+Q259120;Leopoldstadt;почтовый индекс;1;1;from
+Q259120;Leopoldstadt;категория на Викискладе;1;1;from
+Q259120;Leopoldstadt;произношение (звуковой файл);1;1;from
+Q259120;Leopoldstadt;состоит из;1;3;from
+Q259120;Leopoldstadt;идентификатор местоположения ArchINFORM;1;1;from
+Q259120;Leopoldstadt;RegiowikiAT ID;1;1;from
+Q259120;Leopoldstadt;географические координаты;1;1;from
+Q259120;Leopoldstadt;код Freebase;1;1;from
+Q259120;Leopoldstadt;транскрипция в МФА;1;1;from
+Q259120;Leopoldstadt;конечная;1;1;to
+Q259120;Leopoldstadt;основная категория по теме;1;1;from
+Q259120;Leopoldstadt;галерея на Викискладе;1;1;from
+Q259120;Leopoldstadt;баннер Викигида;1;1;from
+Q259120;Leopoldstadt;код австрийского муниципалитета;1;1;from
+Q259120;Leopoldstadt;место в MusicBrainz;1;1;from
+Q259120;Leopoldstadt;место рождения;1;1;to
+Q259120;Leopoldstadt;место активности;1;2;to
+Q259120;Leopoldstadt;часть от;1;3;to
+Q259120;Leopoldstadt;местонахождение;1;2;to
+Q259120;Leopoldstadt;место смерти;1;1;to
+Q257780;Alsergrund;место рождения;1;1;to
+Q257780;Alsergrund;место в MusicBrainz;1;1;from
+Q262808;Hernals;Who's on First ID;1;1;from
+Q252731;Margareten;транскрипция в МФА;1;1;from
+Q252731;Margareten;галерея на Викискладе;1;1;from
+Q252731;Margareten;баннер Викигида;1;1;from
+Q252731;Margareten;код австрийского муниципалитета;1;1;from
+Q252731;Margareten;место рождения;1;1;to
+Q252731;Margareten;категория объединяет темы;1;1;to
+Q252731;Margareten;общая тема категории;1;1;to
+Q252731;Margareten;административно делится на;1;1;to
+Q256778;Josefstadt;административно-территориальная единица;1;146;to
+Q256778;Josefstadt;государство;1;1;from
+Q256778;Josefstadt;код VIAF;1;1;from
+Q256778;Josefstadt;код GND;1;1;from
+Q256778;Josefstadt;карта местонахождения;1;1;from
+Q256778;Josefstadt;код LCNAF;1;1;from
+Q256778;Josefstadt;это частный случай понятия;1;1;from
+Q256778;Josefstadt;имеет границы с;1;7;to
+Q256778;Josefstadt;изображение герба;1;1;from
+Q256778;Josefstadt;порядковый номер;1;1;from
+Q256778;Josefstadt;код GeoNames;1;1;from
+Q256778;Josefstadt;не путать с;1;2;to
+Q256778;Josefstadt;высота над уровнем моря;1;1;from
+Q256778;Josefstadt;площадь;1;1;from
+Q256778;Josefstadt;почтовый индекс;1;1;from
+Q256778;Josefstadt;категория на Викискладе;1;1;from
+Q252731;Margareten;основная категория по теме;1;1;from
+Q252731;Margareten;официальный сайт;1;1;from
+Q257780;Alsergrund;код австрийского муниципалитета;1;1;from
+Q252731;Margareten;категория карт на Викискладе;1;1;from
+Q252731;Margareten;код VIAF;1;1;from
+Q252731;Margareten;код GND;1;1;from
+Q252731;Margareten;карта местонахождения;1;1;from
+Q252731;Margareten;это частный случай понятия;1;1;from
+Q252731;Margareten;имеет границы с;1;4;to
+Q252731;Margareten;изображение герба;1;1;from
+Q252731;Margareten;численность населения;1;1;from
+Q252731;Margareten;список памятников;1;1;from
+Q252731;Margareten;порядковый номер;1;1;from
+Q252731;Margareten;код GeoNames;1;1;from
+Q252731;Margareten;не путать с;1;1;to
+Q252731;Margareten;высота над уровнем моря;1;1;from
+Q252731;Margareten;площадь;1;1;from
+Q252731;Margareten;почтовый индекс;1;1;from
+Q252731;Margareten;категория на Викискладе;1;1;from
+Q252731;Margareten;ID отношения в OpenStreetMap;1;1;from
+Q252731;Margareten;произношение (звуковой файл);1;1;from
+Q252731;Margareten;состоит из;1;6;from
+Q252731;Margareten;идентификатор местоположения ArchINFORM;1;1;from
+Q252731;Margareten;RegiowikiAT ID;1;1;from
+Q252731;Margareten;географические координаты;1;1;from
+Q252731;Margareten;код Freebase;1;1;from
+Q252731;Margareten;Who's on First ID;1;1;from
+Q256778;Josefstadt;произношение (звуковой файл);1;1;from
+Q256778;Josefstadt;состоит из;1;5;from
+Q256778;Josefstadt;идентификатор местоположения ArchINFORM;1;1;from
+Q256778;Josefstadt;RegiowikiAT ID;1;1;from
+Q257780;Alsergrund;имеет границы с;1;9;to
+Q257780;Alsergrund;глава правительства;1;1;from
+Q257780;Alsergrund;изображение герба;1;1;from
+Q257780;Alsergrund;категория для людей, умерших здесь;1;1;from
+Q257780;Alsergrund;порядковый номер;1;1;from
+Q257780;Alsergrund;код GeoNames;1;1;from
+Q257780;Alsergrund;не путать с;1;1;to
+Q257780;Alsergrund;позиционная карта;1;1;from
+Q257780;Alsergrund;высота над уровнем моря;1;1;from
+Q257780;Alsergrund;площадь;1;1;from
+Q257780;Alsergrund;почтовый индекс;1;1;from
+Q257780;Alsergrund;категория на Викискладе;1;1;from
+Q257780;Alsergrund;произношение (звуковой файл);1;1;from
+Q257780;Alsergrund;идентификатор местоположения ArchINFORM;1;1;from
+Q257780;Alsergrund;RegiowikiAT ID;1;1;from
+Q257780;Alsergrund;географические координаты;1;1;from
+Q257780;Alsergrund;код Freebase;1;1;from
+Q257780;Alsergrund;Who's on First ID;1;1;from
+Q257780;Alsergrund;официальный сайт;1;1;from
+Q257780;Alsergrund;транскрипция в МФА;1;1;from
+Q257780;Alsergrund;основная категория по теме;1;1;from
+Q257780;Alsergrund;галерея на Викискладе;1;1;from
+Q257780;Alsergrund;баннер Викигида;1;1;from
+Q257780;Alsergrund;это частный случай понятия;1;1;from
+Q257780;Alsergrund;код LCNAF;1;1;from
+Q257780;Alsergrund;карта местонахождения;1;1;from
+Q256778;Josefstadt;место в MusicBrainz;1;1;from
+Q256778;Josefstadt;географические координаты;1;1;from
+Q256778;Josefstadt;код Freebase;1;1;from
+Q256778;Josefstadt;Who's on First ID;1;1;from
+Q256778;Josefstadt;код NKC;1;1;from
+Q256778;Josefstadt;официальный сайт;1;1;from
+Q256778;Josefstadt;транскрипция в МФА;1;1;from
+Q256778;Josefstadt;основная категория по теме;1;1;from
+Q256778;Josefstadt;галерея на Викискладе;1;1;from
+Q256778;Josefstadt;баннер Викигида;1;1;from
+Q256778;Josefstadt;код австрийского муниципалитета;1;1;from
+Q256778;Josefstadt;расположение штаб-квартиры;1;3;to
+Q257780;Alsergrund;код GND;1;1;from
+Q256778;Josefstadt;место смерти;1;2;to
+Q256778;Josefstadt;место жительства;1;3;to
+Q256778;Josefstadt;место рождения;1;2;to
+Q256778;Josefstadt;общая тема категории;1;1;to
+Q256778;Josefstadt;административно делится на;1;1;to
+Q257780;Alsergrund;административно-территориальная единица;1;159;to
+Q257780;Alsergrund;названо в честь;1;1;from
+Q257780;Alsergrund;административно делится на;1;1;to
+Q257780;Alsergrund;государство;1;1;from
+Q257780;Alsergrund;код VIAF;1;1;from
+Q262808;Hernals;код Freebase;1;1;from
+Q262808;Hernals;WorldCat Identities ID;1;1;from
+Q267360;Döbling;административно делится на;1;1;to
+Q267329;Innere Stadt;имеет границы с;1;7;to
+Q267329;Innere Stadt;изображение герба;1;1;from
+Q267329;Innere Stadt;код в энциклопедии «Британника онлайн»;1;1;from
+Q267329;Innere Stadt;основной шаблон по теме;1;1;from
+Q267329;Innere Stadt;список памятников;1;6;from
+Q267329;Innere Stadt;код GeoNames;1;1;from
+Q267329;Innere Stadt;название на языке оригинала;1;1;from
+Q267329;Innere Stadt;не путать с;1;1;to
+Q267329;Innere Stadt;высота над уровнем моря;1;1;from
+Q267329;Innere Stadt;площадь;1;1;from
+Q267329;Innere Stadt;почтовый индекс;1;1;from
+Q267329;Innere Stadt;категория на Викискладе;1;1;from
+Q267329;Innere Stadt;произношение (звуковой файл);1;1;from
+Q267329;Innere Stadt;идентификатор местоположения ArchINFORM;1;1;from
+Q267329;Innere Stadt;RegiowikiAT ID;1;1;from
+Q267329;Innere Stadt;географические координаты;1;1;from
+Q267329;Innere Stadt;код Freebase;1;1;from
+Q267329;Innere Stadt;Who's on First ID;1;2;from
+Q267329;Innere Stadt;код NKC;1;1;from
+Q267329;Innere Stadt;официальный сайт;1;1;from
+Q267329;Innere Stadt;транскрипция в МФА;1;1;from
+Q267329;Innere Stadt;основная категория по теме;1;1;from
+Q267329;Innere Stadt;галерея на Викискладе;1;1;from
+Q267329;Innere Stadt;баннер Викигида;1;1;from
+Q267329;Innere Stadt;глава правительства;1;3;from
+Q267329;Innere Stadt;это частный случай понятия;1;2;from
+Q265945;Ottakring;RegiowikiAT ID;1;1;from
+Q267329;Innere Stadt;код LCNAF;1;1;from
+Q265945;Ottakring;код Freebase;1;1;from
+Q265945;Ottakring;Who's on First ID;1;1;from
+Q265945;Ottakring;код NKC;1;1;from
+Q265945;Ottakring;официальный сайт;1;1;from
+Q265945;Ottakring;транскрипция в МФА;1;1;from
+Q265945;Ottakring;основная категория по теме;1;1;from
+Q265945;Ottakring;галерея на Викискладе;1;1;from
+Q265945;Ottakring;код австрийского муниципалитета;1;1;from
+Q265945;Ottakring;место в MusicBrainz;1;1;from
+Q265945;Ottakring;место рождения;1;7;to
+Q265945;Ottakring;расположение штаб-квартиры;1;1;to
+Q265945;Ottakring;место смерти;1;2;to
+Q265945;Ottakring;местонахождение;1;2;to
+Q265945;Ottakring;названо в честь;1;1;to
+Q265945;Ottakring;общая тема категории;1;1;to
+Q265945;Ottakring;административно делится на;1;1;to
+Q267329;Innere Stadt;административно-территориальная единица;1;869;to
+Q267329;Innere Stadt;государство;1;1;from
+Q267329;Innere Stadt;изображение;1;1;from
+Q267329;Innere Stadt;город-побратим;1;2;to
+Q267329;Innere Stadt;код VIAF;1;1;from
+Q267329;Innere Stadt;код GND;1;1;from
+Q267329;Innere Stadt;карта местонахождения;1;1;from
+Q267329;Innere Stadt;код австрийского муниципалитета;1;1;from
+Q267329;Innere Stadt;расположение штаб-квартиры;1;8;to
+Q267329;Innere Stadt;местонахождение;1;4;to
+Q267329;Innere Stadt;основная тема шаблона;1;1;to
+Q267360;Döbling;произношение (звуковой файл);1;1;from
+Q267360;Döbling;состоит из;1;11;from
+Q267360;Döbling;идентификатор местоположения ArchINFORM;1;1;from
+Q267360;Döbling;наивысшая точка;1;1;from
+Q267360;Döbling;RegiowikiAT ID;1;1;from
+Q267360;Döbling;географические координаты;1;1;from
+Q267360;Döbling;код Freebase;1;1;from
+Q267360;Döbling;Who's on First ID;1;1;from
+Q267360;Döbling;код NKC;1;1;from
+Q267360;Döbling;официальный сайт;1;1;from
+Q267360;Döbling;транскрипция в МФА;1;1;from
+Q267360;Döbling;основная категория по теме;1;1;from
+Q267360;Döbling;галерея на Викискладе;1;1;from
+Q267360;Döbling;код австрийского муниципалитета;1;1;from
+Q267360;Döbling;место в MusicBrainz;1;1;from
+Q267360;Döbling;место смерти;1;19;to
+Q267360;Döbling;место рождения;1;12;to
+Q267360;Döbling;местонахождение;1;4;to
+Q267360;Döbling;расположение штаб-квартиры;1;2;to
+Q267360;Döbling;основная тема;1;1;to
+Q267360;Döbling;категория объединяет темы;1;3;to
+Q267360;Döbling;место погребения;1;1;to
+Q267360;Döbling;общая тема категории;1;1;to
+Q267360;Döbling;категория на Викискладе;1;1;from
+Q267360;Döbling;почтовый индекс;1;1;from
+Q267360;Döbling;площадь;1;1;from
+Q267360;Döbling;это частный случай понятия;1;1;from
+Q267329;Innere Stadt;общая тема категории;1;1;to
+Q267329;Innere Stadt;находится в пределах природно-географического объекта;1;1;to
+Q267329;Innere Stadt;административно делится на;1;1;to
+Q267360;Döbling;административно-территориальная единица;1;317;to
+Q267360;Döbling;государство;1;1;from
+Q267360;Döbling;изображение;1;1;from
+Q267360;Döbling;код VIAF;1;1;from
+Q267360;Döbling;код GND;1;1;from
+Q267360;Döbling;карта местонахождения;1;1;from
+Q267360;Döbling;код LCNAF;1;1;from
+Q267360;Döbling;имеет границы с;1;10;to
+Q267360;Döbling;высота над уровнем моря;1;1;from
+Q267360;Döbling;глава правительства;1;3;from
+Q267360;Döbling;изображение герба;1;1;from
+Q267360;Döbling;описывается в источниках;1;1;from
+Q267360;Döbling;список памятников;1;2;from
+Q267360;Döbling;категория для людей, родившихся здесь;1;1;from
+Q267360;Döbling;категория для людей, умерших здесь;1;1;from
+Q267360;Döbling;код GeoNames;1;1;from
+Q267360;Döbling;код TGN;1;1;from
+Q267360;Döbling;категория для людей, связанных с местностью;1;1;from
+Q267360;Döbling;позиционная карта;1;1;from
+Q265945;Ottakring;географические координаты;1;1;from
+Q265945;Ottakring;наивысшая точка;1;1;from
+Q262808;Hernals;официальный сайт;1;1;from
+Q264645;Floridsdorf;высота над уровнем моря;1;1;from
+Q264645;Floridsdorf;почтовый индекс;1;1;from
+Q264645;Floridsdorf;категория на Викискладе;1;1;from
+Q264645;Floridsdorf;произношение (звуковой файл);1;1;from
+Q264645;Floridsdorf;состоит из;1;9;from
+Q264645;Floridsdorf;идентификатор местоположения ArchINFORM;1;1;from
+Q264645;Floridsdorf;RegiowikiAT ID;1;1;from
+Q264645;Floridsdorf;географические координаты;1;1;from
+Q264645;Floridsdorf;код Freebase;1;1;from
+Q264645;Floridsdorf;код NKC;1;1;from
+Q264645;Floridsdorf;официальный сайт;1;1;from
+Q264645;Floridsdorf;транскрипция в МФА;1;1;from
+Q264645;Floridsdorf;основная категория по теме;1;1;from
+Q264645;Floridsdorf;галерея на Викискладе;1;1;from
+Q264645;Floridsdorf;код австрийского муниципалитета;1;1;from
+Q264645;Floridsdorf;расположение штаб-квартиры;1;3;to
+Q264645;Floridsdorf;место рождения;1;3;to
+Q264645;Floridsdorf;конечная;1;1;to
+Q264645;Floridsdorf;местонахождение;1;2;to
+Q264645;Floridsdorf;общая тема категории;1;1;to
+Q264645;Floridsdorf;административно делится на;1;1;to
+Q265655;Brigittenau;административно-территориальная единица;1;75;to
+Q265655;Brigittenau;названо в честь;1;1;from
+Q265655;Brigittenau;государство;1;1;from
+Q264645;Floridsdorf;площадь;1;1;from
+Q264645;Floridsdorf;не путать с;1;1;to
+Q265945;Ottakring;идентификатор местоположения ArchINFORM;1;1;from
+Q264645;Floridsdorf;код GeoNames;1;1;from
+Q262808;Hernals;транскрипция в МФА;1;1;from
+Q262808;Hernals;основная категория по теме;1;1;from
+Q262808;Hernals;галерея на Викискладе;1;1;from
+Q262808;Hernals;код австрийского муниципалитета;1;1;from
+Q262808;Hernals;место в MusicBrainz;1;1;from
+Q262808;Hernals;место смерти;1;1;to
+Q262808;Hernals;место рождения;1;2;to
+Q262808;Hernals;местонахождение;1;3;to
+Q262808;Hernals;общая тема категории;1;1;to
+Q262808;Hernals;административно делится на;1;1;to
+Q264645;Floridsdorf;административно-территориальная единица;1;82;to
+Q264645;Floridsdorf;названо в честь;1;1;to
+Q264645;Floridsdorf;государство;1;1;from
+Q264645;Floridsdorf;изображение;1;1;from
+Q264645;Floridsdorf;город-побратим;1;1;to
+Q264645;Floridsdorf;код VIAF;1;1;from
+Q264645;Floridsdorf;код GND;1;1;from
+Q264645;Floridsdorf;карта местонахождения;1;1;from
+Q264645;Floridsdorf;код LCNAF;1;1;from
+Q264645;Floridsdorf;это частный случай понятия;1;2;from
+Q264645;Floridsdorf;имеет границы с;1;5;to
+Q264645;Floridsdorf;глава правительства;1;1;from
+Q264645;Floridsdorf;изображение герба;1;1;from
+Q265655;Brigittenau;код VIAF;1;1;from
+Q265655;Brigittenau;код GND;1;1;from
+Q265655;Brigittenau;карта местонахождения;1;1;from
+Q265655;Brigittenau;код LCNAF;1;1;from
+Q265655;Brigittenau;место рождения;1;2;to
+Q265655;Brigittenau;место смерти;1;1;to
+Q265655;Brigittenau;категория объединяет темы;1;2;to
+Q265655;Brigittenau;общая тема категории;1;1;to
+Q265655;Brigittenau;административно делится на;1;1;to
+Q265945;Ottakring;административно-территориальная единица;1;112;to
+Q265945;Ottakring;государство;1;1;from
+Q265945;Ottakring;код VIAF;1;1;from
+Q265945;Ottakring;код GND;1;1;from
+Q265945;Ottakring;карта местонахождения;1;1;from
+Q265945;Ottakring;код LCNAF;1;1;from
+Q265945;Ottakring;это частный случай понятия;1;1;from
+Q265945;Ottakring;имеет границы с;1;9;to
+Q265945;Ottakring;глава правительства;1;1;from
+Q265945;Ottakring;изображение герба;1;1;from
+Q265945;Ottakring;код GeoNames;1;1;from
+Q265945;Ottakring;не путать с;1;1;to
+Q265945;Ottakring;высота над уровнем моря;1;1;from
+Q265945;Ottakring;площадь;1;1;from
+Q265945;Ottakring;почтовый индекс;1;1;from
+Q265945;Ottakring;категория на Викискладе;1;1;from
+Q265945;Ottakring;произношение (звуковой файл);1;1;from
+Q265945;Ottakring;состоит из;1;2;from
+Q265655;Brigittenau;находится в пределах природно-географического объекта;1;1;to
+Q265655;Brigittenau;код австрийского муниципалитета;1;1;from
+Q265655;Brigittenau;галерея на Викискладе;1;1;from
+Q265655;Brigittenau;площадь;1;1;from
+Q265655;Brigittenau;это частный случай понятия;1;1;from
+Q265655;Brigittenau;имеет границы с;1;5;to
+Q265655;Brigittenau;глава правительства;1;1;from
+Q265655;Brigittenau;изображение герба;1;1;from
+Q265655;Brigittenau;категория для людей, умерших здесь;1;1;from
+Q265655;Brigittenau;код GeoNames;1;1;from
+Q265655;Brigittenau;код TGN;1;1;from
+Q265655;Brigittenau;категория для людей, связанных с местностью;1;1;from
+Q265655;Brigittenau;не путать с;1;1;to
+Q265655;Brigittenau;высота над уровнем моря;1;1;from
+Q265655;Brigittenau;почтовый индекс;1;1;from
+Q265655;Brigittenau;основная категория по теме;1;1;from
+Q265655;Brigittenau;категория на Викискладе;1;1;from
+Q265655;Brigittenau;произношение (звуковой файл);1;1;from
+Q265655;Brigittenau;идентификатор местоположения ArchINFORM;1;1;from
+Q265655;Brigittenau;RegiowikiAT ID;1;1;from
+Q265655;Brigittenau;географические координаты;1;1;from
+Q265655;Brigittenau;код Freebase;1;1;from
+Q265655;Brigittenau;Who's on First ID;1;1;from
+Q265655;Brigittenau;код NKC;1;1;from
+Q265655;Brigittenau;официальный сайт;1;1;from
+Q265655;Brigittenau;транскрипция в МФА;1;1;from
+Q697557;Meidling;категория объединяет темы;1;1;to

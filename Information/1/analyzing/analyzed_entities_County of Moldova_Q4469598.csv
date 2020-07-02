@@ -1,0 +1,65 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q2060610;Tighina County;государство;1;1;from
+Q2060610;Tighina County;это частный случай понятия;1;1;from
+Q7884490;Ungheni County;государство;1;1;from
+Q7884490;Ungheni County;карта местонахождения;1;1;from
+Q7884490;Ungheni County;это частный случай понятия;1;1;from
+Q7884490;Ungheni County;столица;1;1;from
+Q7884490;Ungheni County;изображение флага;1;1;from
+Q7884490;Ungheni County;площадь;1;1;from
+Q7884490;Ungheni County;дата основания/создания/возникновения;1;1;from
+Q7884490;Ungheni County;географические координаты;1;1;from
+Q7884490;Ungheni County;является столицей;1;1;to
+Q15571756;Lăpușna County;государство;1;1;from
+Q15571756;Lăpușna County;это частный случай понятия;1;2;from
+Q15571756;Lăpușna County;столица;1;1;from
+Q15571756;Lăpușna County;не путать с;1;1;to
+Q15571756;Lăpușna County;площадь;1;1;from
+Q15571756;Lăpușna County;дата основания/создания/возникновения;1;1;from
+Q15571756;Lăpușna County;является столицей;1;1;to
+Q16692359;Bălți County;государство;1;1;from
+Q16692359;Bălți County;карта местонахождения;1;1;from
+Q16692359;Bălți County;это частный случай понятия;1;1;from
+Q16692359;Bălți County;изображение флага;1;1;from
+Q16692359;Bălți County;площадь;1;1;from
+Q16692359;Bălți County;дата основания/создания/возникновения;1;1;from
+Q17627479;Taraclia County;государство;1;1;from
+Q17627479;Taraclia County;карта местонахождения;1;1;from
+Q17627479;Taraclia County;это частный случай понятия;1;1;from
+Q17627479;Taraclia County;столица;1;1;from
+Q17627479;Taraclia County;изображение флага;1;1;from
+Q17627479;Taraclia County;площадь;1;1;from
+Q17627479;Taraclia County;дата основания/создания/возникновения;1;1;from
+Q6274137;Soroca County;географические координаты;1;1;from
+Q6274137;Soroca County;дата основания/создания/возникновения;1;1;from
+Q6274137;Soroca County;площадь;1;1;from
+Q2490324;Chișinău County;дата основания/создания/возникновения;1;1;from
+Q2060610;Tighina County;код Freebase;1;1;from
+Q2442138;Cahul County;государство;1;1;from
+Q2442138;Cahul County;карта местонахождения;1;1;from
+Q2442138;Cahul County;это частный случай понятия;1;1;from
+Q2442138;Cahul County;изображение флага;1;1;from
+Q2442138;Cahul County;площадь;1;1;from
+Q2442138;Cahul County;дата основания/создания/возникновения;1;1;from
+Q2442138;Cahul County;географические координаты;1;1;from
+Q2442138;Cahul County;административно-территориальная единица;1;1;to
+Q2490324;Chișinău County;государство;1;1;from
+Q2490324;Chișinău County;карта местонахождения;1;1;from
+Q2490324;Chișinău County;это частный случай понятия;1;1;from
+Q2490324;Chișinău County;изображение флага;1;1;from
+Q2784333;Edineț County;государство;1;1;from
+Q6274137;Soroca County;это частный случай понятия;1;2;from
+Q2784333;Edineț County;карта местонахождения;1;1;from
+Q2784333;Edineț County;это частный случай понятия;1;1;from
+Q2784333;Edineț County;столица;1;1;from
+Q2784333;Edineț County;изображение флага;1;1;from
+Q2784333;Edineț County;площадь;1;1;from
+Q2784333;Edineț County;дата основания/создания/возникновения;1;1;from
+Q2784333;Edineț County;географические координаты;1;1;from
+Q2784333;Edineț County;код Freebase;1;1;from
+Q6273077;Orhei County;государство;1;1;from
+Q6273077;Orhei County;это частный случай понятия;1;1;from
+Q6273077;Orhei County;географические координаты;1;1;from
+Q6273077;Orhei County;место рождения;1;2;to
+Q6274137;Soroca County;государство;1;1;from
+Q17627479;Taraclia County;является столицей;1;1;to

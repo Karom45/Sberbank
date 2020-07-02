@@ -1,0 +1,225 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q537740;Barima-Waini;административно-территориальная единица;1;399;to
+Q537740;Barima-Waini;государство;1;1;from
+Q1368802;Essequibo Islands-West Demerara;площадь;1;1;from
+Q1368802;Essequibo Islands-West Demerara;используемый язык;1;2;from
+Q1368802;Essequibo Islands-West Demerara;ISO 3166-2;1;1;from
+Q1368802;Essequibo Islands-West Demerara;ID отношения в OpenStreetMap;1;1;from
+Q1368802;Essequibo Islands-West Demerara;географические координаты;1;1;from
+Q1368802;Essequibo Islands-West Demerara;код Freebase;1;1;from
+Q1368802;Essequibo Islands-West Demerara;Who's on First ID;1;1;from
+Q1368802;Essequibo Islands-West Demerara;FIPS 10-4 (страны и регионы);1;1;from
+Q1368802;Essequibo Islands-West Demerara;основная категория по теме;1;1;from
+Q1368802;Essequibo Islands-West Demerara;место рождения;1;3;to
+Q1368802;Essequibo Islands-West Demerara;происходит из;1;2;to
+Q1368802;Essequibo Islands-West Demerara;общая тема категории;1;1;to
+Q1368802;Essequibo Islands-West Demerara;административно делится на;1;1;to
+Q1454035;Potaro-Siparuni;административно-территориальная единица;1;322;to
+Q1454035;Potaro-Siparuni;государство;1;1;from
+Q1454035;Potaro-Siparuni;изображение;1;1;from
+Q1454035;Potaro-Siparuni;карта местонахождения;1;1;from
+Q1454035;Potaro-Siparuni;это частный случай понятия;1;1;from
+Q1454035;Potaro-Siparuni;столица;1;1;from
+Q1454035;Potaro-Siparuni;имеет границы с;1;5;to
+Q1454035;Potaro-Siparuni;численность населения;1;4;from
+Q1454035;Potaro-Siparuni;код GeoNames;1;1;from
+Q1454035;Potaro-Siparuni;код TGN;1;1;from
+Q1454035;Potaro-Siparuni;площадь;1;1;from
+Q1454035;Potaro-Siparuni;используемый язык;1;2;from
+Q1368802;Essequibo Islands-West Demerara;код TGN;1;1;from
+Q1368802;Essequibo Islands-West Demerara;код GeoNames;1;1;from
+Q1368802;Essequibo Islands-West Demerara;код US National Archives;1;1;from
+Q1309042;Upper Demerara-Berbice;код Freebase;1;1;from
+Q1309042;Upper Demerara-Berbice;столица;1;1;from
+Q1309042;Upper Demerara-Berbice;имеет границы с;1;6;to
+Q1309042;Upper Demerara-Berbice;код в Большой каталанской энциклопедии;1;1;from
+Q1309042;Upper Demerara-Berbice;код GeoNames;1;1;from
+Q1309042;Upper Demerara-Berbice;код TGN;1;1;from
+Q1309042;Upper Demerara-Berbice;площадь;1;1;from
+Q1309042;Upper Demerara-Berbice;код BabelNet;1;1;from
+Q1309042;Upper Demerara-Berbice;используемый язык;1;1;from
+Q1309042;Upper Demerara-Berbice;ISO 3166-2;1;1;from
+Q1309042;Upper Demerara-Berbice;ID отношения в OpenStreetMap;1;1;from
+Q1309042;Upper Demerara-Berbice;географические координаты;1;1;from
+Q1309042;Upper Demerara-Berbice;Who's on First ID;1;1;from
+Q1368802;Essequibo Islands-West Demerara;имеет границы с;1;2;to
+Q1309042;Upper Demerara-Berbice;FIPS 10-4 (страны и регионы);1;1;from
+Q1309042;Upper Demerara-Berbice;основная категория по теме;1;1;from
+Q1309042;Upper Demerara-Berbice;административно делится на;1;2;to
+Q1309042;Upper Demerara-Berbice;является столицей;1;1;to
+Q1309042;Upper Demerara-Berbice;общая тема категории;1;1;to
+Q1309042;Upper Demerara-Berbice;происходит из;1;1;to
+Q1368802;Essequibo Islands-West Demerara;административно-территориальная единица;1;188;to
+Q1368802;Essequibo Islands-West Demerara;государство;1;1;from
+Q1368802;Essequibo Islands-West Demerara;карта местонахождения;1;1;from
+Q1368802;Essequibo Islands-West Demerara;это частный случай понятия;1;1;from
+Q1368802;Essequibo Islands-West Demerara;столица;1;1;from
+Q1454035;Potaro-Siparuni;ISO 3166-2;1;1;from
+Q1454035;Potaro-Siparuni;ID отношения в OpenStreetMap;1;1;from
+Q1454035;Potaro-Siparuni;географические координаты;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;код Freebase;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;это частный случай понятия;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;столица;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;имеет границы с;1;4;to
+Q1516381;Upper Takutu-Upper Essequibo;код в Большой каталанской энциклопедии;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;код GeoNames;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;код TGN;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;площадь;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;используемый язык;1;8;from
+Q1516381;Upper Takutu-Upper Essequibo;ISO 3166-2;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;ID отношения в OpenStreetMap;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;географические координаты;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;Who's on First ID;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;изображение;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;FIPS 10-4 (страны и регионы);1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;основная категория по теме;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;является столицей;1;1;to
+Q1516381;Upper Takutu-Upper Essequibo;местонахождение;1;1;to
+Q1516381;Upper Takutu-Upper Essequibo;происходит из;1;7;to
+Q1516381;Upper Takutu-Upper Essequibo;общая тема категории;1;1;to
+Q1516381;Upper Takutu-Upper Essequibo;административно делится на;1;1;to
+Q14206360;Berbice-Corentyne;административно-территориальная единица;1;1;from
+Q14206360;Berbice-Corentyne;административно делится на;1;2;from
+Q14206360;Berbice-Corentyne;государство;1;1;from
+Q14206360;Berbice-Corentyne;это частный случай понятия;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;карта местонахождения;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;государство;1;1;from
+Q1454035;Potaro-Siparuni;код Freebase;1;1;from
+Q1466671;Mahaica-Berbice;имеет границы с;1;2;to
+Q1454035;Potaro-Siparuni;Who's on First ID;1;1;from
+Q1454035;Potaro-Siparuni;FIPS 10-4 (страны и регионы);1;1;from
+Q1454035;Potaro-Siparuni;основная категория по теме;1;1;from
+Q1454035;Potaro-Siparuni;является столицей;1;1;to
+Q1454035;Potaro-Siparuni;происходит из;1;2;to
+Q1454035;Potaro-Siparuni;общая тема категории;1;1;to
+Q1454035;Potaro-Siparuni;административно делится на;1;1;to
+Q1466671;Mahaica-Berbice;административно-территориальная единица;1;91;to
+Q1466671;Mahaica-Berbice;государство;1;1;from
+Q1466671;Mahaica-Berbice;карта местонахождения;1;1;from
+Q1466671;Mahaica-Berbice;это частный случай понятия;1;1;from
+Q1466671;Mahaica-Berbice;код GeoNames;1;1;from
+Q1516381;Upper Takutu-Upper Essequibo;административно-территориальная единица;1;325;to
+Q1466671;Mahaica-Berbice;код TGN;1;1;from
+Q1466671;Mahaica-Berbice;площадь;1;1;from
+Q1466671;Mahaica-Berbice;ISO 3166-2;1;1;from
+Q1466671;Mahaica-Berbice;ID отношения в OpenStreetMap;1;1;from
+Q1466671;Mahaica-Berbice;географические координаты;1;1;from
+Q1466671;Mahaica-Berbice;код Freebase;1;1;from
+Q1466671;Mahaica-Berbice;Who's on First ID;1;1;from
+Q1466671;Mahaica-Berbice;FIPS 10-4 (страны и регионы);1;1;from
+Q1466671;Mahaica-Berbice;основная категория по теме;1;1;from
+Q1466671;Mahaica-Berbice;общая тема категории;1;1;to
+Q1466671;Mahaica-Berbice;административно делится на;1;1;to
+Q1309042;Upper Demerara-Berbice;это частный случай понятия;1;1;from
+Q1309042;Upper Demerara-Berbice;карта местонахождения;1;1;from
+Q1309042;Upper Demerara-Berbice;государство;1;1;from
+Q680382;Pomeroon-Supenaam;является столицей;1;1;to
+Q680382;Pomeroon-Supenaam;площадь;1;1;from
+Q680382;Pomeroon-Supenaam;используемый язык;1;2;from
+Q680382;Pomeroon-Supenaam;ISO 3166-2;1;1;from
+Q680382;Pomeroon-Supenaam;ID отношения в OpenStreetMap;1;1;from
+Q680382;Pomeroon-Supenaam;географические координаты;1;1;from
+Q680382;Pomeroon-Supenaam;код Freebase;1;1;from
+Q680382;Pomeroon-Supenaam;Who's on First ID;1;1;from
+Q680382;Pomeroon-Supenaam;FIPS 10-4 (страны и регионы);1;1;from
+Q680382;Pomeroon-Supenaam;основная категория по теме;1;1;from
+Q680382;Pomeroon-Supenaam;имеет границы с;1;2;to
+Q680382;Pomeroon-Supenaam;место рождения;1;1;to
+Q680382;Pomeroon-Supenaam;общая тема категории;1;1;to
+Q680382;Pomeroon-Supenaam;код GeoNames;1;1;from
+Q680382;Pomeroon-Supenaam;происходит из;1;2;to
+Q680382;Pomeroon-Supenaam;административно делится на;1;1;to
+Q1146777;Cuyuni-Mazaruni;административно-территориальная единица;1;755;to
+Q1146777;Cuyuni-Mazaruni;государство;1;1;from
+Q1146777;Cuyuni-Mazaruni;изображение;1;1;from
+Q1146777;Cuyuni-Mazaruni;карта местонахождения;1;1;from
+Q1146777;Cuyuni-Mazaruni;это частный случай понятия;1;1;from
+Q1146777;Cuyuni-Mazaruni;столица;1;1;from
+Q1146777;Cuyuni-Mazaruni;имеет границы с;1;5;to
+Q1146777;Cuyuni-Mazaruni;код GeoNames;1;1;from
+Q1146777;Cuyuni-Mazaruni;код TGN;1;1;from
+Q680382;Pomeroon-Supenaam;код TGN;1;1;from
+Q680382;Pomeroon-Supenaam;столица;1;1;from
+Q1146777;Cuyuni-Mazaruni;используемый язык;1;2;from
+Q537740;Barima-Waini;географические координаты;1;1;from
+Q537740;Barima-Waini;изображение;1;1;from
+Q537740;Barima-Waini;карта местонахождения;1;1;from
+Q537740;Barima-Waini;это частный случай понятия;1;1;from
+Q537740;Barima-Waini;столица;1;1;from
+Q537740;Barima-Waini;имеет границы с;1;3;to
+Q537740;Barima-Waini;код GeoNames;1;1;from
+Q537740;Barima-Waini;площадь;1;1;from
+Q537740;Barima-Waini;используемый язык;1;2;from
+Q537740;Barima-Waini;ISO 3166-2;1;1;from
+Q537740;Barima-Waini;категория на Викискладе;1;1;from
+Q537740;Barima-Waini;ID отношения в OpenStreetMap;1;1;from
+Q537740;Barima-Waini;код Freebase;1;1;from
+Q680382;Pomeroon-Supenaam;это частный случай понятия;1;1;from
+Q537740;Barima-Waini;Who's on First ID;1;1;from
+Q537740;Barima-Waini;FIPS 10-4 (страны и регионы);1;1;from
+Q537740;Barima-Waini;основная категория по теме;1;1;from
+Q537740;Barima-Waini;является столицей;1;1;to
+Q537740;Barima-Waini;общая тема категории;1;1;to
+Q537740;Barima-Waini;происходит из;1;2;to
+Q537740;Barima-Waini;административно делится на;1;1;to
+Q680382;Pomeroon-Supenaam;административно-территориальная единица;1;123;to
+Q680382;Pomeroon-Supenaam;государство;1;1;from
+Q680382;Pomeroon-Supenaam;изображение;1;1;from
+Q680382;Pomeroon-Supenaam;карта местонахождения;1;1;from
+Q1146777;Cuyuni-Mazaruni;площадь;1;1;from
+Q1146777;Cuyuni-Mazaruni;ISO 3166-2;1;1;from
+Q1309042;Upper Demerara-Berbice;административно-территориальная единица;1;577;to
+Q1277758;East Berbice-Corentyne;площадь;1;1;from
+Q1185362;Demerara-Mahaica;место смерти;1;1;to
+Q1185362;Demerara-Mahaica;общая тема категории;1;1;to
+Q1185362;Demerara-Mahaica;административно делится на;1;1;to
+Q1277758;East Berbice-Corentyne;административно-территориальная единица;1;170;to
+Q1277758;East Berbice-Corentyne;государство;1;1;from
+Q1277758;East Berbice-Corentyne;карта местонахождения;1;1;from
+Q1277758;East Berbice-Corentyne;это частный случай понятия;1;1;from
+Q1277758;East Berbice-Corentyne;столица;1;1;from
+Q1277758;East Berbice-Corentyne;имеет границы с;1;5;to
+Q1277758;East Berbice-Corentyne;код GeoNames;1;1;from
+Q1277758;East Berbice-Corentyne;код TGN;1;1;from
+Q1277758;East Berbice-Corentyne;используемый язык;1;3;from
+Q1185362;Demerara-Mahaica;место в MusicBrainz;1;1;from
+Q1277758;East Berbice-Corentyne;ISO 3166-2;1;1;from
+Q1277758;East Berbice-Corentyne;ID отношения в OpenStreetMap;1;1;from
+Q1277758;East Berbice-Corentyne;географические координаты;1;1;from
+Q1277758;East Berbice-Corentyne;код Freebase;1;1;from
+Q1277758;East Berbice-Corentyne;Who's on First ID;1;1;from
+Q1277758;East Berbice-Corentyne;FIPS 10-4 (страны и регионы);1;1;from
+Q1277758;East Berbice-Corentyne;основная категория по теме;1;1;from
+Q1277758;East Berbice-Corentyne;административно делится на;1;2;to
+Q1277758;East Berbice-Corentyne;происходит из;1;3;to
+Q1277758;East Berbice-Corentyne;место рождения;1;1;to
+Q1277758;East Berbice-Corentyne;общая тема категории;1;1;to
+Q1185362;Demerara-Mahaica;является столицей;1;1;to
+Q1185362;Demerara-Mahaica;основная категория по теме;1;1;from
+Q1146777;Cuyuni-Mazaruni;ID отношения в OpenStreetMap;1;1;from
+Q1185362;Demerara-Mahaica;изображение;1;1;from
+Q1146777;Cuyuni-Mazaruni;географические координаты;1;1;from
+Q1146777;Cuyuni-Mazaruni;код Freebase;1;1;from
+Q1146777;Cuyuni-Mazaruni;Who's on First ID;1;1;from
+Q1146777;Cuyuni-Mazaruni;FIPS 10-4 (страны и регионы);1;1;from
+Q1146777;Cuyuni-Mazaruni;основная категория по теме;1;1;from
+Q1146777;Cuyuni-Mazaruni;происходит из;1;2;to
+Q1146777;Cuyuni-Mazaruni;является столицей;1;1;to
+Q1146777;Cuyuni-Mazaruni;общая тема категории;1;1;to
+Q1146777;Cuyuni-Mazaruni;административно делится на;1;1;to
+Q1185362;Demerara-Mahaica;административно-территориальная единица;1;69;to
+Q1185362;Demerara-Mahaica;государство;1;1;from
+Q1185362;Demerara-Mahaica;карта местонахождения;1;1;from
+Q1185362;Demerara-Mahaica;FIPS 10-4 (страны и регионы);1;1;from
+Q1185362;Demerara-Mahaica;это частный случай понятия;1;1;from
+Q1185362;Demerara-Mahaica;столица;1;1;from
+Q1185362;Demerara-Mahaica;имеет границы с;1;1;to
+Q1185362;Demerara-Mahaica;код GeoNames;1;1;from
+Q1185362;Demerara-Mahaica;код TGN;1;1;from
+Q1185362;Demerara-Mahaica;площадь;1;1;from
+Q1185362;Demerara-Mahaica;ISO 3166-2;1;1;from
+Q1185362;Demerara-Mahaica;ID отношения в OpenStreetMap;1;1;from
+Q1185362;Demerara-Mahaica;географические координаты;1;1;from
+Q1185362;Demerara-Mahaica;код Freebase;1;1;from
+Q1185362;Demerara-Mahaica;Who's on First ID;1;1;from
+Q14206360;Berbice-Corentyne;баннер Викигида;1;1;from

@@ -1,0 +1,130 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q868515;Labé Region;административно-территориальная единица;1;7;to
+Q870166;Faranah Region;имеет границы с;1;4;to
+Q870191;Kankan Region;используемый язык;1;4;from
+Q870191;Kankan Region;код BabelNet;1;1;from
+Q870191;Kankan Region;площадь;1;1;from
+Q870191;Kankan Region;название на языке оригинала;1;1;from
+Q870191;Kankan Region;код TGN;1;1;from
+Q870191;Kankan Region;код GeoNames;1;1;from
+Q870191;Kankan Region;код в Большой каталанской энциклопедии;1;1;from
+Q870191;Kankan Region;численность населения;1;1;from
+Q870191;Kankan Region;имеет границы с;1;2;to
+Q870191;Kankan Region;столица;1;1;from
+Q870191;Kankan Region;это частный случай понятия;1;1;from
+Q870191;Kankan Region;карта местонахождения;1;1;from
+Q870191;Kankan Region;государство;1;1;from
+Q870191;Kankan Region;административно-территориальная единица;1;436;to
+Q870166;Faranah Region;административно делится на;1;1;to
+Q870166;Faranah Region;общая тема категории;1;1;to
+Q870166;Faranah Region;является столицей;1;1;to
+Q870166;Faranah Region;место рождения;1;1;to
+Q870166;Faranah Region;происходит из;1;8;to
+Q870166;Faranah Region;место в MusicBrainz;1;1;from
+Q870166;Faranah Region;основная категория по теме;1;1;from
+Q870166;Faranah Region;код Freebase;1;1;from
+Q870166;Faranah Region;географические координаты;1;1;from
+Q870166;Faranah Region;ISO 3166-2;1;1;from
+Q870166;Faranah Region;используемый язык;1;8;from
+Q870166;Faranah Region;площадь;1;1;from
+Q870166;Faranah Region;не путать с;1;1;to
+Q870166;Faranah Region;код TGN;1;1;from
+Q870166;Faranah Region;код GeoNames;1;1;from
+Q870191;Kankan Region;ISO 3166-2;1;1;from
+Q870191;Kankan Region;географические координаты;1;1;from
+Q870191;Kankan Region;код Freebase;1;1;from
+Q1043650;Mamou Region;ISO 3166-2;1;1;from
+Q1373230;Conakry region;географические координаты;1;1;from
+Q1373230;Conakry region;категория на Викискладе;1;1;from
+Q1373230;Conakry region;код в Большой каталанской энциклопедии;1;1;from
+Q1373230;Conakry region;это частный случай понятия;1;1;from
+Q1373230;Conakry region;карта местонахождения;1;1;from
+Q1373230;Conakry region;государство;1;1;from
+Q1043650;Mamou Region;административно делится на;1;1;to
+Q1043650;Mamou Region;общая тема категории;1;1;to
+Q1043650;Mamou Region;является столицей;1;1;to
+Q1043650;Mamou Region;происходит из;1;2;to
+Q1043650;Mamou Region;основная категория по теме;1;1;from
+Q1043650;Mamou Region;код Freebase;1;1;from
+Q1043650;Mamou Region;географические координаты;1;1;from
+Q1043650;Mamou Region;используемый язык;1;2;from
+Q870191;Kankan Region;основная категория по теме;1;1;from
+Q1043650;Mamou Region;площадь;1;1;from
+Q1043650;Mamou Region;код TGN;1;1;from
+Q1043650;Mamou Region;код GeoNames;1;1;from
+Q1043650;Mamou Region;имеет границы с;1;3;to
+Q1043650;Mamou Region;столица;1;1;from
+Q1043650;Mamou Region;это частный случай понятия;1;1;from
+Q1043650;Mamou Region;карта местонахождения;1;1;from
+Q1043650;Mamou Region;государство;1;1;from
+Q1043650;Mamou Region;административно-территориальная единица;1;4;to
+Q870191;Kankan Region;административно делится на;1;1;to
+Q870191;Kankan Region;является столицей;1;1;to
+Q870191;Kankan Region;общая тема категории;1;1;to
+Q870191;Kankan Region;происходит из;1;4;to
+Q870166;Faranah Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q870166;Faranah Region;столица;1;1;from
+Q868515;Labé Region;государство;1;1;from
+Q870166;Faranah Region;это частный случай понятия;1;1;from
+Q868520;Kindia Region;географические координаты;1;1;from
+Q868520;Kindia Region;ISO 3166-2;1;1;from
+Q868520;Kindia Region;используемый язык;1;2;from
+Q868520;Kindia Region;площадь;1;1;from
+Q868520;Kindia Region;категория для людей, связанных с местностью;1;1;from
+Q868520;Kindia Region;код TGN;1;1;from
+Q868520;Kindia Region;код GeoNames;1;1;from
+Q868520;Kindia Region;имеет границы с;1;4;to
+Q868520;Kindia Region;столица;1;1;from
+Q868520;Kindia Region;это частный случай понятия;1;1;from
+Q868520;Kindia Region;карта местонахождения;1;1;from
+Q868520;Kindia Region;государство;1;1;from
+Q868520;Kindia Region;административно-территориальная единица;1;8;to
+Q868515;Labé Region;происходит из;1;1;to
+Q868515;Labé Region;административно делится на;1;1;to
+Q868515;Labé Region;общая тема категории;1;1;to
+Q868515;Labé Region;является столицей;1;1;to
+Q868515;Labé Region;основная категория по теме;1;1;from
+Q868515;Labé Region;код Freebase;1;1;from
+Q868515;Labé Region;географические координаты;1;1;from
+Q868515;Labé Region;ISO 3166-2;1;1;from
+Q868515;Labé Region;используемый язык;1;1;from
+Q868515;Labé Region;площадь;1;1;from
+Q868515;Labé Region;код TGN;1;1;from
+Q868515;Labé Region;код GeoNames;1;1;from
+Q868515;Labé Region;имеет границы с;1;4;to
+Q868515;Labé Region;столица;1;1;from
+Q868515;Labé Region;это частный случай понятия;1;1;from
+Q868515;Labé Region;карта местонахождения;1;1;from
+Q868520;Kindia Region;код Freebase;1;1;from
+Q868520;Kindia Region;основная категория по теме;1;1;from
+Q868520;Kindia Region;место в MusicBrainz;1;1;from
+Q870146;Nzérékoré Region;код BabelNet;1;1;from
+Q870166;Faranah Region;карта местонахождения;1;1;from
+Q870166;Faranah Region;государство;1;1;from
+Q870166;Faranah Region;административно-территориальная единица;1;336;to
+Q870146;Nzérékoré Region;административно делится на;1;1;to
+Q870146;Nzérékoré Region;общая тема категории;1;1;to
+Q870146;Nzérékoré Region;место рождения;1;1;to
+Q870146;Nzérékoré Region;происходит из;1;11;to
+Q870146;Nzérékoré Region;является столицей;1;1;to
+Q870146;Nzérékoré Region;основная категория по теме;1;1;from
+Q870146;Nzérékoré Region;код Freebase;1;1;from
+Q870146;Nzérékoré Region;географические координаты;1;1;from
+Q870146;Nzérékoré Region;ISO 3166-2;1;1;from
+Q870146;Nzérékoré Region;используемый язык;1;11;from
+Q870146;Nzérékoré Region;площадь;1;1;from
+Q868520;Kindia Region;категория объединяет темы;1;1;to
+Q870146;Nzérékoré Region;код TGN;1;1;from
+Q870146;Nzérékoré Region;код GeoNames;1;1;from
+Q870146;Nzérékoré Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q870146;Nzérékoré Region;имеет границы с;1;2;to
+Q870146;Nzérékoré Region;столица;1;1;from
+Q870146;Nzérékoré Region;это частный случай понятия;1;1;from
+Q870146;Nzérékoré Region;карта местонахождения;1;1;from
+Q870146;Nzérékoré Region;государство;1;1;from
+Q870146;Nzérékoré Region;административно-территориальная единица;1;48;to
+Q868520;Kindia Region;происходит из;1;2;to
+Q868520;Kindia Region;административно делится на;1;1;to
+Q868520;Kindia Region;является столицей;1;1;to
+Q868520;Kindia Region;общая тема категории;1;1;to
+Q1373230;Conakry region;административно-территориальная единица;1;7;to

@@ -1,0 +1,455 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q3622022;Metropolitan City of Cagliari;административно-территориальная единица;1;52;to
+Q18288155;Metropolitan City of Milan;географические координаты;1;1;from
+Q18288160;Metropolitan City of Rome;площадь;1;1;from
+Q18288160;Metropolitan City of Rome;категория для людей, связанных с местностью;1;1;from
+Q18288160;Metropolitan City of Rome;код GeoNames;1;1;from
+Q18288160;Metropolitan City of Rome;категория для людей, умерших здесь;1;1;from
+Q18288160;Metropolitan City of Rome;категория для людей, родившихся здесь;1;1;from
+Q18288160;Metropolitan City of Rome;заменил;1;1;from
+Q18288160;Metropolitan City of Rome;изображение герба;1;1;from
+Q18288160;Metropolitan City of Rome;имеет границы с;1;5;to
+Q18288160;Metropolitan City of Rome;столица;1;1;from
+Q18288160;Metropolitan City of Rome;это частный случай понятия;1;1;from
+Q18288160;Metropolitan City of Rome;карта местонахождения;1;1;from
+Q18288160;Metropolitan City of Rome;изображение;1;1;from
+Q18288160;Metropolitan City of Rome;государство;1;1;from
+Q18288160;Metropolitan City of Rome;административно-территориальная единица;1;227;to
+Q18288155;Metropolitan City of Milan;является столицей;1;1;to
+Q18288155;Metropolitan City of Milan;заменён на;1;1;to
+Q18288155;Metropolitan City of Milan;административно делится на;1;1;to
+Q18288155;Metropolitan City of Milan;категория объединяет темы;1;3;to
+Q18288155;Metropolitan City of Milan;местонахождение;1;1;to
+Q18288155;Metropolitan City of Milan;награда от;1;1;to
+Q18288155;Metropolitan City of Milan;ответственность несёт;1;12;to
+Q18288155;Metropolitan City of Milan;общая тема категории;1;1;to
+Q18288155;Metropolitan City of Milan;место в MusicBrainz;1;1;from
+Q18288155;Metropolitan City of Milan;основная категория по теме;1;1;from
+Q18288155;Metropolitan City of Milan;официальный сайт;1;1;from
+Q18288160;Metropolitan City of Rome;почтовый индекс;1;1;from
+Q18288160;Metropolitan City of Rome;используемый язык;1;1;from
+Q18288160;Metropolitan City of Rome;ISO 3166-2;1;1;from
+Q18288160;Metropolitan City of Rome;аудиозапись прочитанного текста;1;1;from
+Q18288162;Metropolitan City of Turin;административно-территориальная единица;1;432;to
+Q18288160;Metropolitan City of Rome;заменён на;1;1;to
+Q18288160;Metropolitan City of Rome;административно делится на;1;1;to
+Q18288160;Metropolitan City of Rome;местонахождение;1;1;to
+Q18288160;Metropolitan City of Rome;ответственность несёт;1;1;to
+Q18288160;Metropolitan City of Rome;юрисдикция распространяется на;1;1;to
+Q18288160;Metropolitan City of Rome;общая тема категории;1;1;to
+Q18288160;Metropolitan City of Rome;место рождения;1;5;to
+Q18288160;Metropolitan City of Rome;категория объединяет темы;1;4;to
+Q18288160;Metropolitan City of Rome;происходит из;1;1;to
+Q18288160;Metropolitan City of Rome;является столицей;1;1;to
+Q18288160;Metropolitan City of Rome;место в MusicBrainz;1;1;from
+Q18288160;Metropolitan City of Rome;EU VAT number;1;1;from
+Q18288160;Metropolitan City of Rome;баннер Викигида;1;1;from
+Q18288160;Metropolitan City of Rome;основная категория по теме;1;1;from
+Q18288160;Metropolitan City of Rome;официальный сайт;1;1;from
+Q18288160;Metropolitan City of Rome;код ISTAT;1;1;from
+Q18288160;Metropolitan City of Rome;географические координаты;1;1;from
+Q18288160;Metropolitan City of Rome;EU Research participant ID;1;1;from
+Q18288160;Metropolitan City of Rome;дата основания/создания/возникновения;1;1;from
+Q18288160;Metropolitan City of Rome;участник организации или клуба;1;1;from
+Q18288160;Metropolitan City of Rome;ID отношения в OpenStreetMap;1;1;from
+Q18288160;Metropolitan City of Rome;код автомобильного номера;1;1;from
+Q18288160;Metropolitan City of Rome;категория на Викискладе;1;1;from
+Q18288155;Metropolitan City of Milan;код ISTAT;1;1;from
+Q18288155;Metropolitan City of Milan;код NUTS;1;1;from
+Q18288162;Metropolitan City of Turin;изображение;1;1;from
+Q18288155;Metropolitan City of Milan;дата основания/создания/возникновения;1;1;from
+Q18288152;Metropolitan City of Genoa;общая тема категории;1;1;to
+Q18288152;Metropolitan City of Genoa;категория объединяет темы;1;4;to
+Q18288152;Metropolitan City of Genoa;место рождения;1;4;to
+Q18288152;Metropolitan City of Genoa;основная категория по теме;1;1;from
+Q18288152;Metropolitan City of Genoa;официальный сайт;1;1;from
+Q18288152;Metropolitan City of Genoa;код ISTAT;1;1;from
+Q18288152;Metropolitan City of Genoa;географические координаты;1;1;from
+Q18288152;Metropolitan City of Genoa;дата основания/создания/возникновения;1;2;from
+Q18288152;Metropolitan City of Genoa;местный телефонный код;1;1;from
+Q18288152;Metropolitan City of Genoa;код в Большой норвежской энциклопедии;1;1;from
+Q18288152;Metropolitan City of Genoa;часовой пояс;1;2;from
+Q18288152;Metropolitan City of Genoa;ID отношения в OpenStreetMap;1;1;from
+Q18288152;Metropolitan City of Genoa;код автомобильного номера;1;1;from
+Q18288152;Metropolitan City of Genoa;категория на Викискладе;1;1;from
+Q18288152;Metropolitan City of Genoa;ISO 3166-2;1;1;from
+Q18288152;Metropolitan City of Genoa;почтовый индекс;1;1;from
+Q18288152;Metropolitan City of Genoa;площадь;1;1;from
+Q18288152;Metropolitan City of Genoa;высота над уровнем моря;1;1;from
+Q18288152;Metropolitan City of Genoa;категория для людей, связанных с местностью;1;1;from
+Q18288152;Metropolitan City of Genoa;категория для людей, умерших здесь;1;1;from
+Q18288152;Metropolitan City of Genoa;категория для людей, родившихся здесь;1;1;from
+Q18288152;Metropolitan City of Genoa;заменил;1;1;from
+Q18288152;Metropolitan City of Genoa;численность населения;1;1;from
+Q18288152;Metropolitan City of Genoa;изображение герба;1;1;from
+Q18288152;Metropolitan City of Genoa;глава правительства;1;1;from
+Q18288152;Metropolitan City of Genoa;ответственность несёт;1;1;to
+Q18288152;Metropolitan City of Genoa;юрисдикция распространяется на;1;1;to
+Q18288152;Metropolitan City of Genoa;административно делится на;1;1;to
+Q18288155;Metropolitan City of Milan;численность населения;1;1;from
+Q18288155;Metropolitan City of Milan;состоит из;1;3;from
+Q18288155;Metropolitan City of Milan;местный телефонный код;1;4;from
+Q18288155;Metropolitan City of Milan;часовой пояс;1;2;from
+Q18288155;Metropolitan City of Milan;ID отношения в OpenStreetMap;1;1;from
+Q18288155;Metropolitan City of Milan;код автомобильного номера;1;1;from
+Q18288155;Metropolitan City of Milan;категория на Викискладе;1;1;from
+Q18288155;Metropolitan City of Milan;ISO 3166-2;1;1;from
+Q18288155;Metropolitan City of Milan;почтовый индекс;1;1;from
+Q18288155;Metropolitan City of Milan;площадь;1;1;from
+Q18288155;Metropolitan City of Milan;код GeoNames;1;1;from
+Q18288155;Metropolitan City of Milan;заменил;1;1;from
+Q18288155;Metropolitan City of Milan;изображение герба;1;1;from
+Q18288152;Metropolitan City of Genoa;часть от;1;1;to
+Q18288155;Metropolitan City of Milan;глава правительства;1;3;from
+Q18288155;Metropolitan City of Milan;имеет границы с;1;7;from
+Q18288155;Metropolitan City of Milan;изображение флага;1;1;from
+Q18288155;Metropolitan City of Milan;столица;1;1;from
+Q18288155;Metropolitan City of Milan;это частный случай понятия;1;1;from
+Q18288155;Metropolitan City of Milan;карта местонахождения;1;1;from
+Q18288155;Metropolitan City of Milan;изображение;1;1;from
+Q18288155;Metropolitan City of Milan;государство;1;1;from
+Q18288155;Metropolitan City of Milan;административно-территориальная единица;1;190;to
+Q18288152;Metropolitan City of Genoa;заменён на;1;1;to
+Q18288152;Metropolitan City of Genoa;является столицей;1;1;to
+Q18288162;Metropolitan City of Turin;государство;1;1;from
+Q18288162;Metropolitan City of Turin;карта местонахождения;1;1;from
+Q3622022;Metropolitan City of Cagliari;государство;1;1;from
+Q20795016;Metropolitan City of Palermo;место смерти;1;1;to
+Q20991246;Metropolitan City of Catania;место рождения;1;5;to
+Q20991246;Metropolitan City of Catania;основная категория по теме;1;1;from
+Q20991246;Metropolitan City of Catania;официальный сайт;1;1;from
+Q20991246;Metropolitan City of Catania;код ISTAT;1;1;from
+Q20991246;Metropolitan City of Catania;географические координаты;1;1;from
+Q20991246;Metropolitan City of Catania;дата основания/создания/возникновения;1;1;from
+Q20991246;Metropolitan City of Catania;ID отношения в OpenStreetMap;1;1;from
+Q20991246;Metropolitan City of Catania;код автомобильного номера;1;1;from
+Q20991246;Metropolitan City of Catania;ISO 3166-2;1;1;from
+Q20991246;Metropolitan City of Catania;почтовый индекс;1;1;from
+Q20991246;Metropolitan City of Catania;площадь;1;1;from
+Q20991246;Metropolitan City of Catania;категория для людей, связанных с местностью;1;1;from
+Q20991246;Metropolitan City of Catania;код GeoNames;1;1;from
+Q20991246;Metropolitan City of Catania;категория для людей, умерших здесь;1;1;from
+Q20991246;Metropolitan City of Catania;категория для людей, родившихся здесь;1;1;from
+Q20991246;Metropolitan City of Catania;заменил;1;1;from
+Q20991246;Metropolitan City of Catania;код в Большой каталанской энциклопедии;1;1;from
+Q20991246;Metropolitan City of Catania;изображение герба;1;1;from
+Q20991246;Metropolitan City of Catania;столица;1;1;from
+Q20991246;Metropolitan City of Catania;это частный случай понятия;1;1;from
+Q20991246;Metropolitan City of Catania;карта местонахождения;1;1;from
+Q20991246;Metropolitan City of Catania;изображение;1;1;from
+Q20991246;Metropolitan City of Catania;государство;1;1;from
+Q20991246;Metropolitan City of Catania;административно-территориальная единица;1;68;to
+Q20795016;Metropolitan City of Palermo;заменён на;1;1;to
+Q20991246;Metropolitan City of Catania;общая тема категории;1;1;to
+Q20991246;Metropolitan City of Catania;категория объединяет темы;1;4;to
+Q20991246;Metropolitan City of Catania;юрисдикция распространяется на;1;1;to
+Q20991250;Metropolitan City of Messina;почтовый индекс;1;1;from
+Q20991250;Metropolitan City of Messina;юрисдикция распространяется на;1;1;to
+Q20991250;Metropolitan City of Messina;общая тема категории;1;1;to
+Q20991250;Metropolitan City of Messina;основная категория по теме;1;1;from
+Q20991250;Metropolitan City of Messina;официальный сайт;1;1;from
+Q20991250;Metropolitan City of Messina;код ISTAT;1;1;from
+Q20991250;Metropolitan City of Messina;географические координаты;1;1;from
+Q20991250;Metropolitan City of Messina;дата основания/создания/возникновения;1;1;from
+Q20991250;Metropolitan City of Messina;ID отношения в OpenStreetMap;1;1;from
+Q20991250;Metropolitan City of Messina;код автомобильного номера;1;1;from
+Q20991250;Metropolitan City of Messina;категория на Викискладе;1;1;from
+Q20991250;Metropolitan City of Messina;ISO 3166-2;1;1;from
+Q20991250;Metropolitan City of Messina;площадь;1;1;from
+Q20991246;Metropolitan City of Catania;место смерти;1;1;to
+Q20991250;Metropolitan City of Messina;код GeoNames;1;1;from
+Q20991250;Metropolitan City of Messina;код в Большой каталанской энциклопедии;1;1;from
+Q20991250;Metropolitan City of Messina;столица;1;1;from
+Q20991250;Metropolitan City of Messina;это частный случай понятия;1;1;from
+Q20991250;Metropolitan City of Messina;карта местонахождения;1;1;from
+Q20991250;Metropolitan City of Messina;код GND;1;1;from
+Q20991250;Metropolitan City of Messina;код VIAF;1;1;from
+Q20991250;Metropolitan City of Messina;изображение;1;1;from
+Q20991250;Metropolitan City of Messina;государство;1;1;from
+Q20991250;Metropolitan City of Messina;административно-территориальная единица;1;114;to
+Q20991246;Metropolitan City of Catania;заменён на;1;1;to
+Q20795016;Metropolitan City of Palermo;юрисдикция распространяется на;1;1;to
+Q20795016;Metropolitan City of Palermo;основная тема;1;1;to
+Q18288162;Metropolitan City of Turin;это частный случай понятия;1;1;from
+Q20795016;Metropolitan City of Palermo;общая тема категории;1;1;to
+Q18288162;Metropolitan City of Turin;административно делится на;1;1;to
+Q18288162;Metropolitan City of Turin;категория объединяет темы;1;1;to
+Q18288162;Metropolitan City of Turin;место проведения исследования;1;1;to
+Q18288162;Metropolitan City of Turin;история происходит в месте;1;1;to
+Q18288162;Metropolitan City of Turin;общая тема категории;1;1;to
+Q18288162;Metropolitan City of Turin;место в MusicBrainz;1;1;from
+Q18288162;Metropolitan City of Turin;основная категория по теме;1;1;from
+Q18288162;Metropolitan City of Turin;официальный сайт;1;1;from
+Q18288162;Metropolitan City of Turin;Who's on First ID;1;1;from
+Q18288162;Metropolitan City of Turin;код ISTAT;1;1;from
+Q18288162;Metropolitan City of Turin;географические координаты;1;1;from
+Q18288162;Metropolitan City of Turin;дата начала;1;1;from
+Q18288162;Metropolitan City of Turin;дата основания/создания/возникновения;1;1;from
+Q18288162;Metropolitan City of Turin;часовой пояс;1;2;from
+Q18288162;Metropolitan City of Turin;ID отношения в OpenStreetMap;1;1;from
+Q18288162;Metropolitan City of Turin;код автомобильного номера;1;1;from
+Q18288162;Metropolitan City of Turin;категория на Викискладе;1;1;from
+Q18288162;Metropolitan City of Turin;ISO 3166-2;1;1;from
+Q18288162;Metropolitan City of Turin;почтовый индекс;1;1;from
+Q18288162;Metropolitan City of Turin;площадь;1;1;from
+Q18288162;Metropolitan City of Turin;код GeoNames;1;1;from
+Q18288162;Metropolitan City of Turin;заменил;1;1;from
+Q18288162;Metropolitan City of Turin;численность населения;1;1;from
+Q18288162;Metropolitan City of Turin;изображение герба;1;1;from
+Q18288162;Metropolitan City of Turin;столица;1;1;from
+Q18288162;Metropolitan City of Turin;заменён на;1;1;to
+Q20795016;Metropolitan City of Palermo;административно-территориальная единица;1;139;to
+Q20795016;Metropolitan City of Palermo;государство;1;1;from
+Q20795016;Metropolitan City of Palermo;площадь;1;1;from
+Q20795016;Metropolitan City of Palermo;категория объединяет темы;1;5;to
+Q20795016;Metropolitan City of Palermo;основная категория по теме;1;1;from
+Q20795016;Metropolitan City of Palermo;официальный сайт;1;1;from
+Q20795016;Metropolitan City of Palermo;код ISTAT;1;1;from
+Q20795016;Metropolitan City of Palermo;географические координаты;1;1;from
+Q20795016;Metropolitan City of Palermo;дата основания/создания/возникновения;1;1;from
+Q20795016;Metropolitan City of Palermo;ID отношения в OpenStreetMap;1;1;from
+Q20795016;Metropolitan City of Palermo;код автомобильного номера;1;1;from
+Q20795016;Metropolitan City of Palermo;категория на Викискладе;1;1;from
+Q20795016;Metropolitan City of Palermo;ISO 3166-2;1;1;from
+Q20795016;Metropolitan City of Palermo;почтовый индекс;1;1;from
+Q20795016;Metropolitan City of Palermo;категория для людей, связанных с местностью;1;1;from
+Q20795016;Metropolitan City of Palermo;изображение;1;1;from
+Q20795016;Metropolitan City of Palermo;код GeoNames;1;1;from
+Q20795016;Metropolitan City of Palermo;категория для людей, умерших здесь;1;1;from
+Q20795016;Metropolitan City of Palermo;категория для людей, родившихся здесь;1;1;from
+Q20795016;Metropolitan City of Palermo;заменил;1;1;from
+Q20795016;Metropolitan City of Palermo;значение в OmegaWiki;1;1;from
+Q20795016;Metropolitan City of Palermo;численность населения;1;1;from
+Q20795016;Metropolitan City of Palermo;изображение герба;1;1;from
+Q20795016;Metropolitan City of Palermo;изображение флага;1;1;from
+Q20795016;Metropolitan City of Palermo;столица;1;1;from
+Q20795016;Metropolitan City of Palermo;это частный случай понятия;1;1;from
+Q20795016;Metropolitan City of Palermo;карта местонахождения;1;1;from
+Q18288152;Metropolitan City of Genoa;имеет границы с;1;5;from
+Q18288152;Metropolitan City of Genoa;изображение флага;1;1;from
+Q18288152;Metropolitan City of Genoa;столица;1;1;from
+Q3678587;Metropolitan City of Venice;это частный случай понятия;1;1;from
+Q3678587;Metropolitan City of Venice;является столицей;1;1;to
+Q3678587;Metropolitan City of Venice;часть от;1;1;to
+Q3678587;Metropolitan City of Venice;заменён на;1;1;to
+Q3678587;Metropolitan City of Venice;категория объединяет темы;1;5;to
+Q3678587;Metropolitan City of Venice;общая тема категории;1;1;to
+Q3678587;Metropolitan City of Venice;баннер Викигида;1;1;from
+Q3678587;Metropolitan City of Venice;основная категория по теме;1;1;from
+Q3678587;Metropolitan City of Venice;официальный сайт;1;1;from
+Q3678587;Metropolitan City of Venice;код ISTAT;1;1;from
+Q3678587;Metropolitan City of Venice;географические координаты;1;1;from
+Q3678587;Metropolitan City of Venice;дата основания/создания/возникновения;1;1;from
+Q3678587;Metropolitan City of Venice;состоит из;1;2;from
+Q3678587;Metropolitan City of Venice;ID отношения в OpenStreetMap;1;1;from
+Q3678587;Metropolitan City of Venice;код автомобильного номера;1;1;from
+Q3678587;Metropolitan City of Venice;категория на Викискладе;1;1;from
+Q3678587;Metropolitan City of Venice;ISO 3166-2;1;1;from
+Q3678587;Metropolitan City of Venice;почтовый индекс;1;1;from
+Q3678587;Metropolitan City of Venice;площадь;1;1;from
+Q3678587;Metropolitan City of Venice;категория для людей, связанных с местностью;1;1;from
+Q3678587;Metropolitan City of Venice;код GeoNames;1;1;from
+Q3678587;Metropolitan City of Venice;категория для людей, умерших здесь;1;1;from
+Q3678587;Metropolitan City of Venice;категория для людей, родившихся здесь;1;1;from
+Q3678587;Metropolitan City of Venice;заменил;1;1;from
+Q3678587;Metropolitan City of Venice;численность населения;1;1;from
+Q3678587;Metropolitan City of Venice;имеет границы с;1;1;to
+Q18241854;Metropolitan City of Bari;административно-территориальная единица;1;50;to
+Q18241854;Metropolitan City of Bari;государство;1;1;from
+Q18241854;Metropolitan City of Bari;изображение;1;1;from
+Q18241854;Metropolitan City of Bari;код ISTAT;1;1;from
+Q18241891;Metropolitan City of Naples;административно делится на;1;1;to
+Q18241891;Metropolitan City of Naples;административно-территориальная единица;1;118;to
+Q18241854;Metropolitan City of Bari;является столицей;1;1;to
+Q18241854;Metropolitan City of Bari;заменён на;1;1;to
+Q18241854;Metropolitan City of Bari;административно делится на;1;1;to
+Q18241854;Metropolitan City of Bari;юрисдикция распространяется на;1;1;to
+Q18241854;Metropolitan City of Bari;общая тема категории;1;1;to
+Q18241854;Metropolitan City of Bari;владельцем является;1;2;to
+Q18241854;Metropolitan City of Bari;категория объединяет темы;1;2;to
+Q18241854;Metropolitan City of Bari;основная категория по теме;1;1;from
+Q18241854;Metropolitan City of Bari;официальный сайт;1;1;from
+Q18241854;Metropolitan City of Bari;географические координаты;1;1;from
+Q18241854;Metropolitan City of Bari;код GND;1;1;from
+Q18241854;Metropolitan City of Bari;ID отношения в OpenStreetMap;1;1;from
+Q18241854;Metropolitan City of Bari;код автомобильного номера;1;1;from
+Q18241854;Metropolitan City of Bari;категория на Викискладе;1;1;from
+Q18241854;Metropolitan City of Bari;ISO 3166-2;1;1;from
+Q18241854;Metropolitan City of Bari;площадь;1;1;from
+Q18241854;Metropolitan City of Bari;код GeoNames;1;1;from
+Q18241854;Metropolitan City of Bari;категория для людей, родившихся здесь;1;1;from
+Q18241854;Metropolitan City of Bari;заменил;1;1;from
+Q18241854;Metropolitan City of Bari;столица;1;1;from
+Q18241854;Metropolitan City of Bari;это частный случай понятия;1;1;from
+Q18241854;Metropolitan City of Bari;карта местонахождения;1;1;from
+Q3678587;Metropolitan City of Venice;столица;1;1;from
+Q3678587;Metropolitan City of Venice;карта местонахождения;1;1;from
+Q18288152;Metropolitan City of Genoa;это частный случай понятия;1;1;from
+Q3678587;Metropolitan City of Venice;код VIAF;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;государство;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;административно-территориальная единица;1;104;to
+Q3622022;Metropolitan City of Cagliari;заменён на;1;1;to
+Q3622022;Metropolitan City of Cagliari;административно делится на;1;1;to
+Q3622022;Metropolitan City of Cagliari;категория объединяет темы;1;4;to
+Q3622022;Metropolitan City of Cagliari;общая тема категории;1;1;to
+Q3622022;Metropolitan City of Cagliari;основная категория по теме;1;1;from
+Q3622022;Metropolitan City of Cagliari;код ISTAT;1;1;from
+Q3622022;Metropolitan City of Cagliari;географические координаты;1;1;from
+Q3622022;Metropolitan City of Cagliari;дата основания/создания/возникновения;1;1;from
+Q3622022;Metropolitan City of Cagliari;ID отношения в OpenStreetMap;1;1;from
+Q3622022;Metropolitan City of Cagliari;код автомобильного номера;1;1;from
+Q3622022;Metropolitan City of Cagliari;категория на Викискладе;1;1;from
+Q3622022;Metropolitan City of Cagliari;ISO 3166-2;1;1;from
+Q3622022;Metropolitan City of Cagliari;площадь;1;1;from
+Q3622022;Metropolitan City of Cagliari;высота над уровнем моря;1;1;from
+Q3622022;Metropolitan City of Cagliari;категория для людей, умерших здесь;1;1;from
+Q3622022;Metropolitan City of Cagliari;категория для людей, родившихся здесь;1;1;from
+Q3622022;Metropolitan City of Cagliari;заменил;1;1;from
+Q3622022;Metropolitan City of Cagliari;значение в OmegaWiki;1;1;from
+Q3622022;Metropolitan City of Cagliari;имеет границы с;1;1;to
+Q3622022;Metropolitan City of Cagliari;столица;1;1;from
+Q3622022;Metropolitan City of Cagliari;это частный случай понятия;1;1;from
+Q3622022;Metropolitan City of Cagliari;карта местонахождения;1;2;from
+Q3622022;Metropolitan City of Cagliari;изображение;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;изображение;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;карта местонахождения;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;это частный случай понятия;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;основная категория по теме;1;1;from
+Q3678587;Metropolitan City of Venice;изображение;1;1;from
+Q3678587;Metropolitan City of Venice;государство;1;1;from
+Q3678587;Metropolitan City of Venice;расположение штаб-квартиры;1;1;from
+Q3678587;Metropolitan City of Venice;административно делится на;1;1;to
+Q3678587;Metropolitan City of Venice;административно-территориальная единица;1;76;to
+Q3678586;Metropolitan City of Reggio Calabria;является столицей;1;1;to
+Q3678586;Metropolitan City of Reggio Calabria;заменён на;1;1;to
+Q3678586;Metropolitan City of Reggio Calabria;административно делится на;1;1;to
+Q3678586;Metropolitan City of Reggio Calabria;юрисдикция распространяется на;1;1;to
+Q3678586;Metropolitan City of Reggio Calabria;владельцем является;1;1;to
+Q3678586;Metropolitan City of Reggio Calabria;общая тема категории;1;1;to
+Q3678586;Metropolitan City of Reggio Calabria;официальный сайт;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;столица;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;код ISTAT;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;географические координаты;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;дата основания/создания/возникновения;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;ID отношения в OpenStreetMap;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;код автомобильного номера;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;ISO 3166-2;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;площадь;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;код GeoNames;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;заменил;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;численность населения;1;1;from
+Q3678586;Metropolitan City of Reggio Calabria;изображение герба;1;1;from
+Q18241891;Metropolitan City of Naples;государство;1;1;from
+Q18241891;Metropolitan City of Naples;изображение;1;1;from
+Q18241891;Metropolitan City of Naples;код VIAF;1;1;from
+Q18241891;Metropolitan City of Naples;код GND;1;1;from
+Q18288148;Metropolitan City of Florence;почтовый индекс;1;1;from
+Q18288148;Metropolitan City of Florence;площадь;1;1;from
+Q18288148;Metropolitan City of Florence;высота над уровнем моря;1;1;from
+Q18288148;Metropolitan City of Florence;категория для людей, связанных с местностью;1;1;from
+Q18288148;Metropolitan City of Florence;код GeoNames;1;1;from
+Q18288148;Metropolitan City of Florence;категория для людей, умерших здесь;1;1;from
+Q18288148;Metropolitan City of Florence;категория для людей, родившихся здесь;1;1;from
+Q18288148;Metropolitan City of Florence;заменил;1;1;from
+Q18288148;Metropolitan City of Florence;значение в OmegaWiki;1;1;from
+Q18288148;Metropolitan City of Florence;численность населения;1;1;from
+Q18288148;Metropolitan City of Florence;изображение герба;1;1;from
+Q18288148;Metropolitan City of Florence;глава правительства;1;1;from
+Q18288148;Metropolitan City of Florence;столица;1;1;from
+Q18288148;Metropolitan City of Florence;это частный случай понятия;1;1;from
+Q18288148;Metropolitan City of Florence;карта местонахождения;1;1;from
+Q18288148;Metropolitan City of Florence;город-побратим;1;1;from
+Q18288148;Metropolitan City of Florence;изображение;1;1;from
+Q18288148;Metropolitan City of Florence;государство;1;1;from
+Q18288148;Metropolitan City of Florence;административно-территориальная единица;1;70;to
+Q18288145;Metropolitan City of Bologna;является столицей;1;1;to
+Q18288145;Metropolitan City of Bologna;заменён на;1;1;to
+Q18288145;Metropolitan City of Bologna;административно делится на;1;1;to
+Q18288145;Metropolitan City of Bologna;категория объединяет темы;1;2;to
+Q18288145;Metropolitan City of Bologna;юрисдикция распространяется на;1;1;to
+Q18288145;Metropolitan City of Bologna;место рождения;1;2;to
+Q18288148;Metropolitan City of Florence;ISO 3166-2;1;1;from
+Q18288148;Metropolitan City of Florence;EU VAT number;1;1;from
+Q18288148;Metropolitan City of Florence;категория на Викискладе;1;1;from
+Q18288148;Metropolitan City of Florence;юрисдикция распространяется на;1;1;to
+Q18288152;Metropolitan City of Genoa;карта местонахождения;1;1;from
+Q18288152;Metropolitan City of Genoa;город-побратим;1;7;to
+Q18288152;Metropolitan City of Genoa;изображение;1;1;from
+Q18288152;Metropolitan City of Genoa;государство;1;1;from
+Q18288152;Metropolitan City of Genoa;административно-территориальная единица;1;87;to
+Q18288148;Metropolitan City of Florence;является столицей;1;1;to
+Q18288148;Metropolitan City of Florence;имеет границы с;1;1;to
+Q18288148;Metropolitan City of Florence;заменён на;1;1;to
+Q18288148;Metropolitan City of Florence;административно делится на;1;1;to
+Q18288148;Metropolitan City of Florence;ответственность несёт;1;1;to
+Q18288148;Metropolitan City of Florence;место рождения;1;2;to
+Q18288148;Metropolitan City of Florence;общая тема категории;1;1;to
+Q18288148;Metropolitan City of Florence;код автомобильного номера;1;1;from
+Q18288148;Metropolitan City of Florence;категория объединяет темы;1;5;to
+Q18288148;Metropolitan City of Florence;основная категория по теме;1;1;from
+Q18288148;Metropolitan City of Florence;официальный сайт;1;1;from
+Q18288148;Metropolitan City of Florence;код ISTAT;1;1;from
+Q18288148;Metropolitan City of Florence;географические координаты;1;1;from
+Q18288148;Metropolitan City of Florence;EU Research participant ID;1;1;from
+Q18288148;Metropolitan City of Florence;дата основания/создания/возникновения;1;1;from
+Q18288148;Metropolitan City of Florence;состоит из;1;4;from
+Q18288148;Metropolitan City of Florence;местный телефонный код;1;2;from
+Q18288148;Metropolitan City of Florence;часовой пояс;1;2;from
+Q18288148;Metropolitan City of Florence;ID отношения в OpenStreetMap;1;1;from
+Q18288145;Metropolitan City of Bologna;место смерти;1;1;to
+Q18288145;Metropolitan City of Bologna;общая тема категории;1;1;to
+Q18288145;Metropolitan City of Bologna;происходит из;1;1;to
+Q18241891;Metropolitan City of Naples;площадь;1;1;from
+Q18241891;Metropolitan City of Naples;официальный сайт;1;1;from
+Q18241891;Metropolitan City of Naples;код ISTAT;1;1;from
+Q18241891;Metropolitan City of Naples;географические координаты;1;1;from
+Q18241891;Metropolitan City of Naples;дата основания/создания/возникновения;1;1;from
+Q18241891;Metropolitan City of Naples;местный телефонный код;1;1;from
+Q18241891;Metropolitan City of Naples;часовой пояс;1;2;from
+Q18241891;Metropolitan City of Naples;ID отношения в OpenStreetMap;1;1;from
+Q18241891;Metropolitan City of Naples;код автомобильного номера;1;1;from
+Q18241891;Metropolitan City of Naples;категория на Викискладе;1;1;from
+Q18241891;Metropolitan City of Naples;ISO 3166-2;1;1;from
+Q18241891;Metropolitan City of Naples;почтовый индекс;1;2;from
+Q18241891;Metropolitan City of Naples;высота над уровнем моря;1;1;from
+Q18241891;Metropolitan City of Naples;место в MusicBrainz;1;1;from
+Q18241891;Metropolitan City of Naples;категория для людей, связанных с местностью;1;1;from
+Q18241891;Metropolitan City of Naples;код GeoNames;1;1;from
+Q18241891;Metropolitan City of Naples;категория для людей, умерших здесь;1;1;from
+Q18241891;Metropolitan City of Naples;категория для людей, родившихся здесь;1;1;from
+Q18241891;Metropolitan City of Naples;заменил;1;1;from
+Q18241891;Metropolitan City of Naples;численность населения;1;1;from
+Q18241891;Metropolitan City of Naples;изображение герба;1;1;from
+Q18241891;Metropolitan City of Naples;глава правительства;1;1;from
+Q18241891;Metropolitan City of Naples;столица;1;1;from
+Q18241891;Metropolitan City of Naples;это частный случай понятия;1;1;from
+Q18241891;Metropolitan City of Naples;карта местонахождения;1;1;from
+Q18241891;Metropolitan City of Naples;основная категория по теме;1;1;from
+Q18241891;Metropolitan City of Naples;общая тема категории;1;1;to
+Q18288145;Metropolitan City of Bologna;основная категория по теме;1;1;from
+Q18288145;Metropolitan City of Bologna;код GeoNames;1;1;from
+Q18288145;Metropolitan City of Bologna;официальный сайт;1;1;from
+Q18288145;Metropolitan City of Bologna;код ISTAT;1;1;from
+Q18288145;Metropolitan City of Bologna;географические координаты;1;1;from
+Q18288145;Metropolitan City of Bologna;дата основания/создания/возникновения;1;1;from
+Q18288145;Metropolitan City of Bologna;участник организации или клуба;1;1;from
+Q18288145;Metropolitan City of Bologna;ID отношения в OpenStreetMap;1;1;from
+Q18288145;Metropolitan City of Bologna;код автомобильного номера;1;1;from
+Q18288145;Metropolitan City of Bologna;категория на Викискладе;1;1;from
+Q18288145;Metropolitan City of Bologna;ISO 3166-2;1;1;from
+Q18288145;Metropolitan City of Bologna;используемый язык;1;1;from
+Q18288145;Metropolitan City of Bologna;площадь;1;1;from
+Q18288145;Metropolitan City of Bologna;категория для людей, родившихся здесь;1;1;from
+Q18241891;Metropolitan City of Naples;категория объединяет темы;1;5;to
+Q18288145;Metropolitan City of Bologna;заменил;1;1;from
+Q18288145;Metropolitan City of Bologna;изображение герба;1;1;from
+Q18288145;Metropolitan City of Bologna;столица;1;1;from
+Q18288145;Metropolitan City of Bologna;это частный случай понятия;1;1;from
+Q18288145;Metropolitan City of Bologna;карта местонахождения;1;1;from
+Q18288145;Metropolitan City of Bologna;изображение;1;1;from
+Q18288145;Metropolitan City of Bologna;государство;1;1;from
+Q18288145;Metropolitan City of Bologna;административно-территориальная единица;1;68;to
+Q18241891;Metropolitan City of Naples;место смерти;1;1;to
+Q18241891;Metropolitan City of Naples;имеет границы с;1;4;to
+Q18241891;Metropolitan City of Naples;заменён на;1;1;to
+Q20991250;Metropolitan City of Messina;заменён на;1;1;to

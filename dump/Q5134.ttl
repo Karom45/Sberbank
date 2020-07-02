@@ -1,0 +1,2637 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix data: <https://www.wikidata.org/wiki/Special:EntityData/> .
+@prefix s: <http://www.wikidata.org/entity/statement/> .
+@prefix ref: <http://www.wikidata.org/reference/> .
+@prefix v: <http://www.wikidata.org/value/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wdtn: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix ps: <http://www.wikidata.org/prop/statement/> .
+@prefix psv: <http://www.wikidata.org/prop/statement/value/> .
+@prefix psn: <http://www.wikidata.org/prop/statement/value-normalized/> .
+@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
+@prefix pqv: <http://www.wikidata.org/prop/qualifier/value/> .
+@prefix pqn: <http://www.wikidata.org/prop/qualifier/value-normalized/> .
+@prefix pr: <http://www.wikidata.org/prop/reference/> .
+@prefix prv: <http://www.wikidata.org/prop/reference/value/> .
+@prefix prn: <http://www.wikidata.org/prop/reference/value-normalized/> .
+@prefix wdno: <http://www.wikidata.org/prop/novalue/> .
+
+data:Q5134 a schema:Dataset ;
+	schema:about wd:Q5134 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "1177839778"^^xsd:integer ;
+	schema:dateModified "2020-05-10T04:01:11Z"^^xsd:dateTime ;
+	wikibase:statements "1"^^xsd:integer ;
+	wikibase:identifiers "0"^^xsd:integer ;
+	wikibase:sitelinks "122"^^xsd:integer .
+
+wd:Q5134 a wikibase:Item .
+
+<https://ru.wikiquote.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wikiquote.org/> ;
+	schema:name "Шаблон:Lang-tr"@ru .
+
+<https://ru.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://ru.wikinews.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wikinews.org/> ;
+	schema:name "Шаблон:Lang-tr"@ru .
+
+<https://ru.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://az.wikibooks.org/wiki/%C5%9Eablon:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "az" ;
+	schema:isPartOf <https://az.wikibooks.org/> ;
+	schema:name "Şablon:Lang-tr"@az .
+
+<https://az.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://species.wikimedia.org/wiki/Template:Tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://species.wikimedia.org/> ;
+	schema:name "Template:Tr"@en .
+
+<https://species.wikimedia.org/> wikibase:wikiGroup "species" .
+
+<https://commons.wikimedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://commons.wikimedia.org/> ;
+	schema:name "Template:Lang-tr"@en .
+
+<https://commons.wikimedia.org/> wikibase:wikiGroup "commons" .
+
+<https://be.wikiquote.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9C%D0%BE%D0%B2%D0%B0-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "be" ;
+	schema:isPartOf <https://be.wikiquote.org/> ;
+	schema:name "Шаблон:Мова-tr"@be .
+
+<https://be.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://uk.wikiquote.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "uk" ;
+	schema:isPartOf <https://uk.wikiquote.org/> ;
+	schema:name "Шаблон:Lang-tr"@uk .
+
+<https://uk.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://de.wikivoyage.org/wiki/Vorlage:TrS> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "de" ;
+	schema:isPartOf <https://de.wikivoyage.org/> ;
+	schema:name "Vorlage:TrS"@de .
+
+<https://de.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://ru.wikisource.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wikisource.org/> ;
+	schema:name "Шаблон:Lang-tr"@ru .
+
+<https://ru.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://zh.wikiquote.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "zh" ;
+	schema:isPartOf <https://zh.wikiquote.org/> ;
+	schema:name "Template:Lang-tr"@zh .
+
+<https://zh.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://en.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://en.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@en .
+
+<https://en.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://de.wikipedia.org/wiki/Vorlage:TrS> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "de" ;
+	schema:isPartOf <https://de.wikipedia.org/> ;
+	schema:name "Vorlage:TrS"@de .
+
+<https://de.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://fr.wikipedia.org/wiki/Mod%C3%A8le:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "fr" ;
+	schema:isPartOf <https://fr.wikipedia.org/> ;
+	schema:name "Modèle:Lang-tr"@fr .
+
+<https://fr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://es.wikipedia.org/wiki/Plantilla:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "es" ;
+	schema:isPartOf <https://es.wikipedia.org/> ;
+	schema:name "Plantilla:Lang-tr"@es .
+
+<https://es.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@ru .
+
+<https://ru.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://it.wikipedia.org/wiki/Template:Turco> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "it" ;
+	schema:isPartOf <https://it.wikipedia.org/> ;
+	schema:name "Template:Turco"@it .
+
+<https://it.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ja.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ja" ;
+	schema:isPartOf <https://ja.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@ja .
+
+<https://ja.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://pl.wikipedia.org/wiki/Szablon:Tur.> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "pl" ;
+	schema:isPartOf <https://pl.wikipedia.org/> ;
+	schema:name "Szablon:Tur."@pl .
+
+<https://pl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "pt" ;
+	schema:isPartOf <https://pt.wikipedia.org/> ;
+	schema:name "Predefinição:Lang-tr"@pt .
+
+<https://pt.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://zh.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "zh" ;
+	schema:isPartOf <https://zh.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@zh .
+
+<https://zh.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sv.wikipedia.org/wiki/Mall:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "sv" ;
+	schema:isPartOf <https://sv.wikipedia.org/> ;
+	schema:name "Mall:Lang-tr"@sv .
+
+<https://sv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "fa" ;
+	schema:isPartOf <https://fa.wikipedia.org/> ;
+	schema:name "الگو:Lang-tr"@fa .
+
+<https://fa.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hu.wikipedia.org/wiki/Sablon:T%C3%B6r%C3%B6k%C3%BCl> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "hu" ;
+	schema:isPartOf <https://hu.wikipedia.org/> ;
+	schema:name "Sablon:Törökül"@hu .
+
+<https://hu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://fi.wikipedia.org/wiki/Malline:K-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "fi" ;
+	schema:isPartOf <https://fi.wikipedia.org/> ;
+	schema:name "Malline:K-tr"@fi .
+
+<https://fi.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%84%D8%A8:%D8%AA%D8%B1> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ar" ;
+	schema:isPartOf <https://ar.wikipedia.org/> ;
+	schema:name "قالب:تر"@ar .
+
+<https://ar.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://vi.wikipedia.org/wiki/B%E1%BA%A3n_m%E1%BA%ABu:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "vi" ;
+	schema:isPartOf <https://vi.wikipedia.org/> ;
+	schema:name "Bản mẫu:Lang-tr"@vi .
+
+<https://vi.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://uk.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "uk" ;
+	schema:isPartOf <https://uk.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@uk .
+
+<https://uk.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sr.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%88%D0%B5%D0%B7-%D1%82%D1%83%D1%80> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "sr" ;
+	schema:isPartOf <https://sr.wikipedia.org/> ;
+	schema:name "Шаблон:Јез-тур"@sr .
+
+<https://sr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ro.wikipedia.org/wiki/Format:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ro" ;
+	schema:isPartOf <https://ro.wikipedia.org/> ;
+	schema:name "Format:Lang-tr"@ro .
+
+<https://ro.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://id.wikipedia.org/wiki/Templat:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "id" ;
+	schema:isPartOf <https://id.wikipedia.org/> ;
+	schema:name "Templat:Lang-tr"@id .
+
+<https://id.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://da.wikipedia.org/wiki/Skabelon:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "da" ;
+	schema:isPartOf <https://da.wikipedia.org/> ;
+	schema:name "Skabelon:Lang-tr"@da .
+
+<https://da.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://simple.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "en-simple" ;
+	schema:isPartOf <https://simple.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@en-simple .
+
+<https://simple.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ab.wikipedia.org/wiki/%D0%90%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ab" ;
+	schema:isPartOf <https://ab.wikipedia.org/> ;
+	schema:name "Ашаблон:Lang-tr"@ab .
+
+<https://ab.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ace.wikipedia.org/wiki/Seunaleu%C3%ABk:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ace" ;
+	schema:isPartOf <https://ace.wikipedia.org/> ;
+	schema:name "Seunaleuëk:Lang-tr"@ace .
+
+<https://ace.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ady.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ady" ;
+	schema:isPartOf <https://ady.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@ady .
+
+<https://ady.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://als.wikipedia.org/wiki/Vorlage:TrS> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "gsw" ;
+	schema:isPartOf <https://als.wikipedia.org/> ;
+	schema:name "Vorlage:TrS"@gsw .
+
+<https://als.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://as.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%81%E0%A6%9A:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "as" ;
+	schema:isPartOf <https://as.wikipedia.org/> ;
+	schema:name "সাঁচ:Lang-tr"@as .
+
+<https://as.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ast.wikipedia.org/wiki/Plant%C3%ADa:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ast" ;
+	schema:isPartOf <https://ast.wikipedia.org/> ;
+	schema:name "Plantía:Lang-tr"@ast .
+
+<https://ast.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://av.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "av" ;
+	schema:isPartOf <https://av.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@av .
+
+<https://av.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://az.wikipedia.org/wiki/%C5%9Eablon:Dil-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "az" ;
+	schema:isPartOf <https://az.wikipedia.org/> ;
+	schema:name "Şablon:Dil-tr"@az .
+
+<https://az.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://azb.wikipedia.org/wiki/%D8%B4%D8%A7%D8%A8%D9%84%D9%88%D9%86:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "azb" ;
+	schema:isPartOf <https://azb.wikipedia.org/> ;
+	schema:name "شابلون:Lang-tr"@azb .
+
+<https://azb.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bar.wikipedia.org/wiki/Vorlog:TrS> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "bar" ;
+	schema:isPartOf <https://bar.wikipedia.org/> ;
+	schema:name "Vorlog:TrS"@bar .
+
+<https://bar.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://be.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "be" ;
+	schema:isPartOf <https://be.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@be .
+
+<https://be.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://be-tarask.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D1%91%D0%BD:%D0%9C%D0%BE%D0%B2%D0%B0-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "be-tarask" ;
+	schema:isPartOf <https://be-tarask.wikipedia.org/> ;
+	schema:name "Шаблён:Мова-tr"@be-tarask .
+
+<https://be-tarask.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bh.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B2%E0%A5%87%E0%A4%9F:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "bho" ;
+	schema:isPartOf <https://bh.wikipedia.org/> ;
+	schema:name "टेम्पलेट:Lang-tr"@bho .
+
+<https://bh.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%9F:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "bn" ;
+	schema:isPartOf <https://bn.wikipedia.org/> ;
+	schema:name "টেমপ্লেট:Lang-tr"@bn .
+
+<https://bn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bs.wikipedia.org/wiki/%C5%A0ablon:Jez-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "bs" ;
+	schema:isPartOf <https://bs.wikipedia.org/> ;
+	schema:name "Šablon:Jez-tr"@bs .
+
+<https://bs.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bxr.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%B1%D0%B0%D1%80:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "bxr" ;
+	schema:isPartOf <https://bxr.wikipedia.org/> ;
+	schema:name "Загбар:Lang-tr"@bxr .
+
+<https://bxr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://cdo.wikipedia.org/wiki/%E6%A8%A1%E6%9D%BF:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "cdo" ;
+	schema:isPartOf <https://cdo.wikipedia.org/> ;
+	schema:name "模板:Lang-tr"@cdo .
+
+<https://cdo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ce.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BF:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ce" ;
+	schema:isPartOf <https://ce.wikipedia.org/> ;
+	schema:name "Кеп:Lang-tr"@ce .
+
+<https://ce.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ckb.wikipedia.org/wiki/%D8%AF%D8%A7%DA%95%DB%8E%DA%98%DB%95:%D8%A8%DB%95_%D8%AA%D9%88%D8%B1%DA%A9%DB%8C> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ckb" ;
+	schema:isPartOf <https://ckb.wikipedia.org/> ;
+	schema:name "داڕێژە:بە تورکی"@ckb .
+
+<https://ckb.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://cu.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%EA%99%81%D1%8C%D1%86%D1%8C:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "cu" ;
+	schema:isPartOf <https://cu.wikipedia.org/> ;
+	schema:name "Обраꙁьць:Lang-tr"@cu .
+
+<https://cu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://cv.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "cv" ;
+	schema:isPartOf <https://cv.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@cv .
+
+<https://cv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://diq.wikipedia.org/wiki/%C5%9Eablon:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "diq" ;
+	schema:isPartOf <https://diq.wikipedia.org/> ;
+	schema:name "Şablon:Lang-tr"@diq .
+
+<https://diq.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://el.wikipedia.org/wiki/%CE%A0%CF%81%CF%8C%CF%84%CF%85%CF%80%CE%BF:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "el" ;
+	schema:isPartOf <https://el.wikipedia.org/> ;
+	schema:name "Πρότυπο:Lang-tr"@el .
+
+<https://el.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://eo.wikipedia.org/wiki/%C5%9Cablono:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "eo" ;
+	schema:isPartOf <https://eo.wikipedia.org/> ;
+	schema:name "Ŝablono:Lang-tr"@eo .
+
+<https://eo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://eu.wikipedia.org/wiki/Txantiloi:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "eu" ;
+	schema:isPartOf <https://eu.wikipedia.org/> ;
+	schema:name "Txantiloi:Lang-tr"@eu .
+
+<https://eu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://frr.wikipedia.org/wiki/Vorlage:TrS> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "frr" ;
+	schema:isPartOf <https://frr.wikipedia.org/> ;
+	schema:name "Vorlage:TrS"@frr .
+
+<https://frr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://gag.wikipedia.org/wiki/%C5%9Eablon:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "gag" ;
+	schema:isPartOf <https://gag.wikipedia.org/> ;
+	schema:name "Şablon:Lang-tr"@gag .
+
+<https://gag.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://gl.wikipedia.org/wiki/Modelo:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "gl" ;
+	schema:isPartOf <https://gl.wikipedia.org/> ;
+	schema:name "Modelo:Lang-tr"@gl .
+
+<https://gl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://gu.wikipedia.org/wiki/%E0%AA%A2%E0%AA%BE%E0%AA%82%E0%AA%9A%E0%AB%8B:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "gu" ;
+	schema:isPartOf <https://gu.wikipedia.org/> ;
+	schema:name "ઢાંચો:Lang-tr"@gu .
+
+<https://gu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://gv.wikipedia.org/wiki/Clowan:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "gv" ;
+	schema:isPartOf <https://gv.wikipedia.org/> ;
+	schema:name "Clowan:Lang-tr"@gv .
+
+<https://gv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://haw.wikipedia.org/wiki/Anakuhi:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "haw" ;
+	schema:isPartOf <https://haw.wikipedia.org/> ;
+	schema:name "Anakuhi:Lang-tr"@haw .
+
+<https://haw.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%81%E0%A4%9A%E0%A4%BE:%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE-%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%80%E0%A4%AF%E0%A4%BE%E0%A4%88> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "hi" ;
+	schema:isPartOf <https://hi.wikipedia.org/> ;
+	schema:name "साँचा:भाषा-तुर्कीयाई"@hi .
+
+<https://hi.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%B2%D5%A1%D5%BA%D5%A1%D6%80:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "hy" ;
+	schema:isPartOf <https://hy.wikipedia.org/> ;
+	schema:name "Կաղապար:Lang-tr"@hy .
+
+<https://hy.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hyw.wikipedia.org/wiki/%D4%BF%D5%A1%D5%B2%D5%A1%D5%BA%D5%A1%D6%80:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "hyw" ;
+	schema:isPartOf <https://hyw.wikipedia.org/> ;
+	schema:name "Կաղապար:Lang-tr"@hyw .
+
+<https://hyw.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ilo.wikipedia.org/wiki/Plantilia:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ilo" ;
+	schema:isPartOf <https://ilo.wikipedia.org/> ;
+	schema:name "Plantilia:Lang-tr"@ilo .
+
+<https://ilo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://jv.wikipedia.org/wiki/Cithakan:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "jv" ;
+	schema:isPartOf <https://jv.wikipedia.org/> ;
+	schema:name "Cithakan:Lang-tr"@jv .
+
+<https://jv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ka.wikipedia.org/wiki/%E1%83%97%E1%83%90%E1%83%A0%E1%83%92%E1%83%98:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ka" ;
+	schema:isPartOf <https://ka.wikipedia.org/> ;
+	schema:name "თარგი:Lang-tr"@ka .
+
+<https://ka.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://kaa.wikipedia.org/wiki/Shablon:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "kaa" ;
+	schema:isPartOf <https://kaa.wikipedia.org/> ;
+	schema:name "Shablon:Lang-tr"@kaa .
+
+<https://kaa.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://kbd.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "kbd" ;
+	schema:isPartOf <https://kbd.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@kbd .
+
+<https://kbd.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://kk.wikipedia.org/wiki/%D2%AE%D0%BB%D0%B3%D1%96:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "kk" ;
+	schema:isPartOf <https://kk.wikipedia.org/> ;
+	schema:name "Үлгі:Lang-tr"@kk .
+
+<https://kk.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://km.wikipedia.org/wiki/%E1%9E%91%E1%9F%86%E1%9E%96%E1%9F%90%E1%9E%9A%E1%9E%82%E1%9F%86%E1%9E%9A%E1%9E%BC:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "km" ;
+	schema:isPartOf <https://km.wikipedia.org/> ;
+	schema:name "ទំព័រគំរូ:Lang-tr"@km .
+
+<https://km.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%9F%E0%B3%86%E0%B2%82%E0%B2%AA%E0%B3%8D%E0%B2%B2%E0%B3%87%E0%B2%9F%E0%B3%81:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "kn" ;
+	schema:isPartOf <https://kn.wikipedia.org/> ;
+	schema:name "ಟೆಂಪ್ಲೇಟು:Lang-tr"@kn .
+
+<https://kn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://krc.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "krc" ;
+	schema:isPartOf <https://krc.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@krc .
+
+<https://krc.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://kv.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "kv" ;
+	schema:isPartOf <https://kv.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@kv .
+
+<https://kv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ky.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8B%D0%BF:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ky" ;
+	schema:isPartOf <https://ky.wikipedia.org/> ;
+	schema:name "Калып:Lang-tr"@ky .
+
+<https://ky.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://lbe.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "lbe" ;
+	schema:isPartOf <https://lbe.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@lbe .
+
+<https://lbe.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://lez.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "lez" ;
+	schema:isPartOf <https://lez.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@lez .
+
+<https://lez.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://lt.wikipedia.org/wiki/%C5%A0ablonas:Tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "lt" ;
+	schema:isPartOf <https://lt.wikipedia.org/> ;
+	schema:name "Šablonas:Tr"@lt .
+
+<https://lt.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ltg.wikipedia.org/wiki/Taiss:Vol-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ltg" ;
+	schema:isPartOf <https://ltg.wikipedia.org/> ;
+	schema:name "Taiss:Vol-tr"@ltg .
+
+<https://ltg.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://lv.wikipedia.org/wiki/Veidne:Val-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "lv" ;
+	schema:isPartOf <https://lv.wikipedia.org/> ;
+	schema:name "Veidne:Val-tr"@lv .
+
+<https://lv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://mai.wikipedia.org/wiki/%E0%A4%86%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "mai" ;
+	schema:isPartOf <https://mai.wikipedia.org/> ;
+	schema:name "आकृति:Lang-tr"@mai .
+
+<https://mai.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://mdf.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "mdf" ;
+	schema:isPartOf <https://mdf.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@mdf .
+
+<https://mdf.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://mhr.wikipedia.org/wiki/%D0%9A%D1%8B%D1%88%D0%BA%D0%B0%D1%80:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "mhr" ;
+	schema:isPartOf <https://mhr.wikipedia.org/> ;
+	schema:name "Кышкар:Lang-tr"@mhr .
+
+<https://mhr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B4%B2%E0%B4%95%E0%B4%82:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ml" ;
+	schema:isPartOf <https://ml.wikipedia.org/> ;
+	schema:name "ഫലകം:Lang-tr"@ml .
+
+<https://ml.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://mn.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%B2%D0%B0%D1%80:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "mn" ;
+	schema:isPartOf <https://mn.wikipedia.org/> ;
+	schema:name "Загвар:Lang-tr"@mn .
+
+<https://mn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%9A%E0%A4%BE:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "mr" ;
+	schema:isPartOf <https://mr.wikipedia.org/> ;
+	schema:name "साचा:Lang-tr"@mr .
+
+<https://mr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ms.wikipedia.org/wiki/Templat:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ms" ;
+	schema:isPartOf <https://ms.wikipedia.org/> ;
+	schema:name "Templat:Lang-tr"@ms .
+
+<https://ms.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://my.wikipedia.org/wiki/%E1%80%90%E1%80%99%E1%80%BA%E1%80%B8%E1%80%95%E1%80%9C%E1%80%AD%E1%80%90%E1%80%BA:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "my" ;
+	schema:isPartOf <https://my.wikipedia.org/> ;
+	schema:name "တမ်းပလိတ်:Lang-tr"@my .
+
+<https://my.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://myv.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "myv" ;
+	schema:isPartOf <https://myv.wikipedia.org/> ;
+	schema:name "ЛопаПарцун:Lang-tr"@myv .
+
+<https://myv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ne.wikipedia.org/wiki/%E0%A4%A2%E0%A4%BE%E0%A4%81%E0%A4%9A%E0%A4%BE:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ne" ;
+	schema:isPartOf <https://ne.wikipedia.org/> ;
+	schema:name "ढाँचा:Lang-tr"@ne .
+
+<https://ne.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://or.wikipedia.org/wiki/%E0%AC%9B%E0%AC%BE%E0%AC%9E%E0%AD%8D%E0%AC%9A:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "or" ;
+	schema:isPartOf <https://or.wikipedia.org/> ;
+	schema:name "ଛାଞ୍ଚ:Lang-tr"@or .
+
+<https://or.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://os.wikipedia.org/wiki/%D0%A5%D1%83%D1%8B%D0%B7%C3%A6%D0%B3:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "os" ;
+	schema:isPartOf <https://os.wikipedia.org/> ;
+	schema:name "Хуызæг:Lang-tr"@os .
+
+<https://os.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://pa.wikipedia.org/wiki/%E0%A8%AB%E0%A8%B0%E0%A8%AE%E0%A8%BE:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "pa" ;
+	schema:isPartOf <https://pa.wikipedia.org/> ;
+	schema:name "ਫਰਮਾ:Lang-tr"@pa .
+
+<https://pa.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://pam.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "pam" ;
+	schema:isPartOf <https://pam.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@pam .
+
+<https://pam.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://pih.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "pih" ;
+	schema:isPartOf <https://pih.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@pih .
+
+<https://pih.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://rue.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "rue" ;
+	schema:isPartOf <https://rue.wikipedia.org/> ;
+	schema:name "Шаблона:Lang-tr"@rue .
+
+<https://rue.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sah.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D1%8B%D1%8B%D0%BF:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "sah" ;
+	schema:isPartOf <https://sah.wikipedia.org/> ;
+	schema:name "Халыып:Lang-tr"@sah .
+
+<https://sah.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sco.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "sco" ;
+	schema:isPartOf <https://sco.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@sco .
+
+<https://sco.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://se.wikipedia.org/wiki/M%C3%A1lle:G-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "se" ;
+	schema:isPartOf <https://se.wikipedia.org/> ;
+	schema:name "Málle:G-tr"@se .
+
+<https://se.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sh.wikipedia.org/wiki/%C5%A0ablon:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "sh" ;
+	schema:isPartOf <https://sh.wikipedia.org/> ;
+	schema:name "Šablon:Lang-tr"@sh .
+
+<https://sh.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sl.wikipedia.org/wiki/Predloga:Jezik-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "sl" ;
+	schema:isPartOf <https://sl.wikipedia.org/> ;
+	schema:name "Predloga:Jezik-tr"@sl .
+
+<https://sl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://so.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "so" ;
+	schema:isPartOf <https://so.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@so .
+
+<https://so.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://su.wikipedia.org/wiki/Citakan:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "su" ;
+	schema:isPartOf <https://su.wikipedia.org/> ;
+	schema:name "Citakan:Lang-tr"@su .
+
+<https://su.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AF%81:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ta" ;
+	schema:isPartOf <https://ta.wikipedia.org/> ;
+	schema:name "வார்ப்புரு:Lang-tr"@ta .
+
+<https://ta.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://tg.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "tg" ;
+	schema:isPartOf <https://tg.wikipedia.org/> ;
+	schema:name "Шаблон:Lang-tr"@tg .
+
+<https://tg.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%9A%E0%B8%9A:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "th" ;
+	schema:isPartOf <https://th.wikipedia.org/> ;
+	schema:name "แม่แบบ:Lang-tr"@th .
+
+<https://th.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://tk.wikipedia.org/wiki/%C5%9Eablon:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "tk" ;
+	schema:isPartOf <https://tk.wikipedia.org/> ;
+	schema:name "Şablon:Lang-tr"@tk .
+
+<https://tk.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://tl.wikipedia.org/wiki/Padron:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "tl" ;
+	schema:isPartOf <https://tl.wikipedia.org/> ;
+	schema:name "Padron:Lang-tr"@tl .
+
+<https://tl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ur.wikipedia.org/wiki/%D8%B3%D8%A7%D9%86%DA%86%DB%81:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "ur" ;
+	schema:isPartOf <https://ur.wikipedia.org/> ;
+	schema:name "سانچہ:Lang-tr"@ur .
+
+<https://ur.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://uz.wikipedia.org/wiki/Andoza:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "uz" ;
+	schema:isPartOf <https://uz.wikipedia.org/> ;
+	schema:name "Andoza:Lang-tr"@uz .
+
+<https://uz.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://vep.wikipedia.org/wiki/%C5%A0ablon:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "vep" ;
+	schema:isPartOf <https://vep.wikipedia.org/> ;
+	schema:name "Šablon:Lang-tr"@vep .
+
+<https://vep.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://war.wikipedia.org/wiki/Batakan:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "war" ;
+	schema:isPartOf <https://war.wikipedia.org/> ;
+	schema:name "Batakan:Lang-tr"@war .
+
+<https://war.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://wuu.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "wuu" ;
+	schema:isPartOf <https://wuu.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@wuu .
+
+<https://wuu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://xmf.wikipedia.org/wiki/%E1%83%97%E1%83%90%E1%83%A0%E1%83%92%E1%83%98:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "xmf" ;
+	schema:isPartOf <https://xmf.wikipedia.org/> ;
+	schema:name "თარგი:Lang-tr"@xmf .
+
+<https://xmf.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://zh-min-nan.wikipedia.org/wiki/Pang-b%C3%B4%CD%98:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "nan" ;
+	schema:isPartOf <https://zh-min-nan.wikipedia.org/> ;
+	schema:name "Pang-bô͘:Lang-tr"@nan .
+
+<https://zh-min-nan.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://zh-yue.wikipedia.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "yue" ;
+	schema:isPartOf <https://zh-yue.wikipedia.org/> ;
+	schema:name "Template:Lang-tr"@yue .
+
+<https://zh-yue.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://az.wikiquote.org/wiki/%C5%9Eablon:Dil-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "az" ;
+	schema:isPartOf <https://az.wikiquote.org/> ;
+	schema:name "Şablon:Dil-tr"@az .
+
+<https://az.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://zh-classical.wikipedia.org/wiki/%E6%A8%A1%E6%9D%BF:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "lzh" ;
+	schema:isPartOf <https://zh-classical.wikipedia.org/> ;
+	schema:name "模板:Lang-tr"@lzh .
+
+<https://zh-classical.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://zh.wikibooks.org/wiki/Template:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "zh" ;
+	schema:isPartOf <https://zh.wikibooks.org/> ;
+	schema:name "Template:Lang-tr"@zh .
+
+<https://zh.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D1%88%D0%BA%D0%B0:Lang-tr> a schema:Article ;
+	schema:about wd:Q5134 ;
+	schema:inLanguage "mk" ;
+	schema:isPartOf <https://mk.wikipedia.org/> ;
+	schema:name "Предлошка:Lang-tr"@mk .
+
+<https://mk.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+wd:Q5134 rdfs:label "Template:Lang-tr"@zh ;
+	skos:prefLabel "Template:Lang-tr"@zh ;
+	schema:name "Template:Lang-tr"@zh ;
+	rdfs:label "Plantilla:Lang-tr"@es ;
+	skos:prefLabel "Plantilla:Lang-tr"@es ;
+	schema:name "Plantilla:Lang-tr"@es ;
+	rdfs:label "Sablon:Törökül"@hu ;
+	skos:prefLabel "Sablon:Törökül"@hu ;
+	schema:name "Sablon:Törökül"@hu ;
+	rdfs:label "قالب:تر"@ar ;
+	skos:prefLabel "قالب:تر"@ar ;
+	schema:name "قالب:تر"@ar ;
+	rdfs:label "Shablon:Lang-tr"@kaa ;
+	skos:prefLabel "Shablon:Lang-tr"@kaa ;
+	schema:name "Shablon:Lang-tr"@kaa ;
+	rdfs:label "Predefinição:Lang-tr"@pt ;
+	skos:prefLabel "Predefinição:Lang-tr"@pt ;
+	schema:name "Predefinição:Lang-tr"@pt ;
+	rdfs:label "Lang-tr"@xmf ;
+	skos:prefLabel "Lang-tr"@xmf ;
+	schema:name "Lang-tr"@xmf ;
+	rdfs:label "Citakan:Lang-tr"@su ;
+	skos:prefLabel "Citakan:Lang-tr"@su ;
+	schema:name "Citakan:Lang-tr"@su ;
+	rdfs:label "Шаблон:Lang-tr"@krc ;
+	skos:prefLabel "Шаблон:Lang-tr"@krc ;
+	schema:name "Шаблон:Lang-tr"@krc ;
+	rdfs:label "Malline:K-tr"@fi ;
+	skos:prefLabel "Malline:K-tr"@fi ;
+	schema:name "Malline:K-tr"@fi ;
+	rdfs:label "Шаблён:Мова-tr"@be-tarask ;
+	skos:prefLabel "Шаблён:Мова-tr"@be-tarask ;
+	schema:name "Шаблён:Мова-tr"@be-tarask ;
+	rdfs:label "Lang-tr"@pa ;
+	skos:prefLabel "Lang-tr"@pa ;
+	schema:name "Lang-tr"@pa ;
+	rdfs:label "Халыып:Lang-tr"@sah ;
+	skos:prefLabel "Халыып:Lang-tr"@sah ;
+	schema:name "Халыып:Lang-tr"@sah ;
+	rdfs:label "Template:Lang-tr"@sco ;
+	skos:prefLabel "Template:Lang-tr"@sco ;
+	schema:name "Template:Lang-tr"@sco ;
+	rdfs:label "Lang-tr"@ne ;
+	skos:prefLabel "Lang-tr"@ne ;
+	schema:name "Lang-tr"@ne ;
+	rdfs:label "Şablon:Dil-tr"@az ;
+	skos:prefLabel "Şablon:Dil-tr"@az ;
+	schema:name "Şablon:Dil-tr"@az ;
+	rdfs:label "Skabelon:Lang-tr"@da ;
+	skos:prefLabel "Skabelon:Lang-tr"@da ;
+	schema:name "Skabelon:Lang-tr"@da ;
+	rdfs:label "Шаблон:Lang-tr"@mdf ;
+	skos:prefLabel "Шаблон:Lang-tr"@mdf ;
+	schema:name "Шаблон:Lang-tr"@mdf ;
+	rdfs:label "Template:Lang-tr"@ja ;
+	skos:prefLabel "Template:Lang-tr"@ja ;
+	schema:name "Template:Lang-tr"@ja ;
+	rdfs:label "Lang-tr"@ml ;
+	skos:prefLabel "Lang-tr"@ml ;
+	schema:name "Lang-tr"@ml ;
+	rdfs:label "Bản mẫu:Lang-tr"@vi ;
+	skos:prefLabel "Bản mẫu:Lang-tr"@vi ;
+	schema:name "Bản mẫu:Lang-tr"@vi ;
+	rdfs:label "Lang-tr"@th ;
+	skos:prefLabel "Lang-tr"@th ;
+	schema:name "Lang-tr"@th ;
+	rdfs:label "Clowan:Lang-tr"@gv ;
+	skos:prefLabel "Clowan:Lang-tr"@gv ;
+	schema:name "Clowan:Lang-tr"@gv ;
+	rdfs:label "Cithakan:Lang-tr"@jv ;
+	skos:prefLabel "Cithakan:Lang-tr"@jv ;
+	schema:name "Cithakan:Lang-tr"@jv ;
+	rdfs:label "Templat:Lang-tr"@ms ;
+	skos:prefLabel "Templat:Lang-tr"@ms ;
+	schema:name "Templat:Lang-tr"@ms ;
+	rdfs:label "Mall:Lang-tr"@sv ;
+	skos:prefLabel "Mall:Lang-tr"@sv ;
+	schema:name "Mall:Lang-tr"@sv ;
+	rdfs:label "Lang-tr"@as ;
+	skos:prefLabel "Lang-tr"@as ;
+	schema:name "Lang-tr"@as ;
+	rdfs:label "Шаблон:Lang-tr"@ru ;
+	skos:prefLabel "Шаблон:Lang-tr"@ru ;
+	schema:name "Шаблон:Lang-tr"@ru ;
+	rdfs:label "Şablon:Dil-tr"@tr ;
+	skos:prefLabel "Şablon:Dil-tr"@tr ;
+	schema:name "Şablon:Dil-tr"@tr ;
+	rdfs:label "Предлошка:Lang-tr"@mk ;
+	skos:prefLabel "Предлошка:Lang-tr"@mk ;
+	schema:name "Предлошка:Lang-tr"@mk ;
+	rdfs:label "Padron:Lang-tr"@tl ;
+	skos:prefLabel "Padron:Lang-tr"@tl ;
+	schema:name "Padron:Lang-tr"@tl ;
+	rdfs:label "Template:Lang-tr"@pam ;
+	skos:prefLabel "Template:Lang-tr"@pam ;
+	schema:name "Template:Lang-tr"@pam ;
+	rdfs:label "Modèle:Lang-tr"@fr ;
+	skos:prefLabel "Modèle:Lang-tr"@fr ;
+	schema:name "Modèle:Lang-tr"@fr ;
+	rdfs:label "Veidne:Val-tr"@lv ;
+	skos:prefLabel "Veidne:Val-tr"@lv ;
+	schema:name "Veidne:Val-tr"@lv ;
+	rdfs:label "Templat:Lang-tr"@id ;
+	skos:prefLabel "Templat:Lang-tr"@id ;
+	schema:name "Templat:Lang-tr"@id ;
+	rdfs:label "Template:Lang-tr"@en ;
+	skos:prefLabel "Template:Lang-tr"@en ;
+	schema:name "Template:Lang-tr"@en ;
+	rdfs:label "भाषा-तुर्कीयाई"@hi ;
+	skos:prefLabel "भाषा-तुर्कीयाई"@hi ;
+	schema:name "भाषा-तुर्कीयाई"@hi ;
+	rdfs:label "Կաղապար:Lang-tr"@hy ;
+	skos:prefLabel "Կաղապար:Lang-tr"@hy ;
+	schema:name "Կաղապար:Lang-tr"@hy ;
+	rdfs:label "Шаблон:Lang-tr"@cv ;
+	skos:prefLabel "Шаблон:Lang-tr"@cv ;
+	schema:name "Шаблон:Lang-tr"@cv ;
+	rdfs:label "Predloga:Jezik-tr"@sl ;
+	skos:prefLabel "Predloga:Jezik-tr"@sl ;
+	schema:name "Predloga:Jezik-tr"@sl ;
+	rdfs:label "Кышкар:Lang-tr"@mhr ;
+	skos:prefLabel "Кышкар:Lang-tr"@mhr ;
+	schema:name "Кышкар:Lang-tr"@mhr ;
+	rdfs:label "Lang-tr"@fa ;
+	skos:prefLabel "Lang-tr"@fa ;
+	schema:name "Lang-tr"@fa ;
+	rdfs:label "Lang-tr"@ka ;
+	skos:prefLabel "Lang-tr"@ka ;
+	schema:name "Lang-tr"@ka ;
+	rdfs:label "Vorlage:TrS"@de ;
+	skos:prefLabel "Vorlage:TrS"@de ;
+	schema:name "Vorlage:TrS"@de ;
+	rdfs:label "Template:Lang-tr"@en-ca ;
+	skos:prefLabel "Template:Lang-tr"@en-ca ;
+	schema:name "Template:Lang-tr"@en-ca ;
+	rdfs:label "Template:Lang-tr"@en-gb ;
+	skos:prefLabel "Template:Lang-tr"@en-gb ;
+	schema:name "Template:Lang-tr"@en-gb ;
+	rdfs:label "Predefinição:Lang-tr"@pt-br ;
+	skos:prefLabel "Predefinição:Lang-tr"@pt-br ;
+	schema:name "Predefinição:Lang-tr"@pt-br ;
+	rdfs:label "Şablon:Lang-tr"@diq ;
+	skos:prefLabel "Şablon:Lang-tr"@diq ;
+	schema:name "Şablon:Lang-tr"@diq ;
+	rdfs:label "Šablonas:Tr"@lt ;
+	skos:prefLabel "Šablonas:Tr"@lt ;
+	schema:name "Šablonas:Tr"@lt ;
+	rdfs:label "سانچہ:Lang-tr"@ur ;
+	skos:prefLabel "سانچہ:Lang-tr"@ur ;
+	schema:name "سانچہ:Lang-tr"@ur ;
+	rdfs:label "Template:Turco"@it ;
+	skos:prefLabel "Template:Turco"@it ;
+	schema:name "Template:Turco"@it ;
+	rdfs:label "Πρότυπο:Lang-tr"@el ;
+	skos:prefLabel "Πρότυπο:Lang-tr"@el ;
+	schema:name "Πρότυπο:Lang-tr"@el ;
+	rdfs:label "Калып:Lang-tr"@ky ;
+	skos:prefLabel "Калып:Lang-tr"@ky ;
+	schema:name "Калып:Lang-tr"@ky ;
+	rdfs:label "Format:Lang-tr"@ro ;
+	skos:prefLabel "Format:Lang-tr"@ro ;
+	schema:name "Format:Lang-tr"@ro ;
+	rdfs:label "Шаблон:Lang-tr"@uk ;
+	skos:prefLabel "Шаблон:Lang-tr"@uk ;
+	schema:name "Шаблон:Lang-tr"@uk ;
+	rdfs:label "Plantilia:Lang-tr"@ilo ;
+	skos:prefLabel "Plantilia:Lang-tr"@ilo ;
+	schema:name "Plantilia:Lang-tr"@ilo ;
+	rdfs:label "Шаблон:Lang-tr"@av ;
+	skos:prefLabel "Шаблон:Lang-tr"@av ;
+	schema:name "Шаблон:Lang-tr"@av ;
+	rdfs:label "Үлгі:Lang-tr"@kk ;
+	skos:prefLabel "Үлгі:Lang-tr"@kk ;
+	schema:name "Үлгі:Lang-tr"@kk ;
+	rdfs:label "ទំព័រគំរូ:Lang-tr"@km ;
+	skos:prefLabel "ទំព័រគំរូ:Lang-tr"@km ;
+	schema:name "ទំព័រគំរូ:Lang-tr"@km ;
+	rdfs:label "Шаблон:Lang-tr"@kbd ;
+	skos:prefLabel "Шаблон:Lang-tr"@kbd ;
+	schema:name "Шаблон:Lang-tr"@kbd ;
+	rdfs:label "Кеп:Lang-tr"@ce ;
+	skos:prefLabel "Кеп:Lang-tr"@ce ;
+	schema:name "Кеп:Lang-tr"@ce ;
+	rdfs:label "Taiss:Vol-tr"@ltg ;
+	skos:prefLabel "Taiss:Vol-tr"@ltg ;
+	schema:name "Taiss:Vol-tr"@ltg ;
+	rdfs:label "Шаблон:Lang-tr"@kv ;
+	skos:prefLabel "Шаблон:Lang-tr"@kv ;
+	schema:name "Шаблон:Lang-tr"@kv ;
+	rdfs:label "साचा:Lang-tr"@mr ;
+	skos:prefLabel "साचा:Lang-tr"@mr ;
+	schema:name "साचा:Lang-tr"@mr ;
+	rdfs:label "Txantiloi:Lang-tr"@eu ;
+	skos:prefLabel "Txantiloi:Lang-tr"@eu ;
+	schema:name "Txantiloi:Lang-tr"@eu ;
+	rdfs:label "Batakan:Lang-tr"@war ;
+	skos:prefLabel "Batakan:Lang-tr"@war ;
+	schema:name "Batakan:Lang-tr"@war ;
+	rdfs:label "Modelo:Lang-tr"@gl ;
+	skos:prefLabel "Modelo:Lang-tr"@gl ;
+	schema:name "Modelo:Lang-tr"@gl ;
+	rdfs:label "Загвар:Lang-tr"@mn ;
+	skos:prefLabel "Загвар:Lang-tr"@mn ;
+	schema:name "Загвар:Lang-tr"@mn ;
+	rdfs:label "Vorlage:TrS"@gsw ;
+	skos:prefLabel "Vorlage:TrS"@gsw ;
+	schema:name "Vorlage:TrS"@gsw ;
+	rdfs:label "Загбар:Lang-tr"@bxr ;
+	skos:prefLabel "Загбар:Lang-tr"@bxr ;
+	schema:name "Загбар:Lang-tr"@bxr ;
+	rdfs:label "داڕێژە:بە تورکی"@ckb ;
+	skos:prefLabel "داڕێژە:بە تورکی"@ckb ;
+	schema:name "داڕێژە:بە تورکی"@ckb ;
+	rdfs:label "Szablon:Tur."@pl ;
+	skos:prefLabel "Szablon:Tur."@pl ;
+	schema:name "Szablon:Tur."@pl ;
+	rdfs:label "ЛопаПарцун:Lang-tr"@myv ;
+	skos:prefLabel "ЛопаПарцун:Lang-tr"@myv ;
+	schema:name "ЛопаПарцун:Lang-tr"@myv ;
+	rdfs:label "Seunaleuëk:Lang-tr"@ace ;
+	skos:prefLabel "Seunaleuëk:Lang-tr"@ace ;
+	schema:name "Seunaleuëk:Lang-tr"@ace ;
+	rdfs:label "Шаблон:Lang-tr"@bg ;
+	skos:prefLabel "Шаблон:Lang-tr"@bg ;
+	schema:name "Шаблон:Lang-tr"@bg ;
+	rdfs:label "Шаблон:Lang-tr"@lez ;
+	skos:prefLabel "Шаблон:Lang-tr"@lez ;
+	schema:name "Шаблон:Lang-tr"@lez ;
+	rdfs:label "Ŝablono:Lang-tr"@eo ;
+	skos:prefLabel "Ŝablono:Lang-tr"@eo ;
+	schema:name "Ŝablono:Lang-tr"@eo ;
+	rdfs:label "Template:Lang-tr"@yue ;
+	skos:prefLabel "Template:Lang-tr"@yue ;
+	schema:name "Template:Lang-tr"@yue ;
+	rdfs:label "Шаблон:Lang-tr"@be ;
+	skos:prefLabel "Шаблон:Lang-tr"@be ;
+	schema:name "Шаблон:Lang-tr"@be ;
+	rdfs:label "Šablon:Jez-tr"@bs ;
+	skos:prefLabel "Šablon:Jez-tr"@bs ;
+	schema:name "Šablon:Jez-tr"@bs ;
+	rdfs:label "Обраꙁьць:Lang-tr"@cu ;
+	skos:prefLabel "Обраꙁьць:Lang-tr"@cu ;
+	schema:name "Обраꙁьць:Lang-tr"@cu ;
+	rdfs:label "Template:Lang-tr"@ady ;
+	skos:prefLabel "Template:Lang-tr"@ady ;
+	schema:name "Template:Lang-tr"@ady ;
+	rdfs:label "Şablon:Lang-tr"@gag ;
+	skos:prefLabel "Şablon:Lang-tr"@gag ;
+	schema:name "Şablon:Lang-tr"@gag ;
+	rdfs:label "Ашаблон:Lang-tr"@ab ;
+	skos:prefLabel "Ашаблон:Lang-tr"@ab ;
+	schema:name "Ашаблон:Lang-tr"@ab ;
+	rdfs:label "Vorlage:TrS"@frr ;
+	skos:prefLabel "Vorlage:TrS"@frr ;
+	schema:name "Vorlage:TrS"@frr ;
+	rdfs:label "Шаблон:Lang-tr"@lbe ;
+	skos:prefLabel "Шаблон:Lang-tr"@lbe ;
+	schema:name "Шаблон:Lang-tr"@lbe ;
+	rdfs:label "Šablon:Lang-tr"@sh ;
+	skos:prefLabel "Šablon:Lang-tr"@sh ;
+	schema:name "Šablon:Lang-tr"@sh ;
+	rdfs:label "Хуызæг:Lang-tr"@os ;
+	skos:prefLabel "Хуызæг:Lang-tr"@os ;
+	schema:name "Хуызæг:Lang-tr"@os ;
+	rdfs:label "Шаблона:Lang-tr"@rue ;
+	skos:prefLabel "Шаблона:Lang-tr"@rue ;
+	schema:name "Шаблона:Lang-tr"@rue ;
+	rdfs:label "Andoza:Lang-tr"@uz ;
+	skos:prefLabel "Andoza:Lang-tr"@uz ;
+	schema:name "Andoza:Lang-tr"@uz ;
+	rdfs:label "Template:Lang-tr"@nl ;
+	skos:prefLabel "Template:Lang-tr"@nl ;
+	schema:name "Template:Lang-tr"@nl ;
+	rdfs:label "模板:Lang-tr"@zh-hans ;
+	skos:prefLabel "模板:Lang-tr"@zh-hans ;
+	schema:name "模板:Lang-tr"@zh-hans ;
+	rdfs:label "模板:Lang-tr"@zh-hant ;
+	skos:prefLabel "模板:Lang-tr"@zh-hant ;
+	schema:name "模板:Lang-tr"@zh-hant ;
+	rdfs:label "模板:Lang-tr"@zh-hk ;
+	skos:prefLabel "模板:Lang-tr"@zh-hk ;
+	schema:name "模板:Lang-tr"@zh-hk ;
+	rdfs:label "شابلون:Lang-tr"@azb ;
+	skos:prefLabel "شابلون:Lang-tr"@azb ;
+	schema:name "شابلون:Lang-tr"@azb ;
+	rdfs:label "টেমপ্লেট:Lang-tr"@bn ;
+	skos:prefLabel "টেমপ্লেট:Lang-tr"@bn ;
+	schema:name "টেমপ্লেট:Lang-tr"@bn ;
+	rdfs:label "வார்ப்புரு:Lang-tr"@ta ;
+	skos:prefLabel "வார்ப்புரு:Lang-tr"@ta ;
+	schema:name "வார்ப்புரு:Lang-tr"@ta ;
+	rdfs:label "Шаблон:Lang-tr"@tg ;
+	skos:prefLabel "Шаблон:Lang-tr"@tg ;
+	schema:name "Шаблон:Lang-tr"@tg ;
+	rdfs:label "Şablon:Lang-tr"@tk ;
+	skos:prefLabel "Şablon:Lang-tr"@tk ;
+	schema:name "Şablon:Lang-tr"@tk ;
+	rdfs:label "Template:Lang-tr"@so ;
+	skos:prefLabel "Template:Lang-tr"@so ;
+	schema:name "Template:Lang-tr"@so ;
+	rdfs:label "တမ်းပလိတ်:Lang-tr"@my ;
+	skos:prefLabel "တမ်းပလိတ်:Lang-tr"@my ;
+	schema:name "တမ်းပလိတ်:Lang-tr"@my ;
+	rdfs:label "Šablon:Lang-tr"@vep ;
+	skos:prefLabel "Šablon:Lang-tr"@vep ;
+	schema:name "Šablon:Lang-tr"@vep ;
+	rdfs:label "Template:Lang-tr"@pih ;
+	skos:prefLabel "Template:Lang-tr"@pih ;
+	schema:name "Template:Lang-tr"@pih ;
+	rdfs:label "ઢાંચો:Lang-tr"@gu ;
+	skos:prefLabel "ઢાંચો:Lang-tr"@gu ;
+	schema:name "ઢાંચો:Lang-tr"@gu ;
+	rdfs:label "Vorlog:TrS"@bar ;
+	skos:prefLabel "Vorlog:TrS"@bar ;
+	schema:name "Vorlog:TrS"@bar ;
+	rdfs:label "टेम्पलेट:Lang-tr"@bho ;
+	skos:prefLabel "टेम्पलेट:Lang-tr"@bho ;
+	schema:name "टेम्पलेट:Lang-tr"@bho ;
+	rdfs:label "ଛାଞ୍ଚ:Lang-tr"@or ;
+	skos:prefLabel "ଛାଞ୍ଚ:Lang-tr"@or ;
+	schema:name "ଛାଞ୍ଚ:Lang-tr"@or ;
+	rdfs:label "ಟೆಂಪ್ಲೇಟು:Lang-tr"@kn ;
+	skos:prefLabel "ಟೆಂಪ್ಲೇಟು:Lang-tr"@kn ;
+	schema:name "ಟೆಂಪ್ಲೇಟು:Lang-tr"@kn ;
+	rdfs:label "आकृति:Lang-tr"@mai ;
+	skos:prefLabel "आकृति:Lang-tr"@mai ;
+	schema:name "आकृति:Lang-tr"@mai ;
+	rdfs:label "Template:Lang-tr"@wuu ;
+	skos:prefLabel "Template:Lang-tr"@wuu ;
+	schema:name "Template:Lang-tr"@wuu ;
+	rdfs:label "Plantía:Lang-tr"@ast ;
+	skos:prefLabel "Plantía:Lang-tr"@ast ;
+	schema:name "Plantía:Lang-tr"@ast ;
+	rdfs:label "Шаблон:Јез-тур"@sr ;
+	skos:prefLabel "Шаблон:Јез-тур"@sr ;
+	schema:name "Шаблон:Јез-тур"@sr ;
+	rdfs:label "Málle:G-tr"@se ;
+	skos:prefLabel "Málle:G-tr"@se ;
+	schema:name "Málle:G-tr"@se ;
+	rdfs:label "Կաղապար:Lang-tr"@hyw ;
+	skos:prefLabel "Կաղապար:Lang-tr"@hyw ;
+	schema:name "Կաղապար:Lang-tr"@hyw ;
+	rdfs:label "Anakuhi:Lang-tr"@haw ;
+	skos:prefLabel "Anakuhi:Lang-tr"@haw ;
+	schema:name "Anakuhi:Lang-tr"@haw ;
+	rdfs:label "Pang-bô͘:Lang-tr"@nan ;
+	skos:prefLabel "Pang-bô͘:Lang-tr"@nan ;
+	schema:name "Pang-bô͘:Lang-tr"@nan ;
+	rdfs:label "模板:Lang-tr"@cdo ;
+	skos:prefLabel "模板:Lang-tr"@cdo ;
+	schema:name "模板:Lang-tr"@cdo ;
+	rdfs:label "模板:Lang-tr"@lzh ;
+	skos:prefLabel "模板:Lang-tr"@lzh ;
+	schema:name "模板:Lang-tr"@lzh ;
+	rdfs:label "Vorlage:TrS"@als ;
+	skos:prefLabel "Vorlage:TrS"@als ;
+	schema:name "Vorlage:TrS"@als ;
+	rdfs:label "Шаблён:Мова-tr"@be-x-old ;
+	skos:prefLabel "Шаблён:Мова-tr"@be-x-old ;
+	schema:name "Шаблён:Мова-tr"@be-x-old ;
+	rdfs:label "टेम्पलेट:Lang-tr"@bh ;
+	skos:prefLabel "टेम्पलेट:Lang-tr"@bh ;
+	schema:name "टेम्पलेट:Lang-tr"@bh ;
+	rdfs:label "Template:Lang-tr"@simple ;
+	skos:prefLabel "Template:Lang-tr"@simple ;
+	schema:name "Template:Lang-tr"@simple ;
+	rdfs:label "模板:Lang-tr"@zh-classical ;
+	skos:prefLabel "模板:Lang-tr"@zh-classical ;
+	schema:name "模板:Lang-tr"@zh-classical ;
+	rdfs:label "Pang-bô͘:Lang-tr"@zh-min-nan ;
+	skos:prefLabel "Pang-bô͘:Lang-tr"@zh-min-nan ;
+	schema:name "Pang-bô͘:Lang-tr"@zh-min-nan ;
+	rdfs:label "Template:Lang-tr"@zh-yue ;
+	skos:prefLabel "Template:Lang-tr"@zh-yue ;
+	schema:name "Template:Lang-tr"@zh-yue ;
+	schema:description "Wikimedia-Vorlage"@de,
+		"plantilla de Wikipedia"@es,
+		"Wikimedia template"@en,
+		"template di un progetto Wikimedia"@it,
+		"modèle d'un projet Wikimédia"@fr,
+		"plantilia ti Wikipedia"@ilo,
+		"predefinição de um projeto da Wikimedia"@pt,
+		"predefinição de um projeto da Wikimedia"@pt-br,
+		"шаблон проекта Викимедиа"@ru,
+		"πρότυπο εγχειρήματος Wikimedia"@el,
+		"الگوی ویکی‌مدیا"@fa,
+		"Уикимедия шаблон"@bg,
+		"Wikimedia-malline"@fi,
+		"विकिपिडिया टेम्पलेट"@ne,
+		"aшаблон Авикипедиа"@ab,
+		"pola Wikimèdia"@ace,
+		"sjabloon Wikimedia"@af,
+		"şablon Wikipidia"@ak,
+		"መለጠፊያ ውክፔዲያ"@am,
+		"plantilla Biquipedia"@an,
+		"Ƿikipǣdia bysen"@ang,
+		"قالب ويكيميديا"@ar,
+		"ܩܠܒܐ ܘܝܩܝܦܕܝܐ"@arc,
+		"قالب ويكيبيديا"@arz,
+		"সাঁচ ৱিকিপিডিয়া"@as,
+		"plantía de Wikimedia"@ast,
+		"шаблон Википедия"@av,
+		"plantilla Wikipidiya"@ay,
+		"şablon Vikipediya"@az,
+		"ҡалып Википедия"@ba,
+		"Wikimedia-Vorlog"@bar,
+		"plantilya Wikimedia"@bcl,
+		"шаблон праекта Вікімедыя"@be,
+		"шаблён Вікімэдыя"@be-tarask,
+		"टेम्पलेट विकिपीडिया"@bho,
+		"Wikimedia template"@bi,
+		"citakan Wikipidia"@bjn,
+		"modèle Wikipedi"@bm,
+		"উইকিমিডিয়া টেমপ্লেট"@bn,
+		"དཔེ་པང་། ལྦེ་ཁེ་རིག་མཛོད།"@bo,
+		"মডেল উইকিপিডিয়া"@bpy,
+		"patrom Wikimedia"@br,
+		"šablon Wikimedia"@bs,
+		"templat Wikimedia"@bug,
+		"википеэди template"@bxr,
+		"plantilla de Wikimedia"@ca,
+		"plantilla Wikimedia"@cbk-zam,
+		"Wikimedia template"@cdo,
+		"куцкеп Википеди"@ce,
+		"plantilya Wikipedya"@ceb,
+		"Wikimedia template"@ch,
+		"template ᏫᎩᏇᏗᏯ"@chr,
+		"Vekepete'a template"@chy,
+		"داڕێژەی ویکیمیدیا"@ckb,
+		"Wikimedia template"@co,
+		"ᐧᐃᑭᐱᑎᔭ template"@cr,
+		"şablon Vikipediya"@crh-latn,
+		"šablona na projektech Wikimedia"@cs,
+		"szablóna Wikipedijô"@csb,
+		"oбраꙁьць Википєдїꙗ"@cu,
+		"шаблон Википеди"@cv,
+		"Wicipedia nodyn"@cy,
+		"Wikimedia-skabelon"@da,
+		"şablon Wikipediya"@diq,
+		"Wikipedija pśedłoga"@dsb,
+		"ފަންވަތް ވިކިޕީޑިޔާ"@dv,
+		"Wikimedia template"@ee,
+		"template Vichipedia"@eml,
+		"Wikimedia template"@en-ca,
+		"Wikimedia template"@en-gb,
+		"ŝablono Vikimedio"@eo,
+		"Wikimedia mall"@et,
+		"Wikimedia txantiloi"@eu,
+		"prantilla Güiquipeya"@ext,
+		"modèle Wikipeediya"@ff,
+		"Wikimedia template"@fj,
+		"fyrimynd Wikimedia"@fo,
+		"modèlo Wikimedia"@frp,
+		"Wikimediavorlage"@frr,
+		"model Vichipedie"@fur,
+		"Wikimedia-berjocht"@fy,
+		"Vicipéid teimpléad"@ga,
+		"şablon Vikipediya"@gag,
+		"模板 維基百科"@gan,
+		"Uicipeid teamplaid"@gd,
+		"modelo de Wikimedia"@gl,
+		"الگو ویکیپدیا"@glk,
+		"tembiecharã Vikipetã"@gn,
+		"𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰 𐍆𐌰𐌿𐍂𐌰𐌼𐌴𐌻𐌴𐌹𐌽𐍃"@got,
+		"Wikimedia-Vorlage"@gsw,
+		"ઢાંચો વિકિપીડિયા"@gu,
+		"clowan Wikimedia"@gv,
+		"Wikimedia template"@ha,
+		"Wikimedia template"@hak,
+		"anakuhi ʻo Wikipikia"@haw,
+		"תבנית ויקיפדיה"@he,
+		"साँचा विकिपीडिया"@hi,
+		"Wikimedia template"@hif,
+		"predložak Wikimedija"@hr,
+		"předłoha Wikipedija"@hsb,
+		"modèl Wikipedya"@ht,
+		"Wikimédia-sablon"@hu,
+		"Վիքիմեդիայի նախագծի կաղապար"@hy,
+		"Wikimedia patrono"@ia,
+		"templat Wikimedia"@id,
+		"avise Wikimedia"@ie,
+		"àtụ Wikimedia"@ig,
+		"shablono Wikipedio"@io,
+		"snið Wikimedia"@is,
+		"ウィキメディアのテンプレート"@ja,
+		"cithakan Wikimedia"@jv,
+		"თარგი ვიკიპედია"@ka,
+		"shablon Wikimedia"@kaa,
+		"Wikimedia template"@kg,
+		"Wikimedia template"@ki,
+		"улгі Уикимедиа"@kk,
+		"ilisserut Wikimedia"@kl,
+		"វិគីភីឌា ទំព័រគំរូ"@km,
+		"ಟೆಂಪ್ಲೇಟು ವಿಕಿಪೀಡಿಯ"@kn,
+		"위키미디어 틀"@ko,
+		"шаблон Википедия"@koi,
+		"فرماویکیپیٖڈیا"@ks,
+		"şablon Wîkîpediya"@ku,
+		"skantlyn Wikipedya"@kw,
+		"калып Уикипедия"@ky,
+		"formula Vicimedia"@la,
+		"xablón Vikipedya"@lad,
+		"Wikimedia-schabloun"@lb,
+		"sjabloon Wikimedia"@li,
+		"Wikimedia mudel"@lmo,
+		"Wikimedia modèle"@ln,
+		"ແມ່ແບບ ວິກິພີເດຍ"@lo,
+		"šablonas Vikipedija"@lt,
+		"Wikimedia projekta veidne"@lv,
+		"template 維基大典"@lzh,
+		"cithakan Wikimedia"@map-bms,
+		"шаблон Википедиесь"@mdf,
+		"Wikimedia endrika"@mg,
+		"кышкар Википедий"@mhr,
+		"Wikimedia template"@mi,
+		"templat Wikimedia"@min,
+		"шаблон на Викимедија"@mk,
+		"ഫലകം വിക്കിപീഡിയ"@ml,
+		"загвар Википедиа"@mn,
+		"विकिपीडिया साचा"@mr,
+		"templat Wikimedia"@ms,
+		"mudell Wikimedia"@mt,
+		"modelo Biquipédia"@mwl,
+		"ဝီကီပီးဒီးယား template"@my,
+		"شابلون ویکی‌پدیا"@mzn,
+		"Wikimedia-mal"@nb,
+		"Wikimedia-Vörlaag"@nds,
+		"विकिपिडिया template"@new,
+		"Wikimedia-mal"@nn,
+		"Wikipedie template"@nov,
+		"Wikimedia template"@nso,
+		"modèl Wikimedia"@oc,
+		"Wikimedia template"@om,
+		"ଉଇକିପିଡ଼ିଆ ଛାଞ୍ଚ"@or,
+		"xуызæг Википеди"@os,
+		"ਫਰਮਾ ਵਿਕੀਪੀਡੀਆ"@pa,
+		"Wikimedia template"@pag,
+		"Wikimedia template"@pam,
+		"Wikimedia template"@pap,
+		"पटिरूप विकिपीडिया"@pi,
+		"szablon w projekcie Wikimedia"@pl,
+		"template وکیپیڈیا"@pnb,
+		"пρότυπον Βικιπαίδεια"@pnt,
+		"کينډۍ ويکيپېډيا"@ps,
+		"plantilla Wikipidiya"@qu,
+		"model Vichipedia"@rm,
+		"sikavno Vikipidiya"@rmy,
+		"format Wikimedia"@ro,
+		"шаблона Вікімедія"@rue,
+		"Wikimedia template"@rup,
+		"फलकम् विकिपीडिया"@sa,
+		"xалыып Бикипиэдьийэ"@sah,
+		"Wikimedia template"@sc,
+		"Wikimedia template"@scn,
+		"Wikimedia template"@sco,
+		"سانچو وڪيپيڊيا"@sd,
+		"modèle Wïkïpêdïyäa"@sg,
+		"šabluons Vikipedėjė"@sgs,
+		"šablon Wikipediju"@sh,
+		"සැකිල්ල විකිපීඩියා"@si,
+		"šablóna Wikimedie"@sk,
+		"predloga Wikimedije"@sl,
+		"Wikimedia template"@so,
+		"Wikimedia stampa"@sq,
+		"Викимедијин шаблон"@sr,
+		"ankra Wikipedia"@srn,
+		"foarloage Wikipedia"@stq,
+		"citakan Wikipédia"@su,
+		"Wikimedia-mall"@sv,
+		"kigezo Wikimedia"@sw,
+		"வார்ப்புரு விக்கிப்பீடியா"@ta,
+		"మూస వికీపీడియా"@te,
+		"шаблон Википедиа"@tg,
+		"แม่แบบ วิกิพีเดีย"@th,
+		"şablon Wikipediýa"@tk,
+		"padron Wikimedia"@tl,
+		"Wikimedia template"@tn,
+		"Wikimedia templet"@tpi,
+		"şablon Wikimedia"@tr,
+		"template Wikipediya"@ts,
+		"калып Викимедиа"@tt,
+		"Wikimedia template"@tw,
+		"قېلىپ ۋىكىپېدىيە"@ug,
+		"шаблон проекту Вікімедіа"@uk,
+		"سانچہ ویکیپیڈیا"@ur,
+		"andoza Vikipediya"@uz,
+		"bản mẫu Wikimedia"@vi,
+		"näüdüs Vikipeediä"@vro,
+		"modele Wikimedia"@wa,
+		"batakan Wikimedia"@war,
+		"模板 维基百科"@wuu,
+		"кевләр Бикипеди"@xal,
+		"თარგი ვიკიპედია"@xmf,
+		"àdàkọ Wikimedia"@yo,
+		"維基媒體模"@yue,
+		"模板 Veizgiek Bakgoh"@za,
+		"维基媒体模板"@zh,
+		"维基媒体模板"@zh-hans,
+		"維基媒體模板"@zh-hant,
+		"Wikimedia template"@zu,
+		"Wikimedia-sjabloon"@nl,
+		"維基媒體模板"@zh-hk,
+		"維基媒體模板"@zh-tw,
+		"Wikimedia-mal"@nds-nl,
+		"şablona Wîkîmediyayê"@ku-latn,
+		"Викимедијин шаблон"@sr-ec,
+		"维基媒体模板"@zh-cn,
+		"shabloni loihai Vikimedia"@tg-latn,
+		"шаблони лоиҳаи Викимедиа"@tg-cyrl,
+		"Wikimedia-málle"@se,
+		"Wikimedia-sjabloon"@zea ;
+	skos:altLabel "Sablon:Ny-tr"@hu,
+		"Lang-tr"@ar,
+		"Шаблён:Lang-tr"@be-tarask,
+		"Шаблон:Lang tr"@ru,
+		"Şablon:Lang-tr"@tr,
+		"Lang-tr"@hi,
+		"Predloga:Lang-tr"@sl,
+		"زبان-ترکی"@fa,
+		"Turkish"@en,
+		"turco"@es,
+		"turc"@fr,
+		"τουρκικά"@el ;
+	wdt:P31 wd:Q11266439 ;
+	p:P31 s:Q5134-45E494B7-C08A-4193-9EC4-E9E370F79DF4 .
+
+s:Q5134-45E494B7-C08A-4193-9EC4-E9E370F79DF4 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P31 wd:Q11266439 .
+
+wd:Q11266439 a wikibase:Item ;
+	rdfs:label "װיקיפּעדיע-מוסטער"@yi ;
+	skos:prefLabel "װיקיפּעדיע-מוסטער"@yi ;
+	schema:name "װיקיפּעדיע-מוסטער"@yi ;
+	rdfs:label "الگوی ویکی‌مدیا"@fa ;
+	skos:prefLabel "الگوی ویکی‌مدیا"@fa ;
+	schema:name "الگوی ویکی‌مدیا"@fa ;
+	rdfs:label "维基媒体模板"@zh ;
+	skos:prefLabel "维基媒体模板"@zh ;
+	schema:name "维基媒体模板"@zh ;
+	rdfs:label "Wikimedia-sjabloon"@nl ;
+	skos:prefLabel "Wikimedia-sjabloon"@nl ;
+	schema:name "Wikimedia-sjabloon"@nl ;
+	rdfs:label "Πρότυπο εγχειρήματος Wikimedia"@el ;
+	skos:prefLabel "Πρότυπο εγχειρήματος Wikimedia"@el ;
+	schema:name "Πρότυπο εγχειρήματος Wikimedia"@el ;
+	rdfs:label "plantilla de Wikimedia"@es ;
+	skos:prefLabel "plantilla de Wikimedia"@es ;
+	schema:name "plantilla de Wikimedia"@es ;
+	rdfs:label "template di un progetto Wikimedia"@it ;
+	skos:prefLabel "template di un progetto Wikimedia"@it ;
+	schema:name "template di un progetto Wikimedia"@it ;
+	rdfs:label "шаблон проекта Викимедиа"@ru ;
+	skos:prefLabel "шаблон проекта Викимедиа"@ru ;
+	schema:name "шаблон проекта Викимедиа"@ru ;
+	rdfs:label "modèle de Wikimédia"@fr ;
+	skos:prefLabel "modèle de Wikimédia"@fr ;
+	schema:name "modèle de Wikimédia"@fr ;
+	rdfs:label "szablon w projekcie Wikimedia"@pl ;
+	skos:prefLabel "szablon w projekcie Wikimedia"@pl ;
+	schema:name "szablon w projekcie Wikimedia"@pl ;
+	rdfs:label "Wikimedia projekta veidne"@lv ;
+	skos:prefLabel "Wikimedia projekta veidne"@lv ;
+	schema:name "Wikimedia projekta veidne"@lv ;
+	rdfs:label "Wikimedia-Vorlage"@de ;
+	skos:prefLabel "Wikimedia-Vorlage"@de ;
+	schema:name "Wikimedia-Vorlage"@de ;
+	rdfs:label "predefinição da Wikimedia"@pt ;
+	skos:prefLabel "predefinição da Wikimedia"@pt ;
+	schema:name "predefinição da Wikimedia"@pt ;
+	rdfs:label "modelo da Wikimedia"@gl ;
+	skos:prefLabel "modelo da Wikimedia"@gl ;
+	schema:name "modelo da Wikimedia"@gl ;
+	rdfs:label "ウィキメディアのテンプレート"@ja ;
+	skos:prefLabel "ウィキメディアのテンプレート"@ja ;
+	schema:name "ウィキメディアのテンプレート"@ja ;
+	rdfs:label "위키미디어 틀"@ko ;
+	skos:prefLabel "위키미디어 틀"@ko ;
+	schema:name "위키미디어 틀"@ko ;
+	rdfs:label "plantilia ti Wikimedia"@ilo ;
+	skos:prefLabel "plantilia ti Wikimedia"@ilo ;
+	schema:name "plantilia ti Wikimedia"@ilo ;
+	rdfs:label "উইকিমিডিয়া টেমপ্লেট"@bn ;
+	skos:prefLabel "উইকিমিডিয়া টেমপ্লেট"@bn ;
+	schema:name "উইকিমিডিয়া টেমপ্লেট"@bn ;
+	rdfs:label "шаблон Вікімедіа"@uk ;
+	skos:prefLabel "шаблон Вікімедіа"@uk ;
+	schema:name "шаблон Вікімедіа"@uk ;
+	rdfs:label "Wikimédia-sablon"@hu ;
+	skos:prefLabel "Wikimédia-sablon"@hu ;
+	schema:name "Wikimédia-sablon"@hu ;
+	rdfs:label "תבנית של ויקימדיה"@he ;
+	skos:prefLabel "תבנית של ויקימדיה"@he ;
+	schema:name "תבנית של ויקימדיה"@he ;
+	rdfs:label "bản mẫu Wikimedia"@vi ;
+	skos:prefLabel "bản mẫu Wikimedia"@vi ;
+	schema:name "bản mẫu Wikimedia"@vi ;
+	rdfs:label "шаблён праекту Вікімэдыі"@be-tarask ;
+	skos:prefLabel "шаблён праекту Вікімэдыі"@be-tarask ;
+	schema:name "шаблён праекту Вікімэдыі"@be-tarask ;
+	rdfs:label "Vikimedia ŝablono"@eo ;
+	skos:prefLabel "Vikimedia ŝablono"@eo ;
+	schema:name "Vikimedia ŝablono"@eo ;
+	rdfs:label "விக்கிமீடியா வார்ப்புரு"@ta ;
+	skos:prefLabel "விக்கிமீடியா வார்ப்புரு"@ta ;
+	schema:name "விக்கிமீடியா வார்ப்புரு"@ta ;
+	rdfs:label "šablona na projektech Wikimedia"@cs ;
+	skos:prefLabel "šablona na projektech Wikimedia"@cs ;
+	schema:name "šablona na projektech Wikimedia"@cs ;
+	rdfs:label "ვიკიმედიის თარგი"@ka ;
+	skos:prefLabel "ვიკიმედიის თარგი"@ka ;
+	schema:name "ვიკიმედიის თარგი"@ka ;
+	rdfs:label "विकिपीडिया:साचा"@mr ;
+	skos:prefLabel "विकिपीडिया:साचा"@mr ;
+	schema:name "विकिपीडिया:साचा"@mr ;
+	rdfs:label "predefinição da Wikimedia"@pt-br ;
+	skos:prefLabel "predefinição da Wikimedia"@pt-br ;
+	schema:name "predefinição da Wikimedia"@pt-br ;
+	rdfs:label "format Wikimedia"@ro ;
+	skos:prefLabel "format Wikimedia"@ro ;
+	schema:name "format Wikimedia"@ro ;
+	rdfs:label "Wikimedia-skabelon"@da ;
+	skos:prefLabel "Wikimedia-skabelon"@da ;
+	schema:name "Wikimedia-skabelon"@da ;
+	rdfs:label "Templat Wikimedia"@ms ;
+	skos:prefLabel "Templat Wikimedia"@ms ;
+	schema:name "Templat Wikimedia"@ms ;
+	rdfs:label "维基媒体模板"@zh-cn ;
+	skos:prefLabel "维基媒体模板"@zh-cn ;
+	schema:name "维基媒体模板"@zh-cn ;
+	rdfs:label "Wikimedia template"@en-gb ;
+	skos:prefLabel "Wikimedia template"@en-gb ;
+	schema:name "Wikimedia template"@en-gb ;
+	rdfs:label "Wikimedia-malline"@fi ;
+	skos:prefLabel "Wikimedia-malline"@fi ;
+	schema:name "Wikimedia-malline"@fi ;
+	rdfs:label "หน้าแม่แบบวิกิมีเดีย"@th ;
+	skos:prefLabel "หน้าแม่แบบวิกิมีเดีย"@th ;
+	schema:name "หน้าแม่แบบวิกิมีเดีย"@th ;
+	rdfs:label "Wikimedia-mall"@sv ;
+	skos:prefLabel "Wikimedia-mall"@sv ;
+	schema:name "Wikimedia-mall"@sv ;
+	rdfs:label "plantilla de Wikimedia"@ca ;
+	skos:prefLabel "plantilla de Wikimedia"@ca ;
+	schema:name "plantilla de Wikimedia"@ca ;
+	rdfs:label "维基媒体模板"@zh-hans ;
+	skos:prefLabel "维基媒体模板"@zh-hans ;
+	schema:name "维基媒体模板"@zh-hans ;
+	rdfs:label "వికీమీడియా మూస"@te ;
+	skos:prefLabel "వికీమీడియా మూస"@te ;
+	schema:name "వికీమీడియా మూస"@te ;
+	rdfs:label "шаблон праекта Вікімедыя"@be ;
+	skos:prefLabel "шаблон праекта Вікімедыя"@be ;
+	schema:name "шаблон праекта Вікімедыя"@be ;
+	rdfs:label "Wikimedia-Vörlaag"@nds ;
+	skos:prefLabel "Wikimedia-Vörlaag"@nds ;
+	schema:name "Wikimedia-Vörlaag"@nds ;
+	rdfs:label "ଉଇକିମିଡ଼ିଆ ଛାଞ୍ଚ"@or ;
+	skos:prefLabel "ଉଇକିମିଡ଼ିଆ ଛାଞ୍ଚ"@or ;
+	schema:name "ଉଇକିମିଡ଼ିଆ ଛାଞ୍ଚ"@or ;
+	rdfs:label "Wikimedia-mal"@nb ;
+	skos:prefLabel "Wikimedia-mal"@nb ;
+	schema:name "Wikimedia-mal"@nb ;
+	rdfs:label "šablóna projektov Wikimedia"@sk ;
+	skos:prefLabel "šablóna projektov Wikimedia"@sk ;
+	schema:name "šablóna projektov Wikimedia"@sk ;
+	rdfs:label "Wikimedia-Foarloage"@stq ;
+	skos:prefLabel "Wikimedia-Foarloage"@stq ;
+	schema:name "Wikimedia-Foarloage"@stq ;
+	rdfs:label "Wikimedia-mal"@nds-nl ;
+	skos:prefLabel "Wikimedia-mal"@nds-nl ;
+	schema:name "Wikimedia-mal"@nds-nl ;
+	rdfs:label "വിക്കിമീഡിയ ഫലകം"@ml ;
+	skos:prefLabel "വിക്കിമീഡിയ ഫലകം"@ml ;
+	schema:name "വിക്കിമീഡിയ ഫലകം"@ml ;
+	rdfs:label "維基媒體模板"@zh-hk ;
+	skos:prefLabel "維基媒體模板"@zh-hk ;
+	schema:name "維基媒體模板"@zh-hk ;
+	rdfs:label "維基媒體模板"@zh-tw ;
+	skos:prefLabel "維基媒體模板"@zh-tw ;
+	schema:name "維基媒體模板"@zh-tw ;
+	rdfs:label "維基媒體模板"@zh-hant ;
+	skos:prefLabel "維基媒體模板"@zh-hant ;
+	schema:name "維基媒體模板"@zh-hant ;
+	rdfs:label "formula Vicimediorum"@la ;
+	skos:prefLabel "formula Vicimediorum"@la ;
+	schema:name "formula Vicimediorum"@la ;
+	rdfs:label "Викимедиина предлошка"@mk ;
+	skos:prefLabel "Викимедиина предлошка"@mk ;
+	schema:name "Викимедиина предлошка"@mk ;
+	rdfs:label "Wikimedia-berjocht"@fy ;
+	skos:prefLabel "Wikimedia-berjocht"@fy ;
+	schema:name "Wikimedia-berjocht"@fy ;
+	rdfs:label "Викимедијин шаблон"@sr ;
+	skos:prefLabel "Викимедијин шаблон"@sr ;
+	schema:name "Викимедијин шаблон"@sr ;
+	rdfs:label "Викимедијин шаблон"@sr-ec ;
+	skos:prefLabel "Викимедијин шаблон"@sr-ec ;
+	schema:name "Викимедијин шаблон"@sr-ec ;
+	rdfs:label "predloga Wikimedije"@sl ;
+	skos:prefLabel "predloga Wikimedije"@sl ;
+	schema:name "predloga Wikimedije"@sl ;
+	rdfs:label "Wikimediako txantiloi"@eu ;
+	skos:prefLabel "Wikimediako txantiloi"@eu ;
+	schema:name "Wikimediako txantiloi"@eu ;
+	rdfs:label "Викимедин проектан кеп"@ce ;
+	skos:prefLabel "Викимедин проектан кеп"@ce ;
+	schema:name "Викимедин проектан кеп"@ce ;
+	rdfs:label "ویکیپیڈیا:سانچہ فضائے نام"@ur ;
+	skos:prefLabel "ویکیپیڈیا:سانچہ فضائے نام"@ur ;
+	schema:name "ویکیپیڈیا:سانچہ فضائے نام"@ur ;
+	rdfs:label "Wikimedia mall"@et ;
+	skos:prefLabel "Wikimedia mall"@et ;
+	schema:name "Wikimedia mall"@et ;
+	rdfs:label "Уикимедия шаблон"@bg ;
+	skos:prefLabel "Уикимедия шаблон"@bg ;
+	schema:name "Уикимедия шаблон"@bg ;
+	rdfs:label "šablon Wikimedia"@bs ;
+	skos:prefLabel "šablon Wikimedia"@bs ;
+	schema:name "šablon Wikimedia"@bs ;
+	rdfs:label "Wikimedia-fyrimynd"@fo ;
+	skos:prefLabel "Wikimedia-fyrimynd"@fo ;
+	schema:name "Wikimedia-fyrimynd"@fo ;
+	rdfs:label "Wikimedia-Vorlage"@gsw ;
+	skos:prefLabel "Wikimedia-Vorlage"@gsw ;
+	schema:name "Wikimedia-Vorlage"@gsw ;
+	rdfs:label "Վիքիմեդիայի նախագծի կաղապար"@hy ;
+	skos:prefLabel "Վիքիմեդիայի նախագծի կաղապար"@hy ;
+	schema:name "Վիքիմեդիայի նախագծի կաղապար"@hy ;
+	rdfs:label "plantía de Wikimedia"@ast ;
+	skos:prefLabel "plantía de Wikimedia"@ast ;
+	schema:name "plantía de Wikimedia"@ast ;
+	rdfs:label "Vikimedijos šablonas"@lt ;
+	skos:prefLabel "Vikimedijos šablonas"@lt ;
+	schema:name "Vikimedijos šablonas"@lt ;
+	rdfs:label "ويکيمېډيا کينډۍ"@ps ;
+	skos:prefLabel "ويکيمېډيا کينډۍ"@ps ;
+	schema:name "ويکيمېډيا کينډۍ"@ps ;
+	rdfs:label "Wikimedia-föörlaag"@frr ;
+	skos:prefLabel "Wikimedia-föörlaag"@frr ;
+	schema:name "Wikimedia-föörlaag"@frr ;
+	rdfs:label "Wikimedia-Schabloun"@lb ;
+	skos:prefLabel "Wikimedia-Schabloun"@lb ;
+	schema:name "Wikimedia-Schabloun"@lb ;
+	rdfs:label "قالب ويكيميديا"@ar ;
+	skos:prefLabel "قالب ويكيميديا"@ar ;
+	schema:name "قالب ويكيميديا"@ar ;
+	rdfs:label "templat Wikimedia"@id ;
+	skos:prefLabel "templat Wikimedia"@id ;
+	schema:name "templat Wikimedia"@id ;
+	rdfs:label "cithakan Wikimedia"@jv ;
+	skos:prefLabel "cithakan Wikimedia"@jv ;
+	schema:name "cithakan Wikimedia"@jv ;
+	rdfs:label "nodyn Wikimedia"@cy ;
+	skos:prefLabel "nodyn Wikimedia"@cy ;
+	schema:name "nodyn Wikimedia"@cy ;
+	rdfs:label "şablona Wîkîmediyayê"@ku-latn ;
+	skos:prefLabel "şablona Wîkîmediyayê"@ku-latn ;
+	schema:name "şablona Wîkîmediyayê"@ku-latn ;
+	rdfs:label "шаблони лоиҳаи Викимедиа"@tg ;
+	skos:prefLabel "шаблони лоиҳаи Викимедиа"@tg ;
+	schema:name "шаблони лоиҳаи Викимедиа"@tg ;
+	rdfs:label "Wikimedia template"@en-ca ;
+	skos:prefLabel "Wikimedia template"@en-ca ;
+	schema:name "Wikimedia template"@en-ca ;
+	rdfs:label "Wikimedia template"@sco ;
+	skos:prefLabel "Wikimedia template"@sco ;
+	schema:name "Wikimedia template"@sco ;
+	rdfs:label "Ulmang pang-Wikimedia"@pam ;
+	skos:prefLabel "Ulmang pang-Wikimedia"@pam ;
+	schema:name "Ulmang pang-Wikimedia"@pam ;
+	rdfs:label "Padrong pang-Wikimedia"@tl ;
+	skos:prefLabel "Padrong pang-Wikimedia"@tl ;
+	schema:name "Padrong pang-Wikimedia"@tl ;
+	rdfs:label "વિકિપીડિયા ઢાંચો"@gu ;
+	skos:prefLabel "વિકિપીડિયા ઢાંચો"@gu ;
+	schema:name "વિકિપીડિયા ઢાંચો"@gu ;
+	rdfs:label "Wikipedia:Patrono"@ia ;
+	skos:prefLabel "Wikipedia:Patrono"@ia ;
+	schema:name "Wikipedia:Patrono"@ia ;
+	rdfs:label "modèl de Wikimèdia"@oc ;
+	skos:prefLabel "modèl de Wikimèdia"@oc ;
+	schema:name "modèl de Wikimèdia"@oc ;
+	rdfs:label "Wikimedia-sjabloon"@af ;
+	skos:prefLabel "Wikimedia-sjabloon"@af ;
+	schema:name "Wikimedia-sjabloon"@af ;
+	rdfs:label "Wikimedia-Vorlage"@de-at ;
+	skos:prefLabel "Wikimedia-Vorlage"@de-at ;
+	schema:name "Wikimedia-Vorlage"@de-at ;
+	rdfs:label "Wikimedia-Vorlage"@de-ch ;
+	skos:prefLabel "Wikimedia-Vorlage"@de-ch ;
+	schema:name "Wikimedia-Vorlage"@de-ch ;
+	rdfs:label "seunaleuek Wikimèdia"@ace ;
+	skos:prefLabel "seunaleuek Wikimèdia"@ace ;
+	schema:name "seunaleuek Wikimèdia"@ace ;
+	rdfs:label "Wikimedia şablonu"@tr ;
+	skos:prefLabel "Wikimedia şablonu"@tr ;
+	schema:name "Wikimedia şablonu"@tr ;
+	rdfs:label "Wikimedia-Vorlog"@bar ;
+	skos:prefLabel "Wikimedia-Vorlog"@bar ;
+	schema:name "Wikimedia-Vorlog"@bar ;
+	rdfs:label "Викимедиа ҡалыбы"@ba ;
+	skos:prefLabel "Викимедиа ҡалыбы"@ba ;
+	schema:name "Викимедиа ҡалыбы"@ba ;
+	rdfs:label "plantilla de Wikimedia"@an ;
+	skos:prefLabel "plantilla de Wikimedia"@an ;
+	schema:name "plantilla de Wikimedia"@an ;
+	rdfs:label "àdàkọ Wikimedia"@yo ;
+	skos:prefLabel "àdàkọ Wikimedia"@yo ;
+	schema:name "àdàkọ Wikimedia"@yo ;
+	rdfs:label "stampë e Wikimedias"@sq ;
+	skos:prefLabel "stampë e Wikimedias"@sq ;
+	schema:name "stampë e Wikimedias"@sq ;
+	rdfs:label "shabloni loihai Vikimedia"@tg-latn ;
+	skos:prefLabel "shabloni loihai Vikimedia"@tg-latn ;
+	schema:name "shabloni loihai Vikimedia"@tg-latn ;
+	rdfs:label "Wikimedia-mal"@nn ;
+	skos:prefLabel "Wikimedia-mal"@nn ;
+	schema:name "Wikimedia-mal"@nn ;
+	rdfs:label "Wikimedia-sjabloon"@zea ;
+	skos:prefLabel "Wikimedia-sjabloon"@zea ;
+	schema:name "Wikimedia-sjabloon"@zea ;
+	rdfs:label "Wikimedia-sjabloon"@li ;
+	skos:prefLabel "Wikimedia-sjabloon"@li ;
+	schema:name "Wikimedia-sjabloon"@li ;
+	rdfs:label "قالب بتاع ويكيميديا"@arz ;
+	skos:prefLabel "قالب بتاع ويكيميديا"@arz ;
+	schema:name "قالب بتاع ويكيميديا"@arz ;
+	rdfs:label "kigezo cha Wikimedia"@sw ;
+	skos:prefLabel "kigezo cha Wikimedia"@sw ;
+	schema:name "kigezo cha Wikimedia"@sw ;
+	rdfs:label "шаблони лоиҳаи Викимедиа"@tg-cyrl ;
+	skos:prefLabel "шаблони лоиҳаи Викимедиа"@tg-cyrl ;
+	schema:name "шаблони лоиҳаи Викимедиа"@tg-cyrl ;
+	rdfs:label "維基媒體模"@yue ;
+	skos:prefLabel "維基媒體模"@yue ;
+	schema:name "維基媒體模"@yue ;
+	rdfs:label "patrom eus Wikimedia"@br ;
+	skos:prefLabel "patrom eus Wikimedia"@br ;
+	schema:name "patrom eus Wikimedia"@br ;
+	rdfs:label "Викимедиа проектындагы калып"@tt-cyrl ;
+	skos:prefLabel "Викимедиа проектындагы калып"@tt-cyrl ;
+	schema:name "Викимедиа проектындагы калып"@tt-cyrl ;
+	rdfs:label "Wikimedia proyektındağı qalıp"@tt-latn ;
+	skos:prefLabel "Wikimedia proyektındağı qalıp"@tt-latn ;
+	schema:name "Wikimedia proyektındağı qalıp"@tt-latn ;
+	rdfs:label "Викимедиа проектындагы калып"@tt ;
+	skos:prefLabel "Викимедиа проектындагы калып"@tt ;
+	schema:name "Викимедиа проектындагы калып"@tt ;
+	rdfs:label "维基媒体模板"@zh-sg ;
+	skos:prefLabel "维基媒体模板"@zh-sg ;
+	schema:name "维基媒体模板"@zh-sg ;
+	rdfs:label "Wikipedia:سانچو فضانالو"@sd ;
+	skos:prefLabel "Wikipedia:سانچو فضانالو"@sd ;
+	schema:name "Wikipedia:سانچو فضانالو"@sd ;
+	rdfs:label "विकिपीडिया:Template namespace"@hi ;
+	skos:prefLabel "विकिपीडिया:Template namespace"@hi ;
+	schema:name "विकिपीडिया:Template namespace"@hi ;
+	rdfs:label "维基媒体模板"@zh-my ;
+	skos:prefLabel "维基媒体模板"@zh-my ;
+	schema:name "维基媒体模板"@zh-my ;
+	rdfs:label "維基媒體模板"@zh-mo ;
+	skos:prefLabel "維基媒體模板"@zh-mo ;
+	schema:name "維基媒體模板"@zh-mo ;
+	rdfs:label "Wikimedia template"@en ;
+	skos:prefLabel "Wikimedia template"@en ;
+	schema:name "Wikimedia template"@en ;
+	rdfs:label "teimpléad Wikimedia"@ga ;
+	skos:prefLabel "teimpléad Wikimedia"@ga ;
+	schema:name "teimpléad Wikimedia"@ga ;
+	rdfs:label "ਫਰਮਾ"@pa ;
+	skos:prefLabel "ਫਰਮਾ"@pa ;
+	schema:name "ਫਰਮਾ"@pa ;
+	rdfs:label "ৱিকিমিডিয়া সাঁচ"@as ;
+	skos:prefLabel "ৱিকিমিডিয়া সাঁচ"@as ;
+	schema:name "ৱিকিমিডিয়া সাঁচ"@as ;
+	rdfs:label "predložak Wikimedije"@hr ;
+	skos:prefLabel "predložak Wikimedije"@hr ;
+	schema:name "predložak Wikimedije"@hr ;
+	rdfs:label "Modèl de on projeto Wikimedia"@vec ;
+	skos:prefLabel "Modèl de on projeto Wikimedia"@vec ;
+	schema:name "Modèl de on projeto Wikimedia"@vec ;
+	rdfs:label "Şablonê Wikimedia"@diq ;
+	skos:prefLabel "Şablonê Wikimedia"@diq ;
+	schema:name "Şablonê Wikimedia"@diq ;
+	rdfs:label "Wikimedia málle"@se ;
+	skos:prefLabel "Wikimedia málle"@se ;
+	schema:name "Wikimedia málle"@se ;
+	schema:description "πρότυπο εγχειρήματος Wikimedia"@el,
+		"тип служебной страницы, для свойства P31"@ru,
+		"type de page dans le système Wikimédia. À utiliser avec la propriété P31 « nature de l'élément » pour les pages de modèles"@fr,
+		"kita ti panid iti sistema ti Wikimedia. Inus-usar a kakuyog ti  P31 'pagarigan iti' para kadagiti panid ti plantilia"@ilo,
+		"위키미디어 틀 문서에 P31(종류)와 함께 쓰입니다"@ko,
+		"používejte s vlastností P31 'instance (čeho)' s položkami šablon"@cs,
+		"Textschablone in Wikimedia-Projekten"@de,
+		"ウィキメディア・プロジェクトにおけるテンプレートページ; プロパティ P31 に設定する項目"@ja,
+		"ویکیپیڈیا صفحات میں پیچیدہ یا بار بار تکرار کیے جانے والے متن کو باآسانی  جدول کی صورت تحریر کرنے کیلیے انتہائی مفید"@ur,
+		"te gebruiken met P31 (is een) voor sjablonen"@nl,
+		"tipo de serva paĝo, por la eco P31"@eo,
+		"Վիքիպեդիայի սպասարկման էջ P31 կաղապարի էջերի համար"@hy,
+		"tipu de páxina del sistema Wikimedia. Úsalu con P31 'instancia de' pa les páxines de plantíes"@ast,
+		"jenis laman dalam Wikimedia. Dipergunakan dengan P31 'adalah' untuk laman templat"@id,
+		"клас сторінок у проєктах Вікімедіа (для властивості P31)"@uk,
+		"typ av Wikimediasida. Används med P31 'instans av' för mallsidor"@sv,
+		"Typ stránky projektov Wikimedia. Používajte s vlastnosťou P31 'inštancia (čoho)' s položkami šablón"@sk,
+		"نوع من الصفحات في نظام ويكيميديا. يستخدم مع الخاصية:P31 \"حالة خاصة من\" لصفحات القوالب"@ar,
+		"gebruik vir P31 vir sjablone."@af,
+		"סוג של דף במערכת ויקמדיה. לשימוש עם P31 (\"מופע של\") עבור תבניות"@he,
+		"тып старонкі ў праектах Вікімэдыі. Выкарыстоўвайце з уласьцівасьцю P31 (асобны выпадак панятку) для старонак шаблёнаў"@be-tarask,
+		"Textschabloun a Wikimedia-Projeten"@lb,
+		"utilitza-la amb \"és instància de\" (P31) per les plantilles wiki"@ca,
+		"维基媒体网站的页面类型。在模板页面用于P31“性质”"@zh,
+		"维基媒体网站的页面类型。在模板页面用于P31“性质”"@zh-hans,
+		"維基媒體計畫中的一種頁面類型。"@zh-hant,
+		"type of page in the Wikimedia system. Use with P31 'instance of' for template pages"@en,
+		"jenis muka surat dalam Wikimedia sistem. Guna P31 'Instance of' untuk templat muka surat"@ms,
+		"vrsta stranice u sustavu Wikimedije"@hr .
+
+wd:P31 a wikibase:Property,
+		wikibase:Property ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P31 ;
+	wikibase:claim p:P31 ;
+	wikibase:statementProperty ps:P31 ;
+	wikibase:statementValue psv:P31 ;
+	wikibase:qualifier pq:P31 ;
+	wikibase:qualifierValue pqv:P31 ;
+	wikibase:reference pr:P31 ;
+	wikibase:referenceValue prv:P31 ;
+	wikibase:novalue wdno:P31 .
+
+p:P31 a owl:ObjectProperty .
+
+psv:P31 a owl:ObjectProperty .
+
+pqv:P31 a owl:ObjectProperty .
+
+prv:P31 a owl:ObjectProperty .
+
+wdt:P31 a owl:ObjectProperty .
+
+ps:P31 a owl:ObjectProperty .
+
+pq:P31 a owl:ObjectProperty .
+
+pr:P31 a owl:ObjectProperty .
+
+wdno:P31 a owl:Class ;
+	owl:complementOf _:3d66a9a972a16b3583effd41e5f2aff4 .
+
+_:3d66a9a972a16b3583effd41e5f2aff4 a owl:Restriction ;
+	owl:onProperty wdt:P31 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P31 rdfs:label "instance of"@en ;
+	skos:prefLabel "instance of"@en ;
+	schema:name "instance of"@en ;
+	rdfs:label "nature de l'élément"@fr ;
+	skos:prefLabel "nature de l'élément"@fr ;
+	schema:name "nature de l'élément"@fr ;
+	rdfs:label "ist ein(e)"@de ;
+	skos:prefLabel "ist ein(e)"@de ;
+	schema:name "ist ein(e)"@de ;
+	rdfs:label "istanza di"@it ;
+	skos:prefLabel "istanza di"@it ;
+	schema:name "istanza di"@it ;
+	rdfs:label "instância de"@pt-br ;
+	skos:prefLabel "instância de"@pt-br ;
+	schema:name "instância de"@pt-br ;
+	rdfs:label "estas"@eo ;
+	skos:prefLabel "estas"@eo ;
+	schema:name "estas"@eo ;
+	rdfs:label "מופע של"@he ;
+	skos:prefLabel "מופע של"@he ;
+	schema:name "מופע של"@he ;
+	rdfs:label "instancia de"@es ;
+	skos:prefLabel "instancia de"@es ;
+	schema:name "instancia de"@es ;
+	rdfs:label "esiintymä kohteesta"@fi ;
+	skos:prefLabel "esiintymä kohteesta"@fi ;
+	schema:name "esiintymä kohteesta"@fi ;
+	rdfs:label "osztály, amelynek példánya"@hu ;
+	skos:prefLabel "osztály, amelynek példánya"@hu ;
+	schema:name "osztály, amelynek példánya"@hu ;
+	rdfs:label "это частный случай понятия"@ru ;
+	skos:prefLabel "это частный случай понятия"@ru ;
+	schema:name "это частный случай понятия"@ru ;
+	rdfs:label "primjerak od"@hr ;
+	skos:prefLabel "primjerak od"@hr ;
+	schema:name "primjerak od"@hr ;
+	rdfs:label "is een"@nl ;
+	skos:prefLabel "is een"@nl ;
+	schema:name "is een"@nl ;
+	rdfs:label "είναι"@el ;
+	skos:prefLabel "είναι"@el ;
+	schema:name "είναι"@el ;
+	rdfs:label "jest to"@pl ;
+	skos:prefLabel "jest to"@pl ;
+	schema:name "jest to"@pl ;
+	rdfs:label "је"@sr ;
+	skos:prefLabel "је"@sr ;
+	schema:name "је"@sr ;
+	rdfs:label "instància de"@ca ;
+	skos:prefLabel "instància de"@ca ;
+	schema:name "instància de"@ca ;
+	rdfs:label "instance (čeho)"@cs ;
+	skos:prefLabel "instance (čeho)"@cs ;
+	schema:name "instance (čeho)"@cs ;
+	rdfs:label "forekomst av"@nb ;
+	skos:prefLabel "forekomst av"@nb ;
+	schema:name "forekomst av"@nb ;
+	rdfs:label "instância de"@pt ;
+	skos:prefLabel "instância de"@pt ;
+	schema:name "instância de"@pt ;
+	rdfs:label "pagarigan iti"@ilo ;
+	skos:prefLabel "pagarigan iti"@ilo ;
+	schema:name "pagarigan iti"@ilo ;
+	rdfs:label "primerek od"@sl ;
+	skos:prefLabel "primerek od"@sl ;
+	schema:name "primerek od"@sl ;
+	rdfs:label "гэта"@be ;
+	skos:prefLabel "гэта"@be ;
+	schema:name "гэта"@be ;
+	rdfs:label "다음 종류에 속함"@ko ;
+	skos:prefLabel "다음 종류에 속함"@ko ;
+	schema:name "다음 종류에 속함"@ko ;
+	rdfs:label "førekomst av"@nn ;
+	skos:prefLabel "førekomst av"@nn ;
+	schema:name "førekomst av"@nn ;
+	rdfs:label "là một"@vi ;
+	skos:prefLabel "là một"@vi ;
+	schema:name "là một"@vi ;
+	rdfs:label "асобны выпадак панятку"@be-tarask ;
+	skos:prefLabel "асобны выпадак панятку"@be-tarask ;
+	schema:name "асобны выпадак панятку"@be-tarask ;
+	rdfs:label "je"@bs ;
+	skos:prefLabel "je"@bs ;
+	schema:name "je"@bs ;
+	rdfs:label "เป็น"@th ;
+	skos:prefLabel "เป็น"@th ;
+	schema:name "เป็น"@th ;
+	rdfs:label "є одним із"@uk ;
+	skos:prefLabel "є одним із"@uk ;
+	schema:name "є одним із"@uk ;
+	rdfs:label "instance of"@en-gb ;
+	skos:prefLabel "instance of"@en-gb ;
+	schema:name "instance of"@en-gb ;
+	rdfs:label "instance of"@en-ca ;
+	skos:prefLabel "instance of"@en-ca ;
+	schema:name "instance of"@en-ca ;
+	rdfs:label "分類"@ja ;
+	skos:prefLabel "分類"@ja ;
+	schema:name "分類"@ja ;
+	rdfs:label "bu"@uz ;
+	skos:prefLabel "bu"@uz ;
+	schema:name "bu"@uz ;
+	rdfs:label "ir"@lv ;
+	skos:prefLabel "ir"@lv ;
+	schema:name "ir"@lv ;
+	rdfs:label "est"@la ;
+	skos:prefLabel "est"@la ;
+	schema:name "est"@la ;
+	rdfs:label "یک نمونه از"@fa ;
+	skos:prefLabel "یک نمونه از"@fa ;
+	schema:name "یک نمونه از"@fa ;
+	rdfs:label "instans av"@sv ;
+	skos:prefLabel "instans av"@sv ;
+	schema:name "instans av"@sv ;
+	rdfs:label "is en"@nds ;
+	skos:prefLabel "is en"@nds ;
+	schema:name "is en"@nds ;
+	rdfs:label "este un/o"@ro ;
+	skos:prefLabel "este un/o"@ro ;
+	schema:name "este un/o"@ro ;
+	rdfs:label "வகை"@ta ;
+	skos:prefLabel "வகை"@ta ;
+	schema:name "வகை"@ta ;
+	rdfs:label "adolah"@min ;
+	skos:prefLabel "adolah"@min ;
+	schema:name "adolah"@min ;
+	rdfs:label "adalah"@id ;
+	skos:prefLabel "adalah"@id ;
+	schema:name "adalah"@id ;
+	rdfs:label "instancia de"@gl ;
+	skos:prefLabel "instancia de"@gl ;
+	schema:name "instancia de"@gl ;
+	rdfs:label "er"@is ;
+	skos:prefLabel "er"@is ;
+	schema:name "er"@is ;
+	rdfs:label "is 'n"@af ;
+	skos:prefLabel "is 'n"@af ;
+	schema:name "is 'n"@af ;
+	rdfs:label "არის"@ka ;
+	skos:prefLabel "არის"@ka ;
+	schema:name "არის"@ka ;
+	rdfs:label "ist eine Instanz von"@de-at ;
+	skos:prefLabel "ist eine Instanz von"@de-at ;
+	schema:name "ist eine Instanz von"@de-at ;
+	rdfs:label "tilfælde af"@da ;
+	skos:prefLabel "tilfælde af"@da ;
+	schema:name "tilfælde af"@da ;
+	rdfs:label "instance o"@sco ;
+	skos:prefLabel "instance o"@sco ;
+	schema:name "instance o"@sco ;
+	rdfs:label "je"@sk ;
+	skos:prefLabel "je"@sk ;
+	schema:name "je"@sk ;
+	rdfs:label "ist eine Instanz von"@de-ch ;
+	skos:prefLabel "ist eine Instanz von"@de-ch ;
+	schema:name "ist eine Instanz von"@de-ch ;
+	rdfs:label "is a"@bar ;
+	skos:prefLabel "is a"@bar ;
+	schema:name "is a"@bar ;
+	rdfs:label "স্বরূপ"@bn ;
+	skos:prefLabel "স্বরূপ"@bn ;
+	schema:name "স্বরূপ"@bn ;
+	rdfs:label "l'è un(a)"@lmo ;
+	skos:prefLabel "l'è un(a)"@lmo ;
+	schema:name "l'è un(a)"@lmo ;
+	rdfs:label "is een"@nds-nl ;
+	skos:prefLabel "is een"@nds-nl ;
+	schema:name "is een"@nds-nl ;
+	rdfs:label "je(su)"@sh ;
+	skos:prefLabel "je(su)"@sh ;
+	schema:name "je(su)"@sh ;
+	rdfs:label "natur an elfenn"@br ;
+	skos:prefLabel "natur an elfenn"@br ;
+	schema:name "natur an elfenn"@br ;
+	rdfs:label "екземпляр на"@bg ;
+	skos:prefLabel "екземпляр на"@bg ;
+	schema:name "екземпляр на"@bg ;
+	rdfs:label "प्रकार"@mr ;
+	skos:prefLabel "प्रकार"@mr ;
+	schema:name "प्रकार"@mr ;
+	rdfs:label "نموونەیەک لە"@ckb ;
+	skos:prefLabel "نموونەیەک لە"@ckb ;
+	schema:name "نموونەیەک لە"@ckb ;
+	rdfs:label "حالة من"@ar ;
+	skos:prefLabel "حالة من"@ar ;
+	schema:name "حالة من"@ar ;
+	rdfs:label "üksikjuht nähtusest"@et ;
+	skos:prefLabel "üksikjuht nähtusest"@et ;
+	schema:name "üksikjuht nähtusest"@et ;
+	rdfs:label "est un"@pcd ;
+	skos:prefLabel "est un"@pcd ;
+	schema:name "est un"@pcd ;
+	rdfs:label "nedir"@tr ;
+	skos:prefLabel "nedir"@tr ;
+	schema:name "nedir"@tr ;
+	rdfs:label "उदहारण है"@hi ;
+	skos:prefLabel "उदहारण है"@hi ;
+	schema:name "उदहारण है"@hi ;
+	rdfs:label "је"@sr-ec ;
+	skos:prefLabel "је"@sr-ec ;
+	schema:name "је"@sr-ec ;
+	rdfs:label "istanza di"@co ;
+	skos:prefLabel "istanza di"@co ;
+	schema:name "istanza di"@co ;
+	rdfs:label "natura de l'element"@oc ;
+	skos:prefLabel "natura de l'element"@oc ;
+	schema:name "natura de l'element"@oc ;
+	rdfs:label "е"@mk ;
+	skos:prefLabel "е"@mk ;
+	schema:name "е"@mk ;
+	rdfs:label "פֿאַל"@yi ;
+	skos:prefLabel "פֿאַל"@yi ;
+	schema:name "פֿאַל"@yi ;
+	rdfs:label "性質"@zh ;
+	skos:prefLabel "性質"@zh ;
+	schema:name "性質"@zh ;
+	rdfs:label "serese mupli"@jbo ;
+	skos:prefLabel "serese mupli"@jbo ;
+	schema:name "serese mupli"@jbo ;
+	rdfs:label "ઉદાહરણ"@gu ;
+	skos:prefLabel "ઉદાહરણ"@gu ;
+	schema:name "ઉદાહરણ"@gu ;
+	rdfs:label "contoh"@ms ;
+	skos:prefLabel "contoh"@ms ;
+	schema:name "contoh"@ms ;
+	rdfs:label "ay halimbawa ng"@tl ;
+	skos:prefLabel "ay halimbawa ng"@tl ;
+	schema:name "ay halimbawa ng"@tl ;
+	rdfs:label "è in(a)"@rm ;
+	skos:prefLabel "è in(a)"@rm ;
+	schema:name "è in(a)"@rm ;
+	rdfs:label "es e Beischpell för e(n(e))"@ksh ;
+	skos:prefLabel "es e Beischpell för e(n(e))"@ksh ;
+	schema:name "es e Beischpell för e(n(e))"@ksh ;
+	rdfs:label "ass eng/e(e)(n)"@lb ;
+	skos:prefLabel "ass eng/e(e)(n)"@lb ;
+	schema:name "ass eng/e(e)(n)"@lb ;
+	rdfs:label "to je"@csb ;
+	skos:prefLabel "to je"@csb ;
+	schema:name "to je"@csb ;
+	rdfs:label "Nchumu"@ts ;
+	skos:prefLabel "Nchumu"@ts ;
+	schema:name "Nchumu"@ts ;
+	rdfs:label "isch e"@gsw ;
+	skos:prefLabel "isch e"@gsw ;
+	schema:name "isch e"@gsw ;
+	rdfs:label "دِلِوس"@mzn ;
+	skos:prefLabel "دِلِوس"@mzn ;
+	schema:name "دِلِوس"@mzn ;
+	rdfs:label "అవతారం"@te ;
+	skos:prefLabel "అవతారం"@te ;
+	schema:name "అవతారం"@te ;
+	rdfs:label "ଦୃଷ୍ଟାନ୍ତ"@or ;
+	skos:prefLabel "ଦୃଷ୍ଟାନ୍ତ"@or ;
+	schema:name "ଦୃଷ୍ଟାନ୍ତ"@or ;
+	rdfs:label "je"@sr-el ;
+	skos:prefLabel "je"@sr-el ;
+	schema:name "je"@sr-el ;
+	rdfs:label "is n(e)"@stq ;
+	skos:prefLabel "is n(e)"@stq ;
+	schema:name "is n(e)"@stq ;
+	rdfs:label "instantia de"@ia ;
+	skos:prefLabel "instantia de"@ia ;
+	schema:name "instantia de"@ia ;
+	rdfs:label "no tipo 'e"@nap ;
+	skos:prefLabel "no tipo 'e"@nap ;
+	schema:name "no tipo 'e"@nap ;
+	rdfs:label "係一個"@yue ;
+	skos:prefLabel "係一個"@yue ;
+	schema:name "係一個"@yue ;
+	rdfs:label "karazana"@mg ;
+	skos:prefLabel "karazana"@mg ;
+	schema:name "karazana"@mg ;
+	rdfs:label "esimplari di"@scn ;
+	skos:prefLabel "esimplari di"@scn ;
+	schema:name "esimplari di"@scn ;
+	rdfs:label "honako hau da"@eu ;
+	skos:prefLabel "honako hau da"@eu ;
+	schema:name "honako hau da"@eu ;
+	rdfs:label "is in"@fy ;
+	skos:prefLabel "is in"@fy ;
+	schema:name "is in"@fy ;
+	rdfs:label "തരം"@ml ;
+	skos:prefLabel "തരം"@ml ;
+	schema:name "തരം"@ml ;
+	rdfs:label "төшенчәнең аерым очрагы"@tt ;
+	skos:prefLabel "төшенчәнең аерым очрагы"@tt ;
+	schema:name "төшенчәнең аерым очрагы"@tt ;
+	rdfs:label "хӀара долара кхетам бу"@ce ;
+	skos:prefLabel "хӀара долара кхетам бу"@ce ;
+	schema:name "хӀара долара кхетам бу"@ce ;
+	rdfs:label "उदाहरण"@ne ;
+	skos:prefLabel "उदाहरण"@ne ;
+	schema:name "उदाहरण"@ne ;
+	rdfs:label "instancia de"@ast ;
+	skos:prefLabel "instancia de"@ast ;
+	schema:name "instancia de"@ast ;
+	rdfs:label "enghraifft o'r canlynol"@cy ;
+	skos:prefLabel "enghraifft o'r canlynol"@cy ;
+	schema:name "enghraifft o'r canlynol"@cy ;
+	rdfs:label "yra"@lt ;
+	skos:prefLabel "yra"@lt ;
+	schema:name "yra"@lt ;
+	rdfs:label "հասկացության մասնավոր դեպք"@hy ;
+	skos:prefLabel "հասկացության մասնավոր դեպք"@hy ;
+	schema:name "հասկացության մասնավոր դեպք"@hy ;
+	rdfs:label "उदाहरण"@mai ;
+	skos:prefLabel "उदाहरण"@mai ;
+	schema:name "उदाहरण"@mai ;
+	rdfs:label "as en"@frr ;
+	skos:prefLabel "as en"@frr ;
+	schema:name "as en"@frr ;
+	rdfs:label "er eitt"@fo ;
+	skos:prefLabel "er eitt"@fo ;
+	schema:name "er eitt"@fo ;
+	rdfs:label "ಉದಾಹರಣೆಗೆ"@kn ;
+	skos:prefLabel "ಉದಾಹರಣೆಗೆ"@kn ;
+	schema:name "ಉದಾಹರಣೆಗೆ"@kn ;
+	rdfs:label "sampla de"@ga ;
+	skos:prefLabel "sampla de"@ga ;
+	schema:name "sampla de"@ga ;
+	rdfs:label "egzanp nan"@ht ;
+	skos:prefLabel "egzanp nan"@ht ;
+	schema:name "egzanp nan"@ht ;
+	rdfs:label "esas"@io ;
+	skos:prefLabel "esas"@io ;
+	schema:name "esas"@io ;
+	rdfs:label "binon"@vo ;
+	skos:prefLabel "binon"@vo ;
+	schema:name "binon"@vo ;
+	rdfs:label "性質"@zh-hant ;
+	skos:prefLabel "性質"@zh-hant ;
+	schema:name "性質"@zh-hant ;
+	rdfs:label "性质"@zh-hans ;
+	skos:prefLabel "性质"@zh-hans ;
+	schema:name "性质"@zh-hans ;
+	rdfs:label "性質"@zh-hk ;
+	skos:prefLabel "性質"@zh-hk ;
+	schema:name "性質"@zh-hk ;
+	rdfs:label "性质"@zh-cn ;
+	skos:prefLabel "性质"@zh-cn ;
+	schema:name "性质"@zh-cn ;
+	rdfs:label "性質"@zh-mo ;
+	skos:prefLabel "性質"@zh-mo ;
+	schema:name "性質"@zh-mo ;
+	rdfs:label "性质"@zh-sg ;
+	skos:prefLabel "性质"@zh-sg ;
+	schema:name "性质"@zh-sg ;
+	rdfs:label "性質"@zh-tw ;
+	skos:prefLabel "性質"@zh-tw ;
+	schema:name "性質"@zh-tw ;
+	rdfs:label "ਕੀ ਹੈ?"@pa ;
+	skos:prefLabel "ਕੀ ਹੈ?"@pa ;
+	schema:name "ਕੀ ਹੈ?"@pa ;
+	rdfs:label "mînakek ji bo"@ku-latn ;
+	skos:prefLabel "mînakek ji bo"@ku-latn ;
+	schema:name "mînakek ji bo"@ku-latn ;
+	rdfs:label "instancë e"@sq ;
+	skos:prefLabel "instancë e"@sq ;
+	schema:name "instancë e"@sq ;
+	rdfs:label "alimbawa ning"@pam ;
+	skos:prefLabel "alimbawa ning"@pam ;
+	schema:name "alimbawa ning"@pam ;
+	rdfs:label "je"@hsb ;
+	skos:prefLabel "je"@hsb ;
+	schema:name "je"@hsb ;
+	rdfs:label "instancia de"@an ;
+	skos:prefLabel "instancia de"@an ;
+	schema:name "instancia de"@an ;
+	rdfs:label "як намуна аз"@tg ;
+	skos:prefLabel "як намуна аз"@tg ;
+	schema:name "як намуна аз"@tg ;
+	rdfs:label "классы"@ky ;
+	skos:prefLabel "классы"@ky ;
+	schema:name "классы"@ky ;
+	rdfs:label "төшөнсәнең шәхсән осрағы"@ba ;
+	skos:prefLabel "төшөнсәнең шәхсән осрағы"@ba ;
+	schema:name "төшөнсәнең шәхсән осрағы"@ba ;
+	rdfs:label "àkórí"@yo ;
+	skos:prefLabel "àkórí"@yo ;
+	schema:name "àkórí"@yo ;
+	rdfs:label "ಉದಾರ್ಮೆಗ್"@tcy ;
+	skos:prefLabel "ಉದಾರ್ಮೆಗ್"@tcy ;
+	schema:name "ಉದಾರ್ಮೆಗ್"@tcy ;
+	rdfs:label "як намуна аз"@tg-cyrl ;
+	skos:prefLabel "як намуна аз"@tg-cyrl ;
+	schema:name "як намуна аз"@tg-cyrl ;
+	rdfs:label "yak namuna az"@tg-latn ;
+	skos:prefLabel "yak namuna az"@tg-latn ;
+	schema:name "yak namuna az"@tg-latn ;
+	rdfs:label "töşençäneñ ayırım oçrağı"@tt-latn ;
+	skos:prefLabel "töşençäneñ ayırım oçrağı"@tt-latn ;
+	schema:name "töşençäneñ ayırım oçrağı"@tt-latn ;
+	rdfs:label "төшенчәнең аерым очрагы"@tt-cyrl ;
+	skos:prefLabel "төшенчәнең аерым очрагы"@tt-cyrl ;
+	schema:name "төшенчәнең аерым очрагы"@tt-cyrl ;
+	rdfs:label "anlayışın sinfi"@az ;
+	skos:prefLabel "anlayışın sinfi"@az ;
+	schema:name "anlayışın sinfi"@az ;
+	rdfs:label "قسم"@ur ;
+	skos:prefLabel "قسم"@ur ;
+	schema:name "قسم"@ur ;
+	rdfs:label "واحد من"@arz ;
+	skos:prefLabel "واحد من"@arz ;
+	schema:name "واحد من"@arz ;
+	rdfs:label "өйдөбүл сорҕото (биирдэмэ)"@sah ;
+	skos:prefLabel "өйдөбүл сорҕото (биирдэмэ)"@sah ;
+	schema:name "өйдөбүл сорҕото (биирдэмэ)"@sah ;
+	rdfs:label "व्यक्तिः कस्य जातेः?"@sa ;
+	skos:prefLabel "व्यक्तिः कस्य जातेः?"@sa ;
+	schema:name "व्यक्तिः कस्य जातेः?"@sa ;
+	rdfs:label "nateure di l’ elemint"@wa ;
+	skos:prefLabel "nateure di l’ elemint"@wa ;
+	schema:name "nateure di l’ elemint"@wa ;
+	rdfs:label "тайӧ торъя вӧвлӧмтор"@kv ;
+	skos:prefLabel "тайӧ торъя вӧвлӧмтор"@kv ;
+	schema:name "тайӧ торъя вӧвлӧмтор"@kv ;
+	rdfs:label "es"@lfn ;
+	skos:prefLabel "es"@lfn ;
+	schema:name "es"@lfn ;
+	rdfs:label "iri"@ha ;
+	skos:prefLabel "iri"@ha ;
+	schema:name "iri"@ha ;
+	rdfs:label "性质"@zh-my ;
+	skos:prefLabel "性质"@zh-my ;
+	schema:name "性质"@zh-my ;
+	rdfs:label "minangka"@jv ;
+	skos:prefLabel "minangka"@jv ;
+	schema:name "minangka"@jv ;
+	rdfs:label "د بیلګې په توګه"@ps ;
+	skos:prefLabel "د بیلګې په توګه"@ps ;
+	schema:name "د بیلګې په توګه"@ps ;
+	rdfs:label "sī chi̍t ê"@nan ;
+	skos:prefLabel "sī chi̍t ê"@nan ;
+	schema:name "sī chi̍t ê"@nan ;
+	rdfs:label "sê siŏh ciáh"@cdo ;
+	skos:prefLabel "sê siŏh ciáh"@cdo ;
+	schema:name "sê siŏh ciáh"@cdo ;
+	rdfs:label "he yit chak"@hak ;
+	skos:prefLabel "he yit chak"@hak ;
+	schema:name "he yit chak"@hak ;
+	rdfs:label "али ангилалда багтадаг"@bxr ;
+	skos:prefLabel "али ангилалда багтадаг"@bxr ;
+	schema:name "али ангилалда багтадаг"@bxr ;
+	rdfs:label "වර්ගය"@si ;
+	skos:prefLabel "වර්ගය"@si ;
+	schema:name "වර්ගය"@si ;
+	rdfs:label "izahat"@diq ;
+	skos:prefLabel "izahat"@diq ;
+	schema:name "izahat"@diq ;
+	rdfs:label "አይነተ አባል"@am ;
+	skos:prefLabel "አይነተ አባል"@am ;
+	schema:name "አይነተ አባል"@am ;
+	rdfs:label "ကနဦး အားဖြင့်"@my ;
+	skos:prefLabel "ကနဦး အားဖြင့်"@my ;
+	schema:name "ကနဦး အားဖြင့်"@my ;
+	rdfs:label "ߝߌ߬ߛߌ ߛߎ߲ߞߎ߲"@nqo ;
+	skos:prefLabel "ߝߌ߬ߛߌ ߛߎ߲ߞߎ߲"@nqo ;
+	schema:name "ߝߌ߬ߛߌ ߛߎ߲ߞߎ߲"@nqo ;
+	rdfs:label "istansa de"@vec ;
+	skos:prefLabel "istansa de"@vec ;
+	schema:name "istansa de"@vec ;
+	rdfs:label "inggih punika"@ban ;
+	skos:prefLabel "inggih punika"@ban ;
+	schema:name "inggih punika"@ban ;
+	rdfs:label "mmadụ"@ig ;
+	skos:prefLabel "mmadụ"@ig ;
+	schema:name "mmadụ"@ig ;
+	rdfs:label "طبيعة لعنصر"@ary ;
+	skos:prefLabel "طبيعة لعنصر"@ary ;
+	schema:name "طبيعة لعنصر"@ary ;
+	schema:description "that class of which this subject is a particular example and member"@en,
+		"questo elemento è un'istanza di questa classe, categoria o gruppo di oggetti"@it,
+		"cet élément est un exemple spécifique de cette classe qui en précise la nature. Ne pas confondre avec la propriété P279 (sous-classe de)"@fr,
+		"aquela classe a qual este sujeito é um membro e exemplo particular. (O sujeito é tipicamente um membro individual com um Nome Próprio). Diferente da P279 (subclasse de)"@pt-br,
+		"a csoport, amelynek az elem egy példánya vagy tagja; nem egyenlő a P279 (alosztálya ennek) tulajdonsággal"@hu,
+		"ova stavka je primjer ove druge stavke"@hr,
+		"Ausprägung oder Exemplar einer Sache, Mitglied einer Klasse. Zu unterscheiden von P279 (Unterklasse von)."@de,
+		"αυτό το αντικείμενο είναι εξειδικευμένο παράδειγμα και μέλος αυτής της τάξης. Δεν θα πρέπει να συγχέεται με την Ιδιότητα:P279"@el,
+		"kohde, johon ominaisuus liitetään, on esiintymä ominaisuuden arvoksi asetettavasta kohteesta"@fi,
+		"daytoy a banag ket maysa a pagarigan iti daytoy a sabali a banag"@ilo,
+		"dette elementet er et konkret objekt/eksemplar (instans) av denne klassen, kategorien eller objektgruppen"@nb,
+		"este elemento es un ejemplar del otro elemento"@es,
+		"một phân loại mà đối tượng này là một thành viên hoặc một ví dụ cụ thể (đối tượng thường là một thành viên có nhãn tên thích hợp); khác với P279; nhãn này không còn được dùng làm từ khu biệt nữa—hãy dùng P2868 hoặc P3831"@vi,
+		"агульнае азначэньне, чым зьяўляецца аб’ект"@be-tarask,
+		"この項目をインスタンスとする種類・概念"@ja,
+		"that class of which this subject is a particular example and member. (Subject typically an individual member with Proper Name label.) Different from P279 (subclass of)"@en-gb,
+		"that class of which this subject is a particular example and member. (Subject typically an individual member with Proper Name label.) Different from P279 (subclass of)"@en-ca,
+		"stanowi przykład (jest elementem) danej klasy"@pl,
+		"šī vienība ir šīs citas vienības instance"@lv,
+		"aquest element és un objecte concret (instància) d'aquesta classe, categoria o grup d'objectes"@ca,
+		"är ett konkret objekt (instans) av denna klass, kategori eller objektgrupp"@sv,
+		"آیتم مورد نظر یک نوع ... است"@fa,
+		"o elemento é unha instancia doutro elemento"@gl,
+		"Þessi hlutur er dæmi um annan hlut"@is,
+		"dit item is een exemplaar (instantie) van deze groep elementen"@nl,
+		"данный элемент представляет собой конкретный объект (экземпляр / частный случай) класса, категории. Не путать с Property:P279 (\"подкласс от\")."@ru,
+		"цей елемент є конкретним прикладом об'єкта (окремим випадком) такого класу, категорії чи групи об'єктів"@uk,
+		"Ausprägung oder Exemplar einer Sache"@de-at,
+		"dette emne er et konkret objekt af denne kategori, klasse eller objektgruppe."@da,
+		"acest element este un exemplar din clasa definită de acel element"@ro,
+		"Ausprägung oder Exemplar einer Sache"@de-ch,
+		"dit objekt is een eksemplaar (instanty) van disse grup objekten"@nds-nl,
+		"הקבוצה או המחלקה שהנדון שייך אליה"@he,
+		"обектът е инстанция на даден клас"@bg,
+		"यह आइटम इस अन्य आइटम का उदहारण है"@hi,
+		"класа чији је субјекат посебан пример и члан. (Субјекат је обично појединачни члан са ознаком Исправан назив.) Различито од P279 (је подкласа од)"@sr,
+		"ова ставка је конкретан објекат (инстанца) класе, категорије или групе објеката"@sr-ec,
+		"предметот е примерок/случај на друг предмет"@mk,
+		"tato položka je jedna konkrétní věc (exemplář, příklad) patřící do této třídy, kategorie nebo skupiny předmětů"@cs,
+		"આ લેખ આ પ્રકાર અથવા શ્રેણીના અન્ય લેખોનું સચોટ ઉદાહરણ છે."@gu,
+		"di Saach es ene beschtemmpte, konkrete Jääjeschtand vun dä Zoot, udder Jropp, udder dä Aat"@ksh,
+		"tiu ĉi ero estas konkreta aĵo (instanco) de tiu ĉi klaso, kategorio aŭ objektogrupo"@eo,
+		"항목 주제는 다음 종류에 속함 (해당 종류에 속하는 것 중 하나를 고르라고 했을 때 이 항목도 고를 수 있어야 함)"@ko,
+		"natura de, expression de o exemplar de"@oc,
+		"آیتم جور"@mzn,
+		"本項目所屬的性質，本以項目為實例的類別（特別是擁有名稱標籤的獨立個體）；與P279不同；作為限定符的用法已棄用，請改以P2868或P3831代替"@zh,
+		"este item é uma instância deste outro item"@pt,
+		"Butir ini adalah contoh spesifik dan anggota dari sebuah kelas tertentu. Jangan bingung dengan atribut Property:P279 (subkelas dari)."@id,
+		"ova stavka je konkretan objekat (instanca) klase, kategorije ili grupe objekata"@sr-el,
+		"bez' ez eo an elfenn-mañ un draezenn fetis eus ar c'hevrennad, rummad pe strollad traezoù-mañ"@br,
+		"je konkretna izvedba objekta v razredu, kategoriji ali skupini objektov"@sl,
+		"sto fatto o sta cosa è no tipo 'e nato elemento"@nap,
+		"حجيج"@rif,
+		"呢件嘢係以下概念嘅一個實例（特別係嗰啲擁有名號嘅獨立個體），同 P279 唔同，如果您要攞嚟做限定符嘅話，請改用 P2868 或者 P3831 代替。"@yue,
+		"sta cosa è n'esimplari cuncretu di sta classi, di sta catigurìa, o di stu cuncettu"@scn,
+		"elementu hau mota, kategoria edo ale talde honen ale (adibide) konkretu bat da"@eu,
+		"कुनै पनि वस्तुको एक स्थिती जनाउँछ र कुनै पनि समूहको सदस्य रहेको जनाउँछ"@ne,
+		"esti elementu ye un casu concretu d'esta categoría o grupu"@ast,
+		"இவ்வுருப்படியானது, குறிப்பிடப்படுகின்ற வகுப்பைச் சேர்ந்ததும் அவ்வகுப்புக்கான ஒரு திட்டவட்டமான எடுத்துக்காட்டும் ஆகும்."@ta,
+		"本項目所屬的性質，本以項目為實例的類別（特別是擁有名稱標籤的獨立個體）；與P279不同；作為限定符的用法已棄用，請改以P2868或P3831代替"@zh-hant,
+		"本项目所属的性质，本以项目为实例的类别（特别是拥有名称标签的独立个体）；与P279不同；作为限定符的用法已弃用，请改以P2868或P3831代替"@zh-hans,
+		"本項目所屬的性質，本以項目為實例的類別（特別是擁有名稱標籤的獨立個體）；與P279不同；作為限定符的用法已棄用，請改以P2868或P3831代替"@zh-hk,
+		"本项目所属的性质，本以项目为实例的类别（特别是拥有名称标签的独立个体）；与P279不同；作为限定符的用法已弃用，请改以P2868或P3831代替"@zh-cn,
+		"本項目所屬的性質，本以項目為實例的類別（特別是擁有名稱標籤的獨立個體）；與P279不同；作為限定符的用法已棄用，請改以P2868或P3831代替"@zh-mo,
+		"本项目所属的性质，本以项目为实例的类别（特别是拥有名称标签的独立个体）；与P279不同；作为限定符的用法已弃用，请改以P2868或P3831代替"@zh-sg,
+		"本項目所屬的性質，本以項目為實例的類別（特別是擁有名稱標籤的獨立個體）；與P279不同；作為限定符的用法已棄用，請改以P2868或P3831代替"@zh-tw,
+		"აღნიშნული ელემენტი წარმოადგენს კონკრეტული ობიექტის კლასს, კატეგორიას ან ობიექტთა ჯგუფს"@ka,
+		"ky artikull është një shembull specifik dhe një anëtar i asaj klase. Për të mos ngatërrohet me tiparin Property:P279 (nënklasën e)"@sq,
+		"táto položka je jedna konkrétna vec (exemplár, príklad) patriaci do tejto triedy, kategórie alebo skupiny predmetov"@sk,
+		"Bu madde belirli bir örnektir ve o sınıfın bir üyesidir. Özellikle karıştırılmamalıdır:P279 (alt sınıfı)"@tr,
+		"što je objekt?"@hsb,
+		"صنف من الأشياء يوجد شيء واحد منه ولا يتكرر. ويجب أن لا يتم الخلط بينه وبين الخاصية: P279 (نوع فرعي من)"@ar,
+		"คุณลักษณะที่บ่งบอกถึงสิ่งๆ นั้นว่าเป็นตัวอย่างและเป็นสมาชิกของกลุ่มใด (โดยปกติทุกรายการมีป้ายชื่อที่ถูกต้อง) แตกต่างจาก P279 (กลุ่มย่อยของ)"@th,
+		"Element vun enger Grupp, Kategorie oder Klass"@lb,
+		"ಈ ವಿಸಯೊ ಒಂಜಿ ನಿರ್ದಿಸ್ಟೊ ಉದಾರ್ಮೆ ಬುಕ್ಕೊ ಸದಸ್ಯೆ ಆದಿಪ್ಪುನ ಹ್ಯಾಟ್ ವರ್ಗೊ."@tcy,
+		"that cless o that this subject is a particular exemple an member. (Subject teepically an individual member wi Proper Name label.) Different frae P279 (subcless o)."@sco,
+		"bu element müəyyən anlayışın xüsusi halını təsvir edir. P279 (yarımsinif) ilə səhv salmayın."@az,
+		"kelas di mana subjek ini merupakan contoh tertentu dan ahli. (Subjek biasanya ahli individu dengan label Nama Khas.) Berbeza daripada P279 (subkelas)"@ms,
+		"бу тыл ханнык эрэ бөлөх биирдэмэ. Маны кытта булкуйума: Property:P279"@sah,
+		"بنیادی موضوع"@ur,
+		"本项目所属的性质，本以项目为实例的类别（特别是拥有名称标签的独立个体）；与P279不同；作为限定符的用法已弃用，请改以P2868或P3831代替"@zh-my,
+		"սա ինչ է՞"@hy,
+		"klass, mida see konkreetne objekt esindab ja mille üksikliige see objekt on"@et,
+		"dette elementet er eit konkret objekt/eksemplar (døme) av denne klassen, kategorien eller objektgruppa"@nn,
+		"ଏହି ଉଦାହରଣଟି କେଉଁ ଶ୍ରେଣୀ କିମ୍ବା ପ୍ରଜାତିକୁ ସୂଚାଉଛି ଓ ଏହାର ଅନ୍ୟ କୌଣସି ଉଇକି ଡାଟା ଆଇଟମ ସହିତ ସାମଞ୍ଜସ୍ଯ କଣ"@or,
+		"чӣ будани элементро нишон медиҳад. Бо Property:P279 (зернавъ аз) иштибоҳ насозед"@tg,
+		"Butir iko adolah contoh spesifik dan anggota dari sabuah kelas tatantu.Ijan binguang jo atribut Property:P279 (subkelas dari)."@min,
+		"sto elemento la xé on istansa de sta clase, categoria o grupo de ojeti"@vec,
+		"ఈ విషయం ఒక ప్రత్యేక ఉదాహరణ మరియు సభ్యుడు"@te,
+		"onye nwere ụkwụ abụọ na-aga ije"@ig .
+
+wd:Q25720259 owl:sameAs wd:Q5134 .

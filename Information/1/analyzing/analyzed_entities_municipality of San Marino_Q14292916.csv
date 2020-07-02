@@ -1,0 +1,294 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q185412;Serravalle;административно-территориальная единица;1;18;to
+Q206363;Acquaviva;FIPS 10-4 (страны и регионы);1;1;from
+Q206962;Montegiardino;численность населения;1;1;from
+Q206962;Montegiardino;изображение герба;1;1;from
+Q206962;Montegiardino;имеет границы с;1;4;to
+Q206962;Montegiardino;изображение флага;1;1;from
+Q206962;Montegiardino;это частный случай понятия;1;1;from
+Q206962;Montegiardino;код LCNAF;1;1;from
+Q206962;Montegiardino;карта местонахождения;1;1;from
+Q206962;Montegiardino;код VIAF;1;1;from
+Q206962;Montegiardino;изображение;1;2;from
+Q206962;Montegiardino;государство;1;1;from
+Q206962;Montegiardino;административно-территориальная единица;1;2;to
+Q206363;Acquaviva;общая тема категории;1;1;to
+Q206363;Acquaviva;расположение штаб-квартиры;1;2;to
+Q206363;Acquaviva;место рождения;1;1;to
+Q206363;Acquaviva;административно делится на;1;1;to
+Q206962;Montegiardino;категория для людей, родившихся здесь;1;1;from
+Q206962;Montegiardino;код GeoNames;1;1;from
+Q206962;Montegiardino;UN/LOCODE;1;1;from
+Q206962;Montegiardino;часовой пояс;1;1;from
+Q206962;Montegiardino;FIPS 10-4 (страны и регионы);1;1;from
+Q206962;Montegiardino;официальный сайт;1;1;from
+Q206962;Montegiardino;Who's on First ID;1;1;from
+Q206962;Montegiardino;код Freebase;1;1;from
+Q206962;Montegiardino;географические координаты;1;1;from
+Q206962;Montegiardino;местный телефонный код;1;1;from
+Q206962;Montegiardino;код автомобильного номера;1;1;from
+Q206962;Montegiardino;высота над уровнем моря;1;1;from
+Q206962;Montegiardino;геоданные;1;1;from
+Q206962;Montegiardino;категория на Викискладе;1;1;from
+Q206962;Montegiardino;ISO 3166-2;1;1;from
+Q206962;Montegiardino;почтовый индекс;1;1;from
+Q206962;Montegiardino;код BabelNet;1;1;from
+Q206962;Montegiardino;площадь;1;1;from
+Q206363;Acquaviva;основная категория по теме;1;1;from
+Q206363;Acquaviva;официальный сайт;1;1;from
+Q206356;Faetano;код Freebase;1;1;from
+Q206363;Acquaviva;Who's on First ID;1;1;from
+Q206363;Acquaviva;это частный случай понятия;1;1;from
+Q206363;Acquaviva;карта местонахождения;1;1;from
+Q206363;Acquaviva;город-побратим;1;1;from
+Q206363;Acquaviva;изображение;1;1;from
+Q206363;Acquaviva;государство;1;1;from
+Q206363;Acquaviva;административно-территориальная единица;1;4;to
+Q206356;Faetano;общая тема категории;1;1;to
+Q206356;Faetano;место рождения;1;4;to
+Q206356;Faetano;место создания;1;1;to
+Q206356;Faetano;расположение штаб-квартиры;1;2;to
+Q206356;Faetano;категория объединяет темы;1;1;to
+Q206356;Faetano;административно делится на;1;1;to
+Q206356;Faetano;основная категория по теме;1;1;from
+Q206356;Faetano;FIPS 10-4 (страны и регионы);1;1;from
+Q206356;Faetano;официальный сайт;1;1;from
+Q206363;Acquaviva;изображение флага;1;1;from
+Q206363;Acquaviva;имеет границы с;1;4;to
+Q206363;Acquaviva;изображение герба;1;1;from
+Q206363;Acquaviva;категория на Викискладе;1;1;from
+Q206363;Acquaviva;код Freebase;1;1;from
+Q206363;Acquaviva;географические координаты;1;1;from
+Q206363;Acquaviva;местный телефонный код;1;1;from
+Q206363;Acquaviva;часовой пояс;1;1;from
+Q206363;Acquaviva;код автомобильного номера;1;1;from
+Q206363;Acquaviva;геоданные;1;1;from
+Q206363;Acquaviva;ISO 3166-2;1;1;from
+Q206363;Acquaviva;численность населения;1;1;from
+Q206363;Acquaviva;почтовый индекс;1;1;from
+Q206363;Acquaviva;площадь;1;1;from
+Q206363;Acquaviva;высота над уровнем моря;1;1;from
+Q206363;Acquaviva;UN/LOCODE;1;1;from
+Q206363;Acquaviva;код GeoNames;1;1;from
+Q206363;Acquaviva;WOEID;1;1;from
+Q206962;Montegiardino;основная категория по теме;1;1;from
+Q206962;Montegiardino;место в MusicBrainz;1;1;from
+Q206962;Montegiardino;административно делится на;1;1;to
+Q206962;Montegiardino;место рождения;1;5;to
+Q206980;Chiesanuova;код BabelNet;1;1;from
+Q206980;Chiesanuova;площадь;1;1;from
+Q206980;Chiesanuova;высота над уровнем моря;1;1;from
+Q206980;Chiesanuova;UN/LOCODE;1;1;from
+Q206980;Chiesanuova;код GeoNames;1;1;from
+Q206980;Chiesanuova;WOEID;1;1;from
+Q206980;Chiesanuova;численность населения;1;1;from
+Q206980;Chiesanuova;изображение герба;1;1;from
+Q206980;Chiesanuova;имеет границы с;1;5;to
+Q206980;Chiesanuova;изображение флага;1;1;from
+Q206980;Chiesanuova;это частный случай понятия;1;1;from
+Q206980;Chiesanuova;карта местонахождения;1;1;from
+Q206980;Chiesanuova;изображение;1;1;from
+Q206980;Chiesanuova;государство;1;1;from
+Q206980;Chiesanuova;административно-территориальная единица;1;8;to
+Q206980;Chiesanuova;почтовый индекс;1;1;from
+Q206980;Chiesanuova;ISO 3166-2;1;1;from
+Q206980;Chiesanuova;категория на Викискладе;1;1;from
+Q206980;Chiesanuova;FIPS 10-4 (страны и регионы);1;1;from
+Q18088473;Q18088473;государство;1;1;from
+Q206980;Chiesanuova;общая тема категории;1;1;to
+Q206980;Chiesanuova;расположение штаб-квартиры;1;1;to
+Q206980;Chiesanuova;место рождения;1;2;to
+Q206980;Chiesanuova;административно делится на;1;1;to
+Q206980;Chiesanuova;основная категория по теме;1;1;from
+Q206980;Chiesanuova;официальный сайт;1;1;from
+Q206980;Chiesanuova;геоданные;1;1;from
+Q206980;Chiesanuova;Who's on First ID;1;1;from
+Q206980;Chiesanuova;код Freebase;1;1;from
+Q206980;Chiesanuova;географические координаты;1;1;from
+Q206980;Chiesanuova;местный телефонный код;1;1;from
+Q206980;Chiesanuova;часовой пояс;1;1;from
+Q206980;Chiesanuova;код автомобильного номера;1;1;from
+Q206968;Fiorentino;общая тема категории;1;1;to
+Q206968;Fiorentino;расположение штаб-квартиры;1;2;to
+Q206968;Fiorentino;место рождения;1;2;to
+Q206968;Fiorentino;карта местонахождения;1;1;from
+Q206968;Fiorentino;код GeoNames;1;1;from
+Q206968;Fiorentino;численность населения;1;1;from
+Q206968;Fiorentino;изображение герба;1;1;from
+Q206968;Fiorentino;имеет границы с;1;7;to
+Q206968;Fiorentino;изображение флага;1;1;from
+Q206968;Fiorentino;это частный случай понятия;1;1;from
+Q206968;Fiorentino;изображение;1;1;from
+Q206968;Fiorentino;UN/LOCODE;1;1;from
+Q206968;Fiorentino;государство;1;1;from
+Q206968;Fiorentino;административно-территориальная единица;1;5;to
+Q206962;Montegiardino;расположение штаб-квартиры;1;1;to
+Q206962;Montegiardino;общая тема категории;1;1;to
+Q206962;Montegiardino;юрисдикция распространяется на;1;2;to
+Q206962;Montegiardino;категория объединяет темы;1;1;to
+Q206968;Fiorentino;название на языке оригинала;1;1;from
+Q206968;Fiorentino;высота над уровнем моря;1;1;from
+Q206968;Fiorentino;административно делится на;1;1;to
+Q206968;Fiorentino;географические координаты;1;1;from
+Q206968;Fiorentino;место в MusicBrainz;1;1;from
+Q206968;Fiorentino;основная категория по теме;1;1;from
+Q206968;Fiorentino;FIPS 10-4 (страны и регионы);1;1;from
+Q206968;Fiorentino;официальный сайт;1;1;from
+Q206968;Fiorentino;Who's on First ID;1;1;from
+Q206968;Fiorentino;код Freebase;1;1;from
+Q206968;Fiorentino;местный телефонный код;1;1;from
+Q206968;Fiorentino;площадь;1;1;from
+Q206968;Fiorentino;часовой пояс;1;1;from
+Q206968;Fiorentino;код автомобильного номера;1;1;from
+Q206968;Fiorentino;геоданные;1;1;from
+Q206968;Fiorentino;категория на Викискладе;1;1;from
+Q206968;Fiorentino;ISO 3166-2;1;1;from
+Q206968;Fiorentino;почтовый индекс;1;1;from
+Q206356;Faetano;Who's on First ID;1;1;from
+Q206356;Faetano;географические координаты;1;1;from
+Q185412;Serravalle;государство;1;1;from
+Q185412;Serravalle;место смерти;1;1;to
+Q201368;Borgo Maggiore;имеет границы с;1;7;to
+Q201368;Borgo Maggiore;изображение флага;1;1;from
+Q201368;Borgo Maggiore;это частный случай понятия;1;1;from
+Q201368;Borgo Maggiore;код LCNAF;1;1;from
+Q201368;Borgo Maggiore;карта местонахождения;1;1;from
+Q201368;Borgo Maggiore;код VIAF;1;1;from
+Q201368;Borgo Maggiore;город-побратим;1;2;to
+Q201368;Borgo Maggiore;изображение;1;1;from
+Q201368;Borgo Maggiore;государство;1;1;from
+Q201368;Borgo Maggiore;административно-территориальная единица;1;13;to
+Q185412;Serravalle;общая тема категории;1;1;to
+Q185412;Serravalle;местонахождение;1;2;to
+Q185412;Serravalle;расположение штаб-квартиры;1;7;to
+Q185412;Serravalle;место публикации;1;1;to
+Q185412;Serravalle;категория объединяет темы;1;2;to
+Q201368;Borgo Maggiore;изображение герба;1;1;from
+Q201368;Borgo Maggiore;численность населения;1;1;from
+Q201368;Borgo Maggiore;WOEID;1;1;from
+Q201368;Borgo Maggiore;почтовый индекс;1;1;from
+Q201368;Borgo Maggiore;географические координаты;1;1;from
+Q201368;Borgo Maggiore;идентификатор местоположения ArchINFORM;1;1;from
+Q201368;Borgo Maggiore;код автомобильного номера;1;1;from
+Q201368;Borgo Maggiore;геоданные;1;1;from
+Q201368;Borgo Maggiore;категория на Викискладе;1;1;from
+Q201368;Borgo Maggiore;ISO 3166-2;1;1;from
+Q201368;Borgo Maggiore;площадь;1;1;from
+Q201368;Borgo Maggiore;код в энциклопедии «Британника онлайн»;1;1;from
+Q201368;Borgo Maggiore;высота над уровнем моря;1;1;from
+Q201368;Borgo Maggiore;UN/LOCODE;1;1;from
+Q201368;Borgo Maggiore;категория для людей, связанных с местностью;1;1;from
+Q201368;Borgo Maggiore;код TGN;1;1;from
+Q201368;Borgo Maggiore;код GeoNames;1;1;from
+Q201368;Borgo Maggiore;категория для людей, родившихся здесь;1;1;from
+Q185412;Serravalle;место рождения;1;11;to
+Q185412;Serravalle;административно делится на;1;1;to
+Q206356;Faetano;местный телефонный код;1;1;from
+Q185412;Serravalle;основная категория по теме;1;1;from
+Q185412;Serravalle;код TGN;1;1;from
+Q185412;Serravalle;код GeoNames;1;1;from
+Q185412;Serravalle;категория для людей, родившихся здесь;1;1;from
+Q185412;Serravalle;код в энциклопедии «Британника онлайн»;1;1;from
+Q185412;Serravalle;WOEID;1;1;from
+Q185412;Serravalle;численность населения;1;1;from
+Q185412;Serravalle;изображение герба;1;1;from
+Q185412;Serravalle;имеет границы с;1;5;to
+Q185412;Serravalle;изображение флага;1;1;from
+Q185412;Serravalle;это частный случай понятия;1;1;from
+Q185412;Serravalle;код LCNAF;1;1;from
+Q185412;Serravalle;карта местонахождения;1;1;from
+Q185412;Serravalle;код VIAF;1;1;from
+Q185412;Serravalle;город-побратим;1;1;to
+Q185412;Serravalle;изображение;1;2;from
+Q185412;Serravalle;категория для людей, связанных с местностью;1;1;from
+Q185412;Serravalle;UN/LOCODE;1;1;from
+Q185412;Serravalle;высота над уровнем моря;1;1;from
+Q185412;Serravalle;местный телефонный код;1;1;from
+Q185412;Serravalle;FIPS 10-4 (страны и регионы);1;1;from
+Q185412;Serravalle;официальный сайт;1;1;from
+Q185412;Serravalle;Who's on First ID;1;1;from
+Q185412;Serravalle;код Freebase;1;1;from
+Q185412;Serravalle;географические координаты;1;1;from
+Q185412;Serravalle;идентификатор местоположения ArchINFORM;1;1;from
+Q185412;Serravalle;часовой пояс;1;1;from
+Q185412;Serravalle;площадь;1;1;from
+Q185412;Serravalle;код автомобильного номера;1;1;from
+Q185412;Serravalle;геоданные;1;1;from
+Q185412;Serravalle;категория на Викискладе;1;1;from
+Q185412;Serravalle;ISO 3166-2;1;1;from
+Q185412;Serravalle;почтовый индекс;1;1;from
+Q185412;Serravalle;код BNF;1;1;from
+Q201368;Borgo Maggiore;код Freebase;1;1;from
+Q201368;Borgo Maggiore;Who's on First ID;1;1;from
+Q201368;Borgo Maggiore;официальный сайт;1;1;from
+Q201368;Borgo Maggiore;FIPS 10-4 (страны и регионы);1;1;from
+Q206356;Faetano;код LCNAF;1;1;from
+Q206356;Faetano;карта местонахождения;1;1;from
+Q206356;Faetano;код VIAF;1;1;from
+Q206356;Faetano;изображение;1;1;from
+Q206356;Faetano;государство;1;1;from
+Q206356;Faetano;административно-территориальная единица;1;6;to
+Q202202;Domagnano;общая тема категории;1;1;to
+Q202202;Domagnano;категория объединяет темы;1;2;to
+Q202202;Domagnano;расположение штаб-квартиры;1;6;to
+Q202202;Domagnano;место рождения;1;2;to
+Q202202;Domagnano;административно делится на;1;1;to
+Q202202;Domagnano;основная категория по теме;1;1;from
+Q202202;Domagnano;FIPS 10-4 (страны и регионы);1;1;from
+Q202202;Domagnano;официальный сайт;1;1;from
+Q202202;Domagnano;Who's on First ID;1;1;from
+Q206356;Faetano;это частный случай понятия;1;1;from
+Q206356;Faetano;изображение флага;1;1;from
+Q206356;Faetano;имеет границы с;1;7;to
+Q206356;Faetano;площадь;1;1;from
+Q206356;Faetano;часовой пояс;1;1;from
+Q206356;Faetano;код автомобильного номера;1;1;from
+Q206356;Faetano;геоданные;1;1;from
+Q206356;Faetano;категория на Викискладе;1;1;from
+Q206356;Faetano;ISO 3166-2;1;1;from
+Q206356;Faetano;почтовый индекс;1;1;from
+Q206356;Faetano;высота над уровнем моря;1;1;from
+Q206356;Faetano;изображение герба;1;1;from
+Q206356;Faetano;UN/LOCODE;1;1;from
+Q206356;Faetano;код TGN;1;1;from
+Q206356;Faetano;код GeoNames;1;1;from
+Q206356;Faetano;категория для людей, родившихся здесь;1;1;from
+Q206356;Faetano;WOEID;1;1;from
+Q206356;Faetano;численность населения;1;1;from
+Q202202;Domagnano;код Freebase;1;1;from
+Q202202;Domagnano;географические координаты;1;2;from
+Q202202;Domagnano;местный телефонный код;1;1;from
+Q201368;Borgo Maggiore;общая тема категории;1;1;to
+Q202202;Domagnano;карта местонахождения;1;1;from
+Q202202;Domagnano;код GND;1;1;from
+Q202202;Domagnano;код VIAF;1;1;from
+Q202202;Domagnano;изображение;1;1;from
+Q202202;Domagnano;государство;1;1;from
+Q202202;Domagnano;административно-территориальная единица;1;7;to
+Q201368;Borgo Maggiore;местонахождение;1;1;to
+Q202202;Domagnano;это частный случай понятия;1;1;from
+Q201368;Borgo Maggiore;расположение штаб-квартиры;1;9;to
+Q201368;Borgo Maggiore;место смерти;1;6;to
+Q201368;Borgo Maggiore;категория объединяет темы;1;2;to
+Q201368;Borgo Maggiore;место рождения;1;32;to
+Q201368;Borgo Maggiore;административно делится на;1;1;to
+Q201368;Borgo Maggiore;основная категория по теме;1;1;from
+Q202202;Domagnano;код LCNAF;1;1;from
+Q202202;Domagnano;изображение флага;1;1;from
+Q202202;Domagnano;часовой пояс;1;1;from
+Q202202;Domagnano;высота над уровнем моря;1;1;from
+Q202202;Domagnano;код автомобильного номера;1;1;from
+Q202202;Domagnano;геоданные;1;1;from
+Q202202;Domagnano;категория на Викискладе;1;1;from
+Q202202;Domagnano;ISO 3166-2;1;1;from
+Q202202;Domagnano;почтовый индекс;1;1;from
+Q202202;Domagnano;площадь;1;1;from
+Q202202;Domagnano;UN/LOCODE;1;1;from
+Q202202;Domagnano;имеет границы с;1;4;to
+Q202202;Domagnano;категория для людей, связанных с местностью;1;1;from
+Q202202;Domagnano;код GeoNames;1;1;from
+Q202202;Domagnano;категория для людей, родившихся здесь;1;1;from
+Q202202;Domagnano;WOEID;1;1;from
+Q202202;Domagnano;численность населения;1;1;from
+Q202202;Domagnano;изображение герба;1;1;from
+Q18088473;Q18088473;это частный случай понятия;1;1;from

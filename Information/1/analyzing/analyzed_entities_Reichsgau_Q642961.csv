@@ -1,0 +1,131 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q315432;Reichsgau Sudetenland;административно-территориальная единица;1;5;to
+Q7309912;Reichsgau Oberdonau;столица;1;1;from
+Q7309912;Reichsgau Oberdonau;код GND;1;1;from
+Q7309912;Reichsgau Oberdonau;код VIAF;1;1;from
+Q7309912;Reichsgau Oberdonau;государство;1;1;from
+Q7309912;Reichsgau Oberdonau;административно-территориальная единица;1;1;from
+Q7309911;Reichsgau Salzburg;административно делится на;1;1;to
+Q7309911;Reichsgau Salzburg;дата основания/создания/возникновения;1;1;from
+Q7309911;Reichsgau Salzburg;это частный случай понятия;1;1;from
+Q7309911;Reichsgau Salzburg;код GND;1;1;from
+Q7309911;Reichsgau Salzburg;код VIAF;1;1;from
+Q7309911;Reichsgau Salzburg;государство;1;1;from
+Q7309911;Reichsgau Salzburg;административно-территориальная единица;1;1;from
+Q7309910;Reichsgau Kärnten;административно делится на;1;1;to
+Q7309910;Reichsgau Kärnten;дата основания/создания/возникновения;1;1;from
+Q7309910;Reichsgau Kärnten;это частный случай понятия;1;1;from
+Q7309910;Reichsgau Kärnten;код GND;1;1;from
+Q7309910;Reichsgau Kärnten;код VIAF;1;1;from
+Q7309910;Reichsgau Kärnten;государство;1;1;from
+Q7309910;Reichsgau Kärnten;административно-территориальная единица;1;1;from
+Q2436202;Reichsgau Tirol-Vorarlberg;административно делится на;1;1;to
+Q2436202;Reichsgau Tirol-Vorarlberg;дата основания/создания/возникновения;1;1;from
+Q2436202;Reichsgau Tirol-Vorarlberg;это частный случай понятия;1;1;from
+Q2436202;Reichsgau Tirol-Vorarlberg;код GND;1;1;from
+Q2436202;Reichsgau Tirol-Vorarlberg;код VIAF;1;1;from
+Q2436202;Reichsgau Tirol-Vorarlberg;государство;1;1;from
+Q2436202;Reichsgau Tirol-Vorarlberg;административно-территориальная единица;1;1;from
+Q2071367;Reichsgau Flandern;код Freebase;1;1;from
+Q2071367;Reichsgau Flandern;дата основания/создания/возникновения;1;1;from
+Q2071367;Reichsgau Flandern;изображение герба;1;1;from
+Q2071367;Reichsgau Flandern;изображение флага;1;1;from
+Q7309912;Reichsgau Oberdonau;это частный случай понятия;1;1;from
+Q7309912;Reichsgau Oberdonau;дата основания/создания/возникновения;1;1;from
+Q315432;Reichsgau Sudetenland;административно делится на;1;3;from
+Q7309912;Reichsgau Oberdonau;WorldCat Identities ID;1;1;from
+Q7309916;Reichsgau Wien;дата основания/создания/возникновения;1;1;from
+Q7309916;Reichsgau Wien;это частный случай понятия;1;1;from
+Q7309916;Reichsgau Wien;код GND;1;1;from
+Q7309916;Reichsgau Wien;код VIAF;1;1;from
+Q7309916;Reichsgau Wien;государство;1;1;from
+Q7309916;Reichsgau Wien;административно-территориальная единица;1;1;from
+Q7309915;Reichsgau Niederdonau;административно делится на;1;1;to
+Q7309915;Reichsgau Niederdonau;является столицей;1;1;to
+Q7309915;Reichsgau Niederdonau;дата прекращения существования;1;1;from
+Q7309915;Reichsgau Niederdonau;дата основания/создания/возникновения;1;1;from
+Q7309915;Reichsgau Niederdonau;столица;1;1;from
+Q7309915;Reichsgau Niederdonau;это частный случай понятия;1;1;from
+Q7309915;Reichsgau Niederdonau;код GND;1;1;from
+Q7309915;Reichsgau Niederdonau;код VIAF;1;1;from
+Q7309915;Reichsgau Niederdonau;государство;1;1;from
+Q7309915;Reichsgau Niederdonau;административно-территориальная единица;1;1;from
+Q7309913;Reichsgau Steiermark;является столицей;1;1;to
+Q7309913;Reichsgau Steiermark;административно делится на;1;1;to
+Q7309913;Reichsgau Steiermark;дата прекращения существования;1;1;from
+Q7309913;Reichsgau Steiermark;дата основания/создания/возникновения;1;1;from
+Q7309913;Reichsgau Steiermark;столица;1;1;from
+Q7309913;Reichsgau Steiermark;это частный случай понятия;1;1;from
+Q7309913;Reichsgau Steiermark;код GND;1;1;from
+Q7309913;Reichsgau Steiermark;код VIAF;1;1;from
+Q7309913;Reichsgau Steiermark;государство;1;1;from
+Q7309913;Reichsgau Steiermark;административно-территориальная единица;1;1;from
+Q7309912;Reichsgau Oberdonau;является столицей;1;1;to
+Q7309912;Reichsgau Oberdonau;основная тема;1;1;to
+Q7309912;Reichsgau Oberdonau;административно делится на;1;1;to
+Q2071367;Reichsgau Flandern;столица;1;1;from
+Q2071367;Reichsgau Flandern;это частный случай понятия;1;1;from
+Q2071367;Reichsgau Flandern;государство;1;2;from
+Q2071357;Reichsgau Wallonien;код Freebase;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;место рождения;1;2;to
+Q510368;Reichsgau Danzig-West Prussia;основная категория по теме;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;категория карт на Викискладе;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;код Freebase;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;дата прекращения существования;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;дата основания/создания/возникновения;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;категория на Викискладе;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;название на языке оригинала;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;столица;1;2;from
+Q510368;Reichsgau Danzig-West Prussia;это частный случай понятия;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;код GND;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;код VIAF;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;государство;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;предыдущее по порядку;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;административно делится на;1;3;from
+Q315432;Reichsgau Sudetenland;является столицей;1;1;to
+Q315432;Reichsgau Sudetenland;код Freebase;1;1;from
+Q315432;Reichsgau Sudetenland;дата прекращения существования;1;1;from
+Q315432;Reichsgau Sudetenland;дата основания/создания/возникновения;1;1;from
+Q315432;Reichsgau Sudetenland;категория на Викискладе;1;1;from
+Q315432;Reichsgau Sudetenland;используемый язык;1;1;from
+Q315432;Reichsgau Sudetenland;изображение герба;1;1;from
+Q315432;Reichsgau Sudetenland;глава правительства;1;2;from
+Q315432;Reichsgau Sudetenland;изображение флага;1;1;from
+Q315432;Reichsgau Sudetenland;официальный язык;1;1;from
+Q315432;Reichsgau Sudetenland;столица;1;2;from
+Q315432;Reichsgau Sudetenland;это частный случай понятия;1;1;from
+Q315432;Reichsgau Sudetenland;изображение;1;1;from
+Q315432;Reichsgau Sudetenland;государство;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;следующее по порядку;1;1;to
+Q510368;Reichsgau Danzig-West Prussia;категория объединяет темы;1;1;to
+Q510368;Reichsgau Danzig-West Prussia;административно-территориальная единица;1;3;to
+Q694187;Reichsgau Wartheland;код NKC;1;1;from
+Q2071357;Reichsgau Wallonien;дата прекращения существования;1;1;from
+Q2071357;Reichsgau Wallonien;дата основания/создания/возникновения;1;1;from
+Q2071357;Reichsgau Wallonien;изображение герба;1;1;from
+Q2071357;Reichsgau Wallonien;изображение флага;1;1;from
+Q2071357;Reichsgau Wallonien;столица;1;1;from
+Q2071357;Reichsgau Wallonien;это частный случай понятия;1;1;from
+Q2071357;Reichsgau Wallonien;государство;1;2;from
+Q694187;Reichsgau Wartheland;является столицей;1;1;to
+Q694187;Reichsgau Wartheland;общая тема категории;1;1;to
+Q694187;Reichsgau Wartheland;место смерти;1;1;to
+Q694187;Reichsgau Wartheland;местонахождение;1;1;to
+Q694187;Reichsgau Wartheland;место рождения;1;1;to
+Q694187;Reichsgau Wartheland;основная категория по теме;1;1;from
+Q694187;Reichsgau Wartheland;код Freebase;1;1;from
+Q510368;Reichsgau Danzig-West Prussia;общая тема категории;1;1;to
+Q694187;Reichsgau Wartheland;географические координаты;1;1;from
+Q694187;Reichsgau Wartheland;дата прекращения существования;1;1;from
+Q694187;Reichsgau Wartheland;дата основания/создания/возникновения;1;1;from
+Q694187;Reichsgau Wartheland;площадь;1;1;from
+Q694187;Reichsgau Wartheland;столица;1;1;from
+Q694187;Reichsgau Wartheland;это частный случай понятия;1;1;from
+Q694187;Reichsgau Wartheland;часть света;1;1;from
+Q694187;Reichsgau Wartheland;код GND;1;1;from
+Q694187;Reichsgau Wartheland;код VIAF;1;1;from
+Q694187;Reichsgau Wartheland;государство;1;1;from
+Q694187;Reichsgau Wartheland;административно делится на;1;3;from
+Q694187;Reichsgau Wartheland;административно-территориальная единица;1;4;to
+Q510368;Reichsgau Danzig-West Prussia;является столицей;1;1;to
+Q7309916;Reichsgau Wien;административно делится на;1;1;to

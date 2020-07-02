@@ -1,0 +1,342 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q387293;Anse Etoile;административно-территориальная единица;1;1;from
+Q2667004;Au Cap;административно-территориальная единица;1;1;from
+Q2667004;Au Cap;код Freebase;1;1;from
+Q2667004;Au Cap;географические координаты;1;1;from
+Q2667004;Au Cap;ISO 3166-2;1;1;from
+Q2667004;Au Cap;высота над уровнем моря;1;1;from
+Q2667004;Au Cap;код GeoNames;1;1;from
+Q2667004;Au Cap;это частный случай понятия;1;1;from
+Q2667004;Au Cap;карта местонахождения;1;1;from
+Q2667004;Au Cap;государство;1;1;from
+Q2494551;Baie Lazare;административно делится на;1;1;to
+Q2494551;Baie Lazare;высота над уровнем моря;1;1;from
+Q2494551;Baie Lazare;место рождения;1;1;to
+Q2494551;Baie Lazare;местонахождение;1;1;to
+Q2494551;Baie Lazare;место в MusicBrainz;1;1;from
+Q2494551;Baie Lazare;FIPS 10-4 (страны и регионы);1;1;from
+Q2494551;Baie Lazare;официальный сайт;1;1;from
+Q2494551;Baie Lazare;Who's on First ID;1;1;from
+Q2494551;Baie Lazare;код Freebase;1;1;from
+Q2494551;Baie Lazare;географические координаты;1;1;from
+Q2667004;Au Cap;Who's on First ID;1;1;from
+Q2667004;Au Cap;официальный сайт;1;1;from
+Q2667004;Au Cap;FIPS 10-4 (страны и регионы);1;1;from
+Q2667004;Au Cap;административно делится на;1;1;to
+Q2877260;Pointe La Rue;код GeoNames;1;1;from
+Q2877260;Pointe La Rue;это частный случай понятия;1;1;from
+Q2877260;Pointe La Rue;государство;1;1;from
+Q2877260;Pointe La Rue;административно-территориальная единица;1;1;from
+Q2718315;Roche Caiman;административно делится на;1;1;to
+Q2718315;Roche Caiman;FIPS 10-4 (страны и регионы);1;1;from
+Q2718315;Roche Caiman;официальный сайт;1;1;from
+Q2718315;Roche Caiman;Who's on First ID;1;1;from
+Q2718315;Roche Caiman;код Freebase;1;1;from
+Q2718315;Roche Caiman;географические координаты;1;1;from
+Q2718315;Roche Caiman;ISO 3166-2;1;1;from
+Q2718315;Roche Caiman;площадь;1;1;from
+Q2718315;Roche Caiman;код GeoNames;1;1;from
+Q2718315;Roche Caiman;это частный случай понятия;1;1;from
+Q2718315;Roche Caiman;карта местонахождения;1;1;from
+Q2718315;Roche Caiman;государство;1;1;from
+Q2718315;Roche Caiman;административно-территориальная единица;1;1;to
+Q2494551;Baie Lazare;ISO 3166-2;1;1;from
+Q2494551;Baie Lazare;код GeoNames;1;1;from
+Q2278695;Saint Louis;ISO 3166-2;1;1;from
+Q2280357;Les Mamelles;это частный случай понятия;1;1;from
+Q2280357;Les Mamelles;официальный сайт;1;1;from
+Q2280357;Les Mamelles;Who's on First ID;1;1;from
+Q2280357;Les Mamelles;код Freebase;1;1;from
+Q2280357;Les Mamelles;географические координаты;1;1;from
+Q2280357;Les Mamelles;категория на Викискладе;1;1;from
+Q2280357;Les Mamelles;ISO 3166-2;1;1;from
+Q2280357;Les Mamelles;площадь;1;1;from
+Q2280357;Les Mamelles;код GeoNames;1;1;from
+Q2280357;Les Mamelles;карта местонахождения;1;1;from
+Q2494551;Baie Lazare;это частный случай понятия;1;1;from
+Q2280357;Les Mamelles;государство;1;1;from
+Q2280357;Les Mamelles;административно-территориальная единица;1;1;from
+Q2278695;Saint Louis;административно делится на;1;1;to
+Q2278695;Saint Louis;место жительства;1;1;to
+Q2278695;Saint Louis;FIPS 10-4 (страны и регионы);1;1;from
+Q2278695;Saint Louis;официальный сайт;1;1;from
+Q2278695;Saint Louis;Who's on First ID;1;1;from
+Q2278695;Saint Louis;код Freebase;1;1;from
+Q2280357;Les Mamelles;FIPS 10-4 (страны и регионы);1;1;from
+Q2280357;Les Mamelles;административно делится на;1;1;to
+Q2287379;Takamaka;административно-территориальная единица;1;1;to
+Q2287379;Takamaka;государство;1;1;from
+Q2494551;Baie Lazare;государство;1;1;from
+Q2494551;Baie Lazare;административно-территориальная единица;1;1;to
+Q2287379;Takamaka;административно делится на;1;1;to
+Q2287379;Takamaka;место рождения;1;1;to
+Q2287379;Takamaka;место в MusicBrainz;1;1;from
+Q2287379;Takamaka;FIPS 10-4 (страны и регионы);1;1;from
+Q2287379;Takamaka;официальный сайт;1;1;from
+Q2287379;Takamaka;Who's on First ID;1;1;from
+Q2287379;Takamaka;код Freebase;1;1;from
+Q2287379;Takamaka;географические координаты;1;3;from
+Q2287379;Takamaka;ISO 3166-2;1;1;from
+Q2287379;Takamaka;код BabelNet;1;1;from
+Q2287379;Takamaka;код GNS;1;1;from
+Q2287379;Takamaka;площадь;1;1;from
+Q2287379;Takamaka;код GeoNames;1;1;from
+Q2287379;Takamaka;код в Большой каталанской энциклопедии;1;1;from
+Q2287379;Takamaka;это частный случай понятия;1;1;from
+Q2877260;Pointe La Rue;площадь;1;1;from
+Q2877260;Pointe La Rue;ISO 3166-2;1;1;from
+Q2877260;Pointe La Rue;географические координаты;1;1;from
+Q3241696;Glacis;географические координаты;1;1;from
+Q3245439;Bel Ombre;государство;1;1;from
+Q3245439;Bel Ombre;административно-территориальная единица;1;1;to
+Q3241696;Glacis;административно делится на;1;1;to
+Q3241696;Glacis;место смерти;1;1;to
+Q3241696;Glacis;FIPS 10-4 (страны и регионы);1;1;from
+Q3241696;Glacis;официальный сайт;1;1;from
+Q3241696;Glacis;Who's on First ID;1;1;from
+Q3241696;Glacis;код Freebase;1;1;from
+Q3241696;Glacis;ISO 3166-2;1;1;from
+Q2877260;Pointe La Rue;код Freebase;1;1;from
+Q3241696;Glacis;не путать с;1;1;to
+Q3241696;Glacis;код GeoNames;1;1;from
+Q3241696;Glacis;это частный случай понятия;1;1;from
+Q3241696;Glacis;государство;1;1;from
+Q3241696;Glacis;административно-территориальная единица;1;1;to
+Q3241690;Grand'Anse Mahé;административно делится на;1;1;to
+Q3241690;Grand'Anse Mahé;FIPS 10-4 (страны и регионы);1;1;from
+Q3241690;Grand'Anse Mahé;официальный сайт;1;1;from
+Q3245439;Bel Ombre;это частный случай понятия;1;1;from
+Q3245439;Bel Ombre;код GeoNames;1;1;from
+Q3245439;Bel Ombre;ISO 3166-2;1;1;from
+Q3245439;Bel Ombre;категория на Викискладе;1;1;from
+Q7479348;Beau Vallon;FIPS 10-4 (страны и регионы);1;1;from
+Q7479348;Beau Vallon;официальный сайт;1;1;from
+Q7479348;Beau Vallon;Who's on First ID;1;1;from
+Q7479348;Beau Vallon;код Freebase;1;1;from
+Q7479348;Beau Vallon;географические координаты;1;1;from
+Q7479348;Beau Vallon;ISO 3166-2;1;1;from
+Q7479348;Beau Vallon;высота над уровнем моря;1;1;from
+Q7479348;Beau Vallon;код GeoNames;1;1;from
+Q7479348;Beau Vallon;это частный случай понятия;1;1;from
+Q7479348;Beau Vallon;государство;1;1;from
+Q7479348;Beau Vallon;административно-территориальная единица;1;1;from
+Q3245439;Bel Ombre;административно делится на;1;1;to
+Q3245439;Bel Ombre;FIPS 10-4 (страны и регионы);1;1;from
+Q3245439;Bel Ombre;официальный сайт;1;1;from
+Q3245439;Bel Ombre;Who's on First ID;1;1;from
+Q3245439;Bel Ombre;код Freebase;1;1;from
+Q3245439;Bel Ombre;географические координаты;1;1;from
+Q3241690;Grand'Anse Mahé;Who's on First ID;1;1;from
+Q3241690;Grand'Anse Mahé;код Freebase;1;1;from
+Q3241690;Grand'Anse Mahé;географические координаты;1;1;from
+Q3241674;Anse Royale;место смерти;1;1;to
+Q3241674;Anse Royale;FIPS 10-4 (страны и регионы);1;1;from
+Q3241674;Anse Royale;официальный сайт;1;1;from
+Q3241674;Anse Royale;Who's on First ID;1;1;from
+Q3241674;Anse Royale;код Freebase;1;1;from
+Q3241674;Anse Royale;географические координаты;1;2;from
+Q3241674;Anse Royale;ISO 3166-2;1;1;from
+Q3241674;Anse Royale;код BabelNet;1;1;from
+Q3241674;Anse Royale;код GNS;1;1;from
+Q3241674;Anse Royale;высота над уровнем моря;1;1;from
+Q3241674;Anse Royale;код GeoNames;1;2;from
+Q3241674;Anse Royale;это частный случай понятия;1;1;from
+Q3241674;Anse Royale;государство;1;1;from
+Q3241674;Anse Royale;административно-территориальная единица;1;2;to
+Q2877260;Pointe La Rue;административно делится на;1;1;to
+Q2877260;Pointe La Rue;FIPS 10-4 (страны и регионы);1;1;from
+Q2877260;Pointe La Rue;официальный сайт;1;1;from
+Q2877260;Pointe La Rue;Who's on First ID;1;1;from
+Q3241674;Anse Royale;место рождения;1;3;to
+Q3241674;Anse Royale;административно делится на;1;1;to
+Q3241690;Grand'Anse Mahé;ISO 3166-2;1;1;from
+Q3241682;Mont Buxton;административно-территориальная единица;1;1;from
+Q3241690;Grand'Anse Mahé;код BabelNet;1;1;from
+Q3241690;Grand'Anse Mahé;код GeoNames;1;1;from
+Q3241690;Grand'Anse Mahé;это частный случай понятия;1;1;from
+Q3241690;Grand'Anse Mahé;государство;1;1;from
+Q3241690;Grand'Anse Mahé;административно-территориальная единица;1;1;from
+Q3241682;Mont Buxton;административно делится на;1;1;to
+Q3241682;Mont Buxton;FIPS 10-4 (страны и регионы);1;1;from
+Q3241682;Mont Buxton;официальный сайт;1;1;from
+Q3241682;Mont Buxton;Who's on First ID;1;1;from
+Q3241682;Mont Buxton;код Freebase;1;1;from
+Q3241682;Mont Buxton;географические координаты;1;1;from
+Q3241682;Mont Buxton;ISO 3166-2;1;1;from
+Q3241682;Mont Buxton;площадь;1;1;from
+Q3241682;Mont Buxton;код GeoNames;1;1;from
+Q3241682;Mont Buxton;это частный случай понятия;1;1;from
+Q3241682;Mont Buxton;карта местонахождения;1;1;from
+Q3241682;Mont Buxton;государство;1;1;from
+Q2278695;Saint Louis;географические координаты;1;1;from
+Q2278695;Saint Louis;площадь;1;1;from
+Q387293;Anse Etoile;государство;1;1;from
+Q803716;Baie Sainte Anne;географические координаты;1;1;from
+Q815077;Bel Air;государство;1;1;from
+Q815077;Bel Air;административно-территориальная единица;1;1;from
+Q803716;Baie Sainte Anne;административно делится на;1;1;to
+Q803716;Baie Sainte Anne;столица;1;1;to
+Q803716;Baie Sainte Anne;FIPS 10-4 (страны и регионы);1;1;from
+Q803716;Baie Sainte Anne;официальный сайт;1;1;from
+Q803716;Baie Sainte Anne;Who's on First ID;1;1;from
+Q803716;Baie Sainte Anne;код Freebase;1;1;from
+Q803716;Baie Sainte Anne;ISO 3166-2;1;1;from
+Q569458;Anse-aux-Pins;расположение штаб-квартиры;1;1;to
+Q803716;Baie Sainte Anne;площадь;1;1;from
+Q803716;Baie Sainte Anne;высота над уровнем моря;1;1;from
+Q803716;Baie Sainte Anne;код GeoNames;1;1;from
+Q803716;Baie Sainte Anne;является столицей;1;1;from
+Q803716;Baie Sainte Anne;это частный случай понятия;1;1;from
+Q803716;Baie Sainte Anne;карта местонахождения;1;1;from
+Q803716;Baie Sainte Anne;государство;1;1;from
+Q803716;Baie Sainte Anne;административно-территориальная единица;1;1;from
+Q815077;Bel Air;это частный случай понятия;1;1;from
+Q815077;Bel Air;код GeoNames;1;1;from
+Q815077;Bel Air;площадь;1;1;from
+Q815077;Bel Air;ISO 3166-2;1;1;from
+Q1231388;Grand'Anse Praslin;административно-территориальная единица;1;1;to
+Q1094917;La Digue and Inner Islands;Who's on First ID;1;1;from
+Q1094917;La Digue and Inner Islands;код Freebase;1;1;from
+Q1094917;La Digue and Inner Islands;географические координаты;1;2;from
+Q1094917;La Digue and Inner Islands;категория на Викискладе;1;1;from
+Q1094917;La Digue and Inner Islands;код GNS;1;1;from
+Q1094917;La Digue and Inner Islands;площадь;1;1;from
+Q1094917;La Digue and Inner Islands;код GeoNames;1;1;from
+Q1094917;La Digue and Inner Islands;это частный случай понятия;1;1;from
+Q1094917;La Digue and Inner Islands;находится на берегу водоёма;1;1;from
+Q1094917;La Digue and Inner Islands;государство;1;1;from
+Q815077;Bel Air;административно делится на;1;1;to
+Q815077;Bel Air;FIPS 10-4 (страны и регионы);1;1;from
+Q815077;Bel Air;официальный сайт;1;1;from
+Q815077;Bel Air;Who's on First ID;1;1;from
+Q815077;Bel Air;код Freebase;1;1;from
+Q815077;Bel Air;географические координаты;1;1;from
+Q569458;Anse-aux-Pins;административно делится на;1;1;to
+Q569458;Anse-aux-Pins;FIPS 10-4 (страны и регионы);1;1;from
+Q2278695;Saint Louis;код GeoNames;1;1;from
+Q387293;Anse Etoile;официальный сайт;1;1;from
+Q569453;Anse Boileau;код GNS;1;1;from
+Q569453;Anse Boileau;высота над уровнем моря;1;1;from
+Q569453;Anse Boileau;код GeoNames;1;2;from
+Q569453;Anse Boileau;это частный случай понятия;1;1;from
+Q569453;Anse Boileau;государство;1;1;from
+Q569453;Anse Boileau;административно-территориальная единица;1;1;from
+Q387293;Anse Etoile;административно делится на;1;1;to
+Q387293;Anse Etoile;FIPS 10-4 (страны и регионы);1;1;from
+Q387293;Anse Etoile;Who's on First ID;1;1;from
+Q569458;Anse-aux-Pins;официальный сайт;1;1;from
+Q387293;Anse Etoile;код Freebase;1;1;from
+Q387293;Anse Etoile;географические координаты;1;1;from
+Q387293;Anse Etoile;ISO 3166-2;1;1;from
+Q387293;Anse Etoile;код GNS;1;1;from
+Q387293;Anse Etoile;высота над уровнем моря;1;1;from
+Q387293;Anse Etoile;код GeoNames;1;1;from
+Q387293;Anse Etoile;это частный случай понятия;1;1;from
+Q387293;Anse Etoile;карта местонахождения;1;1;from
+Q569453;Anse Boileau;код BabelNet;1;1;from
+Q569453;Anse Boileau;ISO 3166-2;1;1;from
+Q569453;Anse Boileau;географические координаты;1;1;from
+Q569453;Anse Boileau;код Freebase;1;1;from
+Q569458;Anse-aux-Pins;Who's on First ID;1;1;from
+Q569458;Anse-aux-Pins;код Freebase;1;1;from
+Q569458;Anse-aux-Pins;географические координаты;1;1;from
+Q569458;Anse-aux-Pins;ISO 3166-2;1;1;from
+Q569458;Anse-aux-Pins;код BabelNet;1;1;from
+Q569458;Anse-aux-Pins;высота над уровнем моря;1;1;from
+Q569458;Anse-aux-Pins;код GeoNames;1;1;from
+Q569458;Anse-aux-Pins;это частный случай понятия;1;1;from
+Q569458;Anse-aux-Pins;карта местонахождения;1;1;from
+Q569458;Anse-aux-Pins;государство;1;1;from
+Q569458;Anse-aux-Pins;административно-территориальная единица;1;1;from
+Q569453;Anse Boileau;административно делится на;1;1;to
+Q569453;Anse Boileau;место рождения;1;3;to
+Q569453;Anse Boileau;место в MusicBrainz;1;1;from
+Q569453;Anse Boileau;FIPS 10-4 (страны и регионы);1;1;from
+Q569453;Anse Boileau;официальный сайт;1;1;from
+Q569453;Anse Boileau;Who's on First ID;1;1;from
+Q1231388;Grand'Anse Praslin;государство;1;1;from
+Q1231388;Grand'Anse Praslin;это частный случай понятия;1;1;from
+Q1231388;Grand'Anse Praslin;код GeoNames;1;1;from
+Q1945413;Mont Fleuri;это частный случай понятия;1;1;from
+Q1945413;Mont Fleuri;официальный сайт;1;1;from
+Q1945413;Mont Fleuri;Who's on First ID;1;1;from
+Q1945413;Mont Fleuri;код Freebase;1;1;from
+Q1945413;Mont Fleuri;географические координаты;1;1;from
+Q1945413;Mont Fleuri;ISO 3166-2;1;1;from
+Q1945413;Mont Fleuri;код GNS;1;1;from
+Q1945413;Mont Fleuri;площадь;1;1;from
+Q1945413;Mont Fleuri;код GeoNames;1;1;from
+Q1945413;Mont Fleuri;государство;1;1;from
+Q1231388;Grand'Anse Praslin;площадь;1;1;from
+Q1945413;Mont Fleuri;административно-территориальная единица;1;1;from
+Q1928685;Cascade;административно делится на;1;1;to
+Q1928685;Cascade;место рождения;1;1;to
+Q1928685;Cascade;FIPS 10-4 (страны и регионы);1;1;from
+Q1928685;Cascade;официальный сайт;1;1;from
+Q1928685;Cascade;Who's on First ID;1;1;from
+Q1928685;Cascade;код Freebase;1;1;from
+Q1928685;Cascade;географические координаты;1;1;from
+Q1945413;Mont Fleuri;FIPS 10-4 (страны и регионы);1;1;from
+Q1945413;Mont Fleuri;место рождения;1;1;to
+Q1945413;Mont Fleuri;административно делится на;1;1;to
+Q2199897;Plaisance;административно-территориальная единица;1;1;from
+Q2278695;Saint Louis;это частный случай понятия;1;1;from
+Q2278695;Saint Louis;государство;1;1;from
+Q2278695;Saint Louis;административно-территориальная единица;1;1;from
+Q2199897;Plaisance;административно делится на;1;1;to
+Q2199897;Plaisance;категория объединяет темы;1;1;to
+Q2199897;Plaisance;FIPS 10-4 (страны и регионы);1;1;from
+Q2199897;Plaisance;официальный сайт;1;1;from
+Q2199897;Plaisance;Who's on First ID;1;1;from
+Q2199897;Plaisance;код Freebase;1;1;from
+Q2199897;Plaisance;географические координаты;1;1;from
+Q2199897;Plaisance;ISO 3166-2;1;1;from
+Q2199897;Plaisance;площадь;1;1;from
+Q2199897;Plaisance;категория для людей, связанных с местностью;1;1;from
+Q2199897;Plaisance;код GeoNames;1;1;from
+Q2199897;Plaisance;это частный случай понятия;1;1;from
+Q2199897;Plaisance;карта местонахождения;1;1;from
+Q2199897;Plaisance;государство;1;1;from
+Q1928685;Cascade;ISO 3166-2;1;1;from
+Q1928685;Cascade;код GNS;1;1;from
+Q1928685;Cascade;код GeoNames;1;1;from
+Q1808165;Port Glaud;код Freebase;1;1;from
+Q1808165;Port Glaud;ISO 3166-2;1;1;from
+Q1808165;Port Glaud;код GNS;1;1;from
+Q1808165;Port Glaud;площадь;1;1;from
+Q1808165;Port Glaud;код GeoNames;1;1;from
+Q1808165;Port Glaud;это частный случай понятия;1;1;from
+Q1808165;Port Glaud;карта местонахождения;1;1;from
+Q1808165;Port Glaud;государство;1;1;from
+Q1808165;Port Glaud;административно-территориальная единица;1;1;from
+Q1231388;Grand'Anse Praslin;административно делится на;1;1;to
+Q1231388;Grand'Anse Praslin;место съёмок;1;1;to
+Q1231388;Grand'Anse Praslin;FIPS 10-4 (страны и регионы);1;1;from
+Q1231388;Grand'Anse Praslin;официальный сайт;1;1;from
+Q1231388;Grand'Anse Praslin;Who's on First ID;1;1;from
+Q1231388;Grand'Anse Praslin;код Freebase;1;1;from
+Q1231388;Grand'Anse Praslin;географические координаты;1;1;from
+Q1231388;Grand'Anse Praslin;ISO 3166-2;1;1;from
+Q1231388;Grand'Anse Praslin;код BabelNet;1;1;from
+Q1808165;Port Glaud;географические координаты;1;1;from
+Q1808165;Port Glaud;Who's on First ID;1;1;from
+Q1928685;Cascade;это частный случай понятия;1;1;from
+Q1808165;Port Glaud;официальный сайт;1;1;from
+Q1928685;Cascade;государство;1;1;from
+Q1928685;Cascade;административно-территориальная единица;1;1;to
+Q1819963;La Rivière Anglaise;административно делится на;1;1;to
+Q1819963;La Rivière Anglaise;FIPS 10-4 (страны и регионы);1;1;from
+Q1819963;La Rivière Anglaise;официальный сайт;1;1;from
+Q1819963;La Rivière Anglaise;Who's on First ID;1;1;from
+Q1819963;La Rivière Anglaise;код Freebase;1;1;from
+Q1819963;La Rivière Anglaise;географические координаты;1;1;from
+Q1819963;La Rivière Anglaise;ISO 3166-2;1;1;from
+Q1819963;La Rivière Anglaise;площадь;1;1;from
+Q1819963;La Rivière Anglaise;код GeoNames;1;1;from
+Q1819963;La Rivière Anglaise;это частный случай понятия;1;1;from
+Q1819963;La Rivière Anglaise;карта местонахождения;1;1;from
+Q1819963;La Rivière Anglaise;государство;1;1;from
+Q1819963;La Rivière Anglaise;административно-территориальная единица;1;1;from
+Q1808165;Port Glaud;административно делится на;1;1;to
+Q1808165;Port Glaud;FIPS 10-4 (страны и регионы);1;1;from
+Q7479348;Beau Vallon;административно делится на;1;1;to

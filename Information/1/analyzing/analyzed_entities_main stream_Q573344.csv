@@ -1,0 +1,581 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q584;Rhine;административно-территориальная единица;1;13;from
+Q115457;Arno;длина;1;1;from
+Q115457;Arno;изображённый объект;1;5;to
+Q115457;Arno;основная тема;1;3;to
+Q115457;Arno;названо в честь;1;4;to
+Q115457;Arno;категория объединяет темы;1;3;to
+Q115457;Arno;продюсер;1;2;to
+Q115457;Arno;тематически относится к;1;1;to
+Q115457;Arno;находится в пределах природно-географического объекта;1;1;to
+Q115457;Arno;общая тема категории;1;1;to
+Q202760;Soča;карта этой дороги;1;1;from
+Q202760;Soča;государство;1;2;from
+Q202760;Soča;изображение;1;1;from
+Q202760;Soča;код VIAF;1;2;from
+Q202760;Soča;код GND;1;1;from
+Q202760;Soča;код LCNAF;1;1;from
+Q202760;Soča;часть света;1;1;from
+Q115457;Arno;местонахождение;1;1;to
+Q115457;Arno;проходит над/под;1;27;to
+Q115457;Arno;находится на берегу водоёма;1;11;to
+Q115457;Arno;ID отношения в OpenStreetMap;1;1;from
+Q115457;Arno;расход воды;1;1;from
+Q115457;Arno;код BNF;1;1;from
+Q115457;Arno;код в Большой российской энциклопедии онлайн;1;1;from
+Q115457;Arno;код в Итальянской энциклопедии онлайн;1;1;from
+Q115457;Arno;код темы Quora;1;1;from
+Q115457;Arno;категория на Викискладе;1;1;from
+Q115457;Arno;впадает в;1;30;to
+Q115457;Arno;приток;1;1;to
+Q115457;Arno;код в Большой норвежской энциклопедии;1;1;from
+Q115457;Arno;водосборный бассейн;1;1;from
+Q115457;Arno;географические координаты;1;2;from
+Q115457;Arno;код Freebase;1;1;from
+Q115457;Arno;основная категория по теме;1;1;from
+Q115457;Arno;галерея на Викискладе;1;1;from
+Q202760;Soča;это частный случай понятия;1;1;from
+Q202760;Soča;категория бассейна;1;1;from
+Q202760;Soča;код в Большой каталанской энциклопедии;1;1;from
+Q214240;Aude;изображение;1;1;from
+Q202760;Soča;водосборный бассейн;1;1;to
+Q202760;Soča;находится на берегу водоёма;1;2;to
+Q202760;Soča;названо в честь;1;2;to
+Q202760;Soča;общая тема категории;1;1;to
+Q214240;Aude;административно-территориальная единица;1;1;from
+Q214240;Aude;государство;1;1;from
+Q214240;Aude;код VIAF;1;1;from
+Q202760;Soča;место смерти;1;1;to
+Q214240;Aude;код GND;1;1;from
+Q214240;Aude;карта местонахождения;1;1;from
+Q214240;Aude;это частный случай понятия;1;1;from
+Q214240;Aude;категория бассейна;1;1;from
+Q214240;Aude;код в Большой каталанской энциклопедии;1;1;from
+Q214240;Aude;описывается в источниках;1;6;from
+Q202760;Soča;категория объединяет темы;1;3;to
+Q202760;Soča;проходит над/под;1;3;to
+Q202760;Soča;код Цифрового атласа Римской империи;1;1;from
+Q202760;Soča;идентификатор Dizionario di Storia;1;1;from
+Q202760;Soča;длина;1;1;from
+Q202760;Soča;площадь бассейна;1;1;from
+Q202760;Soča;расход воды;1;1;from
+Q202760;Soča;категория на Викискладе;1;1;from
+Q202760;Soča;впадает в;1;6;to
+Q202760;Soča;географические координаты;1;3;from
+Q202760;Soča;код Freebase;1;1;from
+Q202760;Soča;местонахождение;1;12;to
+Q202760;Soča;код NKC;1;1;from
+Q202760;Soča;находится в пределах природно-географического объекта;1;2;to
+Q202760;Soča;исток водотока;1;1;from
+Q202760;Soča;основная категория по теме;1;1;from
+Q202760;Soča;баннер Викигида;1;1;from
+Q202760;Soča;приток;1;1;to
+Q115457;Arno;площадь бассейна;1;1;from
+Q115457;Arno;код Pleiades;1;1;from
+Q584;Rhine;государство;1;6;from
+Q115457;Arno;код GeoNames;1;1;from
+Q43106;Zambezi River;категория бассейна;1;1;from
+Q43106;Zambezi River;код US National Archives;1;1;from
+Q43106;Zambezi River;значение в OmegaWiki;1;1;from
+Q43106;Zambezi River;код в Большой каталанской энциклопедии;1;1;from
+Q43106;Zambezi River;описывается в источниках;1;2;from
+Q43106;Zambezi River;код в энциклопедии «Британника онлайн»;1;1;from
+Q43106;Zambezi River;код GeoNames;1;1;from
+Q43106;Zambezi River;длина;1;1;from
+Q43106;Zambezi River;площадь бассейна;1;1;from
+Q43106;Zambezi River;расход воды;1;1;from
+Q43106;Zambezi River;код в Большой российской энциклопедии онлайн;1;1;from
+Q43106;Zambezi River;код в Encyclopædia Universalis;1;1;from
+Q43106;Zambezi River;код темы Quora;1;1;from
+Q43106;Zambezi River;категория на Викискладе;1;1;from
+Q43106;Zambezi River;впадает в;1;17;to
+Q43106;Zambezi River;это частный случай понятия;1;1;from
+Q43106;Zambezi River;код LCNAF;1;1;from
+Q43106;Zambezi River;карта местонахождения;1;1;from
+Q31424;Llobregat;расположено на линии;1;1;to
+Q31424;Llobregat;впадающие в озеро реки;1;1;to
+Q31424;Llobregat;водосборный бассейн;1;13;to
+Q31424;Llobregat;проходит над/под;1;17;to
+Q31424;Llobregat;общая тема категории;1;1;to
+Q31424;Llobregat;категория объединяет темы;1;2;to
+Q31424;Llobregat;местонахождение;1;1;to
+Q31424;Llobregat;находится на берегу водоёма;1;9;to
+Q43106;Zambezi River;код GND;1;1;from
+Q31424;Llobregat;основная тема;1;1;to
+Q31424;Llobregat;названо в честь;1;9;to
+Q43106;Zambezi River;государство;1;5;from
+Q43106;Zambezi River;изображение;1;1;from
+Q43106;Zambezi River;бассейн объекта в странах;1;1;from
+Q43106;Zambezi River;код VIAF;1;1;from
+Q43106;Zambezi River;водосборный бассейн;1;1;from
+Q43106;Zambezi River;водоём на реке;1;2;from
+Q43106;Zambezi River;код Comic Vine;1;1;from
+Q115457;Arno;код VIAF;1;1;from
+Q43106;Zambezi River;общая тема категории;1;1;to
+Q43106;Zambezi River;глубочайшая точка;1;1;to
+Q115457;Arno;административно-территориальная единица;1;1;from
+Q115457;Arno;карта этой дороги;1;1;from
+Q115457;Arno;государство;1;1;from
+Q115457;Arno;изображение;1;1;from
+Q115457;Arno;код GND;1;1;from
+Q43106;Zambezi River;категория объединяет темы;1;3;to
+Q115457;Arno;код LCNAF;1;1;from
+Q115457;Arno;часть света;1;1;from
+Q115457;Arno;это частный случай понятия;1;1;from
+Q115457;Arno;категория бассейна;1;1;from
+Q115457;Arno;код в Большой каталанской энциклопедии;1;1;from
+Q115457;Arno;описывается в источниках;1;3;from
+Q43106;Zambezi River;зона обслуживания;1;1;to
+Q43106;Zambezi River;основная тема;1;3;to
+Q43106;Zambezi River;географические координаты;1;3;from
+Q43106;Zambezi River;галерея на Викискладе;1;1;from
+Q43106;Zambezi River;идентификатор Dizionario di Storia;1;1;from
+Q43106;Zambezi River;код Freebase;1;1;from
+Q43106;Zambezi River;код NKC;1;1;from
+Q43106;Zambezi River;French Vikidia ID;1;1;from
+Q43106;Zambezi River;категория карт на Викискладе;1;1;from
+Q43106;Zambezi River;основная категория по теме;1;1;from
+Q43106;Zambezi River;приток;1;1;to
+Q43106;Zambezi River;часть от;1;3;to
+Q43106;Zambezi River;впадающие в озеро реки;1;3;to
+Q43106;Zambezi River;вытекающие из озера реки;1;3;to
+Q43106;Zambezi River;проходит над/под;1;9;to
+Q43106;Zambezi River;находится на берегу водоёма;1;6;to
+Q43106;Zambezi River;находится в пределах природно-географического объекта;1;3;to
+Q43106;Zambezi River;названо в честь;1;3;to
+Q214240;Aude;код GeoNames;1;1;from
+Q214240;Aude;код SANDRE;1;1;from
+Q214240;Aude;код Цифрового атласа Римской империи;1;1;from
+Q214240;Aude;длина;1;1;from
+Q2834409;Noun River;изображение;1;1;from
+Q2834409;Noun River;это частный случай понятия;1;2;from
+Q2834409;Noun River;длина;1;1;from
+Q2834409;Noun River;впадает в;1;1;from
+Q2834409;Noun River;географические координаты;1;2;from
+Q2834409;Noun River;код Freebase;1;1;from
+Q2834409;Noun River;исток водотока;1;1;from
+Q2834409;Noun River;приток;1;1;to
+Q6674591;Longá River;административно-территориальная единица;1;1;from
+Q6674591;Longá River;государство;1;1;from
+Q6674591;Longá River;это частный случай понятия;1;1;from
+Q6674591;Longá River;код GeoNames;1;1;from
+Q6674591;Longá River;впадает в;1;5;to
+Q6674591;Longá River;географические координаты;1;1;from
+Q6674591;Longá River;приток;1;1;to
+Q2834409;Noun River;государство;1;1;from
+Q2834409;Noun River;административно-территориальная единица;1;1;from
+Q2028483;Orb;вытекающие из озера реки;1;1;to
+Q2028483;Orb;впадает в;1;10;to
+Q2028483;Orb;длина;1;1;from
+Q2028483;Orb;площадь бассейна;1;1;from
+Q2028483;Orb;расход воды;1;1;from
+Q2028483;Orb;код BNF;1;1;from
+Q2028483;Orb;код SUDOC;1;1;from
+Q2028483;Orb;категория на Викискладе;1;1;from
+Q2028483;Orb;водосборный бассейн;1;1;from
+Q2028483;Orb;впадающие в озеро реки;1;1;to
+Q2028483;Orb;географические координаты;1;3;from
+Q2028483;Orb;код Freebase;1;1;from
+Q2028483;Orb;приток;1;1;to
+Q2028483;Orb;находится на берегу водоёма;1;4;to
+Q2028483;Orb;названо в честь;1;6;to
+Q2028483;Orb;проходит над/под;1;5;to
+Q10362166;Longa River;государство;1;1;from
+Q10362166;Longa River;это частный случай понятия;1;2;from
+Q10362166;Longa River;код GeoNames;1;1;from
+Q52149213;Frémur Est;это частный случай понятия;1;1;from
+Q19297814;Oued Nekor;площадь бассейна;1;1;from
+Q19297814;Oued Nekor;впадает в;1;1;from
+Q19297814;Oued Nekor;географические координаты;1;1;from
+Q19297814;Oued Nekor;исток водотока;1;1;from
+Q52149213;Frémur Est;государство;1;1;from
+Q52149213;Frémur Est;изображение;1;1;from
+Q52149213;Frémur Est;код SANDRE;1;1;from
+Q19297814;Oued Nekor;это частный случай понятия;1;1;from
+Q52149213;Frémur Est;длина;1;1;from
+Q52149213;Frémur Est;категория на Викискладе;1;1;from
+Q52149213;Frémur Est;ID отношения в OpenStreetMap;1;1;from
+Q52149213;Frémur Est;впадает в;1;1;from
+Q52149213;Frémur Est;состоит из;1;1;to
+Q52149213;Frémur Est;приток;1;1;to
+Q19297814;Oued Nekor;длина;1;1;from
+Q19297814;Oued Nekor;государство;1;1;from
+Q10362166;Longa River;впадает в;1;1;from
+Q15111030;Frémur Ouest;длина;1;1;from
+Q10362166;Longa River;географические координаты;1;1;from
+Q10362166;Longa River;приток;1;1;to
+Q15111030;Frémur Ouest;государство;1;1;from
+Q15111030;Frémur Ouest;это частный случай понятия;1;1;from
+Q15111030;Frémur Ouest;код GeoNames;1;1;from
+Q15111030;Frémur Ouest;код SANDRE;1;1;from
+Q15111030;Frémur Ouest;высота над уровнем моря;1;1;from
+Q19297814;Oued Nekor;административно-территориальная единица;1;1;from
+Q15111030;Frémur Ouest;площадь бассейна;1;1;from
+Q15111030;Frémur Ouest;ID отношения в OpenStreetMap;1;1;from
+Q15111030;Frémur Ouest;впадает в;1;1;from
+Q15111030;Frémur Ouest;географические координаты;1;2;from
+Q15111030;Frémur Ouest;состоит из;1;1;to
+Q15111030;Frémur Ouest;приток;1;1;to
+Q2028483;Orb;код Цифрового атласа Римской империи;1;1;from
+Q2028483;Orb;код SANDRE;1;1;from
+Q2028483;Orb;код GeoNames;1;1;from
+Q214240;Aude;водосборный бассейн;1;1;to
+Q214240;Aude;основная тема;1;6;to
+Q214240;Aude;место обнаружения;1;2;to
+Q214240;Aude;общая тема категории;1;1;to
+Q214240;Aude;место рождения;1;1;to
+Q214240;Aude;вытекающие из озера реки;1;2;to
+Q214240;Aude;впадающие в озеро реки;1;1;to
+Q214240;Aude;категория объединяет темы;1;1;to
+Q214240;Aude;находится в пределах природно-географического объекта;1;3;to
+Q645291;Argentina;административно-территориальная единица;1;1;from
+Q645291;Argentina;государство;1;1;from
+Q645291;Argentina;изображение;1;1;from
+Q645291;Argentina;код LCNAF;1;1;from
+Q645291;Argentina;это частный случай понятия;1;1;from
+Q645291;Argentina;код GeoNames;1;1;from
+Q214240;Aude;проходит над/под;1;3;to
+Q214240;Aude;находится на берегу водоёма;1;4;to
+Q645291;Argentina;длина;1;1;from
+Q214240;Aude;впадает в;1;19;to
+Q214240;Aude;площадь бассейна;1;1;from
+Q214240;Aude;расход воды;1;1;from
+Q214240;Aude;код BNF;1;1;from
+Q214240;Aude;код SUDOC;1;2;from
+Q214240;Aude;категория на Викискладе;1;1;from
+Q214240;Aude;ID отношения в OpenStreetMap;1;1;from
+Q214240;Aude;произношение (звуковой файл);1;1;from
+Q214240;Aude;названо в честь;1;5;to
+Q214240;Aude;географические координаты;1;1;from
+Q214240;Aude;код Freebase;1;1;from
+Q214240;Aude;код NKC;1;1;from
+Q214240;Aude;French Vikidia ID;1;1;from
+Q214240;Aude;исток водотока;1;1;from
+Q214240;Aude;приток;1;1;to
+Q645291;Argentina;код Цифрового атласа Римской империи;1;1;from
+Q645291;Argentina;площадь бассейна;1;1;from
+Q2028483;Orb;категория бассейна;1;1;from
+Q1390482;Quinault River;проходит над/под;1;1;to
+Q1390482;Quinault River;впадает в;1;1;from
+Q1390482;Quinault River;водоём на реке;1;1;from
+Q1390482;Quinault River;код GNIS;1;1;from
+Q1390482;Quinault River;географические координаты;1;1;from
+Q1390482;Quinault River;находится в пределах природно-географического объекта;1;1;from
+Q1390482;Quinault River;приток;1;1;to
+Q1390482;Quinault River;впадающие в озеро реки;1;1;to
+Q1390482;Quinault River;находится в охранной зоне;1;1;from
+Q1390482;Quinault River;вытекающие из озера реки;1;1;to
+Q2028483;Orb;административно-территориальная единица;1;2;from
+Q2028483;Orb;государство;1;1;from
+Q2028483;Orb;изображение;1;1;from
+Q2028483;Orb;код VIAF;1;1;from
+Q2028483;Orb;это частный случай понятия;1;1;from
+Q1390482;Quinault River;категория на Викискладе;1;1;from
+Q1390482;Quinault River;площадь бассейна;1;1;from
+Q645291;Argentina;расход воды;1;1;from
+Q1390482;Quinault River;государство;1;1;from
+Q645291;Argentina;категория на Викискладе;1;1;from
+Q645291;Argentina;впадает в;1;1;from
+Q645291;Argentina;географические координаты;1;1;from
+Q645291;Argentina;код Freebase;1;1;from
+Q645291;Argentina;приток;1;1;to
+Q1390482;Quinault River;административно-территориальная единица;1;3;from
+Q1390482;Quinault River;изображение;1;1;from
+Q1390482;Quinault River;длина;1;1;from
+Q1390482;Quinault River;код LCNAF;1;1;from
+Q1390482;Quinault River;часть света;1;1;from
+Q1390482;Quinault River;это частный случай понятия;1;1;from
+Q1390482;Quinault River;код GeoNames;1;1;from
+Q1390482;Quinault River;код TGN;1;1;from
+Q1390482;Quinault River;название на языке оригинала;1;1;from
+Q31424;Llobregat;вытекающие из озера реки;1;1;to
+Q31424;Llobregat;приток;1;1;to
+Q31424;Llobregat;основная категория по теме;1;1;from
+Q1471;Seine;код GND;1;1;from
+Q1469;Loire;код в Большой каталанской энциклопедии;1;1;from
+Q1469;Loire;описывается в источниках;1;2;from
+Q1469;Loire;код в энциклопедии «Британника онлайн»;1;1;from
+Q1469;Loire;число Стралера;1;1;from
+Q1469;Loire;код GeoNames;1;1;from
+Q1469;Loire;код SANDRE;1;1;from
+Q1469;Loire;не путать с;1;1;to
+Q1469;Loire;код Цифрового атласа Римской империи;1;1;from
+Q1469;Loire;длина;1;1;from
+Q1469;Loire;площадь бассейна;1;1;from
+Q1469;Loire;расход воды;1;1;from
+Q1469;Loire;код GNS;1;1;from
+Q1469;Loire;код BNF;1;1;from
+Q1469;Loire;код SUDOC;1;1;from
+Q1469;Loire;код в Большой российской энциклопедии онлайн;1;1;from
+Q1469;Loire;значение в OmegaWiki;1;1;from
+Q1469;Loire;категория бассейна;1;1;from
+Q1469;Loire;это частный случай понятия;1;1;from
+Q584;Rhine;элемент для смысла;1;1;to
+Q584;Rhine;место изготовления;1;1;to
+Q584;Rhine;вытекающие из озера реки;1;1;to
+Q584;Rhine;общая тема категории;1;1;to
+Q584;Rhine;глубочайшая точка;1;1;to
+Q584;Rhine;впадающие в озеро реки;1;1;to
+Q584;Rhine;место погребения;1;1;to
+Q1469;Loire;административно-территориальная единица;1;12;from
+Q1469;Loire;часть света;1;1;from
+Q1469;Loire;карта этой дороги;1;1;from
+Q1469;Loire;государство;1;1;from
+Q1469;Loire;изображение;1;1;from
+Q1469;Loire;бассейн объекта в странах;1;1;from
+Q1469;Loire;код GND;1;1;from
+Q1469;Loire;код LCNAF;1;1;from
+Q1469;Loire;код темы Quora;1;1;from
+Q1469;Loire;категория на Викискладе;1;1;from
+Q1469;Loire;ID отношения в OpenStreetMap;1;1;from
+Q1469;Loire;использует;1;1;to
+Q1469;Loire;место рождения;1;1;to
+Q1469;Loire;изображённый объект;1;23;to
+Q1469;Loire;основная тема;1;4;to
+Q1469;Loire;находится в пределах природно-географического объекта;1;6;to
+Q1469;Loire;впадающие в озеро реки;1;1;to
+Q1469;Loire;вытекающие из озера реки;1;1;to
+Q1469;Loire;категория объединяет темы;1;4;to
+Q1469;Loire;местонахождение;1;4;to
+Q1469;Loire;общая тема категории;1;1;to
+Q1471;Seine;административно-территориальная единица;1;6;from
+Q1471;Seine;государство;1;1;from
+Q1471;Seine;изображение;1;1;from
+Q1471;Seine;бассейн объекта в странах;1;1;from
+Q1471;Seine;код ISNI;1;1;from
+Q1469;Loire;место смерти;1;1;to
+Q1469;Loire;проходит над/под;1;78;to
+Q1469;Loire;впадает в;1;111;to
+Q1469;Loire;Italian Vikidia ID;1;1;from
+Q1469;Loire;водосборный бассейн;1;1;from
+Q1469;Loire;код в Ларуссе;1;1;from
+Q1469;Loire;географические координаты;1;4;from
+Q1469;Loire;код Freebase;1;1;from
+Q1469;Loire;Who's on First ID;1;1;from
+Q1469;Loire;French Vikidia ID;1;2;from
+Q1469;Loire;категория карт на Викискладе;1;1;from
+Q1469;Loire;названо в честь;1;99;to
+Q1469;Loire;исток водотока;1;7;from
+Q1469;Loire;основная категория по теме;1;1;from
+Q1469;Loire;галерея на Викискладе;1;1;from
+Q1469;Loire;баннер Викигида;1;1;from
+Q1469;Loire;приток;1;1;to
+Q1469;Loire;находится на берегу водоёма;1;387;to
+Q584;Rhine;история происходит в месте;1;1;to
+Q584;Rhine;категория объединяет темы;1;6;to
+Q584;Rhine;изображённый объект;1;24;to
+Q584;Rhine;соответствующий список;1;2;from
+Q584;Rhine;код SANDRE;1;1;from
+Q584;Rhine;код Цифрового атласа Римской империи;1;1;from
+Q584;Rhine;длина;1;1;from
+Q584;Rhine;площадь бассейна;1;1;from
+Q584;Rhine;расход воды;1;1;from
+Q584;Rhine;код YSO;1;1;from
+Q584;Rhine;код BabelNet;1;1;from
+Q584;Rhine;код GeoNames;1;1;from
+Q584;Rhine;код BNF;1;1;from
+Q584;Rhine;код в Большой российской энциклопедии онлайн;1;1;from
+Q584;Rhine;код темы Quora;1;1;from
+Q584;Rhine;код NDL;1;1;from
+Q584;Rhine;часть от;1;7;to
+Q584;Rhine;категория на Викискладе;1;1;from
+Q584;Rhine;название на языке оригинала;1;1;from
+Q584;Rhine;основной шаблон по теме;1;1;from
+Q584;Rhine;ID отношения в OpenStreetMap;1;1;from
+Q584;Rhine;часть света;1;1;from
+Q584;Rhine;изображение;1;1;from
+Q584;Rhine;бассейн объекта в странах;1;5;from
+Q584;Rhine;код VIAF;1;1;from
+Q584;Rhine;код GND;1;1;from
+Q584;Rhine;карта местонахождения;1;1;from
+Q584;Rhine;код LCNAF;1;1;from
+Q584;Rhine;это частный случай понятия;1;1;from
+Q584;Rhine;код в энциклопедии «Британника онлайн»;1;1;from
+Q584;Rhine;гидрографический код GKZ;1;1;from
+Q584;Rhine;категория бассейна;1;1;from
+Q584;Rhine;код US National Archives;1;1;from
+Q584;Rhine;значение в OmegaWiki;1;1;from
+Q584;Rhine;код в Большой каталанской энциклопедии;1;1;from
+Q584;Rhine;описывается в источниках;1;3;from
+Q584;Rhine;LAWA waterbody ID;1;1;from
+Q584;Rhine;впадает в;1;141;to
+Q584;Rhine;основная тема;1;17;to
+Q584;Rhine;названо в честь;1;86;to
+Q584;Rhine;галерея на Викискладе;1;1;from
+Q584;Rhine;баннер Викигида;1;1;from
+Q584;Rhine;приток;1;1;to
+Q584;Rhine;пример использования свойства;1;3;to
+Q584;Rhine;находится на берегу водоёма;1;236;to
+Q584;Rhine;проходит над/под;1;153;to
+Q584;Rhine;место смерти;1;4;to
+Q584;Rhine;идентификатор HDS;1;1;from
+Q584;Rhine;местонахождение;1;5;to
+Q584;Rhine;несёт на себе;1;2;to
+Q584;Rhine;место рождения;1;1;to
+Q584;Rhine;находится в пределах природно-географического объекта;1;25;to
+Q584;Rhine;основная тема шаблона;1;1;to
+Q584;Rhine;конечная;1;1;to
+Q584;Rhine;основная категория по теме;1;1;from
+Q584;Rhine;исток водотока;1;1;to
+Q584;Rhine;код тезауруса PACTOLS;1;1;from
+Q584;Rhine;код Comic Vine;1;1;from
+Q584;Rhine;код в Большой норвежской энциклопедии;1;1;from
+Q584;Rhine;произношение (звуковой файл);1;1;from
+Q584;Rhine;водосборный бассейн;1;1;from
+Q584;Rhine;водоём на реке;1;2;from
+Q584;Rhine;рабочий список проекта Викимедиа;1;1;from
+Q584;Rhine;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q584;Rhine;Речной рукав;1;3;from
+Q584;Rhine;Basque Vikidia ID;1;1;from
+Q584;Rhine;географические координаты;1;3;from
+Q584;Rhine;код Freebase;1;1;from
+Q584;Rhine;код статьи Klexikon;1;1;from
+Q584;Rhine;код NKC;1;2;from
+Q584;Rhine;French Vikidia ID;1;1;from
+Q584;Rhine;English Vikidia ID;1;1;from
+Q1471;Seine;код VIAF;1;1;from
+Q1471;Seine;карта местонахождения;1;1;from
+Q31424;Llobregat;исток водотока;1;2;from
+Q1471;Seine;код LCNAF;1;1;from
+Q10965;Ebro;изображённый объект;1;1;to
+Q10965;Ebro;основная тема;1;6;to
+Q10965;Ebro;категория объединяет темы;1;3;to
+Q10965;Ebro;общая тема категории;1;1;to
+Q10965;Ebro;глубочайшая точка;1;3;to
+Q19724;River Mersey;административно-территориальная единица;1;1;from
+Q19724;River Mersey;государство;1;1;from
+Q19724;River Mersey;изображение;1;1;from
+Q19724;River Mersey;карта местонахождения;1;1;from
+Q19724;River Mersey;часть света;1;1;from
+Q19724;River Mersey;это частный случай понятия;1;1;from
+Q19724;River Mersey;код в Большой каталанской энциклопедии;1;1;from
+Q19724;River Mersey;описывается в источниках;1;1;from
+Q19724;River Mersey;код в энциклопедии «Британника онлайн»;1;1;from
+Q19724;River Mersey;код GeoNames;1;1;from
+Q10965;Ebro;находится в пределах природно-географического объекта;1;3;to
+Q10965;Ebro;названо в честь;1;24;to
+Q10965;Ebro;проходит над/под;1;29;to
+Q10965;Ebro;исток водотока;1;5;from
+Q10965;Ebro;водосборный бассейн;1;2;to
+Q10965;Ebro;географические координаты;1;2;from
+Q10965;Ebro;код Freebase;1;1;from
+Q10965;Ebro;Great Encyclopedia of Navarre ID;1;1;from
+Q10965;Ebro;French Vikidia ID;1;1;from
+Q10965;Ebro;Basque Vikidia ID;1;1;from
+Q10965;Ebro;код SELIBR;1;1;from
+Q10965;Ebro;вытекающие из озера реки;1;6;to
+Q10965;Ebro;основная категория по теме;1;1;from
+Q10965;Ebro;галерея на Викискладе;1;1;from
+Q10965;Ebro;приток;1;2;to
+Q10965;Ebro;местонахождение;1;4;to
+Q10965;Ebro;находится на берегу водоёма;1;23;to
+Q10965;Ebro;впадающие в озеро реки;1;6;to
+Q19724;River Mersey;код TGN;1;1;from
+Q19724;River Mersey;код Цифрового атласа Римской империи;1;1;from
+Q19724;River Mersey;длина;1;1;from
+Q31424;Llobregat;код GeoNames;1;1;from
+Q31424;Llobregat;государство;1;1;from
+Q31424;Llobregat;изображение;1;2;from
+Q31424;Llobregat;код VIAF;1;1;from
+Q31424;Llobregat;это частный случай понятия;1;1;from
+Q31424;Llobregat;код в Большой каталанской энциклопедии;1;1;from
+Q31424;Llobregat;код в энциклопедии «Британника онлайн»;1;1;from
+Q31424;Llobregat;длина;1;1;from
+Q19724;River Mersey;общая тема категории;1;1;to
+Q31424;Llobregat;площадь бассейна;1;1;from
+Q31424;Llobregat;расход воды;1;1;from
+Q31424;Llobregat;категория на Викискладе;1;1;from
+Q31424;Llobregat;впадает в;1;14;to
+Q31424;Llobregat;географические координаты;1;2;from
+Q31424;Llobregat;код Freebase;1;1;from
+Q31424;Llobregat;административно-территориальная единица;1;2;from
+Q19724;River Mersey;названо в честь;1;1;to
+Q19724;River Mersey;площадь бассейна;1;1;from
+Q19724;River Mersey;код UK Parliament thesaurus;1;1;from
+Q19724;River Mersey;код BabelNet;1;1;from
+Q19724;River Mersey;файл KML;1;1;from
+Q19724;River Mersey;код темы Quora;1;1;from
+Q19724;River Mersey;категория на Викискладе;1;1;from
+Q19724;River Mersey;ID отношения в OpenStreetMap;1;1;from
+Q19724;River Mersey;впадает в;1;9;to
+Q19724;River Mersey;географические координаты;1;2;from
+Q19724;River Mersey;находится в пределах природно-географического объекта;1;1;to
+Q19724;River Mersey;код Freebase;1;1;from
+Q19724;River Mersey;основная категория по теме;1;1;from
+Q19724;River Mersey;приток;1;1;to
+Q19724;River Mersey;находится на берегу водоёма;1;5;to
+Q19724;River Mersey;проходит над/под;1;6;to
+Q19724;River Mersey;основная тема;1;6;to
+Q10965;Ebro;впадает в;1;46;to
+Q10965;Ebro;ID отношения в OpenStreetMap;1;1;from
+Q10965;Ebro;категория на Викискладе;1;1;from
+Q1471;Seine;состоит из;1;1;from
+Q1471;Seine;код NDL;1;1;from
+Q1471;Seine;категория на Викискладе;1;1;from
+Q1471;Seine;ID отношения в OpenStreetMap;1;1;from
+Q1471;Seine;впадает в;1;61;to
+Q1471;Seine;код тезауруса PACTOLS;1;1;from
+Q1471;Seine;водосборный бассейн;1;1;from
+Q1471;Seine;код в Ларуссе;1;1;from
+Q1471;Seine;код в Encyclopædia Universalis;1;1;from
+Q1471;Seine;географические координаты;1;1;from
+Q1471;Seine;код Freebase;1;1;from
+Q1471;Seine;код NKC;1;1;from
+Q1471;Seine;French Vikidia ID;1;1;from
+Q1471;Seine;категория карт на Викискладе;1;1;from
+Q1471;Seine;исток водотока;1;2;from
+Q1471;Seine;код темы Quora;1;1;from
+Q1471;Seine;FANTOIR code;1;13;from
+Q1471;Seine;галерея на Викискладе;1;1;from
+Q1471;Seine;код GeoNames;1;1;from
+Q1471;Seine;это частный случай понятия;1;1;from
+Q1471;Seine;категория бассейна;1;1;from
+Q1471;Seine;значение в OmegaWiki;1;1;from
+Q1471;Seine;код в Большой каталанской энциклопедии;1;1;from
+Q1471;Seine;описывается в источниках;1;3;from
+Q1471;Seine;код в энциклопедии «Британника онлайн»;1;1;from
+Q1471;Seine;код SANDRE;1;1;from
+Q1471;Seine;код в Большой российской энциклопедии онлайн;1;1;from
+Q1471;Seine;код Цифрового атласа Римской империи;1;1;from
+Q1471;Seine;длина;1;1;from
+Q1471;Seine;площадь бассейна;1;1;from
+Q1471;Seine;расход воды;1;1;from
+Q1471;Seine;код BNF;1;1;from
+Q1471;Seine;код SUDOC;1;1;from
+Q1471;Seine;основная категория по теме;1;1;from
+Q1471;Seine;приток;1;1;to
+Q10965;Ebro;расход воды;1;1;from
+Q10965;Ebro;категория бассейна;1;1;from
+Q10965;Ebro;бассейн объекта в странах;1;1;from
+Q10965;Ebro;код VIAF;1;1;from
+Q10965;Ebro;код GND;1;1;from
+Q10965;Ebro;код LCNAF;1;1;from
+Q10965;Ebro;часть света;1;1;from
+Q10965;Ebro;это частный случай понятия;1;1;from
+Q10965;Ebro;код в Большой каталанской энциклопедии;1;1;from
+Q10965;Ebro;государство;1;1;from
+Q10965;Ebro;код в энциклопедии «Британника онлайн»;1;1;from
+Q10965;Ebro;код GeoNames;1;1;from
+Q10965;Ebro;код в Большой арагонской энциклопедии;1;1;from
+Q10965;Ebro;код Цифрового атласа Римской империи;1;1;from
+Q10965;Ebro;длина;1;1;from
+Q10965;Ebro;площадь бассейна;1;1;from
+Q10965;Ebro;изображение;1;1;from
+Q1471;Seine;общая тема категории;1;1;to
+Q1471;Seine;находится на берегу водоёма;1;182;to
+Q1471;Seine;расположено на линии;1;1;to
+Q1471;Seine;изображённый объект;1;337;to
+Q1471;Seine;названо в честь;1;93;to
+Q1471;Seine;проходит над/под;1;164;to
+Q1471;Seine;местонахождение;1;14;to
+Q1471;Seine;находится в пределах природно-географического объекта;1;8;to
+Q1471;Seine;основная тема;1;4;to
+Q1471;Seine;впадающие в озеро реки;1;5;to
+Q1471;Seine;имеет границей;1;1;to
+Q1471;Seine;история происходит в месте;1;1;to
+Q1471;Seine;часть от;1;2;to
+Q1471;Seine;место съёмок;1;1;to
+Q1471;Seine;место смерти;1;2;to
+Q1471;Seine;вторая фамилия в испанском имени;1;1;to
+Q1471;Seine;категория объединяет темы;1;5;to
+Q83706882;Knysna River;это частный случай понятия;1;1;from

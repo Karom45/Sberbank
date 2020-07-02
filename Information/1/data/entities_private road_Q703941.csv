@@ -1,0 +1,486 @@
+﻿entity;label
+Q432054;passage Ben-Aïad
+Q1567455;passage Brady
+Q2311190;allée des Mauves
+Q2366131;villa La Fresnaye
+Q2371095;avenue Georges-Risler
+Q2371938;allée Marcel-Jambenoire
+Q2372636;villa Dietz-Monnin
+Q2380659;square André-Dreyer
+Q2381132;passage Lemoine
+Q2382391;rue Gaston-de-Saint-Paul
+Q2388073;rue Abel-Gance
+Q2405818;passage Depaquit
+Q2422521;square de l'Aide-Sociale
+Q2838785;allée Alquier-Debrousse
+Q2838788;allée Anne-de-Beaujeu
+Q2838799;allée Diane-de-Poitiers
+Q2838804;allée Gaston-Bachelard
+Q2838805;allée Georges-Recipon
+Q2838807;allée Henry-Dunant
+Q2838808;allée Georges-Rouault
+Q2838817;allée Louise-Labé
+Q2838829;allée Marie-Laurent
+Q2838831;allée Marius-Barroux
+Q2838838;allée Pierre-Mollaret
+Q2838843;allée Rodenbach
+Q2838898;allée d'Andrézieux
+Q2838904;allée de Bercy
+Q2838908;allée de Fontainebleau
+Q2838926;allée de la Bertelotte
+Q2838929;allée de la Garance
+Q2838940;allée des Cardinoux
+Q2838953;allée des Frères-Voisin
+Q2838975;allée du Château-Ouvrier
+Q2838976;allée du Commandant-Raynal
+Q2838989;allée du Philosophe
+Q2838996;allée du Professeur-Jean-Bernard
+Q2838997;allée du Père-Julien-Dhuit
+Q2873528;avenue Beaucour
+Q2873606;avenue Despréaux
+Q2873619;avenue Erlanger
+Q2873730;avenue Jules-Janin
+Q2873810;avenue Pierre-Mendès-France
+Q2873886;avenue Yves-du-Manoir
+Q2873895;avenue de Boufflers
+Q2873917;avenue de France
+Q2873929;avenue de Montespan
+Q2873965;avenue de Verzy
+Q2874053;avenue de la Sibelle
+Q2874072;avenue des Arts
+Q2874085;avenue des Chalets
+Q2874132;avenue du Coq
+Q2874142;avenue du Général-Balfourier
+Q2874174;avenue du Nouveau-Conservatoire
+Q2921871;boulevard Marbeau
+Q2974624;cité Adrienne
+Q2974628;cité Antoine-Loubeyre
+Q2974630;cité Auguste-Chabrières
+Q2974632;cité Beauharnais
+Q2974633;cité Beaurepaire
+Q2974636;cité Berryer
+Q2974638;cité Bertrand
+Q2974639;cité Blanche
+Q2974646;cité Dubourg
+Q2974649;cité Duplan
+Q2974651;cité Durmar
+Q2974655;cité Florentine-Estrade
+Q2974662;cité Georges-Ambroise-Boisselat-et-Blanche
+Q2974667;cité Hiver
+Q2974673;cité Joyeux
+Q2974677;cité Leroy
+Q2974691;cité Nicolas-Poussin
+Q2974704;cité Prost
+Q2974710;cité Saint-Chaumont
+Q2974726;cité d'Antin
+Q2974729;cité d'Austerlitz
+Q2974746;cité de l'Avenir
+Q2974748;cité de l'Alma
+Q3000891;cour Damoye
+Q3000897;cour Jacques-Viguès
+Q3000910;cour Viguès
+Q3000918;cour Saint-Émilion
+Q3000939;cour d'Alger
+Q3000940;cour d'Alsace-Lorraine
+Q3001022;cour de la Grâce-de-Dieu
+Q3001033;cour des Bretons
+Q3001053;cour du Bel-Air
+Q3001061;cour du Ginkgo
+Q3001063;cour du Marché-Saint-Antoine
+Q3058441;esplanade Pierre-Vidal-Naquet
+Q3114897;grande Avenue de la Villa-de-la-Réunion
+Q3126385;hameau La Fontaine
+Q3126386;hameau Béranger
+Q3126389;hameau d'Alleray
+Q3126397;hameau du Danube
+Q3149190;impasse Alexandre-Lécuyer
+Q3149191;impasse Amelot
+Q3149195;impasse Baudran
+Q3149209;impasse Cels
+Q3149215;impasse Cordon-Boussard
+Q3149221;impasse Dany
+Q3149228;impasse Dupuy
+Q3149229;impasse Florimont
+Q3149236;impasse Gros
+Q3149239;impasse Joudrier
+Q3149244;impasse Louvat
+Q3149247;impasse Léger
+Q3149252;impasse Marty
+Q3149263;impasse Onfroy
+Q3149267;impasse Petin
+Q3149269;impasse Piver
+Q3149312;impasse Voltaire
+Q3149314;impasse d'Angers
+Q3149340;impasse de la Loi
+Q3149350;impasse des Arts
+Q3149385;impasse du Docteur-Jacques-Bertillon
+Q3149386;impasse du Gué
+Q3367822;passage Alexandre
+Q3367827;passage Alfred-Stevens
+Q3367828;passage Alombert
+Q3367831;passage Barrois
+Q3367837;passage Barthélemy
+Q3367857;passage Chanvin
+Q3367859;passage Charles-Albert
+Q3367863;passage Châtelet
+Q3367874;passage Delanos
+Q3367876;passage Dieu
+Q3367886;passage Dubuffet
+Q3367887;passage Dudouy
+Q3367890;passage Dumas
+Q3367894;passage Eugène-Beaudouin
+Q3367906;passage Goix
+Q3367911;passage Hennel
+Q3367920;passage Josseaume
+Q3367931;passage Lhomme
+Q3367934;passage Maigrot-Delaunay
+Q3367948;passage Nafissa-Sid-Cara
+Q3367957;passage Piat
+Q3367988;passage Saint-Philippe-du-Roule
+Q3367994;passage Saint-Vivant
+Q3367995;passage Saint-Émilion
+Q3368038;passage de Beaujolais
+Q3368040;passage de Cléry
+Q3368052;passage de Richelieu
+Q3368055;passage de l'Ancre
+Q3368065;passage de l'Yonne
+Q3368078;passage de la Hutte-au-Garde
+Q3368087;passage de la Providence
+Q3368088;passage de la Reine-de-Hongrie
+Q3368106;passage des Crayons
+Q3368110;passage des Deux-Sœurs
+Q3368116;passage des Jacobins
+Q3368122;passage des Petites-Écuries
+Q3368162;passage du Moulinet
+Q3368174;passage du Ruisseau-de-Ménilmontant
+Q3407359;promenade Jules-Isaac
+Q3412703;quai de la Garonne
+Q3446837;rue Achille
+Q3446866;rue Albert-Einstein
+Q3446869;rue Albert-Roussel
+Q3446905;rue Alice-Domon-et-Léonie-Duquet
+Q3446930;rue Amélie
+Q3446955;rue André-Pascal
+Q3446965;rue Annie-Girardot
+Q3447021;rue Auguste-Chapuis
+Q3447132;rue Berlioz
+Q3447133;rue Bernard-Dimey
+Q3447227;rue Bourgon
+Q3447228;rue Bourseul
+Q3447241;rue Brantôme
+Q3447264;rue Bréguet
+Q3447306;rue Camulogène
+Q3447385;rue Charles-Dickens
+Q3447412;rue Charles-Weiss
+Q3447445;rue Choderlos-de-Laclos
+Q3447560;rue Cristino-Garcia
+Q3447696;rue Dosne
+Q3447704;rue Dranem
+Q3447777;rue Edgar-Varèse
+Q3447788;rue Elsa-Morante
+Q3447888;rue Fernand-Braudel
+Q3447963;rue François-Bloch-Lainé
+Q3447990;rue Françoise-Dolto
+Q3448111;rue George-Balanchine
+Q3448124;rue Georges-Duhamel
+Q3448146;rue Germaine-Tailleferre
+Q3448147;rue Gerty-Archimède
+Q3448287;rue Henri-Duvernois
+Q3448301;rue Henri-Noguères
+Q3448305;rue Henri-Ranvier
+Q3448311;rue Henri-Tomasi
+Q3448346;rue Herran
+Q3448374;rue Hélène-Brion
+Q3448381;rue Irénée-Blanc
+Q3448428;rue Jean-Antoine-de-Baïf
+Q3448430;rue Jean-Arp
+Q3448454;rue Jean-Claude-Arnould
+Q3448468;rue Jean-Fourastié
+Q3448473;rue Jean-Giono
+Q3448478;rue Jean-Hugues
+Q3448493;rue Jean-Minjoz
+Q3448543;rue Jeanne-Chauvin
+Q3448564;rue Jonas
+Q3448575;rue Joseph-Kosma
+Q3448579;rue Joseph-Python
+Q3448598;rue Joséphine
+Q3448616;rue Jules-Claretie
+Q3448635;rue Jules-Pichard
+Q3448796;rue Le Tasse
+Q3448864;rue Lhuillier
+Q3448935;rue Lucien-Leuwen
+Q3448959;rue Léon-Droux
+Q3448968;rue Léon-Schwartzenberg
+Q3449050;rue Marguerite-Duras
+Q3449053;rue Marguerite-Long
+Q3449056;rue Marie-Andrée-Lagroua-Weill-Hallé
+Q3449061;rue Marie-Louise-Dubreil-Jacotin
+Q3449223;rue Montauban
+Q3449312;rue Nicole-Chouraqui
+Q3449339;rue Olivier-Messiaen
+Q3449380;rue Patrice-de-la-Tour-du-Pin
+Q3449384;rue Pau-Casals
+Q3449423;rue Paul-Klee
+Q3449615;rue Primo-Levi
+Q3449684;rue Raoul-Wallenberg
+Q3449695;rue Raymond-Radiguet
+Q3449710;rue René-Goscinny
+Q3449804;rue Rudolf-Noureev
+Q3450099;rue Stéphane-Grappelli
+Q3450144;rue Thomas-Mann
+Q3450326;rue Victorien-Sardou
+Q3450810;rue de Libourne
+Q3451187;rue de l'Amiral-Courbet
+Q3451236;rue de l'Empereur-Julien
+Q3451238;rue de l'Empereur-Valentinien
+Q3451271;rue de l'Industrie
+Q3451277;rue de l'Oculus
+Q3451671;rue des Berges-Hennequines
+Q3451708;rue des Cadets-de-la-France-Libre
+Q3451779;rue des Deux-Avenues
+Q3451800;rue des Eaux
+Q3451825;rue des Frigos
+Q3451847;rue des Grands-Moulins
+Q3451883;rue des Jonquilles
+Q3451929;rue des Mâconnais
+Q3451987;rue des Pruniers
+Q3452220;rue du Commandant-Marchand
+Q3452250;rue du Disque
+Q3452336;rue du Général-Baratier
+Q3452344;rue du Général-Clergerie
+Q3452357;rue du Général-Langlois
+Q3452392;rue du Javelot
+Q3452469;rue du Moulinet
+Q3452615;rue du Tibre
+Q3452664;rue Édouard-VII
+Q3452693;rue Émile-Durkheim
+Q3452744;ruelle Bidault
+Q3452750;ruelle des Hébrard
+Q3452751;ruelle du Soleil-d'Or
+Q3494443;square Alain-Fournier
+Q3494447;square Albert-Bartholomé
+Q3494455;square Albin-Cachot
+Q3494456;square Alboni
+Q3494469;square Alfred-Dehodencq
+Q3494478;square André-Lichtenberger
+Q3494482;square Antoine-Arnauld
+Q3494488;square Arago
+Q3494493;square Auguste-Renoir
+Q3494497;square Beaujon
+Q3494508;square Brizeux
+Q3494526;square Charles-Laurent
+Q3494556;square Dunois
+Q3494560;square Emmanuel-Chabrier
+Q3494570;square Fernand-de-la-Tombelle
+Q3494580;square Frédéric-Vallois
+Q3494585;square Gabriel-Fauré
+Q3494594;square Georges-Contenot
+Q3494606;square Got
+Q3494621;square Henri-Duparc
+Q3494629;square Henry-Paté
+Q3494644;square Jean-Falck
+Q3494648;square Jean-Paul-Laurens
+Q3494650;square Jean-Thébaud
+Q3494656;square Jules-Chéret
+Q3494670;square La Champmeslé
+Q3494672;square La Fontaine
+Q3494681;square Leroy-Beaulieu
+Q3494683;square Louis-Gentil
+Q3494694;square Louise-et-Tony
+Q3494703;square Léon-Guillot
+Q3494707;square Malherbe
+Q3494718;square Marcel-Toussaint
+Q3494738;square Mozart
+Q3494742;square Nicolaÿ
+Q3494833;square Thiers
+Q3494860;square Vitruve
+Q3494870;square d'Amiens
+Q3494873;square d'Aquitaine
+Q3494924;square de l'Avenue-Foch
+Q3494926;square de l'Avenue-du-Bois
+Q3494928;square de l'Aveyron
+Q3494929;square de l'Esterel
+Q3494932;square de l'Opéra-Louis-Jouvet
+Q3494936;square de la Bresse
+Q3494939;square de la Dordogne
+Q3494953;square de la Mutualité
+Q3494977;square des Aliscamps
+Q3495021;square du Croisic
+Q3495023;square du Docteur-Blanche
+Q3495029;square du Graisivaudan
+Q3495044;square du Nouveau-Belleville
+Q3558433;villa Adrienne
+Q3558436;villa Adrienne-Simon
+Q3558442;villa Amalia
+Q3558452;villa Aublet
+Q3558458;villa Ballu
+Q3558473;villa Boléro
+Q3558479;villa Cantate
+Q3558486;villa Cheysson
+Q3558503;villa Cœur-de-Vey
+Q3558517;villa Dufresne
+Q3558518;villa Dupont
+Q3558531;villa Faucheur
+Q3558538;villa Flore
+Q3558551;villa Garnier
+Q3558558;villa Godin
+Q3558559;villa Guibert
+Q3558562;villa Hardy
+Q3558567;villa Hersent
+Q3558568;villa Honoré-Gabriel-Riqueti
+Q3558653;villa Mallebay
+Q3558654;villa Marcel-Lods
+Q3558656;villa Marcès
+Q3558660;villa Marie-Vassilieff
+Q3558666;villa Maurice-Rollinat
+Q3558681;villa Mozart
+Q3558685;villa Méridienne
+Q3558687;villa Nicolas-de-Blégny
+Q3558699;villa Patrice-Boudart
+Q3558711;villa Riberolle
+Q3558717;villa Robert-Doisneau
+Q3558724;villa Rémi-Belleau
+Q3558730;villa Saint-Fargeau
+Q3558735;villa Sainte-Croix
+Q3558756;Villa Sonatine
+Q3558762;villa Soutine
+Q3558772;villa Toccata
+Q3558791;villa Wagram-Saint-Honoré
+Q3558799;villa d'Este
+Q3558809;villa de Beauséjour
+Q3558830;villa de l'Adour
+Q3558838;villa de la Faisanderie
+Q3558843;villa de la Saulaie
+Q3558850;villa des Arts
+Q3558863;villa des Hautes-Traverses
+Q3558879;villa des Ternes
+Q3558886;villa du Borrégo
+Q3558933;villa Émile-Meyer
+Q3562158;voie A/11
+Q3562163;rue Madeleine-Brès
+Q3562167;voie AA/12
+Q14629270;impasse d'Amsterdam
+Q14629271;impasse d'Antin
+Q14629272;impasse Bourdin
+Q15971553;square Eugène-Hatton
+Q15971558;voie AF/16
+Q20968314;cour du Levant
+Q21098076;cité Odiot
+Q21098093;impasse Mathieu
+Q21098098;passage J/13
+Q21098099;passage Marcel-Landowski
+Q21098220;rue Bernard-de-Clairvaux
+Q21098232;square Amicie-Lebaudy
+Q21098235;square Max-Hymans
+Q21098239;terrasse Modigliani
+Q21098241;voie A/1
+Q21098242;voie A/12
+Q21098243;voie A/15
+Q21098245;voie A/6
+Q21098246;voie A/7
+Q21098248;voie A/8
+Q21098249;voie A/9
+Q21098250;voie AA/13
+Q21098252;voie AA/19
+Q21098690;voie Y/19
+Q21098691;voie Z/16
+Q21098254;voie AC/12
+Q21098255;voie AC/16
+Q21098257;voie AC/19
+Q21098259;voie AD/18
+Q21098265;voie AH/16
+Q21098266;voie AH/20
+Q21098269;voie AJ/16
+Q21098270;voie AK/16
+Q21098271;voie AM/19
+Q21098273;voie AN/19
+Q21098274;voie AN/20
+Q21098277;voie AO/19
+Q21098278;voie AO/20
+Q21098279;voie AP/12
+Q21098281;voie AP/19
+Q21098296;voie AT/19
+Q21098313;voie AX/20
+Q21098322;voie B/10
+Q21098323;voie B/11
+Q21098324;voie B/14
+Q21098328;voie B/3
+Q21098329;voie B/4
+Q21098331;voie B/5
+Q21098332;voie B/6
+Q21098333;voie B/7
+Q21098369;voie BH/20
+Q21098377;voie BK/13
+Q21098380;voie BL/13
+Q21098391;voie BO/13
+Q21098398;voie BQ/13
+Q21098402;voie BR/13
+Q21098414;voie BU/20
+Q21098423;voie BY/20
+Q21098427;voie C/14
+Q21098428;voie C/15
+Q21098447;voie CD/18
+Q21098448;voie CD/20
+Q21098483;voie CQ/15
+Q21098485;voie CR/15
+Q21098490;voie CT/15
+Q21098499;voie CW/15
+Q21098508;voie D/16
+Q21098510;voie D/19
+Q21098511;voie D/5
+Q21098512;voie D/6
+Q21098513;voie D/7
+Q21098547;voie DN/12
+Q21098561;voie E/18
+Q21098562;voie E/6
+Q21098563;voie E/7
+Q21098565;voie E/9
+Q21098574;voie EH/13
+Q21098576;voie EI/19
+Q21098579;voie EK/13
+Q21098594;voie EV/13
+Q21098596;voie EW/13
+Q21098598;voie EX/13
+Q21098601;voie EY/13
+Q21098602;voie EZ/13
+Q21098605;voie F/14
+Q21098606;voie F/15
+Q21098608;voie F/17
+Q21098609;voie F/7
+Q21098611;voie F/9
+Q21098612;voie FA/13
+Q21098615;voie FF/13
+Q21098617;voie FH/13
+Q21098620;voie FI/13
+Q21098622;voie FJ/13
+Q21098624;voie FK/20
+Q21098629;voie G/13
+Q21098632;voie G/5
+Q21098634;voie G/9
+Q21098635;voie H/12
+Q21098636;voie H/15
+Q21098637;voie H/17
+Q21098639;voie H/5
+Q21098642;voie I/20
+Q21098643;voie J/15
+Q21098650;voie L/16
+Q21098651;voie Léonie-Kastner
+Q21098652;voie M/12
+Q21098654;voie M/18
+Q21098657;voie N/13
+Q21098661;voie P/12
+Q21098662;voie P/16
+Q21098665;voie P/19
+Q21098668;voie R/11
+Q21098671;voie S/15
+Q21098672;voie S/16
+Q21098674;voie S/19
+Q21098675;voie T/16
+Q21098676;voie T/20
+Q21098677;voie U/10
+Q21098679;voie U/19
+Q21098681;voie V/16
+Q21098683;voie W/16
+Q21098684;voie X/12
+Q21098685;voie X/13
+Q21098688;voie Y/13

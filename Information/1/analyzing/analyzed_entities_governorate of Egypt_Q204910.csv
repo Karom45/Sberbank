@@ -1,0 +1,899 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q29937;Aswan Governorate;административно-территориальная единица;1;151;to
+Q30946;Kafr el-Sheikh Governorate;является столицей;1;1;to
+Q30832;Giza Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q30832;Giza Governorate;географические координаты;1;1;from
+Q30832;Giza Governorate;код Freebase;1;1;from
+Q30832;Giza Governorate;Who's on First ID;1;1;from
+Q30832;Giza Governorate;категория карт на Викискладе;1;1;from
+Q30832;Giza Governorate;официальный сайт;1;1;from
+Q30832;Giza Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30832;Giza Governorate;основная категория по теме;1;1;from
+Q30832;Giza Governorate;административно делится на;1;1;to
+Q30832;Giza Governorate;категория объединяет темы;1;2;to
+Q30832;Giza Governorate;место рождения;1;10;to
+Q30832;Giza Governorate;место смерти;1;1;to
+Q30832;Giza Governorate;местонахождение;1;1;to
+Q30832;Giza Governorate;общая тема категории;1;1;to
+Q30832;Giza Governorate;является столицей;1;1;to
+Q30835;Gharbia Governorate;административно-территориальная единица;1;180;to
+Q30835;Gharbia Governorate;государство;1;1;from
+Q30835;Gharbia Governorate;изображение;1;1;from
+Q30835;Gharbia Governorate;карта местонахождения;1;1;from
+Q30835;Gharbia Governorate;код LCNAF;1;1;from
+Q30835;Gharbia Governorate;это частный случай понятия;1;1;from
+Q30835;Gharbia Governorate;столица;1;1;from
+Q30835;Gharbia Governorate;изображение флага;1;1;from
+Q30835;Gharbia Governorate;изображение герба;1;1;from
+Q30835;Gharbia Governorate;десятичная классификация Дьюи;1;1;from
+Q30832;Giza Governorate;геоданные;1;1;from
+Q30832;Giza Governorate;категория на Викискладе;1;1;from
+Q30832;Giza Governorate;ISO 3166-2;1;1;from
+Q30832;Giza Governorate;это частный случай понятия;1;1;from
+Q30831;Red Sea Governorate;основная категория по теме;1;1;from
+Q30831;Red Sea Governorate;административно делится на;1;1;to
+Q30831;Red Sea Governorate;является столицей;1;1;to
+Q30831;Red Sea Governorate;место рождения;1;2;to
+Q30831;Red Sea Governorate;общая тема категории;1;1;to
+Q30831;Red Sea Governorate;категория объединяет темы;1;1;to
+Q30831;Red Sea Governorate;происходит из;1;1;to
+Q30832;Giza Governorate;административно-территориальная единица;1;266;to
+Q30832;Giza Governorate;государство;1;1;from
+Q30832;Giza Governorate;изображение;1;1;from
+Q30832;Giza Governorate;карта местонахождения;1;1;from
+Q30832;Giza Governorate;столица;1;1;from
+Q30832;Giza Governorate;код BNF;1;1;from
+Q30832;Giza Governorate;изображение флага;1;1;from
+Q30832;Giza Governorate;изображение герба;1;1;from
+Q30832;Giza Governorate;численность населения;1;8;from
+Q30832;Giza Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30832;Giza Governorate;код GeoNames;1;1;from
+Q30832;Giza Governorate;код TGN;1;1;from
+Q30832;Giza Governorate;название на языке оригинала;1;1;from
+Q30832;Giza Governorate;категория для людей, связанных с местностью;1;1;from
+Q30832;Giza Governorate;высота над уровнем моря;1;1;from
+Q30832;Giza Governorate;площадь;1;1;from
+Q30832;Giza Governorate;код BabelNet;1;1;from
+Q30835;Gharbia Governorate;численность населения;1;8;from
+Q30835;Gharbia Governorate;описывается в источниках;1;1;from
+Q30835;Gharbia Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30946;Kafr el-Sheikh Governorate;ISO 3166-2;1;1;from
+Q30946;Kafr el-Sheikh Governorate;столица;1;1;from
+Q30946;Kafr el-Sheikh Governorate;изображение флага;1;1;from
+Q30946;Kafr el-Sheikh Governorate;изображение герба;1;1;from
+Q30946;Kafr el-Sheikh Governorate;десятичная классификация Дьюи;1;1;from
+Q30946;Kafr el-Sheikh Governorate;численность населения;1;8;from
+Q30946;Kafr el-Sheikh Governorate;код GeoNames;1;1;from
+Q30946;Kafr el-Sheikh Governorate;код TGN;1;1;from
+Q30946;Kafr el-Sheikh Governorate;название на языке оригинала;1;1;from
+Q30946;Kafr el-Sheikh Governorate;категория для людей, связанных с местностью;1;1;from
+Q30946;Kafr el-Sheikh Governorate;высота над уровнем моря;1;1;from
+Q30946;Kafr el-Sheikh Governorate;площадь;1;1;from
+Q30946;Kafr el-Sheikh Governorate;идентификатор Ringgold;1;1;from
+Q30946;Kafr el-Sheikh Governorate;карта местонахождения;1;3;from
+Q30946;Kafr el-Sheikh Governorate;категория на Викискладе;1;1;from
+Q30946;Kafr el-Sheikh Governorate;геоданные;1;1;from
+Q30946;Kafr el-Sheikh Governorate;географические координаты;1;1;from
+Q30946;Kafr el-Sheikh Governorate;код Freebase;1;1;from
+Q30946;Kafr el-Sheikh Governorate;Who's on First ID;1;1;from
+Q30946;Kafr el-Sheikh Governorate;категория карт на Викискладе;1;1;from
+Q30946;Kafr el-Sheikh Governorate;официальный сайт;1;1;from
+Q30946;Kafr el-Sheikh Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30946;Kafr el-Sheikh Governorate;основная категория по теме;1;1;from
+Q30946;Kafr el-Sheikh Governorate;административно делится на;1;1;to
+Q30946;Kafr el-Sheikh Governorate;место рождения;1;3;to
+Q30946;Kafr el-Sheikh Governorate;это частный случай понятия;1;1;from
+Q30946;Kafr el-Sheikh Governorate;код ISNI;1;1;from
+Q30835;Gharbia Governorate;код GeoNames;1;1;from
+Q30835;Gharbia Governorate;категория карт на Викискладе;1;1;from
+Q30835;Gharbia Governorate;код TGN;1;1;from
+Q30835;Gharbia Governorate;категория для людей, связанных с местностью;1;1;from
+Q30835;Gharbia Governorate;высота над уровнем моря;1;1;from
+Q30835;Gharbia Governorate;площадь;1;1;from
+Q30835;Gharbia Governorate;код BabelNet;1;1;from
+Q30835;Gharbia Governorate;ISO 3166-2;1;1;from
+Q30835;Gharbia Governorate;категория на Викискладе;1;1;from
+Q30835;Gharbia Governorate;геоданные;1;1;from
+Q30835;Gharbia Governorate;географические координаты;1;1;from
+Q30835;Gharbia Governorate;код Freebase;1;1;from
+Q30835;Gharbia Governorate;Who's on First ID;1;1;from
+Q30835;Gharbia Governorate;официальный сайт;1;1;from
+Q30946;Kafr el-Sheikh Governorate;изображение;1;1;from
+Q30835;Gharbia Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30835;Gharbia Governorate;основная категория по теме;1;1;from
+Q30835;Gharbia Governorate;место в MusicBrainz;1;1;from
+Q30835;Gharbia Governorate;административно делится на;1;1;to
+Q30835;Gharbia Governorate;место рождения;1;17;to
+Q30835;Gharbia Governorate;категория объединяет темы;1;2;to
+Q30835;Gharbia Governorate;основная тема;1;1;to
+Q30835;Gharbia Governorate;является столицей;1;1;to
+Q30835;Gharbia Governorate;общая тема категории;1;1;to
+Q30946;Kafr el-Sheikh Governorate;административно-территориальная единица;1;536;to
+Q30946;Kafr el-Sheikh Governorate;государство;1;1;from
+Q30831;Red Sea Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30831;Red Sea Governorate;официальный сайт;1;1;from
+Q30831;Red Sea Governorate;категория карт на Викискладе;1;1;from
+Q30805;Cairo Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q30805;Cairo Governorate;код GeoNames;1;1;from
+Q30805;Cairo Governorate;код TGN;1;1;from
+Q30805;Cairo Governorate;название на языке оригинала;1;1;from
+Q30805;Cairo Governorate;категория для людей, связанных с местностью;1;1;from
+Q30805;Cairo Governorate;высота над уровнем моря;1;1;from
+Q30805;Cairo Governorate;площадь;1;1;from
+Q30805;Cairo Governorate;ISO 3166-2;1;1;from
+Q30805;Cairo Governorate;код темы Quora;1;1;from
+Q30805;Cairo Governorate;категория на Викискладе;1;1;from
+Q30805;Cairo Governorate;геоданные;1;1;from
+Q30805;Cairo Governorate;код для сущности Wolfram Language;1;1;from
+Q30805;Cairo Governorate;географические координаты;1;1;from
+Q30805;Cairo Governorate;десятичная классификация Дьюи;1;1;from
+Q30805;Cairo Governorate;код Freebase;1;1;from
+Q30805;Cairo Governorate;Who's on First ID;1;1;from
+Q30805;Cairo Governorate;официальный сайт;1;1;from
+Q30805;Cairo Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30805;Cairo Governorate;основная категория по теме;1;1;from
+Q30805;Cairo Governorate;место в MusicBrainz;1;1;from
+Q30805;Cairo Governorate;административно делится на;1;1;to
+Q30805;Cairo Governorate;административно-территориальная единица;1;384;to
+Q30805;Cairo Governorate;категория объединяет темы;1;1;to
+Q30805;Cairo Governorate;место смерти;1;2;to
+Q30805;Cairo Governorate;расположение штаб-квартиры;1;1;to
+Q30805;Cairo Governorate;численность населения;1;8;from
+Q30805;Cairo Governorate;изображение флага;1;1;from
+Q30805;Cairo Governorate;названо в честь;1;1;to
+Q30797;Luxor Governorate;основная категория по теме;1;1;from
+Q30797;Luxor Governorate;площадь;1;1;from
+Q30797;Luxor Governorate;ISO 3166-2;1;1;from
+Q30797;Luxor Governorate;категория на Викискладе;1;1;from
+Q30797;Luxor Governorate;геоданные;1;1;from
+Q30797;Luxor Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q30797;Luxor Governorate;дата основания/создания/возникновения;1;1;from
+Q30797;Luxor Governorate;географические координаты;1;1;from
+Q30797;Luxor Governorate;код Freebase;1;1;from
+Q30797;Luxor Governorate;Who's on First ID;1;1;from
+Q30797;Luxor Governorate;категория карт на Викискладе;1;1;from
+Q30797;Luxor Governorate;официальный сайт;1;1;from
+Q30797;Luxor Governorate;административно делится на;1;1;to
+Q30805;Cairo Governorate;столица;1;1;from
+Q30797;Luxor Governorate;является столицей;1;1;to
+Q30797;Luxor Governorate;категория объединяет темы;1;2;to
+Q30797;Luxor Governorate;история происходит в месте;1;1;to
+Q30797;Luxor Governorate;место жительства;1;1;to
+Q30797;Luxor Governorate;общая тема категории;1;1;to
+Q30805;Cairo Governorate;государство;1;1;from
+Q30805;Cairo Governorate;изображение;1;1;from
+Q30805;Cairo Governorate;город-побратим;1;1;to
+Q30805;Cairo Governorate;код GND;1;1;from
+Q30805;Cairo Governorate;карта местонахождения;1;1;from
+Q30805;Cairo Governorate;это частный случай понятия;1;1;from
+Q30805;Cairo Governorate;место рождения;1;12;to
+Q30805;Cairo Governorate;общая тема категории;1;1;to
+Q30831;Red Sea Governorate;Who's on First ID;1;1;from
+Q30831;Red Sea Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30831;Red Sea Governorate;административно-территориальная единица;1;1199;to
+Q30831;Red Sea Governorate;государство;1;1;from
+Q30831;Red Sea Governorate;изображение;1;1;from
+Q30831;Red Sea Governorate;карта местонахождения;1;1;from
+Q30831;Red Sea Governorate;код LCNAF;1;1;from
+Q30831;Red Sea Governorate;это частный случай понятия;1;1;from
+Q30831;Red Sea Governorate;столица;1;1;from
+Q30831;Red Sea Governorate;изображение флага;1;1;from
+Q30831;Red Sea Governorate;изображение герба;1;1;from
+Q30831;Red Sea Governorate;десятичная классификация Дьюи;1;1;from
+Q30831;Red Sea Governorate;численность населения;1;8;from
+Q30831;Red Sea Governorate;код GeoNames;1;1;from
+Q30815;South Sinai Governorate;общая тема категории;1;1;to
+Q30831;Red Sea Governorate;код TGN;1;1;from
+Q30831;Red Sea Governorate;название на языке оригинала;1;1;from
+Q30831;Red Sea Governorate;высота над уровнем моря;1;1;from
+Q30831;Red Sea Governorate;площадь;1;1;from
+Q30831;Red Sea Governorate;используемый язык;1;1;from
+Q30831;Red Sea Governorate;ISO 3166-2;1;1;from
+Q30831;Red Sea Governorate;категория на Викискладе;1;1;from
+Q30831;Red Sea Governorate;геоданные;1;1;from
+Q30831;Red Sea Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q30831;Red Sea Governorate;географические координаты;1;1;from
+Q30831;Red Sea Governorate;код Freebase;1;1;from
+Q30815;South Sinai Governorate;является столицей;1;1;to
+Q30815;South Sinai Governorate;место смерти;1;1;to
+Q30815;South Sinai Governorate;административно-территориальная единица;1;939;to
+Q30815;South Sinai Governorate;название на языке оригинала;1;1;from
+Q30815;South Sinai Governorate;государство;1;1;from
+Q30815;South Sinai Governorate;изображение;1;1;from
+Q30815;South Sinai Governorate;карта местонахождения;1;1;from
+Q30815;South Sinai Governorate;это частный случай понятия;1;1;from
+Q30815;South Sinai Governorate;столица;1;1;from
+Q30815;South Sinai Governorate;изображение флага;1;1;from
+Q30815;South Sinai Governorate;изображение герба;1;1;from
+Q30815;South Sinai Governorate;численность населения;1;4;from
+Q30815;South Sinai Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30815;South Sinai Governorate;код GeoNames;1;1;from
+Q30815;South Sinai Governorate;код TGN;1;1;from
+Q30815;South Sinai Governorate;высота над уровнем моря;1;1;from
+Q30815;South Sinai Governorate;обслуживаемый город;1;1;to
+Q30815;South Sinai Governorate;площадь;1;1;from
+Q30815;South Sinai Governorate;ISO 3166-2;1;1;from
+Q30815;South Sinai Governorate;категория на Викискладе;1;1;from
+Q30815;South Sinai Governorate;геоданные;1;1;from
+Q30815;South Sinai Governorate;географические координаты;1;1;from
+Q30815;South Sinai Governorate;код Freebase;1;1;from
+Q30815;South Sinai Governorate;Who's on First ID;1;1;from
+Q30815;South Sinai Governorate;официальный сайт;1;1;from
+Q30815;South Sinai Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30815;South Sinai Governorate;основная категория по теме;1;1;from
+Q30815;South Sinai Governorate;административно делится на;1;1;to
+Q30946;Kafr el-Sheikh Governorate;категория объединяет темы;1;3;to
+Q30946;Kafr el-Sheikh Governorate;общая тема категории;1;1;to
+Q29937;Aswan Governorate;государство;1;1;from
+Q31065;Qena Governorate;административно-территориальная единица;1;73;to
+Q31074;Al Sharqia Governorate;код GeoNames;1;1;from
+Q31074;Al Sharqia Governorate;код TGN;1;1;from
+Q31074;Al Sharqia Governorate;категория для людей, связанных с местностью;1;1;from
+Q31074;Al Sharqia Governorate;высота над уровнем моря;1;1;from
+Q31074;Al Sharqia Governorate;площадь;1;1;from
+Q31074;Al Sharqia Governorate;ISO 3166-2;1;1;from
+Q31074;Al Sharqia Governorate;категория на Викискладе;1;1;from
+Q31074;Al Sharqia Governorate;геоданные;1;1;from
+Q31074;Al Sharqia Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q31074;Al Sharqia Governorate;географические координаты;1;1;from
+Q31074;Al Sharqia Governorate;код Freebase;1;1;from
+Q31074;Al Sharqia Governorate;Who's on First ID;1;1;from
+Q31074;Al Sharqia Governorate;категория карт на Викискладе;1;1;from
+Q31074;Al Sharqia Governorate;официальный сайт;1;1;from
+Q31074;Al Sharqia Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q31074;Al Sharqia Governorate;основная категория по теме;1;1;from
+Q31074;Al Sharqia Governorate;место в MusicBrainz;1;1;from
+Q31074;Al Sharqia Governorate;административно делится на;1;1;to
+Q31074;Al Sharqia Governorate;категория объединяет темы;1;2;to
+Q31074;Al Sharqia Governorate;место рождения;1;32;to
+Q31074;Al Sharqia Governorate;является столицей;1;1;to
+Q31074;Al Sharqia Governorate;общая тема категории;1;1;to
+Q31075;Qalyubia Governorate;административно-территориальная единица;1;67;to
+Q31075;Qalyubia Governorate;государство;1;1;from
+Q31075;Qalyubia Governorate;изображение;1;1;from
+Q31074;Al Sharqia Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q31074;Al Sharqia Governorate;численность населения;1;8;from
+Q31074;Al Sharqia Governorate;десятичная классификация Дьюи;1;1;from
+Q31070;Suez Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q31070;Suez Governorate;высота над уровнем моря;1;1;from
+Q31070;Suez Governorate;площадь;1;1;from
+Q31070;Suez Governorate;код BabelNet;1;1;from
+Q31070;Suez Governorate;ISO 3166-2;1;1;from
+Q31070;Suez Governorate;категория на Викискладе;1;1;from
+Q31070;Suez Governorate;геоданные;1;1;from
+Q31070;Suez Governorate;код тезауруса PACTOLS;1;1;from
+Q31070;Suez Governorate;географические координаты;1;1;from
+Q31070;Suez Governorate;код Freebase;1;1;from
+Q31070;Suez Governorate;Who's on First ID;1;1;from
+Q31070;Suez Governorate;официальный сайт;1;1;from
+Q31070;Suez Governorate;основная категория по теме;1;1;from
+Q31074;Al Sharqia Governorate;изображение герба;1;1;from
+Q31070;Suez Governorate;административно делится на;1;1;to
+Q31070;Suez Governorate;является столицей;1;1;to
+Q31070;Suez Governorate;общая тема категории;1;1;to
+Q31074;Al Sharqia Governorate;административно-территориальная единица;1;309;to
+Q31074;Al Sharqia Governorate;государство;1;1;from
+Q31074;Al Sharqia Governorate;изображение;1;1;from
+Q31074;Al Sharqia Governorate;код GND;1;1;from
+Q31074;Al Sharqia Governorate;карта местонахождения;1;1;from
+Q31074;Al Sharqia Governorate;это частный случай понятия;1;1;from
+Q31074;Al Sharqia Governorate;столица;1;1;from
+Q31074;Al Sharqia Governorate;изображение флага;1;1;from
+Q31075;Qalyubia Governorate;карта местонахождения;1;1;from
+Q31075;Qalyubia Governorate;это частный случай понятия;1;1;from
+Q31075;Qalyubia Governorate;столица;1;1;from
+Q31079;Port Said Governorate;площадь;1;1;from
+Q31079;Port Said Governorate;это частный случай понятия;1;1;from
+Q31079;Port Said Governorate;столица;1;1;from
+Q31079;Port Said Governorate;изображение флага;1;1;from
+Q31079;Port Said Governorate;изображение герба;1;1;from
+Q31079;Port Said Governorate;численность населения;1;8;from
+Q31079;Port Said Governorate;официальное название;1;1;from
+Q31079;Port Said Governorate;код GeoNames;1;1;from
+Q31079;Port Said Governorate;код Pleiades;1;1;from
+Q31079;Port Said Governorate;код TGN;1;1;from
+Q31079;Port Said Governorate;название на языке оригинала;1;1;from
+Q31079;Port Said Governorate;категория для людей, связанных с местностью;1;1;from
+Q31079;Port Said Governorate;ISO 3166-2;1;1;from
+Q31079;Port Said Governorate;код GND;1;1;from
+Q31079;Port Said Governorate;категория на Викискладе;1;1;from
+Q31079;Port Said Governorate;геоданные;1;1;from
+Q31079;Port Said Governorate;часовой пояс;1;1;from
+Q31079;Port Said Governorate;географические координаты;1;1;from
+Q31079;Port Said Governorate;код Freebase;1;1;from
+Q31079;Port Said Governorate;Who's on First ID;1;1;from
+Q31079;Port Said Governorate;официальный сайт;1;1;from
+Q31079;Port Said Governorate;основная категория по теме;1;1;from
+Q31079;Port Said Governorate;административно делится на;1;1;to
+Q31079;Port Said Governorate;категория объединяет темы;1;1;to
+Q31079;Port Said Governorate;является столицей;1;1;to
+Q31079;Port Said Governorate;карта местонахождения;1;1;from
+Q31079;Port Said Governorate;изображение;1;1;from
+Q31075;Qalyubia Governorate;изображение флага;1;1;from
+Q31075;Qalyubia Governorate;географические координаты;1;1;from
+Q31075;Qalyubia Governorate;изображение герба;1;1;from
+Q31075;Qalyubia Governorate;десятичная классификация Дьюи;1;1;from
+Q31075;Qalyubia Governorate;численность населения;1;8;from
+Q31075;Qalyubia Governorate;код GeoNames;1;1;from
+Q31075;Qalyubia Governorate;код TGN;1;1;from
+Q31075;Qalyubia Governorate;категория для людей, связанных с местностью;1;1;from
+Q31075;Qalyubia Governorate;высота над уровнем моря;1;1;from
+Q31075;Qalyubia Governorate;площадь;1;1;from
+Q31075;Qalyubia Governorate;ISO 3166-2;1;1;from
+Q31075;Qalyubia Governorate;категория на Викискладе;1;1;from
+Q31075;Qalyubia Governorate;геоданные;1;1;from
+Q31075;Qalyubia Governorate;код Freebase;1;1;from
+Q31079;Port Said Governorate;государство;1;1;from
+Q31075;Qalyubia Governorate;Who's on First ID;1;1;from
+Q31075;Qalyubia Governorate;категория карт на Викискладе;1;1;from
+Q31075;Qalyubia Governorate;официальный сайт;1;1;from
+Q31075;Qalyubia Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q31075;Qalyubia Governorate;основная категория по теме;1;1;from
+Q31075;Qalyubia Governorate;административно делится на;1;1;to
+Q31075;Qalyubia Governorate;место рождения;1;6;to
+Q31075;Qalyubia Governorate;является столицей;1;1;to
+Q31075;Qalyubia Governorate;общая тема категории;1;1;to
+Q31075;Qalyubia Governorate;категория объединяет темы;1;2;to
+Q31079;Port Said Governorate;административно-территориальная единица;1;11;to
+Q31070;Suez Governorate;название на языке оригинала;1;1;from
+Q31070;Suez Governorate;код TGN;1;1;from
+Q31070;Suez Governorate;код GeoNames;1;1;from
+Q31067;Ismailia Governorate;изображение герба;1;1;from
+Q31065;Qena Governorate;место рождения;1;2;to
+Q31065;Qena Governorate;категория объединяет темы;1;2;to
+Q31065;Qena Governorate;является столицей;1;1;to
+Q31065;Qena Governorate;общая тема категории;1;1;to
+Q31067;Ismailia Governorate;административно-территориальная единица;1;82;to
+Q31067;Ismailia Governorate;государство;1;1;from
+Q31067;Ismailia Governorate;изображение;1;1;from
+Q31067;Ismailia Governorate;карта местонахождения;1;1;from
+Q31067;Ismailia Governorate;это частный случай понятия;1;1;from
+Q31067;Ismailia Governorate;столица;1;1;from
+Q31067;Ismailia Governorate;изображение флага;1;1;from
+Q31067;Ismailia Governorate;численность населения;1;8;from
+Q31065;Qena Governorate;основная категория по теме;1;1;from
+Q31067;Ismailia Governorate;категория для людей, родившихся здесь;1;1;from
+Q31067;Ismailia Governorate;код GeoNames;1;1;from
+Q31067;Ismailia Governorate;код TGN;1;1;from
+Q31067;Ismailia Governorate;название на языке оригинала;1;1;from
+Q31067;Ismailia Governorate;категория для людей, связанных с местностью;1;1;from
+Q31067;Ismailia Governorate;высота над уровнем моря;1;1;from
+Q31067;Ismailia Governorate;площадь;1;1;from
+Q31067;Ismailia Governorate;ISO 3166-2;1;1;from
+Q31067;Ismailia Governorate;категория на Викискладе;1;1;from
+Q31067;Ismailia Governorate;геоданные;1;1;from
+Q31067;Ismailia Governorate;географические координаты;1;1;from
+Q31065;Qena Governorate;административно делится на;1;1;to
+Q31065;Qena Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q31067;Ismailia Governorate;Who's on First ID;1;1;from
+Q31065;Qena Governorate;код TGN;1;1;from
+Q31065;Qena Governorate;государство;1;1;from
+Q31065;Qena Governorate;изображение;1;1;from
+Q31065;Qena Governorate;карта местонахождения;1;1;from
+Q31065;Qena Governorate;это частный случай понятия;1;1;from
+Q31065;Qena Governorate;столица;1;1;from
+Q31065;Qena Governorate;изображение флага;1;1;from
+Q31065;Qena Governorate;изображение герба;1;1;from
+Q31065;Qena Governorate;десятичная классификация Дьюи;1;1;from
+Q31065;Qena Governorate;численность населения;1;8;from
+Q31065;Qena Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q31065;Qena Governorate;код GeoNames;1;1;from
+Q31065;Qena Governorate;название на языке оригинала;1;1;from
+Q31065;Qena Governorate;официальный сайт;1;1;from
+Q31065;Qena Governorate;категория для людей, связанных с местностью;1;1;from
+Q31065;Qena Governorate;высота над уровнем моря;1;1;from
+Q31065;Qena Governorate;площадь;1;1;from
+Q31065;Qena Governorate;ISO 3166-2;1;1;from
+Q31065;Qena Governorate;категория на Викискладе;1;1;from
+Q31065;Qena Governorate;геоданные;1;1;from
+Q31065;Qena Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q31065;Qena Governorate;географические координаты;1;1;from
+Q31065;Qena Governorate;код Freebase;1;1;from
+Q31065;Qena Governorate;Who's on First ID;1;1;from
+Q31065;Qena Governorate;категория карт на Викискладе;1;1;from
+Q31067;Ismailia Governorate;код Freebase;1;1;from
+Q31067;Ismailia Governorate;категория карт на Викискладе;1;1;from
+Q31070;Suez Governorate;код US National Archives;1;1;from
+Q31068;Dakahlia Governorate;место рождения;1;36;to
+Q31068;Dakahlia Governorate;категория на Викискладе;1;1;from
+Q31068;Dakahlia Governorate;геоданные;1;1;from
+Q31068;Dakahlia Governorate;географические координаты;1;1;from
+Q31068;Dakahlia Governorate;код Freebase;1;1;from
+Q31068;Dakahlia Governorate;Who's on First ID;1;1;from
+Q31068;Dakahlia Governorate;категория карт на Викискладе;1;1;from
+Q31068;Dakahlia Governorate;официальный сайт;1;1;from
+Q31068;Dakahlia Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q31068;Dakahlia Governorate;основная категория по теме;1;1;from
+Q31068;Dakahlia Governorate;место в MusicBrainz;1;1;from
+Q31068;Dakahlia Governorate;административно делится на;1;1;to
+Q31068;Dakahlia Governorate;является столицей;1;1;to
+Q31068;Dakahlia Governorate;код BabelNet;1;1;from
+Q31068;Dakahlia Governorate;категория объединяет темы;1;3;to
+Q31068;Dakahlia Governorate;общая тема категории;1;1;to
+Q31070;Suez Governorate;административно-территориальная единица;1;187;to
+Q31070;Suez Governorate;государство;1;1;from
+Q31070;Suez Governorate;изображение;1;1;from
+Q31070;Suez Governorate;карта местонахождения;1;1;from
+Q31070;Suez Governorate;это частный случай понятия;1;1;from
+Q31070;Suez Governorate;столица;1;1;from
+Q31070;Suez Governorate;изображение флага;1;1;from
+Q31070;Suez Governorate;изображение герба;1;1;from
+Q31070;Suez Governorate;численность населения;1;8;from
+Q31068;Dakahlia Governorate;ISO 3166-2;1;1;from
+Q31068;Dakahlia Governorate;площадь;1;1;from
+Q31067;Ismailia Governorate;официальный сайт;1;1;from
+Q31068;Dakahlia Governorate;изображение;1;1;from
+Q31067;Ismailia Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q31067;Ismailia Governorate;основная категория по теме;1;1;from
+Q31067;Ismailia Governorate;галерея на Викискладе;1;1;from
+Q31067;Ismailia Governorate;место в MusicBrainz;1;1;from
+Q31067;Ismailia Governorate;административно делится на;1;1;to
+Q31067;Ismailia Governorate;категория объединяет темы;1;3;to
+Q31067;Ismailia Governorate;место рождения;1;3;to
+Q31067;Ismailia Governorate;является столицей;1;1;to
+Q31067;Ismailia Governorate;общая тема категории;1;1;to
+Q31068;Dakahlia Governorate;административно-территориальная единица;1;586;to
+Q31068;Dakahlia Governorate;государство;1;1;from
+Q31068;Dakahlia Governorate;карта местонахождения;1;1;from
+Q31068;Dakahlia Governorate;высота над уровнем моря;1;1;from
+Q31068;Dakahlia Governorate;это частный случай понятия;1;1;from
+Q31068;Dakahlia Governorate;столица;1;1;from
+Q31068;Dakahlia Governorate;изображение флага;1;1;from
+Q31068;Dakahlia Governorate;изображение герба;1;1;from
+Q31068;Dakahlia Governorate;десятичная классификация Дьюи;1;1;from
+Q31068;Dakahlia Governorate;численность населения;1;8;from
+Q31068;Dakahlia Governorate;категория для людей, родившихся здесь;1;1;from
+Q31068;Dakahlia Governorate;код GeoNames;1;1;from
+Q31068;Dakahlia Governorate;код TGN;1;1;from
+Q31068;Dakahlia Governorate;название на языке оригинала;1;1;from
+Q31068;Dakahlia Governorate;категория для людей, связанных с местностью;1;1;from
+Q30797;Luxor Governorate;высота над уровнем моря;1;1;from
+Q30797;Luxor Governorate;категория для людей, связанных с местностью;1;1;from
+Q30797;Luxor Governorate;название на языке оригинала;1;1;from
+Q30797;Luxor Governorate;код TGN;1;1;from
+Q30644;Damietta Governorate;это частный случай понятия;1;1;from
+Q30644;Damietta Governorate;столица;1;1;from
+Q30644;Damietta Governorate;изображение флага;1;1;from
+Q30644;Damietta Governorate;десятичная классификация Дьюи;1;1;from
+Q30644;Damietta Governorate;численность населения;1;8;from
+Q30644;Damietta Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30644;Damietta Governorate;код GeoNames;1;1;from
+Q30644;Damietta Governorate;код TGN;1;1;from
+Q30644;Damietta Governorate;название на языке оригинала;1;1;from
+Q30644;Damietta Governorate;категория для людей, связанных с местностью;1;1;from
+Q30644;Damietta Governorate;площадь;1;1;from
+Q30644;Damietta Governorate;код BabelNet;1;1;from
+Q30644;Damietta Governorate;ISO 3166-2;1;1;from
+Q30644;Damietta Governorate;категория на Викискладе;1;1;from
+Q30644;Damietta Governorate;геоданные;1;1;from
+Q30644;Damietta Governorate;географические координаты;1;1;from
+Q30644;Damietta Governorate;код Freebase;1;1;from
+Q30644;Damietta Governorate;Who's on First ID;1;1;from
+Q30644;Damietta Governorate;официальный сайт;1;1;from
+Q30644;Damietta Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30644;Damietta Governorate;основная категория по теме;1;1;from
+Q30644;Damietta Governorate;административно делится на;1;1;to
+Q30644;Damietta Governorate;место рождения;1;3;to
+Q30644;Damietta Governorate;категория объединяет темы;1;1;to
+Q30644;Damietta Governorate;является столицей;1;1;to
+Q30644;Damietta Governorate;карта местонахождения;1;1;from
+Q30644;Damietta Governorate;изображение;1;1;from
+Q30644;Damietta Governorate;государство;1;1;from
+Q30630;Beheira Governorate;геоданные;1;1;from
+Q30630;Beheira Governorate;численность населения;1;4;from
+Q30630;Beheira Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30630;Beheira Governorate;категория для людей, родившихся здесь;1;1;from
+Q30630;Beheira Governorate;код GeoNames;1;1;from
+Q30630;Beheira Governorate;код TGN;1;1;from
+Q30630;Beheira Governorate;название на языке оригинала;1;1;from
+Q30630;Beheira Governorate;категория для людей, связанных с местностью;1;1;from
+Q30630;Beheira Governorate;высота над уровнем моря;1;1;from
+Q30630;Beheira Governorate;площадь;1;1;from
+Q30630;Beheira Governorate;ISO 3166-2;1;1;from
+Q30630;Beheira Governorate;категория на Викискладе;1;1;from
+Q30630;Beheira Governorate;географические координаты;1;1;from
+Q30644;Damietta Governorate;административно-территориальная единица;1;147;to
+Q30630;Beheira Governorate;код Freebase;1;1;from
+Q30630;Beheira Governorate;Who's on First ID;1;1;from
+Q30630;Beheira Governorate;категория карт на Викискладе;1;1;from
+Q30630;Beheira Governorate;официальный сайт;1;1;from
+Q30630;Beheira Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30630;Beheira Governorate;основная категория по теме;1;1;from
+Q30630;Beheira Governorate;административно делится на;1;1;to
+Q30630;Beheira Governorate;место рождения;1;17;to
+Q30630;Beheira Governorate;является столицей;1;1;to
+Q30630;Beheira Governorate;категория объединяет темы;1;3;to
+Q30630;Beheira Governorate;общая тема категории;1;1;to
+Q30644;Damietta Governorate;место смерти;1;1;to
+Q30644;Damietta Governorate;общая тема категории;1;1;to
+Q30650;New Valley Governorate;административно-территориальная единица;1;478;to
+Q30656;Faiyum Governorate;изображение флага;1;1;from
+Q30650;New Valley Governorate;административно делится на;1;1;to
+Q30650;New Valley Governorate;местонахождение;1;1;to
+Q30650;New Valley Governorate;является столицей;1;1;to
+Q30650;New Valley Governorate;общая тема категории;1;1;to
+Q30650;New Valley Governorate;категория объединяет темы;1;1;to
+Q30656;Faiyum Governorate;административно-территориальная единица;1;254;to
+Q30656;Faiyum Governorate;государство;1;1;from
+Q30656;Faiyum Governorate;изображение;1;1;from
+Q30656;Faiyum Governorate;карта местонахождения;1;1;from
+Q30656;Faiyum Governorate;это частный случай понятия;1;1;from
+Q30656;Faiyum Governorate;столица;1;1;from
+Q30656;Faiyum Governorate;изображение герба;1;1;from
+Q30650;New Valley Governorate;основная категория по теме;1;1;from
+Q30656;Faiyum Governorate;десятичная классификация Дьюи;1;1;from
+Q30656;Faiyum Governorate;численность населения;1;8;from
+Q30656;Faiyum Governorate;код в энциклопедии «Британника онлайн»;1;2;from
+Q30656;Faiyum Governorate;код GeoNames;1;1;from
+Q30656;Faiyum Governorate;код TGN;1;1;from
+Q30656;Faiyum Governorate;высота над уровнем моря;1;1;from
+Q30656;Faiyum Governorate;площадь;1;1;from
+Q30656;Faiyum Governorate;ISO 3166-2;1;1;from
+Q30656;Faiyum Governorate;категория на Викискладе;1;1;from
+Q30656;Faiyum Governorate;геоданные;1;1;from
+Q30656;Faiyum Governorate;часовой пояс;1;1;from
+Q30650;New Valley Governorate;место в MusicBrainz;1;1;from
+Q30650;New Valley Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30650;New Valley Governorate;государство;1;1;from
+Q30650;New Valley Governorate;название на языке оригинала;1;1;from
+Q30650;New Valley Governorate;изображение;1;1;from
+Q30650;New Valley Governorate;карта местонахождения;1;1;from
+Q30650;New Valley Governorate;это частный случай понятия;1;1;from
+Q30650;New Valley Governorate;столица;1;1;from
+Q30650;New Valley Governorate;изображение флага;1;1;from
+Q30650;New Valley Governorate;изображение герба;1;1;from
+Q30650;New Valley Governorate;десятичная классификация Дьюи;1;1;from
+Q30650;New Valley Governorate;численность населения;1;8;from
+Q30650;New Valley Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30650;New Valley Governorate;код GeoNames;1;1;from
+Q30650;New Valley Governorate;код TGN;1;1;from
+Q30650;New Valley Governorate;высота над уровнем моря;1;1;from
+Q30650;New Valley Governorate;официальный сайт;1;1;from
+Q30650;New Valley Governorate;площадь;1;1;from
+Q30650;New Valley Governorate;ISO 3166-2;1;1;from
+Q30650;New Valley Governorate;категория на Викискладе;1;1;from
+Q30650;New Valley Governorate;геоданные;1;1;from
+Q30650;New Valley Governorate;часовой пояс;1;1;from
+Q30650;New Valley Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q30650;New Valley Governorate;дата основания/создания/возникновения;1;1;from
+Q30650;New Valley Governorate;географические координаты;1;1;from
+Q30650;New Valley Governorate;код Freebase;1;1;from
+Q30650;New Valley Governorate;Who's on First ID;1;1;from
+Q30650;New Valley Governorate;категория карт на Викискладе;1;1;from
+Q30630;Beheira Governorate;десятичная классификация Дьюи;1;1;from
+Q30630;Beheira Governorate;изображение флага;1;1;from
+Q30630;Beheira Governorate;столица;1;1;from
+Q29943;Alexandria Governorate;столица;1;1;from
+Q29937;Aswan Governorate;административно делится на;1;1;to
+Q29937;Aswan Governorate;происходит из;1;1;to
+Q29937;Aswan Governorate;общая тема категории;1;1;to
+Q29937;Aswan Governorate;категория объединяет темы;1;2;to
+Q29937;Aswan Governorate;является столицей;1;1;to
+Q29943;Alexandria Governorate;административно-территориальная единица;1;270;to
+Q29943;Alexandria Governorate;государство;1;1;from
+Q29943;Alexandria Governorate;изображение;1;1;from
+Q29943;Alexandria Governorate;код GND;1;1;from
+Q29943;Alexandria Governorate;карта местонахождения;1;1;from
+Q29943;Alexandria Governorate;это частный случай понятия;1;1;from
+Q29943;Alexandria Governorate;изображение флага;1;1;from
+Q29937;Aswan Governorate;основная категория по теме;1;1;from
+Q29943;Alexandria Governorate;изображение герба;1;1;from
+Q29943;Alexandria Governorate;десятичная классификация Дьюи;1;1;from
+Q29943;Alexandria Governorate;численность населения;1;4;from
+Q29943;Alexandria Governorate;категория для людей, родившихся здесь;1;1;from
+Q29943;Alexandria Governorate;код GeoNames;1;1;from
+Q29943;Alexandria Governorate;код TGN;1;1;from
+Q29943;Alexandria Governorate;категория для людей, связанных с местностью;1;1;from
+Q29943;Alexandria Governorate;владеет;1;1;from
+Q29943;Alexandria Governorate;высота над уровнем моря;1;1;from
+Q29943;Alexandria Governorate;площадь;1;1;from
+Q29943;Alexandria Governorate;ISO 3166-2;1;1;from
+Q29937;Aswan Governorate;место в MusicBrainz;1;1;from
+Q29937;Aswan Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q29943;Alexandria Governorate;геоданные;1;1;from
+Q29937;Aswan Governorate;код TGN;1;1;from
+Q29937;Aswan Governorate;изображение;1;1;from
+Q29937;Aswan Governorate;код GND;1;1;from
+Q29937;Aswan Governorate;карта местонахождения;1;1;from
+Q29937;Aswan Governorate;это частный случай понятия;1;1;from
+Q29937;Aswan Governorate;столица;1;1;from
+Q29937;Aswan Governorate;изображение флага;1;1;from
+Q29937;Aswan Governorate;изображение герба;1;1;from
+Q29937;Aswan Governorate;десятичная классификация Дьюи;1;1;from
+Q29937;Aswan Governorate;численность населения;1;4;from
+Q29937;Aswan Governorate;код в Большой каталанской энциклопедии;1;1;from
+Q29937;Aswan Governorate;код GeoNames;1;1;from
+Q29937;Aswan Governorate;категория для людей, связанных с местностью;1;1;from
+Q29937;Aswan Governorate;официальный сайт;1;1;from
+Q29937;Aswan Governorate;высота над уровнем моря;1;1;from
+Q29937;Aswan Governorate;площадь;1;1;from
+Q29937;Aswan Governorate;используемый язык;1;1;from
+Q29937;Aswan Governorate;ISO 3166-2;1;1;from
+Q29937;Aswan Governorate;категория на Викискладе;1;1;from
+Q29937;Aswan Governorate;геоданные;1;1;from
+Q29937;Aswan Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q29937;Aswan Governorate;географические координаты;1;1;from
+Q29937;Aswan Governorate;код Freebase;1;1;from
+Q29937;Aswan Governorate;Who's on First ID;1;1;from
+Q29937;Aswan Governorate;категория карт на Викискладе;1;1;from
+Q29943;Alexandria Governorate;категория на Викискладе;1;1;from
+Q29943;Alexandria Governorate;код для сущности Wolfram Language;1;1;from
+Q30630;Beheira Governorate;это частный случай понятия;1;1;from
+Q29965;Asyut Governorate;официальный сайт;1;1;from
+Q29965;Asyut Governorate;код TGN;1;1;from
+Q29965;Asyut Governorate;категория для людей, связанных с местностью;1;1;from
+Q29965;Asyut Governorate;высота над уровнем моря;1;1;from
+Q29965;Asyut Governorate;площадь;1;1;from
+Q29965;Asyut Governorate;ISO 3166-2;1;1;from
+Q29965;Asyut Governorate;категория на Викискладе;1;1;from
+Q29965;Asyut Governorate;геоданные;1;1;from
+Q29965;Asyut Governorate;географические координаты;1;1;from
+Q29965;Asyut Governorate;код Freebase;1;1;from
+Q29965;Asyut Governorate;Who's on First ID;1;1;from
+Q29965;Asyut Governorate;категория карт на Викискладе;1;1;from
+Q29965;Asyut Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q29965;Asyut Governorate;категория для людей, родившихся здесь;1;1;from
+Q29965;Asyut Governorate;основная категория по теме;1;1;from
+Q29965;Asyut Governorate;административно делится на;1;1;to
+Q29965;Asyut Governorate;место рождения;1;6;to
+Q29965;Asyut Governorate;категория объединяет темы;1;3;to
+Q29965;Asyut Governorate;общая тема категории;1;1;to
+Q29965;Asyut Governorate;является столицей;1;1;to
+Q30630;Beheira Governorate;административно-территориальная единица;1;501;to
+Q30630;Beheira Governorate;государство;1;1;from
+Q30630;Beheira Governorate;код VIAF;1;1;from
+Q30630;Beheira Governorate;код GND;1;1;from
+Q30630;Beheira Governorate;карта местонахождения;1;1;from
+Q29965;Asyut Governorate;код GeoNames;1;1;from
+Q29965;Asyut Governorate;код в Большой каталанской энциклопедии;1;1;from
+Q29943;Alexandria Governorate;географические координаты;1;1;from
+Q29943;Alexandria Governorate;расположение штаб-квартиры;1;1;to
+Q29943;Alexandria Governorate;код Freebase;1;1;from
+Q29943;Alexandria Governorate;Who's on First ID;1;1;from
+Q29943;Alexandria Governorate;категория карт на Викискладе;1;1;from
+Q29943;Alexandria Governorate;официальный сайт;1;1;from
+Q29943;Alexandria Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q29943;Alexandria Governorate;основная категория по теме;1;1;from
+Q29943;Alexandria Governorate;место в MusicBrainz;1;1;from
+Q29943;Alexandria Governorate;административно делится на;1;1;to
+Q29943;Alexandria Governorate;является столицей;1;1;to
+Q29943;Alexandria Governorate;категория объединяет темы;1;3;to
+Q29943;Alexandria Governorate;место рождения;1;3;to
+Q29943;Alexandria Governorate;владельцем является;1;1;to
+Q29965;Asyut Governorate;код US National Archives;1;1;from
+Q29943;Alexandria Governorate;общая тема категории;1;1;to
+Q29965;Asyut Governorate;административно-территориальная единица;1;62;to
+Q29965;Asyut Governorate;государство;1;1;from
+Q29965;Asyut Governorate;изображение;1;1;from
+Q29965;Asyut Governorate;код GND;1;1;from
+Q29965;Asyut Governorate;карта местонахождения;1;1;from
+Q29965;Asyut Governorate;это частный случай понятия;1;1;from
+Q29965;Asyut Governorate;столица;1;1;from
+Q29965;Asyut Governorate;изображение флага;1;1;from
+Q29965;Asyut Governorate;десятичная классификация Дьюи;1;1;from
+Q29965;Asyut Governorate;численность населения;1;4;from
+Q30656;Faiyum Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q30656;Faiyum Governorate;географические координаты;1;1;from
+Q30656;Faiyum Governorate;код Freebase;1;1;from
+Q30683;Beni Suef Governorate;численность населения;1;4;from
+Q30682;Matrouh Governorate;место смерти;1;1;to
+Q30682;Matrouh Governorate;общая тема категории;1;1;to
+Q30682;Matrouh Governorate;происходит из;1;1;to
+Q30683;Beni Suef Governorate;административно-территориальная единица;1;85;to
+Q30683;Beni Suef Governorate;государство;1;1;from
+Q30683;Beni Suef Governorate;изображение;1;1;from
+Q30683;Beni Suef Governorate;карта местонахождения;1;1;from
+Q30683;Beni Suef Governorate;это частный случай понятия;1;1;from
+Q30683;Beni Suef Governorate;столица;1;1;from
+Q30683;Beni Suef Governorate;изображение флага;1;1;from
+Q30683;Beni Suef Governorate;десятичная классификация Дьюи;1;1;from
+Q30683;Beni Suef Governorate;описывается в источниках;1;1;from
+Q30682;Matrouh Governorate;категория объединяет темы;1;1;to
+Q30683;Beni Suef Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30683;Beni Suef Governorate;код GeoNames;1;1;from
+Q30683;Beni Suef Governorate;код TGN;1;1;from
+Q30683;Beni Suef Governorate;название на языке оригинала;1;1;from
+Q30683;Beni Suef Governorate;категория для людей, связанных с местностью;1;1;from
+Q30683;Beni Suef Governorate;высота над уровнем моря;1;1;from
+Q30683;Beni Suef Governorate;площадь;1;1;from
+Q30683;Beni Suef Governorate;ISO 3166-2;1;1;from
+Q30683;Beni Suef Governorate;категория на Викискладе;1;1;from
+Q30683;Beni Suef Governorate;геоданные;1;1;from
+Q30683;Beni Suef Governorate;географические координаты;1;1;from
+Q30682;Matrouh Governorate;является столицей;1;1;to
+Q30682;Matrouh Governorate;административно делится на;1;1;to
+Q30683;Beni Suef Governorate;Who's on First ID;1;1;from
+Q30682;Matrouh Governorate;код TGN;1;1;from
+Q30682;Matrouh Governorate;административно-территориальная единица;1;1085;to
+Q30682;Matrouh Governorate;государство;1;1;from
+Q30682;Matrouh Governorate;карта местонахождения;1;1;from
+Q30682;Matrouh Governorate;это частный случай понятия;1;1;from
+Q30682;Matrouh Governorate;столица;1;1;from
+Q30682;Matrouh Governorate;изображение флага;1;1;from
+Q30682;Matrouh Governorate;изображение герба;1;1;from
+Q30682;Matrouh Governorate;десятичная классификация Дьюи;1;1;from
+Q30682;Matrouh Governorate;численность населения;1;4;from
+Q30682;Matrouh Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30682;Matrouh Governorate;код GeoNames;1;1;from
+Q30682;Matrouh Governorate;название на языке оригинала;1;1;from
+Q30682;Matrouh Governorate;основная категория по теме;1;1;from
+Q30682;Matrouh Governorate;категория для людей, связанных с местностью;1;1;from
+Q30682;Matrouh Governorate;площадь;1;1;from
+Q30682;Matrouh Governorate;используемый язык;1;1;from
+Q30682;Matrouh Governorate;ISO 3166-2;1;1;from
+Q30682;Matrouh Governorate;категория на Викискладе;1;1;from
+Q30682;Matrouh Governorate;геоданные;1;1;from
+Q30682;Matrouh Governorate;географические координаты;1;1;from
+Q30682;Matrouh Governorate;код Freebase;1;1;from
+Q30682;Matrouh Governorate;Who's on First ID;1;1;from
+Q30682;Matrouh Governorate;официальный сайт;1;1;from
+Q30682;Matrouh Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30683;Beni Suef Governorate;код Freebase;1;1;from
+Q30683;Beni Suef Governorate;категория карт на Викискладе;1;1;from
+Q30675;Minya Governorate;общая тема категории;1;1;to
+Q30786;Monufia Governorate;общая тема категории;1;1;to
+Q30786;Monufia Governorate;код тезауруса PACTOLS;1;1;from
+Q30786;Monufia Governorate;географические координаты;1;1;from
+Q30786;Monufia Governorate;код Freebase;1;1;from
+Q30786;Monufia Governorate;Who's on First ID;1;1;from
+Q30786;Monufia Governorate;официальный сайт;1;1;from
+Q30786;Monufia Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30786;Monufia Governorate;основная категория по теме;1;1;from
+Q30786;Monufia Governorate;административно делится на;1;1;to
+Q30786;Monufia Governorate;место рождения;1;30;to
+Q30786;Monufia Governorate;категория объединяет темы;1;2;to
+Q30786;Monufia Governorate;местонахождение;1;1;to
+Q30786;Monufia Governorate;является столицей;1;1;to
+Q30786;Monufia Governorate;категория на Викискладе;1;1;from
+Q30797;Luxor Governorate;административно-территориальная единица;1;50;to
+Q30797;Luxor Governorate;государство;1;1;from
+Q30797;Luxor Governorate;изображение;1;2;from
+Q30797;Luxor Governorate;карта местонахождения;1;1;from
+Q30797;Luxor Governorate;это частный случай понятия;1;1;from
+Q30797;Luxor Governorate;столица;1;1;from
+Q30797;Luxor Governorate;изображение флага;1;1;from
+Q30797;Luxor Governorate;изображение герба;1;1;from
+Q30797;Luxor Governorate;десятичная классификация Дьюи;1;1;from
+Q30797;Luxor Governorate;численность населения;1;8;from
+Q30797;Luxor Governorate;код GeoNames;1;1;from
+Q30786;Monufia Governorate;геоданные;1;1;from
+Q30786;Monufia Governorate;ISO 3166-2;1;1;from
+Q30683;Beni Suef Governorate;официальный сайт;1;1;from
+Q30786;Monufia Governorate;изображение;1;1;from
+Q30683;Beni Suef Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30683;Beni Suef Governorate;основная категория по теме;1;1;from
+Q30683;Beni Suef Governorate;место в MusicBrainz;1;1;from
+Q30683;Beni Suef Governorate;административно делится на;1;1;to
+Q30683;Beni Suef Governorate;место рождения;1;4;to
+Q30683;Beni Suef Governorate;основная тема;1;1;to
+Q30683;Beni Suef Governorate;категория объединяет темы;1;2;to
+Q30683;Beni Suef Governorate;является столицей;1;1;to
+Q30683;Beni Suef Governorate;общая тема категории;1;1;to
+Q30786;Monufia Governorate;административно-территориальная единица;1;121;to
+Q30786;Monufia Governorate;государство;1;1;from
+Q30786;Monufia Governorate;карта местонахождения;1;1;from
+Q30786;Monufia Governorate;площадь;1;1;from
+Q30786;Monufia Governorate;это частный случай понятия;1;1;from
+Q30786;Monufia Governorate;столица;1;1;from
+Q30786;Monufia Governorate;изображение флага;1;1;from
+Q30786;Monufia Governorate;изображение герба;1;1;from
+Q30786;Monufia Governorate;десятичная классификация Дьюи;1;1;from
+Q30786;Monufia Governorate;численность населения;1;8;from
+Q30786;Monufia Governorate;категория для людей, родившихся здесь;1;1;from
+Q30786;Monufia Governorate;код GeoNames;1;1;from
+Q30786;Monufia Governorate;код TGN;1;1;from
+Q30786;Monufia Governorate;категория для людей, связанных с местностью;1;1;from
+Q30786;Monufia Governorate;высота над уровнем моря;1;1;from
+Q30675;Minya Governorate;категория объединяет темы;1;2;to
+Q30675;Minya Governorate;является столицей;1;1;to
+Q30656;Faiyum Governorate;Who's on First ID;1;1;from
+Q30662;North Sinai Governorate;общая тема категории;1;1;to
+Q30662;North Sinai Governorate;Who's on First ID;1;1;from
+Q30662;North Sinai Governorate;категория карт на Викискладе;1;1;from
+Q30662;North Sinai Governorate;официальный сайт;1;1;from
+Q30662;North Sinai Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30662;North Sinai Governorate;основная категория по теме;1;1;from
+Q30662;North Sinai Governorate;административно делится на;1;1;to
+Q30662;North Sinai Governorate;место рождения;1;2;to
+Q30662;North Sinai Governorate;местонахождение;1;3;to
+Q30662;North Sinai Governorate;является столицей;1;1;to
+Q30662;North Sinai Governorate;место смерти;1;1;to
+Q30662;North Sinai Governorate;категория объединяет темы;1;1;to
+Q30669;Sohag Governorate;административно-территориальная единица;1;53;to
+Q30662;North Sinai Governorate;географические координаты;1;1;from
+Q30669;Sohag Governorate;государство;1;1;from
+Q30669;Sohag Governorate;карта местонахождения;1;1;from
+Q30669;Sohag Governorate;это частный случай понятия;1;1;from
+Q30669;Sohag Governorate;столица;1;1;from
+Q30669;Sohag Governorate;изображение флага;1;1;from
+Q30669;Sohag Governorate;изображение герба;1;1;from
+Q30669;Sohag Governorate;десятичная классификация Дьюи;1;1;from
+Q30669;Sohag Governorate;численность населения;1;8;from
+Q30669;Sohag Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30669;Sohag Governorate;код GeoNames;1;1;from
+Q30669;Sohag Governorate;код TGN;1;1;from
+Q30662;North Sinai Governorate;код Freebase;1;1;from
+Q30662;North Sinai Governorate;геоданные;1;1;from
+Q30669;Sohag Governorate;категория для людей, связанных с местностью;1;1;from
+Q30662;North Sinai Governorate;изображение;1;1;from
+Q30656;Faiyum Governorate;официальный сайт;1;1;from
+Q30656;Faiyum Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30656;Faiyum Governorate;основная категория по теме;1;1;from
+Q30656;Faiyum Governorate;административно делится на;1;1;to
+Q30656;Faiyum Governorate;является столицей;1;1;to
+Q30656;Faiyum Governorate;место рождения;1;3;to
+Q30656;Faiyum Governorate;место обнаружения;1;1;to
+Q30656;Faiyum Governorate;место смерти;1;1;to
+Q30656;Faiyum Governorate;общая тема категории;1;1;to
+Q30662;North Sinai Governorate;административно-территориальная единица;1;467;to
+Q30662;North Sinai Governorate;государство;1;1;from
+Q30662;North Sinai Governorate;карта местонахождения;1;1;from
+Q30662;North Sinai Governorate;категория на Викискладе;1;1;from
+Q30662;North Sinai Governorate;это частный случай понятия;1;1;from
+Q30662;North Sinai Governorate;столица;1;1;from
+Q30662;North Sinai Governorate;изображение флага;1;1;from
+Q30662;North Sinai Governorate;численность населения;1;4;from
+Q30662;North Sinai Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30662;North Sinai Governorate;код GeoNames;1;1;from
+Q30662;North Sinai Governorate;код TGN;1;1;from
+Q30662;North Sinai Governorate;название на языке оригинала;1;1;from
+Q30662;North Sinai Governorate;высота над уровнем моря;1;1;from
+Q30662;North Sinai Governorate;площадь;1;1;from
+Q30662;North Sinai Governorate;ISO 3166-2;1;1;from
+Q30669;Sohag Governorate;название на языке оригинала;1;1;from
+Q30669;Sohag Governorate;высота над уровнем моря;1;1;from
+Q30675;Minya Governorate;местонахождение;1;3;to
+Q30675;Minya Governorate;часовой пояс;1;1;from
+Q30675;Minya Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q30675;Minya Governorate;код GeoNames;1;1;from
+Q30675;Minya Governorate;код TGN;1;1;from
+Q30675;Minya Governorate;название на языке оригинала;1;1;from
+Q30675;Minya Governorate;категория для людей, связанных с местностью;1;1;from
+Q30675;Minya Governorate;высота над уровнем моря;1;1;from
+Q30675;Minya Governorate;площадь;1;1;from
+Q30675;Minya Governorate;ISO 3166-2;1;1;from
+Q30675;Minya Governorate;код темы Quora;1;1;from
+Q30675;Minya Governorate;категория на Викискладе;1;1;from
+Q30675;Minya Governorate;геоданные;1;1;from
+Q30675;Minya Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q30675;Minya Governorate;численность населения;1;8;from
+Q30675;Minya Governorate;географические координаты;1;1;from
+Q30675;Minya Governorate;код Freebase;1;1;from
+Q30675;Minya Governorate;Who's on First ID;1;1;from
+Q30675;Minya Governorate;категория карт на Викискладе;1;1;from
+Q30675;Minya Governorate;официальный сайт;1;1;from
+Q30675;Minya Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30675;Minya Governorate;основная категория по теме;1;1;from
+Q30675;Minya Governorate;место в MusicBrainz;1;1;from
+Q30675;Minya Governorate;административно делится на;1;1;to
+Q30675;Minya Governorate;место рождения;1;6;to
+Q30675;Minya Governorate;место обнаружения;1;1;to
+Q30675;Minya Governorate;код в Большой каталанской энциклопедии;1;1;from
+Q30675;Minya Governorate;десятичная классификация Дьюи;1;1;from
+Q30669;Sohag Governorate;площадь;1;1;from
+Q30669;Sohag Governorate;основная категория по теме;1;1;from
+Q30669;Sohag Governorate;код BabelNet;1;1;from
+Q30669;Sohag Governorate;ISO 3166-2;1;1;from
+Q30669;Sohag Governorate;категория на Викискладе;1;1;from
+Q30669;Sohag Governorate;геоданные;1;1;from
+Q30669;Sohag Governorate;код тезауруса PACTOLS;1;1;from
+Q30669;Sohag Governorate;географические координаты;1;1;from
+Q30669;Sohag Governorate;код Freebase;1;1;from
+Q30669;Sohag Governorate;Who's on First ID;1;1;from
+Q30669;Sohag Governorate;категория карт на Викискладе;1;1;from
+Q30669;Sohag Governorate;официальный сайт;1;1;from
+Q30669;Sohag Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q30669;Sohag Governorate;административно делится на;1;1;to
+Q30675;Minya Governorate;изображение герба;1;1;from
+Q30669;Sohag Governorate;место рождения;1;3;to
+Q30669;Sohag Governorate;является столицей;1;1;to
+Q30669;Sohag Governorate;общая тема категории;1;1;to
+Q30669;Sohag Governorate;категория объединяет темы;1;2;to
+Q30675;Minya Governorate;административно-территориальная единица;1;138;to
+Q30675;Minya Governorate;государство;1;1;from
+Q30675;Minya Governorate;изображение;1;1;from
+Q30675;Minya Governorate;карта местонахождения;1;1;from
+Q30675;Minya Governorate;это частный случай понятия;1;1;from
+Q30675;Minya Governorate;столица;1;1;from
+Q30675;Minya Governorate;изображение флага;1;1;from
+Q31079;Port Said Governorate;общая тема категории;1;1;to

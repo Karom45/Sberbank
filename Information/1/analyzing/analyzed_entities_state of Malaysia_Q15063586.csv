@@ -1,0 +1,797 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q170462;Sarawak;форма правления;1;1;from
+Q189701;Terengganu;находится на берегу водоёма;1;1;from
+Q189701;Terengganu;код GND;1;1;from
+Q189701;Terengganu;карта местонахождения;1;1;from
+Q189701;Terengganu;код LCNAF;1;1;from
+Q189701;Terengganu;это частный случай понятия;1;1;from
+Q189701;Terengganu;столица;1;1;from
+Q189701;Terengganu;изображение флага;1;1;from
+Q189701;Terengganu;имеет границы с;1;3;to
+Q189701;Terengganu;глава правительства;1;1;from
+Q189701;Terengganu;изображение герба;1;1;from
+Q189701;Terengganu;численность населения;1;1;from
+Q189701;Terengganu;код в Большой каталанской энциклопедии;1;1;from
+Q189701;Terengganu;описывается в источниках;1;1;from
+Q189701;Terengganu;код в энциклопедии «Британника онлайн»;1;1;from
+Q189701;Terengganu;код GeoNames;1;1;from
+Q189701;Terengganu;код TGN;1;1;from
+Q189701;Terengganu;категория для людей, связанных с местностью;1;1;from
+Q189701;Terengganu;владеет;1;1;from
+Q189701;Terengganu;должность главы государства;1;1;from
+Q189701;Terengganu;площадь;1;1;from
+Q189701;Terengganu;почтовый индекс;1;1;from
+Q189701;Terengganu;используемый язык;1;2;from
+Q189701;Terengganu;код VIAF;1;1;from
+Q189701;Terengganu;государство;1;6;to
+Q189701;Terengganu;код темы Quora;1;1;from
+Q189701;Terengganu;административно-территориальная единица;1;1309;to
+Q188953;Perak;код Freebase;1;1;from
+Q188953;Perak;Who's on First ID;1;1;from
+Q188953;Perak;категория карт на Викискладе;1;1;from
+Q188953;Perak;официальный сайт;1;1;from
+Q188953;Perak;FIPS 10-4 (страны и регионы);1;1;from
+Q188953;Perak;основная категория по теме;1;1;from
+Q188953;Perak;галерея на Викискладе;1;1;from
+Q188953;Perak;баннер Викигида;1;1;from
+Q188953;Perak;место в MusicBrainz;1;1;from
+Q188953;Perak;dmoz;1;1;from
+Q188953;Perak;место рождения;1;92;to
+Q188953;Perak;место жительства;1;3;to
+Q188953;Perak;расположение штаб-квартиры;1;1;to
+Q188953;Perak;местонахождение;1;7;to
+Q188953;Perak;юрисдикция распространяется на;1;2;to
+Q188953;Perak;является столицей;1;1;to
+Q188953;Perak;происходит из;1;9;to
+Q188953;Perak;обслуживаемый город;1;1;to
+Q188953;Perak;место смерти;1;2;to
+Q188953;Perak;общая тема категории;1;1;to
+Q188953;Perak;категория объединяет темы;1;5;to
+Q189701;Terengganu;ISO 3166-2;1;1;from
+Q189701;Terengganu;категория на Викискладе;1;1;from
+Q188953;Perak;местный телефонный код;1;1;from
+Q189701;Terengganu;общая тема категории;1;1;to
+Q189701;Terengganu;происходит из;1;2;to
+Q189701;Terengganu;владельцем является;1;1;to
+Q189701;Terengganu;является столицей;1;1;to
+Q189701;Terengganu;место создания;1;1;to
+Q189701;Terengganu;административно делится на;1;1;to
+Q189710;Selangor;административно-территориальная единица;1;253;to
+Q189710;Selangor;государство;1;3;to
+Q189710;Selangor;код VIAF;1;1;from
+Q189710;Selangor;код GND;1;1;from
+Q189710;Selangor;карта местонахождения;1;1;from
+Q189710;Selangor;код LCNAF;1;2;from
+Q189710;Selangor;это частный случай понятия;1;1;from
+Q189710;Selangor;столица;1;1;from
+Q189710;Selangor;изображение флага;1;1;from
+Q189710;Selangor;имеет границы с;1;5;to
+Q189710;Selangor;глава правительства;1;1;from
+Q189710;Selangor;изображение герба;1;1;from
+Q189710;Selangor;численность населения;1;1;from
+Q189710;Selangor;код в Большой каталанской энциклопедии;1;1;from
+Q189710;Selangor;код в энциклопедии «Британника онлайн»;1;1;from
+Q189710;Selangor;категория для людей, родившихся здесь;1;1;from
+Q189701;Terengganu;категория объединяет темы;1;2;to
+Q189701;Terengganu;место активности;1;1;to
+Q189701;Terengganu;код автомобильного номера;1;1;from
+Q189701;Terengganu;расположение штаб-квартиры;1;2;to
+Q189701;Terengganu;ID отношения в OpenStreetMap;1;1;from
+Q189701;Terengganu;часовой пояс;1;1;from
+Q189701;Terengganu;местный телефонный код;1;1;from
+Q189701;Terengganu;дата основания/создания/возникновения;1;1;from
+Q189701;Terengganu;географические координаты;1;1;from
+Q189701;Terengganu;код Freebase;1;1;from
+Q189701;Terengganu;Who's on First ID;1;1;from
+Q189701;Terengganu;категория карт на Викискладе;1;1;from
+Q189701;Terengganu;официальный сайт;1;1;from
+Q189701;Terengganu;FIPS 10-4 (страны и регионы);1;1;from
+Q189701;Terengganu;основная категория по теме;1;1;from
+Q189701;Terengganu;галерея на Викискладе;1;1;from
+Q189701;Terengganu;баннер Викигида;1;1;from
+Q189701;Terengganu;место в MusicBrainz;1;1;from
+Q189701;Terengganu;dmoz;1;1;from
+Q189701;Terengganu;местонахождение;1;6;to
+Q189701;Terengganu;место рождения;1;46;to
+Q189701;Terengganu;обслуживаемый город;1;1;to
+Q189701;Terengganu;основная тема;1;1;to
+Q189701;Terengganu;место смерти;1;2;to
+Q189701;Terengganu;юрисдикция распространяется на;1;2;to
+Q188953;Perak;географические координаты;1;1;from
+Q188953;Perak;часовой пояс;1;1;from
+Q170462;Sarawak;административно-территориальная единица;1;2740;to
+Q188947;Kedah;почтовый индекс;1;2;from
+Q188947;Kedah;ISO 3166-2;1;1;from
+Q188947;Kedah;код темы Quora;1;1;from
+Q188947;Kedah;часть от;1;1;to
+Q188947;Kedah;категория на Викискладе;1;1;from
+Q188947;Kedah;код автомобильного номера;1;1;from
+Q188947;Kedah;ID отношения в OpenStreetMap;1;1;from
+Q188947;Kedah;код NLA;1;1;from
+Q188947;Kedah;часовой пояс;1;1;from
+Q188947;Kedah;местный телефонный код;1;1;from
+Q188947;Kedah;Google News topics ID;1;1;from
+Q188947;Kedah;географические координаты;1;1;from
+Q188947;Kedah;код Freebase;1;1;from
+Q188947;Kedah;Who's on First ID;1;1;from
+Q188947;Kedah;категория карт на Викискладе;1;1;from
+Q188947;Kedah;официальный сайт;1;1;from
+Q188947;Kedah;FIPS 10-4 (страны и регионы);1;1;from
+Q188947;Kedah;основная категория по теме;1;1;from
+Q188947;Kedah;галерея на Викискладе;1;1;from
+Q188947;Kedah;баннер Викигида;1;1;from
+Q188947;Kedah;код NLI;1;1;from
+Q188947;Kedah;место в MusicBrainz;1;1;from
+Q188947;Kedah;используемый язык;1;3;from
+Q188947;Kedah;код SUDOC;1;1;from
+Q188947;Kedah;место рождения;1;73;to
+Q188947;Kedah;код BNF;1;1;from
+Q188947;Kedah;код LCNAF;1;2;from
+Q188947;Kedah;это частный случай понятия;1;1;from
+Q188947;Kedah;столица;1;1;from
+Q188947;Kedah;изображение флага;1;1;from
+Q188947;Kedah;имеет границы с;1;4;from
+Q188947;Kedah;гимн;1;1;from
+Q188947;Kedah;изображение герба;1;1;from
+Q188947;Kedah;численность населения;1;1;from
+Q188947;Kedah;WOEID;1;1;from
+Q188947;Kedah;код в Большой каталанской энциклопедии;1;1;from
+Q188947;Kedah;описывается в источниках;1;1;from
+Q188947;Kedah;категория для людей, родившихся здесь;1;1;from
+Q188947;Kedah;код GeoNames;1;1;from
+Q188947;Kedah;подробная карта;1;1;from
+Q188947;Kedah;код TGN;1;1;from
+Q188947;Kedah;категория для людей, связанных с местностью;1;1;from
+Q188947;Kedah;владеет;1;1;from
+Q188947;Kedah;должность главы государства;1;1;from
+Q188947;Kedah;площадь;1;1;from
+Q188947;Kedah;код FAST;1;1;from
+Q188947;Kedah;история темы;1;1;from
+Q188947;Kedah;dmoz;1;1;from
+Q188947;Kedah;местонахождение;1;21;to
+Q188953;Perak;ID отношения в OpenStreetMap;1;1;from
+Q188953;Perak;код GND;1;1;from
+Q188953;Perak;это частный случай понятия;1;1;from
+Q188953;Perak;столица;1;1;from
+Q188953;Perak;изображение флага;1;1;from
+Q188953;Perak;имеет границы с;1;5;to
+Q188953;Perak;глава правительства;1;1;from
+Q188953;Perak;гимн;1;1;from
+Q188953;Perak;изображение герба;1;1;from
+Q188953;Perak;численность населения;1;1;from
+Q188953;Perak;код в Большой каталанской энциклопедии;1;1;from
+Q188953;Perak;код GeoNames;1;1;from
+Q188953;Perak;код TGN;1;1;from
+Q188953;Perak;категория для людей, связанных с местностью;1;1;from
+Q188953;Perak;должность главы государства;1;1;from
+Q188953;Perak;площадь;1;1;from
+Q188953;Perak;код BabelNet;1;1;from
+Q188953;Perak;код BNF;1;1;from
+Q188953;Perak;почтовый индекс;1;2;from
+Q188953;Perak;используемый язык;1;9;from
+Q188953;Perak;ISO 3166-2;1;1;from
+Q188953;Perak;категория на Викискладе;1;1;from
+Q188953;Perak;код автомобильного номера;1;1;from
+Q188953;Perak;карта местонахождения;1;1;from
+Q188953;Perak;государство;1;1;to
+Q188947;Kedah;юрисдикция распространяется на;1;2;to
+Q188953;Perak;описание флага;1;1;from
+Q188947;Kedah;участник(и);1;1;to
+Q188947;Kedah;награда от;1;1;to
+Q188947;Kedah;основная тема;1;1;to
+Q188947;Kedah;обслуживаемый город;1;1;to
+Q188947;Kedah;род;1;3;to
+Q188947;Kedah;место смерти;1;2;to
+Q188947;Kedah;следующее по порядку;1;1;to
+Q188947;Kedah;место жительства;1;3;to
+Q188947;Kedah;является столицей;1;1;to
+Q188947;Kedah;расположение штаб-квартиры;1;1;to
+Q188947;Kedah;происходит из;1;3;to
+Q188947;Kedah;владельцем является;1;1;to
+Q188947;Kedah;оператор;1;1;to
+Q188947;Kedah;категория объединяет темы;1;4;to
+Q188947;Kedah;тематически относится к;1;1;to
+Q188947;Kedah;общая тема категории;1;1;to
+Q188947;Kedah;расположение конечной точки;1;1;to
+Q188947;Kedah;история происходит в месте;1;1;to
+Q188947;Kedah;административно делится на;1;1;to
+Q188953;Perak;административно-территориальная единица;1;994;to
+Q188953;Perak;административно делится на;1;1;to
+Q189710;Selangor;код GeoNames;1;1;from
+Q189710;Selangor;код TGN;1;1;from
+Q189710;Selangor;категория для людей, связанных с местностью;1;1;from
+Q213467;Perlis;код Freebase;1;1;from
+Q213467;Perlis;категория карт на Викискладе;1;1;from
+Q213467;Perlis;официальный сайт;1;1;from
+Q213467;Perlis;FIPS 10-4 (страны и регионы);1;1;from
+Q213467;Perlis;основная категория по теме;1;1;from
+Q213467;Perlis;галерея на Викискладе;1;1;from
+Q213467;Perlis;баннер Викигида;1;1;from
+Q213467;Perlis;место в MusicBrainz;1;1;from
+Q213467;Perlis;dmoz;1;1;from
+Q213467;Perlis;место рождения;1;16;to
+Q213467;Perlis;юрисдикция распространяется на;1;2;to
+Q213467;Perlis;имеет границы с;1;1;to
+Q213467;Perlis;расположение штаб-квартиры;1;1;to
+Q213467;Perlis;происходит из;1;2;to
+Q213467;Perlis;местонахождение;1;5;to
+Q213467;Perlis;общая тема категории;1;1;to
+Q213467;Perlis;категория объединяет темы;1;2;to
+Q213467;Perlis;является столицей;1;1;to
+Q213467;Perlis;административно делится на;1;1;to
+Q213893;Negeri Sembilan;административно-территориальная единица;1;526;to
+Q213893;Negeri Sembilan;государство;1;1;from
+Q213893;Negeri Sembilan;изображение;1;1;from
+Q213467;Perlis;Who's on First ID;1;1;from
+Q213467;Perlis;географические координаты;1;1;from
+Q213893;Negeri Sembilan;код VIAF;1;1;from
+Q213467;Perlis;местный телефонный код;1;1;from
+Q213467;Perlis;карта местонахождения;1;1;from
+Q213467;Perlis;код LCNAF;1;2;from
+Q213467;Perlis;это частный случай понятия;1;1;from
+Q213467;Perlis;столица;1;1;from
+Q213467;Perlis;изображение флага;1;1;from
+Q213467;Perlis;глава правительства;1;1;from
+Q213467;Perlis;изображение герба;1;1;from
+Q213467;Perlis;численность населения;1;1;from
+Q213467;Perlis;код в Большой каталанской энциклопедии;1;1;from
+Q213467;Perlis;код GeoNames;1;1;from
+Q213467;Perlis;код TGN;1;1;from
+Q213467;Perlis;категория для людей, связанных с местностью;1;1;from
+Q213467;Perlis;площадь;1;1;from
+Q213467;Perlis;почтовый индекс;1;1;from
+Q213467;Perlis;используемый язык;1;2;from
+Q213467;Perlis;ISO 3166-2;1;1;from
+Q213467;Perlis;код темы Quora;1;1;from
+Q213467;Perlis;категория на Викискладе;1;1;from
+Q213467;Perlis;код автомобильного номера;1;1;from
+Q213467;Perlis;ID отношения в OpenStreetMap;1;1;from
+Q213467;Perlis;часовой пояс;1;1;from
+Q213893;Negeri Sembilan;код ISNI;1;1;from
+Q213893;Negeri Sembilan;код GND;1;1;from
+Q189710;Selangor;должность главы государства;1;1;from
+Q213893;Negeri Sembilan;часовой пояс;1;1;from
+Q213893;Negeri Sembilan;географические координаты;1;1;from
+Q213893;Negeri Sembilan;код Freebase;1;1;from
+Q213893;Negeri Sembilan;Who's on First ID;1;1;from
+Q213893;Negeri Sembilan;категория карт на Викискладе;1;1;from
+Q213893;Negeri Sembilan;официальный сайт;1;1;from
+Q213893;Negeri Sembilan;FIPS 10-4 (страны и регионы);1;1;from
+Q213893;Negeri Sembilan;основная категория по теме;1;1;from
+Q213893;Negeri Sembilan;галерея на Викискладе;1;1;from
+Q213893;Negeri Sembilan;баннер Викигида;1;1;from
+Q213893;Negeri Sembilan;место в MusicBrainz;1;1;from
+Q213893;Negeri Sembilan;dmoz;1;1;from
+Q213893;Negeri Sembilan;место рождения;1;39;to
+Q213893;Negeri Sembilan;юрисдикция распространяется на;1;2;to
+Q213893;Negeri Sembilan;награда от;1;1;to
+Q213893;Negeri Sembilan;происходит из;1;4;to
+Q213893;Negeri Sembilan;категория объединяет темы;1;5;to
+Q213893;Negeri Sembilan;часть от;1;1;to
+Q213893;Negeri Sembilan;общая тема категории;1;1;to
+Q213893;Negeri Sembilan;место смерти;1;1;to
+Q213893;Negeri Sembilan;владельцем является;1;1;to
+Q213893;Negeri Sembilan;является столицей;1;1;to
+Q213893;Negeri Sembilan;местный телефонный код;1;1;from
+Q213893;Negeri Sembilan;ID отношения в OpenStreetMap;1;1;from
+Q213893;Negeri Sembilan;карта местонахождения;1;1;from
+Q213893;Negeri Sembilan;код автомобильного номера;1;1;from
+Q213893;Negeri Sembilan;код LCNAF;1;2;from
+Q213893;Negeri Sembilan;это частный случай понятия;1;1;from
+Q213893;Negeri Sembilan;столица;1;1;from
+Q213893;Negeri Sembilan;изображение флага;1;1;from
+Q213893;Negeri Sembilan;имеет границы с;1;5;to
+Q213893;Negeri Sembilan;глава правительства;1;1;from
+Q213893;Negeri Sembilan;изображение герба;1;1;from
+Q213893;Negeri Sembilan;численность населения;1;1;from
+Q213893;Negeri Sembilan;код в Большой каталанской энциклопедии;1;1;from
+Q213893;Negeri Sembilan;код в энциклопедии «Британника онлайн»;1;1;from
+Q213893;Negeri Sembilan;код GeoNames;1;1;from
+Q213893;Negeri Sembilan;код TGN;1;1;from
+Q213893;Negeri Sembilan;категория для людей, связанных с местностью;1;1;from
+Q213893;Negeri Sembilan;владеет;1;1;from
+Q213893;Negeri Sembilan;площадь;1;1;from
+Q213893;Negeri Sembilan;код BNF;1;1;from
+Q213893;Negeri Sembilan;почтовый индекс;1;1;from
+Q213893;Negeri Sembilan;используемый язык;1;4;from
+Q213893;Negeri Sembilan;ISO 3166-2;1;1;from
+Q213893;Negeri Sembilan;идентификатор Ringgold;1;1;from
+Q213893;Negeri Sembilan;категория на Викискладе;1;1;from
+Q213467;Perlis;описание герба;1;1;from
+Q213467;Perlis;код GND;1;1;from
+Q213467;Perlis;код VIAF;1;1;from
+Q189710;Selangor;расположение штаб-квартиры;1;9;to
+Q189710;Selangor;юрисдикция распространяется на;1;5;to
+Q189710;Selangor;место жительства;1;6;to
+Q189710;Selangor;происходит из;1;4;to
+Q189710;Selangor;гражданство;1;1;to
+Q189710;Selangor;представляет страну в спорте;1;1;to
+Q189710;Selangor;категория объединяет темы;1;8;to
+Q189710;Selangor;место смерти;1;3;to
+Q189710;Selangor;местонахождение;1;3;to
+Q189710;Selangor;является столицей;1;1;to
+Q189710;Selangor;общая тема категории;1;1;to
+Q189710;Selangor;расположение конечной точки;1;1;to
+Q189710;Selangor;административно делится на;1;1;to
+Q191346;Pahang;административно-территориальная единица;1;1923;to
+Q191346;Pahang;государство;1;1;from
+Q191346;Pahang;код VIAF;1;1;from
+Q191346;Pahang;код GND;1;1;from
+Q191346;Pahang;карта местонахождения;1;1;from
+Q191346;Pahang;код LCNAF;1;1;from
+Q191346;Pahang;это частный случай понятия;1;1;from
+Q191346;Pahang;столица;1;1;from
+Q191346;Pahang;изображение флага;1;1;from
+Q189710;Selangor;анклав в;1;2;to
+Q189710;Selangor;место рождения;1;111;to
+Q213467;Perlis;изображение;1;1;from
+Q189710;Selangor;dmoz;1;1;from
+Q189710;Selangor;площадь;1;1;from
+Q189710;Selangor;почтовый индекс;1;2;from
+Q189710;Selangor;используемый язык;1;4;from
+Q189710;Selangor;ISO 3166-2;1;1;from
+Q189710;Selangor;категория на Викискладе;1;1;from
+Q189710;Selangor;код автомобильного номера;1;1;from
+Q189710;Selangor;ID отношения в OpenStreetMap;1;1;from
+Q189710;Selangor;часовой пояс;1;1;from
+Q189710;Selangor;местный телефонный код;1;1;from
+Q189710;Selangor;идентификатор местоположения ArchINFORM;1;1;from
+Q189710;Selangor;дата основания/создания/возникновения;1;1;from
+Q189710;Selangor;географические координаты;1;1;from
+Q189710;Selangor;код Freebase;1;1;from
+Q189710;Selangor;Who's on First ID;1;1;from
+Q189710;Selangor;категория карт на Викискладе;1;1;from
+Q189710;Selangor;официальный сайт;1;1;from
+Q189710;Selangor;FIPS 10-4 (страны и регионы);1;1;from
+Q189710;Selangor;основная категория по теме;1;1;from
+Q189710;Selangor;галерея на Викискладе;1;1;from
+Q189710;Selangor;баннер Викигида;1;1;from
+Q189710;Selangor;место в MusicBrainz;1;1;from
+Q191346;Pahang;имеет границы с;1;7;to
+Q191346;Pahang;изображение герба;1;1;from
+Q191346;Pahang;численность населения;1;1;from
+Q191346;Pahang;код в Большой каталанской энциклопедии;1;1;from
+Q191346;Pahang;FIPS 10-4 (страны и регионы);1;1;from
+Q191346;Pahang;основная категория по теме;1;1;from
+Q191346;Pahang;галерея на Викискладе;1;1;from
+Q191346;Pahang;баннер Викигида;1;1;from
+Q191346;Pahang;место в MusicBrainz;1;1;from
+Q191346;Pahang;dmoz;1;1;from
+Q191346;Pahang;место рождения;1;33;to
+Q191346;Pahang;часть от;1;1;to
+Q191346;Pahang;основная тема;1;2;to
+Q191346;Pahang;происходит из;1;10;to
+Q191346;Pahang;обслуживаемый город;1;1;to
+Q191346;Pahang;является эндемиком в;1;1;to
+Q191346;Pahang;юрисдикция распространяется на;1;2;to
+Q191346;Pahang;род;1;1;to
+Q191346;Pahang;общая тема категории;1;1;to
+Q191346;Pahang;категория объединяет темы;1;3;to
+Q191346;Pahang;мать;1;1;to
+Q191346;Pahang;является столицей;1;1;to
+Q191346;Pahang;административно делится на;1;1;to
+Q213467;Perlis;административно-территориальная единица;1;102;to
+Q213467;Perlis;государство;1;4;to
+Q191346;Pahang;официальный сайт;1;1;from
+Q191346;Pahang;категория карт на Викискладе;1;1;from
+Q191346;Pahang;Who's on First ID;1;1;from
+Q191346;Pahang;код BNF;1;1;from
+Q191346;Pahang;код в Национальной библиотеке Австралии (персоналии);1;1;from
+Q191346;Pahang;описывается в источниках;1;2;from
+Q191346;Pahang;код в энциклопедии «Британника онлайн»;1;1;from
+Q191346;Pahang;код GeoNames;1;1;from
+Q191346;Pahang;подробная карта;1;1;from
+Q191346;Pahang;код TGN;1;1;from
+Q191346;Pahang;категория для людей, связанных с местностью;1;1;from
+Q191346;Pahang;площадь;1;1;from
+Q191346;Pahang;код BabelNet;1;1;from
+Q191346;Pahang;почтовый индекс;1;4;from
+Q191346;Pahang;код Freebase;1;1;from
+Q191346;Pahang;используемый язык;1;10;from
+Q191346;Pahang;ISO 3166-2;1;1;from
+Q191346;Pahang;категория на Викискладе;1;1;from
+Q191346;Pahang;код автомобильного номера;1;1;from
+Q191346;Pahang;National Library Board Singapore ID;1;1;from
+Q191346;Pahang;ID отношения в OpenStreetMap;1;1;from
+Q191346;Pahang;часовой пояс;1;1;from
+Q191346;Pahang;местный телефонный код;1;3;from
+Q191346;Pahang;географические координаты;1;1;from
+Q188947;Kedah;карта местонахождения;1;1;from
+Q188947;Kedah;код GND;1;1;from
+Q188947;Kedah;код VIAF;1;1;from
+Q179029;Sabah;код Freebase;1;1;from
+Q179029;Sabah;код NKC;1;1;from
+Q179029;Sabah;категория карт на Викискладе;1;1;from
+Q179029;Sabah;официальный сайт;1;1;from
+Q179029;Sabah;FIPS 10-4 (страны и регионы);1;1;from
+Q179029;Sabah;основная категория по теме;1;1;from
+Q179029;Sabah;галерея на Викискладе;1;1;from
+Q179029;Sabah;баннер Викигида;1;1;from
+Q179029;Sabah;место в MusicBrainz;1;1;from
+Q179029;Sabah;dmoz;1;1;from
+Q179029;Sabah;происходит из;1;38;to
+Q179029;Sabah;место рождения;1;26;to
+Q179029;Sabah;юрисдикция распространяется на;1;4;to
+Q179029;Sabah;категория объединяет темы;1;27;to
+Q179029;Sabah;является столицей;1;1;to
+Q179029;Sabah;место смерти;1;3;to
+Q179029;Sabah;местонахождение;1;15;to
+Q179029;Sabah;расположение штаб-квартиры;1;2;to
+Q179029;Sabah;основная тема;1;2;to
+Q179029;Sabah;общая тема категории;1;1;to
+Q179029;Sabah;не путать с;1;1;to
+Q179029;Sabah;административно делится на;1;1;to
+Q179029;Sabah;Who's on First ID;1;1;from
+Q179029;Sabah;географические координаты;1;1;from
+Q183032;Johor;государство;1;2;to
+Q179029;Sabah;местный телефонный код;1;1;from
+Q179029;Sabah;код US National Archives;1;1;from
+Q179029;Sabah;код в Большой каталанской энциклопедии;1;1;from
+Q179029;Sabah;код в энциклопедии «Британника онлайн»;1;1;from
+Q179029;Sabah;официальное название;1;1;from
+Q179029;Sabah;код GeoNames;1;1;from
+Q179029;Sabah;подробная карта;1;1;from
+Q179029;Sabah;код TGN;1;1;from
+Q179029;Sabah;высота над уровнем моря;1;1;from
+Q179029;Sabah;площадь;1;1;from
+Q179029;Sabah;код BNF;1;1;from
+Q179029;Sabah;код SUDOC;1;1;from
+Q179029;Sabah;почтовый индекс;1;1;from
+Q179029;Sabah;туристический центр;1;1;from
+Q179029;Sabah;код в Большой российской энциклопедии онлайн;1;1;from
+Q179029;Sabah;используемый язык;1;41;from
+Q179029;Sabah;ISO 3166-2;1;1;from
+Q179029;Sabah;код NDL;1;1;from
+Q179029;Sabah;часть от;1;3;to
+Q179029;Sabah;категория на Викискладе;1;1;from
+Q179029;Sabah;часовой пояс;1;1;from
+Q179029;Sabah;код GACS;1;1;from
+Q183032;Johor;административно-территориальная единица;1;976;to
+Q183032;Johor;находится на берегу водоёма;1;1;from
+Q183032;Johor;место смерти;1;2;to
+Q183032;Johor;ISO 3166-2;1;1;from
+Q183032;Johor;категория на Викискладе;1;1;from
+Q183032;Johor;код автомобильного номера;1;1;from
+Q183032;Johor;ID отношения в OpenStreetMap;1;1;from
+Q183032;Johor;часовой пояс;1;1;from
+Q183032;Johor;местный телефонный код;1;2;from
+Q183032;Johor;код Comic Vine;1;1;from
+Q183032;Johor;географические координаты;1;1;from
+Q183032;Johor;код Freebase;1;1;from
+Q183032;Johor;Who's on First ID;1;1;from
+Q183032;Johor;категория карт на Викискладе;1;1;from
+Q183032;Johor;ключевое событие;1;1;from
+Q183032;Johor;официальный сайт;1;1;from
+Q183032;Johor;FIPS 10-4 (страны и регионы);1;1;from
+Q183032;Johor;основная категория по теме;1;1;from
+Q183032;Johor;галерея на Викискладе;1;1;from
+Q183032;Johor;баннер Викигида;1;1;from
+Q183032;Johor;место в MusicBrainz;1;1;from
+Q183032;Johor;dmoz;1;1;from
+Q183032;Johor;место рождения;1;98;to
+Q183032;Johor;часть от;1;1;to
+Q183032;Johor;расположение штаб-квартиры;1;2;to
+Q183032;Johor;код темы Quora;1;1;from
+Q183032;Johor;используемый язык;1;8;from
+Q183032;Johor;код VIAF;1;1;from
+Q183032;Johor;почтовый индекс;1;1;from
+Q183032;Johor;код GND;1;1;from
+Q183032;Johor;карта местонахождения;1;1;from
+Q183032;Johor;код LCNAF;1;1;from
+Q183032;Johor;это частный случай понятия;1;1;from
+Q183032;Johor;столица;1;1;from
+Q183032;Johor;изображение флага;1;1;from
+Q183032;Johor;имеет границы с;1;4;to
+Q183032;Johor;глава правительства;1;1;from
+Q183032;Johor;изображение герба;1;1;from
+Q183032;Johor;численность населения;1;1;from
+Q183032;Johor;код в Большой каталанской энциклопедии;1;1;from
+Q183032;Johor;описывается в источниках;1;1;from
+Q183032;Johor;код в энциклопедии «Британника онлайн»;1;1;from
+Q183032;Johor;категория для людей, родившихся здесь;1;1;from
+Q183032;Johor;код GeoNames;1;1;from
+Q183032;Johor;подробная карта;1;1;from
+Q183032;Johor;код TGN;1;1;from
+Q183032;Johor;категория для людей, связанных с местностью;1;1;from
+Q183032;Johor;высота над уровнем моря;1;1;from
+Q183032;Johor;площадь;1;1;from
+Q183032;Johor;история темы;1;1;from
+Q179029;Sabah;численность населения;1;1;from
+Q179029;Sabah;изображение герба;1;1;from
+Q179029;Sabah;имеет границы с;1;3;to
+Q170462;Sarawak;код в Большой каталанской энциклопедии;1;1;from
+Q170462;Sarawak;описывается в источниках;1;2;from
+Q170462;Sarawak;заменил;1;1;from
+Q170462;Sarawak;код в энциклопедии «Британника онлайн»;1;1;from
+Q170462;Sarawak;официальное название;1;3;from
+Q170462;Sarawak;текст девиза;1;2;from
+Q170462;Sarawak;этнохороним;1;1;from
+Q170462;Sarawak;код GeoNames;1;1;from
+Q170462;Sarawak;сторона автомобильного движения;1;1;from
+Q170462;Sarawak;код TGN;1;1;from
+Q170462;Sarawak;название на языке оригинала;1;2;from
+Q170462;Sarawak;категория для людей, связанных с местностью;1;1;from
+Q170462;Sarawak;должность главы государства;1;1;from
+Q170462;Sarawak;высота над уровнем моря;1;1;from
+Q170462;Sarawak;площадь;1;1;from
+Q170462;Sarawak;история темы;1;1;from
+Q170462;Sarawak;код YSO;1;1;from
+Q170462;Sarawak;код BNF;1;1;from
+Q170462;Sarawak;код SUDOC;1;1;from
+Q170462;Sarawak;почтовый индекс;1;1;from
+Q170462;Sarawak;тип электрического разъёма;1;1;from
+Q170462;Sarawak;сетевое напряжение;1;1;from
+Q170462;Sarawak;должность главы правительства;1;1;from
+Q170462;Sarawak;код US National Archives;1;1;from
+Q179029;Sabah;изображение флага;1;1;from
+Q170462;Sarawak;численность населения;1;2;from
+Q170462;Sarawak;административно делится на;1;1;to
+Q170462;Sarawak;описание флага;1;1;from
+Q170462;Sarawak;государство;1;6;to
+Q170462;Sarawak;законодательный орган;1;1;from
+Q170462;Sarawak;код ISNI;1;1;from
+Q170462;Sarawak;код VIAF;1;1;from
+Q170462;Sarawak;код GND;1;1;from
+Q170462;Sarawak;описание герба;1;1;from
+Q170462;Sarawak;карта местонахождения;1;1;from
+Q170462;Sarawak;код LCNAF;1;2;from
+Q170462;Sarawak;это частный случай понятия;1;2;from
+Q170462;Sarawak;глава государства;1;13;from
+Q170462;Sarawak;столица;1;1;from
+Q170462;Sarawak;официальный язык;1;4;from
+Q170462;Sarawak;денежная единица;1;1;from
+Q170462;Sarawak;изображение флага;1;1;from
+Q170462;Sarawak;имеет границы с;1;6;to
+Q170462;Sarawak;глава правительства;1;15;from
+Q170462;Sarawak;гимн;1;1;from
+Q170462;Sarawak;изображение герба;1;1;from
+Q170462;Sarawak;код ТИА;1;1;from
+Q170462;Sarawak;используемый язык;1;49;from
+Q170462;Sarawak;ISO 3166-2;1;1;from
+Q170462;Sarawak;код темы Quora;1;1;from
+Q170462;Sarawak;код NDL;1;1;from
+Q170462;Sarawak;юрисдикция распространяется на;1;10;to
+Q170462;Sarawak;является столицей;1;1;to
+Q170462;Sarawak;история происходит в месте;1;2;to
+Q170462;Sarawak;страна происхождения;1;2;to
+Q170462;Sarawak;зона обслуживания;1;1;to
+Q170462;Sarawak;заменён на;1;1;to
+Q170462;Sarawak;основная тема;1;1;to
+Q170462;Sarawak;место жительства;1;1;to
+Q170462;Sarawak;место смерти;1;1;to
+Q170462;Sarawak;общая тема категории;1;1;to
+Q179029;Sabah;административно-территориальная единица;1;1280;to
+Q179029;Sabah;описание флага;1;1;from
+Q179029;Sabah;государство;1;8;to
+Q179029;Sabah;изображение;1;1;from
+Q179029;Sabah;код ISNI;1;1;from
+Q179029;Sabah;код VIAF;1;1;from
+Q179029;Sabah;код GND;1;1;from
+Q179029;Sabah;карта местонахождения;1;1;from
+Q179029;Sabah;код LCNAF;1;1;from
+Q179029;Sabah;это частный случай понятия;1;1;from
+Q179029;Sabah;столица;1;1;from
+Q170462;Sarawak;расположение штаб-квартиры;1;4;to
+Q170462;Sarawak;категория объединяет темы;1;106;to
+Q170462;Sarawak;происходит из;1;47;to
+Q170462;Sarawak;категория карт на Викискладе;1;1;from
+Q170462;Sarawak;категория на Викискладе;1;1;from
+Q170462;Sarawak;код автомобильного номера;1;1;from
+Q170462;Sarawak;часовой пояс;1;1;from
+Q170462;Sarawak;код GACS;1;1;from
+Q170462;Sarawak;местный телефонный код;1;5;from
+Q170462;Sarawak;дата основания/создания/возникновения;1;1;from
+Q170462;Sarawak;географические координаты;1;1;from
+Q170462;Sarawak;код Freebase;1;1;from
+Q170462;Sarawak;Who's on First ID;1;1;from
+Q170462;Sarawak;официальный сайт;1;1;from
+Q170462;Sarawak;место рождения;1;30;to
+Q170462;Sarawak;FIPS 10-4 (страны и регионы);1;1;from
+Q170462;Sarawak;код SELIBR;1;1;from
+Q170462;Sarawak;основная категория по теме;1;1;from
+Q170462;Sarawak;галерея на Викискладе;1;1;from
+Q170462;Sarawak;баннер Викигида;1;1;from
+Q170462;Sarawak;место в MusicBrainz;1;1;from
+Q170462;Sarawak;dmoz;1;1;from
+Q170462;Sarawak;местонахождение;1;21;to
+Q170462;Sarawak;названо в честь;1;4;to
+Q183032;Johor;местонахождение;1;9;to
+Q183032;Johor;является столицей;1;1;to
+Q188947;Kedah;находится на берегу водоёма;1;1;from
+Q185944;Kelantan;общая тема категории;1;1;to
+Q185944;Kelantan;тематически относится к;1;1;to
+Q185944;Kelantan;род;1;1;to
+Q185944;Kelantan;административно делится на;1;1;to
+Q188096;Penang;административно-территориальная единица;1;353;to
+Q188096;Penang;описание флага;1;1;from
+Q188096;Penang;государство;1;9;to
+Q188096;Penang;изображение;1;1;from
+Q188096;Penang;город-побратим;1;1;to
+Q188096;Penang;находится на берегу водоёма;1;1;from
+Q188096;Penang;код VIAF;1;1;from
+Q188096;Penang;код GND;1;1;from
+Q188096;Penang;карта местонахождения;1;1;from
+Q188096;Penang;код LCNAF;1;2;from
+Q188096;Penang;это частный случай понятия;1;1;from
+Q188096;Penang;глава государства;1;3;from
+Q188096;Penang;столица;1;1;from
+Q188096;Penang;изображение флага;1;1;from
+Q188096;Penang;изображение герба;1;1;from
+Q188096;Penang;численность населения;1;1;from
+Q188096;Penang;категория для людей, родившихся здесь;1;1;from
+Q188096;Penang;категория для людей, умерших здесь;1;1;from
+Q185944;Kelantan;часть от;1;1;to
+Q185944;Kelantan;является столицей;1;1;to
+Q188096;Penang;код TGN;1;1;from
+Q185944;Kelantan;основная тема;1;1;to
+Q185944;Kelantan;ID отношения в OpenStreetMap;1;1;from
+Q185944;Kelantan;часовой пояс;1;1;from
+Q185944;Kelantan;местный телефонный код;1;1;from
+Q185944;Kelantan;географические координаты;1;1;from
+Q185944;Kelantan;код Freebase;1;1;from
+Q185944;Kelantan;Who's on First ID;1;1;from
+Q185944;Kelantan;категория карт на Викискладе;1;1;from
+Q185944;Kelantan;официальный сайт;1;1;from
+Q185944;Kelantan;FIPS 10-4 (страны и регионы);1;1;from
+Q185944;Kelantan;основная категория по теме;1;1;from
+Q185944;Kelantan;баннер Викигида;1;1;from
+Q185944;Kelantan;место в MusicBrainz;1;1;from
+Q185944;Kelantan;dmoz;1;1;from
+Q185944;Kelantan;место рождения;1;57;to
+Q185944;Kelantan;место жительства;1;3;to
+Q185944;Kelantan;категория объединяет темы;1;4;to
+Q185944;Kelantan;предки из;1;1;to
+Q185944;Kelantan;оператор;1;2;to
+Q185944;Kelantan;происходит из;1;5;to
+Q185944;Kelantan;юрисдикция распространяется на;1;2;to
+Q185944;Kelantan;местонахождение;1;1;to
+Q188096;Penang;код GeoNames;1;1;from
+Q188096;Penang;категория для людей, связанных с местностью;1;1;from
+Q183032;Johor;награда от;1;2;to
+Q188096;Penang;место в MusicBrainz;1;1;from
+Q188096;Penang;место рождения;1;209;to
+Q188096;Penang;местонахождение;1;19;to
+Q188096;Penang;место смерти;1;21;to
+Q188096;Penang;основной порт;1;2;to
+Q188096;Penang;владельцем является;1;4;to
+Q188096;Penang;категория объединяет темы;1;8;to
+Q188096;Penang;имеет границы с;1;1;to
+Q188096;Penang;место жительства;1;4;to
+Q188096;Penang;расположение штаб-квартиры;1;5;to
+Q188096;Penang;место погребения;1;1;to
+Q188096;Penang;юрисдикция распространяется на;1;2;to
+Q188096;Penang;происходит из;1;2;to
+Q188096;Penang;названо в честь;1;1;to
+Q188096;Penang;обслуживаемый город;1;1;to
+Q188096;Penang;общая тема категории;1;1;to
+Q188096;Penang;основная тема;1;1;to
+Q188096;Penang;является столицей;1;1;to
+Q188096;Penang;административно делится на;1;1;to
+Q188947;Kedah;административно-территориальная единица;1;1008;to
+Q188947;Kedah;государство;1;1;to
+Q188947;Kedah;изображение;1;1;from
+Q188096;Penang;dmoz;1;1;from
+Q188096;Penang;баннер Викигида;1;1;from
+Q188096;Penang;владеет;1;4;from
+Q188096;Penang;галерея на Викискладе;1;1;from
+Q188096;Penang;площадь;1;1;from
+Q188096;Penang;почтовый индекс;1;1;from
+Q188096;Penang;используемый язык;1;2;from
+Q188096;Penang;ISO 3166-2;1;1;from
+Q188096;Penang;код в Encyclopædia Universalis;1;1;from
+Q188096;Penang;код темы Quora;1;1;from
+Q188096;Penang;категория на Викискладе;1;1;from
+Q188096;Penang;код автомобильного номера;1;1;from
+Q188096;Penang;ID отношения в OpenStreetMap;1;1;from
+Q188096;Penang;часовой пояс;1;1;from
+Q188096;Penang;местный телефонный код;1;1;from
+Q188096;Penang;состоит из;1;2;from
+Q188096;Penang;идентификатор местоположения ArchINFORM;1;1;from
+Q188096;Penang;дата основания/создания/возникновения;1;1;from
+Q188096;Penang;географические координаты;1;1;from
+Q188096;Penang;код Freebase;1;1;from
+Q188096;Penang;Who's on First ID;1;1;from
+Q188096;Penang;категория карт на Викискладе;1;1;from
+Q188096;Penang;официальный сайт;1;1;from
+Q188096;Penang;FIPS 10-4 (страны и регионы);1;1;from
+Q188096;Penang;основная категория по теме;1;1;from
+Q185944;Kelantan;код автомобильного номера;1;1;from
+Q185944;Kelantan;категория на Викискладе;1;1;from
+Q185944;Kelantan;код темы Quora;1;1;from
+Q185221;Melaka;изображение герба;1;1;from
+Q185221;Melaka;код в Большой каталанской энциклопедии;1;1;from
+Q185221;Melaka;код в энциклопедии «Британника онлайн»;1;2;from
+Q185221;Melaka;категория для людей, родившихся здесь;1;1;from
+Q185221;Melaka;код GeoNames;1;1;from
+Q185221;Melaka;код TGN;1;1;from
+Q185221;Melaka;категория фильмов, снятых в этом месте;1;1;from
+Q185221;Melaka;категория для людей, связанных с местностью;1;1;from
+Q185221;Melaka;площадь;1;1;from
+Q185221;Melaka;код BabelNet;1;1;from
+Q185221;Melaka;почтовый индекс;1;1;from
+Q185221;Melaka;используемый язык;1;2;from
+Q185221;Melaka;ISO 3166-2;1;1;from
+Q185221;Melaka;категория на Викискладе;1;1;from
+Q185221;Melaka;код автомобильного номера;1;1;from
+Q185221;Melaka;ID отношения в OpenStreetMap;1;1;from
+Q185221;Melaka;часовой пояс;1;1;from
+Q185221;Melaka;местный телефонный код;1;1;from
+Q185221;Melaka;дата основания/создания/возникновения;1;1;from
+Q185221;Melaka;географические координаты;1;1;from
+Q185221;Melaka;код Freebase;1;1;from
+Q185221;Melaka;Who's on First ID;1;1;from
+Q185221;Melaka;численность населения;1;1;from
+Q185221;Melaka;имеет границы с;1;3;to
+Q185944;Kelantan;ISO 3166-2;1;1;from
+Q185221;Melaka;изображение флага;1;1;from
+Q183032;Johor;основная тема;1;1;to
+Q183032;Johor;происходит из;1;6;to
+Q183032;Johor;обслуживаемый город;1;1;to
+Q183032;Johor;род;1;1;to
+Q183032;Johor;юрисдикция распространяется на;1;3;to
+Q183032;Johor;расположение конечной точки;1;1;to
+Q183032;Johor;категория объединяет темы;1;5;to
+Q183032;Johor;общая тема категории;1;1;to
+Q183032;Johor;тематически относится к;1;1;to
+Q183032;Johor;административно делится на;1;1;to
+Q185221;Melaka;административно-территориальная единица;1;399;to
+Q185221;Melaka;описание флага;1;1;from
+Q185221;Melaka;государство;1;2;to
+Q185221;Melaka;изображение;1;1;from
+Q185221;Melaka;город-побратим;1;2;to
+Q185221;Melaka;код VIAF;1;1;from
+Q185221;Melaka;код GND;1;1;from
+Q185221;Melaka;карта местонахождения;1;1;from
+Q185221;Melaka;код LCNAF;1;1;from
+Q185221;Melaka;это частный случай понятия;1;1;from
+Q185221;Melaka;столица;1;1;from
+Q185221;Melaka;категория карт на Викискладе;1;1;from
+Q185221;Melaka;официальный сайт;1;1;from
+Q185221;Melaka;FIPS 10-4 (страны и регионы);1;1;from
+Q185221;Melaka;основная категория по теме;1;1;from
+Q185944;Kelantan;код VIAF;1;1;from
+Q185944;Kelantan;код GND;1;1;from
+Q185944;Kelantan;карта местонахождения;1;1;from
+Q185944;Kelantan;код LCNAF;1;2;from
+Q185944;Kelantan;это частный случай понятия;1;1;from
+Q185944;Kelantan;столица;1;1;from
+Q185944;Kelantan;изображение флага;1;1;from
+Q185944;Kelantan;имеет границы с;1;3;to
+Q185944;Kelantan;глава правительства;1;1;from
+Q185944;Kelantan;изображение герба;1;1;from
+Q185944;Kelantan;численность населения;1;1;from
+Q185944;Kelantan;код в Большой каталанской энциклопедии;1;1;from
+Q185944;Kelantan;должность главы правительства;1;1;from
+Q185944;Kelantan;код GeoNames;1;1;from
+Q185944;Kelantan;код TGN;1;1;from
+Q185944;Kelantan;категория для людей, связанных с местностью;1;1;from
+Q185944;Kelantan;площадь;1;1;from
+Q185944;Kelantan;география темы;1;1;from
+Q185944;Kelantan;код BNF;1;1;from
+Q185944;Kelantan;почтовый индекс;1;1;from
+Q185944;Kelantan;используемый язык;1;5;from
+Q185944;Kelantan;государство;1;10;to
+Q185944;Kelantan;административно-территориальная единица;1;938;to
+Q185221;Melaka;административно делится на;1;1;to
+Q185221;Melaka;местонахождение;1;3;to
+Q185221;Melaka;галерея на Викискладе;1;1;from
+Q185221;Melaka;баннер Викигида;1;1;from
+Q185221;Melaka;место в MusicBrainz;1;1;from
+Q185221;Melaka;dmoz;1;1;from
+Q185221;Melaka;место смерти;1;13;to
+Q185221;Melaka;место рождения;1;95;to
+Q185221;Melaka;происходит из;1;2;to
+Q185221;Melaka;место публикации;1;1;to
+Q185221;Melaka;юрисдикция распространяется на;1;3;to
+Q185221;Melaka;история происходит в месте;1;1;to
+Q185221;Melaka;является столицей;1;1;to
+Q185221;Melaka;расположение штаб-квартиры;1;2;to
+Q185221;Melaka;начало пути;1;1;to
+Q185221;Melaka;категория объединяет темы;1;4;to
+Q185221;Melaka;общая тема категории;1;1;to
+Q185221;Melaka;место погребения;1;1;to
+Q185221;Melaka;место жительства;1;1;to
+Q185221;Melaka;названо в честь;1;1;to
+Q185221;Melaka;обслуживаемый город;1;1;to
+Q185221;Melaka;страна происхождения;1;1;to
+Q213893;Negeri Sembilan;административно делится на;1;1;to

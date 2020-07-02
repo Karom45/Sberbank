@@ -1,0 +1,1862 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q985;Baden-Württemberg;административно-территориальная единица;1;6340;to
+Q1205;Thuringia;государство;1;5;to
+Q1205;Thuringia;изображение флага;1;1;from
+Q1205;Thuringia;столица;1;1;from
+Q1205;Thuringia;это частный случай понятия;1;1;from
+Q1205;Thuringia;код LCNAF;1;1;from
+Q1205;Thuringia;карта местонахождения;1;1;from
+Q1205;Thuringia;описание герба;1;1;from
+Q1205;Thuringia;код GND;1;1;from
+Q1205;Thuringia;код VIAF;1;1;from
+Q1205;Thuringia;код ISNI;1;1;from
+Q1205;Thuringia;высший судебный орган;1;1;from
+Q1205;Thuringia;законодательный орган;1;1;from
+Q1205;Thuringia;изображение;1;1;from
+Q1205;Thuringia;полученные награды;1;2;from
+Q1202;Saxony;категория на Викискладе;1;1;from
+Q1205;Thuringia;описание флага;1;1;from
+Q1205;Thuringia;предыдущее по порядку;1;1;from
+Q1205;Thuringia;административно делится на;1;1;to
+Q1205;Thuringia;названо в честь;1;5;to
+Q1205;Thuringia;административно-территориальная единица;1;2899;to
+Q1202;Saxony;заменён на;1;4;to
+Q1202;Saxony;расположение штаб-квартиры;1;1;to
+Q1202;Saxony;является столицей;1;1;to
+Q1202;Saxony;лицевая сторона для;1;1;to
+Q1202;Saxony;общая тема категории;1;1;to
+Q1202;Saxony;состоит из;1;1;to
+Q1202;Saxony;подписавшийся;1;1;to
+Q1205;Thuringia;имеет границы с;1;7;to
+Q1205;Thuringia;глава правительства;1;9;from
+Q1205;Thuringia;главный регулирующий текст;1;1;from
+Q1205;Thuringia;изображение герба;1;1;from
+Q1205;Thuringia;код BNF;1;1;from
+Q1205;Thuringia;код BabelNet;1;1;from
+Q1205;Thuringia;код YSO;1;1;from
+Q1205;Thuringia;история темы;1;1;from
+Q1205;Thuringia;площадь;1;1;from
+Q1205;Thuringia;высота над уровнем моря;1;1;from
+Q1205;Thuringia;категория для людей, связанных с местностью;1;1;from
+Q1205;Thuringia;категория для людей, похороненных здесь;1;1;from
+Q1205;Thuringia;категория фильмов, снятых в этом месте;1;1;from
+Q1205;Thuringia;название на языке оригинала;1;1;from
+Q1205;Thuringia;код TGN;1;2;from
+Q1205;Thuringia;код GeoNames;1;1;from
+Q1205;Thuringia;категория для людей, умерших здесь;1;1;from
+Q1205;Thuringia;категория для людей, родившихся здесь;1;1;from
+Q1205;Thuringia;текст девиза;1;1;from
+Q1205;Thuringia;код в энциклопедии «Британника онлайн»;1;1;from
+Q1205;Thuringia;код региона Германии;1;1;from
+Q1205;Thuringia;заменил;1;6;from
+Q1205;Thuringia;описывается в источниках;1;1;from
+Q1205;Thuringia;должность главы правительства;1;1;from
+Q1205;Thuringia;код в Большой каталанской энциклопедии;1;1;from
+Q1205;Thuringia;значение в OmegaWiki;1;1;from
+Q1205;Thuringia;портал Викимедиа;1;1;from
+Q1205;Thuringia;численность населения;1;2;from
+Q1205;Thuringia;десятичная классификация Дьюи;1;1;from
+Q1202;Saxony;награда от;1;1;to
+Q1202;Saxony;страна происхождения;1;4;to
+Q1202;Saxony;изображённый объект;1;1;to
+Q1202;Saxony;основная категория по теме;1;1;from
+Q1202;Saxony;FIPS 10-4 (страны и регионы);1;1;from
+Q1202;Saxony;официальный сайт;1;1;from
+Q1202;Saxony;категория карт на Викискладе;1;1;from
+Q1202;Saxony;French Vikidia ID;1;1;from
+Q1202;Saxony;iNaturalist place ID;1;1;from
+Q1202;Saxony;код NKC;1;1;from
+Q1202;Saxony;Who's on First ID;1;1;from
+Q1202;Saxony;код статьи Klexikon;1;1;from
+Q1202;Saxony;код Freebase;1;1;from
+Q1202;Saxony;идентификатор Dizionario di Storia;1;1;from
+Q1202;Saxony;географические координаты;1;1;from
+Q1202;Saxony;наивысшая точка;1;1;from
+Q1202;Saxony;код NUTS;1;1;from
+Q1202;Saxony;код Comic Vine;1;1;from
+Q1202;Saxony;дата основания/создания/возникновения;1;1;from
+Q1202;Saxony;идентификатор местоположения ArchINFORM;1;1;from
+Q1202;Saxony;EuroVoc ID;1;1;from
+Q1202;Saxony;архивы хранятся в;1;1;from
+Q1202;Saxony;участник организации или клуба;1;1;from
+Q1202;Saxony;произношение (звуковой файл);1;1;from
+Q1202;Saxony;код GACS;1;1;from
+Q1202;Saxony;код тезауруса PACTOLS;1;1;from
+Q1202;Saxony;часовой пояс;1;2;from
+Q1202;Saxony;ID отношения в OpenStreetMap;1;1;from
+Q1202;Saxony;код STW Thesaurus for Economics;1;1;from
+Q1202;Saxony;идентификатор HDS;1;1;from
+Q1202;Saxony;галерея на Викискладе;1;1;from
+Q1202;Saxony;следующее по порядку;1;1;to
+Q1202;Saxony;баннер Викигида;1;1;from
+Q1202;Saxony;тематически относится к;1;2;to
+Q1202;Saxony;названо в честь;1;2;to
+Q1202;Saxony;место активности;1;6;to
+Q1202;Saxony;исток водотока;1;1;to
+Q1202;Saxony;спонсор;1;1;to
+Q1202;Saxony;находится в пределах природно-географического объекта;1;3;to
+Q1202;Saxony;гражданство;1;13;to
+Q1202;Saxony;владельцем является;1;17;to
+Q1202;Saxony;происходит из;1;3;to
+Q1202;Saxony;основная тема портала Викимедиа;1;1;to
+Q1202;Saxony;категория объединяет темы;1;127;to
+Q1202;Saxony;местонахождение;1;8;to
+Q1202;Saxony;оператор;1;6;to
+Q1202;Saxony;основная тема;1;34;to
+Q1202;Saxony;место смерти;1;17;to
+Q1202;Saxony;место погребения;1;13;to
+Q1202;Saxony;зона обслуживания;1;34;to
+Q1202;Saxony;принадлежность;1;1;to
+Q1202;Saxony;место рождения;1;65;to
+Q1202;Saxony;место жительства;1;2;to
+Q1202;Saxony;юрисдикция распространяется на;1;806;to
+Q1202;Saxony;пример использования свойства;1;1;to
+Q1202;Saxony;dmoz;1;1;from
+Q1202;Saxony;место в MusicBrainz;1;1;from
+Q1202;Saxony;код NLI;1;1;from
+Q1205;Thuringia;используемый язык;1;1;from
+Q1205;Thuringia;ISO 3166-2;1;1;from
+Q1205;Thuringia;код в Encyclopædia Universalis;1;1;from
+Q1206;Saxony-Anhalt;категория для людей, умерших здесь;1;1;from
+Q1206;Saxony-Anhalt;код в энциклопедии «Британника онлайн»;1;1;from
+Q1206;Saxony-Anhalt;код региона Германии;1;1;from
+Q1206;Saxony-Anhalt;заменил;1;3;from
+Q1206;Saxony-Anhalt;должность главы правительства;1;1;from
+Q1206;Saxony-Anhalt;значение в OmegaWiki;1;1;from
+Q1206;Saxony-Anhalt;портал Викимедиа;1;1;from
+Q1206;Saxony-Anhalt;численность населения;1;1;from
+Q1206;Saxony-Anhalt;десятичная классификация Дьюи;1;1;from
+Q1206;Saxony-Anhalt;изображение герба;1;1;from
+Q1206;Saxony-Anhalt;главный регулирующий текст;1;1;from
+Q1206;Saxony-Anhalt;глава правительства;1;7;from
+Q1206;Saxony-Anhalt;имеет границы с;1;4;to
+Q1206;Saxony-Anhalt;изображение флага;1;1;from
+Q1206;Saxony-Anhalt;столица;1;1;from
+Q1206;Saxony-Anhalt;это частный случай понятия;1;1;from
+Q1206;Saxony-Anhalt;код LCNAF;1;1;from
+Q1206;Saxony-Anhalt;карта местонахождения;1;1;from
+Q1206;Saxony-Anhalt;описание герба;1;1;from
+Q1206;Saxony-Anhalt;код GND;1;1;from
+Q1206;Saxony-Anhalt;код VIAF;1;1;from
+Q1206;Saxony-Anhalt;высший судебный орган;1;1;from
+Q1206;Saxony-Anhalt;законодательный орган;1;1;from
+Q1206;Saxony-Anhalt;изображение;1;1;from
+Q1206;Saxony-Anhalt;государство;1;3;to
+Q1206;Saxony-Anhalt;описание флага;1;1;from
+Q1206;Saxony-Anhalt;категория для людей, родившихся здесь;1;1;from
+Q1206;Saxony-Anhalt;код GeoNames;1;1;from
+Q1206;Saxony-Anhalt;административно делится на;1;1;to
+Q1206;Saxony-Anhalt;код TGN;1;1;from
+Q1206;Saxony-Anhalt;архивы хранятся в;1;1;from
+Q1206;Saxony-Anhalt;код EMLO location;1;1;from
+Q1206;Saxony-Anhalt;участник организации или клуба;1;2;from
+Q1206;Saxony-Anhalt;произношение (звуковой файл);1;1;from
+Q1206;Saxony-Anhalt;код GACS;1;1;from
+Q1206;Saxony-Anhalt;код тезауруса PACTOLS;1;1;from
+Q1206;Saxony-Anhalt;часовой пояс;1;2;from
+Q1206;Saxony-Anhalt;ID отношения в OpenStreetMap;1;1;from
+Q1206;Saxony-Anhalt;код STW Thesaurus for Economics;1;1;from
+Q1206;Saxony-Anhalt;геоданные;1;1;from
+Q1206;Saxony-Anhalt;категория на Викискладе;1;1;from
+Q1206;Saxony-Anhalt;Consolidated code of the electronic catalog of libraries of Belarus;1;1;from
+Q1206;Saxony-Anhalt;ISO 3166-2;1;1;from
+Q1206;Saxony-Anhalt;используемый язык;1;1;from
+Q1206;Saxony-Anhalt;код BNF;1;1;from
+Q1206;Saxony-Anhalt;код BabelNet;1;1;from
+Q1206;Saxony-Anhalt;история темы;1;1;from
+Q1206;Saxony-Anhalt;номинальный ВВП на душу населения;1;1;from
+Q1206;Saxony-Anhalt;номинальный ВВП;1;1;from
+Q1206;Saxony-Anhalt;площадь;1;2;from
+Q1206;Saxony-Anhalt;высота над уровнем моря;1;1;from
+Q1206;Saxony-Anhalt;категория для людей, связанных с местностью;1;1;from
+Q1206;Saxony-Anhalt;категория для людей, похороненных здесь;1;1;from
+Q1206;Saxony-Anhalt;категория фильмов, снятых в этом месте;1;1;from
+Q1206;Saxony-Anhalt;название на языке оригинала;1;1;from
+Q1206;Saxony-Anhalt;предыдущее по порядку;1;1;from
+Q1206;Saxony-Anhalt;административно-территориальная единица;1;1897;to
+Q1205;Thuringia;код темы Quora;1;1;from
+Q1205;Thuringia;основная категория по теме;1;1;from
+Q1205;Thuringia;официальный сайт;1;1;from
+Q1205;Thuringia;категория карт на Викискладе;1;1;from
+Q1205;Thuringia;French Vikidia ID;1;1;from
+Q1205;Thuringia;iNaturalist place ID;1;1;from
+Q1205;Thuringia;код NKC;1;1;from
+Q1205;Thuringia;Who's on First ID;1;1;from
+Q1205;Thuringia;код статьи Klexikon;1;1;from
+Q1205;Thuringia;код Freebase;1;1;from
+Q1205;Thuringia;идентификатор Dizionario di Storia;1;1;from
+Q1205;Thuringia;географические координаты;1;1;from
+Q1205;Thuringia;наивысшая точка;1;1;from
+Q1205;Thuringia;код NUTS;1;2;from
+Q1205;Thuringia;код Comic Vine;1;1;from
+Q1205;Thuringia;дата основания/создания/возникновения;1;1;from
+Q1205;Thuringia;идентификатор местоположения ArchINFORM;1;1;from
+Q1205;Thuringia;EuroVoc ID;1;1;from
+Q1205;Thuringia;архивы хранятся в;1;4;from
+Q1205;Thuringia;участник организации или клуба;1;2;from
+Q1205;Thuringia;произношение (звуковой файл);1;1;from
+Q1205;Thuringia;код GACS;1;1;from
+Q1205;Thuringia;код тезауруса PACTOLS;1;1;from
+Q1205;Thuringia;ID отношения в OpenStreetMap;1;1;from
+Q1205;Thuringia;код STW Thesaurus for Economics;1;1;from
+Q1205;Thuringia;геоданные;1;1;from
+Q1205;Thuringia;категория на Викискладе;1;1;from
+Q1205;Thuringia;FIPS 10-4 (страны и регионы);1;1;from
+Q1205;Thuringia;галерея на Викискладе;1;1;from
+Q1205;Thuringia;заменён на;1;1;to
+Q1205;Thuringia;баннер Викигида;1;1;from
+Q1205;Thuringia;является столицей;1;1;to
+Q1205;Thuringia;общая тема категории;1;1;to
+Q1205;Thuringia;место изготовления;1;1;to
+Q1205;Thuringia;происходит из;1;1;to
+Q1205;Thuringia;награда от;1;2;to
+Q1205;Thuringia;страна происхождения;1;2;to
+Q1205;Thuringia;тематически относится к;1;1;to
+Q1205;Thuringia;следующее по порядку;1;1;to
+Q1205;Thuringia;категория объединяет темы;1;45;to
+Q1205;Thuringia;местонахождение;1;5;to
+Q1205;Thuringia;основная тема;1;26;to
+Q1205;Thuringia;владельцем является;1;1;to
+Q1205;Thuringia;часть от;1;3;to
+Q1205;Thuringia;заказчик произведения;1;1;to
+Q1205;Thuringia;находится в пределах природно-географического объекта;1;2;to
+Q1205;Thuringia;зона обслуживания;1;24;to
+Q1205;Thuringia;место погребения;1;7;to
+Q1205;Thuringia;основная тема портала Викимедиа;1;1;to
+Q1205;Thuringia;юрисдикция распространяется на;1;341;to
+Q1205;Thuringia;место рождения;1;74;to
+Q1205;Thuringia;место активности;1;4;to
+Q1205;Thuringia;место смерти;1;20;to
+Q1205;Thuringia;dmoz;1;1;from
+Q1205;Thuringia;место в MusicBrainz;1;1;from
+Q1205;Thuringia;код NLI;1;1;from
+Q1202;Saxony;геоданные;1;1;from
+Q1202;Saxony;идентификатор Ringgold;1;1;from
+Q1200;Rhineland-Palatinate;код BabelNet;1;1;from
+Q1201;Saarland;высший судебный орган;1;1;from
+Q1201;Saarland;изображение герба;1;3;from
+Q1201;Saarland;глава правительства;1;21;from
+Q1201;Saarland;имеет границы с;1;6;to
+Q1201;Saarland;изображение флага;1;3;from
+Q1201;Saarland;столица;1;1;from
+Q1201;Saarland;это частный случай понятия;1;1;from
+Q1201;Saarland;код LCNAF;1;1;from
+Q1201;Saarland;карта местонахождения;1;1;from
+Q1201;Saarland;описание герба;1;1;from
+Q1201;Saarland;код GND;1;1;from
+Q1201;Saarland;код VIAF;1;1;from
+Q1201;Saarland;код ISNI;1;1;from
+Q1201;Saarland;законодательный орган;1;1;from
+Q1202;Saxony;код темы Quora;1;1;from
+Q1201;Saarland;изображение;1;1;from
+Q1201;Saarland;государство;1;2;to
+Q1201;Saarland;описание флага;1;1;from
+Q1201;Saarland;административно делится на;1;3;to
+Q1201;Saarland;административно-территориальная единица;1;679;to
+Q1200;Rhineland-Palatinate;происходит из;1;2;to
+Q1200;Rhineland-Palatinate;является столицей;1;1;to
+Q1200;Rhineland-Palatinate;место жительства;1;1;to
+Q1200;Rhineland-Palatinate;общая тема категории;1;1;to
+Q1200;Rhineland-Palatinate;находится в границах современной административной единицы;1;1;to
+Q1200;Rhineland-Palatinate;страна происхождения;1;1;to
+Q1200;Rhineland-Palatinate;место создания;1;1;to
+Q1201;Saarland;десятичная классификация Дьюи;1;1;from
+Q1201;Saarland;численность населения;1;2;from
+Q1201;Saarland;портал Викимедиа;1;1;from
+Q1201;Saarland;код US National Archives;1;1;from
+Q1201;Saarland;ISO 3166-2;1;1;from
+Q1201;Saarland;постоянный дубликат;1;1;to
+Q1201;Saarland;код в Большой российской энциклопедии онлайн;1;1;from
+Q1201;Saarland;код BNF;1;1;from
+Q1201;Saarland;код BabelNet;1;1;from
+Q1201;Saarland;код канала YouTube;1;1;from
+Q1201;Saarland;код YSO;1;1;from
+Q1201;Saarland;история темы;1;1;from
+Q1201;Saarland;площадь;1;1;from
+Q1201;Saarland;учётная запись Facebook;1;1;from
+Q1201;Saarland;учётная запись в Instagram;1;1;from
+Q1201;Saarland;учётная запись в Твиттере;1;2;from
+Q1201;Saarland;категория для людей, связанных с местностью;1;1;from
+Q1201;Saarland;категория для людей, похороненных здесь;1;1;from
+Q1201;Saarland;название на языке оригинала;1;1;from
+Q1201;Saarland;код TGN;1;1;from
+Q1201;Saarland;код GeoNames;1;1;from
+Q1201;Saarland;категория для людей, умерших здесь;1;1;from
+Q1201;Saarland;категория для людей, родившихся здесь;1;1;from
+Q1201;Saarland;текст девиза;1;3;from
+Q1201;Saarland;официальное название;1;1;from
+Q1201;Saarland;код в энциклопедии «Британника онлайн»;1;1;from
+Q1201;Saarland;код региона Германии;1;1;from
+Q1201;Saarland;должность главы правительства;1;1;from
+Q1201;Saarland;значение в OmegaWiki;1;1;from
+Q1200;Rhineland-Palatinate;место погребения;1;12;to
+Q1200;Rhineland-Palatinate;названо в честь;1;1;to
+Q1200;Rhineland-Palatinate;лицензия на вещание в;1;1;to
+Q1200;Rhineland-Palatinate;код NKC;1;1;from
+Q1200;Rhineland-Palatinate;код статьи Klexikon;1;1;from
+Q1200;Rhineland-Palatinate;код Freebase;1;1;from
+Q1200;Rhineland-Palatinate;географические координаты;1;1;from
+Q1200;Rhineland-Palatinate;наивысшая точка;1;1;from
+Q1200;Rhineland-Palatinate;код NUTS;1;1;from
+Q1200;Rhineland-Palatinate;код Comic Vine;1;1;from
+Q1200;Rhineland-Palatinate;дата основания/создания/возникновения;1;1;from
+Q1200;Rhineland-Palatinate;идентификатор местоположения ArchINFORM;1;1;from
+Q1200;Rhineland-Palatinate;EuroVoc ID;1;1;from
+Q1200;Rhineland-Palatinate;архивы хранятся в;1;1;from
+Q1200;Rhineland-Palatinate;участник организации или клуба;1;1;from
+Q1200;Rhineland-Palatinate;произношение (звуковой файл);1;1;from
+Q1200;Rhineland-Palatinate;код GACS;1;1;from
+Q1200;Rhineland-Palatinate;код тезауруса PACTOLS;1;1;from
+Q1200;Rhineland-Palatinate;часовой пояс;1;2;from
+Q1200;Rhineland-Palatinate;ID отношения в OpenStreetMap;1;1;from
+Q1200;Rhineland-Palatinate;код STW Thesaurus for Economics;1;1;from
+Q1200;Rhineland-Palatinate;геоданные;1;1;from
+Q1200;Rhineland-Palatinate;категория на Викискладе;1;1;from
+Q1200;Rhineland-Palatinate;код темы Quora;1;1;from
+Q1200;Rhineland-Palatinate;код NE.se;1;1;from
+Q1200;Rhineland-Palatinate;ISO 3166-2;1;1;from
+Q1200;Rhineland-Palatinate;постоянный дубликат;1;1;to
+Q1200;Rhineland-Palatinate;используемый язык;1;2;from
+Q1200;Rhineland-Palatinate;код SUDOC;1;1;from
+Q1200;Rhineland-Palatinate;Who's on First ID;1;1;from
+Q1200;Rhineland-Palatinate;iNaturalist place ID;1;1;from
+Q1200;Rhineland-Palatinate;местонахождение;1;4;to
+Q1200;Rhineland-Palatinate;French Vikidia ID;1;1;from
+Q1200;Rhineland-Palatinate;расположение штаб-квартиры;1;3;to
+Q1200;Rhineland-Palatinate;владельцем является;1;3;to
+Q1200;Rhineland-Palatinate;заказчик произведения;1;2;to
+Q1200;Rhineland-Palatinate;находится в пределах природно-географического объекта;1;2;to
+Q1200;Rhineland-Palatinate;категория объединяет темы;1;41;to
+Q1200;Rhineland-Palatinate;обслуживаемый город;1;1;to
+Q1200;Rhineland-Palatinate;тематически относится к;1;2;to
+Q1200;Rhineland-Palatinate;работодатель;1;3;to
+Q1200;Rhineland-Palatinate;основная тема портала Викимедиа;1;1;to
+Q1200;Rhineland-Palatinate;следующее по порядку;1;1;to
+Q1200;Rhineland-Palatinate;награда от;1;5;to
+Q1200;Rhineland-Palatinate;зона обслуживания;1;32;to
+Q1200;Rhineland-Palatinate;место смерти;1;31;to
+Q1200;Rhineland-Palatinate;место рождения;1;21;to
+Q1200;Rhineland-Palatinate;юрисдикция распространяется на;1;875;to
+Q1200;Rhineland-Palatinate;dmoz;1;1;from
+Q1200;Rhineland-Palatinate;место в MusicBrainz;1;1;from
+Q1200;Rhineland-Palatinate;код NLI;1;1;from
+Q1200;Rhineland-Palatinate;баннер Викигида;1;1;from
+Q1200;Rhineland-Palatinate;галерея на Викискладе;1;1;from
+Q1200;Rhineland-Palatinate;основная категория по теме;1;1;from
+Q1200;Rhineland-Palatinate;FIPS 10-4 (страны и регионы);1;1;from
+Q1200;Rhineland-Palatinate;транскрипция в МФА;1;1;from
+Q1200;Rhineland-Palatinate;официальный сайт;1;1;from
+Q1200;Rhineland-Palatinate;категория карт на Викискладе;1;1;from
+Q1201;Saarland;учётная запись Flickr;1;1;from
+Q1201;Saarland;код темы Quora;1;1;from
+Q1201;Saarland;код NDL;1;1;from
+Q1202;Saxony;должность главы правительства;1;1;from
+Q1202;Saxony;значение в OmegaWiki;1;1;from
+Q1202;Saxony;портал Викимедиа;1;1;from
+Q1202;Saxony;численность населения;1;10;from
+Q1202;Saxony;десятичная классификация Дьюи;1;1;from
+Q1202;Saxony;изображение герба;1;1;from
+Q1202;Saxony;главный регулирующий текст;1;1;from
+Q1202;Saxony;глава правительства;1;7;from
+Q1202;Saxony;имеет границы с;1;7;to
+Q1202;Saxony;изображение флага;1;1;from
+Q1202;Saxony;столица;1;1;from
+Q1202;Saxony;это частный случай понятия;1;1;from
+Q1202;Saxony;код LCNAF;1;1;from
+Q1202;Saxony;карта местонахождения;1;1;from
+Q1202;Saxony;описание герба;1;1;from
+Q1202;Saxony;код GND;1;1;from
+Q1202;Saxony;код VIAF;1;1;from
+Q1202;Saxony;код ISNI;1;1;from
+Q1202;Saxony;высший судебный орган;1;1;from
+Q1202;Saxony;законодательный орган;1;1;from
+Q1202;Saxony;изображение;1;1;from
+Q1202;Saxony;государство;1;67;to
+Q1202;Saxony;описание флага;1;1;from
+Q1202;Saxony;предыдущее по порядку;1;1;from
+Q1202;Saxony;административно делится на;1;2;to
+Q1202;Saxony;административно-территориальная единица;1;2241;to
+Q1202;Saxony;код в Большой каталанской энциклопедии;1;1;from
+Q1202;Saxony;заменил;1;6;from
+Q1201;Saarland;основная тема;1;1;to
+Q1202;Saxony;код региона Германии;1;1;from
+Q1202;Saxony;код NE.se;1;1;from
+Q1202;Saxony;ISO 3166-2;1;1;from
+Q1202;Saxony;используемый язык;1;3;from
+Q1202;Saxony;код BNF;1;1;from
+Q1202;Saxony;код BabelNet;1;1;from
+Q1202;Saxony;история темы;1;1;from
+Q1202;Saxony;номинальный ВВП на душу населения;1;1;from
+Q1202;Saxony;номинальный ВВП;1;1;from
+Q1202;Saxony;площадь;1;1;from
+Q1202;Saxony;высота над уровнем моря;1;1;from
+Q1202;Saxony;учётная запись Facebook;1;1;from
+Q1202;Saxony;учётная запись в Твиттере;1;2;from
+Q1202;Saxony;не путать с;1;1;to
+Q1202;Saxony;категория для людей, связанных с местностью;1;1;from
+Q1202;Saxony;категория для людей, похороненных здесь;1;1;from
+Q1202;Saxony;категория фильмов, снятых в этом месте;1;1;from
+Q1202;Saxony;название на языке оригинала;1;1;from
+Q1202;Saxony;код TGN;1;2;from
+Q1202;Saxony;код GeoNames;1;1;from
+Q1202;Saxony;категория для людей, умерших здесь;1;1;from
+Q1202;Saxony;категория для людей, родившихся здесь;1;1;from
+Q1202;Saxony;список памятников;1;1;from
+Q1202;Saxony;официальное название;1;1;from
+Q1202;Saxony;код Еврейской энциклопедии;1;1;from
+Q1202;Saxony;код в энциклопедии «Британника онлайн»;1;1;from
+Q1201;Saarland;является столицей;1;1;to
+Q1201;Saarland;работодатель;1;1;to
+Q1201;Saarland;идентификатор Ringgold;1;1;from
+Q1201;Saarland;код SELIBR;1;1;from
+Q1201;Saarland;официальный сайт;1;1;from
+Q1201;Saarland;категория карт на Викискладе;1;1;from
+Q1201;Saarland;iNaturalist place ID;1;1;from
+Q1201;Saarland;код NKC;1;1;from
+Q1201;Saarland;Who's on First ID;1;1;from
+Q1201;Saarland;код статьи Klexikon;1;1;from
+Q1201;Saarland;код Freebase;1;1;from
+Q1201;Saarland;идентификатор Dizionario di Storia;1;1;from
+Q1201;Saarland;географические координаты;1;1;from
+Q1201;Saarland;наивысшая точка;1;1;from
+Q1201;Saarland;код NUTS;1;2;from
+Q1201;Saarland;код Comic Vine;1;1;from
+Q1201;Saarland;дата основания/создания/возникновения;1;1;from
+Q1201;Saarland;идентификатор местоположения ArchINFORM;1;1;from
+Q1201;Saarland;EuroVoc ID;1;1;from
+Q1201;Saarland;архивы хранятся в;1;1;from
+Q1201;Saarland;участник организации или клуба;1;1;from
+Q1201;Saarland;основополагающий текст;1;1;from
+Q1201;Saarland;произношение (звуковой файл);1;1;from
+Q1201;Saarland;код тезауруса PACTOLS;1;1;from
+Q1201;Saarland;часовой пояс;1;2;from
+Q1201;Saarland;ID отношения в OpenStreetMap;1;1;from
+Q1201;Saarland;код STW Thesaurus for Economics;1;1;from
+Q1201;Saarland;геоданные;1;1;from
+Q1201;Saarland;категория на Викискладе;1;1;from
+Q1201;Saarland;FIPS 10-4 (страны и регионы);1;1;from
+Q1201;Saarland;основная категория по теме;1;1;from
+Q1201;Saarland;место погребения;1;2;to
+Q1201;Saarland;галерея на Викискладе;1;1;from
+Q1201;Saarland;общая тема категории;1;1;to
+Q1201;Saarland;названо в честь;1;1;to
+Q1201;Saarland;страна происхождения;1;1;to
+Q1201;Saarland;награда от;1;1;to
+Q1201;Saarland;история происходит в месте;1;1;to
+Q1201;Saarland;местонахождение;1;6;to
+Q1201;Saarland;заменён на;1;1;to
+Q1201;Saarland;представляет страну в спорте;1;1;to
+Q1201;Saarland;место жительства;1;2;to
+Q1201;Saarland;руководитель;1;2;to
+Q1201;Saarland;категория объединяет темы;1;38;to
+Q1201;Saarland;оператор;1;2;to
+Q1201;Saarland;подарок от;1;1;to
+Q1201;Saarland;основная тема портала Викимедиа;1;1;to
+Q1201;Saarland;тематически относится к;1;1;to
+Q1201;Saarland;происходит из;1;2;to
+Q1201;Saarland;зона обслуживания;1;45;to
+Q1201;Saarland;юрисдикция распространяется на;1;221;to
+Q1201;Saarland;владельцем является;1;4;to
+Q1201;Saarland;место активности;1;2;to
+Q1201;Saarland;место рождения;1;27;to
+Q1201;Saarland;ключевое событие;1;1;to
+Q1201;Saarland;dmoz;1;1;from
+Q1201;Saarland;место в MusicBrainz;1;1;from
+Q1201;Saarland;баннер Викигида;1;1;from
+Q1206;Saxony-Anhalt;EuroVoc ID;1;1;from
+Q1206;Saxony-Anhalt;идентификатор местоположения ArchINFORM;1;1;from
+Q1206;Saxony-Anhalt;дата основания/создания/возникновения;1;1;from
+Q2843;Lübeck;категория на Викискладе;1;1;from
+Q2843;Lübeck;автомобилей на 1000 человек;1;18;from
+Q2843;Lübeck;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q2843;Lübeck;архивы хранятся в;1;1;from
+Q2843;Lübeck;местный телефонный код;1;3;from
+Q2843;Lübeck;код EMLO location;1;1;from
+Q2843;Lübeck;участник организации или клуба;1;4;from
+Q2843;Lübeck;код района Германии;1;1;from
+Q2843;Lübeck;идентификатор муниципалитетов в Германии;1;1;from
+Q2843;Lübeck;код в Большой норвежской энциклопедии;1;1;from
+Q2843;Lübeck;часовой пояс;1;2;from
+Q2843;Lübeck;ID отношения в OpenStreetMap;1;1;from
+Q2843;Lübeck;код автомобильного номера;1;1;from
+Q2843;Lübeck;код темы Quora;1;1;from
+Q1206;Saxony-Anhalt;код NUTS;1;2;from
+Q2843;Lübeck;код в Encyclopædia Universalis;1;1;from
+Q2843;Lübeck;код в Nomisma.org;1;1;from
+Q2843;Lübeck;код в Большой российской энциклопедии онлайн;1;1;from
+Q2843;Lübeck;туристический центр;1;1;from
+Q2843;Lübeck;почтовый индекс;1;1;from
+Q2843;Lübeck;код SUDOC;1;1;from
+Q2843;Lübeck;код BNF;1;1;from
+Q2843;Lübeck;код Historical Gazetteer;1;1;from
+Q2843;Lübeck;код YSO;1;1;from
+Q2843;Lübeck;площадь;1;3;from
+Q2843;Lübeck;высота над уровнем моря;1;1;from
+Q2843;Lübeck;код места в Facebook;1;1;from
+Q2843;Lübeck;идентификатор местоположения ArchINFORM;1;1;from
+Q2843;Lübeck;код NUTS;1;1;from
+Q2843;Lübeck;географические координаты;1;1;from
+Q2843;Lübeck;идентификатор Dizionario di Storia;1;1;from
+Q2843;Lübeck;место погребения;1;13;to
+Q2843;Lübeck;место изготовления;1;21;to
+Q2843;Lübeck;производитель;1;6;to
+Q2843;Lübeck;расположение штаб-квартиры;1;97;to
+Q2843;Lübeck;оператор;1;4;to
+Q2843;Lübeck;основной порт;1;12;to
+Q2843;Lübeck;гражданство;1;14;to
+Q2843;Lübeck;место жительства;1;22;to
+Q2843;Lübeck;место рождения;1;1520;to
+Q2843;Lübeck;место активности;1;361;to
+Q2843;Lübeck;место смерти;1;1218;to
+Q2843;Lübeck;место в MusicBrainz;1;1;from
+Q2843;Lübeck;код NLI;1;1;from
+Q2843;Lübeck;баннер Викигида;1;1;from
+Q2843;Lübeck;галерея на Викискладе;1;1;from
+Q2843;Lübeck;основная категория по теме;1;1;from
+Q2843;Lübeck;официальный сайт;1;1;from
+Q2843;Lübeck;ключевое событие;1;1;from
+Q2843;Lübeck;категория карт на Викискладе;1;1;from
+Q2843;Lübeck;iNaturalist place ID;1;1;from
+Q2843;Lübeck;находится в пределах природно-географического объекта;1;2;from
+Q2843;Lübeck;Who's on First ID;1;2;from
+Q2843;Lübeck;код статьи Klexikon;1;1;from
+Q2843;Lübeck;код Bildkatalog;1;1;from
+Q2843;Lübeck;код Freebase;1;1;from
+Q2843;Lübeck;код GAMEO;1;1;from
+Q2843;Lübeck;владеет;1;1;from
+Q2843;Lübeck;короткое название;1;1;from
+Q2843;Lübeck;находится на берегу водоёма;1;4;from
+Q2843;Lübeck;изображение;1;1;from
+Q2843;Lübeck;государство;1;2;to
+Q2843;Lübeck;изображение печати/эмблемы;1;1;from
+Q2843;Lübeck;административно делится на;1;3;to
+Q2843;Lübeck;административно-территориальная единица;1;431;to
+Q1209;Free Hanseatic City of Bremen;эксклав от;1;1;to
+Q1209;Free Hanseatic City of Bremen;является столицей;1;1;to
+Q1209;Free Hanseatic City of Bremen;общая тема категории;1;1;to
+Q1209;Free Hanseatic City of Bremen;участник(и);1;1;to
+Q1209;Free Hanseatic City of Bremen;награда от;1;1;to
+Q1209;Free Hanseatic City of Bremen;занимаемая должность;1;1;to
+Q1209;Free Hanseatic City of Bremen;порт приписки;1;1;to
+Q1209;Free Hanseatic City of Bremen;состоит из;1;1;to
+Q1209;Free Hanseatic City of Bremen;место публикации;1;1;to
+Q1209;Free Hanseatic City of Bremen;основной порт;1;1;to
+Q1209;Free Hanseatic City of Bremen;место жительства;1;1;to
+Q1209;Free Hanseatic City of Bremen;владельцем является;1;1;to
+Q1209;Free Hanseatic City of Bremen;местонахождение;1;3;to
+Q1209;Free Hanseatic City of Bremen;зона обслуживания;1;18;to
+Q1209;Free Hanseatic City of Bremen;категория объединяет темы;1;25;to
+Q1209;Free Hanseatic City of Bremen;оператор;1;2;to
+Q1209;Free Hanseatic City of Bremen;основная тема портала Викимедиа;1;1;to
+Q1209;Free Hanseatic City of Bremen;место погребения;1;1;to
+Q1209;Free Hanseatic City of Bremen;место смерти;1;73;to
+Q1209;Free Hanseatic City of Bremen;гражданство;1;7;to
+Q2843;Lübeck;город-побратим;1;10;to
+Q2843;Lübeck;код ISNI;1;1;from
+Q2843;Lübeck;категория для людей, связанных с местностью;1;1;from
+Q2843;Lübeck;код VIAF;1;2;from
+Q2843;Lübeck;категория для людей, похороненных здесь;1;1;from
+Q2843;Lübeck;название на языке оригинала;1;1;from
+Q2843;Lübeck;код TGN;1;1;from
+Q2843;Lübeck;код GeoNames;1;3;from
+Q2843;Lübeck;этнохороним;1;5;from
+Q2843;Lübeck;категория для людей, умерших здесь;1;1;from
+Q2843;Lübeck;категория для людей, родившихся здесь;1;1;from
+Q2843;Lübeck;официальное название;1;2;from
+Q2843;Lübeck;код в энциклопедии «Британника онлайн»;1;1;from
+Q2843;Lübeck;является столицей;1;4;from
+Q2843;Lübeck;описывается в источниках;1;3;from
+Q2843;Lübeck;код в Большой каталанской энциклопедии;1;1;from
+Q2843;Lübeck;код US National Archives;1;1;from
+Q2843;Lübeck;портал Викимедиа;1;1;from
+Q2843;Lübeck;численность населения;1;84;from
+Q2843;Lübeck;десятичная классификация Дьюи;1;1;from
+Q2843;Lübeck;изображение герба;1;1;from
+Q2843;Lübeck;главный регулирующий текст;1;4;from
+Q2843;Lübeck;глава правительства;1;17;from
+Q2843;Lübeck;имеет границы с;1;4;to
+Q2843;Lübeck;изображение флага;1;1;from
+Q2843;Lübeck;это частный случай понятия;1;9;from
+Q2843;Lübeck;код LCNAF;1;2;from
+Q2843;Lübeck;карта местонахождения;1;1;from
+Q2843;Lübeck;код GND;1;1;from
+Q2843;Lübeck;участник(и);1;1;to
+Q2843;Lübeck;часть от;1;1;to
+Q2843;Lübeck;местонахождение;1;32;to
+Q262733;Württemberg-Hohenzollern;дата прекращения существования;1;1;from
+Q262733;Württemberg-Hohenzollern;заменён на;1;1;to
+Q262733;Württemberg-Hohenzollern;заменил;1;1;to
+Q262733;Württemberg-Hohenzollern;изображение герба;1;1;from
+Q262733;Württemberg-Hohenzollern;изображение флага;1;1;from
+Q262733;Württemberg-Hohenzollern;столица;1;1;from
+Q262733;Württemberg-Hohenzollern;это частный случай понятия;1;1;from
+Q262733;Württemberg-Hohenzollern;карта местонахождения;1;2;from
+Q262733;Württemberg-Hohenzollern;код GND;1;1;from
+Q262733;Württemberg-Hohenzollern;код VIAF;1;1;from
+Q262733;Württemberg-Hohenzollern;законодательный орган;1;1;from
+Q262733;Württemberg-Hohenzollern;государство;1;1;from
+Q262733;Württemberg-Hohenzollern;административно-территориальная единица;1;5;from
+Q261407;Baden;является столицей;1;1;to
+Q261407;Baden;местонахождение;1;1;to
+Q261407;Baden;административно делится на;1;3;to
+Q261407;Baden;юрисдикция распространяется на;1;2;to
+Q261407;Baden;основная категория по теме;1;1;from
+Q261407;Baden;находится в пределах природно-географического объекта;1;1;to
+Q261407;Baden;дата прекращения существования;1;1;from
+Q261407;Baden;дата основания/создания/возникновения;1;1;from
+Q261407;Baden;произношение (звуковой файл);1;1;from
+Q261407;Baden;код в Encyclopædia Universalis;1;1;from
+Q261407;Baden;название на языке оригинала;1;1;from
+Q261407;Baden;официальное название;1;1;from
+Q261407;Baden;заменён на;1;1;to
+Q262733;Württemberg-Hohenzollern;дата основания/создания/возникновения;1;1;from
+Q262733;Württemberg-Hohenzollern;географические координаты;1;1;from
+Q261407;Baden;изображение герба;1;1;from
+Q262733;Württemberg-Hohenzollern;код Freebase;1;1;from
+Q32051496;Hamburg;географические координаты;1;1;from
+Q32051496;Hamburg;высота над уровнем моря;1;1;from
+Q32051496;Hamburg;код GeoNames;1;1;from
+Q32051496;Hamburg;это частный случай понятия;1;1;from
+Q32051496;Hamburg;государство;1;1;from
+Q641116;State of Hanover;административно делится на;1;1;to
+Q641116;State of Hanover;основная тема;1;1;to
+Q641116;State of Hanover;имеет границы с;1;2;to
+Q641116;State of Hanover;код Freebase;1;1;from
+Q641116;State of Hanover;дата прекращения существования;1;1;from
+Q641116;State of Hanover;дата основания/создания/возникновения;1;1;from
+Q641116;State of Hanover;категория на Викискладе;1;1;from
+Q641116;State of Hanover;заменён на;1;1;to
+Q641116;State of Hanover;заменил;1;1;to
+Q641116;State of Hanover;глава правительства;1;1;from
+Q641116;State of Hanover;изображение флага;1;1;from
+Q641116;State of Hanover;столица;1;1;from
+Q641116;State of Hanover;это частный случай понятия;1;1;from
+Q641116;State of Hanover;карта местонахождения;1;1;from
+Q641116;State of Hanover;административно-территориальная единица;1;1;from
+Q262733;Württemberg-Hohenzollern;общая тема категории;1;1;to
+Q262733;Württemberg-Hohenzollern;административно делится на;1;3;to
+Q262733;Württemberg-Hohenzollern;гражданство;1;1;to
+Q262733;Württemberg-Hohenzollern;юрисдикция распространяется на;1;2;to
+Q262733;Württemberg-Hohenzollern;основная категория по теме;1;1;from
+Q261407;Baden;заменил;1;1;to
+Q261407;Baden;изображение флага;1;1;from
+Q2843;Lübeck;создатель;1;1;to
+Q251660;Württemberg-Baden;государство;1;1;from
+Q251660;Württemberg-Baden;административно-территориальная единица;1;3;to
+Q2843;Lübeck;организатор;1;1;to
+Q2843;Lübeck;заменён на;1;1;to
+Q2843;Lübeck;общая тема категории;1;1;to
+Q2843;Lübeck;обслуживаемый город;1;1;to
+Q2843;Lübeck;порт приписки;1;2;to
+Q2843;Lübeck;зона обслуживания;1;1;to
+Q2843;Lübeck;основная тема портала Викимедиа;1;1;to
+Q2843;Lübeck;тематически относится к;1;1;to
+Q2843;Lübeck;конечная;1;1;to
+Q2843;Lübeck;категория объединяет темы;1;10;to
+Q2843;Lübeck;основные направления;1;1;to
+Q2843;Lübeck;вдохновлено;1;1;to
+Q2843;Lübeck;столица;1;3;to
+Q2843;Lübeck;спонсор;1;2;to
+Q2843;Lübeck;место публикации;1;9;to
+Q2843;Lübeck;изображённый объект;1;1;to
+Q2843;Lübeck;основная тема;1;8;to
+Q2843;Lübeck;история происходит в месте;1;2;to
+Q2843;Lübeck;юрисдикция распространяется на;1;7;to
+Q2843;Lübeck;владельцем является;1;2;to
+Q2843;Lübeck;расположение конечной точки;1;6;to
+Q2843;Lübeck;место создания;1;8;to
+Q2843;Lübeck;названо в честь;1;13;to
+Q2843;Lübeck;работодатель;1;5;to
+Q251660;Württemberg-Baden;предыдущее по порядку;1;1;from
+Q251660;Württemberg-Baden;код VIAF;1;1;from
+Q261407;Baden;столица;1;1;from
+Q251660;Württemberg-Baden;код GND;1;1;from
+Q261407;Baden;это частный случай понятия;1;2;from
+Q261407;Baden;карта местонахождения;1;2;from
+Q261407;Baden;код GND;1;1;from
+Q261407;Baden;код VIAF;1;1;from
+Q261407;Baden;государство;1;1;from
+Q261407;Baden;административно-территориальная единица;1;5;from
+Q251660;Württemberg-Baden;является столицей;1;1;to
+Q251660;Württemberg-Baden;общая тема категории;1;1;to
+Q251660;Württemberg-Baden;административно делится на;1;4;to
+Q251660;Württemberg-Baden;юрисдикция распространяется на;1;3;to
+Q251660;Württemberg-Baden;основная категория по теме;1;1;from
+Q251660;Württemberg-Baden;ключевое событие;1;2;from
+Q251660;Württemberg-Baden;находится в пределах природно-географического объекта;1;1;from
+Q251660;Württemberg-Baden;код Freebase;1;1;from
+Q251660;Württemberg-Baden;дата прекращения существования;1;1;from
+Q251660;Württemberg-Baden;дата основания/создания/возникновения;1;1;from
+Q251660;Württemberg-Baden;название на языке оригинала;1;1;from
+Q251660;Württemberg-Baden;заменён на;1;2;to
+Q251660;Württemberg-Baden;заменил;1;1;to
+Q251660;Württemberg-Baden;код US National Archives;1;1;from
+Q251660;Württemberg-Baden;изображение герба;1;1;from
+Q251660;Württemberg-Baden;изображение флага;1;1;from
+Q251660;Württemberg-Baden;столица;1;1;from
+Q251660;Württemberg-Baden;это частный случай понятия;1;1;from
+Q251660;Württemberg-Baden;карта местонахождения;1;2;from
+Q1209;Free Hanseatic City of Bremen;расположение штаб-квартиры;1;5;to
+Q1209;Free Hanseatic City of Bremen;юрисдикция распространяется на;1;101;to
+Q1209;Free Hanseatic City of Bremen;место активности;1;1070;to
+Q1208;Brandenburg;ISO 3166-2;1;1;from
+Q1208;Brandenburg;код BNF;1;1;from
+Q1208;Brandenburg;код BabelNet;1;1;from
+Q1208;Brandenburg;код YSO;1;1;from
+Q1208;Brandenburg;история темы;1;1;from
+Q1208;Brandenburg;код FAST;1;1;from
+Q1208;Brandenburg;площадь;1;1;from
+Q1208;Brandenburg;высота над уровнем моря;1;1;from
+Q1208;Brandenburg;категория для людей, связанных с местностью;1;1;from
+Q1208;Brandenburg;категория для людей, похороненных здесь;1;1;from
+Q1208;Brandenburg;категория фильмов, снятых в этом месте;1;1;from
+Q1208;Brandenburg;название на языке оригинала;1;1;from
+Q1208;Brandenburg;код TGN;1;2;from
+Q1208;Brandenburg;код GeoNames;1;1;from
+Q1208;Brandenburg;категория для людей, умерших здесь;1;1;from
+Q1208;Brandenburg;категория для людей, родившихся здесь;1;1;from
+Q1208;Brandenburg;код в энциклопедии «Британника онлайн»;1;2;from
+Q1208;Brandenburg;код региона Германии;1;1;from
+Q1208;Brandenburg;заменил;1;8;from
+Q1208;Brandenburg;описывается в источниках;1;2;from
+Q1208;Brandenburg;должность главы правительства;1;1;from
+Q1208;Brandenburg;код в Большой каталанской энциклопедии;1;2;from
+Q1208;Brandenburg;значение в OmegaWiki;1;1;from
+Q1208;Brandenburg;портал Викимедиа;1;1;from
+Q1208;Brandenburg;численность населения;1;1;from
+Q1208;Brandenburg;десятичная классификация Дьюи;1;1;from
+Q1208;Brandenburg;используемый язык;1;2;from
+Q1208;Brandenburg;код в Encyclopædia Universalis;1;1;from
+Q1208;Brandenburg;главный регулирующий текст;1;1;from
+Q1208;Brandenburg;код темы Quora;1;1;from
+Q1208;Brandenburg;iNaturalist place ID;1;1;from
+Q1208;Brandenburg;код NKC;1;1;from
+Q1208;Brandenburg;Who's on First ID;1;1;from
+Q1208;Brandenburg;код статьи Klexikon;1;1;from
+Q1208;Brandenburg;код Freebase;1;1;from
+Q1208;Brandenburg;идентификатор Dizionario di Storia;1;1;from
+Q1208;Brandenburg;географические координаты;1;1;from
+Q1208;Brandenburg;наивысшая точка;1;1;from
+Q1208;Brandenburg;код NUTS;1;2;from
+Q1208;Brandenburg;код Comic Vine;1;1;from
+Q1208;Brandenburg;дата основания/создания/возникновения;1;1;from
+Q1208;Brandenburg;идентификатор местоположения ArchINFORM;1;1;from
+Q1208;Brandenburg;EuroVoc ID;1;1;from
+Q1208;Brandenburg;архивы хранятся в;1;1;from
+Q1208;Brandenburg;код EMLO location;1;1;from
+Q1208;Brandenburg;участник организации или клуба;1;1;from
+Q1208;Brandenburg;произношение (звуковой файл);1;1;from
+Q1208;Brandenburg;код GACS;1;1;from
+Q1208;Brandenburg;часовой пояс;1;2;from
+Q1208;Brandenburg;ID отношения в OpenStreetMap;1;1;from
+Q1208;Brandenburg;код STW Thesaurus for Economics;1;1;from
+Q1208;Brandenburg;геоданные;1;1;from
+Q1208;Brandenburg;категория на Викискладе;1;1;from
+Q1208;Brandenburg;часть от;1;1;from
+Q1208;Brandenburg;код NDL;1;1;from
+Q1208;Brandenburg;изображение герба;1;1;from
+Q1208;Brandenburg;глава правительства;1;5;from
+Q1208;Brandenburg;German Vikidia ID;1;1;from
+Q1206;Saxony-Anhalt;тематически относится к;1;1;to
+Q1206;Saxony-Anhalt;место смерти;1;9;to
+Q1206;Saxony-Anhalt;основная тема портала Викимедиа;1;1;to
+Q1206;Saxony-Anhalt;награда от;1;3;to
+Q1206;Saxony-Anhalt;зона обслуживания;1;32;to
+Q1206;Saxony-Anhalt;место погребения;1;15;to
+Q1206;Saxony-Anhalt;место рождения;1;20;to
+Q1206;Saxony-Anhalt;юрисдикция распространяется на;1;700;to
+Q1206;Saxony-Anhalt;dmoz;1;1;from
+Q1206;Saxony-Anhalt;место в MusicBrainz;1;1;from
+Q1206;Saxony-Anhalt;код NLI;1;1;from
+Q1206;Saxony-Anhalt;баннер Викигида;1;1;from
+Q1206;Saxony-Anhalt;галерея на Викискладе;1;1;from
+Q1206;Saxony-Anhalt;основная категория по теме;1;1;from
+Q1206;Saxony-Anhalt;код SELIBR;1;1;from
+Q1206;Saxony-Anhalt;FIPS 10-4 (страны и регионы);1;1;from
+Q1206;Saxony-Anhalt;официальный сайт;1;1;from
+Q1206;Saxony-Anhalt;категория карт на Викискладе;1;1;from
+Q1206;Saxony-Anhalt;French Vikidia ID;1;1;from
+Q1206;Saxony-Anhalt;iNaturalist place ID;1;1;from
+Q1206;Saxony-Anhalt;код NKC;1;1;from
+Q1206;Saxony-Anhalt;Who's on First ID;1;1;from
+Q1206;Saxony-Anhalt;код статьи Klexikon;1;1;from
+Q1206;Saxony-Anhalt;код Freebase;1;1;from
+Q1206;Saxony-Anhalt;географические координаты;1;1;from
+Q1206;Saxony-Anhalt;наивысшая точка;1;1;from
+Q1206;Saxony-Anhalt;категория объединяет темы;1;43;to
+Q1206;Saxony-Anhalt;часть от;1;1;to
+Q1208;Brandenburg;имеет границы с;1;7;to
+Q1206;Saxony-Anhalt;расположение штаб-квартиры;1;1;to
+Q1208;Brandenburg;изображение флага;1;1;from
+Q1208;Brandenburg;столица;1;1;from
+Q1208;Brandenburg;это частный случай понятия;1;1;to
+Q1208;Brandenburg;код LCNAF;1;1;from
+Q1208;Brandenburg;карта местонахождения;1;1;from
+Q1208;Brandenburg;описание герба;1;1;from
+Q1208;Brandenburg;код GND;1;1;from
+Q1208;Brandenburg;код VIAF;1;1;from
+Q1208;Brandenburg;высший судебный орган;1;1;from
+Q1208;Brandenburg;законодательный орган;1;1;from
+Q1208;Brandenburg;город-побратим;1;1;to
+Q1208;Brandenburg;изображение;1;1;from
+Q1208;Brandenburg;государство;1;9;to
+Q1208;Brandenburg;описание флага;1;1;from
+Q1208;Brandenburg;предыдущее по порядку;1;1;from
+Q1208;Brandenburg;административно делится на;1;1;to
+Q1208;Brandenburg;административно-территориальная единица;1;3590;to
+Q1206;Saxony-Anhalt;заменён на;1;1;to
+Q1206;Saxony-Anhalt;является столицей;1;1;to
+Q1206;Saxony-Anhalt;общая тема категории;1;1;to
+Q1206;Saxony-Anhalt;происходит из;1;1;to
+Q1206;Saxony-Anhalt;состоит из;1;1;to
+Q1206;Saxony-Anhalt;следующее по порядку;1;1;to
+Q1206;Saxony-Anhalt;названо в честь;1;1;to
+Q1206;Saxony-Anhalt;местонахождение;1;2;to
+Q1208;Brandenburg;French Vikidia ID;1;1;from
+Q1208;Brandenburg;категория карт на Викискладе;1;1;from
+Q1209;Free Hanseatic City of Bremen;место рождения;1;265;to
+Q1209;Free Hanseatic City of Bremen;геоданные;1;1;from
+Q1209;Free Hanseatic City of Bremen;идентификатор Ringgold;1;1;from
+Q1209;Free Hanseatic City of Bremen;код спонсора Crossref;1;1;from
+Q1209;Free Hanseatic City of Bremen;ISO 3166-2;1;1;from
+Q1209;Free Hanseatic City of Bremen;код SUDOC;1;1;from
+Q1209;Free Hanseatic City of Bremen;код BNF;1;1;from
+Q1209;Free Hanseatic City of Bremen;код BabelNet;1;1;from
+Q1209;Free Hanseatic City of Bremen;площадь;1;1;from
+Q1209;Free Hanseatic City of Bremen;высота над уровнем моря;1;1;from
+Q1209;Free Hanseatic City of Bremen;категория для людей, связанных с местностью;1;1;from
+Q1209;Free Hanseatic City of Bremen;название на языке оригинала;1;1;from
+Q1209;Free Hanseatic City of Bremen;код TGN;1;1;from
+Q1209;Free Hanseatic City of Bremen;код GeoNames;1;1;from
+Q1209;Free Hanseatic City of Bremen;категория для людей, умерших здесь;1;1;from
+Q1209;Free Hanseatic City of Bremen;категория для людей, родившихся здесь;1;1;from
+Q1209;Free Hanseatic City of Bremen;официальное название;1;2;from
+Q1209;Free Hanseatic City of Bremen;код в энциклопедии «Британника онлайн»;1;1;from
+Q1209;Free Hanseatic City of Bremen;код региона Германии;1;1;from
+Q1209;Free Hanseatic City of Bremen;участвовал в;1;1;from
+Q1209;Free Hanseatic City of Bremen;должность главы правительства;1;1;from
+Q1209;Free Hanseatic City of Bremen;код в Большой каталанской энциклопедии;1;1;from
+Q1209;Free Hanseatic City of Bremen;код US National Archives;1;1;from
+Q1209;Free Hanseatic City of Bremen;уровень безработицы;1;1;from
+Q1209;Free Hanseatic City of Bremen;портал Викимедиа;1;1;from
+Q1209;Free Hanseatic City of Bremen;численность населения;1;2;from
+Q1209;Free Hanseatic City of Bremen;десятичная классификация Дьюи;1;1;from
+Q1209;Free Hanseatic City of Bremen;категория на Викискладе;1;1;from
+Q1209;Free Hanseatic City of Bremen;код STW Thesaurus for Economics;1;1;from
+Q1209;Free Hanseatic City of Bremen;глава правительства;1;17;from
+Q1209;Free Hanseatic City of Bremen;код автомобильного номера;1;1;from
+Q1209;Free Hanseatic City of Bremen;место в MusicBrainz;1;1;from
+Q1209;Free Hanseatic City of Bremen;код NLI;1;1;from
+Q1209;Free Hanseatic City of Bremen;баннер Викигида;1;1;from
+Q1209;Free Hanseatic City of Bremen;основная категория по теме;1;1;from
+Q1209;Free Hanseatic City of Bremen;FIPS 10-4 (страны и регионы);1;1;from
+Q1209;Free Hanseatic City of Bremen;официальный сайт;1;1;from
+Q1209;Free Hanseatic City of Bremen;категория карт на Викискладе;1;1;from
+Q1209;Free Hanseatic City of Bremen;iNaturalist place ID;1;1;from
+Q1209;Free Hanseatic City of Bremen;находится в пределах природно-географического объекта;1;1;to
+Q1209;Free Hanseatic City of Bremen;код NKC;1;1;from
+Q1209;Free Hanseatic City of Bremen;Who's on First ID;1;1;from
+Q1209;Free Hanseatic City of Bremen;код статьи Klexikon;1;1;from
+Q1209;Free Hanseatic City of Bremen;код Freebase;1;1;from
+Q1209;Free Hanseatic City of Bremen;географические координаты;1;1;from
+Q1209;Free Hanseatic City of Bremen;наивысшая точка;1;1;from
+Q1209;Free Hanseatic City of Bremen;код NUTS;1;2;from
+Q1209;Free Hanseatic City of Bremen;дата основания/создания/возникновения;1;1;from
+Q1209;Free Hanseatic City of Bremen;идентификатор местоположения ArchINFORM;1;1;from
+Q1209;Free Hanseatic City of Bremen;EuroVoc ID;1;1;from
+Q1209;Free Hanseatic City of Bremen;анклав в;1;1;from
+Q1209;Free Hanseatic City of Bremen;архивы хранятся в;1;1;from
+Q1209;Free Hanseatic City of Bremen;участник организации или клуба;1;1;from
+Q1209;Free Hanseatic City of Bremen;произношение (звуковой файл);1;1;from
+Q1209;Free Hanseatic City of Bremen;часовой пояс;1;2;from
+Q1209;Free Hanseatic City of Bremen;ID отношения в OpenStreetMap;1;1;from
+Q1209;Free Hanseatic City of Bremen;изображение герба;1;1;from
+Q1209;Free Hanseatic City of Bremen;имеет границы с;1;1;to
+Q1208;Brandenburg;официальный сайт;1;1;from
+Q1208;Brandenburg;материнская компания (организация, учреждение);1;1;to
+Q1208;Brandenburg;в этом списке перечисляются;1;1;to
+Q1208;Brandenburg;история происходит в месте;1;3;to
+Q1208;Brandenburg;основная тема;1;6;to
+Q1208;Brandenburg;место съёмок;1;2;to
+Q1208;Brandenburg;следующее по порядку;1;1;to
+Q1208;Brandenburg;находится в пределах природно-географического объекта;1;4;to
+Q1208;Brandenburg;обслуживаемый город;1;1;to
+Q1208;Brandenburg;названо в честь;1;6;to
+Q1208;Brandenburg;основная тема портала Викимедиа;1;1;to
+Q1208;Brandenburg;расположение штаб-квартиры;1;3;to
+Q1208;Brandenburg;категория объединяет темы;1;43;to
+Q1208;Brandenburg;зона обслуживания;1;48;to
+Q1208;Brandenburg;место смерти;1;74;to
+Q1208;Brandenburg;место погребения;1;66;to
+Q1208;Brandenburg;место активности;1;9;to
+Q1208;Brandenburg;место рождения;1;43;to
+Q1208;Brandenburg;анклав в;1;1;to
+Q1208;Brandenburg;пример использования свойства;1;2;to
+Q1208;Brandenburg;юрисдикция распространяется на;1;669;to
+Q1208;Brandenburg;dmoz;1;1;from
+Q1208;Brandenburg;место в MusicBrainz;1;1;from
+Q1208;Brandenburg;баннер Викигида;1;1;from
+Q1208;Brandenburg;галерея на Викискладе;1;1;from
+Q1208;Brandenburg;основная категория по теме;1;1;from
+Q1208;Brandenburg;FIPS 10-4 (страны и регионы);1;1;from
+Q1208;Brandenburg;владельцем является;1;2;to
+Q1208;Brandenburg;тематически относится к;1;1;to
+Q1209;Free Hanseatic City of Bremen;изображение флага;1;1;from
+Q1208;Brandenburg;гражданство;1;4;to
+Q1209;Free Hanseatic City of Bremen;столица;1;1;from
+Q1209;Free Hanseatic City of Bremen;это частный случай понятия;1;1;from
+Q1209;Free Hanseatic City of Bremen;код LCNAF;1;1;from
+Q1209;Free Hanseatic City of Bremen;карта местонахождения;1;1;from
+Q1209;Free Hanseatic City of Bremen;описание герба;1;1;from
+Q1209;Free Hanseatic City of Bremen;код GND;1;1;from
+Q1209;Free Hanseatic City of Bremen;код VIAF;1;1;from
+Q1209;Free Hanseatic City of Bremen;код ISNI;1;2;from
+Q1209;Free Hanseatic City of Bremen;высший судебный орган;1;1;from
+Q1209;Free Hanseatic City of Bremen;находится на берегу водоёма;1;2;from
+Q1209;Free Hanseatic City of Bremen;законодательный орган;1;1;from
+Q1209;Free Hanseatic City of Bremen;изображение;1;1;from
+Q1209;Free Hanseatic City of Bremen;государство;1;2;to
+Q1209;Free Hanseatic City of Bremen;описание флага;1;1;from
+Q1209;Free Hanseatic City of Bremen;административно делится на;1;10;to
+Q1209;Free Hanseatic City of Bremen;административно-территориальная единица;1;64;to
+Q1208;Brandenburg;заменён на;1;3;to
+Q1208;Brandenburg;является столицей;1;1;to
+Q1208;Brandenburg;происходит из;1;2;to
+Q1208;Brandenburg;состоит из;1;1;to
+Q1208;Brandenburg;общая тема категории;1;1;to
+Q1208;Brandenburg;изображённый объект;1;1;to
+Q1208;Brandenburg;страна происхождения;1;1;to
+Q1208;Brandenburg;местонахождение;1;5;to
+Q1208;Brandenburg;награда от;1;1;to
+Q1200;Rhineland-Palatinate;код BNF;1;1;from
+Q1200;Rhineland-Palatinate;история темы;1;1;from
+Q985;Baden-Württemberg;названо в честь;1;1;to
+Q1055;Hamburg;лицевая сторона для;1;1;to
+Q1194;Schleswig-Holstein;код VIAF;1;1;from
+Q1194;Schleswig-Holstein;код ISNI;1;2;from
+Q1194;Schleswig-Holstein;высший судебный орган;1;1;from
+Q1194;Schleswig-Holstein;законодательный орган;1;1;from
+Q1194;Schleswig-Holstein;город-побратим;1;1;to
+Q1194;Schleswig-Holstein;изображение;1;1;from
+Q1194;Schleswig-Holstein;государство;1;10;to
+Q1194;Schleswig-Holstein;описание флага;1;1;from
+Q1194;Schleswig-Holstein;административно делится на;1;7;to
+Q1194;Schleswig-Holstein;административно-территориальная единица;1;2015;to
+Q1055;Hamburg;состоит из;1;1;to
+Q1055;Hamburg;следующее по порядку;1;1;to
+Q1055;Hamburg;общая тема категории;1;1;to
+Q1055;Hamburg;наивысшая точка;1;1;from
+Q1055;Hamburg;обслуживаемый город;1;2;to
+Q1055;Hamburg;заменён на;1;3;to
+Q1055;Hamburg;опубликовано в;1;1;to
+Q1055;Hamburg;столица;1;2;to
+Q1055;Hamburg;лейбл звукозаписи;1;1;to
+Q1055;Hamburg;материнская компания (организация, учреждение);1;2;to
+Q1055;Hamburg;основные направления;1;3;to
+Q1055;Hamburg;страна происхождения;1;2;to
+Q1055;Hamburg;домашний стадион;1;1;to
+Q1055;Hamburg;история выставок;1;1;to
+Q1055;Hamburg;тематически относится к;1;2;to
+Q1055;Hamburg;место обнаружения;1;1;to
+Q1194;Schleswig-Holstein;код GND;1;2;from
+Q1194;Schleswig-Holstein;описание герба;1;1;from
+Q1194;Schleswig-Holstein;карта местонахождения;1;1;from
+Q1194;Schleswig-Holstein;код LCNAF;1;1;from
+Q1194;Schleswig-Holstein;категория фильмов, снятых в этом месте;1;1;from
+Q1194;Schleswig-Holstein;название на языке оригинала;1;1;from
+Q1194;Schleswig-Holstein;код TGN;1;1;from
+Q1194;Schleswig-Holstein;код GeoNames;1;1;from
+Q1194;Schleswig-Holstein;категория для людей, умерших здесь;1;1;from
+Q1194;Schleswig-Holstein;категория для людей, родившихся здесь;1;1;from
+Q1194;Schleswig-Holstein;текст девиза;1;1;from
+Q1194;Schleswig-Holstein;код в энциклопедии «Британника онлайн»;1;1;from
+Q1194;Schleswig-Holstein;код региона Германии;1;1;from
+Q1194;Schleswig-Holstein;заменил;1;1;from
+Q1194;Schleswig-Holstein;участвовал в;1;2;from
+Q1194;Schleswig-Holstein;описывается в источниках;1;2;from
+Q1194;Schleswig-Holstein;должность главы правительства;1;1;from
+Q1194;Schleswig-Holstein;код в Большой каталанской энциклопедии;1;1;from
+Q1194;Schleswig-Holstein;значение в OmegaWiki;1;1;from
+Q1194;Schleswig-Holstein;код US National Archives;1;1;from
+Q1194;Schleswig-Holstein;портал Викимедиа;1;1;from
+Q1194;Schleswig-Holstein;численность населения;1;5;from
+Q1194;Schleswig-Holstein;десятичная классификация Дьюи;1;1;from
+Q1194;Schleswig-Holstein;изображение герба;1;1;from
+Q1194;Schleswig-Holstein;глава правительства;1;29;from
+Q1194;Schleswig-Holstein;имеет границы с;1;7;to
+Q1194;Schleswig-Holstein;изображение флага;1;1;from
+Q1194;Schleswig-Holstein;столица;1;1;from
+Q1194;Schleswig-Holstein;это частный случай понятия;1;1;from
+Q1055;Hamburg;место съёмок;1;42;to
+Q1055;Hamburg;конечная;1;2;to
+Q1055;Hamburg;изображённый объект;1;4;to
+Q1055;Hamburg;основной порт;1;183;to
+Q1055;Hamburg;расположение штаб-квартиры;1;1207;to
+Q1055;Hamburg;место рождения;1;7917;to
+Q1055;Hamburg;место смерти;1;4342;to
+Q1055;Hamburg;юрисдикция распространяется на;1;349;to
+Q1055;Hamburg;dmoz;1;1;from
+Q1055;Hamburg;место в MusicBrainz;1;1;from
+Q1055;Hamburg;код NLI;1;1;from
+Q1055;Hamburg;баннер Викигида;1;1;from
+Q1055;Hamburg;галерея на Викискладе;1;1;from
+Q1055;Hamburg;основная категория по теме;1;1;from
+Q1055;Hamburg;FIPS 10-4 (страны и регионы);1;1;from
+Q1055;Hamburg;официальный сайт;1;1;from
+Q1055;Hamburg;ключевое событие;1;6;from
+Q1055;Hamburg;Analysis & Policy Observatory term ID;1;1;from
+Q1055;Hamburg;категория карт на Викискладе;1;1;from
+Q1055;Hamburg;Spanish Vikidia ID;1;1;from
+Q1055;Hamburg;French Vikidia ID;1;1;from
+Q1055;Hamburg;iNaturalist place ID;1;1;from
+Q1055;Hamburg;код NKC;1;1;from
+Q1055;Hamburg;Uppsala University Alvin ID;1;1;from
+Q1055;Hamburg;Who's on First ID;1;1;from
+Q1055;Hamburg;код статьи Klexikon;1;1;from
+Q1055;Hamburg;код Bildkatalog;1;1;from
+Q1055;Hamburg;код Freebase;1;1;from
+Q1055;Hamburg;идентификатор Dizionario di Storia;1;1;from
+Q1055;Hamburg;место жительства;1;106;to
+Q1055;Hamburg;порт приписки;1;151;to
+Q1055;Hamburg;награда от;1;3;to
+Q1055;Hamburg;место активности;1;2827;to
+Q1055;Hamburg;подарок от;1;1;to
+Q1055;Hamburg;расположение конечной точки;1;11;to
+Q1055;Hamburg;участник(и);1;1;to
+Q1055;Hamburg;основная тема;1;38;to
+Q1055;Hamburg;производитель;1;3;to
+Q1055;Hamburg;эксклав от;1;2;to
+Q1055;Hamburg;владельцем является;1;11;to
+Q1055;Hamburg;официальная резиденция;1;1;to
+Q1055;Hamburg;оператор;1;17;to
+Q1055;Hamburg;находится в пределах природно-географического объекта;1;3;to
+Q1055;Hamburg;зона обслуживания;1;36;to
+Q1055;Hamburg;пункт назначения;1;17;to
+Q1055;Hamburg;начало пути;1;31;to
+Q1055;Hamburg;место публикации;1;112;to
+Q1055;Hamburg;место первого исполнения;1;12;to
+Q1055;Hamburg;спонсор;1;1;to
+Q1055;Hamburg;история происходит в месте;1;98;to
+Q1055;Hamburg;основная тема портала Викимедиа;1;1;to
+Q1055;Hamburg;названо в честь;1;27;to
+Q1055;Hamburg;местонахождение;1;158;to
+Q1055;Hamburg;место погребения;1;17;to
+Q1055;Hamburg;место изготовления;1;715;to
+Q1055;Hamburg;гражданство;1;21;to
+Q1055;Hamburg;категория объединяет темы;1;86;to
+Q1055;Hamburg;место создания;1;107;to
+Q1194;Schleswig-Holstein;категория для людей, похороненных здесь;1;1;from
+Q1194;Schleswig-Holstein;категория для людей, связанных с местностью;1;1;from
+Q1194;Schleswig-Holstein;высота над уровнем моря;1;1;from
+Q1196;Mecklenburg-Vorpommern;это частный случай понятия;1;1;from
+Q1196;Mecklenburg-Vorpommern;карта местонахождения;1;1;from
+Q1196;Mecklenburg-Vorpommern;описание герба;1;1;from
+Q1196;Mecklenburg-Vorpommern;код GND;1;1;from
+Q1196;Mecklenburg-Vorpommern;код VIAF;1;2;from
+Q1196;Mecklenburg-Vorpommern;высший судебный орган;1;1;from
+Q1196;Mecklenburg-Vorpommern;исполнительная власть;1;1;from
+Q1196;Mecklenburg-Vorpommern;законодательный орган;1;1;from
+Q1196;Mecklenburg-Vorpommern;изображение;1;2;from
+Q1196;Mecklenburg-Vorpommern;государство;1;4;to
+Q1196;Mecklenburg-Vorpommern;описание флага;1;1;from
+Q1196;Mecklenburg-Vorpommern;предыдущее по порядку;1;1;from
+Q1196;Mecklenburg-Vorpommern;административно делится на;1;1;to
+Q1196;Mecklenburg-Vorpommern;административно-территориальная единица;1;3031;to
+Q1194;Schleswig-Holstein;происходит из;1;2;to
+Q1194;Schleswig-Holstein;является столицей;1;1;to
+Q1194;Schleswig-Holstein;награда от;1;1;to
+Q1194;Schleswig-Holstein;место жительства;1;1;to
+Q1194;Schleswig-Holstein;общая тема категории;1;1;to
+Q1194;Schleswig-Holstein;названо в честь;1;2;to
+Q1194;Schleswig-Holstein;находится в пределах природно-географического объекта;1;1;to
+Q1194;Schleswig-Holstein;тематически относится к;1;1;to
+Q1194;Schleswig-Holstein;часть от;1;2;to
+Q1194;Schleswig-Holstein;гражданство;1;2;to
+Q1194;Schleswig-Holstein;заменён на;1;1;to
+Q1194;Schleswig-Holstein;основная тема портала Викимедиа;1;1;to
+Q1196;Mecklenburg-Vorpommern;код LCNAF;1;1;from
+Q1196;Mecklenburg-Vorpommern;столица;1;1;from
+Q1194;Schleswig-Holstein;владельцем является;1;2;to
+Q1196;Mecklenburg-Vorpommern;изображение флага;1;1;from
+Q1196;Mecklenburg-Vorpommern;категория для людей, умерших здесь;1;1;from
+Q1196;Mecklenburg-Vorpommern;категория для людей, родившихся здесь;1;1;from
+Q1196;Mecklenburg-Vorpommern;список памятников;1;1;from
+Q1196;Mecklenburg-Vorpommern;текст девиза;1;1;from
+Q1196;Mecklenburg-Vorpommern;код в энциклопедии «Британника онлайн»;1;1;from
+Q1196;Mecklenburg-Vorpommern;количество мест в законодательном собрании;1;1;from
+Q1196;Mecklenburg-Vorpommern;код региона Германии;1;1;from
+Q1196;Mecklenburg-Vorpommern;код NSK;1;1;from
+Q1196;Mecklenburg-Vorpommern;заменил;1;5;from
+Q1196;Mecklenburg-Vorpommern;описывается в источниках;1;1;from
+Q1196;Mecklenburg-Vorpommern;самая западная точка;1;1;from
+Q1196;Mecklenburg-Vorpommern;самая восточная точка;1;1;from
+Q1196;Mecklenburg-Vorpommern;самая южная точка;1;3;from
+Q1196;Mecklenburg-Vorpommern;самая северная точка;1;1;from
+Q1196;Mecklenburg-Vorpommern;должность главы правительства;1;1;from
+Q1196;Mecklenburg-Vorpommern;код в Большой каталанской энциклопедии;1;1;from
+Q1196;Mecklenburg-Vorpommern;WOEID;1;1;from
+Q1196;Mecklenburg-Vorpommern;значение в OmegaWiki;1;1;from
+Q1196;Mecklenburg-Vorpommern;портал Викимедиа;1;1;from
+Q1196;Mecklenburg-Vorpommern;численность населения;1;3;from
+Q1196;Mecklenburg-Vorpommern;десятичная классификация Дьюи;1;1;from
+Q1196;Mecklenburg-Vorpommern;изображение герба;1;2;from
+Q1196;Mecklenburg-Vorpommern;главный регулирующий текст;1;1;from
+Q1196;Mecklenburg-Vorpommern;глава правительства;1;9;from
+Q1196;Mecklenburg-Vorpommern;имеет границы с;1;4;to
+Q1194;Schleswig-Holstein;место создания;1;2;to
+Q1194;Schleswig-Holstein;страна происхождения;1;3;to
+Q1194;Schleswig-Holstein;площадь;1;2;from
+Q1194;Schleswig-Holstein;наивысшая точка;1;1;from
+Q1194;Schleswig-Holstein;код Comic Vine;1;1;from
+Q1194;Schleswig-Holstein;дата основания/создания/возникновения;1;1;from
+Q1194;Schleswig-Holstein;идентификатор местоположения ArchINFORM;1;1;from
+Q1194;Schleswig-Holstein;EuroVoc ID;1;1;from
+Q1194;Schleswig-Holstein;архивы хранятся в;1;1;from
+Q1194;Schleswig-Holstein;код EMLO location;1;1;from
+Q1194;Schleswig-Holstein;участник организации или клуба;1;2;from
+Q1194;Schleswig-Holstein;произношение (звуковой файл);1;1;from
+Q1194;Schleswig-Holstein;код GACS;1;1;from
+Q1194;Schleswig-Holstein;код в Большой норвежской энциклопедии;1;1;from
+Q1194;Schleswig-Holstein;код тезауруса PACTOLS;1;1;from
+Q1194;Schleswig-Holstein;ID отношения в OpenStreetMap;1;1;from
+Q1194;Schleswig-Holstein;код STW Thesaurus for Economics;1;1;from
+Q1194;Schleswig-Holstein;геоданные;1;1;from
+Q1194;Schleswig-Holstein;категория на Викискладе;1;1;from
+Q1194;Schleswig-Holstein;идентификатор Ringgold;1;1;from
+Q1194;Schleswig-Holstein;код темы Quora;1;1;from
+Q1194;Schleswig-Holstein;код в Encyclopædia Universalis;1;1;from
+Q1194;Schleswig-Holstein;ISO 3166-2;1;1;from
+Q1194;Schleswig-Holstein;постоянный дубликат;1;2;to
+Q1194;Schleswig-Holstein;используемый язык;1;2;from
+Q1194;Schleswig-Holstein;код BNF;1;1;from
+Q1194;Schleswig-Holstein;код BabelNet;1;1;from
+Q1194;Schleswig-Holstein;код Historical Gazetteer;1;1;from
+Q1194;Schleswig-Holstein;код YSO;1;1;from
+Q1194;Schleswig-Holstein;код NUTS;1;2;from
+Q1194;Schleswig-Holstein;географические координаты;1;1;from
+Q1194;Schleswig-Holstein;основная тема;1;14;to
+Q1194;Schleswig-Holstein;код Freebase;1;1;from
+Q1194;Schleswig-Holstein;категория объединяет темы;1;40;to
+Q1194;Schleswig-Holstein;работодатель;1;2;to
+Q1194;Schleswig-Holstein;место смерти;1;14;to
+Q1194;Schleswig-Holstein;зона обслуживания;1;29;to
+Q1194;Schleswig-Holstein;расположение штаб-квартиры;1;3;to
+Q1194;Schleswig-Holstein;местонахождение;1;10;to
+Q1194;Schleswig-Holstein;место активности;1;7;to
+Q1194;Schleswig-Holstein;место погребения;1;17;to
+Q1194;Schleswig-Holstein;место рождения;1;30;to
+Q1194;Schleswig-Holstein;юрисдикция распространяется на;1;868;to
+Q1194;Schleswig-Holstein;dmoz;1;1;from
+Q1194;Schleswig-Holstein;место в MusicBrainz;1;1;from
+Q1194;Schleswig-Holstein;код NLI;1;1;from
+Q1194;Schleswig-Holstein;баннер Викигида;1;1;from
+Q1194;Schleswig-Holstein;галерея на Викискладе;1;1;from
+Q1194;Schleswig-Holstein;основная категория по теме;1;1;from
+Q1194;Schleswig-Holstein;код SELIBR;1;1;from
+Q1194;Schleswig-Holstein;FIPS 10-4 (страны и регионы);1;1;from
+Q1194;Schleswig-Holstein;официальный сайт;1;1;from
+Q1194;Schleswig-Holstein;категория карт на Викискладе;1;1;from
+Q1194;Schleswig-Holstein;French Vikidia ID;1;1;from
+Q1194;Schleswig-Holstein;iNaturalist place ID;1;1;from
+Q1194;Schleswig-Holstein;код NKC;1;1;from
+Q1194;Schleswig-Holstein;Who's on First ID;1;1;from
+Q1194;Schleswig-Holstein;код статьи Klexikon;1;1;from
+Q1055;Hamburg;географические координаты;1;1;from
+Q1055;Hamburg;код NUTS;1;3;from
+Q1200;Rhineland-Palatinate;код FAST;1;1;from
+Q985;Baden-Württemberg;EuroVoc ID;1;1;from
+Q985;Baden-Württemberg;код NKC;1;1;from
+Q985;Baden-Württemberg;Who's on First ID;1;1;from
+Q985;Baden-Württemberg;код статьи Klexikon;1;1;from
+Q985;Baden-Württemberg;код Freebase;1;1;from
+Q985;Baden-Württemberg;Swedish Anbytarforum;1;1;from
+Q985;Baden-Württemberg;географические координаты;1;1;from
+Q985;Baden-Württemberg;наивысшая точка;1;1;from
+Q985;Baden-Württemberg;код NUTS;1;1;from
+Q985;Baden-Württemberg;код Comic Vine;1;1;from
+Q985;Baden-Württemberg;Базисная классификация;1;1;from
+Q985;Baden-Württemberg;дата основания/создания/возникновения;1;1;from
+Q985;Baden-Württemberg;идентификатор местоположения ArchINFORM;1;1;from
+Q985;Baden-Württemberg;состоит из;1;1;to
+Q1055;Hamburg;код Comic Vine;1;1;from
+Q985;Baden-Württemberg;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q985;Baden-Württemberg;архивы хранятся в;1;1;from
+Q985;Baden-Württemberg;участник организации или клуба;1;2;from
+Q985;Baden-Württemberg;произношение (звуковой файл);1;1;from
+Q985;Baden-Württemberg;код GACS;1;1;from
+Q985;Baden-Württemberg;код тезауруса PACTOLS;1;1;from
+Q985;Baden-Württemberg;часовой пояс;1;2;from
+Q985;Baden-Württemberg;код NLA;1;1;from
+Q985;Baden-Württemberg;ID отношения в OpenStreetMap;1;1;from
+Q985;Baden-Württemberg;код STW Thesaurus for Economics;1;1;from
+Q985;Baden-Württemberg;геоданные;1;1;from
+Q985;Baden-Württemberg;категория на Викискладе;1;1;from
+Q985;Baden-Württemberg;iNaturalist place ID;1;1;from
+Q985;Baden-Württemberg;French Vikidia ID;1;1;from
+Q985;Baden-Württemberg;категория карт на Викискладе;1;1;from
+Q985;Baden-Württemberg;официальный сайт;1;1;from
+Q985;Baden-Württemberg;местонахождение;1;8;to
+Q985;Baden-Württemberg;место активности;1;4;to
+Q985;Baden-Württemberg;часть от;1;3;to
+Q985;Baden-Württemberg;расположение штаб-квартиры;1;5;to
+Q985;Baden-Württemberg;оператор;1;4;to
+Q985;Baden-Württemberg;происходит из;1;5;to
+Q985;Baden-Württemberg;зона обслуживания;1;53;to
+Q985;Baden-Württemberg;место смерти;1;44;to
+Q985;Baden-Württemberg;основная тема портала Викимедиа;1;1;to
+Q985;Baden-Württemberg;страна происхождения;1;1;to
+Q985;Baden-Württemberg;место погребения;1;24;to
+Q985;Baden-Württemberg;место рождения;1;62;to
+Q985;Baden-Württemberg;место жительства;1;7;to
+Q985;Baden-Württemberg;юрисдикция распространяется на;1;376;to
+Q985;Baden-Württemberg;dmoz;1;1;from
+Q985;Baden-Württemberg;место в MusicBrainz;1;1;from
+Q985;Baden-Württemberg;код BNE;1;1;from
+Q985;Baden-Württemberg;код NLI;1;1;from
+Q985;Baden-Württemberg;баннер Викигида;1;1;from
+Q985;Baden-Württemberg;галерея на Викискладе;1;1;from
+Q985;Baden-Württemberg;основная категория по теме;1;1;from
+Q985;Baden-Württemberg;код SELIBR;1;1;from
+Q985;Baden-Württemberg;идентификатор HDS;1;1;from
+Q985;Baden-Württemberg;FIPS 10-4 (страны и регионы);1;1;from
+Q985;Baden-Württemberg;транскрипция в МФА;1;1;from
+Q985;Baden-Württemberg;дочерние компании (организации, учреждения);1;1;from
+Q985;Baden-Württemberg;код NDL;1;1;from
+Q985;Baden-Württemberg;код темы Quora;1;1;from
+Q985;Baden-Württemberg;должность главы правительства;1;1;from
+Q985;Baden-Württemberg;значение в OmegaWiki;1;1;from
+Q985;Baden-Württemberg;код US National Archives;1;1;from
+Q985;Baden-Württemberg;портал Викимедиа;1;1;from
+Q985;Baden-Württemberg;численность населения;1;3;from
+Q985;Baden-Württemberg;десятичная классификация Дьюи;1;1;from
+Q985;Baden-Württemberg;код BAV;1;1;from
+Q985;Baden-Württemberg;изображение герба;1;1;from
+Q985;Baden-Württemberg;глава правительства;1;17;from
+Q985;Baden-Württemberg;имеет границы с;1;14;to
+Q985;Baden-Württemberg;изображение флага;1;1;from
+Q985;Baden-Württemberg;столица;1;1;from
+Q985;Baden-Württemberg;это частный случай понятия;1;1;from
+Q985;Baden-Württemberg;код LCNAF;1;1;from
+Q985;Baden-Württemberg;карта местонахождения;1;1;from
+Q985;Baden-Württemberg;описание герба;1;1;from
+Q985;Baden-Württemberg;код GND;1;1;from
+Q985;Baden-Württemberg;код VIAF;1;1;from
+Q985;Baden-Württemberg;код ISNI;1;1;from
+Q985;Baden-Württemberg;высший судебный орган;1;1;from
+Q985;Baden-Württemberg;законодательный орган;1;1;from
+Q985;Baden-Württemberg;город-побратим;1;1;to
+Q985;Baden-Württemberg;изображение;1;3;from
+Q985;Baden-Württemberg;государство;1;20;to
+Q985;Baden-Württemberg;описание флага;1;1;from
+Q985;Baden-Württemberg;административно делится на;1;3;to
+Q985;Baden-Württemberg;код в Большой каталанской энциклопедии;1;1;from
+Q985;Baden-Württemberg;описывается в источниках;1;1;from
+Q985;Baden-Württemberg;код в Encyclopædia Universalis;1;1;from
+Q985;Baden-Württemberg;участвовал в;1;2;from
+Q985;Baden-Württemberg;ISO 3166-2;1;1;from
+Q985;Baden-Württemberg;постоянный дубликат;1;2;to
+Q985;Baden-Württemberg;используемый язык;1;4;from
+Q985;Baden-Württemberg;код SUDOC;1;1;from
+Q985;Baden-Württemberg;код BNF;1;1;from
+Q985;Baden-Württemberg;код BabelNet;1;1;from
+Q985;Baden-Württemberg;хештег;1;1;from
+Q985;Baden-Württemberg;код YSO;1;1;from
+Q985;Baden-Württemberg;код FAST;1;1;from
+Q985;Baden-Württemberg;площадь;1;1;from
+Q985;Baden-Württemberg;высота над уровнем моря;1;1;from
+Q985;Baden-Württemberg;код GAMEO;1;1;from
+Q985;Baden-Württemberg;короткое название;1;1;from
+Q985;Baden-Württemberg;категория для людей, связанных с местностью;1;1;from
+Q985;Baden-Württemberg;категория для людей, похороненных здесь;1;1;from
+Q985;Baden-Württemberg;категория фильмов, снятых в этом месте;1;1;from
+Q985;Baden-Württemberg;название на языке оригинала;1;1;from
+Q985;Baden-Württemberg;код TGN;1;1;from
+Q985;Baden-Württemberg;код GeoNames;1;1;from
+Q985;Baden-Württemberg;категория для людей, умерших здесь;1;1;from
+Q985;Baden-Württemberg;категория для людей, родившихся здесь;1;1;from
+Q985;Baden-Württemberg;официальное название;1;1;from
+Q985;Baden-Württemberg;код в энциклопедии «Британника онлайн»;1;1;from
+Q985;Baden-Württemberg;код региона Германии;1;1;from
+Q985;Baden-Württemberg;заменил;1;3;from
+Q985;Baden-Württemberg;область деятельности;1;1;to
+Q985;Baden-Württemberg;владельцем является;1;15;to
+Q985;Baden-Württemberg;награда от;1;5;to
+Q1055;Hamburg;код NDL;1;1;from
+Q1055;Hamburg;код в Итальянской энциклопедии онлайн;1;1;from
+Q1055;Hamburg;код Католической энциклопедии;1;1;from
+Q1055;Hamburg;код в Encyclopædia Universalis;1;1;from
+Q1055;Hamburg;ISO 3166-2;1;1;from
+Q1055;Hamburg;постоянный дубликат;1;1;to
+Q1055;Hamburg;код в Nomisma.org;1;1;from
+Q1055;Hamburg;код в Большой российской энциклопедии онлайн;1;1;from
+Q1055;Hamburg;туристический центр;1;1;from
+Q1055;Hamburg;почтовый индекс;1;2;from
+Q1055;Hamburg;код SUDOC;1;1;from
+Q1055;Hamburg;код BNF;1;1;from
+Q1055;Hamburg;код BabelNet;1;1;from
+Q1055;Hamburg;хештег;1;2;from
+Q1055;Hamburg;код YSO;1;1;from
+Q1055;Hamburg;история темы;1;1;from
+Q1055;Hamburg;код FAST;1;1;from
+Q1055;Hamburg;площадь;1;2;from
+Q1055;Hamburg;высота над уровнем моря;1;1;from
+Q1055;Hamburg;код места в Facebook;1;1;from
+Q1055;Hamburg;позиционная карта;1;1;from
+Q1055;Hamburg;UN/LOCODE;1;1;from
+Q1055;Hamburg;короткое название;1;4;from
+Q1055;Hamburg;категория для людей, связанных с местностью;1;1;from
+Q1055;Hamburg;категория для людей, похороненных здесь;1;1;from
+Q1055;Hamburg;категория фильмов, снятых в этом месте;1;1;from
+Q1055;Hamburg;код темы Quora;1;1;from
+Q1055;Hamburg;идентификатор Ringgold;1;1;from
+Q1055;Hamburg;код TGN;1;2;from
+Q1055;Hamburg;EU VAT number;1;1;from
+Q1055;Hamburg;EU Research participant ID;1;1;from
+Q1055;Hamburg;идентификатор местоположения ArchINFORM;1;1;from
+Q1055;Hamburg;EuroVoc ID;1;1;from
+Q1055;Hamburg;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q1055;Hamburg;код в Православной энциклопедии онлайн;1;1;from
+Q1055;Hamburg;архивы хранятся в;1;1;from
+Q1055;Hamburg;местный телефонный код;1;2;from
+Q1055;Hamburg;код организации на C-SPAN;1;1;from
+Q1055;Hamburg;код EMLO location;1;1;from
+Q1055;Hamburg;участник организации или клуба;1;6;from
+Q1055;Hamburg;код UK Parliament thesaurus;1;1;from
+Q1055;Hamburg;произношение (звуковой файл);1;1;from
+Q1055;Hamburg;код GACS;1;1;from
+Q1055;Hamburg;код района Германии;1;1;from
+Q1055;Hamburg;идентификатор муниципалитетов в Германии;1;1;from
+Q1055;Hamburg;часовой пояс;1;2;from
+Q1055;Hamburg;ID отношения в OpenStreetMap;1;1;from
+Q1055;Hamburg;Semantic Scholar author ID;1;1;from
+Q1055;Hamburg;сабреддит;1;1;from
+Q1055;Hamburg;код автомобильного номера;1;1;from
+Q1055;Hamburg;код STW Thesaurus for Economics;1;1;from
+Q1055;Hamburg;геоданные;1;1;from
+Q1055;Hamburg;Open Library subject ID;1;1;from
+Q1055;Hamburg;категория на Викискладе;1;1;from
+Q1055;Hamburg;часть от;1;4;to
+Q1055;Hamburg;название на языке оригинала;1;1;from
+Q1055;Hamburg;код GeoNames;1;3;from
+Q985;Baden-Württemberg;категория объединяет темы;1;61;to
+Q1055;Hamburg;код GND;1;1;from
+Q1055;Hamburg;код ISNI;1;1;from
+Q1055;Hamburg;высший судебный орган;1;1;from
+Q1055;Hamburg;находится на берегу водоёма;1;20;from
+Q1055;Hamburg;законодательный орган;1;1;from
+Q1055;Hamburg;город-побратим;1;14;to
+Q1055;Hamburg;изображение;1;1;from
+Q1055;Hamburg;государство;1;9;to
+Q1055;Hamburg;описание флага;1;1;from
+Q1055;Hamburg;логотип;1;1;from
+Q1055;Hamburg;административно делится на;1;8;to
+Q1055;Hamburg;административно-территориальная единица;1;935;to
+Q985;Baden-Württemberg;эксклав от;1;1;to
+Q985;Baden-Württemberg;является столицей;1;1;to
+Q985;Baden-Württemberg;основатель;1;1;to
+Q985;Baden-Württemberg;общая тема категории;1;1;to
+Q985;Baden-Württemberg;работодатель;1;3;to
+Q985;Baden-Württemberg;материнская компания (организация, учреждение);1;1;to
+Q985;Baden-Württemberg;тематически относится к;1;1;to
+Q985;Baden-Württemberg;основная тема;1;2;to
+Q985;Baden-Württemberg;заказчик произведения;1;1;to
+Q985;Baden-Württemberg;место создания;1;2;to
+Q985;Baden-Württemberg;история происходит в месте;1;3;to
+Q985;Baden-Württemberg;заменён на;1;3;to
+Q985;Baden-Württemberg;лицензия на вещание в;1;1;to
+Q985;Baden-Württemberg;находится в пределах природно-географического объекта;1;1;to
+Q1055;Hamburg;код VIAF;1;1;from
+Q1055;Hamburg;описание герба;1;1;from
+Q1055;Hamburg;этнохороним;1;8;from
+Q1055;Hamburg;карта местонахождения;1;1;from
+Q1055;Hamburg;категория для людей, умерших здесь;1;1;from
+Q1055;Hamburg;категория для людей, родившихся здесь;1;1;from
+Q1055;Hamburg;официальное название;1;3;from
+Q1055;Hamburg;код Еврейской энциклопедии;1;1;from
+Q1055;Hamburg;код в энциклопедии «Британника онлайн»;1;1;from
+Q1055;Hamburg;код региона Германии;1;1;from
+Q1055;Hamburg;является столицей;1;2;from
+Q1055;Hamburg;заменил;1;2;from
+Q1055;Hamburg;описывается в источниках;1;6;from
+Q1055;Hamburg;самая западная точка;1;6;from
+Q1055;Hamburg;должность главы правительства;1;1;from
+Q1055;Hamburg;код в Большой каталанской энциклопедии;1;1;from
+Q1055;Hamburg;WOEID;1;1;from
+Q1055;Hamburg;первое письменное упоминание;1;1;from
+Q1055;Hamburg;значение в OmegaWiki;1;1;from
+Q1055;Hamburg;код US National Archives;1;1;from
+Q1055;Hamburg;портал Викимедиа;1;1;from
+Q1055;Hamburg;численность населения;1;41;from
+Q1055;Hamburg;десятичная классификация Дьюи;1;1;from
+Q1055;Hamburg;изображение герба;1;2;from
+Q1055;Hamburg;глава правительства;1;31;from
+Q1055;Hamburg;имеет границы с;1;18;to
+Q1055;Hamburg;изображение флага;1;1;from
+Q1055;Hamburg;это частный случай понятия;1;12;from
+Q1055;Hamburg;код LCNAF;1;1;from
+Q1196;Mecklenburg-Vorpommern;описание девиза;1;1;from
+Q1196;Mecklenburg-Vorpommern;код GeoNames;1;1;from
+Q1196;Mecklenburg-Vorpommern;подробная карта;1;6;from
+Q1198;North Rhine-Westphalia;область деятельности;1;1;to
+Q1199;Hesse;названо в честь;1;5;to
+Q1199;Hesse;административно-территориальная единица;1;6435;to
+Q1198;North Rhine-Westphalia;является столицей;1;1;to
+Q1198;North Rhine-Westphalia;основная тема портала Викимедиа;1;1;to
+Q1198;North Rhine-Westphalia;общая тема категории;1;1;to
+Q1198;North Rhine-Westphalia;происходит из;1;1;to
+Q1198;North Rhine-Westphalia;место съёмок;1;1;to
+Q1198;North Rhine-Westphalia;эксклав от;1;2;to
+Q1198;North Rhine-Westphalia;работодатель;1;1;to
+Q1198;North Rhine-Westphalia;история происходит в месте;1;1;to
+Q1198;North Rhine-Westphalia;страна происхождения;1;1;to
+Q1198;North Rhine-Westphalia;подарок от;1;1;to
+Q1198;North Rhine-Westphalia;место погребения;1;11;to
+Q1196;Mecklenburg-Vorpommern;код TGN;1;1;from
+Q1198;North Rhine-Westphalia;расположение штаб-квартиры;1;4;to
+Q1198;North Rhine-Westphalia;место создания;1;2;to
+Q1198;North Rhine-Westphalia;владельцем является;1;4;to
+Q1198;North Rhine-Westphalia;местонахождение;1;9;to
+Q1198;North Rhine-Westphalia;награда от;1;3;to
+Q1198;North Rhine-Westphalia;заменён на;1;3;to
+Q1198;North Rhine-Westphalia;следующее по порядку;1;1;to
+Q1198;North Rhine-Westphalia;заказчик произведения;1;1;to
+Q1198;North Rhine-Westphalia;редактор;1;1;to
+Q1198;North Rhine-Westphalia;место жительства;1;1;to
+Q1198;North Rhine-Westphalia;оператор;1;4;to
+Q1198;North Rhine-Westphalia;категория объединяет темы;1;58;to
+Q1199;Hesse;административно делится на;1;6;to
+Q1199;Hesse;описание флага;1;1;from
+Q1199;Hesse;государство;1;7;to
+Q1199;Hesse;изображение;1;1;from
+Q1199;Hesse;код в энциклопедии «Британника онлайн»;1;1;from
+Q1199;Hesse;код региона Германии;1;1;from
+Q1199;Hesse;описывается в источниках;1;1;from
+Q1199;Hesse;должность главы правительства;1;1;from
+Q1199;Hesse;код в Большой каталанской энциклопедии;1;1;from
+Q1199;Hesse;значение в OmegaWiki;1;1;from
+Q1199;Hesse;код US National Archives;1;1;from
+Q1199;Hesse;портал Викимедиа;1;1;from
+Q1199;Hesse;численность населения;1;7;from
+Q1199;Hesse;десятичная классификация Дьюи;1;1;from
+Q1199;Hesse;изображение герба;1;1;from
+Q1199;Hesse;глава правительства;1;17;from
+Q1199;Hesse;имеет границы с;1;9;to
+Q1199;Hesse;изображение флага;1;1;from
+Q1199;Hesse;столица;1;1;from
+Q1199;Hesse;это частный случай понятия;1;1;from
+Q1199;Hesse;код LCNAF;1;1;from
+Q1199;Hesse;карта местонахождения;1;1;from
+Q1199;Hesse;описание герба;1;1;from
+Q1199;Hesse;код GND;1;1;from
+Q1199;Hesse;код VIAF;1;1;from
+Q1199;Hesse;код ISNI;1;1;from
+Q1199;Hesse;высший судебный орган;1;1;from
+Q1199;Hesse;законодательный орган;1;1;from
+Q1199;Hesse;город-побратим;1;2;to
+Q1198;North Rhine-Westphalia;основная тема;1;6;to
+Q1198;North Rhine-Westphalia;место смерти;1;32;to
+Q1198;North Rhine-Westphalia;юрисдикция распространяется на;1;633;to
+Q1198;North Rhine-Westphalia;EuroVoc ID;1;1;from
+Q1198;North Rhine-Westphalia;архивы хранятся в;1;1;from
+Q1198;North Rhine-Westphalia;код организации на C-SPAN;1;1;from
+Q1198;North Rhine-Westphalia;участник организации или клуба;1;2;from
+Q1198;North Rhine-Westphalia;произношение (звуковой файл);1;1;from
+Q1198;North Rhine-Westphalia;код GACS;1;1;from
+Q1198;North Rhine-Westphalia;код в Большой норвежской энциклопедии;1;1;from
+Q1198;North Rhine-Westphalia;часовой пояс;1;2;from
+Q1198;North Rhine-Westphalia;ID отношения в OpenStreetMap;1;1;from
+Q1198;North Rhine-Westphalia;код STW Thesaurus for Economics;1;1;from
+Q1198;North Rhine-Westphalia;геоданные;1;1;from
+Q1198;North Rhine-Westphalia;категория на Викискладе;1;1;from
+Q1198;North Rhine-Westphalia;часть от;1;2;to
+Q1198;North Rhine-Westphalia;код NDL;1;1;from
+Q1198;North Rhine-Westphalia;код темы Quora;1;1;from
+Q1198;North Rhine-Westphalia;код в Encyclopædia Universalis;1;1;from
+Q1198;North Rhine-Westphalia;ISO 3166-2;1;1;from
+Q1198;North Rhine-Westphalia;используемый язык;1;2;from
+Q1198;North Rhine-Westphalia;код SUDOC;1;1;from
+Q1198;North Rhine-Westphalia;код BNF;1;1;from
+Q1198;North Rhine-Westphalia;география темы;1;1;from
+Q1198;North Rhine-Westphalia;код BabelNet;1;1;from
+Q1198;North Rhine-Westphalia;хештег;1;1;from
+Q1198;North Rhine-Westphalia;код GNS;1;1;from
+Q1198;North Rhine-Westphalia;история темы;1;1;from
+Q1198;North Rhine-Westphalia;площадь;1;1;from
+Q1198;North Rhine-Westphalia;состоит из;1;1;from
+Q1198;North Rhine-Westphalia;идентификатор местоположения ArchINFORM;1;1;from
+Q1198;North Rhine-Westphalia;зона обслуживания;1;35;to
+Q1198;North Rhine-Westphalia;дата основания/создания/возникновения;1;1;from
+Q1198;North Rhine-Westphalia;тематически относится к;1;3;to
+Q1198;North Rhine-Westphalia;место активности;1;3;to
+Q1198;North Rhine-Westphalia;место рождения;1;39;to
+Q1198;North Rhine-Westphalia;пример использования свойства;1;1;to
+Q1198;North Rhine-Westphalia;dmoz;1;1;from
+Q1198;North Rhine-Westphalia;место в MusicBrainz;1;1;from
+Q1198;North Rhine-Westphalia;код NLI;1;1;from
+Q1198;North Rhine-Westphalia;баннер Викигида;1;1;from
+Q1198;North Rhine-Westphalia;галерея на Викискладе;1;1;from
+Q1198;North Rhine-Westphalia;основная категория по теме;1;1;from
+Q1198;North Rhine-Westphalia;FIPS 10-4 (страны и регионы);1;1;from
+Q1198;North Rhine-Westphalia;официальный сайт;1;1;from
+Q1198;North Rhine-Westphalia;категория карт на Викискладе;1;1;from
+Q1198;North Rhine-Westphalia;French Vikidia ID;1;1;from
+Q1198;North Rhine-Westphalia;iNaturalist place ID;1;1;from
+Q1198;North Rhine-Westphalia;код NKC;1;1;from
+Q1198;North Rhine-Westphalia;NWBib ID;1;1;from
+Q1198;North Rhine-Westphalia;Who's on First ID;1;1;from
+Q1198;North Rhine-Westphalia;код статьи Klexikon;1;1;from
+Q1198;North Rhine-Westphalia;код Freebase;1;1;from
+Q1198;North Rhine-Westphalia;географические координаты;1;1;from
+Q1198;North Rhine-Westphalia;наивысшая точка;1;1;from
+Q1198;North Rhine-Westphalia;код NUTS;1;1;from
+Q1198;North Rhine-Westphalia;код Comic Vine;1;1;from
+Q1198;North Rhine-Westphalia;Базисная классификация;1;1;from
+Q1199;Hesse;официальное название;1;1;from
+Q1199;Hesse;категория для людей, родившихся здесь;1;1;from
+Q1199;Hesse;категория для людей, умерших здесь;1;1;from
+Q1200;Rhineland-Palatinate;это частный случай понятия;1;1;from
+Q1200;Rhineland-Palatinate;карта местонахождения;1;1;from
+Q1200;Rhineland-Palatinate;описание герба;1;1;from
+Q1200;Rhineland-Palatinate;код GND;1;1;from
+Q1200;Rhineland-Palatinate;код VIAF;1;1;from
+Q1200;Rhineland-Palatinate;высший судебный орган;1;1;from
+Q1200;Rhineland-Palatinate;законодательный орган;1;1;from
+Q1200;Rhineland-Palatinate;изображение;1;1;from
+Q1200;Rhineland-Palatinate;государство;1;1;to
+Q1200;Rhineland-Palatinate;полученные награды;1;2;from
+Q1200;Rhineland-Palatinate;описание флага;1;1;from
+Q1200;Rhineland-Palatinate;предыдущее по порядку;1;1;from
+Q1200;Rhineland-Palatinate;административно делится на;1;5;to
+Q1200;Rhineland-Palatinate;административно-территориальная единица;1;5131;to
+Q1199;Hesse;является столицей;1;1;to
+Q1199;Hesse;общая тема категории;1;1;to
+Q1199;Hesse;находится в пределах природно-географического объекта;1;2;to
+Q1199;Hesse;расположение штаб-квартиры;1;8;to
+Q1199;Hesse;основная тема;1;3;to
+Q1199;Hesse;страна происхождения;1;1;to
+Q1199;Hesse;место создания;1;2;to
+Q1199;Hesse;оператор;1;2;to
+Q1199;Hesse;спонсор;1;1;to
+Q1199;Hesse;место погребения;1;11;to
+Q1199;Hesse;место смерти;1;9;to
+Q1199;Hesse;гражданство;1;3;to
+Q1200;Rhineland-Palatinate;код LCNAF;1;1;from
+Q1200;Rhineland-Palatinate;столица;1;1;from
+Q1199;Hesse;основная тема портала Викимедиа;1;1;to
+Q1200;Rhineland-Palatinate;изображение флага;1;1;from
+Q1200;Rhineland-Palatinate;площадь;1;1;from
+Q1200;Rhineland-Palatinate;высота над уровнем моря;1;1;from
+Q1200;Rhineland-Palatinate;код GAMEO;1;1;from
+Q1200;Rhineland-Palatinate;категория для людей, связанных с местностью;1;1;from
+Q1200;Rhineland-Palatinate;категория для людей, похороненных здесь;1;1;from
+Q1200;Rhineland-Palatinate;категория фильмов, снятых в этом месте;1;1;from
+Q1200;Rhineland-Palatinate;название на языке оригинала;1;1;from
+Q1200;Rhineland-Palatinate;код TGN;1;2;from
+Q1200;Rhineland-Palatinate;глубочайшая точка;1;1;from
+Q1200;Rhineland-Palatinate;код GeoNames;1;1;from
+Q1200;Rhineland-Palatinate;категория для людей, умерших здесь;1;1;from
+Q1200;Rhineland-Palatinate;категория для людей, родившихся здесь;1;1;from
+Q1200;Rhineland-Palatinate;официальное название;1;1;from
+Q1200;Rhineland-Palatinate;код в энциклопедии «Британника онлайн»;1;1;from
+Q1200;Rhineland-Palatinate;код региона Германии;1;1;from
+Q1200;Rhineland-Palatinate;участвовал в;1;2;from
+Q1200;Rhineland-Palatinate;описывается в источниках;1;1;from
+Q1200;Rhineland-Palatinate;должность главы правительства;1;1;from
+Q1200;Rhineland-Palatinate;значение в OmegaWiki;1;1;from
+Q1200;Rhineland-Palatinate;портал Викимедиа;1;1;from
+Q1200;Rhineland-Palatinate;численность населения;1;2;from
+Q1200;Rhineland-Palatinate;десятичная классификация Дьюи;1;1;from
+Q1200;Rhineland-Palatinate;изображение герба;1;1;from
+Q1200;Rhineland-Palatinate;глава правительства;1;15;from
+Q1200;Rhineland-Palatinate;имеет границы с;1;10;to
+Q1199;Hesse;часть от;1;2;to
+Q1199;Hesse;местонахождение;1;6;to
+Q1199;Hesse;код GeoNames;1;1;from
+Q1199;Hesse;код NUTS;1;1;from
+Q1199;Hesse;дата основания/создания/возникновения;1;2;from
+Q1199;Hesse;идентификатор местоположения ArchINFORM;1;1;from
+Q1199;Hesse;EuroVoc ID;1;1;from
+Q1199;Hesse;архивы хранятся в;1;1;from
+Q1199;Hesse;участник организации или клуба;1;1;from
+Q1199;Hesse;предположительно одно и то же с;1;1;from
+Q1199;Hesse;произношение (звуковой файл);1;1;from
+Q1199;Hesse;код GACS;1;1;from
+Q1199;Hesse;часовой пояс;1;2;from
+Q1199;Hesse;ID отношения в OpenStreetMap;1;1;from
+Q1199;Hesse;код STW Thesaurus for Economics;1;1;from
+Q1199;Hesse;геоданные;1;1;from
+Q1199;Hesse;категория на Викискладе;1;1;from
+Q1199;Hesse;ISO 3166-2;1;1;from
+Q1199;Hesse;код в Большой российской энциклопедии онлайн;1;1;from
+Q1199;Hesse;код BNF;1;1;from
+Q1199;Hesse;код BabelNet;1;1;from
+Q1199;Hesse;история темы;1;1;from
+Q1199;Hesse;площадь;1;1;from
+Q1199;Hesse;высота над уровнем моря;1;1;from
+Q1199;Hesse;категория для людей, связанных с местностью;1;1;from
+Q1199;Hesse;категория для людей, похороненных здесь;1;1;from
+Q1199;Hesse;категория фильмов, снятых в этом месте;1;1;from
+Q1199;Hesse;название на языке оригинала;1;1;from
+Q1199;Hesse;код TGN;1;1;from
+Q1199;Hesse;код Comic Vine;1;1;from
+Q1199;Hesse;наивысшая точка;1;1;from
+Q1199;Hesse;владельцем является;1;10;to
+Q1199;Hesse;относится к вики-проекту;1;1;from
+Q1199;Hesse;награда от;1;5;to
+Q1199;Hesse;категория объединяет темы;1;50;to
+Q1199;Hesse;место активности;1;8;to
+Q1199;Hesse;работодатель;1;1;to
+Q1199;Hesse;лицензия на вещание в;1;3;to
+Q1199;Hesse;тематически относится к;1;1;to
+Q1199;Hesse;зона обслуживания;1;39;to
+Q1199;Hesse;место рождения;1;46;to
+Q1199;Hesse;юрисдикция распространяется на;1;756;to
+Q1199;Hesse;dmoz;1;1;from
+Q1199;Hesse;место в MusicBrainz;1;1;from
+Q1199;Hesse;код NLI;1;1;from
+Q1199;Hesse;баннер Викигида;1;1;from
+Q1199;Hesse;галерея на Викискладе;1;1;from
+Q1199;Hesse;основная категория по теме;1;1;from
+Q1199;Hesse;FIPS 10-4 (страны и регионы);1;1;from
+Q1199;Hesse;официальный сайт;1;1;from
+Q1199;Hesse;категория карт на Викискладе;1;1;from
+Q1199;Hesse;iNaturalist place ID;1;1;from
+Q1199;Hesse;код NKC;1;1;from
+Q1199;Hesse;Who's on First ID;1;1;from
+Q1199;Hesse;код статьи Klexikon;1;1;from
+Q1199;Hesse;код Freebase;1;1;from
+Q1199;Hesse;идентификатор Dizionario di Storia;1;1;from
+Q1199;Hesse;географические координаты;1;1;from
+Q1198;North Rhine-Westphalia;высота над уровнем моря;1;1;from
+Q1198;North Rhine-Westphalia;код GAMEO;1;1;from
+Q1198;North Rhine-Westphalia;категория для людей, связанных с местностью;1;1;from
+Q1197;Lower Saxony;код GND;1;1;from
+Q1197;Lower Saxony;высший судебный орган;1;1;from
+Q1197;Lower Saxony;законодательный орган;1;1;from
+Q1197;Lower Saxony;город-побратим;1;1;to
+Q1197;Lower Saxony;изображение;1;1;from
+Q1197;Lower Saxony;государство;1;3;to
+Q1197;Lower Saxony;полученные награды;1;2;from
+Q1197;Lower Saxony;описание флага;1;1;from
+Q1197;Lower Saxony;административно делится на;1;6;to
+Q1197;Lower Saxony;названо в честь;1;1;to
+Q1197;Lower Saxony;административно-территориальная единица;1;6065;to
+Q1196;Mecklenburg-Vorpommern;является столицей;1;1;to
+Q1196;Mecklenburg-Vorpommern;общая тема категории;1;1;to
+Q1196;Mecklenburg-Vorpommern;состоит из;1;1;to
+Q1196;Mecklenburg-Vorpommern;работодатель;1;1;to
+Q1196;Mecklenburg-Vorpommern;основная тема портала Викимедиа;1;1;to
+Q1196;Mecklenburg-Vorpommern;находится в пределах природно-географического объекта;1;2;to
+Q1196;Mecklenburg-Vorpommern;награда от;1;1;to
+Q1196;Mecklenburg-Vorpommern;следующее по порядку;1;1;to
+Q1196;Mecklenburg-Vorpommern;оператор;1;1;to
+Q1196;Mecklenburg-Vorpommern;названо в честь;1;1;to
+Q1196;Mecklenburg-Vorpommern;место погребения;1;9;to
+Q1196;Mecklenburg-Vorpommern;расположение штаб-квартиры;1;2;to
+Q1196;Mecklenburg-Vorpommern;место рождения;1;14;to
+Q1196;Mecklenburg-Vorpommern;тематически относится к;1;1;to
+Q1196;Mecklenburg-Vorpommern;часть от;1;1;to
+Q1197;Lower Saxony;код VIAF;1;1;from
+Q1197;Lower Saxony;описание герба;1;1;from
+Q1196;Mecklenburg-Vorpommern;категория объединяет темы;1;41;to
+Q1197;Lower Saxony;карта местонахождения;1;1;from
+Q1197;Lower Saxony;подробная карта;1;1;from
+Q1197;Lower Saxony;код GeoNames;1;1;from
+Q1197;Lower Saxony;категория для людей, умерших здесь;1;1;from
+Q1197;Lower Saxony;категория для людей, родившихся здесь;1;1;from
+Q1197;Lower Saxony;текст девиза;1;5;from
+Q1197;Lower Saxony;код в энциклопедии «Британника онлайн»;1;1;from
+Q1197;Lower Saxony;код региона Германии;1;1;from
+Q1197;Lower Saxony;заменил;1;4;from
+Q1197;Lower Saxony;участвовал в;1;1;from
+Q1197;Lower Saxony;самая западная точка;1;1;from
+Q1197;Lower Saxony;самая восточная точка;1;1;from
+Q1197;Lower Saxony;самая южная точка;1;1;from
+Q1197;Lower Saxony;самая северная точка;1;1;from
+Q1197;Lower Saxony;должность главы правительства;1;1;from
+Q1197;Lower Saxony;значение в OmegaWiki;1;1;from
+Q1197;Lower Saxony;портал Викимедиа;1;1;from
+Q1197;Lower Saxony;численность населения;1;6;from
+Q1197;Lower Saxony;десятичная классификация Дьюи;1;1;from
+Q1197;Lower Saxony;изображение герба;1;1;from
+Q1197;Lower Saxony;глава правительства;1;23;from
+Q1197;Lower Saxony;имеет границы с;1;20;to
+Q1197;Lower Saxony;изображение флага;1;1;from
+Q1197;Lower Saxony;столица;1;1;from
+Q1197;Lower Saxony;это частный случай понятия;1;1;from
+Q1197;Lower Saxony;код LCNAF;1;1;from
+Q1196;Mecklenburg-Vorpommern;владельцем является;1;2;to
+Q1196;Mecklenburg-Vorpommern;зона обслуживания;1;31;to
+Q1197;Lower Saxony;название на языке оригинала;1;1;from
+Q1196;Mecklenburg-Vorpommern;произношение (звуковой файл);1;1;from
+Q1196;Mecklenburg-Vorpommern;код тезауруса PACTOLS;1;1;from
+Q1196;Mecklenburg-Vorpommern;часовой пояс;1;2;from
+Q1196;Mecklenburg-Vorpommern;ID отношения в OpenStreetMap;1;1;from
+Q1196;Mecklenburg-Vorpommern;сабреддит;1;1;from
+Q1196;Mecklenburg-Vorpommern;код STW Thesaurus for Economics;1;1;from
+Q1196;Mecklenburg-Vorpommern;геоданные;1;1;from
+Q1196;Mecklenburg-Vorpommern;категория на Викискладе;1;1;from
+Q1196;Mecklenburg-Vorpommern;код темы Quora;1;1;from
+Q1196;Mecklenburg-Vorpommern;код в Encyclopædia Universalis;1;1;from
+Q1196;Mecklenburg-Vorpommern;ISO 3166-2;1;1;from
+Q1196;Mecklenburg-Vorpommern;постоянный дубликат;1;1;to
+Q1196;Mecklenburg-Vorpommern;местонахождение;1;1;to
+Q1196;Mecklenburg-Vorpommern;код SUDOC;1;1;from
+Q1196;Mecklenburg-Vorpommern;код BNF;1;1;from
+Q1196;Mecklenburg-Vorpommern;код BabelNet;1;1;from
+Q1196;Mecklenburg-Vorpommern;история темы;1;1;from
+Q1196;Mecklenburg-Vorpommern;код FAST;1;1;from
+Q1196;Mecklenburg-Vorpommern;площадь;1;1;from
+Q1196;Mecklenburg-Vorpommern;высота над уровнем моря;1;1;from
+Q1196;Mecklenburg-Vorpommern;рельефная позиционная карта;1;1;from
+Q1196;Mecklenburg-Vorpommern;позиционная карта;1;1;from
+Q1196;Mecklenburg-Vorpommern;категория для людей, связанных с местностью;1;1;from
+Q1196;Mecklenburg-Vorpommern;категория для людей, похороненных здесь;1;1;from
+Q1196;Mecklenburg-Vorpommern;категория фильмов, снятых в этом месте;1;1;from
+Q1196;Mecklenburg-Vorpommern;название на языке оригинала;1;2;from
+Q1196;Mecklenburg-Vorpommern;код GACS;1;1;from
+Q1196;Mecklenburg-Vorpommern;участник организации или клуба;1;1;from
+Q1196;Mecklenburg-Vorpommern;место смерти;1;7;to
+Q1196;Mecklenburg-Vorpommern;архивы хранятся в;1;1;from
+Q1196;Mecklenburg-Vorpommern;заменён на;1;6;to
+Q1196;Mecklenburg-Vorpommern;место активности;1;77;to
+Q1196;Mecklenburg-Vorpommern;юрисдикция распространяется на;1;501;to
+Q1196;Mecklenburg-Vorpommern;dmoz;1;1;from
+Q1196;Mecklenburg-Vorpommern;место в MusicBrainz;1;1;from
+Q1196;Mecklenburg-Vorpommern;описан на сайте;1;1;from
+Q1196;Mecklenburg-Vorpommern;код BNE;1;1;from
+Q1196;Mecklenburg-Vorpommern;код NLI;1;1;from
+Q1196;Mecklenburg-Vorpommern;баннер Викигида;1;1;from
+Q1196;Mecklenburg-Vorpommern;галерея на Викискладе;1;1;from
+Q1196;Mecklenburg-Vorpommern;основная категория по теме;1;1;from
+Q1196;Mecklenburg-Vorpommern;FIPS 10-4 (страны и регионы);1;1;from
+Q1196;Mecklenburg-Vorpommern;официальный сайт;1;1;from
+Q1196;Mecklenburg-Vorpommern;категория карт на Викискладе;1;1;from
+Q1196;Mecklenburg-Vorpommern;French Vikidia ID;1;1;from
+Q1196;Mecklenburg-Vorpommern;iNaturalist place ID;1;1;from
+Q1196;Mecklenburg-Vorpommern;код NKC;1;1;from
+Q1196;Mecklenburg-Vorpommern;Who's on First ID;1;1;from
+Q1196;Mecklenburg-Vorpommern;код статьи Klexikon;1;1;from
+Q1196;Mecklenburg-Vorpommern;код Freebase;1;1;from
+Q1196;Mecklenburg-Vorpommern;географические координаты;1;1;from
+Q1196;Mecklenburg-Vorpommern;наивысшая точка;1;1;from
+Q1196;Mecklenburg-Vorpommern;код NUTS;1;2;from
+Q1196;Mecklenburg-Vorpommern;дата основания/создания/возникновения;1;1;from
+Q1196;Mecklenburg-Vorpommern;идентификатор местоположения ArchINFORM;1;1;from
+Q1197;Lower Saxony;код TGN;1;1;from
+Q1197;Lower Saxony;категория для людей, похороненных здесь;1;1;from
+Q1198;North Rhine-Westphalia;категория для людей, похороненных здесь;1;1;from
+Q1198;North Rhine-Westphalia;код VIAF;1;1;from
+Q1198;North Rhine-Westphalia;высший судебный орган;1;1;from
+Q1198;North Rhine-Westphalia;законодательный орган;1;1;from
+Q1198;North Rhine-Westphalia;изображение;1;1;from
+Q1198;North Rhine-Westphalia;государство;1;2;to
+Q1198;North Rhine-Westphalia;описание флага;1;1;from
+Q1198;North Rhine-Westphalia;предыдущее по порядку;1;1;from
+Q1198;North Rhine-Westphalia;административно делится на;1;6;to
+Q1198;North Rhine-Westphalia;названо в честь;1;1;to
+Q1198;North Rhine-Westphalia;административно-территориальная единица;1;3975;to
+Q1197;Lower Saxony;является столицей;1;1;to
+Q1197;Lower Saxony;анклав в;1;3;to
+Q1197;Lower Saxony;место активности;1;1;to
+Q1197;Lower Saxony;оператор;1;1;to
+Q1197;Lower Saxony;заказчик произведения;1;1;to
+Q1197;Lower Saxony;общая тема категории;1;1;to
+Q1197;Lower Saxony;исток водотока;1;1;to
+Q1197;Lower Saxony;место жительства;1;1;to
+Q1197;Lower Saxony;страна происхождения;1;1;to
+Q1197;Lower Saxony;материнская компания (организация, учреждение);1;1;to
+Q1197;Lower Saxony;заменён на;1;4;to
+Q1197;Lower Saxony;награда от;1;3;to
+Q1197;Lower Saxony;место обнаружения;1;1;to
+Q1197;Lower Saxony;находится в пределах природно-географического объекта;1;3;to
+Q1197;Lower Saxony;основная тема;1;3;to
+Q1197;Lower Saxony;местонахождение;1;5;to
+Q1198;North Rhine-Westphalia;код ISNI;1;1;from
+Q1198;North Rhine-Westphalia;код GND;1;1;from
+Q1197;Lower Saxony;участник(и);1;1;to
+Q1198;North Rhine-Westphalia;описание герба;1;1;from
+Q1198;North Rhine-Westphalia;категория фильмов, снятых в этом месте;1;1;from
+Q1198;North Rhine-Westphalia;название на языке оригинала;1;1;from
+Q1198;North Rhine-Westphalia;код TGN;1;1;from
+Q1198;North Rhine-Westphalia;код GeoNames;1;1;from
+Q1198;North Rhine-Westphalia;категория для людей, умерших здесь;1;1;from
+Q1198;North Rhine-Westphalia;категория для людей, родившихся здесь;1;1;from
+Q1198;North Rhine-Westphalia;текст девиза;1;3;from
+Q1198;North Rhine-Westphalia;официальное название;1;1;from
+Q1198;North Rhine-Westphalia;код в энциклопедии «Британника онлайн»;1;1;from
+Q1198;North Rhine-Westphalia;код региона Германии;1;1;from
+Q1198;North Rhine-Westphalia;заменил;1;3;from
+Q1198;North Rhine-Westphalia;описывается в источниках;1;2;from
+Q1198;North Rhine-Westphalia;должность главы правительства;1;1;from
+Q1198;North Rhine-Westphalia;значение в OmegaWiki;1;1;from
+Q1198;North Rhine-Westphalia;портал Викимедиа;1;1;from
+Q1198;North Rhine-Westphalia;численность населения;1;3;from
+Q1198;North Rhine-Westphalia;десятичная классификация Дьюи;1;1;from
+Q1198;North Rhine-Westphalia;изображение герба;1;1;from
+Q1198;North Rhine-Westphalia;глава правительства;1;21;from
+Q1198;North Rhine-Westphalia;имеет границы с;1;8;to
+Q1198;North Rhine-Westphalia;изображение флага;1;1;from
+Q1198;North Rhine-Westphalia;столица;1;1;from
+Q1198;North Rhine-Westphalia;это частный случай понятия;1;1;from
+Q1198;North Rhine-Westphalia;код LCNAF;1;1;from
+Q1198;North Rhine-Westphalia;карта местонахождения;1;1;from
+Q1197;Lower Saxony;категория объединяет темы;1;49;to
+Q1197;Lower Saxony;владельцем является;1;4;to
+Q1197;Lower Saxony;категория для людей, связанных с местностью;1;1;from
+Q1197;Lower Saxony;код NUTS;1;1;from
+Q1197;Lower Saxony;дата основания/создания/возникновения;1;1;from
+Q1197;Lower Saxony;идентификатор местоположения ArchINFORM;1;1;from
+Q1197;Lower Saxony;EuroVoc ID;1;1;from
+Q1197;Lower Saxony;состоит из;1;1;from
+Q1197;Lower Saxony;архивы хранятся в;1;1;from
+Q1197;Lower Saxony;участник организации или клуба;1;2;from
+Q1197;Lower Saxony;произношение (звуковой файл);1;1;from
+Q1197;Lower Saxony;код GACS;1;1;from
+Q1197;Lower Saxony;код тезауруса PACTOLS;1;1;from
+Q1197;Lower Saxony;часовой пояс;1;2;from
+Q1197;Lower Saxony;ID отношения в OpenStreetMap;1;1;from
+Q1197;Lower Saxony;код STW Thesaurus for Economics;1;1;from
+Q1197;Lower Saxony;геоданные;1;1;from
+Q1197;Lower Saxony;код ITU/ISO/IEC;1;1;from
+Q1197;Lower Saxony;категория на Викискладе;1;1;from
+Q1197;Lower Saxony;часть от;1;1;to
+Q1197;Lower Saxony;код темы Quora;1;1;from
+Q1197;Lower Saxony;код в Encyclopædia Universalis;1;1;from
+Q1197;Lower Saxony;ISO 3166-2;1;1;from
+Q1197;Lower Saxony;постоянный дубликат;1;1;to
+Q1197;Lower Saxony;используемый язык;1;3;from
+Q1197;Lower Saxony;код BNF;1;1;from
+Q1197;Lower Saxony;код BabelNet;1;1;from
+Q1197;Lower Saxony;площадь;1;1;from
+Q1197;Lower Saxony;высота над уровнем моря;1;1;from
+Q1197;Lower Saxony;код Comic Vine;1;1;from
+Q1197;Lower Saxony;наивысшая точка;1;1;from
+Q1197;Lower Saxony;происходит из;1;3;to
+Q1197;Lower Saxony;географические координаты;1;1;from
+Q1197;Lower Saxony;основная тема портала Викимедиа;1;1;to
+Q1197;Lower Saxony;расположение штаб-квартиры;1;5;to
+Q1197;Lower Saxony;зона обслуживания;1;39;to
+Q1197;Lower Saxony;место погребения;1;18;to
+Q1197;Lower Saxony;место рождения;1;32;to
+Q1197;Lower Saxony;работодатель;1;1;to
+Q1197;Lower Saxony;место смерти;1;24;to
+Q1197;Lower Saxony;юрисдикция распространяется на;1;1821;to
+Q1197;Lower Saxony;пример использования свойства;1;1;to
+Q1197;Lower Saxony;dmoz;1;1;from
+Q1197;Lower Saxony;место в MusicBrainz;1;1;from
+Q1197;Lower Saxony;код NLI;1;1;from
+Q1197;Lower Saxony;баннер Викигида;1;1;from
+Q1197;Lower Saxony;галерея на Викискладе;1;1;from
+Q1197;Lower Saxony;основная категория по теме;1;1;from
+Q1197;Lower Saxony;код SELIBR;1;1;from
+Q1197;Lower Saxony;FIPS 10-4 (страны и регионы);1;1;from
+Q1197;Lower Saxony;официальный сайт;1;10;from
+Q1197;Lower Saxony;категория карт на Викискладе;1;1;from
+Q1197;Lower Saxony;French Vikidia ID;1;1;from
+Q1197;Lower Saxony;iNaturalist place ID;1;1;from
+Q1197;Lower Saxony;код NKC;1;1;from
+Q1197;Lower Saxony;Who's on First ID;1;1;from
+Q1197;Lower Saxony;код статьи Klexikon;1;1;from
+Q1197;Lower Saxony;код Freebase;1;1;from
+Q32051496;Hamburg;Who's on First ID;1;1;from

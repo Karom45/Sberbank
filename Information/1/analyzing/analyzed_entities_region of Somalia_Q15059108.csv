@@ -1,0 +1,349 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q282471;Bakool;административно-территориальная единица;1;80;to
+Q876772;Galguduud;Who's on First ID;1;1;from
+Q877028;Lower Shebelle;административно делится на;1;1;to
+Q877028;Lower Shebelle;административно-территориальная единица;1;189;to
+Q876772;Galguduud;административно делится на;1;1;to
+Q876772;Galguduud;общая тема категории;1;1;to
+Q876772;Galguduud;является столицей;1;1;to
+Q876772;Galguduud;место рождения;1;4;to
+Q876772;Galguduud;основная категория по теме;1;1;from
+Q876772;Galguduud;FIPS 10-4 (страны и регионы);1;1;from
+Q876772;Galguduud;код Freebase;1;1;from
+Q877028;Lower Shebelle;изображение;1;1;from
+Q876772;Galguduud;географические координаты;1;1;from
+Q876772;Galguduud;категория на Викискладе;1;1;from
+Q876772;Galguduud;ISO 3166-2;1;1;from
+Q876772;Galguduud;код TGN;1;1;from
+Q876772;Galguduud;код GeoNames;1;1;from
+Q876772;Galguduud;столица;1;1;from
+Q876772;Galguduud;это частный случай понятия;1;1;from
+Q876772;Galguduud;карта местонахождения;1;1;from
+Q877028;Lower Shebelle;государство;1;1;from
+Q877028;Lower Shebelle;код VIAF;1;1;from
+Q876772;Galguduud;административно-территориальная единица;1;199;to
+Q877028;Lower Shebelle;географические координаты;1;1;from
+Q877034;Mudug;административно-территориальная единица;1;295;to
+Q877028;Lower Shebelle;общая тема категории;1;1;to
+Q877028;Lower Shebelle;является столицей;1;1;to
+Q877028;Lower Shebelle;происходит из;1;5;to
+Q877028;Lower Shebelle;основная категория по теме;1;1;from
+Q877028;Lower Shebelle;FIPS 10-4 (страны и регионы);1;1;from
+Q877028;Lower Shebelle;Who's on First ID;1;1;from
+Q877028;Lower Shebelle;код Freebase;1;1;from
+Q877028;Lower Shebelle;категория на Викискладе;1;1;from
+Q877028;Lower Shebelle;карта местонахождения;1;1;from
+Q877028;Lower Shebelle;ISO 3166-2;1;1;from
+Q877028;Lower Shebelle;используемый язык;1;5;from
+Q877028;Lower Shebelle;площадь;1;1;from
+Q877028;Lower Shebelle;код TGN;1;1;from
+Q877028;Lower Shebelle;код GeoNames;1;1;from
+Q877028;Lower Shebelle;код в Большой каталанской энциклопедии;1;1;from
+Q877028;Lower Shebelle;столица;1;1;from
+Q877028;Lower Shebelle;это частный случай понятия;1;1;from
+Q876772;Galguduud;государство;1;1;from
+Q865590;Togdheer Region;административно делится на;1;2;to
+Q282471;Bakool;государство;1;1;from
+Q856719;Gedo;категория на Викискладе;1;1;from
+Q856719;Gedo;является столицей;1;1;to
+Q856719;Gedo;баннер Викигида;1;1;from
+Q856719;Gedo;основная категория по теме;1;1;from
+Q856719;Gedo;FIPS 10-4 (страны и регионы);1;1;from
+Q856719;Gedo;Who's on First ID;1;1;from
+Q856719;Gedo;код Freebase;1;1;from
+Q856719;Gedo;географические координаты;1;1;from
+Q856719;Gedo;часовой пояс;1;1;from
+Q856719;Gedo;ISO 3166-2;1;1;from
+Q856719;Gedo;местонахождение;1;1;to
+Q856719;Gedo;используемый язык;1;2;from
+Q856719;Gedo;код BabelNet;1;1;from
+Q856719;Gedo;площадь;1;1;from
+Q856719;Gedo;код GeoNames;1;1;from
+Q856719;Gedo;столица;1;1;from
+Q856719;Gedo;это частный случай понятия;1;1;from
+Q856719;Gedo;карта местонахождения;1;1;from
+Q856719;Gedo;государство;1;1;from
+Q856719;Gedo;происходит из;1;2;to
+Q856719;Gedo;место рождения;1;1;to
+Q865590;Togdheer Region;является столицей;1;1;to
+Q865590;Togdheer Region;код темы Quora;1;1;from
+Q865590;Togdheer Region;общая тема категории;1;1;to
+Q865590;Togdheer Region;административно-территориальная единица;1;319;to
+Q865590;Togdheer Region;баннер Викигида;1;1;from
+Q865590;Togdheer Region;основная категория по теме;1;1;from
+Q865590;Togdheer Region;FIPS 10-4 (страны и регионы);1;2;from
+Q865590;Togdheer Region;Who's on First ID;1;1;from
+Q865590;Togdheer Region;код Freebase;1;1;from
+Q865590;Togdheer Region;географические координаты;1;1;from
+Q865590;Togdheer Region;ISO 3166-2;1;1;from
+Q856719;Gedo;общая тема категории;1;1;to
+Q865590;Togdheer Region;код GeoNames;1;1;from
+Q865590;Togdheer Region;код в Большой каталанской энциклопедии;1;1;from
+Q865590;Togdheer Region;столица;1;1;from
+Q865590;Togdheer Region;это частный случай понятия;1;2;from
+Q865590;Togdheer Region;карта местонахождения;1;1;from
+Q865590;Togdheer Region;изображение;1;1;from
+Q865590;Togdheer Region;государство;1;2;from
+Q856719;Gedo;административно делится на;1;1;to
+Q877034;Mudug;государство;1;1;from
+Q877034;Mudug;изображение;1;1;from
+Q877034;Mudug;карта местонахождения;1;1;from
+Q1046324;Middle Juba;используемый язык;1;4;from
+Q1046324;Middle Juba;происходит из;1;4;to
+Q1046324;Middle Juba;основная категория по теме;1;1;from
+Q1046324;Middle Juba;FIPS 10-4 (страны и регионы);1;1;from
+Q1046324;Middle Juba;Who's on First ID;1;1;from
+Q1046324;Middle Juba;код Freebase;1;1;from
+Q1046324;Middle Juba;географические координаты;1;1;from
+Q1046324;Middle Juba;категория на Викискладе;1;1;from
+Q1046324;Middle Juba;ISO 3166-2;1;1;from
+Q1046324;Middle Juba;код TGN;1;1;from
+Q1046324;Middle Juba;является столицей;1;1;to
+Q1046324;Middle Juba;код GeoNames;1;1;from
+Q1046324;Middle Juba;столица;1;1;from
+Q1046324;Middle Juba;это частный случай понятия;1;1;from
+Q1046324;Middle Juba;карта местонахождения;1;1;from
+Q1046324;Middle Juba;код VIAF;1;1;from
+Q1046324;Middle Juba;государство;1;1;from
+Q1046324;Middle Juba;административно-территориальная единица;1;77;to
+Q877042;Lower Juba;административно делится на;1;1;to
+Q1046324;Middle Juba;общая тема категории;1;1;to
+Q1046324;Middle Juba;административно делится на;1;1;to
+Q877034;Mudug;это частный случай понятия;1;1;from
+Q1046329;Nugal;ISO 3166-2;1;1;from
+Q1046329;Nugal;является столицей;1;1;to
+Q1046329;Nugal;общая тема категории;1;1;to
+Q1046329;Nugal;основная категория по теме;1;1;from
+Q1046329;Nugal;FIPS 10-4 (страны и регионы);1;2;from
+Q1046329;Nugal;Who's on First ID;1;1;from
+Q1046329;Nugal;код Freebase;1;1;from
+Q1046329;Nugal;географические координаты;1;1;from
+Q1046329;Nugal;категория на Викискладе;1;1;from
+Q1046329;Nugal;площадь;1;1;from
+Q1046329;Nugal;административно-территориальная единица;1;253;to
+Q1046329;Nugal;код GeoNames;1;1;from
+Q1046329;Nugal;код в энциклопедии «Британника онлайн»;1;1;from
+Q1046329;Nugal;имеет границы с;1;1;to
+Q1046329;Nugal;столица;1;1;from
+Q1046329;Nugal;это частный случай понятия;1;1;from
+Q1046329;Nugal;карта местонахождения;1;1;from
+Q1046329;Nugal;изображение;1;1;from
+Q1046329;Nugal;государство;1;1;from
+Q877042;Lower Juba;общая тема категории;1;1;to
+Q877042;Lower Juba;местонахождение;1;1;to
+Q877042;Lower Juba;является столицей;1;1;to
+Q877034;Mudug;Who's on First ID;1;1;from
+Q877042;Lower Juba;административно-территориальная единица;1;352;to
+Q877034;Mudug;административно делится на;1;1;to
+Q877034;Mudug;общая тема категории;1;1;to
+Q877034;Mudug;место смерти;1;1;to
+Q877034;Mudug;категория объединяет темы;1;1;to
+Q877034;Mudug;место рождения;1;2;to
+Q877034;Mudug;основная категория по теме;1;1;from
+Q877034;Mudug;FIPS 10-4 (страны и регионы);1;1;from
+Q877034;Mudug;код Freebase;1;1;from
+Q877042;Lower Juba;происходит из;1;4;to
+Q877034;Mudug;географические координаты;1;1;from
+Q877034;Mudug;категория на Викискладе;1;1;from
+Q877034;Mudug;ISO 3166-2;1;1;from
+Q877034;Mudug;категория для людей, связанных с местностью;1;1;from
+Q877034;Mudug;код TGN;1;1;from
+Q877034;Mudug;код GeoNames;1;1;from
+Q877034;Mudug;код в Большой каталанской энциклопедии;1;1;from
+Q877034;Mudug;столица;1;1;from
+Q877042;Lower Juba;государство;1;1;from
+Q877042;Lower Juba;изображение;1;1;from
+Q877042;Lower Juba;карта местонахождения;1;1;from
+Q877042;Lower Juba;это частный случай понятия;1;1;from
+Q877042;Lower Juba;основная категория по теме;1;1;from
+Q877042;Lower Juba;FIPS 10-4 (страны и регионы);1;1;from
+Q877042;Lower Juba;Who's on First ID;1;1;from
+Q877042;Lower Juba;код Freebase;1;1;from
+Q877042;Lower Juba;географические координаты;1;1;from
+Q877042;Lower Juba;дата основания/создания/возникновения;1;1;from
+Q877042;Lower Juba;местный телефонный код;1;1;from
+Q877042;Lower Juba;категория на Викискладе;1;1;from
+Q877042;Lower Juba;ISO 3166-2;1;1;from
+Q877042;Lower Juba;используемый язык;1;4;from
+Q877042;Lower Juba;площадь;1;1;from
+Q877042;Lower Juba;название на языке оригинала;1;1;from
+Q877042;Lower Juba;код TGN;1;1;from
+Q877042;Lower Juba;код GeoNames;1;1;from
+Q877042;Lower Juba;код в Большой каталанской энциклопедии;1;1;from
+Q877042;Lower Juba;численность населения;1;1;from
+Q877042;Lower Juba;столица;1;1;from
+Q856719;Gedo;административно-территориальная единица;1;437;to
+Q848864;Sool;административно делится на;1;2;to
+Q848864;Sool;общая тема категории;1;1;to
+Q678435;Middle Shebelle;площадь;1;1;from
+Q678435;Middle Shebelle;категория объединяет темы;1;1;to
+Q678435;Middle Shebelle;основная категория по теме;1;1;from
+Q678435;Middle Shebelle;FIPS 10-4 (страны и регионы);1;1;from
+Q678435;Middle Shebelle;Who's on First ID;1;1;from
+Q678435;Middle Shebelle;код Freebase;1;1;from
+Q678435;Middle Shebelle;географические координаты;1;1;from
+Q678435;Middle Shebelle;категория на Викискладе;1;1;from
+Q678435;Middle Shebelle;ISO 3166-2;1;1;from
+Q678435;Middle Shebelle;категория для людей, связанных с местностью;1;1;from
+Q678435;Middle Shebelle;является столицей;1;1;to
+Q678435;Middle Shebelle;код TGN;1;1;from
+Q678435;Middle Shebelle;код GeoNames;1;1;from
+Q678435;Middle Shebelle;код в Большой каталанской энциклопедии;1;1;from
+Q678435;Middle Shebelle;численность населения;1;1;from
+Q678435;Middle Shebelle;столица;1;1;from
+Q678435;Middle Shebelle;это частный случай понятия;1;1;from
+Q678435;Middle Shebelle;карта местонахождения;1;1;from
+Q678435;Middle Shebelle;государство;1;1;from
+Q678435;Middle Shebelle;место рождения;1;1;to
+Q678435;Middle Shebelle;общая тема категории;1;1;to
+Q729170;Bari;общая тема категории;1;1;to
+Q729170;Bari;площадь;1;1;from
+Q729170;Bari;место в MusicBrainz;1;1;from
+Q729170;Bari;основная категория по теме;1;1;from
+Q729170;Bari;FIPS 10-4 (страны и регионы);1;1;from
+Q729170;Bari;Who's on First ID;1;1;from
+Q729170;Bari;код Freebase;1;1;from
+Q729170;Bari;географические координаты;1;1;from
+Q729170;Bari;часовой пояс;1;1;from
+Q729170;Bari;ISO 3166-2;1;1;from
+Q729170;Bari;код GeoNames;1;1;from
+Q678435;Middle Shebelle;административно делится на;1;1;to
+Q729170;Bari;код в Большой каталанской энциклопедии;1;1;from
+Q729170;Bari;имеет границы с;1;3;to
+Q729170;Bari;столица;1;1;from
+Q729170;Bari;это частный случай понятия;1;1;from
+Q729170;Bari;карта местонахождения;1;1;from
+Q729170;Bari;изображение;1;1;from
+Q729170;Bari;государство;1;1;from
+Q729170;Bari;административно-территориальная единица;1;1244;to
+Q678435;Middle Shebelle;административно-территориальная единица;1;177;to
+Q660040;Hiran;происходит из;1;1;to
+Q660040;Hiran;административно делится на;1;1;to
+Q282471;Bakool;географические координаты;1;1;from
+Q282471;Bakool;административно делится на;1;1;to
+Q282471;Bakool;общая тема категории;1;1;to
+Q282471;Bakool;место рождения;1;2;to
+Q282471;Bakool;является столицей;1;1;to
+Q282471;Bakool;основная категория по теме;1;1;from
+Q282471;Bakool;FIPS 10-4 (страны и регионы);1;1;from
+Q282471;Bakool;Who's on First ID;1;1;from
+Q282471;Bakool;код Freebase;1;1;from
+Q282471;Bakool;часовой пояс;1;1;from
+Q660040;Hiran;является столицей;1;1;to
+Q282471;Bakool;категория на Викискладе;1;1;from
+Q282471;Bakool;ISO 3166-2;1;1;from
+Q282471;Bakool;используемый язык;1;1;from
+Q282471;Bakool;код TGN;1;1;from
+Q282471;Bakool;код GeoNames;1;1;from
+Q282471;Bakool;столица;1;1;from
+Q282471;Bakool;это частный случай понятия;1;1;from
+Q282471;Bakool;карта местонахождения;1;1;from
+Q282471;Bakool;происходит из;1;1;to
+Q660040;Hiran;административно-территориальная единица;1;201;to
+Q660040;Hiran;государство;1;1;from
+Q660040;Hiran;карта местонахождения;1;1;from
+Q660040;Hiran;общая тема категории;1;1;to
+Q660040;Hiran;местонахождение;1;2;to
+Q660040;Hiran;место смерти;1;1;to
+Q660040;Hiran;основная категория по теме;1;1;from
+Q660040;Hiran;FIPS 10-4 (страны и регионы);1;1;from
+Q660040;Hiran;Who's on First ID;1;1;from
+Q660040;Hiran;код Freebase;1;1;from
+Q660040;Hiran;географические координаты;1;1;from
+Q660040;Hiran;ISO 3166-2;1;1;from
+Q660040;Hiran;используемый язык;1;1;from
+Q660040;Hiran;код BabelNet;1;1;from
+Q660040;Hiran;площадь;1;1;from
+Q660040;Hiran;код TGN;1;1;from
+Q660040;Hiran;код GeoNames;1;1;from
+Q660040;Hiran;код в Большой каталанской энциклопедии;1;1;from
+Q660040;Hiran;столица;1;1;from
+Q660040;Hiran;это частный случай понятия;1;1;from
+Q729170;Bari;является столицей;1;1;to
+Q729170;Bari;административно делится на;1;1;to
+Q848864;Sool;место рождения;1;1;to
+Q812064;Bay;столица;1;1;from
+Q812064;Bay;ключевое событие;1;1;from
+Q812064;Bay;Who's on First ID;1;1;from
+Q812064;Bay;код Freebase;1;1;from
+Q812064;Bay;географические координаты;1;1;from
+Q812064;Bay;ISO 3166-2;1;1;from
+Q812064;Bay;используемый язык;1;4;from
+Q812064;Bay;код GeoNames;1;1;from
+Q812064;Bay;код в Большой каталанской энциклопедии;1;1;from
+Q812064;Bay;это частный случай понятия;1;1;from
+Q812064;Bay;основная категория по теме;1;1;from
+Q812064;Bay;карта местонахождения;1;1;from
+Q812064;Bay;государство;1;1;from
+Q812064;Bay;административно-территориальная единица;1;238;to
+Q806070;Banaadir;административно делится на;1;1;to
+Q806070;Banaadir;расположение штаб-квартиры;1;1;to
+Q806070;Banaadir;общая тема категории;1;1;to
+Q806070;Banaadir;место рождения;1;2;to
+Q806070;Banaadir;место в MusicBrainz;1;1;from
+Q812064;Bay;FIPS 10-4 (страны и регионы);1;1;from
+Q812064;Bay;происходит из;1;4;to
+Q751387;Sanaag Region;государство;1;1;from
+Q848864;Sool;имеет границы с;1;1;to
+Q848864;Sool;является столицей;1;1;to
+Q848864;Sool;основная категория по теме;1;1;from
+Q848864;Sool;FIPS 10-4 (страны и регионы);1;1;from
+Q848864;Sool;код Freebase;1;1;from
+Q848864;Sool;географические координаты;1;1;from
+Q848864;Sool;категория на Викискладе;1;1;from
+Q848864;Sool;ISO 3166-2;1;1;from
+Q848864;Sool;код GeoNames;1;1;from
+Q848864;Sool;столица;1;1;from
+Q812064;Bay;местонахождение;1;2;to
+Q848864;Sool;это частный случай понятия;1;1;from
+Q848864;Sool;карта местонахождения;1;1;from
+Q848864;Sool;изображение;1;1;from
+Q848864;Sool;государство;1;1;from
+Q848864;Sool;административно-территориальная единица;1;450;to
+Q812064;Bay;административно делится на;1;1;to
+Q812064;Bay;общая тема категории;1;1;to
+Q812064;Bay;место рождения;1;1;to
+Q806070;Banaadir;основная категория по теме;1;1;from
+Q806070;Banaadir;FIPS 10-4 (страны и регионы);1;1;from
+Q806070;Banaadir;Who's on First ID;1;1;from
+Q751387;Sanaag Region;площадь;1;1;from
+Q751387;Sanaag Region;основная категория по теме;1;1;from
+Q751387;Sanaag Region;FIPS 10-4 (страны и регионы);1;1;from
+Q751387;Sanaag Region;код Freebase;1;1;from
+Q751387;Sanaag Region;географические координаты;1;1;from
+Q751387;Sanaag Region;местный телефонный код;1;1;from
+Q751387;Sanaag Region;часовой пояс;1;1;from
+Q751387;Sanaag Region;категория на Викискладе;1;1;from
+Q751387;Sanaag Region;ISO 3166-2;1;1;from
+Q751387;Sanaag Region;код TGN;1;1;from
+Q806070;Banaadir;код Freebase;1;1;from
+Q751387;Sanaag Region;код GeoNames;1;1;from
+Q751387;Sanaag Region;код в Большой каталанской энциклопедии;1;1;from
+Q751387;Sanaag Region;имеет границы с;1;1;to
+Q751387;Sanaag Region;столица;1;1;from
+Q751387;Sanaag Region;это частный случай понятия;1;1;from
+Q751387;Sanaag Region;карта местонахождения;1;1;from
+Q751387;Sanaag Region;код VIAF;1;1;from
+Q751387;Sanaag Region;изображение;1;1;from
+Q751387;Sanaag Region;баннер Викигида;1;1;from
+Q751387;Sanaag Region;административно-территориальная единица;1;828;to
+Q751387;Sanaag Region;является столицей;1;1;to
+Q751387;Sanaag Region;общая тема категории;1;1;to
+Q806070;Banaadir;географические координаты;1;1;from
+Q806070;Banaadir;категория на Викискладе;1;1;from
+Q806070;Banaadir;код NE.se;1;1;from
+Q806070;Banaadir;ISO 3166-2;1;1;from
+Q806070;Banaadir;площадь;1;1;from
+Q806070;Banaadir;название на языке оригинала;1;2;from
+Q806070;Banaadir;код TGN;1;1;from
+Q806070;Banaadir;код GeoNames;1;1;from
+Q806070;Banaadir;код в энциклопедии «Британника онлайн»;1;1;from
+Q806070;Banaadir;численность населения;1;1;from
+Q806070;Banaadir;столица;1;1;from
+Q806070;Banaadir;это частный случай понятия;1;1;from
+Q806070;Banaadir;карта местонахождения;1;1;from
+Q806070;Banaadir;изображение;1;1;from
+Q806070;Banaadir;государство;1;1;from
+Q806070;Banaadir;административно-территориальная единица;1;18;to
+Q751387;Sanaag Region;административно делится на;1;2;to
+Q1046329;Nugal;административно делится на;1;1;to

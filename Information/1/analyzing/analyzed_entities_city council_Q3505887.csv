@@ -1,0 +1,211 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q134762;Eilat;административно-территориальная единица;1;34;to
+Q950347;Or Yehuda;официальный сайт;1;1;from
+Q950347;Or Yehuda;государство;1;1;from
+Q950347;Or Yehuda;изображение;1;1;from
+Q950347;Or Yehuda;город-побратим;1;3;to
+Q950347;Or Yehuda;код VIAF;1;1;from
+Q950347;Or Yehuda;код GND;1;1;from
+Q950347;Or Yehuda;это частный случай понятия;1;2;from
+Q950347;Or Yehuda;изображение флага;1;1;from
+Q950347;Or Yehuda;изображение герба;1;1;from
+Q950347;Or Yehuda;десятичная классификация Дьюи;1;1;from
+Q950347;Or Yehuda;численность населения;1;2;from
+Q950347;Or Yehuda;WOEID;1;1;from
+Q950347;Or Yehuda;код GeoNames;1;1;from
+Q950347;Or Yehuda;код TGN;1;1;from
+Q950347;Or Yehuda;код места в Facebook;1;1;from
+Q950347;Or Yehuda;высота над уровнем моря;1;1;from
+Q950347;Or Yehuda;площадь;1;1;from
+Q950347;Or Yehuda;код темы Quora;1;1;from
+Q950347;Or Yehuda;Израильский муниципальный код;1;1;from
+Q950347;Or Yehuda;категория на Викискладе;1;1;from
+Q950347;Or Yehuda;часовой пояс;1;1;from
+Q950347;Or Yehuda;дата основания/создания/возникновения;1;1;from
+Q950347;Or Yehuda;географические координаты;1;1;from
+Q950347;Or Yehuda;код Freebase;1;1;from
+Q950347;Or Yehuda;административно-территориальная единица;1;6;to
+Q168152;Qalansawe;административно-территориальная единица;1;1;to
+Q168152;Qalansawe;официальный сайт;1;1;from
+Q168152;Qalansawe;изображение герба;1;1;from
+Q152641;Giv'at Shmuel;официальный сайт;1;1;from
+Q152641;Giv'at Shmuel;основная категория по теме;1;1;from
+Q152641;Giv'at Shmuel;пример использования свойства;1;1;to
+Q152641;Giv'at Shmuel;расположение штаб-квартиры;1;4;to
+Q152641;Giv'at Shmuel;место смерти;1;2;to
+Q152641;Giv'at Shmuel;место рождения;1;9;to
+Q152641;Giv'at Shmuel;общая тема категории;1;1;to
+Q168152;Qalansawe;государство;1;1;from
+Q168152;Qalansawe;изображение;1;1;from
+Q168152;Qalansawe;это частный случай понятия;1;2;from
+Q168152;Qalansawe;десятичная классификация Дьюи;1;1;from
+Q168152;Qalansawe;Who's on First ID;1;1;from
+Q168152;Qalansawe;численность населения;1;1;from
+Q168152;Qalansawe;код места в Facebook;1;1;from
+Q168152;Qalansawe;высота над уровнем моря;1;1;from
+Q168152;Qalansawe;площадь;1;1;from
+Q168152;Qalansawe;Израильский муниципальный код;1;1;from
+Q168152;Qalansawe;категория на Викискладе;1;1;from
+Q168152;Qalansawe;Israel Antiquities Authority ID;1;1;from
+Q168152;Qalansawe;часовой пояс;1;1;from
+Q168152;Qalansawe;географические координаты;1;1;from
+Q168152;Qalansawe;код Freebase;1;1;from
+Q950347;Or Yehuda;Who's on First ID;1;1;from
+Q950347;Or Yehuda;место рождения;1;9;to
+Q134762;Eilat;государство;1;1;from
+Q950347;Or Yehuda;расположение штаб-квартиры;1;12;to
+Q2640074;Kfar Yona;код LCNAF;1;1;from
+Q2640074;Kfar Yona;это частный случай понятия;1;2;from
+Q2640074;Kfar Yona;численность населения;1;1;from
+Q2640074;Kfar Yona;код GeoNames;1;1;from
+Q2640074;Kfar Yona;название на языке оригинала;1;1;from
+Q2640074;Kfar Yona;высота над уровнем моря;1;1;from
+Q2640074;Kfar Yona;площадь;1;1;from
+Q2640074;Kfar Yona;код темы Quora;1;1;from
+Q2640074;Kfar Yona;Израильский муниципальный код;1;1;from
+Q2640074;Kfar Yona;категория на Викискладе;1;1;from
+Q2640074;Kfar Yona;часовой пояс;1;1;from
+Q2640074;Kfar Yona;дата основания/создания/возникновения;1;1;from
+Q2640074;Kfar Yona;географические координаты;1;1;from
+Q2640074;Kfar Yona;код Freebase;1;1;from
+Q2640074;Kfar Yona;Who's on First ID;1;1;from
+Q2640074;Kfar Yona;официальный сайт;1;1;from
+Q2640074;Kfar Yona;место рождения;1;6;to
+Q2640074;Kfar Yona;место смерти;1;1;to
+Q25492101;Q25492101;административно-территориальная единица;1;1;from
+Q25492101;Q25492101;это частный случай понятия;1;1;from
+Q25492101;Q25492101;учётная запись в Instagram;1;1;from
+Q25492101;Q25492101;официальный сайт;1;1;from
+Q25492101;Q25492101;владельцем является;1;2;to
+Q2640074;Kfar Yona;код VIAF;1;1;from
+Q2640074;Kfar Yona;изображение;1;1;from
+Q2640074;Kfar Yona;государство;1;1;from
+Q1948533;Yehud-Monosson;официальное название;1;1;from
+Q950347;Or Yehuda;административно делится на;1;1;to
+Q950347;Or Yehuda;место жительства;1;1;to
+Q950347;Or Yehuda;заменён на;1;1;to
+Q950347;Or Yehuda;место смерти;1;1;to
+Q1948533;Yehud-Monosson;государство;1;1;from
+Q1948533;Yehud-Monosson;изображение;1;1;from
+Q1948533;Yehud-Monosson;это частный случай понятия;1;2;from
+Q1948533;Yehud-Monosson;изображение герба;1;1;from
+Q1948533;Yehud-Monosson;десятичная классификация Дьюи;1;1;from
+Q1948533;Yehud-Monosson;численность населения;1;2;from
+Q1948533;Yehud-Monosson;высота над уровнем моря;1;1;from
+Q2640074;Kfar Yona;административно-территориальная единица;1;1;from
+Q1948533;Yehud-Monosson;площадь;1;1;from
+Q1948533;Yehud-Monosson;почтовый индекс;1;2;from
+Q1948533;Yehud-Monosson;Израильский муниципальный код;1;1;from
+Q1948533;Yehud-Monosson;категория на Викискладе;1;1;from
+Q1948533;Yehud-Monosson;часовой пояс;1;1;from
+Q1948533;Yehud-Monosson;дата основания/создания/возникновения;1;1;from
+Q1948533;Yehud-Monosson;географические координаты;1;1;from
+Q1948533;Yehud-Monosson;код Freebase;1;1;from
+Q1948533;Yehud-Monosson;официальный сайт;1;1;from
+Q1948533;Yehud-Monosson;административно-территориальная единица;1;1;to
+Q152641;Giv'at Shmuel;находится в пределах природно-географического объекта;1;1;from
+Q152641;Giv'at Shmuel;Who's on First ID;1;1;from
+Q152641;Giv'at Shmuel;код Freebase;1;1;from
+Q152641;Giv'at Shmuel;географические координаты;1;2;from
+Q134762;Eilat;часть от;1;1;from
+Q134762;Eilat;категория на Викискладе;1;1;from
+Q134762;Eilat;ID отношения в OpenStreetMap;1;1;from
+Q134762;Eilat;часовой пояс;1;2;from
+Q134762;Eilat;код тезауруса PACTOLS;1;1;from
+Q134762;Eilat;местный телефонный код;1;1;from
+Q134762;Eilat;Or Movement settlement ID;1;1;from
+Q134762;Eilat;дата основания/создания/возникновения;1;1;from
+Q134762;Eilat;географические координаты;1;1;from
+Q134762;Eilat;код Freebase;1;1;from
+Q134762;Eilat;Who's on First ID;1;1;from
+Q134762;Eilat;категория карт на Викискладе;1;1;from
+Q134762;Eilat;официальный сайт;1;1;from
+Q134762;Eilat;основная категория по теме;1;1;from
+Q134762;Eilat;галерея на Викискладе;1;1;from
+Q134762;Eilat;баннер Викигида;1;1;from
+Q134762;Eilat;место рождения;1;35;to
+Q134762;Eilat;место публикации;1;1;to
+Q134762;Eilat;расположение штаб-квартиры;1;4;to
+Q134762;Eilat;категория объединяет темы;1;3;to
+Q134762;Eilat;владельцем является;1;1;to
+Q134762;Eilat;расположение конечной точки;1;1;to
+Q134762;Eilat;история происходит в месте;1;2;to
+Q134762;Eilat;Израильский муниципальный код;1;1;from
+Q134762;Eilat;код темы Quora;1;1;from
+Q134762;Eilat;код BNF;1;1;from
+Q134762;Eilat;численность населения;1;3;from
+Q134762;Eilat;изображение;1;1;from
+Q134762;Eilat;город-побратим;1;19;to
+Q134762;Eilat;находится на берегу водоёма;1;2;from
+Q134762;Eilat;код VIAF;1;1;from
+Q134762;Eilat;код GND;1;1;from
+Q134762;Eilat;код LCNAF;1;1;from
+Q134762;Eilat;это частный случай понятия;1;1;from
+Q134762;Eilat;глава правительства;1;1;from
+Q134762;Eilat;изображение герба;1;1;from
+Q134762;Eilat;десятичная классификация Дьюи;1;1;from
+Q134762;Eilat;код в Большой каталанской энциклопедии;1;1;from
+Q134762;Eilat;площадь;1;1;from
+Q134762;Eilat;описывается в источниках;1;2;from
+Q134762;Eilat;код в энциклопедии «Британника онлайн»;1;1;from
+Q134762;Eilat;код Еврейской энциклопедии;1;1;from
+Q134762;Eilat;категория для людей, родившихся здесь;1;1;from
+Q134762;Eilat;код GeoNames;1;1;from
+Q134762;Eilat;название на языке оригинала;1;1;from
+Q134762;Eilat;категория для людей, связанных с местностью;1;1;from
+Q134762;Eilat;владеет;1;1;from
+Q134762;Eilat;код места в Facebook;1;1;from
+Q134762;Eilat;высота над уровнем моря;1;1;from
+Q134762;Eilat;местонахождение;1;13;to
+Q134762;Eilat;место съёмок;1;2;to
+Q134762;Eilat;основная тема;1;3;to
+Q152641;Giv'at Shmuel;изображение герба;1;1;from
+Q152399;El'ad;основная категория по теме;1;1;from
+Q152399;El'ad;код NLI;1;1;from
+Q152399;El'ad;место жительства;1;2;to
+Q152399;El'ad;общая тема категории;1;1;to
+Q152641;Giv'at Shmuel;государство;1;1;from
+Q152641;Giv'at Shmuel;изображение;1;1;from
+Q152641;Giv'at Shmuel;город-побратим;1;4;to
+Q152641;Giv'at Shmuel;код VIAF;1;1;from
+Q152641;Giv'at Shmuel;это частный случай понятия;1;1;from
+Q152641;Giv'at Shmuel;имеет границы с;1;3;to
+Q152641;Giv'at Shmuel;десятичная классификация Дьюи;1;1;from
+Q152399;El'ad;код Freebase;1;1;from
+Q152641;Giv'at Shmuel;численность населения;1;1;from
+Q152641;Giv'at Shmuel;код GeoNames;1;1;from
+Q152641;Giv'at Shmuel;название на языке оригинала;1;1;from
+Q152641;Giv'at Shmuel;код места в Facebook;1;2;from
+Q152641;Giv'at Shmuel;высота над уровнем моря;1;1;from
+Q152641;Giv'at Shmuel;площадь;1;1;from
+Q152641;Giv'at Shmuel;Израильский муниципальный код;1;1;from
+Q152641;Giv'at Shmuel;категория на Викискладе;1;1;from
+Q152641;Giv'at Shmuel;часовой пояс;1;1;from
+Q152641;Giv'at Shmuel;дата основания/создания/возникновения;1;1;from
+Q152399;El'ad;официальный сайт;1;1;from
+Q152399;El'ad;географические координаты;1;1;from
+Q134762;Eilat;место смерти;1;3;to
+Q152399;El'ad;код VIAF;1;1;from
+Q134762;Eilat;обслуживаемый город;1;3;to
+Q134762;Eilat;пункт назначения;1;1;to
+Q134762;Eilat;административно делится на;1;1;to
+Q134762;Eilat;место жительства;1;2;to
+Q134762;Eilat;названо в честь;1;2;to
+Q134762;Eilat;лицензия на вещание в;1;1;to
+Q134762;Eilat;общая тема категории;1;1;to
+Q152399;El'ad;административно-территориальная единица;1;3;to
+Q152399;El'ad;государство;1;1;from
+Q152399;El'ad;изображение;1;1;from
+Q152399;El'ad;код LCNAF;1;1;from
+Q152399;El'ad;дата основания/создания/возникновения;1;1;from
+Q152399;El'ad;это частный случай понятия;1;2;from
+Q152399;El'ad;изображение герба;1;1;from
+Q152399;El'ad;десятичная классификация Дьюи;1;1;from
+Q152399;El'ad;численность населения;1;2;from
+Q152399;El'ad;название на языке оригинала;1;1;from
+Q152399;El'ad;учётная запись в Твиттере;1;1;from
+Q152399;El'ad;площадь;1;1;from
+Q152399;El'ad;Израильский муниципальный код;1;1;from
+Q152399;El'ad;категория на Викискладе;1;1;from
+Q152399;El'ad;часовой пояс;1;1;from
+Q25492101;Q25492101;оператор;1;2;to

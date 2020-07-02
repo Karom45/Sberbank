@@ -1,0 +1,710 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q7924;Arnsberg Government Region;административно-территориальная единица;1;38;to
+Q10562;Upper Bavaria;карта местонахождения;1;2;from
+Q10562;Upper Bavaria;географические координаты;1;1;from
+Q10562;Upper Bavaria;FragDenStaat public body ID;1;1;from
+Q10562;Upper Bavaria;München Wiki article ID;1;1;from
+Q10562;Upper Bavaria;категория карт на Викискладе;1;1;from
+Q10562;Upper Bavaria;руководящий орган;1;1;to
+Q10562;Upper Bavaria;официальный сайт;1;1;from
+Q10562;Upper Bavaria;транскрипция в МФА;1;1;from
+Q10562;Upper Bavaria;основная категория по теме;1;1;from
+Q10562;Upper Bavaria;галерея на Викискладе;1;1;from
+Q10562;Upper Bavaria;баннер Викигида;1;1;from
+Q10562;Upper Bavaria;место рождения;1;8;to
+Q10562;Upper Bavaria;расположение штаб-квартиры;1;10;to
+Q10562;Upper Bavaria;местонахождение;1;1;to
+Q10562;Upper Bavaria;юрисдикция распространяется на;1;3;to
+Q10562;Upper Bavaria;зона обслуживания;1;2;to
+Q10562;Upper Bavaria;место смерти;1;4;to
+Q10562;Upper Bavaria;следующее по порядку;1;1;to
+Q10562;Upper Bavaria;место активности;1;2;to
+Q10562;Upper Bavaria;основная тема;1;5;to
+Q10562;Upper Bavaria;наивысшая точка;1;1;from
+Q10562;Upper Bavaria;код NUTS;1;1;from
+Q10562;Upper Bavaria;участник организации или клуба;1;1;from
+Q10562;Upper Bavaria;описывается в источниках;1;4;from
+Q10562;Upper Bavaria;это частный случай понятия;1;2;from
+Q10562;Upper Bavaria;столица;1;1;from
+Q10562;Upper Bavaria;изображение флага;1;1;from
+Q10562;Upper Bavaria;имеет границы с;1;4;to
+Q10562;Upper Bavaria;глава правительства;1;2;from
+Q10562;Upper Bavaria;изображение герба;1;1;from
+Q10562;Upper Bavaria;десятичная классификация Дьюи;1;1;from
+Q10562;Upper Bavaria;численность населения;1;1;from
+Q10562;Upper Bavaria;код региона Германии;1;1;from
+Q10562;Upper Bavaria;ID отношения в OpenStreetMap;1;1;from
+Q10562;Upper Bavaria;категория для людей, родившихся здесь;1;1;from
+Q10562;Upper Bavaria;категория для людей, умерших здесь;1;1;from
+Q10562;Upper Bavaria;код GeoNames;1;1;from
+Q10562;Upper Bavaria;категория для людей, связанных с местностью;1;1;from
+Q10562;Upper Bavaria;высота над уровнем моря;1;1;from
+Q10562;Upper Bavaria;площадь;1;1;from
+Q10562;Upper Bavaria;код BNF;1;1;from
+Q10562;Upper Bavaria;категория на Викискладе;1;1;from
+Q10562;Upper Bavaria;часть от;1;2;to
+Q10562;Upper Bavaria;названо в честь;1;1;to
+Q10562;Upper Bavaria;оператор;1;1;to
+Q24186;Leipzig Government Region;официальный сайт;1;1;from
+Q24186;Leipzig Government Region;десятичная классификация Дьюи;1;1;from
+Q24186;Leipzig Government Region;площадь;1;1;from
+Q24186;Leipzig Government Region;код BabelNet;1;1;from
+Q24186;Leipzig Government Region;дата основания/создания/возникновения;1;1;from
+Q24186;Leipzig Government Region;дата прекращения существования;1;1;from
+Q24186;Leipzig Government Region;код NUTS;1;3;from
+Q24186;Leipzig Government Region;географические координаты;1;1;from
+Q24186;Leipzig Government Region;код Freebase;1;1;from
+Q24198;Chemnitz Government Region;административно-территориальная единица;1;5;to
+Q24186;Leipzig Government Region;карта местонахождения;1;1;from
+Q24198;Chemnitz Government Region;названо в честь;1;1;from
+Q24198;Chemnitz Government Region;предыдущее по порядку;1;1;from
+Q24198;Chemnitz Government Region;государство;1;1;from
+Q24198;Chemnitz Government Region;карта местонахождения;1;1;from
+Q24198;Chemnitz Government Region;это частный случай понятия;1;1;from
+Q24198;Chemnitz Government Region;столица;1;1;from
+Q24198;Chemnitz Government Region;аудиофайл;1;1;from
+Q24198;Chemnitz Government Region;десятичная классификация Дьюи;1;1;from
+Q24186;Leipzig Government Region;это частный случай понятия;1;1;from
+Q24186;Leipzig Government Region;государство;1;1;from
+Q10562;Upper Bavaria;категория объединяет темы;1;4;to
+Q24174;Dresden Government Region;карта местонахождения;1;1;from
+Q10562;Upper Bavaria;место жительства;1;1;to
+Q10562;Upper Bavaria;общая тема категории;1;1;to
+Q10562;Upper Bavaria;является столицей;1;1;to
+Q24174;Dresden Government Region;административно-территориальная единица;1;6;to
+Q24174;Dresden Government Region;названо в честь;1;1;from
+Q24174;Dresden Government Region;предыдущее по порядку;1;1;to
+Q24174;Dresden Government Region;следующее по порядку;1;2;to
+Q24174;Dresden Government Region;государство;1;1;from
+Q24174;Dresden Government Region;это частный случай понятия;1;1;from
+Q24186;Leipzig Government Region;административно делится на;1;16;from
+Q24174;Dresden Government Region;столица;1;1;from
+Q24174;Dresden Government Region;глава правительства;1;4;from
+Q24174;Dresden Government Region;десятичная классификация Дьюи;1;1;from
+Q24174;Dresden Government Region;дата основания/создания/возникновения;1;1;from
+Q24174;Dresden Government Region;дата прекращения существования;1;1;from
+Q24174;Dresden Government Region;находится в пределах природно-географического объекта;1;1;to
+Q24186;Leipzig Government Region;административно-территориальная единица;1;8;to
+Q24186;Leipzig Government Region;названо в честь;1;1;from
+Q10562;Upper Bavaria;код LCNAF;1;1;from
+Q10562;Upper Bavaria;код GND;1;1;from
+Q10557;Swabia;столица;1;1;from
+Q10562;Upper Bavaria;код VIAF;1;1;from
+Q10557;Swabia;основная категория по теме;1;1;from
+Q10557;Swabia;баннер Викигида;1;1;from
+Q10557;Swabia;юрисдикция распространяется на;1;2;to
+Q10557;Swabia;расположение штаб-квартиры;1;9;to
+Q10557;Swabia;место изготовления;1;1;to
+Q10557;Swabia;зона обслуживания;1;2;to
+Q10557;Swabia;гражданство;1;1;to
+Q10557;Swabia;общая тема категории;1;1;to
+Q10557;Swabia;оператор;1;1;to
+Q10557;Swabia;категория объединяет темы;1;1;to
+Q10557;Swabia;место активности;1;1;to
+Q10557;Swabia;является столицей;1;1;to
+Q10559;Lower Bavaria;административно-территориальная единица;1;43;to
+Q10559;Lower Bavaria;административно делится на;1;1;to
+Q10559;Lower Bavaria;государство;1;1;from
+Q10559;Lower Bavaria;код VIAF;1;1;from
+Q10559;Lower Bavaria;код GND;1;1;from
+Q10559;Lower Bavaria;карта местонахождения;1;2;from
+Q10559;Lower Bavaria;код LCNAF;1;1;from
+Q10557;Swabia;транскрипция в МФА;1;1;from
+Q10557;Swabia;официальный сайт;1;1;from
+Q10557;Swabia;руководящий орган;1;1;from
+Q10557;Swabia;высота над уровнем моря;1;1;from
+Q10557;Swabia;имеет границы с;1;2;to
+Q10557;Swabia;изображение герба;1;1;from
+Q10557;Swabia;десятичная классификация Дьюи;1;1;from
+Q10557;Swabia;численность населения;1;1;from
+Q10557;Swabia;код региона Германии;1;1;from
+Q10557;Swabia;код GeoNames;1;1;from
+Q10557;Swabia;категория для людей, связанных с местностью;1;1;from
+Q10557;Swabia;не путать с;1;1;to
+Q10557;Swabia;площадь;1;1;from
+Q10557;Swabia;код Freebase;1;1;from
+Q10557;Swabia;идентификатор Ringgold;1;1;from
+Q10557;Swabia;категория на Викискладе;1;1;from
+Q10557;Swabia;ID отношения в OpenStreetMap;1;1;from
+Q10557;Swabia;участник организации или клуба;1;1;from
+Q10557;Swabia;код EMLO location;1;1;from
+Q10557;Swabia;код NUTS;1;1;from
+Q10557;Swabia;наивысшая точка;1;1;from
+Q10557;Swabia;географические координаты;1;1;from
+Q10559;Lower Bavaria;это частный случай понятия;1;2;from
+Q10559;Lower Bavaria;столица;1;1;from
+Q10559;Lower Bavaria;изображение флага;1;1;from
+Q10559;Lower Bavaria;расположение штаб-квартиры;1;7;to
+Q10559;Lower Bavaria;официальный сайт;1;1;from
+Q10559;Lower Bavaria;транскрипция в МФА;1;1;from
+Q10559;Lower Bavaria;основная категория по теме;1;1;from
+Q10559;Lower Bavaria;баннер Викигида;1;1;from
+Q10559;Lower Bavaria;зона обслуживания;1;4;to
+Q10559;Lower Bavaria;оператор;1;2;to
+Q10559;Lower Bavaria;место рождения;1;7;to
+Q10559;Lower Bavaria;история происходит в месте;1;4;to
+Q10559;Lower Bavaria;юрисдикция распространяется на;1;3;to
+Q10559;Lower Bavaria;категория карт на Викискладе;1;1;from
+Q10559;Lower Bavaria;место создания;1;1;to
+Q10559;Lower Bavaria;место активности;1;1;to
+Q10559;Lower Bavaria;категория объединяет темы;1;4;to
+Q10559;Lower Bavaria;общая тема категории;1;1;to
+Q10559;Lower Bavaria;является столицей;1;1;to
+Q10562;Upper Bavaria;административно-территориальная единица;1;70;to
+Q10562;Upper Bavaria;административно делится на;1;1;to
+Q10562;Upper Bavaria;государство;1;1;from
+Q10559;Lower Bavaria;руководящий орган;1;1;from
+Q10559;Lower Bavaria;FragDenStaat public body ID;1;1;from
+Q10559;Lower Bavaria;имеет границы с;1;5;to
+Q10559;Lower Bavaria;категория для людей, связанных с местностью;1;1;from
+Q10559;Lower Bavaria;изображение герба;1;1;from
+Q10559;Lower Bavaria;десятичная классификация Дьюи;1;1;from
+Q10559;Lower Bavaria;численность населения;1;1;from
+Q10559;Lower Bavaria;описывается в источниках;1;3;from
+Q10559;Lower Bavaria;код региона Германии;1;1;from
+Q10559;Lower Bavaria;категория для людей, родившихся здесь;1;1;from
+Q10559;Lower Bavaria;категория для людей, умерших здесь;1;1;from
+Q10559;Lower Bavaria;код GeoNames;1;1;from
+Q10559;Lower Bavaria;высота над уровнем моря;1;1;from
+Q10559;Lower Bavaria;географические координаты;1;1;from
+Q10559;Lower Bavaria;площадь;1;1;from
+Q10559;Lower Bavaria;код BNF;1;1;from
+Q10559;Lower Bavaria;код темы Quora;1;1;from
+Q10559;Lower Bavaria;категория на Викискладе;1;1;from
+Q10559;Lower Bavaria;ID отношения в OpenStreetMap;1;1;from
+Q10559;Lower Bavaria;участник организации или клуба;1;1;from
+Q10559;Lower Bavaria;код NUTS;1;1;from
+Q10559;Lower Bavaria;наивысшая точка;1;1;from
+Q24198;Chemnitz Government Region;заменил;1;1;to
+Q24198;Chemnitz Government Region;заменён на;1;1;to
+Q24198;Chemnitz Government Region;дата основания/создания/возникновения;1;1;from
+Q24198;Chemnitz Government Region;дата прекращения существования;1;1;from
+Q896184;Zichenau;столица;1;1;from
+Q896184;Zichenau;категория на Викискладе;1;1;from
+Q896184;Zichenau;дата основания/создания/возникновения;1;1;from
+Q896184;Zichenau;дата прекращения существования;1;1;from
+Q896184;Zichenau;код Freebase;1;1;from
+Q896184;Zichenau;является столицей;1;1;to
+Q1485958;Цвикау;административно-территориальная единица;1;1;from
+Q1485958;Цвикау;государство;1;1;from
+Q1485958;Цвикау;это частный случай понятия;1;1;from
+Q1485958;Цвикау;дата основания/создания/возникновения;1;1;from
+Q1485958;Цвикау;дата прекращения существования;1;1;from
+Q1749818;Q1749818;это частный случай понятия;1;1;from
+Q1749818;Q1749818;дата прекращения существования;1;1;from
+Q2137691;Nordwürttemberg Government Region;код VIAF;1;1;from
+Q2137691;Nordwürttemberg Government Region;код GND;1;1;from
+Q2137691;Nordwürttemberg Government Region;это частный случай понятия;1;1;from
+Q2137691;Nordwürttemberg Government Region;заменён на;1;1;from
+Q2137691;Nordwürttemberg Government Region;дата основания/создания/возникновения;1;1;from
+Q2137691;Nordwürttemberg Government Region;дата прекращения существования;1;1;from
+Q896184;Zichenau;это частный случай понятия;1;1;from
+Q896184;Zichenau;код GND;1;1;from
+Q896184;Zichenau;код VIAF;1;1;from
+Q742380;South Badenia Government Region;дата прекращения существования;1;1;from
+Q742380;South Badenia Government Region;административно-территориальная единица;1;1;from
+Q742380;South Badenia Government Region;государство;1;1;from
+Q742380;South Badenia Government Region;код VIAF;1;1;from
+Q742380;South Badenia Government Region;код GND;1;1;from
+Q742380;South Badenia Government Region;карта местонахождения;1;1;from
+Q742380;South Badenia Government Region;это частный случай понятия;1;1;from
+Q742380;South Badenia Government Region;заменён на;1;1;from
+Q742380;South Badenia Government Region;дата основания/создания/возникновения;1;1;from
+Q827092;Oppeln (region);административно-территориальная единица;1;3;to
+Q896184;Zichenau;административно-территориальная единица;1;1;to
+Q827092;Oppeln (region);государство;1;1;from
+Q827092;Oppeln (region);код VIAF;1;1;from
+Q827092;Oppeln (region);код GND;1;1;from
+Q827092;Oppeln (region);это частный случай понятия;1;1;from
+Q827092;Oppeln (region);столица;1;1;from
+Q827092;Oppeln (region);категория на Викискладе;1;1;from
+Q827092;Oppeln (region);дата основания/создания/возникновения;1;1;from
+Q827092;Oppeln (region);дата прекращения существования;1;1;from
+Q2137694;Montabaur Government Region;административно-территориальная единица;1;2;from
+Q2137694;Montabaur Government Region;названо в честь;1;1;from
+Q2137694;Montabaur Government Region;предыдущее по порядку;1;2;to
+Q2137718;Rheinhessen Government Region;следующее по порядку;1;1;from
+Q2137712;Q2137712;административно делится на;1;2;to
+Q2137716;Südwürttemberg-Hohenzollern Government Region;код VIAF;1;1;from
+Q2137716;Südwürttemberg-Hohenzollern Government Region;код GND;1;1;from
+Q2137716;Südwürttemberg-Hohenzollern Government Region;это частный случай понятия;1;1;from
+Q2137716;Südwürttemberg-Hohenzollern Government Region;заменён на;1;1;from
+Q2137716;Südwürttemberg-Hohenzollern Government Region;дата основания/создания/возникновения;1;1;from
+Q2137716;Südwürttemberg-Hohenzollern Government Region;дата прекращения существования;1;1;from
+Q2137718;Rheinhessen Government Region;административно-территориальная единица;1;1;from
+Q2137718;Rheinhessen Government Region;государство;1;1;from
+Q2137712;Q2137712;дата прекращения существования;1;1;from
+Q2137718;Rheinhessen Government Region;код VIAF;1;1;from
+Q2137718;Rheinhessen Government Region;код GND;1;1;from
+Q2137718;Rheinhessen Government Region;это частный случай понятия;1;1;from
+Q2137718;Rheinhessen Government Region;десятичная классификация Дьюи;1;1;from
+Q2137718;Rheinhessen Government Region;заменил;1;1;to
+Q2137718;Rheinhessen Government Region;заменён на;1;1;to
+Q2137718;Rheinhessen Government Region;дата основания/создания/возникновения;1;1;from
+Q2137718;Rheinhessen Government Region;дата прекращения существования;1;1;from
+Q2137712;Q2137712;заменил;1;1;to
+Q2137712;Q2137712;дата основания/создания/возникновения;1;1;from
+Q2137694;Montabaur Government Region;следующее по порядку;1;1;to
+Q2137698;Нордбаден;административно-территориальная единица;1;2;to
+Q2137694;Montabaur Government Region;государство;1;1;from
+Q2137694;Montabaur Government Region;код VIAF;1;1;from
+Q2137694;Montabaur Government Region;код GND;1;1;from
+Q2137694;Montabaur Government Region;это частный случай понятия;1;1;from
+Q2137694;Montabaur Government Region;десятичная классификация Дьюи;1;1;from
+Q2137694;Montabaur Government Region;дата основания/создания/возникновения;1;1;from
+Q2137694;Montabaur Government Region;дата прекращения существования;1;1;from
+Q2137694;Montabaur Government Region;административно делится на;1;2;to
+Q2137698;Нордбаден;государство;1;1;from
+Q2137712;Q2137712;десятичная классификация Дьюи;1;1;from
+Q2137698;Нордбаден;это частный случай понятия;1;1;from
+Q2137698;Нордбаден;столица;1;1;from
+Q2137698;Нордбаден;дата основания/создания/возникновения;1;1;from
+Q2137712;Q2137712;административно-территориальная единица;1;1;from
+Q2137712;Q2137712;следующее по порядку;1;1;from
+Q2137712;Q2137712;государство;1;1;from
+Q2137712;Q2137712;код GND;1;1;from
+Q2137712;Q2137712;это частный случай понятия;1;1;from
+Q573203;Trier Government Region;является столицей;1;1;to
+Q573203;Trier Government Region;место активности;1;1;to
+Q573203;Trier Government Region;следующее по порядку;1;1;to
+Q450521;Magdeburg Government Region;административно-территориальная единица;1;1;to
+Q316455;Halle Government Region;код VIAF;1;1;from
+Q316455;Halle Government Region;карта местонахождения;1;1;from
+Q316455;Halle Government Region;код LCNAF;1;1;from
+Q316455;Halle Government Region;это частный случай понятия;1;1;from
+Q316455;Halle Government Region;дата основания/создания/возникновения;1;1;from
+Q316455;Halle Government Region;дата прекращения существования;1;1;from
+Q316455;Halle Government Region;код NUTS;1;2;from
+Q316455;Halle Government Region;географические координаты;1;1;from
+Q450521;Magdeburg Government Region;названо в честь;1;1;from
+Q316455;Halle Government Region;названо в честь;1;1;from
+Q450521;Magdeburg Government Region;государство;1;1;from
+Q450521;Magdeburg Government Region;код VIAF;1;1;from
+Q450521;Magdeburg Government Region;карта местонахождения;1;1;from
+Q450521;Magdeburg Government Region;код LCNAF;1;1;from
+Q450521;Magdeburg Government Region;это частный случай понятия;1;2;from
+Q450521;Magdeburg Government Region;столица;1;1;from
+Q450521;Magdeburg Government Region;категория на Викискладе;1;1;from
+Q450521;Magdeburg Government Region;дата основания/создания/возникновения;1;1;from
+Q316455;Halle Government Region;государство;1;1;from
+Q316455;Halle Government Region;административно-территориальная единица;1;1;from
+Q450521;Magdeburg Government Region;код NUTS;1;2;from
+Q165861;Dessau Government Region;государство;1;1;from
+Q24198;Chemnitz Government Region;код NUTS;1;3;from
+Q24198;Chemnitz Government Region;географические координаты;1;1;from
+Q24198;Chemnitz Government Region;код Freebase;1;1;from
+Q24198;Chemnitz Government Region;официальный сайт;1;1;from
+Q24198;Chemnitz Government Region;административно делится на;1;1;to
+Q24198;Chemnitz Government Region;является столицей;1;1;to
+Q165861;Dessau Government Region;административно-территориальная единица;1;1;from
+Q165861;Dessau Government Region;названо в честь;1;1;from
+Q165861;Dessau Government Region;код GND;1;1;from
+Q165861;Dessau Government Region;код Freebase;1;1;from
+Q165861;Dessau Government Region;карта местонахождения;1;1;from
+Q165861;Dessau Government Region;это частный случай понятия;1;1;from
+Q165861;Dessau Government Region;код GeoNames;1;1;from
+Q165861;Dessau Government Region;категория на Викискладе;1;1;from
+Q165861;Dessau Government Region;дата основания/создания/возникновения;1;1;from
+Q165861;Dessau Government Region;дата прекращения существования;1;1;from
+Q165861;Dessau Government Region;код NUTS;1;2;from
+Q165861;Dessau Government Region;географические координаты;1;1;from
+Q450521;Magdeburg Government Region;дата прекращения существования;1;1;from
+Q450521;Magdeburg Government Region;географические координаты;1;1;from
+Q573203;Trier Government Region;административно делится на;1;3;to
+Q573203;Trier Government Region;это частный случай понятия;1;2;from
+Q517363;Rheinhessen-Pfalz;административно делится на;1;1;to
+Q573203;Trier Government Region;административно-территориальная единица;1;6;from
+Q573203;Trier Government Region;названо в честь;1;1;from
+Q573203;Trier Government Region;предыдущее по порядку;1;1;from
+Q573203;Trier Government Region;государство;1;1;from
+Q573203;Trier Government Region;код VIAF;1;1;from
+Q573203;Trier Government Region;код GND;1;1;from
+Q573203;Trier Government Region;код LCNAF;1;1;from
+Q573203;Trier Government Region;столица;1;1;from
+Q517363;Rheinhessen-Pfalz;заменён на;1;1;to
+Q573203;Trier Government Region;десятичная классификация Дьюи;1;1;from
+Q573203;Trier Government Region;описывается в источниках;1;1;from
+Q573203;Trier Government Region;категория на Викискладе;1;1;from
+Q573203;Trier Government Region;дата основания/создания/возникновения;1;1;from
+Q573203;Trier Government Region;дата прекращения существования;1;1;from
+Q573203;Trier Government Region;код NUTS;1;1;from
+Q573203;Trier Government Region;географические координаты;1;1;from
+Q573203;Trier Government Region;код Freebase;1;1;from
+Q517363;Rheinhessen-Pfalz;категория объединяет темы;1;1;to
+Q517363;Rheinhessen-Pfalz;следующее по порядку;1;1;to
+Q450521;Magdeburg Government Region;код Freebase;1;1;from
+Q517363;Rheinhessen-Pfalz;это частный случай понятия;1;1;from
+Q450521;Magdeburg Government Region;административно делится на;1;1;to
+Q450521;Magdeburg Government Region;является столицей;1;1;to
+Q478866;Q478866;это частный случай понятия;1;1;from
+Q478866;Q478866;дата прекращения существования;1;1;from
+Q517363;Rheinhessen-Pfalz;административно-территориальная единица;1;2;to
+Q517363;Rheinhessen-Pfalz;предыдущее по порядку;1;2;from
+Q517363;Rheinhessen-Pfalz;государство;1;1;from
+Q517363;Rheinhessen-Pfalz;код GND;1;1;from
+Q517363;Rheinhessen-Pfalz;десятичная классификация Дьюи;1;1;from
+Q517363;Rheinhessen-Pfalz;категория карт на Викискладе;1;1;from
+Q517363;Rheinhessen-Pfalz;заменил;1;2;from
+Q517363;Rheinhessen-Pfalz;код TGN;1;1;from
+Q517363;Rheinhessen-Pfalz;категория на Викискладе;1;1;from
+Q517363;Rheinhessen-Pfalz;дата основания/создания/возникновения;1;1;from
+Q517363;Rheinhessen-Pfalz;дата прекращения существования;1;1;from
+Q517363;Rheinhessen-Pfalz;код NUTS;1;1;from
+Q517363;Rheinhessen-Pfalz;географические координаты;1;1;from
+Q517363;Rheinhessen-Pfalz;код Freebase;1;1;from
+Q10557;Swabia;изображение флага;1;1;from
+Q10557;Swabia;это частный случай понятия;1;2;from
+Q7924;Arnsberg Government Region;названо в честь;1;1;from
+Q7931;Giessen Government Region;владеет;1;1;from
+Q7932;Darmstadt Government Region;код GND;1;1;from
+Q7932;Darmstadt Government Region;карта местонахождения;1;2;from
+Q7932;Darmstadt Government Region;код LCNAF;1;1;from
+Q7932;Darmstadt Government Region;это частный случай понятия;1;1;from
+Q7932;Darmstadt Government Region;столица;1;1;from
+Q7932;Darmstadt Government Region;имеет границы с;1;3;to
+Q7932;Darmstadt Government Region;глава правительства;1;14;from
+Q7932;Darmstadt Government Region;десятичная классификация Дьюи;1;1;from
+Q7932;Darmstadt Government Region;код региона Германии;1;1;from
+Q7932;Darmstadt Government Region;категория для людей, родившихся здесь;1;1;from
+Q7932;Darmstadt Government Region;код GeoNames;1;1;from
+Q7932;Darmstadt Government Region;высота над уровнем моря;1;1;from
+Q7932;Darmstadt Government Region;площадь;1;1;from
+Q7932;Darmstadt Government Region;код BabelNet;1;1;from
+Q7932;Darmstadt Government Region;категория на Викискладе;1;1;from
+Q7932;Darmstadt Government Region;ID отношения в OpenStreetMap;1;1;from
+Q7932;Darmstadt Government Region;дата основания/создания/возникновения;1;1;from
+Q7932;Darmstadt Government Region;код NUTS;1;1;from
+Q7932;Darmstadt Government Region;географические координаты;1;1;from
+Q7932;Darmstadt Government Region;код VIAF;1;1;from
+Q7932;Darmstadt Government Region;государство;1;1;from
+Q7932;Darmstadt Government Region;предыдущее по порядку;1;1;from
+Q7931;Giessen Government Region;категория карт на Викискладе;1;1;from
+Q7931;Giessen Government Region;площадь;1;1;from
+Q7931;Giessen Government Region;категория на Викискладе;1;1;from
+Q7931;Giessen Government Region;ID отношения в OpenStreetMap;1;1;from
+Q7931;Giessen Government Region;предположительно одно и то же с;1;1;to
+Q7931;Giessen Government Region;дата основания/создания/возникновения;1;1;from
+Q7931;Giessen Government Region;код NUTS;1;1;from
+Q7931;Giessen Government Region;географические координаты;1;1;from
+Q7931;Giessen Government Region;код Freebase;1;1;from
+Q7931;Giessen Government Region;официальный сайт;1;1;from
+Q7932;Darmstadt Government Region;административно делится на;1;1;to
+Q7931;Giessen Government Region;основная категория по теме;1;1;from
+Q7931;Giessen Government Region;категория объединяет темы;1;3;to
+Q7931;Giessen Government Region;владельцем является;1;1;to
+Q7931;Giessen Government Region;общая тема категории;1;1;to
+Q7931;Giessen Government Region;является столицей;1;1;to
+Q7931;Giessen Government Region;имеет границы с;1;1;to
+Q7932;Darmstadt Government Region;административно-территориальная единица;1;24;to
+Q7932;Darmstadt Government Region;названо в честь;1;1;from
+Q7932;Darmstadt Government Region;код Freebase;1;1;from
+Q7932;Darmstadt Government Region;официальный сайт;1;1;from
+Q7932;Darmstadt Government Region;основная категория по теме;1;1;from
+Q10547;Lower Franconia;код SUDOC;1;1;from
+Q10547;Lower Franconia;код региона Германии;1;1;from
+Q10547;Lower Franconia;категория для людей, родившихся здесь;1;1;from
+Q10547;Lower Franconia;категория для людей, умерших здесь;1;1;from
+Q10547;Lower Franconia;код GeoNames;1;1;from
+Q10547;Lower Franconia;категория для людей, связанных с местностью;1;1;from
+Q10547;Lower Franconia;высота над уровнем моря;1;1;from
+Q10547;Lower Franconia;площадь;1;1;from
+Q10547;Lower Franconia;код BNF;1;1;from
+Q10547;Lower Franconia;идентификатор Ringgold;1;1;from
+Q10547;Lower Franconia;численность населения;1;1;from
+Q10547;Lower Franconia;категория на Викискладе;1;1;from
+Q10547;Lower Franconia;Bavarikon ID;1;1;from
+Q10547;Lower Franconia;ID отношения в OpenStreetMap;1;1;from
+Q10547;Lower Franconia;участник организации или клуба;1;1;from
+Q10547;Lower Franconia;код NUTS;1;1;from
+Q10547;Lower Franconia;наивысшая точка;1;1;from
+Q10547;Lower Franconia;географические координаты;1;1;from
+Q10547;Lower Franconia;категория карт на Викискладе;1;1;from
+Q10547;Lower Franconia;описывается в источниках;1;3;from
+Q10547;Lower Franconia;десятичная классификация Дьюи;1;1;from
+Q7932;Darmstadt Government Region;баннер Викигида;1;1;from
+Q10547;Lower Franconia;код ISNI;1;1;from
+Q7932;Darmstadt Government Region;следующее по порядку;1;1;to
+Q7932;Darmstadt Government Region;категория объединяет темы;1;1;to
+Q7932;Darmstadt Government Region;общая тема категории;1;1;to
+Q7932;Darmstadt Government Region;является столицей;1;1;to
+Q10547;Lower Franconia;административно-территориальная единица;1;26;to
+Q10547;Lower Franconia;административно делится на;1;1;to
+Q10547;Lower Franconia;государство;1;1;from
+Q10547;Lower Franconia;изображение;1;1;from
+Q10547;Lower Franconia;код VIAF;1;1;from
+Q10547;Lower Franconia;код BIBSYS;1;1;from
+Q10547;Lower Franconia;код GND;1;1;from
+Q10547;Lower Franconia;карта местонахождения;1;2;from
+Q10547;Lower Franconia;код LCNAF;1;1;from
+Q10547;Lower Franconia;это частный случай понятия;1;2;from
+Q10547;Lower Franconia;столица;1;1;from
+Q10547;Lower Franconia;изображение флага;1;1;from
+Q10547;Lower Franconia;имеет границы с;1;7;to
+Q10547;Lower Franconia;изображение герба;1;1;from
+Q7931;Giessen Government Region;высота над уровнем моря;1;1;from
+Q7931;Giessen Government Region;код GeoNames;1;1;from
+Q10557;Swabia;код LCNAF;1;1;from
+Q7931;Giessen Government Region;категория для людей, умерших здесь;1;1;from
+Q7924;Arnsberg Government Region;NWBib ID;1;1;from
+Q7924;Arnsberg Government Region;категория карт на Викискладе;1;1;from
+Q7924;Arnsberg Government Region;официальный сайт;1;1;from
+Q7924;Arnsberg Government Region;основная категория по теме;1;1;from
+Q7924;Arnsberg Government Region;электронная почта;1;1;from
+Q7924;Arnsberg Government Region;место активности;1;27;to
+Q7924;Arnsberg Government Region;категория объединяет темы;1;3;to
+Q7924;Arnsberg Government Region;работодатель;1;1;to
+Q7924;Arnsberg Government Region;место рождения;1;1;to
+Q7924;Arnsberg Government Region;общая тема категории;1;1;to
+Q7924;Arnsberg Government Region;является столицей;1;1;to
+Q7924;Arnsberg Government Region;имеет границы с;1;1;to
+Q7928;Kassel Government Region;административно-территориальная единица;1;15;to
+Q7928;Kassel Government Region;названо в честь;1;1;from
+Q7928;Kassel Government Region;административно делится на;1;1;to
+Q7928;Kassel Government Region;государство;1;1;from
+Q7928;Kassel Government Region;изображение;1;1;from
+Q7928;Kassel Government Region;код VIAF;1;1;from
+Q7928;Kassel Government Region;код GND;1;1;from
+Q7924;Arnsberg Government Region;код Freebase;1;1;from
+Q7924;Arnsberg Government Region;географические координаты;1;1;from
+Q7924;Arnsberg Government Region;код NUTS;1;1;from
+Q7924;Arnsberg Government Region;код региона Германии;1;1;from
+Q7924;Arnsberg Government Region;административно делится на;1;1;to
+Q7924;Arnsberg Government Region;государство;1;1;from
+Q7924;Arnsberg Government Region;код VIAF;1;1;from
+Q7924;Arnsberg Government Region;код GND;1;1;from
+Q7924;Arnsberg Government Region;карта местонахождения;1;2;from
+Q7924;Arnsberg Government Region;это частный случай понятия;1;4;from
+Q7924;Arnsberg Government Region;столица;1;1;from
+Q7924;Arnsberg Government Region;десятичная классификация Дьюи;1;1;from
+Q7924;Arnsberg Government Region;категория для людей, родившихся здесь;1;1;from
+Q7924;Arnsberg Government Region;дата основания/создания/возникновения;1;1;from
+Q7924;Arnsberg Government Region;категория для людей, умерших здесь;1;1;from
+Q7924;Arnsberg Government Region;код GeoNames;1;1;from
+Q7924;Arnsberg Government Region;учётная запись в Твиттере;1;1;from
+Q7924;Arnsberg Government Region;высота над уровнем моря;1;1;from
+Q7924;Arnsberg Government Region;код GNS;1;1;from
+Q7924;Arnsberg Government Region;отпечаток публичного ключа;1;1;from
+Q7924;Arnsberg Government Region;категория на Викискладе;1;1;from
+Q7924;Arnsberg Government Region;ID отношения в OpenStreetMap;1;1;from
+Q7928;Kassel Government Region;карта местонахождения;1;3;from
+Q7928;Kassel Government Region;код LCNAF;1;1;from
+Q7928;Kassel Government Region;это частный случай понятия;1;1;from
+Q7931;Giessen Government Region;изображение;1;1;from
+Q7928;Kassel Government Region;категория объединяет темы;1;2;to
+Q7928;Kassel Government Region;общая тема категории;1;1;to
+Q7928;Kassel Government Region;является столицей;1;1;to
+Q7928;Kassel Government Region;юрисдикция распространяется на;1;1;to
+Q7931;Giessen Government Region;административно-территориальная единица;1;9;to
+Q7931;Giessen Government Region;названо в честь;1;1;from
+Q7931;Giessen Government Region;административно делится на;1;1;to
+Q7931;Giessen Government Region;государство;1;1;from
+Q7931;Giessen Government Region;код VIAF;1;1;from
+Q7928;Kassel Government Region;место активности;1;1;to
+Q7931;Giessen Government Region;код GND;1;1;from
+Q7931;Giessen Government Region;карта местонахождения;1;2;from
+Q7931;Giessen Government Region;код LCNAF;1;1;from
+Q7931;Giessen Government Region;это частный случай понятия;1;1;from
+Q7931;Giessen Government Region;столица;1;1;from
+Q7931;Giessen Government Region;десятичная классификация Дьюи;1;1;from
+Q7931;Giessen Government Region;код региона Германии;1;1;from
+Q7931;Giessen Government Region;категория для людей, родившихся здесь;1;1;from
+Q7928;Kassel Government Region;заменён на;1;1;to
+Q7928;Kassel Government Region;материнская компания (организация, учреждение);1;1;to
+Q7928;Kassel Government Region;столица;1;1;from
+Q7928;Kassel Government Region;высота над уровнем моря;1;1;from
+Q7928;Kassel Government Region;имеет границы с;1;1;to
+Q7928;Kassel Government Region;изображение герба;1;1;from
+Q7928;Kassel Government Region;десятичная классификация Дьюи;1;1;from
+Q7928;Kassel Government Region;численность населения;1;1;from
+Q7928;Kassel Government Region;заменил;1;1;from
+Q7928;Kassel Government Region;код региона Германии;1;1;from
+Q7928;Kassel Government Region;категория для людей, родившихся здесь;1;1;from
+Q7928;Kassel Government Region;код GeoNames;1;1;from
+Q7928;Kassel Government Region;площадь;1;1;from
+Q7928;Kassel Government Region;основная категория по теме;1;1;from
+Q7928;Kassel Government Region;категория на Викискладе;1;1;from
+Q7928;Kassel Government Region;ID отношения в OpenStreetMap;1;1;from
+Q7928;Kassel Government Region;дата основания/создания/возникновения;1;1;from
+Q7928;Kassel Government Region;код NUTS;1;1;from
+Q7928;Kassel Government Region;географические координаты;1;1;from
+Q7928;Kassel Government Region;код Freebase;1;1;from
+Q7928;Kassel Government Region;категория карт на Викискладе;1;1;from
+Q7928;Kassel Government Region;официальный сайт;1;1;from
+Q10547;Lower Franconia;руководящий орган;1;1;from
+Q10547;Lower Franconia;официальный сайт;1;1;from
+Q10547;Lower Franconia;транскрипция в МФА;1;1;from
+Q10547;Lower Franconia;основная категория по теме;1;1;from
+Q10554;Upper Franconia;общая тема категории;1;1;to
+Q10554;Upper Franconia;исток водотока;1;1;to
+Q10554;Upper Franconia;является столицей;1;1;to
+Q10554;Upper Franconia;часть от;1;1;to
+Q10555;Upper Palatinate;административно-территориальная единица;1;24;to
+Q10555;Upper Palatinate;административно делится на;1;1;to
+Q10555;Upper Palatinate;государство;1;1;from
+Q10555;Upper Palatinate;изображение;1;1;from
+Q10555;Upper Palatinate;код ISNI;1;1;from
+Q10555;Upper Palatinate;код VIAF;1;1;from
+Q10555;Upper Palatinate;код GND;1;1;from
+Q10555;Upper Palatinate;карта местонахождения;1;2;from
+Q10555;Upper Palatinate;код LCNAF;1;1;from
+Q10555;Upper Palatinate;это частный случай понятия;1;2;from
+Q10555;Upper Palatinate;столица;1;1;from
+Q10555;Upper Palatinate;изображение флага;1;1;from
+Q10555;Upper Palatinate;имеет границы с;1;5;to
+Q10555;Upper Palatinate;изображение герба;1;1;from
+Q10555;Upper Palatinate;десятичная классификация Дьюи;1;1;from
+Q10554;Upper Franconia;категория объединяет темы;1;2;to
+Q10554;Upper Franconia;управляемая организация;1;1;to
+Q10554;Upper Franconia;местонахождение;1;1;to
+Q10554;Upper Franconia;официальный сайт;1;1;from
+Q10554;Upper Franconia;ID отношения в OpenStreetMap;1;1;from
+Q10554;Upper Franconia;участник организации или клуба;1;1;from
+Q10554;Upper Franconia;код NUTS;1;1;from
+Q10554;Upper Franconia;наивысшая точка;1;1;from
+Q10554;Upper Franconia;географические координаты;1;1;from
+Q10554;Upper Franconia;FragDenStaat public body ID;1;1;from
+Q10554;Upper Franconia;категория карт на Викискладе;1;1;from
+Q10554;Upper Franconia;руководящий орган;1;1;from
+Q10554;Upper Franconia;транскрипция в МФА;1;1;from
+Q10554;Upper Franconia;основная тема;1;2;to
+Q10554;Upper Franconia;основная категория по теме;1;1;from
+Q10554;Upper Franconia;галерея на Викискладе;1;1;from
+Q10554;Upper Franconia;баннер Викигида;1;1;from
+Q10554;Upper Franconia;код NLI;1;1;from
+Q10554;Upper Franconia;место рождения;1;6;to
+Q10554;Upper Franconia;расположение штаб-квартиры;1;5;to
+Q10554;Upper Franconia;зона обслуживания;1;1;to
+Q10554;Upper Franconia;история происходит в месте;1;1;to
+Q10555;Upper Palatinate;численность населения;1;1;from
+Q10555;Upper Palatinate;описывается в источниках;1;1;from
+Q10555;Upper Palatinate;код региона Германии;1;1;from
+Q10555;Upper Palatinate;категория объединяет темы;1;1;to
+Q10555;Upper Palatinate;зона обслуживания;1;2;to
+Q10555;Upper Palatinate;находится в пределах природно-географического объекта;1;1;to
+Q10555;Upper Palatinate;место рождения;1;8;to
+Q10555;Upper Palatinate;оператор;1;1;to
+Q10555;Upper Palatinate;часть от;1;1;to
+Q10555;Upper Palatinate;основная тема;1;1;to
+Q10555;Upper Palatinate;названо в честь;1;1;to
+Q10555;Upper Palatinate;место смерти;1;1;to
+Q10555;Upper Palatinate;общая тема категории;1;1;to
+Q10555;Upper Palatinate;код NLI;1;1;from
+Q10555;Upper Palatinate;является столицей;1;1;to
+Q10557;Swabia;административно-территориальная единица;1;30;to
+Q10557;Swabia;административно делится на;1;1;to
+Q10557;Swabia;государство;1;1;from
+Q10557;Swabia;код ISNI;1;1;from
+Q10557;Swabia;код VIAF;1;1;from
+Q10557;Swabia;код GND;1;2;from
+Q10557;Swabia;карта местонахождения;1;2;from
+Q10555;Upper Palatinate;расположение штаб-квартиры;1;5;to
+Q10555;Upper Palatinate;баннер Викигида;1;1;from
+Q10555;Upper Palatinate;код в энциклопедии «Британника онлайн»;1;1;from
+Q10555;Upper Palatinate;ID отношения в OpenStreetMap;1;1;from
+Q10555;Upper Palatinate;код GeoNames;1;1;from
+Q10555;Upper Palatinate;код GAMEO;1;1;from
+Q10555;Upper Palatinate;высота над уровнем моря;1;1;from
+Q10555;Upper Palatinate;площадь;1;1;from
+Q10555;Upper Palatinate;код BNF;1;1;from
+Q10555;Upper Palatinate;код SUDOC;1;1;from
+Q10555;Upper Palatinate;идентификатор Ringgold;1;1;from
+Q10555;Upper Palatinate;категория на Викискладе;1;1;from
+Q10555;Upper Palatinate;участник организации или клуба;1;1;from
+Q10555;Upper Palatinate;основная категория по теме;1;1;from
+Q10555;Upper Palatinate;код NUTS;1;1;from
+Q10555;Upper Palatinate;наивысшая точка;1;1;from
+Q10555;Upper Palatinate;географические координаты;1;1;from
+Q10555;Upper Palatinate;FragDenStaat public body ID;1;1;from
+Q10555;Upper Palatinate;категория карт на Викискладе;1;1;from
+Q10555;Upper Palatinate;руководящий орган;1;1;from
+Q10555;Upper Palatinate;официальный сайт;1;1;from
+Q10555;Upper Palatinate;транскрипция в МФА;1;1;from
+Q10554;Upper Franconia;Bavarikon ID;1;1;from
+Q10554;Upper Franconia;категория на Викискладе;1;1;from
+Q10554;Upper Franconia;код BNF;1;1;from
+Q10551;Middle Franconia;категория для людей, умерших здесь;1;1;from
+Q10551;Middle Franconia;изображение флага;1;1;from
+Q10551;Middle Franconia;имеет границы с;1;5;to
+Q10551;Middle Franconia;изображение герба;1;1;from
+Q10551;Middle Franconia;десятичная классификация Дьюи;1;1;from
+Q10551;Middle Franconia;численность населения;1;1;from
+Q10551;Middle Franconia;описывается в источниках;1;2;from
+Q10551;Middle Franconia;код региона Германии;1;1;from
+Q10551;Middle Franconia;категория для людей, родившихся здесь;1;1;from
+Q10551;Middle Franconia;код GeoNames;1;1;from
+Q10551;Middle Franconia;это частный случай понятия;1;2;from
+Q10551;Middle Franconia;высота над уровнем моря;1;1;from
+Q10551;Middle Franconia;площадь;1;1;from
+Q10551;Middle Franconia;код BNF;1;1;from
+Q10551;Middle Franconia;код SUDOC;1;1;from
+Q10551;Middle Franconia;идентификатор Ringgold;1;1;from
+Q10551;Middle Franconia;категория на Викискладе;1;1;from
+Q10551;Middle Franconia;Bavarikon ID;1;1;from
+Q10551;Middle Franconia;ID отношения в OpenStreetMap;1;1;from
+Q10551;Middle Franconia;столица;1;1;from
+Q10551;Middle Franconia;код LCNAF;1;1;from
+Q10551;Middle Franconia;код NUTS;1;1;from
+Q10547;Lower Franconia;основная тема;1;1;to
+Q10547;Lower Franconia;баннер Викигида;1;1;from
+Q10547;Lower Franconia;код NLI;1;1;from
+Q10547;Lower Franconia;расположение штаб-квартиры;1;5;to
+Q10547;Lower Franconia;юрисдикция распространяется на;1;1;to
+Q10547;Lower Franconia;состоит из;1;1;to
+Q10547;Lower Franconia;место рождения;1;5;to
+Q10547;Lower Franconia;местонахождение;1;2;to
+Q10547;Lower Franconia;место смерти;1;1;to
+Q10547;Lower Franconia;категория объединяет темы;1;4;to
+Q10551;Middle Franconia;карта местонахождения;1;2;from
+Q10547;Lower Franconia;общая тема категории;1;1;to
+Q10547;Lower Franconia;является столицей;1;1;to
+Q10551;Middle Franconia;административно-территориальная единица;1;26;to
+Q10551;Middle Franconia;административно делится на;1;1;to
+Q10551;Middle Franconia;государство;1;1;from
+Q10551;Middle Franconia;код ISNI;1;1;from
+Q10551;Middle Franconia;код VIAF;1;2;from
+Q10551;Middle Franconia;код GND;1;1;from
+Q10551;Middle Franconia;участник организации или клуба;1;1;from
+Q10551;Middle Franconia;наивысшая точка;1;1;from
+Q10554;Upper Franconia;должность руководителя организации;1;1;from
+Q10554;Upper Franconia;глава правительства;1;1;from
+Q10554;Upper Franconia;код VIAF;1;2;from
+Q10554;Upper Franconia;код GND;1;1;from
+Q10554;Upper Franconia;карта местонахождения;1;2;from
+Q10554;Upper Franconia;код LCNAF;1;1;from
+Q10554;Upper Franconia;это частный случай понятия;1;2;from
+Q10554;Upper Franconia;столица;1;1;from
+Q10554;Upper Franconia;изображение флага;1;1;from
+Q10554;Upper Franconia;имеет границы с;1;3;to
+Q10554;Upper Franconia;изображение герба;1;1;from
+Q10554;Upper Franconia;государство;1;1;from
+Q10554;Upper Franconia;десятичная классификация Дьюи;1;1;from
+Q10554;Upper Franconia;численность населения;1;1;from
+Q10554;Upper Franconia;описывается в источниках;1;4;from
+Q10554;Upper Franconia;код региона Германии;1;1;from
+Q10554;Upper Franconia;категория для людей, родившихся здесь;1;1;from
+Q10554;Upper Franconia;код GeoNames;1;1;from
+Q10554;Upper Franconia;высота над уровнем моря;1;1;from
+Q10554;Upper Franconia;площадь;1;1;from
+Q10554;Upper Franconia;изображение;1;1;from
+Q10554;Upper Franconia;административно делится на;1;1;to
+Q10551;Middle Franconia;географические координаты;1;2;from
+Q10551;Middle Franconia;место смерти;1;2;to
+Q10551;Middle Franconia;FragDenStaat public body ID;1;1;from
+Q10551;Middle Franconia;категория карт на Викискладе;1;1;from
+Q10551;Middle Franconia;руководящий орган;1;1;from
+Q10551;Middle Franconia;официальный сайт;1;1;from
+Q10551;Middle Franconia;транскрипция в МФА;1;1;from
+Q10551;Middle Franconia;основная категория по теме;1;1;from
+Q10551;Middle Franconia;баннер Викигида;1;1;from
+Q10551;Middle Franconia;код NLI;1;1;from
+Q10551;Middle Franconia;расположение штаб-квартиры;1;3;to
+Q10554;Upper Franconia;административно-территориальная единица;1;24;to
+Q10551;Middle Franconia;юрисдикция распространяется на;1;1;to
+Q10551;Middle Franconia;место рождения;1;5;to
+Q10551;Middle Franconia;местонахождение;1;1;to
+Q10551;Middle Franconia;общая тема категории;1;1;to
+Q10551;Middle Franconia;зона обслуживания;1;1;to
+Q10551;Middle Franconia;категория объединяет темы;1;3;to
+Q10551;Middle Franconia;место изготовления;1;1;to
+Q10551;Middle Franconia;является столицей;1;1;to
+Q2137718;Rheinhessen Government Region;административно делится на;1;1;to

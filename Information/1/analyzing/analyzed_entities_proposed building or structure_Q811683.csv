@@ -1,0 +1,1690 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q64105;Sky City;владельцем является;1;1;from
+Q82235743;Port Augusta Renewable Energy Park;владельцем является;1;2;from
+Q85390896;Q85390896;изображение;1;1;from
+Q83750217;Harlin Solar Farm;географические координаты;1;1;from
+Q83750217;Harlin Solar Farm;местонахождение;1;1;from
+Q83750217;Harlin Solar Farm;это частный случай понятия;1;2;from
+Q83750217;Harlin Solar Farm;государство;1;1;from
+Q83750217;Harlin Solar Farm;административно-территориальная единица;1;1;from
+Q83696209;Aéroport Charles-de-Gaulle Terminal 4;географические координаты;1;1;from
+Q83696209;Aéroport Charles-de-Gaulle Terminal 4;часть от;1;1;from
+Q83696209;Aéroport Charles-de-Gaulle Terminal 4;железнодорожная линия;1;1;from
+Q83696209;Aéroport Charles-de-Gaulle Terminal 4;это частный случай понятия;1;3;from
+Q83696209;Aéroport Charles-de-Gaulle Terminal 4;следующий остановочный пункт;1;2;to
+Q83696209;Aéroport Charles-de-Gaulle Terminal 4;государство;1;1;from
+Q83696165;Le Mesnil-Amelot;географические координаты;1;1;from
+Q83696165;Le Mesnil-Amelot;часть от;1;1;from
+Q83696165;Le Mesnil-Amelot;железнодорожная линия;1;1;from
+Q83696165;Le Mesnil-Amelot;это частный случай понятия;1;3;from
+Q83696165;Le Mesnil-Amelot;следующий остановочный пункт;1;1;to
+Q83696165;Le Mesnil-Amelot;государство;1;1;from
+Q82235743;Port Augusta Renewable Energy Park;владеет;1;2;to
+Q82235743;Port Augusta Renewable Energy Park;официальный сайт;1;1;from
+Q82235743;Port Augusta Renewable Energy Park;географические координаты;1;1;from
+Q82235743;Port Augusta Renewable Energy Park;это частный случай понятия;1;1;from
+Q82235743;Port Augusta Renewable Energy Park;государство;1;1;from
+Q85390896;Q85390896;это частный случай понятия;1;2;from
+Q5767271;Hinkley Point C nuclear power station;административно-территориальная единица;1;1;from
+Q5767271;Hinkley Point C nuclear power station;государство;1;1;from
+Q6005014;Immigration Bridge;географические координаты;1;1;from
+Q6202002;Jinan North Railway Station;это частный случай понятия;1;3;from
+Q6202002;Jinan North Railway Station;государство;1;1;from
+Q6036108;Innogy Nordsee 1;географические координаты;1;1;from
+Q6036108;Innogy Nordsee 1;это частный случай понятия;1;2;from
+Q6036108;Innogy Nordsee 1;находится на берегу водоёма;1;1;from
+Q6036108;Innogy Nordsee 1;государство;1;1;from
+Q6036108;Innogy Nordsee 1;административно-территориальная единица;1;1;from
+Q6019736;India–Sri Lanka HVDC Interconnection;географические координаты;1;1;from
+Q6019736;India–Sri Lanka HVDC Interconnection;это частный случай понятия;1;2;from
+Q6019736;India–Sri Lanka HVDC Interconnection;государство;1;2;from
+Q6005014;Immigration Bridge;это частный случай понятия;1;1;from
+Q5767271;Hinkley Point C nuclear power station;изображение;1;1;from
+Q6005014;Immigration Bridge;государство;1;1;from
+Q6005014;Immigration Bridge;административно-территориальная единица;1;1;from
+Q5767271;Hinkley Point C nuclear power station;состоит из;1;1;to
+Q5767271;Hinkley Point C nuclear power station;находится в пределах природно-географического объекта;1;1;from
+Q5767271;Hinkley Point C nuclear power station;географические координаты;1;1;from
+Q5767271;Hinkley Point C nuclear power station;код UK Parliament thesaurus;1;1;from
+Q5767271;Hinkley Point C nuclear power station;категория на Викискладе;1;1;from
+Q5767271;Hinkley Point C nuclear power station;часть от;1;1;from
+Q5767271;Hinkley Point C nuclear power station;короткое название;1;1;from
+Q5767271;Hinkley Point C nuclear power station;это частный случай понятия;1;2;from
+Q82235743;Port Augusta Renewable Energy Park;административно-территориальная единица;1;1;from
+Q81366520;cultana Solar Farm;владеет;1;1;to
+Q6444858;Kunlun Dark Universe Survey Telescope;это частный случай понятия;1;2;from
+Q81366520;cultana Solar Farm;официальный сайт;1;1;from
+Q70492464;Interstate 11 in Arizona;государство;1;1;from
+Q70492464;Interstate 11 in Arizona;система автомагистралей;1;2;from
+Q70492464;Interstate 11 in Arizona;знак автотрассы;1;2;from
+Q70492464;Interstate 11 in Arizona;административно-территориальная единица;1;1;from
+Q70472335;Interstate 3 in Tennessee;состоит из;1;1;to
+Q70472335;Interstate 3 in Tennessee;категория на Викискладе;1;1;from
+Q70472335;Interstate 3 in Tennessee;часть от;1;1;from
+Q70472335;Interstate 3 in Tennessee;номер дороги;1;1;from
+Q70472335;Interstate 3 in Tennessee;это частный случай понятия;1;2;from
+Q70472335;Interstate 3 in Tennessee;государство;1;1;from
+Q70472335;Interstate 3 in Tennessee;система автомагистралей;1;2;from
+Q70472335;Interstate 3 in Tennessee;знак автотрассы;1;1;from
+Q70472335;Interstate 3 in Tennessee;административно-территориальная единица;1;1;from
+Q70471656;Interstate 3 in Georgia (U.S. state);состоит из;1;1;to
+Q70471656;Interstate 3 in Georgia (U.S. state);категория на Викискладе;1;1;from
+Q70471656;Interstate 3 in Georgia (U.S. state);часть от;1;1;from
+Q70471656;Interstate 3 in Georgia (U.S. state);номер дороги;1;1;from
+Q70471656;Interstate 3 in Georgia (U.S. state);это частный случай понятия;1;2;from
+Q70471656;Interstate 3 in Georgia (U.S. state);государство;1;1;from
+Q70471656;Interstate 3 in Georgia (U.S. state);система автомагистралей;1;2;from
+Q70471656;Interstate 3 in Georgia (U.S. state);знак автотрассы;1;1;from
+Q70471656;Interstate 3 in Georgia (U.S. state);административно-территориальная единица;1;1;from
+Q69978124;Q69978124;это частный случай понятия;1;1;from
+Q70492464;Interstate 11 in Arizona;это частный случай понятия;1;2;from
+Q70492464;Interstate 11 in Arizona;номер дороги;1;1;from
+Q70492464;Interstate 11 in Arizona;часть от;1;1;from
+Q81366520;cultana Solar Farm;владельцем является;1;1;from
+Q81366520;cultana Solar Farm;географические координаты;1;1;from
+Q81366520;cultana Solar Farm;состояние использования;1;1;from
+Q81366520;cultana Solar Farm;состоит из;1;1;from
+Q81366520;cultana Solar Farm;состоит из представителей класса;1;1;from
+Q81366520;cultana Solar Farm;стоимость;1;1;from
+Q81366520;cultana Solar Farm;выходная мощность;1;1;from
+Q81366520;cultana Solar Farm;площадь;1;1;from
+Q81366520;cultana Solar Farm;это частный случай понятия;1;2;from
+Q81366520;cultana Solar Farm;государство;1;1;from
+Q81366520;cultana Solar Farm;административно-территориальная единица;1;1;from
+Q75333166;Trump International Hotel and Tower Bali;официальный сайт;1;1;from
+Q70492464;Interstate 11 in Arizona;категория на Викискладе;1;1;from
+Q75333166;Trump International Hotel and Tower Bali;это частный случай понятия;1;2;from
+Q75333166;Trump International Hotel and Tower Bali;разработчик;1;1;from
+Q75333166;Trump International Hotel and Tower Bali;государство;1;1;from
+Q75333166;Trump International Hotel and Tower Bali;названо в честь;1;1;from
+Q75333166;Trump International Hotel and Tower Bali;владельцем является;1;1;from
+Q74460584;National Public Library of Liberia;часть от;1;1;from
+Q74460584;National Public Library of Liberia;это частный случай понятия;1;2;from
+Q74460584;National Public Library of Liberia;государство;1;1;from
+Q74460584;National Public Library of Liberia;административно-территориальная единица;1;1;from
+Q70492464;Interstate 11 in Arizona;состоит из;1;1;to
+Q6444858;Kunlun Dark Universe Survey Telescope;часть света;1;1;from
+Q6444858;Kunlun Dark Universe Survey Telescope;короткое название;1;1;from
+Q55231581;Frontier;производитель;1;1;from
+Q7371522;Ashburn station;географические координаты;1;1;from
+Q7844328;Triton Knoll Wind Farm;владельцем является;1;1;from
+Q7754038;The Nicollet;географические координаты;1;1;from
+Q7754038;The Nicollet;код по Skyscraper Center;1;1;from
+Q7754038;The Nicollet;это частный случай понятия;1;1;from
+Q7754038;The Nicollet;государство;1;1;from
+Q7754038;The Nicollet;административно-территориальная единица;1;1;from
+Q7716545;The Berg;официальный сайт;1;1;from
+Q7716545;The Berg;учётная запись Facebook;1;1;from
+Q7716545;The Berg;это частный случай понятия;1;1;from
+Q7716545;The Berg;государство;1;1;from
+Q7716545;The Berg;административно-территориальная единица;1;1;from
+Q7635003;Sugarloaf Community Wind Farm;это частный случай понятия;1;2;from
+Q7635003;Sugarloaf Community Wind Farm;карта ареала вида;1;1;from
+Q7635003;Sugarloaf Community Wind Farm;государство;1;1;from
+Q7635003;Sugarloaf Community Wind Farm;административно-территориальная единица;1;1;from
+Q7420060;Santander Bank Tower;расположен на улице;1;1;from
+Q7420060;Santander Bank Tower;обитатель;1;1;from
+Q7420060;Santander Bank Tower;высота/рост;1;1;from
+Q7420060;Santander Bank Tower;количество этажей;1;1;from
+Q7420060;Santander Bank Tower;архитектор;1;1;from
+Q7420060;Santander Bank Tower;это частный случай понятия;1;2;from
+Q7420060;Santander Bank Tower;государство;1;1;from
+Q7420060;Santander Bank Tower;названо в честь;1;1;from
+Q7844328;Triton Knoll Wind Farm;государство;1;1;from
+Q7844328;Triton Knoll Wind Farm;находится на берегу водоёма;1;1;from
+Q7844328;Triton Knoll Wind Farm;это частный случай понятия;1;2;from
+Q11946635;Q11946635;изображение;1;1;from
+Q12041630;Q12041630;это частный случай понятия;1;3;from
+Q12041630;Q12041630;изображение;1;1;from
+Q12041630;Q12041630;государство;1;1;from
+Q12041630;Q12041630;административно-территориальная единица;1;2;from
+Q12033333;Libeňská spojka;длина;1;1;from
+Q12033333;Libeňská spojka;это частный случай понятия;1;2;from
+Q12033333;Libeňská spojka;изображение;1;3;from
+Q12033333;Libeňská spojka;государство;1;1;from
+Q11946635;Q11946635;несёт на себе;1;1;to
+Q11946635;Q11946635;это частный случай понятия;1;2;from
+Q11946635;Q11946635;государство;1;1;from
+Q7844328;Triton Knoll Wind Farm;код GeoNames;1;1;from
+Q11946635;Q11946635;административно-территориальная единица;1;1;from
+Q11898825;Q11898825;дата основания/создания/возникновения;1;1;from
+Q11898825;Q11898825;местонахождение;1;1;from
+Q11898825;Q11898825;это частный случай понятия;1;2;from
+Q11898825;Q11898825;государство;1;1;from
+Q11898825;Q11898825;административно-территориальная единица;1;1;from
+Q11445499;Mukden Subway;это частный случай понятия;1;1;from
+Q11445499;Mukden Subway;государство;1;1;from
+Q7844328;Triton Knoll Wind Farm;владеет;1;1;to
+Q7844328;Triton Knoll Wind Farm;географические координаты;1;1;from
+Q7420060;Santander Bank Tower;административно-территориальная единица;1;1;from
+Q7371522;Ashburn station;код станции;1;1;from
+Q6444858;Kunlun Dark Universe Survey Telescope;диаметр;1;1;from
+Q7371522;Ashburn station;число железнодорожных путей у платформ;1;1;from
+Q7235094;Potomac Yard Station;код станции;1;1;from
+Q7235094;Potomac Yard Station;дата официального открытия;1;1;from
+Q7235094;Potomac Yard Station;железнодорожная линия;1;2;from
+Q7235094;Potomac Yard Station;это частный случай понятия;1;3;from
+Q7235094;Potomac Yard Station;следующий остановочный пункт;1;2;to
+Q7235094;Potomac Yard Station;изображение;1;1;from
+Q7235094;Potomac Yard Station;государство;1;1;from
+Q7235094;Potomac Yard Station;названо в честь;1;1;from
+Q7235094;Potomac Yard Station;оператор;1;1;from
+Q7235094;Potomac Yard Station;административно-территориальная единица;1;1;from
+Q7235094;Potomac Yard Station;владельцем является;1;1;from
+Q6860078;Milltown Biomass-to-Energy Power Station;это частный случай понятия;1;2;from
+Q6860078;Milltown Biomass-to-Energy Power Station;государство;1;1;from
+Q6860078;Milltown Biomass-to-Energy Power Station;административно-территориальная единица;1;1;from
+Q6728096;Madison Square Garden Towers;географические координаты;1;1;from
+Q6728096;Madison Square Garden Towers;количество этажей;1;1;from
+Q6728096;Madison Square Garden Towers;архитектор;1;1;from
+Q6728096;Madison Square Garden Towers;это частный случай понятия;1;2;from
+Q6728096;Madison Square Garden Towers;основная строительная организация;1;1;from
+Q6728096;Madison Square Garden Towers;государство;1;1;from
+Q6728096;Madison Square Garden Towers;административно-территориальная единица;1;1;from
+Q6444858;Kunlun Dark Universe Survey Telescope;состоит из;1;1;to
+Q6444858;Kunlun Dark Universe Survey Telescope;часть от;1;1;from
+Q7235094;Potomac Yard Station;географические координаты;1;1;from
+Q7240276;Tuen Mun Western Bypass;административно-территориальная единица;1;1;from
+Q7240276;Tuen Mun Western Bypass;государство;1;1;from
+Q7371491;Loudoun Gateway station;государство;1;1;from
+Q7371522;Ashburn station;железнодорожная линия;1;1;from
+Q7371522;Ashburn station;это частный случай понятия;1;3;from
+Q7371522;Ashburn station;следующий остановочный пункт;1;1;to
+Q7371522;Ashburn station;изображение;1;1;from
+Q7371522;Ashburn station;государство;1;1;from
+Q7371522;Ashburn station;административно-территориальная единица;1;1;from
+Q7371491;Loudoun Gateway station;географические координаты;1;1;from
+Q7371491;Loudoun Gateway station;железнодорожная линия;1;1;from
+Q7371491;Loudoun Gateway station;это частный случай понятия;1;3;from
+Q7371491;Loudoun Gateway station;следующий остановочный пункт;1;2;to
+Q7371491;Loudoun Gateway station;административно-территориальная единица;1;1;from
+Q7240276;Tuen Mun Western Bypass;это частный случай понятия;1;2;from
+Q7316187;Reston Town Center Station;географические координаты;1;1;from
+Q7316187;Reston Town Center Station;код станции;1;1;from
+Q7316187;Reston Town Center Station;железнодорожная линия;1;1;from
+Q7316187;Reston Town Center Station;это частный случай понятия;1;3;from
+Q7316187;Reston Town Center Station;следующий остановочный пункт;1;2;to
+Q7316187;Reston Town Center Station;изображение;1;1;from
+Q7316187;Reston Town Center Station;государство;1;1;from
+Q7316187;Reston Town Center Station;административно-территориальная единица;1;1;from
+Q7240276;Tuen Mun Western Bypass;состоит из;1;1;to
+Q7240276;Tuen Mun Western Bypass;часть от;1;1;from
+Q69978124;Q69978124;государство;1;1;from
+Q69525213;Salesforce Tower Sydney;адрес;1;1;from
+Q69525213;Salesforce Tower Sydney;географические координаты;1;1;from
+Q56683164;Q56683164;это частный случай понятия;1;2;from
+Q57083407;Q57083407;это частный случай понятия;1;1;from
+Q57083407;Q57083407;государство;1;1;from
+Q56825880;Q56825880;географические координаты;1;1;from
+Q56825880;Q56825880;это частный случай понятия;1;2;from
+Q56825880;Q56825880;государство;1;1;from
+Q56825880;Q56825880;административно-территориальная единица;1;1;from
+Q56807919;Q56807919;географические координаты;1;1;from
+Q56807919;Q56807919;это частный случай понятия;1;2;from
+Q56807919;Q56807919;государство;1;1;from
+Q56807919;Q56807919;административно-территориальная единица;1;1;from
+Q56807915;Q56807915;географические координаты;1;1;from
+Q56807915;Q56807915;это частный случай понятия;1;2;from
+Q56807915;Q56807915;государство;1;1;from
+Q56807915;Q56807915;административно-территориальная единица;1;1;from
+Q56807909;Q56807909;географические координаты;1;1;from
+Q56807909;Q56807909;это частный случай понятия;1;2;from
+Q56807909;Q56807909;государство;1;1;from
+Q56807909;Q56807909;административно-территориальная единица;1;1;from
+Q56683175;Q56683175;железнодорожная линия;1;1;from
+Q56683175;Q56683175;это частный случай понятия;1;2;from
+Q56683175;Q56683175;государство;1;1;from
+Q56683175;Q56683175;административно-территориальная единица;1;1;from
+Q56683164;Q56683164;часть от;1;1;from
+Q57083407;Q57083407;не путать с;1;1;to
+Q57699422;Q57699422;это частный случай понятия;1;1;from
+Q57913770;Middelsee;административно-территориальная единица;1;1;from
+Q60448476;Build the Wall;это частный случай понятия;1;2;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;юрисдикция распространяется на;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;это частный случай понятия;1;4;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;изображение;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;государство;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;названо в честь;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;административно-территориальная единица;1;1;from
+Q60448476;Build the Wall;дата основания/создания/возникновения;1;2;from
+Q60448476;Build the Wall;категория на Викискладе;1;1;from
+Q60448476;Build the Wall;часть от;1;1;from
+Q60448476;Build the Wall;не путать с;1;2;to
+Q60448476;Build the Wall;создано на основе;1;1;from
+Q57913770;Middelsee;государство;1;1;from
+Q60448476;Build the Wall;основатель;1;2;from
+Q59799140;Q59799140;это частный случай понятия;1;2;from
+Q59799140;Q59799140;государство;1;1;from
+Q59596767;Q59596767;категория на Викискладе;1;1;from
+Q59596767;Q59596767;это частный случай понятия;1;1;from
+Q59286291;National library of Afganistan;это частный случай понятия;1;2;from
+Q59286291;National library of Afganistan;государство;1;1;from
+Q59286291;National library of Afganistan;административно-территориальная единица;1;1;from
+Q57913770;Middelsee;географические координаты;1;1;from
+Q57913770;Middelsee;это частный случай понятия;1;2;from
+Q56683164;Q56683164;железнодорожная линия;1;1;from
+Q56683164;Q56683164;государство;1;1;from
+Q69525213;Salesforce Tower Sydney;идентификатор Emporis;1;1;from
+Q56683164;Q56683164;административно-территориальная единица;1;1;from
+Q55739614;Xe-Pian Xe-Namnoy Dam;местонахождение;1;1;to
+Q55739614;Xe-Pian Xe-Namnoy Dam;часть от;1;2;to
+Q55739614;Xe-Pian Xe-Namnoy Dam;ключевое событие;1;1;from
+Q55739614;Xe-Pian Xe-Namnoy Dam;географические координаты;1;1;from
+Q55739614;Xe-Pian Xe-Namnoy Dam;это частный случай понятия;1;3;from
+Q55739614;Xe-Pian Xe-Namnoy Dam;основная строительная организация;1;4;from
+Q55739614;Xe-Pian Xe-Namnoy Dam;государство;1;1;from
+Q55633449;Solar River Project;географические координаты;1;1;from
+Q55633449;Solar River Project;это частный случай понятия;1;2;from
+Q55633449;Solar River Project;государство;1;1;from
+Q55633449;Solar River Project;административно-территориальная единица;1;1;from
+Q55633427;Ethiopia–Kenya HVDC Interconnector;категория на Викискладе;1;1;from
+Q55633427;Ethiopia–Kenya HVDC Interconnector;соединяется с;1;2;to
+Q55633427;Ethiopia–Kenya HVDC Interconnector;электрическое напряжение;1;1;from
+Q55633427;Ethiopia–Kenya HVDC Interconnector;частота;1;1;from
+Q55633427;Ethiopia–Kenya HVDC Interconnector;это частный случай понятия;1;3;from
+Q55633427;Ethiopia–Kenya HVDC Interconnector;изображение;1;1;from
+Q55633427;Ethiopia–Kenya HVDC Interconnector;государство;1;2;from
+Q55633427;Ethiopia–Kenya HVDC Interconnector;оператор;1;2;from
+Q55231581;Frontier;следующее по порядку;1;1;to
+Q55231581;Frontier;центральный процессор;1;1;from
+Q55231581;Frontier;местонахождение;1;1;from
+Q55231581;Frontier;графический процессор;1;1;from
+Q56194813;Windpark Fryslân;административно-территориальная единица;1;1;from
+Q56194813;Windpark Fryslân;государство;1;1;from
+Q56194813;Windpark Fryslân;карта местонахождения;1;1;from
+Q56300795;Q56300795;инженер-строитель;1;1;from
+Q56683152;Q56683152;часть от;1;1;from
+Q56683152;Q56683152;железнодорожная линия;1;1;from
+Q56683152;Q56683152;это частный случай понятия;1;2;from
+Q56683152;Q56683152;государство;1;1;from
+Q56683152;Q56683152;административно-территориальная единица;1;1;from
+Q56683151;Q56683151;часть от;1;1;from
+Q56683151;Q56683151;железнодорожная линия;1;1;from
+Q56683151;Q56683151;это частный случай понятия;1;2;from
+Q56683151;Q56683151;государство;1;1;from
+Q56683151;Q56683151;административно-территориальная единица;1;1;from
+Q56300795;Q56300795;число лифтов;1;1;from
+Q56194813;Windpark Fryslân;это частный случай понятия;1;2;from
+Q56300795;Q56300795;число подземных этажей;1;1;from
+Q56300795;Q56300795;количество этажей;1;1;from
+Q56300795;Q56300795;архитектор;1;1;from
+Q56300795;Q56300795;это частный случай понятия;1;3;from
+Q56300795;Q56300795;государство;1;1;from
+Q56300795;Q56300795;административно-территориальная единица;1;1;from
+Q56194813;Windpark Fryslân;официальный сайт;1;1;from
+Q56194813;Windpark Fryslân;находится в пределах природно-географического объекта;1;1;from
+Q56194813;Windpark Fryslân;географические координаты;1;1;from
+Q56194813;Windpark Fryslân;категория на Викискладе;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;источник дополнительных внешних данных;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;площадь;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;Natura 2000 site ID;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;категория на Викискладе;1;1;from
+Q64851177;Nemocnice Krč;административно-территориальная единица;1;1;from
+Q64846341;Q64846341;географические координаты;1;1;from
+Q64846341;Q64846341;это частный случай понятия;1;2;from
+Q64846341;Q64846341;государство;1;1;from
+Q64846341;Q64846341;административно-территориальная единица;1;1;from
+Q63842644;New Manhattan;дата основания/создания/возникновения;1;1;from
+Q63842644;New Manhattan;состоит из;1;3;from
+Q63842644;New Manhattan;местонахождение;1;1;from
+Q63842644;New Manhattan;площадь;1;1;from
+Q63842644;New Manhattan;это частный случай понятия;1;3;from
+Q63842644;New Manhattan;находится на берегу водоёма;1;1;from
+Q63842644;New Manhattan;государство;1;1;from
+Q63842644;New Manhattan;административно-территориальная единица;1;1;from
+Q63762656;Globe Tower;дата основания/создания/возникновения;1;1;from
+Q63762656;Globe Tower;значимый человек;1;1;from
+Q63762656;Globe Tower;местонахождение;1;1;from
+Q63762656;Globe Tower;высота/рост;1;1;from
+Q63762656;Globe Tower;количество этажей;1;1;from
+Q63762656;Globe Tower;вместимость;1;1;from
+Q63762656;Globe Tower;это частный случай понятия;1;6;from
+Q63762656;Globe Tower;изображение;1;1;from
+Q63762656;Globe Tower;государство;1;1;from
+Q63762656;Globe Tower;административно-территориальная единица;1;1;from
+Q64851177;Nemocnice Krč;государство;1;1;from
+Q64851177;Nemocnice Krč;это частный случай понятия;1;2;from
+Q64851177;Nemocnice Krč;географические координаты;1;1;from
+Q68032528;Q68032528;находится в пределах природно-географического объекта;1;1;from
+Q69525213;Salesforce Tower Sydney;местонахождение;1;1;from
+Q69525213;Salesforce Tower Sydney;код здания на SkyscraperPage;1;1;from
+Q69525213;Salesforce Tower Sydney;официальное название;1;1;from
+Q69525213;Salesforce Tower Sydney;код по Skyscraper Center;1;1;from
+Q69525213;Salesforce Tower Sydney;архитектор;1;1;from
+Q69525213;Salesforce Tower Sydney;это частный случай понятия;1;1;from
+Q69525213;Salesforce Tower Sydney;разработчик;1;3;from
+Q69525213;Salesforce Tower Sydney;государство;1;1;from
+Q69525213;Salesforce Tower Sydney;названо в честь;1;1;from
+Q69525213;Salesforce Tower Sydney;административно-территориальная единица;1;1;from
+Q68032528;Q68032528;RegiowikiAT ID;1;1;from
+Q65196771;Q65196771;административно-территориальная единица;1;1;from
+Q68032528;Q68032528;это частный случай понятия;1;1;from
+Q68032528;Q68032528;государство;1;1;from
+Q68032528;Q68032528;административно-территориальная единица;1;1;from
+Q65852823;Q65852823;географические координаты;1;2;from
+Q65852823;Q65852823;несёт на себе;1;1;from
+Q65852823;Q65852823;это частный случай понятия;1;2;from
+Q65852823;Q65852823;государство;1;1;from
+Q65852823;Q65852823;административно-территориальная единица;1;1;from
+Q65196771;Q65196771;это частный случай понятия;1;3;from
+Q65196771;Q65196771;государство;1;1;from
+Q63762570;Dome over Manhattan;дата основания/создания/возникновения;1;1;from
+Q63762570;Dome over Manhattan;местонахождение;1;1;from
+Q63762570;Dome over Manhattan;диаметр;1;1;from
+Q60776594;San Juan Puerto Rico Temple;административно-территориальная единица;1;1;from
+Q61039668;Triangle de Gonesse;часть от;1;1;from
+Q61039668;Triangle de Gonesse;железнодорожная линия;1;1;from
+Q61039668;Triangle de Gonesse;это частный случай понятия;1;3;from
+Q61039668;Triangle de Gonesse;следующий остановочный пункт;1;2;to
+Q61039668;Triangle de Gonesse;изображение;1;1;from
+Q61039668;Triangle de Gonesse;государство;1;1;from
+Q61039668;Triangle de Gonesse;административно-территориальная единица;1;1;from
+Q60776594;San Juan Puerto Rico Temple;это частный случай понятия;1;2;from
+Q60776594;San Juan Puerto Rico Temple;государство;1;1;from
+Q60776594;San Juan Puerto Rico Temple;отношение к религии;1;1;from
+Q60760653;Whalers Way Orbital Launch Complex;официальный сайт;1;1;from
+Q61039668;Triangle de Gonesse;географические координаты;1;1;from
+Q60760653;Whalers Way Orbital Launch Complex;географические координаты;1;1;from
+Q60760653;Whalers Way Orbital Launch Complex;площадь;1;1;from
+Q60760653;Whalers Way Orbital Launch Complex;это частный случай понятия;1;1;from
+Q60760653;Whalers Way Orbital Launch Complex;государство;1;1;from
+Q60760653;Whalers Way Orbital Launch Complex;административно-территориальная единица;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;находится в охранной зоне;1;1;to
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;WDPA;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;географические координаты;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;дата основания/создания/возникновения;1;1;from
+Q60626907;Niehuuser Tunneltal und Krusau mit angrenzenden Flächen;Common Database on Designated Areas ID;1;1;from
+Q61039668;Triangle de Gonesse;категория на Викискладе;1;1;from
+Q61697515;Amsterdam The Style Outlets;административно-территориальная единица;1;1;from
+Q63762570;Dome over Manhattan;высота/рост;1;1;from
+Q63341733;Nile Tower;это частный случай понятия;1;1;from
+Q63762570;Dome over Manhattan;длина;1;1;from
+Q63762570;Dome over Manhattan;архитектор;1;2;from
+Q63762570;Dome over Manhattan;это частный случай понятия;1;3;from
+Q63762570;Dome over Manhattan;находится на берегу водоёма;1;2;from
+Q63762570;Dome over Manhattan;государство;1;1;from
+Q63762570;Dome over Manhattan;административно-территориальная единица;1;1;from
+Q63379177;Q63379177;это частный случай понятия;1;1;from
+Q63341733;Nile Tower;код по Skyscraper Center;1;1;from
+Q63341733;Nile Tower;количество этажей;1;1;from
+Q63341733;Nile Tower;архитектор;1;1;from
+Q63341733;Nile Tower;государство;1;1;from
+Q61697515;Amsterdam The Style Outlets;государство;1;1;from
+Q63341733;Nile Tower;административно-территориальная единица;1;1;from
+Q61755113;Q61755113;географические координаты;1;1;from
+Q61755113;Q61755113;заказчик произведения;1;1;from
+Q61755113;Q61755113;архитектор;1;1;from
+Q61755113;Q61755113;это частный случай понятия;1;1;from
+Q61755113;Q61755113;государство;1;1;from
+Q61755113;Q61755113;административно-территориальная единица;1;1;from
+Q61697515;Amsterdam The Style Outlets;географические координаты;1;1;from
+Q61697515;Amsterdam The Style Outlets;местонахождение;1;1;from
+Q61697515;Amsterdam The Style Outlets;это частный случай понятия;1;2;from
+Q12041630;Q12041630;архитектор;1;1;from
+Q12041630;Q12041630;местонахождение;1;1;from
+Q12041630;Q12041630;производная работа;1;1;from
+Q24260670;South 272nd Street station;это частный случай понятия;1;2;from
+Q26822092;Q26822092;государство;1;1;from
+Q26822092;Q26822092;карта этой дороги;1;1;from
+Q26822092;Q26822092;административно-территориальная единица;1;1;from
+Q26719073;Q26719073;это частный случай понятия;1;1;from
+Q26234162;Q26234162;это частный случай понятия;1;1;from
+Q26234160;Q26234160;это частный случай понятия;1;1;from
+Q26234160;Q26234160;государство;1;1;from
+Q25385593;Q25385593;географические координаты;1;1;from
+Q25385593;Q25385593;это частный случай понятия;1;2;from
+Q25385593;Q25385593;изображение;1;1;from
+Q25385593;Q25385593;государство;1;1;from
+Q25385593;Q25385593;административно-территориальная единица;1;1;from
+Q25089162;Q25089162;географические координаты;1;1;from
+Q25089162;Q25089162;это частный случай понятия;1;1;from
+Q25089162;Q25089162;карта местонахождения;1;1;from
+Q25089162;Q25089162;государство;1;1;from
+Q25089162;Q25089162;административно-территориальная единица;1;1;from
+Q25006032;Ivana Las Vegas;географические координаты;1;1;from
+Q25006032;Ivana Las Vegas;количество этажей;1;1;from
+Q25006032;Ivana Las Vegas;это частный случай понятия;1;1;from
+Q25006032;Ivana Las Vegas;государство;1;1;from
+Q25006032;Ivana Las Vegas;названо в честь;1;1;from
+Q24260670;South 272nd Street station;географические координаты;1;1;from
+Q26822092;Q26822092;это частный случай понятия;1;3;from
+Q26822092;Q26822092;ширина колеи;1;1;from
+Q26822092;Q26822092;порядковый номер;1;2;from
+Q27649698;Provincial road N434;административно-территориальная единица;1;1;from
+Q27926314;Q27926314;государство;1;1;from
+Q27926301;Borssele offshore wind farm;географические координаты;1;1;from
+Q27926301;Borssele offshore wind farm;это частный случай понятия;1;2;from
+Q27926301;Borssele offshore wind farm;находится на берегу водоёма;1;1;from
+Q27926301;Borssele offshore wind farm;изображение;1;1;from
+Q27926301;Borssele offshore wind farm;государство;1;1;from
+Q27926301;Borssele offshore wind farm;названо в честь;1;1;from
+Q27926301;Borssele offshore wind farm;административно-территориальная единица;1;1;from
+Q27649698;Provincial road N434;это частный случай понятия;1;1;from
+Q27649698;Provincial road N434;государство;1;1;from
+Q27649610;Q27649610;это частный случай понятия;1;2;from
+Q26822092;Q26822092;обладает свойством;1;1;from
+Q27649610;Q27649610;государство;1;1;from
+Q27649610;Q27649610;административно-территориальная единица;1;1;from
+Q27526251;Q27526251;географические координаты;1;1;from
+Q27526251;Q27526251;местонахождение;1;1;from
+Q27526251;Q27526251;это частный случай понятия;1;1;from
+Q27526251;Q27526251;государство;1;1;from
+Q27526251;Q27526251;административно-территориальная единица;1;1;from
+Q26865634;Q26865634;это частный случай понятия;1;2;from
+Q26865634;Q26865634;государство;1;1;from
+Q26822092;Q26822092;длина;1;1;from
+Q24260670;South 272nd Street station;железнодорожная линия;1;1;from
+Q24260670;South 272nd Street station;следующий остановочный пункт;1;2;to
+Q22329554;340 Flatbush Avenue;географические координаты;1;1;from
+Q24260670;South 272nd Street station;государство;1;1;from
+Q22949127;ALEGrO;соединяется с;1;1;to
+Q22949127;ALEGrO;частота;1;1;from
+Q22949127;ALEGrO;это частный случай понятия;1;2;from
+Q22949127;ALEGrO;государство;1;2;from
+Q22949127;ALEGrO;оператор;1;2;from
+Q22949127;ALEGrO;административно-территориальная единица;1;1;from
+Q22704279;Sky Mile Tower;дата основания/создания/возникновения;1;1;from
+Q22704279;Sky Mile Tower;высота/рост;1;1;from
+Q22704279;Sky Mile Tower;название на языке оригинала;1;1;from
+Q22704279;Sky Mile Tower;количество этажей;1;1;from
+Q22704279;Sky Mile Tower;архитектор;1;1;from
+Q22704279;Sky Mile Tower;это частный случай понятия;1;1;from
+Q22704279;Sky Mile Tower;изображение;1;1;from
+Q22704279;Sky Mile Tower;государство;1;1;from
+Q22704279;Sky Mile Tower;административно-территориальная единица;1;1;from
+Q22687832;Q22687832;географические координаты;1;1;from
+Q22687832;Q22687832;часть от;1;1;from
+Q22687832;Q22687832;это частный случай понятия;1;2;from
+Q22687832;Q22687832;изображение;1;1;from
+Q22687832;Q22687832;проходит над/под;1;1;from
+Q22687832;Q22687832;государство;1;2;from
+Q22329554;340 Flatbush Avenue;официальный сайт;1;1;from
+Q22329554;340 Flatbush Avenue;ключевое событие;1;2;from
+Q22980068;Zeelink;административно-территориальная единица;1;1;from
+Q22980068;Zeelink;оператор;1;2;from
+Q22980068;Zeelink;названо в честь;1;1;from
+Q24260668;Kent/Des Moines station;следующий остановочный пункт;1;2;to
+Q24260670;South 272nd Street station;административно-территориальная единица;1;1;from
+Q24260669;SE Redmond station;географические координаты;1;1;from
+Q24260669;SE Redmond station;железнодорожная линия;1;1;from
+Q24260669;SE Redmond station;это частный случай понятия;1;2;from
+Q24260669;SE Redmond station;следующий остановочный пункт;1;2;to
+Q24260669;SE Redmond station;государство;1;1;from
+Q24260669;SE Redmond station;административно-территориальная единица;1;1;from
+Q24260668;Kent/Des Moines station;географические координаты;1;1;from
+Q24260668;Kent/Des Moines station;железнодорожная линия;1;1;from
+Q24260668;Kent/Des Moines station;это частный случай понятия;1;2;from
+Q24260668;Kent/Des Moines station;государство;1;1;from
+Q22980068;Zeelink;государство;1;1;from
+Q24260668;Kent/Des Moines station;административно-территориальная единица;1;1;from
+Q24190137;Mother Canada;это частный случай понятия;1;1;from
+Q24190137;Mother Canada;изображение;1;1;from
+Q24190137;Mother Canada;государство;1;1;from
+Q23926714;NE 130th Street station;географические координаты;1;1;from
+Q23926714;NE 130th Street station;это частный случай понятия;1;1;from
+Q23926714;NE 130th Street station;административно-территориальная единица;1;1;from
+Q22980068;Zeelink;официальный сайт;1;1;from
+Q22980068;Zeelink;длина;1;1;from
+Q22980068;Zeelink;это частный случай понятия;1;2;from
+Q27926314;Q27926314;находится на берегу водоёма;1;1;from
+Q27926314;Q27926314;это частный случай понятия;1;2;from
+Q27926314;Q27926314;географические координаты;1;1;from
+Q28052628;Pykhtino;административно-территориальная единица;1;1;from
+Q42000800;Porsche Design Tower;это частный случай понятия;1;2;from
+Q42000800;Porsche Design Tower;государство;1;1;from
+Q39337354;Q39337354;географические координаты;1;1;from
+Q39337354;Q39337354;количество этажей;1;1;from
+Q39337354;Q39337354;это частный случай понятия;1;4;from
+Q39337354;Q39337354;государство;1;1;from
+Q39337354;Q39337354;административно-территориальная единица;1;1;from
+Q33219598;Bronnenpark;ключевое событие;1;3;from
+Q33219598;Bronnenpark;географические координаты;1;1;from
+Q33219598;Bronnenpark;дата официального открытия;1;1;from
+Q33219598;Bronnenpark;число железнодорожных путей у платформ;1;1;from
+Q33219598;Bronnenpark;железнодорожная линия;1;1;from
+Q33219598;Bronnenpark;это частный случай понятия;1;3;from
+Q33219598;Bronnenpark;изображение;1;1;from
+Q33219598;Bronnenpark;государство;1;1;from
+Q33219598;Bronnenpark;оператор;1;1;from
+Q33219598;Bronnenpark;административно-территориальная единица;1;1;from
+Q30642919;All India Institute of Medical Sciences, Kalyani;работодатель;1;69;to
+Q30642919;All India Institute of Medical Sciences, Kalyani;дата основания/создания/возникновения;1;1;from
+Q30642919;All India Institute of Medical Sciences, Kalyani;часть от;1;1;from
+Q30642919;All India Institute of Medical Sciences, Kalyani;это частный случай понятия;1;2;from
+Q30642919;All India Institute of Medical Sciences, Kalyani;государство;1;1;from
+Q30642919;All India Institute of Medical Sciences, Kalyani;административно-территориальная единица;1;1;from
+Q42000800;Porsche Design Tower;не путать с;1;1;to
+Q42154823;Merlin's Quest;административно-территориальная единица;1;1;from
+Q42154823;Merlin's Quest;государство;1;1;from
+Q42313180;Horner Geest;рабочее название;1;1;from
+Q42321557;Stoltenstraße;категория на Викискладе;1;1;from
+Q42321557;Stoltenstraße;местонахождение;1;1;from
+Q42321557;Stoltenstraße;обслуживается маршрутом;1;1;from
+Q42321557;Stoltenstraße;это частный случай понятия;1;2;from
+Q42321557;Stoltenstraße;государство;1;1;from
+Q42321557;Stoltenstraße;оператор;1;1;from
+Q42321557;Stoltenstraße;административно-территориальная единица;1;1;from
+Q42313180;Horner Geest;географические координаты;1;1;from
+Q42313180;Horner Geest;категория на Викискладе;1;1;from
+Q42313180;Horner Geest;местонахождение;1;1;from
+Q42313180;Horner Geest;обслуживается маршрутом;1;1;from
+Q42154823;Merlin's Quest;производитель;1;1;from
+Q42313180;Horner Geest;это частный случай понятия;1;2;from
+Q42313180;Horner Geest;государство;1;1;from
+Q42313180;Horner Geest;оператор;1;1;from
+Q42313180;Horner Geest;административно-территориальная единица;1;1;from
+Q42154823;Merlin's Quest;географические координаты;1;1;from
+Q42154823;Merlin's Quest;страна происхождения;1;1;from
+Q42154823;Merlin's Quest;категория на Викискладе;1;1;from
+Q42154823;Merlin's Quest;часть от;1;1;from
+Q42154823;Merlin's Quest;заказчик произведения;1;1;from
+Q42154823;Merlin's Quest;это частный случай понятия;1;4;from
+Q30601445;Framework;это частный случай понятия;1;2;from
+Q30601445;Framework;государство;1;1;from
+Q30130180;Q30130180;географические координаты;1;1;from
+Q28166992;Q28166992;карта местонахождения;1;1;from
+Q28941004;Elbtower;административно-территориальная единица;1;1;from
+Q28667665;Vnukovo;географические координаты;1;1;from
+Q28667665;Vnukovo;часть от;1;1;from
+Q28667665;Vnukovo;железнодорожная линия;1;1;from
+Q28667665;Vnukovo;это частный случай понятия;1;2;from
+Q28667665;Vnukovo;следующий остановочный пункт;1;1;to
+Q28667665;Vnukovo;государство;1;1;from
+Q28667665;Vnukovo;административно-территориальная единица;1;1;from
+Q28231939;IFA-2;это частный случай понятия;1;3;from
+Q28166992;Q28166992;это частный случай понятия;1;1;from
+Q28166992;Q28166992;создатель;1;1;from
+Q28941004;Elbtower;это частный случай понятия;1;2;from
+Q28076838;BUS:STOP Krumbach;категория на Викискладе;1;1;from
+Q28076838;BUS:STOP Krumbach;это частный случай понятия;1;1;from
+Q28076838;BUS:STOP Krumbach;государство;1;1;from
+Q28076838;BUS:STOP Krumbach;административно-территориальная единица;1;1;from
+Q28052628;Pykhtino;географические координаты;1;1;from
+Q28052628;Pykhtino;часть от;1;1;from
+Q28052628;Pykhtino;железнодорожная линия;1;1;from
+Q28052628;Pykhtino;это частный случай понятия;1;2;from
+Q28052628;Pykhtino;следующий остановочный пункт;1;1;to
+Q28052628;Pykhtino;государство;1;1;from
+Q28941004;Elbtower;государство;1;1;from
+Q28941004;Elbtower;местонахождение;1;1;from
+Q30130180;Q30130180;это частный случай понятия;1;2;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;сделано из;1;1;from
+Q30130180;Q30130180;государство;1;1;from
+Q30130180;Q30130180;административно-территориальная единица;1;1;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;основная тема;1;1;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;дата основания/создания/возникновения;1;1;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;категория на Викискладе;1;1;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;The Met object ID;1;1;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;местонахождение;1;1;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;это частный случай понятия;1;3;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;инвентарный номер;1;1;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;хранится в коллекции;1;2;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;изображённый объект;1;4;from
+Q28941004;Elbtower;географические координаты;1;1;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;изображение;1;1;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;создатель;1;1;from
+Q29383572;Model for a Proposed Monument to Commemorate the Invention of the Balloon;художественное направление;1;1;from
+Q28952560;Q28952560;географические координаты;1;1;from
+Q28952560;Q28952560;количество этажей;1;1;from
+Q28952560;Q28952560;архитектор;1;1;from
+Q28952560;Q28952560;это частный случай понятия;1;2;from
+Q28952560;Q28952560;изображение;1;1;from
+Q28952560;Q28952560;государство;1;1;from
+Q28952560;Q28952560;административно-территориальная единица;1;1;from
+Q22329554;340 Flatbush Avenue;расположен на улице;1;2;from
+Q22329554;340 Flatbush Avenue;идентификатор Emporis;1;1;from
+Q12041630;Q12041630;географические координаты;1;1;from
+Q16830713;Bundesautobahn 56;номер дороги;1;1;from
+Q17176303;cité industrielle;это частный случай понятия;1;1;from
+Q17176303;cité industrielle;изображение;1;1;from
+Q17176303;cité industrielle;создатель;1;1;from
+Q17176303;cité industrielle;государство;1;1;from
+Q17070920;The Red Sea Astrarium;это частный случай понятия;1;1;from
+Q17001743;Chinese Future Giant Telescope;диаметр;1;1;from
+Q17001743;Chinese Future Giant Telescope;это частный случай понятия;1;2;from
+Q17001743;Chinese Future Giant Telescope;государство;1;1;from
+Q17001743;Chinese Future Giant Telescope;оператор;1;1;from
+Q16991849;DisneySea;географические координаты;1;1;from
+Q16991849;DisneySea;Disney A to Z ID;1;1;from
+Q16991849;DisneySea;это частный случай понятия;1;1;from
+Q16991849;DisneySea;государство;1;1;from
+Q16923919;East Kowloon Cultural Centre;географические координаты;1;1;from
+Q16923919;East Kowloon Cultural Centre;дата официального открытия;1;1;from
+Q16923919;East Kowloon Cultural Centre;архитектор;1;1;from
+Q16923919;East Kowloon Cultural Centre;это частный случай понятия;1;2;from
+Q16923919;East Kowloon Cultural Centre;изображение;1;1;from
+Q16923919;East Kowloon Cultural Centre;государство;1;1;from
+Q16923919;East Kowloon Cultural Centre;административно-территориальная единица;1;1;from
+Q16830713;Bundesautobahn 56;общая тема категории;1;1;to
+Q16830713;Bundesautobahn 56;галерея на Викискладе;1;1;from
+Q16830713;Bundesautobahn 56;основная категория по теме;1;1;from
+Q17176303;cité industrielle;код в энциклопедии «Британника онлайн»;1;1;from
+Q17176303;cité industrielle;категория на Викискладе;1;1;from
+Q17176303;cité industrielle;выдающееся произведение;1;1;to
+Q17640070;Tour Hekla;архитектор;1;1;from
+Q18159930;Dogger Bank Wind Farm;государство;1;1;from
+Q18159930;Dogger Bank Wind Farm;названо в честь;1;1;from
+Q18159930;Dogger Bank Wind Farm;владельцем является;1;3;from
+Q17640070;Tour Hekla;географические координаты;1;1;from
+Q17640070;Tour Hekla;дата основания/создания/возникновения;1;1;from
+Q17640070;Tour Hekla;категория на Викискладе;1;1;from
+Q17640070;Tour Hekla;высота/рост;1;1;from
+Q17640070;Tour Hekla;PSS;1;1;from
+Q17640070;Tour Hekla;код по Skyscraper Center;1;1;from
+Q17640070;Tour Hekla;количество этажей;1;1;from
+Q17640070;Tour Hekla;это частный случай понятия;1;2;from
+Q17514028;Auckland Airport Line;государство;1;1;from
+Q17640070;Tour Hekla;изображение;1;1;from
+Q17640070;Tour Hekla;государство;1;1;from
+Q17640070;Tour Hekla;административно-территориальная единица;1;1;from
+Q17620789;64 Currie Street;географические координаты;1;1;from
+Q17620789;64 Currie Street;код по Skyscraper Center;1;1;from
+Q17620789;64 Currie Street;количество этажей;1;1;from
+Q17620789;64 Currie Street;это частный случай понятия;1;1;from
+Q17620789;64 Currie Street;государство;1;1;from
+Q17620789;64 Currie Street;административно-территориальная единица;1;1;from
+Q17514028;Auckland Airport Line;это частный случай понятия;1;1;from
+Q16830713;Bundesautobahn 56;категория на Викискладе;1;1;from
+Q16830713;Bundesautobahn 56;это частный случай понятия;1;1;from
+Q22329554;340 Flatbush Avenue;высота/рост;1;1;from
+Q16830713;Bundesautobahn 56;государство;1;1;from
+Q16001116;50 Hudson Yards;число лифтов;1;1;from
+Q16001116;50 Hudson Yards;количество этажей;1;1;from
+Q16001116;50 Hudson Yards;архитектор;1;1;from
+Q16001116;50 Hudson Yards;это частный случай понятия;1;1;from
+Q16001116;50 Hudson Yards;изображение;1;1;from
+Q16001116;50 Hudson Yards;государство;1;1;from
+Q16001116;50 Hudson Yards;административно-территориальная единица;1;1;from
+Q15710923;SuedLink;категория на Викискладе;1;1;from
+Q15710923;SuedLink;это частный случай понятия;1;2;from
+Q15710923;SuedLink;государство;1;1;from
+Q15261442;Neart na Gaoithe Offshore Wind Farm;географические координаты;1;1;from
+Q15261442;Neart na Gaoithe Offshore Wind Farm;это частный случай понятия;1;2;from
+Q15261442;Neart na Gaoithe Offshore Wind Farm;находится на берегу водоёма;1;1;from
+Q15261442;Neart na Gaoithe Offshore Wind Farm;государство;1;1;from
+Q14712607;Innovation Center Station;географические координаты;1;1;from
+Q14712607;Innovation Center Station;категория на Викискладе;1;1;from
+Q14712607;Innovation Center Station;железнодорожная линия;1;1;from
+Q14712607;Innovation Center Station;это частный случай понятия;1;3;from
+Q14712607;Innovation Center Station;следующий остановочный пункт;1;2;to
+Q14712607;Innovation Center Station;изображение;1;1;from
+Q14712607;Innovation Center Station;государство;1;1;from
+Q14712607;Innovation Center Station;административно-территориальная единица;1;1;from
+Q12041630;Q12041630;создано на основе;1;1;to
+Q16001116;50 Hudson Yards;код по Skyscraper Center;1;1;from
+Q16001116;50 Hudson Yards;категория на Викискладе;1;1;from
+Q16001116;50 Hudson Yards;географические координаты;1;1;from
+Q16698859;Смоленская АЭС-2;оператор;1;1;from
+Q16830713;Bundesautobahn 56;система автомагистралей;1;1;from
+Q16830713;Bundesautobahn 56;карта этой дороги;1;1;from
+Q16830713;Bundesautobahn 56;знак автотрассы;1;1;from
+Q16698859;Смоленская АЭС-2;ключевое событие;1;1;from
+Q16698859;Смоленская АЭС-2;дата принятия в эксплуатацию;1;1;from
+Q16698859;Смоленская АЭС-2;географические координаты;1;1;from
+Q16698859;Смоленская АЭС-2;выходная мощность;1;1;from
+Q16698859;Смоленская АЭС-2;заменил;1;1;from
+Q16698859;Смоленская АЭС-2;это частный случай понятия;1;2;from
+Q16698859;Смоленская АЭС-2;государство;1;1;from
+Q16698859;Смоленская АЭС-2;административно-территориальная единица;1;1;from
+Q16001116;50 Hudson Yards;официальный сайт;1;1;from
+Q16681465;To-Lyon;географические координаты;1;1;from
+Q16681465;To-Lyon;дата начала;1;1;from
+Q16681465;To-Lyon;произношение (звуковой файл);1;1;from
+Q16681465;To-Lyon;местонахождение;1;1;from
+Q16681465;To-Lyon;высота/рост;1;1;from
+Q16681465;To-Lyon;количество этажей;1;1;from
+Q16681465;To-Lyon;архитектор;1;1;from
+Q16681465;To-Lyon;это частный случай понятия;1;2;from
+Q16681465;To-Lyon;государство;1;1;from
+Q16681465;To-Lyon;административно-территориальная единица;1;1;from
+Q18159930;Dogger Bank Wind Farm;это частный случай понятия;1;2;from
+Q18159930;Dogger Bank Wind Farm;географические координаты;1;1;from
+Q18619174;Battersea Power Station tube station;административно-территориальная единица;1;1;from
+Q18619174;Battersea Power Station tube station;названо в честь;1;1;from
+Q21592387;Dalston railway station;железнодорожная линия;1;1;from
+Q21592387;Dalston railway station;это частный случай понятия;1;2;from
+Q21592387;Dalston railway station;следующий остановочный пункт;1;9;from
+Q21592387;Dalston railway station;государство;1;1;from
+Q21592387;Dalston railway station;названо в честь;1;1;from
+Q21592387;Dalston railway station;административно-территориальная единица;1;1;from
+Q21208645;Viking Link;это частный случай понятия;1;1;from
+Q21208645;Viking Link;государство;1;2;from
+Q20876109;Euston Kings Cross St Pancras railway station;географические координаты;1;1;from
+Q20876109;Euston Kings Cross St Pancras railway station;тарифная зона;1;1;from
+Q20876109;Euston Kings Cross St Pancras railway station;это частный случай понятия;1;3;from
+Q20876109;Euston Kings Cross St Pancras railway station;государство;1;1;from
+Q20876109;Euston Kings Cross St Pancras railway station;административно-территориальная единица;1;1;from
+Q20712294;Spring District/120th;географические координаты;1;1;from
+Q20712294;Spring District/120th;железнодорожная линия;1;1;from
+Q20712294;Spring District/120th;это частный случай понятия;1;2;from
+Q20712294;Spring District/120th;следующий остановочный пункт;1;2;to
+Q20712294;Spring District/120th;государство;1;1;from
+Q20712294;Spring District/120th;административно-территориальная единица;1;1;from
+Q20313219;Bel-Red/130th;географические координаты;1;1;from
+Q20313219;Bel-Red/130th;железнодорожная линия;1;1;from
+Q20313219;Bel-Red/130th;это частный случай понятия;1;2;from
+Q20313219;Bel-Red/130th;следующий остановочный пункт;1;2;to
+Q21592387;Dalston railway station;число железнодорожных путей у платформ;1;1;from
+Q21592387;Dalston railway station;тарифная зона;1;1;from
+Q21592387;Dalston railway station;географические координаты;1;1;from
+Q21609046;443 Queen Street, Brisbane;официальный сайт;1;1;from
+Q22329554;340 Flatbush Avenue;код здания на SkyscraperPage;1;1;from
+Q22329554;340 Flatbush Avenue;код по Skyscraper Center;1;1;from
+Q22329554;340 Flatbush Avenue;количество этажей;1;1;from
+Q22329554;340 Flatbush Avenue;заказчик произведения;1;1;from
+Q22329554;340 Flatbush Avenue;архитектор;1;1;from
+Q22329554;340 Flatbush Avenue;это частный случай понятия;1;2;from
+Q22329554;340 Flatbush Avenue;сделано из;1;5;from
+Q22329554;340 Flatbush Avenue;государство;1;1;from
+Q22329554;340 Flatbush Avenue;архитектурный стиль;1;1;from
+Q22329554;340 Flatbush Avenue;административно-территориальная единица;1;1;from
+Q21609046;443 Queen Street, Brisbane;находится в пределах природно-географического объекта;1;1;from
+Q21592387;Dalston railway station;станция пересадки;1;2;to
+Q21609046;443 Queen Street, Brisbane;расположен на улице;1;1;from
+Q21609046;443 Queen Street, Brisbane;инженер-строитель;1;1;from
+Q21609046;443 Queen Street, Brisbane;географические координаты;1;1;from
+Q21609046;443 Queen Street, Brisbane;категория на Викискладе;1;1;from
+Q21609046;443 Queen Street, Brisbane;количество этажей;1;1;from
+Q21609046;443 Queen Street, Brisbane;архитектор;1;1;from
+Q21609046;443 Queen Street, Brisbane;это частный случай понятия;1;3;from
+Q21609046;443 Queen Street, Brisbane;изображение;1;1;from
+Q21609046;443 Queen Street, Brisbane;государство;1;1;from
+Q21609046;443 Queen Street, Brisbane;административно-территориальная единица;1;1;from
+Q20313219;Bel-Red/130th;государство;1;1;from
+Q20313219;Bel-Red/130th;административно-территориальная единица;1;1;from
+Q20170720;Bremerhaven offshore terminal;географические координаты;1;1;from
+Q18624378;Дворец фюрера;это частный случай понятия;1;1;from
+Q19364853;East Anglia Array;административно-территориальная единица;1;1;from
+Q19335183;SuedOstLink;это частный случай понятия;1;2;from
+Q19335183;SuedOstLink;государство;1;1;from
+Q19297384;Nordsaarlandstraße;это частный случай понятия;1;2;from
+Q19297384;Nordsaarlandstraße;государство;1;1;from
+Q18629410;Neue Mitte Altona;позднее здесь было построено;1;1;to
+Q18629410;Neue Mitte Altona;географические координаты;1;1;from
+Q18629410;Neue Mitte Altona;это частный случай понятия;1;1;from
+Q18629410;Neue Mitte Altona;государство;1;1;from
+Q18629410;Neue Mitte Altona;административно-территориальная единица;1;1;from
+Q18619284;Nine Elms tube station;географические координаты;1;1;from
+Q19364853;East Anglia Array;государство;1;1;from
+Q18619284;Nine Elms tube station;тарифная зона;1;1;from
+Q18619284;Nine Elms tube station;это частный случай понятия;1;2;from
+Q18619284;Nine Elms tube station;изображение;1;2;from
+Q18619284;Nine Elms tube station;государство;1;1;from
+Q18619284;Nine Elms tube station;административно-территориальная единица;1;1;from
+Q18619174;Battersea Power Station tube station;географические координаты;1;1;from
+Q18619174;Battersea Power Station tube station;тарифная зона;1;1;from
+Q18619174;Battersea Power Station tube station;это частный случай понятия;1;2;from
+Q18619174;Battersea Power Station tube station;изображение;1;1;from
+Q18619174;Battersea Power Station tube station;государство;1;1;from
+Q19364853;East Anglia Array;названо в честь;1;1;from
+Q19364853;East Anglia Array;находится на берегу водоёма;1;1;from
+Q20170720;Bremerhaven offshore terminal;это частный случай понятия;1;1;from
+Q19817536;One Queensbridge;код по Skyscraper Center;1;2;from
+Q20170720;Bremerhaven offshore terminal;изображение;1;1;from
+Q20170720;Bremerhaven offshore terminal;государство;1;1;from
+Q20170720;Bremerhaven offshore terminal;административно-территориальная единица;1;1;from
+Q19971187;Q19971187;географические координаты;1;1;from
+Q19971187;Q19971187;категория на Викискладе;1;1;from
+Q19971187;Q19971187;это частный случай понятия;1;1;from
+Q19971187;Q19971187;государство;1;1;from
+Q19971187;Q19971187;административно-территориальная единица;1;1;from
+Q19817536;One Queensbridge;официальный сайт;1;1;from
+Q19817536;One Queensbridge;географические координаты;1;1;from
+Q19817536;One Queensbridge;количество этажей;1;1;from
+Q19364853;East Anglia Array;это частный случай понятия;1;2;from
+Q19817536;One Queensbridge;архитектор;1;1;from
+Q19817536;One Queensbridge;это частный случай понятия;1;1;from
+Q19817536;One Queensbridge;государство;1;1;from
+Q19817536;One Queensbridge;административно-территориальная единица;1;1;from
+Q19721053;Foulum Data Center;географические координаты;1;1;from
+Q19721053;Foulum Data Center;это частный случай понятия;1;2;from
+Q19721053;Foulum Data Center;изображение;1;1;from
+Q19721053;Foulum Data Center;государство;1;1;from
+Q19721053;Foulum Data Center;административно-территориальная единица;1;1;from
+Q19364853;East Anglia Array;географические координаты;1;1;from
+Q55231581;Frontier;это частный случай понятия;1;2;from
+Q55231581;Frontier;государство;1;1;from
+Q64105;Sky City;административно-территориальная единица;1;1;from
+Q1142369;Crystal Island;код Freebase;1;1;from
+Q1375310;Europacity;состоит из;1;1;from
+Q1375310;Europacity;произношение (звуковой файл);1;1;from
+Q1375310;Europacity;категория на Викискладе;1;1;from
+Q1375310;Europacity;местонахождение;1;1;from
+Q1375310;Europacity;это частный случай понятия;1;2;from
+Q1375310;Europacity;изображение;1;1;from
+Q1375310;Europacity;государство;1;1;from
+Q1375310;Europacity;административно-территориальная единица;1;1;from
+Q1243697;Q1243697;описан на сайте;1;1;from
+Q1243697;Q1243697;часть от;1;1;from
+Q1243697;Q1243697;это частный случай понятия;1;1;from
+Q1243697;Q1243697;названо в честь;1;1;from
+Q1184907;Delta Nordsee 1 Offshore Wind Farm;географические координаты;1;1;from
+Q1184907;Delta Nordsee 1 Offshore Wind Farm;это частный случай понятия;1;2;from
+Q1184907;Delta Nordsee 1 Offshore Wind Farm;находится на берегу водоёма;1;1;from
+Q1184907;Delta Nordsee 1 Offshore Wind Farm;государство;1;1;from
+Q1184907;Delta Nordsee 1 Offshore Wind Farm;административно-территориальная единица;1;1;from
+Q1182370;Induced seismicity in Basel;Microsoft Academic ID;1;1;from
+Q1182370;Induced seismicity in Basel;географические координаты;1;1;from
+Q1182370;Induced seismicity in Basel;это частный случай понятия;1;1;from
+Q1182370;Induced seismicity in Basel;код VIAF;1;1;from
+Q1182370;Induced seismicity in Basel;государство;1;1;from
+Q1182370;Induced seismicity in Basel;административно-территориальная единица;1;1;from
+Q1375310;Europacity;официальный сайт;1;1;from
+Q1375310;Europacity;описан на сайте;1;1;from
+Q1375310;Europacity;часть от;1;2;to
+Q1412541;Q1412541;географические координаты;1;1;from
+Q1415267;Third Temple;названо в честь;1;1;to
+Q1415267;Third Temple;код Freebase;1;1;from
+Q1415267;Third Temple;охранный статус;1;1;from
+Q1415267;Third Temple;код темы Quora;1;1;from
+Q1415267;Third Temple;обозначение Iconclass;1;1;from
+Q1415267;Third Temple;это частный случай понятия;1;2;from
+Q1415267;Third Temple;изображение;1;1;from
+Q1415267;Third Temple;государство;1;1;from
+Q1415267;Third Temple;административно-территориальная единица;1;1;from
+Q1412541;Q1412541;обслуживаемый город;1;1;from
+Q1412541;Q1412541;часть от;1;1;from
+Q1376672;Q1376672;административно-территориальная единица;1;1;from
+Q1412541;Q1412541;это частный случай понятия;1;5;from
+Q1412541;Q1412541;карта местонахождения;1;2;from
+Q1412541;Q1412541;государство;1;1;from
+Q1412541;Q1412541;административно-территориальная единица;1;1;from
+Q1376672;Q1376672;официальный сайт;1;1;from
+Q1376672;Q1376672;находится в пределах природно-географического объекта;1;1;from
+Q1376672;Q1376672;географические координаты;1;1;from
+Q1376672;Q1376672;произношение (звуковой файл);1;1;from
+Q1376672;Q1376672;это частный случай понятия;1;1;from
+Q1376672;Q1376672;государство;1;1;from
+Q1142369;Crystal Island;выдающееся произведение;1;1;to
+Q1142369;Crystal Island;географические координаты;1;1;from
+Q1455887;Qatar Bahrain Causeway;проходит над/под;1;1;from
+Q1142369;Crystal Island;дата основания/создания/возникновения;1;1;from
+Q922211;Shimizu Mega-City Pyramid;архитектор;1;1;from
+Q922211;Shimizu Mega-City Pyramid;это частный случай понятия;1;1;from
+Q922211;Shimizu Mega-City Pyramid;государство;1;1;from
+Q922211;Shimizu Mega-City Pyramid;административно-территориальная единица;1;1;from
+Q910485;Dubai City Tower;код Freebase;1;1;from
+Q910485;Dubai City Tower;географические координаты;1;1;from
+Q910485;Dubai City Tower;код по Skyscraper Center;1;1;from
+Q910485;Dubai City Tower;количество этажей;1;1;from
+Q910485;Dubai City Tower;это частный случай понятия;1;2;from
+Q910485;Dubai City Tower;государство;1;1;from
+Q910485;Dubai City Tower;архитектурный стиль;1;1;from
+Q910485;Dubai City Tower;административно-территориальная единица;1;1;from
+Q890504;Q890504;описан на сайте;1;1;from
+Q890504;Q890504;географические координаты;1;1;from
+Q890504;Q890504;архитектор;1;1;from
+Q890504;Q890504;это частный случай понятия;1;1;from
+Q890504;Q890504;изображение;1;2;from
+Q890504;Q890504;государство;1;1;from
+Q890504;Q890504;названо в честь;1;1;from
+Q890504;Q890504;административно-территориальная единица;1;1;from
+Q873257;Nordstern;код Freebase;1;1;from
+Q873257;Nordstern;географические координаты;1;1;from
+Q873257;Nordstern;не путать с;1;1;to
+Q922211;Shimizu Mega-City Pyramid;количество этажей;1;1;from
+Q922211;Shimizu Mega-City Pyramid;число подземных этажей;1;1;from
+Q922211;Shimizu Mega-City Pyramid;код по Skyscraper Center;1;1;from
+Q1049978;Q1049978;это частный случай понятия;1;2;from
+Q1142369;Crystal Island;идентификатор Emporis;1;1;from
+Q1142369;Crystal Island;высота/рост;1;1;from
+Q1142369;Crystal Island;архитектор;1;1;from
+Q1142369;Crystal Island;это частный случай понятия;1;2;from
+Q1142369;Crystal Island;государство;1;1;from
+Q1142369;Crystal Island;административно-территориальная единица;1;1;from
+Q1049978;Q1049978;тема утверждения;1;1;from
+Q1049978;Q1049978;находится в пределах природно-географического объекта;1;1;from
+Q1049978;Q1049978;категория на Викискладе;1;1;from
+Q1049978;Q1049978;юрисдикция распространяется на;1;1;from
+Q1049978;Q1049978;изображение;1;1;from
+Q922211;Shimizu Mega-City Pyramid;код Freebase;1;1;from
+Q1049978;Q1049978;государство;1;1;from
+Q1049978;Q1049978;административно-территориальная единица;1;1;from
+Q1035202;Helsinki to Tallinn Tunnel;код Freebase;1;1;from
+Q1035202;Helsinki to Tallinn Tunnel;географические координаты;1;1;from
+Q1035202;Helsinki to Tallinn Tunnel;рабочий список проекта Викимедиа;1;1;from
+Q1035202;Helsinki to Tallinn Tunnel;часть от;1;1;from
+Q1035202;Helsinki to Tallinn Tunnel;ширина колеи;1;1;from
+Q1035202;Helsinki to Tallinn Tunnel;это частный случай понятия;1;3;from
+Q1035202;Helsinki to Tallinn Tunnel;изображение;1;1;from
+Q1035202;Helsinki to Tallinn Tunnel;государство;1;2;from
+Q1455887;Qatar Bahrain Causeway;государство;1;1;from
+Q1455887;Qatar Bahrain Causeway;это частный случай понятия;1;2;from
+Q55231581;Frontier;предыдущее по порядку;1;1;from
+Q1586672;130 Liberty Street;код по Skyscraper Center;1;1;from
+Q1649373;Q1649373;описан на сайте;1;1;from
+Q1649373;Q1649373;официальный сайт;1;2;from
+Q1649373;Q1649373;дата начала;1;1;from
+Q1649373;Q1649373;местонахождение;1;1;from
+Q1649373;Q1649373;короткое название;1;1;from
+Q1649373;Q1649373;подробная карта;1;1;from
+Q1649373;Q1649373;это частный случай понятия;1;1;from
+Q1649373;Q1649373;государство;1;1;from
+Q1643971;Nördlicher Grund Offshore Wind Farm;географические координаты;1;1;from
+Q1643971;Nördlicher Grund Offshore Wind Farm;это частный случай понятия;1;2;from
+Q1643971;Nördlicher Grund Offshore Wind Farm;находится на берегу водоёма;1;1;from
+Q1643971;Nördlicher Grund Offshore Wind Farm;государство;1;1;from
+Q1643971;Nördlicher Grund Offshore Wind Farm;административно-территориальная единица;1;1;from
+Q1619469;Arc Express;это частный случай понятия;1;1;from
+Q1619469;Arc Express;государство;1;1;from
+Q1587412;Q1587412;это частный случай понятия;1;1;from
+Q1587412;Q1587412;государство;1;1;from
+Q1586672;130 Liberty Street;позднее здесь было построено;1;1;to
+Q1586672;130 Liberty Street;расположен на улице;1;1;from
+Q1586672;130 Liberty Street;географические координаты;1;1;from
+Q1586672;130 Liberty Street;идентификатор Emporis;1;1;from
+Q1586672;130 Liberty Street;категория на Викискладе;1;1;from
+Q1586672;130 Liberty Street;высота/рост;1;1;from
+Q1739403;Q1739403;государство;1;1;from
+Q1739403;Q1739403;это частный случай понятия;1;2;from
+Q1739403;Q1739403;выходная мощность;1;1;from
+Q1739421;Центральная АЭС;государство;1;1;from
+Q1739470;Trunk line 2;карта этой дороги;1;1;from
+Q1739470;Trunk line 2;оператор;1;1;from
+Q1739470;Trunk line 2;административно-территориальная единица;1;1;from
+Q1739470;Trunk line 2;владельцем является;1;1;from
+Q1739421;Центральная АЭС;ключевое событие;1;2;from
+Q1739421;Центральная АЭС;географические координаты;1;1;from
+Q1739421;Центральная АЭС;произношение (звуковой файл);1;1;from
+Q1739421;Центральная АЭС;категория на Викискладе;1;1;from
+Q1739421;Центральная АЭС;выходная мощность;1;1;from
+Q1739421;Центральная АЭС;это частный случай понятия;1;3;from
+Q1739421;Центральная АЭС;оператор;1;1;from
+Q1739403;Q1739403;дата основания/создания/возникновения;1;1;from
+Q1739421;Центральная АЭС;административно-территориальная единица;1;1;from
+Q1739419;Краснодарская АЭС;ключевое событие;1;1;from
+Q1739419;Краснодарская АЭС;географические координаты;1;1;from
+Q1739419;Краснодарская АЭС;категория на Викискладе;1;1;from
+Q1739419;Краснодарская АЭС;выходная мощность;1;1;from
+Q1739419;Краснодарская АЭС;это частный случай понятия;1;3;from
+Q1739419;Краснодарская АЭС;государство;1;2;from
+Q1739419;Краснодарская АЭС;административно-территориальная единица;1;1;from
+Q1739403;Q1739403;ключевое событие;1;1;from
+Q1739403;Q1739403;географические координаты;1;1;from
+Q1586672;130 Liberty Street;код здания на SkyscraperPage;1;1;from
+Q1586672;130 Liberty Street;количество этажей;1;1;from
+Q1455887;Qatar Bahrain Causeway;длина;1;1;from
+Q1586672;130 Liberty Street;архитектор;1;1;from
+Q1495789;Gateway Gardens;площадь;1;1;from
+Q1495789;Gateway Gardens;дата официального открытия;1;1;from
+Q1495789;Gateway Gardens;это частный случай понятия;1;2;from
+Q1495789;Gateway Gardens;изображение;1;1;from
+Q1495789;Gateway Gardens;государство;1;1;from
+Q1495789;Gateway Gardens;административно-территориальная единица;1;1;from
+Q1468814;Q1468814;дата окончания;1;2;from
+Q1468814;Q1468814;дата начала;1;1;from
+Q1468814;Q1468814;конечная;1;2;from
+Q1468814;Q1468814;категория на Викискладе;1;1;from
+Q1468814;Q1468814;обычно используемое транспортное средство;1;1;from
+Q1468814;Q1468814;ограничение скорости;1;1;from
+Q1468814;Q1468814;стоимость;1;2;from
+Q1468814;Q1468814;продолжительность;1;1;from
+Q1468814;Q1468814;длина;1;1;from
+Q1468814;Q1468814;это частный случай понятия;1;2;from
+Q1468814;Q1468814;изображение;1;1;from
+Q1468814;Q1468814;карта этой дороги;1;1;from
+Q1468814;Q1468814;названо в честь;1;1;from
+Q1455887;Qatar Bahrain Causeway;код Freebase;1;1;from
+Q1455887;Qatar Bahrain Causeway;географические координаты;1;1;from
+Q1455887;Qatar Bahrain Causeway;идентификатор Structurae;1;1;from
+Q1455887;Qatar Bahrain Causeway;местонахождение;1;1;from
+Q1495789;Gateway Gardens;местонахождение;1;1;to
+Q1495789;Gateway Gardens;почтовый индекс;1;1;from
+Q1495789;Gateway Gardens;географические координаты;1;1;from
+Q1567811;Q1567811;это частный случай понятия;1;2;from
+Q1586672;130 Liberty Street;это частный случай понятия;1;2;from
+Q1586672;130 Liberty Street;сделано из;1;4;from
+Q1586672;130 Liberty Street;изображение;1;1;from
+Q1586672;130 Liberty Street;государство;1;1;from
+Q1586672;130 Liberty Street;административно-территориальная единица;1;1;from
+Q1586672;130 Liberty Street;владельцем является;1;1;from
+Q1583641;Hansa Canal;это частный случай понятия;1;2;from
+Q1583641;Hansa Canal;государство;1;1;from
+Q1583641;Hansa Canal;административно-территориальная единица;1;1;from
+Q1567811;Q1567811;географические координаты;1;1;from
+Q1567811;Q1567811;государство;1;1;from
+Q1495789;Gateway Gardens;ключевое событие;1;1;from
+Q1567811;Q1567811;административно-территориальная единица;1;1;from
+Q1529909;Glattpark;географические координаты;1;1;from
+Q1529909;Glattpark;категория на Викискладе;1;1;from
+Q1529909;Glattpark;код темы Quora;1;1;from
+Q1529909;Glattpark;это частный случай понятия;1;1;from
+Q1529909;Glattpark;государство;1;1;from
+Q1529909;Glattpark;административно-территориальная единица;1;1;from
+Q1495789;Gateway Gardens;названо в честь;1;1;to
+Q1495789;Gateway Gardens;описан на сайте;1;1;from
+Q1495789;Gateway Gardens;официальный сайт;1;1;from
+Q873257;Nordstern;архитектор;1;1;from
+Q873257;Nordstern;это частный случай понятия;1;1;from
+Q873257;Nordstern;государство;1;1;from
+Q373856;strait of Messina Bridge;сделано из;1;1;from
+Q585060;Palace of the Soviets;категория на Викискладе;1;1;from
+Q585060;Palace of the Soviets;код SUDOC;1;1;from
+Q585060;Palace of the Soviets;высота/рост;1;1;from
+Q585060;Palace of the Soviets;построено на месте;1;1;from
+Q585060;Palace of the Soviets;код по Skyscraper Center;1;1;from
+Q585060;Palace of the Soviets;количество этажей;1;1;from
+Q585060;Palace of the Soviets;архитектор;1;3;from
+Q585060;Palace of the Soviets;это частный случай понятия;1;3;from
+Q585060;Palace of the Soviets;код VIAF;1;1;from
+Q585060;Palace of the Soviets;изображение;1;1;from
+Q585060;Palace of the Soviets;государство;1;2;from
+Q585060;Palace of the Soviets;административно-территориальная единица;1;1;from
+Q585060;Palace of the Soviets;владельцем является;1;1;from
+Q373856;strait of Messina Bridge;основная тема;1;1;to
+Q373856;strait of Messina Bridge;код Freebase;1;1;from
+Q373856;strait of Messina Bridge;географические координаты;1;1;from
+Q373856;strait of Messina Bridge;идентификатор Structurae;1;1;from
+Q373856;strait of Messina Bridge;Brueckenweb ID;1;1;from
+Q373856;strait of Messina Bridge;категория на Викискладе;1;1;from
+Q373856;strait of Messina Bridge;код BabelNet;1;1;from
+Q373856;strait of Messina Bridge;несёт на себе;1;1;from
+Q373856;strait of Messina Bridge;высота/рост;1;1;from
+Q373856;strait of Messina Bridge;длина;1;1;from
+Q585060;Palace of the Soviets;идентификатор Emporis;1;1;from
+Q585060;Palace of the Soviets;archINFORM project ID;1;1;from
+Q585060;Palace of the Soviets;географические координаты;1;1;from
+Q610172;Euthanasia Coaster;это частный случай понятия;1;5;from
+Q610172;Euthanasia Coaster;категория на Викискладе;1;1;from
+Q610172;Euthanasia Coaster;используется как/для/в;1;2;from
+Q610172;Euthanasia Coaster;код темы Quora;1;1;from
+Q610172;Euthanasia Coaster;состоит из представителей класса;1;3;from
+Q610172;Euthanasia Coaster;использует;1;5;from
+Q610172;Euthanasia Coaster;скорость;1;1;from
+Q610172;Euthanasia Coaster;высота/рост;1;1;from
+Q610172;Euthanasia Coaster;продолжительность;1;1;from
+Q610172;Euthanasia Coaster;длина;1;1;from
+Q610172;Euthanasia Coaster;вместимость;1;1;from
+Q610172;Euthanasia Coaster;изображение;1;2;from
+Q585060;Palace of the Soviets;код Freebase;1;1;from
+Q601803;Murjan Tower;код Freebase;1;1;from
+Q601803;Murjan Tower;код по Skyscraper Center;1;1;from
+Q601803;Murjan Tower;количество этажей;1;1;from
+Q601803;Murjan Tower;архитектор;1;1;from
+Q601803;Murjan Tower;это частный случай понятия;1;2;from
+Q601803;Murjan Tower;государство;1;1;from
+Q601803;Murjan Tower;административно-территориальная единица;1;1;from
+Q585060;Palace of the Soviets;выдающееся произведение;1;1;to
+Q585060;Palace of the Soviets;владеет;1;1;to
+Q585060;Palace of the Soviets;часть от;1;1;to
+Q373856;strait of Messina Bridge;это частный случай понятия;1;3;from
+Q373856;strait of Messina Bridge;изображение;1;1;from
+Q873257;Nordstern;названо в честь;1;1;from
+Q373856;strait of Messina Bridge;проходит над/под;1;1;from
+Q229709;Q229709;государство;1;1;from
+Q156908;Welthauptstadt Germania;часть от;1;1;to
+Q156908;Welthauptstadt Germania;код Freebase;1;1;from
+Q156908;Welthauptstadt Germania;archINFORM project ID;1;1;from
+Q156908;Welthauptstadt Germania;категория на Викискладе;1;1;from
+Q156908;Welthauptstadt Germania;обладает свойством;1;1;from
+Q156908;Welthauptstadt Germania;построено на месте;1;1;from
+Q156908;Welthauptstadt Germania;это частный случай понятия;1;2;from
+Q156908;Welthauptstadt Germania;изображение;1;1;from
+Q156908;Welthauptstadt Germania;государство;1;2;from
+Q156908;Welthauptstadt Germania;архитектурный стиль;1;1;from
+Q156908;Welthauptstadt Germania;административно-территориальная единица;1;1;from
+Q64105;Sky City;код Freebase;1;1;from
+Q64105;Sky City;географические координаты;1;1;from
+Q64105;Sky City;дата основания/создания/возникновения;1;1;from
+Q64105;Sky City;высота/рост;1;1;from
+Q64105;Sky City;код по Skyscraper Center;1;1;from
+Q64105;Sky City;число лифтов;1;1;from
+Q64105;Sky City;количество этажей;1;1;from
+Q64105;Sky City;это частный случай понятия;1;1;from
+Q64105;Sky City;основная строительная организация;1;1;from
+Q64105;Sky City;изображение;1;1;from
+Q64105;Sky City;государство;1;1;from
+Q229709;Q229709;код VIAF;1;1;from
+Q229709;Q229709;это частный случай понятия;1;1;from
+Q229709;Q229709;тематически относится к;1;1;from
+Q328794;Mosque in Sendling;участвовал в;1;1;from
+Q373856;strait of Messina Bridge;государство;1;1;from
+Q373856;strait of Messina Bridge;административно-территориальная единица;1;1;from
+Q328794;Mosque in Sendling;код Freebase;1;1;from
+Q328794;Mosque in Sendling;адрес;1;1;from
+Q328794;Mosque in Sendling;дата основания/создания/возникновения;1;1;from
+Q328794;Mosque in Sendling;участник организации или клуба;1;1;from
+Q328794;Mosque in Sendling;категория на Викискладе;1;1;from
+Q328794;Mosque in Sendling;число членов;1;1;from
+Q328794;Mosque in Sendling;организационно-правовая форма;1;1;from
+Q328794;Mosque in Sendling;официальное название;1;1;from
+Q328794;Mosque in Sendling;это частный случай понятия;1;11;from
+Q229709;Q229709;код BNF;1;1;from
+Q328794;Mosque in Sendling;изображение;1;1;from
+Q328794;Mosque in Sendling;государство;1;1;from
+Q328794;Mosque in Sendling;административно-территориальная единица;1;1;from
+Q323724;Gedser-Rostock Bridge;код Freebase;1;1;from
+Q323724;Gedser-Rostock Bridge;географические координаты;1;1;from
+Q323724;Gedser-Rostock Bridge;это частный случай понятия;1;2;from
+Q323724;Gedser-Rostock Bridge;карта местонахождения;1;1;from
+Q323724;Gedser-Rostock Bridge;государство;1;2;from
+Q229709;Q229709;дата прекращения существования;1;1;from
+Q229709;Q229709;код SUDOC;1;1;from
+Q610172;Euthanasia Coaster;состоит из;1;1;from
+Q610172;Euthanasia Coaster;дата основания/создания/возникновения;1;2;from
+Q610172;Euthanasia Coaster;код Freebase;1;1;from
+Q615999;The Illinois;административно-территориальная единица;1;1;from
+Q803223;Q803223;государство;1;1;from
+Q803070;Q803070;соединяется с;1;1;to
+Q803070;Q803070;географические координаты;1;1;from
+Q803070;Q803070;расположение конечной точки;1;2;from
+Q803070;Q803070;часть от;1;1;from
+Q803070;Q803070;длина;1;1;from
+Q803070;Q803070;ширина колеи;1;1;from
+Q803070;Q803070;это частный случай понятия;1;2;from
+Q803070;Q803070;основная строительная организация;1;2;from
+Q803070;Q803070;государство;1;1;from
+Q782077;Bionic Tower;официальный сайт;1;1;from
+Q782077;Bionic Tower;код Freebase;1;1;from
+Q782077;Bionic Tower;высота/рост;1;1;from
+Q782077;Bionic Tower;код по Skyscraper Center;1;2;from
+Q782077;Bionic Tower;число лифтов;1;1;from
+Q782077;Bionic Tower;количество этажей;1;1;from
+Q782077;Bionic Tower;это частный случай понятия;1;1;from
+Q782077;Bionic Tower;государство;1;1;from
+Q782077;Bionic Tower;административно-территориальная единица;1;1;from
+Q700996;Stuttgart 21;общая тема категории;1;1;to
+Q700996;Stuttgart 21;основная тема;1;4;to
+Q700996;Stuttgart 21;тематически относится к;1;4;to
+Q700996;Stuttgart 21;часть от;1;7;to
+Q803223;Q803223;основная строительная организация;1;1;from
+Q803223;Q803223;это частный случай понятия;1;2;from
+Q803223;Q803223;длина;1;1;from
+Q867203;Grand Paris Express;учётная запись в Твиттере;1;1;from
+Q873257;Nordstern;административно-территориальная единица;1;1;from
+Q867203;Grand Paris Express;категория объединяет темы;1;1;to
+Q867203;Grand Paris Express;официальный сайт;1;1;from
+Q867203;Grand Paris Express;категория карт на Викискладе;1;1;from
+Q867203;Grand Paris Express;WorldCat Identities ID;1;1;from
+Q867203;Grand Paris Express;код Freebase;1;1;from
+Q867203;Grand Paris Express;статья в Викии;1;1;from
+Q867203;Grand Paris Express;дата основания/создания/возникновения;1;1;from
+Q867203;Grand Paris Express;категория на Викискладе;1;1;from
+Q867203;Grand Paris Express;часть от;1;1;from
+Q867203;Grand Paris Express;это частный случай понятия;1;2;from
+Q803223;Q803223;стоимость;1;1;from
+Q867203;Grand Paris Express;код LCNAF;1;1;from
+Q867203;Grand Paris Express;код VIAF;1;1;from
+Q867203;Grand Paris Express;государство;1;1;from
+Q867203;Grand Paris Express;карта этой дороги;1;1;from
+Q867203;Grand Paris Express;административно-территориальная единица;1;1;from
+Q803223;Q803223;ключевое событие;1;4;from
+Q803223;Q803223;расположение конечной точки;1;2;from
+Q803223;Q803223;часть от;1;1;from
+Q803223;Q803223;ограничение скорости;1;2;from
+Q803223;Q803223;соединяется с;1;1;from
+Q700996;Stuttgart 21;основная категория по теме;1;1;from
+Q700996;Stuttgart 21;официальный сайт;1;1;from
+Q700996;Stuttgart 21;ключевое событие;1;6;from
+Q631095;NorGer;это частный случай понятия;1;2;from
+Q697040;Volkshalle;архитектурный стиль;1;1;from
+Q697040;Volkshalle;административно-территориальная единица;1;1;from
+Q677743;Porta Alpina;код Freebase;1;1;from
+Q677743;Porta Alpina;географические координаты;1;1;from
+Q677743;Porta Alpina;категория на Викискладе;1;1;from
+Q677743;Porta Alpina;это частный случай понятия;1;1;from
+Q677743;Porta Alpina;государство;1;1;from
+Q677743;Porta Alpina;административно-территориальная единица;1;1;from
+Q631095;NorGer;официальный сайт;1;1;from
+Q631095;NorGer;код Freebase;1;1;from
+Q631095;NorGer;карта местонахождения;1;1;from
+Q697040;Volkshalle;изображение;1;1;from
+Q631095;NorGer;государство;1;2;from
+Q615999;The Illinois;код Freebase;1;1;from
+Q615999;The Illinois;archINFORM project ID;1;1;from
+Q615999;The Illinois;код по Skyscraper Center;1;1;from
+Q615999;The Illinois;число лифтов;1;1;from
+Q615999;The Illinois;количество этажей;1;1;from
+Q615999;The Illinois;архитектор;1;1;from
+Q615999;The Illinois;это частный случай понятия;1;1;from
+Q615999;The Illinois;изображение;1;1;from
+Q615999;The Illinois;государство;1;1;from
+Q697040;Volkshalle;государство;1;1;from
+Q697040;Volkshalle;находится на берегу водоёма;1;1;from
+Q700996;Stuttgart 21;код Freebase;1;1;from
+Q700996;Stuttgart 21;это частный случай понятия;1;2;from
+Q700996;Stuttgart 21;archINFORM project ID;1;1;from
+Q700996;Stuttgart 21;состоит из;1;17;from
+Q700996;Stuttgart 21;противоположно;1;1;to
+Q700996;Stuttgart 21;идентификатор Structurae;1;1;from
+Q700996;Stuttgart 21;ID отношения в OpenStreetMap;1;1;from
+Q700996;Stuttgart 21;категория на Викискладе;1;1;from
+Q700996;Stuttgart 21;изображение в разрезе;1;1;from
+Q700996;Stuttgart 21;история темы;1;1;from
+Q700996;Stuttgart 21;стоимость;1;1;from
+Q700996;Stuttgart 21;подробная карта;1;3;from
+Q700996;Stuttgart 21;код GND;1;1;from
+Q697040;Volkshalle;это частный случай понятия;1;1;from
+Q700996;Stuttgart 21;государство;1;1;from
+Q700996;Stuttgart 21;названо в честь;1;1;to
+Q700996;Stuttgart 21;оператор;1;3;from
+Q700996;Stuttgart 21;административно-территориальная единица;1;1;from
+Q697040;Volkshalle;код Freebase;1;1;from
+Q697040;Volkshalle;географические координаты;1;1;from
+Q697040;Volkshalle;archINFORM project ID;1;1;from
+Q697040;Volkshalle;категория на Викискладе;1;1;from
+Q697040;Volkshalle;местонахождение;1;1;from
+Q697040;Volkshalle;архитектор;1;1;from
+Q1739470;Trunk line 2;государство;1;1;from
+Q1739470;Trunk line 2;это частный случай понятия;1;2;from
+Q1739470;Trunk line 2;ширина колеи;1;1;from
+Q4858905;Piccadilly Tower;количество этажей;1;1;from
+Q5411505;EuroAsia Interconnector;это частный случай понятия;1;3;from
+Q5411505;EuroAsia Interconnector;изображение;1;1;from
+Q5411505;EuroAsia Interconnector;государство;1;3;from
+Q5411505;EuroAsia Interconnector;генеральный директор;1;1;to
+Q5411505;EuroAsia Interconnector;расположение штаб-квартиры;1;5;from
+Q5374177;Empire World Towers;количество этажей;1;1;from
+Q5374177;Empire World Towers;это частный случай понятия;1;1;from
+Q5374177;Empire World Towers;государство;1;1;from
+Q5313452;Dulles International Airport Station;географические координаты;1;1;from
+Q5313452;Dulles International Airport Station;категория на Викискладе;1;1;from
+Q5313452;Dulles International Airport Station;код станции;1;1;from
+Q5313452;Dulles International Airport Station;железнодорожная линия;1;1;from
+Q5313452;Dulles International Airport Station;это частный случай понятия;1;3;from
+Q5313452;Dulles International Airport Station;следующий остановочный пункт;1;2;to
+Q5313452;Dulles International Airport Station;изображение;1;1;from
+Q5313452;Dulles International Airport Station;государство;1;1;from
+Q5313452;Dulles International Airport Station;административно-территориальная единица;1;1;from
+Q5253326;Delaware Offshore Wind Farm;географические координаты;1;1;from
+Q5253326;Delaware Offshore Wind Farm;это частный случай понятия;1;2;from
+Q5253326;Delaware Offshore Wind Farm;государство;1;1;from
+Q5100466;Chinese Giant Solar Telescope;это частный случай понятия;1;3;from
+Q5100466;Chinese Giant Solar Telescope;государство;1;1;from
+Q4858905;Piccadilly Tower;географические координаты;1;1;from
+Q5411505;EuroAsia Interconnector;длина;1;1;from
+Q5411505;EuroAsia Interconnector;частота;1;1;from
+Q5411505;EuroAsia Interconnector;электрическое напряжение;1;1;from
+Q5517491;Gaozi South railway station;часовой пояс;1;1;from
+Q5767167;Hingol Dam;это частный случай понятия;1;2;from
+Q5742279;Herndon Station;географические координаты;1;1;from
+Q5742279;Herndon Station;код станции;1;1;from
+Q5742279;Herndon Station;железнодорожная линия;1;1;from
+Q5742279;Herndon Station;это частный случай понятия;1;3;from
+Q5742279;Herndon Station;следующий остановочный пункт;1;2;to
+Q5742279;Herndon Station;изображение;1;1;from
+Q5742279;Herndon Station;государство;1;1;from
+Q5742279;Herndon Station;административно-территориальная единица;1;1;from
+Q5548529;Geoscope;это частный случай понятия;1;1;from
+Q5517491;Gaozi South railway station;железнодорожная линия;1;1;from
+Q5411505;EuroAsia Interconnector;пропускная способность;1;1;from
+Q5517491;Gaozi South railway station;это частный случай понятия;1;2;from
+Q5517491;Gaozi South railway station;государство;1;1;from
+Q5517491;Gaozi South railway station;оператор;1;1;from
+Q5517491;Gaozi South railway station;административно-территориальная единица;1;1;from
+Q5411505;EuroAsia Interconnector;дочерние компании (организации, учреждения);1;1;to
+Q5411505;EuroAsia Interconnector;официальный сайт;1;1;from
+Q5411505;EuroAsia Interconnector;материнская компания (организация, учреждение);1;1;from
+Q5411505;EuroAsia Interconnector;дата основания/создания/возникновения;1;1;from
+Q5411505;EuroAsia Interconnector;руководитель;1;1;from
+Q5411505;EuroAsia Interconnector;категория на Викискладе;1;1;from
+Q4858905;Piccadilly Tower;категория на Викискладе;1;1;from
+Q4858905;Piccadilly Tower;архитектор;1;1;from
+Q3664612;Кольская АЭС II;заменил;1;1;from
+Q4858905;Piccadilly Tower;это частный случай понятия;1;1;from
+Q4306128;Guggenheim Helsinki Plan;географические координаты;1;1;from
+Q4306128;Guggenheim Helsinki Plan;местонахождение;1;1;from
+Q4306128;Guggenheim Helsinki Plan;это частный случай понятия;1;2;from
+Q4306128;Guggenheim Helsinki Plan;изображение;1;1;from
+Q4306128;Guggenheim Helsinki Plan;государство;1;1;from
+Q4306128;Guggenheim Helsinki Plan;административно-территориальная единица;1;1;from
+Q4086643;Била гора (станция метро);географические координаты;1;1;from
+Q4086643;Била гора (станция метро);часть от;1;1;from
+Q4086643;Била гора (станция метро);это частный случай понятия;1;2;from
+Q4086643;Била гора (станция метро);государство;1;1;from
+Q4086643;Била гора (станция метро);административно-территориальная единица;1;1;from
+Q3981888;Teatro Comunale Pietro Aretino;вместимость;1;1;from
+Q3981888;Teatro Comunale Pietro Aretino;это частный случай понятия;1;2;from
+Q3981888;Teatro Comunale Pietro Aretino;государство;1;1;from
+Q3981888;Teatro Comunale Pietro Aretino;административно-территориальная единица;1;1;from
+Q3664619;Нижегородская АЭС;ключевое событие;1;2;from
+Q3664619;Нижегородская АЭС;географические координаты;1;1;from
+Q3664619;Нижегородская АЭС;выходная мощность;1;1;from
+Q3664619;Нижегородская АЭС;это частный случай понятия;1;2;from
+Q3664619;Нижегородская АЭС;государство;1;1;from
+Q3664619;Нижегородская АЭС;административно-территориальная единица;1;1;from
+Q3664619;Нижегородская АЭС;владельцем является;1;1;from
+Q3664612;Кольская АЭС II;географические координаты;1;1;from
+Q4412612;Северская АЭС;административно-территориальная единица;1;1;from
+Q4412612;Северская АЭС;государство;1;1;from
+Q4412612;Северская АЭС;это частный случай понятия;1;2;from
+Q4632903;29 South LaSalle;количество этажей;1;1;from
+Q4858905;Piccadilly Tower;государство;1;1;from
+Q4858905;Piccadilly Tower;административно-территориальная единица;1;1;from
+Q4788908;Arena Recife-Olinda;это частный случай понятия;1;1;from
+Q4788908;Arena Recife-Olinda;государство;1;1;from
+Q4689907;African Safari World;географические координаты;1;1;from
+Q4689907;African Safari World;дата основания/создания/возникновения;1;1;from
+Q4689907;African Safari World;это частный случай понятия;1;2;from
+Q4689907;African Safari World;государство;1;1;from
+Q4689907;African Safari World;административно-территориальная единица;1;1;from
+Q4632903;29 South LaSalle;географические координаты;1;1;from
+Q4632903;29 South LaSalle;архитектор;1;1;from
+Q4547311;111 First Street;административно-территориальная единица;1;1;from
+Q4632903;29 South LaSalle;это частный случай понятия;1;1;from
+Q4632903;29 South LaSalle;государство;1;1;from
+Q4632903;29 South LaSalle;административно-территориальная единица;1;1;from
+Q4547311;111 First Street;официальный сайт;1;1;from
+Q4547311;111 First Street;адрес;1;1;from
+Q4547311;111 First Street;географические координаты;1;1;from
+Q4547311;111 First Street;количество этажей;1;1;from
+Q4547311;111 First Street;архитектор;1;1;from
+Q4547311;111 First Street;это частный случай понятия;1;2;from
+Q4547311;111 First Street;государство;1;1;from
+Q5767167;Hingol Dam;географические координаты;1;1;from
+Q5767167;Hingol Dam;находится в пределах природно-географического объекта;1;1;from
+Q42938080;Sternkirche (project);создатель;1;1;from
+Q42938080;Sternkirche (project);это частный случай понятия;1;1;from
+Q48815340;Riverland Solar Storage;государство;1;1;from
+Q48815340;Riverland Solar Storage;административно-территориальная единица;1;1;from
+Q48757075;Q48757075;официальный сайт;1;1;from
+Q48757075;Q48757075;географические координаты;1;1;from
+Q48757075;Q48757075;это частный случай понятия;1;1;from
+Q48757075;Q48757075;государство;1;1;from
+Q48757075;Q48757075;административно-территориальная единица;1;1;from
+Q48727576;All India Institute of Medical Sciences, Deoghar;дата основания/создания/возникновения;1;1;from
+Q48727576;All India Institute of Medical Sciences, Deoghar;часть от;1;1;from
+Q48727576;All India Institute of Medical Sciences, Deoghar;это частный случай понятия;1;2;from
+Q48727576;All India Institute of Medical Sciences, Deoghar;государство;1;1;from
+Q48727576;All India Institute of Medical Sciences, Deoghar;административно-территориальная единица;1;1;from
+Q48527345;EuroAfrica Interconnector;дочерние компании (организации, учреждения);1;1;to
+Q48527345;EuroAfrica Interconnector;официальный сайт;1;1;from
+Q48527345;EuroAfrica Interconnector;материнская компания (организация, учреждение);1;1;from
+Q48527345;EuroAfrica Interconnector;категория на Викискладе;1;1;from
+Q48527345;EuroAfrica Interconnector;пропускная способность;1;1;from
+Q48527345;EuroAfrica Interconnector;электрическое напряжение;1;1;from
+Q48527345;EuroAfrica Interconnector;длина;1;1;from
+Q48527345;EuroAfrica Interconnector;это частный случай понятия;1;3;from
+Q48527345;EuroAfrica Interconnector;изображение;1;1;from
+Q48527345;EuroAfrica Interconnector;государство;1;3;from
+Q48527345;EuroAfrica Interconnector;генеральный директор;1;1;to
+Q48815340;Riverland Solar Storage;это частный случай понятия;1;2;from
+Q48815340;Riverland Solar Storage;географические координаты;1;1;from
+Q48858584;One Tower Brasil;административно-территориальная единица;1;1;from
+Q50333421;Q50333421;это частный случай понятия;1;2;from
+Q54933067;91st Street;это частный случай понятия;1;1;from
+Q54933067;91st Street;изображение;1;1;from
+Q54933067;91st Street;государство;1;1;from
+Q52312108;Q52312108;географические координаты;1;1;from
+Q52312108;Q52312108;категория на Викискладе;1;1;from
+Q52312108;Q52312108;это частный случай понятия;1;1;from
+Q52312108;Q52312108;изображение;1;1;from
+Q52312108;Q52312108;государство;1;1;from
+Q52312108;Q52312108;административно-территориальная единица;1;1;from
+Q50333421;Q50333421;географические координаты;1;1;from
+Q50333421;Q50333421;государство;1;1;from
+Q48858584;One Tower Brasil;государство;1;1;from
+Q50333421;Q50333421;административно-территориальная единица;1;1;from
+Q48926014;Q48926014;географические координаты;1;1;from
+Q48926014;Q48926014;длина;1;1;from
+Q48926014;Q48926014;это частный случай понятия;1;2;from
+Q48926014;Q48926014;государство;1;1;from
+Q48926014;Q48926014;административно-территориальная единица;1;2;from
+Q48858584;One Tower Brasil;не путать с;1;1;to
+Q48858584;One Tower Brasil;число лифтов;1;1;from
+Q48858584;One Tower Brasil;это частный случай понятия;1;2;from
+Q48858584;One Tower Brasil;изображение;1;1;from
+Q48527345;EuroAfrica Interconnector;расположение штаб-квартиры;1;1;from
+Q47321192;50 West 66th Street;расположен на улице;1;2;from
+Q47321192;50 West 66th Street;географические координаты;1;1;from
+Q45346362;Symultaniczny Theatre;EUTA theatre ID;1;1;from
+Q46326607;Total theatre;архитектор;1;1;from
+Q46326607;Total theatre;это частный случай понятия;1;2;from
+Q46326607;Total theatre;государство;1;1;from
+Q46326607;Total theatre;основатель;1;2;from
+Q45748307;Design of a theatre for Marseilles;EUTA theatre ID;1;1;from
+Q45748307;Design of a theatre for Marseilles;архитектор;1;1;from
+Q45748307;Design of a theatre for Marseilles;это частный случай понятия;1;2;from
+Q45748307;Design of a theatre for Marseilles;изображение;1;2;from
+Q45748307;Design of a theatre for Marseilles;государство;1;1;from
+Q45748307;Design of a theatre for Marseilles;административно-территориальная единица;1;1;from
+Q45346362;Symultaniczny Theatre;архитектор;1;2;from
+Q46326607;Total theatre;EUTA theatre ID;1;1;from
+Q45346362;Symultaniczny Theatre;это частный случай понятия;1;2;from
+Q45346362;Symultaniczny Theatre;государство;1;1;from
+Q45346362;Symultaniczny Theatre;административно-территориальная единица;1;1;from
+Q43334893;Wisconsin Theatre;адрес;1;1;from
+Q43334893;Wisconsin Theatre;географические координаты;1;1;from
+Q43334893;Wisconsin Theatre;код Cinema Treasures;1;1;from
+Q43334893;Wisconsin Theatre;это частный случай понятия;1;2;from
+Q43334893;Wisconsin Theatre;государство;1;1;from
+Q43334893;Wisconsin Theatre;административно-территориальная единица;1;1;from
+Q42938080;Sternkirche (project);момент времени;1;1;from
+Q46326607;Total theatre;дата официального открытия;1;1;from
+Q46326607;Total theatre;момент времени;1;1;from
+Q47321192;50 West 66th Street;высота/рост;1;1;from
+Q46596570;Teatro Estepona;государство;1;1;from
+Q47321192;50 West 66th Street;количество этажей;1;1;from
+Q47321192;50 West 66th Street;архитектор;1;1;from
+Q47321192;50 West 66th Street;это частный случай понятия;1;3;from
+Q47321192;50 West 66th Street;разработчик;1;1;from
+Q47321192;50 West 66th Street;государство;1;1;from
+Q47321192;50 West 66th Street;административно-территориальная единица;1;1;from
+Q46596570;Teatro Estepona;EUTA theatre ID;1;1;from
+Q46596570;Teatro Estepona;дата официального открытия;1;1;from
+Q46596570;Teatro Estepona;архитектор;1;1;from
+Q46596570;Teatro Estepona;это частный случай понятия;1;2;from
+Q46596570;Teatro Estepona;административно-территориальная единица;1;1;from
+Q46326607;Total theatre;описан на сайте;1;1;from
+Q46330938;New Globe Theater;официальный сайт;1;1;from
+Q46330938;New Globe Theater;находится в пределах природно-географического объекта;1;1;from
+Q46330938;New Globe Theater;EUTA theatre ID;1;1;from
+Q46330938;New Globe Theater;часть от;1;1;from
+Q46330938;New Globe Theater;дата официального открытия;1;1;from
+Q46330938;New Globe Theater;архитектор;1;2;from
+Q46330938;New Globe Theater;это частный случай понятия;1;2;from
+Q46330938;New Globe Theater;государство;1;1;from
+Q46330938;New Globe Theater;названо в честь;1;1;from
+Q46330938;New Globe Theater;административно-территориальная единица;1;1;from
+Q3664612;Кольская АЭС II;выходная мощность;1;1;from
+Q3664612;Кольская АЭС II;это частный случай понятия;1;2;from
+Q1739470;Trunk line 2;длина;1;1;from
+Q1958865;Q1958865;часть от;1;1;from
+Q2024065;1 Park Avenue;количество этажей;1;1;from
+Q2024065;1 Park Avenue;архитектор;1;2;from
+Q2024065;1 Park Avenue;это частный случай понятия;1;2;from
+Q2024065;1 Park Avenue;государство;1;1;from
+Q2024065;1 Park Avenue;административно-территориальная единица;1;1;from
+Q2015396;Q2015396;это частный случай понятия;1;2;from
+Q2015396;Q2015396;государство;1;2;from
+Q2015396;Q2015396;административно-территориальная единица;1;1;from
+Q1997429;Nord-Süd Stadtbahn;железнодорожная линия;1;9;to
+Q1997429;Nord-Süd Stadtbahn;официальный сайт;1;1;from
+Q1997429;Nord-Süd Stadtbahn;категория на Викискладе;1;1;from
+Q1997429;Nord-Süd Stadtbahn;часть от;1;1;from
+Q1997429;Nord-Süd Stadtbahn;длина;1;1;from
+Q1997429;Nord-Süd Stadtbahn;ширина колеи;1;1;from
+Q1997429;Nord-Süd Stadtbahn;это частный случай понятия;1;3;from
+Q1997429;Nord-Süd Stadtbahn;код GND;1;1;from
+Q1997429;Nord-Süd Stadtbahn;карта этой дороги;1;1;from
+Q1979853;Q1979853;географические координаты;1;1;from
+Q1979853;Q1979853;категория на Викискладе;1;1;from
+Q1979853;Q1979853;это частный случай понятия;1;1;from
+Q1979853;Q1979853;изображение;1;1;from
+Q1979853;Q1979853;государство;1;1;from
+Q1979853;Q1979853;административно-территориальная единица;1;1;from
+Q2024065;1 Park Avenue;код по Skyscraper Center;1;2;from
+Q2024065;1 Park Avenue;описывается в источниках;1;1;from
+Q2024065;1 Park Avenue;код BabelNet;1;1;from
+Q2138119;Q2138119;географические координаты;1;1;from
+Q2315172;Sri Ganesha Hindu Temple Berlin;административно-территориальная единица;1;2;from
+Q2204606;S21;категория объединяет темы;1;1;to
+Q2204606;S21;система электрификации;1;2;from
+Q2204606;S21;категория карт на Викискладе;1;1;from
+Q2204606;S21;категория на Викискладе;1;1;from
+Q2204606;S21;ширина колеи;1;1;from
+Q2204606;S21;это частный случай понятия;1;3;from
+Q2204606;S21;государство;1;1;from
+Q2204606;S21;карта этой дороги;1;1;from
+Q2204606;S21;административно-территориальная единица;1;2;from
+Q2138119;Q2138119;категория на Викискладе;1;1;from
+Q2024065;1 Park Avenue;идентификатор Emporis;1;1;from
+Q2138119;Q2138119;это частный случай понятия;1;1;from
+Q2138119;Q2138119;государство;1;1;from
+Q2138119;Q2138119;логотип;1;1;from
+Q2138119;Q2138119;административно-территориальная единица;1;1;from
+Q2121717;Q2121717;конечная;1;2;from
+Q2121717;Q2121717;это частный случай понятия;1;2;from
+Q2121717;Q2121717;изображение;1;1;from
+Q2121717;Q2121717;государство;1;1;from
+Q2121717;Q2121717;административно-территориальная единица;1;2;from
+Q2024065;1 Park Avenue;географические координаты;1;1;from
+Q1958865;Q1958865;дата основания/создания/возникновения;1;1;from
+Q1958865;Q1958865;местонахождение;1;1;from
+Q3664612;Кольская АЭС II;государство;1;1;from
+Q1958865;Q1958865;это частный случай понятия;1;1;from
+Q1879889;Eurostadium;вид спорта;1;1;from
+Q1879889;Eurostadium;географические координаты;1;1;from
+Q1879889;Eurostadium;обитатель;1;1;from
+Q1879889;Eurostadium;местонахождение;1;1;from
+Q1879889;Eurostadium;вместимость;1;1;from
+Q1879889;Eurostadium;это частный случай понятия;1;2;from
+Q1879889;Eurostadium;государство;1;1;from
+Q1879889;Eurostadium;административно-территориальная единица;1;1;from
+Q1879889;Eurostadium;владельцем является;1;1;from
+Q1739472;Tataria Nuclear Power Station;ключевое событие;1;2;from
+Q1739472;Tataria Nuclear Power Station;географические координаты;1;1;from
+Q1739472;Tataria Nuclear Power Station;категория на Викискладе;1;1;from
+Q1739472;Tataria Nuclear Power Station;выходная мощность;1;1;from
+Q1739472;Tataria Nuclear Power Station;это частный случай понятия;1;4;from
+Q1739472;Tataria Nuclear Power Station;изображение;1;1;from
+Q1739472;Tataria Nuclear Power Station;государство;1;2;from
+Q1739472;Tataria Nuclear Power Station;административно-территориальная единица;1;1;from
+Q1739470;Trunk line 2;железнодорожная линия;1;1;to
+Q1739470;Trunk line 2;система электрификации;1;2;from
+Q1739470;Trunk line 2;официальный сайт;1;1;from
+Q1739470;Trunk line 2;ключевое событие;1;1;from
+Q1739470;Trunk line 2;ограничение скорости;1;1;from
+Q1739470;Trunk line 2;наибольший уклон;1;1;from
+Q1879889;Eurostadium;владеет;1;1;to
+Q1884415;Q1884415;названо в честь;1;2;from
+Q1884415;Q1884415;это частный случай понятия;1;2;from
+Q1925888;Q1925888;карта этой дороги;1;1;from
+Q1925888;Q1925888;дата окончания;1;1;from
+Q1925888;Q1925888;конечная;1;2;from
+Q1925888;Q1925888;ограничение скорости;1;1;from
+Q1925888;Q1925888;стоимость;1;2;from
+Q1925888;Q1925888;продолжительность;1;1;from
+Q1925888;Q1925888;длина;1;1;from
+Q1925888;Q1925888;это частный случай понятия;1;2;from
+Q1925888;Q1925888;изображение;1;1;from
+Q1925888;Q1925888;государство;1;1;from
+Q1925888;Q1925888;следующее по порядку;1;1;from
+Q1916215;Mediaspree;категория на Викискладе;1;1;from
+Q1884415;Q1884415;конечная;1;2;from
+Q1916215;Mediaspree;организационно-правовая форма;1;1;from
+Q1916215;Mediaspree;текст девиза;1;1;from
+Q1916215;Mediaspree;это частный случай понятия;1;2;from
+Q1916215;Mediaspree;находится на берегу водоёма;1;1;from
+Q1916215;Mediaspree;изображение;1;1;from
+Q1916215;Mediaspree;расположение штаб-квартиры;1;1;from
+Q1916215;Mediaspree;логотип;1;1;from
+Q1916215;Mediaspree;названо в честь;1;1;from
+Q1884415;Q1884415;момент времени;1;1;from
+Q1884415;Q1884415;дата окончания;1;1;from
+Q2315172;Sri Ganesha Hindu Temple Berlin;государство;1;1;from
+Q2315172;Sri Ganesha Hindu Temple Berlin;изображение;1;1;from
+Q2315172;Sri Ganesha Hindu Temple Berlin;это частный случай понятия;1;2;from
+Q2315172;Sri Ganesha Hindu Temple Berlin;географические координаты;1;1;from
+Q3076424;Groninger Forum building;WorldCat Identities ID;1;1;from
+Q3076424;Groninger Forum building;K10plus editions;1;1;from
+Q3076424;Groninger Forum building;географические координаты;1;1;from
+Q3076424;Groninger Forum building;обитатель;1;3;from
+Q3076424;Groninger Forum building;категория на Викискладе;1;1;from
+Q3076424;Groninger Forum building;не путать с;1;1;to
+Q3076424;Groninger Forum building;это частный случай понятия;1;2;from
+Q3076424;Groninger Forum building;код GND;1;1;from
+Q3076424;Groninger Forum building;код VIAF;1;1;from
+Q3076424;Groninger Forum building;изображение;1;1;from
+Q3076424;Groninger Forum building;государство;1;1;from
+Q3076424;Groninger Forum building;административно-территориальная единица;1;1;from
+Q3060702;EuropaCity;официальный сайт;1;1;from
+Q3060702;EuropaCity;категория на Викискладе;1;1;from
+Q3060702;EuropaCity;учётная запись в Твиттере;1;1;from
+Q3060702;EuropaCity;это частный случай понятия;1;1;from
+Q3060702;EuropaCity;государство;1;1;from
+Q3060702;EuropaCity;административно-территориальная единица;1;1;from
+Q3046454;Bridge of the Horns;код Freebase;1;1;from
+Q3046454;Bridge of the Horns;географические координаты;1;1;from
+Q3046454;Bridge of the Horns;часть от;1;1;from
+Q3046454;Bridge of the Horns;это частный случай понятия;1;2;from
+Q3046454;Bridge of the Horns;государство;1;2;from
+Q3076424;Groninger Forum building;ключевое событие;1;2;from
+Q3076424;Groninger Forum building;официальный сайт;1;2;from
+Q3076424;Groninger Forum building;часть от;1;1;to
+Q3162836;Phare Tower;идентификатор Structurae;1;1;from
+Q3664612;Кольская АЭС II;административно-территориальная единица;1;1;from
+Q3537501;Transfer of the São Francisco River;категория на Викискладе;1;1;from
+Q3537501;Transfer of the São Francisco River;это частный случай понятия;1;2;from
+Q3537501;Transfer of the São Francisco River;изображение;1;1;from
+Q3537501;Transfer of the São Francisco River;государство;1;1;from
+Q3162836;Phare Tower;ключевое событие;1;1;from
+Q3162836;Phare Tower;код Freebase;1;1;from
+Q3162836;Phare Tower;адрес;1;1;from
+Q3162836;Phare Tower;географические координаты;1;1;from
+Q3162836;Phare Tower;идентификатор Emporis;1;1;from
+Q3162836;Phare Tower;PSS;1;1;from
+Q3102094;Q3102094;административно-территориальная единица;1;1;from
+Q3162836;Phare Tower;код здания на SkyscraperPage;1;1;from
+Q3162836;Phare Tower;код по Skyscraper Center;1;1;from
+Q3162836;Phare Tower;количество этажей;1;1;from
+Q3162836;Phare Tower;архитектор;1;1;from
+Q3162836;Phare Tower;это частный случай понятия;1;1;from
+Q3162836;Phare Tower;государство;1;1;from
+Q3162836;Phare Tower;административно-территориальная единица;1;1;from
+Q3102094;Q3102094;это частный случай понятия;1;2;from
+Q3102094;Q3102094;изображение;1;1;from
+Q3102094;Q3102094;государство;1;1;from
+Q2944616;Троицкая АЭС;ключевое событие;1;1;from
+Q2944616;Троицкая АЭС;географические координаты;1;1;from
+Q2944616;Троицкая АЭС;это частный случай понятия;1;3;from
+Q2477176;Line D;логотип;1;1;from
+Q2477791;Ultranet;это частный случай понятия;1;2;from
+Q2477791;Ultranet;государство;1;1;from
+Q2477176;Line D;общая тема категории;1;1;to
+Q2477176;Line D;официальный сайт;1;1;from
+Q2477176;Line D;маршрутная карта;1;1;from
+Q2477176;Line D;категория на Викискладе;1;1;from
+Q2477176;Line D;часть от;1;1;from
+Q2477176;Line D;это частный случай понятия;1;2;from
+Q2477176;Line D;изображение;1;1;from
+Q2477176;Line D;государство;1;1;from
+Q2477176;Line D;административно-территориальная единица;1;1;from
+Q2513450;Q2513450;государство;1;1;from
+Q2441199;Q2441199;местонахождение;1;1;to
+Q2441199;Q2441199;категория на Викискладе;1;1;from
+Q2441199;Q2441199;это частный случай понятия;1;1;from
+Q2441199;Q2441199;государство;1;1;from
+Q2441199;Q2441199;административно-территориальная единица;1;1;from
+Q2432343;I-35W/US 10/I-694 North Central Corridor Reconstruction Project;это частный случай понятия;1;1;from
+Q2432343;I-35W/US 10/I-694 North Central Corridor Reconstruction Project;государство;1;1;from
+Q2432343;I-35W/US 10/I-694 North Central Corridor Reconstruction Project;система автомагистралей;1;3;from
+Q2432343;I-35W/US 10/I-694 North Central Corridor Reconstruction Project;владельцем является;1;1;from
+Q2432343;I-35W/US 10/I-694 North Central Corridor Reconstruction Project;ответственность несёт;1;1;from
+Q2513450;Q2513450;административно-территориальная единица;1;1;from
+Q2513450;Q2513450;это частный случай понятия;1;1;from
+Q2944616;Троицкая АЭС;государство;1;2;from
+Q2542153;Q2542153;государство;1;1;from
+Q2944616;Троицкая АЭС;административно-территориальная единица;1;1;from
+Q2631040;Q2631040;это частный случай понятия;1;1;from
+Q2551532;Q2551532;это частный случай понятия;1;1;from
+Q2551532;Q2551532;государство;1;1;from
+Q2551532;Q2551532;административно-территориальная единица;1;1;from
+Q2542153;Q2542153;географические координаты;1;1;from
+Q2542153;Q2542153;местонахождение;1;1;from
+Q2542153;Q2542153;это частный случай понятия;1;2;from
+Q2542153;Q2542153;изображение;1;1;from
+Q2542153;Q2542153;проходит над/под;1;1;from
+Q2542153;Q2542153;административно-территориальная единица;1;1;from
+Q2513450;Q2513450;код по Skyscraper Center;1;1;from
+Q2516381;Q2516381;основная тема;1;1;from
+Q2516381;Q2516381;официальный сайт;1;1;from
+Q2516381;Q2516381;часть от;1;1;to
+Q2516381;Q2516381;длина;1;1;from
+Q2516381;Q2516381;короткое название;1;1;from
+Q2516381;Q2516381;это частный случай понятия;1;1;from
+Q2516381;Q2516381;государство;1;1;from
+Q2516381;Q2516381;карта этой дороги;1;1;from
+Q2516381;Q2516381;административно-территориальная единица;1;1;from
+Q2513450;Q2513450;официальное название;1;1;from
+Q42321557;Stoltenstraße;географические координаты;1;1;from

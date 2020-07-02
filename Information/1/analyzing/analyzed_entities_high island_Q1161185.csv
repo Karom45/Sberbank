@@ -1,0 +1,1316 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q28048;Raoul Island;государство;1;1;from
+Q1191120;Hachijō-jima;изображение;1;1;from
+Q1191120;Hachijō-jima;административно-территориальная единица;1;1;from
+Q1191108;Nii-jima;место смерти;1;1;to
+Q1191108;Nii-jima;конечная;1;1;to
+Q1191108;Nii-jima;происходит из;1;1;to
+Q1191108;Nii-jima;состоит из;1;1;to
+Q1191108;Nii-jima;код Freebase;1;1;from
+Q1191108;Nii-jima;географические координаты;1;1;from
+Q1191108;Nii-jima;VOGRIPA ID;1;1;from
+Q1191108;Nii-jima;ID отношения в OpenStreetMap;1;1;from
+Q1191108;Nii-jima;категория на Викискладе;1;1;from
+Q1191108;Nii-jima;часть от;1;1;from
+Q1191108;Nii-jima;код NDL;1;1;from
+Q1191108;Nii-jima;находится в охранной зоне;1;1;from
+Q1191108;Nii-jima;ширина;1;1;from
+Q1191108;Nii-jima;площадь;1;1;from
+Q1191108;Nii-jima;высота над уровнем моря;1;1;from
+Q1191108;Nii-jima;длина;1;1;from
+Q1191120;Hachijō-jima;государство;1;1;from
+Q1191120;Hachijō-jima;находится на берегу водоёма;1;1;from
+Q1384924;Farallon de Pajaros;карта местонахождения;1;1;from
+Q1191120;Hachijō-jima;код VIAF;1;1;from
+Q1191120;Hachijō-jima;место рождения;1;1;to
+Q1191120;Hachijō-jima;состоит из;1;1;to
+Q1191120;Hachijō-jima;код Freebase;1;1;from
+Q1191120;Hachijō-jima;географические координаты;1;1;from
+Q1191120;Hachijō-jima;VOGRIPA ID;1;1;from
+Q1191120;Hachijō-jima;ID отношения в OpenStreetMap;1;1;from
+Q1191120;Hachijō-jima;категория на Викискладе;1;1;from
+Q1191120;Hachijō-jima;часть от;1;2;from
+Q1191120;Hachijō-jima;код NDL;1;1;from
+Q1191120;Hachijō-jima;находится в охранной зоне;1;1;from
+Q1191120;Hachijō-jima;код BabelNet;1;1;from
+Q1191120;Hachijō-jima;площадь;1;1;from
+Q1191120;Hachijō-jima;код вулкана в Smithsonian;1;1;from
+Q1191120;Hachijō-jima;код TGN;1;1;from
+Q1191120;Hachijō-jima;код GeoNames;1;1;from
+Q1191120;Hachijō-jima;это частный случай понятия;1;1;from
+Q1191120;Hachijō-jima;код GND;1;1;from
+Q1191108;Nii-jima;не путать с;1;1;to
+Q1191108;Nii-jima;код вулкана в Smithsonian;1;1;from
+Q1191108;Nii-jima;написание каной;1;1;from
+Q1191108;Nii-jima;название на языке оригинала;1;1;from
+Q1126761;Pagan;площадь;1;1;from
+Q1126761;Pagan;длина;1;1;from
+Q1126761;Pagan;код вулкана в Smithsonian;1;1;from
+Q1126761;Pagan;код GeoNames;1;1;from
+Q1126761;Pagan;код в энциклопедии «Британника онлайн»;1;1;from
+Q1126761;Pagan;код в Большой каталанской энциклопедии;1;1;from
+Q1126761;Pagan;код US National Archives;1;1;from
+Q1126761;Pagan;численность населения;1;1;from
+Q1126761;Pagan;это частный случай понятия;1;1;from
+Q1126761;Pagan;код LCNAF;1;1;from
+Q1126761;Pagan;карта местонахождения;1;1;from
+Q1126761;Pagan;код VIAF;1;1;from
+Q1126761;Pagan;находится на берегу водоёма;1;1;from
+Q1126761;Pagan;изображение;1;1;from
+Q1126761;Pagan;государство;1;1;from
+Q1126761;Pagan;административно-территориальная единица;1;1;from
+Q1096095;Trindade;изображённый объект;1;1;to
+Q1126761;Pagan;ширина;1;1;from
+Q1126761;Pagan;часть от;1;1;from
+Q1126761;Pagan;категория на Викискладе;1;1;from
+Q1191108;Nii-jima;государство;1;1;from
+Q1191108;Nii-jima;код GeoNames;1;1;from
+Q1191108;Nii-jima;код в Большой каталанской энциклопедии;1;1;from
+Q1191108;Nii-jima;численность населения;1;1;from
+Q1191108;Nii-jima;это частный случай понятия;1;1;from
+Q1191108;Nii-jima;код VIAF;1;1;from
+Q1191108;Nii-jima;находится на берегу водоёма;1;1;from
+Q1191108;Nii-jima;изображение;1;1;from
+Q1191108;Nii-jima;административно-территориальная единица;1;1;to
+Q1126761;Pagan;ID отношения в OpenStreetMap;1;1;from
+Q1126761;Pagan;обслуживаемый город;1;1;to
+Q1126761;Pagan;названо в честь;1;1;to
+Q1126761;Pagan;находится в пределах природно-географического объекта;1;1;to
+Q1126761;Pagan;код Freebase;1;1;from
+Q1126761;Pagan;географические координаты;1;1;from
+Q1126761;Pagan;VOGRIPA ID;1;1;from
+Q1126761;Pagan;часовой пояс;1;1;from
+Q1191120;Hachijō-jima;место смерти;1;2;to
+Q1191120;Hachijō-jima;названо в честь;1;1;to
+Q1191120;Hachijō-jima;обслуживаемый город;1;1;to
+Q1266916;Long Island;государство;1;1;from
+Q1310153;Leskov Island;изображение;1;1;from
+Q1310153;Leskov Island;государство;1;1;from
+Q1310153;Leskov Island;административно-территориальная единица;1;1;from
+Q1266916;Long Island;местонахождение;1;1;to
+Q1266916;Long Island;код Freebase;1;1;from
+Q1266916;Long Island;географические координаты;1;1;from
+Q1266916;Long Island;VOGRIPA ID;1;1;from
+Q1266916;Long Island;часовой пояс;1;1;from
+Q1266916;Long Island;площадь;1;1;from
+Q1266916;Long Island;высота над уровнем моря;1;1;from
+Q1266916;Long Island;код вулкана в Smithsonian;1;1;from
+Q1266916;Long Island;код GeoNames;1;1;from
+Q1266916;Long Island;численность населения;1;1;from
+Q1266916;Long Island;это частный случай понятия;1;1;from
+Q1266916;Long Island;код GND;1;1;from
+Q1266916;Long Island;код VIAF;1;1;from
+Q1266916;Long Island;находится на берегу водоёма;1;1;from
+Q1310153;Leskov Island;находится на берегу водоёма;1;1;from
+Q1310153;Leskov Island;карта местонахождения;1;1;from
+Q1310153;Leskov Island;это частный случай понятия;1;1;from
+Q1310153;Leskov Island;код для сущности Wolfram Language;1;1;from
+Q1384924;Farallon de Pajaros;изображение;1;1;from
+Q1384924;Farallon de Pajaros;государство;1;1;from
+Q1384924;Farallon de Pajaros;административно-территориальная единица;1;1;from
+Q1310153;Leskov Island;антарктический код GNIS;1;1;from
+Q1310153;Leskov Island;находится в пределах природно-географического объекта;1;1;to
+Q1310153;Leskov Island;код Freebase;1;1;from
+Q1310153;Leskov Island;географические координаты;1;1;from
+Q1310153;Leskov Island;VOGRIPA ID;1;1;from
+Q1310153;Leskov Island;численность населения;1;1;from
+Q1310153;Leskov Island;часовой пояс;1;1;from
+Q1310153;Leskov Island;категория на Викискладе;1;1;from
+Q1310153;Leskov Island;часть от;1;1;from
+Q1310153;Leskov Island;площадь;1;1;from
+Q1310153;Leskov Island;код вулкана в Smithsonian;1;1;from
+Q1310153;Leskov Island;код TGN;1;1;from
+Q1310153;Leskov Island;код GeoNames;1;1;from
+Q1266916;Long Island;изображение;1;1;from
+Q1266916;Long Island;административно-территориальная единица;1;1;from
+Q1191120;Hachijō-jima;происходит из;1;1;to
+Q1266576;Lolobau Island;географические координаты;1;2;from
+Q1197235;Mikura-jima;категория на Викискладе;1;1;from
+Q1197235;Mikura-jima;часть от;1;2;from
+Q1197235;Mikura-jima;код NDL;1;1;from
+Q1197235;Mikura-jima;находится в охранной зоне;1;1;from
+Q1197235;Mikura-jima;ширина;1;1;from
+Q1197235;Mikura-jima;площадь;1;1;from
+Q1197235;Mikura-jima;высота над уровнем моря;1;1;from
+Q1197235;Mikura-jima;длина;1;1;from
+Q1197235;Mikura-jima;не путать с;1;1;to
+Q1197235;Mikura-jima;код вулкана в Smithsonian;1;1;from
+Q1197235;Mikura-jima;код GeoNames;1;1;from
+Q1197235;Mikura-jima;это частный случай понятия;1;1;from
+Q1197235;Mikura-jima;код VIAF;1;1;from
+Q1197235;Mikura-jima;находится на берегу водоёма;1;1;from
+Q1197235;Mikura-jima;изображение;1;1;from
+Q1197235;Mikura-jima;государство;1;1;from
+Q1197235;Mikura-jima;административно-территориальная единица;1;2;from
+Q1197235;Mikura-jima;ID отношения в OpenStreetMap;1;1;from
+Q1197235;Mikura-jima;VOGRIPA ID;1;1;from
+Q1197235;Mikura-jima;географические координаты;1;1;from
+Q1266576;Lolobau Island;это частный случай понятия;1;1;from
+Q1266576;Lolobau Island;VOGRIPA ID;1;1;from
+Q1266576;Lolobau Island;часть от;1;1;from
+Q1266576;Lolobau Island;код GNS;1;1;from
+Q1266576;Lolobau Island;площадь;1;1;from
+Q1266576;Lolobau Island;код вулкана в Smithsonian;1;1;from
+Q1266576;Lolobau Island;код GeoNames;1;1;from
+Q1266576;Lolobau Island;код в Большой каталанской энциклопедии;1;1;from
+Q1266576;Lolobau Island;находится на берегу водоёма;1;1;from
+Q1197235;Mikura-jima;код Freebase;1;1;from
+Q1266576;Lolobau Island;изображение;1;1;from
+Q1266576;Lolobau Island;государство;1;1;from
+Q1266576;Lolobau Island;административно-территориальная единица;1;1;from
+Q1197235;Mikura-jima;названо в честь;1;1;to
+Q1197235;Mikura-jima;конечная;1;1;to
+Q1197235;Mikura-jima;происходит из;1;1;to
+Q1197235;Mikura-jima;состоит из;1;1;to
+Q1096095;Trindade;состоит из;1;1;to
+Q1096095;Trindade;местонахождение;1;1;to
+Q1096095;Trindade;находится в пределах природно-географического объекта;1;1;to
+Q1058241;Chagulak Island;изображение;1;1;from
+Q1070580;Izu Ōshima;административно-территориальная единица;1;1;to
+Q1058241;Chagulak Island;код Freebase;1;1;from
+Q1058241;Chagulak Island;географические координаты;1;1;from
+Q1058241;Chagulak Island;код GNIS;1;1;from
+Q1058241;Chagulak Island;VOGRIPA ID;1;1;from
+Q1058241;Chagulak Island;вулканическая обсерватория;1;1;from
+Q1058241;Chagulak Island;категория на Викискладе;1;1;from
+Q1058241;Chagulak Island;высота над уровнем моря;1;1;from
+Q1058241;Chagulak Island;код вулкана в Smithsonian;1;1;from
+Q1058241;Chagulak Island;название на языке оригинала;1;1;from
+Q1058241;Chagulak Island;код TGN;1;1;from
+Q1058241;Chagulak Island;код GeoNames;1;1;from
+Q1058241;Chagulak Island;код в Большой каталанской энциклопедии;1;1;from
+Q1058241;Chagulak Island;код US National Archives;1;1;from
+Q1058241;Chagulak Island;численность населения;1;1;from
+Q1058241;Chagulak Island;это частный случай понятия;1;1;from
+Q1058241;Chagulak Island;код LCNAF;1;1;from
+Q1070580;Izu Ōshima;государство;1;1;from
+Q1070580;Izu Ōshima;изображение;1;1;from
+Q1070580;Izu Ōshima;находится на берегу водоёма;1;1;from
+Q1070580;Izu Ōshima;находится в охранной зоне;1;1;from
+Q1070580;Izu Ōshima;наивысшая точка;1;1;from
+Q1070580;Izu Ōshima;VOGRIPA ID;1;1;from
+Q1070580;Izu Ōshima;часовой пояс;1;1;from
+Q1070580;Izu Ōshima;ID отношения в OpenStreetMap;1;1;from
+Q1070580;Izu Ōshima;категория на Викискладе;1;1;from
+Q1070580;Izu Ōshima;часть от;1;2;from
+Q1070580;Izu Ōshima;код NDL;1;1;from
+Q1070580;Izu Ōshima;ширина;1;1;from
+Q1070580;Izu Ōshima;код VIAF;1;1;from
+Q1070580;Izu Ōshima;площадь;1;1;from
+Q1070580;Izu Ōshima;длина;1;1;from
+Q1070580;Izu Ōshima;код вулкана в Smithsonian;1;1;from
+Q1070580;Izu Ōshima;код GeoNames;1;1;from
+Q1070580;Izu Ōshima;численность населения;1;1;from
+Q1070580;Izu Ōshima;столица;1;1;from
+Q1070580;Izu Ōshima;это частный случай понятия;1;1;from
+Q1058241;Chagulak Island;находится на берегу водоёма;1;1;from
+Q1058241;Chagulak Island;государство;1;1;from
+Q1070580;Izu Ōshima;код Freebase;1;1;from
+Q1058241;Chagulak Island;административно-территориальная единица;1;1;from
+Q1036287;El Hierro;категория карт на Викискладе;1;1;from
+Q1036287;El Hierro;находится в пределах природно-географического объекта;1;3;to
+Q1036287;El Hierro;код NKC;1;1;from
+Q1036287;El Hierro;код Freebase;1;1;from
+Q1036287;El Hierro;географические координаты;1;1;from
+Q1036287;El Hierro;наивысшая точка;1;1;from
+Q1036287;El Hierro;код NUTS;1;1;from
+Q1036287;El Hierro;идентификатор местоположения ArchINFORM;1;1;from
+Q1036287;El Hierro;VOGRIPA ID;1;1;from
+Q1036287;El Hierro;часовой пояс;1;1;from
+Q1036287;El Hierro;ID отношения в OpenStreetMap;1;1;from
+Q1036287;El Hierro;категория на Викискладе;1;1;from
+Q1036287;El Hierro;часть от;1;1;from
+Q1036287;El Hierro;код темы Quora;1;1;from
+Q1036287;El Hierro;код BNF;1;1;from
+Q1036287;El Hierro;код YSO;1;1;from
+Q1036287;El Hierro;площадь;1;1;from
+Q1036287;El Hierro;официальный сайт;1;2;from
+Q1036287;El Hierro;основная категория по теме;1;1;from
+Q1036287;El Hierro;галерея на Викискладе;1;1;from
+Q1036287;El Hierro;местонахождение;1;4;to
+Q1036287;El Hierro;административно делится на;1;1;to
+Q1036287;El Hierro;общая тема категории;1;1;to
+Q1036287;El Hierro;место съёмок;1;1;to
+Q1036287;El Hierro;история происходит в месте;1;1;to
+Q1036287;El Hierro;юрисдикция распространяется на;1;1;to
+Q1036287;El Hierro;место жительства;1;1;to
+Q1036287;El Hierro;категория объединяет темы;1;4;to
+Q1036287;El Hierro;место рождения;1;5;to
+Q1036287;El Hierro;баннер Викигида;1;1;from
+Q1036287;El Hierro;основная тема;1;2;to
+Q1036287;El Hierro;является столицей;1;1;to
+Q1036287;El Hierro;является эндемиком в;1;1;to
+Q1036287;El Hierro;обслуживаемый город;1;1;to
+Q1036287;El Hierro;названо в честь;1;1;to
+Q1036287;El Hierro;dmoz;1;1;from
+Q1036287;El Hierro;место в MusicBrainz;1;1;from
+Q1070580;Izu Ōshima;географические координаты;1;1;from
+Q1070580;Izu Ōshima;находится в пределах природно-географического объекта;1;1;to
+Q1096095;Trindade;географические координаты;1;2;from
+Q1096067;Kiska;находится на берегу водоёма;1;1;from
+Q1096067;Kiska;ID отношения в OpenStreetMap;1;1;from
+Q1096067;Kiska;вулканическая обсерватория;1;1;from
+Q1096067;Kiska;категория на Викискладе;1;1;from
+Q1096067;Kiska;часть от;1;1;from
+Q1096067;Kiska;код BabelNet;1;1;from
+Q1096067;Kiska;ширина;1;1;from
+Q1096067;Kiska;площадь;1;1;from
+Q1096067;Kiska;высота над уровнем моря;1;1;from
+Q1096067;Kiska;длина;1;1;from
+Q1096067;Kiska;подробная карта;1;1;from
+Q1096067;Kiska;код GeoNames;1;1;from
+Q1096067;Kiska;код в энциклопедии «Британника онлайн»;1;1;from
+Q1096067;Kiska;код в Большой каталанской энциклопедии;1;1;from
+Q1096067;Kiska;код US National Archives;1;1;from
+Q1096067;Kiska;численность населения;1;1;from
+Q1096067;Kiska;это частный случай понятия;1;1;from
+Q1096067;Kiska;код LCNAF;1;1;from
+Q1096067;Kiska;идентификатор местоположения ArchINFORM;1;1;from
+Q1096067;Kiska;географические координаты;1;1;from
+Q1096067;Kiska;код Freebase;1;1;from
+Q1096095;Trindade;код GeoNames;1;1;from
+Q1096095;Trindade;VOGRIPA ID;1;1;from
+Q1096095;Trindade;часть от;1;1;from
+Q1096095;Trindade;ширина;1;1;from
+Q1096095;Trindade;площадь;1;1;from
+Q1096095;Trindade;высота над уровнем моря;1;1;from
+Q1096095;Trindade;длина;1;1;from
+Q1096095;Trindade;код вулкана в Smithsonian;1;1;from
+Q1096095;Trindade;численность населения;1;1;from
+Q1096067;Kiska;находится в пределах природно-географического объекта;1;3;to
+Q1096095;Trindade;это частный случай понятия;1;1;from
+Q1096095;Trindade;находится на берегу водоёма;1;1;from
+Q1096095;Trindade;изображение;1;1;from
+Q1096095;Trindade;государство;1;1;from
+Q1096095;Trindade;названо в честь;1;1;from
+Q1096095;Trindade;административно-территориальная единица;1;1;from
+Q1096067;Kiska;местонахождение;1;2;to
+Q1096067;Kiska;код VIAF;1;1;from
+Q1096067;Kiska;изображение;1;1;from
+Q1070580;Izu Ōshima;официальный сайт;1;1;from
+Q1096067;Kiska;государство;1;1;from
+Q1075076;Miyakejima;высота над уровнем моря;1;1;from
+Q1075076;Miyakejima;длина;1;1;from
+Q1075076;Miyakejima;код вулкана в Smithsonian;1;1;from
+Q1075076;Miyakejima;код TGN;1;1;from
+Q1075076;Miyakejima;код GeoNames;1;1;from
+Q1075076;Miyakejima;численность населения;1;1;from
+Q1075076;Miyakejima;это частный случай понятия;1;1;from
+Q1075076;Miyakejima;код VIAF;1;1;from
+Q1075076;Miyakejima;находится на берегу водоёма;1;1;from
+Q1075076;Miyakejima;изображение;1;1;from
+Q1075076;Miyakejima;государство;1;1;from
+Q1075076;Miyakejima;административно-территориальная единица;1;2;from
+Q1070580;Izu Ōshima;является столицей;1;1;to
+Q1070580;Izu Ōshima;происходит из;1;1;to
+Q1070580;Izu Ōshima;состоит из;1;1;to
+Q1070580;Izu Ōshima;местонахождение;1;1;to
+Q1070580;Izu Ōshima;баннер Викигида;1;1;from
+Q1075076;Miyakejima;площадь;1;1;from
+Q1075076;Miyakejima;ширина;1;1;from
+Q1075076;Miyakejima;находится в охранной зоне;1;1;from
+Q1075076;Miyakejima;находится в пределах природно-географического объекта;1;1;to
+Q1096067;Kiska;административно-территориальная единица;1;1;from
+Q1075076;Miyakejima;место смерти;1;1;to
+Q1075076;Miyakejima;обслуживаемый город;1;1;to
+Q1075076;Miyakejima;названо в честь;1;2;to
+Q1075076;Miyakejima;происходит из;1;1;to
+Q1075076;Miyakejima;состоит из;1;1;to
+Q1075076;Miyakejima;официальный сайт;1;1;from
+Q1075076;Miyakejima;код Freebase;1;1;from
+Q1075076;Miyakejima;код NDL;1;1;from
+Q1075076;Miyakejima;географические координаты;1;12;from
+Q1075076;Miyakejima;наивысшая точка;1;1;from
+Q1075076;Miyakejima;VOGRIPA ID;1;1;from
+Q1075076;Miyakejima;часовой пояс;1;1;from
+Q1075076;Miyakejima;ID отношения в OpenStreetMap;1;1;from
+Q1075076;Miyakejima;категория на Викискладе;1;1;from
+Q1075076;Miyakejima;часть от;1;2;from
+Q1384924;Farallon de Pajaros;находится на берегу водоёма;1;1;from
+Q1384924;Farallon de Pajaros;часть света;1;1;from
+Q1036287;El Hierro;код вулкана в Smithsonian;1;1;from
+Q1965316;Narcondam Island;код Freebase;1;1;from
+Q1965316;Narcondam Island;VOGRIPA ID;1;1;from
+Q1965316;Narcondam Island;часовой пояс;1;1;from
+Q1965316;Narcondam Island;код в Предварительном списке Всемирного наследия;1;1;from
+Q1965316;Narcondam Island;категория на Викискладе;1;1;from
+Q1965316;Narcondam Island;часть от;1;1;from
+Q1965316;Narcondam Island;критерий Всемирного наследия;1;3;from
+Q1965316;Narcondam Island;ширина;1;1;from
+Q1965316;Narcondam Island;площадь;1;1;from
+Q1965316;Narcondam Island;высота над уровнем моря;1;1;from
+Q1965316;Narcondam Island;длина;1;1;from
+Q1965316;Narcondam Island;код вулкана в Smithsonian;1;1;from
+Q1965316;Narcondam Island;код GeoNames;1;1;from
+Q1965316;Narcondam Island;статус наследия;1;5;from
+Q1965316;Narcondam Island;численность населения;1;1;from
+Q1965316;Narcondam Island;это частный случай понятия;1;1;from
+Q1965316;Narcondam Island;находится на берегу водоёма;1;2;from
+Q1965316;Narcondam Island;изображение;1;1;from
+Q1965316;Narcondam Island;географические координаты;1;1;from
+Q1965316;Narcondam Island;состоит из;1;1;to
+Q1384924;Farallon de Pajaros;это частный случай понятия;1;1;from
+Q2030657;Semisopochnoi Island;административно-территориальная единица;1;1;from
+Q2030657;Semisopochnoi Island;категория на Викискладе;1;1;from
+Q2030657;Semisopochnoi Island;часть от;1;1;from
+Q2030657;Semisopochnoi Island;ширина;1;1;from
+Q2030657;Semisopochnoi Island;площадь;1;1;from
+Q2030657;Semisopochnoi Island;высота над уровнем моря;1;1;from
+Q2030657;Semisopochnoi Island;длина;1;1;from
+Q2030657;Semisopochnoi Island;код вулкана в Smithsonian;1;1;from
+Q2030657;Semisopochnoi Island;код GeoNames;1;1;from
+Q2030657;Semisopochnoi Island;код в энциклопедии «Британника онлайн»;1;1;from
+Q2030657;Semisopochnoi Island;код в Большой каталанской энциклопедии;1;1;from
+Q2030657;Semisopochnoi Island;код US National Archives;1;1;from
+Q2030657;Semisopochnoi Island;численность населения;1;1;from
+Q2030657;Semisopochnoi Island;это частный случай понятия;1;1;from
+Q2030657;Semisopochnoi Island;находится на берегу водоёма;1;1;from
+Q2030657;Semisopochnoi Island;изображение;1;1;from
+Q2030657;Semisopochnoi Island;является частью цикла;1;1;from
+Q2030657;Semisopochnoi Island;государство;1;1;from
+Q1965316;Narcondam Island;государство;1;1;from
+Q1965316;Narcondam Island;административно-территориальная единица;1;1;from
+Q1812891;Herbert Island;код Freebase;1;1;from
+Q1812891;Herbert Island;географические координаты;1;2;from
+Q1734831;Kasatochi Island;категория на Викискладе;1;1;from
+Q1734831;Kasatochi Island;часть от;1;1;from
+Q1734831;Kasatochi Island;относительная высота;1;1;from
+Q1734831;Kasatochi Island;ширина;1;1;from
+Q1734831;Kasatochi Island;площадь;1;1;from
+Q1734831;Kasatochi Island;высота над уровнем моря;1;1;from
+Q1734831;Kasatochi Island;длина;1;1;from
+Q1734831;Kasatochi Island;код вулкана в Smithsonian;1;1;from
+Q1734831;Kasatochi Island;код GeoNames;1;1;from
+Q1734831;Kasatochi Island;код в Большой каталанской энциклопедии;1;1;from
+Q1734831;Kasatochi Island;численность населения;1;1;from
+Q1734831;Kasatochi Island;это частный случай понятия;1;1;from
+Q1734831;Kasatochi Island;код LCNAF;1;1;from
+Q1734831;Kasatochi Island;находится на берегу водоёма;1;1;from
+Q1734831;Kasatochi Island;изображение;1;1;from
+Q1734831;Kasatochi Island;государство;1;1;from
+Q1734831;Kasatochi Island;административно-территориальная единица;1;1;from
+Q1734831;Kasatochi Island;вулканическая обсерватория;1;1;from
+Q1734831;Kasatochi Island;часовой пояс;1;1;from
+Q1734831;Kasatochi Island;VOGRIPA ID;1;1;from
+Q1812891;Herbert Island;код GeoNames;1;1;from
+Q1812891;Herbert Island;код GNIS;1;1;from
+Q1812891;Herbert Island;VOGRIPA ID;1;1;from
+Q1812891;Herbert Island;вулканическая обсерватория;1;1;from
+Q1812891;Herbert Island;категория на Викискладе;1;1;from
+Q1812891;Herbert Island;высота над уровнем моря;1;1;from
+Q1812891;Herbert Island;код вулкана в Smithsonian;1;1;from
+Q1812891;Herbert Island;код TGN;1;1;from
+Q1812891;Herbert Island;это частный случай понятия;1;1;from
+Q1734831;Kasatochi Island;код GNIS;1;1;from
+Q1812891;Herbert Island;находится на берегу водоёма;1;1;from
+Q1812891;Herbert Island;изображение;1;1;from
+Q1812891;Herbert Island;государство;1;1;from
+Q1812891;Herbert Island;административно-территориальная единица;1;1;from
+Q1734831;Kasatochi Island;находится в пределах природно-географического объекта;1;1;from
+Q1734831;Kasatochi Island;код Freebase;1;1;from
+Q1734831;Kasatochi Island;географические координаты;1;1;from
+Q2030657;Semisopochnoi Island;вулканическая обсерватория;1;1;from
+Q2030657;Semisopochnoi Island;ID отношения в OpenStreetMap;1;1;from
+Q2030657;Semisopochnoi Island;VOGRIPA ID;1;1;from
+Q3468150;St. Michael Island;находится на берегу водоёма;1;1;from
+Q3562734;Volcano Island;географические координаты;1;1;from
+Q3562734;Volcano Island;код GNS;1;1;from
+Q3562734;Volcano Island;высота над уровнем моря;1;1;from
+Q3562734;Volcano Island;код GeoNames;1;1;from
+Q3562734;Volcano Island;код в энциклопедии «Британника онлайн»;1;1;from
+Q3562734;Volcano Island;это частный случай понятия;1;1;from
+Q3562734;Volcano Island;код LCNAF;1;1;from
+Q3562734;Volcano Island;код VIAF;1;1;from
+Q3562734;Volcano Island;находится на берегу водоёма;1;1;from
+Q3562734;Volcano Island;изображение;1;1;from
+Q3562734;Volcano Island;государство;1;1;from
+Q3562734;Volcano Island;административно-территориальная единица;1;1;from
+Q3468150;St. Michael Island;код Freebase;1;1;from
+Q3468150;St. Michael Island;географические координаты;1;1;from
+Q3468150;St. Michael Island;вулканическая обсерватория;1;1;from
+Q3468150;St. Michael Island;категория на Викискладе;1;1;from
+Q3468150;St. Michael Island;код GeoNames;1;1;from
+Q3562734;Volcano Island;находится в пределах природно-географического объекта;1;2;to
+Q15052147;Boisa;административно-территориальная единица;1;1;from
+Q15052147;Boisa;государство;1;1;from
+Q15052147;Boisa;VOGRIPA ID;1;1;from
+Q18357043;Sergief Island;вулканическая обсерватория;1;1;from
+Q18357043;Sergief Island;часть от;1;1;from
+Q18357043;Sergief Island;это частный случай понятия;1;1;from
+Q18357043;Sergief Island;код LCNAF;1;1;from
+Q18357043;Sergief Island;государство;1;1;from
+Q18357043;Sergief Island;административно-территориальная единица;1;1;from
+Q15052147;Boisa;географические координаты;1;1;from
+Q15052147;Boisa;ширина;1;1;from
+Q15052147;Boisa;изображение;1;1;from
+Q15052147;Boisa;площадь;1;1;from
+Q15052147;Boisa;длина;1;1;from
+Q15052147;Boisa;код вулкана в Smithsonian;1;1;from
+Q15052147;Boisa;код GeoNames;1;1;from
+Q15052147;Boisa;численность населения;1;1;from
+Q15052147;Boisa;это частный случай понятия;1;1;from
+Q15052147;Boisa;находится на берегу водоёма;1;1;from
+Q3468150;St. Michael Island;это частный случай понятия;1;1;from
+Q3468150;St. Michael Island;изображение;1;1;from
+Q2030657;Semisopochnoi Island;код GNIS;1;1;from
+Q3468150;St. Michael Island;государство;1;1;from
+Q2065684;Ritter Island;VOGRIPA ID;1;1;from
+Q2065684;Ritter Island;часовой пояс;1;1;from
+Q2065684;Ritter Island;часть от;1;1;from
+Q2065684;Ritter Island;код GNS;1;1;from
+Q2065684;Ritter Island;площадь;1;1;from
+Q2065684;Ritter Island;длина;1;1;from
+Q2065684;Ritter Island;код вулкана в Smithsonian;1;1;from
+Q2065684;Ritter Island;код GeoNames;1;1;from
+Q2065684;Ritter Island;численность населения;1;1;from
+Q2065684;Ritter Island;это частный случай понятия;1;1;from
+Q2065684;Ritter Island;находится на берегу водоёма;1;1;from
+Q2065684;Ritter Island;изображение;1;1;from
+Q2065684;Ritter Island;государство;1;1;from
+Q2065684;Ritter Island;административно-территориальная единица;1;1;from
+Q2030657;Semisopochnoi Island;находится в пределах природно-географического объекта;1;1;from
+Q2030657;Semisopochnoi Island;код Freebase;1;1;from
+Q2030657;Semisopochnoi Island;географические координаты;1;1;from
+Q2065684;Ritter Island;географические координаты;1;2;from
+Q2065684;Ritter Island;код Freebase;1;1;from
+Q2065684;Ritter Island;находится в пределах природно-географического объекта;1;1;from
+Q2576387;Biliran;занимает ту же территорию с;1;1;to
+Q3468150;St. Michael Island;административно-территориальная единица;1;1;from
+Q2576387;Biliran;состоит из;1;1;to
+Q2576387;Biliran;находится в пределах природно-географического объекта;1;2;to
+Q2576387;Biliran;код Freebase;1;1;from
+Q2576387;Biliran;географические координаты;1;1;from
+Q2576387;Biliran;наивысшая точка;1;1;from
+Q2576387;Biliran;ID отношения в OpenStreetMap;1;1;from
+Q2576387;Biliran;код GNS;1;1;from
+Q2576387;Biliran;административно-территориальная единица;1;1;from
+Q2576387;Biliran;высота над уровнем моря;1;1;from
+Q2576387;Biliran;код GeoNames;1;1;from
+Q2576387;Biliran;код в Большой каталанской энциклопедии;1;1;from
+Q2576387;Biliran;это частный случай понятия;1;1;from
+Q2576387;Biliran;находится на берегу водоёма;1;1;from
+Q2576387;Biliran;изображение;1;1;from
+Q2576387;Biliran;государство;1;1;from
+Q1672851;St. George Island;является столицей;1;1;to
+Q1672851;St. George Island;основная тема;1;1;to
+Q1672851;St. George Island;код Freebase;1;1;from
+Q1423489;Simushir;находится на берегу водоёма;1;4;from
+Q1423489;Simushir;географические координаты;1;1;from
+Q1423489;Simushir;ID отношения в OpenStreetMap;1;1;from
+Q1423489;Simushir;категория на Викискладе;1;1;from
+Q1423489;Simushir;часть от;1;1;from
+Q1423489;Simushir;код в Большой российской энциклопедии онлайн;1;1;from
+Q1423489;Simushir;ширина;1;1;from
+Q1423489;Simushir;площадь;1;1;from
+Q1423489;Simushir;высота над уровнем моря;1;1;from
+Q1423489;Simushir;длина;1;1;from
+Q1423489;Simushir;написание каной;1;1;from
+Q1423489;Simushir;код GeoNames;1;1;from
+Q1423489;Simushir;код в Большой каталанской энциклопедии;1;1;from
+Q1423489;Simushir;численность населения;1;2;from
+Q1423489;Simushir;это частный случай понятия;1;1;from
+Q1423489;Simushir;код LCNAF;1;1;from
+Q1423489;Simushir;карта местонахождения;1;1;from
+Q1423489;Simushir;код GND;1;1;from
+Q1423489;Simushir;код Freebase;1;1;from
+Q1423489;Simushir;основная категория по теме;1;1;from
+Q1423489;Simushir;находится в пределах природно-географического объекта;1;4;to
+Q1510685;Koro Island;длина;1;1;from
+Q1510685;Koro Island;VOGRIPA ID;1;1;from
+Q1510685;Koro Island;часовой пояс;1;1;from
+Q1510685;Koro Island;ID отношения в OpenStreetMap;1;1;from
+Q1510685;Koro Island;категория на Викискладе;1;1;from
+Q1510685;Koro Island;часть от;1;1;from
+Q1510685;Koro Island;ширина;1;1;from
+Q1510685;Koro Island;площадь;1;1;from
+Q1510685;Koro Island;код вулкана в Smithsonian;1;1;from
+Q1423489;Simushir;общая тема категории;1;1;to
+Q1510685;Koro Island;код GeoNames;1;1;from
+Q1510685;Koro Island;численность населения;1;1;from
+Q1510685;Koro Island;это частный случай понятия;1;1;from
+Q1510685;Koro Island;находится на берегу водоёма;1;1;from
+Q1510685;Koro Island;изображение;1;1;from
+Q1510685;Koro Island;государство;1;1;from
+Q1510685;Koro Island;административно-территориальная единица;1;1;from
+Q1423489;Simushir;код VIAF;1;1;from
+Q1423489;Simushir;изображение;1;1;from
+Q1510685;Koro Island;код Freebase;1;1;from
+Q1423489;Simushir;государство;1;7;from
+Q1384924;Farallon de Pajaros;находится в пределах природно-географического объекта;1;1;from
+Q1384924;Farallon de Pajaros;код Freebase;1;1;from
+Q1384924;Farallon de Pajaros;географические координаты;1;2;from
+Q1384924;Farallon de Pajaros;VOGRIPA ID;1;1;from
+Q1384924;Farallon de Pajaros;часовой пояс;1;1;from
+Q1384924;Farallon de Pajaros;ID отношения в OpenStreetMap;1;1;from
+Q1384924;Farallon de Pajaros;категория на Викискладе;1;1;from
+Q1384924;Farallon de Pajaros;часть от;1;1;from
+Q1384924;Farallon de Pajaros;находится в охранной зоне;1;1;from
+Q1384924;Farallon de Pajaros;ширина;1;1;from
+Q1384924;Farallon de Pajaros;площадь;1;1;from
+Q1384924;Farallon de Pajaros;высота над уровнем моря;1;1;from
+Q1384924;Farallon de Pajaros;длина;1;1;from
+Q1384924;Farallon de Pajaros;код вулкана в Smithsonian;1;1;from
+Q1384924;Farallon de Pajaros;код GeoNames;1;1;from
+Q1384924;Farallon de Pajaros;код в Большой каталанской энциклопедии;1;1;from
+Q1384924;Farallon de Pajaros;численность населения;1;1;from
+Q1421835;Nightingale Island;административно-территориальная единица;1;1;from
+Q1421835;Nightingale Island;государство;1;1;from
+Q1421835;Nightingale Island;изображение;1;1;from
+Q1421835;Nightingale Island;часть от;1;1;from
+Q1423489;Simushir;административно-территориальная единица;1;1;from
+Q1421835;Nightingale Island;находится в пределах природно-географического объекта;1;1;from
+Q1421835;Nightingale Island;код Freebase;1;1;from
+Q1421835;Nightingale Island;географические координаты;1;1;from
+Q1421835;Nightingale Island;VOGRIPA ID;1;1;from
+Q1421835;Nightingale Island;часовой пояс;1;1;from
+Q1421835;Nightingale Island;категория на Викискладе;1;1;from
+Q1421835;Nightingale Island;ширина;1;1;from
+Q1421835;Nightingale Island;находится на берегу водоёма;1;1;from
+Q1421835;Nightingale Island;площадь;1;1;from
+Q1421835;Nightingale Island;высота над уровнем моря;1;1;from
+Q1421835;Nightingale Island;длина;1;1;from
+Q1421835;Nightingale Island;код вулкана в Smithsonian;1;1;from
+Q1421835;Nightingale Island;код GeoNames;1;1;from
+Q1421835;Nightingale Island;численность населения;1;1;from
+Q1421835;Nightingale Island;это частный случай понятия;1;1;from
+Q1510685;Koro Island;географические координаты;1;1;from
+Q1510685;Koro Island;находится в пределах природно-географического объекта;1;1;from
+Q1672851;St. George Island;географические координаты;1;1;from
+Q1592377;Heard Island;находится в пределах природно-географического объекта;1;5;to
+Q1633928;Kupreanof Island;часть от;1;1;from
+Q1633928;Kupreanof Island;ширина;1;1;from
+Q1633928;Kupreanof Island;площадь;1;1;from
+Q1633928;Kupreanof Island;длина;1;1;from
+Q1633928;Kupreanof Island;код TGN;1;1;from
+Q1633928;Kupreanof Island;код GeoNames;1;1;from
+Q1633928;Kupreanof Island;численность населения;1;1;from
+Q1633928;Kupreanof Island;это частный случай понятия;1;1;from
+Q1633928;Kupreanof Island;код LCNAF;1;1;from
+Q1633928;Kupreanof Island;код VIAF;1;1;from
+Q1633928;Kupreanof Island;находится на берегу водоёма;1;1;from
+Q1633928;Kupreanof Island;изображение;1;1;from
+Q1633928;Kupreanof Island;государство;1;1;from
+Q1633928;Kupreanof Island;административно-территориальная единица;1;1;from
+Q1592377;Heard Island;основная тема;1;1;to
+Q1592377;Heard Island;местонахождение;1;1;to
+Q1592377;Heard Island;является эндемиком в;1;1;to
+Q1633928;Kupreanof Island;категория на Викискладе;1;1;from
+Q1633928;Kupreanof Island;вулканическая обсерватория;1;1;from
+Q1633928;Kupreanof Island;код GNIS;1;1;from
+Q1672851;St. George Island;код GeoNames;1;1;from
+Q1672851;St. George Island;код GNIS;1;1;from
+Q1672851;St. George Island;идентификатор местоположения ArchINFORM;1;1;from
+Q1672851;St. George Island;категория на Викискладе;1;1;from
+Q1672851;St. George Island;часть от;1;1;from
+Q1672851;St. George Island;ширина;1;1;from
+Q1672851;St. George Island;площадь;1;1;from
+Q1672851;St. George Island;длина;1;1;from
+Q1672851;St. George Island;описывается в источниках;1;1;from
+Q1633928;Kupreanof Island;географические координаты;1;1;from
+Q1672851;St. George Island;численность населения;1;1;from
+Q1672851;St. George Island;столица;1;1;from
+Q1672851;St. George Island;это частный случай понятия;1;1;from
+Q1672851;St. George Island;находится на берегу водоёма;1;1;from
+Q1672851;St. George Island;государство;1;1;from
+Q1672851;St. George Island;административно-территориальная единица;1;1;to
+Q1633928;Kupreanof Island;код Freebase;1;1;from
+Q1592377;Heard Island;состоит из;1;1;to
+Q1592377;Heard Island;географические координаты;1;1;from
+Q1510685;Koro Island;обслуживаемый город;1;1;to
+Q1592377;Heard Island;наивысшая точка;1;1;from
+Q1544363;Great Sitkin Island;часовой пояс;1;1;from
+Q1544363;Great Sitkin Island;ID отношения в OpenStreetMap;1;1;from
+Q1544363;Great Sitkin Island;категория на Викискладе;1;1;from
+Q1544363;Great Sitkin Island;часть от;1;1;from
+Q1544363;Great Sitkin Island;ширина;1;1;from
+Q1544363;Great Sitkin Island;площадь;1;1;from
+Q1544363;Great Sitkin Island;высота над уровнем моря;1;1;from
+Q1544363;Great Sitkin Island;длина;1;1;from
+Q1544363;Great Sitkin Island;код GeoNames;1;1;from
+Q1544363;Great Sitkin Island;код в Большой каталанской энциклопедии;1;1;from
+Q1544363;Great Sitkin Island;код US National Archives;1;1;from
+Q1544363;Great Sitkin Island;численность населения;1;1;from
+Q1544363;Great Sitkin Island;это частный случай понятия;1;1;from
+Q1544363;Great Sitkin Island;находится на берегу водоёма;1;1;from
+Q1544363;Great Sitkin Island;изображение;1;2;from
+Q1544363;Great Sitkin Island;государство;1;1;from
+Q1544363;Great Sitkin Island;административно-территориальная единица;1;1;from
+Q1544363;Great Sitkin Island;наивысшая точка;1;1;from
+Q1544363;Great Sitkin Island;географические координаты;1;1;from
+Q1544363;Great Sitkin Island;код Freebase;1;1;from
+Q1592377;Heard Island;код GeoNames;1;1;from
+Q1592377;Heard Island;часовой пояс;1;1;from
+Q1592377;Heard Island;категория на Викискладе;1;1;from
+Q1592377;Heard Island;часть от;1;1;from
+Q1592377;Heard Island;ширина;1;1;from
+Q1592377;Heard Island;площадь;1;1;from
+Q1592377;Heard Island;длина;1;1;from
+Q1592377;Heard Island;код TGN;1;1;from
+Q1592377;Heard Island;численность населения;1;1;from
+Q1544363;Great Sitkin Island;находится в пределах природно-географического объекта;1;1;from
+Q1592377;Heard Island;это частный случай понятия;1;1;from
+Q1592377;Heard Island;код LCNAF;1;1;from
+Q1592377;Heard Island;код VIAF;1;1;from
+Q1592377;Heard Island;находится на берегу водоёма;1;1;from
+Q1592377;Heard Island;изображение;1;1;from
+Q1592377;Heard Island;государство;1;1;from
+Q1592377;Heard Island;административно-территориальная единица;1;1;from
+Q1036287;El Hierro;высота над уровнем моря;1;1;from
+Q1036287;El Hierro;название на языке оригинала;1;1;from
+Q28048;Raoul Island;изображение;1;1;from
+Q188705;Maui;категория объединяет темы;1;4;to
+Q188705;Maui;dmoz;1;1;from
+Q188705;Maui;место в MusicBrainz;1;1;from
+Q188705;Maui;баннер Викигида;1;1;from
+Q188705;Maui;галерея на Викискладе;1;1;from
+Q188705;Maui;основная категория по теме;1;1;from
+Q188705;Maui;категория карт на Викискладе;1;1;from
+Q188705;Maui;находится в пределах природно-географического объекта;1;72;to
+Q188705;Maui;код Freebase;1;1;from
+Q188705;Maui;официальный цвет;1;1;from
+Q188705;Maui;географические координаты;1;1;from
+Q188705;Maui;наивысшая точка;1;1;from
+Q188705;Maui;идентификатор местоположения ArchINFORM;1;1;from
+Q188705;Maui;часовой пояс;1;1;from
+Q188705;Maui;ID отношения в OpenStreetMap;1;1;from
+Q188705;Maui;категория на Викискладе;1;1;from
+Q188705;Maui;часть от;1;1;from
+Q188705;Maui;код BNF;1;1;from
+Q188705;Maui;является столицей;1;1;to
+Q188705;Maui;местонахождение;1;6;to
+Q201689;La Palma;находится на берегу водоёма;1;1;from
+Q188705;Maui;место рождения;1;46;to
+Q189387;Ischia;часть света;1;1;from
+Q189387;Ischia;код GND;1;1;from
+Q189387;Ischia;код VIAF;1;1;from
+Q189387;Ischia;находится на берегу водоёма;1;1;from
+Q189387;Ischia;изображение;1;1;from
+Q189387;Ischia;государство;1;1;from
+Q189387;Ischia;административно-территориальная единица;1;1;to
+Q188705;Maui;место создания;1;1;to
+Q188705;Maui;общая тема категории;1;1;to
+Q188705;Maui;расположение штаб-квартиры;1;1;to
+Q188705;Maui;изображённый объект;1;3;to
+Q188705;Maui;состоит из;1;1;to
+Q188705;Maui;является эндемиком в;1;14;to
+Q188705;Maui;место астрономического открытия;1;1;to
+Q188705;Maui;место жительства;1;7;to
+Q188705;Maui;место смерти;1;18;to
+Q188705;Maui;названо в честь;1;1;to
+Q188705;Maui;код BabelNet;1;1;from
+Q188705;Maui;периметр;1;1;from
+Q188705;Maui;ширина;1;1;from
+Q188705;Maui;площадь;1;1;from
+Q188705;Maui;государство;1;1;from
+Q188705;Maui;административно-территориальная единица;1;2;to
+Q181515;Genovesa Island;состоит из;1;1;to
+Q181515;Genovesa Island;баннер Викигида;1;1;from
+Q181515;Genovesa Island;находится в пределах природно-географического объекта;1;1;from
+Q181515;Genovesa Island;код Freebase;1;1;from
+Q181515;Genovesa Island;географические координаты;1;1;from
+Q181515;Genovesa Island;VOGRIPA ID;1;1;from
+Q181515;Genovesa Island;часовой пояс;1;1;from
+Q181515;Genovesa Island;категория на Викискладе;1;1;from
+Q181515;Genovesa Island;часть от;1;1;from
+Q181515;Genovesa Island;код NE.se;1;1;from
+Q181515;Genovesa Island;относительная высота;1;1;from
+Q181515;Genovesa Island;площадь;1;1;from
+Q181515;Genovesa Island;высота над уровнем моря;1;1;from
+Q181515;Genovesa Island;код вулкана в Smithsonian;1;1;from
+Q181515;Genovesa Island;код TGN;1;1;from
+Q188705;Maui;изображение;1;1;from
+Q188705;Maui;город-побратим;1;3;to
+Q188705;Maui;находится на берегу водоёма;1;1;from
+Q188705;Maui;код в Большой каталанской энциклопедии;1;1;from
+Q188705;Maui;высота над уровнем моря;1;1;from
+Q188705;Maui;длина;1;1;from
+Q188705;Maui;категория для людей, связанных с местностью;1;1;from
+Q188705;Maui;код GeoNames;1;1;from
+Q188705;Maui;категория для людей, умерших здесь;1;1;from
+Q188705;Maui;категория для людей, родившихся здесь;1;1;from
+Q188705;Maui;код в энциклопедии «Британника онлайн»;1;1;from
+Q188705;Maui;код US National Archives;1;1;from
+Q188705;Maui;код VIAF;1;1;from
+Q188705;Maui;численность населения;1;1;from
+Q188705;Maui;десятичная классификация Дьюи;1;1;from
+Q188705;Maui;столица;1;1;from
+Q188705;Maui;это частный случай понятия;1;1;from
+Q188705;Maui;код LCNAF;1;1;from
+Q188705;Maui;карта местонахождения;1;1;from
+Q188705;Maui;код GND;1;1;from
+Q189387;Ischia;это частный случай понятия;1;1;from
+Q189387;Ischia;столица;1;1;from
+Q189387;Ischia;численность населения;1;1;from
+Q201633;Iwo Jima;административно-территориальная единица;1;2;from
+Q201633;Iwo Jima;категория на Викискладе;1;1;from
+Q201633;Iwo Jima;часть от;1;1;from
+Q201633;Iwo Jima;код темы Quora;1;1;from
+Q201633;Iwo Jima;площадь;1;1;from
+Q201633;Iwo Jima;высота над уровнем моря;1;1;from
+Q201633;Iwo Jima;код вулкана в Smithsonian;1;1;from
+Q201633;Iwo Jima;код GeoNames;1;1;from
+Q201633;Iwo Jima;категория для людей, умерших здесь;1;1;from
+Q201633;Iwo Jima;код в энциклопедии «Британника онлайн»;1;1;from
+Q201633;Iwo Jima;код US National Archives;1;1;from
+Q201633;Iwo Jima;численность населения;1;3;from
+Q201633;Iwo Jima;это частный случай понятия;1;1;from
+Q201633;Iwo Jima;код LCNAF;1;1;from
+Q201633;Iwo Jima;код VIAF;1;1;from
+Q201633;Iwo Jima;находится на берегу водоёма;1;1;from
+Q201633;Iwo Jima;изображение;1;1;from
+Q201633;Iwo Jima;государство;1;4;from
+Q201633;Iwo Jima;VOGRIPA ID;1;1;from
+Q201633;Iwo Jima;код Comic Vine;1;1;from
+Q201633;Iwo Jima;наивысшая точка;1;1;from
+Q201633;Iwo Jima;местонахождение;1;4;to
+Q201689;La Palma;государство;1;1;from
+Q201689;La Palma;административно-территориальная единица;1;24;to
+Q201633;Iwo Jima;основная тема;1;1;to
+Q201633;Iwo Jima;место активности;1;1;to
+Q201633;Iwo Jima;история происходит в месте;1;2;to
+Q201633;Iwo Jima;категория объединяет темы;1;1;to
+Q201633;Iwo Jima;находится в пределах природно-географического объекта;1;1;to
+Q201633;Iwo Jima;состоит из;1;1;to
+Q201633;Iwo Jima;географические координаты;1;1;from
+Q201633;Iwo Jima;место смерти;1;29;to
+Q201633;Iwo Jima;общая тема категории;1;1;to
+Q201633;Iwo Jima;галерея на Викискладе;1;1;from
+Q201633;Iwo Jima;основная категория по теме;1;1;from
+Q201633;Iwo Jima;ключевое событие;1;1;from
+Q201633;Iwo Jima;French Vikidia ID;1;1;from
+Q201633;Iwo Jima;код Freebase;1;1;from
+Q201633;Iwo Jima;названо в честь;1;1;from
+Q189387;Ischia;общая тема категории;1;1;to
+Q189387;Ischia;код в Большой каталанской энциклопедии;1;1;from
+Q189387;Ischia;категория объединяет темы;1;1;to
+Q189387;Ischia;VOGRIPA ID;1;1;from
+Q189387;Ischia;ID отношения в OpenStreetMap;1;1;from
+Q189387;Ischia;категория на Викискладе;1;1;from
+Q189387;Ischia;часть от;1;1;from
+Q189387;Ischia;код в Encyclopædia Universalis;1;1;from
+Q189387;Ischia;код BNF;1;1;from
+Q189387;Ischia;периметр;1;1;from
+Q189387;Ischia;код YSO;1;1;from
+Q189387;Ischia;ширина;1;1;from
+Q189387;Ischia;площадь;1;1;from
+Q189387;Ischia;высота над уровнем моря;1;1;from
+Q189387;Ischia;длина;1;1;from
+Q189387;Ischia;код Цифрового атласа Римской империи;1;1;from
+Q189387;Ischia;код вулкана в Smithsonian;1;1;from
+Q189387;Ischia;код GeoNames;1;1;from
+Q189387;Ischia;код в энциклопедии «Британника онлайн»;1;1;from
+Q189387;Ischia;описывается в источниках;1;1;from
+Q189387;Ischia;наивысшая точка;1;1;from
+Q189387;Ischia;географические координаты;1;1;from
+Q189387;Ischia;код Freebase;1;1;from
+Q189387;Ischia;изображённый объект;1;4;to
+Q189387;Ischia;является столицей;1;1;to
+Q189387;Ischia;место изготовления;1;2;to
+Q189387;Ischia;местонахождение;1;2;to
+Q189387;Ischia;место обнаружения;1;1;to
+Q189387;Ischia;названо в честь;1;1;to
+Q189387;Ischia;место рождения;1;3;to
+Q189387;Ischia;основная тема;1;2;to
+Q189387;Ischia;место смерти;1;11;to
+Q189387;Ischia;код NKC;1;1;from
+Q189387;Ischia;dmoz;1;1;from
+Q189387;Ischia;баннер Викигида;1;1;from
+Q189387;Ischia;галерея на Викискладе;1;1;from
+Q189387;Ischia;основная категория по теме;1;1;from
+Q189387;Ischia;категория карт на Викискладе;1;1;from
+Q189387;Ischia;French Vikidia ID;1;1;from
+Q189387;Ischia;находится в пределах природно-географического объекта;1;2;to
+Q181515;Genovesa Island;подробная карта;1;1;from
+Q181515;Genovesa Island;код GeoNames;1;1;from
+Q181515;Genovesa Island;код в Большой каталанской энциклопедии;1;1;from
+Q68740;Hawaii;самая восточная точка;1;1;from
+Q68740;Hawaii;категория на Викискладе;1;1;from
+Q68740;Hawaii;часть от;1;1;from
+Q68740;Hawaii;код темы Quora;1;1;from
+Q68740;Hawaii;код BabelNet;1;1;from
+Q68740;Hawaii;периметр;1;1;from
+Q68740;Hawaii;официальный символ;1;4;from
+Q68740;Hawaii;история темы;1;1;from
+Q68740;Hawaii;ширина;1;1;from
+Q68740;Hawaii;площадь;1;2;from
+Q68740;Hawaii;высота над уровнем моря;1;1;from
+Q68740;Hawaii;длина;1;1;from
+Q68740;Hawaii;категория для людей, связанных с местностью;1;1;from
+Q68740;Hawaii;название на языке оригинала;1;1;from
+Q68740;Hawaii;код GeoNames;1;1;from
+Q68740;Hawaii;категория для людей, умерших здесь;1;1;from
+Q68740;Hawaii;категория для людей, родившихся здесь;1;1;from
+Q68740;Hawaii;код в энциклопедии «Британника онлайн»;1;1;from
+Q68740;Hawaii;ID отношения в OpenStreetMap;1;1;from
+Q68740;Hawaii;часовой пояс;1;1;from
+Q68740;Hawaii;идентификатор местоположения ArchINFORM;1;1;from
+Q68740;Hawaii;основная категория по теме;1;1;from
+Q68740;Hawaii;место смерти;1;7;to
+Q68740;Hawaii;местонахождение;1;3;to
+Q68740;Hawaii;категория объединяет темы;1;4;to
+Q68740;Hawaii;является эндемиком в;1;12;to
+Q68740;Hawaii;названо в честь;1;6;to
+Q68740;Hawaii;место рождения;1;19;to
+Q68740;Hawaii;баннер Викигида;1;1;from
+Q68740;Hawaii;официальный сайт;1;1;from
+Q68740;Hawaii;код GNIS;1;1;from
+Q68740;Hawaii;находится в пределах природно-географического объекта;1;183;to
+Q68740;Hawaii;код NKC;1;1;from
+Q68740;Hawaii;код Freebase;1;1;from
+Q68740;Hawaii;официальный цвет;1;1;from
+Q68740;Hawaii;географические координаты;1;1;from
+Q68740;Hawaii;наивысшая точка;1;1;from
+Q68740;Hawaii;код в Ларуссе;1;1;from
+Q68740;Hawaii;самая западная точка;1;1;from
+Q68740;Hawaii;самая южная точка;1;1;from
+Q68740;Hawaii;предки из;1;1;to
+Q68740;Hawaii;самая северная точка;1;1;from
+Q28048;Raoul Island;вулканическая обсерватория;1;1;from
+Q28048;Raoul Island;категория на Викискладе;1;1;from
+Q28048;Raoul Island;часть от;1;1;from
+Q28048;Raoul Island;код темы Quora;1;1;from
+Q28048;Raoul Island;ширина;1;1;from
+Q28048;Raoul Island;площадь;1;1;from
+Q28048;Raoul Island;высота над уровнем моря;1;1;from
+Q28048;Raoul Island;длина;1;1;from
+Q28048;Raoul Island;не путать с;1;1;to
+Q28048;Raoul Island;код вулкана в Smithsonian;1;1;from
+Q28048;Raoul Island;код GeoNames;1;1;from
+Q28048;Raoul Island;код в Большой каталанской энциклопедии;1;1;from
+Q28048;Raoul Island;численность населения;1;1;from
+Q28048;Raoul Island;это частный случай понятия;1;1;from
+Q28048;Raoul Island;карта местонахождения;1;1;from
+Q28048;Raoul Island;код VIAF;1;1;from
+Q28048;Raoul Island;находится на берегу водоёма;1;1;from
+Q28048;Raoul Island;VOGRIPA ID;1;1;from
+Q28048;Raoul Island;географические координаты;1;1;from
+Q28048;Raoul Island;код Freebase;1;1;from
+Q68740;Hawaii;код GND;1;1;from
+Q68740;Hawaii;код US National Archives;1;1;from
+Q68740;Hawaii;численность населения;1;12;from
+Q68740;Hawaii;десятичная классификация Дьюи;1;1;from
+Q68740;Hawaii;это частный случай понятия;1;1;from
+Q68740;Hawaii;часть света;1;1;from
+Q68740;Hawaii;код LCNAF;1;2;from
+Q68740;Hawaii;карта местонахождения;1;1;from
+Q68740;Hawaii;код VIAF;1;1;from
+Q28048;Raoul Island;находится в пределах природно-географического объекта;1;1;from
+Q68740;Hawaii;находится на берегу водоёма;1;1;from
+Q68740;Hawaii;изображение;1;1;from
+Q68740;Hawaii;государство;1;1;to
+Q68740;Hawaii;административно-территориальная единица;1;8;to
+Q28048;Raoul Island;общая тема категории;1;1;to
+Q28048;Raoul Island;административно-территориальная единица;1;1;to
+Q28048;Raoul Island;основная категория по теме;1;1;from
+Q68740;Hawaii;состоит из;1;2;to
+Q68740;Hawaii;место жительства;1;4;to
+Q181515;Genovesa Island;численность населения;1;1;from
+Q105967;La Gomera;галерея на Викискладе;1;1;from
+Q176093;Yunaska Island;это частный случай понятия;1;1;from
+Q176093;Yunaska Island;находится на берегу водоёма;1;1;from
+Q176093;Yunaska Island;изображение;1;1;from
+Q176093;Yunaska Island;государство;1;1;from
+Q176093;Yunaska Island;административно-территориальная единица;1;1;from
+Q105967;La Gomera;общая тема категории;1;1;to
+Q105967;La Gomera;через;1;1;to
+Q105967;La Gomera;обслуживаемый город;1;1;to
+Q105967;La Gomera;место жительства;1;1;to
+Q105967;La Gomera;является столицей;1;1;to
+Q105967;La Gomera;юрисдикция распространяется на;1;1;to
+Q105967;La Gomera;местонахождение;1;1;to
+Q105967;La Gomera;категория объединяет темы;1;3;to
+Q105967;La Gomera;место смерти;1;3;to
+Q105967;La Gomera;место съёмок;1;1;to
+Q105967;La Gomera;место рождения;1;11;to
+Q105967;La Gomera;место в MusicBrainz;1;1;from
+Q176093;Yunaska Island;численность населения;1;1;from
+Q176093;Yunaska Island;код US National Archives;1;1;from
+Q176093;Yunaska Island;код в Большой каталанской энциклопедии;1;1;from
+Q176093;Yunaska Island;VOGRIPA ID;1;1;from
+Q181515;Genovesa Island;это частный случай понятия;1;1;from
+Q181515;Genovesa Island;находится на берегу водоёма;1;1;from
+Q181515;Genovesa Island;изображение;1;1;from
+Q181515;Genovesa Island;государство;1;1;from
+Q181515;Genovesa Island;административно-территориальная единица;1;1;from
+Q176093;Yunaska Island;код Freebase;1;1;from
+Q176093;Yunaska Island;географические координаты;1;1;from
+Q176093;Yunaska Island;ID отношения в OpenStreetMap;1;1;from
+Q176093;Yunaska Island;код GeoNames;1;1;from
+Q176093;Yunaska Island;вулканическая обсерватория;1;1;from
+Q176093;Yunaska Island;категория на Викискладе;1;1;from
+Q176093;Yunaska Island;часть от;1;1;from
+Q176093;Yunaska Island;ширина;1;1;from
+Q176093;Yunaska Island;площадь;1;1;from
+Q176093;Yunaska Island;длина;1;1;from
+Q176093;Yunaska Island;код вулкана в Smithsonian;1;1;from
+Q105967;La Gomera;баннер Викигида;1;1;from
+Q105967;La Gomera;основная категория по теме;1;1;from
+Q68740;Hawaii;основная тема;1;4;to
+Q105967;La Gomera;категория карт на Викискладе;1;1;from
+Q105967;La Gomera;численность населения;1;1;from
+Q105967;La Gomera;десятичная классификация Дьюи;1;1;from
+Q105967;La Gomera;официальный язык;1;1;from
+Q105967;La Gomera;столица;1;1;from
+Q105967;La Gomera;это частный случай понятия;1;1;from
+Q105967;La Gomera;часть света;1;1;from
+Q105967;La Gomera;код LCNAF;1;1;from
+Q105967;La Gomera;код GND;1;1;from
+Q105967;La Gomera;код VIAF;1;1;from
+Q105967;La Gomera;находится на берегу водоёма;1;1;from
+Q105967;La Gomera;изображение;1;1;from
+Q105967;La Gomera;государство;1;1;from
+Q105967;La Gomera;административно делится на;1;1;to
+Q105967;La Gomera;административно-территориальная единица;1;6;to
+Q68740;Hawaii;история происходит в месте;1;1;to
+Q68740;Hawaii;общая тема категории;1;1;to
+Q68740;Hawaii;место публикации;1;1;to
+Q105967;La Gomera;код в Большой каталанской энциклопедии;1;1;from
+Q105967;La Gomera;код в энциклопедии «Британника онлайн»;1;1;from
+Q105967;La Gomera;категория для людей, родившихся здесь;1;1;from
+Q105967;La Gomera;часовой пояс;1;1;from
+Q105967;La Gomera;French Vikidia ID;1;1;from
+Q105967;La Gomera;находится в пределах природно-географического объекта;1;8;to
+Q105967;La Gomera;код NKC;1;1;from
+Q105967;La Gomera;код Freebase;1;1;from
+Q105967;La Gomera;географические координаты;1;1;from
+Q105967;La Gomera;код NUTS;1;1;from
+Q105967;La Gomera;идентификатор местоположения ArchINFORM;1;1;from
+Q105967;La Gomera;ID отношения в OpenStreetMap;1;1;from
+Q105967;La Gomera;код GeoNames;1;1;from
+Q105967;La Gomera;категория на Викискладе;1;1;from
+Q105967;La Gomera;часть от;1;1;from
+Q105967;La Gomera;код темы Quora;1;1;from
+Q105967;La Gomera;код BNF;1;1;from
+Q105967;La Gomera;код YSO;1;1;from
+Q105967;La Gomera;площадь;1;1;from
+Q105967;La Gomera;высота над уровнем моря;1;1;from
+Q201689;La Palma;изображение;1;1;from
+Q201689;La Palma;код VIAF;1;1;from
+Q1036287;El Hierro;код GeoNames;1;1;from
+Q797590;Babase Island;географические координаты;1;1;from
+Q797590;Babase Island;часть от;1;1;from
+Q797590;Babase Island;относительная высота;1;1;from
+Q797590;Babase Island;ширина;1;1;from
+Q797590;Babase Island;площадь;1;1;from
+Q797590;Babase Island;высота над уровнем моря;1;1;from
+Q797590;Babase Island;длина;1;1;from
+Q797590;Babase Island;код GeoNames;1;1;from
+Q797590;Babase Island;код в Большой каталанской энциклопедии;1;1;from
+Q797590;Babase Island;это частный случай понятия;1;1;from
+Q797590;Babase Island;находится на берегу водоёма;1;1;from
+Q797590;Babase Island;изображение;1;1;from
+Q797590;Babase Island;государство;1;1;from
+Q797590;Babase Island;административно-территориальная единица;1;1;from
+Q788862;Didicas Volcano;состоит из;1;1;to
+Q788862;Didicas Volcano;географические координаты;1;1;from
+Q788862;Didicas Volcano;VOGRIPA ID;1;1;from
+Q788862;Didicas Volcano;вулканическая обсерватория;1;1;from
+Q797590;Babase Island;код для сущности Wolfram Language;1;1;from
+Q797590;Babase Island;код Freebase;1;1;from
+Q201689;La Palma;код GND;1;1;from
+Q797590;Babase Island;находится в пределах природно-географического объекта;1;1;from
+Q954281;Saint Paul Island;ID отношения в OpenStreetMap;1;1;from
+Q954281;Saint Paul Island;вулканическая обсерватория;1;1;from
+Q954281;Saint Paul Island;категория на Викискладе;1;1;from
+Q954281;Saint Paul Island;часть от;1;1;from
+Q954281;Saint Paul Island;площадь;1;1;from
+Q954281;Saint Paul Island;код вулкана в Smithsonian;1;1;from
+Q954281;Saint Paul Island;подробная карта;1;1;from
+Q954281;Saint Paul Island;код GeoNames;1;2;from
+Q954281;Saint Paul Island;код US National Archives;1;1;from
+Q954281;Saint Paul Island;численность населения;1;1;from
+Q954281;Saint Paul Island;это частный случай понятия;1;1;from
+Q954281;Saint Paul Island;код LCNAF;1;1;from
+Q954281;Saint Paul Island;код VIAF;1;1;from
+Q954281;Saint Paul Island;находится на берегу водоёма;1;1;from
+Q954281;Saint Paul Island;изображение;1;1;from
+Q954281;Saint Paul Island;государство;1;1;from
+Q954281;Saint Paul Island;административно-территориальная единица;1;1;from
+Q788862;Didicas Volcano;часть от;1;1;from
+Q788862;Didicas Volcano;высота над уровнем моря;1;1;from
+Q788862;Didicas Volcano;код вулкана в Smithsonian;1;1;from
+Q788862;Didicas Volcano;код GeoNames;1;1;from
+Q557077;Whakaari/White Island;изображённый объект;1;2;to
+Q557077;Whakaari/White Island;баннер Викигида;1;1;from
+Q557077;Whakaari/White Island;ключевое событие;1;1;from
+Q557077;Whakaari/White Island;находится в пределах природно-географического объекта;1;1;from
+Q557077;Whakaari/White Island;код Freebase;1;1;from
+Q557077;Whakaari/White Island;географические координаты;1;1;from
+Q557077;Whakaari/White Island;New Zealand Gazetteer place ID;1;1;from
+Q557077;Whakaari/White Island;VOGRIPA ID;1;1;from
+Q557077;Whakaari/White Island;часовой пояс;1;1;from
+Q557077;Whakaari/White Island;вулканическая обсерватория;1;1;from
+Q557077;Whakaari/White Island;категория на Викискладе;1;1;from
+Q557077;Whakaari/White Island;относительная высота;1;1;from
+Q557077;Whakaari/White Island;высота над уровнем моря;1;1;from
+Q557077;Whakaari/White Island;код вулкана в Smithsonian;1;1;from
+Q557077;Whakaari/White Island;код GeoNames;1;1;from
+Q557077;Whakaari/White Island;код в энциклопедии «Британника онлайн»;1;1;from
+Q557077;Whakaari/White Island;самая западная точка;1;1;from
+Q557077;Whakaari/White Island;местонахождение;1;1;to
+Q583758;Kagamil Island;административно-территориальная единица;1;1;from
+Q583758;Kagamil Island;государство;1;1;from
+Q583758;Kagamil Island;вулканическая обсерватория;1;1;from
+Q788862;Didicas Volcano;это частный случай понятия;1;4;from
+Q788862;Didicas Volcano;изображение;1;1;from
+Q788862;Didicas Volcano;государство;1;1;from
+Q788862;Didicas Volcano;административно-территориальная единица;1;1;from
+Q583758;Kagamil Island;код Freebase;1;1;from
+Q583758;Kagamil Island;географические координаты;1;1;from
+Q583758;Kagamil Island;VOGRIPA ID;1;1;from
+Q583758;Kagamil Island;категория на Викискладе;1;1;from
+Q583758;Kagamil Island;изображение;1;1;from
+Q583758;Kagamil Island;высота над уровнем моря;1;1;from
+Q583758;Kagamil Island;код вулкана в Smithsonian;1;1;from
+Q583758;Kagamil Island;код GeoNames;1;1;from
+Q583758;Kagamil Island;код в Большой каталанской энциклопедии;1;1;from
+Q583758;Kagamil Island;это частный случай понятия;1;1;from
+Q583758;Kagamil Island;код LCNAF;1;1;from
+Q583758;Kagamil Island;находится на берегу водоёма;1;1;from
+Q954281;Saint Paul Island;VOGRIPA ID;1;1;from
+Q954281;Saint Paul Island;код GNIS;1;1;from
+Q954281;Saint Paul Island;географические координаты;1;1;from
+Q966941;Niuafoʻou;часть от;1;1;from
+Q976414;Uliaga Island;не путать с;1;1;to
+Q976414;Uliaga Island;код GeoNames;1;1;from
+Q976414;Uliaga Island;код в Большой каталанской энциклопедии;1;1;from
+Q976414;Uliaga Island;это частный случай понятия;1;1;from
+Q976414;Uliaga Island;находится на берегу водоёма;1;1;from
+Q976414;Uliaga Island;изображение;1;1;from
+Q976414;Uliaga Island;государство;1;1;from
+Q976414;Uliaga Island;административно-территориальная единица;1;1;from
+Q966941;Niuafoʻou;категория объединяет темы;1;1;to
+Q966941;Niuafoʻou;основная тема;1;1;to
+Q966941;Niuafoʻou;место рождения;1;1;to
+Q966941;Niuafoʻou;категория карт на Викискладе;1;1;from
+Q966941;Niuafoʻou;находится в пределах природно-географического объекта;1;1;from
+Q966941;Niuafoʻou;код Freebase;1;1;from
+Q966941;Niuafoʻou;географические координаты;1;2;from
+Q966941;Niuafoʻou;VOGRIPA ID;1;1;from
+Q966941;Niuafoʻou;ID отношения в OpenStreetMap;1;1;from
+Q976414;Uliaga Island;высота над уровнем моря;1;1;from
+Q976414;Uliaga Island;категория на Викискладе;1;1;from
+Q976414;Uliaga Island;вулканическая обсерватория;1;1;from
+Q1036287;El Hierro;код LCNAF;1;1;from
+Q1036287;El Hierro;категория для людей, родившихся здесь;1;1;from
+Q1036287;El Hierro;описывается в источниках;1;2;from
+Q1036287;El Hierro;код в Большой каталанской энциклопедии;1;1;from
+Q1036287;El Hierro;численность населения;1;1;from
+Q1036287;El Hierro;десятичная классификация Дьюи;1;1;from
+Q1036287;El Hierro;столица;1;1;from
+Q1036287;El Hierro;это частный случай понятия;1;2;from
+Q1036287;El Hierro;код GND;1;1;from
+Q976414;Uliaga Island;код GNIS;1;1;from
+Q1036287;El Hierro;код VIAF;1;1;from
+Q1036287;El Hierro;находится на берегу водоёма;1;1;from
+Q1036287;El Hierro;изображение;1;1;from
+Q1036287;El Hierro;государство;1;1;from
+Q1036287;El Hierro;административно-территориальная единица;1;4;to
+Q976414;Uliaga Island;код Freebase;1;1;from
+Q976414;Uliaga Island;географические координаты;1;1;from
+Q966941;Niuafoʻou;категория на Викискладе;1;1;from
+Q966941;Niuafoʻou;площадь;1;1;from
+Q954281;Saint Paul Island;код Freebase;1;1;from
+Q966941;Niuafoʻou;высота над уровнем моря;1;1;from
+Q955387;Seguam Island;ширина;1;1;from
+Q955387;Seguam Island;площадь;1;1;from
+Q955387;Seguam Island;высота над уровнем моря;1;1;from
+Q955387;Seguam Island;длина;1;1;from
+Q955387;Seguam Island;код вулкана в Smithsonian;1;1;from
+Q955387;Seguam Island;код GeoNames;1;1;from
+Q955387;Seguam Island;код в Большой каталанской энциклопедии;1;1;from
+Q955387;Seguam Island;код US National Archives;1;1;from
+Q955387;Seguam Island;численность населения;1;1;from
+Q955387;Seguam Island;это частный случай понятия;1;1;from
+Q955387;Seguam Island;находится на берегу водоёма;1;1;from
+Q955387;Seguam Island;изображение;1;1;from
+Q955387;Seguam Island;государство;1;1;from
+Q955387;Seguam Island;административно-территориальная единица;1;1;from
+Q954281;Saint Paul Island;обслуживаемый город;1;1;to
+Q954281;Saint Paul Island;находится в пределах природно-географического объекта;1;1;to
+Q954281;Saint Paul Island;WorldCat Identities ID;1;1;from
+Q955387;Seguam Island;часть от;1;1;from
+Q955387;Seguam Island;категория на Викискладе;1;1;from
+Q955387;Seguam Island;вулканическая обсерватория;1;1;from
+Q966941;Niuafoʻou;код VIAF;1;1;from
+Q966941;Niuafoʻou;код вулкана в Smithsonian;1;1;from
+Q966941;Niuafoʻou;код GeoNames;1;2;from
+Q966941;Niuafoʻou;код в энциклопедии «Британника онлайн»;1;1;from
+Q966941;Niuafoʻou;код в Большой каталанской энциклопедии;1;1;from
+Q966941;Niuafoʻou;численность населения;1;2;from
+Q966941;Niuafoʻou;это частный случай понятия;1;1;from
+Q966941;Niuafoʻou;код LCNAF;1;1;from
+Q966941;Niuafoʻou;находится на берегу водоёма;1;1;from
+Q955387;Seguam Island;ID отношения в OpenStreetMap;1;1;from
+Q966941;Niuafoʻou;изображение;1;1;from
+Q966941;Niuafoʻou;государство;1;1;from
+Q966941;Niuafoʻou;административно-территориальная единица;1;1;to
+Q955387;Seguam Island;находится в пределах природно-географического объекта;1;1;to
+Q955387;Seguam Island;код Freebase;1;1;from
+Q955387;Seguam Island;географические координаты;1;1;from
+Q955387;Seguam Island;VOGRIPA ID;1;1;from
+Q557077;Whakaari/White Island;самая восточная точка;1;1;from
+Q557077;Whakaari/White Island;самая южная точка;1;1;from
+Q557077;Whakaari/White Island;самая северная точка;1;1;from
+Q201689;La Palma;основная тема;1;3;to
+Q250462;Io-Torishima;ширина;1;1;from
+Q250462;Io-Torishima;площадь;1;1;from
+Q250462;Io-Torishima;высота над уровнем моря;1;1;from
+Q250462;Io-Torishima;длина;1;1;from
+Q250462;Io-Torishima;код вулкана в Smithsonian;1;1;from
+Q250462;Io-Torishima;написание каной;1;1;from
+Q250462;Io-Torishima;код GeoNames;1;1;from
+Q250462;Io-Torishima;численность населения;1;1;from
+Q250462;Io-Torishima;это частный случай понятия;1;1;from
+Q250462;Io-Torishima;находится на берегу водоёма;1;1;from
+Q250462;Io-Torishima;изображение;1;2;from
+Q250462;Io-Torishima;государство;1;1;from
+Q250462;Io-Torishima;административно-территориальная единица;1;3;from
+Q201689;La Palma;административно делится на;1;1;to
+Q201689;La Palma;общая тема категории;1;1;to
+Q201689;La Palma;юрисдикция распространяется на;1;1;to
+Q201689;La Palma;место создания;1;2;to
+Q250462;Io-Torishima;часть от;1;1;from
+Q250462;Io-Torishima;категория на Викискладе;1;1;from
+Q250462;Io-Torishima;ID отношения в OpenStreetMap;1;1;from
+Q271797;Mohéli;код VIAF;1;1;from
+Q271797;Mohéli;самая северная точка;1;1;from
+Q271797;Mohéli;численность населения;1;1;from
+Q271797;Mohéli;изображение флага;1;1;from
+Q271797;Mohéli;столица;1;1;from
+Q271797;Mohéli;это частный случай понятия;1;2;from
+Q271797;Mohéli;карта местонахождения;1;1;from
+Q271797;Mohéli;код GND;1;1;from
+Q271797;Mohéli;находится на берегу водоёма;1;1;from
+Q250462;Io-Torishima;VOGRIPA ID;1;1;from
+Q271797;Mohéli;изображение;1;1;from
+Q271797;Mohéli;государство;1;1;from
+Q271797;Mohéli;описание флага;1;1;from
+Q271797;Mohéli;административно-территориальная единица;1;163;to
+Q250462;Io-Torishima;состоит из;1;1;to
+Q250462;Io-Torishima;находится в пределах природно-географического объекта;1;1;to
+Q250462;Io-Torishima;географические координаты;1;1;from
+Q201689;La Palma;категория объединяет темы;1;5;to
+Q201689;La Palma;место астрономического открытия;1;1;to
+Q271797;Mohéli;самая восточная точка;1;1;from
+Q201689;La Palma;местонахождение;1;7;to
+Q201689;La Palma;категория на Викискладе;1;1;from
+Q201689;La Palma;часть от;1;1;from
+Q201689;La Palma;код темы Quora;1;1;from
+Q201689;La Palma;код YSO;1;1;from
+Q201689;La Palma;площадь;1;1;from
+Q201689;La Palma;высота над уровнем моря;1;1;from
+Q201689;La Palma;категория для людей, связанных с местностью;1;1;from
+Q201689;La Palma;код GeoNames;1;1;from
+Q201689;La Palma;категория для людей, родившихся здесь;1;1;from
+Q201689;La Palma;код в энциклопедии «Британника онлайн»;1;1;from
+Q201689;La Palma;описывается в источниках;1;3;from
+Q201689;La Palma;код в Большой каталанской энциклопедии;1;1;from
+Q201689;La Palma;код US National Archives;1;1;from
+Q201689;La Palma;численность населения;1;1;from
+Q201689;La Palma;десятичная классификация Дьюи;1;1;from
+Q201689;La Palma;это частный случай понятия;1;1;from
+Q201689;La Palma;код LCNAF;1;1;from
+Q201689;La Palma;ID отношения в OpenStreetMap;1;1;from
+Q201689;La Palma;часовой пояс;1;1;from
+Q201689;La Palma;идентификатор местоположения ArchINFORM;1;1;from
+Q201689;La Palma;галерея на Викискладе;1;1;from
+Q201689;La Palma;место жительства;1;1;to
+Q201689;La Palma;место рождения;1;30;to
+Q201689;La Palma;является эндемиком в;1;1;to
+Q201689;La Palma;названо в честь;1;4;to
+Q201689;La Palma;место смерти;1;10;to
+Q201689;La Palma;место в MusicBrainz;1;1;from
+Q201689;La Palma;баннер Викигида;1;1;from
+Q201689;La Palma;основная категория по теме;1;1;from
+Q201689;La Palma;код NUTS;1;1;from
+Q201689;La Palma;официальный сайт;1;1;from
+Q201689;La Palma;категория карт на Викискладе;1;1;from
+Q201689;La Palma;находится в пределах природно-географического объекта;1;11;to
+Q201689;La Palma;код NKC;1;1;from
+Q201689;La Palma;код Freebase;1;1;from
+Q201689;La Palma;географические координаты;1;1;from
+Q201689;La Palma;наивысшая точка;1;1;from
+Q271797;Mohéli;самая южная точка;1;1;from
+Q271797;Mohéli;самая западная точка;1;1;from
+Q557077;Whakaari/White Island;код в Большой каталанской энциклопедии;1;1;from
+Q476525;Little Sitkin Island;часовой пояс;1;1;from
+Q530454;Nunivak Island;код вулкана в Smithsonian;1;1;from
+Q530454;Nunivak Island;название на языке оригинала;1;1;from
+Q530454;Nunivak Island;код GeoNames;1;1;from
+Q530454;Nunivak Island;код в энциклопедии «Британника онлайн»;1;1;from
+Q530454;Nunivak Island;код в Большой каталанской энциклопедии;1;1;from
+Q530454;Nunivak Island;код US National Archives;1;1;from
+Q530454;Nunivak Island;численность населения;1;1;from
+Q530454;Nunivak Island;это частный случай понятия;1;1;from
+Q530454;Nunivak Island;код LCNAF;1;1;from
+Q530454;Nunivak Island;код GND;1;1;from
+Q530454;Nunivak Island;код VIAF;1;1;from
+Q530454;Nunivak Island;находится на берегу водоёма;1;1;from
+Q530454;Nunivak Island;изображение;1;1;from
+Q530454;Nunivak Island;государство;1;1;from
+Q530454;Nunivak Island;административно-территориальная единица;1;1;from
+Q476525;Little Sitkin Island;находится в пределах природно-географического объекта;1;1;to
+Q476525;Little Sitkin Island;код Freebase;1;1;from
+Q530454;Nunivak Island;длина;1;1;from
+Q530454;Nunivak Island;высота над уровнем моря;1;1;from
+Q530454;Nunivak Island;площадь;1;1;from
+Q530454;Nunivak Island;категория объединяет темы;1;1;to
+Q557077;Whakaari/White Island;это частный случай понятия;1;1;from
+Q557077;Whakaari/White Island;код LCNAF;1;1;from
+Q557077;Whakaari/White Island;код VIAF;1;1;from
+Q557077;Whakaari/White Island;находится на берегу водоёма;1;1;from
+Q557077;Whakaari/White Island;изображение;1;1;from
+Q557077;Whakaari/White Island;государство;1;1;from
+Q557077;Whakaari/White Island;административно-территориальная единица;1;1;from
+Q530454;Nunivak Island;категория карт на Викискладе;1;1;from
+Q530454;Nunivak Island;ширина;1;1;from
+Q530454;Nunivak Island;код Freebase;1;1;from
+Q530454;Nunivak Island;географические координаты;1;1;from
+Q530454;Nunivak Island;VOGRIPA ID;1;1;from
+Q530454;Nunivak Island;часовой пояс;1;1;from
+Q530454;Nunivak Island;ID отношения в OpenStreetMap;1;1;from
+Q530454;Nunivak Island;вулканическая обсерватория;1;1;from
+Q530454;Nunivak Island;категория на Викискладе;1;1;from
+Q476525;Little Sitkin Island;географические координаты;1;1;from
+Q476525;Little Sitkin Island;ID отношения в OpenStreetMap;1;1;from
+Q271797;Mohéli;код в энциклопедии «Британника онлайн»;1;1;from
+Q476525;Little Sitkin Island;категория на Викискладе;1;1;from
+Q271797;Mohéli;основная категория по теме;1;1;from
+Q271797;Mohéli;FIPS 10-4 (страны и регионы);1;1;from
+Q271797;Mohéli;категория карт на Викискладе;1;1;from
+Q271797;Mohéli;находится в пределах природно-географического объекта;1;1;from
+Q271797;Mohéli;Who's on First ID;1;1;from
+Q271797;Mohéli;код Freebase;1;1;from
+Q271797;Mohéli;географические координаты;1;1;from
+Q271797;Mohéli;VOGRIPA ID;1;1;from
+Q271797;Mohéli;часовой пояс;1;1;from
+Q271797;Mohéli;категория на Викискладе;1;1;from
+Q271797;Mohéli;часть от;1;1;from
+Q271797;Mohéli;ISO 3166-2;1;1;from
+Q271797;Mohéli;используемый язык;1;1;from
+Q271797;Mohéli;код BabelNet;1;1;from
+Q271797;Mohéli;площадь;1;1;from
+Q271797;Mohéli;высота над уровнем моря;1;1;from
+Q271797;Mohéli;код GeoNames;1;1;from
+Q271797;Mohéli;баннер Викигида;1;1;from
+Q271797;Mohéli;место в MusicBrainz;1;1;from
+Q271797;Mohéli;является столицей;1;1;to
+Q476525;Little Sitkin Island;административно-территориальная единица;1;1;from
+Q476525;Little Sitkin Island;высота над уровнем моря;1;1;from
+Q476525;Little Sitkin Island;код GeoNames;1;1;from
+Q476525;Little Sitkin Island;код US National Archives;1;1;from
+Q476525;Little Sitkin Island;это частный случай понятия;1;1;from
+Q476525;Little Sitkin Island;находится на берегу водоёма;1;1;from
+Q476525;Little Sitkin Island;изображение;1;1;from
+Q476525;Little Sitkin Island;государство;1;1;from
+Q271797;Mohéli;административно делится на;1;1;to
+Q271797;Mohéli;место рождения;1;2;to
+Q271797;Mohéli;отношение к религии;1;1;to
+Q271797;Mohéli;общая тема категории;1;1;to
+Q271797;Mohéli;категория объединяет темы;1;1;to
+Q271797;Mohéli;место смерти;1;1;to
+Q271797;Mohéli;состоит из;1;1;to
+Q271797;Mohéli;юрисдикция распространяется на;1;1;to
+Q271797;Mohéli;происходит из;1;1;to
+Q18357043;Sergief Island;географические координаты;1;1;from

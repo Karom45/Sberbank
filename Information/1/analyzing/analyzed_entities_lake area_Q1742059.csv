@@ -1,0 +1,87 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q340105;Suwalskie lake district;государство;1;1;from
+Q2800344;Seeon Lakes;находится в охранной зоне;1;1;from
+Q11821193;Q11821193;часть от;1;1;to
+Q11821193;Q11821193;это частный случай понятия;1;1;from
+Q2800344;Seeon Lakes;находится на берегу водоёма;1;1;to
+Q2800344;Seeon Lakes;названо в честь;1;1;to
+Q2800344;Seeon Lakes;часть от;1;3;to
+Q2800344;Seeon Lakes;географические координаты;1;1;from
+Q2800344;Seeon Lakes;вертикальная глубина;1;1;from
+Q2800344;Seeon Lakes;категория на Викискладе;1;1;from
+Q2800344;Seeon Lakes;это частный случай понятия;1;1;from
+Q11821200;Chodzieskie lake district;это частный случай понятия;1;1;from
+Q2800344;Seeon Lakes;код GND;1;1;from
+Q2800344;Seeon Lakes;код VIAF;1;1;from
+Q2800344;Seeon Lakes;изображение;1;1;from
+Q2800344;Seeon Lakes;государство;1;1;from
+Q2800344;Seeon Lakes;административно-территориальная единица;1;2;from
+Q2499489;Braslawskaya Hrada;географические координаты;1;1;from
+Q2499489;Braslawskaya Hrada;код GNS;1;1;from
+Q2499489;Braslawskaya Hrada;высота над уровнем моря;1;1;from
+Q11821200;Chodzieskie lake district;государство;1;1;from
+Q11821207;Q11821207;это частный случай понятия;1;2;from
+Q340105;Suwalskie lake district;это частный случай понятия;1;1;from
+Q11821225;Starogard Lake District;это частный случай понятия;1;1;from
+Q61312449;Q61312449;это частный случай понятия;1;1;from
+Q61312449;Q61312449;государство;1;4;from
+Q20004111;Q20004111;географические координаты;1;1;from
+Q20004111;Q20004111;это частный случай понятия;1;1;from
+Q20004111;Q20004111;государство;1;1;from
+Q20004111;Q20004111;административно-территориальная единица;1;1;from
+Q11821225;Starogard Lake District;часть от;1;2;to
+Q11821225;Starogard Lake District;категория на Викискладе;1;1;from
+Q11821225;Starogard Lake District;государство;1;1;from
+Q11821214;Leszno Lakeland;это частный случай понятия;1;1;from
+Q11821225;Starogard Lake District;административно-территориальная единица;1;2;from
+Q11821219;Q11821219;находится в пределах природно-географического объекта;1;1;to
+Q11821219;Q11821219;это частный случай понятия;1;1;from
+Q11821217;Lubuskie lake district;общая тема категории;1;1;to
+Q11821217;Lubuskie lake district;находится в пределах природно-географического объекта;1;70;to
+Q11821217;Lubuskie lake district;основная категория по теме;1;1;from
+Q11821217;Lubuskie lake district;это частный случай понятия;1;1;from
+Q11821217;Lubuskie lake district;государство;1;1;from
+Q2499489;Braslawskaya Hrada;код GeoNames;1;1;from
+Q2499489;Braslawskaya Hrada;это частный случай понятия;1;2;from
+Q2499489;Braslawskaya Hrada;изображение;1;1;from
+Q858874;Masurian Lake District;площадь;1;1;from
+Q967829;Greater Poland Lakeland;это частный случай понятия;1;1;from
+Q967829;Greater Poland Lakeland;государство;1;1;from
+Q858874;Masurian Lake District;общая тема категории;1;1;to
+Q858874;Masurian Lake District;местонахождение;1;2;to
+Q858874;Masurian Lake District;основная категория по теме;1;1;from
+Q858874;Masurian Lake District;код Freebase;1;1;from
+Q858874;Masurian Lake District;географические координаты;1;1;from
+Q858874;Masurian Lake District;категория на Викискладе;1;1;from
+Q858874;Masurian Lake District;код в энциклопедии «Британника онлайн»;1;1;from
+Q2499489;Braslawskaya Hrada;государство;1;1;from
+Q858874;Masurian Lake District;это частный случай понятия;1;2;from
+Q858874;Masurian Lake District;карта местонахождения;1;1;from
+Q858874;Masurian Lake District;код GND;1;1;from
+Q858874;Masurian Lake District;код VIAF;1;1;from
+Q858874;Masurian Lake District;изображение;1;2;from
+Q858874;Masurian Lake District;государство;1;1;from
+Q340105;Suwalskie lake district;географические координаты;1;1;from
+Q340105;Suwalskie lake district;часть от;1;1;from
+Q967829;Greater Poland Lakeland;категория на Викискладе;1;1;from
+Q967829;Greater Poland Lakeland;основная категория по теме;1;1;from
+Q967829;Greater Poland Lakeland;общая тема категории;1;1;to
+Q1316399;Q1316399;административно-территориальная единица;1;1;from
+Q2499489;Braslawskaya Hrada;административно-территориальная единица;1;1;from
+Q2103420;Pomeranian Lakeland;местонахождение;1;1;to
+Q2103420;Pomeranian Lakeland;код Freebase;1;1;from
+Q2103420;Pomeranian Lakeland;географические координаты;1;1;from
+Q2103420;Pomeranian Lakeland;категория на Викискладе;1;1;from
+Q2103420;Pomeranian Lakeland;код в энциклопедии «Британника онлайн»;1;1;from
+Q2103420;Pomeranian Lakeland;это частный случай понятия;1;1;from
+Q2103420;Pomeranian Lakeland;часть света;1;1;from
+Q2103420;Pomeranian Lakeland;государство;1;1;from
+Q1316399;Q1316399;названо в честь;1;1;to
+Q1316399;Q1316399;галерея на Викискладе;1;1;from
+Q1316399;Q1316399;географические координаты;1;1;from
+Q1316399;Q1316399;находится в охранной зоне;1;1;from
+Q1316399;Q1316399;это частный случай понятия;1;1;from
+Q1316399;Q1316399;карта местонахождения;1;1;from
+Q1316399;Q1316399;изображение;1;1;from
+Q1316399;Q1316399;государство;1;1;from
+Q61312449;Q61312449;часть от;1;1;to

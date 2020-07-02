@@ -1,0 +1,985 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q266444;Ocnița District;административно-территориальная единица;1;68;to
+Q1826662;Leova District;изображение герба;1;1;from
+Q1826662;Leova District;категория для людей, родившихся здесь;1;1;from
+Q1826662;Leova District;код GeoNames;1;1;from
+Q1826662;Leova District;категория для людей, связанных с местностью;1;1;from
+Q1826662;Leova District;позиционная карта;1;1;from
+Q1826662;Leova District;площадь;1;1;from
+Q1826662;Leova District;используемый язык;1;1;from
+Q1826662;Leova District;ISO 3166-2;1;1;from
+Q1826662;Leova District;код темы Quora;1;1;from
+Q1826662;Leova District;категория на Викискладе;1;1;from
+Q1826662;Leova District;код автомобильного номера;1;1;from
+Q1826662;Leova District;ID отношения в OpenStreetMap;1;1;from
+Q1826662;Leova District;дата основания/создания/возникновения;1;1;from
+Q1826662;Leova District;географические координаты;1;1;from
+Q1826662;Leova District;код Freebase;1;1;from
+Q1826662;Leova District;Who's on First ID;1;1;from
+Q1826662;Leova District;официальный сайт;1;1;from
+Q1826662;Leova District;FIPS 10-4 (страны и регионы);1;1;from
+Q1826662;Leova District;основная категория по теме;1;1;from
+Q1826662;Leova District;место в MusicBrainz;1;1;from
+Q1826662;Leova District;административно делится на;1;1;to
+Q1826662;Leova District;место рождения;1;1;to
+Q1826662;Leova District;имеет границы с;1;1;to
+Q1826662;Leova District;категория объединяет темы;1;2;to
+Q1826662;Leova District;является столицей;1;1;to
+Q1826662;Leova District;общая тема категории;1;1;to
+Q1826662;Leova District;происходит из;1;1;to
+Q1980044;Basarabeasca District;административно-территориальная единица;1;11;to
+Q1826662;Leova District;численность населения;1;2;from
+Q1826662;Leova District;изображение флага;1;1;from
+Q1980044;Basarabeasca District;карта местонахождения;1;1;from
+Q1826662;Leova District;столица;1;1;from
+Q1796621;Sîngerei District;численность населения;1;2;from
+Q1796621;Sîngerei District;категория для людей, родившихся здесь;1;1;from
+Q1796621;Sîngerei District;код GeoNames;1;1;from
+Q1796621;Sîngerei District;категория для людей, связанных с местностью;1;1;from
+Q1796621;Sîngerei District;позиционная карта;1;1;from
+Q1796621;Sîngerei District;площадь;1;1;from
+Q1796621;Sîngerei District;ISO 3166-2;1;1;from
+Q1796621;Sîngerei District;категория на Викискладе;1;1;from
+Q1796621;Sîngerei District;код автомобильного номера;1;1;from
+Q1796621;Sîngerei District;дата основания/создания/возникновения;1;1;from
+Q1796621;Sîngerei District;географические координаты;1;1;from
+Q1796621;Sîngerei District;код Freebase;1;1;from
+Q1796621;Sîngerei District;Who's on First ID;1;1;from
+Q1796621;Sîngerei District;официальный сайт;1;1;from
+Q1796621;Sîngerei District;FIPS 10-4 (страны и регионы);1;1;from
+Q1796621;Sîngerei District;основная категория по теме;1;1;from
+Q1796621;Sîngerei District;место в MusicBrainz;1;1;from
+Q1796621;Sîngerei District;административно делится на;1;1;to
+Q1796621;Sîngerei District;место рождения;1;3;to
+Q1796621;Sîngerei District;категория объединяет темы;1;2;to
+Q1796621;Sîngerei District;является столицей;1;1;to
+Q1796621;Sîngerei District;лицензия на вещание в;1;1;to
+Q1796621;Sîngerei District;общая тема категории;1;1;to
+Q1826662;Leova District;административно-территориальная единица;1;56;to
+Q1826662;Leova District;государство;1;1;from
+Q1826662;Leova District;карта местонахождения;1;1;from
+Q1826662;Leova District;это частный случай понятия;1;1;from
+Q1980044;Basarabeasca District;государство;1;1;from
+Q1980044;Basarabeasca District;это частный случай понятия;1;1;from
+Q266444;Ocnița District;государство;1;1;from
+Q2112462;Orhei District;столица;1;1;from
+Q2112462;Orhei District;изображение герба;1;1;from
+Q2112462;Orhei District;численность населения;1;2;from
+Q2112462;Orhei District;категория для людей, родившихся здесь;1;1;from
+Q2112462;Orhei District;категория для людей, умерших здесь;1;1;from
+Q2112462;Orhei District;код GeoNames;1;1;from
+Q2112462;Orhei District;категория для людей, связанных с местностью;1;1;from
+Q2112462;Orhei District;позиционная карта;1;1;from
+Q2112462;Orhei District;площадь;1;1;from
+Q2112462;Orhei District;ISO 3166-2;1;1;from
+Q2112462;Orhei District;категория на Викискладе;1;1;from
+Q2112462;Orhei District;код автомобильного номера;1;1;from
+Q2112462;Orhei District;дата основания/создания/возникновения;1;1;from
+Q2112462;Orhei District;географические координаты;1;1;from
+Q2112462;Orhei District;код Freebase;1;1;from
+Q2112462;Orhei District;Who's on First ID;1;1;from
+Q2112462;Orhei District;официальный сайт;1;1;from
+Q2112462;Orhei District;FIPS 10-4 (страны и регионы);1;1;from
+Q2112462;Orhei District;основная категория по теме;1;1;from
+Q2112462;Orhei District;административно делится на;1;1;to
+Q2112462;Orhei District;место смерти;1;2;to
+Q2112462;Orhei District;категория объединяет темы;1;3;to
+Q2112462;Orhei District;является столицей;1;1;to
+Q2112462;Orhei District;место рождения;1;3;to
+Q2112462;Orhei District;имеет границы с;1;1;to
+Q2112462;Orhei District;общая тема категории;1;1;to
+Q2128862;Criuleni District;административно-территориальная единица;1;66;to
+Q2128862;Criuleni District;государство;1;1;from
+Q2112462;Orhei District;изображение флага;1;1;from
+Q2112462;Orhei District;это частный случай понятия;1;2;from
+Q1980044;Basarabeasca District;столица;1;1;from
+Q2112462;Orhei District;карта местонахождения;1;2;from
+Q1980044;Basarabeasca District;изображение флага;1;1;from
+Q1980044;Basarabeasca District;имеет границы с;1;2;to
+Q1980044;Basarabeasca District;численность населения;1;2;from
+Q1980044;Basarabeasca District;категория для людей, родившихся здесь;1;1;from
+Q1980044;Basarabeasca District;код GeoNames;1;1;from
+Q1980044;Basarabeasca District;категория для людей, связанных с местностью;1;1;from
+Q1980044;Basarabeasca District;позиционная карта;1;1;from
+Q1980044;Basarabeasca District;площадь;1;1;from
+Q1980044;Basarabeasca District;используемый язык;1;1;from
+Q1980044;Basarabeasca District;ISO 3166-2;1;1;from
+Q1980044;Basarabeasca District;категория на Викискладе;1;1;from
+Q1980044;Basarabeasca District;дата основания/создания/возникновения;1;1;from
+Q1980044;Basarabeasca District;географические координаты;1;1;from
+Q1980044;Basarabeasca District;код Freebase;1;1;from
+Q1980044;Basarabeasca District;Who's on First ID;1;1;from
+Q1980044;Basarabeasca District;официальный сайт;1;1;from
+Q1980044;Basarabeasca District;FIPS 10-4 (страны и регионы);1;1;from
+Q1980044;Basarabeasca District;основная категория по теме;1;1;from
+Q1980044;Basarabeasca District;административно делится на;1;1;to
+Q1980044;Basarabeasca District;категория объединяет темы;1;3;to
+Q1980044;Basarabeasca District;место рождения;1;1;to
+Q1980044;Basarabeasca District;является столицей;1;1;to
+Q1980044;Basarabeasca District;общая тема категории;1;1;to
+Q1980044;Basarabeasca District;происходит из;1;1;to
+Q2112462;Orhei District;административно-территориальная единица;1;117;to
+Q2112462;Orhei District;государство;1;2;from
+Q2112462;Orhei District;код VIAF;1;1;from
+Q1796621;Sîngerei District;изображение герба;1;1;from
+Q1796621;Sîngerei District;изображение флага;1;1;from
+Q1796621;Sîngerei District;столица;1;1;from
+Q878317;Rezina District;карта местонахождения;1;1;from
+Q878317;Rezina District;столица;1;1;from
+Q878317;Rezina District;изображение флага;1;1;from
+Q878317;Rezina District;численность населения;1;2;from
+Q878317;Rezina District;категория для людей, родившихся здесь;1;1;from
+Q878317;Rezina District;код GeoNames;1;1;from
+Q878317;Rezina District;категория для людей, связанных с местностью;1;1;from
+Q878317;Rezina District;позиционная карта;1;1;from
+Q878317;Rezina District;площадь;1;1;from
+Q878317;Rezina District;ISO 3166-2;1;1;from
+Q878317;Rezina District;код темы Quora;1;1;from
+Q878317;Rezina District;категория на Викискладе;1;1;from
+Q878317;Rezina District;код автомобильного номера;1;1;from
+Q878317;Rezina District;дата основания/создания/возникновения;1;1;from
+Q878317;Rezina District;географические координаты;1;1;from
+Q878317;Rezina District;код Freebase;1;1;from
+Q878317;Rezina District;Who's on First ID;1;1;from
+Q878317;Rezina District;официальный сайт;1;1;from
+Q878317;Rezina District;FIPS 10-4 (страны и регионы);1;1;from
+Q878317;Rezina District;основная категория по теме;1;1;from
+Q878317;Rezina District;административно делится на;1;1;to
+Q878317;Rezina District;категория объединяет темы;1;2;to
+Q878317;Rezina District;является столицей;1;1;to
+Q878317;Rezina District;имеет границы с;1;1;to
+Q878317;Rezina District;общая тема категории;1;1;to
+Q878375;Fălești District;административно-территориальная единица;1;100;to
+Q878375;Fălești District;государство;1;1;from
+Q878375;Fălești District;карта местонахождения;1;1;from
+Q878317;Rezina District;это частный случай понятия;1;1;from
+Q878317;Rezina District;государство;1;1;from
+Q1796621;Sîngerei District;это частный случай понятия;1;1;from
+Q878317;Rezina District;административно-территориальная единица;1;59;to
+Q878308;Strășeni District;столица;1;1;from
+Q878308;Strășeni District;изображение флага;1;1;from
+Q878308;Strășeni District;изображение герба;1;1;from
+Q878308;Strășeni District;численность населения;1;2;from
+Q878308;Strășeni District;категория для людей, родившихся здесь;1;1;from
+Q878308;Strășeni District;категория для людей, умерших здесь;1;1;from
+Q878308;Strășeni District;код GeoNames;1;1;from
+Q878308;Strășeni District;категория для людей, связанных с местностью;1;1;from
+Q878308;Strășeni District;позиционная карта;1;1;from
+Q878308;Strășeni District;площадь;1;1;from
+Q878308;Strășeni District;ISO 3166-2;1;1;from
+Q878308;Strășeni District;категория на Викискладе;1;1;from
+Q878308;Strășeni District;код автомобильного номера;1;1;from
+Q878308;Strășeni District;дата основания/создания/возникновения;1;1;from
+Q878308;Strășeni District;географические координаты;1;1;from
+Q878308;Strășeni District;код Freebase;1;1;from
+Q878308;Strășeni District;Who's on First ID;1;1;from
+Q878308;Strășeni District;официальный сайт;1;1;from
+Q878308;Strășeni District;FIPS 10-4 (страны и регионы);1;1;from
+Q878308;Strășeni District;основная категория по теме;1;1;from
+Q878308;Strășeni District;место в MusicBrainz;1;1;from
+Q878308;Strășeni District;административно делится на;1;1;to
+Q878308;Strășeni District;категория объединяет темы;1;3;to
+Q878308;Strășeni District;является столицей;1;1;to
+Q878308;Strășeni District;значимое место;1;1;to
+Q878308;Strășeni District;место смерти;1;1;to
+Q878308;Strășeni District;общая тема категории;1;1;to
+Q878375;Fălești District;это частный случай понятия;1;1;from
+Q878375;Fălești District;столица;1;1;from
+Q878375;Fălești District;изображение флага;1;1;from
+Q878375;Fălești District;численность населения;1;2;from
+Q1061128;Dondușeni District;имеет границы с;1;3;to
+Q1061128;Dondușeni District;изображение герба;1;1;from
+Q1061128;Dondușeni District;численность населения;1;2;from
+Q1061128;Dondușeni District;категория для людей, родившихся здесь;1;1;from
+Q1061128;Dondușeni District;код GeoNames;1;1;from
+Q1061128;Dondușeni District;категория для людей, связанных с местностью;1;1;from
+Q1061128;Dondușeni District;позиционная карта;1;1;from
+Q1061128;Dondușeni District;высота над уровнем моря;1;1;from
+Q1061128;Dondușeni District;площадь;1;1;from
+Q1061128;Dondușeni District;ISO 3166-2;1;1;from
+Q1061128;Dondușeni District;категория на Викискладе;1;1;from
+Q1061128;Dondușeni District;код автомобильного номера;1;1;from
+Q1061128;Dondușeni District;дата основания/создания/возникновения;1;1;from
+Q1061128;Dondușeni District;географические координаты;1;1;from
+Q1061128;Dondușeni District;код Freebase;1;1;from
+Q1061128;Dondușeni District;Who's on First ID;1;1;from
+Q1061128;Dondușeni District;FIPS 10-4 (страны и регионы);1;1;from
+Q1061128;Dondușeni District;основная категория по теме;1;1;from
+Q1061128;Dondușeni District;место в MusicBrainz;1;1;from
+Q1061128;Dondușeni District;административно делится на;1;1;to
+Q1061128;Dondușeni District;место рождения;1;1;to
+Q1061128;Dondușeni District;категория объединяет темы;1;2;to
+Q1061128;Dondușeni District;является столицей;1;1;to
+Q1061128;Dondușeni District;общая тема категории;1;1;to
+Q1796621;Sîngerei District;административно-территориальная единица;1;106;to
+Q1796621;Sîngerei District;государство;1;1;from
+Q1796621;Sîngerei District;карта местонахождения;1;1;from
+Q1061128;Dondușeni District;изображение флага;1;1;from
+Q1061128;Dondușeni District;столица;1;1;from
+Q1061128;Dondușeni District;это частный случай понятия;1;1;from
+Q878375;Fălești District;код Freebase;1;1;from
+Q878375;Fălești District;категория для людей, родившихся здесь;1;1;from
+Q878375;Fălești District;категория для людей, умерших здесь;1;1;from
+Q878375;Fălești District;код GeoNames;1;1;from
+Q878375;Fălești District;категория для людей, связанных с местностью;1;1;from
+Q878375;Fălești District;позиционная карта;1;1;from
+Q878375;Fălești District;высота над уровнем моря;1;1;from
+Q878375;Fălești District;площадь;1;1;from
+Q878375;Fălești District;ISO 3166-2;1;1;from
+Q878375;Fălești District;категория на Викискладе;1;1;from
+Q878375;Fălești District;код автомобильного номера;1;1;from
+Q878375;Fălești District;дата основания/создания/возникновения;1;1;from
+Q878375;Fălești District;географические координаты;1;1;from
+Q878375;Fălești District;Who's on First ID;1;1;from
+Q1061128;Dondușeni District;карта местонахождения;1;1;from
+Q878375;Fălești District;официальный сайт;1;1;from
+Q878375;Fălești District;FIPS 10-4 (страны и регионы);1;1;from
+Q878375;Fălești District;основная категория по теме;1;1;from
+Q878375;Fălești District;место в MusicBrainz;1;1;from
+Q878375;Fălești District;административно делится на;1;1;to
+Q878375;Fălești District;категория объединяет темы;1;3;to
+Q878375;Fălești District;является столицей;1;1;to
+Q878375;Fălești District;место рождения;1;2;to
+Q878375;Fălești District;лицензия на вещание в;1;1;to
+Q878375;Fălești District;общая тема категории;1;1;to
+Q1061128;Dondușeni District;административно-территориальная единица;1;50;to
+Q1061128;Dondușeni District;государство;1;1;from
+Q2128862;Criuleni District;карта местонахождения;1;1;from
+Q2128862;Criuleni District;это частный случай понятия;1;1;from
+Q2128862;Criuleni District;столица;1;1;from
+Q2129022;Soroca District;карта местонахождения;1;1;from
+Q2129022;Soroca District;столица;1;1;from
+Q2129022;Soroca District;изображение флага;1;1;from
+Q2129022;Soroca District;имеет границы с;1;4;to
+Q2129022;Soroca District;изображение герба;1;1;from
+Q2129022;Soroca District;численность населения;1;2;from
+Q2129022;Soroca District;категория для людей, родившихся здесь;1;1;from
+Q2129022;Soroca District;категория для людей, умерших здесь;1;1;from
+Q2129022;Soroca District;код GeoNames;1;1;from
+Q2129022;Soroca District;категория для людей, связанных с местностью;1;1;from
+Q2129022;Soroca District;высота над уровнем моря;1;1;from
+Q2129022;Soroca District;площадь;1;1;from
+Q2129022;Soroca District;код BabelNet;1;1;from
+Q2129022;Soroca District;ISO 3166-2;1;1;from
+Q2129022;Soroca District;категория на Викискладе;1;1;from
+Q2129022;Soroca District;код автомобильного номера;1;1;from
+Q2129022;Soroca District;дата основания/создания/возникновения;1;1;from
+Q2129022;Soroca District;географические координаты;1;1;from
+Q2129022;Soroca District;код Freebase;1;1;from
+Q2129022;Soroca District;Who's on First ID;1;1;from
+Q2129022;Soroca District;официальный сайт;1;1;from
+Q2129022;Soroca District;FIPS 10-4 (страны и регионы);1;1;from
+Q2129022;Soroca District;основная категория по теме;1;1;from
+Q2129022;Soroca District;место в MusicBrainz;1;1;from
+Q2129022;Soroca District;административно делится на;1;1;to
+Q2129022;Soroca District;категория объединяет темы;1;3;to
+Q2129022;Soroca District;место рождения;1;1;to
+Q2129022;Soroca District;является столицей;1;1;to
+Q2129022;Soroca District;это частный случай понятия;1;1;from
+Q2129022;Soroca District;государство;1;1;from
+Q2128964;Ialoveni District;административно-территориальная единица;1;45;to
+Q2129022;Soroca District;административно-территориальная единица;1;104;to
+Q2128964;Ialoveni District;карта местонахождения;1;1;from
+Q2128964;Ialoveni District;это частный случай понятия;1;1;from
+Q2128964;Ialoveni District;столица;1;1;from
+Q2128964;Ialoveni District;изображение флага;1;1;from
+Q2128964;Ialoveni District;изображение герба;1;1;from
+Q2128964;Ialoveni District;численность населения;1;2;from
+Q2128964;Ialoveni District;категория для людей, родившихся здесь;1;1;from
+Q2128964;Ialoveni District;код GeoNames;1;1;from
+Q2128964;Ialoveni District;категория для людей, связанных с местностью;1;1;from
+Q2128964;Ialoveni District;позиционная карта;1;1;from
+Q2128964;Ialoveni District;площадь;1;1;from
+Q2128964;Ialoveni District;ISO 3166-2;1;1;from
+Q2128964;Ialoveni District;категория на Викискладе;1;1;from
+Q2128964;Ialoveni District;код автомобильного номера;1;1;from
+Q2128964;Ialoveni District;дата основания/создания/возникновения;1;1;from
+Q2128964;Ialoveni District;географические координаты;1;1;from
+Q2128964;Ialoveni District;код Freebase;1;1;from
+Q2128964;Ialoveni District;Who's on First ID;1;1;from
+Q2128964;Ialoveni District;официальный сайт;1;1;from
+Q2128964;Ialoveni District;FIPS 10-4 (страны и регионы);1;1;from
+Q2128964;Ialoveni District;основная категория по теме;1;1;from
+Q2128964;Ialoveni District;место в MusicBrainz;1;1;from
+Q2128964;Ialoveni District;административно делится на;1;1;to
+Q2128964;Ialoveni District;категория объединяет темы;1;2;to
+Q2128964;Ialoveni District;место рождения;1;1;to
+Q2128964;Ialoveni District;является столицей;1;1;to
+Q2128964;Ialoveni District;общая тема категории;1;1;to
+Q2129022;Soroca District;общая тема категории;1;1;to
+Q2129025;Telenești District;административно-территориальная единица;1;78;to
+Q2129025;Telenești District;государство;1;1;from
+Q2129025;Telenești District;карта местонахождения;1;1;from
+Q2129061;Ștefan Vodă District;изображение флага;1;1;from
+Q2129061;Ștefan Vodă District;имеет границы с;1;2;to
+Q2129061;Ștefan Vodă District;изображение герба;1;1;from
+Q2129061;Ștefan Vodă District;численность населения;1;2;from
+Q2129061;Ștefan Vodă District;категория для людей, родившихся здесь;1;1;from
+Q2129061;Ștefan Vodă District;категория для людей, умерших здесь;1;1;from
+Q2129061;Ștefan Vodă District;код GeoNames;1;1;from
+Q2129061;Ștefan Vodă District;категория для людей, связанных с местностью;1;1;from
+Q2129061;Ștefan Vodă District;позиционная карта;1;1;from
+Q2129061;Ștefan Vodă District;площадь;1;1;from
+Q2129061;Ștefan Vodă District;ISO 3166-2;1;1;from
+Q2129061;Ștefan Vodă District;категория на Викискладе;1;1;from
+Q2129061;Ștefan Vodă District;код автомобильного номера;1;1;from
+Q2129061;Ștefan Vodă District;дата основания/создания/возникновения;1;1;from
+Q2129061;Ștefan Vodă District;географические координаты;1;1;from
+Q2129061;Ștefan Vodă District;код Freebase;1;1;from
+Q2129061;Ștefan Vodă District;Who's on First ID;1;1;from
+Q2129061;Ștefan Vodă District;официальный сайт;1;1;from
+Q2129061;Ștefan Vodă District;FIPS 10-4 (страны и регионы);1;1;from
+Q2129061;Ștefan Vodă District;основная категория по теме;1;1;from
+Q2129061;Ștefan Vodă District;место в MusicBrainz;1;1;from
+Q2129061;Ștefan Vodă District;административно делится на;1;1;to
+Q2129061;Ștefan Vodă District;категория объединяет темы;1;3;to
+Q2129061;Ștefan Vodă District;является столицей;1;1;to
+Q2129061;Ștefan Vodă District;лицензия на вещание в;1;1;to
+Q2129061;Ștefan Vodă District;место смерти;1;3;to
+Q2129061;Ștefan Vodă District;место рождения;1;2;to
+Q2129061;Ștefan Vodă District;столица;1;1;from
+Q2129061;Ștefan Vodă District;это частный случай понятия;1;1;from
+Q2129061;Ștefan Vodă District;карта местонахождения;1;2;from
+Q2129025;Telenești District;код автомобильного номера;1;1;from
+Q2129025;Telenești District;это частный случай понятия;1;1;from
+Q2129025;Telenești District;столица;1;1;from
+Q2129025;Telenești District;изображение флага;1;1;from
+Q2129025;Telenești District;изображение герба;1;1;from
+Q2129025;Telenești District;численность населения;1;2;from
+Q2129025;Telenești District;категория для людей, родившихся здесь;1;1;from
+Q2129025;Telenești District;код GeoNames;1;1;from
+Q2129025;Telenești District;категория для людей, связанных с местностью;1;1;from
+Q2129025;Telenești District;позиционная карта;1;1;from
+Q2129025;Telenești District;площадь;1;1;from
+Q2129025;Telenești District;ISO 3166-2;1;1;from
+Q2129025;Telenești District;категория на Викискладе;1;1;from
+Q2129025;Telenești District;дата основания/создания/возникновения;1;1;from
+Q2129061;Ștefan Vodă District;государство;1;1;from
+Q2129025;Telenești District;географические координаты;1;1;from
+Q2129025;Telenești District;код Freebase;1;1;from
+Q2129025;Telenești District;Who's on First ID;1;1;from
+Q2129025;Telenești District;официальный сайт;1;1;from
+Q2129025;Telenești District;FIPS 10-4 (страны и регионы);1;1;from
+Q2129025;Telenești District;основная категория по теме;1;1;from
+Q2129025;Telenești District;административно делится на;1;1;to
+Q2129025;Telenești District;место рождения;1;3;to
+Q2129025;Telenești District;категория объединяет темы;1;2;to
+Q2129025;Telenești District;является столицей;1;1;to
+Q2129025;Telenești District;общая тема категории;1;1;to
+Q2129061;Ștefan Vodă District;административно-территориальная единица;1;40;to
+Q2128964;Ialoveni District;государство;1;1;from
+Q2128882;Cahul District;происходит из;1;1;to
+Q2128862;Criuleni District;изображение флага;1;1;from
+Q2128868;Călărași District;это частный случай понятия;1;1;from
+Q2128868;Călărași District;изображение флага;1;1;from
+Q2128868;Călărași District;изображение герба;1;1;from
+Q2128868;Călărași District;десятичная классификация Дьюи;1;1;from
+Q2128868;Călărași District;численность населения;1;2;from
+Q2128868;Călărași District;категория для людей, родившихся здесь;1;1;from
+Q2128868;Călărași District;код GeoNames;1;1;from
+Q2128868;Călărași District;категория для людей, связанных с местностью;1;1;from
+Q2128868;Călărași District;позиционная карта;1;1;from
+Q2128868;Călărași District;площадь;1;1;from
+Q2128868;Călărași District;ISO 3166-2;1;1;from
+Q2128868;Călărași District;категория на Викискладе;1;1;from
+Q2128868;Călărași District;код автомобильного номера;1;1;from
+Q2128868;Călărași District;дата основания/создания/возникновения;1;1;from
+Q2128868;Călărași District;географические координаты;1;1;from
+Q2128868;Călărași District;код Freebase;1;1;from
+Q2128868;Călărași District;Who's on First ID;1;1;from
+Q2128868;Călărași District;официальный сайт;1;1;from
+Q2128868;Călărași District;FIPS 10-4 (страны и регионы);1;1;from
+Q2128868;Călărași District;основная категория по теме;1;1;from
+Q2128868;Călărași District;место в MusicBrainz;1;1;from
+Q2128868;Călărași District;административно делится на;1;1;to
+Q2128868;Călărași District;является столицей;1;1;to
+Q2128868;Călărași District;категория объединяет темы;1;2;to
+Q2128868;Călărași District;общая тема категории;1;1;to
+Q2128869;Căușeni District;административно-территориальная единица;1;69;to
+Q2128869;Căușeni District;государство;1;1;from
+Q2128869;Căușeni District;карта местонахождения;1;1;from
+Q2128868;Călărași District;столица;1;1;from
+Q2128868;Călărași District;карта местонахождения;1;1;from
+Q2128882;Cahul District;общая тема категории;1;1;to
+Q2128868;Călărași District;город-побратим;1;1;to
+Q2128862;Criuleni District;изображение герба;1;1;from
+Q2128862;Criuleni District;численность населения;1;2;from
+Q2128862;Criuleni District;категория для людей, родившихся здесь;1;1;from
+Q2128862;Criuleni District;код GeoNames;1;1;from
+Q2128862;Criuleni District;категория для людей, связанных с местностью;1;1;from
+Q2128862;Criuleni District;позиционная карта;1;1;from
+Q2128862;Criuleni District;высота над уровнем моря;1;1;from
+Q2128862;Criuleni District;площадь;1;1;from
+Q2128862;Criuleni District;используемый язык;1;1;from
+Q2128862;Criuleni District;ISO 3166-2;1;1;from
+Q2128862;Criuleni District;категория на Викискладе;1;1;from
+Q2128862;Criuleni District;код автомобильного номера;1;1;from
+Q2128862;Criuleni District;дата основания/создания/возникновения;1;1;from
+Q2128862;Criuleni District;географические координаты;1;1;from
+Q2128862;Criuleni District;код Freebase;1;1;from
+Q2128862;Criuleni District;Who's on First ID;1;1;from
+Q2128862;Criuleni District;официальный сайт;1;1;from
+Q2128862;Criuleni District;FIPS 10-4 (страны и регионы);1;1;from
+Q2128862;Criuleni District;основная категория по теме;1;1;from
+Q2128862;Criuleni District;административно делится на;1;1;to
+Q2128862;Criuleni District;категория объединяет темы;1;2;to
+Q2128862;Criuleni District;место рождения;1;1;to
+Q2128862;Criuleni District;общая тема категории;1;1;to
+Q2128862;Criuleni District;является столицей;1;1;to
+Q2128862;Criuleni District;происходит из;1;1;to
+Q2128868;Călărași District;административно-территориальная единица;1;85;to
+Q2128868;Călărași District;государство;1;1;from
+Q2128869;Căușeni District;это частный случай понятия;1;1;from
+Q2128869;Căușeni District;столица;1;1;from
+Q2128869;Căușeni District;изображение флага;1;1;from
+Q2128869;Căușeni District;имеет границы с;1;2;to
+Q2128882;Cahul District;столица;1;1;from
+Q2128882;Cahul District;изображение флага;1;1;from
+Q2128882;Cahul District;имеет границы с;1;4;to
+Q2128882;Cahul District;изображение герба;1;1;from
+Q2128882;Cahul District;численность населения;1;2;from
+Q2128882;Cahul District;категория для людей, родившихся здесь;1;1;from
+Q2128882;Cahul District;код GeoNames;1;1;from
+Q2128882;Cahul District;категория для людей, связанных с местностью;1;1;from
+Q2128882;Cahul District;позиционная карта;1;1;from
+Q2128882;Cahul District;площадь;1;1;from
+Q2128882;Cahul District;используемый язык;1;1;from
+Q2128882;Cahul District;ISO 3166-2;1;1;from
+Q2128882;Cahul District;категория на Викискладе;1;1;from
+Q2128882;Cahul District;код автомобильного номера;1;1;from
+Q2128882;Cahul District;местный телефонный код;1;1;from
+Q2128882;Cahul District;дата основания/создания/возникновения;1;1;from
+Q2128882;Cahul District;географические координаты;1;1;from
+Q2128882;Cahul District;код Freebase;1;1;from
+Q2128882;Cahul District;Who's on First ID;1;1;from
+Q2128882;Cahul District;официальный сайт;1;1;from
+Q2128882;Cahul District;FIPS 10-4 (страны и регионы);1;1;from
+Q2128882;Cahul District;основная категория по теме;1;1;from
+Q2128882;Cahul District;место в MusicBrainz;1;1;from
+Q2128882;Cahul District;административно делится на;1;1;to
+Q2128882;Cahul District;место рождения;1;3;to
+Q2128882;Cahul District;категория объединяет темы;1;2;to
+Q2128882;Cahul District;является столицей;1;1;to
+Q2128882;Cahul District;это частный случай понятия;1;1;from
+Q2128882;Cahul District;карта местонахождения;1;1;from
+Q2128882;Cahul District;государство;1;1;to
+Q2128869;Căușeni District;дата основания/создания/возникновения;1;1;from
+Q2128869;Căușeni District;изображение герба;1;1;from
+Q2128869;Căușeni District;численность населения;1;2;from
+Q2128869;Căușeni District;категория для людей, родившихся здесь;1;1;from
+Q2128869;Căușeni District;категория для людей, умерших здесь;1;1;from
+Q2128869;Căușeni District;код GeoNames;1;1;from
+Q2128869;Căușeni District;категория для людей, связанных с местностью;1;1;from
+Q2128869;Căușeni District;позиционная карта;1;1;from
+Q2128869;Căușeni District;площадь;1;1;from
+Q2128869;Căușeni District;код BabelNet;1;1;from
+Q2128869;Căușeni District;ISO 3166-2;1;1;from
+Q2128869;Căușeni District;категория на Викискладе;1;1;from
+Q2128869;Căușeni District;код автомобильного номера;1;1;from
+Q2128869;Căușeni District;географические координаты;1;1;from
+Q2128882;Cahul District;административно-территориальная единица;1;87;to
+Q2128869;Căușeni District;код Freebase;1;1;from
+Q2128869;Căușeni District;Who's on First ID;1;1;from
+Q2128869;Căușeni District;официальный сайт;1;1;from
+Q2128869;Căușeni District;FIPS 10-4 (страны и регионы);1;1;from
+Q2128869;Căușeni District;основная категория по теме;1;1;from
+Q2128869;Căușeni District;место в MusicBrainz;1;1;from
+Q2128869;Căușeni District;административно делится на;1;1;to
+Q2128869;Căușeni District;категория объединяет темы;1;3;to
+Q2128869;Căușeni District;место смерти;1;1;to
+Q2128869;Căușeni District;место рождения;1;3;to
+Q2128869;Căușeni District;является столицей;1;1;to
+Q2128869;Căușeni District;общая тема категории;1;1;to
+Q878308;Strășeni District;это частный случай понятия;1;1;from
+Q878308;Strășeni District;карта местонахождения;1;1;from
+Q878308;Strășeni District;государство;1;1;from
+Q753795;Briceni District;административно делится на;1;1;to
+Q753795;Briceni District;категория объединяет темы;1;3;to
+Q753795;Briceni District;является столицей;1;1;to
+Q753795;Briceni District;общая тема категории;1;1;to
+Q769224;Anenii Noi District;административно-территориальная единица;1;74;to
+Q769224;Anenii Noi District;государство;1;1;from
+Q769224;Anenii Noi District;изображение;1;1;from
+Q769224;Anenii Noi District;карта местонахождения;1;2;from
+Q769224;Anenii Noi District;это частный случай понятия;1;1;from
+Q769224;Anenii Noi District;столица;1;1;from
+Q769224;Anenii Noi District;изображение флага;1;1;from
+Q769224;Anenii Noi District;изображение герба;1;1;from
+Q769224;Anenii Noi District;численность населения;1;3;from
+Q769224;Anenii Noi District;категория для людей, родившихся здесь;1;1;from
+Q769224;Anenii Noi District;категория для людей, умерших здесь;1;1;from
+Q769224;Anenii Noi District;код GeoNames;1;1;from
+Q769224;Anenii Noi District;категория для людей, связанных с местностью;1;1;from
+Q769224;Anenii Noi District;позиционная карта;1;1;from
+Q769224;Anenii Noi District;площадь;1;1;from
+Q769224;Anenii Noi District;ISO 3166-2;1;1;from
+Q769224;Anenii Noi District;категория на Викискладе;1;1;from
+Q769224;Anenii Noi District;код автомобильного номера;1;1;from
+Q769224;Anenii Noi District;дата основания/создания/возникновения;1;1;from
+Q769224;Anenii Noi District;географические координаты;1;1;from
+Q769224;Anenii Noi District;код Freebase;1;1;from
+Q769224;Anenii Noi District;Who's on First ID;1;1;from
+Q769224;Anenii Noi District;официальный сайт;1;1;from
+Q769224;Anenii Noi District;FIPS 10-4 (страны и регионы);1;1;from
+Q753795;Briceni District;место рождения;1;8;to
+Q753795;Briceni District;место в MusicBrainz;1;1;from
+Q684183;Cantemir District;является столицей;1;1;to
+Q753795;Briceni District;основная категория по теме;1;1;from
+Q684183;Cantemir District;общая тема категории;1;1;to
+Q684183;Cantemir District;происходит из;1;1;to
+Q753795;Briceni District;административно-территориальная единица;1;70;to
+Q753795;Briceni District;государство;1;1;from
+Q753795;Briceni District;код VIAF;1;1;from
+Q753795;Briceni District;карта местонахождения;1;1;from
+Q753795;Briceni District;код LCNAF;1;1;from
+Q753795;Briceni District;это частный случай понятия;1;2;from
+Q753795;Briceni District;столица;1;1;from
+Q753795;Briceni District;имеет границы с;1;2;to
+Q753795;Briceni District;численность населения;1;4;from
+Q753795;Briceni District;категория для людей, родившихся здесь;1;1;from
+Q753795;Briceni District;категория для людей, умерших здесь;1;1;from
+Q753795;Briceni District;код GeoNames;1;1;from
+Q753795;Briceni District;категория для людей, связанных с местностью;1;1;from
+Q753795;Briceni District;позиционная карта;1;1;from
+Q753795;Briceni District;высота над уровнем моря;1;1;from
+Q753795;Briceni District;площадь;1;1;from
+Q753795;Briceni District;ISO 3166-2;1;1;from
+Q753795;Briceni District;категория на Викискладе;1;1;from
+Q753795;Briceni District;код автомобильного номера;1;1;from
+Q753795;Briceni District;дата основания/создания/возникновения;1;1;from
+Q753795;Briceni District;географические координаты;1;1;from
+Q753795;Briceni District;код Freebase;1;1;from
+Q753795;Briceni District;Who's on First ID;1;1;from
+Q753795;Briceni District;официальный сайт;1;1;from
+Q753795;Briceni District;FIPS 10-4 (страны и регионы);1;1;from
+Q769224;Anenii Noi District;основная категория по теме;1;1;from
+Q769224;Anenii Noi District;административно делится на;1;1;to
+Q769224;Anenii Noi District;место смерти;1;3;to
+Q769224;Anenii Noi District;категория объединяет темы;1;3;to
+Q854443;Ungheni District;основные направления;1;1;to
+Q854443;Ungheni District;категория объединяет темы;1;3;to
+Q854443;Ungheni District;место рождения;1;1;to
+Q854443;Ungheni District;является столицей;1;1;to
+Q854443;Ungheni District;общая тема категории;1;1;to
+Q860716;Glodeni District;административно-территориальная единица;1;47;to
+Q860716;Glodeni District;государство;1;1;from
+Q860716;Glodeni District;карта местонахождения;1;1;from
+Q860716;Glodeni District;это частный случай понятия;1;1;from
+Q860716;Glodeni District;столица;1;1;from
+Q860716;Glodeni District;изображение флага;1;1;from
+Q860716;Glodeni District;изображение герба;1;1;from
+Q860716;Glodeni District;численность населения;1;2;from
+Q860716;Glodeni District;категория для людей, родившихся здесь;1;1;from
+Q860716;Glodeni District;код GeoNames;1;1;from
+Q860716;Glodeni District;категория для людей, связанных с местностью;1;1;from
+Q860716;Glodeni District;позиционная карта;1;1;from
+Q860716;Glodeni District;высота над уровнем моря;1;1;from
+Q860716;Glodeni District;площадь;1;1;from
+Q860716;Glodeni District;ISO 3166-2;1;1;from
+Q860716;Glodeni District;категория на Викискладе;1;1;from
+Q860716;Glodeni District;код автомобильного номера;1;1;from
+Q860716;Glodeni District;дата основания/создания/возникновения;1;1;from
+Q860716;Glodeni District;географические координаты;1;1;from
+Q860716;Glodeni District;код Freebase;1;1;from
+Q860716;Glodeni District;Who's on First ID;1;1;from
+Q860716;Glodeni District;официальный сайт;1;1;from
+Q854443;Ungheni District;место смерти;1;7;to
+Q854443;Ungheni District;административно делится на;1;1;to
+Q854443;Ungheni District;место в MusicBrainz;1;1;from
+Q854443;Ungheni District;категория для людей, умерших здесь;1;1;from
+Q769224;Anenii Noi District;является столицей;1;1;to
+Q769224;Anenii Noi District;место рождения;1;2;to
+Q769224;Anenii Noi District;имеет границы с;1;1;to
+Q769224;Anenii Noi District;общая тема категории;1;1;to
+Q854443;Ungheni District;административно-территориальная единица;1;108;to
+Q854443;Ungheni District;государство;1;1;from
+Q854443;Ungheni District;карта местонахождения;1;1;from
+Q854443;Ungheni District;это частный случай понятия;1;1;from
+Q854443;Ungheni District;столица;1;1;from
+Q854443;Ungheni District;изображение флага;1;1;from
+Q854443;Ungheni District;численность населения;1;2;from
+Q854443;Ungheni District;категория для людей, родившихся здесь;1;1;from
+Q854443;Ungheni District;код GeoNames;1;1;from
+Q854443;Ungheni District;основная категория по теме;1;1;from
+Q854443;Ungheni District;категория для людей, связанных с местностью;1;1;from
+Q854443;Ungheni District;позиционная карта;1;1;from
+Q854443;Ungheni District;высота над уровнем моря;1;1;from
+Q854443;Ungheni District;площадь;1;1;from
+Q854443;Ungheni District;ISO 3166-2;1;1;from
+Q854443;Ungheni District;категория на Викискладе;1;1;from
+Q854443;Ungheni District;код автомобильного номера;1;1;from
+Q854443;Ungheni District;дата основания/создания/возникновения;1;1;from
+Q854443;Ungheni District;географические координаты;1;1;from
+Q854443;Ungheni District;код Freebase;1;1;from
+Q854443;Ungheni District;Who's on First ID;1;1;from
+Q854443;Ungheni District;FIPS 10-4 (страны и регионы);1;1;from
+Q684183;Cantemir District;место рождения;1;3;to
+Q684183;Cantemir District;категория объединяет темы;1;2;to
+Q860716;Glodeni District;основная категория по теме;1;1;from
+Q266444;Ocnița District;место рождения;1;1;to
+Q266444;Ocnița District;является столицей;1;1;to
+Q286646;Cimișlia District;административно-территориальная единица;1;49;to
+Q286646;Cimișlia District;государство;1;1;from
+Q286646;Cimișlia District;карта местонахождения;1;1;from
+Q286646;Cimișlia District;это частный случай понятия;1;1;from
+Q286646;Cimișlia District;столица;1;1;from
+Q286646;Cimișlia District;изображение флага;1;1;from
+Q286646;Cimișlia District;имеет границы с;1;2;to
+Q286646;Cimișlia District;численность населения;1;2;from
+Q286646;Cimișlia District;категория для людей, родившихся здесь;1;1;from
+Q286646;Cimișlia District;код GeoNames;1;1;from
+Q286646;Cimișlia District;категория для людей, связанных с местностью;1;1;from
+Q286646;Cimișlia District;позиционная карта;1;1;from
+Q286646;Cimișlia District;площадь;1;1;from
+Q286646;Cimișlia District;код BabelNet;1;1;from
+Q286646;Cimișlia District;ISO 3166-2;1;1;from
+Q286646;Cimișlia District;категория на Викискладе;1;1;from
+Q286646;Cimișlia District;код автомобильного номера;1;1;from
+Q286646;Cimișlia District;ID отношения в OpenStreetMap;1;1;from
+Q286646;Cimișlia District;дата основания/создания/возникновения;1;1;from
+Q286646;Cimișlia District;географические координаты;1;1;from
+Q286646;Cimișlia District;код Freebase;1;1;from
+Q286646;Cimișlia District;Who's on First ID;1;1;from
+Q286646;Cimișlia District;официальный сайт;1;1;from
+Q286646;Cimișlia District;FIPS 10-4 (страны и регионы);1;1;from
+Q286646;Cimișlia District;основная категория по теме;1;1;from
+Q286646;Cimișlia District;административно делится на;1;1;to
+Q266444;Ocnița District;общая тема категории;1;1;to
+Q266444;Ocnița District;категория объединяет темы;1;3;to
+Q684183;Cantemir District;административно делится на;1;1;to
+Q266444;Ocnița District;административно делится на;1;1;to
+Q266444;Ocnița District;карта местонахождения;1;1;from
+Q266444;Ocnița District;это частный случай понятия;1;1;from
+Q266444;Ocnița District;столица;1;1;from
+Q266444;Ocnița District;изображение флага;1;1;from
+Q266444;Ocnița District;имеет границы с;1;3;to
+Q266444;Ocnița District;изображение герба;1;1;from
+Q266444;Ocnița District;численность населения;1;2;from
+Q266444;Ocnița District;официальное название;1;1;from
+Q266444;Ocnița District;категория для людей, родившихся здесь;1;1;from
+Q266444;Ocnița District;категория для людей, умерших здесь;1;1;from
+Q266444;Ocnița District;код GeoNames;1;1;from
+Q266444;Ocnița District;название на языке оригинала;1;1;from
+Q266444;Ocnița District;категория для людей, связанных с местностью;1;1;from
+Q266444;Ocnița District;высота над уровнем моря;1;1;from
+Q266444;Ocnița District;площадь;1;1;from
+Q266444;Ocnița District;код BabelNet;1;1;from
+Q266444;Ocnița District;ISO 3166-2;1;1;from
+Q266444;Ocnița District;категория на Викискладе;1;1;from
+Q266444;Ocnița District;код автомобильного номера;1;1;from
+Q266444;Ocnița District;дата основания/создания/возникновения;1;1;from
+Q266444;Ocnița District;географические координаты;1;1;from
+Q266444;Ocnița District;код Freebase;1;1;from
+Q266444;Ocnița District;Who's on First ID;1;1;from
+Q266444;Ocnița District;официальный сайт;1;1;from
+Q266444;Ocnița District;FIPS 10-4 (страны и регионы);1;1;from
+Q266444;Ocnița District;основная категория по теме;1;1;from
+Q266444;Ocnița District;место в MusicBrainz;1;1;from
+Q286646;Cimișlia District;общая тема категории;1;1;to
+Q286646;Cimișlia District;категория объединяет темы;1;4;to
+Q286646;Cimișlia District;является столицей;1;1;to
+Q286646;Cimișlia District;место рождения;1;2;to
+Q611656;Rîșcani District;место смерти;1;1;to
+Q611656;Rîșcani District;местонахождение;1;1;to
+Q611656;Rîșcani District;общая тема категории;1;1;to
+Q684183;Cantemir District;административно-территориальная единица;1;75;to
+Q684183;Cantemir District;государство;1;1;from
+Q684183;Cantemir District;карта местонахождения;1;1;from
+Q684183;Cantemir District;это частный случай понятия;1;1;from
+Q684183;Cantemir District;столица;1;1;from
+Q684183;Cantemir District;имеет границы с;1;2;to
+Q684183;Cantemir District;численность населения;1;2;from
+Q684183;Cantemir District;категория для людей, родившихся здесь;1;1;from
+Q684183;Cantemir District;код GeoNames;1;1;from
+Q684183;Cantemir District;категория для людей, связанных с местностью;1;1;from
+Q684183;Cantemir District;позиционная карта;1;1;from
+Q684183;Cantemir District;высота над уровнем моря;1;1;from
+Q684183;Cantemir District;площадь;1;1;from
+Q684183;Cantemir District;используемый язык;1;1;from
+Q684183;Cantemir District;ISO 3166-2;1;1;from
+Q684183;Cantemir District;категория на Викискладе;1;1;from
+Q684183;Cantemir District;код автомобильного номера;1;1;from
+Q684183;Cantemir District;дата основания/создания/возникновения;1;1;from
+Q684183;Cantemir District;географические координаты;1;1;from
+Q684183;Cantemir District;код Freebase;1;1;from
+Q684183;Cantemir District;Who's on First ID;1;1;from
+Q684183;Cantemir District;официальный сайт;1;1;from
+Q684183;Cantemir District;FIPS 10-4 (страны и регионы);1;1;from
+Q684183;Cantemir District;основная категория по теме;1;1;from
+Q611656;Rîșcani District;категория объединяет темы;1;2;to
+Q611656;Rîșcani District;место рождения;1;5;to
+Q611656;Rîșcani District;имеет границы с;1;1;to
+Q611656;Rîșcani District;позиционная карта;1;1;from
+Q611656;Rîșcani District;административно-территориальная единица;1;80;to
+Q611656;Rîșcani District;названо в честь;1;1;from
+Q611656;Rîșcani District;государство;1;1;from
+Q611656;Rîșcani District;карта местонахождения;1;1;from
+Q611656;Rîșcani District;это частный случай понятия;1;1;from
+Q611656;Rîșcani District;столица;1;1;from
+Q611656;Rîșcani District;изображение флага;1;1;from
+Q611656;Rîșcani District;изображение герба;1;1;from
+Q611656;Rîșcani District;численность населения;1;2;from
+Q611656;Rîșcani District;категория для людей, родившихся здесь;1;1;from
+Q611656;Rîșcani District;код GeoNames;1;1;from
+Q611656;Rîșcani District;категория для людей, связанных с местностью;1;1;from
+Q611656;Rîșcani District;высота над уровнем моря;1;1;from
+Q611656;Rîșcani District;является столицей;1;1;to
+Q611656;Rîșcani District;площадь;1;1;from
+Q611656;Rîșcani District;ISO 3166-2;1;1;from
+Q611656;Rîșcani District;категория на Викискладе;1;1;from
+Q611656;Rîșcani District;код автомобильного номера;1;1;from
+Q611656;Rîșcani District;дата основания/создания/возникновения;1;1;from
+Q611656;Rîșcani District;географические координаты;1;1;from
+Q611656;Rîșcani District;код Freebase;1;1;from
+Q611656;Rîșcani District;Who's on First ID;1;1;from
+Q611656;Rîșcani District;официальный сайт;1;1;from
+Q611656;Rîșcani District;FIPS 10-4 (страны и регионы);1;1;from
+Q611656;Rîșcani District;основная категория по теме;1;1;from
+Q611656;Rîșcani District;административно делится на;1;1;to
+Q860716;Glodeni District;FIPS 10-4 (страны и регионы);1;1;from
+Q860716;Glodeni District;место в MusicBrainz;1;1;from
+Q878308;Strășeni District;административно-территориальная единица;1;67;to
+Q878278;Dubăsari District;государство;1;1;from
+Q878278;Dubăsari District;это частный случай понятия;1;1;from
+Q878278;Dubăsari District;столица;1;1;from
+Q878278;Dubăsari District;изображение флага;1;1;from
+Q878278;Dubăsari District;изображение герба;1;1;from
+Q878278;Dubăsari District;численность населения;1;2;from
+Q878278;Dubăsari District;категория для людей, родившихся здесь;1;1;from
+Q878278;Dubăsari District;категория для людей, умерших здесь;1;1;from
+Q878278;Dubăsari District;код GeoNames;1;1;from
+Q878278;Dubăsari District;категория для людей, связанных с местностью;1;1;from
+Q878278;Dubăsari District;не путать с;1;1;to
+Q878278;Dubăsari District;позиционная карта;1;1;from
+Q878278;Dubăsari District;площадь;1;1;from
+Q878278;Dubăsari District;ISO 3166-2;1;1;from
+Q878278;Dubăsari District;категория на Викискладе;1;1;from
+Q878278;Dubăsari District;код автомобильного номера;1;1;from
+Q878278;Dubăsari District;географические координаты;1;1;from
+Q878278;Dubăsari District;код Freebase;1;1;from
+Q878278;Dubăsari District;Who's on First ID;1;1;from
+Q878278;Dubăsari District;официальный сайт;1;1;from
+Q878278;Dubăsari District;FIPS 10-4 (страны и регионы);1;1;from
+Q878278;Dubăsari District;основная категория по теме;1;1;from
+Q878278;Dubăsari District;место в MusicBrainz;1;1;from
+Q878278;Dubăsari District;административно делится на;1;1;to
+Q878278;Dubăsari District;категория объединяет темы;1;3;to
+Q878278;Dubăsari District;является столицей;1;1;to
+Q878278;Dubăsari District;следующее по порядку;1;1;to
+Q878278;Dubăsari District;имеет границы с;1;1;to
+Q878278;Dubăsari District;карта местонахождения;1;1;from
+Q878278;Dubăsari District;административно-территориальная единица;1;21;to
+Q878266;Nisporeni District;административно-территориальная единица;1;64;to
+Q878266;Nisporeni District;общая тема категории;1;1;to
+Q878266;Nisporeni District;карта местонахождения;1;1;from
+Q878266;Nisporeni District;это частный случай понятия;1;1;from
+Q878266;Nisporeni District;столица;1;1;from
+Q878266;Nisporeni District;изображение флага;1;1;from
+Q878266;Nisporeni District;изображение герба;1;1;from
+Q878266;Nisporeni District;численность населения;1;2;from
+Q878266;Nisporeni District;категория для людей, родившихся здесь;1;1;from
+Q878266;Nisporeni District;категория для людей, умерших здесь;1;1;from
+Q878266;Nisporeni District;код GeoNames;1;1;from
+Q878266;Nisporeni District;категория для людей, связанных с местностью;1;1;from
+Q878266;Nisporeni District;позиционная карта;1;1;from
+Q878266;Nisporeni District;высота над уровнем моря;1;1;from
+Q878266;Nisporeni District;площадь;1;1;from
+Q878266;Nisporeni District;ISO 3166-2;1;1;from
+Q878266;Nisporeni District;категория на Викискладе;1;1;from
+Q878266;Nisporeni District;код автомобильного номера;1;1;from
+Q878266;Nisporeni District;географические координаты;1;1;from
+Q878266;Nisporeni District;код Freebase;1;1;from
+Q878266;Nisporeni District;Who's on First ID;1;1;from
+Q878266;Nisporeni District;официальный сайт;1;1;from
+Q878266;Nisporeni District;FIPS 10-4 (страны и регионы);1;1;from
+Q878266;Nisporeni District;основная категория по теме;1;1;from
+Q878266;Nisporeni District;административно делится на;1;1;to
+Q878266;Nisporeni District;место рождения;1;4;to
+Q878266;Nisporeni District;место смерти;1;1;to
+Q878266;Nisporeni District;категория объединяет темы;1;3;to
+Q878266;Nisporeni District;является столицей;1;1;to
+Q878278;Dubăsari District;общая тема категории;1;1;to
+Q878290;Edineț District;административно-территориальная единица;1;80;to
+Q878290;Edineț District;государство;1;1;from
+Q878290;Edineț District;карта местонахождения;1;1;from
+Q878297;Hîncești District;столица;1;1;from
+Q878297;Hîncești District;изображение флага;1;1;from
+Q878297;Hîncești District;изображение герба;1;1;from
+Q878297;Hîncești District;численность населения;1;2;from
+Q878297;Hîncești District;категория для людей, родившихся здесь;1;1;from
+Q878297;Hîncești District;код GeoNames;1;1;from
+Q878297;Hîncești District;категория для людей, связанных с местностью;1;1;from
+Q878297;Hîncești District;позиционная карта;1;1;from
+Q878297;Hîncești District;высота над уровнем моря;1;1;from
+Q878297;Hîncești District;площадь;1;1;from
+Q878297;Hîncești District;почтовый индекс;1;1;from
+Q878297;Hîncești District;ISO 3166-2;1;1;from
+Q878297;Hîncești District;категория на Викискладе;1;1;from
+Q878297;Hîncești District;код автомобильного номера;1;1;from
+Q878297;Hîncești District;дата основания/создания/возникновения;1;1;from
+Q878297;Hîncești District;географические координаты;1;1;from
+Q878297;Hîncești District;код Freebase;1;1;from
+Q878297;Hîncești District;Who's on First ID;1;1;from
+Q878297;Hîncești District;официальный сайт;1;1;from
+Q878297;Hîncești District;FIPS 10-4 (страны и регионы);1;1;from
+Q878297;Hîncești District;основная категория по теме;1;1;from
+Q878297;Hîncești District;место в MusicBrainz;1;1;from
+Q878297;Hîncești District;административно делится на;1;1;to
+Q878297;Hîncești District;является столицей;1;1;to
+Q878297;Hîncești District;место рождения;1;4;to
+Q878297;Hîncești District;категория объединяет темы;1;2;to
+Q878297;Hîncești District;общая тема категории;1;1;to
+Q878297;Hîncești District;это частный случай понятия;1;1;from
+Q878297;Hîncești District;карта местонахождения;1;1;from
+Q878297;Hîncești District;государство;1;1;from
+Q878290;Edineț District;категория на Викискладе;1;1;from
+Q878290;Edineț District;это частный случай понятия;1;1;from
+Q878290;Edineț District;столица;1;1;from
+Q878290;Edineț District;изображение флага;1;1;from
+Q878290;Edineț District;изображение герба;1;1;from
+Q878290;Edineț District;численность населения;1;2;from
+Q878290;Edineț District;категория для людей, родившихся здесь;1;1;from
+Q878290;Edineț District;код GeoNames;1;1;from
+Q878290;Edineț District;категория для людей, связанных с местностью;1;1;from
+Q878290;Edineț District;позиционная карта;1;1;from
+Q878290;Edineț District;высота над уровнем моря;1;1;from
+Q878290;Edineț District;площадь;1;1;from
+Q878290;Edineț District;ISO 3166-2;1;1;from
+Q878290;Edineț District;код автомобильного номера;1;1;from
+Q878297;Hîncești District;административно-территориальная единица;1;90;to
+Q878290;Edineț District;географические координаты;1;1;from
+Q878290;Edineț District;код Freebase;1;1;from
+Q878290;Edineț District;Who's on First ID;1;1;from
+Q878290;Edineț District;официальный сайт;1;1;from
+Q878290;Edineț District;FIPS 10-4 (страны и регионы);1;1;from
+Q878290;Edineț District;основная категория по теме;1;1;from
+Q878290;Edineț District;административно делится на;1;1;to
+Q878290;Edineț District;имеет границы с;1;2;to
+Q878290;Edineț District;является столицей;1;1;to
+Q878290;Edineț District;место рождения;1;1;to
+Q878290;Edineț District;категория объединяет темы;1;2;to
+Q878290;Edineț District;общая тема категории;1;1;to
+Q878266;Nisporeni District;государство;1;1;from
+Q865884;Taraclia District;происходит из;1;1;to
+Q860716;Glodeni District;административно делится на;1;1;to
+Q865594;Drochia District;имеет границы с;1;2;to
+Q865594;Drochia District;место смерти;1;2;to
+Q865594;Drochia District;категория объединяет темы;1;3;to
+Q865594;Drochia District;является столицей;1;1;to
+Q865594;Drochia District;общая тема категории;1;1;to
+Q865639;Șoldănești District;административно-территориальная единица;1;51;to
+Q865639;Șoldănești District;государство;1;1;from
+Q865639;Șoldănești District;карта местонахождения;1;1;from
+Q865639;Șoldănești District;это частный случай понятия;1;1;from
+Q865639;Șoldănești District;столица;1;1;from
+Q865639;Șoldănești District;изображение флага;1;1;from
+Q865639;Șoldănești District;имеет границы с;1;2;to
+Q865639;Șoldănești District;численность населения;1;2;from
+Q865639;Șoldănești District;категория для людей, родившихся здесь;1;1;from
+Q865639;Șoldănești District;код GeoNames;1;1;from
+Q865639;Șoldănești District;категория для людей, связанных с местностью;1;1;from
+Q865639;Șoldănești District;позиционная карта;1;1;from
+Q865639;Șoldănești District;высота над уровнем моря;1;1;from
+Q865639;Șoldănești District;площадь;1;1;from
+Q865639;Șoldănești District;ISO 3166-2;1;1;from
+Q865639;Șoldănești District;категория на Викискладе;1;1;from
+Q865639;Șoldănești District;код автомобильного номера;1;1;from
+Q865639;Șoldănești District;дата основания/создания/возникновения;1;1;from
+Q865639;Șoldănești District;географические координаты;1;1;from
+Q865639;Șoldănești District;код Freebase;1;1;from
+Q865639;Șoldănești District;Who's on First ID;1;1;from
+Q865639;Șoldănești District;официальный сайт;1;1;from
+Q865639;Șoldănești District;FIPS 10-4 (страны и регионы);1;1;from
+Q865594;Drochia District;место рождения;1;4;to
+Q865594;Drochia District;административно делится на;1;1;to
+Q865884;Taraclia District;общая тема категории;1;1;to
+Q865594;Drochia District;основная категория по теме;1;1;from
+Q860716;Glodeni District;место рождения;1;2;to
+Q860716;Glodeni District;категория объединяет темы;1;2;to
+Q860716;Glodeni District;является столицей;1;1;to
+Q860716;Glodeni District;общая тема категории;1;1;to
+Q865594;Drochia District;административно-территориальная единица;1;60;to
+Q865594;Drochia District;государство;1;3;from
+Q865594;Drochia District;карта местонахождения;1;1;from
+Q865594;Drochia District;это частный случай понятия;1;1;from
+Q865594;Drochia District;столица;1;1;from
+Q865594;Drochia District;изображение флага;1;1;from
+Q865594;Drochia District;изображение герба;1;1;from
+Q865594;Drochia District;численность населения;1;2;from
+Q865594;Drochia District;категория для людей, родившихся здесь;1;1;from
+Q865594;Drochia District;категория для людей, умерших здесь;1;1;from
+Q865594;Drochia District;код GeoNames;1;1;from
+Q865594;Drochia District;категория для людей, связанных с местностью;1;1;from
+Q865594;Drochia District;позиционная карта;1;1;from
+Q865594;Drochia District;площадь;1;1;from
+Q865594;Drochia District;ISO 3166-2;1;1;from
+Q865594;Drochia District;категория на Викискладе;1;1;from
+Q865594;Drochia District;код автомобильного номера;1;1;from
+Q865594;Drochia District;дата основания/создания/возникновения;1;1;from
+Q865594;Drochia District;географические координаты;1;1;from
+Q865594;Drochia District;код Freebase;1;1;from
+Q865594;Drochia District;Who's on First ID;1;1;from
+Q865594;Drochia District;официальный сайт;1;1;from
+Q865594;Drochia District;FIPS 10-4 (страны и регионы);1;1;from
+Q865639;Șoldănești District;основная категория по теме;1;1;from
+Q865639;Șoldănești District;административно делится на;1;1;to
+Q865639;Șoldănești District;категория объединяет темы;1;2;to
+Q865639;Șoldănești District;место рождения;1;1;to
+Q865884;Taraclia District;административно-территориальная единица;1;37;to
+Q865884;Taraclia District;государство;1;1;to
+Q865884;Taraclia District;карта местонахождения;1;1;from
+Q865884;Taraclia District;это частный случай понятия;1;1;from
+Q865884;Taraclia District;столица;1;1;from
+Q865884;Taraclia District;имеет границы с;1;3;to
+Q865884;Taraclia District;численность населения;1;2;from
+Q865884;Taraclia District;категория для людей, родившихся здесь;1;1;from
+Q865884;Taraclia District;код GeoNames;1;1;from
+Q865884;Taraclia District;категория для людей, связанных с местностью;1;1;from
+Q865884;Taraclia District;позиционная карта;1;1;from
+Q865884;Taraclia District;площадь;1;1;from
+Q865884;Taraclia District;используемый язык;1;1;from
+Q865884;Taraclia District;ISO 3166-2;1;1;from
+Q865884;Taraclia District;категория на Викискладе;1;1;from
+Q865884;Taraclia District;код автомобильного номера;1;1;from
+Q865884;Taraclia District;ID отношения в OpenStreetMap;1;1;from
+Q865884;Taraclia District;дата основания/создания/возникновения;1;1;from
+Q865884;Taraclia District;географические координаты;1;1;from
+Q865884;Taraclia District;код Freebase;1;1;from
+Q865884;Taraclia District;Who's on First ID;1;1;from
+Q865884;Taraclia District;FIPS 10-4 (страны и регионы);1;1;from
+Q865884;Taraclia District;основная категория по теме;1;1;from
+Q865884;Taraclia District;административно делится на;1;1;to
+Q865884;Taraclia District;категория объединяет темы;1;2;to
+Q865884;Taraclia District;является столицей;1;1;to
+Q865884;Taraclia District;место рождения;1;2;to
+Q865726;Florești District;общая тема категории;1;1;to
+Q865726;Florești District;место смерти;1;1;to
+Q865726;Florești District;является столицей;1;1;to
+Q865726;Florești District;позиционная карта;1;1;from
+Q865639;Șoldănești District;является столицей;1;1;to
+Q865639;Șoldănești District;общая тема категории;1;1;to
+Q865726;Florești District;административно-территориальная единица;1;105;to
+Q865726;Florești District;государство;1;1;from
+Q865726;Florești District;карта местонахождения;1;1;from
+Q865726;Florești District;это частный случай понятия;1;1;from
+Q865726;Florești District;столица;1;1;from
+Q865726;Florești District;имеет границы с;1;3;to
+Q865726;Florești District;численность населения;1;2;from
+Q865726;Florești District;категория для людей, родившихся здесь;1;1;from
+Q865726;Florești District;код GeoNames;1;1;from
+Q865726;Florești District;категория для людей, связанных с местностью;1;1;from
+Q865726;Florești District;высота над уровнем моря;1;1;from
+Q865726;Florești District;место рождения;1;3;to
+Q865726;Florești District;площадь;1;1;from
+Q865726;Florești District;ISO 3166-2;1;1;from
+Q865726;Florești District;категория на Викискладе;1;1;from
+Q865726;Florești District;код автомобильного номера;1;1;from
+Q865726;Florești District;дата основания/создания/возникновения;1;1;from
+Q865726;Florești District;географические координаты;1;1;from
+Q865726;Florești District;код Freebase;1;1;from
+Q865726;Florești District;Who's on First ID;1;1;from
+Q865726;Florești District;FIPS 10-4 (страны и регионы);1;1;from
+Q865726;Florești District;основная категория по теме;1;1;from
+Q865726;Florești District;административно делится на;1;1;to
+Q865726;Florești District;категория объединяет темы;1;2;to
+Q2129061;Ștefan Vodă District;общая тема категории;1;1;to

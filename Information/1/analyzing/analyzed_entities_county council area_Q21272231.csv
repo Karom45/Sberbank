@@ -1,0 +1,417 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q1137286;County Durham;административно-территориальная единица;1;1443;to
+Q1137286;County Durham;государство;1;1;from
+Q21694733;Gloucestershire;Who's on First ID;1;1;from
+Q21694733;Gloucestershire;код EMLO location;1;1;from
+Q21694733;Gloucestershire;геоданные;1;1;from
+Q21694733;Gloucestershire;TOID;1;1;from
+Q21694733;Gloucestershire;ISO 3166-2;1;1;from
+Q21694733;Gloucestershire;площадь;1;1;from
+Q21694733;Gloucestershire;не путать с;1;1;to
+Q21694733;Gloucestershire;код GeoNames;1;1;from
+Q21694733;Gloucestershire;численность населения;1;2;from
+Q21694733;Gloucestershire;это частный случай понятия;1;2;from
+Q21694733;Gloucestershire;законодательный орган;1;1;from
+Q21694733;Gloucestershire;государство;1;1;from
+Q21694733;Gloucestershire;административно делится на;1;1;to
+Q21694733;Gloucestershire;административно-территориальная единица;1;1881;to
+Q21694711;Dorset;юрисдикция распространяется на;1;1;to
+Q21694711;Dorset;официальный сайт;1;1;from
+Q21694711;Dorset;код GSS (2011);1;1;from
+Q21694711;Dorset;Who's on First ID;1;1;from
+Q21694711;Dorset;геоданные;1;1;from
+Q21694711;Dorset;TOID;1;1;from
+Q21694711;Dorset;ISO 3166-2;1;1;from
+Q21694711;Dorset;код GeoNames;1;1;from
+Q21694711;Dorset;это частный случай понятия;1;2;from
+Q21694733;Gloucestershire;код GSS (2011);1;1;from
+Q21694733;Gloucestershire;юрисдикция распространяется на;1;1;to
+Q21694733;Gloucestershire;место рождения;1;3;to
+Q21694741;Somerset;TOID;1;1;from
+Q21694746;Wiltshire;законодательный орган;1;1;from
+Q21694746;Wiltshire;государство;1;1;from
+Q21694746;Wiltshire;административно-территориальная единица;1;3141;to
+Q21694741;Somerset;юрисдикция распространяется на;1;1;to
+Q21694741;Somerset;зона обслуживания;1;1;to
+Q21694741;Somerset;официальный сайт;1;1;from
+Q21694741;Somerset;код GSS (2011);1;1;from
+Q21694741;Somerset;Who's on First ID;1;1;from
+Q21694741;Somerset;код EMLO location;1;1;from
+Q21694741;Somerset;геоданные;1;1;from
+Q21694741;Somerset;ISO 3166-2;1;1;from
+Q21694733;Gloucestershire;категория объединяет темы;1;1;to
+Q21694741;Somerset;площадь;1;1;from
+Q21694741;Somerset;не путать с;1;2;to
+Q21694741;Somerset;код GeoNames;1;1;from
+Q21694741;Somerset;код в энциклопедии «Британника онлайн»;1;1;from
+Q21694741;Somerset;численность населения;1;2;from
+Q21694741;Somerset;это частный случай понятия;1;2;from
+Q21694741;Somerset;законодательный орган;1;1;from
+Q21694741;Somerset;государство;1;1;from
+Q21694741;Somerset;административно делится на;1;5;from
+Q21694741;Somerset;административно-территориальная единица;1;1900;to
+Q21694711;Dorset;законодательный орган;1;1;from
+Q21694711;Dorset;государство;1;1;from
+Q21694711;Dorset;административно делится на;1;6;from
+Q21694674;Kent;административно делится на;1;1;to
+Q21694674;Kent;TOID;1;1;from
+Q21694674;Kent;ISO 3166-2;1;1;from
+Q21694674;Kent;площадь;1;1;from
+Q21694674;Kent;не путать с;1;2;to
+Q21694674;Kent;код GeoNames;1;1;from
+Q21694674;Kent;численность населения;1;2;from
+Q21694674;Kent;это частный случай понятия;1;2;from
+Q21694674;Kent;законодательный орган;1;1;from
+Q21694674;Kent;изображение;1;1;from
+Q21694674;Kent;государство;1;1;from
+Q21694674;Kent;административно-территориальная единица;1;1698;to
+Q21694674;Kent;Who's on First ID;1;1;from
+Q21694653;Hampshire;категория объединяет темы;1;2;to
+Q21694653;Hampshire;юрисдикция распространяется на;1;1;to
+Q21694653;Hampshire;война/сражение;1;1;to
+Q21694653;Hampshire;место рождения;1;2;to
+Q21694653;Hampshire;место смерти;1;1;to
+Q21694653;Hampshire;официальный сайт;1;1;from
+Q21694653;Hampshire;код GSS (2011);1;1;from
+Q21694653;Hampshire;Who's on First ID;1;1;from
+Q21694653;Hampshire;код EMLO location;1;1;from
+Q21694653;Hampshire;геоданные;1;1;from
+Q21694674;Kent;геоданные;1;1;from
+Q21694674;Kent;код GSS (2011);1;1;from
+Q21694711;Dorset;административно-территориальная единица;1;1351;to
+Q21694695;Devon;не путать с;1;2;to
+Q21694695;Devon;юрисдикция распространяется на;1;1;to
+Q21694695;Devon;место рождения;1;4;to
+Q21694695;Devon;местонахождение;1;1;to
+Q21694695;Devon;официальный сайт;1;1;from
+Q21694695;Devon;код GSS (2011);1;1;from
+Q21694695;Devon;Who's on First ID;1;1;from
+Q21694695;Devon;геоданные;1;1;from
+Q21694695;Devon;TOID;1;1;from
+Q21694695;Devon;ISO 3166-2;1;1;from
+Q21694695;Devon;площадь;1;1;from
+Q21694695;Devon;код GeoNames;1;1;from
+Q21694674;Kent;официальный сайт;1;1;from
+Q21694695;Devon;численность населения;1;2;from
+Q21694695;Devon;это частный случай понятия;1;2;from
+Q21694695;Devon;законодательный орган;1;1;from
+Q21694695;Devon;государство;1;1;from
+Q21694695;Devon;административно делится на;1;1;to
+Q21694695;Devon;административно-территориальная единица;1;1723;to
+Q21694674;Kent;юрисдикция распространяется на;1;1;to
+Q21694674;Kent;местонахождение;1;1;to
+Q21694674;Kent;часть от;1;2;to
+Q21694674;Kent;место рождения;1;2;to
+Q21694746;Wiltshire;код VIAF;1;1;from
+Q21694746;Wiltshire;код LCNAF;1;1;from
+Q21694746;Wiltshire;это частный случай понятия;1;2;from
+Q21695028;East Riding of Yorkshire;это частный случай понятия;1;2;from
+Q21695028;East Riding of Yorkshire;Who's on First ID;1;1;from
+Q21695028;East Riding of Yorkshire;географические координаты;1;1;from
+Q21695028;East Riding of Yorkshire;геоданные;1;1;from
+Q21695028;East Riding of Yorkshire;категория на Викискладе;1;1;from
+Q21695028;East Riding of Yorkshire;TOID;1;1;from
+Q21695028;East Riding of Yorkshire;ISO 3166-2;1;1;from
+Q21695028;East Riding of Yorkshire;площадь;1;1;from
+Q21695028;East Riding of Yorkshire;код GeoNames;1;1;from
+Q21695028;East Riding of Yorkshire;код в энциклопедии «Британника онлайн»;1;1;from
+Q21695028;East Riding of Yorkshire;численность населения;1;4;from
+Q21695028;East Riding of Yorkshire;законодательный орган;1;1;from
+Q21695028;East Riding of Yorkshire;юрисдикция распространяется на;1;1;to
+Q21695028;East Riding of Yorkshire;государство;1;1;from
+Q21695028;East Riding of Yorkshire;административно-территориальная единица;1;686;to
+Q21694786;Staffordshire;является столицей;1;1;to
+Q21694786;Staffordshire;не путать с;1;2;to
+Q21694786;Staffordshire;юрисдикция распространяется на;1;1;to
+Q21694786;Staffordshire;официальный сайт;1;1;from
+Q21694786;Staffordshire;код GSS (2011);1;1;from
+Q21694786;Staffordshire;Who's on First ID;1;1;from
+Q21694786;Staffordshire;геоданные;1;1;from
+Q21694786;Staffordshire;TOID;1;1;from
+Q21695028;East Riding of Yorkshire;код GSS (2011);1;1;from
+Q21695028;East Riding of Yorkshire;категория объединяет темы;1;1;to
+Q21694786;Staffordshire;площадь;1;1;from
+Q22338583;Cornwall;TOID;1;1;from
+Q22338583;Cornwall;гражданство;1;1;to
+Q22338583;Cornwall;юрисдикция распространяется на;1;1;to
+Q22338583;Cornwall;место смерти;1;1;to
+Q22338583;Cornwall;место жительства;1;1;to
+Q22338583;Cornwall;место рождения;1;3;to
+Q22338583;Cornwall;FIPS 10-4 (страны и регионы);1;1;from
+Q22338583;Cornwall;официальный сайт;1;1;from
+Q22338583;Cornwall;код GSS (2011);1;1;from
+Q22338583;Cornwall;Who's on First ID;1;1;from
+Q22338583;Cornwall;географические координаты;1;1;from
+Q22338583;Cornwall;ISO 3166-2;1;1;from
+Q21695028;East Riding of Yorkshire;административно делится на;1;1;to
+Q22338583;Cornwall;площадь;1;1;from
+Q22338583;Cornwall;код GeoNames;1;1;from
+Q22338583;Cornwall;код в энциклопедии «Британника онлайн»;1;1;from
+Q22338583;Cornwall;численность населения;1;4;from
+Q22338583;Cornwall;это частный случай понятия;1;3;from
+Q22338583;Cornwall;карта местонахождения;1;1;from
+Q22338583;Cornwall;код VIAF;1;1;from
+Q22338583;Cornwall;законодательный орган;1;1;from
+Q22338583;Cornwall;государство;1;1;from
+Q22338583;Cornwall;административно-территориальная единица;1;569;to
+Q21694786;Staffordshire;ISO 3166-2;1;1;from
+Q21694786;Staffordshire;код GeoNames;1;1;from
+Q21694746;Wiltshire;численность населения;1;4;from
+Q21694746;Wiltshire;код GSS (2011);1;1;from
+Q21694759;Shropshire;государство;1;1;from
+Q21694759;Shropshire;административно-территориальная единица;1;3018;to
+Q21694746;Wiltshire;административно делится на;1;1;to
+Q21694746;Wiltshire;место рождения;1;2;to
+Q21694746;Wiltshire;общая тема категории;1;1;to
+Q21694746;Wiltshire;юрисдикция распространяется на;1;1;to
+Q21694746;Wiltshire;место в MusicBrainz;1;1;from
+Q21694746;Wiltshire;основная категория по теме;1;1;from
+Q21694746;Wiltshire;FIPS 10-4 (страны и регионы);1;2;from
+Q21694746;Wiltshire;официальный сайт;1;1;from
+Q21694746;Wiltshire;Who's on First ID;1;1;from
+Q21694759;Shropshire;код VIAF;1;1;from
+Q21694746;Wiltshire;географические координаты;1;1;from
+Q21694746;Wiltshire;код NUTS;1;1;from
+Q21694746;Wiltshire;ID отношения в OpenStreetMap;1;1;from
+Q21694746;Wiltshire;геоданные;1;1;from
+Q21694746;Wiltshire;категория на Викискладе;1;1;from
+Q21694746;Wiltshire;TOID;1;1;from
+Q21694746;Wiltshire;ISO 3166-2;1;1;from
+Q21694746;Wiltshire;площадь;1;1;from
+Q21694746;Wiltshire;не путать с;1;2;to
+Q21694746;Wiltshire;код GeoNames;1;1;from
+Q21694759;Shropshire;законодательный орган;1;1;from
+Q21694759;Shropshire;код LCNAF;1;1;from
+Q21694786;Staffordshire;численность населения;1;2;from
+Q21694759;Shropshire;официальный сайт;1;1;from
+Q21694786;Staffordshire;столица;1;1;from
+Q21694786;Staffordshire;это частный случай понятия;1;2;from
+Q21694786;Staffordshire;законодательный орган;1;1;from
+Q21694786;Staffordshire;государство;1;1;from
+Q21694786;Staffordshire;административно делится на;1;1;to
+Q21694786;Staffordshire;административно-территориальная единица;1;2081;to
+Q21694759;Shropshire;административно делится на;1;1;to
+Q21694759;Shropshire;юрисдикция распространяется на;1;1;to
+Q21694759;Shropshire;общая тема категории;1;1;to
+Q21694759;Shropshire;основная категория по теме;1;1;from
+Q21694759;Shropshire;код GSS (2011);1;1;from
+Q21694759;Shropshire;это частный случай понятия;1;2;from
+Q21694759;Shropshire;Who's on First ID;1;1;from
+Q21694759;Shropshire;географические координаты;1;1;from
+Q21694759;Shropshire;геоданные;1;1;from
+Q21694759;Shropshire;категория на Викискладе;1;1;from
+Q21694759;Shropshire;TOID;1;1;from
+Q21694759;Shropshire;ISO 3166-2;1;1;from
+Q21694759;Shropshire;площадь;1;1;from
+Q21694759;Shropshire;код GeoNames;1;1;from
+Q21694759;Shropshire;численность населения;1;4;from
+Q21694759;Shropshire;имеет границы с;1;2;to
+Q21694653;Hampshire;TOID;1;1;from
+Q21694653;Hampshire;ISO 3166-2;1;1;from
+Q21694653;Hampshire;площадь;1;1;from
+Q21269047;Lincolnshire;не путать с;1;2;to
+Q21269047;Lincolnshire;категория объединяет темы;1;2;to
+Q21269047;Lincolnshire;местонахождение;1;1;to
+Q21269047;Lincolnshire;юрисдикция распространяется на;1;1;to
+Q21269047;Lincolnshire;место рождения;1;6;to
+Q21269047;Lincolnshire;код GSS (2011);1;1;from
+Q21269047;Lincolnshire;Who's on First ID;1;1;from
+Q21269047;Lincolnshire;геоданные;1;1;from
+Q21269047;Lincolnshire;TOID;1;1;from
+Q21269047;Lincolnshire;ISO 3166-2;1;1;from
+Q21269047;Lincolnshire;площадь;1;1;from
+Q21269047;Lincolnshire;код GeoNames;1;1;from
+Q21272241;Essex;административно-территориальная единица;1;1489;to
+Q21269047;Lincolnshire;категория для людей, умерших здесь;1;1;from
+Q21269047;Lincolnshire;категория для людей, родившихся здесь;1;1;from
+Q21269047;Lincolnshire;численность населения;1;2;from
+Q21269047;Lincolnshire;это частный случай понятия;1;2;from
+Q21269047;Lincolnshire;законодательный орган;1;1;from
+Q21269047;Lincolnshire;государство;1;1;from
+Q21269047;Lincolnshire;административно делится на;1;1;to
+Q21269047;Lincolnshire;административно-территориальная единица;1;933;to
+Q21241814;North Yorkshire;юрисдикция распространяется на;1;2;to
+Q21241814;North Yorkshire;официальный сайт;1;1;from
+Q21269047;Lincolnshire;состоит из;1;1;to
+Q21272241;Essex;административно делится на;1;1;to
+Q21241814;North Yorkshire;Who's on First ID;1;1;from
+Q21272241;Essex;официальный сайт;1;1;from
+Q21272276;Cambridgeshire;код GeoNames;1;1;from
+Q21272276;Cambridgeshire;численность населения;1;2;from
+Q21272276;Cambridgeshire;это частный случай понятия;1;2;from
+Q21272276;Cambridgeshire;законодательный орган;1;1;from
+Q21272276;Cambridgeshire;государство;1;1;from
+Q21272276;Cambridgeshire;административно делится на;1;1;to
+Q21272276;Cambridgeshire;административно-территориальная единица;1;1072;to
+Q21272241;Essex;юрисдикция распространяется на;1;1;to
+Q21272241;Essex;место рождения;1;4;to
+Q21272241;Essex;место смерти;1;1;to
+Q21272241;Essex;код GSS (2011);1;1;from
+Q21272241;Essex;государство;1;1;from
+Q21272241;Essex;Who's on First ID;1;1;from
+Q21272241;Essex;геоданные;1;1;from
+Q21272241;Essex;TOID;1;1;from
+Q21272241;Essex;ISO 3166-2;1;1;from
+Q21272241;Essex;площадь;1;1;from
+Q21272241;Essex;не путать с;1;1;to
+Q21272241;Essex;код GeoNames;1;1;from
+Q21272241;Essex;численность населения;1;2;from
+Q21272241;Essex;это частный случай понятия;1;2;from
+Q21272241;Essex;законодательный орган;1;1;from
+Q21241814;North Yorkshire;код GSS (2011);1;1;from
+Q21241814;North Yorkshire;геоданные;1;1;from
+Q21272276;Cambridgeshire;площадь;1;1;from
+Q1137286;County Durham;географические координаты;1;1;from
+Q11775003;Derbyshire;административно-территориальная единица;1;1158;to
+Q1137286;County Durham;административно делится на;1;1;to
+Q1137286;County Durham;юрисдикция распространяется на;1;1;to
+Q1137286;County Durham;основная тема;1;1;to
+Q1137286;County Durham;общая тема категории;1;1;to
+Q1137286;County Durham;основная категория по теме;1;1;from
+Q1137286;County Durham;FIPS 10-4 (страны и регионы);1;1;from
+Q1137286;County Durham;официальный сайт;1;1;from
+Q1137286;County Durham;код GSS (2011);1;1;from
+Q1137286;County Durham;Who's on First ID;1;1;from
+Q1137286;County Durham;идентификатор местоположения ArchINFORM;1;1;from
+Q11775003;Derbyshire;государство;1;1;from
+Q1137286;County Durham;ID отношения в OpenStreetMap;1;1;from
+Q1137286;County Durham;категория на Викискладе;1;1;from
+Q1137286;County Durham;TOID;1;1;from
+Q1137286;County Durham;ISO 3166-2;1;1;from
+Q1137286;County Durham;площадь;1;1;from
+Q1137286;County Durham;не путать с;1;2;to
+Q1137286;County Durham;код GeoNames;1;1;from
+Q1137286;County Durham;численность населения;1;4;from
+Q1137286;County Durham;это частный случай понятия;1;2;from
+Q1137286;County Durham;законодательный орган;1;1;from
+Q11775003;Derbyshire;административно делится на;1;1;to
+Q11775003;Derbyshire;законодательный орган;1;1;from
+Q21241814;North Yorkshire;TOID;1;1;from
+Q11775003;Derbyshire;юрисдикция распространяется на;1;1;to
+Q21241814;North Yorkshire;ISO 3166-2;1;1;from
+Q21241814;North Yorkshire;площадь;1;1;from
+Q21241814;North Yorkshire;не путать с;1;1;to
+Q21241814;North Yorkshire;код GeoNames;1;1;from
+Q21241814;North Yorkshire;численность населения;1;2;from
+Q21241814;North Yorkshire;это частный случай понятия;1;2;from
+Q21241814;North Yorkshire;законодательный орган;1;1;from
+Q21241814;North Yorkshire;государство;1;1;from
+Q21241814;North Yorkshire;административно делится на;1;1;to
+Q21241814;North Yorkshire;административно-территориальная единица;1;972;to
+Q11775003;Derbyshire;официальный сайт;1;1;from
+Q11775003;Derbyshire;это частный случай понятия;1;2;from
+Q11775003;Derbyshire;код GSS (2011);1;1;from
+Q11775003;Derbyshire;Who's on First ID;1;1;from
+Q11775003;Derbyshire;геоданные;1;1;from
+Q11775003;Derbyshire;TOID;1;1;from
+Q11775003;Derbyshire;ISO 3166-2;1;1;from
+Q11775003;Derbyshire;площадь;1;1;from
+Q11775003;Derbyshire;не путать с;1;1;to
+Q11775003;Derbyshire;код GeoNames;1;1;from
+Q11775003;Derbyshire;код в энциклопедии «Британника онлайн»;1;1;from
+Q11775003;Derbyshire;численность населения;1;2;from
+Q21272276;Cambridgeshire;не путать с;1;2;to
+Q21272276;Cambridgeshire;ISO 3166-2;1;1;from
+Q21694653;Hampshire;не путать с;1;2;to
+Q21694636;Buckinghamshire;это частный случай понятия;1;2;from
+Q21694636;Buckinghamshire;юрисдикция распространяется на;1;1;to
+Q21694636;Buckinghamshire;официальный сайт;1;1;from
+Q21694636;Buckinghamshire;код GSS (2011);1;1;from
+Q21694636;Buckinghamshire;Who's on First ID;1;1;from
+Q21694636;Buckinghamshire;геоданные;1;1;from
+Q21694636;Buckinghamshire;TOID;1;1;from
+Q21694636;Buckinghamshire;ISO 3166-2;1;1;from
+Q21694636;Buckinghamshire;площадь;1;1;from
+Q21694636;Buckinghamshire;код GeoNames;1;1;from
+Q21694636;Buckinghamshire;численность населения;1;2;from
+Q21694636;Buckinghamshire;законодательный орган;1;1;from
+Q21694646;East Sussex;административно-территориальная единица;1;1611;to
+Q21694636;Buckinghamshire;государство;1;1;from
+Q21694636;Buckinghamshire;административно делится на;1;1;to
+Q21694636;Buckinghamshire;административно-территориальная единица;1;972;to
+Q21279371;Lancashire;категория объединяет темы;1;1;to
+Q21279371;Lancashire;юрисдикция распространяется на;1;1;to
+Q21279371;Lancashire;расположение штаб-квартиры;1;1;to
+Q21279371;Lancashire;место рождения;1;1;to
+Q21279371;Lancashire;официальный сайт;1;1;from
+Q21279371;Lancashire;код GSS (2011);1;1;from
+Q21279371;Lancashire;Who's on First ID;1;1;from
+Q21694636;Buckinghamshire;место рождения;1;3;to
+Q21694646;East Sussex;административно делится на;1;1;to
+Q21279371;Lancashire;TOID;1;1;from
+Q21694646;East Sussex;официальный сайт;1;1;from
+Q21694653;Hampshire;код GeoNames;1;1;from
+Q21694653;Hampshire;категория для людей, умерших здесь;1;1;from
+Q21694653;Hampshire;категория для людей, родившихся здесь;1;1;from
+Q21694653;Hampshire;численность населения;1;2;from
+Q21694653;Hampshire;это частный случай понятия;1;2;from
+Q21694653;Hampshire;законодательный орган;1;1;from
+Q21694653;Hampshire;государство;1;1;from
+Q21694653;Hampshire;административно делится на;1;1;to
+Q21694653;Hampshire;административно-территориальная единица;1;1534;to
+Q21694646;East Sussex;юрисдикция распространяется на;1;1;to
+Q21694646;East Sussex;код GSS (2011);1;1;from
+Q21694646;East Sussex;государство;1;1;from
+Q21694646;East Sussex;Who's on First ID;1;1;from
+Q21694646;East Sussex;геоданные;1;1;from
+Q21694646;East Sussex;TOID;1;1;from
+Q21694646;East Sussex;ISO 3166-2;1;1;from
+Q21694646;East Sussex;площадь;1;1;from
+Q21694646;East Sussex;код GeoNames;1;1;from
+Q21694646;East Sussex;код в энциклопедии «Британника онлайн»;1;1;from
+Q21694646;East Sussex;численность населения;1;2;from
+Q21694646;East Sussex;это частный случай понятия;1;2;from
+Q21694646;East Sussex;законодательный орган;1;1;from
+Q21279371;Lancashire;геоданные;1;1;from
+Q21279371;Lancashire;ISO 3166-2;1;1;from
+Q21272276;Cambridgeshire;TOID;1;1;from
+Q21272736;Nottinghamshire;это частный случай понятия;1;2;from
+Q21272736;Nottinghamshire;официальный сайт;1;1;from
+Q21272736;Nottinghamshire;код GSS (2011);1;1;from
+Q21272736;Nottinghamshire;Who's on First ID;1;1;from
+Q21272736;Nottinghamshire;геоданные;1;1;from
+Q21272736;Nottinghamshire;TOID;1;1;from
+Q21272736;Nottinghamshire;ISO 3166-2;1;1;from
+Q21272736;Nottinghamshire;площадь;1;1;from
+Q21272736;Nottinghamshire;не путать с;1;1;to
+Q21272736;Nottinghamshire;код GeoNames;1;1;from
+Q21272736;Nottinghamshire;численность населения;1;2;from
+Q21272736;Nottinghamshire;законодательный орган;1;1;from
+Q21272890;Leicestershire;административно-территориальная единица;1;693;to
+Q21272736;Nottinghamshire;государство;1;1;from
+Q21272736;Nottinghamshire;административно делится на;1;1;to
+Q21272736;Nottinghamshire;административно-территориальная единица;1;1826;to
+Q21272276;Cambridgeshire;место погребения;1;1;to
+Q21272276;Cambridgeshire;расположение штаб-квартиры;1;1;to
+Q21272276;Cambridgeshire;юрисдикция распространяется на;1;1;to
+Q21272276;Cambridgeshire;официальный сайт;1;1;from
+Q21272276;Cambridgeshire;код GSS (2011);1;1;from
+Q21272276;Cambridgeshire;Who's on First ID;1;1;from
+Q21272276;Cambridgeshire;геоданные;1;1;from
+Q21272736;Nottinghamshire;юрисдикция распространяется на;1;1;to
+Q21272890;Leicestershire;административно делится на;1;1;to
+Q21279371;Lancashire;площадь;1;1;from
+Q21272890;Leicestershire;юрисдикция распространяется на;1;1;to
+Q21279371;Lancashire;не путать с;1;2;to
+Q21279371;Lancashire;код GeoNames;1;1;from
+Q21279371;Lancashire;категория для людей, родившихся здесь;1;1;from
+Q21279371;Lancashire;численность населения;1;2;from
+Q21279371;Lancashire;изображение герба;1;1;from
+Q21279371;Lancashire;это частный случай понятия;1;2;from
+Q21279371;Lancashire;законодательный орган;1;1;from
+Q21279371;Lancashire;государство;1;1;from
+Q21279371;Lancashire;административно делится на;1;12;from
+Q21279371;Lancashire;административно-территориальная единица;1;781;to
+Q21272890;Leicestershire;код GSS (2011);1;1;from
+Q21272890;Leicestershire;государство;1;1;from
+Q21272890;Leicestershire;Who's on First ID;1;1;from
+Q21272890;Leicestershire;геоданные;1;1;from
+Q21272890;Leicestershire;TOID;1;1;from
+Q21272890;Leicestershire;ISO 3166-2;1;1;from
+Q21272890;Leicestershire;площадь;1;1;from
+Q21272890;Leicestershire;не путать с;1;1;to
+Q21272890;Leicestershire;код GeoNames;1;1;from
+Q21272890;Leicestershire;численность населения;1;2;from
+Q21272890;Leicestershire;это частный случай понятия;1;2;from
+Q21272890;Leicestershire;законодательный орган;1;1;from
+Q22338583;Cornwall;административно делится на;1;1;to

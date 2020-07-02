@@ -1,0 +1,422 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q181342;Trnava Region;административно-территориальная единица;1;20;to
+Q184548;Nitra Region;изображение герба;1;1;from
+Q184548;Nitra Region;часовой пояс;1;1;from
+Q184548;Nitra Region;ID отношения в OpenStreetMap;1;1;from
+Q184548;Nitra Region;категория на Викискладе;1;1;from
+Q184548;Nitra Region;часть от;1;1;from
+Q184548;Nitra Region;ISO 3166-2;1;1;from
+Q184548;Nitra Region;используемый язык;1;1;from
+Q184548;Nitra Region;код BNF;1;1;from
+Q184548;Nitra Region;состоит из представителей класса;1;1;from
+Q184548;Nitra Region;классификация климата Кёппена;1;1;from
+Q184548;Nitra Region;площадь;1;1;from
+Q184548;Nitra Region;рельефная позиционная карта;1;1;from
+Q184548;Nitra Region;позиционная карта;1;1;from
+Q184548;Nitra Region;категория для людей, связанных с местностью;1;1;from
+Q184548;Nitra Region;категория для людей, похороненных здесь;1;1;from
+Q184548;Nitra Region;название на языке оригинала;1;1;from
+Q184548;Nitra Region;код TGN;1;1;from
+Q184548;Nitra Region;подробная карта;1;1;from
+Q184548;Nitra Region;код GeoNames;1;1;from
+Q184548;Nitra Region;категория для людей, умерших здесь;1;1;from
+Q184548;Nitra Region;категория для людей, родившихся здесь;1;1;from
+Q184548;Nitra Region;официальное название;1;1;from
+Q184548;Nitra Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q184548;Nitra Region;численность населения;1;2;from
+Q184548;Nitra Region;идентификатор местоположения ArchINFORM;1;1;from
+Q184548;Nitra Region;дата основания/создания/возникновения;1;1;from
+Q184548;Nitra Region;код NUTS;1;1;from
+Q184548;Nitra Region;общая тема категории;1;1;to
+Q186295;Košice Region;изображение флага;1;1;from
+Q186295;Košice Region;столица;1;1;from
+Q186295;Košice Region;это частный случай понятия;1;1;from
+Q186295;Košice Region;карта местонахождения;1;2;from
+Q186295;Košice Region;изображение;1;1;from
+Q186295;Košice Region;государство;1;1;from
+Q186295;Košice Region;административно делится на;1;2;to
+Q186295;Košice Region;административно-территориальная единица;1;21;to
+Q184548;Nitra Region;происходит из;1;1;to
+Q184548;Nitra Region;является столицей;1;1;to
+Q184548;Nitra Region;место смерти;1;1;to
+Q184548;Nitra Region;наивысшая точка;1;1;from
+Q184548;Nitra Region;категория объединяет темы;1;8;to
+Q184548;Nitra Region;место рождения;1;6;to
+Q184548;Nitra Region;изображённый объект;1;1;to
+Q184548;Nitra Region;баннер Викигида;1;1;from
+Q184548;Nitra Region;основная категория по теме;1;1;from
+Q184548;Nitra Region;FIPS 10-4 (страны и регионы);1;1;from
+Q184548;Nitra Region;официальный сайт;1;1;from
+Q184548;Nitra Region;Who's on First ID;1;1;from
+Q184548;Nitra Region;код Freebase;1;1;from
+Q184548;Nitra Region;географические координаты;1;1;from
+Q184548;Nitra Region;десятичная классификация Дьюи;1;1;from
+Q184548;Nitra Region;имеет границы с;1;3;to
+Q184228;Žilina Region;изображение флага;1;1;from
+Q184548;Nitra Region;изображение флага;1;1;from
+Q184228;Žilina Region;идентификатор местоположения ArchINFORM;1;1;from
+Q184228;Žilina Region;код тезауруса PACTOLS;1;1;from
+Q184228;Žilina Region;ID отношения в OpenStreetMap;1;1;from
+Q184228;Žilina Region;категория на Викискладе;1;1;from
+Q184228;Žilina Region;часть от;1;1;from
+Q184228;Žilina Region;ISO 3166-2;1;1;from
+Q184228;Žilina Region;классификация климата Кёппена;1;1;from
+Q184228;Žilina Region;площадь;1;1;from
+Q184228;Žilina Region;рельефная позиционная карта;1;1;from
+Q184228;Žilina Region;позиционная карта;1;1;from
+Q184228;Žilina Region;не путать с;1;1;to
+Q184228;Žilina Region;категория для людей, связанных с местностью;1;1;from
+Q184228;Žilina Region;категория для людей, похороненных здесь;1;1;from
+Q184228;Žilina Region;название на языке оригинала;1;1;from
+Q184228;Žilina Region;подробная карта;1;1;from
+Q184228;Žilina Region;код GeoNames;1;1;from
+Q184228;Žilina Region;категория для людей, умерших здесь;1;1;from
+Q184228;Žilina Region;категория для людей, родившихся здесь;1;1;from
+Q184228;Žilina Region;официальное название;1;1;from
+Q184228;Žilina Region;основной шаблон по теме;1;1;from
+Q184228;Žilina Region;численность населения;1;1;from
+Q184228;Žilina Region;десятичная классификация Дьюи;1;1;from
+Q184228;Žilina Region;изображение герба;1;1;from
+Q184228;Žilina Region;дата основания/создания/возникновения;1;1;from
+Q184228;Žilina Region;код NUTS;1;1;from
+Q184228;Žilina Region;географические координаты;1;1;from
+Q184228;Žilina Region;основная тема шаблона;1;1;to
+Q184548;Nitra Region;столица;1;1;from
+Q184548;Nitra Region;это частный случай понятия;1;1;from
+Q184548;Nitra Region;карта местонахождения;1;2;from
+Q184548;Nitra Region;изображение;1;1;from
+Q184548;Nitra Region;государство;1;1;from
+Q184548;Nitra Region;административно делится на;1;1;to
+Q184548;Nitra Region;административно-территориальная единица;1;20;to
+Q184228;Žilina Region;является столицей;1;1;to
+Q184228;Žilina Region;местонахождение;1;1;to
+Q184228;Žilina Region;общая тема категории;1;1;to
+Q184228;Žilina Region;состоит из;1;1;to
+Q184228;Žilina Region;код Freebase;1;1;from
+Q184228;Žilina Region;категория объединяет темы;1;7;to
+Q184228;Žilina Region;место смерти;1;2;to
+Q184228;Žilina Region;место рождения;1;1;to
+Q184228;Žilina Region;изображённый объект;1;1;to
+Q184228;Žilina Region;место в MusicBrainz;1;1;from
+Q184228;Žilina Region;основная категория по теме;1;1;from
+Q184228;Žilina Region;FIPS 10-4 (страны и регионы);1;1;from
+Q184228;Žilina Region;официальный сайт;1;1;from
+Q184228;Žilina Region;код NKC;1;1;from
+Q184228;Žilina Region;Who's on First ID;1;1;from
+Q186295;Košice Region;имеет границы с;1;5;to
+Q186295;Košice Region;изображение герба;1;1;from
+Q186295;Košice Region;десятичная классификация Дьюи;1;1;from
+Q186295;Košice Region;численность населения;1;1;from
+Q189001;Prešov Region;ISO 3166-2;1;1;from
+Q189001;Prešov Region;используемый язык;1;1;from
+Q189001;Prešov Region;состоит из представителей класса;1;3;from
+Q189001;Prešov Region;классификация климата Кёппена;1;1;from
+Q189001;Prešov Region;код FAST;1;1;from
+Q189001;Prešov Region;площадь;1;1;from
+Q189001;Prešov Region;высота над уровнем моря;1;2;from
+Q189001;Prešov Region;рельефная позиционная карта;1;1;from
+Q189001;Prešov Region;позиционная карта;1;1;from
+Q189001;Prešov Region;категория для людей, связанных с местностью;1;1;from
+Q189001;Prešov Region;категория для людей, похороненных здесь;1;1;from
+Q189001;Prešov Region;подробная карта;1;1;from
+Q189001;Prešov Region;глубочайшая точка;1;2;from
+Q189001;Prešov Region;код GeoNames;1;1;from
+Q189001;Prešov Region;категория для людей, умерших здесь;1;1;from
+Q189001;Prešov Region;категория для людей, родившихся здесь;1;1;from
+Q189001;Prešov Region;официальное название;1;1;from
+Q189001;Prešov Region;основной шаблон по теме;1;1;from
+Q189001;Prešov Region;заменил;1;1;from
+Q189001;Prešov Region;численность населения;1;1;from
+Q189001;Prešov Region;десятичная классификация Дьюи;1;1;from
+Q189001;Prešov Region;изображение герба;1;1;from
+Q189001;Prešov Region;имеет границы с;1;6;to
+Q189001;Prešov Region;часть от;1;1;from
+Q189001;Prešov Region;категория на Викискладе;1;1;from
+Q189001;Prešov Region;ID отношения в OpenStreetMap;1;1;from
+Q189001;Prešov Region;место в MusicBrainz;1;1;from
+Q189001;Prešov Region;является столицей;1;1;to
+Q189001;Prešov Region;общая тема категории;1;1;to
+Q189001;Prešov Region;основная тема шаблона;1;1;to
+Q189001;Prešov Region;заменён на;1;1;to
+Q189001;Prešov Region;категория объединяет темы;1;11;to
+Q189001;Prešov Region;место погребения;1;1;to
+Q189001;Prešov Region;место смерти;1;3;to
+Q189001;Prešov Region;изображённый объект;1;1;to
+Q189001;Prešov Region;место рождения;1;19;to
+Q189001;Prešov Region;dmoz;1;1;from
+Q189001;Prešov Region;код NLI;1;1;from
+Q189001;Prešov Region;предположительно одно и то же с;1;1;to
+Q189001;Prešov Region;основная категория по теме;1;1;from
+Q189001;Prešov Region;FIPS 10-4 (страны и регионы);1;1;from
+Q189001;Prešov Region;официальный сайт;1;1;from
+Q189001;Prešov Region;Who's on First ID;1;1;from
+Q189001;Prešov Region;код Freebase;1;1;from
+Q189001;Prešov Region;географические координаты;1;2;from
+Q189001;Prešov Region;наивысшая точка;1;1;from
+Q189001;Prešov Region;код NUTS;1;1;from
+Q189001;Prešov Region;дата основания/создания/возникновения;1;1;from
+Q189001;Prešov Region;идентификатор местоположения ArchINFORM;1;1;from
+Q189001;Prešov Region;изображение флага;1;1;from
+Q189001;Prešov Region;столица;1;1;from
+Q189001;Prešov Region;это частный случай понятия;1;1;from
+Q186295;Košice Region;площадь;1;1;from
+Q186295;Košice Region;дата основания/создания/возникновения;1;1;from
+Q186295;Košice Region;идентификатор местоположения ArchINFORM;1;1;from
+Q186295;Košice Region;ID отношения в OpenStreetMap;1;1;from
+Q186295;Košice Region;категория на Викискладе;1;1;from
+Q186295;Košice Region;часть от;1;1;from
+Q186295;Košice Region;ISO 3166-2;1;1;from
+Q186295;Košice Region;используемый язык;1;2;from
+Q186295;Košice Region;код BNF;1;1;from
+Q186295;Košice Region;состоит из представителей класса;1;1;from
+Q186295;Košice Region;классификация климата Кёппена;1;1;from
+Q186295;Košice Region;рельефная позиционная карта;1;1;from
+Q186295;Košice Region;наивысшая точка;1;1;from
+Q186295;Košice Region;позиционная карта;1;1;from
+Q186295;Košice Region;категория для людей, связанных с местностью;1;1;from
+Q186295;Košice Region;категория для людей, похороненных здесь;1;1;from
+Q186295;Košice Region;название на языке оригинала;1;2;from
+Q186295;Košice Region;подробная карта;1;1;from
+Q186295;Košice Region;код GeoNames;1;1;from
+Q186295;Košice Region;категория для людей, умерших здесь;1;1;from
+Q186295;Košice Region;категория для людей, родившихся здесь;1;1;from
+Q186295;Košice Region;официальное название;1;2;from
+Q186295;Košice Region;портал Викимедиа;1;1;from
+Q186295;Košice Region;код NUTS;1;1;from
+Q186295;Košice Region;географические координаты;1;1;from
+Q189001;Prešov Region;код LCNAF;1;1;from
+Q186295;Košice Region;заменён на;1;1;to
+Q189001;Prešov Region;карта местонахождения;1;2;from
+Q189001;Prešov Region;код VIAF;1;2;from
+Q189001;Prešov Region;изображение;1;1;from
+Q189001;Prešov Region;государство;1;1;from
+Q189001;Prešov Region;административно делится на;1;2;to
+Q189001;Prešov Region;административно-территориальная единица;1;39;to
+Q186295;Košice Region;происходит из;1;1;to
+Q186295;Košice Region;является столицей;1;1;to
+Q186295;Košice Region;место смерти;1;2;to
+Q186295;Košice Region;общая тема категории;1;1;to
+Q186295;Košice Region;юрисдикция распространяется на;1;1;to
+Q186295;Košice Region;код Freebase;1;1;from
+Q186295;Košice Region;категория объединяет темы;1;7;to
+Q186295;Košice Region;место рождения;1;7;to
+Q186295;Košice Region;основная тема портала Викимедиа;1;1;to
+Q186295;Košice Region;изображённый объект;1;1;to
+Q186295;Košice Region;место погребения;1;1;to
+Q186295;Košice Region;основная категория по теме;1;1;from
+Q186295;Košice Region;FIPS 10-4 (страны и регионы);1;1;from
+Q186295;Košice Region;официальный сайт;1;1;from
+Q186295;Košice Region;код NKC;1;1;from
+Q186295;Košice Region;Who's on First ID;1;1;from
+Q184228;Žilina Region;имеет границы с;1;3;to
+Q184228;Žilina Region;столица;1;1;from
+Q181342;Trnava Region;административно делится на;1;1;to
+Q183139;Trenčín Region;код GND;1;1;from
+Q183139;Trenčín Region;ISO 3166-2;1;1;from
+Q183139;Trenčín Region;состоит из представителей класса;1;1;from
+Q183139;Trenčín Region;код BabelNet;1;1;from
+Q183139;Trenčín Region;классификация климата Кёппена;1;1;from
+Q183139;Trenčín Region;площадь;1;1;from
+Q183139;Trenčín Region;рельефная позиционная карта;1;1;from
+Q183139;Trenčín Region;позиционная карта;1;1;from
+Q183139;Trenčín Region;категория для людей, связанных с местностью;1;1;from
+Q183139;Trenčín Region;категория для людей, похороненных здесь;1;1;from
+Q183139;Trenčín Region;название на языке оригинала;1;1;from
+Q183139;Trenčín Region;подробная карта;1;1;from
+Q183139;Trenčín Region;код GeoNames;1;1;from
+Q183139;Trenčín Region;категория для людей, умерших здесь;1;1;from
+Q183139;Trenčín Region;категория для людей, родившихся здесь;1;1;from
+Q183139;Trenčín Region;список памятников;1;1;from
+Q183139;Trenčín Region;официальное название;1;1;from
+Q183139;Trenčín Region;численность населения;1;4;from
+Q183139;Trenčín Region;десятичная классификация Дьюи;1;1;from
+Q183139;Trenčín Region;изображение герба;1;1;from
+Q183139;Trenčín Region;имеет границы с;1;4;to
+Q183139;Trenčín Region;изображение флага;1;1;from
+Q183139;Trenčín Region;столица;1;1;from
+Q183139;Trenčín Region;это частный случай понятия;1;1;from
+Q183139;Trenčín Region;категория на Викискладе;1;1;from
+Q183139;Trenčín Region;ID отношения в OpenStreetMap;1;1;from
+Q183139;Trenčín Region;часовой пояс;1;2;from
+Q183139;Trenčín Region;является столицей;1;1;to
+Q183498;Bratislava Region;это частный случай понятия;1;1;from
+Q183498;Bratislava Region;карта местонахождения;1;2;from
+Q183498;Bratislava Region;город-побратим;1;1;to
+Q183498;Bratislava Region;изображение;1;1;from
+Q183498;Bratislava Region;государство;1;1;from
+Q183498;Bratislava Region;административно делится на;1;1;to
+Q183498;Bratislava Region;административно-территориальная единица;1;74;to
+Q183139;Trenčín Region;общая тема категории;1;1;to
+Q183139;Trenčín Region;место смерти;1;3;to
+Q183139;Trenčín Region;категория объединяет темы;1;8;to
+Q183139;Trenčín Region;изображённый объект;1;1;to
+Q183139;Trenčín Region;идентификатор местоположения ArchINFORM;1;1;from
+Q183139;Trenčín Region;место рождения;1;8;to
+Q183139;Trenčín Region;основная категория по теме;1;1;from
+Q183139;Trenčín Region;FIPS 10-4 (страны и регионы);1;1;from
+Q183139;Trenčín Region;официальный сайт;1;1;from
+Q183139;Trenčín Region;Who's on First ID;1;1;from
+Q183139;Trenčín Region;код Freebase;1;1;from
+Q183139;Trenčín Region;географические координаты;1;1;from
+Q183139;Trenčín Region;наивысшая точка;1;1;from
+Q183139;Trenčín Region;код NUTS;1;1;from
+Q183139;Trenčín Region;дата основания/создания/возникновения;1;1;from
+Q183139;Trenčín Region;карта местонахождения;1;2;from
+Q183139;Trenčín Region;изображение;1;1;from
+Q184228;Žilina Region;это частный случай понятия;1;1;from
+Q183139;Trenčín Region;государство;1;1;from
+Q181342;Trnava Region;площадь;1;1;from
+Q181342;Trnava Region;высота над уровнем моря;1;1;from
+Q181342;Trnava Region;рельефная позиционная карта;1;1;from
+Q181342;Trnava Region;позиционная карта;1;1;from
+Q181342;Trnava Region;категория для людей, связанных с местностью;1;1;from
+Q181342;Trnava Region;категория для людей, похороненных здесь;1;1;from
+Q181342;Trnava Region;название на языке оригинала;1;2;from
+Q181342;Trnava Region;подробная карта;1;1;from
+Q181342;Trnava Region;код GeoNames;1;1;from
+Q181342;Trnava Region;категория для людей, умерших здесь;1;1;from
+Q181342;Trnava Region;категория для людей, родившихся здесь;1;1;from
+Q181342;Trnava Region;официальное название;1;2;from
+Q181342;Trnava Region;численность населения;1;2;from
+Q181342;Trnava Region;десятичная классификация Дьюи;1;1;from
+Q181342;Trnava Region;изображение герба;1;1;from
+Q181342;Trnava Region;имеет границы с;1;3;to
+Q181342;Trnava Region;изображение флага;1;1;from
+Q181342;Trnava Region;столица;1;1;from
+Q181342;Trnava Region;это частный случай понятия;1;1;from
+Q181342;Trnava Region;карта местонахождения;1;2;from
+Q181342;Trnava Region;код GND;1;1;from
+Q181342;Trnava Region;изображение;1;1;from
+Q181342;Trnava Region;государство;1;1;from
+Q181342;Trnava Region;классификация климата Кёппена;1;1;from
+Q181342;Trnava Region;код BNF;1;1;from
+Q181342;Trnava Region;используемый язык;1;1;from
+Q181342;Trnava Region;основная категория по теме;1;1;from
+Q183139;Trenčín Region;административно делится на;1;1;to
+Q183139;Trenčín Region;административно-территориальная единица;1;18;to
+Q181342;Trnava Region;происходит из;1;1;to
+Q181342;Trnava Region;является столицей;1;1;to
+Q181342;Trnava Region;общая тема категории;1;1;to
+Q181342;Trnava Region;категория объединяет темы;1;12;to
+Q181342;Trnava Region;изображённый объект;1;1;to
+Q181342;Trnava Region;место погребения;1;2;to
+Q181342;Trnava Region;место смерти;1;3;to
+Q181342;Trnava Region;место рождения;1;7;to
+Q181342;Trnava Region;FIPS 10-4 (страны и регионы);1;1;from
+Q181342;Trnava Region;ISO 3166-2;1;1;from
+Q181342;Trnava Region;официальный сайт;1;1;from
+Q181342;Trnava Region;Who's on First ID;1;1;from
+Q181342;Trnava Region;код Freebase;1;1;from
+Q181342;Trnava Region;географические координаты;1;1;from
+Q181342;Trnava Region;наивысшая точка;1;1;from
+Q181342;Trnava Region;код NUTS;1;1;from
+Q181342;Trnava Region;дата основания/создания/возникновения;1;1;from
+Q181342;Trnava Region;идентификатор местоположения ArchINFORM;1;1;from
+Q181342;Trnava Region;ID отношения в OpenStreetMap;1;1;from
+Q181342;Trnava Region;категория на Викискладе;1;1;from
+Q183498;Bratislava Region;столица;1;1;from
+Q183498;Bratislava Region;изображение флага;1;1;from
+Q183498;Bratislava Region;имеет границы с;1;2;to
+Q183498;Bratislava Region;изображение герба;1;1;from
+Q183640;Banská Bystrica Region;дата основания/создания/возникновения;1;1;from
+Q183640;Banská Bystrica Region;идентификатор местоположения ArchINFORM;1;1;from
+Q183640;Banská Bystrica Region;часовой пояс;1;1;from
+Q183640;Banská Bystrica Region;ID отношения в OpenStreetMap;1;1;from
+Q183640;Banská Bystrica Region;категория на Викискладе;1;1;from
+Q183640;Banská Bystrica Region;ISO 3166-2;1;1;from
+Q183640;Banská Bystrica Region;используемый язык;1;1;from
+Q183640;Banská Bystrica Region;состоит из представителей класса;1;1;from
+Q183640;Banská Bystrica Region;классификация климата Кёппена;1;1;from
+Q183640;Banská Bystrica Region;площадь;1;1;from
+Q183640;Banská Bystrica Region;высота над уровнем моря;1;1;from
+Q183640;Banská Bystrica Region;рельефная позиционная карта;1;1;from
+Q183640;Banská Bystrica Region;позиционная карта;1;1;from
+Q183640;Banská Bystrica Region;категория для людей, связанных с местностью;1;1;from
+Q183640;Banská Bystrica Region;категория для людей, похороненных здесь;1;1;from
+Q183640;Banská Bystrica Region;название на языке оригинала;1;2;from
+Q183640;Banská Bystrica Region;подробная карта;1;1;from
+Q183640;Banská Bystrica Region;код GeoNames;1;1;from
+Q183640;Banská Bystrica Region;категория для людей, умерших здесь;1;1;from
+Q183640;Banská Bystrica Region;категория для людей, родившихся здесь;1;1;from
+Q183640;Banská Bystrica Region;официальное название;1;2;from
+Q183640;Banská Bystrica Region;основной шаблон по теме;1;1;from
+Q183640;Banská Bystrica Region;численность населения;1;2;from
+Q183640;Banská Bystrica Region;код NUTS;1;1;from
+Q183640;Banská Bystrica Region;наивысшая точка;1;1;from
+Q183640;Banská Bystrica Region;географические координаты;1;1;from
+Q183640;Banská Bystrica Region;место смерти;1;1;to
+Q184228;Žilina Region;карта местонахождения;1;2;from
+Q184228;Žilina Region;изображение;1;1;from
+Q184228;Žilina Region;государство;1;11;from
+Q184228;Žilina Region;административно делится на;1;1;to
+Q184228;Žilina Region;административно-территориальная единица;1;26;to
+Q183640;Banská Bystrica Region;происходит из;1;1;to
+Q183640;Banská Bystrica Region;общая тема категории;1;1;to
+Q183640;Banská Bystrica Region;основная тема шаблона;1;1;to
+Q183640;Banská Bystrica Region;категория объединяет темы;1;9;to
+Q183640;Banská Bystrica Region;состоит из;1;1;to
+Q183640;Banská Bystrica Region;является столицей;1;1;to
+Q183640;Banská Bystrica Region;код Freebase;1;1;from
+Q183640;Banská Bystrica Region;место погребения;1;1;to
+Q183640;Banská Bystrica Region;место активности;1;1;to
+Q183640;Banská Bystrica Region;изображённый объект;1;1;to
+Q183640;Banská Bystrica Region;место рождения;1;7;to
+Q183640;Banská Bystrica Region;место в MusicBrainz;1;1;from
+Q183640;Banská Bystrica Region;основная категория по теме;1;1;from
+Q183640;Banská Bystrica Region;FIPS 10-4 (страны и регионы);1;1;from
+Q183640;Banská Bystrica Region;официальный сайт;1;1;from
+Q183640;Banská Bystrica Region;код NKC;1;1;from
+Q183640;Banská Bystrica Region;Who's on First ID;1;1;from
+Q183640;Banská Bystrica Region;десятичная классификация Дьюи;1;1;from
+Q183640;Banská Bystrica Region;изображение герба;1;1;from
+Q183640;Banská Bystrica Region;глава правительства;1;1;from
+Q183498;Bratislava Region;рельефная позиционная карта;1;1;from
+Q183498;Bratislava Region;дата основания/создания/возникновения;1;1;from
+Q183498;Bratislava Region;идентификатор местоположения ArchINFORM;1;1;from
+Q183498;Bratislava Region;ID отношения в OpenStreetMap;1;1;from
+Q183498;Bratislava Region;категория на Викискладе;1;1;from
+Q183498;Bratislava Region;ISO 3166-2;1;1;from
+Q183498;Bratislava Region;используемый язык;1;2;from
+Q183498;Bratislava Region;код BNF;1;1;from
+Q183498;Bratislava Region;классификация климата Кёппена;1;1;from
+Q183498;Bratislava Region;площадь;1;1;from
+Q183498;Bratislava Region;высота над уровнем моря;1;1;from
+Q183498;Bratislava Region;позиционная карта;1;1;from
+Q183498;Bratislava Region;наивысшая точка;1;1;from
+Q183498;Bratislava Region;категория для людей, связанных с местностью;1;1;from
+Q183498;Bratislava Region;категория для людей, похороненных здесь;1;1;from
+Q183498;Bratislava Region;название на языке оригинала;1;2;from
+Q183498;Bratislava Region;подробная карта;1;1;from
+Q183498;Bratislava Region;код GeoNames;1;1;from
+Q183498;Bratislava Region;категория для людей, умерших здесь;1;1;from
+Q183498;Bratislava Region;категория для людей, родившихся здесь;1;1;from
+Q183498;Bratislava Region;официальное название;1;2;from
+Q183498;Bratislava Region;численность населения;1;2;from
+Q183498;Bratislava Region;десятичная классификация Дьюи;1;1;from
+Q183498;Bratislava Region;код NUTS;1;1;from
+Q183498;Bratislava Region;географические координаты;1;1;from
+Q183640;Banská Bystrica Region;имеет границы с;1;5;to
+Q183498;Bratislava Region;общая тема категории;1;1;to
+Q183640;Banská Bystrica Region;изображение флага;1;1;from
+Q183640;Banská Bystrica Region;столица;1;1;from
+Q183640;Banská Bystrica Region;это частный случай понятия;1;1;from
+Q183640;Banská Bystrica Region;карта местонахождения;1;2;from
+Q183640;Banská Bystrica Region;изображение;1;1;from
+Q183640;Banská Bystrica Region;государство;1;1;from
+Q183640;Banská Bystrica Region;административно делится на;1;1;to
+Q183640;Banská Bystrica Region;административно-территориальная единица;1;31;to
+Q183498;Bratislava Region;происходит из;1;2;to
+Q183498;Bratislava Region;является столицей;1;1;to
+Q183498;Bratislava Region;место смерти;1;2;to
+Q183498;Bratislava Region;код Freebase;1;1;from
+Q183498;Bratislava Region;категория объединяет темы;1;8;to
+Q183498;Bratislava Region;предположительно одно и то же с;1;1;to
+Q183498;Bratislava Region;изображённый объект;1;1;to
+Q183498;Bratislava Region;место рождения;1;3;to
+Q183498;Bratislava Region;место в MusicBrainz;1;1;from
+Q183498;Bratislava Region;основная категория по теме;1;1;from
+Q183498;Bratislava Region;FIPS 10-4 (страны и регионы);1;1;from
+Q183498;Bratislava Region;официальный сайт;1;1;from
+Q183498;Bratislava Region;код NKC;1;1;from
+Q183498;Bratislava Region;Who's on First ID;1;1;from
+Q189001;Prešov Region;происходит из;1;1;to

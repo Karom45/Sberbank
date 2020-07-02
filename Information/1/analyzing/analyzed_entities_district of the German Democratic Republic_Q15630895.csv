@@ -1,0 +1,336 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q48046;Cottbus District;административно-территориальная единица;1;14;to
+Q48089;Neubrandenburg District;столица;1;1;from
+Q48089;Neubrandenburg District;карта местонахождения;1;1;from
+Q48089;Neubrandenburg District;код GND;1;1;from
+Q48089;Neubrandenburg District;код VIAF;1;1;from
+Q48089;Neubrandenburg District;государство;1;1;from
+Q48089;Neubrandenburg District;административно делится на;1;1;to
+Q48089;Neubrandenburg District;административно-территориальная единица;1;14;to
+Q48083;Magdeburg District;является столицей;1;1;to
+Q48083;Magdeburg District;заменил;1;1;to
+Q48083;Magdeburg District;общая тема категории;1;1;to
+Q48083;Magdeburg District;категория объединяет темы;1;1;to
+Q48083;Magdeburg District;заменён на;1;1;to
+Q48083;Magdeburg District;основная категория по теме;1;1;from
+Q48083;Magdeburg District;код Freebase;1;1;from
+Q48083;Magdeburg District;географические координаты;1;1;from
+Q48083;Magdeburg District;дата прекращения существования;1;1;from
+Q48083;Magdeburg District;дата основания/создания/возникновения;1;1;from
+Q48083;Magdeburg District;категория на Викискладе;1;1;from
+Q48089;Neubrandenburg District;это частный случай понятия;1;1;from
+Q48089;Neubrandenburg District;имеет границы с;1;4;to
+Q48083;Magdeburg District;категория для людей, родившихся здесь;1;1;from
+Q48089;Neubrandenburg District;глава правительства;1;13;from
+Q48094;Potsdam District;код GND;1;1;from
+Q48094;Potsdam District;код VIAF;1;1;from
+Q48094;Potsdam District;государство;1;1;from
+Q48094;Potsdam District;административно делится на;1;1;to
+Q48094;Potsdam District;административно-территориальная единица;1;15;to
+Q48089;Neubrandenburg District;общая тема категории;1;1;to
+Q48089;Neubrandenburg District;место активности;1;1;to
+Q48089;Neubrandenburg District;категория объединяет темы;1;1;to
+Q48089;Neubrandenburg District;основная категория по теме;1;1;from
+Q48089;Neubrandenburg District;код Freebase;1;1;from
+Q48089;Neubrandenburg District;географические координаты;1;1;from
+Q48089;Neubrandenburg District;дата прекращения существования;1;1;from
+Q48089;Neubrandenburg District;дата основания/создания/возникновения;1;1;from
+Q48089;Neubrandenburg District;категория на Викискладе;1;1;from
+Q48089;Neubrandenburg District;категория для людей, родившихся здесь;1;1;from
+Q48089;Neubrandenburg District;заменён на;1;2;to
+Q48089;Neubrandenburg District;заменил;1;2;to
+Q48083;Magdeburg District;площадь;1;1;from
+Q48083;Magdeburg District;глава правительства;1;10;from
+Q48094;Potsdam District;это частный случай понятия;1;1;from
+Q48079;Leipzig District;площадь;1;1;from
+Q48079;Leipzig District;заменён на;1;1;to
+Q48079;Leipzig District;глава правительства;1;9;from
+Q48079;Leipzig District;имеет границы с;1;5;to
+Q48079;Leipzig District;столица;1;1;from
+Q48079;Leipzig District;это частный случай понятия;1;1;from
+Q48079;Leipzig District;карта местонахождения;1;1;from
+Q48079;Leipzig District;код GND;1;1;from
+Q48079;Leipzig District;код VIAF;1;1;from
+Q48079;Leipzig District;государство;1;1;from
+Q48079;Leipzig District;административно делится на;1;1;to
+Q48079;Leipzig District;административно-территориальная единица;1;12;to
+Q48072;Karl-Marx-Stadt District;является столицей;1;1;to
+Q48072;Karl-Marx-Stadt District;заменил;1;1;to
+Q48072;Karl-Marx-Stadt District;общая тема категории;1;1;to
+Q48072;Karl-Marx-Stadt District;категория объединяет темы;1;1;to
+Q48072;Karl-Marx-Stadt District;основная категория по теме;1;1;from
+Q48072;Karl-Marx-Stadt District;код Freebase;1;1;from
+Q48079;Leipzig District;категория для людей, родившихся здесь;1;1;from
+Q48079;Leipzig District;категория на Викискладе;1;1;from
+Q48083;Magdeburg District;имеет границы с;1;4;to
+Q48079;Leipzig District;дата основания/создания/возникновения;1;1;from
+Q48083;Magdeburg District;изображение флага;1;1;from
+Q48083;Magdeburg District;столица;1;1;from
+Q48083;Magdeburg District;это частный случай понятия;1;1;from
+Q48083;Magdeburg District;карта местонахождения;1;1;from
+Q48083;Magdeburg District;код GND;1;1;from
+Q48083;Magdeburg District;код VIAF;1;1;from
+Q48083;Magdeburg District;государство;1;1;from
+Q48083;Magdeburg District;административно делится на;1;1;to
+Q48083;Magdeburg District;административно-территориальная единица;1;21;to
+Q48079;Leipzig District;является столицей;1;1;to
+Q48079;Leipzig District;заменил;1;2;to
+Q48079;Leipzig District;общая тема категории;1;1;to
+Q48079;Leipzig District;категория объединяет темы;1;1;to
+Q48079;Leipzig District;основная категория по теме;1;1;from
+Q48079;Leipzig District;код Freebase;1;1;from
+Q48079;Leipzig District;географические координаты;1;1;from
+Q48079;Leipzig District;дата прекращения существования;1;1;from
+Q48094;Potsdam District;карта местонахождения;1;1;from
+Q48094;Potsdam District;столица;1;1;from
+Q48072;Karl-Marx-Stadt District;дата прекращения существования;1;1;from
+Q48106;Suhl District;код VIAF;1;1;from
+Q48106;Suhl District;административно делится на;1;1;to
+Q48106;Suhl District;административно-территориальная единица;1;8;to
+Q48101;Schwerin District;общая тема категории;1;1;to
+Q48101;Schwerin District;основная категория по теме;1;1;from
+Q48101;Schwerin District;код Freebase;1;1;from
+Q48101;Schwerin District;географические координаты;1;1;from
+Q48101;Schwerin District;дата прекращения существования;1;1;from
+Q48101;Schwerin District;дата основания/создания/возникновения;1;1;from
+Q48101;Schwerin District;категория на Викискладе;1;1;from
+Q48101;Schwerin District;площадь;1;1;from
+Q48101;Schwerin District;заменён на;1;2;to
+Q48101;Schwerin District;заменил;1;2;to
+Q48101;Schwerin District;глава правительства;1;10;from
+Q48101;Schwerin District;имеет границы с;1;4;to
+Q48101;Schwerin District;столица;1;1;from
+Q48101;Schwerin District;это частный случай понятия;1;1;from
+Q48101;Schwerin District;карта местонахождения;1;1;from
+Q48106;Suhl District;государство;1;1;from
+Q48106;Suhl District;код GND;1;1;from
+Q48101;Schwerin District;код VIAF;1;1;from
+Q48106;Suhl District;карта местонахождения;1;1;from
+Q48106;Suhl District;заменил;1;1;to
+Q48106;Suhl District;общая тема категории;1;1;to
+Q48106;Suhl District;категория объединяет темы;1;1;to
+Q48106;Suhl District;заменён на;1;1;to
+Q48106;Suhl District;основная категория по теме;1;1;from
+Q48106;Suhl District;код Freebase;1;1;from
+Q48106;Suhl District;географические координаты;1;1;from
+Q48106;Suhl District;дата прекращения существования;1;1;from
+Q48106;Suhl District;дата основания/создания/возникновения;1;1;from
+Q48106;Suhl District;категория на Викискладе;1;1;from
+Q48106;Suhl District;площадь;1;1;from
+Q48106;Suhl District;категория для людей, родившихся здесь;1;1;from
+Q48106;Suhl District;численность населения;1;1;from
+Q48106;Suhl District;глава правительства;1;7;from
+Q48106;Suhl District;имеет границы с;1;2;to
+Q48106;Suhl District;столица;1;1;from
+Q48106;Suhl District;это частный случай понятия;1;1;from
+Q48101;Schwerin District;код GND;1;1;from
+Q48101;Schwerin District;государство;1;1;from
+Q48094;Potsdam District;имеет границы с;1;8;to
+Q48098;Rostock District;это частный случай понятия;1;1;from
+Q48098;Rostock District;код GND;1;1;from
+Q48098;Rostock District;код VIAF;1;1;from
+Q48098;Rostock District;государство;1;1;from
+Q48098;Rostock District;административно делится на;1;1;to
+Q48098;Rostock District;административно-территориальная единица;1;12;to
+Q48094;Potsdam District;заменил;1;1;to
+Q48094;Potsdam District;общая тема категории;1;1;to
+Q48094;Potsdam District;заменён на;1;1;to
+Q48094;Potsdam District;место смерти;1;1;to
+Q48094;Potsdam District;основная категория по теме;1;1;from
+Q48094;Potsdam District;код Freebase;1;1;from
+Q48094;Potsdam District;географические координаты;1;1;from
+Q48094;Potsdam District;дата прекращения существования;1;1;from
+Q48094;Potsdam District;дата основания/создания/возникновения;1;1;from
+Q48094;Potsdam District;категория на Викискладе;1;1;from
+Q48094;Potsdam District;площадь;1;1;from
+Q48094;Potsdam District;глава правительства;1;16;from
+Q48098;Rostock District;карта местонахождения;1;1;from
+Q48098;Rostock District;столица;1;1;from
+Q48101;Schwerin District;административно делится на;1;1;to
+Q48098;Rostock District;имеет границы с;1;2;to
+Q48101;Schwerin District;административно-территориальная единица;1;10;to
+Q48098;Rostock District;является столицей;1;1;to
+Q48098;Rostock District;общая тема категории;1;1;to
+Q48098;Rostock District;категория объединяет темы;1;1;to
+Q48098;Rostock District;основная категория по теме;1;1;from
+Q48098;Rostock District;код Freebase;1;1;from
+Q48098;Rostock District;географические координаты;1;1;from
+Q48098;Rostock District;дата прекращения существования;1;1;from
+Q48098;Rostock District;дата основания/создания/возникновения;1;1;from
+Q48098;Rostock District;код автомобильного номера;1;1;from
+Q48098;Rostock District;категория на Викискладе;1;1;from
+Q48098;Rostock District;площадь;1;1;from
+Q48098;Rostock District;категория для людей, родившихся здесь;1;1;from
+Q48098;Rostock District;заменён на;1;1;to
+Q48098;Rostock District;заменил;1;1;to
+Q48098;Rostock District;численность населения;1;5;from
+Q48098;Rostock District;глава правительства;1;13;from
+Q48072;Karl-Marx-Stadt District;географические координаты;1;1;from
+Q48072;Karl-Marx-Stadt District;дата основания/создания/возникновения;1;1;from
+Q48046;Cottbus District;административно делится на;1;1;to
+Q48054;Erfurt District;численность населения;1;1;from
+Q48054;Erfurt District;имеет границы с;1;4;to
+Q48054;Erfurt District;столица;1;1;from
+Q48054;Erfurt District;это частный случай понятия;1;1;from
+Q48054;Erfurt District;код LCNAF;1;1;from
+Q48054;Erfurt District;карта местонахождения;1;1;from
+Q48054;Erfurt District;код GND;1;1;from
+Q48054;Erfurt District;код VIAF;1;1;from
+Q48054;Erfurt District;государство;1;1;from
+Q48054;Erfurt District;административно делится на;1;1;to
+Q48054;Erfurt District;административно-территориальная единица;1;13;to
+Q48050;Dresden District;заменил;1;1;to
+Q48050;Dresden District;общая тема категории;1;1;to
+Q48050;Dresden District;место создания;1;1;to
+Q48050;Dresden District;категория объединяет темы;1;1;to
+Q48050;Dresden District;место смерти;1;1;to
+Q48050;Dresden District;основная категория по теме;1;1;from
+Q48050;Dresden District;код Freebase;1;1;from
+Q48054;Erfurt District;глава правительства;1;8;from
+Q48054;Erfurt District;официальное название;1;1;from
+Q48050;Dresden District;дата прекращения существования;1;1;from
+Q48054;Erfurt District;категория для людей, родившихся здесь;1;1;from
+Q48057;former Frankfurt (Oder) District;административно делится на;1;1;to
+Q48057;former Frankfurt (Oder) District;административно-территориальная единица;1;9;to
+Q48054;Erfurt District;является столицей;1;1;to
+Q48054;Erfurt District;заменил;1;1;to
+Q48054;Erfurt District;общая тема категории;1;1;to
+Q48054;Erfurt District;категория объединяет темы;1;2;to
+Q48054;Erfurt District;заменён на;1;1;to
+Q48054;Erfurt District;место активности;1;4;to
+Q48054;Erfurt District;основная категория по теме;1;1;from
+Q48054;Erfurt District;категория карт на Викискладе;1;1;from
+Q48054;Erfurt District;код Freebase;1;1;from
+Q48054;Erfurt District;географические координаты;1;1;from
+Q48054;Erfurt District;дата прекращения существования;1;1;from
+Q48054;Erfurt District;дата основания/создания/возникновения;1;1;from
+Q48054;Erfurt District;категория на Викискладе;1;1;from
+Q48054;Erfurt District;площадь;1;1;from
+Q48054;Erfurt District;название на языке оригинала;1;1;from
+Q48050;Dresden District;географические координаты;1;1;from
+Q48050;Dresden District;дата основания/создания/возникновения;1;1;from
+Q48057;former Frankfurt (Oder) District;код VIAF;1;1;from
+Q48046;Cottbus District;место смерти;1;1;to
+Q48046;Cottbus District;код Freebase;1;1;from
+Q48046;Cottbus District;географические координаты;1;1;from
+Q48046;Cottbus District;дата прекращения существования;1;1;from
+Q48046;Cottbus District;дата основания/создания/возникновения;1;1;from
+Q48046;Cottbus District;категория на Викискладе;1;1;from
+Q48046;Cottbus District;площадь;1;1;from
+Q48046;Cottbus District;категория для людей, родившихся здесь;1;1;from
+Q48046;Cottbus District;заменён на;1;1;to
+Q48046;Cottbus District;численность населения;1;1;from
+Q48046;Cottbus District;глава правительства;1;12;from
+Q48046;Cottbus District;имеет границы с;1;5;to
+Q48046;Cottbus District;столица;1;1;from
+Q48046;Cottbus District;это частный случай понятия;1;1;from
+Q48046;Cottbus District;карта местонахождения;1;1;from
+Q48046;Cottbus District;код GND;1;1;from
+Q48046;Cottbus District;код VIAF;1;1;from
+Q48046;Cottbus District;государство;1;1;from
+Q48046;Cottbus District;основная категория по теме;1;1;from
+Q48046;Cottbus District;категория объединяет темы;1;1;to
+Q48050;Dresden District;категория на Викискладе;1;1;from
+Q48046;Cottbus District;общая тема категории;1;1;to
+Q48050;Dresden District;площадь;1;1;from
+Q48050;Dresden District;категория для людей, родившихся здесь;1;1;from
+Q48050;Dresden District;заменён на;1;1;to
+Q48050;Dresden District;глава правительства;1;10;from
+Q48050;Dresden District;имеет границы с;1;3;to
+Q48050;Dresden District;столица;1;1;from
+Q48050;Dresden District;это частный случай понятия;1;1;from
+Q48050;Dresden District;код LCNAF;1;1;from
+Q48050;Dresden District;карта местонахождения;1;1;from
+Q48050;Dresden District;код GND;1;1;from
+Q48050;Dresden District;код VIAF;1;1;from
+Q48050;Dresden District;государство;1;1;from
+Q48050;Dresden District;следующее по порядку;1;1;from
+Q48050;Dresden District;административно делится на;1;1;to
+Q48050;Dresden District;административно-территориальная единица;1;16;to
+Q48046;Cottbus District;является столицей;1;1;to
+Q48046;Cottbus District;заменил;1;3;to
+Q48057;former Frankfurt (Oder) District;государство;1;1;from
+Q48057;former Frankfurt (Oder) District;код GND;1;1;from
+Q48072;Karl-Marx-Stadt District;категория на Викискладе;1;1;from
+Q48066;Halle District;заменён на;1;1;to
+Q48066;Halle District;категория карт на Викискладе;1;1;from
+Q48066;Halle District;код Freebase;1;1;from
+Q48066;Halle District;географические координаты;1;1;from
+Q48066;Halle District;дата прекращения существования;1;1;from
+Q48066;Halle District;дата основания/создания/возникновения;1;1;from
+Q48066;Halle District;категория на Викискладе;1;1;from
+Q48066;Halle District;площадь;1;1;from
+Q48066;Halle District;численность населения;1;1;from
+Q48066;Halle District;глава правительства;1;11;from
+Q48066;Halle District;имеет границы с;1;6;to
+Q48066;Halle District;столица;1;1;from
+Q48066;Halle District;это частный случай понятия;1;1;from
+Q48066;Halle District;карта местонахождения;1;1;from
+Q48066;Halle District;код GND;1;1;from
+Q48066;Halle District;код VIAF;1;1;from
+Q48066;Halle District;государство;1;1;from
+Q48066;Halle District;административно делится на;1;1;to
+Q48066;Halle District;основная категория по теме;1;1;from
+Q48066;Halle District;категория объединяет темы;1;1;to
+Q48060;Gera District;является столицей;1;1;to
+Q48066;Halle District;общая тема категории;1;1;to
+Q48072;Karl-Marx-Stadt District;площадь;1;1;from
+Q48072;Karl-Marx-Stadt District;категория для людей, родившихся здесь;1;1;from
+Q48072;Karl-Marx-Stadt District;официальное название;1;4;from
+Q48072;Karl-Marx-Stadt District;заменён на;1;1;to
+Q48072;Karl-Marx-Stadt District;изображение герба;1;1;from
+Q48072;Karl-Marx-Stadt District;глава правительства;1;9;from
+Q48072;Karl-Marx-Stadt District;имеет границы с;1;3;to
+Q48072;Karl-Marx-Stadt District;столица;1;1;from
+Q48072;Karl-Marx-Stadt District;это частный случай понятия;1;1;from
+Q48072;Karl-Marx-Stadt District;карта местонахождения;1;1;from
+Q48072;Karl-Marx-Stadt District;код GND;1;1;from
+Q48072;Karl-Marx-Stadt District;код VIAF;1;1;from
+Q48072;Karl-Marx-Stadt District;государство;1;1;from
+Q48072;Karl-Marx-Stadt District;административно делится на;1;1;to
+Q48072;Karl-Marx-Stadt District;административно-территориальная единица;1;22;to
+Q48066;Halle District;является столицей;1;1;to
+Q48066;Halle District;заменил;1;2;to
+Q48066;Halle District;административно-территориальная единица;1;20;to
+Q48060;Gera District;заменил;1;1;to
+Q48057;former Frankfurt (Oder) District;карта местонахождения;1;1;from
+Q48060;Gera District;административно-территориальная единица;1;11;to
+Q48057;former Frankfurt (Oder) District;заменил;1;1;to
+Q48057;former Frankfurt (Oder) District;общая тема категории;1;1;to
+Q48057;former Frankfurt (Oder) District;место смерти;1;1;to
+Q48057;former Frankfurt (Oder) District;заменён на;1;1;to
+Q48057;former Frankfurt (Oder) District;основная категория по теме;1;1;from
+Q48057;former Frankfurt (Oder) District;код Freebase;1;1;from
+Q48057;former Frankfurt (Oder) District;географические координаты;1;1;from
+Q48057;former Frankfurt (Oder) District;дата прекращения существования;1;1;from
+Q48057;former Frankfurt (Oder) District;дата основания/создания/возникновения;1;1;from
+Q48057;former Frankfurt (Oder) District;код автомобильного номера;1;1;from
+Q48057;former Frankfurt (Oder) District;категория на Викискладе;1;1;from
+Q48057;former Frankfurt (Oder) District;площадь;1;1;from
+Q48057;former Frankfurt (Oder) District;численность населения;1;1;from
+Q48057;former Frankfurt (Oder) District;глава правительства;1;14;from
+Q48057;former Frankfurt (Oder) District;имеет границы с;1;4;to
+Q48057;former Frankfurt (Oder) District;столица;1;1;from
+Q48057;former Frankfurt (Oder) District;это частный случай понятия;1;1;from
+Q48057;former Frankfurt (Oder) District;является столицей;1;1;to
+Q48060;Gera District;административно делится на;1;1;to
+Q48060;Gera District;общая тема категории;1;1;to
+Q48060;Gera District;государство;1;1;from
+Q48060;Gera District;категория объединяет темы;1;1;to
+Q48060;Gera District;заменён на;1;1;to
+Q48060;Gera District;основная категория по теме;1;1;from
+Q48060;Gera District;код Freebase;1;1;from
+Q48060;Gera District;географические координаты;1;1;from
+Q48060;Gera District;дата прекращения существования;1;1;from
+Q48060;Gera District;дата основания/создания/возникновения;1;1;from
+Q48060;Gera District;категория на Викискладе;1;1;from
+Q48060;Gera District;площадь;1;1;from
+Q48060;Gera District;категория для людей, родившихся здесь;1;1;from
+Q48060;Gera District;глава правительства;1;4;from
+Q48060;Gera District;имеет границы с;1;5;to
+Q48060;Gera District;столица;1;1;from
+Q48060;Gera District;это частный случай понятия;1;1;from
+Q48060;Gera District;карта местонахождения;1;1;from
+Q48060;Gera District;код GND;1;1;from
+Q48060;Gera District;код VIAF;1;1;from
+Q48106;Suhl District;является столицей;1;1;to

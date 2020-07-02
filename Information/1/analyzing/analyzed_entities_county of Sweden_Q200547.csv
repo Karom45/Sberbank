@@ -1,0 +1,1140 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q102377;Blekinge County;административно-территориальная единица;1;392;to
+Q104746;Kronoberg County;географические координаты;1;1;from
+Q104746;Kronoberg County;основная категория по теме;1;1;from
+Q104746;Kronoberg County;FIPS 10-4 (страны и регионы);1;1;from
+Q104746;Kronoberg County;официальный сайт;1;1;from
+Q104746;Kronoberg County;категория карт на Викискладе;1;1;from
+Q104746;Kronoberg County;Who's on First ID;1;1;from
+Q104746;Kronoberg County;код Freebase;1;1;from
+Q104746;Kronoberg County;код NUTS;1;1;from
+Q104746;Kronoberg County;место рождения;1;4;to
+Q104746;Kronoberg County;дата основания/создания/возникновения;1;1;from
+Q104746;Kronoberg County;идентификатор местоположения ArchINFORM;1;1;from
+Q104746;Kronoberg County;Swedish National Archive ID;1;1;from
+Q104746;Kronoberg County;код лена;1;1;from
+Q104746;Kronoberg County;TORA ID;1;1;from
+Q104746;Kronoberg County;ID отношения в OpenStreetMap;1;1;from
+Q104746;Kronoberg County;место в MusicBrainz;1;1;from
+Q104746;Kronoberg County;место смерти;1;2;to
+Q104746;Kronoberg County;категория на Викискладе;1;1;from
+Q104877;Västerbotten County;государство;1;1;from
+Q104877;Västerbotten County;столица;1;1;from
+Q104877;Västerbotten County;это частный случай понятия;1;1;from
+Q104877;Västerbotten County;код LCNAF;1;1;from
+Q104877;Västerbotten County;карта местонахождения;1;1;from
+Q104877;Västerbotten County;описание герба;1;1;from
+Q104877;Västerbotten County;код VIAF;1;1;from
+Q104877;Västerbotten County;административно делится на;1;1;to
+Q104746;Kronoberg County;зона обслуживания;1;1;to
+Q104877;Västerbotten County;оператор;1;1;from
+Q104877;Västerbotten County;административно-территориальная единица;1;1440;to
+Q104746;Kronoberg County;является столицей;1;1;to
+Q104746;Kronoberg County;общая тема категории;1;1;to
+Q104746;Kronoberg County;юрисдикция распространяется на;1;1;to
+Q104746;Kronoberg County;категория объединяет темы;1;4;to
+Q104746;Kronoberg County;код автомобильного номера;1;1;from
+Q104746;Kronoberg County;код NE.se;1;1;from
+Q104891;Västernorrland County;часть от;1;4;from
+Q104746;Kronoberg County;административно-территориальная единица;1;297;to
+Q104746;Kronoberg County;код GND;1;1;from
+Q104746;Kronoberg County;код VIAF;1;1;from
+Q104746;Kronoberg County;изображение;1;1;from
+Q104746;Kronoberg County;государство;1;1;from
+Q104746;Kronoberg County;административно делится на;1;1;to
+Q104746;Kronoberg County;оператор;1;1;from
+Q104257;Örebro County;является столицей;1;1;to
+Q104746;Kronoberg County;карта местонахождения;1;1;from
+Q104257;Örebro County;юрисдикция распространяется на;1;1;to
+Q104257;Örebro County;общая тема категории;1;1;to
+Q104257;Örebro County;место рождения;1;1;to
+Q104257;Örebro County;зона обслуживания;1;1;to
+Q104257;Örebro County;основная тема;1;1;to
+Q104257;Örebro County;категория объединяет темы;1;4;to
+Q104746;Kronoberg County;описание герба;1;1;from
+Q104746;Kronoberg County;код LCNAF;1;1;from
+Q104746;Kronoberg County;ISO 3166-2;1;2;from
+Q104746;Kronoberg County;код в энциклопедии «Британника онлайн»;1;1;from
+Q104746;Kronoberg County;буквенный код шведского лена;1;1;from
+Q104746;Kronoberg County;площадь;1;6;from
+Q104746;Kronoberg County;код TGN;1;1;from
+Q104746;Kronoberg County;код GeoNames;1;1;from
+Q104746;Kronoberg County;категория для людей, умерших здесь;1;1;from
+Q104746;Kronoberg County;категория для людей, родившихся здесь;1;1;from
+Q104746;Kronoberg County;должность главы правительства;1;1;from
+Q104746;Kronoberg County;это частный случай понятия;1;1;from
+Q104746;Kronoberg County;численность населения;1;12;from
+Q104746;Kronoberg County;изображение герба;1;1;from
+Q104746;Kronoberg County;глава правительства;1;5;from
+Q104746;Kronoberg County;имеет границы с;1;5;to
+Q104746;Kronoberg County;изображение флага;1;1;from
+Q104746;Kronoberg County;столица;1;1;from
+Q104877;Västerbotten County;изображение флага;1;1;from
+Q104877;Västerbotten County;имеет границы с;1;4;to
+Q104877;Västerbotten County;изображение герба;1;1;from
+Q104891;Västernorrland County;код VIAF;1;1;from
+Q104891;Västernorrland County;столица;1;3;from
+Q104891;Västernorrland County;это частный случай понятия;1;1;from
+Q104891;Västernorrland County;код LCNAF;1;1;from
+Q104891;Västernorrland County;карта местонахождения;1;1;from
+Q104891;Västernorrland County;описание герба;1;1;from
+Q104891;Västernorrland County;код GND;1;1;from
+Q104891;Västernorrland County;государство;1;1;from
+Q104891;Västernorrland County;имеет границы с;1;3;to
+Q104891;Västernorrland County;административно делится на;1;1;to
+Q104891;Västernorrland County;административно-территориальная единица;1;591;to
+Q104877;Västerbotten County;является столицей;1;1;to
+Q104877;Västerbotten County;общая тема категории;1;1;to
+Q104877;Västerbotten County;юрисдикция распространяется на;1;1;to
+Q104877;Västerbotten County;категория объединяет темы;1;6;to
+Q104891;Västernorrland County;изображение флага;1;1;from
+Q104891;Västernorrland County;глава правительства;1;3;from
+Q104877;Västerbotten County;численность населения;1;10;from
+Q104891;Västernorrland County;код TGN;1;1;from
+Q104891;Västernorrland County;буквенный код шведского лена;1;1;from
+Q104891;Västernorrland County;код BNF;1;1;from
+Q104891;Västernorrland County;код BabelNet;1;1;from
+Q104891;Västernorrland County;код YSO;1;1;from
+Q104891;Västernorrland County;площадь;1;6;from
+Q104891;Västernorrland County;категория для людей, связанных с местностью;1;1;from
+Q104891;Västernorrland County;код GeoNames;1;1;from
+Q104891;Västernorrland County;изображение герба;1;1;from
+Q104891;Västernorrland County;категория для людей, умерших здесь;1;1;from
+Q104891;Västernorrland County;категория для людей, родившихся здесь;1;1;from
+Q104891;Västernorrland County;код в энциклопедии «Британника онлайн»;1;1;from
+Q104891;Västernorrland County;должность главы правительства;1;1;from
+Q104891;Västernorrland County;код в Большой каталанской энциклопедии;1;1;from
+Q104891;Västernorrland County;численность населения;1;10;from
+Q104877;Västerbotten County;зона обслуживания;1;1;to
+Q104877;Västerbotten County;основная тема;1;1;to
+Q104877;Västerbotten County;место рождения;1;2;to
+Q104877;Västerbotten County;код grid global research;1;1;from
+Q104877;Västerbotten County;категория на Викискладе;1;1;from
+Q104877;Västerbotten County;код темы Quora;1;1;from
+Q104877;Västerbotten County;код в Encyclopædia Universalis;1;1;from
+Q104877;Västerbotten County;ISO 3166-2;1;2;from
+Q104877;Västerbotten County;буквенный код шведского лена;1;1;from
+Q104877;Västerbotten County;код BabelNet;1;1;from
+Q104877;Västerbotten County;площадь;1;6;from
+Q104877;Västerbotten County;место в MusicBrainz;1;1;from
+Q104877;Västerbotten County;категория для людей, связанных с местностью;1;1;from
+Q104877;Västerbotten County;код GeoNames;1;1;from
+Q104877;Västerbotten County;категория для людей, умерших здесь;1;1;from
+Q104877;Västerbotten County;категория для людей, родившихся здесь;1;1;from
+Q104877;Västerbotten County;код в энциклопедии «Британника онлайн»;1;1;from
+Q104877;Västerbotten County;описывается в источниках;1;1;from
+Q104877;Västerbotten County;код автомобильного номера;1;1;from
+Q104877;Västerbotten County;ID отношения в OpenStreetMap;1;1;from
+Q104877;Västerbotten County;TORA ID;1;1;from
+Q104877;Västerbotten County;код лена;1;1;from
+Q104877;Västerbotten County;Swedish National Archive ID;1;1;from
+Q104877;Västerbotten County;дата основания/создания/возникновения;1;1;from
+Q104877;Västerbotten County;код NUTS;1;1;from
+Q104877;Västerbotten County;географические координаты;1;1;from
+Q104877;Västerbotten County;код Freebase;1;1;from
+Q104877;Västerbotten County;Who's on First ID;1;1;from
+Q104877;Västerbotten County;идентификатор ROR;1;1;from
+Q104877;Västerbotten County;категория карт на Викискладе;1;1;from
+Q104877;Västerbotten County;официальный сайт;1;1;from
+Q104877;Västerbotten County;FIPS 10-4 (страны и регионы);1;1;from
+Q104877;Västerbotten County;код SELIBR;1;1;from
+Q104877;Västerbotten County;основная категория по теме;1;1;from
+Q104877;Västerbotten County;баннер Викигида;1;1;from
+Q104257;Örebro County;находится в границах современной административной единицы;1;1;to
+Q104257;Örebro County;пример использования свойства;1;1;to
+Q104257;Örebro County;место в MusicBrainz;1;1;from
+Q104231;Stockholm County;это частный случай понятия;1;1;from
+Q104231;Stockholm County;численность населения;1;12;from
+Q104231;Stockholm County;изображение герба;1;1;from
+Q104231;Stockholm County;глава правительства;1;4;from
+Q104231;Stockholm County;имеет границы с;1;3;to
+Q104231;Stockholm County;изображение флага;1;1;from
+Q104231;Stockholm County;столица;1;1;from
+Q104231;Stockholm County;код LCNAF;1;1;from
+Q104231;Stockholm County;код в Большой каталанской энциклопедии;1;1;from
+Q104231;Stockholm County;карта местонахождения;1;1;from
+Q104231;Stockholm County;описание герба;1;1;from
+Q104231;Stockholm County;код GND;1;1;from
+Q104231;Stockholm County;код VIAF;1;1;from
+Q104231;Stockholm County;изображение;1;1;from
+Q104231;Stockholm County;государство;1;1;from
+Q104231;Stockholm County;Geokod;1;1;from
+Q104231;Stockholm County;должность главы правительства;1;1;from
+Q104231;Stockholm County;ID отношения в OpenStreetMap;1;1;from
+Q104231;Stockholm County;не путать с;1;1;to
+Q104231;Stockholm County;категория на Викискладе;1;1;from
+Q104231;Stockholm County;код Aftonbladet;1;1;from
+Q104231;Stockholm County;код NE.se;1;1;from
+Q104231;Stockholm County;ISO 3166-2;1;2;from
+Q104231;Stockholm County;буквенный код шведского лена;1;2;from
+Q104231;Stockholm County;площадь;1;8;from
+Q104231;Stockholm County;короткое название;1;1;from
+Q104231;Stockholm County;код в энциклопедии «Британника онлайн»;1;1;from
+Q104231;Stockholm County;категория для людей, связанных с местностью;1;1;from
+Q104231;Stockholm County;категория для людей, похороненных здесь;1;1;from
+Q104231;Stockholm County;название на языке оригинала;1;1;from
+Q104231;Stockholm County;код GeoNames;1;1;from
+Q104231;Stockholm County;категория для людей, умерших здесь;1;1;from
+Q104231;Stockholm County;категория для людей, родившихся здесь;1;1;from
+Q104231;Stockholm County;административно делится на;1;1;to
+Q104231;Stockholm County;оператор;1;1;from
+Q104231;Stockholm County;административно-территориальная единица;1;1752;to
+Q103738;Gotland County;категория на Викискладе;1;1;from
+Q103738;Gotland County;идентификатор местоположения ArchINFORM;1;1;from
+Q103738;Gotland County;Swedish National Archive ID;1;1;from
+Q103738;Gotland County;код лена;1;1;from
+Q103738;Gotland County;TORA ID;1;1;from
+Q103738;Gotland County;ID отношения в OpenStreetMap;1;1;from
+Q103738;Gotland County;код автомобильного номера;1;1;from
+Q103738;Gotland County;ISO 3166-2;1;2;from
+Q103738;Gotland County;является столицей;1;1;to
+Q103738;Gotland County;буквенный код шведского лена;1;1;from
+Q103738;Gotland County;площадь;1;6;from
+Q103738;Gotland County;высота над уровнем моря;1;1;from
+Q103738;Gotland County;категория для людей, связанных с местностью;1;1;from
+Q103738;Gotland County;код GeoNames;1;1;from
+Q103738;Gotland County;категория для людей, родившихся здесь;1;1;from
+Q103738;Gotland County;дата основания/создания/возникновения;1;1;from
+Q103738;Gotland County;код NUTS;1;1;from
+Q103738;Gotland County;географические координаты;1;1;from
+Q103738;Gotland County;код Freebase;1;1;from
+Q103738;Gotland County;Who's on First ID;1;1;from
+Q103738;Gotland County;официальный сайт;1;1;from
+Q103738;Gotland County;FIPS 10-4 (страны и регионы);1;1;from
+Q103738;Gotland County;основная категория по теме;1;1;from
+Q103738;Gotland County;баннер Викигида;1;1;from
+Q103738;Gotland County;место в MusicBrainz;1;1;from
+Q103738;Gotland County;dmoz;1;1;from
+Q103738;Gotland County;целевая аудитория;1;1;to
+Q103738;Gotland County;категория объединяет темы;1;4;to
+Q103738;Gotland County;место рождения;1;1;to
+Q103738;Gotland County;зона обслуживания;1;1;to
+Q103738;Gotland County;юрисдикция распространяется на;1;1;to
+Q103738;Gotland County;общая тема категории;1;1;to
+Q104231;Stockholm County;код автомобильного номера;1;1;from
+Q104231;Stockholm County;часовой пояс;1;1;from
+Q104257;Örebro County;основная категория по теме;1;1;from
+Q104257;Örebro County;код в Большой каталанской энциклопедии;1;1;from
+Q104257;Örebro County;площадь;1;6;from
+Q104257;Örebro County;код TGN;1;1;from
+Q104257;Örebro County;код GeoNames;1;1;from
+Q104257;Örebro County;категория для людей, родившихся здесь;1;1;from
+Q104257;Örebro County;код в энциклопедии «Британника онлайн»;1;1;from
+Q104257;Örebro County;описывается в источниках;1;1;from
+Q104257;Örebro County;численность населения;1;11;from
+Q104257;Örebro County;ISO 3166-2;1;2;from
+Q104257;Örebro County;изображение герба;1;1;from
+Q104257;Örebro County;глава правительства;1;3;from
+Q104257;Örebro County;имеет границы с;1;7;to
+Q104257;Örebro County;изображение флага;1;1;from
+Q104257;Örebro County;столица;1;1;from
+Q104257;Örebro County;это частный случай понятия;1;1;from
+Q104257;Örebro County;буквенный код шведского лена;1;1;from
+Q104257;Örebro County;код NE.se;1;1;from
+Q104231;Stockholm County;код в Большой норвежской энциклопедии;1;1;from
+Q104257;Örebro County;код NUTS;1;1;from
+Q104257;Örebro County;FIPS 10-4 (страны и регионы);1;1;from
+Q104257;Örebro County;официальный сайт;1;1;from
+Q104257;Örebro County;категория карт на Викискладе;1;1;from
+Q104257;Örebro County;Who's on First ID;1;1;from
+Q104257;Örebro County;код Freebase;1;1;from
+Q104257;Örebro County;географические координаты;1;1;from
+Q104257;Örebro County;дата основания/создания/возникновения;1;1;from
+Q104257;Örebro County;категория на Викискладе;1;1;from
+Q104257;Örebro County;идентификатор местоположения ArchINFORM;1;1;from
+Q104257;Örebro County;Swedish National Archive ID;1;1;from
+Q104257;Örebro County;код лена;1;1;from
+Q104257;Örebro County;TORA ID;1;1;from
+Q104257;Örebro County;ID отношения в OpenStreetMap;1;1;from
+Q104257;Örebro County;код автомобильного номера;1;1;from
+Q104257;Örebro County;код LCNAF;1;1;from
+Q104257;Örebro County;карта местонахождения;1;1;from
+Q104257;Örebro County;описание герба;1;1;from
+Q104231;Stockholm County;географические координаты;1;1;from
+Q104231;Stockholm County;основная категория по теме;1;1;from
+Q104231;Stockholm County;FIPS 10-4 (страны и регионы);1;1;from
+Q104231;Stockholm County;официальный сайт;1;1;from
+Q104231;Stockholm County;категория карт на Викискладе;1;1;from
+Q104231;Stockholm County;Who's on First ID;1;1;from
+Q104231;Stockholm County;код Freebase;1;1;from
+Q104231;Stockholm County;наивысшая точка;1;1;from
+Q104257;Örebro County;код GND;1;1;from
+Q104231;Stockholm County;код NUTS;1;1;from
+Q104231;Stockholm County;дата основания/создания/возникновения;1;1;from
+Q104231;Stockholm County;идентификатор местоположения ArchINFORM;1;1;from
+Q104231;Stockholm County;Swedish National Archive ID;1;1;from
+Q104231;Stockholm County;код лена;1;1;from
+Q104231;Stockholm County;TORA ID;1;1;from
+Q104231;Stockholm County;баннер Викигида;1;1;from
+Q104231;Stockholm County;место в MusicBrainz;1;1;from
+Q104231;Stockholm County;расположение штаб-квартиры;1;2;to
+Q104231;Stockholm County;место смерти;1;3;to
+Q104231;Stockholm County;зона обслуживания;1;1;to
+Q104231;Stockholm County;категория объединяет темы;1;8;to
+Q104231;Stockholm County;место рождения;1;4;to
+Q104231;Stockholm County;юрисдикция распространяется на;1;2;to
+Q104231;Stockholm County;часть от;1;1;to
+Q104231;Stockholm County;место активности;1;2;to
+Q104231;Stockholm County;общая тема категории;1;1;to
+Q104231;Stockholm County;является столицей;1;1;to
+Q104257;Örebro County;административно-территориальная единица;1;326;to
+Q104257;Örebro County;административно делится на;1;1;to
+Q104257;Örebro County;государство;1;1;from
+Q104257;Örebro County;изображение;1;1;from
+Q104257;Örebro County;код VIAF;1;1;from
+Q104891;Västernorrland County;ISO 3166-2;1;2;from
+Q104891;Västernorrland County;категория на Викискладе;1;1;from
+Q103738;Gotland County;численность населения;1;10;from
+Q106789;Värmland County;это частный случай понятия;1;1;from
+Q106789;Värmland County;код в энциклопедии «Британника онлайн»;1;1;from
+Q106789;Värmland County;численность населения;1;10;from
+Q106789;Värmland County;изображение герба;1;1;from
+Q106789;Värmland County;глава правительства;1;1;from
+Q106789;Värmland County;имеет границы с;1;8;to
+Q106789;Värmland County;столица;1;1;from
+Q106789;Värmland County;код LCNAF;1;1;from
+Q106789;Värmland County;код GeoNames;1;1;from
+Q106789;Värmland County;карта местонахождения;1;1;from
+Q106789;Värmland County;описание герба;1;1;from
+Q106789;Värmland County;код GND;1;1;from
+Q106789;Värmland County;код VIAF;1;1;from
+Q106789;Värmland County;изображение;1;1;from
+Q106789;Värmland County;государство;1;1;from
+Q106789;Värmland County;категория для людей, родившихся здесь;1;1;from
+Q106789;Värmland County;категория для людей, связанных с местностью;1;1;from
+Q106789;Värmland County;административно-территориальная единица;1;612;to
+Q106789;Värmland County;ID отношения в OpenStreetMap;1;1;from
+Q106789;Värmland County;код NUTS;1;1;from
+Q106789;Värmland County;дата основания/создания/возникновения;1;1;from
+Q106789;Värmland County;идентификатор местоположения ArchINFORM;1;1;from
+Q106789;Värmland County;Swedish National Archive ID;1;1;from
+Q106789;Värmland County;код лена;1;1;from
+Q106789;Värmland County;TORA ID;1;1;from
+Q106789;Värmland County;код автомобильного номера;1;1;from
+Q106789;Värmland County;площадь;1;6;from
+Q106789;Värmland County;категория на Викискладе;1;1;from
+Q106789;Värmland County;код темы Quora;1;1;from
+Q106789;Värmland County;ISO 3166-2;1;2;from
+Q106789;Värmland County;буквенный код шведского лена;1;1;from
+Q106789;Värmland County;код BNF;1;1;from
+Q106789;Värmland County;код YSO;1;1;from
+Q106789;Värmland County;административно делится на;1;1;to
+Q105075;Västmanland County;является столицей;1;1;to
+Q104891;Västernorrland County;код автомобильного номера;1;1;from
+Q105075;Västmanland County;код BNF;1;1;from
+Q105075;Västmanland County;TORA ID;1;1;from
+Q105075;Västmanland County;ID отношения в OpenStreetMap;1;1;from
+Q105075;Västmanland County;код автомобильного номера;1;1;from
+Q105075;Västmanland County;категория на Викискладе;1;1;from
+Q105075;Västmanland County;ISO 3166-2;1;2;from
+Q105075;Västmanland County;буквенный код шведского лена;1;1;from
+Q105075;Västmanland County;площадь;1;6;from
+Q105075;Västmanland County;Swedish National Archive ID;1;1;from
+Q105075;Västmanland County;категория для людей, связанных с местностью;1;1;from
+Q105075;Västmanland County;код GeoNames;1;1;from
+Q105075;Västmanland County;категория для людей, умерших здесь;1;1;from
+Q105075;Västmanland County;категория для людей, родившихся здесь;1;1;from
+Q105075;Västmanland County;код в энциклопедии «Британника онлайн»;1;1;from
+Q105075;Västmanland County;код в Большой каталанской энциклопедии;1;1;from
+Q105075;Västmanland County;код лена;1;1;from
+Q105075;Västmanland County;идентификатор местоположения ArchINFORM;1;1;from
+Q105075;Västmanland County;юрисдикция распространяется на;1;1;to
+Q105075;Västmanland County;основная категория по теме;1;1;from
+Q105075;Västmanland County;общая тема категории;1;1;to
+Q105075;Västmanland County;названо в честь;1;1;to
+Q105075;Västmanland County;категория объединяет темы;1;6;to
+Q105075;Västmanland County;зона обслуживания;1;1;to
+Q105075;Västmanland County;расположение штаб-квартиры;1;1;to
+Q105075;Västmanland County;место в MusicBrainz;1;1;from
+Q105075;Västmanland County;FIPS 10-4 (страны и регионы);1;1;from
+Q105075;Västmanland County;дата основания/создания/возникновения;1;1;from
+Q105075;Västmanland County;официальный сайт;1;1;from
+Q105075;Västmanland County;категория карт на Викискладе;1;1;from
+Q105075;Västmanland County;Who's on First ID;1;1;from
+Q105075;Västmanland County;код Freebase;1;1;from
+Q105075;Västmanland County;географические координаты;1;1;from
+Q105075;Västmanland County;код NUTS;1;1;from
+Q106789;Värmland County;географические координаты;1;1;from
+Q106789;Värmland County;код Freebase;1;1;from
+Q106789;Värmland County;Who's on First ID;1;1;from
+Q106915;Södermanland County;код автомобильного номера;1;1;from
+Q106915;Södermanland County;дата основания/создания/возникновения;1;1;from
+Q106915;Södermanland County;идентификатор местоположения ArchINFORM;1;1;from
+Q106915;Södermanland County;Swedish National Archive ID;1;1;from
+Q106915;Södermanland County;код лена;1;1;from
+Q106915;Södermanland County;TORA ID;1;1;from
+Q106915;Södermanland County;ID отношения в OpenStreetMap;1;1;from
+Q106915;Södermanland County;категория на Викискладе;1;1;from
+Q106915;Södermanland County;географические координаты;1;1;from
+Q106915;Södermanland County;ISO 3166-2;1;2;from
+Q106915;Södermanland County;буквенный код шведского лена;1;1;from
+Q106915;Södermanland County;код BNF;1;1;from
+Q106915;Södermanland County;площадь;1;6;from
+Q106915;Södermanland County;категория для людей, связанных с местностью;1;1;from
+Q106915;Södermanland County;код GeoNames;1;1;from
+Q106915;Södermanland County;код NUTS;1;1;from
+Q106915;Södermanland County;код Freebase;1;1;from
+Q106789;Värmland County;категория карт на Викискладе;1;1;from
+Q106915;Södermanland County;место рождения;1;5;to
+Q106915;Södermanland County;общая тема категории;1;1;to
+Q106915;Södermanland County;местонахождение;1;1;to
+Q106915;Södermanland County;юрисдикция распространяется на;1;1;to
+Q106915;Södermanland County;место смерти;1;1;to
+Q106915;Södermanland County;категория объединяет темы;1;7;to
+Q106915;Södermanland County;зона обслуживания;1;1;to
+Q106915;Södermanland County;следующее по порядку;1;3;to
+Q106915;Södermanland County;Who's on First ID;1;1;from
+Q106915;Södermanland County;названо в честь;1;1;to
+Q106915;Södermanland County;место в MusicBrainz;1;1;from
+Q106915;Södermanland County;основная категория по теме;1;1;from
+Q106915;Södermanland County;FIPS 10-4 (страны и регионы);1;1;from
+Q106915;Södermanland County;официальный сайт;1;1;from
+Q106915;Södermanland County;категория карт на Викискладе;1;1;from
+Q106915;Södermanland County;категория для людей, умерших здесь;1;1;from
+Q106915;Södermanland County;категория для людей, родившихся здесь;1;1;from
+Q106915;Södermanland County;код в энциклопедии «Британника онлайн»;1;1;from
+Q106789;Värmland County;зона обслуживания;1;1;to
+Q106915;Södermanland County;административно-территориальная единица;1;442;to
+Q106789;Värmland County;является столицей;1;1;to
+Q106789;Värmland County;юрисдикция распространяется на;1;1;to
+Q106789;Värmland County;расположение штаб-квартиры;1;1;to
+Q106789;Värmland County;общая тема категории;1;1;to
+Q106789;Värmland County;категория объединяет темы;1;5;to
+Q106789;Värmland County;история происходит в месте;1;1;to
+Q106915;Södermanland County;код в Большой каталанской энциклопедии;1;1;from
+Q106789;Värmland County;место рождения;1;4;to
+Q106789;Värmland County;часть от;1;2;to
+Q106789;Värmland County;место в MusicBrainz;1;1;from
+Q106789;Värmland County;основная категория по теме;1;1;from
+Q106789;Värmland County;FIPS 10-4 (страны и регионы);1;1;from
+Q106789;Värmland County;официальный сайт;1;1;from
+Q106915;Södermanland County;оператор;1;1;from
+Q106915;Södermanland County;административно делится на;1;1;to
+Q106915;Södermanland County;предыдущее по порядку;1;3;from
+Q106915;Södermanland County;государство;1;1;from
+Q106915;Södermanland County;изображение;1;1;from
+Q106915;Södermanland County;код ISNI;1;1;from
+Q106915;Södermanland County;код VIAF;1;1;from
+Q106915;Södermanland County;код GND;1;1;from
+Q106915;Södermanland County;описание герба;1;1;from
+Q106915;Södermanland County;карта местонахождения;1;1;from
+Q106915;Södermanland County;это частный случай понятия;1;1;from
+Q106915;Södermanland County;столица;1;1;from
+Q106915;Södermanland County;изображение флага;1;1;from
+Q106915;Södermanland County;имеет границы с;1;5;to
+Q106915;Södermanland County;глава правительства;1;2;from
+Q106915;Södermanland County;изображение герба;1;1;from
+Q106915;Södermanland County;численность населения;1;12;from
+Q105075;Västmanland County;численность населения;1;10;from
+Q105075;Västmanland County;изображение герба;1;1;from
+Q105075;Västmanland County;глава правительства;1;1;from
+Q104926;Uppsala County;официальное название;1;1;from
+Q104926;Uppsala County;площадь;1;7;from
+Q104926;Uppsala County;категория для людей, связанных с местностью;1;1;from
+Q104926;Uppsala County;код TGN;1;1;from
+Q104926;Uppsala County;код GeoNames;1;1;from
+Q104926;Uppsala County;категория для людей, умерших здесь;1;1;from
+Q104926;Uppsala County;категория для людей, родившихся здесь;1;1;from
+Q104926;Uppsala County;код в энциклопедии «Британника онлайн»;1;1;from
+Q104926;Uppsala County;ISO 3166-2;1;2;from
+Q104926;Uppsala County;должность главы правительства;1;1;from
+Q104926;Uppsala County;код в Большой каталанской энциклопедии;1;1;from
+Q104926;Uppsala County;численность населения;1;12;from
+Q104926;Uppsala County;изображение герба;1;1;from
+Q104926;Uppsala County;глава правительства;1;2;from
+Q104926;Uppsala County;имеет границы с;1;6;to
+Q104926;Uppsala County;буквенный код шведского лена;1;1;from
+Q104926;Uppsala County;категория на Викискладе;1;1;from
+Q104926;Uppsala County;место в MusicBrainz;1;1;from
+Q104926;Uppsala County;географические координаты;1;1;from
+Q104926;Uppsala County;основная категория по теме;1;1;from
+Q104926;Uppsala County;FIPS 10-4 (страны и регионы);1;1;from
+Q104926;Uppsala County;официальный сайт;1;1;from
+Q104926;Uppsala County;категория карт на Викискладе;1;1;from
+Q104926;Uppsala County;Who's on First ID;1;1;from
+Q104926;Uppsala County;код Freebase;1;1;from
+Q104926;Uppsala County;код NUTS;1;1;from
+Q104926;Uppsala County;код автомобильного номера;1;1;from
+Q104926;Uppsala County;дата основания/создания/возникновения;1;1;from
+Q104926;Uppsala County;идентификатор местоположения ArchINFORM;1;1;from
+Q104926;Uppsala County;Swedish National Archive ID;1;1;from
+Q104926;Uppsala County;код лена;1;1;from
+Q104926;Uppsala County;TORA ID;1;1;from
+Q104926;Uppsala County;ID отношения в OpenStreetMap;1;1;from
+Q104926;Uppsala County;изображение флага;1;1;from
+Q104926;Uppsala County;столица;1;1;from
+Q104926;Uppsala County;это частный случай понятия;1;1;from
+Q104891;Västernorrland County;географические координаты;1;1;from
+Q104891;Västernorrland County;основная категория по теме;1;1;from
+Q104891;Västernorrland County;FIPS 10-4 (страны и регионы);1;1;from
+Q104891;Västernorrland County;официальный сайт;1;1;from
+Q104891;Västernorrland County;категория карт на Викискладе;1;1;from
+Q104891;Västernorrland County;Who's on First ID;1;1;from
+Q104891;Västernorrland County;код Freebase;1;1;from
+Q104891;Västernorrland County;код NUTS;1;1;from
+Q104926;Uppsala County;код LCNAF;1;1;from
+Q104891;Västernorrland County;дата основания/создания/возникновения;1;1;from
+Q104891;Västernorrland County;идентификатор местоположения ArchINFORM;1;1;from
+Q104891;Västernorrland County;Swedish National Archive ID;1;1;from
+Q104891;Västernorrland County;код лена;1;1;from
+Q104891;Västernorrland County;TORA ID;1;1;from
+Q104891;Västernorrland County;ID отношения в OpenStreetMap;1;1;from
+Q104891;Västernorrland County;баннер Викигида;1;1;from
+Q104891;Västernorrland County;место в MusicBrainz;1;1;from
+Q104891;Västernorrland County;пример использования свойства;1;1;to
+Q104891;Västernorrland County;место смерти;1;2;to
+Q104891;Västernorrland County;место рождения;1;5;to
+Q104891;Västernorrland County;категория объединяет темы;1;6;to
+Q104891;Västernorrland County;зона обслуживания;1;1;to
+Q104891;Västernorrland County;является столицей;1;2;to
+Q104891;Västernorrland County;юрисдикция распространяется на;1;1;to
+Q104891;Västernorrland County;общая тема категории;1;1;to
+Q104926;Uppsala County;административно-территориальная единица;1;541;to
+Q104926;Uppsala County;административно делится на;1;1;to
+Q104926;Uppsala County;государство;1;1;from
+Q104926;Uppsala County;код VIAF;1;1;from
+Q104926;Uppsala County;код GND;1;1;from
+Q104926;Uppsala County;описание герба;1;1;from
+Q104926;Uppsala County;карта местонахождения;1;1;from
+Q104926;Uppsala County;баннер Викигида;1;1;from
+Q104926;Uppsala County;юрисдикция распространяется на;1;1;to
+Q105075;Västmanland County;имеет границы с;1;5;to
+Q104940;Östergötland County;географические координаты;1;1;from
+Q104940;Östergötland County;FIPS 10-4 (страны и регионы);1;1;from
+Q104940;Östergötland County;официальный сайт;1;1;from
+Q104940;Östergötland County;категория карт на Викискладе;1;1;from
+Q104940;Östergötland County;NAD place ID;1;1;from
+Q104940;Östergötland County;Who's on First ID;1;1;from
+Q104940;Östergötland County;код Freebase;1;1;from
+Q104940;Östergötland County;код NUTS;1;1;from
+Q104940;Östergötland County;место в MusicBrainz;1;1;from
+Q104940;Östergötland County;дата основания/создания/возникновения;1;1;from
+Q104940;Östergötland County;идентификатор местоположения ArchINFORM;1;1;from
+Q104940;Östergötland County;Swedish National Archive ID;1;1;from
+Q104940;Östergötland County;код лена;1;1;from
+Q104940;Östergötland County;TORA ID;1;1;from
+Q104940;Östergötland County;ID отношения в OpenStreetMap;1;1;from
+Q104940;Östergötland County;основная категория по теме;1;1;from
+Q104940;Östergötland County;зона обслуживания;1;1;to
+Q104926;Uppsala County;категория объединяет темы;1;6;to
+Q105075;Västmanland County;код GND;1;1;from
+Q105075;Västmanland County;изображение флага;1;1;from
+Q105075;Västmanland County;столица;1;1;from
+Q105075;Västmanland County;это частный случай понятия;1;1;from
+Q105075;Västmanland County;код LCNAF;1;1;from
+Q105075;Västmanland County;карта местонахождения;1;1;from
+Q105075;Västmanland County;описание герба;1;1;from
+Q105075;Västmanland County;код VIAF;1;1;from
+Q104940;Östergötland County;категория объединяет темы;1;7;to
+Q105075;Västmanland County;государство;1;1;from
+Q105075;Västmanland County;административно делится на;1;1;to
+Q105075;Västmanland County;административно-территориальная единица;1;273;to
+Q104940;Östergötland County;общая тема категории;1;1;to
+Q104940;Östergötland County;юрисдикция распространяется на;1;1;to
+Q104940;Östergötland County;место рождения;1;5;to
+Q104940;Östergötland County;код автомобильного номера;1;1;from
+Q104940;Östergötland County;категория на Викискладе;1;1;from
+Q104940;Östergötland County;ISO 3166-2;1;2;from
+Q104940;Östergötland County;административно делится на;1;1;to
+Q104940;Östergötland County;карта местонахождения;1;1;from
+Q104940;Östergötland County;описание герба;1;1;from
+Q104940;Östergötland County;код GND;1;1;from
+Q104940;Östergötland County;код VIAF;1;1;from
+Q104940;Östergötland County;изображение;1;1;from
+Q104940;Östergötland County;государство;1;1;from
+Q104940;Östergötland County;административно-территориальная единица;1;814;to
+Q104940;Östergötland County;буквенный код шведского лена;1;1;from
+Q104926;Uppsala County;является столицей;1;1;to
+Q104926;Uppsala County;общая тема категории;1;1;to
+Q104926;Uppsala County;расположение штаб-квартиры;1;1;to
+Q104926;Uppsala County;место рождения;1;1;to
+Q104926;Uppsala County;часть от;1;1;to
+Q104926;Uppsala County;зона обслуживания;1;1;to
+Q104940;Östergötland County;код LCNAF;1;1;from
+Q104940;Östergötland County;это частный случай понятия;1;1;from
+Q104940;Östergötland County;столица;1;1;from
+Q104940;Östergötland County;изображение флага;1;1;from
+Q104940;Östergötland County;имеет границы с;1;5;to
+Q104940;Östergötland County;глава правительства;1;1;from
+Q104940;Östergötland County;изображение герба;1;1;from
+Q104940;Östergötland County;численность населения;1;13;from
+Q104940;Östergötland County;должность главы правительства;1;1;from
+Q104940;Östergötland County;код в энциклопедии «Британника онлайн»;1;1;from
+Q104940;Östergötland County;категория для людей, родившихся здесь;1;1;from
+Q104940;Östergötland County;категория для людей, умерших здесь;1;1;from
+Q104940;Östergötland County;код GeoNames;1;1;from
+Q104940;Östergötland County;категория для людей, похороненных здесь;1;1;from
+Q104940;Östergötland County;категория для людей, связанных с местностью;1;1;from
+Q104940;Östergötland County;площадь;1;6;from
+Q104940;Östergötland County;код BNF;1;1;from
+Q103738;Gotland County;должность главы правительства;1;1;from
+Q103738;Gotland County;изображение герба;1;1;from
+Q102377;Blekinge County;оператор;1;1;from
+Q103672;Jönköping County;категория для людей, родившихся здесь;1;1;from
+Q103672;Jönköping County;буквенный код шведского лена;1;1;from
+Q103672;Jönköping County;код grid global research;1;1;from
+Q103672;Jönköping County;площадь;1;6;from
+Q103672;Jönköping County;категория для людей, связанных с местностью;1;1;from
+Q103672;Jönköping County;код TGN;1;1;from
+Q103672;Jönköping County;код GeoNames;1;1;from
+Q103672;Jönköping County;код в энциклопедии «Британника онлайн»;1;1;from
+Q103672;Jönköping County;код NE.se;1;1;from
+Q103672;Jönköping County;должность главы правительства;1;1;from
+Q103672;Jönköping County;код в Большой каталанской энциклопедии;1;1;from
+Q103672;Jönköping County;численность населения;1;12;from
+Q103672;Jönköping County;изображение герба;1;1;from
+Q103672;Jönköping County;глава правительства;1;6;from
+Q103672;Jönköping County;имеет границы с;1;5;to
+Q103672;Jönköping County;ISO 3166-2;1;2;from
+Q103672;Jönköping County;EU VAT number;1;1;from
+Q103672;Jönköping County;столица;1;1;from
+Q103672;Jönköping County;EU Research participant ID;1;1;from
+Q103672;Jönköping County;категория карт на Викискладе;1;1;from
+Q103672;Jönköping County;идентификатор ROR;1;1;from
+Q103672;Jönköping County;Who's on First ID;1;1;from
+Q103672;Jönköping County;код Freebase;1;1;from
+Q103672;Jönköping County;географические координаты;1;1;from
+Q103672;Jönköping County;код NUTS;1;1;from
+Q103672;Jönköping County;дата основания/создания/возникновения;1;1;from
+Q103672;Jönköping County;категория на Викискладе;1;1;from
+Q103672;Jönköping County;идентификатор местоположения ArchINFORM;1;1;from
+Q103672;Jönköping County;Swedish National Archive ID;1;1;from
+Q103672;Jönköping County;код лена;1;1;from
+Q103672;Jönköping County;TORA ID;1;1;from
+Q103672;Jönköping County;ID отношения в OpenStreetMap;1;1;from
+Q103672;Jönköping County;код автомобильного номера;1;1;from
+Q103672;Jönköping County;изображение флага;1;1;from
+Q103672;Jönköping County;это частный случай понятия;1;1;from
+Q103686;Norrbotten County;код GND;1;1;from
+Q103659;Skåne County;FIPS 10-4 (страны и регионы);1;1;from
+Q103659;Skåne County;основатель;1;1;to
+Q103659;Skåne County;расположение штаб-квартиры;1;1;to
+Q103659;Skåne County;место рождения;1;9;to
+Q103659;Skåne County;названо в честь;1;1;to
+Q103659;Skåne County;место в MusicBrainz;1;1;from
+Q103659;Skåne County;основная категория по теме;1;1;from
+Q103659;Skåne County;официальный сайт;1;1;from
+Q103659;Skåne County;зона обслуживания;1;1;to
+Q103659;Skåne County;Who's on First ID;1;1;from
+Q103659;Skåne County;код Freebase;1;1;from
+Q103659;Skåne County;географические координаты;1;1;from
+Q103659;Skåne County;код NUTS;1;1;from
+Q103659;Skåne County;дата основания/создания/возникновения;1;1;from
+Q103659;Skåne County;идентификатор местоположения ArchINFORM;1;1;from
+Q103659;Skåne County;место смерти;1;1;to
+Q103659;Skåne County;категория объединяет темы;1;6;to
+Q103672;Jönköping County;код LCNAF;1;1;from
+Q103672;Jönköping County;оператор;1;1;from
+Q103672;Jönköping County;карта местонахождения;1;1;from
+Q103672;Jönköping County;описание герба;1;1;from
+Q103672;Jönköping County;код VIAF;1;1;from
+Q103672;Jönköping County;изображение;1;1;from
+Q103672;Jönköping County;государство;1;1;from
+Q103672;Jönköping County;административно делится на;1;1;to
+Q103672;Jönköping County;административно-территориальная единица;1;415;to
+Q103659;Skåne County;место погребения;1;1;to
+Q103659;Skåne County;является столицей;1;1;to
+Q103659;Skåne County;общая тема категории;1;1;to
+Q103659;Skåne County;юрисдикция распространяется на;1;2;to
+Q103659;Skåne County;основная тема;1;2;to
+Q103659;Skåne County;следующее по порядку;1;2;to
+Q103659;Skåne County;состоит из;1;1;to
+Q103672;Jönköping County;официальный сайт;1;1;from
+Q103672;Jönköping County;FIPS 10-4 (страны и регионы);1;1;from
+Q103672;Jönköping County;основная категория по теме;1;1;from
+Q103679;Jämtland County;код лена;1;1;from
+Q103679;Jämtland County;код Freebase;1;1;from
+Q103679;Jämtland County;географические координаты;1;1;from
+Q103679;Jämtland County;код NUTS;1;1;from
+Q103679;Jämtland County;дата основания/создания/возникновения;1;1;from
+Q103679;Jämtland County;идентификатор местоположения ArchINFORM;1;1;from
+Q103679;Jämtland County;Swedish National Archive ID;1;1;from
+Q103679;Jämtland County;TORA ID;1;1;from
+Q103679;Jämtland County;официальный сайт;1;1;from
+Q103679;Jämtland County;код в Большой норвежской энциклопедии;1;1;from
+Q103679;Jämtland County;ID отношения в OpenStreetMap;1;1;from
+Q103679;Jämtland County;код автомобильного номера;1;1;from
+Q103679;Jämtland County;категория на Викискладе;1;1;from
+Q103679;Jämtland County;код темы Quora;1;2;from
+Q103679;Jämtland County;код NE.se;1;1;from
+Q103679;Jämtland County;Who's on First ID;1;1;from
+Q103679;Jämtland County;FIPS 10-4 (страны и регионы);1;1;from
+Q103672;Jönköping County;место в MusicBrainz;1;1;from
+Q103679;Jämtland County;юрисдикция распространяется на;1;1;to
+Q103686;Norrbotten County;изображение;1;1;from
+Q103686;Norrbotten County;государство;1;1;from
+Q103686;Norrbotten County;административно делится на;1;1;to
+Q103686;Norrbotten County;административно-территориальная единица;1;2774;to
+Q103679;Jämtland County;является столицей;1;1;to
+Q103679;Jämtland County;общая тема категории;1;1;to
+Q103679;Jämtland County;категория объединяет темы;1;4;to
+Q103679;Jämtland County;основная категория по теме;1;1;from
+Q103679;Jämtland County;зона обслуживания;1;1;to
+Q103679;Jämtland County;основная тема;1;2;to
+Q103679;Jämtland County;часть от;1;1;to
+Q103679;Jämtland County;место рождения;1;6;to
+Q103679;Jämtland County;место в MusicBrainz;1;1;from
+Q103679;Jämtland County;баннер Викигида;1;1;from
+Q103679;Jämtland County;ISO 3166-2;1;2;from
+Q103679;Jämtland County;буквенный код шведского лена;1;1;from
+Q103679;Jämtland County;площадь;1;6;from
+Q103672;Jönköping County;является столицей;1;1;to
+Q103679;Jämtland County;код VIAF;1;1;from
+Q103679;Jämtland County;изображение;1;1;from
+Q103679;Jämtland County;государство;1;1;from
+Q103679;Jämtland County;административно делится на;1;1;to
+Q103679;Jämtland County;оператор;1;1;from
+Q103679;Jämtland County;административно-территориальная единица;1;1029;to
+Q103672;Jönköping County;общая тема категории;1;1;to
+Q103679;Jämtland County;высота над уровнем моря;1;1;from
+Q103672;Jönköping County;юрисдикция распространяется на;1;1;to
+Q103672;Jönköping County;зона обслуживания;1;1;to
+Q103672;Jönköping County;место рождения;1;9;to
+Q103672;Jönköping County;место смерти;1;1;to
+Q103672;Jönköping County;категория объединяет темы;1;8;to
+Q103672;Jönköping County;расположение штаб-квартиры;1;1;to
+Q103679;Jämtland County;код GND;1;1;from
+Q103679;Jämtland County;описание герба;1;1;from
+Q103679;Jämtland County;карта местонахождения;1;1;from
+Q103679;Jämtland County;код LCNAF;1;1;from
+Q103679;Jämtland County;это частный случай понятия;1;1;from
+Q103679;Jämtland County;столица;1;1;from
+Q103679;Jämtland County;изображение флага;1;1;from
+Q103679;Jämtland County;имеет границы с;1;9;to
+Q103679;Jämtland County;глава правительства;1;1;from
+Q103679;Jämtland County;изображение герба;1;1;from
+Q103679;Jämtland County;численность населения;1;10;from
+Q103679;Jämtland County;должность главы правительства;1;1;from
+Q103679;Jämtland County;описывается в источниках;1;1;from
+Q103679;Jämtland County;код в энциклопедии «Британника онлайн»;1;1;from
+Q103679;Jämtland County;категория для людей, родившихся здесь;1;1;from
+Q103679;Jämtland County;код GeoNames;1;1;from
+Q103679;Jämtland County;категория для людей, связанных с местностью;1;1;from
+Q103659;Skåne County;код лена;1;1;from
+Q103659;Skåne County;часовой пояс;1;2;from
+Q103659;Skåne County;ID отношения в OpenStreetMap;1;1;from
+Q102377;Blekinge County;категория объединяет темы;1;2;to
+Q103093;Västra Götaland County;административно-территориальная единица;1;1431;to
+Q102377;Blekinge County;является столицей;1;1;to
+Q102377;Blekinge County;общая тема категории;1;1;to
+Q102377;Blekinge County;юрисдикция распространяется на;1;1;to
+Q102377;Blekinge County;место рождения;1;1;to
+Q102377;Blekinge County;зона обслуживания;1;1;to
+Q102377;Blekinge County;производитель;1;1;to
+Q103093;Västra Götaland County;предыдущее по порядку;1;1;from
+Q102377;Blekinge County;dmoz;1;1;from
+Q102377;Blekinge County;место в MusicBrainz;1;1;from
+Q102377;Blekinge County;баннер Викигида;1;1;from
+Q102377;Blekinge County;основная категория по теме;1;1;from
+Q102377;Blekinge County;FIPS 10-4 (страны и регионы);1;1;from
+Q102377;Blekinge County;официальный сайт;1;1;from
+Q103093;Västra Götaland County;административно делится на;1;1;to
+Q103093;Västra Götaland County;государство;1;1;from
+Q103093;Västra Götaland County;категория для людей, умерших здесь;1;1;from
+Q103093;Västra Götaland County;столица;1;1;from
+Q103093;Västra Götaland County;код в энциклопедии «Британника онлайн»;1;1;from
+Q103093;Västra Götaland County;численность населения;1;10;from
+Q103093;Västra Götaland County;изображение герба;1;1;from
+Q103093;Västra Götaland County;глава правительства;1;2;from
+Q103093;Västra Götaland County;имеет границы с;1;7;to
+Q103093;Västra Götaland County;изображение флага;1;1;from
+Q103093;Västra Götaland County;это частный случай понятия;1;1;from
+Q103093;Västra Götaland County;изображение;1;1;from
+Q103093;Västra Götaland County;код LCNAF;1;1;from
+Q103093;Västra Götaland County;карта местонахождения;1;1;from
+Q103093;Västra Götaland County;описание герба;1;1;from
+Q103093;Västra Götaland County;код GND;1;1;from
+Q103093;Västra Götaland County;код VIAF;1;1;from
+Q103093;Västra Götaland County;город-побратим;1;1;to
+Q102377;Blekinge County;Who's on First ID;1;1;from
+Q102377;Blekinge County;код Freebase;1;1;from
+Q102377;Blekinge County;географические координаты;1;1;from
+Q102377;Blekinge County;это частный случай понятия;1;1;from
+Q102377;Blekinge County;код в энциклопедии «Британника онлайн»;1;1;from
+Q102377;Blekinge County;численность населения;1;10;from
+Q102377;Blekinge County;изображение герба;1;1;from
+Q102377;Blekinge County;глава правительства;1;1;from
+Q102377;Blekinge County;имеет границы с;1;3;to
+Q102377;Blekinge County;столица;1;1;from
+Q102377;Blekinge County;код LCNAF;1;1;from
+Q102377;Blekinge County;код NUTS;1;1;from
+Q102377;Blekinge County;карта местонахождения;1;1;from
+Q102377;Blekinge County;описание герба;1;1;from
+Q102377;Blekinge County;код VIAF;1;1;from
+Q102377;Blekinge County;изображение;1;1;from
+Q102377;Blekinge County;государство;1;1;from
+Q102377;Blekinge County;административно делится на;1;1;to
+Q102377;Blekinge County;категория для людей, родившихся здесь;1;1;from
+Q102377;Blekinge County;категория для людей, умерших здесь;1;1;from
+Q102377;Blekinge County;код GeoNames;1;1;from
+Q102377;Blekinge County;высота над уровнем моря;1;1;from
+Q102377;Blekinge County;площадь;1;6;from
+Q102377;Blekinge County;код BNF;1;1;from
+Q102377;Blekinge County;буквенный код шведского лена;1;1;from
+Q102377;Blekinge County;ISO 3166-2;1;2;from
+Q102377;Blekinge County;код темы Quora;1;1;from
+Q102377;Blekinge County;категория на Викискладе;1;1;from
+Q102377;Blekinge County;код автомобильного номера;1;1;from
+Q102377;Blekinge County;ID отношения в OpenStreetMap;1;1;from
+Q102377;Blekinge County;TORA ID;1;1;from
+Q102377;Blekinge County;код лена;1;1;from
+Q102377;Blekinge County;Swedish National Archive ID;1;1;from
+Q102377;Blekinge County;идентификатор местоположения ArchINFORM;1;1;from
+Q102377;Blekinge County;дата основания/создания/возникновения;1;1;from
+Q103093;Västra Götaland County;категория для людей, родившихся здесь;1;1;from
+Q103093;Västra Götaland County;код GeoNames;1;1;from
+Q103659;Skåne County;код автомобильного номера;1;1;from
+Q103659;Skåne County;карта местонахождения;1;1;from
+Q103659;Skåne County;глава правительства;1;3;from
+Q103659;Skåne County;имеет границы с;1;5;to
+Q103659;Skåne County;изображение флага;1;1;from
+Q103659;Skåne County;столица;1;1;from
+Q103659;Skåne County;это частный случай понятия;1;1;from
+Q103659;Skåne County;код LCNAF;1;1;from
+Q103659;Skåne County;описание герба;1;1;from
+Q103659;Skåne County;численность населения;1;11;from
+Q103659;Skåne County;код VIAF;1;1;from
+Q103659;Skåne County;государство;1;1;from
+Q103659;Skåne County;предыдущее по порядку;1;2;from
+Q103659;Skåne County;административно делится на;1;1;to
+Q103659;Skåne County;административно-территориальная единица;1;222;to
+Q103093;Västra Götaland County;местонахождение;1;1;to
+Q103659;Skåne County;изображение герба;1;1;from
+Q103659;Skåne County;код в энциклопедии «Британника онлайн»;1;1;from
+Q103093;Västra Götaland County;код TGN;1;1;from
+Q103659;Skåne County;код BNF;1;1;from
+Q103659;Skåne County;категория на Викискладе;1;1;from
+Q103659;Skåne County;часть от;1;1;from
+Q103659;Skåne County;код темы Quora;1;1;from
+Q103659;Skåne County;код NE.se;1;1;from
+Q103659;Skåne County;ISO 3166-2;1;2;from
+Q103659;Skåne County;буквенный код шведского лена;1;1;from
+Q103659;Skåne County;код BabelNet;1;1;from
+Q103659;Skåne County;категория для людей, родившихся здесь;1;1;from
+Q103659;Skåne County;площадь;1;6;from
+Q103659;Skåne County;позиционная карта;1;1;from
+Q103659;Skåne County;не путать с;1;1;to
+Q103659;Skåne County;категория для людей, связанных с местностью;1;1;from
+Q103659;Skåne County;код GeoNames;1;2;from
+Q103659;Skåne County;категория для людей, умерших здесь;1;1;from
+Q103093;Västra Götaland County;является столицей;1;1;to
+Q103093;Västra Götaland County;владельцем является;1;1;to
+Q103093;Västra Götaland County;общая тема категории;1;1;to
+Q103093;Västra Götaland County;категория на Викискладе;1;1;from
+Q103093;Västra Götaland County;географические координаты;1;1;from
+Q103093;Västra Götaland County;код NUTS;1;1;from
+Q103093;Västra Götaland County;дата основания/создания/возникновения;1;1;from
+Q103093;Västra Götaland County;идентификатор местоположения ArchINFORM;1;1;from
+Q103093;Västra Götaland County;код лена;1;1;from
+Q103093;Västra Götaland County;ID отношения в OpenStreetMap;1;1;from
+Q103093;Västra Götaland County;код Aftonbladet;1;1;from
+Q103093;Västra Götaland County;юрисдикция распространяется на;1;1;to
+Q103093;Västra Götaland County;ISO 3166-2;1;2;from
+Q103093;Västra Götaland County;буквенный код шведского лена;1;1;from
+Q103093;Västra Götaland County;площадь;1;6;from
+Q103093;Västra Götaland County;владеет;1;1;from
+Q103093;Västra Götaland County;категория для людей, связанных с местностью;1;1;from
+Q103093;Västra Götaland County;категория для людей, похороненных здесь;1;1;from
+Q103093;Västra Götaland County;код Freebase;1;1;from
+Q103093;Västra Götaland County;Who's on First ID;1;1;from
+Q103093;Västra Götaland County;категория карт на Викискладе;1;1;from
+Q103093;Västra Götaland County;официальный сайт;1;1;from
+Q103093;Västra Götaland County;FIPS 10-4 (страны и регионы);1;1;from
+Q103093;Västra Götaland County;основная категория по теме;1;1;from
+Q103093;Västra Götaland County;место в MusicBrainz;1;1;from
+Q103093;Västra Götaland County;пример использования свойства;1;1;to
+Q103093;Västra Götaland County;место съёмок;1;1;to
+Q103093;Västra Götaland County;расположение штаб-квартиры;1;3;to
+Q103093;Västra Götaland County;место рождения;1;8;to
+Q103093;Västra Götaland County;категория объединяет темы;1;6;to
+Q103093;Västra Götaland County;следующее по порядку;1;2;to
+Q103093;Västra Götaland County;зона обслуживания;1;1;to
+Q103093;Västra Götaland County;место смерти;1;3;to
+Q103093;Västra Götaland County;место создания;1;1;to
+Q103093;Västra Götaland County;заменён на;1;1;to
+Q103686;Norrbotten County;код VIAF;1;1;from
+Q103686;Norrbotten County;описание герба;1;1;from
+Q103738;Gotland County;глава правительства;1;1;from
+Q103707;Kalmar County;ID отношения в OpenStreetMap;1;1;from
+Q103707;Kalmar County;дата основания/создания/возникновения;1;1;from
+Q103707;Kalmar County;идентификатор местоположения ArchINFORM;1;1;from
+Q103707;Kalmar County;Swedish National Archive ID;1;1;from
+Q103707;Kalmar County;код лена;1;1;from
+Q103707;Kalmar County;TORA ID;1;1;from
+Q103707;Kalmar County;часовой пояс;1;2;from
+Q103707;Kalmar County;код автомобильного номера;1;1;from
+Q103707;Kalmar County;географические координаты;1;1;from
+Q103707;Kalmar County;категория на Викискладе;1;1;from
+Q103707;Kalmar County;ISO 3166-2;1;2;from
+Q103707;Kalmar County;буквенный код шведского лена;1;1;from
+Q103707;Kalmar County;площадь;1;6;from
+Q103707;Kalmar County;категория для людей, связанных с местностью;1;1;from
+Q103707;Kalmar County;название на языке оригинала;1;1;from
+Q103707;Kalmar County;код NUTS;1;1;from
+Q103707;Kalmar County;код Freebase;1;1;from
+Q103707;Kalmar County;код GeoNames;1;1;from
+Q103707;Kalmar County;ответственность несёт;1;1;to
+Q103707;Kalmar County;является столицей;1;1;to
+Q103707;Kalmar County;общая тема категории;1;1;to
+Q103707;Kalmar County;юрисдикция распространяется на;1;1;to
+Q103707;Kalmar County;заменён на;1;1;to
+Q103707;Kalmar County;зона обслуживания;1;1;to
+Q103707;Kalmar County;основная тема;1;1;to
+Q103707;Kalmar County;категория объединяет темы;1;5;to
+Q103707;Kalmar County;Who's on First ID;1;1;from
+Q103707;Kalmar County;место рождения;1;4;to
+Q103707;Kalmar County;место в MusicBrainz;1;1;from
+Q103707;Kalmar County;основная категория по теме;1;1;from
+Q103707;Kalmar County;FIPS 10-4 (страны и регионы);1;1;from
+Q103707;Kalmar County;официальный сайт;1;1;from
+Q103707;Kalmar County;категория карт на Викискладе;1;1;from
+Q103707;Kalmar County;код TGN;1;1;from
+Q103707;Kalmar County;категория для людей, родившихся здесь;1;1;from
+Q103686;Norrbotten County;карта местонахождения;1;1;from
+Q103699;Gävleborg County;зона обслуживания;1;1;to
+Q103699;Gävleborg County;является столицей;1;1;to
+Q103699;Gävleborg County;общая тема категории;1;1;to
+Q103699;Gävleborg County;юрисдикция распространяется на;1;1;to
+Q103699;Gävleborg County;место рождения;1;2;to
+Q103699;Gävleborg County;место смерти;1;1;to
+Q103699;Gävleborg County;категория объединяет темы;1;6;to
+Q103699;Gävleborg County;место в MusicBrainz;1;1;from
+Q103707;Kalmar County;административно делится на;1;1;to
+Q103699;Gävleborg County;баннер Викигида;1;1;from
+Q103699;Gävleborg County;основная категория по теме;1;1;from
+Q103699;Gävleborg County;FIPS 10-4 (страны и регионы);1;1;from
+Q103699;Gävleborg County;официальный сайт;1;1;from
+Q103699;Gävleborg County;категория карт на Викискладе;1;1;from
+Q103699;Gävleborg County;Who's on First ID;1;1;from
+Q103707;Kalmar County;административно-территориальная единица;1;950;to
+Q103707;Kalmar County;государство;1;1;from
+Q103707;Kalmar County;код в энциклопедии «Британника онлайн»;1;1;from
+Q103707;Kalmar County;имеет границы с;1;4;to
+Q103707;Kalmar County;заменил;1;1;from
+Q103707;Kalmar County;описывается в источниках;1;1;from
+Q103707;Kalmar County;должность главы правительства;1;1;from
+Q103707;Kalmar County;численность населения;1;12;from
+Q103707;Kalmar County;изображение герба;1;1;from
+Q103707;Kalmar County;глава правительства;1;5;from
+Q103707;Kalmar County;изображение флага;1;1;from
+Q103707;Kalmar County;код VIAF;1;1;from
+Q103707;Kalmar County;столица;1;1;from
+Q103707;Kalmar County;это частный случай понятия;1;1;from
+Q103707;Kalmar County;код LCNAF;1;1;from
+Q103707;Kalmar County;карта местонахождения;1;2;from
+Q103707;Kalmar County;описание герба;1;1;from
+Q103707;Kalmar County;код GND;1;1;from
+Q103732;Dalarna County;административно-территориальная единица;1;1138;to
+Q103732;Dalarna County;оператор;1;1;from
+Q103732;Dalarna County;административно делится на;1;1;to
+Q103732;Dalarna County;официальный сайт;1;1;from
+Q103732;Dalarna County;категория объединяет темы;1;5;to
+Q103732;Dalarna County;зона обслуживания;1;1;to
+Q103732;Dalarna County;место в MusicBrainz;1;1;from
+Q103732;Dalarna County;баннер Викигида;1;1;from
+Q103732;Dalarna County;основная категория по теме;1;1;from
+Q103732;Dalarna County;FIPS 10-4 (страны и регионы);1;1;from
+Q103732;Dalarna County;Who's on First ID;1;1;from
+Q103732;Dalarna County;юрисдикция распространяется на;1;2;to
+Q103732;Dalarna County;код Freebase;1;1;from
+Q103732;Dalarna County;географические координаты;1;1;from
+Q103732;Dalarna County;код NUTS;1;1;from
+Q103732;Dalarna County;дата основания/создания/возникновения;1;1;from
+Q103732;Dalarna County;идентификатор местоположения ArchINFORM;1;1;from
+Q103732;Dalarna County;Swedish National Archive ID;1;1;from
+Q103732;Dalarna County;место рождения;1;5;to
+Q103732;Dalarna County;место смерти;1;1;to
+Q103732;Dalarna County;государство;1;1;from
+Q103738;Gotland County;код VIAF;1;1;from
+Q103738;Gotland County;изображение флага;1;1;from
+Q103738;Gotland County;столица;1;1;from
+Q103738;Gotland County;это частный случай понятия;1;1;from
+Q103738;Gotland County;код LCNAF;1;1;from
+Q103738;Gotland County;карта местонахождения;1;1;from
+Q103738;Gotland County;описание герба;1;1;from
+Q103738;Gotland County;изображение;1;1;from
+Q103732;Dalarna County;общая тема категории;1;1;to
+Q103738;Gotland County;государство;1;1;from
+Q103738;Gotland County;административно делится на;1;1;to
+Q103738;Gotland County;оператор;1;1;from
+Q103738;Gotland County;административно-территориальная единица;1;310;to
+Q103732;Dalarna County;является столицей;1;1;to
+Q103732;Dalarna County;происходит из;1;1;to
+Q103732;Dalarna County;код лена;1;1;from
+Q103732;Dalarna County;TORA ID;1;1;from
+Q103732;Dalarna County;ID отношения в OpenStreetMap;1;1;from
+Q103732;Dalarna County;изображение флага;1;1;from
+Q103732;Dalarna County;код в энциклопедии «Британника онлайн»;1;1;from
+Q103732;Dalarna County;должность главы правительства;1;1;from
+Q103732;Dalarna County;численность населения;1;10;from
+Q103732;Dalarna County;изображение герба;1;1;from
+Q103732;Dalarna County;глава правительства;1;5;from
+Q103732;Dalarna County;имеет границы с;1;8;to
+Q103732;Dalarna County;столица;1;1;from
+Q103732;Dalarna County;код автомобильного номера;1;1;from
+Q103732;Dalarna County;это частный случай понятия;1;1;from
+Q103732;Dalarna County;код LCNAF;1;1;from
+Q103732;Dalarna County;карта местонахождения;1;1;from
+Q103732;Dalarna County;описание герба;1;1;from
+Q103732;Dalarna County;код VIAF;1;1;from
+Q103732;Dalarna County;изображение;1;1;from
+Q103732;Dalarna County;официальное название;1;1;from
+Q103732;Dalarna County;категория для людей, родившихся здесь;1;1;from
+Q103732;Dalarna County;категория для людей, умерших здесь;1;1;from
+Q103732;Dalarna County;код GeoNames;1;1;from
+Q103732;Dalarna County;код TGN;1;1;from
+Q103732;Dalarna County;категория для людей, связанных с местностью;1;1;from
+Q103732;Dalarna County;короткое название;1;1;from
+Q103732;Dalarna County;не путать с;1;1;to
+Q103732;Dalarna County;позиционная карта;1;1;from
+Q103732;Dalarna County;высота над уровнем моря;1;1;from
+Q103732;Dalarna County;площадь;1;6;from
+Q103732;Dalarna County;код BNF;1;1;from
+Q103732;Dalarna County;буквенный код шведского лена;1;1;from
+Q103732;Dalarna County;используемый язык;1;1;from
+Q103732;Dalarna County;ISO 3166-2;1;2;from
+Q103732;Dalarna County;код темы Quora;1;1;from
+Q103732;Dalarna County;категория на Викискладе;1;1;from
+Q103699;Gävleborg County;код Freebase;1;1;from
+Q103699;Gävleborg County;географические координаты;1;1;from
+Q103699;Gävleborg County;код NUTS;1;1;from
+Q103686;Norrbotten County;основная категория по теме;1;1;from
+Q103686;Norrbotten County;происходит из;1;5;to
+Q103686;Norrbotten County;зона обслуживания;1;1;to
+Q103686;Norrbotten County;категория объединяет темы;1;6;to
+Q103686;Norrbotten County;часть от;1;1;to
+Q103686;Norrbotten County;место в MusicBrainz;1;1;from
+Q103686;Norrbotten County;баннер Викигида;1;1;from
+Q103686;Norrbotten County;FIPS 10-4 (страны и регионы);1;1;from
+Q103686;Norrbotten County;юрисдикция распространяется на;1;1;to
+Q103686;Norrbotten County;официальный сайт;1;1;from
+Q103686;Norrbotten County;категория карт на Викискладе;1;1;from
+Q103686;Norrbotten County;Who's on First ID;1;1;from
+Q103686;Norrbotten County;код Freebase;1;1;from
+Q103686;Norrbotten County;географические координаты;1;1;from
+Q103686;Norrbotten County;наивысшая точка;1;1;from
+Q103686;Norrbotten County;место рождения;1;1;to
+Q103686;Norrbotten County;общая тема категории;1;1;to
+Q103691;Halland County;численность населения;1;10;from
+Q103691;Halland County;карта местонахождения;1;1;from
+Q103691;Halland County;глава правительства;1;1;from
+Q103691;Halland County;имеет границы с;1;4;to
+Q103691;Halland County;изображение флага;1;1;from
+Q103691;Halland County;столица;1;1;from
+Q103691;Halland County;это частный случай понятия;1;1;from
+Q103691;Halland County;код LCNAF;1;1;from
+Q103691;Halland County;описание герба;1;1;from
+Q103686;Norrbotten County;является столицей;1;1;to
+Q103691;Halland County;код VIAF;1;1;from
+Q103691;Halland County;изображение;1;1;from
+Q103691;Halland County;государство;1;1;from
+Q103691;Halland County;административно делится на;1;1;to
+Q103691;Halland County;оператор;1;1;from
+Q103691;Halland County;административно-территориальная единица;1;489;to
+Q103686;Norrbotten County;код NUTS;1;1;from
+Q103686;Norrbotten County;дата основания/создания/возникновения;1;1;from
+Q103686;Norrbotten County;идентификатор местоположения ArchINFORM;1;1;from
+Q103686;Norrbotten County;изображение герба;1;1;from
+Q103686;Norrbotten County;категория для людей, родившихся здесь;1;1;from
+Q103686;Norrbotten County;официальное название;1;3;from
+Q103686;Norrbotten County;код в энциклопедии «Британника онлайн»;1;1;from
+Q103686;Norrbotten County;должность главы правительства;1;1;from
+Q103686;Norrbotten County;код в Большой каталанской энциклопедии;1;1;from
+Q103686;Norrbotten County;численность населения;1;11;from
+Q103686;Norrbotten County;глава правительства;1;2;from
+Q103686;Norrbotten County;Swedish National Archive ID;1;1;from
+Q103686;Norrbotten County;имеет границы с;1;5;to
+Q103686;Norrbotten County;изображение флага;1;1;from
+Q103686;Norrbotten County;официальный язык;1;4;from
+Q103686;Norrbotten County;столица;1;1;from
+Q103686;Norrbotten County;это частный случай понятия;1;1;from
+Q103686;Norrbotten County;код LCNAF;1;1;from
+Q103686;Norrbotten County;категория для людей, умерших здесь;1;1;from
+Q103686;Norrbotten County;код GeoNames;1;1;from
+Q103686;Norrbotten County;название на языке оригинала;1;1;from
+Q103686;Norrbotten County;категория для людей, связанных с местностью;1;1;from
+Q103686;Norrbotten County;высота над уровнем моря;1;1;from
+Q103686;Norrbotten County;площадь;1;11;from
+Q103686;Norrbotten County;код BNF;1;1;from
+Q103686;Norrbotten County;буквенный код шведского лена;1;1;from
+Q103686;Norrbotten County;используемый язык;1;6;from
+Q103686;Norrbotten County;ISO 3166-2;1;2;from
+Q103686;Norrbotten County;код NE.se;1;1;from
+Q103686;Norrbotten County;код темы Quora;1;1;from
+Q103686;Norrbotten County;категория на Викискладе;1;1;from
+Q103686;Norrbotten County;код автомобильного номера;1;1;from
+Q103686;Norrbotten County;ID отношения в OpenStreetMap;1;1;from
+Q103686;Norrbotten County;TORA ID;1;1;from
+Q103686;Norrbotten County;код лена;1;1;from
+Q103691;Halland County;изображение герба;1;1;from
+Q103691;Halland County;должность главы правительства;1;1;from
+Q103699;Gävleborg County;дата основания/создания/возникновения;1;1;from
+Q103699;Gävleborg County;это частный случай понятия;1;1;from
+Q103699;Gävleborg County;численность населения;1;10;from
+Q103699;Gävleborg County;изображение герба;1;1;from
+Q103699;Gävleborg County;глава правительства;1;3;from
+Q103699;Gävleborg County;имеет границы с;1;5;to
+Q103699;Gävleborg County;изображение флага;1;1;from
+Q103699;Gävleborg County;столица;1;1;from
+Q103699;Gävleborg County;код LCNAF;1;1;from
+Q103699;Gävleborg County;категория для людей, родившихся здесь;1;1;from
+Q103699;Gävleborg County;карта местонахождения;1;1;from
+Q103699;Gävleborg County;описание герба;1;1;from
+Q103699;Gävleborg County;код GND;1;1;from
+Q103699;Gävleborg County;код VIAF;1;1;from
+Q103699;Gävleborg County;город-побратим;1;1;to
+Q103699;Gävleborg County;государство;1;1;from
+Q103699;Gävleborg County;код в энциклопедии «Британника онлайн»;1;1;from
+Q103699;Gävleborg County;код GeoNames;1;1;from
+Q103691;Halland County;категория для людей, родившихся здесь;1;1;from
+Q103699;Gävleborg County;категория на Викискладе;1;1;from
+Q103699;Gävleborg County;идентификатор местоположения ArchINFORM;1;1;from
+Q103699;Gävleborg County;Swedish National Archive ID;1;1;from
+Q103699;Gävleborg County;код лена;1;1;from
+Q103699;Gävleborg County;TORA ID;1;1;from
+Q103699;Gävleborg County;ID отношения в OpenStreetMap;1;1;from
+Q103699;Gävleborg County;код автомобильного номера;1;1;from
+Q103699;Gävleborg County;код темы Quora;1;1;from
+Q103699;Gävleborg County;код TGN;1;1;from
+Q103699;Gävleborg County;ISO 3166-2;1;2;from
+Q103699;Gävleborg County;постоянный дубликат;1;1;to
+Q103699;Gävleborg County;буквенный код шведского лена;1;1;from
+Q103699;Gävleborg County;код BNF;1;1;from
+Q103699;Gävleborg County;площадь;1;6;from
+Q103699;Gävleborg County;категория для людей, связанных с местностью;1;1;from
+Q103699;Gävleborg County;административно делится на;1;1;to
+Q103699;Gävleborg County;оператор;1;1;from
+Q103699;Gävleborg County;административно-территориальная единица;1;617;to
+Q103691;Halland County;категория на Викискладе;1;1;from
+Q103691;Halland County;идентификатор местоположения ArchINFORM;1;1;from
+Q103691;Halland County;Swedish National Archive ID;1;1;from
+Q103691;Halland County;код лена;1;1;from
+Q103691;Halland County;TORA ID;1;1;from
+Q103691;Halland County;ID отношения в OpenStreetMap;1;1;from
+Q103691;Halland County;код автомобильного номера;1;1;from
+Q103691;Halland County;Dagens Nyheter topic ID;1;1;from
+Q103691;Halland County;является столицей;1;1;to
+Q103691;Halland County;ISO 3166-2;1;2;from
+Q103691;Halland County;буквенный код шведского лена;1;1;from
+Q103691;Halland County;площадь;1;6;from
+Q103691;Halland County;высота над уровнем моря;1;1;from
+Q103691;Halland County;категория для людей, связанных с местностью;1;1;from
+Q103691;Halland County;код GeoNames;1;1;from
+Q103691;Halland County;дата основания/создания/возникновения;1;1;from
+Q103691;Halland County;код NUTS;1;1;from
+Q103691;Halland County;географические координаты;1;1;from
+Q103691;Halland County;код Freebase;1;1;from
+Q103691;Halland County;Who's on First ID;1;1;from
+Q103691;Halland County;категория карт на Викискладе;1;1;from
+Q103691;Halland County;официальный сайт;1;1;from
+Q103691;Halland County;FIPS 10-4 (страны и регионы);1;1;from
+Q103691;Halland County;основная категория по теме;1;1;from
+Q103691;Halland County;баннер Викигида;1;1;from
+Q103691;Halland County;место в MusicBrainz;1;1;from
+Q103691;Halland County;dmoz;1;1;from
+Q103691;Halland County;место рождения;1;3;to
+Q103691;Halland County;категория объединяет темы;1;5;to
+Q103691;Halland County;зона обслуживания;1;1;to
+Q103691;Halland County;юрисдикция распространяется на;1;1;to
+Q103691;Halland County;общая тема категории;1;1;to
+Q106915;Södermanland County;является столицей;1;1;to

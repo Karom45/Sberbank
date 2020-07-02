@@ -1,0 +1,129 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q734547;North London;административно-территориальная единица;1;2;to
+Q734547;North London;государство;1;1;from
+Q21828524;Murgia dei Trulli;это частный случай понятия;1;1;from
+Q21828524;Murgia dei Trulli;государство;1;1;from
+Q21828524;Murgia dei Trulli;административно-территориальная единица;1;1;from
+Q8079972;Plain of Reeds;географические координаты;1;1;from
+Q8079972;Plain of Reeds;категория на Викискладе;1;1;from
+Q8079972;Plain of Reeds;официальное название;1;2;from
+Q8079972;Plain of Reeds;код в энциклопедии «Британника онлайн»;1;1;from
+Q8079972;Plain of Reeds;это частный случай понятия;1;1;from
+Q8079972;Plain of Reeds;изображение;1;1;from
+Q8079972;Plain of Reeds;государство;1;3;from
+Q8079972;Plain of Reeds;административно-территориальная единица;1;1;from
+Q8073843;Zona da Mata;состоит из;1;1;to
+Q8073843;Zona da Mata;часть от;1;1;from
+Q8073843;Zona da Mata;не путать с;1;1;to
+Q8073843;Zona da Mata;имеет границы с;1;1;to
+Q8073843;Zona da Mata;это частный случай понятия;1;1;from
+Q8073843;Zona da Mata;карта местонахождения;1;1;from
+Q8073843;Zona da Mata;изображение;1;1;from
+Q8073843;Zona da Mata;государство;1;1;from
+Q6810196;Meio-norte;состоит из;1;1;to
+Q6810196;Meio-norte;часть от;1;1;from
+Q6810196;Meio-norte;имеет границы с;1;1;to
+Q6810196;Meio-norte;это частный случай понятия;1;1;from
+Q6810196;Meio-norte;карта местонахождения;1;1;from
+Q6810196;Meio-norte;государство;1;1;from
+Q3984538;Terra dei Trulli;это частный случай понятия;1;1;from
+Q2827134;Agreste;состоит из;1;1;to
+Q2827134;Agreste;код Freebase;1;1;from
+Q2827134;Agreste;часть от;1;1;from
+Q21828524;Murgia dei Trulli;часть от;1;1;from
+Q22583595;Middle Africa;изображение;1;1;from
+Q22583595;Middle Africa;часть света;1;1;from
+Q54444202;Southeastern Wisconsin;часовой пояс;1;2;from
+Q64707933;East Ark-La-Tex;изображение;1;1;from
+Q64707933;East Ark-La-Tex;государство;1;1;from
+Q64707933;East Ark-La-Tex;административно-территориальная единица;1;1;from
+Q64683415;Southeast Ark-La-Tex;дата основания/создания/возникновения;1;1;from
+Q64683415;Southeast Ark-La-Tex;категория на Викискладе;1;1;from
+Q64683415;Southeast Ark-La-Tex;это частный случай понятия;1;1;from
+Q64683415;Southeast Ark-La-Tex;изображение;1;1;from
+Q64683415;Southeast Ark-La-Tex;государство;1;1;from
+Q64683415;Southeast Ark-La-Tex;расположение штаб-квартиры;1;5;from
+Q64683415;Southeast Ark-La-Tex;административно-территориальная единица;1;1;from
+Q55507482;Southern Ark-La-Tex;категория на Викискладе;1;1;from
+Q55507482;Southern Ark-La-Tex;это частный случай понятия;1;1;from
+Q55507482;Southern Ark-La-Tex;государство;1;1;from
+Q54444202;Southeastern Wisconsin;категория на Викискладе;1;1;from
+Q22583595;Middle Africa;это частный случай понятия;1;1;from
+Q54444202;Southeastern Wisconsin;столица;1;1;from
+Q54444202;Southeastern Wisconsin;это частный случай понятия;1;1;from
+Q54444202;Southeastern Wisconsin;часть света;1;1;from
+Q54444202;Southeastern Wisconsin;государство;1;1;from
+Q54444202;Southeastern Wisconsin;административно-территориальная единица;1;1;from
+Q30621670;Ebelle;географические координаты;1;1;from
+Q30621670;Ebelle;это частный случай понятия;1;1;from
+Q22583595;Middle Africa;основная тема;1;43;to
+Q22583595;Middle Africa;состоит из;1;2;to
+Q22583595;Middle Africa;часть от;1;9;to
+Q22583595;Middle Africa;код M.49;1;1;from
+Q22583595;Middle Africa;не путать с;1;2;to
+Q22583595;Middle Africa;имеет границы с;1;5;from
+Q2827134;Agreste;код в энциклопедии «Британника онлайн»;1;1;from
+Q2827134;Agreste;имеет границы с;1;2;to
+Q2827134;Agreste;это частный случай понятия;1;1;from
+Q734547;North London;расположение штаб-квартиры;1;1;to
+Q1331065;Sertão;карта местонахождения;1;1;from
+Q1331065;Sertão;код GND;1;1;from
+Q1331065;Sertão;изображение;1;1;from
+Q1331065;Sertão;государство;1;1;from
+Q864007;Deep South;история происходит в месте;1;2;to
+Q864007;Deep South;место рождения;1;1;to
+Q864007;Deep South;следующее по порядку;1;1;to
+Q864007;Deep South;код Freebase;1;1;from
+Q864007;Deep South;код темы Quora;1;1;from
+Q864007;Deep South;код в энциклопедии «Британника онлайн»;1;1;from
+Q864007;Deep South;это частный случай понятия;1;1;from
+Q864007;Deep South;изображение;1;1;from
+Q734547;North London;история происходит в месте;1;1;to
+Q734547;North London;место создания;1;1;to
+Q1331065;Sertão;имеет границы с;1;2;to
+Q734547;North London;место смерти;1;6;to
+Q734547;North London;место рождения;1;27;to
+Q734547;North London;место жительства;1;9;to
+Q734547;North London;часть от;1;1;to
+Q734547;North London;баннер Викигида;1;1;from
+Q734547;North London;код Freebase;1;1;from
+Q734547;North London;географические координаты;1;1;from
+Q734547;North London;дата основания/создания/возникновения;1;1;from
+Q734547;North London;код темы Quora;1;1;from
+Q734547;North London;площадь;1;1;from
+Q734547;North London;это частный случай понятия;1;1;from
+Q734547;North London;карта местонахождения;1;1;from
+Q734547;North London;изображение;1;1;from
+Q1331065;Sertão;это частный случай понятия;1;1;from
+Q1331065;Sertão;код в энциклопедии «Британника онлайн»;1;1;from
+Q2827134;Agreste;карта местонахождения;1;1;from
+Q1394500;South London;код темы Quora;1;1;from
+Q2827134;Agreste;изображение;1;1;from
+Q2827134;Agreste;государство;1;1;from
+Q1394500;South London;история происходит в месте;1;2;to
+Q1394500;South London;местонахождение;1;1;to
+Q1394500;South London;место жительства;1;7;to
+Q1394500;South London;место создания;1;3;to
+Q1394500;South London;место рождения;1;39;to
+Q1394500;South London;место смерти;1;3;to
+Q1394500;South London;баннер Викигида;1;1;from
+Q1394500;South London;код Freebase;1;1;from
+Q1394500;South London;географические координаты;1;1;from
+Q1394500;South London;дата основания/создания/возникновения;1;1;from
+Q1394500;South London;категория на Викискладе;1;1;from
+Q1394500;South London;площадь;1;1;from
+Q1331065;Sertão;обладает свойством;1;1;from
+Q1394500;South London;это частный случай понятия;1;1;from
+Q1394500;South London;карта местонахождения;1;1;from
+Q1394500;South London;карта ареала вида;1;1;from
+Q1394500;South London;изображение;1;1;from
+Q1394500;South London;государство;1;1;from
+Q1394500;South London;административно-территориальная единица;1;1;from
+Q1331065;Sertão;изображённый объект;1;1;to
+Q1331065;Sertão;основная тема;1;1;to
+Q1331065;Sertão;история происходит в месте;1;1;to
+Q1331065;Sertão;состоит из;1;1;to
+Q1331065;Sertão;код Freebase;1;1;from
+Q1331065;Sertão;категория на Викискладе;1;1;from
+Q1331065;Sertão;часть от;1;1;from
+Q64707933;East Ark-La-Tex;это частный случай понятия;1;1;from

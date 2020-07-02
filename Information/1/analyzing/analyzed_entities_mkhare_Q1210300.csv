@@ -1,0 +1,381 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q19038;Guria;административно-территориальная единица;1;15;to
+Q200048;Kvemo Kartli;используемый язык;1;3;from
+Q200048;Kvemo Kartli;официальный сайт;1;1;from
+Q200048;Kvemo Kartli;категория карт на Викискладе;1;1;from
+Q200048;Kvemo Kartli;код NKC;1;1;from
+Q200048;Kvemo Kartli;код Freebase;1;1;from
+Q200048;Kvemo Kartli;географические координаты;1;1;from
+Q200048;Kvemo Kartli;дата основания/создания/возникновения;1;1;from
+Q200048;Kvemo Kartli;ID отношения в OpenStreetMap;1;1;from
+Q200048;Kvemo Kartli;категория на Викискладе;1;1;from
+Q200048;Kvemo Kartli;ISO 3166-2;1;1;from
+Q200048;Kvemo Kartli;площадь;1;1;from
+Q200048;Kvemo Kartli;категория объединяет темы;1;6;to
+Q200048;Kvemo Kartli;не путать с;1;1;to
+Q200048;Kvemo Kartli;категория для людей, связанных с местностью;1;1;from
+Q200048;Kvemo Kartli;категория для людей, похороненных здесь;1;1;from
+Q200048;Kvemo Kartli;название на языке оригинала;1;1;from
+Q200048;Kvemo Kartli;код GeoNames;1;1;from
+Q200048;Kvemo Kartli;категория для людей, умерших здесь;1;1;from
+Q200048;Kvemo Kartli;категория для людей, родившихся здесь;1;1;from
+Q200048;Kvemo Kartli;должность главы правительства;1;1;from
+Q200048;Kvemo Kartli;столица;1;1;from
+Q200048;Kvemo Kartli;основная категория по теме;1;1;from
+Q200048;Kvemo Kartli;местонахождение;1;2;to
+Q200048;Kvemo Kartli;карта местонахождения;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;глава правительства;1;2;from
+Q200309;Samegrelo-Zemo Svaneti;категория для людей, связанных с местностью;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;подробная карта;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;код GeoNames;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;категория для людей, умерших здесь;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;категория для людей, родившихся здесь;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;официальное название;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;основной шаблон по теме;1;2;from
+Q200309;Samegrelo-Zemo Svaneti;должность главы правительства;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;численность населения;1;2;from
+Q200309;Samegrelo-Zemo Svaneti;столица;1;1;from
+Q200048;Kvemo Kartli;является столицей;1;1;to
+Q200309;Samegrelo-Zemo Svaneti;это частный случай понятия;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;карта местонахождения;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;изображение;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;государство;1;1;to
+Q200309;Samegrelo-Zemo Svaneti;административно делится на;1;1;to
+Q200309;Samegrelo-Zemo Svaneti;административно-территориальная единица;1;29;to
+Q200048;Kvemo Kartli;общая тема категории;1;1;to
+Q200048;Kvemo Kartli;происходит из;1;3;to
+Q200048;Kvemo Kartli;место рождения;1;1;to
+Q200048;Kvemo Kartli;это частный случай понятия;1;1;from
+Q200048;Kvemo Kartli;изображение;1;1;from
+Q19038;Guria;административно делится на;1;1;to
+Q200047;Shida Kartli;основной шаблон по теме;1;1;from
+Q200047;Shida Kartli;рельефная позиционная карта;1;1;from
+Q200047;Shida Kartli;позиционная карта;1;1;from
+Q200047;Shida Kartli;не путать с;1;1;to
+Q200047;Shida Kartli;категория для людей, связанных с местностью;1;1;from
+Q200047;Shida Kartli;категория для людей, похороненных здесь;1;1;from
+Q200047;Shida Kartli;название на языке оригинала;1;1;from
+Q200047;Shida Kartli;код GeoNames;1;1;from
+Q200047;Shida Kartli;категория для людей, умерших здесь;1;1;from
+Q200047;Shida Kartli;категория для людей, родившихся здесь;1;1;from
+Q200047;Shida Kartli;должность главы правительства;1;1;from
+Q200047;Shida Kartli;используемый язык;1;2;from
+Q200047;Shida Kartli;столица;1;1;from
+Q200047;Shida Kartli;это частный случай понятия;1;1;from
+Q200047;Shida Kartli;карта местонахождения;1;2;from
+Q200047;Shida Kartli;изображение;1;1;from
+Q200047;Shida Kartli;государство;1;1;from
+Q200047;Shida Kartli;административно делится на;1;1;to
+Q200045;Imereti;имеет границы с;1;2;to
+Q200045;Imereti;происходит из;1;2;to
+Q200045;Imereti;общая тема категории;1;1;to
+Q200047;Shida Kartli;площадь;1;1;from
+Q200047;Shida Kartli;ISO 3166-2;1;1;from
+Q200048;Kvemo Kartli;государство;1;1;from
+Q200047;Shida Kartli;административно-территориальная единица;1;22;to
+Q200048;Kvemo Kartli;административно делится на;1;1;to
+Q200048;Kvemo Kartli;административно-территориальная единица;1;17;to
+Q200047;Shida Kartli;имеет границы с;1;1;to
+Q200047;Shida Kartli;является столицей;1;1;to
+Q200047;Shida Kartli;происходит из;1;2;to
+Q200047;Shida Kartli;общая тема категории;1;1;to
+Q200047;Shida Kartli;место смерти;1;1;to
+Q200047;Shida Kartli;категория объединяет темы;1;6;to
+Q200047;Shida Kartli;основная тема шаблона;1;1;to
+Q200047;Shida Kartli;местонахождение;1;9;to
+Q200047;Shida Kartli;категория на Викискладе;1;1;from
+Q200047;Shida Kartli;место рождения;1;4;to
+Q200047;Shida Kartli;dmoz;1;1;from
+Q200047;Shida Kartli;основная категория по теме;1;1;from
+Q200047;Shida Kartli;официальный сайт;1;1;from
+Q200047;Shida Kartli;категория карт на Викискладе;1;1;from
+Q200047;Shida Kartli;код Freebase;1;1;from
+Q200047;Shida Kartli;географические координаты;1;1;from
+Q200047;Shida Kartli;дата основания/создания/возникновения;1;1;from
+Q200047;Shida Kartli;ID отношения в OpenStreetMap;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;позиционная карта;1;4;from
+Q200309;Samegrelo-Zemo Svaneti;рельефная позиционная карта;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;площадь;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;государство;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;портал Викимедиа;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;глава правительства;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;изображение флага;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;официальный язык;1;2;from
+Q2914461;Autonomous Republic of Abkhazia;столица;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;это частный случай понятия;1;3;from
+Q2914461;Autonomous Republic of Abkhazia;карта местонахождения;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;исполнительная власть;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;изображение;1;2;from
+Q2914461;Autonomous Republic of Abkhazia;административно делится на;1;1;to
+Q2914461;Autonomous Republic of Abkhazia;официальное название;1;2;from
+Q2914461;Autonomous Republic of Abkhazia;административно-территориальная единица;1;36;to
+Q203339;Mtskheta-Mtianeti;происходит из;1;1;to
+Q203339;Mtskheta-Mtianeti;общая тема категории;1;1;to
+Q203339;Mtskheta-Mtianeti;изображённый объект;1;1;to
+Q203339;Mtskheta-Mtianeti;категория объединяет темы;1;6;to
+Q203339;Mtskheta-Mtianeti;является столицей;1;1;to
+Q203339;Mtskheta-Mtianeti;местонахождение;1;4;to
+Q203339;Mtskheta-Mtianeti;место рождения;1;1;to
+Q203339;Mtskheta-Mtianeti;место в MusicBrainz;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;частично совпадает с;1;1;to
+Q2914461;Autonomous Republic of Abkhazia;подробная карта;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;используемый язык;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;основная тема портала Викимедиа;1;1;to
+Q12862627;Бечо;государство;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;является столицей;1;1;to
+Q2914461;Autonomous Republic of Abkhazia;на территорию претендует;1;1;to
+Q2914461;Autonomous Republic of Abkhazia;общая тема категории;1;1;to
+Q2914461;Autonomous Republic of Abkhazia;изображённый объект;1;1;to
+Q2914461;Autonomous Republic of Abkhazia;тематически относится к;1;1;to
+Q2914461;Autonomous Republic of Abkhazia;заменён на;1;1;to
+Q2914461;Autonomous Republic of Abkhazia;категория объединяет темы;1;1;to
+Q2914461;Autonomous Republic of Abkhazia;юрисдикция распространяется на;1;1;to
+Q2914461;Autonomous Republic of Abkhazia;основная категория по теме;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;название на языке оригинала;1;2;from
+Q2914461;Autonomous Republic of Abkhazia;официальный сайт;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;находится в пределах природно-географического объекта;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;географические координаты;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;дата основания/создания/возникновения;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;местный телефонный код;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;часовой пояс;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;ID отношения в OpenStreetMap;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;ISO 3166-2;1;1;from
+Q2914461;Autonomous Republic of Abkhazia;площадь;1;1;from
+Q203339;Mtskheta-Mtianeti;основная категория по теме;1;1;from
+Q203339;Mtskheta-Mtianeti;официальный сайт;1;1;from
+Q203339;Mtskheta-Mtianeti;категория карт на Викискладе;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;местонахождение;1;4;to
+Q203339;Mtskheta-Mtianeti;административно-территориальная единица;1;31;to
+Q200309;Samegrelo-Zemo Svaneti;имеет границы с;1;2;to
+Q200309;Samegrelo-Zemo Svaneti;происходит из;1;1;to
+Q200309;Samegrelo-Zemo Svaneti;общая тема категории;1;1;to
+Q200309;Samegrelo-Zemo Svaneti;изображённый объект;1;1;to
+Q200309;Samegrelo-Zemo Svaneti;место рождения;1;3;to
+Q200309;Samegrelo-Zemo Svaneti;категория объединяет темы;1;6;to
+Q200309;Samegrelo-Zemo Svaneti;является столицей;1;1;to
+Q200309;Samegrelo-Zemo Svaneti;основная тема шаблона;1;2;to
+Q200309;Samegrelo-Zemo Svaneti;dmoz;1;1;from
+Q203339;Mtskheta-Mtianeti;код Freebase;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;основная категория по теме;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;официальный сайт;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;категория карт на Викискладе;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;код Freebase;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;географические координаты;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;код тезауруса PACTOLS;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;ID отношения в OpenStreetMap;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;категория на Викискладе;1;1;from
+Q200309;Samegrelo-Zemo Svaneti;ISO 3166-2;1;1;from
+Q203339;Mtskheta-Mtianeti;административно делится на;1;1;to
+Q203339;Mtskheta-Mtianeti;государство;1;1;from
+Q203339;Mtskheta-Mtianeti;изображение;1;1;from
+Q203339;Mtskheta-Mtianeti;карта местонахождения;1;1;from
+Q203339;Mtskheta-Mtianeti;географические координаты;1;1;from
+Q203339;Mtskheta-Mtianeti;дата основания/создания/возникновения;1;1;from
+Q203339;Mtskheta-Mtianeti;код тезауруса PACTOLS;1;1;from
+Q203339;Mtskheta-Mtianeti;ID отношения в OpenStreetMap;1;1;from
+Q203339;Mtskheta-Mtianeti;категория на Викискладе;1;1;from
+Q203339;Mtskheta-Mtianeti;ISO 3166-2;1;1;from
+Q203339;Mtskheta-Mtianeti;используемый язык;1;2;from
+Q203339;Mtskheta-Mtianeti;площадь;1;1;from
+Q203339;Mtskheta-Mtianeti;категория для людей, связанных с местностью;1;1;from
+Q203339;Mtskheta-Mtianeti;категория для людей, похороненных здесь;1;1;from
+Q203339;Mtskheta-Mtianeti;название на языке оригинала;1;2;from
+Q203339;Mtskheta-Mtianeti;код GeoNames;1;1;from
+Q203339;Mtskheta-Mtianeti;категория для людей, умерших здесь;1;1;from
+Q203339;Mtskheta-Mtianeti;категория для людей, родившихся здесь;1;1;from
+Q203339;Mtskheta-Mtianeti;официальное название;1;1;from
+Q203339;Mtskheta-Mtianeti;должность главы правительства;1;1;from
+Q203339;Mtskheta-Mtianeti;численность населения;1;1;from
+Q203339;Mtskheta-Mtianeti;столица;1;1;from
+Q203339;Mtskheta-Mtianeti;это частный случай понятия;1;1;from
+Q200045;Imereti;место погребения;1;1;to
+Q200045;Imereti;место изготовления;1;1;to
+Q200045;Imereti;место рождения;1;3;to
+Q19039;Samtskhe-Javakheti;ID отношения в OpenStreetMap;1;1;from
+Q19039;Samtskhe-Javakheti;местонахождение;1;9;to
+Q19039;Samtskhe-Javakheti;категория объединяет темы;1;6;to
+Q19039;Samtskhe-Javakheti;баннер Викигида;1;1;from
+Q19039;Samtskhe-Javakheti;основная категория по теме;1;1;from
+Q19039;Samtskhe-Javakheti;официальный сайт;1;1;from
+Q19039;Samtskhe-Javakheti;категория карт на Викискладе;1;1;from
+Q19039;Samtskhe-Javakheti;код Freebase;1;1;from
+Q19039;Samtskhe-Javakheti;географические координаты;1;1;from
+Q19039;Samtskhe-Javakheti;код тезауруса PACTOLS;1;1;from
+Q19039;Samtskhe-Javakheti;категория на Викискладе;1;1;from
+Q19039;Samtskhe-Javakheti;происходит из;1;1;to
+Q19039;Samtskhe-Javakheti;ISO 3166-2;1;1;from
+Q19039;Samtskhe-Javakheti;площадь;1;1;from
+Q19039;Samtskhe-Javakheti;категория для людей, связанных с местностью;1;1;from
+Q19039;Samtskhe-Javakheti;категория для людей, похороненных здесь;1;1;from
+Q19039;Samtskhe-Javakheti;код GeoNames;1;1;from
+Q19039;Samtskhe-Javakheti;категория для людей, умерших здесь;1;1;from
+Q19039;Samtskhe-Javakheti;категория для людей, родившихся здесь;1;1;from
+Q19039;Samtskhe-Javakheti;должность главы правительства;1;1;from
+Q19039;Samtskhe-Javakheti;столица;1;1;from
+Q19039;Samtskhe-Javakheti;является столицей;1;1;to
+Q19039;Samtskhe-Javakheti;место изготовления;1;1;to
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;код BabelNet;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;это частный случай понятия;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;категория для людей, связанных с местностью;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;название на языке оригинала;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;код GeoNames;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;категория для людей, родившихся здесь;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;основной шаблон по теме;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;должность главы правительства;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;численность населения;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;имеет границы с;1;5;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;столица;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;карта местонахождения;1;2;from
+Q19039;Samtskhe-Javakheti;место рождения;1;3;to
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;изображение;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;государство;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;административно делится на;1;1;to
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;административно-территориальная единица;1;8;to
+Q19039;Samtskhe-Javakheti;имеет границы с;1;2;to
+Q19039;Samtskhe-Javakheti;не путать с;1;1;to
+Q19039;Samtskhe-Javakheti;общая тема категории;1;1;to
+Q19039;Samtskhe-Javakheti;место смерти;1;1;to
+Q19039;Samtskhe-Javakheti;изображённый объект;1;1;to
+Q19039;Samtskhe-Javakheti;это частный случай понятия;1;1;from
+Q19039;Samtskhe-Javakheti;карта местонахождения;1;1;from
+Q19039;Samtskhe-Javakheti;изображение;1;1;from
+Q19038;Guria;категория для людей, умерших здесь;1;1;from
+Q19038;Guria;ISO 3166-2;1;1;from
+Q19038;Guria;используемый язык;1;1;from
+Q19038;Guria;код BabelNet;1;1;from
+Q19038;Guria;площадь;1;1;from
+Q19038;Guria;рельефная позиционная карта;1;1;from
+Q19038;Guria;позиционная карта;1;2;from
+Q19038;Guria;категория для людей, связанных с местностью;1;1;from
+Q19038;Guria;название на языке оригинала;1;1;from
+Q19038;Guria;код GeoNames;1;1;from
+Q19038;Guria;категория для людей, родившихся здесь;1;1;from
+Q19039;Samtskhe-Javakheti;государство;1;1;from
+Q19038;Guria;должность главы правительства;1;1;from
+Q19038;Guria;портал Викимедиа;1;1;from
+Q19038;Guria;численность населения;1;2;from
+Q19038;Guria;имеет границы с;1;1;to
+Q19038;Guria;столица;1;1;from
+Q19038;Guria;это частный случай понятия;1;1;from
+Q19038;Guria;карта местонахождения;1;1;from
+Q19038;Guria;изображение;1;1;from
+Q19038;Guria;государство;1;1;from
+Q19038;Guria;код темы Quora;1;1;from
+Q19038;Guria;категория на Викискладе;1;1;from
+Q19038;Guria;ID отношения в OpenStreetMap;1;1;from
+Q19038;Guria;часовой пояс;1;1;from
+Q19039;Samtskhe-Javakheti;административно делится на;1;1;to
+Q19039;Samtskhe-Javakheti;административно-территориальная единица;1;44;to
+Q19038;Guria;происходит из;1;1;to
+Q19038;Guria;общая тема категории;1;1;to
+Q19038;Guria;изображённый объект;1;1;to
+Q19038;Guria;категория объединяет темы;1;4;to
+Q19038;Guria;является столицей;1;1;to
+Q19038;Guria;основная тема портала Викимедиа;1;1;to
+Q19038;Guria;место рождения;1;7;to
+Q19038;Guria;местонахождение;1;2;to
+Q19038;Guria;место съёмок;1;1;to
+Q19038;Guria;баннер Викигида;1;1;from
+Q19038;Guria;основная категория по теме;1;1;from
+Q19038;Guria;официальный сайт;1;1;from
+Q19038;Guria;категория карт на Викискладе;1;1;from
+Q19038;Guria;код Freebase;1;1;from
+Q19038;Guria;географические координаты;1;1;from
+Q19038;Guria;код для сущности Wolfram Language;1;1;from
+Q19038;Guria;код тезауруса PACTOLS;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;площадь;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;используемый язык;1;1;from
+Q200045;Imereti;категория объединяет темы;1;7;to
+Q200045;Imereti;государство;1;1;from
+Q200045;Imereti;категория для людей, умерших здесь;1;1;from
+Q200045;Imereti;категория для людей, родившихся здесь;1;1;from
+Q200045;Imereti;основной шаблон по теме;1;1;from
+Q200045;Imereti;должность главы правительства;1;1;from
+Q200045;Imereti;численность населения;1;1;from
+Q200045;Imereti;столица;1;1;from
+Q200045;Imereti;это частный случай понятия;1;1;from
+Q200045;Imereti;карта местонахождения;1;1;from
+Q200045;Imereti;изображение;1;1;from
+Q200045;Imereti;административно делится на;1;1;to
+Q200045;Imereti;название на языке оригинала;1;1;from
+Q200045;Imereti;административно-территориальная единица;1;19;to
+Q169674;Kakheti;общая тема категории;1;1;to
+Q169674;Kakheti;изображённый объект;1;1;to
+Q169674;Kakheti;место смерти;1;1;to
+Q169674;Kakheti;происходит из;1;7;to
+Q169674;Kakheti;основная тема шаблона;1;1;to
+Q169674;Kakheti;является столицей;1;1;to
+Q169674;Kakheti;место рождения;1;9;to
+Q169674;Kakheti;категория объединяет темы;1;6;to
+Q200045;Imereti;код GeoNames;1;1;from
+Q200045;Imereti;категория для людей, похороненных здесь;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;ISO 3166-2;1;1;from
+Q200045;Imereti;географические координаты;1;1;from
+Q200045;Imereti;является столицей;1;1;to
+Q200045;Imereti;изображённый объект;1;1;to
+Q200045;Imereti;юрисдикция распространяется на;1;1;to
+Q200045;Imereti;основная тема шаблона;1;1;to
+Q200045;Imereti;местонахождение;1;3;to
+Q200045;Imereti;основная категория по теме;1;1;from
+Q200045;Imereti;официальный сайт;1;1;from
+Q200045;Imereti;категория карт на Викискладе;1;1;from
+Q200045;Imereti;код Freebase;1;1;from
+Q200045;Imereti;дата основания/создания/возникновения;1;1;from
+Q200045;Imereti;категория для людей, связанных с местностью;1;1;from
+Q200045;Imereti;код в Итальянской энциклопедии;1;1;from
+Q200045;Imereti;ID отношения в OpenStreetMap;1;1;from
+Q200045;Imereti;категория на Викискладе;1;1;from
+Q200045;Imereti;ISO 3166-2;1;1;from
+Q200045;Imereti;используемый язык;1;2;from
+Q200045;Imereti;площадь;1;1;from
+Q200045;Imereti;рельефная позиционная карта;1;1;from
+Q200045;Imereti;позиционная карта;1;1;from
+Q200045;Imereti;не путать с;1;2;to
+Q169674;Kakheti;местонахождение;1;2;to
+Q169674;Kakheti;место жительства;1;1;to
+Q169674;Kakheti;dmoz;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;основная тема шаблона;1;1;to
+Q169674;Kakheti;изображение;1;1;from
+Q169674;Kakheti;государство;1;1;from
+Q169674;Kakheti;административно делится на;1;1;to
+Q169674;Kakheti;административно-территориальная единица;1;110;to
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;происходит из;1;1;to
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;общая тема категории;1;1;to
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;категория объединяет темы;1;4;to
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;изображённый объект;1;1;to
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;является столицей;1;1;to
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;место рождения;1;2;to
+Q169674;Kakheti;место в MusicBrainz;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;местонахождение;1;2;to
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;основная категория по теме;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;официальный сайт;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;категория карт на Викискладе;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;код Freebase;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;географические координаты;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;код тезауруса PACTOLS;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;ID отношения в OpenStreetMap;1;1;from
+Q38893;Racha-Lechkhumi and Kvemo Svaneti;категория на Викискладе;1;1;from
+Q169674;Kakheti;карта местонахождения;1;1;from
+Q169674;Kakheti;это частный случай понятия;1;1;from
+Q169674;Kakheti;столица;1;1;from
+Q169674;Kakheti;численность населения;1;1;from
+Q169674;Kakheti;баннер Викигида;1;1;from
+Q169674;Kakheti;основная категория по теме;1;1;from
+Q169674;Kakheti;официальный сайт;1;1;from
+Q169674;Kakheti;категория карт на Викискладе;1;1;from
+Q169674;Kakheti;код Freebase;1;1;from
+Q169674;Kakheti;географические координаты;1;1;from
+Q169674;Kakheti;ID отношения в OpenStreetMap;1;1;from
+Q169674;Kakheti;категория на Викискладе;1;1;from
+Q169674;Kakheti;ISO 3166-2;1;1;from
+Q169674;Kakheti;используемый язык;1;7;from
+Q169674;Kakheti;код в Большой российской энциклопедии онлайн;1;1;from
+Q169674;Kakheti;площадь;1;1;from
+Q169674;Kakheti;категория для людей, связанных с местностью;1;1;from
+Q169674;Kakheti;категория для людей, похороненных здесь;1;1;from
+Q169674;Kakheti;название на языке оригинала;1;1;from
+Q169674;Kakheti;код GeoNames;1;1;from
+Q169674;Kakheti;категория для людей, умерших здесь;1;1;from
+Q169674;Kakheti;категория для людей, родившихся здесь;1;1;from
+Q169674;Kakheti;основной шаблон по теме;1;1;from
+Q12862627;Бечо;это частный случай понятия;1;1;from

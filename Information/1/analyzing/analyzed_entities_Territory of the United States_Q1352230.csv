@@ -1,0 +1,746 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q1183;Puerto Rico;названо в честь;1;6;to
+Q1515638;Missouri Territory;изображение флага;1;1;from
+Q1420228;Oregon Territory;названо в честь;1;1;to
+Q1420228;Oregon Territory;юрисдикция распространяется на;1;2;to
+Q1420228;Oregon Territory;основная тема;1;1;to
+Q1515638;Missouri Territory;следующее по порядку;1;1;from
+Q1515638;Missouri Territory;государство;1;1;from
+Q1515638;Missouri Territory;карта местонахождения;1;1;from
+Q1515638;Missouri Territory;это частный случай понятия;1;1;from
+Q1515638;Missouri Territory;столица;1;1;from
+Q1515638;Missouri Territory;официальный язык;1;1;from
+Q1515638;Missouri Territory;дата основания/создания/возникновения;1;1;from
+Q1518439;Territory of Orleans;это частный случай понятия;1;2;from
+Q1515638;Missouri Territory;дата прекращения существования;1;1;from
+Q1515638;Missouri Territory;географические координаты;1;1;from
+Q1515638;Missouri Territory;код Freebase;1;1;from
+Q1515638;Missouri Territory;основная категория по теме;1;1;from
+Q1515638;Missouri Territory;административно-территориальная единица;1;1;to
+Q1515638;Missouri Territory;основная тема;1;1;to
+Q1515638;Missouri Territory;общая тема категории;1;1;to
+Q1515638;Missouri Territory;является столицей;1;1;to
+Q1518439;Territory of Orleans;административно-территориальная единица;1;2;to
+Q1420228;Oregon Territory;место рождения;1;1;to
+Q1420228;Oregon Territory;местонахождение;1;1;to
+Q1420228;Oregon Territory;место смерти;1;2;to
+Q1420228;Oregon Territory;категория объединяет темы;1;7;to
+Q1360064;Michigan Territory;категория объединяет темы;1;8;to
+Q1360064;Michigan Territory;место рождения;1;1;to
+Q1360064;Michigan Territory;общая тема категории;1;1;to
+Q1360064;Michigan Territory;является столицей;1;1;to
+Q1420228;Oregon Territory;административно-территориальная единица;1;1;to
+Q1420228;Oregon Territory;изображение печати/эмблемы;1;1;from
+Q1420228;Oregon Territory;государство;1;1;from
+Q1420228;Oregon Territory;законодательный орган;1;1;from
+Q1420228;Oregon Territory;код VIAF;1;1;from
+Q1420228;Oregon Territory;карта местонахождения;1;1;from
+Q1420228;Oregon Territory;код LCNAF;1;1;from
+Q1420228;Oregon Territory;это частный случай понятия;1;2;from
+Q1420228;Oregon Territory;категория на Викискладе;1;1;from
+Q1420228;Oregon Territory;дата основания/создания/возникновения;1;1;from
+Q1420228;Oregon Territory;дата прекращения существования;1;1;from
+Q1420228;Oregon Territory;географические координаты;1;1;from
+Q1420228;Oregon Territory;код Freebase;1;1;from
+Q1420228;Oregon Territory;основная категория по теме;1;1;from
+Q1420228;Oregon Territory;общая тема категории;1;1;to
+Q1518439;Territory of Orleans;государство;1;1;from
+Q1518439;Territory of Orleans;изображение флага;1;1;from
+Q769617;Iowa Territory;общая тема категории;1;1;to
+Q1580241;Nevada Territory;это частный случай понятия;1;1;from
+Q1548588;Southwest Territory;это частный случай понятия;1;2;from
+Q1548588;Southwest Territory;заменён на;1;1;from
+Q1548588;Southwest Territory;дата основания/создания/возникновения;1;1;from
+Q1548588;Southwest Territory;дата прекращения существования;1;1;from
+Q1548588;Southwest Territory;Tennessee Encyclopedia ID;1;1;from
+Q1548588;Southwest Territory;код Freebase;1;1;from
+Q1548588;Southwest Territory;основная категория по теме;1;1;from
+Q1548588;Southwest Territory;общая тема категории;1;1;to
+Q1580241;Nevada Territory;государство;1;1;from
+Q1580241;Nevada Territory;категория на Викискладе;1;1;from
+Q1518439;Territory of Orleans;код в энциклопедии «Британника онлайн»;1;1;from
+Q1580241;Nevada Territory;дата основания/создания/возникновения;1;1;from
+Q1580241;Nevada Territory;дата прекращения существования;1;1;from
+Q1580241;Nevada Territory;код Freebase;1;1;from
+Q1580241;Nevada Territory;основная категория по теме;1;1;from
+Q1580241;Nevada Territory;общая тема категории;1;1;to
+Q1580241;Nevada Territory;административно-территориальная единица;1;1;to
+Q1658828;Illinois Territory;государство;1;1;from
+Q1658828;Illinois Territory;карта местонахождения;1;1;from
+Q1658828;Illinois Territory;это частный случай понятия;1;1;from
+Q1548588;Southwest Territory;государство;1;1;from
+Q1548588;Southwest Territory;административно-территориальная единица;1;1;to
+Q1530285;Minnesota Territory;заменил;1;1;to
+Q1530285;Minnesota Territory;общая тема категории;1;1;to
+Q1518439;Territory of Orleans;дата основания/создания/возникновения;1;1;from
+Q1518439;Territory of Orleans;дата прекращения существования;1;1;from
+Q1518439;Territory of Orleans;код Freebase;1;1;from
+Q1518439;Territory of Orleans;основная категория по теме;1;1;from
+Q1518439;Territory of Orleans;местонахождение;1;1;to
+Q1518439;Territory of Orleans;общая тема категории;1;1;to
+Q1530285;Minnesota Territory;государство;1;1;from
+Q1530285;Minnesota Territory;законодательный орган;1;1;from
+Q1530285;Minnesota Territory;это частный случай понятия;1;1;from
+Q1530285;Minnesota Territory;столица;1;1;from
+Q1530285;Minnesota Territory;заменён на;1;1;from
+Q1530285;Minnesota Territory;категория на Викискладе;1;1;from
+Q1530285;Minnesota Territory;дата основания/создания/возникновения;1;1;from
+Q1530285;Minnesota Territory;дата прекращения существования;1;1;from
+Q1530285;Minnesota Territory;код Freebase;1;1;from
+Q1530285;Minnesota Territory;основная категория по теме;1;1;from
+Q1530285;Minnesota Territory;категория объединяет темы;1;2;to
+Q1530285;Minnesota Territory;юрисдикция распространяется на;1;1;to
+Q1530285;Minnesota Territory;административно-территориальная единица;1;2;to
+Q1360064;Michigan Territory;участник(и);1;1;to
+Q1360064;Michigan Territory;местонахождение;1;2;to
+Q1360064;Michigan Territory;основная категория по теме;1;1;from
+Q1117425;Dakota Territory;категория на Викискладе;1;1;from
+Q1111241;Colorado Territory;юрисдикция распространяется на;1;1;to
+Q1111241;Colorado Territory;заменил;1;1;to
+Q1117425;Dakota Territory;государство;1;1;from
+Q1117425;Dakota Territory;это частный случай понятия;1;1;from
+Q1117425;Dakota Territory;столица;1;1;from
+Q1117425;Dakota Territory;имеет границы с;1;2;from
+Q1117425;Dakota Territory;код US National Archives;1;1;from
+Q1117425;Dakota Territory;код в Большой каталанской энциклопедии;1;1;from
+Q1117425;Dakota Territory;заменён на;1;1;from
+Q1117425;Dakota Territory;дата основания/создания/возникновения;1;1;from
+Q1360064;Michigan Territory;код Freebase;1;1;from
+Q1117425;Dakota Territory;дата прекращения существования;1;1;from
+Q1117425;Dakota Territory;идентификатор Dizionario di Storia;1;1;from
+Q1117425;Dakota Territory;код Freebase;1;1;from
+Q1117425;Dakota Territory;основная категория по теме;1;1;from
+Q1117425;Dakota Territory;местонахождение;1;8;to
+Q1117425;Dakota Territory;категория объединяет темы;1;30;to
+Q1117425;Dakota Territory;место жительства;1;2;to
+Q1117425;Dakota Territory;место рождения;1;4;to
+Q1117425;Dakota Territory;административно-территориальная единица;1;4;to
+Q1111241;Colorado Territory;принадлежность;1;1;to
+Q1111241;Colorado Territory;место смерти;1;1;to
+Q1111241;Colorado Territory;административно-территориальная единица;1;5;to
+Q1111241;Colorado Territory;категория объединяет темы;1;16;to
+Q777763;Indiana Territory;государство;1;1;from
+Q777763;Indiana Territory;это частный случай понятия;1;2;from
+Q777763;Indiana Territory;столица;1;1;from
+Q777763;Indiana Territory;изображение флага;1;1;from
+Q777763;Indiana Territory;код в энциклопедии «Британника онлайн»;1;1;from
+Q777763;Indiana Territory;категория на Викискладе;1;1;from
+Q777763;Indiana Territory;дата основания/создания/возникновения;1;1;from
+Q777763;Indiana Territory;дата прекращения существования;1;1;from
+Q777763;Indiana Territory;код Freebase;1;1;from
+Q777763;Indiana Territory;основная категория по теме;1;1;from
+Q777763;Indiana Territory;общая тема категории;1;1;to
+Q1111241;Colorado Territory;государство;1;1;from
+Q1111241;Colorado Territory;это частный случай понятия;1;1;from
+Q1111241;Colorado Territory;категория на Викискладе;1;1;from
+Q1111241;Colorado Territory;дата основания/создания/возникновения;1;1;from
+Q1111241;Colorado Territory;дата прекращения существования;1;1;from
+Q1111241;Colorado Territory;код Freebase;1;1;from
+Q1111241;Colorado Territory;основная категория по теме;1;1;from
+Q1111241;Colorado Territory;общая тема категории;1;1;to
+Q1117425;Dakota Territory;юрисдикция распространяется на;1;1;to
+Q1117425;Dakota Territory;история происходит в месте;1;3;to
+Q1117425;Dakota Territory;место смерти;1;1;to
+Q1187087;Florida Territory;категория на Викискладе;1;1;from
+Q1187087;Florida Territory;дата прекращения существования;1;1;from
+Q1187087;Florida Territory;географические координаты;1;1;from
+Q1187087;Florida Territory;код Freebase;1;1;from
+Q1187087;Florida Territory;основная категория по теме;1;1;from
+Q1187087;Florida Territory;административно-территориальная единица;1;2;to
+Q1187087;Florida Territory;категория объединяет темы;1;20;to
+Q1187087;Florida Territory;юрисдикция распространяется на;1;1;to
+Q1187087;Florida Territory;общая тема категории;1;1;to
+Q1187087;Florida Territory;заменил;1;1;to
+Q1360064;Michigan Territory;административно-территориальная единица;1;1;to
+Q1360064;Michigan Territory;государство;1;1;from
+Q1360064;Michigan Territory;это частный случай понятия;1;2;from
+Q1360064;Michigan Territory;столица;1;1;from
+Q1360064;Michigan Territory;код BabelNet;1;1;from
+Q1360064;Michigan Territory;категория на Викискладе;1;1;from
+Q1360064;Michigan Territory;дата основания/создания/возникновения;1;1;from
+Q1360064;Michigan Territory;дата прекращения существования;1;1;from
+Q1360064;Michigan Territory;код GNIS;1;1;from
+Q1360064;Michigan Territory;географические координаты;1;1;from
+Q1187087;Florida Territory;дата основания/создания/возникновения;1;1;from
+Q1187087;Florida Territory;короткое название;1;2;from
+Q1117425;Dakota Territory;основная тема;1;3;to
+Q1187087;Florida Territory;заменён на;1;1;to
+Q1117425;Dakota Territory;общая тема категории;1;1;to
+Q1117425;Dakota Territory;заменил;1;1;to
+Q1186251;Wisconsin Territory;государство;1;1;from
+Q1186251;Wisconsin Territory;это частный случай понятия;1;1;from
+Q1186251;Wisconsin Territory;столица;1;1;from
+Q1186251;Wisconsin Territory;категория на Викискладе;1;1;from
+Q1186251;Wisconsin Territory;код для сущности Wolfram Language;1;1;from
+Q1186251;Wisconsin Territory;дата основания/создания/возникновения;1;1;from
+Q1186251;Wisconsin Territory;дата прекращения существования;1;1;from
+Q1186251;Wisconsin Territory;географические координаты;1;1;from
+Q1186251;Wisconsin Territory;код Freebase;1;1;from
+Q1186251;Wisconsin Territory;основная категория по теме;1;1;from
+Q1186251;Wisconsin Territory;категория объединяет темы;1;14;to
+Q1186251;Wisconsin Territory;юрисдикция распространяется на;1;2;to
+Q1186251;Wisconsin Territory;место рождения;1;1;to
+Q1186251;Wisconsin Territory;административно-территориальная единица;1;1;to
+Q1186251;Wisconsin Territory;общая тема категории;1;1;to
+Q1187087;Florida Territory;государство;1;1;from
+Q1187087;Florida Territory;это частный случай понятия;1;1;from
+Q1658828;Illinois Territory;изображение флага;1;1;from
+Q1658828;Illinois Territory;категория на Викискладе;1;1;from
+Q1658828;Illinois Territory;дата основания/создания/возникновения;1;1;from
+Q3551781;District of Columbia;процент водной поверхности;1;1;from
+Q3551781;District of Columbia;короткое название;1;8;from
+Q3551781;District of Columbia;не путать с;1;2;to
+Q3551781;District of Columbia;площадь;1;3;from
+Q3551781;District of Columbia;история темы;1;1;from
+Q3551781;District of Columbia;официальный символ;1;6;from
+Q3551781;District of Columbia;география темы;1;1;from
+Q3551781;District of Columbia;код BNF;1;1;from
+Q3551781;District of Columbia;код SUDOC;1;1;from
+Q3551781;District of Columbia;URL;1;2;from
+Q3551781;District of Columbia;ISO 3166-2;1;1;from
+Q3551781;District of Columbia;код GND;1;1;from
+Q3551781;District of Columbia;территория перекрывается с;1;1;to
+Q3551781;District of Columbia;код NE.se;1;1;from
+Q3551781;District of Columbia;код в Итальянской энциклопедии онлайн;1;1;from
+Q3551781;District of Columbia;занимает ту же территорию с;1;1;to
+Q3551781;District of Columbia;часть от;1;2;from
+Q3551781;District of Columbia;категория на Викискладе;1;1;from
+Q3551781;District of Columbia;Open Library subject ID;1;1;from
+Q3551781;District of Columbia;геоданные;1;1;from
+Q3551781;District of Columbia;ID отношения в OpenStreetMap;1;1;from
+Q3551781;District of Columbia;категория для людей, связанных с местностью;1;1;from
+Q3551781;District of Columbia;категория для людей, похороненных здесь;1;1;from
+Q3551781;District of Columbia;категория фильмов, снятых в этом месте;1;1;from
+Q3551781;District of Columbia;код TGN;1;1;from
+Q3551781;District of Columbia;карта местонахождения;1;2;from
+Q3551781;District of Columbia;код LCNAF;1;1;from
+Q3551781;District of Columbia;это частный случай понятия;1;2;from
+Q3551781;District of Columbia;изображение флага;1;1;from
+Q3551781;District of Columbia;имеет границы с;1;2;to
+Q3551781;District of Columbia;код BAV;1;1;from
+Q3551781;District of Columbia;численность населения;1;4;from
+Q3551781;District of Columbia;портал Викимедиа;1;1;from
+Q3551781;District of Columbia;WOEID;1;2;from
+Q3551781;District of Columbia;код в Большой каталанской энциклопедии;1;1;from
+Q3551781;District of Columbia;должность главы правительства;1;1;from
+Q3551781;District of Columbia;самая северная точка;1;1;from
+Q3551781;District of Columbia;официальное название;1;1;from
+Q3551781;District of Columbia;текст девиза;1;2;from
+Q3551781;District of Columbia;категория для людей, родившихся здесь;1;1;from
+Q3551781;District of Columbia;категория для людей, умерших здесь;1;1;from
+Q3551781;District of Columbia;этнохороним;1;1;from
+Q3551781;District of Columbia;код GeoNames;1;1;from
+Q3551781;District of Columbia;глубочайшая точка;1;2;from
+Q3551781;District of Columbia;код NLA;1;1;from
+Q3551781;District of Columbia;часовой пояс;1;4;from
+Q3551781;District of Columbia;код тезауруса PACTOLS;1;1;from
+Q3551781;District of Columbia;общая тема категории;1;1;to
+Q3551781;District of Columbia;состоит из;1;2;to
+Q3551781;District of Columbia;местонахождение;1;2;to
+Q3551781;District of Columbia;расположение штаб-квартиры;1;1;to
+Q3551781;District of Columbia;основная тема;1;1;to
+Q3551781;District of Columbia;тематически относится к;1;4;to
+Q3551781;District of Columbia;место смерти;1;1;to
+Q3551781;District of Columbia;категория объединяет темы;1;6;to
+Q3551781;District of Columbia;вызывает;1;1;to
+Q6042084;Insular Government of the Philippine Islands;это частный случай понятия;1;3;from
+Q6042084;Insular Government of the Philippine Islands;изображение флага;1;1;from
+Q6042084;Insular Government of the Philippine Islands;изображение герба;1;1;from
+Q6042084;Insular Government of the Philippine Islands;заменил;1;1;to
+Q6042084;Insular Government of the Philippine Islands;заменён на;1;1;to
+Q6042084;Insular Government of the Philippine Islands;дата основания/создания/возникновения;1;1;from
+Q6042084;Insular Government of the Philippine Islands;дата прекращения существования;1;1;from
+Q6042084;Insular Government of the Philippine Islands;основная категория по теме;1;1;from
+Q6042084;Insular Government of the Philippine Islands;место рождения;1;7;to
+Q6042084;Insular Government of the Philippine Islands;гражданство;1;2;to
+Q6042084;Insular Government of the Philippine Islands;общая тема категории;1;1;to
+Q3551781;District of Columbia;зона обслуживания;1;5;to
+Q3551781;District of Columbia;юрисдикция распространяется на;1;16;to
+Q3551781;District of Columbia;основополагающий текст;1;2;from
+Q3551781;District of Columbia;основная тема портала Викимедиа;1;1;to
+Q3551781;District of Columbia;код LoC and MARC;1;1;from
+Q3551781;District of Columbia;FIPS 5-2 буквенный код (штат в США);1;1;from
+Q3551781;District of Columbia;FIPS 5-2 цифровой код (штат в США);1;1;from
+Q3551781;District of Columbia;обзорная статья Викимедиа;1;1;from
+Q3551781;District of Columbia;географический центр;1;1;from
+Q3551781;District of Columbia;дата основания/создания/возникновения;1;1;from
+Q3551781;District of Columbia;код GNIS;1;1;from
+Q3551781;District of Columbia;наивысшая точка;1;1;from
+Q3551781;District of Columbia;географические координаты;1;1;from
+Q3551781;District of Columbia;код в Open Library;1;2;from
+Q3551781;District of Columbia;максимальная температура;1;2;from
+Q3551781;District of Columbia;минимум температуры;1;1;from
+Q3551781;District of Columbia;категория карт на Викискладе;1;1;from
+Q3551781;District of Columbia;причиной является;1;1;from
+Q3551781;District of Columbia;официальный сайт;1;1;from
+Q3551781;District of Columbia;FIPS 10-4 (страны и регионы);1;1;from
+Q3551781;District of Columbia;основная категория по теме;1;1;from
+Q3551781;District of Columbia;баннер Викигида;1;1;from
+Q3551781;District of Columbia;код NLI;1;1;from
+Q3551781;District of Columbia;описание герба;1;1;from
+Q3551781;District of Columbia;код VIAF;1;1;from
+Q1658828;Illinois Territory;дата прекращения существования;1;1;from
+Q1723905;Kansas Territory;дата прекращения существования;1;1;from
+Q1710656;Washington Territory;должность руководителя организации;1;1;to
+Q1710656;Washington Territory;административно-территориальная единица;1;1;to
+Q1710656;Washington Territory;общая тема категории;1;1;to
+Q1710656;Washington Territory;заменил;1;1;to
+Q1723905;Kansas Territory;государство;1;1;to
+Q1723905;Kansas Territory;карта местонахождения;1;1;from
+Q1723905;Kansas Territory;это частный случай понятия;1;1;from
+Q1723905;Kansas Territory;категория на Викискладе;1;1;from
+Q1723905;Kansas Territory;дата основания/создания/возникновения;1;1;from
+Q1723905;Kansas Territory;географические координаты;1;1;from
+Q3551781;District of Columbia;код ISNI;1;1;from
+Q1723905;Kansas Territory;код Freebase;1;1;from
+Q1723905;Kansas Territory;Kansaspedia ID;1;1;from
+Q1723905;Kansas Territory;основная категория по теме;1;1;from
+Q1723905;Kansas Territory;категория объединяет темы;1;9;to
+Q1723905;Kansas Territory;административно-территориальная единица;1;5;to
+Q1723905;Kansas Territory;место жительства;1;8;to
+Q1723905;Kansas Territory;общая тема категории;1;1;to
+Q1814493;Alabama Territory;государство;1;1;from
+Q1814493;Alabama Territory;карта местонахождения;1;1;from
+Q1710656;Washington Territory;юрисдикция распространяется на;1;1;to
+Q1710656;Washington Territory;место смерти;1;1;to
+Q1710656;Washington Territory;местонахождение;1;2;to
+Q1710656;Washington Territory;категория объединяет темы;1;35;to
+Q1658828;Illinois Territory;географические координаты;1;1;from
+Q1658828;Illinois Territory;код Freebase;1;1;from
+Q1658828;Illinois Territory;основная категория по теме;1;1;from
+Q1658828;Illinois Territory;место рождения;1;2;to
+Q1658828;Illinois Territory;место смерти;1;1;to
+Q1658828;Illinois Territory;административно-территориальная единица;1;1;to
+Q1658828;Illinois Territory;общая тема категории;1;1;to
+Q1710656;Washington Territory;государство;1;1;from
+Q1710656;Washington Territory;это частный случай понятия;1;1;from
+Q1710656;Washington Territory;столица;1;1;from
+Q1710656;Washington Territory;имеет границы с;1;1;from
+Q1710656;Washington Territory;код US National Archives;1;1;from
+Q1710656;Washington Territory;заменён на;1;1;from
+Q1710656;Washington Territory;код в энциклопедии «Британника онлайн»;1;1;from
+Q1710656;Washington Territory;категория на Викискладе;1;1;from
+Q1710656;Washington Territory;дата основания/создания/возникновения;1;1;from
+Q1710656;Washington Territory;дата прекращения существования;1;1;from
+Q1710656;Washington Territory;код Freebase;1;1;from
+Q1710656;Washington Territory;основная категория по теме;1;1;from
+Q1814493;Alabama Territory;это частный случай понятия;1;1;from
+Q1814493;Alabama Territory;изображение флага;1;1;from
+Q1814493;Alabama Territory;заменил;1;1;to
+Q2017330;Oklahoma Territory;категория на Викискладе;1;1;from
+Q2017330;Oklahoma Territory;дата прекращения существования;1;1;from
+Q2017330;Oklahoma Territory;географические координаты;1;1;from
+Q2017330;Oklahoma Territory;код Freebase;1;1;from
+Q2017330;Oklahoma Territory;The Encyclopedia of Oklahoma History and Culture ID;1;1;from
+Q2017330;Oklahoma Territory;основная категория по теме;1;1;from
+Q2017330;Oklahoma Territory;категория объединяет темы;1;19;to
+Q2017330;Oklahoma Territory;общая тема категории;1;1;to
+Q2017330;Oklahoma Territory;место рождения;1;3;to
+Q2017330;Oklahoma Territory;юрисдикция распространяется на;1;2;to
+Q2017330;Oklahoma Territory;заменил;1;1;to
+Q3551781;District of Columbia;административно-территориальная единица;1;553;to
+Q3551781;District of Columbia;названо в честь;1;1;from
+Q3551781;District of Columbia;административно делится на;1;7;from
+Q3551781;District of Columbia;изображение печати/эмблемы;1;1;from
+Q3551781;District of Columbia;описание флага;1;1;from
+Q3551781;District of Columbia;государство;1;1;from
+Q3551781;District of Columbia;законодательный орган;1;1;from
+Q3551781;District of Columbia;исполнительная власть;1;1;from
+Q3551781;District of Columbia;высший судебный орган;1;1;from
+Q2017330;Oklahoma Territory;дата основания/создания/возникновения;1;1;from
+Q2017330;Oklahoma Territory;код темы Quora;1;1;from
+Q1814493;Alabama Territory;заменён на;1;1;to
+Q2017330;Oklahoma Territory;код в энциклопедии «Британника онлайн»;1;1;from
+Q1814493;Alabama Territory;категория на Викискладе;1;1;from
+Q1814493;Alabama Territory;дата основания/создания/возникновения;1;1;from
+Q1814493;Alabama Territory;дата прекращения существования;1;1;from
+Q1814493;Alabama Territory;географические координаты;1;1;from
+Q1814493;Alabama Territory;код Freebase;1;1;from
+Q1814493;Alabama Territory;основная категория по теме;1;1;from
+Q1814493;Alabama Territory;категория объединяет темы;1;2;to
+Q1814493;Alabama Territory;административно-территориальная единица;1;1;to
+Q1814493;Alabama Territory;юрисдикция распространяется на;1;2;to
+Q1814493;Alabama Territory;общая тема категории;1;1;to
+Q1814493;Alabama Territory;место смерти;1;1;to
+Q2017330;Oklahoma Territory;административно-территориальная единица;1;3;to
+Q2017330;Oklahoma Territory;названо в честь;1;1;to
+Q2017330;Oklahoma Territory;государство;1;1;from
+Q2017330;Oklahoma Territory;изображение;1;1;from
+Q2017330;Oklahoma Territory;законодательный орган;1;1;from
+Q2017330;Oklahoma Territory;это частный случай понятия;1;1;from
+Q2017330;Oklahoma Territory;столица;1;1;from
+Q2017330;Oklahoma Territory;заменён на;1;1;from
+Q777763;Indiana Territory;административно-территориальная единица;1;1;to
+Q769617;Iowa Territory;административно-территориальная единица;1;1;to
+Q1183;Puerto Rico;административно делится на;1;78;from
+Q1183;Puerto Rico;DR topic ID;1;1;from
+Q1183;Puerto Rico;идентификатор таблицы данных Invasive Species Compendium;1;1;from
+Q1183;Puerto Rico;дата основания/создания/возникновения;1;1;from
+Q1183;Puerto Rico;код GNIS;1;1;from
+Q1183;Puerto Rico;код в Ларуссе;1;1;from
+Q1183;Puerto Rico;наивысшая точка;1;1;from
+Q1183;Puerto Rico;географические координаты;1;1;from
+Q1183;Puerto Rico;код Freebase;1;1;from
+Q1183;Puerto Rico;максимальная температура;1;2;from
+Q1183;Puerto Rico;Who's on First ID;1;1;from
+Q1183;Puerto Rico;код NKC;1;1;from
+Q1183;Puerto Rico;баннер Викигида;1;1;from
+Q1183;Puerto Rico;World Encyclopedia of Puppetry Arts ID;1;1;from
+Q1183;Puerto Rico;находится в пределах природно-географического объекта;1;1;from
+Q1183;Puerto Rico;минимум температуры;1;2;from
+Q1183;Puerto Rico;French Vikidia ID;1;1;from
+Q1183;Puerto Rico;категория карт на Викискладе;1;1;from
+Q1183;Puerto Rico;ключевое событие;1;4;from
+Q1183;Puerto Rico;официальный сайт;1;1;from
+Q1183;Puerto Rico;FIPS 10-4 (страны и регионы);1;1;from
+Q1183;Puerto Rico;основная категория по теме;1;1;from
+Q1183;Puerto Rico;идентификатор местоположения ArchINFORM;1;1;from
+Q1183;Puerto Rico;EuroVoc ID;1;1;from
+Q1183;Puerto Rico;код The Encyclopedia of Science Fiction;1;1;from
+Q1183;Puerto Rico;код IAB;1;1;from
+Q1183;Puerto Rico;код Тезауруса ЮНЕСКО;1;1;from
+Q1183;Puerto Rico;сабреддит;1;1;from
+Q1183;Puerto Rico;ВВП (ППС);1;28;from
+Q1183;Puerto Rico;ID отношения в OpenStreetMap;1;1;from
+Q1183;Puerto Rico;код NLA;1;1;from
+Q1183;Puerto Rico;святой покровитель;1;1;from
+Q1183;Puerto Rico;часовой пояс;1;1;from
+Q1183;Puerto Rico;код GACS;1;1;from
+Q1183;Puerto Rico;произношение (звуковой файл);1;1;from
+Q1183;Puerto Rico;основополагающий текст;1;1;from
+Q1183;Puerto Rico;телефонный код страны;1;2;from
+Q1183;Puerto Rico;код LoC and MARC;1;1;from
+Q1183;Puerto Rico;код для сущности Wolfram Language;1;1;from
+Q1183;Puerto Rico;суммарный коэффициент рождаемости;1;32;from
+Q1183;Puerto Rico;идентификатор MeSH;1;1;from
+Q1183;Puerto Rico;рабочий список проекта Викимедиа;1;1;from
+Q1183;Puerto Rico;FIPS 5-2 буквенный код (штат в США);1;1;from
+Q1183;Puerto Rico;FIPS 5-2 цифровой код (штат в США);1;1;from
+Q1183;Puerto Rico;обзорная статья Викимедиа;1;1;from
+Q1183;Puerto Rico;галерея на Викискладе;1;1;from
+Q1183;Puerto Rico;код NLI;1;1;from
+Q769617;Iowa Territory;юрисдикция распространяется на;1;1;to
+Q1183;Puerto Rico;место проведения исследования;1;81;to
+Q1183;Puerto Rico;является эндемиком в;1;1;to
+Q1183;Puerto Rico;место активности;1;4;to
+Q1183;Puerto Rico;участник(и);1;1;to
+Q1183;Puerto Rico;среда обитания;1;1;to
+Q1183;Puerto Rico;основная тема;1;11;to
+Q1183;Puerto Rico;основная тема шаблона;1;1;to
+Q1183;Puerto Rico;опубликовано в;1;1;to
+Q1183;Puerto Rico;место погребения;1;1;to
+Q1183;Puerto Rico;общая тема категории;1;1;to
+Q1183;Puerto Rico;через;1;1;to
+Q1183;Puerto Rico;код BNE;1;1;from
+Q1183;Puerto Rico;владельцем является;1;2;to
+Q1183;Puerto Rico;материнская компания (организация, учреждение);1;2;to
+Q1183;Puerto Rico;на территорию претендует;1;1;to
+Q1183;Puerto Rico;является столицей;1;1;to
+Q1183;Puerto Rico;энтохороним от;1;3;to
+Q128026;Utah Territory;административно-территориальная единица;1;2;to
+Q128026;Utah Territory;государство;1;1;from
+Q128026;Utah Territory;изображение;1;1;from
+Q128026;Utah Territory;это частный случай понятия;1;2;from
+Q1183;Puerto Rico;место создания;1;18;to
+Q1183;Puerto Rico;тематически относится к;1;11;to
+Q1183;Puerto Rico;место публикации;1;3;to
+Q1183;Puerto Rico;инвазионный вид для;1;1;to
+Q1183;Puerto Rico;место в MusicBrainz;1;1;from
+Q1183;Puerto Rico;код страны МОК;1;1;from
+Q1183;Puerto Rico;dmoz;1;1;from
+Q1183;Puerto Rico;юрисдикция распространяется на;1;67;to
+Q1183;Puerto Rico;административно-территориальная единица;1;5434;to
+Q1183;Puerto Rico;страна происхождения;1;62;to
+Q1183;Puerto Rico;гражданство;1;1222;to
+Q1183;Puerto Rico;место рождения;1;187;to
+Q1183;Puerto Rico;представляет страну в спорте;1;224;to
+Q1183;Puerto Rico;расположение штаб-квартиры;1;13;to
+Q1183;Puerto Rico;история происходит в месте;1;27;to
+Q1183;Puerto Rico;место съёмок;1;10;to
+Q1183;Puerto Rico;категория объединяет темы;1;354;to
+Q1183;Puerto Rico;место смерти;1;35;to
+Q1183;Puerto Rico;зона обслуживания;1;8;to
+Q1183;Puerto Rico;место жительства;1;16;to
+Q1183;Puerto Rico;местонахождение;1;27;to
+Q1183;Puerto Rico;состоит из;1;6;to
+Q1183;Puerto Rico;основная тема портала Викимедиа;1;1;to
+Q1183;Puerto Rico;геоданные;1;1;from
+Q1183;Puerto Rico;категория на Викискладе;1;1;from
+Q1183;Puerto Rico;идентификатор темы Le Monde diplomatique;1;1;from
+Q1183;Puerto Rico;должность главы правительства;1;1;from
+Q1183;Puerto Rico;изображение герба;1;1;from
+Q1183;Puerto Rico;десятичная классификация Дьюи;1;1;from
+Q1183;Puerto Rico;численность населения;1;57;from
+Q1183;Puerto Rico;портал Викимедиа;1;1;from
+Q1183;Puerto Rico;код US National Archives;1;1;from
+Q1183;Puerto Rico;значение в OmegaWiki;1;1;from
+Q1183;Puerto Rico;код CANTIC;1;1;from
+Q1183;Puerto Rico;уровень инфляции;1;36;from
+Q1183;Puerto Rico;код в Большой каталанской энциклопедии;1;2;from
+Q1183;Puerto Rico;код в Национальной библиотеке Австралии (персоналии);1;1;from
+Q1183;Puerto Rico;часть от;1;2;from
+Q1183;Puerto Rico;описывается в источниках;1;4;from
+Q1183;Puerto Rico;код в энциклопедии «Британника онлайн»;1;1;from
+Q1183;Puerto Rico;основной шаблон по теме;1;1;from
+Q1183;Puerto Rico;официальное название;1;4;from
+Q1183;Puerto Rico;текст девиза;1;2;from
+Q1183;Puerto Rico;категория для людей, родившихся здесь;1;1;from
+Q1183;Puerto Rico;категория для людей, умерших здесь;1;1;from
+Q1183;Puerto Rico;этнохороним;1;17;from
+Q1183;Puerto Rico;код GeoNames;1;1;from
+Q1183;Puerto Rico;гимн;1;1;from
+Q1183;Puerto Rico;интернет-домен верхнего уровня;1;1;from
+Q1183;Puerto Rico;глава правительства;1;5;from
+Q1183;Puerto Rico;имеет границы с;1;1;to
+Q1183;Puerto Rico;описание флага;1;1;from
+Q1183;Puerto Rico;государство;1;234;to
+Q1183;Puerto Rico;изображение;1;1;from
+Q1183;Puerto Rico;законодательный орган;1;1;from
+Q1183;Puerto Rico;находится на берегу водоёма;1;2;from
+Q1183;Puerto Rico;исполнительная власть;1;1;from
+Q1183;Puerto Rico;высший судебный орган;1;1;from
+Q1183;Puerto Rico;код ISNI;1;1;from
+Q1183;Puerto Rico;код VIAF;1;1;from
+Q1183;Puerto Rico;код GND;1;1;from
+Q1183;Puerto Rico;описание герба;1;1;from
+Q1183;Puerto Rico;карта местонахождения;1;3;from
+Q1183;Puerto Rico;код LCNAF;1;1;from
+Q1183;Puerto Rico;часть света;1;1;from
+Q1183;Puerto Rico;это частный случай понятия;1;1;to
+Q1183;Puerto Rico;столица;1;1;from
+Q1183;Puerto Rico;официальный язык;1;2;from
+Q1183;Puerto Rico;денежная единица;1;1;from
+Q1183;Puerto Rico;изображение флага;1;1;from
+Q1183;Puerto Rico;глубочайшая точка;1;1;from
+Q1183;Puerto Rico;код BBC Things;1;1;from
+Q1183;Puerto Rico;сторона автомобильного движения;1;1;from
+Q1183;Puerto Rico;тип электрического разъёма;1;2;from
+Q1183;Puerto Rico;код в Большой российской энциклопедии онлайн;1;1;from
+Q1183;Puerto Rico;процент водной поверхности;1;1;from
+Q1183;Puerto Rico;используемый язык;1;7;from
+Q1183;Puerto Rico;ISO 3166-1 alpha-2;1;1;from
+Q1183;Puerto Rico;maritime identification digits;1;1;from
+Q1183;Puerto Rico;ISO 3166-1 alpha-3;1;1;from
+Q1183;Puerto Rico;ISO 3166-1 цифровой;1;1;from
+Q1183;Puerto Rico;возраст совершеннолетия;1;1;from
+Q1183;Puerto Rico;ISO 3166-2;1;1;from
+Q1183;Puerto Rico;возраст вступления в брак;1;1;from
+Q1183;Puerto Rico;код marineregions.org;1;1;from
+Q1183;Puerto Rico;код RERO;1;1;from
+Q1183;Puerto Rico;код Statoids;1;1;from
+Q1183;Puerto Rico;код в Encyclopædia Universalis;1;1;from
+Q1183;Puerto Rico;код темы NYT;1;1;from
+Q1183;Puerto Rico;код Католической энциклопедии;1;1;from
+Q1183;Puerto Rico;код темы Quora;1;1;from
+Q1183;Puerto Rico;код INSEE для стран и зарубежных территорий;1;1;from
+Q1183;Puerto Rico;Zhihu topic ID;1;1;from
+Q1183;Puerto Rico;сетевое напряжение;1;1;from
+Q1183;Puerto Rico;номер телефона экстренной службы;1;1;from
+Q1183;Puerto Rico;код TGN;1;1;from
+Q1183;Puerto Rico;география темы;1;1;from
+Q1183;Puerto Rico;код LAC;1;2;from
+Q1183;Puerto Rico;название на языке оригинала;1;2;from
+Q1183;Puerto Rico;категория фильмов, снятых в этом месте;1;1;from
+Q1183;Puerto Rico;категория для людей, похороненных здесь;1;1;from
+Q1183;Puerto Rico;категория для людей, связанных с местностью;1;1;from
+Q1183;Puerto Rico;короткое название;1;1;from
+Q1183;Puerto Rico;код CCAB;1;1;from
+Q1183;Puerto Rico;позиционная карта;1;1;from
+Q1183;Puerto Rico;код NALT;1;1;from
+Q1183;Puerto Rico;площадь;1;1;from
+Q1183;Puerto Rico;номинальный ВВП на душу населения;1;57;from
+Q1183;Puerto Rico;код FAST;1;1;from
+Q1183;Puerto Rico;история темы;1;1;from
+Q1183;Puerto Rico;темп роста реального ВВП;1;1;from
+Q1183;Puerto Rico;ожидаемая продолжительность жизни;1;18;from
+Q1183;Puerto Rico;ППС ВВП на душу населения;1;28;from
+Q1183;Puerto Rico;код YSO;1;1;from
+Q1183;Puerto Rico;число детей, не учащихся в школе;1;4;from
+Q1183;Puerto Rico;код BabelNet;1;1;from
+Q128026;Utah Territory;изображение герба;1;1;from
+Q128026;Utah Territory;категория для людей, родившихся здесь;1;1;from
+Q128026;Utah Territory;категория на Викискладе;1;1;from
+Q670002;Arizona Territory;место смерти;1;6;to
+Q670002;Arizona Territory;дата основания/создания/возникновения;1;1;from
+Q670002;Arizona Territory;дата прекращения существования;1;1;from
+Q670002;Arizona Territory;географические координаты;1;1;from
+Q670002;Arizona Territory;код Freebase;1;1;from
+Q670002;Arizona Territory;основная категория по теме;1;1;from
+Q670002;Arizona Territory;место рождения;1;6;to
+Q670002;Arizona Territory;категория объединяет темы;1;57;to
+Q670002;Arizona Territory;место жительства;1;5;to
+Q670002;Arizona Territory;вызывает;1;1;to
+Q670002;Arizona Territory;местонахождение;1;3;to
+Q660384;Mississippi Territory;общая тема категории;1;1;to
+Q670002;Arizona Territory;история происходит в месте;1;1;to
+Q670002;Arizona Territory;юрисдикция распространяется на;1;1;to
+Q670002;Arizona Territory;административно-территориальная единица;1;3;to
+Q670002;Arizona Territory;общая тема категории;1;1;to
+Q672700;Arkansas Territory;названо в честь;1;1;from
+Q672700;Arkansas Territory;изображение печати/эмблемы;1;3;from
+Q672700;Arkansas Territory;государство;1;1;from
+Q672700;Arkansas Territory;находится на берегу водоёма;1;1;from
+Q672700;Arkansas Territory;код VIAF;1;1;from
+Q670002;Arizona Territory;категория на Викискладе;1;1;from
+Q670002;Arizona Territory;заменён на;1;1;to
+Q670002;Arizona Territory;заменил;1;1;to
+Q670002;Arizona Territory;столица;1;1;from
+Q669315;Northwest Territory;государство;1;1;from
+Q669315;Northwest Territory;код VIAF;1;1;from
+Q669315;Northwest Territory;код LCNAF;1;1;from
+Q669315;Northwest Territory;это частный случай понятия;1;2;from
+Q669315;Northwest Territory;столица;1;1;from
+Q669315;Northwest Territory;не путать с;1;1;to
+Q669315;Northwest Territory;категория на Викискладе;1;1;from
+Q669315;Northwest Territory;дата основания/создания/возникновения;1;1;from
+Q669315;Northwest Territory;дата прекращения существования;1;1;from
+Q669315;Northwest Territory;код Freebase;1;1;from
+Q669315;Northwest Territory;основная категория по теме;1;1;from
+Q669315;Northwest Territory;юрисдикция распространяется на;1;4;to
+Q669315;Northwest Territory;местонахождение;1;1;to
+Q669315;Northwest Territory;названо в честь;1;1;to
+Q669315;Northwest Territory;общая тема категории;1;1;to
+Q670002;Arizona Territory;государство;1;1;from
+Q670002;Arizona Territory;законодательный орган;1;1;from
+Q670002;Arizona Territory;карта местонахождения;1;2;from
+Q670002;Arizona Territory;это частный случай понятия;1;1;from
+Q672700;Arkansas Territory;карта местонахождения;1;1;from
+Q672700;Arkansas Territory;часть света;1;1;from
+Q672700;Arkansas Territory;это частный случай понятия;1;3;from
+Q672700;Arkansas Territory;заменил;1;1;to
+Q751536;Nebraska Territory;это частный случай понятия;1;1;from
+Q751536;Nebraska Territory;категория на Викискладе;1;1;from
+Q751536;Nebraska Territory;дата основания/создания/возникновения;1;1;from
+Q751536;Nebraska Territory;дата прекращения существования;1;1;from
+Q751536;Nebraska Territory;географические координаты;1;1;from
+Q751536;Nebraska Territory;код Freebase;1;1;from
+Q751536;Nebraska Territory;основная категория по теме;1;1;from
+Q751536;Nebraska Territory;общая тема категории;1;1;to
+Q751536;Nebraska Territory;место рождения;1;1;to
+Q751536;Nebraska Territory;административно-территориальная единица;1;1;to
+Q769617;Iowa Territory;государство;1;1;from
+Q769617;Iowa Territory;это частный случай понятия;1;1;from
+Q769617;Iowa Territory;категория на Викискладе;1;1;from
+Q769617;Iowa Territory;дата основания/создания/возникновения;1;1;from
+Q769617;Iowa Territory;дата прекращения существования;1;1;from
+Q769617;Iowa Territory;код Freebase;1;1;from
+Q769617;Iowa Territory;основная категория по теме;1;1;from
+Q769617;Iowa Territory;категория объединяет темы;1;3;to
+Q769617;Iowa Territory;место рождения;1;1;to
+Q751536;Nebraska Territory;государство;1;1;from
+Q672700;Arkansas Territory;общая тема категории;1;1;to
+Q672700;Arkansas Territory;столица;1;4;from
+Q672700;Arkansas Territory;административно-территориальная единица;1;1;to
+Q672700;Arkansas Territory;денежная единица;1;2;from
+Q672700;Arkansas Territory;изображение флага;1;7;from
+Q672700;Arkansas Territory;численность населения;1;2;from
+Q672700;Arkansas Territory;заменён на;1;1;from
+Q672700;Arkansas Territory;официальное название;1;1;from
+Q672700;Arkansas Territory;текст девиза;1;1;from
+Q672700;Arkansas Territory;название на языке оригинала;1;1;from
+Q672700;Arkansas Territory;короткое название;1;3;from
+Q672700;Arkansas Territory;часть от;1;1;from
+Q672700;Arkansas Territory;категория на Викискладе;1;1;from
+Q672700;Arkansas Territory;дата основания/создания/возникновения;1;1;from
+Q672700;Arkansas Territory;дата прекращения существования;1;1;from
+Q672700;Arkansas Territory;географические координаты;1;1;from
+Q672700;Arkansas Territory;код Freebase;1;1;from
+Q672700;Arkansas Territory;The Encyclopedia of Oklahoma History and Culture ID;1;1;from
+Q672700;Arkansas Territory;основная категория по теме;1;1;from
+Q672700;Arkansas Territory;место рождения;1;1;to
+Q672700;Arkansas Territory;категория объединяет темы;1;2;to
+Q672700;Arkansas Territory;юрисдикция распространяется на;1;2;to
+Q669315;Northwest Territory;административно-территориальная единица;1;1;to
+Q660384;Mississippi Territory;местонахождение;1;3;to
+Q128026;Utah Territory;дата основания/создания/возникновения;1;1;from
+Q547795;Territory of Hawaii;заменил;1;1;to
+Q377304;Wyoming Territory;общая тема категории;1;1;to
+Q377304;Wyoming Territory;предыдущее по порядку;1;1;to
+Q547795;Territory of Hawaii;административно-территориальная единица;1;2;to
+Q547795;Territory of Hawaii;государство;1;1;from
+Q547795;Territory of Hawaii;код ISNI;1;1;from
+Q547795;Territory of Hawaii;код VIAF;1;1;from
+Q547795;Territory of Hawaii;это частный случай понятия;1;3;from
+Q547795;Territory of Hawaii;столица;1;1;from
+Q547795;Territory of Hawaii;изображение флага;1;1;from
+Q547795;Territory of Hawaii;заменён на;1;1;to
+Q660384;Mississippi Territory;категория объединяет темы;1;18;to
+Q547795;Territory of Hawaii;используемый язык;1;1;from
+Q547795;Territory of Hawaii;LittleSis organisation ID;1;1;from
+Q547795;Territory of Hawaii;категория на Викискладе;1;1;from
+Q547795;Territory of Hawaii;дата основания/создания/возникновения;1;1;from
+Q547795;Territory of Hawaii;дата прекращения существования;1;1;from
+Q547795;Territory of Hawaii;географические координаты;1;1;from
+Q547795;Territory of Hawaii;код Freebase;1;1;from
+Q547795;Territory of Hawaii;основная категория по теме;1;1;from
+Q547795;Territory of Hawaii;представляет страну в спорте;1;1;to
+Q377304;Wyoming Territory;юрисдикция распространяется на;1;1;to
+Q377304;Wyoming Territory;административно-территориальная единица;1;3;to
+Q377304;Wyoming Territory;категория объединяет темы;1;2;to
+Q377304;Wyoming Territory;основная категория по теме;1;1;from
+Q128026;Utah Territory;дата прекращения существования;1;2;from
+Q128026;Utah Territory;код Freebase;1;1;from
+Q128026;Utah Territory;основная категория по теме;1;1;from
+Q128026;Utah Territory;категория объединяет темы;1;46;to
+Q128026;Utah Territory;местонахождение;1;1;to
+Q128026;Utah Territory;юрисдикция распространяется на;1;1;to
+Q128026;Utah Territory;общая тема категории;1;1;to
+Q128026;Utah Territory;место рождения;1;1;to
+Q128026;Utah Territory;заменил;1;1;to
+Q377304;Wyoming Territory;следующее по порядку;1;1;from
+Q377304;Wyoming Territory;государство;1;1;from
+Q377304;Wyoming Territory;часть света;1;1;from
+Q377304;Wyoming Territory;это частный случай понятия;1;1;from
+Q377304;Wyoming Territory;столица;1;1;from
+Q377304;Wyoming Territory;код US National Archives;1;1;from
+Q377304;Wyoming Territory;категория на Викискладе;1;1;from
+Q377304;Wyoming Territory;дата основания/создания/возникновения;1;1;from
+Q377304;Wyoming Territory;дата прекращения существования;1;1;from
+Q377304;Wyoming Territory;код Freebase;1;1;from
+Q547795;Territory of Hawaii;место смерти;1;5;to
+Q547795;Territory of Hawaii;место рождения;1;7;to
+Q547795;Territory of Hawaii;категория объединяет темы;1;7;to
+Q597711;New Mexico Territory;место жительства;1;1;to
+Q597711;New Mexico Territory;юрисдикция распространяется на;1;1;to
+Q597711;New Mexico Territory;история происходит в месте;1;1;to
+Q597711;New Mexico Territory;общая тема категории;1;1;to
+Q597711;New Mexico Territory;следующее по порядку;1;1;to
+Q597711;New Mexico Territory;заменил;1;1;to
+Q660384;Mississippi Territory;административно-территориальная единица;1;1;to
+Q660384;Mississippi Territory;государство;1;1;from
+Q660384;Mississippi Territory;карта местонахождения;1;1;from
+Q660384;Mississippi Territory;это частный случай понятия;1;2;from
+Q660384;Mississippi Territory;изображение флага;1;1;from
+Q660384;Mississippi Territory;заменён на;1;2;from
+Q660384;Mississippi Territory;код в энциклопедии «Британника онлайн»;1;1;from
+Q660384;Mississippi Territory;категория на Викискладе;1;1;from
+Q660384;Mississippi Territory;дата основания/создания/возникновения;1;1;from
+Q660384;Mississippi Territory;дата прекращения существования;1;1;from
+Q660384;Mississippi Territory;географические координаты;1;1;from
+Q660384;Mississippi Territory;код Freebase;1;1;from
+Q660384;Mississippi Territory;основная категория по теме;1;1;from
+Q660384;Mississippi Territory;заменил;1;2;to
+Q597711;New Mexico Territory;административно-территориальная единица;1;2;to
+Q597711;New Mexico Territory;место рождения;1;3;to
+Q547795;Territory of Hawaii;юрисдикция распространяется на;1;1;to
+Q597711;New Mexico Territory;принадлежность;1;1;to
+Q547795;Territory of Hawaii;общая тема категории;1;1;to
+Q597711;New Mexico Territory;государство;1;1;from
+Q597711;New Mexico Territory;карта местонахождения;1;1;from
+Q597711;New Mexico Territory;это частный случай понятия;1;1;from
+Q597711;New Mexico Territory;столица;1;1;from
+Q597711;New Mexico Territory;изображение флага;1;1;from
+Q597711;New Mexico Territory;код US National Archives;1;1;from
+Q597711;New Mexico Territory;описывается в источниках;1;3;from
+Q597711;New Mexico Territory;категория для людей, родившихся здесь;1;1;from
+Q597711;New Mexico Territory;название на языке оригинала;1;1;from
+Q597711;New Mexico Territory;категория на Викискладе;1;1;from
+Q597711;New Mexico Territory;дата основания/создания/возникновения;1;1;from
+Q597711;New Mexico Territory;дата прекращения существования;1;2;from
+Q597711;New Mexico Territory;код Freebase;1;1;from
+Q597711;New Mexico Territory;основная категория по теме;1;1;from
+Q597711;New Mexico Territory;категория объединяет темы;1;60;to
+Q597711;New Mexico Territory;место смерти;1;3;to
+Q597711;New Mexico Territory;местонахождение;1;4;to
+Q597711;New Mexico Territory;основная тема;1;3;to
+Q6042084;Insular Government of the Philippine Islands;юрисдикция распространяется на;1;3;to

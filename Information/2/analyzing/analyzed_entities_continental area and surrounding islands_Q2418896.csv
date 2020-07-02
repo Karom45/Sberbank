@@ -1,0 +1,311 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q48;Asia;код VIAF;1;1;from
+Q828;Americas;энтохороним от;1;1;to
+Q25322;Arctic;численность населения;1;1;from
+Q25322;Arctic;это частный случай понятия;1;2;from
+Q25322;Arctic;код LCNAF;1;1;from
+Q25322;Arctic;карта местонахождения;1;1;from
+Q25322;Arctic;код GND;1;1;from
+Q25322;Arctic;код VIAF;1;1;from
+Q25322;Arctic;изображение;1;1;from
+Q828;Americas;элемент для смысла;1;5;to
+Q828;Americas;происходит из;1;2;to
+Q828;Americas;область святого или божества;1;1;to
+Q828;Americas;основная тема портала Викимедиа;1;1;to
+Q828;Americas;административно-территориальная единица;1;1;to
+Q828;Americas;место рождения;1;3;to
+Q828;Americas;находится в пределах природно-географического объекта;1;1;to
+Q828;Americas;государство;1;2;to
+Q828;Americas;общая тема категории;1;1;to
+Q25322;Arctic;портал Викимедиа;1;1;from
+Q25322;Arctic;код US National Archives;1;1;from
+Q25322;Arctic;значение в OmegaWiki;1;1;from
+Q25322;Arctic;код в Большой каталанской энциклопедии;1;1;from
+Q25322;Arctic;код в Энциклопедии современной Украины;1;1;from
+Q25322;Arctic;код STW Thesaurus for Economics;1;1;from
+Q25322;Arctic;категория на Викискладе;1;1;from
+Q25322;Arctic;идентификатор темы Le Monde diplomatique;1;1;from
+Q25322;Arctic;часть от;1;1;from
+Q25322;Arctic;код темы Quora;1;1;from
+Q25322;Arctic;код в Итальянской энциклопедии онлайн;1;1;from
+Q25322;Arctic;код темы NYT;1;1;from
+Q25322;Arctic;код в Большой российской энциклопедии онлайн;1;1;from
+Q25322;Arctic;код BabelNet;1;1;from
+Q25322;Arctic;площадь;1;1;from
+Q25322;Arctic;код TGN;1;1;from
+Q25322;Arctic;код GeoNames;1;1;from
+Q25322;Arctic;код в энциклопедии «Британника онлайн»;1;1;from
+Q25322;Arctic;описывается в источниках;1;1;from
+Q828;Americas;предмет изучения;1;1;to
+Q828;Americas;место активности;1;9;to
+Q25322;Arctic;географические координаты;1;1;from
+Q828;Americas;идентификатор Dizionario di Storia;1;1;from
+Q828;Americas;Analysis & Policy Observatory term ID;1;1;from
+Q828;Americas;Spanish Vikidia ID;1;1;from
+Q828;Americas;Italian Vikidia ID;1;1;from
+Q828;Americas;French Vikidia ID;1;1;from
+Q828;Americas;код NKC;1;1;from
+Q828;Americas;код статьи Klexikon;1;1;from
+Q828;Americas;код Freebase;1;1;from
+Q828;Americas;географические координаты;1;1;from
+Q828;Americas;является эндемиком в;1;1;to
+Q828;Americas;наивысшая точка;1;1;from
+Q828;Americas;код в Ларуссе;1;1;from
+Q828;Americas;Базисная классификация;1;1;from
+Q828;Americas;состоит из;1;1;to
+Q828;Americas;код ASC Leiden Thesaurus;1;1;from
+Q828;Americas;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q828;Americas;рабочий список проекта Викимедиа;1;1;from
+Q828;Americas;основная категория по теме;1;1;from
+Q828;Americas;галерея на Викискладе;1;1;from
+Q828;Americas;баннер Викигида;1;1;from
+Q828;Americas;пример использования свойства;1;1;to
+Q828;Americas;юрисдикция распространяется на;1;2;to
+Q828;Americas;не путать с;1;2;to
+Q828;Americas;зона обслуживания;1;4;to
+Q828;Americas;место жительства;1;2;to
+Q828;Americas;тематически относится к;1;9;to
+Q828;Americas;изображённый объект;1;12;to
+Q828;Americas;гражданство;1;3;to
+Q828;Americas;место смерти;1;4;to
+Q828;Americas;местонахождение;1;7;to
+Q828;Americas;расположение штаб-квартиры;1;2;to
+Q828;Americas;основная тема;1;28;to
+Q828;Americas;страна происхождения;1;4;to
+Q828;Americas;история происходит в месте;1;5;to
+Q828;Americas;категория объединяет темы;1;523;to
+Q828;Americas;часть света;1;11303;to
+Q25322;Arctic;идентификатор MeSH;1;1;from
+Q25322;Arctic;Microsoft Academic ID;1;1;from
+Q48;Asia;код GND;1;1;from
+Q1555938;Antarctic;код GeoNames;1;1;from
+Q1555938;Antarctic;код STW Thesaurus for Economics;1;1;from
+Q1555938;Antarctic;часть от;1;1;to
+Q1555938;Antarctic;SCAR Composite Gazetteer place ID;1;1;from
+Q1555938;Antarctic;код в Большой российской энциклопедии онлайн;1;1;from
+Q1555938;Antarctic;код YSO;1;1;from
+Q1555938;Antarctic;рельефная позиционная карта;1;1;from
+Q1555938;Antarctic;позиционная карта;1;1;from
+Q1555938;Antarctic;основной шаблон по теме;1;1;from
+Q55643;Australia and Oceania;часть от;1;2;to
+Q1555938;Antarctic;значение в OmegaWiki;1;1;from
+Q1555938;Antarctic;код ТИА;1;1;from
+Q1555938;Antarctic;главный регулирующий текст;1;1;from
+Q1555938;Antarctic;это частный случай понятия;1;4;from
+Q1555938;Antarctic;карта местонахождения;1;1;from
+Q1555938;Antarctic;код GND;1;1;from
+Q1555938;Antarctic;код VIAF;1;1;from
+Q1555938;Antarctic;код в Большой норвежской энциклопедии;1;1;from
+Q1555938;Antarctic;идентификатор MeSH;1;1;from
+Q1555938;Antarctic;состоит из;1;2;from
+Q1555938;Antarctic;географические координаты;1;1;from
+Q1555938;Antarctic;изображённый объект;1;1;to
+Q1555938;Antarctic;категория объединяет темы;1;3;to
+Q1555938;Antarctic;общая тема категории;1;1;to
+Q1555938;Antarctic;основная тема шаблона;1;1;to
+Q1555938;Antarctic;основная тема;1;2;to
+Q1555938;Antarctic;местонахождение;1;2;to
+Q1555938;Antarctic;названо в честь;1;1;to
+Q1555938;Antarctic;область деятельности;1;2;to
+Q1555938;Antarctic;среда обитания;1;1;to
+Q1555938;Antarctic;значимое место;1;1;to
+Q1555938;Antarctic;место в MusicBrainz;1;1;from
+Q1555938;Antarctic;основная категория по теме;1;1;from
+Q1555938;Antarctic;код MeSH;1;1;from
+Q1555938;Antarctic;код Freebase;1;1;from
+Q1555938;Antarctic;статья в энциклопедии «Кругосвет»;1;1;from
+Q1555938;Antarctic;административно-территориальная единица;1;1;from
+Q55643;Australia and Oceania;часть света;1;1;to
+Q25322;Arctic;статья в энциклопедии «Кругосвет»;1;1;from
+Q25322;Arctic;баннер Викигида;1;1;from
+Q25322;Arctic;область деятельности;1;1;to
+Q25322;Arctic;основная тема портала Викимедиа;1;1;to
+Q25322;Arctic;место смерти;1;1;to
+Q25322;Arctic;местонахождение;1;12;to
+Q25322;Arctic;история происходит в месте;1;76;to
+Q25322;Arctic;место съёмок;1;2;to
+Q25322;Arctic;названо в честь;1;4;to
+Q25322;Arctic;галерея на Викискладе;1;1;from
+Q55643;Australia and Oceania;местонахождение;1;1;to
+Q25322;Arctic;основная категория по теме;1;1;from
+Q25322;Arctic;Basque Vikidia ID;1;1;from
+Q25322;Arctic;French Vikidia ID;1;1;from
+Q25322;Arctic;DR topic ID;1;1;from
+Q25322;Arctic;Who's on First ID;1;1;from
+Q25322;Arctic;код статьи Klexikon;1;1;from
+Q25322;Arctic;код Freebase;1;1;from
+Q25322;Arctic;основная тема;1;8;to
+Q25322;Arctic;место активности;1;2;to
+Q25322;Arctic;изображённый объект;1;4;to
+Q25322;Arctic;тематически относится к;1;2;to
+Q55643;Australia and Oceania;общая тема категории;1;1;to
+Q55643;Australia and Oceania;находится в пределах природно-географического объекта;1;1;to
+Q55643;Australia and Oceania;основная тема;1;1;to
+Q55643;Australia and Oceania;категория объединяет темы;1;9;to
+Q55643;Australia and Oceania;баннер Викигида;1;1;from
+Q55643;Australia and Oceania;основная категория по теме;1;1;from
+Q55643;Australia and Oceania;состоит из;1;2;from
+Q55643;Australia and Oceania;площадь;1;1;from
+Q55643;Australia and Oceania;категория для людей, родившихся здесь;1;1;from
+Q55643;Australia and Oceania;численность населения;1;1;from
+Q55643;Australia and Oceania;это частный случай понятия;1;2;from
+Q25322;Arctic;элемент для смысла;1;2;to
+Q25322;Arctic;общая тема категории;1;1;to
+Q25322;Arctic;категория объединяет темы;1;3;to
+Q25322;Arctic;область интересов;1;1;to
+Q828;Americas;идентификатор MeSH;1;1;from
+Q828;Americas;предположительно одно и то же с;1;2;to
+Q828;Americas;произношение (звуковой файл);1;1;from
+Q48;Asia;код Тезауруса ЮНЕСКО;1;1;from
+Q48;Asia;идентификатор MeSH;1;1;from
+Q48;Asia;код в Энциклопедии современной Украины;1;1;from
+Q48;Asia;код UK Parliament thesaurus;1;2;from
+Q48;Asia;произношение (звуковой файл);1;16;from
+Q48;Asia;код GACS;1;1;from
+Q48;Asia;код тезауруса PACTOLS;1;1;from
+Q48;Asia;часовой пояс;1;29;from
+Q48;Asia;код STW Thesaurus for Economics;1;1;from
+Q48;Asia;код Католической энциклопедии;1;1;from
+Q48;Asia;геоданные;1;1;from
+Q48;Asia;категория на Викискладе;1;1;from
+Q48;Asia;Peakbagger area ID;1;1;from
+Q48;Asia;идентификатор темы Le Monde diplomatique;1;1;from
+Q48;Asia;часть от;1;11;to
+Q48;Asia;код NDL;1;1;from
+Q48;Asia;код Aftonbladet;1;1;from
+Q48;Asia;категория Wikitribune;1;1;from
+Q48;Asia;рабочий список проекта Викимедиа;1;1;from
+Q48;Asia;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q48;Asia;обзорная статья Викимедиа;1;1;from
+Q48;Asia;World Encyclopedia of Puppetry Arts ID;1;1;from
+Q48;Asia;код NKC;1;1;from
+Q48;Asia;NicoNicoPedia article ID;1;1;from
+Q48;Asia;Who's on First ID;1;1;from
+Q48;Asia;код статьи Klexikon;1;1;from
+Q48;Asia;код Freebase;1;1;from
+Q48;Asia;идентификатор Dizionario di Storia;1;1;from
+Q48;Asia;географические координаты;1;1;from
+Q48;Asia;код в Ларуссе;1;1;from
+Q48;Asia;код Comic Vine;1;1;from
+Q48;Asia;идентификатор местоположения ArchINFORM;1;1;from
+Q48;Asia;состоит из;1;4;to
+Q48;Asia;код IAB;1;1;from
+Q48;Asia;идентификатор Giant Bomb;1;1;from
+Q48;Asia;код ASC Leiden Thesaurus;1;1;from
+Q48;Asia;код темы Quora;1;1;from
+Q48;Asia;код NE.se;1;1;from
+Q828;Americas;код GACS;1;1;from
+Q48;Asia;значение в OmegaWiki;1;1;from
+Q48;Asia;код GeoNames;1;1;from
+Q48;Asia;этнохороним;1;16;from
+Q48;Asia;метка Stack Exchange;1;1;from
+Q48;Asia;категория для людей, умерших здесь;1;1;from
+Q48;Asia;категория для людей, родившихся здесь;1;1;from
+Q48;Asia;описывается в источниках;1;11;from
+Q48;Asia;код в Большой каталанской энциклопедии;1;1;from
+Q48;Asia;код US National Archives;1;1;from
+Q48;Asia;код TripAdvisor;1;1;from
+Q48;Asia;портал Викимедиа;1;1;from
+Q48;Asia;численность населения;1;5;from
+Q48;Asia;десятичная классификация Дьюи;1;1;from
+Q48;Asia;имеет границы с;1;2;to
+Q48;Asia;это частный случай понятия;1;2;from
+Q48;Asia;код LCNAF;1;1;from
+Q48;Asia;карта местонахождения;1;2;from
+Q48;Asia;код Pleiades;1;1;from
+Q48;Asia;код TGN;1;1;from
+Q48;Asia;категория фильмов, снятых в этом месте;1;1;from
+Q48;Asia;категория для людей, похороненных здесь;1;1;from
+Q48;Asia;код темы Guardian;1;1;from
+Q48;Asia;постоянный дубликат;1;1;to
+Q48;Asia;код в Nomisma.org;1;1;from
+Q48;Asia;код в Большой российской энциклопедии онлайн;1;1;from
+Q48;Asia;в точности соответствует;1;1;from
+Q48;Asia;география темы;1;1;from
+Q48;Asia;код темы TED;1;1;from
+Q48;Asia;код BabelNet;1;1;from
+Q48;Asia;число детей, не учащихся в школе;1;33;from
+Q48;Asia;код YSO;1;1;from
+Q48;Asia;история темы;1;1;from
+Q48;Asia;код FAST;1;1;from
+Q48;Asia;код M.49;1;1;from
+Q48;Asia;площадь;1;1;from
+Q48;Asia;код GAMEO;1;1;from
+Q48;Asia;идентификатор Австралийского образовательного словаря;1;1;from
+Q48;Asia;находится в пределах природно-географического объекта;1;2;to
+Q48;Asia;French Vikidia ID;1;1;from
+Q828;Americas;код US National Archives;1;1;from
+Q828;Americas;код GeoNames;1;1;from
+Q828;Americas;этнохороним;1;11;from
+Q828;Americas;категория для людей, родившихся здесь;1;1;from
+Q828;Americas;код в энциклопедии «Британника онлайн»;1;1;from
+Q828;Americas;описывается в источниках;1;7;from
+Q828;Americas;код в Большой каталанской энциклопедии;1;1;from
+Q828;Americas;значение в OmegaWiki;1;1;from
+Q828;Americas;портал Викимедиа;1;1;from
+Q48;Asia;Italian Vikidia ID;1;1;from
+Q828;Americas;это частный случай понятия;1;2;from
+Q828;Americas;код LCNAF;1;1;from
+Q828;Americas;карта местонахождения;1;2;from
+Q828;Americas;код GND;1;1;from
+Q828;Americas;код VIAF;1;1;from
+Q828;Americas;изображение;1;1;from
+Q828;Americas;названо в честь;1;12;to
+Q828;Americas;код TGN;1;1;from
+Q828;Americas;категория фильмов, снятых в этом месте;1;1;from
+Q828;Americas;площадь;1;1;from
+Q828;Americas;код M.49;1;1;from
+Q828;Americas;код Тезауруса ЮНЕСКО;1;1;from
+Q828;Americas;код STW Thesaurus for Economics;1;1;from
+Q828;Americas;категория на Викискладе;1;1;from
+Q828;Americas;идентификатор темы Le Monde diplomatique;1;1;from
+Q828;Americas;часть от;1;3;to
+Q828;Americas;код NDL;1;1;from
+Q828;Americas;код темы Quora;1;1;from
+Q828;Americas;код Католической энциклопедии;1;1;from
+Q828;Americas;постоянный дубликат;1;1;to
+Q828;Americas;код в Большой российской энциклопедии онлайн;1;1;from
+Q828;Americas;география темы;1;1;from
+Q828;Americas;изучается в;1;1;from
+Q828;Americas;код YSO;1;1;from
+Q828;Americas;история темы;1;1;from
+Q828;Americas;код FAST;1;1;from
+Q48;Asia;элемент для смысла;1;7;to
+Q48;Asia;энтохороним от;1;2;to
+Q48;Asia;основная тема портала Викимедиа;1;1;to
+Q48;Asia;местонахождение;1;31;to
+Q48;Asia;место активности;1;2;to
+Q48;Asia;юрисдикция распространяется на;1;5;to
+Q48;Asia;история происходит в месте;1;130;to
+Q48;Asia;категория объединяет темы;1;3487;to
+Q48;Asia;часть света;1;4949;to
+Q48;Asia;пример использования свойства;1;1;to
+Q48;Asia;код NLI;1;1;from
+Q48;Asia;баннер Викигида;1;1;from
+Q48;Asia;галерея на Викискладе;1;1;from
+Q48;Asia;основная категория по теме;1;1;from
+Q48;Asia;код SELIBR;1;1;from
+Q48;Asia;Analysis & Policy Observatory term ID;1;1;from
+Q48;Asia;категория карт на Викискладе;1;1;from
+Q48;Asia;English Vikidia ID;1;1;from
+Q48;Asia;Spanish Vikidia ID;1;1;from
+Q48;Asia;тематически относится к;1;8;to
+Q48;Asia;среда обитания;1;1;to
+Q48;Asia;языки, на которых говорит или пишет персона;1;1;to
+Q48;Asia;государство;1;2;to
+Q48;Asia;область интересов;1;1;to
+Q48;Asia;общая тема категории;1;1;to
+Q48;Asia;происходит из;1;1;to
+Q48;Asia;предмет изучения;1;2;to
+Q48;Asia;область деятельности;1;1;to
+Q48;Asia;расположение штаб-квартиры;1;2;to
+Q48;Asia;зона обслуживания;1;7;to
+Q48;Asia;место рождения;1;4;to
+Q48;Asia;основная тема;1;18;to
+Q48;Asia;место смерти;1;3;to
+Q48;Asia;место создания;1;1;to
+Q48;Asia;изображённый объект;1;10;to
+Q48;Asia;названо в честь;1;5;to
+Q48;Asia;место изготовления;1;1;to
+Q48;Asia;страна происхождения;1;3;to
+Q1555938;Antarctic;энтохороним от;1;1;to

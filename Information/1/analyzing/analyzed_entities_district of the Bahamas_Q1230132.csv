@@ -1,0 +1,229 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q623327;North Abaco;административно-территориальная единица;1;1;to
+Q2699715;South Eleuthera;карта местонахождения;1;1;from
+Q2699715;South Eleuthera;код GeoNames;1;1;from
+Q2699715;South Eleuthera;высота над уровнем моря;1;1;from
+Q2699715;South Eleuthera;ISO 3166-2;1;1;from
+Q2699715;South Eleuthera;географические координаты;1;2;from
+Q2699715;South Eleuthera;код Freebase;1;1;from
+Q2699715;South Eleuthera;Who's on First ID;1;1;from
+Q2699715;South Eleuthera;административно делится на;1;1;to
+Q2702338;West Grand Bahama;административно-территориальная единица;1;1;to
+Q2702338;West Grand Bahama;государство;1;1;from
+Q2702338;West Grand Bahama;карта местонахождения;1;1;from
+Q2702338;West Grand Bahama;это частный случай понятия;1;1;from
+Q2702338;West Grand Bahama;код GeoNames;1;1;from
+Q2702338;West Grand Bahama;высота над уровнем моря;1;1;from
+Q2702338;West Grand Bahama;ISO 3166-2;1;1;from
+Q2702338;West Grand Bahama;географические координаты;1;1;from
+Q2702338;West Grand Bahama;код Freebase;1;1;from
+Q2702338;West Grand Bahama;Who's on First ID;1;1;from
+Q2702338;West Grand Bahama;административно делится на;1;1;to
+Q2705535;North Eleuthera;административно-территориальная единица;1;4;to
+Q2705535;North Eleuthera;государство;1;1;from
+Q2705535;North Eleuthera;это частный случай понятия;1;1;from
+Q2705535;North Eleuthera;код GeoNames;1;1;from
+Q2705535;North Eleuthera;позиционная карта;1;1;from
+Q2705535;North Eleuthera;высота над уровнем моря;1;1;from
+Q2705535;North Eleuthera;ISO 3166-2;1;1;from
+Q2699715;South Eleuthera;это частный случай понятия;1;1;from
+Q2699715;South Eleuthera;государство;1;1;from
+Q623327;North Abaco;государство;1;1;from
+Q2699715;South Eleuthera;административно-территориальная единица;1;3;to
+Q2525371;Central Abaco;государство;1;1;from
+Q2525371;Central Abaco;карта местонахождения;1;1;from
+Q2525371;Central Abaco;это частный случай понятия;1;1;from
+Q2525371;Central Abaco;код GeoNames;1;1;from
+Q2525371;Central Abaco;высота над уровнем моря;1;1;from
+Q2525371;Central Abaco;ISO 3166-2;1;1;from
+Q2525371;Central Abaco;географические координаты;1;1;from
+Q2525371;Central Abaco;код Freebase;1;1;from
+Q2525371;Central Abaco;Who's on First ID;1;1;from
+Q2525371;Central Abaco;место рождения;1;1;to
+Q2525371;Central Abaco;административно делится на;1;1;to
+Q2699411;North Andros;административно-территориальная единица;1;5;to
+Q2699411;North Andros;государство;1;1;from
+Q2699411;North Andros;карта местонахождения;1;1;from
+Q2699411;North Andros;это частный случай понятия;1;1;from
+Q2699411;North Andros;код GeoNames;1;1;from
+Q2699411;North Andros;высота над уровнем моря;1;1;from
+Q2699411;North Andros;ISO 3166-2;1;1;from
+Q2699411;North Andros;географические координаты;1;1;from
+Q2699411;North Andros;код Freebase;1;1;from
+Q2699411;North Andros;Who's on First ID;1;1;from
+Q2699411;North Andros;часть от;1;1;to
+Q2699411;North Andros;состоит из;1;1;to
+Q2699411;North Andros;место рождения;1;1;to
+Q2699411;North Andros;административно делится на;1;1;to
+Q2705535;North Eleuthera;код темы Quora;1;1;from
+Q2705535;North Eleuthera;географические координаты;1;1;from
+Q2705535;North Eleuthera;код Freebase;1;1;from
+Q2705535;North Eleuthera;Who's on First ID;1;1;from
+Q21713445;Moore's Island District;государство;1;1;from
+Q21713445;Moore's Island District;это частный случай понятия;1;1;from
+Q21713445;Moore's Island District;код GeoNames;1;1;from
+Q21713445;Moore's Island District;ISO 3166-2;1;1;from
+Q21713445;Moore's Island District;географические координаты;1;1;from
+Q21713447;Hope Town District;государство;1;1;from
+Q21713447;Hope Town District;это частный случай понятия;1;1;from
+Q21713447;Hope Town District;код GeoNames;1;1;from
+Q21713447;Hope Town District;географические координаты;1;1;from
+Q21713447;Hope Town District;административно-территориальная единица;1;2;to
+Q21713450;Crooked Island and Long Cay District;государство;1;1;from
+Q21713450;Crooked Island and Long Cay District;это частный случай понятия;1;1;from
+Q21713450;Crooked Island and Long Cay District;код GeoNames;1;1;from
+Q21713450;Crooked Island and Long Cay District;высота над уровнем моря;1;1;from
+Q21713450;Crooked Island and Long Cay District;географические координаты;1;1;from
+Q21713450;Crooked Island and Long Cay District;административно-территориальная единица;1;1;to
+Q21713981;City of Freeport District;государство;1;1;from
+Q21713981;City of Freeport District;это частный случай понятия;1;1;from
+Q21713981;City of Freeport District;код GeoNames;1;1;from
+Q21713981;City of Freeport District;высота над уровнем моря;1;1;from
+Q21713981;City of Freeport District;географические координаты;1;1;from
+Q21713981;City of Freeport District;административно-территориальная единица;1;1;to
+Q31508221;San Salvador District;государство;1;1;from
+Q31508221;San Salvador District;это частный случай понятия;1;1;from
+Q31508221;San Salvador District;код GeoNames;1;1;from
+Q21713445;Moore's Island District;административно-территориальная единица;1;1;from
+Q21713441;Rum Cay District;географические координаты;1;1;from
+Q21713441;Rum Cay District;ISO 3166-2;1;1;from
+Q21712462;Mayaguana District;географические координаты;1;1;from
+Q2705535;North Eleuthera;административно делится на;1;1;to
+Q3492676;Spanish Wells;государство;1;1;from
+Q3492676;Spanish Wells;это частный случай понятия;1;1;from
+Q3492676;Spanish Wells;административно-территориальная единица;1;1;to
+Q21712462;Mayaguana District;административно-территориальная единица;1;2;to
+Q21712462;Mayaguana District;государство;1;1;from
+Q21712462;Mayaguana District;это частный случай понятия;1;1;from
+Q21712462;Mayaguana District;код GeoNames;1;1;from
+Q21712462;Mayaguana District;высота над уровнем моря;1;1;from
+Q21712462;Mayaguana District;ISO 3166-2;1;1;from
+Q21712462;Mayaguana District;предположительно одно и то же с;1;1;to
+Q21712462;Mayaguana District;Who's on First ID;1;1;from
+Q21713441;Rum Cay District;код GNS;1;1;from
+Q21712503;New Providence District;государство;1;1;from
+Q21712503;New Providence District;это частный случай понятия;1;1;from
+Q21712503;New Providence District;код GeoNames;1;1;from
+Q21712503;New Providence District;высота над уровнем моря;1;1;from
+Q21712503;New Providence District;ISO 3166-2;1;1;from
+Q21712503;New Providence District;географические координаты;1;1;from
+Q21712503;New Providence District;Who's on First ID;1;1;from
+Q21713441;Rum Cay District;административно-территориальная единица;1;1;from
+Q21713441;Rum Cay District;государство;1;1;from
+Q21713441;Rum Cay District;это частный случай понятия;1;1;from
+Q21713441;Rum Cay District;код GeoNames;1;1;from
+Q2525371;Central Abaco;административно-территориальная единица;1;1;to
+Q2525298;Black Point;административно делится на;1;1;to
+Q2525298;Black Point;обслуживаемый город;1;1;to
+Q938518;Central Eleuthera;ISO 3166-2;1;1;from
+Q867573;Freeport;дата основания/создания/возникновения;1;1;from
+Q867573;Freeport;географические координаты;1;1;from
+Q867573;Freeport;код Freebase;1;1;from
+Q867573;Freeport;Who's on First ID;1;1;from
+Q867573;Freeport;официальный сайт;1;1;from
+Q867573;Freeport;FIPS 10-4 (страны и регионы);1;1;from
+Q867573;Freeport;основная категория по теме;1;1;from
+Q867573;Freeport;баннер Викигида;1;1;from
+Q867573;Freeport;место в MusicBrainz;1;1;from
+Q867573;Freeport;место рождения;1;34;to
+Q867573;Freeport;расположение штаб-квартиры;1;1;to
+Q867573;Freeport;категория объединяет темы;1;2;to
+Q867573;Freeport;место смерти;1;5;to
+Q867573;Freeport;обслуживаемый город;1;1;to
+Q867573;Freeport;история происходит в месте;1;1;to
+Q867573;Freeport;местонахождение;1;1;to
+Q867573;Freeport;значимое место;1;1;to
+Q867573;Freeport;столица;1;1;to
+Q867573;Freeport;общая тема категории;1;1;to
+Q867573;Freeport;административно делится на;1;1;to
+Q938518;Central Eleuthera;административно-территориальная единица;1;1;to
+Q938518;Central Eleuthera;государство;1;1;from
+Q938518;Central Eleuthera;карта местонахождения;1;1;from
+Q938518;Central Eleuthera;это частный случай понятия;1;1;from
+Q938518;Central Eleuthera;код GeoNames;1;1;from
+Q867573;Freeport;часовой пояс;1;1;from
+Q867573;Freeport;категория на Викискладе;1;1;from
+Q867573;Freeport;ISO 3166-2;1;1;from
+Q867573;Freeport;государство;1;1;from
+Q623327;North Abaco;карта местонахождения;1;1;from
+Q623327;North Abaco;это частный случай понятия;1;1;from
+Q623327;North Abaco;код GeoNames;1;1;from
+Q623327;North Abaco;высота над уровнем моря;1;1;from
+Q623327;North Abaco;ISO 3166-2;1;1;from
+Q623327;North Abaco;географические координаты;1;1;from
+Q623327;North Abaco;код Freebase;1;1;from
+Q623327;North Abaco;Who's on First ID;1;1;from
+Q623327;North Abaco;место смерти;1;1;to
+Q623327;North Abaco;административно делится на;1;1;to
+Q867573;Freeport;административно-территориальная единица;1;10;to
+Q867573;Freeport;изображение;1;1;from
+Q867573;Freeport;площадь;1;1;from
+Q867573;Freeport;город-побратим;1;3;to
+Q867573;Freeport;карта местонахождения;1;1;from
+Q867573;Freeport;это частный случай понятия;1;2;from
+Q867573;Freeport;численность населения;1;1;from
+Q867573;Freeport;код US National Archives;1;1;from
+Q867573;Freeport;является столицей;1;1;from
+Q867573;Freeport;код в энциклопедии «Британника онлайн»;1;1;from
+Q867573;Freeport;категория для людей, родившихся здесь;1;1;from
+Q867573;Freeport;код GeoNames;1;1;from
+Q867573;Freeport;категория для людей, связанных с местностью;1;1;from
+Q867573;Freeport;высота над уровнем моря;1;1;from
+Q938518;Central Eleuthera;высота над уровнем моря;1;1;from
+Q938518;Central Eleuthera;географические координаты;1;1;from
+Q2525298;Black Point;названо в честь;1;1;to
+Q938518;Central Eleuthera;код Freebase;1;1;from
+Q2096558;Central Andros;код Freebase;1;1;from
+Q2096558;Central Andros;Who's on First ID;1;1;from
+Q2096558;Central Andros;административно делится на;1;1;to
+Q2408672;South Andros;административно-территориальная единица;1;3;to
+Q2408672;South Andros;государство;1;1;from
+Q2408672;South Andros;карта местонахождения;1;1;from
+Q2408672;South Andros;это частный случай понятия;1;1;from
+Q2408672;South Andros;код GeoNames;1;1;from
+Q2408672;South Andros;высота над уровнем моря;1;1;from
+Q2408672;South Andros;ISO 3166-2;1;1;from
+Q2408672;South Andros;географические координаты;1;1;from
+Q2408672;South Andros;код Freebase;1;1;from
+Q2408672;South Andros;Who's on First ID;1;1;from
+Q2408672;South Andros;место рождения;1;1;to
+Q2408672;South Andros;административно делится на;1;1;to
+Q2525298;Black Point;административно-территориальная единица;1;1;to
+Q2525298;Black Point;государство;1;1;from
+Q2525298;Black Point;это частный случай понятия;1;1;from
+Q2525298;Black Point;код GeoNames;1;1;from
+Q2525298;Black Point;высота над уровнем моря;1;1;from
+Q2525298;Black Point;код BabelNet;1;1;from
+Q2525298;Black Point;ISO 3166-2;1;1;from
+Q2525298;Black Point;географические координаты;1;1;from
+Q2525298;Black Point;код Freebase;1;1;from
+Q2525298;Black Point;Who's on First ID;1;1;from
+Q2096558;Central Andros;географические координаты;1;1;from
+Q2096558;Central Andros;ISO 3166-2;1;1;from
+Q2096558;Central Andros;высота над уровнем моря;1;1;from
+Q1771681;Spanish Wells;код темы Quora;1;1;from
+Q938518;Central Eleuthera;Who's on First ID;1;1;from
+Q938518;Central Eleuthera;административно делится на;1;1;to
+Q1771681;Spanish Wells;административно-территориальная единица;1;1;from
+Q1771681;Spanish Wells;государство;1;1;from
+Q1771681;Spanish Wells;изображение;1;1;from
+Q1771681;Spanish Wells;находится на берегу водоёма;1;1;from
+Q1771681;Spanish Wells;карта местонахождения;1;1;from
+Q1771681;Spanish Wells;это частный случай понятия;1;1;from
+Q1771681;Spanish Wells;код GeoNames;1;2;from
+Q1771681;Spanish Wells;высота над уровнем моря;1;1;from
+Q1771681;Spanish Wells;ISO 3166-2;1;1;from
+Q1771681;Spanish Wells;часовой пояс;1;1;from
+Q2096558;Central Andros;код TGN;1;1;from
+Q1771681;Spanish Wells;географические координаты;1;1;from
+Q1771681;Spanish Wells;код Freebase;1;1;from
+Q1771681;Spanish Wells;Who's on First ID;1;1;from
+Q1771681;Spanish Wells;находится в пределах природно-географического объекта;1;1;from
+Q1771681;Spanish Wells;место рождения;1;1;to
+Q1771681;Spanish Wells;административно делится на;1;1;to
+Q2096558;Central Andros;административно-территориальная единица;1;1;to
+Q2096558;Central Andros;государство;1;1;from
+Q2096558;Central Andros;карта местонахождения;1;1;from
+Q2096558;Central Andros;это частный случай понятия;1;1;from
+Q2096558;Central Andros;код GeoNames;1;1;from
+Q31508221;San Salvador District;географические координаты;1;1;from

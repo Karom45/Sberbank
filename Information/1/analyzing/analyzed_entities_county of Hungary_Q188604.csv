@@ -1,0 +1,838 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q181018;Bács-Kiskun County;административно-территориальная единица;1;211;to
+Q190018;Komárom-Esztergom County;место в MusicBrainz;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;часть от;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;категория на Викискладе;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;геоданные;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;ID отношения в OpenStreetMap;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;часовой пояс;1;2;from
+Q190518;Szabolcs-Szatmár-Bereg County;идентификатор местоположения ArchINFORM;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;дата основания/создания/возникновения;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;географические координаты;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;код Freebase;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;Who's on First ID;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;код NKC;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;категория карт на Викискладе;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;официальный сайт;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;FIPS 10-4 (страны и регионы);1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;основная категория по теме;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;баннер Викигида;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;место погребения;1;1;to
+Q190518;Szabolcs-Szatmár-Bereg County;является столицей;1;1;to
+Q190518;Szabolcs-Szatmár-Bereg County;категория объединяет темы;1;6;to
+Q190518;Szabolcs-Szatmár-Bereg County;подкласс от;1;1;to
+Q190518;Szabolcs-Szatmár-Bereg County;тематически относится к;1;1;to
+Q190518;Szabolcs-Szatmár-Bereg County;общая тема категории;1;1;to
+Q190518;Szabolcs-Szatmár-Bereg County;место рождения;1;1;to
+Q190518;Szabolcs-Szatmár-Bereg County;ISO 3166-2;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;код BNF;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;география темы;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;это частный случай понятия;1;1;from
+Q190018;Komárom-Esztergom County;место рождения;1;1;to
+Q190018;Komárom-Esztergom County;является столицей;1;1;to
+Q190018;Komárom-Esztergom County;категория объединяет темы;1;6;to
+Q190018;Komárom-Esztergom County;общая тема категории;1;1;to
+Q190518;Szabolcs-Szatmár-Bereg County;административно-территориальная единица;1;258;to
+Q190518;Szabolcs-Szatmár-Bereg County;административно делится на;1;2;to
+Q190518;Szabolcs-Szatmár-Bereg County;государство;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;изображение;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;код GND;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;карта местонахождения;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;столица;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;площадь;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;изображение флага;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;имеет границы с;1;1;to
+Q190518;Szabolcs-Szatmár-Bereg County;изображение герба;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;десятичная классификация Дьюи;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;численность населения;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;категория для людей, родившихся здесь;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;код GeoNames;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;код TGN;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;категория для людей, похороненных здесь;1;1;from
+Q190518;Szabolcs-Szatmár-Bereg County;категория для людей, связанных с местностью;1;1;from
+Q190522;Somogy County;административно-территориальная единица;1;276;to
+Q190522;Somogy County;административно делится на;1;2;to
+Q190522;Somogy County;государство;1;3;from
+Q190522;Somogy County;FIPS 10-4 (страны и регионы);1;1;from
+Q190522;Somogy County;геоданные;1;1;from
+Q190522;Somogy County;ID отношения в OpenStreetMap;1;1;from
+Q190522;Somogy County;идентификатор местоположения ArchINFORM;1;1;from
+Q190522;Somogy County;дата основания/создания/возникновения;1;1;from
+Q190522;Somogy County;географические координаты;1;1;from
+Q190522;Somogy County;код Freebase;1;1;from
+Q190522;Somogy County;Who's on First ID;1;1;from
+Q190522;Somogy County;WorldCat Identities ID;1;1;from
+Q190522;Somogy County;категория карт на Викискладе;1;1;from
+Q190522;Somogy County;официальный сайт;1;1;from
+Q190522;Somogy County;основная категория по теме;1;1;from
+Q190522;Somogy County;часть от;1;1;from
+Q190522;Somogy County;баннер Викигида;1;1;from
+Q190522;Somogy County;место рождения;1;5;to
+Q190522;Somogy County;награда от;1;1;to
+Q190522;Somogy County;место погребения;1;1;to
+Q190522;Somogy County;является столицей;1;1;to
+Q190522;Somogy County;категория объединяет темы;1;5;to
+Q190522;Somogy County;место смерти;1;1;to
+Q190522;Somogy County;общая тема категории;1;2;to
+Q191604;Heves County;административно-территориальная единица;1;185;to
+Q191604;Heves County;административно делится на;1;2;to
+Q190522;Somogy County;категория на Викискладе;1;1;from
+Q190522;Somogy County;ISO 3166-2;1;1;from
+Q190522;Somogy County;изображение;1;1;from
+Q190522;Somogy County;код в Большой каталанской энциклопедии;1;1;from
+Q190522;Somogy County;код VIAF;1;1;from
+Q190522;Somogy County;код GND;1;1;from
+Q190522;Somogy County;карта местонахождения;1;1;from
+Q190522;Somogy County;это частный случай понятия;1;1;from
+Q190522;Somogy County;столица;1;1;from
+Q190522;Somogy County;изображение флага;1;1;from
+Q190522;Somogy County;имеет границы с;1;5;to
+Q190522;Somogy County;изображение герба;1;1;from
+Q190522;Somogy County;десятичная классификация Дьюи;1;1;from
+Q190522;Somogy County;численность населения;1;1;from
+Q190522;Somogy County;код в энциклопедии «Британника онлайн»;1;1;from
+Q190522;Somogy County;код BabelNet;1;1;from
+Q190522;Somogy County;официальное название;1;1;from
+Q190522;Somogy County;категория для людей, родившихся здесь;1;1;from
+Q190522;Somogy County;категория для людей, умерших здесь;1;1;from
+Q190522;Somogy County;код GeoNames;1;1;from
+Q190522;Somogy County;код TGN;1;1;from
+Q190522;Somogy County;название на языке оригинала;1;1;from
+Q190522;Somogy County;категория для людей, похороненных здесь;1;1;from
+Q190522;Somogy County;категория для людей, связанных с местностью;1;1;from
+Q190522;Somogy County;не путать с;1;1;to
+Q190522;Somogy County;площадь;1;1;from
+Q190018;Komárom-Esztergom County;место погребения;1;4;to
+Q190018;Komárom-Esztergom County;баннер Викигида;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;категория для людей, похороненных здесь;1;1;from
+Q190018;Komárom-Esztergom County;основная категория по теме;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;государство;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;изображение;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;код VIAF;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;код GND;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;карта местонахождения;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;это частный случай понятия;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;столица;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;изображение флага;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;изображение герба;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;десятичная классификация Дьюи;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;код в энциклопедии «Британника онлайн»;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;официальное название;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;категория для людей, родившихся здесь;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;код GeoNames;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;код TGN;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;категория для людей, похороненных здесь;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;категория для людей, связанных с местностью;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;площадь;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;код BNF;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;ISO 3166-2;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;часть от;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;категория на Викискладе;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;геоданные;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;административно делится на;1;2;to
+Q189655;Jász-Nagykun-Szolnok County;административно-территориальная единица;1;126;to
+Q188895;Borsod-Abaúj-Zemplén County;происходит из;1;1;to
+Q188895;Borsod-Abaúj-Zemplén County;код Freebase;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;код BNF;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;используемый язык;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;ISO 3166-2;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;часть от;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;категория на Викискладе;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;геоданные;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;ID отношения в OpenStreetMap;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;идентификатор местоположения ArchINFORM;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;дата основания/создания/возникновения;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;географические координаты;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;Who's on First ID;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;общая тема категории;1;1;to
+Q188895;Borsod-Abaúj-Zemplén County;код NKC;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;категория карт на Викискладе;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;официальный сайт;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;FIPS 10-4 (страны и регионы);1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;основная категория по теме;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;баннер Викигида;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;является столицей;1;1;to
+Q188895;Borsod-Abaúj-Zemplén County;место рождения;1;5;to
+Q188895;Borsod-Abaúj-Zemplén County;место погребения;1;3;to
+Q188895;Borsod-Abaúj-Zemplén County;категория объединяет темы;1;4;to
+Q189655;Jász-Nagykun-Szolnok County;ID отношения в OpenStreetMap;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;код тезауруса PACTOLS;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;идентификатор местоположения ArchINFORM;1;1;from
+Q190018;Komárom-Esztergom County;часть от;1;1;from
+Q190018;Komárom-Esztergom County;официальное название;1;2;from
+Q190018;Komárom-Esztergom County;категория для людей, родившихся здесь;1;1;from
+Q190018;Komárom-Esztergom County;категория для людей, умерших здесь;1;1;from
+Q190018;Komárom-Esztergom County;код GeoNames;1;1;from
+Q190018;Komárom-Esztergom County;код TGN;1;1;from
+Q190018;Komárom-Esztergom County;категория для людей, похороненных здесь;1;1;from
+Q190018;Komárom-Esztergom County;категория для людей, связанных с местностью;1;1;from
+Q190018;Komárom-Esztergom County;площадь;1;1;from
+Q190018;Komárom-Esztergom County;код BNF;1;1;from
+Q190018;Komárom-Esztergom County;ISO 3166-2;1;1;from
+Q190018;Komárom-Esztergom County;категория на Викискладе;1;1;from
+Q190018;Komárom-Esztergom County;десятичная классификация Дьюи;1;1;from
+Q190018;Komárom-Esztergom County;геоданные;1;1;from
+Q190018;Komárom-Esztergom County;ID отношения в OpenStreetMap;1;1;from
+Q190018;Komárom-Esztergom County;идентификатор местоположения ArchINFORM;1;1;from
+Q190018;Komárom-Esztergom County;дата основания/создания/возникновения;1;1;from
+Q190018;Komárom-Esztergom County;географические координаты;1;1;from
+Q190018;Komárom-Esztergom County;код Freebase;1;1;from
+Q190018;Komárom-Esztergom County;Who's on First ID;1;1;from
+Q190018;Komárom-Esztergom County;категория карт на Викискладе;1;1;from
+Q190018;Komárom-Esztergom County;официальный сайт;1;1;from
+Q190018;Komárom-Esztergom County;FIPS 10-4 (страны и регионы);1;1;from
+Q190018;Komárom-Esztergom County;код в энциклопедии «Британника онлайн»;1;1;from
+Q190018;Komárom-Esztergom County;изображение герба;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;дата основания/создания/возникновения;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;является столицей;1;1;to
+Q189655;Jász-Nagykun-Szolnok County;географические координаты;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;код Freebase;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;Who's on First ID;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;категория карт на Викискладе;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;официальный сайт;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;FIPS 10-4 (страны и регионы);1;1;from
+Q189655;Jász-Nagykun-Szolnok County;основная категория по теме;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;баннер Викигида;1;1;from
+Q189655;Jász-Nagykun-Szolnok County;категория объединяет темы;1;5;to
+Q189655;Jász-Nagykun-Szolnok County;место рождения;1;1;to
+Q189655;Jász-Nagykun-Szolnok County;место погребения;1;2;to
+Q190018;Komárom-Esztergom County;имеет границы с;1;4;to
+Q189655;Jász-Nagykun-Szolnok County;общая тема категории;1;1;to
+Q190018;Komárom-Esztergom County;административно-территориальная единица;1;163;to
+Q190018;Komárom-Esztergom County;административно делится на;1;2;to
+Q190018;Komárom-Esztergom County;государство;1;1;from
+Q190018;Komárom-Esztergom County;изображение;1;1;from
+Q190018;Komárom-Esztergom County;код GND;1;1;from
+Q190018;Komárom-Esztergom County;карта местонахождения;1;1;from
+Q190018;Komárom-Esztergom County;это частный случай понятия;1;1;from
+Q190018;Komárom-Esztergom County;столица;1;1;from
+Q190018;Komárom-Esztergom County;изображение флага;1;1;from
+Q191604;Heves County;государство;1;1;from
+Q191604;Heves County;изображение;1;1;from
+Q191604;Heves County;код GND;1;1;from
+Q191604;Heves County;карта местонахождения;1;1;from
+Q193031;Csongrád County;численность населения;1;1;from
+Q193031;Csongrád County;код в энциклопедии «Британника онлайн»;1;1;from
+Q193031;Csongrád County;категория для людей, родившихся здесь;1;1;from
+Q193031;Csongrád County;категория для людей, умерших здесь;1;1;from
+Q193031;Csongrád County;код GeoNames;1;1;from
+Q193031;Csongrád County;код TGN;1;1;from
+Q193031;Csongrád County;категория для людей, похороненных здесь;1;1;from
+Q193031;Csongrád County;категория для людей, связанных с местностью;1;1;from
+Q193031;Csongrád County;площадь;1;1;from
+Q193031;Csongrád County;ISO 3166-2;1;1;from
+Q193031;Csongrád County;часть от;1;1;from
+Q193031;Csongrád County;категория на Викискладе;1;1;from
+Q193031;Csongrád County;геоданные;1;1;from
+Q193031;Csongrád County;ID отношения в OpenStreetMap;1;1;from
+Q193031;Csongrád County;идентификатор местоположения ArchINFORM;1;1;from
+Q193031;Csongrád County;дата основания/создания/возникновения;1;1;from
+Q193031;Csongrád County;географические координаты;1;1;from
+Q193031;Csongrád County;код Freebase;1;1;from
+Q193031;Csongrád County;Who's on First ID;1;1;from
+Q193031;Csongrád County;категория карт на Викискладе;1;1;from
+Q193031;Csongrád County;официальный сайт;1;1;from
+Q193031;Csongrád County;FIPS 10-4 (страны и регионы);1;1;from
+Q193031;Csongrád County;основная категория по теме;1;1;from
+Q193031;Csongrád County;десятичная классификация Дьюи;1;1;from
+Q193031;Csongrád County;изображение герба;1;1;from
+Q193031;Csongrád County;изображение флага;1;1;from
+Q191625;Tolna County;место смерти;1;1;to
+Q191625;Tolna County;дата основания/создания/возникновения;1;1;from
+Q191625;Tolna County;географические координаты;1;1;from
+Q191625;Tolna County;код Freebase;1;1;from
+Q191625;Tolna County;Who's on First ID;1;1;from
+Q191625;Tolna County;категория карт на Викискладе;1;1;from
+Q191625;Tolna County;официальный сайт;1;1;from
+Q191625;Tolna County;FIPS 10-4 (страны и регионы);1;1;from
+Q191625;Tolna County;основная категория по теме;1;1;from
+Q191625;Tolna County;баннер Викигида;1;1;from
+Q191625;Tolna County;место рождения;1;2;to
+Q191625;Tolna County;является столицей;1;1;to
+Q193031;Csongrád County;столица;1;2;from
+Q191625;Tolna County;категория объединяет темы;1;6;to
+Q191625;Tolna County;основная тема;1;1;to
+Q191625;Tolna County;общая тема категории;1;1;to
+Q193031;Csongrád County;административно-территориальная единица;1;120;to
+Q193031;Csongrád County;административно делится на;1;2;to
+Q193031;Csongrád County;государство;1;1;from
+Q193031;Csongrád County;изображение;1;1;from
+Q193031;Csongrád County;код GND;1;1;from
+Q193031;Csongrád County;карта местонахождения;1;1;from
+Q193031;Csongrád County;это частный случай понятия;1;1;from
+Q193031;Csongrád County;баннер Викигида;1;1;from
+Q193031;Csongrád County;является столицей;1;2;to
+Q193031;Csongrád County;категория объединяет темы;1;6;to
+Q194273;Nógrád County;FIPS 10-4 (страны и регионы);1;1;from
+Q194273;Nógrád County;геоданные;1;1;from
+Q194273;Nógrád County;ID отношения в OpenStreetMap;1;1;from
+Q194273;Nógrád County;идентификатор местоположения ArchINFORM;1;1;from
+Q194273;Nógrád County;дата основания/создания/возникновения;1;1;from
+Q194273;Nógrád County;географические координаты;1;1;from
+Q194273;Nógrád County;код Freebase;1;1;from
+Q194273;Nógrád County;Who's on First ID;1;1;from
+Q194273;Nógrád County;код NKC;1;1;from
+Q194273;Nógrád County;категория карт на Викискладе;1;1;from
+Q194273;Nógrád County;официальный сайт;1;1;from
+Q194273;Nógrád County;основная категория по теме;1;1;from
+Q194273;Nógrád County;часть от;1;1;to
+Q194273;Nógrád County;баннер Викигида;1;1;from
+Q194273;Nógrád County;место в MusicBrainz;1;1;from
+Q194273;Nógrád County;заменён на;1;1;to
+Q194273;Nógrád County;место рождения;1;3;to
+Q194273;Nógrád County;названо в честь;1;1;to
+Q194273;Nógrád County;категория объединяет темы;1;6;to
+Q194273;Nógrád County;является столицей;1;1;to
+Q194273;Nógrád County;основная тема портала Викимедиа;1;1;to
+Q194273;Nógrád County;место погребения;1;1;to
+Q194273;Nógrád County;тематически относится к;1;1;to
+Q194273;Nógrád County;категория на Викискладе;1;1;from
+Q194273;Nógrád County;ISO 3166-2;1;1;from
+Q193031;Csongrád County;тематически относится к;1;1;to
+Q194273;Nógrád County;изображение флага;1;1;from
+Q193031;Csongrád County;общая тема категории;1;1;to
+Q194273;Nógrád County;административно-территориальная единица;1;246;to
+Q194273;Nógrád County;административно делится на;1;2;to
+Q194273;Nógrád County;государство;1;1;from
+Q194273;Nógrád County;изображение;1;15;from
+Q194273;Nógrád County;код VIAF;1;1;from
+Q194273;Nógrád County;код GND;1;1;from
+Q194273;Nógrád County;карта местонахождения;1;1;from
+Q194273;Nógrád County;это частный случай понятия;1;1;from
+Q194273;Nógrád County;столица;1;1;from
+Q194273;Nógrád County;изображение герба;1;2;from
+Q194273;Nógrád County;код BNF;1;1;from
+Q194273;Nógrád County;портал Викимедиа;1;1;from
+Q194273;Nógrád County;заменил;1;1;from
+Q194273;Nógrád County;код в энциклопедии «Британника онлайн»;1;1;from
+Q194273;Nógrád County;категория для людей, родившихся здесь;1;1;from
+Q194273;Nógrád County;категория для людей, умерших здесь;1;1;from
+Q194273;Nógrád County;код GeoNames;1;1;from
+Q194273;Nógrád County;код TGN;1;1;from
+Q194273;Nógrád County;категория для людей, похороненных здесь;1;1;from
+Q194273;Nógrád County;категория для людей, связанных с местностью;1;1;from
+Q194273;Nógrád County;площадь;1;1;from
+Q191625;Tolna County;идентификатор местоположения ArchINFORM;1;1;from
+Q191625;Tolna County;ID отношения в OpenStreetMap;1;1;from
+Q191625;Tolna County;геоданные;1;1;from
+Q191616;Békés County;государство;1;1;from
+Q191604;Heves County;основная категория по теме;1;1;from
+Q191604;Heves County;баннер Викигида;1;1;from
+Q191604;Heves County;место в MusicBrainz;1;1;from
+Q191604;Heves County;место смерти;1;2;to
+Q191604;Heves County;является столицей;1;1;to
+Q191604;Heves County;категория объединяет темы;1;4;to
+Q191604;Heves County;место рождения;1;1;to
+Q191604;Heves County;общая тема категории;1;1;to
+Q191616;Békés County;административно-территориальная единица;1;116;to
+Q191616;Békés County;административно делится на;1;2;to
+Q191616;Békés County;изображение;1;1;from
+Q191604;Heves County;официальный сайт;1;1;from
+Q191616;Békés County;код GND;1;1;from
+Q191616;Békés County;карта местонахождения;1;1;from
+Q191616;Békés County;это частный случай понятия;1;1;from
+Q191616;Békés County;столица;1;1;from
+Q191616;Békés County;изображение флага;1;1;from
+Q191616;Békés County;изображение герба;1;1;from
+Q191616;Békés County;десятичная классификация Дьюи;1;1;from
+Q191616;Békés County;код в энциклопедии «Британника онлайн»;1;1;from
+Q191616;Békés County;категория для людей, родившихся здесь;1;1;from
+Q191616;Békés County;категория для людей, умерших здесь;1;1;from
+Q191604;Heves County;FIPS 10-4 (страны и регионы);1;1;from
+Q191604;Heves County;категория карт на Викискладе;1;1;from
+Q191616;Békés County;код TGN;1;1;from
+Q191604;Heves County;площадь;1;1;from
+Q191604;Heves County;это частный случай понятия;1;1;from
+Q191604;Heves County;столица;1;1;from
+Q191604;Heves County;изображение флага;1;1;from
+Q191604;Heves County;изображение герба;1;1;from
+Q191604;Heves County;десятичная классификация Дьюи;1;1;from
+Q191604;Heves County;код в энциклопедии «Британника онлайн»;1;1;from
+Q191604;Heves County;категория для людей, родившихся здесь;1;1;from
+Q191604;Heves County;категория для людей, умерших здесь;1;1;from
+Q191604;Heves County;код GeoNames;1;1;from
+Q191604;Heves County;категория для людей, связанных с местностью;1;1;from
+Q191604;Heves County;код BNF;1;1;from
+Q191604;Heves County;код NKC;1;1;from
+Q191604;Heves County;ISO 3166-2;1;1;from
+Q191604;Heves County;часть от;1;1;from
+Q191604;Heves County;категория на Викискладе;1;1;from
+Q191604;Heves County;геоданные;1;1;from
+Q191604;Heves County;ID отношения в OpenStreetMap;1;1;from
+Q191604;Heves County;идентификатор местоположения ArchINFORM;1;1;from
+Q191604;Heves County;дата основания/создания/возникновения;1;1;from
+Q191604;Heves County;географические координаты;1;1;from
+Q191604;Heves County;код Freebase;1;1;from
+Q191604;Heves County;Who's on First ID;1;1;from
+Q191616;Békés County;код GeoNames;1;1;from
+Q191616;Békés County;категория для людей, похороненных здесь;1;1;from
+Q191625;Tolna County;категория на Викискладе;1;1;from
+Q191625;Tolna County;описывается в источниках;1;1;from
+Q191625;Tolna County;административно делится на;1;2;to
+Q191625;Tolna County;государство;1;1;from
+Q191625;Tolna County;изображение;1;1;from
+Q191625;Tolna County;код GND;1;1;from
+Q191625;Tolna County;карта местонахождения;1;1;from
+Q191625;Tolna County;это частный случай понятия;1;1;from
+Q191625;Tolna County;столица;1;1;from
+Q191625;Tolna County;изображение флага;1;1;from
+Q191625;Tolna County;имеет границы с;1;4;to
+Q191625;Tolna County;изображение герба;1;1;from
+Q191625;Tolna County;код в энциклопедии «Британника онлайн»;1;1;from
+Q191616;Békés County;место публикации;1;1;to
+Q191625;Tolna County;категория для людей, родившихся здесь;1;1;from
+Q191625;Tolna County;категория для людей, умерших здесь;1;1;from
+Q191625;Tolna County;код GeoNames;1;1;from
+Q191625;Tolna County;категория для людей, похороненных здесь;1;1;from
+Q191625;Tolna County;категория для людей, связанных с местностью;1;1;from
+Q191625;Tolna County;площадь;1;1;from
+Q191625;Tolna County;код BNF;1;1;from
+Q191625;Tolna County;ISO 3166-2;1;1;from
+Q191625;Tolna County;код темы Quora;1;1;from
+Q191625;Tolna County;часть от;1;1;from
+Q191625;Tolna County;административно-территориальная единица;1;148;to
+Q191616;Békés County;общая тема категории;1;1;to
+Q191616;Békés County;категория для людей, связанных с местностью;1;1;from
+Q191616;Békés County;код Freebase;1;1;from
+Q191616;Békés County;площадь;1;1;from
+Q191616;Békés County;код BNF;1;1;from
+Q191616;Békés County;ISO 3166-2;1;1;from
+Q191616;Békés County;часть от;1;1;from
+Q191616;Békés County;категория на Викискладе;1;1;from
+Q191616;Békés County;геоданные;1;1;from
+Q191616;Békés County;ID отношения в OpenStreetMap;1;1;from
+Q191616;Békés County;идентификатор местоположения ArchINFORM;1;1;from
+Q191616;Békés County;дата основания/создания/возникновения;1;1;from
+Q191616;Békés County;географические координаты;1;1;from
+Q191616;Békés County;Who's on First ID;1;1;from
+Q191616;Békés County;названо в честь;1;1;to
+Q191616;Békés County;категория карт на Викискладе;1;1;from
+Q191616;Békés County;официальный сайт;1;1;from
+Q191616;Békés County;FIPS 10-4 (страны и регионы);1;1;from
+Q191616;Békés County;основная категория по теме;1;1;from
+Q191616;Békés County;баннер Викигида;1;1;from
+Q191616;Békés County;место в MusicBrainz;1;1;from
+Q191616;Békés County;место погребения;1;1;to
+Q191616;Békés County;место рождения;1;2;to
+Q191616;Békés County;является столицей;1;1;to
+Q191616;Békés County;категория объединяет темы;1;6;to
+Q188895;Borsod-Abaúj-Zemplén County;площадь;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;название на языке оригинала;1;1;from
+Q181018;Bács-Kiskun County;административно делится на;1;2;to
+Q185374;Zala County;код GeoNames;1;1;from
+Q185374;Zala County;происходит из;1;2;to
+Q186195;Baranya County;административно-территориальная единица;1;157;to
+Q186195;Baranya County;административно делится на;1;2;to
+Q186195;Baranya County;государство;1;1;from
+Q186195;Baranya County;изображение;1;1;from
+Q186195;Baranya County;код GND;1;1;from
+Q186195;Baranya County;карта местонахождения;1;1;from
+Q186195;Baranya County;это частный случай понятия;1;1;from
+Q186195;Baranya County;столица;1;1;from
+Q186195;Baranya County;изображение флага;1;1;from
+Q186195;Baranya County;имеет границы с;1;3;to
+Q186195;Baranya County;изображение герба;1;1;from
+Q186195;Baranya County;десятичная классификация Дьюи;1;1;from
+Q186195;Baranya County;численность населения;1;3;from
+Q186195;Baranya County;код в энциклопедии «Британника онлайн»;1;1;from
+Q186195;Baranya County;категория для людей, родившихся здесь;1;1;from
+Q186195;Baranya County;код GeoNames;1;1;from
+Q186195;Baranya County;код TGN;1;1;from
+Q186195;Baranya County;категория для людей, связанных с местностью;1;1;from
+Q186195;Baranya County;площадь;1;1;from
+Q186195;Baranya County;код BNF;1;1;from
+Q186195;Baranya County;ISO 3166-2;1;1;from
+Q186195;Baranya County;часть от;1;1;from
+Q185374;Zala County;является столицей;1;1;to
+Q185374;Zala County;общая тема категории;1;1;to
+Q185374;Zala County;место рождения;1;1;to
+Q185374;Zala County;идентификатор местоположения ArchINFORM;1;1;from
+Q185374;Zala County;название на языке оригинала;1;2;from
+Q185374;Zala County;категория для людей, связанных с местностью;1;1;from
+Q185374;Zala County;площадь;1;1;from
+Q185374;Zala County;код BNF;1;1;from
+Q185374;Zala County;используемый язык;1;2;from
+Q185374;Zala County;ISO 3166-2;1;1;from
+Q185374;Zala County;часть от;1;1;to
+Q185374;Zala County;категория на Викискладе;1;1;from
+Q185374;Zala County;геоданные;1;1;from
+Q185374;Zala County;ID отношения в OpenStreetMap;1;1;from
+Q185374;Zala County;дата основания/создания/возникновения;1;1;from
+Q185374;Zala County;основная тема;1;1;to
+Q185374;Zala County;географические координаты;1;1;from
+Q185374;Zala County;код Freebase;1;1;from
+Q185374;Zala County;Who's on First ID;1;1;from
+Q185374;Zala County;категория карт на Викискладе;1;1;from
+Q185374;Zala County;официальный сайт;1;1;from
+Q185374;Zala County;FIPS 10-4 (страны и регионы);1;1;from
+Q185374;Zala County;основная категория по теме;1;1;from
+Q185374;Zala County;баннер Викигида;1;1;from
+Q185374;Zala County;категория объединяет темы;1;4;to
+Q185374;Zala County;основная тема портала Викимедиа;1;1;to
+Q186195;Baranya County;категория на Викискладе;1;1;from
+Q186195;Baranya County;геоданные;1;1;from
+Q186195;Baranya County;ID отношения в OpenStreetMap;1;1;from
+Q187677;Vas County;категория для людей, связанных с местностью;1;1;from
+Q187677;Vas County;десятичная классификация Дьюи;1;1;from
+Q187677;Vas County;код в Большой каталанской энциклопедии;1;1;from
+Q187677;Vas County;описывается в источниках;1;1;from
+Q187677;Vas County;код в энциклопедии «Британника онлайн»;1;1;from
+Q187677;Vas County;категория для людей, родившихся здесь;1;1;from
+Q187677;Vas County;категория для людей, умерших здесь;1;1;from
+Q187677;Vas County;код GeoNames;1;1;from
+Q187677;Vas County;код TGN;1;1;from
+Q187677;Vas County;изображение дорожного знака с названием населённого пункта;1;1;from
+Q187677;Vas County;категория для людей, похороненных здесь;1;1;from
+Q187677;Vas County;площадь;1;1;from
+Q187677;Vas County;имеет границы с;1;3;to
+Q187677;Vas County;код BNF;1;1;from
+Q187677;Vas County;ISO 3166-2;1;1;from
+Q187677;Vas County;часть от;1;1;from
+Q187677;Vas County;категория на Викискладе;1;1;from
+Q187677;Vas County;геоданные;1;1;from
+Q187677;Vas County;ID отношения в OpenStreetMap;1;1;from
+Q187677;Vas County;идентификатор местоположения ArchINFORM;1;1;from
+Q187677;Vas County;дата основания/создания/возникновения;1;1;from
+Q187677;Vas County;географические координаты;1;1;from
+Q187677;Vas County;код Freebase;1;1;from
+Q187677;Vas County;изображение герба;1;1;from
+Q187677;Vas County;изображение флага;1;1;from
+Q186195;Baranya County;часовой пояс;1;2;from
+Q186195;Baranya County;место в MusicBrainz;1;1;from
+Q186195;Baranya County;идентификатор местоположения ArchINFORM;1;1;from
+Q186195;Baranya County;дата основания/создания/возникновения;1;1;from
+Q186195;Baranya County;географические координаты;1;1;from
+Q186195;Baranya County;код Freebase;1;2;from
+Q186195;Baranya County;Who's on First ID;1;1;from
+Q186195;Baranya County;категория карт на Викискладе;1;1;from
+Q186195;Baranya County;официальный сайт;1;1;from
+Q186195;Baranya County;FIPS 10-4 (страны и регионы);1;1;from
+Q186195;Baranya County;основная категория по теме;1;1;from
+Q186195;Baranya County;баннер Викигида;1;1;from
+Q186195;Baranya County;категория объединяет темы;1;5;to
+Q187677;Vas County;столица;1;1;from
+Q186195;Baranya County;место рождения;1;1;to
+Q186195;Baranya County;общая тема категории;1;1;to
+Q186195;Baranya County;является столицей;1;1;to
+Q187677;Vas County;административно-территориальная единица;1;174;to
+Q187677;Vas County;административно делится на;1;2;to
+Q187677;Vas County;государство;1;1;from
+Q187677;Vas County;изображение;1;1;from
+Q187677;Vas County;код GND;1;1;from
+Q187677;Vas County;карта местонахождения;1;1;from
+Q187677;Vas County;это частный случай понятия;1;1;from
+Q185374;Zala County;код TGN;1;1;from
+Q185374;Zala County;категория для людей, родившихся здесь;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;код TGN;1;1;from
+Q185374;Zala County;описывается в источниках;1;1;from
+Q181018;Bács-Kiskun County;геоданные;1;1;from
+Q181018;Bács-Kiskun County;ID отношения в OpenStreetMap;1;1;from
+Q181018;Bács-Kiskun County;идентификатор местоположения ArchINFORM;1;1;from
+Q181018;Bács-Kiskun County;дата основания/создания/возникновения;1;1;from
+Q181018;Bács-Kiskun County;географические координаты;1;1;from
+Q181018;Bács-Kiskun County;код Freebase;1;1;from
+Q181018;Bács-Kiskun County;Who's on First ID;1;1;from
+Q181018;Bács-Kiskun County;категория карт на Викискладе;1;1;from
+Q181018;Bács-Kiskun County;официальный сайт;1;3;from
+Q181018;Bács-Kiskun County;FIPS 10-4 (страны и регионы);1;1;from
+Q181018;Bács-Kiskun County;основная категория по теме;1;1;from
+Q181018;Bács-Kiskun County;баннер Викигида;1;1;from
+Q181018;Bács-Kiskun County;место в MusicBrainz;1;1;from
+Q181018;Bács-Kiskun County;место смерти;1;3;to
+Q181018;Bács-Kiskun County;место рождения;1;2;to
+Q181018;Bács-Kiskun County;является столицей;1;1;to
+Q181018;Bács-Kiskun County;категория объединяет темы;1;6;to
+Q181018;Bács-Kiskun County;общая тема категории;1;2;to
+Q185368;Hajdú-Bihar County;административно-территориальная единица;1;126;to
+Q185368;Hajdú-Bihar County;административно делится на;1;2;to
+Q185368;Hajdú-Bihar County;государство;1;1;from
+Q185368;Hajdú-Bihar County;изображение;1;1;from
+Q185368;Hajdú-Bihar County;код GND;1;1;from
+Q181018;Bács-Kiskun County;категория на Викискладе;1;1;from
+Q181018;Bács-Kiskun County;часть от;1;1;from
+Q181018;Bács-Kiskun County;код темы Quora;1;1;from
+Q181018;Bács-Kiskun County;десятичная классификация Дьюи;1;1;from
+Q181018;Bács-Kiskun County;государство;1;1;from
+Q181018;Bács-Kiskun County;изображение;1;1;from
+Q181018;Bács-Kiskun County;код VIAF;1;1;from
+Q181018;Bács-Kiskun County;код GND;1;1;from
+Q181018;Bács-Kiskun County;карта местонахождения;1;1;from
+Q181018;Bács-Kiskun County;это частный случай понятия;1;1;from
+Q181018;Bács-Kiskun County;столица;1;1;from
+Q181018;Bács-Kiskun County;изображение флага;1;1;from
+Q181018;Bács-Kiskun County;имеет границы с;1;3;to
+Q181018;Bács-Kiskun County;изображение герба;1;1;from
+Q181018;Bács-Kiskun County;численность населения;1;1;from
+Q181018;Bács-Kiskun County;ISO 3166-2;1;1;from
+Q181018;Bács-Kiskun County;код в энциклопедии «Британника онлайн»;1;1;from
+Q181018;Bács-Kiskun County;официальное название;1;1;from
+Q181018;Bács-Kiskun County;категория для людей, родившихся здесь;1;1;from
+Q181018;Bács-Kiskun County;категория для людей, умерших здесь;1;1;from
+Q181018;Bács-Kiskun County;код GeoNames;1;1;from
+Q181018;Bács-Kiskun County;код TGN;1;1;from
+Q181018;Bács-Kiskun County;категория для людей, связанных с местностью;1;1;from
+Q181018;Bács-Kiskun County;площадь;1;1;from
+Q181018;Bács-Kiskun County;география темы;1;1;from
+Q181018;Bács-Kiskun County;код BNF;1;1;from
+Q185368;Hajdú-Bihar County;карта местонахождения;1;1;from
+Q185368;Hajdú-Bihar County;это частный случай понятия;1;1;from
+Q185368;Hajdú-Bihar County;столица;1;1;from
+Q185374;Zala County;государство;1;1;from
+Q185368;Hajdú-Bihar County;основная категория по теме;1;1;from
+Q185368;Hajdú-Bihar County;баннер Викигида;1;1;from
+Q185368;Hajdú-Bihar County;место рождения;1;2;to
+Q185368;Hajdú-Bihar County;место смерти;1;1;to
+Q185368;Hajdú-Bihar County;категория объединяет темы;1;6;to
+Q185368;Hajdú-Bihar County;тематически относится к;1;1;to
+Q185368;Hajdú-Bihar County;является столицей;1;1;to
+Q185368;Hajdú-Bihar County;общая тема категории;1;1;to
+Q185374;Zala County;административно-территориальная единица;1;256;to
+Q185374;Zala County;административно делится на;1;2;to
+Q185374;Zala County;изображение;1;1;from
+Q185368;Hajdú-Bihar County;официальный сайт;1;1;from
+Q185374;Zala County;код GND;1;1;from
+Q185374;Zala County;карта местонахождения;1;1;from
+Q185374;Zala County;это частный случай понятия;1;1;from
+Q185374;Zala County;столица;1;1;from
+Q185374;Zala County;изображение флага;1;1;from
+Q185374;Zala County;имеет границы с;1;3;to
+Q185374;Zala County;изображение герба;1;1;from
+Q185374;Zala County;десятичная классификация Дьюи;1;1;from
+Q185374;Zala County;портал Викимедиа;1;1;from
+Q185374;Zala County;код в Большой каталанской энциклопедии;1;1;from
+Q185368;Hajdú-Bihar County;FIPS 10-4 (страны и регионы);1;1;from
+Q185368;Hajdú-Bihar County;категория карт на Викискладе;1;1;from
+Q185368;Hajdú-Bihar County;изображение флага;1;1;from
+Q185368;Hajdú-Bihar County;площадь;1;1;from
+Q185368;Hajdú-Bihar County;изображение герба;1;1;from
+Q185368;Hajdú-Bihar County;десятичная классификация Дьюи;1;1;from
+Q185368;Hajdú-Bihar County;код в Большой каталанской энциклопедии;1;1;from
+Q185368;Hajdú-Bihar County;код в энциклопедии «Британника онлайн»;1;1;from
+Q185368;Hajdú-Bihar County;категория для людей, родившихся здесь;1;1;from
+Q185368;Hajdú-Bihar County;категория для людей, умерших здесь;1;1;from
+Q185368;Hajdú-Bihar County;код GeoNames;1;1;from
+Q185368;Hajdú-Bihar County;код TGN;1;1;from
+Q185368;Hajdú-Bihar County;категория для людей, похороненных здесь;1;1;from
+Q185368;Hajdú-Bihar County;категория для людей, связанных с местностью;1;1;from
+Q185368;Hajdú-Bihar County;география темы;1;1;from
+Q185368;Hajdú-Bihar County;Who's on First ID;1;1;from
+Q185368;Hajdú-Bihar County;код BNF;1;1;from
+Q185368;Hajdú-Bihar County;ISO 3166-2;1;1;from
+Q185368;Hajdú-Bihar County;часть от;1;1;from
+Q185368;Hajdú-Bihar County;категория на Викискладе;1;1;from
+Q185368;Hajdú-Bihar County;геоданные;1;1;from
+Q185368;Hajdú-Bihar County;ID отношения в OpenStreetMap;1;1;from
+Q185368;Hajdú-Bihar County;идентификатор местоположения ArchINFORM;1;1;from
+Q185368;Hajdú-Bihar County;дата основания/создания/возникновения;1;1;from
+Q185368;Hajdú-Bihar County;географические координаты;1;1;from
+Q185368;Hajdú-Bihar County;код Freebase;1;1;from
+Q187677;Vas County;Who's on First ID;1;1;from
+Q187677;Vas County;категория карт на Викискладе;1;1;from
+Q187677;Vas County;официальный сайт;1;1;from
+Q187677;Vas County;FIPS 10-4 (страны и регионы);1;1;from
+Q188612;Pest County;код Freebase;1;1;from
+Q188612;Pest County;Who's on First ID;1;1;from
+Q188612;Pest County;категория карт на Викискладе;1;1;from
+Q188612;Pest County;официальный сайт;1;1;from
+Q188612;Pest County;FIPS 10-4 (страны и регионы);1;1;from
+Q188612;Pest County;основная категория по теме;1;1;from
+Q188612;Pest County;место в MusicBrainz;1;1;from
+Q188612;Pest County;место погребения;1;7;to
+Q188612;Pest County;категория объединяет темы;1;4;to
+Q188612;Pest County;место смерти;1;3;to
+Q188612;Pest County;основная тема;1;2;to
+Q188612;Pest County;место рождения;1;3;to
+Q188612;Pest County;общая тема категории;1;1;to
+Q188612;Pest County;анклав в;1;1;to
+Q188890;Veszprém County;административно-территориальная единица;1;264;to
+Q188890;Veszprém County;административно делится на;1;2;to
+Q188890;Veszprém County;государство;1;1;from
+Q188890;Veszprém County;изображение;1;1;from
+Q188890;Veszprém County;код GND;1;1;from
+Q188890;Veszprém County;карта местонахождения;1;1;from
+Q188890;Veszprém County;это частный случай понятия;1;1;from
+Q188890;Veszprém County;столица;1;1;from
+Q188890;Veszprém County;изображение флага;1;1;from
+Q188612;Pest County;географические координаты;1;1;from
+Q188612;Pest County;наивысшая точка;1;1;from
+Q188612;Pest County;дата основания/создания/возникновения;1;1;from
+Q188612;Pest County;категория для людей, родившихся здесь;1;1;from
+Q188612;Pest County;код GND;1;1;from
+Q188612;Pest County;карта местонахождения;1;1;from
+Q188612;Pest County;это частный случай понятия;1;1;from
+Q188612;Pest County;столица;1;1;from
+Q188612;Pest County;изображение флага;1;1;from
+Q188612;Pest County;имеет границы с;1;3;to
+Q188612;Pest County;изображение герба;1;1;from
+Q188612;Pest County;десятичная классификация Дьюи;1;1;from
+Q188612;Pest County;описывается в источниках;1;2;from
+Q188612;Pest County;код в энциклопедии «Британника онлайн»;1;1;from
+Q188612;Pest County;категория для людей, умерших здесь;1;1;from
+Q188612;Pest County;идентификатор местоположения ArchINFORM;1;1;from
+Q188612;Pest County;код GeoNames;1;1;from
+Q188612;Pest County;код TGN;1;1;from
+Q188612;Pest County;категория для людей, похороненных здесь;1;1;from
+Q188612;Pest County;площадь;1;1;from
+Q188612;Pest County;код BNF;1;1;from
+Q188612;Pest County;ISO 3166-2;1;1;from
+Q188612;Pest County;часть от;1;1;from
+Q188612;Pest County;категория на Викискладе;1;1;from
+Q188612;Pest County;геоданные;1;1;from
+Q188612;Pest County;ID отношения в OpenStreetMap;1;1;from
+Q188890;Veszprém County;имеет границы с;1;6;to
+Q188890;Veszprém County;изображение герба;1;1;from
+Q188890;Veszprém County;десятичная классификация Дьюи;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;карта местонахождения;1;1;from
+Q188890;Veszprém County;место погребения;1;1;to
+Q188890;Veszprém County;категория объединяет темы;1;5;to
+Q188890;Veszprém County;общая тема категории;1;1;to
+Q188890;Veszprém County;заменён на;1;1;to
+Q188895;Borsod-Abaúj-Zemplén County;административно-территориальная единица;1;429;to
+Q188895;Borsod-Abaúj-Zemplén County;административно делится на;1;2;to
+Q188895;Borsod-Abaúj-Zemplén County;государство;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;изображение;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;код VIAF;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;код GND;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;это частный случай понятия;1;1;from
+Q188890;Veszprém County;баннер Викигида;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;столица;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;изображение флага;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;имеет границы с;1;1;to
+Q188895;Borsod-Abaúj-Zemplén County;изображение герба;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;десятичная классификация Дьюи;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;код в Большой каталанской энциклопедии;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;код в энциклопедии «Британника онлайн»;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;категория для людей, родившихся здесь;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;категория для людей, умерших здесь;1;1;from
+Q188895;Borsod-Abaúj-Zemplén County;код GeoNames;1;1;from
+Q188890;Veszprém County;является столицей;1;1;to
+Q188890;Veszprém County;основная категория по теме;1;1;from
+Q188890;Veszprém County;код в Большой каталанской энциклопедии;1;1;from
+Q188890;Veszprém County;ISO 3166-2;1;1;from
+Q188890;Veszprém County;заменил;1;1;from
+Q188890;Veszprém County;код в энциклопедии «Британника онлайн»;1;1;from
+Q188890;Veszprém County;категория для людей, родившихся здесь;1;1;from
+Q188890;Veszprém County;категория для людей, умерших здесь;1;1;from
+Q188890;Veszprém County;код GeoNames;1;1;from
+Q188890;Veszprém County;код TGN;1;1;from
+Q188890;Veszprém County;категория для людей, похороненных здесь;1;1;from
+Q188890;Veszprém County;площадь;1;1;from
+Q188890;Veszprém County;код BabelNet;1;1;from
+Q188890;Veszprém County;код BNF;1;1;from
+Q188890;Veszprém County;часть от;1;1;from
+Q188890;Veszprém County;FIPS 10-4 (страны и регионы);1;1;from
+Q188890;Veszprém County;категория на Викискладе;1;1;from
+Q188890;Veszprém County;геоданные;1;1;from
+Q188890;Veszprém County;ID отношения в OpenStreetMap;1;1;from
+Q188890;Veszprém County;идентификатор местоположения ArchINFORM;1;1;from
+Q188890;Veszprém County;дата основания/создания/возникновения;1;1;from
+Q188890;Veszprém County;географические координаты;1;1;from
+Q188890;Veszprém County;код Freebase;1;1;from
+Q188890;Veszprém County;Who's on First ID;1;1;from
+Q188890;Veszprém County;категория карт на Викискладе;1;1;from
+Q188890;Veszprém County;официальный сайт;1;1;from
+Q188612;Pest County;код VIAF;1;1;from
+Q188612;Pest County;изображение;1;1;from
+Q188612;Pest County;государство;1;1;from
+Q187693;Fejér County;географические координаты;1;1;from
+Q187693;Fejér County;категория для людей, связанных с местностью;1;1;from
+Q187693;Fejér County;площадь;1;1;from
+Q187693;Fejér County;код BNF;1;1;from
+Q187693;Fejér County;ISO 3166-2;1;1;from
+Q187693;Fejér County;часть от;1;1;to
+Q187693;Fejér County;категория на Викискладе;1;1;from
+Q187693;Fejér County;геоданные;1;1;from
+Q187693;Fejér County;ID отношения в OpenStreetMap;1;1;from
+Q187693;Fejér County;идентификатор местоположения ArchINFORM;1;1;from
+Q187693;Fejér County;дата основания/создания/возникновения;1;1;from
+Q187693;Fejér County;код Freebase;1;1;from
+Q187693;Fejér County;код TGN;1;1;from
+Q187693;Fejér County;Who's on First ID;1;1;from
+Q187693;Fejér County;категория карт на Викискладе;1;1;from
+Q187693;Fejér County;официальный сайт;1;1;from
+Q187693;Fejér County;FIPS 10-4 (страны и регионы);1;1;from
+Q187693;Fejér County;основная категория по теме;1;1;from
+Q187693;Fejér County;баннер Викигида;1;1;from
+Q187693;Fejér County;место в MusicBrainz;1;1;from
+Q187693;Fejér County;место смерти;1;3;to
+Q187693;Fejér County;место погребения;1;13;to
+Q187693;Fejér County;место рождения;1;2;to
+Q187693;Fejér County;категория для людей, похороненных здесь;1;1;from
+Q187693;Fejér County;код GeoNames;1;1;from
+Q187693;Fejér County;общая тема категории;1;1;to
+Q187693;Fejér County;государство;1;1;from
+Q187677;Vas County;основная категория по теме;1;1;from
+Q187677;Vas County;баннер Викигида;1;1;from
+Q187677;Vas County;место рождения;1;2;to
+Q187677;Vas County;категория объединяет темы;1;6;to
+Q187677;Vas County;основная тема;1;1;to
+Q187677;Vas County;место публикации;1;1;to
+Q187677;Vas County;общая тема категории;1;1;to
+Q187677;Vas County;является столицей;1;1;to
+Q187693;Fejér County;административно-территориальная единица;1;172;to
+Q187693;Fejér County;административно делится на;1;2;to
+Q187693;Fejér County;изображение;1;1;from
+Q187693;Fejér County;категория для людей, умерших здесь;1;1;from
+Q187693;Fejér County;код GND;1;1;from
+Q187693;Fejér County;карта местонахождения;1;1;from
+Q187693;Fejér County;это частный случай понятия;1;1;from
+Q187693;Fejér County;столица;1;1;from
+Q187693;Fejér County;изображение флага;1;1;from
+Q187693;Fejér County;имеет границы с;1;6;to
+Q187693;Fejér County;изображение герба;1;1;from
+Q187693;Fejér County;десятичная классификация Дьюи;1;1;from
+Q187693;Fejér County;код в энциклопедии «Британника онлайн»;1;1;from
+Q187693;Fejér County;категория для людей, родившихся здесь;1;1;from
+Q187693;Fejér County;категория объединяет темы;1;7;to
+Q187753;Győr-Moson-Sopron County;административно-территориальная единица;1;127;to
+Q188612;Pest County;административно делится на;1;2;to
+Q187753;Győr-Moson-Sopron County;категория карт на Викискладе;1;1;from
+Q187753;Győr-Moson-Sopron County;ID отношения в OpenStreetMap;1;1;from
+Q187753;Győr-Moson-Sopron County;часовой пояс;1;2;from
+Q187753;Győr-Moson-Sopron County;код тезауруса PACTOLS;1;1;from
+Q187753;Győr-Moson-Sopron County;участник организации или клуба;1;1;from
+Q187753;Győr-Moson-Sopron County;идентификатор местоположения ArchINFORM;1;1;from
+Q187753;Győr-Moson-Sopron County;дата основания/создания/возникновения;1;1;from
+Q187753;Győr-Moson-Sopron County;наивысшая точка;1;1;from
+Q187753;Győr-Moson-Sopron County;географические координаты;1;1;from
+Q187753;Győr-Moson-Sopron County;код Freebase;1;1;from
+Q187753;Győr-Moson-Sopron County;Who's on First ID;1;1;from
+Q187753;Győr-Moson-Sopron County;официальный сайт;1;1;from
+Q187753;Győr-Moson-Sopron County;категория на Викискладе;1;1;from
+Q187753;Győr-Moson-Sopron County;FIPS 10-4 (страны и регионы);1;1;from
+Q187753;Győr-Moson-Sopron County;основная категория по теме;1;1;from
+Q187753;Győr-Moson-Sopron County;баннер Викигида;1;1;from
+Q187753;Győr-Moson-Sopron County;место в MusicBrainz;1;1;from
+Q187753;Győr-Moson-Sopron County;место рождения;1;2;to
+Q187753;Győr-Moson-Sopron County;является столицей;1;1;to
+Q187753;Győr-Moson-Sopron County;категория объединяет темы;1;6;to
+Q187753;Győr-Moson-Sopron County;основная тема;1;1;to
+Q187753;Győr-Moson-Sopron County;общая тема категории;1;1;to
+Q188612;Pest County;административно-территориальная единица;1;321;to
+Q187753;Győr-Moson-Sopron County;геоданные;1;1;from
+Q187753;Győr-Moson-Sopron County;часть от;1;1;from
+Q187753;Győr-Moson-Sopron County;административно делится на;1;2;to
+Q187753;Győr-Moson-Sopron County;изображение герба;1;1;from
+Q187753;Győr-Moson-Sopron County;государство;1;1;from
+Q187753;Győr-Moson-Sopron County;изображение;1;1;from
+Q187753;Győr-Moson-Sopron County;город-побратим;1;2;to
+Q187753;Győr-Moson-Sopron County;код VIAF;1;1;from
+Q187753;Győr-Moson-Sopron County;код GND;1;1;from
+Q187753;Győr-Moson-Sopron County;карта местонахождения;1;1;from
+Q187753;Győr-Moson-Sopron County;это частный случай понятия;1;1;from
+Q187753;Győr-Moson-Sopron County;столица;1;1;from
+Q187753;Győr-Moson-Sopron County;изображение флага;1;1;from
+Q187753;Győr-Moson-Sopron County;имеет границы с;1;3;to
+Q187753;Győr-Moson-Sopron County;десятичная классификация Дьюи;1;1;from
+Q187753;Győr-Moson-Sopron County;ISO 3166-2;1;1;from
+Q187753;Győr-Moson-Sopron County;описывается в источниках;1;1;from
+Q187753;Győr-Moson-Sopron County;код в энциклопедии «Британника онлайн»;1;1;from
+Q187753;Győr-Moson-Sopron County;категория для людей, родившихся здесь;1;1;from
+Q187753;Győr-Moson-Sopron County;категория для людей, умерших здесь;1;1;from
+Q187753;Győr-Moson-Sopron County;код GeoNames;1;1;from
+Q187753;Győr-Moson-Sopron County;категория для людей, похороненных здесь;1;1;from
+Q187753;Győr-Moson-Sopron County;категория для людей, связанных с местностью;1;1;from
+Q187753;Győr-Moson-Sopron County;площадь;1;1;from
+Q187753;Győr-Moson-Sopron County;код BabelNet;1;1;from
+Q187753;Győr-Moson-Sopron County;код BNF;1;1;from
+Q194273;Nógrád County;общая тема категории;1;1;to

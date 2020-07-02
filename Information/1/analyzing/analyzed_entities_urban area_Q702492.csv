@@ -1,0 +1,926 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q158903;Shusha;административно-территориальная единица;1;36;to
+Q7164819;Pensnett;географические координаты;1;1;from
+Q7164819;Pensnett;местонахождение;1;4;to
+Q7164819;Pensnett;место рождения;1;3;to
+Q7272470;Quinton;административно-территориальная единица;1;1;from
+Q7272470;Quinton;государство;1;1;from
+Q7272470;Quinton;это частный случай понятия;1;1;from
+Q7272470;Quinton;не путать с;1;1;to
+Q7272470;Quinton;Vision of Britain unit ID;1;2;from
+Q7272470;Quinton;Vision of Britain place ID;1;1;from
+Q7272470;Quinton;географические координаты;1;1;from
+Q7272470;Quinton;местонахождение;1;9;to
+Q7272470;Quinton;место рождения;1;2;to
+Q7300455;Reading/Wokingham Urban Area;государство;1;1;from
+Q7300455;Reading/Wokingham Urban Area;это частный случай понятия;1;1;from
+Q7300455;Reading/Wokingham Urban Area;географические координаты;1;1;from
+Q7363216;Romiley;административно-территориальная единица;1;1;from
+Q7363216;Romiley;государство;1;1;from
+Q7363216;Romiley;изображение;1;1;from
+Q7363216;Romiley;это частный случай понятия;1;1;from
+Q7363216;Romiley;WOEID;1;1;from
+Q7363216;Romiley;код GeoNames;1;1;from
+Q7363216;Romiley;OpenDomesday settlement ID;1;1;from
+Q7363216;Romiley;Vision of Britain place ID;1;1;from
+Q7363216;Romiley;KEPN ID;1;1;from
+Q7363216;Romiley;категория на Викискладе;1;1;from
+Q7363216;Romiley;географические координаты;1;1;from
+Q7164819;Pensnett;официальный сайт;1;1;from
+Q7164819;Pensnett;категория на Викискладе;1;1;from
+Q7363216;Romiley;место рождения;1;8;to
+Q7164819;Pensnett;Vision of Britain place ID;1;1;from
+Q6759043;Marfleet;изображение;1;1;from
+Q6759043;Marfleet;это частный случай понятия;1;1;from
+Q6759043;Marfleet;код GeoNames;1;1;from
+Q6759043;Marfleet;OpenDomesday settlement ID;1;1;from
+Q6759043;Marfleet;Vision of Britain place ID;1;1;from
+Q6759043;Marfleet;KEPN ID;1;1;from
+Q6759043;Marfleet;категория на Викискладе;1;1;from
+Q6759043;Marfleet;географические координаты;1;1;from
+Q6759043;Marfleet;Who's on First ID;1;1;from
+Q6759043;Marfleet;названо в честь;1;1;to
+Q6818170;Phu My Hung Urban Area;административно-территориальная единица;1;1;from
+Q6818170;Phu My Hung Urban Area;государство;1;1;from
+Q6818170;Phu My Hung Urban Area;изображение;1;1;from
+Q6818170;Phu My Hung Urban Area;это частный случай понятия;1;1;from
+Q6818170;Phu My Hung Urban Area;площадь;1;1;from
+Q6818170;Phu My Hung Urban Area;категория на Викискладе;1;1;from
+Q6818170;Phu My Hung Urban Area;географические координаты;1;1;from
+Q6818170;Phu My Hung Urban Area;часть от;1;3;to
+Q6818170;Phu My Hung Urban Area;работодатель;1;1;to
+Q6861276;Milton Keynes urban area;государство;1;1;from
+Q6861276;Milton Keynes urban area;это частный случай понятия;1;1;from
+Q6861276;Milton Keynes urban area;географические координаты;1;1;from
+Q7164819;Pensnett;административно-территориальная единица;1;2;to
+Q7164819;Pensnett;государство;1;1;from
+Q7164819;Pensnett;это частный случай понятия;1;1;from
+Q7363216;Romiley;Who's on First ID;1;1;from
+Q7363216;Romiley;названо в честь;1;1;to
+Q6759043;Marfleet;административно-территориальная единица;1;1;from
+Q7998083;Wibsey;изображение;1;1;from
+Q7998083;Wibsey;код GeoNames;1;1;from
+Q7998083;Wibsey;не путать с;1;1;to
+Q7998083;Wibsey;OpenDomesday settlement ID;1;1;from
+Q7998083;Wibsey;TOID;1;1;from
+Q7998083;Wibsey;Vision of Britain place ID;1;1;from
+Q7998083;Wibsey;категория на Викискладе;1;1;from
+Q7998083;Wibsey;географические координаты;1;1;from
+Q7998083;Wibsey;Who's on First ID;1;1;from
+Q7998083;Wibsey;место рождения;1;2;to
+Q7998083;Wibsey;местонахождение;1;3;to
+Q7999552;Wigan Urban Area;государство;1;1;from
+Q7999552;Wigan Urban Area;изображение;1;1;from
+Q7999552;Wigan Urban Area;это частный случай понятия;1;1;from
+Q7999552;Wigan Urban Area;географические координаты;1;1;from
+Q9323498;Roździeń;административно-территориальная единица;1;1;from
+Q9323498;Roździeń;государство;1;1;from
+Q9323498;Roździeń;изображение;1;1;from
+Q9323498;Roździeń;это частный случай понятия;1;2;from
+Q9323498;Roździeń;географические координаты;1;1;from
+Q9323498;Roździeń;место рождения;1;2;to
+Q9323498;Roździeń;местонахождение;1;1;to
+Q9588022;Пирасикаба;административно-территориальная единица;1;1;from
+Q9588022;Пирасикаба;государство;1;1;from
+Q9588022;Пирасикаба;это частный случай понятия;1;1;from
+Q9588032;Q9588032;административно-территориальная единица;1;1;from
+Q7998083;Wibsey;это частный случай понятия;1;1;from
+Q7998083;Wibsey;государство;1;1;from
+Q7363216;Romiley;местонахождение;1;6;to
+Q7998083;Wibsey;административно-территориальная единица;1;1;from
+Q7567113;South East Dorset conurbation;государство;1;1;from
+Q7567113;South East Dorset conurbation;это частный случай понятия;1;1;from
+Q7567113;South East Dorset conurbation;географические координаты;1;1;from
+Q7567412;South Hampshire;государство;1;1;from
+Q7567412;South Hampshire;это частный случай понятия;1;1;from
+Q7567412;South Hampshire;географические координаты;1;1;from
+Q7567412;South Hampshire;административно-территориальная единица;1;1;to
+Q7569549;Southend Urban Area;государство;1;1;from
+Q7569549;Southend Urban Area;это частный случай понятия;1;2;from
+Q7569549;Southend Urban Area;географические координаты;1;1;from
+Q7653718;Swansea Urban Area;государство;1;1;from
+Q7653718;Swansea Urban Area;это частный случай понятия;1;1;from
+Q7653718;Swansea Urban Area;географические координаты;1;1;from
+Q7899956;Urban Luzon;административно делится на;1;2;from
+Q7899956;Urban Luzon;государство;1;1;from
+Q7899956;Urban Luzon;это частный случай понятия;1;1;from
+Q7899956;Urban Luzon;находится в пределах природно-географического объекта;1;1;from
+Q7899956;Urban Luzon;местонахождение;1;2;to
+Q7978158;Wearside;административно-территориальная единица;1;1;from
+Q7978158;Wearside;государство;1;1;from
+Q7978158;Wearside;это частный случай понятия;1;1;from
+Q7978158;Wearside;географические координаты;1;1;from
+Q7978158;Wearside;местонахождение;1;7;to
+Q7978158;Wearside;место жительства;1;1;to
+Q7978158;Wearside;место рождения;1;1;to
+Q6759043;Marfleet;государство;1;1;from
+Q6751698;Mansfield Urban Area;географические координаты;1;1;from
+Q4784763;Arbor Lakes;официальный сайт;1;1;from
+Q5328166;East Cork;государство;1;1;from
+Q5328166;East Cork;географические координаты;1;1;from
+Q5600557;Greater Glasgow;административно-территориальная единица;1;2;from
+Q5600557;Greater Glasgow;государство;1;1;from
+Q5600557;Greater Glasgow;это частный случай понятия;1;1;from
+Q5600557;Greater Glasgow;площадь;1;1;from
+Q5600557;Greater Glasgow;код в Encyclopædia Universalis;1;1;from
+Q5600557;Greater Glasgow;географический код Великобритании;1;1;from
+Q5600557;Greater Glasgow;географические координаты;1;1;from
+Q5600557;Greater Glasgow;код GSS (2011);1;2;from
+Q5600557;Greater Glasgow;основная категория по теме;1;1;from
+Q5600557;Greater Glasgow;баннер Викигида;1;1;from
+Q5600557;Greater Glasgow;часть от;1;1;to
+Q5600557;Greater Glasgow;расположение штаб-квартиры;1;1;to
+Q5600557;Greater Glasgow;зона обслуживания;1;1;to
+Q5600557;Greater Glasgow;общая тема категории;1;1;to
+Q5680753;South Brooklyn;административно-территориальная единица;1;1;from
+Q5680753;South Brooklyn;государство;1;1;from
+Q5680753;South Brooklyn;это частный случай понятия;1;1;from
+Q5680753;South Brooklyn;код US National Archives;1;1;from
+Q5680753;South Brooklyn;код GeoNames;1;1;from
+Q5680753;South Brooklyn;код темы Quora;1;1;from
+Q5680753;South Brooklyn;категория на Викискладе;1;1;from
+Q5680753;South Brooklyn;географические координаты;1;1;from
+Q5680753;South Brooklyn;основная категория по теме;1;1;from
+Q5680753;South Brooklyn;общая тема категории;1;1;to
+Q5328166;East Cork;это частный случай понятия;1;1;from
+Q5328166;East Cork;административно-территориальная единица;1;1;from
+Q5680753;South Brooklyn;место рождения;1;1;to
+Q5313979;Dumplington;географические координаты;1;1;from
+Q4852528;Balsall Heath;государство;1;1;from
+Q4852528;Balsall Heath;это частный случай понятия;1;1;from
+Q4852528;Balsall Heath;географические координаты;1;1;from
+Q4852528;Balsall Heath;Who's on First ID;1;1;from
+Q4852528;Balsall Heath;место жительства;1;1;to
+Q4852528;Balsall Heath;местонахождение;1;5;to
+Q4852528;Balsall Heath;место рождения;1;8;to
+Q4866711;Basen Górniczy;государство;1;1;from
+Q4866711;Basen Górniczy;это частный случай понятия;1;1;from
+Q4866711;Basen Górniczy;код GeoNames;1;1;from
+Q4866711;Basen Górniczy;географические координаты;1;1;from
+Q4923281;Blackpool Urban Area;государство;1;1;from
+Q4923281;Blackpool Urban Area;это частный случай понятия;1;1;from
+Q4923281;Blackpool Urban Area;географические координаты;1;1;from
+Q5038481;Cardiff Urban Area;государство;1;1;from
+Q5038481;Cardiff Urban Area;это частный случай понятия;1;1;from
+Q5038481;Cardiff Urban Area;географические координаты;1;1;from
+Q5179126;Coventry and Bedworth Urban Area;государство;1;1;from
+Q5179126;Coventry and Bedworth Urban Area;это частный случай понятия;1;1;from
+Q5179126;Coventry and Bedworth Urban Area;географические координаты;1;1;from
+Q5313979;Dumplington;административно-территориальная единица;1;1;from
+Q5313979;Dumplington;государство;1;1;from
+Q5313979;Dumplington;изображение;1;1;from
+Q5313979;Dumplington;это частный случай понятия;1;2;from
+Q5313979;Dumplington;местонахождение;1;2;to
+Q5680753;South Brooklyn;место жительства;1;1;to
+Q5680753;South Brooklyn;место смерти;1;2;to
+Q6751698;Mansfield Urban Area;это частный случай понятия;1;2;from
+Q6423495;Knowsthorpe;это частный случай понятия;1;1;from
+Q6423495;Knowsthorpe;TOID;1;1;from
+Q6423495;Knowsthorpe;Vision of Britain place ID;1;1;from
+Q6423495;Knowsthorpe;категория на Викискладе;1;1;from
+Q6423495;Knowsthorpe;географические координаты;1;1;from
+Q6423495;Knowsthorpe;код Freebase;1;1;from
+Q6423495;Knowsthorpe;Who's on First ID;1;1;from
+Q6519243;Leicester Urban Area;государство;1;1;from
+Q6519243;Leicester Urban Area;это частный случай понятия;1;1;from
+Q6519243;Leicester Urban Area;географические координаты;1;1;from
+Q6694650;Lozells;административно-территориальная единица;1;1;to
+Q6694650;Lozells;государство;1;1;from
+Q6694650;Lozells;это частный случай понятия;1;1;from
+Q6694650;Lozells;географические координаты;1;1;from
+Q6694650;Lozells;Who's on First ID;1;1;from
+Q6694650;Lozells;местонахождение;1;2;to
+Q6694650;Lozells;место рождения;1;3;to
+Q6705860;Luton/Dunstable Urban Area;государство;1;1;from
+Q6705860;Luton/Dunstable Urban Area;изображение;1;1;from
+Q6705860;Luton/Dunstable Urban Area;это частный случай понятия;1;1;from
+Q6705860;Luton/Dunstable Urban Area;географические координаты;1;1;from
+Q6741316;Malappuram Urban Center;административно-территориальная единица;1;1;from
+Q6741316;Malappuram Urban Center;государство;1;1;from
+Q6741316;Malappuram Urban Center;изображение;1;1;from
+Q6741316;Malappuram Urban Center;это частный случай понятия;1;1;from
+Q6751698;Mansfield Urban Area;государство;1;1;from
+Q6423495;Knowsthorpe;код GeoNames;1;1;from
+Q6423495;Knowsthorpe;изображение;1;1;from
+Q5685844;Hay Mills;административно-территориальная единица;1;1;from
+Q6423495;Knowsthorpe;государство;1;1;from
+Q5685844;Hay Mills;государство;1;1;from
+Q5685844;Hay Mills;это частный случай понятия;1;2;from
+Q5685844;Hay Mills;код GeoNames;1;1;from
+Q5685844;Hay Mills;Vision of Britain place ID;1;1;from
+Q5685844;Hay Mills;географические координаты;1;1;from
+Q5685844;Hay Mills;Who's on First ID;1;1;from
+Q5685844;Hay Mills;местонахождение;1;2;to
+Q5685844;Hay Mills;названо в честь;1;1;to
+Q5725371;Belén;административно-территориальная единица;1;1;from
+Q5725371;Belén;государство;1;1;from
+Q5725371;Belén;это частный случай понятия;1;1;from
+Q5725371;Belén;почтовый индекс;1;1;from
+Q5725371;Belén;географические координаты;1;1;from
+Q5725371;Belén;включает населённый пункт;1;1;to
+Q5990237;Sarchnar;административно-территориальная единица;1;1;from
+Q5990237;Sarchnar;государство;1;1;from
+Q5990237;Sarchnar;это частный случай понятия;1;2;from
+Q5990237;Sarchnar;код GeoNames;1;1;from
+Q5990237;Sarchnar;географические координаты;1;1;from
+Q5990237;Sarchnar;Who's on First ID;1;1;from
+Q6220886;John Barrow;административно-территориальная единица;1;1;from
+Q6220886;John Barrow;государство;1;1;from
+Q6220886;John Barrow;это частный случай понятия;1;2;from
+Q6220886;John Barrow;географические координаты;1;1;from
+Q6423495;Knowsthorpe;административно-территориальная единица;1;1;from
+Q9588032;Q9588032;государство;1;1;from
+Q9588032;Q9588032;это частный случай понятия;1;1;from
+Q9588043;Q9588043;государство;1;1;from
+Q17984054;Q17984054;это частный случай понятия;1;2;from
+Q17984057;Q17984057;административно-территориальная единица;1;1;from
+Q17984057;Q17984057;государство;1;1;from
+Q17984057;Q17984057;это частный случай понятия;1;2;from
+Q17984057;Q17984057;географические координаты;1;1;from
+Q17984064;Q17984064;административно-территориальная единица;1;1;from
+Q17984064;Q17984064;государство;1;1;from
+Q17984064;Q17984064;это частный случай понятия;1;2;from
+Q17984064;Q17984064;код в Большой каталанской энциклопедии;1;1;from
+Q17984064;Q17984064;географические координаты;1;1;from
+Q18002385;Q18002385;административно-территориальная единица;1;1;from
+Q18002385;Q18002385;государство;1;1;from
+Q18002385;Q18002385;это частный случай понятия;1;2;from
+Q18002385;Q18002385;географические координаты;1;1;from
+Q18661110;Q18661110;государство;1;1;from
+Q18661110;Q18661110;это частный случай понятия;1;2;from
+Q19978463;Barekese;государство;1;1;from
+Q19978463;Barekese;это частный случай понятия;1;1;from
+Q19978463;Barekese;географические координаты;1;1;from
+Q20060177;Q20060177;государство;1;1;from
+Q20060177;Q20060177;это частный случай понятия;1;1;from
+Q20088995;North Industrial Area, Accra;государство;1;1;from
+Q20088995;North Industrial Area, Accra;это частный случай понятия;1;1;from
+Q20088995;North Industrial Area, Accra;географические координаты;1;1;from
+Q20119837;Atimatim;государство;1;1;from
+Q20119837;Atimatim;это частный случай понятия;1;1;from
+Q17984054;Q17984054;географические координаты;1;1;from
+Q17984054;Q17984054;государство;1;1;from
+Q20119934;Buoho;государство;1;1;from
+Q17984054;Q17984054;административно-территориальная единица;1;1;from
+Q17601059;Alastaro village;это частный случай понятия;1;2;from
+Q17601059;Alastaro village;географические координаты;1;1;from
+Q17601059;Alastaro village;местонахождение;1;1;to
+Q17601147;Q17601147;административно-территориальная единица;1;1;from
+Q17601147;Q17601147;государство;1;1;from
+Q17601147;Q17601147;это частный случай понятия;1;2;from
+Q17601147;Q17601147;географические координаты;1;1;from
+Q17601178;Q17601178;административно-территориальная единица;1;1;from
+Q17601178;Q17601178;государство;1;1;from
+Q17601178;Q17601178;это частный случай понятия;1;1;from
+Q17601178;Q17601178;географические координаты;1;1;from
+Q17601196;Q17601196;административно-территориальная единица;1;1;from
+Q17601196;Q17601196;государство;1;1;from
+Q17601196;Q17601196;это частный случай понятия;1;1;from
+Q17601196;Q17601196;географические координаты;1;1;from
+Q17601214;Q17601214;административно-территориальная единица;1;1;from
+Q17601214;Q17601214;государство;1;1;from
+Q17601214;Q17601214;это частный случай понятия;1;1;from
+Q17601214;Q17601214;географические координаты;1;1;from
+Q17603431;Ahola;административно-территориальная единица;1;1;from
+Q17603431;Ahola;государство;1;1;from
+Q17603431;Ahola;это частный случай понятия;1;1;from
+Q17603431;Ahola;численность населения;1;1;from
+Q17603431;Ahola;географические координаты;1;1;from
+Q17603431;Ahola;Who's on First ID;1;1;from
+Q20119837;Atimatim;географические координаты;1;1;from
+Q20119934;Buoho;это частный случай понятия;1;1;from
+Q9588043;Q9588043;это частный случай понятия;1;1;from
+Q23086315;Imatra central locality;площадь;1;1;from
+Q24233958;Wyebank;административно-территориальная единица;1;1;to
+Q24233958;Wyebank;государство;1;1;from
+Q24233958;Wyebank;код VIAF;1;1;from
+Q24233958;Wyebank;код LCNAF;1;1;from
+Q24233958;Wyebank;это частный случай понятия;1;1;from
+Q24950600;Kozhikode metropolitan area;государство;1;1;from
+Q24950600;Kozhikode metropolitan area;это частный случай понятия;1;1;from
+Q25449809;Qufar;административно-территориальная единица;1;1;from
+Q25449809;Qufar;государство;1;1;from
+Q25449809;Qufar;это частный случай понятия;1;2;from
+Q25449809;Qufar;код GeoNames;1;1;from
+Q25449809;Qufar;высота над уровнем моря;1;1;from
+Q25449809;Qufar;часовой пояс;1;1;from
+Q25449809;Qufar;географические координаты;1;1;from
+Q26254508;Q26254508;административно-территориальная единица;1;1;from
+Q26254508;Q26254508;государство;1;1;from
+Q26254508;Q26254508;это частный случай понятия;1;1;from
+Q26254508;Q26254508;географические координаты;1;1;from
+Q31202404;Aireys Inlet - Fairhaven;административно-территориальная единица;1;1;from
+Q31202404;Aireys Inlet - Fairhaven;государство;1;1;from
+Q31202404;Aireys Inlet - Fairhaven;это частный случай понятия;1;1;from
+Q31202404;Aireys Inlet - Fairhaven;Australian Statistical Geography 2011 ID;1;1;from
+Q75333043;Q75333043;административно-территориальная единица;1;1;from
+Q75333043;Q75333043;государство;1;1;from
+Q75333043;Q75333043;это частный случай понятия;1;1;from
+Q23086315;Imatra central locality;географические координаты;1;1;from
+Q23086315;Imatra central locality;численность населения;1;1;from
+Q20536978;Yamoransa;государство;1;1;from
+Q23086315;Imatra central locality;это частный случай понятия;1;2;from
+Q20536978;Yamoransa;это частный случай понятия;1;1;from
+Q20536978;Yamoransa;географические координаты;1;1;from
+Q20537006;Kpong;государство;1;1;from
+Q20537006;Kpong;это частный случай понятия;1;1;from
+Q20537006;Kpong;географические координаты;1;1;from
+Q20537006;Kpong;место рождения;1;2;to
+Q20627217;Enyiresi;государство;1;1;from
+Q20627217;Enyiresi;это частный случай понятия;1;1;from
+Q20627217;Enyiresi;географические координаты;1;1;from
+Q20627270;Asankare;государство;1;1;from
+Q20627270;Asankare;это частный случай понятия;1;1;from
+Q20627270;Asankare;географические координаты;1;1;from
+Q20854857;Apedwa;государство;1;1;from
+Q20854857;Apedwa;это частный случай понятия;1;1;from
+Q20854857;Apedwa;географические координаты;1;1;from
+Q20855023;Koforidua-Asokore;государство;1;1;from
+Q20855023;Koforidua-Asokore;это частный случай понятия;1;1;from
+Q23085466;Lappeenranta central locality;административно-территориальная единица;1;2;from
+Q23085466;Lappeenranta central locality;государство;1;1;from
+Q23085466;Lappeenranta central locality;это частный случай понятия;1;2;from
+Q23085466;Lappeenranta central locality;численность населения;1;1;from
+Q23085466;Lappeenranta central locality;площадь;1;1;from
+Q23085466;Lappeenranta central locality;географические координаты;1;1;from
+Q23086315;Imatra central locality;административно-территориальная единица;1;3;from
+Q23086315;Imatra central locality;государство;1;1;from
+Q17601059;Alastaro village;государство;1;1;from
+Q17601059;Alastaro village;административно-территориальная единица;1;2;from
+Q17600993;Q17600993;географические координаты;1;1;from
+Q11896301;Tampere urban area;административно-территориальная единица;1;6;from
+Q11896301;Tampere urban area;это частный случай понятия;1;2;from
+Q11896301;Tampere urban area;географические координаты;1;1;from
+Q11896301;Tampere urban area;местонахождение;1;1;to
+Q11898800;Q11898800;государство;1;1;from
+Q11898800;Q11898800;это частный случай понятия;1;2;from
+Q11898800;Q11898800;географические координаты;1;1;from
+Q11898800;Q11898800;административно-территориальная единица;1;1;to
+Q11976124;Hunndalen;административно-территориальная единица;1;1;from
+Q11976124;Hunndalen;государство;1;1;from
+Q11976124;Hunndalen;изображение;1;1;from
+Q11976124;Hunndalen;это частный случай понятия;1;1;from
+Q11976124;Hunndalen;код GeoNames;1;1;from
+Q11976124;Hunndalen;категория на Викискладе;1;1;from
+Q11976124;Hunndalen;код в Большой норвежской энциклопедии;1;1;from
+Q11976124;Hunndalen;географические координаты;1;1;from
+Q11976124;Hunndalen;Who's on First ID;1;1;from
+Q11976124;Hunndalen;место рождения;1;2;to
+Q11976124;Hunndalen;расположение штаб-квартиры;1;1;to
+Q11992922;Næroset;административно-территориальная единица;1;1;from
+Q11992922;Næroset;государство;1;1;from
+Q11992922;Næroset;изображение;1;1;from
+Q11992922;Næroset;это частный случай понятия;1;1;from
+Q11992922;Næroset;числовой код SSR для названия;1;1;from
+Q11992922;Næroset;категория на Викискладе;1;1;from
+Q11992922;Næroset;географические координаты;1;1;from
+Q11896301;Tampere urban area;государство;1;1;from
+Q11862153;Helsinki urban area;географические координаты;1;1;from
+Q17600993;Q17600993;это частный случай понятия;1;1;from
+Q11862153;Helsinki urban area;это частный случай понятия;1;2;from
+Q9833238;Expanded Metropolitan Complex of São Paulo;административно-территориальная единица;1;1;from
+Q9833238;Expanded Metropolitan Complex of São Paulo;государство;1;1;from
+Q9833238;Expanded Metropolitan Complex of São Paulo;изображение;1;1;from
+Q9833238;Expanded Metropolitan Complex of São Paulo;карта местонахождения;1;1;from
+Q9833238;Expanded Metropolitan Complex of São Paulo;это частный случай понятия;1;1;from
+Q9833238;Expanded Metropolitan Complex of São Paulo;не путать с;1;1;to
+Q10435901;Q10435901;административно-территориальная единица;1;1;from
+Q10435901;Q10435901;государство;1;1;from
+Q10435901;Q10435901;это частный случай понятия;1;2;from
+Q10435901;Q10435901;географические координаты;1;1;from
+Q11316213;Tanasbourne, Oregon;административно-территориальная единица;1;1;from
+Q11316213;Tanasbourne, Oregon;государство;1;1;from
+Q11316213;Tanasbourne, Oregon;изображение;1;1;from
+Q11316213;Tanasbourne, Oregon;это частный случай понятия;1;1;from
+Q11316213;Tanasbourne, Oregon;код GeoNames;1;1;from
+Q11316213;Tanasbourne, Oregon;код BabelNet;1;1;from
+Q11316213;Tanasbourne, Oregon;категория на Викискладе;1;1;from
+Q11316213;Tanasbourne, Oregon;код GNIS;1;1;from
+Q11316213;Tanasbourne, Oregon;географические координаты;1;1;from
+Q11316213;Tanasbourne, Oregon;Who's on First ID;1;1;from
+Q11852298;Anttola;административно-территориальная единица;1;2;from
+Q11852298;Anttola;государство;1;1;from
+Q11852298;Anttola;это частный случай понятия;1;2;from
+Q11852298;Anttola;географические координаты;1;1;from
+Q11862153;Helsinki urban area;государство;1;1;from
+Q12001884;Q12001884;государство;1;1;from
+Q12001884;Q12001884;это частный случай понятия;1;1;from
+Q12001884;Q12001884;код в Большой каталанской энциклопедии;1;1;from
+Q12001884;Q12001884;место рождения;1;1;to
+Q15223943;Highgate;это частный случай понятия;1;1;from
+Q15223943;Highgate;географические координаты;1;1;from
+Q15223943;Highgate;место рождения;1;2;to
+Q15223943;Highgate;местонахождение;1;1;to
+Q16998897;Newport Built-up area;государство;1;1;from
+Q16998897;Newport Built-up area;это частный случай понятия;1;1;from
+Q17598731;Akonpohja;административно-территориальная единица;1;1;from
+Q17598731;Akonpohja;государство;1;1;from
+Q17598731;Akonpohja;это частный случай понятия;1;1;from
+Q17598731;Akonpohja;географические координаты;1;1;from
+Q17600706;Q17600706;административно-территориальная единица;1;1;from
+Q17600706;Q17600706;государство;1;1;from
+Q17600706;Q17600706;это частный случай понятия;1;1;from
+Q17600706;Q17600706;географические координаты;1;1;from
+Q17600743;Ahde;административно-территориальная единица;1;2;from
+Q17600743;Ahde;государство;1;1;from
+Q17600743;Ahde;это частный случай понятия;1;1;from
+Q17600743;Ahde;географические координаты;1;1;from
+Q17600936;Q17600936;административно-территориальная единица;1;1;from
+Q17600936;Q17600936;государство;1;1;from
+Q17600936;Q17600936;это частный случай понятия;1;1;from
+Q17600936;Q17600936;географические координаты;1;1;from
+Q17600936;Q17600936;местонахождение;1;1;to
+Q17600993;Q17600993;административно-территориальная единица;1;1;from
+Q17600993;Q17600993;государство;1;1;from
+Q15223943;Highgate;код LCNAF;1;1;from
+Q15223943;Highgate;код VIAF;1;1;from
+Q15223943;Highgate;государство;1;1;from
+Q15143432;Jømna;это частный случай понятия;1;1;from
+Q12358597;Q12358597;административно-территориальная единица;1;1;from
+Q12358597;Q12358597;государство;1;1;from
+Q12358597;Q12358597;это частный случай понятия;1;1;from
+Q12358597;Q12358597;географические координаты;1;1;from
+Q15043335;Columbia Heights-Fridley;административно-территориальная единица;1;2;from
+Q15043335;Columbia Heights-Fridley;государство;1;1;from
+Q15043335;Columbia Heights-Fridley;это частный случай понятия;1;1;from
+Q15043335;Columbia Heights-Fridley;состоит из;1;2;from
+Q15043335;Columbia Heights-Fridley;dmoz;1;1;from
+Q15143432;Jømna;административно-территориальная единица;1;1;from
+Q15143432;Jømna;государство;1;1;from
+Q15143432;Jømna;категория на Викискладе;1;1;from
+Q15223943;Highgate;административно-территориальная единица;1;2;to
+Q15143432;Jømna;географические координаты;1;1;from
+Q15143432;Jømna;место рождения;1;2;to
+Q15143597;Slåstad;административно-территориальная единица;1;1;from
+Q15143597;Slåstad;государство;1;1;from
+Q15143597;Slåstad;это частный случай понятия;1;1;from
+Q15143597;Slåstad;категория на Викискладе;1;1;from
+Q15143597;Slåstad;место рождения;1;1;to
+Q15143817;Eikangervåg;административно-территориальная единица;1;2;from
+Q15143817;Eikangervåg;государство;1;1;from
+Q15143817;Eikangervåg;это частный случай понятия;1;1;from
+Q15143817;Eikangervåg;место рождения;1;1;to
+Q4852528;Balsall Heath;административно-территориальная единица;1;3;to
+Q4784763;Arbor Lakes;географические координаты;1;1;from
+Q158903;Shusha;государство;1;6;from
+Q631152;Colonia;является столицей;1;2;from
+Q631152;Colonia;код темы Quora;1;1;from
+Q631152;Colonia;идентификатор местоположения ArchINFORM;1;1;from
+Q631152;Colonia;географические координаты;1;1;from
+Q631152;Colonia;код Freebase;1;1;from
+Q631152;Colonia;Who's on First ID;1;1;from
+Q631152;Colonia;столица;1;2;to
+Q631152;Colonia;обслуживаемый город;1;1;to
+Q631152;Colonia;административно-территориальная единица;1;1;to
+Q730565;Streetly;административно-территориальная единица;1;1;from
+Q730565;Streetly;государство;1;1;from
+Q730565;Streetly;изображение;1;1;from
+Q730565;Streetly;это частный случай понятия;1;1;from
+Q730565;Streetly;код GeoNames;1;1;from
+Q730565;Streetly;Vision of Britain place ID;1;1;from
+Q730565;Streetly;категория на Викискладе;1;1;from
+Q730565;Streetly;географические координаты;1;1;from
+Q730565;Streetly;Who's on First ID;1;1;from
+Q730565;Streetly;местонахождение;1;5;to
+Q730565;Streetly;место рождения;1;3;to
+Q940877;Trafford Park;административно-территориальная единица;1;1;from
+Q940877;Trafford Park;государство;1;1;from
+Q940877;Trafford Park;изображение;1;1;from
+Q940877;Trafford Park;это частный случай понятия;1;1;from
+Q940877;Trafford Park;код GeoNames;1;1;from
+Q940877;Trafford Park;Parks & Gardens UK Record ID;1;1;from
+Q631152;Colonia;код GeoNames;1;1;from
+Q631152;Colonia;WOEID;1;1;from
+Q940877;Trafford Park;географические координаты;1;1;from
+Q631152;Colonia;это частный случай понятия;1;1;from
+Q451391;Szopienice-Burowiec;изображение;1;1;from
+Q451391;Szopienice-Burowiec;код VIAF;1;1;from
+Q451391;Szopienice-Burowiec;это частный случай понятия;1;1;from
+Q451391;Szopienice-Burowiec;категория на Викискладе;1;1;from
+Q451391;Szopienice-Burowiec;географические координаты;1;1;from
+Q451391;Szopienice-Burowiec;код Bildkatalog;1;1;from
+Q451391;Szopienice-Burowiec;место рождения;1;13;to
+Q451391;Szopienice-Burowiec;место смерти;1;2;to
+Q451391;Szopienice-Burowiec;столица;1;1;to
+Q591960;Kwai Chung;административно-территориальная единица;1;1;from
+Q591960;Kwai Chung;государство;1;1;from
+Q591960;Kwai Chung;изображение;1;1;from
+Q591960;Kwai Chung;это частный случай понятия;1;1;from
+Q591960;Kwai Chung;код GeoNames;1;2;from
+Q591960;Kwai Chung;категория на Викискладе;1;1;from
+Q591960;Kwai Chung;географические координаты;1;1;from
+Q591960;Kwai Chung;код Freebase;1;1;from
+Q591960;Kwai Chung;Who's on First ID;1;1;from
+Q591960;Kwai Chung;основная категория по теме;1;1;from
+Q591960;Kwai Chung;расположение штаб-квартиры;1;2;to
+Q591960;Kwai Chung;названо в честь;1;1;to
+Q591960;Kwai Chung;местонахождение;1;2;to
+Q591960;Kwai Chung;общая тема категории;1;1;to
+Q631152;Colonia;государство;1;1;from
+Q631152;Colonia;изображение;1;1;from
+Q940877;Trafford Park;категория на Викискладе;1;1;from
+Q940877;Trafford Park;код Freebase;1;1;from
+Q451391;Szopienice-Burowiec;административно-территориальная единица;1;1;from
+Q1025408;Ernakulam;код GeoNames;1;1;from
+Q1025408;Ernakulam;высота над уровнем моря;1;1;from
+Q1025408;Ernakulam;категория на Викискладе;1;1;from
+Q1025408;Ernakulam;часовой пояс;1;1;from
+Q1025408;Ernakulam;местный телефонный код;1;1;from
+Q1025408;Ernakulam;географические координаты;1;1;from
+Q1025408;Ernakulam;код Freebase;1;1;from
+Q1025408;Ernakulam;Who's on First ID;1;1;from
+Q1025408;Ernakulam;официальный сайт;1;1;from
+Q1025408;Ernakulam;место рождения;1;66;to
+Q1025408;Ernakulam;место смерти;1;13;to
+Q1025408;Ernakulam;место жительства;1;10;to
+Q1025408;Ernakulam;столица;1;1;to
+Q1025408;Ernakulam;местонахождение;1;1;to
+Q1025408;Ernakulam;расположение штаб-квартиры;1;4;to
+Q1025408;Ernakulam;значимое место;1;1;to
+Q1025408;Ernakulam;имеет границы с;1;2;to
+Q1268163;Kulsary;административно-территориальная единица;1;1;from
+Q1268163;Kulsary;государство;1;1;from
+Q1268163;Kulsary;изображение;1;1;from
+Q1268163;Kulsary;это частный случай понятия;1;1;from
+Q1268163;Kulsary;десятичная классификация Дьюи;1;1;from
+Q1268163;Kulsary;численность населения;1;3;from
+Q1268163;Kulsary;является столицей;1;1;from
+Q1268163;Kulsary;официальное название;1;1;from
+Q1268163;Kulsary;категория для людей, родившихся здесь;1;1;from
+Q1025408;Ernakulam;название на языке оригинала;1;1;from
+Q1025408;Ernakulam;официальное название;1;1;from
+Q940877;Trafford Park;Who's on First ID;1;1;from
+Q1025408;Ernakulam;является столицей;1;1;from
+Q940877;Trafford Park;местонахождение;1;2;to
+Q940877;Trafford Park;расположение штаб-квартиры;1;3;to
+Q940877;Trafford Park;названо в честь;1;1;to
+Q940877;Trafford Park;место рождения;1;1;to
+Q940877;Trafford Park;место смерти;1;1;to
+Q1024104;Novi Zagreb;административно-территориальная единица;1;1;to
+Q1024104;Novi Zagreb;государство;1;1;from
+Q1024104;Novi Zagreb;изображение;1;1;from
+Q1024104;Novi Zagreb;это частный случай понятия;1;1;from
+Q1024104;Novi Zagreb;код GeoNames;1;1;from
+Q1024104;Novi Zagreb;категория на Викискладе;1;1;from
+Q1024104;Novi Zagreb;географические координаты;1;1;from
+Q1024104;Novi Zagreb;код Freebase;1;1;from
+Q1024104;Novi Zagreb;Who's on First ID;1;1;from
+Q1024104;Novi Zagreb;основная категория по теме;1;1;from
+Q1024104;Novi Zagreb;общая тема категории;1;1;to
+Q1025408;Ernakulam;административно-территориальная единица;1;7;to
+Q1025408;Ernakulam;государство;1;1;from
+Q1025408;Ernakulam;код VIAF;1;1;from
+Q1025408;Ernakulam;код LCNAF;1;1;from
+Q1025408;Ernakulam;это частный случай понятия;1;1;from
+Q1025408;Ernakulam;аудиофайл;1;1;from
+Q1025408;Ernakulam;численность населения;1;1;from
+Q1025408;Ernakulam;WOEID;1;1;from
+Q1025408;Ernakulam;код в Большой каталанской энциклопедии;1;1;from
+Q451391;Szopienice-Burowiec;государство;1;1;from
+Q319431;Tägermoos;идентификатор HDS;1;1;from
+Q4784763;Arbor Lakes;это частный случай понятия;1;1;from
+Q158903;Shusha;место в MusicBrainz;1;1;from
+Q158903;Shusha;место рождения;1;655;to
+Q158903;Shusha;расположение штаб-квартиры;1;1;to
+Q158903;Shusha;место смерти;1;161;to
+Q158903;Shusha;место погребения;1;38;to
+Q158903;Shusha;местонахождение;1;5;to
+Q158903;Shusha;категория объединяет темы;1;4;to
+Q158903;Shusha;столица;1;4;to
+Q158903;Shusha;место активности;1;1;to
+Q158903;Shusha;место жительства;1;2;to
+Q158903;Shusha;пункт назначения;1;1;to
+Q158903;Shusha;основная тема;1;1;to
+Q158903;Shusha;значимое место;1;1;to
+Q158903;Shusha;общая тема категории;1;1;to
+Q176084;Newton Heath;административно-территориальная единица;1;1;to
+Q176084;Newton Heath;государство;1;1;from
+Q176084;Newton Heath;изображение;1;1;from
+Q176084;Newton Heath;код VIAF;1;1;from
+Q176084;Newton Heath;код LCNAF;1;1;from
+Q176084;Newton Heath;это частный случай понятия;1;1;from
+Q176084;Newton Heath;имеет границы с;1;1;to
+Q176084;Newton Heath;код GeoNames;1;1;from
+Q176084;Newton Heath;Vision of Britain place ID;1;1;from
+Q176084;Newton Heath;категория на Викискладе;1;1;from
+Q176084;Newton Heath;географический код Великобритании;1;1;from
+Q176084;Newton Heath;географические координаты;1;1;from
+Q158903;Shusha;административно делится на;1;1;to
+Q158903;Shusha;основная категория по теме;1;1;from
+Q176084;Newton Heath;Who's on First ID;1;1;from
+Q158903;Shusha;FIPS 10-4 (страны и регионы);1;1;from
+Q158903;Shusha;изображение;1;1;from
+Q158903;Shusha;это частный случай понятия;1;1;from
+Q158903;Shusha;официальный язык;1;2;from
+Q158903;Shusha;глава правительства;1;1;from
+Q158903;Shusha;изображение герба;1;1;from
+Q158903;Shusha;численность населения;1;2;from
+Q158903;Shusha;описывается в источниках;1;1;from
+Q158903;Shusha;является столицей;1;4;from
+Q158903;Shusha;официальное название;1;3;from
+Q158903;Shusha;категория для людей, родившихся здесь;1;1;from
+Q158903;Shusha;категория для людей, умерших здесь;1;1;from
+Q158903;Shusha;код GeoNames;1;1;from
+Q158903;Shusha;название на языке оригинала;1;3;from
+Q158903;Shusha;категория для людей, похороненных здесь;1;1;from
+Q158903;Shusha;категория для людей, связанных с местностью;1;1;from
+Q158903;Shusha;высота над уровнем моря;1;1;from
+Q158903;Shusha;площадь;1;1;from
+Q158903;Shusha;категория на Викискладе;1;1;from
+Q158903;Shusha;код автомобильного номера;1;1;from
+Q158903;Shusha;часовой пояс;1;1;from
+Q158903;Shusha;дата основания/создания/возникновения;1;1;from
+Q158903;Shusha;географические координаты;1;1;from
+Q158903;Shusha;код Freebase;1;1;from
+Q158903;Shusha;Who's on First ID;1;1;from
+Q158903;Shusha;официальный сайт;1;1;from
+Q176084;Newton Heath;код Freebase;1;1;from
+Q176084;Newton Heath;место рождения;1;11;to
+Q319431;Tägermoos;код Freebase;1;1;from
+Q179295;Dallas–Fort Worth metroplex;расположение штаб-квартиры;1;3;to
+Q179295;Dallas–Fort Worth metroplex;общая тема категории;1;1;to
+Q300275;AZCA;административно-территориальная единица;1;3;from
+Q300275;AZCA;государство;1;1;from
+Q300275;AZCA;изображение;1;1;from
+Q300275;AZCA;это частный случай понятия;1;2;from
+Q300275;AZCA;архитектор;1;1;from
+Q300275;AZCA;официальное название;1;1;from
+Q300275;AZCA;COAM structure ID;1;1;from
+Q300275;AZCA;категория на Викискладе;1;1;from
+Q300275;AZCA;дата основания/создания/возникновения;1;1;from
+Q300275;AZCA;географические координаты;1;1;from
+Q300275;AZCA;код Freebase;1;1;from
+Q300275;AZCA;часть от;1;2;to
+Q300275;AZCA;находится в пределах природно-географического объекта;1;3;to
+Q300275;AZCA;местонахождение;1;2;to
+Q319431;Tägermoos;административно-территориальная единица;1;1;from
+Q319431;Tägermoos;государство;1;1;from
+Q319431;Tägermoos;карта местонахождения;1;1;from
+Q319431;Tägermoos;это частный случай понятия;1;2;from
+Q319431;Tägermoos;изображение герба;1;1;from
+Q319431;Tägermoos;код GeoNames;1;1;from
+Q319431;Tägermoos;высота над уровнем моря;1;1;from
+Q319431;Tägermoos;площадь;1;1;from
+Q319431;Tägermoos;категория на Викискладе;1;1;from
+Q319431;Tägermoos;географические координаты;1;1;from
+Q179295;Dallas–Fort Worth metroplex;место жительства;1;1;to
+Q179295;Dallas–Fort Worth metroplex;место активности;1;1;to
+Q176084;Newton Heath;местонахождение;1;11;to
+Q179295;Dallas–Fort Worth metroplex;категория объединяет темы;1;2;to
+Q176084;Newton Heath;место смерти;1;2;to
+Q176084;Newton Heath;основная тема;1;1;to
+Q176084;Newton Heath;названо в честь;1;2;to
+Q179295;Dallas–Fort Worth metroplex;административно-территориальная единица;1;29;to
+Q179295;Dallas–Fort Worth metroplex;административно делится на;1;7;from
+Q179295;Dallas–Fort Worth metroplex;государство;1;1;from
+Q179295;Dallas–Fort Worth metroplex;изображение;1;2;from
+Q179295;Dallas–Fort Worth metroplex;код GND;1;1;from
+Q179295;Dallas–Fort Worth metroplex;это частный случай понятия;1;2;from
+Q179295;Dallas–Fort Worth metroplex;численность населения;1;2;from
+Q179295;Dallas–Fort Worth metroplex;категория для людей, связанных с местностью;1;1;from
+Q179295;Dallas–Fort Worth metroplex;высота над уровнем моря;1;1;from
+Q179295;Dallas–Fort Worth metroplex;код темы Quora;1;1;from
+Q179295;Dallas–Fort Worth metroplex;сабреддит;1;1;from
+Q179295;Dallas–Fort Worth metroplex;часовой пояс;1;1;from
+Q179295;Dallas–Fort Worth metroplex;код Freebase;1;1;from
+Q179295;Dallas–Fort Worth metroplex;основная категория по теме;1;1;from
+Q179295;Dallas–Fort Worth metroplex;баннер Викигида;1;1;from
+Q179295;Dallas–Fort Worth metroplex;dmoz;1;1;from
+Q179295;Dallas–Fort Worth metroplex;местонахождение;1;4;to
+Q179295;Dallas–Fort Worth metroplex;часть от;1;2;to
+Q179295;Dallas–Fort Worth metroplex;место рождения;1;1;to
+Q179295;Dallas–Fort Worth metroplex;основная тема;1;1;to
+Q179295;Dallas–Fort Worth metroplex;названо в честь;1;1;to
+Q179295;Dallas–Fort Worth metroplex;обслуживаемый город;1;2;to
+Q1268163;Kulsary;код GeoNames;1;1;from
+Q1268163;Kulsary;код TGN;1;1;from
+Q1268163;Kulsary;название на языке оригинала;1;1;from
+Q3375590;Amagerbro;основная категория по теме;1;1;from
+Q3631499;Westside;административно-территориальная единица;1;1;from
+Q3631499;Westside;государство;1;1;from
+Q3631499;Westside;это частный случай понятия;1;1;from
+Q3631499;Westside;географические координаты;1;1;from
+Q3631499;Westside;код Freebase;1;1;from
+Q3664892;historic center of Genoa;административно-территориальная единица;1;2;to
+Q3664892;historic center of Genoa;государство;1;1;from
+Q3664892;historic center of Genoa;изображение;1;1;from
+Q3664892;historic center of Genoa;карта местонахождения;1;1;from
+Q3664892;historic center of Genoa;это частный случай понятия;1;1;from
+Q3664892;historic center of Genoa;географические координаты;1;1;from
+Q3664892;historic center of Genoa;галерея на Викискладе;1;1;from
+Q3664892;historic center of Genoa;часть от;1;1;to
+Q3875229;New Ferry;административно-территориальная единица;1;1;to
+Q3875229;New Ferry;государство;1;1;from
+Q3875229;New Ferry;это частный случай понятия;1;1;from
+Q3875229;New Ferry;код GeoNames;1;1;from
+Q3875229;New Ferry;высота над уровнем моря;1;1;from
+Q3875229;New Ferry;почтовый индекс;1;1;from
+Q3875229;New Ferry;код темы Quora;1;1;from
+Q3875229;New Ferry;Vision of Britain place ID;1;1;from
+Q3875229;New Ferry;категория на Викискладе;1;1;from
+Q3875229;New Ferry;код UK Parliament thesaurus;1;1;from
+Q3875229;New Ferry;местный телефонный код;1;1;from
+Q3875229;New Ferry;географический код Великобритании;1;1;from
+Q3375590;Amagerbro;общая тема категории;1;1;to
+Q3375590;Amagerbro;Who's on First ID;1;1;from
+Q3875229;New Ferry;Who's on First ID;1;1;from
+Q3375590;Amagerbro;код Freebase;1;1;from
+Q3215777;Lace Market;географические координаты;1;1;from
+Q3215777;Lace Market;местонахождение;1;1;to
+Q3215777;Lace Market;административно-территориальная единица;1;1;to
+Q3215777;Lace Market;основная тема;1;1;to
+Q3247321;Greater Nottingham;государство;1;1;from
+Q3247321;Greater Nottingham;карта местонахождения;1;1;from
+Q3247321;Greater Nottingham;это частный случай понятия;1;1;from
+Q3247321;Greater Nottingham;географические координаты;1;1;from
+Q3247321;Greater Nottingham;часть от;1;1;to
+Q3312054;Derry Urban Area;административно-территориальная единица;1;1;from
+Q3312054;Derry Urban Area;государство;1;1;from
+Q3312054;Derry Urban Area;это частный случай понятия;1;1;from
+Q3312054;Derry Urban Area;географические координаты;1;1;from
+Q3338970;New Kingston;административно-территориальная единица;1;1;from
+Q3338970;New Kingston;государство;1;1;from
+Q3338970;New Kingston;это частный случай понятия;1;1;from
+Q3338970;New Kingston;код GeoNames;1;1;from
+Q3338970;New Kingston;высота над уровнем моря;1;1;from
+Q3338970;New Kingston;географические координаты;1;1;from
+Q3375590;Amagerbro;государство;1;1;from
+Q3375590;Amagerbro;изображение;1;1;from
+Q3375590;Amagerbro;это частный случай понятия;1;1;from
+Q3375590;Amagerbro;код GeoNames;1;1;from
+Q3375590;Amagerbro;код места в Facebook;1;1;from
+Q3375590;Amagerbro;географические координаты;1;1;from
+Q3875229;New Ferry;географические координаты;1;1;from
+Q3875229;New Ferry;место рождения;1;1;to
+Q1268163;Kulsary;категория для людей, связанных с местностью;1;1;from
+Q4499107;Hollinwood;географические координаты;1;1;from
+Q4499107;Hollinwood;расположение штаб-квартиры;1;1;to
+Q4499107;Hollinwood;местонахождение;1;4;to
+Q4499107;Hollinwood;место рождения;1;3;to
+Q4523493;Sheffield urban area;государство;1;1;from
+Q4523493;Sheffield urban area;это частный случай понятия;1;1;from
+Q4523493;Sheffield urban area;географические координаты;1;1;from
+Q4523493;Sheffield urban area;код Freebase;1;1;from
+Q4534175;Moscow South River Port;административно-территориальная единица;1;1;from
+Q4534175;Moscow South River Port;государство;1;1;from
+Q4534175;Moscow South River Port;изображение;1;1;from
+Q4534175;Moscow South River Port;это частный случай понятия;1;2;from
+Q4534175;Moscow South River Port;категория на Викискладе;1;1;from
+Q4713739;Aldershot Urban Area;государство;1;1;from
+Q4713739;Aldershot Urban Area;это частный случай понятия;1;2;from
+Q4713739;Aldershot Urban Area;географические координаты;1;1;from
+Q4770782;Anston/Dinnington;административно-территориальная единица;1;1;from
+Q4770782;Anston/Dinnington;названо в честь;1;2;from
+Q4770782;Anston/Dinnington;государство;1;1;from
+Q4770782;Anston/Dinnington;это частный случай понятия;1;1;from
+Q4770782;Anston/Dinnington;используется как/для/в;1;1;from
+Q4770782;Anston/Dinnington;часовой пояс;1;1;from
+Q4770782;Anston/Dinnington;географические координаты;1;1;from
+Q4784763;Arbor Lakes;административно-территориальная единица;1;1;from
+Q4784763;Arbor Lakes;государство;1;1;from
+Q4784763;Arbor Lakes;изображение;1;1;from
+Q4499107;Hollinwood;Who's on First ID;1;1;from
+Q4499107;Hollinwood;географический код Великобритании;1;1;from
+Q3875229;New Ferry;местонахождение;1;1;to
+Q4499107;Hollinwood;местный телефонный код;1;1;from
+Q4095759;Brighton/Worthing/Littlehampton;административно-территориальная единица;1;1;from
+Q4095759;Brighton/Worthing/Littlehampton;государство;1;1;from
+Q4095759;Brighton/Worthing/Littlehampton;это частный случай понятия;1;2;from
+Q4095759;Brighton/Worthing/Littlehampton;численность населения;1;1;from
+Q4095759;Brighton/Worthing/Littlehampton;почтовый индекс;1;1;from
+Q4095759;Brighton/Worthing/Littlehampton;географические координаты;1;1;from
+Q4096564;Greater Bristol;государство;1;1;from
+Q4096564;Greater Bristol;это частный случай понятия;1;1;from
+Q4096564;Greater Bristol;географические координаты;1;1;from
+Q4261205;Sin City;это частный случай понятия;1;1;from
+Q4341734;Pavlovo Pole;административно-территориальная единица;1;1;from
+Q4341734;Pavlovo Pole;государство;1;1;from
+Q4341734;Pavlovo Pole;это частный случай понятия;1;1;from
+Q4341734;Pavlovo Pole;код GeoNames;1;1;from
+Q4341734;Pavlovo Pole;категория на Викискладе;1;1;from
+Q4499107;Hollinwood;административно-территориальная единица;1;1;from
+Q4499107;Hollinwood;государство;1;1;from
+Q4499107;Hollinwood;код VIAF;1;1;from
+Q4499107;Hollinwood;код LCNAF;1;1;from
+Q4499107;Hollinwood;это частный случай понятия;1;1;from
+Q4499107;Hollinwood;имеет границы с;1;1;from
+Q4499107;Hollinwood;код GeoNames;1;1;from
+Q4499107;Hollinwood;почтовый индекс;1;1;from
+Q4499107;Hollinwood;TOID;1;1;from
+Q4499107;Hollinwood;Vision of Britain place ID;1;1;from
+Q3215777;Lace Market;категория на Викискладе;1;1;from
+Q3215777;Lace Market;код GeoNames;1;1;from
+Q3215777;Lace Market;это частный случай понятия;1;1;from
+Q1293366;Teesside;место рождения;1;7;to
+Q1293366;Teesside;расположение штаб-квартиры;1;3;to
+Q1293366;Teesside;место создания;1;2;to
+Q1293366;Teesside;названо в честь;1;1;to
+Q1293366;Teesside;место жительства;1;1;to
+Q1293366;Teesside;общая тема категории;1;1;to
+Q1293366;Teesside;заменил;1;1;to
+Q1319650;The Potteries Urban Area;государство;1;1;from
+Q1319650;The Potteries Urban Area;это частный случай понятия;1;1;from
+Q1319650;The Potteries Urban Area;код в Encyclopædia Universalis;1;1;from
+Q1319650;The Potteries Urban Area;категория на Викискладе;1;1;from
+Q1319650;The Potteries Urban Area;географические координаты;1;1;from
+Q1319650;The Potteries Urban Area;общая тема категории;1;1;to
+Q1348519;Greater Manchester Urban Area;государство;1;1;from
+Q1348519;Greater Manchester Urban Area;изображение;1;1;from
+Q1348519;Greater Manchester Urban Area;карта местонахождения;1;1;from
+Q1348519;Greater Manchester Urban Area;это частный случай понятия;1;1;from
+Q1348519;Greater Manchester Urban Area;географические координаты;1;1;from
+Q1348519;Greater Manchester Urban Area;код Freebase;1;1;from
+Q1617333;Liverpool Urban Area;государство;1;1;from
+Q1617333;Liverpool Urban Area;это частный случай понятия;1;1;from
+Q1617333;Liverpool Urban Area;географические координаты;1;1;from
+Q1617333;Liverpool Urban Area;основная категория по теме;1;1;from
+Q1617333;Liverpool Urban Area;общая тема категории;1;1;to
+Q1758914;Tsuen Wan;административно-территориальная единица;1;3;to
+Q1758914;Tsuen Wan;государство;1;1;from
+Q1293366;Teesside;место смерти;1;1;to
+Q1293366;Teesside;основная категория по теме;1;1;from
+Q3215777;Lace Market;государство;1;1;from
+Q1293366;Teesside;код Freebase;1;1;from
+Q1268163;Kulsary;почтовый индекс;1;1;from
+Q1268163;Kulsary;географические координаты;1;1;from
+Q1268163;Kulsary;код Freebase;1;1;from
+Q1268163;Kulsary;Who's on First ID;1;1;from
+Q1268163;Kulsary;место рождения;1;5;to
+Q1268163;Kulsary;столица;1;1;to
+Q1268163;Kulsary;место погребения;1;1;to
+Q1268163;Kulsary;категория объединяет темы;1;2;to
+Q1292186;West Midlands conurbation;государство;1;1;from
+Q1292186;West Midlands conurbation;карта местонахождения;1;1;from
+Q1292186;West Midlands conurbation;это частный случай понятия;1;1;from
+Q1292186;West Midlands conurbation;географические координаты;1;1;from
+Q1292186;West Midlands conurbation;код Freebase;1;1;from
+Q1292186;West Midlands conurbation;место рождения;1;1;to
+Q1293366;Teesside;административно-территориальная единица;1;1;from
+Q1293366;Teesside;государство;1;1;from
+Q1293366;Teesside;изображение;1;1;from
+Q1293366;Teesside;это частный случай понятия;1;1;from
+Q1293366;Teesside;заменён на;1;1;from
+Q1293366;Teesside;код в энциклопедии «Британника онлайн»;1;1;from
+Q1293366;Teesside;код GeoNames;1;1;from
+Q1293366;Teesside;код темы Quora;1;1;from
+Q1293366;Teesside;Vision of Britain place ID;1;1;from
+Q1293366;Teesside;категория на Викискладе;1;1;from
+Q1293366;Teesside;географические координаты;1;1;from
+Q1758914;Tsuen Wan;изображение;1;1;from
+Q1758914;Tsuen Wan;код VIAF;1;1;from
+Q1758914;Tsuen Wan;код LCNAF;1;1;from
+Q1758914;Tsuen Wan;это частный случай понятия;1;1;from
+Q2356650;Rusholme;код BBC Things;1;1;from
+Q2356650;Rusholme;не путать с;1;1;to
+Q2356650;Rusholme;почтовый индекс;1;1;from
+Q2356650;Rusholme;TOID;1;1;from
+Q2356650;Rusholme;Vision of Britain unit ID;1;4;from
+Q2356650;Rusholme;Vision of Britain place ID;1;1;from
+Q2356650;Rusholme;British History Online VCH ID;1;1;from
+Q2356650;Rusholme;KEPN ID;1;1;from
+Q2356650;Rusholme;категория на Викискладе;1;1;from
+Q2356650;Rusholme;местный телефонный код;1;1;from
+Q2356650;Rusholme;географический код Великобритании;1;1;from
+Q2356650;Rusholme;географические координаты;1;1;from
+Q2356650;Rusholme;код Freebase;1;1;from
+Q2356650;Rusholme;Who's on First ID;1;1;from
+Q2356650;Rusholme;место в MusicBrainz;1;1;from
+Q2356650;Rusholme;место рождения;1;12;to
+Q2356650;Rusholme;местонахождение;1;6;to
+Q2356650;Rusholme;названо в честь;1;1;to
+Q2447222;Greater London Urban Area;государство;1;1;from
+Q2447222;Greater London Urban Area;это частный случай понятия;1;1;from
+Q2447222;Greater London Urban Area;численность населения;1;1;from
+Q2447222;Greater London Urban Area;не путать с;1;1;to
+Q2447222;Greater London Urban Area;площадь;1;1;from
+Q2447222;Greater London Urban Area;географические координаты;1;1;from
+Q2447222;Greater London Urban Area;место смерти;1;1;to
+Q2356650;Rusholme;код GeoNames;1;1;from
+Q2356650;Rusholme;имеет границы с;1;2;to
+Q2356650;Rusholme;это частный случай понятия;1;1;from
+Q2213440;West Jerusalem;административно-территориальная единица;1;3;to
+Q1758914;Tsuen Wan;код GeoNames;1;1;from
+Q1758914;Tsuen Wan;категория на Викискладе;1;1;from
+Q1758914;Tsuen Wan;географические координаты;1;1;from
+Q1758914;Tsuen Wan;код Freebase;1;1;from
+Q1758914;Tsuen Wan;Who's on First ID;1;1;from
+Q1758914;Tsuen Wan;основная категория по теме;1;1;from
+Q1758914;Tsuen Wan;расположение штаб-квартиры;1;11;to
+Q1758914;Tsuen Wan;местонахождение;1;5;to
+Q1758914;Tsuen Wan;место создания;1;1;to
+Q1758914;Tsuen Wan;названо в честь;1;3;to
+Q1758914;Tsuen Wan;общая тема категории;1;1;to
+Q2213440;West Jerusalem;государство;1;1;from
+Q2356650;Rusholme;государство;1;1;from
+Q2213440;West Jerusalem;это частный случай понятия;1;1;from
+Q2213440;West Jerusalem;код GeoNames;1;1;from
+Q2213440;West Jerusalem;высота над уровнем моря;1;1;from
+Q2213440;West Jerusalem;категория на Викискладе;1;1;from
+Q2213440;West Jerusalem;идентификатор местоположения ArchINFORM;1;1;from
+Q2213440;West Jerusalem;географические координаты;1;1;from
+Q2213440;West Jerusalem;Australian War Memorial ID;1;1;from
+Q2213440;West Jerusalem;Who's on First ID;1;1;from
+Q2213440;West Jerusalem;баннер Викигида;1;1;from
+Q2213440;West Jerusalem;расположение штаб-квартиры;1;1;to
+Q2356650;Rusholme;административно-территориальная единица;1;1;to
+Q75333043;Q75333043;географические координаты;1;1;from

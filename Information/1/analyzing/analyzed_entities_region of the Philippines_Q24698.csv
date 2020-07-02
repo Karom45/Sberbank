@@ -1,0 +1,535 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q12933;Ilocos Region;административно-территориальная единица;1;5;to
+Q13682;Zamboanga Peninsula;происходит из;1;6;to
+Q13690;Northern Mindanao;ISO 3166-2;1;1;from
+Q13690;Northern Mindanao;используемый язык;1;5;from
+Q13690;Northern Mindanao;площадь;1;1;from
+Q13690;Northern Mindanao;код GeoNames;1;1;from
+Q13690;Northern Mindanao;код в Большой каталанской энциклопедии;1;1;from
+Q13690;Northern Mindanao;численность населения;1;3;from
+Q13690;Northern Mindanao;столица;1;1;from
+Q13690;Northern Mindanao;это частный случай понятия;1;1;from
+Q13690;Northern Mindanao;карта местонахождения;1;1;from
+Q13690;Northern Mindanao;государство;1;1;from
+Q13690;Northern Mindanao;административно делится на;1;2;to
+Q13690;Northern Mindanao;административно-территориальная единица;1;14;to
+Q13682;Zamboanga Peninsula;категория объединяет темы;1;2;to
+Q13682;Zamboanga Peninsula;общая тема категории;1;1;to
+Q13682;Zamboanga Peninsula;dmoz;1;1;from
+Q13682;Zamboanga Peninsula;столица;1;1;from
+Q13682;Zamboanga Peninsula;Филиппинский стандартный географический код;1;1;from
+Q13682;Zamboanga Peninsula;баннер Викигида;1;1;from
+Q13682;Zamboanga Peninsula;основная категория по теме;1;1;from
+Q13682;Zamboanga Peninsula;категория карт на Викискладе;1;1;from
+Q13682;Zamboanga Peninsula;код Freebase;1;1;from
+Q13682;Zamboanga Peninsula;географические координаты;1;1;from
+Q13682;Zamboanga Peninsula;категория на Викискладе;1;1;from
+Q13682;Zamboanga Peninsula;ISO 3166-2;1;1;from
+Q13682;Zamboanga Peninsula;используемый язык;1;6;from
+Q13682;Zamboanga Peninsula;код BabelNet;1;1;from
+Q13682;Zamboanga Peninsula;площадь;1;1;from
+Q13682;Zamboanga Peninsula;код GeoNames;1;1;from
+Q13682;Zamboanga Peninsula;код в энциклопедии «Британника онлайн»;1;1;from
+Q13682;Zamboanga Peninsula;код US National Archives;1;1;from
+Q13690;Northern Mindanao;категория на Викискладе;1;1;from
+Q13690;Northern Mindanao;географические координаты;1;1;from
+Q13690;Northern Mindanao;код Freebase;1;1;from
+Q13690;Northern Mindanao;Who's on First ID;1;1;from
+Q13694;Davao Region;общая тема категории;1;1;to
+Q13694;Davao Region;находится в границах современной административной единицы;1;1;to
+Q13694;Davao Region;происходит из;1;20;to
+Q13694;Davao Region;dmoz;1;1;from
+Q13694;Davao Region;Филиппинский стандартный географический код;1;1;from
+Q13694;Davao Region;баннер Викигида;1;1;from
+Q13694;Davao Region;основная категория по теме;1;1;from
+Q13694;Davao Region;код Freebase;1;1;from
+Q13694;Davao Region;географические координаты;1;1;from
+Q13694;Davao Region;категория на Викискладе;1;1;from
+Q13694;Davao Region;ISO 3166-2;1;1;from
+Q13694;Davao Region;используемый язык;1;20;from
+Q13694;Davao Region;категория для людей, связанных с местностью;1;1;from
+Q13694;Davao Region;код GeoNames;1;1;from
+Q13694;Davao Region;численность населения;1;2;from
+Q13694;Davao Region;столица;1;1;from
+Q13694;Davao Region;это частный случай понятия;1;1;from
+Q13694;Davao Region;карта местонахождения;1;1;from
+Q13694;Davao Region;государство;1;1;from
+Q13694;Davao Region;административно делится на;1;2;to
+Q13694;Davao Region;административно-территориальная единица;1;8;to
+Q13690;Northern Mindanao;категория объединяет темы;1;2;to
+Q13690;Northern Mindanao;общая тема категории;1;1;to
+Q13690;Northern Mindanao;происходит из;1;5;to
+Q13690;Northern Mindanao;dmoz;1;1;from
+Q13690;Northern Mindanao;Филиппинский стандартный географический код;1;1;from
+Q13690;Northern Mindanao;баннер Викигида;1;1;from
+Q13690;Northern Mindanao;основная категория по теме;1;1;from
+Q13690;Northern Mindanao;категория карт на Викискладе;1;1;from
+Q13682;Zamboanga Peninsula;численность населения;1;4;from
+Q13682;Zamboanga Peninsula;это частный случай понятия;1;1;from
+Q13694;Davao Region;является столицей;1;1;to
+Q13669;Central Visayas;электорат;1;1;from
+Q13669;Central Visayas;часть от;1;1;to
+Q13669;Central Visayas;происходит из;1;5;to
+Q13669;Central Visayas;dmoz;1;1;from
+Q13669;Central Visayas;Филиппинский стандартный географический код;1;1;from
+Q13669;Central Visayas;баннер Викигида;1;1;from
+Q13669;Central Visayas;основная категория по теме;1;1;from
+Q13669;Central Visayas;категория карт на Викискладе;1;1;from
+Q13669;Central Visayas;Who's on First ID;1;1;from
+Q13669;Central Visayas;код Freebase;1;1;from
+Q13669;Central Visayas;географические координаты;1;1;from
+Q13669;Central Visayas;категория на Викискладе;1;1;from
+Q13669;Central Visayas;ISO 3166-2;1;1;from
+Q13669;Central Visayas;используемый язык;1;5;from
+Q13669;Central Visayas;площадь;1;3;from
+Q13669;Central Visayas;короткое название;1;1;from
+Q13682;Zamboanga Peninsula;карта местонахождения;1;1;from
+Q13669;Central Visayas;подробная карта;1;1;from
+Q13669;Central Visayas;код GeoNames;1;1;from
+Q13669;Central Visayas;код в Большой каталанской энциклопедии;1;1;from
+Q13669;Central Visayas;численность населения;1;10;from
+Q13669;Central Visayas;официальный язык;1;3;from
+Q13669;Central Visayas;столица;1;1;from
+Q13669;Central Visayas;это частный случай понятия;1;1;from
+Q13669;Central Visayas;карта местонахождения;1;1;from
+Q13669;Central Visayas;государство;1;1;from
+Q13669;Central Visayas;административно делится на;1;2;to
+Q13669;Central Visayas;административно-территориальная единица;1;11;to
+Q13665;Western Visayas;общая тема категории;1;1;to
+Q13665;Western Visayas;часть от;1;4;to
+Q13665;Western Visayas;происходит из;1;7;to
+Q13669;Central Visayas;общая тема категории;1;1;to
+Q13669;Central Visayas;категория объединяет темы;1;2;to
+Q13675;Eastern Visayas;административно-территориальная единица;1;16;to
+Q13675;Eastern Visayas;административно делится на;1;2;to
+Q13682;Zamboanga Peninsula;государство;1;1;from
+Q13682;Zamboanga Peninsula;административно делится на;1;2;to
+Q13682;Zamboanga Peninsula;административно-территориальная единица;1;5;to
+Q13675;Eastern Visayas;происходит из;1;1;to
+Q13675;Eastern Visayas;категория объединяет темы;1;2;to
+Q13675;Eastern Visayas;общая тема категории;1;1;to
+Q13675;Eastern Visayas;место активности;1;1;to
+Q13675;Eastern Visayas;место жительства;1;1;to
+Q13675;Eastern Visayas;dmoz;1;1;from
+Q13675;Eastern Visayas;Филиппинский стандартный географический код;1;1;from
+Q13675;Eastern Visayas;баннер Викигида;1;1;from
+Q13675;Eastern Visayas;основная категория по теме;1;1;from
+Q13675;Eastern Visayas;категория карт на Викискладе;1;1;from
+Q13675;Eastern Visayas;Who's on First ID;1;1;from
+Q13675;Eastern Visayas;код Freebase;1;1;from
+Q13675;Eastern Visayas;географические координаты;1;1;from
+Q13675;Eastern Visayas;категория на Викискладе;1;1;from
+Q13675;Eastern Visayas;код темы Quora;1;1;from
+Q13675;Eastern Visayas;ISO 3166-2;1;1;from
+Q13675;Eastern Visayas;используемый язык;1;2;from
+Q13675;Eastern Visayas;площадь;1;1;from
+Q13675;Eastern Visayas;код GeoNames;1;1;from
+Q13675;Eastern Visayas;код в Большой каталанской энциклопедии;1;1;from
+Q13675;Eastern Visayas;численность населения;1;3;from
+Q13675;Eastern Visayas;столица;1;1;from
+Q13675;Eastern Visayas;это частный случай понятия;1;1;from
+Q13675;Eastern Visayas;карта местонахождения;1;1;from
+Q13675;Eastern Visayas;изображение;1;1;from
+Q13675;Eastern Visayas;государство;1;1;from
+Q13694;Davao Region;категория объединяет темы;1;2;to
+Q13701;Soccsksargen;административно-территориальная единица;1;10;to
+Q12933;Ilocos Region;административно делится на;1;2;to
+Q838580;Southern Tagalog;столица;1;1;from
+Q17081785;Negros Island Region;численность населения;1;2;from
+Q17081785;Negros Island Region;столица;1;1;from
+Q17081785;Negros Island Region;это частный случай понятия;1;2;from
+Q17081785;Negros Island Region;карта местонахождения;1;1;from
+Q17081785;Negros Island Region;государство;1;1;from
+Q17081785;Negros Island Region;административно делится на;1;1;to
+Q17081785;Negros Island Region;административно-территориальная единица;1;1;to
+Q838580;Southern Tagalog;заменил;1;2;to
+Q838580;Southern Tagalog;основная тема;1;1;to
+Q838580;Southern Tagalog;код Freebase;1;1;from
+Q838580;Southern Tagalog;дата прекращения существования;1;1;from
+Q838580;Southern Tagalog;дата основания/создания/возникновения;1;1;from
+Q838580;Southern Tagalog;заменён на;1;2;from
+Q838580;Southern Tagalog;численность населения;1;1;from
+Q838580;Southern Tagalog;это частный случай понятия;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;код Freebase;1;1;from
+Q838580;Southern Tagalog;карта местонахождения;1;1;from
+Q838580;Southern Tagalog;государство;1;1;from
+Q838580;Southern Tagalog;административно-территориальная единица;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;категория объединяет темы;1;1;to
+Q13708;Autonomous Region in Muslim Mindanao;общая тема категории;1;1;to
+Q13708;Autonomous Region in Muslim Mindanao;происходит из;1;5;to
+Q13708;Autonomous Region in Muslim Mindanao;местонахождение;1;1;to
+Q13708;Autonomous Region in Muslim Mindanao;заменил;1;1;to
+Q13708;Autonomous Region in Muslim Mindanao;занимаемая должность;1;1;to
+Q13708;Autonomous Region in Muslim Mindanao;dmoz;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;Филиппинский стандартный географический код;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;баннер Викигида;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;галерея на Викискладе;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;основная категория по теме;1;1;from
+Q17081785;Negros Island Region;категория на Викискладе;1;1;from
+Q17081785;Negros Island Region;дата основания/создания/возникновения;1;1;from
+Q17081785;Negros Island Region;географические координаты;1;1;from
+Q17081785;Negros Island Region;основная категория по теме;1;1;from
+Q24869612;Bangsamoro;является столицей;1;1;to
+Q24869612;Bangsamoro;часть от;1;1;to
+Q24869612;Bangsamoro;общая тема категории;1;1;to
+Q24869612;Bangsamoro;юрисдикция распространяется на;1;4;to
+Q24869612;Bangsamoro;место в MusicBrainz;1;1;from
+Q24869612;Bangsamoro;баннер Викигида;1;1;from
+Q24869612;Bangsamoro;основная категория по теме;1;1;from
+Q24869612;Bangsamoro;официальный сайт;1;1;from
+Q24869612;Bangsamoro;находится в пределах природно-географического объекта;1;1;from
+Q24869612;Bangsamoro;географические координаты;1;1;from
+Q24869612;Bangsamoro;дата основания/создания/возникновения;1;1;from
+Q24869612;Bangsamoro;площадь;1;1;from
+Q24869612;Bangsamoro;не путать с;1;1;to
+Q24869612;Bangsamoro;официальное название;1;1;from
+Q24869612;Bangsamoro;количество мест в законодательном собрании;1;1;from
+Q24869612;Bangsamoro;заменил;1;1;from
+Q24869612;Bangsamoro;численность населения;1;2;from
+Q24869612;Bangsamoro;главный регулирующий текст;1;1;from
+Q24869612;Bangsamoro;изображение флага;1;1;from
+Q24869612;Bangsamoro;столица;1;1;from
+Q24869612;Bangsamoro;это частный случай понятия;1;1;from
+Q24869612;Bangsamoro;карта местонахождения;1;1;from
+Q24869612;Bangsamoro;находится на берегу водоёма;1;1;from
+Q24869612;Bangsamoro;государство;1;1;from
+Q24869612;Bangsamoro;изображение печати/эмблемы;1;1;from
+Q24869612;Bangsamoro;административно делится на;1;1;to
+Q24869612;Bangsamoro;названо в честь;1;1;from
+Q24869612;Bangsamoro;административно-территориальная единица;1;10;to
+Q17081785;Negros Island Region;общая тема категории;1;1;to
+Q13708;Autonomous Region in Muslim Mindanao;официальный сайт;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;географические координаты;1;1;from
+Q13701;Soccsksargen;административно делится на;1;2;to
+Q13701;Soccsksargen;основная категория по теме;1;1;from
+Q13704;Caraga;численность населения;1;3;from
+Q13704;Caraga;столица;1;1;from
+Q13704;Caraga;это частный случай понятия;1;1;from
+Q13704;Caraga;карта местонахождения;1;1;from
+Q13704;Caraga;государство;1;1;from
+Q13704;Caraga;административно делится на;1;2;to
+Q13704;Caraga;административно-территориальная единица;1;12;to
+Q13701;Soccsksargen;категория объединяет темы;1;2;to
+Q13701;Soccsksargen;общая тема категории;1;1;to
+Q13701;Soccsksargen;происходит из;1;4;to
+Q13701;Soccsksargen;dmoz;1;1;from
+Q13701;Soccsksargen;Филиппинский стандартный географический код;1;1;from
+Q13701;Soccsksargen;место в MusicBrainz;1;1;from
+Q13701;Soccsksargen;баннер Викигида;1;1;from
+Q13701;Soccsksargen;официальный сайт;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;дата прекращения существования;1;1;from
+Q13701;Soccsksargen;категория карт на Викискладе;1;1;from
+Q13701;Soccsksargen;код Freebase;1;1;from
+Q13701;Soccsksargen;географические координаты;1;1;from
+Q13701;Soccsksargen;категория на Викискладе;1;1;from
+Q13701;Soccsksargen;ISO 3166-2;1;1;from
+Q13701;Soccsksargen;используемый язык;1;5;from
+Q13701;Soccsksargen;площадь;1;1;from
+Q13701;Soccsksargen;код GeoNames;1;1;from
+Q13701;Soccsksargen;численность населения;1;3;from
+Q13701;Soccsksargen;столица;1;1;from
+Q13701;Soccsksargen;это частный случай понятия;1;1;from
+Q13701;Soccsksargen;карта местонахождения;1;1;from
+Q13701;Soccsksargen;изображение;1;1;from
+Q13701;Soccsksargen;государство;1;1;from
+Q13704;Caraga;код GeoNames;1;1;from
+Q13704;Caraga;площадь;1;1;from
+Q13704;Caraga;используемый язык;1;3;from
+Q13704;Caraga;ISO 3166-2;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;категория на Викискладе;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;ISO 3166-2;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;используемый язык;1;5;from
+Q13708;Autonomous Region in Muslim Mindanao;площадь;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;код GeoNames;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;заменён на;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;численность населения;1;4;from
+Q13708;Autonomous Region in Muslim Mindanao;изображение флага;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;столица;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;это частный случай понятия;1;2;from
+Q13708;Autonomous Region in Muslim Mindanao;карта местонахождения;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;код GND;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;код VIAF;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;государство;1;1;from
+Q13708;Autonomous Region in Muslim Mindanao;административно делится на;1;1;to
+Q13708;Autonomous Region in Muslim Mindanao;административно-территориальная единица;1;6;to
+Q13704;Caraga;является столицей;1;1;to
+Q13704;Caraga;часть от;1;1;to
+Q13704;Caraga;категория объединяет темы;1;1;to
+Q13704;Caraga;место рождения;1;1;to
+Q13704;Caraga;общая тема категории;1;1;to
+Q13704;Caraga;происходит из;1;3;to
+Q13704;Caraga;dmoz;1;1;from
+Q13704;Caraga;Филиппинский стандартный географический код;1;1;from
+Q13704;Caraga;баннер Викигида;1;1;from
+Q13704;Caraga;основная категория по теме;1;1;from
+Q13704;Caraga;код Freebase;1;1;from
+Q13704;Caraga;географические координаты;1;1;from
+Q13704;Caraga;категория на Викискладе;1;1;from
+Q13665;Western Visayas;категория объединяет темы;1;2;to
+Q13665;Western Visayas;dmoz;1;1;from
+Q13665;Western Visayas;Филиппинский стандартный географический код;1;1;from
+Q13606;Cordillera Administrative Region;государство;1;1;from
+Q13606;Cordillera Administrative Region;код Freebase;1;1;from
+Q13606;Cordillera Administrative Region;географические координаты;1;1;from
+Q13606;Cordillera Administrative Region;дата основания/создания/возникновения;1;1;from
+Q13606;Cordillera Administrative Region;категория на Викискладе;1;1;from
+Q13606;Cordillera Administrative Region;код темы Quora;1;1;from
+Q13606;Cordillera Administrative Region;ISO 3166-2;1;1;from
+Q13606;Cordillera Administrative Region;используемый язык;1;8;from
+Q13606;Cordillera Administrative Region;площадь;1;1;from
+Q13606;Cordillera Administrative Region;код GeoNames;1;1;from
+Q13606;Cordillera Administrative Region;численность населения;1;3;from
+Q13606;Cordillera Administrative Region;столица;1;1;from
+Q13606;Cordillera Administrative Region;это частный случай понятия;1;1;from
+Q13606;Cordillera Administrative Region;карта местонахождения;1;1;from
+Q13606;Cordillera Administrative Region;изображение;1;1;from
+Q13606;Cordillera Administrative Region;административно делится на;1;2;to
+Q13580;Metro Manila;Филиппинский стандартный географический код;1;1;from
+Q13606;Cordillera Administrative Region;административно-территориальная единица;1;14;to
+Q13580;Metro Manila;обслуживаемый город;1;1;to
+Q13580;Metro Manila;общая тема категории;1;1;to
+Q13580;Metro Manila;место публикации;1;1;to
+Q13580;Metro Manila;место создания;1;5;to
+Q13580;Metro Manila;лицензия на вещание в;1;2;to
+Q13580;Metro Manila;место жительства;1;4;to
+Q13580;Metro Manila;юрисдикция распространяется на;1;1;to
+Q13580;Metro Manila;место съёмок;1;2;to
+Q13580;Metro Manila;расположение штаб-квартиры;1;15;to
+Q13580;Metro Manila;категория объединяет темы;1;6;to
+Q13580;Metro Manila;местонахождение;1;29;to
+Q13580;Metro Manila;место рождения;1;36;to
+Q13580;Metro Manila;место смерти;1;18;to
+Q13606;Cordillera Administrative Region;основная категория по теме;1;1;from
+Q13606;Cordillera Administrative Region;баннер Викигида;1;1;from
+Q13606;Cordillera Administrative Region;Филиппинский стандартный географический код;1;1;from
+Q13606;Cordillera Administrative Region;dmoz;1;1;from
+Q13615;Cagayan Valley;dmoz;1;1;from
+Q13615;Cagayan Valley;Филиппинский стандартный географический код;1;1;from
+Q13615;Cagayan Valley;баннер Викигида;1;1;from
+Q13615;Cagayan Valley;основная категория по теме;1;1;from
+Q13615;Cagayan Valley;категория карт на Викискладе;1;1;from
+Q13615;Cagayan Valley;код Freebase;1;1;from
+Q13615;Cagayan Valley;географические координаты;1;1;from
+Q13615;Cagayan Valley;категория на Викискладе;1;1;from
+Q13615;Cagayan Valley;код темы Quora;1;1;from
+Q13615;Cagayan Valley;ISO 3166-2;1;1;from
+Q13615;Cagayan Valley;используемый язык;1;8;from
+Q13615;Cagayan Valley;критерий Всемирного наследия;1;4;from
+Q13615;Cagayan Valley;площадь;1;1;from
+Q13615;Cagayan Valley;код GeoNames;1;1;from
+Q13615;Cagayan Valley;статус наследия;1;6;from
+Q13615;Cagayan Valley;код в Большой каталанской энциклопедии;1;1;from
+Q13615;Cagayan Valley;численность населения;1;3;from
+Q13615;Cagayan Valley;столица;1;1;from
+Q13615;Cagayan Valley;это частный случай понятия;1;1;from
+Q13615;Cagayan Valley;карта местонахождения;1;1;from
+Q13615;Cagayan Valley;изображение;1;1;from
+Q13615;Cagayan Valley;государство;1;1;from
+Q13615;Cagayan Valley;административно делится на;1;2;to
+Q13615;Cagayan Valley;административно-территориальная единица;1;17;to
+Q13606;Cordillera Administrative Region;является столицей;1;1;to
+Q13606;Cordillera Administrative Region;категория объединяет темы;1;1;to
+Q13606;Cordillera Administrative Region;общая тема категории;1;1;to
+Q13606;Cordillera Administrative Region;происходит из;1;9;to
+Q13606;Cordillera Administrative Region;пример использования свойства;1;1;to
+Q13580;Metro Manila;dmoz;1;1;from
+Q13580;Metro Manila;место в MusicBrainz;1;1;from
+Q13665;Western Visayas;место в MusicBrainz;1;1;from
+Q12933;Ilocos Region;основная категория по теме;1;1;from
+Q13580;Metro Manila;изображение;1;1;from
+Q13580;Metro Manila;государство;1;1;from
+Q13580;Metro Manila;административно делится на;1;3;to
+Q13580;Metro Manila;административно-территориальная единица;1;71;to
+Q13580;Metro Manila;ответственность несёт;1;1;from
+Q12933;Ilocos Region;является столицей;1;1;to
+Q12933;Ilocos Region;часть от;1;1;to
+Q12933;Ilocos Region;категория объединяет темы;1;1;to
+Q12933;Ilocos Region;общая тема категории;1;1;to
+Q12933;Ilocos Region;место рождения;1;1;to
+Q12933;Ilocos Region;происходит из;1;5;to
+Q12933;Ilocos Region;dmoz;1;1;from
+Q12933;Ilocos Region;Филиппинский стандартный географический код;1;1;from
+Q12933;Ilocos Region;баннер Викигида;1;1;from
+Q12933;Ilocos Region;код Freebase;1;1;from
+Q13580;Metro Manila;код NLI;1;1;from
+Q12933;Ilocos Region;географические координаты;1;1;from
+Q12933;Ilocos Region;ID отношения в OpenStreetMap;1;1;from
+Q12933;Ilocos Region;категория на Викискладе;1;1;from
+Q12933;Ilocos Region;ISO 3166-2;1;1;from
+Q12933;Ilocos Region;используемый язык;1;5;from
+Q12933;Ilocos Region;площадь;1;1;from
+Q12933;Ilocos Region;код GeoNames;1;1;from
+Q12933;Ilocos Region;код в Большой каталанской энциклопедии;1;1;from
+Q12933;Ilocos Region;численность населения;1;3;from
+Q12933;Ilocos Region;столица;1;1;from
+Q12933;Ilocos Region;это частный случай понятия;1;1;from
+Q12933;Ilocos Region;карта местонахождения;1;1;from
+Q12933;Ilocos Region;изображение;1;1;from
+Q12933;Ilocos Region;государство;1;1;from
+Q13580;Metro Manila;город-побратим;1;1;from
+Q13580;Metro Manila;код VIAF;1;1;from
+Q13580;Metro Manila;код GND;1;1;from
+Q13580;Metro Manila;карта местонахождения;1;2;from
+Q13580;Metro Manila;баннер Викигида;1;1;from
+Q13580;Metro Manila;основная категория по теме;1;1;from
+Q13580;Metro Manila;официальный сайт;1;1;from
+Q13580;Metro Manila;Who's on First ID;1;1;from
+Q13580;Metro Manila;код Freebase;1;1;from
+Q13580;Metro Manila;географические координаты;1;1;from
+Q13580;Metro Manila;дата основания/создания/возникновения;1;1;from
+Q13580;Metro Manila;обзорная статья Викимедиа;1;1;from
+Q13580;Metro Manila;код для сущности Wolfram Language;1;1;from
+Q13580;Metro Manila;местный телефонный код;1;1;from
+Q13580;Metro Manila;предположительно одно и то же с;1;1;to
+Q13580;Metro Manila;часовой пояс;1;1;from
+Q13580;Metro Manila;ID отношения в OpenStreetMap;1;1;from
+Q13580;Metro Manila;сабреддит;1;2;from
+Q13580;Metro Manila;категория на Викискладе;1;1;from
+Q13580;Metro Manila;код темы Quora;1;1;from
+Q13580;Metro Manila;ISO 3166-2;1;1;from
+Q13580;Metro Manila;коллаж;1;1;from
+Q13580;Metro Manila;код BabelNet;1;1;from
+Q13580;Metro Manila;площадь;1;1;from
+Q13580;Metro Manila;высота над уровнем моря;1;1;from
+Q13580;Metro Manila;код TGN;1;1;from
+Q13580;Metro Manila;код GeoNames;1;1;from
+Q13580;Metro Manila;категория для людей, умерших здесь;1;1;from
+Q13580;Metro Manila;код в энциклопедии «Британника онлайн»;1;1;from
+Q13580;Metro Manila;численность населения;1;9;from
+Q13580;Metro Manila;имеет границы с;1;5;to
+Q13580;Metro Manila;это частный случай понятия;1;2;from
+Q13580;Metro Manila;код LCNAF;1;1;from
+Q13615;Cagayan Valley;происходит из;1;7;to
+Q13615;Cagayan Valley;место рождения;1;1;to
+Q13615;Cagayan Valley;общая тема категории;1;1;to
+Q13658;Mimaropa;происходит из;1;8;to
+Q13662;Bicol Region;используемый язык;1;6;from
+Q13662;Bicol Region;площадь;1;1;from
+Q13662;Bicol Region;код GeoNames;1;1;from
+Q13662;Bicol Region;код в Большой каталанской энциклопедии;1;1;from
+Q13662;Bicol Region;численность населения;1;3;from
+Q13662;Bicol Region;столица;1;1;from
+Q13662;Bicol Region;это частный случай понятия;1;1;from
+Q13662;Bicol Region;карта местонахождения;1;1;from
+Q13662;Bicol Region;государство;1;1;from
+Q13662;Bicol Region;административно делится на;1;2;to
+Q13662;Bicol Region;административно-территориальная единица;1;19;to
+Q13658;Mimaropa;категория объединяет темы;1;2;to
+Q13658;Mimaropa;заменён на;1;1;to
+Q13658;Mimaropa;общая тема категории;1;1;to
+Q13658;Mimaropa;dmoz;1;1;from
+Q13615;Cagayan Valley;категория объединяет темы;1;2;to
+Q13658;Mimaropa;Филиппинский стандартный географический код;1;1;from
+Q13658;Mimaropa;баннер Викигида;1;1;from
+Q13658;Mimaropa;основная категория по теме;1;1;from
+Q13658;Mimaropa;категория карт на Викискладе;1;1;from
+Q13658;Mimaropa;код Freebase;1;1;from
+Q13658;Mimaropa;географические координаты;1;1;from
+Q13658;Mimaropa;дата основания/создания/возникновения;1;1;from
+Q13658;Mimaropa;категория на Викискладе;1;1;from
+Q13658;Mimaropa;ISO 3166-2;1;1;from
+Q13658;Mimaropa;используемый язык;1;8;from
+Q13658;Mimaropa;площадь;1;1;from
+Q13658;Mimaropa;код GeoNames;1;1;from
+Q13658;Mimaropa;заменил;1;1;from
+Q13658;Mimaropa;численность населения;1;3;from
+Q13662;Bicol Region;ISO 3166-2;1;1;from
+Q13662;Bicol Region;категория на Викискладе;1;1;from
+Q13662;Bicol Region;географические координаты;1;1;from
+Q13662;Bicol Region;код Freebase;1;1;from
+Q13665;Western Visayas;баннер Викигида;1;1;from
+Q13665;Western Visayas;основная категория по теме;1;1;from
+Q13665;Western Visayas;категория карт на Викискладе;1;1;from
+Q13665;Western Visayas;Who's on First ID;1;1;from
+Q13665;Western Visayas;код Freebase;1;1;from
+Q13665;Western Visayas;географические координаты;1;1;from
+Q13665;Western Visayas;дата основания/создания/возникновения;1;1;from
+Q13665;Western Visayas;категория на Викискладе;1;1;from
+Q13665;Western Visayas;ISO 3166-2;1;1;from
+Q13665;Western Visayas;используемый язык;1;8;from
+Q13665;Western Visayas;площадь;1;2;from
+Q13665;Western Visayas;код GeoNames;1;1;from
+Q13665;Western Visayas;код в Большой каталанской энциклопедии;1;1;from
+Q13665;Western Visayas;численность населения;1;8;from
+Q13665;Western Visayas;столица;1;1;from
+Q13665;Western Visayas;это частный случай понятия;1;1;from
+Q13665;Western Visayas;карта местонахождения;1;2;from
+Q13665;Western Visayas;государство;1;1;from
+Q13665;Western Visayas;административно делится на;1;2;to
+Q13665;Western Visayas;административно-территориальная единица;1;18;to
+Q13662;Bicol Region;часть от;1;1;to
+Q13662;Bicol Region;категория объединяет темы;1;1;to
+Q13662;Bicol Region;расположение штаб-квартиры;1;1;to
+Q13662;Bicol Region;общая тема категории;1;1;to
+Q13662;Bicol Region;происходит из;1;6;to
+Q13662;Bicol Region;dmoz;1;1;from
+Q13662;Bicol Region;Филиппинский стандартный географический код;1;1;from
+Q13662;Bicol Region;баннер Викигида;1;1;from
+Q13662;Bicol Region;основная категория по теме;1;1;from
+Q13658;Mimaropa;столица;1;1;from
+Q13658;Mimaropa;это частный случай понятия;1;1;from
+Q13658;Mimaropa;карта местонахождения;1;1;from
+Q13650;Calabarzon;государство;1;1;from
+Q13650;Calabarzon;административно-территориальная единица;1;14;to
+Q13617;Central Luzon;обслуживаемый город;1;1;to
+Q13617;Central Luzon;общая тема категории;1;1;to
+Q13617;Central Luzon;категория объединяет темы;1;3;to
+Q13617;Central Luzon;местонахождение;1;2;to
+Q13617;Central Luzon;происходит из;1;8;to
+Q13617;Central Luzon;dmoz;1;1;from
+Q13617;Central Luzon;Филиппинский стандартный географический код;1;1;from
+Q13617;Central Luzon;баннер Викигида;1;1;from
+Q13617;Central Luzon;основная категория по теме;1;1;from
+Q13617;Central Luzon;категория карт на Викискладе;1;1;from
+Q13617;Central Luzon;Who's on First ID;1;1;from
+Q13617;Central Luzon;код Freebase;1;1;from
+Q13617;Central Luzon;географические координаты;1;1;from
+Q13617;Central Luzon;категория на Викискладе;1;1;from
+Q13617;Central Luzon;ISO 3166-2;1;1;from
+Q13617;Central Luzon;используемый язык;1;7;from
+Q13617;Central Luzon;площадь;1;1;from
+Q13617;Central Luzon;высота над уровнем моря;1;1;from
+Q13617;Central Luzon;код GeoNames;1;1;from
+Q13617;Central Luzon;категория для людей, родившихся здесь;1;1;from
+Q13617;Central Luzon;код в Большой каталанской энциклопедии;1;1;from
+Q13617;Central Luzon;численность населения;1;3;from
+Q13617;Central Luzon;столица;1;1;from
+Q13617;Central Luzon;это частный случай понятия;1;1;from
+Q13617;Central Luzon;карта местонахождения;1;1;from
+Q13617;Central Luzon;государство;1;1;from
+Q13617;Central Luzon;административно делится на;1;2;to
+Q13617;Central Luzon;административно-территориальная единица;1;43;to
+Q13650;Calabarzon;административно делится на;1;2;to
+Q13650;Calabarzon;карта местонахождения;1;1;from
+Q13658;Mimaropa;изображение;1;1;from
+Q13650;Calabarzon;это частный случай понятия;1;1;from
+Q13658;Mimaropa;государство;1;1;from
+Q13658;Mimaropa;административно делится на;1;2;to
+Q13658;Mimaropa;административно-территориальная единица;1;12;to
+Q13650;Calabarzon;заменён на;1;1;to
+Q13650;Calabarzon;категория объединяет темы;1;2;to
+Q13650;Calabarzon;является столицей;1;1;to
+Q13650;Calabarzon;происходит из;1;2;to
+Q13650;Calabarzon;общая тема категории;1;1;to
+Q13650;Calabarzon;местонахождение;1;1;to
+Q13650;Calabarzon;dmoz;1;1;from
+Q13650;Calabarzon;Филиппинский стандартный географический код;1;1;from
+Q13650;Calabarzon;баннер Викигида;1;1;from
+Q13650;Calabarzon;основная категория по теме;1;1;from
+Q13650;Calabarzon;категория карт на Викискладе;1;1;from
+Q13650;Calabarzon;код Freebase;1;1;from
+Q13650;Calabarzon;географические координаты;1;1;from
+Q13650;Calabarzon;дата основания/создания/возникновения;1;1;from
+Q13650;Calabarzon;часовой пояс;1;1;from
+Q13650;Calabarzon;категория на Викискладе;1;1;from
+Q13650;Calabarzon;код темы Quora;1;1;from
+Q13650;Calabarzon;ISO 3166-2;1;1;from
+Q13650;Calabarzon;используемый язык;1;3;from
+Q13650;Calabarzon;код BabelNet;1;1;from
+Q13650;Calabarzon;площадь;1;1;from
+Q13650;Calabarzon;код GeoNames;1;1;from
+Q13650;Calabarzon;официальное название;1;1;from
+Q13650;Calabarzon;заменил;1;1;from
+Q13650;Calabarzon;численность населения;1;3;from
+Q13650;Calabarzon;столица;1;1;from
+Q24869612;Bangsamoro;заменён на;1;1;to

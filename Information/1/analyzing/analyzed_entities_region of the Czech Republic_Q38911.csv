@@ -1,0 +1,856 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q46070;Plzeň Region;административно-территориальная единица;1;29;to
+Q192702;Ústí nad Labem Region;изображение герба;1;1;from
+Q192702;Ústí nad Labem Region;численность населения;1;16;from
+Q192702;Ústí nad Labem Region;официальное название;1;1;from
+Q192702;Ústí nad Labem Region;организационно-правовая форма;1;1;from
+Q192702;Ústí nad Labem Region;категория для людей, родившихся здесь;1;1;from
+Q192702;Ústí nad Labem Region;категория для людей, умерших здесь;1;1;from
+Q192702;Ústí nad Labem Region;код GeoNames;1;1;from
+Q192702;Ústí nad Labem Region;название на языке оригинала;1;1;from
+Q192702;Ústí nad Labem Region;категория для людей, похороненных здесь;1;1;from
+Q192702;Ústí nad Labem Region;категория для людей, связанных с местностью;1;1;from
+Q192702;Ústí nad Labem Region;владеет;1;4;from
+Q192702;Ústí nad Labem Region;высота над уровнем моря;1;1;from
+Q192702;Ústí nad Labem Region;площадь;1;1;from
+Q192702;Ústí nad Labem Region;используемый язык;1;1;from
+Q192702;Ústí nad Labem Region;ISO 3166-2;1;2;from
+Q192702;Ústí nad Labem Region;идентификатор Ringgold;1;1;from
+Q192702;Ústí nad Labem Region;дочерние компании (организации, учреждения);1;34;from
+Q192702;Ústí nad Labem Region;категория на Викискладе;1;1;from
+Q192702;Ústí nad Labem Region;геоданные;1;1;from
+Q192702;Ústí nad Labem Region;код автомобильного номера;1;1;from
+Q192702;Ústí nad Labem Region;ID отношения в OpenStreetMap;1;1;from
+Q192702;Ústí nad Labem Region;Czech Registration ID;1;1;from
+Q192702;Ústí nad Labem Region;средний возраст;1;1;from
+Q192702;Ústí nad Labem Region;идентификатор местоположения ArchINFORM;1;1;from
+Q192702;Ústí nad Labem Region;десятичная классификация Дьюи;1;1;from
+Q192702;Ústí nad Labem Region;глава правительства;1;8;from
+Q192697;South Moravian Region;материнская компания (организация, учреждение);1;166;to
+Q192702;Ústí nad Labem Region;имеет границы с;1;7;to
+Q192697;South Moravian Region;местонахождение;1;2;to
+Q192697;South Moravian Region;категория объединяет темы;1;25;to
+Q192697;South Moravian Region;изображённый объект;1;1;to
+Q192697;South Moravian Region;происходит из;1;1;to
+Q192697;South Moravian Region;место смерти;1;2;to
+Q192697;South Moravian Region;юрисдикция распространяется на;1;2;to
+Q192697;South Moravian Region;управляемая организация;1;1;to
+Q192697;South Moravian Region;инвестор;1;1;to
+Q192697;South Moravian Region;общая тема категории;1;1;to
+Q192697;South Moravian Region;является столицей;1;1;to
+Q192702;Ústí nad Labem Region;административно-территориальная единица;1;62;to
+Q192702;Ústí nad Labem Region;административно делится на;1;2;to
+Q192702;Ústí nad Labem Region;расположение штаб-квартиры;1;4;from
+Q192702;Ústí nad Labem Region;описание флага;1;1;from
+Q192702;Ústí nad Labem Region;государство;1;1;from
+Q192702;Ústí nad Labem Region;изображение;1;1;from
+Q192702;Ústí nad Labem Region;код ISNI;1;1;from
+Q192702;Ústí nad Labem Region;код VIAF;1;1;from
+Q192702;Ústí nad Labem Region;код GND;1;1;from
+Q192702;Ústí nad Labem Region;карта местонахождения;1;1;from
+Q192702;Ústí nad Labem Region;это частный случай понятия;1;1;from
+Q192702;Ústí nad Labem Region;столица;1;1;from
+Q192702;Ústí nad Labem Region;изображение флага;1;1;from
+Q192702;Ústí nad Labem Region;дата основания/создания/возникновения;1;1;from
+Q192702;Ústí nad Labem Region;код NUTS;1;1;from
+Q192702;Ústí nad Labem Region;географические координаты;1;1;from
+Q192702;Ústí nad Labem Region;код Freebase;1;1;from
+Q193266;Liberec Region;расположение штаб-квартиры;1;2;from
+Q193266;Liberec Region;государство;1;1;from
+Q193266;Liberec Region;изображение;1;1;from
+Q193266;Liberec Region;код ISNI;1;1;from
+Q193266;Liberec Region;код VIAF;1;1;from
+Q193266;Liberec Region;код GND;1;1;from
+Q193266;Liberec Region;карта местонахождения;1;1;from
+Q193266;Liberec Region;код LCNAF;1;1;from
+Q193266;Liberec Region;это частный случай понятия;1;1;from
+Q193266;Liberec Region;столица;1;1;from
+Q193266;Liberec Region;изображение флага;1;1;from
+Q193266;Liberec Region;имеет границы с;1;5;to
+Q193266;Liberec Region;глава правительства;1;11;from
+Q193266;Liberec Region;изображение герба;1;1;from
+Q193266;Liberec Region;десятичная классификация Дьюи;1;1;from
+Q193266;Liberec Region;численность населения;1;16;from
+Q193266;Liberec Region;код LEI;1;1;from
+Q193266;Liberec Region;официальное название;1;1;from
+Q193266;Liberec Region;организационно-правовая форма;1;1;from
+Q193266;Liberec Region;категория для людей, родившихся здесь;1;1;from
+Q193266;Liberec Region;категория для людей, умерших здесь;1;1;from
+Q193266;Liberec Region;код GeoNames;1;1;from
+Q193266;Liberec Region;код TGN;1;1;from
+Q193266;Liberec Region;административно делится на;1;2;to
+Q193266;Liberec Region;административно-территориальная единица;1;31;to
+Q192702;Ústí nad Labem Region;общая тема категории;1;1;to
+Q192702;Ústí nad Labem Region;место рождения;1;4;to
+Q192702;Ústí nad Labem Region;Who's on First ID;1;1;from
+Q192702;Ústí nad Labem Region;код NKC;1;1;from
+Q192702;Ústí nad Labem Region;Czech region ID;1;1;from
+Q192702;Ústí nad Labem Region;категория карт на Викискладе;1;1;from
+Q192702;Ústí nad Labem Region;официальный сайт;1;1;from
+Q192702;Ústí nad Labem Region;FIPS 10-4 (страны и регионы);1;1;from
+Q192702;Ústí nad Labem Region;основная категория по теме;1;1;from
+Q192702;Ústí nad Labem Region;баннер Викигида;1;1;from
+Q192702;Ústí nad Labem Region;место в MusicBrainz;1;1;from
+Q192702;Ústí nad Labem Region;происходит из;1;1;to
+Q192702;Ústí nad Labem Region;владельцем является;1;4;to
+Q192702;Ústí nad Labem Region;изображённый объект;1;1;to
+Q192702;Ústí nad Labem Region;зона обслуживания;1;1;to
+Q192702;Ústí nad Labem Region;материнская компания (организация, учреждение);1;86;to
+Q192702;Ústí nad Labem Region;основатель;1;26;to
+Q192702;Ústí nad Labem Region;место погребения;1;2;to
+Q192702;Ústí nad Labem Region;категория объединяет темы;1;18;to
+Q192702;Ústí nad Labem Region;является столицей;1;1;to
+Q192702;Ústí nad Labem Region;оператор;1;1;to
+Q192702;Ústí nad Labem Region;юрисдикция распространяется на;1;3;to
+Q192702;Ústí nad Labem Region;частично совпадает с;1;1;to
+Q192702;Ústí nad Labem Region;место смерти;1;2;to
+Q192697;South Moravian Region;место погребения;1;1;to
+Q192697;South Moravian Region;награда от;1;1;to
+Q193266;Liberec Region;категория для людей, связанных с местностью;1;1;from
+Q192536;Zlín Region;место в MusicBrainz;1;1;from
+Q192536;Zlín Region;зона обслуживания;1;1;to
+Q192536;Zlín Region;материнская компания (организация, учреждение);1;90;to
+Q192536;Zlín Region;категория объединяет темы;1;20;to
+Q192536;Zlín Region;изображённый объект;1;1;to
+Q192536;Zlín Region;является столицей;1;1;to
+Q192536;Zlín Region;место смерти;1;1;to
+Q192536;Zlín Region;юрисдикция распространяется на;1;1;to
+Q192536;Zlín Region;общая тема категории;1;1;to
+Q192536;Zlín Region;владельцем является;1;1;to
+Q192697;South Moravian Region;административно-территориальная единица;1;57;to
+Q192697;South Moravian Region;административно делится на;1;2;to
+Q192697;South Moravian Region;расположение штаб-квартиры;1;4;from
+Q192697;South Moravian Region;государство;1;1;from
+Q192697;South Moravian Region;изображение;1;1;from
+Q192697;South Moravian Region;законодательный орган;1;1;from
+Q192697;South Moravian Region;код ISNI;1;1;from
+Q192697;South Moravian Region;код VIAF;1;1;from
+Q192697;South Moravian Region;код GND;1;1;from
+Q192697;South Moravian Region;карта местонахождения;1;1;from
+Q192697;South Moravian Region;код LCNAF;1;1;from
+Q192697;South Moravian Region;это частный случай понятия;1;1;from
+Q192697;South Moravian Region;столица;1;1;from
+Q192697;South Moravian Region;изображение флага;1;1;from
+Q192536;Zlín Region;место рождения;1;4;to
+Q192536;Zlín Region;основная категория по теме;1;1;from
+Q192697;South Moravian Region;зона обслуживания;1;2;to
+Q192536;Zlín Region;FIPS 10-4 (страны и регионы);1;1;from
+Q192536;Zlín Region;категория для людей, связанных с местностью;1;1;from
+Q192536;Zlín Region;владеет;1;1;from
+Q192536;Zlín Region;не путать с;1;1;to
+Q192536;Zlín Region;высота над уровнем моря;1;1;from
+Q192536;Zlín Region;площадь;1;1;from
+Q192536;Zlín Region;ISO 3166-2;1;2;from
+Q192536;Zlín Region;идентификатор Ringgold;1;1;from
+Q192536;Zlín Region;дочерние компании (организации, учреждения);1;18;from
+Q192536;Zlín Region;категория на Викискладе;1;1;from
+Q192536;Zlín Region;геоданные;1;1;from
+Q192536;Zlín Region;код автомобильного номера;1;1;from
+Q192536;Zlín Region;ID отношения в OpenStreetMap;1;1;from
+Q192536;Zlín Region;Czech Registration ID;1;1;from
+Q192536;Zlín Region;средний возраст;1;1;from
+Q192536;Zlín Region;идентификатор местоположения ArchINFORM;1;1;from
+Q192536;Zlín Region;код NUTS;1;1;from
+Q192536;Zlín Region;географические координаты;1;1;from
+Q192536;Zlín Region;код Freebase;1;1;from
+Q192536;Zlín Region;Who's on First ID;1;1;from
+Q192536;Zlín Region;код NKC;1;1;from
+Q192536;Zlín Region;Czech region ID;1;1;from
+Q192536;Zlín Region;категория карт на Викискладе;1;1;from
+Q192536;Zlín Region;официальный сайт;1;1;from
+Q192697;South Moravian Region;имеет границы с;1;5;to
+Q192697;South Moravian Region;глава правительства;1;8;from
+Q192697;South Moravian Region;изображение герба;1;1;from
+Q192697;South Moravian Region;десятичная классификация Дьюи;1;1;from
+Q192697;South Moravian Region;ID отношения в OpenStreetMap;1;1;from
+Q192697;South Moravian Region;Czech Registration ID;1;1;from
+Q192697;South Moravian Region;часовой пояс;1;2;from
+Q192697;South Moravian Region;средний возраст;1;1;from
+Q192697;South Moravian Region;идентификатор местоположения ArchINFORM;1;1;from
+Q192697;South Moravian Region;дата основания/создания/возникновения;1;1;from
+Q192697;South Moravian Region;EU Research participant ID;1;1;from
+Q192697;South Moravian Region;код NUTS;1;1;from
+Q192697;South Moravian Region;географические координаты;1;1;from
+Q192697;South Moravian Region;код Freebase;1;1;from
+Q192697;South Moravian Region;Who's on First ID;1;1;from
+Q192697;South Moravian Region;код NKC;1;1;from
+Q192697;South Moravian Region;Czech region ID;1;1;from
+Q192697;South Moravian Region;категория карт на Викискладе;1;1;from
+Q192697;South Moravian Region;официальный сайт;1;1;from
+Q192697;South Moravian Region;FIPS 10-4 (страны и регионы);1;1;from
+Q192697;South Moravian Region;основная категория по теме;1;1;from
+Q192697;South Moravian Region;баннер Викигида;1;1;from
+Q192697;South Moravian Region;место в MusicBrainz;1;1;from
+Q192697;South Moravian Region;пример использования свойства;1;1;to
+Q192697;South Moravian Region;владельцем является;1;5;to
+Q192697;South Moravian Region;место рождения;1;7;to
+Q192697;South Moravian Region;ответственность несёт;1;1;to
+Q192697;South Moravian Region;код автомобильного номера;1;1;from
+Q192697;South Moravian Region;геоданные;1;1;from
+Q192697;South Moravian Region;категория на Викискладе;1;1;from
+Q192697;South Moravian Region;категория для людей, связанных с местностью;1;1;from
+Q192697;South Moravian Region;численность населения;1;16;from
+Q192697;South Moravian Region;код LEI;1;1;from
+Q192697;South Moravian Region;официальное название;1;3;from
+Q192697;South Moravian Region;организационно-правовая форма;1;1;from
+Q192697;South Moravian Region;категория для людей, родившихся здесь;1;1;from
+Q192697;South Moravian Region;категория для людей, умерших здесь;1;1;from
+Q192697;South Moravian Region;код GeoNames;1;1;from
+Q192697;South Moravian Region;код TGN;1;1;from
+Q192697;South Moravian Region;название на языке оригинала;1;1;from
+Q192697;South Moravian Region;категория для людей, похороненных здесь;1;1;from
+Q192697;South Moravian Region;владеет;1;5;from
+Q192697;South Moravian Region;часть от;1;1;from
+Q192697;South Moravian Region;не путать с;1;1;to
+Q192697;South Moravian Region;позиционная карта;1;1;from
+Q192697;South Moravian Region;высота над уровнем моря;1;1;from
+Q192697;South Moravian Region;площадь;1;2;from
+Q192697;South Moravian Region;должность руководителя организации;1;1;from
+Q192697;South Moravian Region;код BabelNet;1;1;from
+Q192697;South Moravian Region;ISO 3166-2;1;2;from
+Q192697;South Moravian Region;идентификатор Ringgold;1;1;from
+Q192697;South Moravian Region;дочерние компании (организации, учреждения);1;42;from
+Q192697;South Moravian Region;EU VAT number;1;1;from
+Q193266;Liberec Region;категория для людей, похороненных здесь;1;1;from
+Q193266;Liberec Region;владеет;1;4;from
+Q192536;Zlín Region;название на языке оригинала;1;1;from
+Q193307;Olomouc Region;географические координаты;1;1;from
+Q193307;Olomouc Region;Who's on First ID;1;1;from
+Q193307;Olomouc Region;код NKC;1;2;from
+Q193307;Olomouc Region;Czech region ID;1;1;from
+Q193307;Olomouc Region;категория карт на Викискладе;1;1;from
+Q193307;Olomouc Region;официальный сайт;1;1;from
+Q193307;Olomouc Region;FIPS 10-4 (страны и регионы);1;1;from
+Q193307;Olomouc Region;основная категория по теме;1;1;from
+Q193307;Olomouc Region;место в MusicBrainz;1;1;from
+Q193307;Olomouc Region;юрисдикция распространяется на;1;1;to
+Q193307;Olomouc Region;зона обслуживания;1;1;to
+Q193307;Olomouc Region;место смерти;1;1;to
+Q193307;Olomouc Region;материнская компания (организация, учреждение);1;101;to
+Q193307;Olomouc Region;место рождения;1;2;to
+Q193307;Olomouc Region;категория объединяет темы;1;19;to
+Q193307;Olomouc Region;владельцем является;1;3;to
+Q193307;Olomouc Region;является столицей;1;1;to
+Q193307;Olomouc Region;общая тема категории;1;1;to
+Q193317;Pardubice Region;административно-территориальная единица;1;37;to
+Q193317;Pardubice Region;названо в честь;1;1;from
+Q193317;Pardubice Region;административно делится на;1;2;to
+Q193317;Pardubice Region;расположение штаб-квартиры;1;3;from
+Q193317;Pardubice Region;государство;1;1;from
+Q193317;Pardubice Region;изображение;1;1;from
+Q193307;Olomouc Region;код Freebase;1;1;from
+Q193307;Olomouc Region;код NUTS;1;1;from
+Q193307;Olomouc Region;изображение флага;1;1;from
+Q193307;Olomouc Region;дата основания/создания/возникновения;1;1;from
+Q193307;Olomouc Region;глава правительства;1;17;from
+Q193307;Olomouc Region;изображение герба;1;1;from
+Q193307;Olomouc Region;десятичная классификация Дьюи;1;1;from
+Q193307;Olomouc Region;численность населения;1;16;from
+Q193307;Olomouc Region;официальное название;1;1;from
+Q193307;Olomouc Region;организационно-правовая форма;1;1;from
+Q193307;Olomouc Region;категория для людей, родившихся здесь;1;1;from
+Q193307;Olomouc Region;категория для людей, умерших здесь;1;1;from
+Q193307;Olomouc Region;код GeoNames;1;1;from
+Q193307;Olomouc Region;категория для людей, похороненных здесь;1;1;from
+Q193307;Olomouc Region;категория для людей, связанных с местностью;1;1;from
+Q193307;Olomouc Region;владеет;1;3;from
+Q193307;Olomouc Region;высота над уровнем моря;1;1;from
+Q193307;Olomouc Region;площадь;1;1;from
+Q193307;Olomouc Region;ISO 3166-2;1;2;from
+Q193307;Olomouc Region;дочерние компании (организации, учреждения);1;23;from
+Q193307;Olomouc Region;категория на Викискладе;1;1;from
+Q193307;Olomouc Region;геоданные;1;1;from
+Q193307;Olomouc Region;код автомобильного номера;1;1;from
+Q193307;Olomouc Region;ID отношения в OpenStreetMap;1;1;from
+Q193307;Olomouc Region;Czech Registration ID;1;1;from
+Q193307;Olomouc Region;средний возраст;1;1;from
+Q193307;Olomouc Region;идентификатор местоположения ArchINFORM;1;1;from
+Q193317;Pardubice Region;код VIAF;1;1;from
+Q193317;Pardubice Region;код GND;1;1;from
+Q193317;Pardubice Region;карта местонахождения;1;1;from
+Q193317;Pardubice Region;это частный случай понятия;1;1;from
+Q193317;Pardubice Region;средний возраст;1;1;from
+Q193317;Pardubice Region;идентификатор местоположения ArchINFORM;1;1;from
+Q193317;Pardubice Region;дата основания/создания/возникновения;1;1;from
+Q193317;Pardubice Region;код NUTS;1;1;from
+Q193317;Pardubice Region;географические координаты;1;1;from
+Q193317;Pardubice Region;код Freebase;1;1;from
+Q193317;Pardubice Region;Who's on First ID;1;1;from
+Q193317;Pardubice Region;код NKC;1;1;from
+Q193317;Pardubice Region;Czech region ID;1;1;from
+Q193317;Pardubice Region;категория карт на Викискладе;1;1;from
+Q193317;Pardubice Region;официальный сайт;1;1;from
+Q193317;Pardubice Region;FIPS 10-4 (страны и регионы);1;1;from
+Q193317;Pardubice Region;основная категория по теме;1;1;from
+Q193317;Pardubice Region;место в MusicBrainz;1;1;from
+Q193317;Pardubice Region;владельцем является;1;1;to
+Q193317;Pardubice Region;зона обслуживания;1;1;to
+Q193317;Pardubice Region;место рождения;1;4;to
+Q193317;Pardubice Region;материнская компания (организация, учреждение);1;62;to
+Q193317;Pardubice Region;категория объединяет темы;1;28;to
+Q193317;Pardubice Region;место смерти;1;2;to
+Q193317;Pardubice Region;юрисдикция распространяется на;1;1;to
+Q193317;Pardubice Region;местонахождение;1;1;to
+Q193317;Pardubice Region;общая тема категории;1;1;to
+Q193317;Pardubice Region;Czech Registration ID;1;1;from
+Q193317;Pardubice Region;ID отношения в OpenStreetMap;1;1;from
+Q193317;Pardubice Region;код автомобильного номера;1;1;from
+Q193317;Pardubice Region;категория для людей, умерших здесь;1;1;from
+Q193317;Pardubice Region;столица;1;1;from
+Q193317;Pardubice Region;изображение флага;1;1;from
+Q193317;Pardubice Region;имеет границы с;1;5;to
+Q193317;Pardubice Region;глава правительства;1;14;from
+Q193317;Pardubice Region;изображение герба;1;1;from
+Q193317;Pardubice Region;десятичная классификация Дьюи;1;1;from
+Q193317;Pardubice Region;численность населения;1;16;from
+Q193317;Pardubice Region;официальное название;1;1;from
+Q193317;Pardubice Region;организационно-правовая форма;1;1;from
+Q193317;Pardubice Region;категория для людей, родившихся здесь;1;1;from
+Q193317;Pardubice Region;код GeoNames;1;1;from
+Q193317;Pardubice Region;геоданные;1;1;from
+Q193317;Pardubice Region;код TGN;1;1;from
+Q193317;Pardubice Region;название на языке оригинала;1;1;from
+Q193317;Pardubice Region;категория для людей, похороненных здесь;1;1;from
+Q193317;Pardubice Region;категория для людей, связанных с местностью;1;1;from
+Q193317;Pardubice Region;владеет;1;1;from
+Q193317;Pardubice Region;высота над уровнем моря;1;1;from
+Q193317;Pardubice Region;площадь;1;1;from
+Q193317;Pardubice Region;ISO 3166-2;1;2;from
+Q193317;Pardubice Region;дочерние компании (организации, учреждения);1;16;from
+Q193317;Pardubice Region;категория на Викискладе;1;1;from
+Q193307;Olomouc Region;имеет границы с;1;4;to
+Q193307;Olomouc Region;столица;1;1;from
+Q193266;Liberec Region;высота над уровнем моря;1;1;from
+Q193266;Liberec Region;место рождения;1;4;to
+Q193266;Liberec Region;зона обслуживания;1;1;to
+Q193266;Liberec Region;владельцем является;1;4;to
+Q193266;Liberec Region;материнская компания (организация, учреждение);1;47;to
+Q193266;Liberec Region;основатель;1;2;to
+Q193266;Liberec Region;категория объединяет темы;1;20;to
+Q193266;Liberec Region;является столицей;1;1;to
+Q193266;Liberec Region;место погребения;1;1;to
+Q193266;Liberec Region;частично совпадает с;1;1;to
+Q193266;Liberec Region;спонсор;1;1;to
+Q193266;Liberec Region;общая тема категории;1;1;to
+Q193295;Hradec Králové Region;административно-территориальная единица;1;30;to
+Q193295;Hradec Králové Region;названо в честь;1;1;from
+Q193295;Hradec Králové Region;административно делится на;1;2;to
+Q193295;Hradec Králové Region;расположение штаб-квартиры;1;4;from
+Q193295;Hradec Králové Region;государство;1;1;from
+Q193295;Hradec Králové Region;изображение;1;1;from
+Q193295;Hradec Králové Region;код GND;1;1;from
+Q193295;Hradec Králové Region;карта местонахождения;1;1;from
+Q193295;Hradec Králové Region;это частный случай понятия;1;1;from
+Q193295;Hradec Králové Region;столица;1;1;from
+Q193295;Hradec Králové Region;изображение флага;1;1;from
+Q193295;Hradec Králové Region;имеет границы с;1;3;to
+Q193295;Hradec Králové Region;глава правительства;1;8;from
+Q193266;Liberec Region;юрисдикция распространяется на;1;1;to
+Q193266;Liberec Region;место смерти;1;1;to
+Q193307;Olomouc Region;это частный случай понятия;1;1;from
+Q193266;Liberec Region;пример использования свойства;1;1;to
+Q193266;Liberec Region;площадь;1;1;from
+Q193266;Liberec Region;код BabelNet;1;1;from
+Q193266;Liberec Region;ISO 3166-2;1;2;from
+Q193266;Liberec Region;дочерние компании (организации, учреждения);1;11;from
+Q193266;Liberec Region;категория на Викискладе;1;1;from
+Q193266;Liberec Region;геоданные;1;1;from
+Q193266;Liberec Region;код автомобильного номера;1;1;from
+Q193266;Liberec Region;ID отношения в OpenStreetMap;1;1;from
+Q193266;Liberec Region;Czech Registration ID;1;1;from
+Q193266;Liberec Region;часовой пояс;1;1;from
+Q193266;Liberec Region;средний возраст;1;1;from
+Q193266;Liberec Region;идентификатор местоположения ArchINFORM;1;1;from
+Q193266;Liberec Region;код NUTS;1;1;from
+Q193266;Liberec Region;географические координаты;1;1;from
+Q193266;Liberec Region;код Freebase;1;1;from
+Q193266;Liberec Region;Who's on First ID;1;1;from
+Q193266;Liberec Region;код NKC;1;1;from
+Q193266;Liberec Region;Czech region ID;1;1;from
+Q193266;Liberec Region;категория карт на Викискладе;1;1;from
+Q193266;Liberec Region;официальный сайт;1;1;from
+Q193266;Liberec Region;FIPS 10-4 (страны и регионы);1;1;from
+Q193266;Liberec Region;основная категория по теме;1;1;from
+Q193266;Liberec Region;место в MusicBrainz;1;1;from
+Q193295;Hradec Králové Region;изображение герба;1;1;from
+Q193295;Hradec Králové Region;десятичная классификация Дьюи;1;1;from
+Q193295;Hradec Králové Region;численность населения;1;16;from
+Q193295;Hradec Králové Region;официальное название;1;1;from
+Q193295;Hradec Králové Region;категория карт на Викискладе;1;1;from
+Q193295;Hradec Králové Region;официальный сайт;1;1;from
+Q193295;Hradec Králové Region;FIPS 10-4 (страны и регионы);1;1;from
+Q193295;Hradec Králové Region;основная категория по теме;1;1;from
+Q193295;Hradec Králové Region;место в MusicBrainz;1;1;from
+Q193295;Hradec Králové Region;юрисдикция распространяется на;1;1;to
+Q193295;Hradec Králové Region;зона обслуживания;1;1;to
+Q193295;Hradec Králové Region;материнская компания (организация, учреждение);1;60;to
+Q193295;Hradec Králové Region;категория объединяет темы;1;22;to
+Q193295;Hradec Králové Region;является столицей;1;1;to
+Q193295;Hradec Králové Region;место рождения;1;4;to
+Q193295;Hradec Králové Region;владельцем является;1;1;to
+Q193295;Hradec Králové Region;место смерти;1;1;to
+Q193295;Hradec Králové Region;общая тема категории;1;1;to
+Q193307;Olomouc Region;административно-территориальная единица;1;47;to
+Q193307;Olomouc Region;административно делится на;1;2;to
+Q193307;Olomouc Region;расположение штаб-квартиры;1;4;from
+Q193307;Olomouc Region;государство;1;1;from
+Q193307;Olomouc Region;изображение;1;1;from
+Q193307;Olomouc Region;город-побратим;1;1;from
+Q193307;Olomouc Region;код VIAF;1;1;from
+Q193307;Olomouc Region;код GND;1;1;from
+Q193307;Olomouc Region;карта местонахождения;1;1;from
+Q193295;Hradec Králové Region;Czech region ID;1;1;from
+Q193295;Hradec Králové Region;код NKC;1;1;from
+Q193295;Hradec Králové Region;Who's on First ID;1;1;from
+Q193295;Hradec Králové Region;категория на Викискладе;1;1;from
+Q193295;Hradec Králové Region;организационно-правовая форма;1;1;from
+Q193295;Hradec Králové Region;категория для людей, родившихся здесь;1;1;from
+Q193295;Hradec Králové Region;категория для людей, умерших здесь;1;1;from
+Q193295;Hradec Králové Region;код GeoNames;1;1;from
+Q193295;Hradec Králové Region;категория для людей, похороненных здесь;1;1;from
+Q193295;Hradec Králové Region;категория для людей, связанных с местностью;1;1;from
+Q193295;Hradec Králové Region;высота над уровнем моря;1;1;from
+Q193295;Hradec Králové Region;площадь;1;1;from
+Q193295;Hradec Králové Region;ISO 3166-2;1;2;from
+Q193295;Hradec Králové Region;дочерние компании (организации, учреждения);1;19;from
+Q193295;Hradec Králové Region;геоданные;1;2;from
+Q193295;Hradec Králové Region;код Freebase;1;1;from
+Q193295;Hradec Králové Region;код автомобильного номера;1;1;from
+Q193295;Hradec Králové Region;ID отношения в OpenStreetMap;1;1;from
+Q193295;Hradec Králové Region;Czech Registration ID;1;1;from
+Q193295;Hradec Králové Region;часовой пояс;1;2;from
+Q193295;Hradec Králové Region;средний возраст;1;1;from
+Q193295;Hradec Králové Region;идентификатор местоположения ArchINFORM;1;1;from
+Q193295;Hradec Králové Region;дата основания/создания/возникновения;1;1;from
+Q193295;Hradec Králové Region;код NUTS;1;1;from
+Q193295;Hradec Králové Region;наивысшая точка;1;1;from
+Q193295;Hradec Králové Region;географические координаты;1;1;from
+Q192536;Zlín Region;категория для людей, похороненных здесь;1;1;from
+Q192536;Zlín Region;код GeoNames;1;1;from
+Q46070;Plzeň Region;административно делится на;1;2;to
+Q188399;Central Bohemian Region;административно делится на;1;2;to
+Q188399;Central Bohemian Region;государство;1;1;from
+Q188399;Central Bohemian Region;изображение;1;1;from
+Q188399;Central Bohemian Region;код ISNI;1;1;from
+Q188399;Central Bohemian Region;код VIAF;1;1;from
+Q188399;Central Bohemian Region;код GND;1;1;from
+Q188399;Central Bohemian Region;карта местонахождения;1;1;from
+Q188399;Central Bohemian Region;это частный случай понятия;1;1;from
+Q188399;Central Bohemian Region;столица;1;1;from
+Q188399;Central Bohemian Region;изображение флага;1;1;from
+Q188399;Central Bohemian Region;имеет границы с;1;8;to
+Q188399;Central Bohemian Region;глава правительства;1;17;from
+Q188399;Central Bohemian Region;изображение герба;1;1;from
+Q188399;Central Bohemian Region;десятичная классификация Дьюи;1;1;from
+Q188399;Central Bohemian Region;численность населения;1;17;from
+Q188399;Central Bohemian Region;код в Большой каталанской энциклопедии;1;1;from
+Q188399;Central Bohemian Region;официальное название;1;1;from
+Q188399;Central Bohemian Region;организационно-правовая форма;1;1;from
+Q188399;Central Bohemian Region;категория для людей, родившихся здесь;1;1;from
+Q188399;Central Bohemian Region;категория для людей, умерших здесь;1;1;from
+Q188399;Central Bohemian Region;код GeoNames;1;1;from
+Q188399;Central Bohemian Region;название на языке оригинала;1;1;from
+Q188399;Central Bohemian Region;категория для людей, похороненных здесь;1;1;from
+Q188399;Central Bohemian Region;категория для людей, связанных с местностью;1;1;from
+Q188399;Central Bohemian Region;расположение штаб-квартиры;1;4;from
+Q188399;Central Bohemian Region;административно-территориальная единица;1;60;to
+Q188373;South Bohemian Region;географические координаты;1;1;from
+Q188373;South Bohemian Region;является столицей;1;1;to
+Q188373;South Bohemian Region;Who's on First ID;1;1;from
+Q188373;South Bohemian Region;код NKC;1;1;from
+Q188373;South Bohemian Region;Czech region ID;1;1;from
+Q188373;South Bohemian Region;категория карт на Викискладе;1;1;from
+Q188373;South Bohemian Region;официальный сайт;1;1;from
+Q188373;South Bohemian Region;FIPS 10-4 (страны и регионы);1;1;from
+Q188373;South Bohemian Region;основная категория по теме;1;1;from
+Q188373;South Bohemian Region;баннер Викигида;1;1;from
+Q188373;South Bohemian Region;место в MusicBrainz;1;1;from
+Q188373;South Bohemian Region;владельцем является;1;55;to
+Q188373;South Bohemian Region;зона обслуживания;1;1;to
+Q188373;South Bohemian Region;место погребения;1;5;to
+Q188373;South Bohemian Region;место рождения;1;9;to
+Q188373;South Bohemian Region;материнская компания (организация, учреждение);1;100;to
+Q188373;South Bohemian Region;категория объединяет темы;1;16;to
+Q188373;South Bohemian Region;основатель;1;7;to
+Q188373;South Bohemian Region;юрисдикция распространяется на;1;1;to
+Q188373;South Bohemian Region;место смерти;1;2;to
+Q188373;South Bohemian Region;изображённый объект;1;1;to
+Q188373;South Bohemian Region;местонахождение;1;2;to
+Q188373;South Bohemian Region;ответственность несёт;1;1;to
+Q188373;South Bohemian Region;общая тема категории;1;1;to
+Q188373;South Bohemian Region;категория содержит;1;1;to
+Q188399;Central Bohemian Region;владеет;1;31;from
+Q188399;Central Bohemian Region;не путать с;1;1;to
+Q188399;Central Bohemian Region;высота над уровнем моря;1;1;from
+Q188399;Central Bohemian Region;площадь;1;1;from
+Q188399;Central Bohemian Region;баннер Викигида;1;1;from
+Q188399;Central Bohemian Region;место в MusicBrainz;1;1;from
+Q188399;Central Bohemian Region;владельцем является;1;31;to
+Q188399;Central Bohemian Region;место смерти;1;3;to
+Q188399;Central Bohemian Region;зона обслуживания;1;1;to
+Q188399;Central Bohemian Region;материнская компания (организация, учреждение);1;162;to
+Q188399;Central Bohemian Region;место рождения;1;13;to
+Q188399;Central Bohemian Region;место погребения;1;2;to
+Q188399;Central Bohemian Region;оператор;1;2;to
+Q188399;Central Bohemian Region;юрисдикция распространяется на;1;3;to
+Q188399;Central Bohemian Region;основатель;1;14;to
+Q188399;Central Bohemian Region;названо в честь;1;1;to
+Q188399;Central Bohemian Region;история происходит в месте;1;1;to
+Q188399;Central Bohemian Region;категория объединяет темы;1;26;to
+Q188399;Central Bohemian Region;лицензия на вещание в;1;1;to
+Q188399;Central Bohemian Region;местонахождение;1;2;to
+Q188399;Central Bohemian Region;находится в пределах природно-географического объекта;1;1;to
+Q188399;Central Bohemian Region;управляемая организация;1;1;to
+Q188399;Central Bohemian Region;изображённый объект;1;1;to
+Q188399;Central Bohemian Region;общая тема категории;1;1;to
+Q188399;Central Bohemian Region;анклав в;1;1;to
+Q190550;Moravian-Silesian Region;административно-территориальная единица;1;55;to
+Q190550;Moravian-Silesian Region;административно делится на;1;2;to
+Q188399;Central Bohemian Region;основная категория по теме;1;1;from
+Q188399;Central Bohemian Region;FIPS 10-4 (страны и регионы);1;1;from
+Q188399;Central Bohemian Region;официальный сайт;1;1;from
+Q188399;Central Bohemian Region;Czech Registration ID;1;1;from
+Q188399;Central Bohemian Region;должность руководителя организации;1;1;from
+Q188399;Central Bohemian Region;код BNF;1;1;from
+Q188399;Central Bohemian Region;постоянный дубликат;1;2;to
+Q188399;Central Bohemian Region;ISO 3166-2;1;2;from
+Q188399;Central Bohemian Region;идентификатор Ringgold;1;1;from
+Q188399;Central Bohemian Region;дочерние компании (организации, учреждения);1;37;from
+Q188399;Central Bohemian Region;категория на Викискладе;1;1;from
+Q188399;Central Bohemian Region;геоданные;1;1;from
+Q188399;Central Bohemian Region;код автомобильного номера;1;1;from
+Q188399;Central Bohemian Region;ID отношения в OpenStreetMap;1;1;from
+Q188399;Central Bohemian Region;часовой пояс;1;2;from
+Q188399;Central Bohemian Region;категория карт на Викискладе;1;1;from
+Q188399;Central Bohemian Region;код тезауруса PACTOLS;1;1;from
+Q188399;Central Bohemian Region;средний возраст;1;1;from
+Q188399;Central Bohemian Region;идентификатор местоположения ArchINFORM;1;1;from
+Q188399;Central Bohemian Region;дата основания/создания/возникновения;1;1;from
+Q188399;Central Bohemian Region;код NUTS;1;1;from
+Q188399;Central Bohemian Region;географические координаты;1;1;from
+Q188399;Central Bohemian Region;код Freebase;1;1;from
+Q188399;Central Bohemian Region;Who's on First ID;1;1;from
+Q188399;Central Bohemian Region;код NKC;1;1;from
+Q188399;Central Bohemian Region;Czech region ID;1;1;from
+Q188373;South Bohemian Region;код Freebase;1;1;from
+Q188373;South Bohemian Region;код NUTS;1;1;from
+Q190550;Moravian-Silesian Region;государство;1;1;from
+Q46070;Plzeň Region;ISO 3166-2;1;2;from
+Q46070;Plzeň Region;категория на Викискладе;1;1;from
+Q46070;Plzeň Region;геоданные;1;1;from
+Q46070;Plzeň Region;код автомобильного номера;1;1;from
+Q46070;Plzeň Region;ID отношения в OpenStreetMap;1;1;from
+Q46070;Plzeň Region;Czech Registration ID;1;1;from
+Q46070;Plzeň Region;часовой пояс;1;2;from
+Q46070;Plzeň Region;средний возраст;1;1;from
+Q46070;Plzeň Region;идентификатор местоположения ArchINFORM;1;1;from
+Q46070;Plzeň Region;дата основания/создания/возникновения;1;1;from
+Q46070;Plzeň Region;код NUTS;1;1;from
+Q46070;Plzeň Region;географические координаты;1;1;from
+Q46070;Plzeň Region;код Freebase;1;1;from
+Q46070;Plzeň Region;Who's on First ID;1;1;from
+Q46070;Plzeň Region;код NKC;1;1;from
+Q46070;Plzeň Region;Czech region ID;1;1;from
+Q46070;Plzeň Region;категория карт на Викискладе;1;1;from
+Q46070;Plzeň Region;официальный сайт;1;1;from
+Q46070;Plzeň Region;FIPS 10-4 (страны и регионы);1;1;from
+Q46070;Plzeň Region;основная категория по теме;1;1;from
+Q46070;Plzeň Region;баннер Викигида;1;1;from
+Q46070;Plzeň Region;место в MusicBrainz;1;1;from
+Q46070;Plzeň Region;местонахождение;1;1;to
+Q46070;Plzeň Region;место рождения;1;5;to
+Q46070;Plzeň Region;дочерние компании (организации, учреждения);1;70;from
+Q46070;Plzeň Region;площадь;1;1;from
+Q188373;South Bohemian Region;дата основания/создания/возникновения;1;1;from
+Q46070;Plzeň Region;высота над уровнем моря;1;1;from
+Q46070;Plzeň Region;расположение штаб-квартиры;1;4;from
+Q46070;Plzeň Region;государство;1;1;from
+Q46070;Plzeň Region;изображение;1;1;from
+Q46070;Plzeň Region;код VIAF;1;1;from
+Q46070;Plzeň Region;код GND;1;1;from
+Q46070;Plzeň Region;карта местонахождения;1;1;from
+Q46070;Plzeň Region;это частный случай понятия;1;1;from
+Q46070;Plzeň Region;столица;1;1;from
+Q46070;Plzeň Region;изображение флага;1;1;from
+Q46070;Plzeň Region;имеет границы с;1;5;to
+Q46070;Plzeň Region;глава правительства;1;14;from
+Q46070;Plzeň Region;изображение герба;1;1;from
+Q46070;Plzeň Region;десятичная классификация Дьюи;1;1;from
+Q46070;Plzeň Region;численность населения;1;16;from
+Q46070;Plzeň Region;официальное название;1;1;from
+Q46070;Plzeň Region;организационно-правовая форма;1;1;from
+Q46070;Plzeň Region;категория для людей, родившихся здесь;1;1;from
+Q46070;Plzeň Region;категория для людей, умерших здесь;1;1;from
+Q46070;Plzeň Region;код GeoNames;1;1;from
+Q46070;Plzeň Region;название на языке оригинала;1;1;from
+Q46070;Plzeň Region;категория для людей, похороненных здесь;1;1;from
+Q46070;Plzeň Region;категория для людей, связанных с местностью;1;1;from
+Q46070;Plzeň Region;владеет;1;28;from
+Q46070;Plzeň Region;зона обслуживания;1;1;to
+Q46070;Plzeň Region;материнская компания (организация, учреждение);1;70;to
+Q46070;Plzeň Region;место погребения;1;3;to
+Q46070;Plzeň Region;основатель;1;5;to
+Q188373;South Bohemian Region;организационно-правовая форма;1;1;from
+Q188373;South Bohemian Region;категория для людей, родившихся здесь;1;1;from
+Q188373;South Bohemian Region;категория для людей, умерших здесь;1;1;from
+Q188373;South Bohemian Region;код GeoNames;1;1;from
+Q188373;South Bohemian Region;название на языке оригинала;1;1;from
+Q188373;South Bohemian Region;категория для людей, похороненных здесь;1;1;from
+Q188373;South Bohemian Region;категория для людей, связанных с местностью;1;1;from
+Q188373;South Bohemian Region;владеет;1;55;from
+Q188373;South Bohemian Region;не путать с;1;1;to
+Q188373;South Bohemian Region;высота над уровнем моря;1;1;from
+Q188373;South Bohemian Region;площадь;1;1;from
+Q188373;South Bohemian Region;почтовый индекс;1;1;from
+Q188373;South Bohemian Region;ISO 3166-2;1;2;from
+Q188373;South Bohemian Region;дочерние компании (организации, учреждения);1;25;from
+Q188373;South Bohemian Region;категория на Викискладе;1;1;from
+Q188373;South Bohemian Region;геоданные;1;1;from
+Q188373;South Bohemian Region;код автомобильного номера;1;1;from
+Q188373;South Bohemian Region;ID отношения в OpenStreetMap;1;1;from
+Q188373;South Bohemian Region;Czech Registration ID;1;1;from
+Q188373;South Bohemian Region;часовой пояс;1;2;from
+Q188373;South Bohemian Region;код тезауруса PACTOLS;1;1;from
+Q188373;South Bohemian Region;средний возраст;1;1;from
+Q188373;South Bohemian Region;идентификатор местоположения ArchINFORM;1;1;from
+Q188373;South Bohemian Region;официальное название;1;1;from
+Q188373;South Bohemian Region;частично совпадает с;1;1;to
+Q188373;South Bohemian Region;код в Большой каталанской энциклопедии;1;1;from
+Q188373;South Bohemian Region;государство;1;1;from
+Q46070;Plzeň Region;категория объединяет темы;1;19;to
+Q46070;Plzeň Region;владельцем является;1;28;to
+Q46070;Plzeň Region;юрисдикция распространяется на;1;1;to
+Q46070;Plzeň Region;награда от;1;1;to
+Q46070;Plzeň Region;изображённый объект;1;1;to
+Q46070;Plzeň Region;общая тема категории;1;1;to
+Q46070;Plzeň Region;является столицей;1;1;to
+Q188373;South Bohemian Region;административно-территориальная единица;1;36;to
+Q188373;South Bohemian Region;административно делится на;1;2;to
+Q188373;South Bohemian Region;расположение штаб-квартиры;1;1;to
+Q188373;South Bohemian Region;изображение;1;1;from
+Q188373;South Bohemian Region;численность населения;1;16;from
+Q188373;South Bohemian Region;код VIAF;1;1;from
+Q188373;South Bohemian Region;код GND;1;1;from
+Q188373;South Bohemian Region;карта местонахождения;1;1;from
+Q188373;South Bohemian Region;это частный случай понятия;1;1;from
+Q188373;South Bohemian Region;столица;1;1;from
+Q188373;South Bohemian Region;изображение флага;1;1;from
+Q188373;South Bohemian Region;имеет границы с;1;6;to
+Q188373;South Bohemian Region;глава правительства;1;5;from
+Q188373;South Bohemian Region;изображение герба;1;1;from
+Q188373;South Bohemian Region;десятичная классификация Дьюи;1;1;from
+Q190550;Moravian-Silesian Region;расположение штаб-квартиры;1;1;to
+Q190550;Moravian-Silesian Region;изображение;1;1;from
+Q192536;Zlín Region;категория для людей, умерших здесь;1;1;from
+Q191091;Karlovy Vary Region;карта местонахождения;1;1;from
+Q191091;Karlovy Vary Region;столица;1;1;from
+Q191091;Karlovy Vary Region;изображение флага;1;1;from
+Q191091;Karlovy Vary Region;имеет границы с;1;4;to
+Q191091;Karlovy Vary Region;глава правительства;1;18;from
+Q191091;Karlovy Vary Region;изображение герба;1;1;from
+Q191091;Karlovy Vary Region;десятичная классификация Дьюи;1;1;from
+Q191091;Karlovy Vary Region;численность населения;1;16;from
+Q191091;Karlovy Vary Region;официальное название;1;1;from
+Q191091;Karlovy Vary Region;организационно-правовая форма;1;1;from
+Q191091;Karlovy Vary Region;категория для людей, родившихся здесь;1;1;from
+Q191091;Karlovy Vary Region;категория для людей, умерших здесь;1;1;from
+Q191091;Karlovy Vary Region;код GeoNames;1;1;from
+Q191091;Karlovy Vary Region;название на языке оригинала;1;1;from
+Q191091;Karlovy Vary Region;категория для людей, похороненных здесь;1;1;from
+Q191091;Karlovy Vary Region;категория для людей, связанных с местностью;1;1;from
+Q191091;Karlovy Vary Region;владеет;1;4;from
+Q191091;Karlovy Vary Region;высота над уровнем моря;1;1;from
+Q191091;Karlovy Vary Region;площадь;1;1;from
+Q191091;Karlovy Vary Region;используемый язык;1;1;from
+Q191091;Karlovy Vary Region;ISO 3166-2;1;2;from
+Q191091;Karlovy Vary Region;дочерние компании (организации, учреждения);1;10;from
+Q191091;Karlovy Vary Region;категория на Викискладе;1;1;from
+Q191091;Karlovy Vary Region;геоданные;1;1;from
+Q191091;Karlovy Vary Region;это частный случай понятия;1;1;from
+Q191091;Karlovy Vary Region;код GND;1;1;from
+Q190930;Vysočina Region;FIPS 10-4 (страны и регионы);1;1;from
+Q191091;Karlovy Vary Region;код VIAF;1;1;from
+Q190930;Vysočina Region;баннер Викигида;1;1;from
+Q190930;Vysočina Region;место в MusicBrainz;1;1;from
+Q190930;Vysočina Region;владельцем является;1;20;to
+Q190930;Vysočina Region;ответственность несёт;1;1;to
+Q190930;Vysočina Region;зона обслуживания;1;1;to
+Q190930;Vysočina Region;материнская компания (организация, учреждение);1;53;to
+Q190930;Vysočina Region;место смерти;1;1;to
+Q190930;Vysočina Region;место погребения;1;1;to
+Q190930;Vysočina Region;названо в честь;1;1;to
+Q190930;Vysočina Region;основатель;1;4;to
+Q190930;Vysočina Region;категория объединяет темы;1;24;to
+Q190930;Vysočina Region;является столицей;1;1;to
+Q190930;Vysočina Region;находится в пределах природно-географического объекта;1;1;to
+Q190930;Vysočina Region;юрисдикция распространяется на;1;2;to
+Q190930;Vysočina Region;место рождения;1;2;to
+Q190930;Vysočina Region;награда от;1;5;to
+Q190930;Vysočina Region;управляемая организация;1;1;to
+Q190930;Vysočina Region;общая тема категории;1;1;to
+Q191091;Karlovy Vary Region;административно-территориальная единица;1;41;to
+Q191091;Karlovy Vary Region;административно делится на;1;2;to
+Q191091;Karlovy Vary Region;расположение штаб-квартиры;1;4;from
+Q191091;Karlovy Vary Region;государство;1;1;from
+Q191091;Karlovy Vary Region;изображение;1;1;from
+Q191091;Karlovy Vary Region;код автомобильного номера;1;1;from
+Q191091;Karlovy Vary Region;ID отношения в OpenStreetMap;1;1;from
+Q191091;Karlovy Vary Region;Czech Registration ID;1;1;from
+Q191091;Karlovy Vary Region;часовой пояс;1;2;from
+Q191091;Karlovy Vary Region;местонахождение;1;1;to
+Q191091;Karlovy Vary Region;место погребения;1;2;to
+Q192536;Zlín Region;административно-территориальная единица;1;36;to
+Q192536;Zlín Region;административно делится на;1;2;to
+Q192536;Zlín Region;расположение штаб-квартиры;1;2;from
+Q192536;Zlín Region;государство;1;1;from
+Q192536;Zlín Region;изображение;1;1;from
+Q192536;Zlín Region;код ISNI;1;1;from
+Q192536;Zlín Region;код VIAF;1;1;from
+Q192536;Zlín Region;код GND;1;1;from
+Q192536;Zlín Region;карта местонахождения;1;1;from
+Q192536;Zlín Region;это частный случай понятия;1;1;from
+Q192536;Zlín Region;столица;1;1;from
+Q192536;Zlín Region;изображение флага;1;1;from
+Q192536;Zlín Region;имеет границы с;1;3;to
+Q192536;Zlín Region;глава правительства;1;11;from
+Q192536;Zlín Region;изображение герба;1;1;from
+Q192536;Zlín Region;десятичная классификация Дьюи;1;1;from
+Q192536;Zlín Region;численность населения;1;16;from
+Q192536;Zlín Region;код LEI;1;1;from
+Q192536;Zlín Region;официальное название;1;1;from
+Q192536;Zlín Region;организационно-правовая форма;1;1;from
+Q192536;Zlín Region;категория для людей, родившихся здесь;1;1;from
+Q191091;Karlovy Vary Region;общая тема категории;1;1;to
+Q191091;Karlovy Vary Region;является столицей;1;1;to
+Q191091;Karlovy Vary Region;юрисдикция распространяется на;1;1;to
+Q191091;Karlovy Vary Region;официальный сайт;1;1;from
+Q191091;Karlovy Vary Region;средний возраст;1;1;from
+Q191091;Karlovy Vary Region;идентификатор местоположения ArchINFORM;1;1;from
+Q191091;Karlovy Vary Region;дата основания/создания/возникновения;1;1;from
+Q191091;Karlovy Vary Region;код NUTS;1;1;from
+Q191091;Karlovy Vary Region;географические координаты;1;1;from
+Q191091;Karlovy Vary Region;код Freebase;1;1;from
+Q191091;Karlovy Vary Region;Who's on First ID;1;1;from
+Q191091;Karlovy Vary Region;код NKC;1;1;from
+Q191091;Karlovy Vary Region;Czech region ID;1;1;from
+Q191091;Karlovy Vary Region;категория карт на Викискладе;1;1;from
+Q191091;Karlovy Vary Region;FIPS 10-4 (страны и регионы);1;1;from
+Q191091;Karlovy Vary Region;владельцем является;1;4;to
+Q191091;Karlovy Vary Region;основная категория по теме;1;1;from
+Q191091;Karlovy Vary Region;баннер Викигида;1;1;from
+Q191091;Karlovy Vary Region;место в MusicBrainz;1;1;from
+Q191091;Karlovy Vary Region;пример использования свойства;1;1;to
+Q191091;Karlovy Vary Region;происходит из;1;1;to
+Q191091;Karlovy Vary Region;зона обслуживания;1;1;to
+Q191091;Karlovy Vary Region;материнская компания (организация, учреждение);1;30;to
+Q191091;Karlovy Vary Region;категория объединяет темы;1;20;to
+Q191091;Karlovy Vary Region;место смерти;1;1;to
+Q191091;Karlovy Vary Region;основатель;1;6;to
+Q190930;Vysočina Region;основная категория по теме;1;1;from
+Q190930;Vysočina Region;официальный сайт;1;1;from
+Q190550;Moravian-Silesian Region;код ISNI;1;1;from
+Q190550;Moravian-Silesian Region;дочерние компании (организации, учреждения);1;37;from
+Q190550;Moravian-Silesian Region;геоданные;1;1;from
+Q190550;Moravian-Silesian Region;код автомобильного номера;1;1;from
+Q190550;Moravian-Silesian Region;ID отношения в OpenStreetMap;1;1;from
+Q190550;Moravian-Silesian Region;Czech Registration ID;1;1;from
+Q190550;Moravian-Silesian Region;средний возраст;1;1;from
+Q190550;Moravian-Silesian Region;идентификатор местоположения ArchINFORM;1;1;from
+Q190550;Moravian-Silesian Region;код NUTS;1;1;from
+Q190550;Moravian-Silesian Region;географические координаты;1;1;from
+Q190550;Moravian-Silesian Region;код Freebase;1;1;from
+Q190550;Moravian-Silesian Region;Who's on First ID;1;1;from
+Q190550;Moravian-Silesian Region;код NKC;1;1;from
+Q190550;Moravian-Silesian Region;Czech region ID;1;1;from
+Q190550;Moravian-Silesian Region;WorldCat Identities ID;1;1;from
+Q190550;Moravian-Silesian Region;категория карт на Викискладе;1;1;from
+Q190550;Moravian-Silesian Region;официальный сайт;1;1;from
+Q190550;Moravian-Silesian Region;FIPS 10-4 (страны и регионы);1;1;from
+Q190550;Moravian-Silesian Region;основная категория по теме;1;1;from
+Q190550;Moravian-Silesian Region;место в MusicBrainz;1;1;from
+Q190550;Moravian-Silesian Region;материнская компания (организация, учреждение);1;156;to
+Q190550;Moravian-Silesian Region;зона обслуживания;1;2;to
+Q190550;Moravian-Silesian Region;место рождения;1;2;to
+Q190550;Moravian-Silesian Region;место смерти;1;2;to
+Q190550;Moravian-Silesian Region;место погребения;1;3;to
+Q190550;Moravian-Silesian Region;категория на Викискладе;1;1;from
+Q190550;Moravian-Silesian Region;идентификатор Ringgold;1;1;from
+Q190930;Vysočina Region;категория карт на Викискладе;1;1;from
+Q190550;Moravian-Silesian Region;ISO 3166-2;1;2;from
+Q190550;Moravian-Silesian Region;код VIAF;1;1;from
+Q190550;Moravian-Silesian Region;код GND;1;1;from
+Q190550;Moravian-Silesian Region;карта местонахождения;1;1;from
+Q190550;Moravian-Silesian Region;это частный случай понятия;1;1;from
+Q190550;Moravian-Silesian Region;столица;1;1;from
+Q190550;Moravian-Silesian Region;изображение флага;1;1;from
+Q190550;Moravian-Silesian Region;имеет границы с;1;2;to
+Q190550;Moravian-Silesian Region;глава правительства;1;11;from
+Q190550;Moravian-Silesian Region;изображение герба;1;1;from
+Q190550;Moravian-Silesian Region;десятичная классификация Дьюи;1;1;from
+Q190550;Moravian-Silesian Region;численность населения;1;16;from
+Q190550;Moravian-Silesian Region;код LEI;1;1;from
+Q190550;Moravian-Silesian Region;должность главы правительства;1;1;from
+Q190550;Moravian-Silesian Region;официальное название;1;1;from
+Q190550;Moravian-Silesian Region;организационно-правовая форма;1;1;from
+Q190550;Moravian-Silesian Region;категория для людей, родившихся здесь;1;1;from
+Q190550;Moravian-Silesian Region;категория для людей, умерших здесь;1;1;from
+Q190550;Moravian-Silesian Region;код GeoNames;1;1;from
+Q190550;Moravian-Silesian Region;категория для людей, похороненных здесь;1;1;from
+Q190550;Moravian-Silesian Region;категория для людей, связанных с местностью;1;1;from
+Q190550;Moravian-Silesian Region;позиционная карта;1;1;from
+Q190550;Moravian-Silesian Region;высота над уровнем моря;1;1;from
+Q190550;Moravian-Silesian Region;площадь;1;1;from
+Q190550;Moravian-Silesian Region;категория объединяет темы;1;19;to
+Q190550;Moravian-Silesian Region;юрисдикция распространяется на;1;2;to
+Q190550;Moravian-Silesian Region;общая тема категории;1;1;to
+Q190550;Moravian-Silesian Region;изображённый объект;1;1;to
+Q190930;Vysočina Region;категория для людей, связанных с местностью;1;1;from
+Q190930;Vysočina Region;владеет;1;20;from
+Q190930;Vysočina Region;высота над уровнем моря;1;1;from
+Q190930;Vysočina Region;площадь;1;2;from
+Q190930;Vysočina Region;должность руководителя организации;1;1;from
+Q190930;Vysočina Region;код BabelNet;1;1;from
+Q190930;Vysočina Region;ISO 3166-2;1;2;from
+Q190930;Vysočina Region;дочерние компании (организации, учреждения);1;21;from
+Q190930;Vysočina Region;часть от;1;1;to
+Q190930;Vysočina Region;категория на Викискладе;1;1;from
+Q190930;Vysočina Region;геоданные;1;1;from
+Q190930;Vysočina Region;код автомобильного номера;1;1;from
+Q190930;Vysočina Region;ID отношения в OpenStreetMap;1;1;from
+Q190930;Vysočina Region;Czech Registration ID;1;1;from
+Q190930;Vysočina Region;средний возраст;1;1;from
+Q190930;Vysočina Region;идентификатор местоположения ArchINFORM;1;1;from
+Q190930;Vysočina Region;дата основания/создания/возникновения;1;1;from
+Q190930;Vysočina Region;код NUTS;1;1;from
+Q190930;Vysočina Region;географические координаты;1;1;from
+Q190930;Vysočina Region;код Freebase;1;1;from
+Q190930;Vysočina Region;Who's on First ID;1;1;from
+Q190930;Vysočina Region;код NKC;1;1;from
+Q190930;Vysočina Region;Czech region ID;1;1;from
+Q190930;Vysočina Region;категория для людей, похороненных здесь;1;1;from
+Q190930;Vysočina Region;код GeoNames;1;1;from
+Q190930;Vysočina Region;категория для людей, умерших здесь;1;1;from
+Q190930;Vysočina Region;карта местонахождения;1;1;from
+Q190550;Moravian-Silesian Region;управляемая организация;1;1;to
+Q190550;Moravian-Silesian Region;основатель;1;1;to
+Q190550;Moravian-Silesian Region;является столицей;1;1;to
+Q190930;Vysočina Region;административно-территориальная единица;1;40;to
+Q190930;Vysočina Region;административно делится на;1;2;to
+Q190930;Vysočina Region;расположение штаб-квартиры;1;4;from
+Q190930;Vysočina Region;государство;1;1;from
+Q190930;Vysočina Region;изображение;1;1;from
+Q190930;Vysočina Region;код VIAF;1;1;from
+Q190930;Vysočina Region;код GND;1;1;from
+Q190930;Vysočina Region;это частный случай понятия;1;1;from
+Q190930;Vysočina Region;категория для людей, родившихся здесь;1;1;from
+Q190930;Vysočina Region;столица;1;1;from
+Q190930;Vysočina Region;изображение флага;1;1;from
+Q190930;Vysočina Region;имеет границы с;1;4;to
+Q190930;Vysočina Region;глава правительства;1;8;from
+Q190930;Vysočina Region;изображение герба;1;1;from
+Q190930;Vysočina Region;десятичная классификация Дьюи;1;1;from
+Q190930;Vysočina Region;численность населения;1;16;from
+Q190930;Vysočina Region;код LEI;1;1;from
+Q190930;Vysočina Region;официальное название;1;8;from
+Q190930;Vysočina Region;организационно-правовая форма;1;1;from
+Q193317;Pardubice Region;является столицей;1;1;to

@@ -1,0 +1,548 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q81725;KwaZulu-Natal;административно-территориальная единица;1;2350;to
+Q134907;Limpopo;Who's on First ID;1;1;from
+Q134907;Limpopo;ID отношения в OpenStreetMap;1;1;from
+Q134907;Limpopo;часовой пояс;1;1;from
+Q134907;Limpopo;дата основания/создания/возникновения;1;1;from
+Q134907;Limpopo;код в Ларуссе;1;1;from
+Q134907;Limpopo;географические координаты;1;1;from
+Q134907;Limpopo;код Freebase;1;1;from
+Q134907;Limpopo;категория карт на Викискладе;1;1;from
+Q160284;Free State;площадь;1;1;from
+Q134907;Limpopo;официальный сайт;1;1;from
+Q134907;Limpopo;FIPS 10-4 (страны и регионы);1;1;from
+Q134907;Limpopo;основная категория по теме;1;1;from
+Q134907;Limpopo;баннер Викигида;1;1;from
+Q134907;Limpopo;место в MusicBrainz;1;1;from
+Q134907;Limpopo;dmoz;1;1;from
+Q134907;Limpopo;категория на Викискладе;1;1;from
+Q134907;Limpopo;ISO 3166-2;1;1;from
+Q134907;Limpopo;используемый язык;1;4;from
+Q134907;Limpopo;местонахождение;1;2;to
+Q134907;Limpopo;площадь;1;1;from
+Q134907;Limpopo;высота над уровнем моря;1;1;from
+Q134907;Limpopo;категория для людей, связанных с местностью;1;1;from
+Q134907;Limpopo;название на языке оригинала;1;2;from
+Q134907;Limpopo;код GeoNames;1;1;from
+Q134907;Limpopo;категория для людей, родившихся здесь;1;1;from
+Q134907;Limpopo;официальное название;1;2;from
+Q134907;Limpopo;код в энциклопедии «Британника онлайн»;1;1;from
+Q134907;Limpopo;должность главы правительства;1;1;from
+Q134907;Limpopo;численность населения;1;3;from
+Q134907;Limpopo;глава правительства;1;11;from
+Q134907;Limpopo;имеет границы с;1;8;to
+Q134907;Limpopo;изображение флага;1;1;from
+Q134907;Limpopo;место рождения;1;16;to
+Q134907;Limpopo;является столицей;1;1;to
+Q134907;Limpopo;обитатель;1;1;to
+Q160284;Free State;исполнительная власть;1;1;from
+Q160284;Free State;название на языке оригинала;1;2;from
+Q160284;Free State;код GeoNames;1;1;from
+Q160284;Free State;категория для людей, родившихся здесь;1;1;from
+Q160284;Free State;официальное название;1;2;from
+Q160284;Free State;код в энциклопедии «Британника онлайн»;1;1;from
+Q160284;Free State;заменил;1;1;from
+Q160284;Free State;должность главы правительства;1;1;from
+Q160284;Free State;численность населения;1;1;from
+Q160284;Free State;глава правительства;1;17;from
+Q160284;Free State;имеет границы с;1;14;to
+Q160284;Free State;изображение флага;1;1;from
+Q160284;Free State;столица;1;1;from
+Q160284;Free State;это частный случай понятия;1;1;from
+Q160284;Free State;карта местонахождения;1;1;from
+Q160284;Free State;законодательный орган;1;1;from
+Q134907;Limpopo;расположение штаб-квартиры;1;2;to
+Q160284;Free State;изображение;1;1;from
+Q160284;Free State;государство;1;1;from
+Q160284;Free State;административно делится на;1;1;to
+Q160284;Free State;административно-территориальная единица;1;1217;to
+Q134907;Limpopo;член спортивной команды;1;1;to
+Q134907;Limpopo;занимает ту же территорию с;1;1;to
+Q134907;Limpopo;юрисдикция распространяется на;1;6;to
+Q134907;Limpopo;место жительства;1;1;to
+Q134907;Limpopo;изображённый объект;1;1;to
+Q134907;Limpopo;общая тема категории;1;1;to
+Q134907;Limpopo;происходит из;1;4;to
+Q134907;Limpopo;категория объединяет темы;1;4;to
+Q134907;Limpopo;основная тема;1;252;to
+Q134907;Limpopo;место смерти;1;1;to
+Q134907;Limpopo;столица;1;1;from
+Q134907;Limpopo;это частный случай понятия;1;1;from
+Q134907;Limpopo;код LCNAF;1;1;from
+Q133083;Gauteng;владеет;1;1;from
+Q133083;Gauteng;географические координаты;1;1;from
+Q133083;Gauteng;код в Ларуссе;1;1;from
+Q133083;Gauteng;дата основания/создания/возникновения;1;1;from
+Q133083;Gauteng;идентификатор местоположения ArchINFORM;1;1;from
+Q133083;Gauteng;часовой пояс;1;1;from
+Q133083;Gauteng;ID отношения в OpenStreetMap;1;1;from
+Q133083;Gauteng;категория на Викискладе;1;1;from
+Q133083;Gauteng;код темы Quora;1;1;from
+Q133083;Gauteng;ISO 3166-2;1;2;from
+Q133083;Gauteng;используемый язык;1;9;from
+Q133083;Gauteng;местонахождение;1;4;to
+Q133083;Gauteng;площадь;1;1;from
+Q133083;Gauteng;высота над уровнем моря;1;1;from
+Q133083;Gauteng;UN/LOCODE;1;1;from
+Q133083;Gauteng;категория для людей, связанных с местностью;1;1;from
+Q133083;Gauteng;Who's on First ID;1;1;from
+Q133083;Gauteng;название на языке оригинала;1;2;from
+Q133083;Gauteng;код TGN;1;1;from
+Q133083;Gauteng;код GeoNames;1;1;from
+Q133083;Gauteng;категория для людей, умерших здесь;1;1;from
+Q133083;Gauteng;категория для людей, родившихся здесь;1;1;from
+Q133083;Gauteng;официальное название;1;3;from
+Q133083;Gauteng;код в энциклопедии «Британника онлайн»;1;1;from
+Q133083;Gauteng;должность главы правительства;1;1;from
+Q133083;Gauteng;код в Большой каталанской энциклопедии;1;1;from
+Q133083;Gauteng;численность населения;1;1;from
+Q133083;Gauteng;десятичная классификация Дьюи;1;1;from
+Q133083;Gauteng;глава правительства;1;17;from
+Q133083;Gauteng;имеет границы с;1;4;to
+Q133083;Gauteng;изображение флага;1;1;from
+Q133083;Gauteng;код Freebase;1;1;from
+Q133083;Gauteng;категория карт на Викискладе;1;1;from
+Q134907;Limpopo;карта местонахождения;1;1;from
+Q133083;Gauteng;общая тема категории;1;1;to
+Q134907;Limpopo;исполнительная власть;1;1;from
+Q134907;Limpopo;законодательный орган;1;1;from
+Q134907;Limpopo;изображение;1;1;from
+Q134907;Limpopo;государство;1;1;to
+Q134907;Limpopo;административно делится на;1;1;to
+Q134907;Limpopo;названо в честь;1;1;from
+Q134907;Limpopo;административно-территориальная единица;1;255;to
+Q133083;Gauteng;город-побратим;1;1;to
+Q133083;Gauteng;является столицей;1;1;to
+Q133083;Gauteng;часть от;1;1;to
+Q133083;Gauteng;зона обслуживания;1;1;to
+Q133083;Gauteng;занимает ту же территорию с;1;1;to
+Q133083;Gauteng;изображённый объект;1;1;to
+Q133083;Gauteng;юрисдикция распространяется на;1;6;to
+Q133083;Gauteng;место создания;1;1;to
+Q133083;Gauteng;официальный сайт;1;1;from
+Q133083;Gauteng;место жительства;1;2;to
+Q133083;Gauteng;история происходит в месте;1;1;to
+Q133083;Gauteng;категория объединяет темы;1;6;to
+Q133083;Gauteng;следующее по порядку;1;1;to
+Q133083;Gauteng;владельцем является;1;1;to
+Q133083;Gauteng;место смерти;1;4;to
+Q133083;Gauteng;названо в честь;1;1;to
+Q133083;Gauteng;место рождения;1;20;to
+Q133083;Gauteng;происходит из;1;8;to
+Q133083;Gauteng;dmoz;1;1;from
+Q133083;Gauteng;место в MusicBrainz;1;1;from
+Q133083;Gauteng;баннер Викигида;1;1;from
+Q133083;Gauteng;основная категория по теме;1;1;from
+Q133083;Gauteng;FIPS 10-4 (страны и регионы);1;1;from
+Q160284;Free State;высота над уровнем моря;1;1;from
+Q160284;Free State;используемый язык;1;4;from
+Q133083;Gauteng;это частный случай понятия;1;1;from
+Q190959;Transvaal Province;площадь;1;1;from
+Q190959;Transvaal Province;код US National Archives;1;1;from
+Q190959;Transvaal Province;код в Большой каталанской энциклопедии;1;1;from
+Q190959;Transvaal Province;описывается в источниках;1;2;from
+Q190959;Transvaal Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q190959;Transvaal Province;категория для людей, родившихся здесь;1;1;from
+Q190959;Transvaal Province;код GeoNames;1;1;from
+Q190959;Transvaal Province;местонахождение;1;1;from
+Q160284;Free State;ISO 3166-2;1;1;from
+Q190959;Transvaal Province;категория на Викискладе;1;1;from
+Q190959;Transvaal Province;код ASC Leiden Thesaurus;1;1;from
+Q190959;Transvaal Province;идентификатор местоположения ArchINFORM;1;1;from
+Q190959;Transvaal Province;дата основания/создания/возникновения;1;1;from
+Q190959;Transvaal Province;дата прекращения существования;1;1;from
+Q190959;Transvaal Province;географические координаты;1;1;from
+Q190959;Transvaal Province;изображение герба;1;1;from
+Q190959;Transvaal Province;изображение флага;1;1;from
+Q190959;Transvaal Province;денежная единица;1;1;from
+Q190959;Transvaal Province;официальный язык;1;2;from
+Q190959;Transvaal Province;столица;1;1;from
+Q190959;Transvaal Province;это частный случай понятия;1;1;from
+Q190959;Transvaal Province;карта местонахождения;1;1;from
+Q190959;Transvaal Province;государство;1;1;from
+Q190959;Transvaal Province;описание флага;1;1;from
+Q190959;Transvaal Province;следующее по порядку;1;1;to
+Q190959;Transvaal Province;предыдущее по порядку;1;1;to
+Q165956;North West;происходит из;1;1;to
+Q165956;North West;занимает ту же территорию с;1;1;to
+Q165956;North West;изображённый объект;1;1;to
+Q165956;North West;общая тема категории;1;1;to
+Q165956;North West;категория объединяет темы;1;3;to
+Q165956;North West;является столицей;1;1;to
+Q190959;Transvaal Province;код Freebase;1;1;from
+Q190959;Transvaal Province;FIPS 10-4 (страны и регионы);1;1;from
+Q190959;Transvaal Province;галерея на Викискладе;1;1;from
+Q1971200;Orange Free State Province;денежная единица;1;1;from
+Q1971200;Orange Free State Province;место рождения;1;1;to
+Q1971200;Orange Free State Province;заменил;1;1;to
+Q1971200;Orange Free State Province;географические координаты;1;1;from
+Q1971200;Orange Free State Province;дата прекращения существования;1;1;from
+Q1971200;Orange Free State Province;дата основания/создания/возникновения;1;1;from
+Q1971200;Orange Free State Province;используемый язык;1;2;from
+Q1971200;Orange Free State Province;площадь;1;1;from
+Q1971200;Orange Free State Province;название на языке оригинала;1;2;from
+Q1971200;Orange Free State Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q1971200;Orange Free State Province;заменён на;1;1;from
+Q1971200;Orange Free State Province;описывается в источниках;1;1;from
+Q1971200;Orange Free State Province;численность населения;1;1;from
+Q1971200;Orange Free State Province;изображение герба;1;1;from
+Q1971200;Orange Free State Province;изображение флага;1;1;from
+Q1971200;Orange Free State Province;официальный язык;1;2;from
+Q190959;Transvaal Province;место рождения;1;33;to
+Q1971200;Orange Free State Province;столица;1;1;from
+Q1971200;Orange Free State Province;это частный случай понятия;1;2;from
+Q1971200;Orange Free State Province;код LCNAF;1;1;from
+Q1971200;Orange Free State Province;карта местонахождения;1;1;from
+Q1971200;Orange Free State Province;код VIAF;1;1;from
+Q1971200;Orange Free State Province;государство;1;1;from
+Q1971200;Orange Free State Province;описание флага;1;1;from
+Q190959;Transvaal Province;категория объединяет темы;1;1;to
+Q190959;Transvaal Province;названо в честь;1;1;to
+Q190959;Transvaal Province;история происходит в месте;1;2;to
+Q190959;Transvaal Province;место смерти;1;3;to
+Q190959;Transvaal Province;административно-территориальная единица;1;3;to
+Q190959;Transvaal Province;основная тема;1;2;to
+Q190959;Transvaal Province;общая тема категории;1;1;to
+Q165956;North West;место рождения;1;3;to
+Q165956;North West;юрисдикция распространяется на;1;6;to
+Q165956;North West;dmoz;1;1;from
+Q160284;Free State;место рождения;1;11;to
+Q165956;North West;административно делится на;1;1;to
+Q165956;North West;административно-территориальная единица;1;626;to
+Q160284;Free State;является столицей;1;1;to
+Q160284;Free State;категория объединяет темы;1;3;to
+Q160284;Free State;занимает ту же территорию с;1;1;to
+Q160284;Free State;изображённый объект;1;1;to
+Q160284;Free State;общая тема категории;1;1;to
+Q160284;Free State;место смерти;1;1;to
+Q160284;Free State;происходит из;1;4;to
+Q160284;Free State;расположение штаб-квартиры;1;2;to
+Q160284;Free State;заменён на;1;1;to
+Q160284;Free State;юрисдикция распространяется на;1;6;to
+Q160284;Free State;состоит из;1;1;to
+Q160284;Free State;названо в честь;1;1;to
+Q160284;Free State;dmoz;1;1;from
+Q165956;North West;изображение;1;1;from
+Q160284;Free State;место в MusicBrainz;1;1;from
+Q160284;Free State;баннер Викигида;1;1;from
+Q160284;Free State;основная категория по теме;1;1;from
+Q160284;Free State;FIPS 10-4 (страны и регионы);1;1;from
+Q160284;Free State;официальный сайт;1;1;from
+Q160284;Free State;Who's on First ID;1;1;from
+Q160284;Free State;код Freebase;1;1;from
+Q160284;Free State;географические координаты;1;1;from
+Q160284;Free State;дата основания/создания/возникновения;1;1;from
+Q160284;Free State;идентификатор местоположения ArchINFORM;1;1;from
+Q160284;Free State;часовой пояс;1;1;from
+Q160284;Free State;ID отношения в OpenStreetMap;1;1;from
+Q160284;Free State;категория на Викискладе;1;1;from
+Q160284;Free State;код темы Quora;1;1;from
+Q165956;North West;государство;1;1;from
+Q165956;North West;законодательный орган;1;1;from
+Q165956;North West;место в MusicBrainz;1;1;from
+Q165956;North West;используемый язык;1;1;from
+Q165956;North West;баннер Викигида;1;1;from
+Q165956;North West;основная категория по теме;1;1;from
+Q165956;North West;FIPS 10-4 (страны и регионы);1;1;from
+Q165956;North West;официальный сайт;1;1;from
+Q165956;North West;Who's on First ID;1;1;from
+Q165956;North West;код Freebase;1;1;from
+Q165956;North West;географические координаты;1;1;from
+Q165956;North West;дата основания/создания/возникновения;1;1;from
+Q165956;North West;идентификатор местоположения ArchINFORM;1;1;from
+Q165956;North West;часовой пояс;1;1;from
+Q165956;North West;ID отношения в OpenStreetMap;1;1;from
+Q165956;North West;категория на Викискладе;1;1;from
+Q165956;North West;код темы Quora;1;1;from
+Q165956;North West;ISO 3166-2;1;1;from
+Q165956;North West;местонахождение;1;1;from
+Q165956;North West;исполнительная власть;1;1;from
+Q165956;North West;площадь;1;1;from
+Q165956;North West;высота над уровнем моря;1;1;from
+Q165956;North West;категория для людей, связанных с местностью;1;1;from
+Q165956;North West;код GeoNames;1;1;from
+Q165956;North West;категория для людей, родившихся здесь;1;1;from
+Q165956;North West;код в энциклопедии «Британника онлайн»;1;1;from
+Q165956;North West;должность главы правительства;1;1;from
+Q165956;North West;численность населения;1;2;from
+Q165956;North West;глава правительства;1;17;from
+Q165956;North West;имеет границы с;1;8;to
+Q165956;North West;изображение флага;1;1;from
+Q165956;North West;столица;1;1;from
+Q165956;North West;это частный случай понятия;1;1;from
+Q165956;North West;карта местонахождения;1;1;from
+Q133083;Gauteng;столица;1;1;from
+Q133083;Gauteng;карта местонахождения;1;1;from
+Q81725;KwaZulu-Natal;административно делится на;1;1;to
+Q127167;Western Cape;FIPS 10-4 (страны и регионы);1;1;from
+Q127167;Western Cape;идентификатор местоположения ArchINFORM;1;1;from
+Q127167;Western Cape;дата основания/создания/возникновения;1;1;from
+Q127167;Western Cape;географические координаты;1;1;from
+Q127167;Western Cape;код Freebase;1;1;from
+Q127167;Western Cape;Who's on First ID;1;1;from
+Q127167;Western Cape;официальный сайт;1;1;from
+Q127167;Western Cape;основная категория по теме;1;1;from
+Q130840;Eastern Cape;ISO 3166-2;1;1;from
+Q127167;Western Cape;баннер Викигида;1;1;from
+Q127167;Western Cape;место в MusicBrainz;1;1;from
+Q127167;Western Cape;dmoz;1;1;from
+Q127167;Western Cape;является эндемиком в;1;4;to
+Q127167;Western Cape;место смерти;1;2;to
+Q127167;Western Cape;категория объединяет темы;1;3;to
+Q127167;Western Cape;часовой пояс;1;1;from
+Q127167;Western Cape;ID отношения в OpenStreetMap;1;1;from
+Q127167;Western Cape;категория на Викискладе;1;1;from
+Q127167;Western Cape;ISO 3166-2;1;1;from
+Q127167;Western Cape;используемый язык;1;3;from
+Q127167;Western Cape;площадь;1;1;from
+Q127167;Western Cape;высота над уровнем моря;1;1;from
+Q127167;Western Cape;название на языке оригинала;1;3;from
+Q127167;Western Cape;подробная карта;1;1;from
+Q127167;Western Cape;код GeoNames;1;1;from
+Q127167;Western Cape;категория для людей, умерших здесь;1;1;from
+Q127167;Western Cape;категория для людей, родившихся здесь;1;1;from
+Q127167;Western Cape;код в энциклопедии «Британника онлайн»;1;1;from
+Q127167;Western Cape;должность главы правительства;1;1;from
+Q127167;Western Cape;численность населения;1;10;from
+Q127167;Western Cape;глава правительства;1;3;from
+Q127167;Western Cape;имеет границы с;1;2;to
+Q127167;Western Cape;часть от;1;3;to
+Q127167;Western Cape;местонахождение;1;4;to
+Q127167;Western Cape;место рождения;1;8;to
+Q130840;Eastern Cape;это частный случай понятия;1;1;from
+Q130840;Eastern Cape;площадь;1;1;from
+Q130840;Eastern Cape;высота над уровнем моря;1;1;from
+Q130840;Eastern Cape;категория для людей, связанных с местностью;1;1;from
+Q130840;Eastern Cape;название на языке оригинала;1;3;from
+Q130840;Eastern Cape;код GeoNames;1;1;from
+Q130840;Eastern Cape;категория для людей, умерших здесь;1;1;from
+Q130840;Eastern Cape;категория для людей, родившихся здесь;1;1;from
+Q130840;Eastern Cape;код в энциклопедии «Британника онлайн»;1;1;from
+Q130840;Eastern Cape;должность главы правительства;1;1;from
+Q130840;Eastern Cape;численность населения;1;1;from
+Q130840;Eastern Cape;глава правительства;1;20;from
+Q130840;Eastern Cape;имеет границы с;1;7;to
+Q130840;Eastern Cape;изображение флага;1;1;from
+Q130840;Eastern Cape;столица;1;1;from
+Q130840;Eastern Cape;код LCNAF;1;1;from
+Q127167;Western Cape;происходит из;1;1;to
+Q130840;Eastern Cape;карта местонахождения;1;1;from
+Q130840;Eastern Cape;исполнительная власть;1;1;from
+Q130840;Eastern Cape;законодательный орган;1;1;from
+Q130840;Eastern Cape;изображение;1;1;from
+Q130840;Eastern Cape;государство;1;1;from
+Q130840;Eastern Cape;административно делится на;1;1;to
+Q130840;Eastern Cape;административно-территориальная единица;1;4158;to
+Q127167;Western Cape;город-побратим;1;1;to
+Q127167;Western Cape;является столицей;1;1;to
+Q127167;Western Cape;занимает ту же территорию с;1;1;to
+Q127167;Western Cape;юрисдикция распространяется на;1;9;to
+Q127167;Western Cape;изображённый объект;1;1;to
+Q127167;Western Cape;общая тема категории;1;1;to
+Q127167;Western Cape;расположение штаб-квартиры;1;1;to
+Q127167;Western Cape;официальный язык;1;4;from
+Q127167;Western Cape;столица;1;1;from
+Q127167;Western Cape;это частный случай понятия;1;1;from
+Q81725;KwaZulu-Natal;официальное название;1;3;from
+Q81725;KwaZulu-Natal;дата основания/создания/возникновения;1;1;from
+Q81725;KwaZulu-Natal;идентификатор местоположения ArchINFORM;1;1;from
+Q81725;KwaZulu-Natal;часовой пояс;1;1;from
+Q81725;KwaZulu-Natal;ID отношения в OpenStreetMap;1;1;from
+Q81725;KwaZulu-Natal;категория на Викискладе;1;1;from
+Q81725;KwaZulu-Natal;ISO 3166-2;1;2;from
+Q81725;KwaZulu-Natal;используемый язык;1;5;from
+Q81725;KwaZulu-Natal;площадь;1;1;from
+Q81725;KwaZulu-Natal;высота над уровнем моря;1;1;from
+Q81725;KwaZulu-Natal;категория для людей, связанных с местностью;1;1;from
+Q81725;KwaZulu-Natal;название на языке оригинала;1;3;from
+Q81725;KwaZulu-Natal;код GeoNames;1;1;from
+Q81725;KwaZulu-Natal;категория для людей, умерших здесь;1;1;from
+Q81725;KwaZulu-Natal;категория для людей, родившихся здесь;1;1;from
+Q81725;KwaZulu-Natal;код в энциклопедии «Британника онлайн»;1;1;from
+Q81725;KwaZulu-Natal;код Freebase;1;1;from
+Q81725;KwaZulu-Natal;описывается в источниках;1;2;from
+Q81725;KwaZulu-Natal;должность главы правительства;1;1;from
+Q81725;KwaZulu-Natal;численность населения;1;1;from
+Q81725;KwaZulu-Natal;глава правительства;1;23;from
+Q81725;KwaZulu-Natal;имеет границы с;1;9;to
+Q81725;KwaZulu-Natal;изображение флага;1;1;from
+Q81725;KwaZulu-Natal;столица;1;1;from
+Q81725;KwaZulu-Natal;это частный случай понятия;1;1;to
+Q81725;KwaZulu-Natal;карта местонахождения;1;1;from
+Q81725;KwaZulu-Natal;исполнительная власть;1;1;from
+Q81725;KwaZulu-Natal;законодательный орган;1;1;from
+Q81725;KwaZulu-Natal;город-побратим;1;1;to
+Q81725;KwaZulu-Natal;изображение;1;1;from
+Q81725;KwaZulu-Natal;государство;1;1;from
+Q81725;KwaZulu-Natal;географические координаты;1;1;from
+Q81725;KwaZulu-Natal;Who's on First ID;1;1;from
+Q127167;Western Cape;карта местонахождения;1;1;from
+Q81725;KwaZulu-Natal;происходит из;1;5;to
+Q127167;Western Cape;описание герба;1;1;from
+Q127167;Western Cape;исполнительная власть;1;1;from
+Q127167;Western Cape;законодательный орган;1;1;from
+Q127167;Western Cape;государство;1;1;from
+Q127167;Western Cape;административно делится на;1;1;to
+Q127167;Western Cape;административно-территориальная единица;1;4883;to
+Q81725;KwaZulu-Natal;место создания;1;1;to
+Q81725;KwaZulu-Natal;является эндемиком в;1;1;to
+Q81725;KwaZulu-Natal;занимает ту же территорию с;1;1;to
+Q81725;KwaZulu-Natal;юрисдикция распространяется на;1;6;to
+Q81725;KwaZulu-Natal;изображённый объект;1;2;to
+Q81725;KwaZulu-Natal;общая тема категории;1;1;to
+Q81725;KwaZulu-Natal;место жительства;1;1;to
+Q81725;KwaZulu-Natal;расположение штаб-квартиры;1;1;to
+Q81725;KwaZulu-Natal;часть от;1;1;to
+Q81725;KwaZulu-Natal;категория карт на Викискладе;1;1;from
+Q81725;KwaZulu-Natal;основная тема;1;774;to
+Q81725;KwaZulu-Natal;является столицей;1;1;to
+Q81725;KwaZulu-Natal;категория объединяет темы;1;6;to
+Q81725;KwaZulu-Natal;пункт назначения;1;1;to
+Q81725;KwaZulu-Natal;место смерти;1;10;to
+Q81725;KwaZulu-Natal;место рождения;1;29;to
+Q81725;KwaZulu-Natal;местонахождение;1;3;to
+Q81725;KwaZulu-Natal;dmoz;1;1;from
+Q81725;KwaZulu-Natal;место в MusicBrainz;1;1;from
+Q81725;KwaZulu-Natal;баннер Викигида;1;1;from
+Q81725;KwaZulu-Natal;основная категория по теме;1;1;from
+Q81725;KwaZulu-Natal;FIPS 10-4 (страны и регионы);1;1;from
+Q81725;KwaZulu-Natal;официальный сайт;1;1;from
+Q81725;KwaZulu-Natal;Analysis & Policy Observatory term ID;1;1;from
+Q130840;Eastern Cape;используемый язык;1;4;from
+Q130840;Eastern Cape;категория на Викискладе;1;1;from
+Q133083;Gauteng;код GND;1;1;from
+Q132418;Northern Cape;официальное название;1;1;from
+Q132418;Northern Cape;изображение флага;1;1;from
+Q132418;Northern Cape;имеет границы с;1;7;to
+Q132418;Northern Cape;глава правительства;1;14;from
+Q132418;Northern Cape;численность населения;1;1;from
+Q132418;Northern Cape;должность главы правительства;1;1;from
+Q132418;Northern Cape;код в энциклопедии «Британника онлайн»;1;1;from
+Q132418;Northern Cape;категория для людей, родившихся здесь;1;1;from
+Q130840;Eastern Cape;ID отношения в OpenStreetMap;1;1;from
+Q132418;Northern Cape;код GeoNames;1;1;from
+Q132418;Northern Cape;название на языке оригинала;1;1;from
+Q132418;Northern Cape;категория для людей, связанных с местностью;1;1;from
+Q132418;Northern Cape;высота над уровнем моря;1;1;from
+Q132418;Northern Cape;площадь;1;1;from
+Q132418;Northern Cape;используемый язык;1;6;from
+Q132418;Northern Cape;столица;1;1;from
+Q132418;Northern Cape;это частный случай понятия;1;1;from
+Q132418;Northern Cape;карта местонахождения;1;1;from
+Q132418;Northern Cape;исполнительная власть;1;1;from
+Q132418;Northern Cape;законодательный орган;1;1;from
+Q132418;Northern Cape;изображение;1;1;from
+Q132418;Northern Cape;государство;1;1;from
+Q132418;Northern Cape;административно делится на;1;1;to
+Q132418;Northern Cape;административно-территориальная единица;1;5750;to
+Q132410;Mpumalanga;пункт назначения;1;1;to
+Q132410;Mpumalanga;начало пути;1;1;to
+Q132410;Mpumalanga;место создания;1;1;to
+Q132410;Mpumalanga;занимает ту же территорию с;1;1;to
+Q132410;Mpumalanga;изображённый объект;1;1;to
+Q132410;Mpumalanga;общая тема категории;1;1;to
+Q132410;Mpumalanga;категория объединяет темы;1;4;to
+Q132410;Mpumalanga;происходит из;1;7;to
+Q132418;Northern Cape;ISO 3166-2;1;1;from
+Q132418;Northern Cape;категория на Викискладе;1;1;from
+Q132418;Northern Cape;ID отношения в OpenStreetMap;1;1;from
+Q132418;Northern Cape;место рождения;1;1;to
+Q133083;Gauteng;код VIAF;1;1;from
+Q133083;Gauteng;исполнительная власть;1;1;from
+Q133083;Gauteng;законодательный орган;1;1;from
+Q133083;Gauteng;изображение;1;1;from
+Q133083;Gauteng;государство;1;1;from
+Q133083;Gauteng;предыдущее по порядку;1;1;from
+Q133083;Gauteng;административно делится на;1;1;to
+Q133083;Gauteng;административно-территориальная единица;1;277;to
+Q132418;Northern Cape;местонахождение;1;3;to
+Q132418;Northern Cape;часть от;1;1;to
+Q132418;Northern Cape;занимает ту же территорию с;1;1;to
+Q132418;Northern Cape;изображённый объект;1;1;to
+Q132418;Northern Cape;общая тема категории;1;1;to
+Q132418;Northern Cape;место жительства;1;1;to
+Q132418;Northern Cape;категория объединяет темы;1;3;to
+Q132418;Northern Cape;часовой пояс;1;1;from
+Q132418;Northern Cape;происходит из;1;6;to
+Q132418;Northern Cape;юрисдикция распространяется на;1;6;to
+Q132418;Northern Cape;является столицей;1;1;to
+Q132418;Northern Cape;dmoz;1;1;from
+Q132418;Northern Cape;место в MusicBrainz;1;1;from
+Q132418;Northern Cape;баннер Викигида;1;1;from
+Q132418;Northern Cape;основная категория по теме;1;1;from
+Q132418;Northern Cape;FIPS 10-4 (страны и регионы);1;1;from
+Q132418;Northern Cape;официальный сайт;1;1;from
+Q132418;Northern Cape;Who's on First ID;1;1;from
+Q132418;Northern Cape;код Freebase;1;1;from
+Q132418;Northern Cape;географические координаты;1;1;from
+Q132418;Northern Cape;дата основания/создания/возникновения;1;1;from
+Q132418;Northern Cape;идентификатор местоположения ArchINFORM;1;1;from
+Q132410;Mpumalanga;юрисдикция распространяется на;1;6;to
+Q132410;Mpumalanga;является столицей;1;1;to
+Q132410;Mpumalanga;место рождения;1;11;to
+Q130840;Eastern Cape;является столицей;1;1;to
+Q132410;Mpumalanga;исполнительная власть;1;1;from
+Q132410;Mpumalanga;законодательный орган;1;1;from
+Q132410;Mpumalanga;город-побратим;1;1;to
+Q132410;Mpumalanga;государство;1;1;from
+Q132410;Mpumalanga;административно делится на;1;1;to
+Q132410;Mpumalanga;административно-территориальная единица;1;1373;to
+Q130840;Eastern Cape;занимает ту же территорию с;1;1;to
+Q130840;Eastern Cape;изображённый объект;1;1;to
+Q130840;Eastern Cape;общая тема категории;1;1;to
+Q130840;Eastern Cape;основная тема;1;1;to
+Q130840;Eastern Cape;юрисдикция распространяется на;1;6;to
+Q130840;Eastern Cape;происходит из;1;3;to
+Q130840;Eastern Cape;место смерти;1;1;to
+Q130840;Eastern Cape;местонахождение;1;3;to
+Q130840;Eastern Cape;категория объединяет темы;1;5;to
+Q132410;Mpumalanga;это частный случай понятия;1;1;from
+Q130840;Eastern Cape;место рождения;1;24;to
+Q130840;Eastern Cape;dmoz;1;1;from
+Q130840;Eastern Cape;место в MusicBrainz;1;1;from
+Q130840;Eastern Cape;баннер Викигида;1;1;from
+Q130840;Eastern Cape;основная категория по теме;1;1;from
+Q130840;Eastern Cape;FIPS 10-4 (страны и регионы);1;1;from
+Q130840;Eastern Cape;официальный сайт;1;1;from
+Q130840;Eastern Cape;Who's on First ID;1;1;from
+Q130840;Eastern Cape;Australian War Memorial ID;1;1;from
+Q130840;Eastern Cape;код Freebase;1;1;from
+Q130840;Eastern Cape;географические координаты;1;1;from
+Q130840;Eastern Cape;дата основания/создания/возникновения;1;1;from
+Q130840;Eastern Cape;идентификатор местоположения ArchINFORM;1;1;from
+Q130840;Eastern Cape;часовой пояс;1;1;from
+Q132410;Mpumalanga;карта местонахождения;1;1;from
+Q132410;Mpumalanga;столица;1;1;from
+Q132410;Mpumalanga;dmoz;1;2;from
+Q132410;Mpumalanga;категория на Викискладе;1;1;from
+Q132410;Mpumalanga;место в MusicBrainz;1;1;from
+Q132410;Mpumalanga;баннер Викигида;1;1;from
+Q132410;Mpumalanga;основная категория по теме;1;1;from
+Q132410;Mpumalanga;FIPS 10-4 (страны и регионы);1;1;from
+Q132410;Mpumalanga;официальный сайт;1;1;from
+Q132410;Mpumalanga;категория карт на Викискладе;1;1;from
+Q132410;Mpumalanga;Who's on First ID;1;1;from
+Q132410;Mpumalanga;код Freebase;1;1;from
+Q132410;Mpumalanga;географические координаты;1;1;from
+Q132410;Mpumalanga;дата основания/создания/возникновения;1;1;from
+Q132410;Mpumalanga;идентификатор местоположения ArchINFORM;1;1;from
+Q132410;Mpumalanga;произношение (звуковой файл);1;1;from
+Q132410;Mpumalanga;часовой пояс;1;1;from
+Q132410;Mpumalanga;ID отношения в OpenStreetMap;1;1;from
+Q132410;Mpumalanga;ISO 3166-2;1;1;from
+Q132410;Mpumalanga;изображение флага;1;1;from
+Q132410;Mpumalanga;используемый язык;1;7;from
+Q132410;Mpumalanga;местонахождение;1;4;to
+Q132410;Mpumalanga;площадь;1;1;from
+Q132410;Mpumalanga;высота над уровнем моря;1;1;from
+Q132410;Mpumalanga;категория для людей, связанных с местностью;1;1;from
+Q132410;Mpumalanga;название на языке оригинала;1;3;from
+Q132410;Mpumalanga;код GeoNames;1;1;from
+Q132410;Mpumalanga;категория для людей, родившихся здесь;1;1;from
+Q132410;Mpumalanga;официальное название;1;1;from
+Q132410;Mpumalanga;код в энциклопедии «Британника онлайн»;1;1;from
+Q132410;Mpumalanga;должность главы правительства;1;1;from
+Q132410;Mpumalanga;численность населения;1;3;from
+Q132410;Mpumalanga;глава правительства;1;14;from
+Q132410;Mpumalanga;имеет границы с;1;10;to
+Q1971200;Orange Free State Province;основная тема;1;1;to

@@ -1,0 +1,44 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q1302585;Broad Fourteens;государство;1;1;from
+Q55193594;Torge Plateau;это частный случай понятия;1;1;from
+Q55193580;Glacier Rise;SCAR Composite Gazetteer place ID;1;1;from
+Q55193580;Glacier Rise;географические координаты;1;1;from
+Q55193586;Polarsirkel Valley;часть света;1;1;from
+Q55193586;Polarsirkel Valley;это частный случай понятия;1;1;from
+Q55193586;Polarsirkel Valley;код GeoNames;1;1;from
+Q55193586;Polarsirkel Valley;SCAR Composite Gazetteer place ID;1;1;from
+Q55193586;Polarsirkel Valley;географические координаты;1;1;from
+Q55193594;Torge Plateau;часть света;1;1;from
+Q55193594;Torge Plateau;код GeoNames;1;1;from
+Q55193580;Glacier Rise;это частный случай понятия;1;1;from
+Q55193594;Torge Plateau;SCAR Composite Gazetteer place ID;1;1;from
+Q55193594;Torge Plateau;географические координаты;1;1;from
+Q55193595;Bungenstock Plateau;часть света;1;1;from
+Q55193595;Bungenstock Plateau;это частный случай понятия;1;1;from
+Q55193595;Bungenstock Plateau;код GeoNames;1;1;from
+Q55193595;Bungenstock Plateau;SCAR Composite Gazetteer place ID;1;1;from
+Q55193595;Bungenstock Plateau;географические координаты;1;1;from
+Q61613880;Conrad Rise;это частный случай понятия;1;1;from
+Q55193580;Glacier Rise;код GeoNames;1;1;from
+Q55193580;Glacier Rise;часть света;1;1;from
+Q1302585;Broad Fourteens;это частный случай понятия;1;1;from
+Q49000802;Mid-Cayman Rise;это частный случай понятия;1;1;from
+Q1302585;Broad Fourteens;географические координаты;1;1;from
+Q1302585;Broad Fourteens;названо в честь;1;1;to
+Q1302585;Broad Fourteens;местонахождение;1;1;to
+Q1302585;Broad Fourteens;основная тема;1;1;to
+Q4517871;Chukchi Cap;находится на берегу водоёма;1;1;from
+Q4517871;Chukchi Cap;это частный случай понятия;1;1;from
+Q4517871;Chukchi Cap;географические координаты;1;1;from
+Q49000802;Mid-Cayman Rise;находится на берегу водоёма;1;1;from
+Q55193573;Ice Sphinx Hole;часть света;1;1;from
+Q55193577;Charcot Ridge;географические координаты;1;1;from
+Q55193573;Ice Sphinx Hole;это частный случай понятия;1;1;from
+Q55193573;Ice Sphinx Hole;код GeoNames;1;1;from
+Q55193573;Ice Sphinx Hole;SCAR Composite Gazetteer place ID;1;1;from
+Q55193573;Ice Sphinx Hole;географические координаты;1;1;from
+Q55193577;Charcot Ridge;часть света;1;1;from
+Q55193577;Charcot Ridge;это частный случай понятия;1;1;from
+Q55193577;Charcot Ridge;код GeoNames;1;1;from
+Q55193577;Charcot Ridge;SCAR Composite Gazetteer place ID;1;1;from
+Q61613880;Conrad Rise;часть от;1;2;to

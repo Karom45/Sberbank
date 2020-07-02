@@ -1,0 +1,994 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q246963;Shim'a;административно-территориальная единица;1;2;from
+Q2889238;Eshkolot;Or Movement settlement ID;1;1;from
+Q2889225;HaOn;географические координаты;1;1;from
+Q2889225;HaOn;код Freebase;1;1;from
+Q2889225;HaOn;Who's on First ID;1;1;from
+Q2889225;HaOn;место жительства;1;1;to
+Q2889238;Eshkolot;основатель;1;1;from
+Q2889238;Eshkolot;административно-территориальная единица;1;1;from
+Q2889238;Eshkolot;государство;1;1;from
+Q2889238;Eshkolot;изображение;1;1;from
+Q2889238;Eshkolot;это частный случай понятия;1;2;from
+Q2889238;Eshkolot;численность населения;1;2;from
+Q2889238;Eshkolot;высота над уровнем моря;1;1;from
+Q2889238;Eshkolot;Израильский муниципальный код;1;1;from
+Q2889238;Eshkolot;категория на Викискладе;1;1;from
+Q2889238;Eshkolot;дата основания/создания/возникновения;1;1;from
+Q2888807;Ro'i;дата основания/создания/возникновения;1;1;from
+Q2889238;Eshkolot;географические координаты;1;1;from
+Q2889238;Eshkolot;код Freebase;1;1;from
+Q2889238;Eshkolot;официальный сайт;1;1;from
+Q2889475;Niran;основатель;1;1;from
+Q2889475;Niran;административно-территориальная единица;1;1;from
+Q2889475;Niran;государство;1;1;from
+Q2889475;Niran;это частный случай понятия;1;3;from
+Q2889475;Niran;численность населения;1;1;from
+Q2889475;Niran;код GeoNames;1;1;from
+Q2889475;Niran;высота над уровнем моря;1;1;from
+Q2889475;Niran;Израильский муниципальный код;1;1;from
+Q2889475;Niran;код в Еврейской энциклопедии Даат;1;1;from
+Q2889475;Niran;категория на Викискладе;1;1;from
+Q2889225;HaOn;дата основания/создания/возникновения;1;1;from
+Q2889225;HaOn;категория на Викискладе;1;1;from
+Q2889225;HaOn;Израильский муниципальный код;1;1;from
+Q2889225;HaOn;код TGN;1;1;from
+Q2889103;Shadmot Mehola;дата основания/создания/возникновения;1;1;from
+Q2889103;Shadmot Mehola;географические координаты;1;1;from
+Q2889103;Shadmot Mehola;код Freebase;1;1;from
+Q2889103;Shadmot Mehola;Who's on First ID;1;1;from
+Q2889103;Shadmot Mehola;официальный сайт;1;1;from
+Q2889103;Shadmot Mehola;код NLI;1;1;from
+Q2889103;Shadmot Mehola;место рождения;1;1;to
+Q2889134;Sansana;основатель;1;1;from
+Q2889134;Sansana;административно-территориальная единица;1;2;from
+Q2889134;Sansana;государство;1;1;from
+Q2889134;Sansana;изображение;1;1;from
+Q2889134;Sansana;это частный случай понятия;1;3;from
+Q2889134;Sansana;численность населения;1;1;from
+Q2889134;Sansana;код GeoNames;1;1;from
+Q2889134;Sansana;Израильский муниципальный код;1;2;from
+Q2889134;Sansana;категория на Викискладе;1;1;from
+Q2889134;Sansana;Or Movement settlement ID;1;1;from
+Q2889134;Sansana;дата основания/создания/возникновения;1;1;from
+Q2889134;Sansana;географические координаты;1;1;from
+Q2889134;Sansana;код Freebase;1;1;from
+Q2889134;Sansana;официальный сайт;1;1;from
+Q2889225;HaOn;административно-территориальная единица;1;1;from
+Q2889225;HaOn;государство;1;1;from
+Q2889225;HaOn;изображение;1;1;from
+Q2889225;HaOn;это частный случай понятия;1;3;from
+Q2889225;HaOn;численность населения;1;1;from
+Q2889225;HaOn;код GeoNames;1;1;from
+Q2889475;Niran;дата основания/создания/возникновения;1;2;from
+Q2889475;Niran;географические координаты;1;1;from
+Q2889475;Niran;код Freebase;1;1;from
+Q2889781;Holit;это частный случай понятия;1;3;from
+Q2889781;Holit;код GeoNames;1;1;from
+Q2889781;Holit;высота над уровнем моря;1;1;from
+Q2889781;Holit;Израильский муниципальный код;1;1;from
+Q2889781;Holit;категория на Викискладе;1;1;from
+Q2889781;Holit;часовой пояс;1;1;from
+Q2889781;Holit;Or Movement settlement ID;1;1;from
+Q2889781;Holit;дата основания/создания/возникновения;1;2;from
+Q2889781;Holit;географические координаты;1;1;from
+Q2889781;Holit;код Freebase;1;1;from
+Q2889781;Holit;Who's on First ID;1;1;from
+Q2889847;Beit Rimon;административно-территориальная единица;1;1;from
+Q2889847;Beit Rimon;государство;1;1;from
+Q2889847;Beit Rimon;изображение;1;1;from
+Q2889847;Beit Rimon;код VIAF;1;1;from
+Q2889847;Beit Rimon;это частный случай понятия;1;2;from
+Q2889847;Beit Rimon;численность населения;1;1;from
+Q2889847;Beit Rimon;высота над уровнем моря;1;1;from
+Q2889847;Beit Rimon;Израильский муниципальный код;1;1;from
+Q2889847;Beit Rimon;категория на Викискладе;1;1;from
+Q2889847;Beit Rimon;дата основания/создания/возникновения;1;1;from
+Q2889847;Beit Rimon;географические координаты;1;1;from
+Q2889847;Beit Rimon;код Freebase;1;1;from
+Q2889847;Beit Rimon;официальный сайт;1;1;from
+Q2890174;Eshbal;основатель;1;1;from
+Q2890174;Eshbal;административно-территориальная единица;1;1;from
+Q2890174;Eshbal;государство;1;1;from
+Q2890174;Eshbal;изображение;1;1;from
+Q2889781;Holit;численность населения;1;1;from
+Q2889781;Holit;изображение;1;1;from
+Q2889475;Niran;Who's on First ID;1;1;from
+Q2889781;Holit;государство;1;1;from
+Q2889503;Har Brakha;основатель;1;1;from
+Q2889503;Har Brakha;административно-территориальная единица;1;1;to
+Q2889503;Har Brakha;государство;1;1;from
+Q2889503;Har Brakha;это частный случай понятия;1;2;from
+Q2889503;Har Brakha;численность населения;1;1;from
+Q2889503;Har Brakha;код GeoNames;1;1;from
+Q2889503;Har Brakha;высота над уровнем моря;1;1;from
+Q2889503;Har Brakha;Израильский муниципальный код;1;1;from
+Q2889503;Har Brakha;категория на Викискладе;1;1;from
+Q2889503;Har Brakha;дата основания/создания/возникновения;1;1;from
+Q2889503;Har Brakha;географические координаты;1;1;from
+Q2889503;Har Brakha;код Freebase;1;1;from
+Q2889503;Har Brakha;Who's on First ID;1;1;from
+Q2889503;Har Brakha;официальный сайт;1;1;from
+Q2889523;Argaman;основатель;1;1;from
+Q2889523;Argaman;административно-территориальная единица;1;1;from
+Q2889523;Argaman;государство;1;1;from
+Q2889523;Argaman;это частный случай понятия;1;3;from
+Q2889523;Argaman;численность населения;1;2;from
+Q2889523;Argaman;код GeoNames;1;1;from
+Q2889523;Argaman;высота над уровнем моря;1;1;from
+Q2889523;Argaman;Израильский муниципальный код;1;1;from
+Q2889523;Argaman;дата основания/создания/возникновения;1;1;from
+Q2889523;Argaman;географические координаты;1;1;from
+Q2889523;Argaman;код Freebase;1;1;from
+Q2889523;Argaman;Who's on First ID;1;1;from
+Q2889781;Holit;административно-территориальная единица;1;1;from
+Q2889103;Shadmot Mehola;категория на Викискладе;1;1;from
+Q2889103;Shadmot Mehola;Израильский муниципальный код;1;1;from
+Q2889103;Shadmot Mehola;высота над уровнем моря;1;1;from
+Q2888855;Rotem, Bik'at HaYarden;высота над уровнем моря;1;1;from
+Q2888855;Rotem, Bik'at HaYarden;дата основания/создания/возникновения;1;2;from
+Q2888855;Rotem, Bik'at HaYarden;географические координаты;1;1;from
+Q2888855;Rotem, Bik'at HaYarden;код Freebase;1;1;from
+Q2888871;Telem, Har Hebron;административно-территориальная единица;1;2;from
+Q2888871;Telem, Har Hebron;изображение;1;1;from
+Q2888871;Telem, Har Hebron;это частный случай понятия;1;2;from
+Q2888871;Telem, Har Hebron;численность населения;1;1;from
+Q2888871;Telem, Har Hebron;код GeoNames;1;1;from
+Q2888871;Telem, Har Hebron;высота над уровнем моря;1;1;from
+Q2888871;Telem, Har Hebron;Израильский муниципальный код;1;1;from
+Q2888871;Telem, Har Hebron;Or Movement settlement ID;1;1;from
+Q2888871;Telem, Har Hebron;дата основания/создания/возникновения;1;1;from
+Q2888871;Telem, Har Hebron;географические координаты;1;1;from
+Q2888871;Telem, Har Hebron;код Freebase;1;1;from
+Q2888871;Telem, Har Hebron;Who's on First ID;1;1;from
+Q2888878;Shomria;административно-территориальная единица;1;1;from
+Q2888878;Shomria;государство;1;1;from
+Q2888878;Shomria;это частный случай понятия;1;2;from
+Q2888878;Shomria;численность населения;1;1;from
+Q2888878;Shomria;высота над уровнем моря;1;1;from
+Q2888878;Shomria;Израильский муниципальный код;1;1;from
+Q2888878;Shomria;категория на Викискладе;1;1;from
+Q2888878;Shomria;Or Movement settlement ID;1;1;from
+Q2888878;Shomria;дата основания/создания/возникновения;1;2;from
+Q2888878;Shomria;географические координаты;1;1;from
+Q2888878;Shomria;код Freebase;1;1;from
+Q2888878;Shomria;официальный сайт;1;1;from
+Q2888855;Rotem, Bik'at HaYarden;Израильский муниципальный код;1;1;from
+Q2888855;Rotem, Bik'at HaYarden;численность населения;1;1;from
+Q2888911;Mekhora;государство;1;1;from
+Q2888855;Rotem, Bik'at HaYarden;это частный случай понятия;1;2;from
+Q2888807;Ro'i;код Freebase;1;1;from
+Q2888816;Gilgal;административно-территориальная единица;1;1;from
+Q2888816;Gilgal;государство;1;1;from
+Q2888816;Gilgal;код VIAF;1;1;from
+Q2888816;Gilgal;код LCNAF;1;1;from
+Q2888816;Gilgal;это частный случай понятия;1;3;from
+Q2888816;Gilgal;численность населения;1;1;from
+Q2888816;Gilgal;высота над уровнем моря;1;1;from
+Q2888816;Gilgal;Израильский муниципальный код;1;1;from
+Q2888816;Gilgal;категория на Викискладе;1;1;from
+Q2888816;Gilgal;Israel Antiquities Authority ID;1;1;from
+Q2888816;Gilgal;дата основания/создания/возникновения;1;1;from
+Q2888816;Gilgal;географические координаты;1;1;from
+Q2888816;Gilgal;код Freebase;1;1;from
+Q2888849;Hemdat;основатель;1;1;from
+Q2888849;Hemdat;административно-территориальная единица;1;1;to
+Q2888849;Hemdat;изображение;1;1;from
+Q2888849;Hemdat;это частный случай понятия;1;2;from
+Q2888849;Hemdat;численность населения;1;1;from
+Q2888849;Hemdat;код GeoNames;1;1;from
+Q2888849;Hemdat;высота над уровнем моря;1;1;from
+Q2888849;Hemdat;Израильский муниципальный код;1;1;from
+Q2888849;Hemdat;дата основания/создания/возникновения;1;2;from
+Q2888849;Hemdat;географические координаты;1;1;from
+Q2888849;Hemdat;код Freebase;1;1;from
+Q2888849;Hemdat;Who's on First ID;1;1;from
+Q2888855;Rotem, Bik'at HaYarden;административно-территориальная единица;1;1;from
+Q2888911;Mekhora;административно-территориальная единица;1;1;from
+Q2888911;Mekhora;это частный случай понятия;1;3;from
+Q2889103;Shadmot Mehola;код GeoNames;1;1;from
+Q2889094;Adora, Har Hebron;дата основания/создания/возникновения;1;2;from
+Q2889094;Adora, Har Hebron;код Freebase;1;1;from
+Q2889094;Adora, Har Hebron;Who's on First ID;1;1;from
+Q2889097;Tzofar;административно-территориальная единица;1;1;from
+Q2889097;Tzofar;государство;1;1;from
+Q2889097;Tzofar;изображение;1;2;from
+Q2889097;Tzofar;код VIAF;1;1;from
+Q2889097;Tzofar;это частный случай понятия;1;3;from
+Q2889097;Tzofar;численность населения;1;1;from
+Q2889097;Tzofar;код GeoNames;1;1;from
+Q2889097;Tzofar;высота над уровнем моря;1;2;from
+Q2889097;Tzofar;площадь;1;1;from
+Q2889097;Tzofar;Израильский муниципальный код;1;1;from
+Q2889097;Tzofar;категория на Викискладе;1;1;from
+Q2889097;Tzofar;часовой пояс;1;1;from
+Q2889097;Tzofar;Or Movement settlement ID;1;1;from
+Q2889097;Tzofar;дата основания/создания/возникновения;1;2;from
+Q2889097;Tzofar;географические координаты;1;1;from
+Q2889097;Tzofar;код Freebase;1;1;from
+Q2889097;Tzofar;Who's on First ID;1;1;from
+Q2889097;Tzofar;код NLI;1;1;from
+Q2889103;Shadmot Mehola;основатель;1;1;from
+Q2889103;Shadmot Mehola;административно-территориальная единица;1;1;from
+Q2889103;Shadmot Mehola;государство;1;1;from
+Q2889103;Shadmot Mehola;изображение;1;1;from
+Q2889103;Shadmot Mehola;код VIAF;1;1;from
+Q2889103;Shadmot Mehola;это частный случай понятия;1;3;from
+Q2889103;Shadmot Mehola;численность населения;1;1;from
+Q2889094;Adora, Har Hebron;географические координаты;1;1;from
+Q2889094;Adora, Har Hebron;Or Movement settlement ID;1;1;from
+Q2888911;Mekhora;численность населения;1;1;from
+Q2889094;Adora, Har Hebron;категория на Викискладе;1;1;from
+Q2888911;Mekhora;код GeoNames;1;1;from
+Q2888911;Mekhora;высота над уровнем моря;1;1;from
+Q2888911;Mekhora;Израильский муниципальный код;1;1;from
+Q2888911;Mekhora;категория на Викискладе;1;1;from
+Q2888911;Mekhora;дата основания/создания/возникновения;1;1;from
+Q2888911;Mekhora;географические координаты;1;1;from
+Q2888911;Mekhora;код Freebase;1;1;from
+Q2888911;Mekhora;Who's on First ID;1;1;from
+Q2889082;Ma'ale Hever;административно-территориальная единица;1;1;from
+Q2889082;Ma'ale Hever;это частный случай понятия;1;2;from
+Q2889082;Ma'ale Hever;численность населения;1;1;from
+Q2889082;Ma'ale Hever;высота над уровнем моря;1;1;from
+Q2889082;Ma'ale Hever;Израильский муниципальный код;1;1;from
+Q2889082;Ma'ale Hever;категория на Викискладе;1;1;from
+Q2889082;Ma'ale Hever;название с огласовками;1;1;from
+Q2889082;Ma'ale Hever;дата основания/создания/возникновения;1;1;from
+Q2889082;Ma'ale Hever;географические координаты;1;1;from
+Q2889082;Ma'ale Hever;код Freebase;1;1;from
+Q2889082;Ma'ale Hever;официальный сайт;1;1;from
+Q2889094;Adora, Har Hebron;административно-территориальная единица;1;1;from
+Q2889094;Adora, Har Hebron;государство;1;1;from
+Q2889094;Adora, Har Hebron;изображение;1;1;from
+Q2889094;Adora, Har Hebron;это частный случай понятия;1;2;from
+Q2889094;Adora, Har Hebron;численность населения;1;2;from
+Q2889094;Adora, Har Hebron;код GeoNames;1;1;from
+Q2889094;Adora, Har Hebron;высота над уровнем моря;1;1;from
+Q2889094;Adora, Har Hebron;Израильский муниципальный код;1;1;from
+Q2890174;Eshbal;это частный случай понятия;1;2;from
+Q2890174;Eshbal;численность населения;1;2;from
+Q2890174;Eshbal;высота над уровнем моря;1;1;from
+Q2916614;Rosh Tzurim;категория на Викискладе;1;1;from
+Q2916614;Rosh Tzurim;географические координаты;1;1;from
+Q2916614;Rosh Tzurim;код Freebase;1;1;from
+Q2916614;Rosh Tzurim;Who's on First ID;1;1;from
+Q2916614;Rosh Tzurim;место рождения;1;1;to
+Q2916784;Gva'ot;административно-территориальная единица;1;1;to
+Q2916784;Gva'ot;государство;1;1;from
+Q2916784;Gva'ot;изображение;1;1;from
+Q2916784;Gva'ot;карта местонахождения;1;1;from
+Q2916784;Gva'ot;это частный случай понятия;1;4;from
+Q2916784;Gva'ot;категория на Викискладе;1;1;from
+Q2916784;Gva'ot;дата основания/создания/возникновения;1;1;from
+Q2916784;Gva'ot;географические координаты;1;1;from
+Q2916784;Gva'ot;код Freebase;1;1;from
+Q2917202;Maskiot;основатель;1;1;from
+Q2917202;Maskiot;административно-территориальная единица;1;2;from
+Q2917202;Maskiot;изображение;1;1;from
+Q2917202;Maskiot;это частный случай понятия;1;2;from
+Q2917202;Maskiot;численность населения;1;1;from
+Q2917202;Maskiot;высота над уровнем моря;1;1;from
+Q2917202;Maskiot;Израильский муниципальный код;1;1;from
+Q2917202;Maskiot;категория на Викискладе;1;1;from
+Q2917202;Maskiot;дата основания/создания/возникновения;1;1;from
+Q2917202;Maskiot;географические координаты;1;1;from
+Q2917202;Maskiot;код Freebase;1;1;from
+Q2920082;Tzur Natan;основатель;1;1;from
+Q2920082;Tzur Natan;административно-территориальная единица;1;1;from
+Q2920082;Tzur Natan;государство;1;1;from
+Q2916614;Rosh Tzurim;дата основания/создания/возникновения;1;1;from
+Q2916614;Rosh Tzurim;Израильский муниципальный код;1;1;from
+Q2920082;Tzur Natan;это частный случай понятия;1;3;from
+Q2916614;Rosh Tzurim;высота над уровнем моря;1;1;from
+Q2916000;Paran;дата основания/создания/возникновения;1;2;from
+Q2916000;Paran;географические координаты;1;1;from
+Q2916000;Paran;код Freebase;1;1;from
+Q2916000;Paran;место рождения;1;1;to
+Q2916536;Grofit;административно-территориальная единица;1;1;from
+Q2916536;Grofit;государство;1;1;from
+Q2916536;Grofit;изображение;1;1;from
+Q2916536;Grofit;код VIAF;1;1;from
+Q2916536;Grofit;это частный случай понятия;1;3;from
+Q2916536;Grofit;численность населения;1;1;from
+Q2916536;Grofit;код GeoNames;1;1;from
+Q2916536;Grofit;высота над уровнем моря;1;1;from
+Q2916536;Grofit;Израильский муниципальный код;1;1;from
+Q2916536;Grofit;категория на Викискладе;1;1;from
+Q2916536;Grofit;часовой пояс;1;1;from
+Q2916536;Grofit;Or Movement settlement ID;1;1;from
+Q2916536;Grofit;дата основания/создания/возникновения;1;1;from
+Q2916536;Grofit;географические координаты;1;1;from
+Q2916536;Grofit;код Freebase;1;1;from
+Q2916536;Grofit;Who's on First ID;1;1;from
+Q2916614;Rosh Tzurim;административно-территориальная единица;1;1;from
+Q2916614;Rosh Tzurim;государство;1;2;from
+Q2916614;Rosh Tzurim;изображение;1;1;from
+Q2916614;Rosh Tzurim;код VIAF;1;1;from
+Q2916614;Rosh Tzurim;это частный случай понятия;1;3;from
+Q2916614;Rosh Tzurim;численность населения;1;1;from
+Q2916614;Rosh Tzurim;код GeoNames;1;1;from
+Q2920082;Tzur Natan;изображение;1;1;from
+Q2920082;Tzur Natan;численность населения;1;1;from
+Q2916000;Paran;категория на Викискладе;1;1;from
+Q2920290;Eyal;это частный случай понятия;1;3;from
+Q2920290;Eyal;код GeoNames;1;1;from
+Q2920290;Eyal;высота над уровнем моря;1;1;from
+Q2920290;Eyal;площадь;1;1;from
+Q2920290;Eyal;почтовый индекс;1;1;from
+Q2920290;Eyal;Израильский муниципальный код;1;1;from
+Q2920290;Eyal;категория на Викискладе;1;1;from
+Q2920290;Eyal;часовой пояс;1;1;from
+Q2920290;Eyal;дата основания/создания/возникновения;1;1;from
+Q2920290;Eyal;географические координаты;1;1;from
+Q2920290;Eyal;код Freebase;1;1;from
+Q2920290;Eyal;Who's on First ID;1;1;from
+Q2920295;Nitzanei Oz;административно-территориальная единица;1;1;from
+Q2920295;Nitzanei Oz;государство;1;1;from
+Q2920295;Nitzanei Oz;изображение;1;1;from
+Q2920295;Nitzanei Oz;это частный случай понятия;1;3;from
+Q2920295;Nitzanei Oz;численность населения;1;1;from
+Q2920295;Nitzanei Oz;высота над уровнем моря;1;1;from
+Q2920295;Nitzanei Oz;площадь;1;1;from
+Q2920295;Nitzanei Oz;Израильский муниципальный код;1;1;from
+Q2920295;Nitzanei Oz;категория на Викискладе;1;1;from
+Q2920295;Nitzanei Oz;часовой пояс;1;1;from
+Q2920295;Nitzanei Oz;дата основания/создания/возникновения;1;1;from
+Q2920295;Nitzanei Oz;географические координаты;1;1;from
+Q2920295;Nitzanei Oz;код Freebase;1;1;from
+Q2920295;Nitzanei Oz;официальный сайт;1;1;from
+Q7634455;Sufa, Sinai;государство;1;1;from
+Q7634455;Sufa, Sinai;это частный случай понятия;1;1;from
+Q2920290;Eyal;численность населения;1;1;from
+Q2920290;Eyal;изображение;1;1;from
+Q2920082;Tzur Natan;код GeoNames;1;1;from
+Q2920290;Eyal;государство;1;1;from
+Q2920082;Tzur Natan;высота над уровнем моря;1;1;from
+Q2920082;Tzur Natan;площадь;1;1;from
+Q2920082;Tzur Natan;Израильский муниципальный код;1;1;from
+Q2920082;Tzur Natan;категория на Викискладе;1;1;from
+Q2920082;Tzur Natan;часовой пояс;1;1;from
+Q2920082;Tzur Natan;дата основания/создания/возникновения;1;1;from
+Q2920082;Tzur Natan;географические координаты;1;1;from
+Q2920082;Tzur Natan;код Freebase;1;1;from
+Q2920082;Tzur Natan;Who's on First ID;1;1;from
+Q2920082;Tzur Natan;названо в честь;1;1;to
+Q2920089;Magal;административно-территориальная единица;1;1;from
+Q2920089;Magal;государство;1;1;from
+Q2920089;Magal;изображение;1;1;from
+Q2920089;Magal;код VIAF;1;1;from
+Q2920089;Magal;это частный случай понятия;1;3;from
+Q2920089;Magal;численность населения;1;1;from
+Q2920089;Magal;код GeoNames;1;1;from
+Q2920089;Magal;высота над уровнем моря;1;1;from
+Q2920089;Magal;Израильский муниципальный код;1;1;from
+Q2920089;Magal;категория на Викискладе;1;1;from
+Q2920089;Magal;часовой пояс;1;1;from
+Q2920089;Magal;дата основания/создания/возникновения;1;1;from
+Q2920089;Magal;географические координаты;1;1;from
+Q2920089;Magal;код Freebase;1;1;from
+Q2920089;Magal;Who's on First ID;1;1;from
+Q2920089;Magal;место погребения;1;1;to
+Q2920290;Eyal;административно-территориальная единица;1;1;to
+Q2916000;Paran;Or Movement settlement ID;1;1;from
+Q2916000;Paran;Израильский муниципальный код;1;1;from
+Q2890174;Eshbal;почтовый индекс;1;1;from
+Q2890636;Metzar;код Freebase;1;1;from
+Q2890692;Bahan;государство;1;1;from
+Q2890692;Bahan;изображение;1;1;from
+Q2890692;Bahan;это частный случай понятия;1;3;from
+Q2890692;Bahan;численность населения;1;1;from
+Q2890692;Bahan;WOEID;1;1;from
+Q2890692;Bahan;код GeoNames;1;1;from
+Q2890692;Bahan;высота над уровнем моря;1;1;from
+Q2890692;Bahan;почтовый индекс;1;1;from
+Q2890692;Bahan;Израильский муниципальный код;1;1;from
+Q2890692;Bahan;категория на Викискладе;1;1;from
+Q2890692;Bahan;часовой пояс;1;1;from
+Q2890692;Bahan;дата основания/создания/возникновения;1;1;from
+Q2890692;Bahan;географические координаты;1;1;from
+Q2890692;Bahan;код Freebase;1;1;from
+Q2890692;Bahan;Who's on First ID;1;1;from
+Q2890692;Bahan;официальный сайт;1;1;from
+Q2890805;Mitzpe Shalem;основатель;1;1;from
+Q2890805;Mitzpe Shalem;административно-территориальная единица;1;1;from
+Q2890805;Mitzpe Shalem;государство;1;1;from
+Q2890805;Mitzpe Shalem;изображение;1;1;from
+Q2890805;Mitzpe Shalem;это частный случай понятия;1;3;from
+Q2890805;Mitzpe Shalem;численность населения;1;1;from
+Q2890805;Mitzpe Shalem;код GeoNames;1;1;from
+Q2890805;Mitzpe Shalem;высота над уровнем моря;1;1;from
+Q2890805;Mitzpe Shalem;Израильский муниципальный код;1;1;from
+Q2890805;Mitzpe Shalem;категория на Викискладе;1;1;from
+Q2890805;Mitzpe Shalem;дата основания/создания/возникновения;1;1;from
+Q2890692;Bahan;административно-территориальная единица;1;1;from
+Q2890636;Metzar;географические координаты;1;1;from
+Q2890805;Mitzpe Shalem;код Freebase;1;1;from
+Q2890636;Metzar;дата основания/создания/возникновения;1;1;from
+Q2890174;Eshbal;Израильский муниципальный код;1;1;from
+Q2890174;Eshbal;категория на Викискладе;1;1;from
+Q2890174;Eshbal;Rom Galil settlement ID;1;1;from
+Q2890174;Eshbal;дата основания/создания/возникновения;1;1;from
+Q2890174;Eshbal;географические координаты;1;1;from
+Q2890174;Eshbal;код Freebase;1;1;from
+Q2890269;Hoshaya;административно-территориальная единица;1;1;to
+Q2890269;Hoshaya;государство;1;1;from
+Q2890269;Hoshaya;изображение;1;1;from
+Q2890269;Hoshaya;это частный случай понятия;1;2;from
+Q2890269;Hoshaya;численность населения;1;1;from
+Q2890269;Hoshaya;высота над уровнем моря;1;1;from
+Q2890269;Hoshaya;почтовый индекс;1;1;from
+Q2890269;Hoshaya;Израильский муниципальный код;1;1;from
+Q2890269;Hoshaya;категория на Викискладе;1;1;from
+Q2890269;Hoshaya;дата основания/создания/возникновения;1;2;from
+Q2890269;Hoshaya;географические координаты;1;1;from
+Q2890269;Hoshaya;код Freebase;1;1;from
+Q2890269;Hoshaya;Who's on First ID;1;1;from
+Q2890636;Metzar;административно-территориальная единица;1;1;from
+Q2890636;Metzar;государство;1;1;from
+Q2890636;Metzar;это частный случай понятия;1;3;from
+Q2890636;Metzar;численность населения;1;1;from
+Q2890636;Metzar;высота над уровнем моря;1;1;from
+Q2890636;Metzar;Израильский муниципальный код;1;1;from
+Q2890636;Metzar;категория на Викискладе;1;1;from
+Q2890636;Metzar;Rom Galil settlement ID;1;1;from
+Q2890805;Mitzpe Shalem;географические координаты;1;1;from
+Q2890805;Mitzpe Shalem;Who's on First ID;1;1;from
+Q2916000;Paran;высота над уровнем моря;1;1;from
+Q2909935;Nisanit;часовой пояс;1;1;from
+Q2909935;Nisanit;дата прекращения существования;1;1;from
+Q2909935;Nisanit;географические координаты;1;1;from
+Q2909935;Nisanit;Who's on First ID;1;1;from
+Q2909935;Nisanit;административно делится на;1;1;to
+Q2909965;Eli-ad;основатель;1;1;from
+Q2909965;Eli-ad;административно-территориальная единица;1;1;to
+Q2909965;Eli-ad;государство;1;1;from
+Q2909965;Eli-ad;код VIAF;1;1;from
+Q2909965;Eli-ad;код LCNAF;1;1;from
+Q2909965;Eli-ad;это частный случай понятия;1;3;from
+Q2909965;Eli-ad;численность населения;1;2;from
+Q2909965;Eli-ad;высота над уровнем моря;1;1;from
+Q2909965;Eli-ad;Израильский муниципальный код;1;1;from
+Q2909965;Eli-ad;категория на Викискладе;1;1;from
+Q2909965;Eli-ad;часовой пояс;1;1;from
+Q2909965;Eli-ad;Rom Galil settlement ID;1;1;from
+Q2909965;Eli-ad;дата основания/создания/возникновения;1;1;from
+Q2909965;Eli-ad;географические координаты;1;1;from
+Q2909965;Eli-ad;код Freebase;1;1;from
+Q2916000;Paran;основатель;1;1;from
+Q2916000;Paran;административно-территориальная единица;1;1;from
+Q2916000;Paran;названо в честь;1;1;from
+Q2916000;Paran;государство;1;1;from
+Q2916000;Paran;изображение;1;1;from
+Q2916000;Paran;это частный случай понятия;1;1;from
+Q2916000;Paran;численность населения;1;1;from
+Q2916000;Paran;не путать с;1;1;to
+Q2909935;Nisanit;дата основания/создания/возникновения;1;1;from
+Q2909935;Nisanit;категория на Викискладе;1;1;from
+Q2906722;Biranit;это частный случай понятия;1;1;from
+Q2909935;Nisanit;Израильский муниципальный код;1;1;from
+Q2906722;Biranit;категория на Викискладе;1;1;from
+Q2906722;Biranit;географические координаты;1;1;from
+Q2906722;Biranit;код Freebase;1;1;from
+Q2909059;Slav;государство;1;1;from
+Q2909059;Slav;изображение;1;1;from
+Q2909059;Slav;это частный случай понятия;1;1;from
+Q2909059;Slav;Израильский муниципальный код;1;1;from
+Q2909059;Slav;дата основания/создания/возникновения;1;1;from
+Q2909059;Slav;дата прекращения существования;1;1;from
+Q2909059;Slav;географические координаты;1;1;from
+Q2909059;Slav;код Freebase;1;1;from
+Q2909059;Slav;административно делится на;1;1;to
+Q2909708;Homesh;административно-территориальная единица;1;1;from
+Q2909708;Homesh;изображение;1;2;from
+Q2909708;Homesh;это частный случай понятия;1;2;from
+Q2909708;Homesh;код GeoNames;1;1;from
+Q2909708;Homesh;категория на Викискладе;1;1;from
+Q2909708;Homesh;дата основания/создания/возникновения;1;1;from
+Q2909708;Homesh;дата прекращения существования;1;1;from
+Q2909708;Homesh;географические координаты;1;1;from
+Q2909708;Homesh;код Freebase;1;1;from
+Q2909708;Homesh;Who's on First ID;1;1;from
+Q2909935;Nisanit;государство;1;1;from
+Q2909935;Nisanit;изображение;1;1;from
+Q2909935;Nisanit;это частный случай понятия;1;2;from
+Q2909935;Nisanit;конечный результат;1;1;from
+Q2909935;Nisanit;код GeoNames;1;1;from
+Q2888807;Ro'i;географические координаты;1;1;from
+Q2888807;Ro'i;Израильский муниципальный код;1;1;from
+Q246963;Shim'a;изображение;1;1;from
+Q991346;Netzarim;категория на Викискладе;1;1;from
+Q960557;Sha'alvim;Израильский муниципальный код;1;1;from
+Q960557;Sha'alvim;категория на Викискладе;1;1;from
+Q960557;Sha'alvim;дата основания/создания/возникновения;1;1;from
+Q960557;Sha'alvim;географические координаты;1;1;from
+Q960557;Sha'alvim;код Freebase;1;1;from
+Q960557;Sha'alvim;Who's on First ID;1;1;from
+Q960557;Sha'alvim;место рождения;1;2;to
+Q991346;Netzarim;государство;1;1;from
+Q991346;Netzarim;изображение;1;1;from
+Q991346;Netzarim;это частный случай понятия;1;2;from
+Q991346;Netzarim;конечный результат;1;1;from
+Q991346;Netzarim;код GeoNames;1;1;from
+Q991346;Netzarim;Израильский муниципальный код;1;1;from
+Q991346;Netzarim;часовой пояс;1;1;from
+Q2888807;Ro'i;высота над уровнем моря;1;1;from
+Q991346;Netzarim;дата основания/создания/возникновения;1;1;from
+Q991346;Netzarim;дата прекращения существования;1;1;from
+Q991346;Netzarim;географические координаты;1;1;from
+Q991346;Netzarim;код Freebase;1;1;from
+Q991346;Netzarim;Who's on First ID;1;1;from
+Q991346;Netzarim;административно делится на;1;1;to
+Q991346;Netzarim;местонахождение;1;1;to
+Q1011560;Nir Oz;административно-территориальная единица;1;1;from
+Q1011560;Nir Oz;государство;1;1;from
+Q1011560;Nir Oz;изображение;1;1;from
+Q1011560;Nir Oz;это частный случай понятия;1;3;from
+Q1011560;Nir Oz;численность населения;1;1;from
+Q1011560;Nir Oz;код GeoNames;1;1;from
+Q960557;Sha'alvim;высота над уровнем моря;1;1;from
+Q960557;Sha'alvim;численность населения;1;1;from
+Q960557;Sha'alvim;это частный случай понятия;1;2;from
+Q960557;Sha'alvim;изображение;1;1;from
+Q747107;Hatzeva;Who's on First ID;1;1;from
+Q747107;Hatzeva;место рождения;1;1;to
+Q774890;Almagor;административно-территориальная единица;1;1;from
+Q774890;Almagor;государство;1;1;from
+Q774890;Almagor;изображение;1;1;from
+Q774890;Almagor;это частный случай понятия;1;2;from
+Q774890;Almagor;численность населения;1;2;from
+Q774890;Almagor;WOEID;1;1;from
+Q774890;Almagor;код GeoNames;1;1;from
+Q774890;Almagor;Израильский муниципальный код;1;1;from
+Q774890;Almagor;категория на Викискладе;1;1;from
+Q774890;Almagor;дата основания/создания/возникновения;1;1;from
+Q774890;Almagor;географические координаты;1;1;from
+Q774890;Almagor;код Freebase;1;1;from
+Q774890;Almagor;Who's on First ID;1;1;from
+Q785793;Katif;государство;1;1;from
+Q785793;Katif;изображение;1;1;from
+Q785793;Katif;это частный случай понятия;1;4;from
+Q785793;Katif;Израильский муниципальный код;1;1;from
+Q785793;Katif;часовой пояс;1;1;from
+Q785793;Katif;дата основания/создания/возникновения;1;1;from
+Q785793;Katif;дата прекращения существования;1;1;from
+Q785793;Katif;географические координаты;1;1;from
+Q785793;Katif;код Freebase;1;1;from
+Q785793;Katif;административно делится на;1;1;to
+Q960557;Sha'alvim;административно-территориальная единица;1;1;to
+Q960557;Sha'alvim;государство;1;1;from
+Q1011560;Nir Oz;высота над уровнем моря;1;1;from
+Q1011560;Nir Oz;Израильский муниципальный код;1;1;from
+Q1011560;Nir Oz;категория на Викискладе;1;1;from
+Q2122843;Ma'ale Gilboa;категория на Викискладе;1;1;from
+Q2122843;Ma'ale Gilboa;дата основания/создания/возникновения;1;1;from
+Q2122843;Ma'ale Gilboa;географические координаты;1;1;from
+Q2122843;Ma'ale Gilboa;код Freebase;1;1;from
+Q2122843;Ma'ale Gilboa;Who's on First ID;1;1;from
+Q2122843;Ma'ale Gilboa;заменён на;1;1;to
+Q2369693;Nahal Oz;административно-территориальная единица;1;1;from
+Q2369693;Nahal Oz;государство;1;1;from
+Q2369693;Nahal Oz;изображение;1;1;from
+Q2369693;Nahal Oz;код LCNAF;1;1;from
+Q2369693;Nahal Oz;это частный случай понятия;1;3;from
+Q2369693;Nahal Oz;численность населения;1;1;from
+Q2369693;Nahal Oz;код GeoNames;1;1;from
+Q2369693;Nahal Oz;высота над уровнем моря;1;1;from
+Q2369693;Nahal Oz;Израильский муниципальный код;1;1;from
+Q2369693;Nahal Oz;категория на Викискладе;1;1;from
+Q2369693;Nahal Oz;часовой пояс;1;1;from
+Q2369693;Nahal Oz;Or Movement settlement ID;1;1;from
+Q2369693;Nahal Oz;дата основания/создания/возникновения;1;1;from
+Q2369693;Nahal Oz;географические координаты;1;1;from
+Q2369693;Nahal Oz;код Freebase;1;1;from
+Q2369693;Nahal Oz;Who's on First ID;1;1;from
+Q2369693;Nahal Oz;официальный сайт;1;1;from
+Q2466712;Nimrod, Golan Heights;административно-территориальная единица;1;1;from
+Q2466712;Nimrod, Golan Heights;государство;1;2;from
+Q2466712;Nimrod, Golan Heights;это частный случай понятия;1;3;from
+Q2466712;Nimrod, Golan Heights;код GeoNames;1;1;from
+Q2466712;Nimrod, Golan Heights;высота над уровнем моря;1;1;from
+Q2122843;Ma'ale Gilboa;часовой пояс;1;1;from
+Q2122843;Ma'ale Gilboa;Израильский муниципальный код;1;1;from
+Q1011560;Nir Oz;часовой пояс;1;1;from
+Q2122843;Ma'ale Gilboa;высота над уровнем моря;1;1;from
+Q1011560;Nir Oz;Or Movement settlement ID;1;1;from
+Q1011560;Nir Oz;дата основания/создания/возникновения;1;1;from
+Q1011560;Nir Oz;географические координаты;1;1;from
+Q1011560;Nir Oz;код Freebase;1;1;from
+Q1011560;Nir Oz;Who's on First ID;1;1;from
+Q1918793;Meirav;административно-территориальная единица;1;1;from
+Q1918793;Meirav;государство;1;1;from
+Q1918793;Meirav;изображение;1;1;from
+Q1918793;Meirav;код VIAF;1;1;from
+Q1918793;Meirav;это частный случай понятия;1;3;from
+Q1918793;Meirav;численность населения;1;1;from
+Q1918793;Meirav;высота над уровнем моря;1;1;from
+Q1918793;Meirav;Израильский муниципальный код;1;1;from
+Q1918793;Meirav;категория на Викискладе;1;1;from
+Q1918793;Meirav;часовой пояс;1;1;from
+Q1918793;Meirav;дата основания/создания/возникновения;1;2;from
+Q1918793;Meirav;географические координаты;1;1;from
+Q1918793;Meirav;код Freebase;1;1;from
+Q1918793;Meirav;официальный сайт;1;1;from
+Q2122843;Ma'ale Gilboa;административно-территориальная единица;1;1;from
+Q2122843;Ma'ale Gilboa;государство;1;1;from
+Q2122843;Ma'ale Gilboa;изображение;1;1;from
+Q2122843;Ma'ale Gilboa;код VIAF;1;1;from
+Q2122843;Ma'ale Gilboa;это частный случай понятия;1;3;from
+Q2122843;Ma'ale Gilboa;численность населения;1;1;from
+Q2122843;Ma'ale Gilboa;заменил;1;1;from
+Q2122843;Ma'ale Gilboa;код GeoNames;1;1;from
+Q747107;Hatzeva;код Freebase;1;1;from
+Q747107;Hatzeva;географические координаты;1;1;from
+Q747107;Hatzeva;дата основания/создания/возникновения;1;1;from
+Q246986;Beit Hagai;дата основания/создания/возникновения;1;1;from
+Q246986;Beit Hagai;код Freebase;1;1;from
+Q279745;Ein Yahav;административно-территориальная единица;1;1;from
+Q279745;Ein Yahav;государство;1;1;from
+Q279745;Ein Yahav;изображение;1;1;from
+Q279745;Ein Yahav;это частный случай понятия;1;3;from
+Q279745;Ein Yahav;численность населения;1;1;from
+Q279745;Ein Yahav;код GeoNames;1;1;from
+Q279745;Ein Yahav;высота над уровнем моря;1;1;from
+Q279745;Ein Yahav;Израильский муниципальный код;1;1;from
+Q279745;Ein Yahav;категория на Викискладе;1;1;from
+Q279745;Ein Yahav;часовой пояс;1;1;from
+Q279745;Ein Yahav;Or Movement settlement ID;1;1;from
+Q279745;Ein Yahav;дата основания/создания/возникновения;1;1;from
+Q279745;Ein Yahav;географические координаты;1;1;from
+Q279745;Ein Yahav;код Freebase;1;1;from
+Q279745;Ein Yahav;Who's on First ID;1;1;from
+Q486555;Bedolah;административно-территориальная единица;1;1;from
+Q486555;Bedolah;государство;1;1;from
+Q486555;Bedolah;это частный случай понятия;1;2;from
+Q486555;Bedolah;код GeoNames;1;1;from
+Q486555;Bedolah;Израильский муниципальный код;1;1;from
+Q486555;Bedolah;категория на Викискладе;1;1;from
+Q486555;Bedolah;часовой пояс;1;1;from
+Q486555;Bedolah;дата основания/создания/возникновения;1;1;from
+Q486555;Bedolah;дата прекращения существования;1;1;from
+Q486555;Bedolah;географические координаты;1;1;from
+Q486555;Bedolah;код Freebase;1;1;from
+Q246986;Beit Hagai;географические координаты;1;1;from
+Q246986;Beit Hagai;Or Movement settlement ID;1;1;from
+Q486555;Bedolah;административно делится на;1;1;to
+Q246986;Beit Hagai;категория на Викискладе;1;1;from
+Q246963;Shim'a;это частный случай понятия;1;2;from
+Q246963;Shim'a;численность населения;1;1;from
+Q246963;Shim'a;высота над уровнем моря;1;1;from
+Q246963;Shim'a;Израильский муниципальный код;1;1;from
+Q246963;Shim'a;Or Movement settlement ID;1;1;from
+Q246963;Shim'a;дата основания/создания/возникновения;1;2;from
+Q246963;Shim'a;географические координаты;1;1;from
+Q246963;Shim'a;код Freebase;1;1;from
+Q246963;Shim'a;место рождения;1;1;to
+Q246979;Teneh Omarim;административно-территориальная единица;1;2;from
+Q246979;Teneh Omarim;государство;1;1;from
+Q246979;Teneh Omarim;изображение;1;1;from
+Q246979;Teneh Omarim;это частный случай понятия;1;3;from
+Q246979;Teneh Omarim;численность населения;1;1;from
+Q246979;Teneh Omarim;высота над уровнем моря;1;1;from
+Q246979;Teneh Omarim;Израильский муниципальный код;1;1;from
+Q246979;Teneh Omarim;категория на Викискладе;1;1;from
+Q246979;Teneh Omarim;Or Movement settlement ID;1;1;from
+Q246979;Teneh Omarim;дата основания/создания/возникновения;1;2;from
+Q246979;Teneh Omarim;географические координаты;1;1;from
+Q246979;Teneh Omarim;код Freebase;1;1;from
+Q246986;Beit Hagai;административно-территориальная единица;1;1;from
+Q246986;Beit Hagai;изображение;1;1;from
+Q246986;Beit Hagai;это частный случай понятия;1;2;from
+Q246986;Beit Hagai;численность населения;1;1;from
+Q246986;Beit Hagai;высота над уровнем моря;1;1;from
+Q246986;Beit Hagai;Израильский муниципальный код;1;1;from
+Q486555;Bedolah;Who's on First ID;1;1;from
+Q599665;Kfar Darom;государство;1;1;from
+Q747107;Hatzeva;Or Movement settlement ID;1;1;from
+Q634253;Yotvata;географические координаты;1;1;from
+Q634253;Yotvata;Who's on First ID;1;1;from
+Q634253;Yotvata;код NLI;1;1;from
+Q634253;Yotvata;расположение штаб-квартиры;1;1;to
+Q634253;Yotvata;основная тема;1;3;to
+Q634253;Yotvata;место рождения;1;1;to
+Q643380;Mitzpe Netofa;административно-территориальная единица;1;1;from
+Q643380;Mitzpe Netofa;государство;1;1;from
+Q643380;Mitzpe Netofa;изображение;1;1;from
+Q643380;Mitzpe Netofa;это частный случай понятия;1;1;from
+Q643380;Mitzpe Netofa;численность населения;1;1;from
+Q643380;Mitzpe Netofa;высота над уровнем моря;1;1;from
+Q643380;Mitzpe Netofa;Израильский муниципальный код;1;1;from
+Q643380;Mitzpe Netofa;категория на Викискладе;1;1;from
+Q643380;Mitzpe Netofa;дата основания/создания/возникновения;1;2;from
+Q643380;Mitzpe Netofa;географические координаты;1;1;from
+Q643380;Mitzpe Netofa;код Freebase;1;1;from
+Q747107;Hatzeva;административно-территориальная единица;1;1;from
+Q747107;Hatzeva;государство;1;1;from
+Q747107;Hatzeva;изображение;1;1;from
+Q747107;Hatzeva;это частный случай понятия;1;3;from
+Q747107;Hatzeva;численность населения;1;1;from
+Q747107;Hatzeva;код GeoNames;1;1;from
+Q747107;Hatzeva;высота над уровнем моря;1;1;from
+Q747107;Hatzeva;код темы Quora;1;1;from
+Q747107;Hatzeva;Израильский муниципальный код;1;1;from
+Q747107;Hatzeva;категория на Викискладе;1;1;from
+Q747107;Hatzeva;часовой пояс;1;1;from
+Q634253;Yotvata;код Freebase;1;1;from
+Q634253;Yotvata;дата основания/создания/возникновения;1;1;from
+Q599665;Kfar Darom;изображение;1;1;from
+Q634253;Yotvata;Or Movement settlement ID;1;1;from
+Q599665;Kfar Darom;код VIAF;1;1;from
+Q599665;Kfar Darom;код LCNAF;1;1;from
+Q599665;Kfar Darom;это частный случай понятия;1;2;from
+Q599665;Kfar Darom;код GeoNames;1;1;from
+Q599665;Kfar Darom;Израильский муниципальный код;1;1;from
+Q599665;Kfar Darom;категория на Викискладе;1;1;from
+Q599665;Kfar Darom;часовой пояс;1;1;from
+Q599665;Kfar Darom;дата основания/создания/возникновения;1;1;from
+Q599665;Kfar Darom;дата прекращения существования;1;1;from
+Q599665;Kfar Darom;географические координаты;1;1;from
+Q599665;Kfar Darom;код Freebase;1;1;from
+Q599665;Kfar Darom;Who's on First ID;1;1;from
+Q599665;Kfar Darom;административно-территориальная единица;1;1;to
+Q599665;Kfar Darom;административно делится на;1;1;to
+Q599665;Kfar Darom;местонахождение;1;1;to
+Q634253;Yotvata;административно-территориальная единица;1;2;to
+Q634253;Yotvata;государство;1;1;from
+Q634253;Yotvata;изображение;1;1;from
+Q634253;Yotvata;код VIAF;1;1;from
+Q634253;Yotvata;это частный случай понятия;1;3;from
+Q634253;Yotvata;численность населения;1;1;from
+Q634253;Yotvata;WOEID;1;1;from
+Q634253;Yotvata;код GeoNames;1;1;from
+Q634253;Yotvata;высота над уровнем моря;1;1;from
+Q634253;Yotvata;Израильский муниципальный код;1;1;from
+Q634253;Yotvata;категория на Викискладе;1;1;from
+Q634253;Yotvata;часовой пояс;1;1;from
+Q2466712;Nimrod, Golan Heights;категория на Викискладе;1;1;from
+Q2466712;Nimrod, Golan Heights;Rom Galil settlement ID;1;1;from
+Q2466712;Nimrod, Golan Heights;дата основания/создания/возникновения;1;1;from
+Q2777505;Mei Ami;административно-территориальная единица;1;1;from
+Q2777505;Mei Ami;код VIAF;1;1;from
+Q2777505;Mei Ami;это частный случай понятия;1;3;from
+Q2777505;Mei Ami;численность населения;1;1;from
+Q2777505;Mei Ami;высота над уровнем моря;1;1;from
+Q2777505;Mei Ami;Израильский муниципальный код;1;1;from
+Q2777505;Mei Ami;часовой пояс;1;1;from
+Q2777505;Mei Ami;дата основания/создания/возникновения;1;1;from
+Q2777505;Mei Ami;географические координаты;1;1;from
+Q2777505;Mei Ami;код Freebase;1;1;from
+Q2777712;Rechelim;административно-территориальная единица;1;1;from
+Q2777712;Rechelim;изображение;1;1;from
+Q2777712;Rechelim;это частный случай понятия;1;2;from
+Q2777712;Rechelim;численность населения;1;1;from
+Q2777712;Rechelim;высота над уровнем моря;1;1;from
+Q2777712;Rechelim;Израильский муниципальный код;1;1;from
+Q2777712;Rechelim;дата основания/создания/возникновения;1;2;from
+Q2777712;Rechelim;географические координаты;1;1;from
+Q2777712;Rechelim;код Freebase;1;1;from
+Q2777712;Rechelim;официальный сайт;1;1;from
+Q2777712;Rechelim;место жительства;1;1;to
+Q2777759;Almog;основатель;1;1;from
+Q2777759;Almog;административно-территориальная единица;1;1;from
+Q2777759;Almog;государство;1;1;from
+Q2777759;Almog;изображение;1;1;from
+Q2777759;Almog;это частный случай понятия;1;3;from
+Q2777759;Almog;численность населения;1;2;from
+Q2777759;Almog;код GeoNames;1;1;from
+Q2777505;Mei Ami;государство;1;1;from
+Q2777385;Lakhish;место рождения;1;1;to
+Q2777759;Almog;категория на Викискладе;1;1;from
+Q2777385;Lakhish;официальный сайт;1;1;from
+Q2777378;Gonen;административно-территориальная единица;1;1;from
+Q2777378;Gonen;государство;1;1;from
+Q2777378;Gonen;изображение;1;1;from
+Q2777378;Gonen;это частный случай понятия;1;3;from
+Q2777378;Gonen;численность населения;1;1;from
+Q2777378;Gonen;код GeoNames;1;1;from
+Q2777378;Gonen;высота над уровнем моря;1;1;from
+Q2777378;Gonen;Израильский муниципальный код;1;1;from
+Q2777378;Gonen;категория на Викискладе;1;1;from
+Q2777378;Gonen;часовой пояс;1;1;from
+Q2777378;Gonen;дата основания/создания/возникновения;1;1;from
+Q2777378;Gonen;географические координаты;1;1;from
+Q2777378;Gonen;код Freebase;1;1;from
+Q2777378;Gonen;Who's on First ID;1;1;from
+Q2777385;Lakhish;административно-территориальная единица;1;1;from
+Q2777385;Lakhish;государство;1;1;from
+Q2777385;Lakhish;изображение;1;1;from
+Q2777385;Lakhish;это частный случай понятия;1;2;from
+Q2777385;Lakhish;численность населения;1;1;from
+Q2777385;Lakhish;высота над уровнем моря;1;1;from
+Q2777385;Lakhish;почтовый индекс;1;1;from
+Q2777385;Lakhish;Израильский муниципальный код;1;1;from
+Q2777385;Lakhish;категория на Викискладе;1;1;from
+Q2777385;Lakhish;Or Movement settlement ID;1;1;from
+Q2777385;Lakhish;дата основания/создания/возникновения;1;1;from
+Q2777385;Lakhish;географические координаты;1;1;from
+Q2777385;Lakhish;код Freebase;1;1;from
+Q2777759;Almog;Израильский муниципальный код;1;1;from
+Q2777759;Almog;дата основания/создания/возникновения;1;1;from
+Q2777293;Ziv'on;Who's on First ID;1;1;from
+Q2777935;Karmia;административно-территориальная единица;1;1;from
+Q2777935;Karmia;изображение;1;1;from
+Q2777935;Karmia;код VIAF;1;1;from
+Q2777935;Karmia;это частный случай понятия;1;2;from
+Q2777935;Karmia;численность населения;1;1;from
+Q2777935;Karmia;код TGN;1;1;from
+Q2777935;Karmia;высота над уровнем моря;1;1;from
+Q2777935;Karmia;Израильский муниципальный код;1;1;from
+Q2777935;Karmia;категория на Викискладе;1;1;from
+Q2777935;Karmia;дата основания/создания/возникновения;1;1;from
+Q2777935;Karmia;географические координаты;1;1;from
+Q2777935;Karmia;код Freebase;1;1;from
+Q2888605;Negohot;основатель;1;1;from
+Q2888605;Negohot;административно-территориальная единица;1;1;from
+Q2888605;Negohot;государство;1;1;from
+Q2888605;Negohot;изображение;1;1;from
+Q2888605;Negohot;это частный случай понятия;1;1;from
+Q2888605;Negohot;численность населения;1;1;from
+Q2888605;Negohot;Израильский муниципальный код;1;1;from
+Q2888605;Negohot;категория на Викискладе;1;1;from
+Q2888605;Negohot;дата основания/создания/возникновения;1;2;from
+Q2888605;Negohot;географические координаты;1;1;from
+Q2888605;Negohot;код Freebase;1;1;from
+Q2888807;Ro'i;основатель;1;1;from
+Q2888807;Ro'i;административно-территориальная единица;1;1;from
+Q2888807;Ro'i;государство;1;1;from
+Q2888807;Ro'i;это частный случай понятия;1;3;from
+Q2888807;Ro'i;численность населения;1;1;from
+Q2777935;Karmia;государство;1;1;from
+Q2777920;Ma'ale Levona;код Freebase;1;1;from
+Q2777759;Almog;географические координаты;1;1;from
+Q2777920;Ma'ale Levona;географические координаты;1;1;from
+Q2777759;Almog;код Freebase;1;1;from
+Q2777759;Almog;Who's on First ID;1;1;from
+Q2777883;Migdalim;основатель;1;1;from
+Q2777883;Migdalim;административно-территориальная единица;1;1;from
+Q2777883;Migdalim;государство;1;1;from
+Q2777883;Migdalim;код VIAF;1;1;from
+Q2777883;Migdalim;это частный случай понятия;1;2;from
+Q2777883;Migdalim;численность населения;1;1;from
+Q2777883;Migdalim;официальное название;1;2;from
+Q2777883;Migdalim;код GeoNames;1;1;from
+Q2777883;Migdalim;высота над уровнем моря;1;1;from
+Q2777883;Migdalim;Израильский муниципальный код;1;1;from
+Q2777883;Migdalim;категория на Викискладе;1;1;from
+Q2777883;Migdalim;часовой пояс;1;2;from
+Q2777883;Migdalim;дата основания/создания/возникновения;1;2;from
+Q2777883;Migdalim;географические координаты;1;1;from
+Q2777883;Migdalim;код Freebase;1;1;from
+Q2777883;Migdalim;Who's on First ID;1;1;from
+Q2777920;Ma'ale Levona;административно-территориальная единица;1;1;to
+Q2777920;Ma'ale Levona;названо в честь;1;1;from
+Q2777920;Ma'ale Levona;изображение;1;1;from
+Q2777920;Ma'ale Levona;это частный случай понятия;1;2;from
+Q2777920;Ma'ale Levona;численность населения;1;1;from
+Q2777920;Ma'ale Levona;высота над уровнем моря;1;1;from
+Q2777920;Ma'ale Levona;Израильский муниципальный код;1;1;from
+Q2777920;Ma'ale Levona;категория на Викискладе;1;1;from
+Q2777920;Ma'ale Levona;дата основания/создания/возникновения;1;2;from
+Q2777293;Ziv'on;официальный сайт;1;1;from
+Q2777293;Ziv'on;код Freebase;1;1;from
+Q2466712;Nimrod, Golan Heights;географические координаты;1;1;from
+Q2564675;Elifaz;дата основания/создания/возникновения;1;2;from
+Q2564675;Elifaz;код Freebase;1;1;from
+Q2564675;Elifaz;официальный сайт;1;1;from
+Q2708346;Gitit;административно-территориальная единица;1;1;from
+Q2708346;Gitit;государство;1;1;from
+Q2708346;Gitit;это частный случай понятия;1;3;from
+Q2708346;Gitit;численность населения;1;1;from
+Q2708346;Gitit;код GeoNames;1;1;from
+Q2708346;Gitit;высота над уровнем моря;1;1;from
+Q2708346;Gitit;Израильский муниципальный код;1;1;from
+Q2708346;Gitit;дата основания/создания/возникновения;1;2;from
+Q2708346;Gitit;географические координаты;1;1;from
+Q2708346;Gitit;код Freebase;1;1;from
+Q2708346;Gitit;Who's on First ID;1;1;from
+Q2708346;Gitit;место жительства;1;1;to
+Q2776370;Ovnat;административно-территориальная единица;1;1;from
+Q2776370;Ovnat;государство;1;1;from
+Q2776370;Ovnat;изображение;1;1;from
+Q2776370;Ovnat;это частный случай понятия;1;3;from
+Q2776370;Ovnat;численность населения;1;2;from
+Q2776370;Ovnat;высота над уровнем моря;1;1;from
+Q2776370;Ovnat;Израильский муниципальный код;1;1;from
+Q2776370;Ovnat;категория на Викискладе;1;1;from
+Q2776370;Ovnat;дата основания/создания/возникновения;1;1;from
+Q2776370;Ovnat;географические координаты;1;1;from
+Q2776370;Ovnat;код Freebase;1;1;from
+Q2777017;Snir;административно-территориальная единица;1;1;from
+Q2777017;Snir;государство;1;1;from
+Q2564675;Elifaz;географические координаты;1;1;from
+Q2564675;Elifaz;Or Movement settlement ID;1;1;from
+Q2777017;Snir;это частный случай понятия;1;3;from
+Q2564675;Elifaz;категория на Викискладе;1;1;from
+Q2466712;Nimrod, Golan Heights;код Freebase;1;1;from
+Q2466712;Nimrod, Golan Heights;Who's on First ID;1;1;from
+Q2469471;Ein Gedi;административно-территориальная единица;1;1;from
+Q2469471;Ein Gedi;государство;1;1;from
+Q2469471;Ein Gedi;изображение;1;1;from
+Q2469471;Ein Gedi;код VIAF;1;1;from
+Q2469471;Ein Gedi;это частный случай понятия;1;3;from
+Q2469471;Ein Gedi;численность населения;1;1;from
+Q2469471;Ein Gedi;код GeoNames;1;1;from
+Q2469471;Ein Gedi;высота над уровнем моря;1;1;from
+Q2469471;Ein Gedi;Израильский муниципальный код;1;1;from
+Q2469471;Ein Gedi;категория на Викискладе;1;1;from
+Q2469471;Ein Gedi;часовой пояс;1;1;from
+Q2469471;Ein Gedi;Or Movement settlement ID;1;1;from
+Q2469471;Ein Gedi;дата основания/создания/возникновения;1;1;from
+Q2469471;Ein Gedi;географические координаты;1;1;from
+Q2469471;Ein Gedi;код Freebase;1;1;from
+Q2469471;Ein Gedi;Who's on First ID;1;1;from
+Q2469471;Ein Gedi;расположение штаб-квартиры;1;1;to
+Q2564675;Elifaz;административно-территориальная единица;1;1;from
+Q2564675;Elifaz;государство;1;1;from
+Q2564675;Elifaz;изображение;1;2;from
+Q2564675;Elifaz;код VIAF;1;1;from
+Q2564675;Elifaz;это частный случай понятия;1;2;from
+Q2564675;Elifaz;численность населения;1;2;from
+Q2564675;Elifaz;высота над уровнем моря;1;1;from
+Q2564675;Elifaz;Израильский муниципальный код;1;1;from
+Q2777017;Snir;изображение;1;1;from
+Q2777017;Snir;численность населения;1;1;from
+Q2777293;Ziv'on;географические координаты;1;1;from
+Q2777077;Morag;дата основания/создания/возникновения;1;1;from
+Q2777077;Morag;географические координаты;1;1;from
+Q2777077;Morag;код Freebase;1;1;from
+Q2777077;Morag;административно делится на;1;1;to
+Q2777198;Beit HaArava;основатель;1;1;from
+Q2777198;Beit HaArava;административно-территориальная единица;1;1;from
+Q2777198;Beit HaArava;государство;1;1;from
+Q2777198;Beit HaArava;изображение;1;1;from
+Q2777198;Beit HaArava;код VIAF;1;1;from
+Q2777198;Beit HaArava;это частный случай понятия;1;3;from
+Q2777198;Beit HaArava;численность населения;1;1;from
+Q2777198;Beit HaArava;код TGN;1;1;from
+Q2777198;Beit HaArava;название на языке оригинала;1;1;from
+Q2777198;Beit HaArava;высота над уровнем моря;1;1;from
+Q2777198;Beit HaArava;Израильский муниципальный код;1;1;from
+Q2777198;Beit HaArava;категория на Викискладе;1;1;from
+Q2777198;Beit HaArava;дата основания/создания/возникновения;1;1;from
+Q2777198;Beit HaArava;географические координаты;1;1;from
+Q2777198;Beit HaArava;код Freebase;1;1;from
+Q2777198;Beit HaArava;место рождения;1;2;to
+Q2777293;Ziv'on;административно-территориальная единица;1;1;from
+Q2777293;Ziv'on;государство;1;1;from
+Q2777293;Ziv'on;это частный случай понятия;1;2;from
+Q2777293;Ziv'on;численность населения;1;1;from
+Q2777293;Ziv'on;высота над уровнем моря;1;1;from
+Q2777293;Ziv'on;Израильский муниципальный код;1;1;from
+Q2777293;Ziv'on;категория на Викискладе;1;1;from
+Q2777293;Ziv'on;дата основания/создания/возникновения;1;1;from
+Q2777077;Morag;дата прекращения существования;1;1;from
+Q2777077;Morag;часовой пояс;1;1;from
+Q2777017;Snir;код GeoNames;1;1;from
+Q2777077;Morag;категория на Викискладе;1;1;from
+Q2777017;Snir;высота над уровнем моря;1;1;from
+Q2777017;Snir;Израильский муниципальный код;1;1;from
+Q2777017;Snir;категория на Викискладе;1;1;from
+Q2777017;Snir;часовой пояс;1;1;from
+Q2777017;Snir;дата основания/создания/возникновения;1;1;from
+Q2777017;Snir;географические координаты;1;1;from
+Q2777017;Snir;код Freebase;1;1;from
+Q2777017;Snir;Who's on First ID;1;1;from
+Q2777017;Snir;официальный сайт;1;1;from
+Q2777026;Rimonim;основатель;1;1;from
+Q2777026;Rimonim;административно-территориальная единица;1;1;from
+Q2777026;Rimonim;государство;1;1;from
+Q2777026;Rimonim;это частный случай понятия;1;1;from
+Q2777026;Rimonim;численность населения;1;1;from
+Q2777026;Rimonim;код GeoNames;1;1;from
+Q2777026;Rimonim;высота над уровнем моря;1;1;from
+Q2777026;Rimonim;Израильский муниципальный код;1;1;from
+Q2777026;Rimonim;категория на Викискладе;1;1;from
+Q2777026;Rimonim;дата основания/создания/возникновения;1;1;from
+Q2777026;Rimonim;географические координаты;1;1;from
+Q2777026;Rimonim;код Freebase;1;1;from
+Q2777026;Rimonim;Who's on First ID;1;1;from
+Q2777077;Morag;государство;1;1;from
+Q2777077;Morag;изображение;1;1;from
+Q2777077;Morag;это частный случай понятия;1;3;from
+Q2777077;Morag;конечный результат;1;1;from
+Q2777077;Morag;Израильский муниципальный код;1;1;from
+Q7634455;Sufa, Sinai;географические координаты;1;1;from

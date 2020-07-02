@@ -1,0 +1,208 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q544762;Muscat Governorate;административно-территориальная единица;1;27;to
+Q4501876;Ash Sharqiyah North Governorate;площадь;1;1;from
+Q1468596;Ad Dhahirah Governorate;административно делится на;1;1;to
+Q4501876;Ash Sharqiyah North Governorate;административно-территориальная единица;1;7;to
+Q4501876;Ash Sharqiyah North Governorate;названо в честь;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;государство;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;изображение;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;карта местонахождения;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;это частный случай понятия;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;столица;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;имеет границы с;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;код GeoNames;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;ISO 3166-2;1;1;from
+Q1468596;Ad Dhahirah Governorate;является столицей;1;1;to
+Q4501876;Ash Sharqiyah North Governorate;ID отношения в OpenStreetMap;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;код тезауруса PACTOLS;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;географические координаты;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;код Freebase;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;Who's on First ID;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;основная категория по теме;1;1;from
+Q4501876;Ash Sharqiyah North Governorate;является столицей;1;1;to
+Q4501876;Ash Sharqiyah North Governorate;общая тема категории;1;1;to
+Q4501876;Ash Sharqiyah North Governorate;административно делится на;1;1;to
+Q4501894;Ash Sharqiyah South Governorate;административно-территориальная единица;1;7;to
+Q1468596;Ad Dhahirah Governorate;общая тема категории;1;1;to
+Q1468596;Ad Dhahirah Governorate;основная категория по теме;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;государство;1;1;from
+Q1468596;Ad Dhahirah Governorate;государство;1;1;from
+Q1207752;Dhofar Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q1207752;Dhofar Governorate;основная категория по теме;1;1;from
+Q1207752;Dhofar Governorate;баннер Викигида;1;1;from
+Q1207752;Dhofar Governorate;место смерти;1;1;to
+Q1207752;Dhofar Governorate;является столицей;1;1;to
+Q1207752;Dhofar Governorate;обслуживаемый город;1;1;to
+Q1207752;Dhofar Governorate;местонахождение;1;1;to
+Q1207752;Dhofar Governorate;общая тема категории;1;1;to
+Q1207752;Dhofar Governorate;административно делится на;1;1;to
+Q1468596;Ad Dhahirah Governorate;административно-территориальная единица;1;227;to
+Q1468596;Ad Dhahirah Governorate;изображение;1;1;from
+Q1468596;Ad Dhahirah Governorate;FIPS 10-4 (страны и регионы);1;2;from
+Q1468596;Ad Dhahirah Governorate;карта местонахождения;1;1;from
+Q1468596;Ad Dhahirah Governorate;это частный случай понятия;1;1;from
+Q1468596;Ad Dhahirah Governorate;столица;1;1;from
+Q1468596;Ad Dhahirah Governorate;имеет границы с;1;1;from
+Q1468596;Ad Dhahirah Governorate;код GeoNames;1;1;from
+Q1468596;Ad Dhahirah Governorate;площадь;1;1;from
+Q1468596;Ad Dhahirah Governorate;ISO 3166-2;1;1;from
+Q1468596;Ad Dhahirah Governorate;ID отношения в OpenStreetMap;1;1;from
+Q1468596;Ad Dhahirah Governorate;географические координаты;1;1;from
+Q1468596;Ad Dhahirah Governorate;Who's on First ID;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;названо в честь;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;изображение;1;1;from
+Q1207752;Dhofar Governorate;Who's on First ID;1;1;from
+Q4703565;Al Batinah South Governorate;столица;1;1;from
+Q4703564;Al Batinah North Governorate;код Freebase;1;1;from
+Q4703564;Al Batinah North Governorate;основная категория по теме;1;1;from
+Q4703564;Al Batinah North Governorate;общая тема категории;1;1;to
+Q4703564;Al Batinah North Governorate;является столицей;1;1;to
+Q4703564;Al Batinah North Governorate;административно делится на;1;1;to
+Q4703565;Al Batinah South Governorate;административно-территориальная единица;1;7;to
+Q4703565;Al Batinah South Governorate;государство;1;1;from
+Q4703565;Al Batinah South Governorate;изображение;1;1;from
+Q4703565;Al Batinah South Governorate;карта местонахождения;1;1;from
+Q4703565;Al Batinah South Governorate;это частный случай понятия;1;1;from
+Q4703565;Al Batinah South Governorate;имеет границы с;1;1;from
+Q4703564;Al Batinah North Governorate;ID отношения в OpenStreetMap;1;1;from
+Q4703565;Al Batinah South Governorate;код GeoNames;1;1;from
+Q4703565;Al Batinah South Governorate;площадь;1;1;from
+Q4703565;Al Batinah South Governorate;ISO 3166-2;1;1;from
+Q4703565;Al Batinah South Governorate;ID отношения в OpenStreetMap;1;1;from
+Q4703565;Al Batinah South Governorate;географические координаты;1;1;from
+Q4703565;Al Batinah South Governorate;код Freebase;1;1;from
+Q4703565;Al Batinah South Governorate;Who's on First ID;1;1;from
+Q4703565;Al Batinah South Governorate;основная категория по теме;1;1;from
+Q4703565;Al Batinah South Governorate;является столицей;1;1;to
+Q4703565;Al Batinah South Governorate;общая тема категории;1;1;to
+Q4703564;Al Batinah North Governorate;географические координаты;1;1;from
+Q4703564;Al Batinah North Governorate;ISO 3166-2;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;карта местонахождения;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;основная категория по теме;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;это частный случай понятия;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;столица;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;имеет границы с;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;код GeoNames;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;площадь;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;ISO 3166-2;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;ID отношения в OpenStreetMap;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;географические координаты;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;код Freebase;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;Who's on First ID;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;является столицей;1;1;to
+Q4703564;Al Batinah North Governorate;площадь;1;1;from
+Q4501894;Ash Sharqiyah South Governorate;общая тема категории;1;1;to
+Q4501894;Ash Sharqiyah South Governorate;административно делится на;1;1;to
+Q4703564;Al Batinah North Governorate;административно-территориальная единица;1;6;to
+Q4703564;Al Batinah North Governorate;государство;1;1;from
+Q4703564;Al Batinah North Governorate;изображение;1;1;from
+Q4703564;Al Batinah North Governorate;карта местонахождения;1;1;from
+Q4703564;Al Batinah North Governorate;это частный случай понятия;1;1;from
+Q4703564;Al Batinah North Governorate;столица;1;1;from
+Q4703564;Al Batinah North Governorate;имеет границы с;1;1;from
+Q4703564;Al Batinah North Governorate;код GeoNames;1;1;from
+Q1207752;Dhofar Governorate;официальный сайт;1;1;from
+Q1207752;Dhofar Governorate;код Freebase;1;1;from
+Q544762;Muscat Governorate;государство;1;1;from
+Q792550;Ad Dakhiliyah Governorate;основная категория по теме;1;1;from
+Q792550;Ad Dakhiliyah Governorate;столица;1;1;from
+Q792550;Ad Dakhiliyah Governorate;имеет границы с;1;1;to
+Q792550;Ad Dakhiliyah Governorate;код GeoNames;1;1;from
+Q792550;Ad Dakhiliyah Governorate;площадь;1;1;from
+Q792550;Ad Dakhiliyah Governorate;ISO 3166-2;1;1;from
+Q792550;Ad Dakhiliyah Governorate;ID отношения в OpenStreetMap;1;1;from
+Q792550;Ad Dakhiliyah Governorate;географические координаты;1;1;from
+Q792550;Ad Dakhiliyah Governorate;код Freebase;1;1;from
+Q792550;Ad Dakhiliyah Governorate;Who's on First ID;1;1;from
+Q792550;Ad Dakhiliyah Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q792550;Ad Dakhiliyah Governorate;место смерти;1;1;to
+Q792550;Ad Dakhiliyah Governorate;карта местонахождения;1;1;from
+Q792550;Ad Dakhiliyah Governorate;является столицей;1;1;to
+Q792550;Ad Dakhiliyah Governorate;общая тема категории;1;1;to
+Q792550;Ad Dakhiliyah Governorate;административно делится на;1;1;to
+Q852039;Al Buraimi Governorate;административно-территориальная единица;1;257;to
+Q852039;Al Buraimi Governorate;государство;1;1;from
+Q852039;Al Buraimi Governorate;изображение;1;1;from
+Q852039;Al Buraimi Governorate;карта местонахождения;1;1;from
+Q852039;Al Buraimi Governorate;это частный случай понятия;1;1;from
+Q852039;Al Buraimi Governorate;имеет границы с;1;3;to
+Q852039;Al Buraimi Governorate;категория для людей, родившихся здесь;1;1;from
+Q792550;Ad Dakhiliyah Governorate;это частный случай понятия;1;1;from
+Q792550;Ad Dakhiliyah Governorate;изображение;1;1;from
+Q852039;Al Buraimi Governorate;категория для людей, связанных с местностью;1;1;from
+Q544762;Muscat Governorate;ID отношения в OpenStreetMap;1;1;from
+Q544762;Muscat Governorate;изображение;1;1;from
+Q544762;Muscat Governorate;карта местонахождения;1;1;from
+Q544762;Muscat Governorate;это частный случай понятия;1;1;from
+Q544762;Muscat Governorate;столица;1;1;from
+Q544762;Muscat Governorate;имеет границы с;1;2;to
+Q544762;Muscat Governorate;численность населения;1;1;from
+Q544762;Muscat Governorate;код US National Archives;1;1;from
+Q544762;Muscat Governorate;код GeoNames;1;1;from
+Q544762;Muscat Governorate;площадь;1;1;from
+Q544762;Muscat Governorate;ISO 3166-2;1;1;from
+Q544762;Muscat Governorate;географические координаты;1;1;from
+Q792550;Ad Dakhiliyah Governorate;государство;1;1;from
+Q544762;Muscat Governorate;код Freebase;1;1;from
+Q544762;Muscat Governorate;Who's on First ID;1;1;from
+Q544762;Muscat Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q544762;Muscat Governorate;основная категория по теме;1;1;from
+Q544762;Muscat Governorate;место в MusicBrainz;1;1;from
+Q544762;Muscat Governorate;общая тема категории;1;1;to
+Q544762;Muscat Governorate;является столицей;1;1;to
+Q544762;Muscat Governorate;предположительно одно и то же с;1;1;to
+Q544762;Muscat Governorate;административно делится на;1;1;to
+Q792550;Ad Dakhiliyah Governorate;административно-территориальная единица;1;10;to
+Q852039;Al Buraimi Governorate;код GeoNames;1;1;from
+Q852039;Al Buraimi Governorate;площадь;1;1;from
+Q1207752;Dhofar Governorate;географические координаты;1;1;from
+Q1207752;Dhofar Governorate;изображение;1;1;from
+Q958518;Al Wusta Governorate;код Freebase;1;1;from
+Q958518;Al Wusta Governorate;Who's on First ID;1;1;from
+Q958518;Al Wusta Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q958518;Al Wusta Governorate;основная категория по теме;1;1;from
+Q958518;Al Wusta Governorate;является столицей;1;1;to
+Q958518;Al Wusta Governorate;общая тема категории;1;1;to
+Q958518;Al Wusta Governorate;происходит из;1;2;to
+Q958518;Al Wusta Governorate;административно делится на;1;1;to
+Q1207752;Dhofar Governorate;административно-территориальная единица;1;22;to
+Q1207752;Dhofar Governorate;государство;1;1;from
+Q1207752;Dhofar Governorate;карта местонахождения;1;1;from
+Q958518;Al Wusta Governorate;ID отношения в OpenStreetMap;1;1;from
+Q1207752;Dhofar Governorate;это частный случай понятия;1;1;from
+Q1207752;Dhofar Governorate;столица;1;1;from
+Q1207752;Dhofar Governorate;имеет границы с;1;1;from
+Q1207752;Dhofar Governorate;численность населения;1;1;from
+Q1207752;Dhofar Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q1207752;Dhofar Governorate;код GeoNames;1;1;from
+Q1207752;Dhofar Governorate;площадь;1;1;from
+Q1207752;Dhofar Governorate;ISO 3166-2;1;1;from
+Q1207752;Dhofar Governorate;категория на Викискладе;1;1;from
+Q1207752;Dhofar Governorate;ID отношения в OpenStreetMap;1;1;from
+Q958518;Al Wusta Governorate;географические координаты;1;1;from
+Q958518;Al Wusta Governorate;категория на Викискладе;1;1;from
+Q852039;Al Buraimi Governorate;ISO 3166-2;1;1;from
+Q852039;Al Buraimi Governorate;общая тема категории;1;1;to
+Q852039;Al Buraimi Governorate;ID отношения в OpenStreetMap;1;1;from
+Q852039;Al Buraimi Governorate;дата основания/создания/возникновения;1;1;from
+Q852039;Al Buraimi Governorate;географические координаты;1;1;from
+Q852039;Al Buraimi Governorate;код Freebase;1;1;from
+Q852039;Al Buraimi Governorate;Who's on First ID;1;1;from
+Q852039;Al Buraimi Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q852039;Al Buraimi Governorate;основная категория по теме;1;1;from
+Q852039;Al Buraimi Governorate;место рождения;1;2;to
+Q852039;Al Buraimi Governorate;обслуживаемый город;1;1;to
+Q852039;Al Buraimi Governorate;категория объединяет темы;1;2;to
+Q852039;Al Buraimi Governorate;административно делится на;1;1;to
+Q958518;Al Wusta Governorate;ISO 3166-2;1;1;from
+Q958518;Al Wusta Governorate;административно-территориальная единица;1;6;to
+Q958518;Al Wusta Governorate;государство;1;1;from
+Q958518;Al Wusta Governorate;изображение;1;1;from
+Q958518;Al Wusta Governorate;карта местонахождения;1;1;from
+Q958518;Al Wusta Governorate;это частный случай понятия;1;1;from
+Q958518;Al Wusta Governorate;столица;1;1;from
+Q958518;Al Wusta Governorate;имеет границы с;1;1;from
+Q958518;Al Wusta Governorate;код GeoNames;1;1;from
+Q958518;Al Wusta Governorate;площадь;1;1;from
+Q958518;Al Wusta Governorate;используемый язык;1;2;from
+Q4703565;Al Batinah South Governorate;административно делится на;1;1;to

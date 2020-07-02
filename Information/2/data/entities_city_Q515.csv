@@ -1,0 +1,9048 @@
+﻿entity;label
+Q60;New York City
+Q62;San Francisco
+Q64;Berlin
+Q84;London
+Q90;Paris
+Q172;Toronto
+Q174;São Paulo
+Q216;Vilnius
+Q220;Rome
+Q226;Nuuk
+Q239;Brussels
+Q269;Tashkent
+Q270;Warsaw
+Q279;Modena
+Q334;Singapore
+Q350;Cambridge
+Q384;Skopje
+Q385;Gdynia
+Q393;Szczecin
+Q436;Szczebrzeszyn
+Q437;Ljubljana
+Q438;Vrhnika
+Q439;Wąchock
+Q453;Borken
+Q459;Plovdiv
+Q472;Sofia
+Q490;Milan
+Q495;Turin
+Q546;Trieste
+Q580;Łódź
+Q585;Oslo
+Q588;Katowice
+Q598;Rzeszów
+Q612;Dubai
+Q617;Padua
+Q628;Bergamo
+Q641;Venice
+Q644;Sharm el-Sheikh
+Q690;Delft
+Q727;Amsterdam
+Q749;Groningen
+Q761;Białystok
+Q768;Supetar
+Q802;Nowy Sącz
+Q803;Utrecht
+Q956;Beijing
+Q994;Tbilisi
+Q1010;Maribor
+Q1012;Celje
+Q1015;Koper
+Q1018;Nova Gorica
+Q1021;Kranj
+Q1070;Ahmedabad
+Q1083;Salerno
+Q1154;Jamnagar
+Q1155;Busto Arsizio
+Q1156;Mumbai
+Q1218;Jerusalem
+Q1296;Ghent
+Q1305;Wageningen
+Q1308;Como
+Q1352;Chennai
+Q1354;Dhaka
+Q1355;Bengaluru
+Q1361;Hyderabad
+Q1362;Islamabad
+Q1449;Genoa
+Q1486;Buenos Aires
+Q1490;Tokyo
+Q1513;Nagpur
+Q1515;Abidjan
+Q1519;Abu Dhabi
+Q1524;Athens
+Q1530;Baghdad
+Q1533;Caracas
+Q1538;Pune
+Q1555;Guatemala City
+Q1647;Rijeka
+Q1709;Schwerin
+Q1715;Hanover
+Q1726;Munich
+Q1729;Erfurt
+Q1731;Dresden
+Q1735;Innsbruck
+Q1737;Bregenz
+Q1741;Vienna
+Q1754;Stockholm
+Q1757;Helsinki
+Q1770;Tallinn
+Q1780;Bratislava
+Q1800;Kochi
+Q1842;Luxembourg
+Q1848;San Marino
+Q1850;Phnom Penh
+Q1858;Hanoi
+Q1861;Bangkok
+Q1862;Wolin
+Q1867;Taipei
+Q1891;Bologna
+Q1903;Catania
+Q1906;Caserta
+Q1947;Juba
+Q1960;Dar es Salaam
+Q1963;Khartoum
+Q2028;Verona
+Q2044;Florence
+Q2058;Whitehorse
+Q2079;Leipzig
+Q2090;Nuremberg
+Q2096;Edmonton
+Q2123;Regina
+Q2127;Charlottetown
+Q2132;Victoria
+Q2135;Winnipeg
+Q2138;Fredericton
+Q2141;Halifax
+Q2239;Kongens Lyngby
+Q2449;Mogadishu
+Q2467;Nassau
+Q2471;Sana'a
+Q2634;Naples
+Q2656;Palermo
+Q2683;Parma
+Q2704;Pescara
+Q2734;Skierniewice
+Q2751;Siena
+Q2759;Urbino
+Q2773;Brunswick
+Q2790;Udine
+Q2807;Madrid
+Q2861;Rostock
+Q2900;Quito
+Q2933;Asunción
+Q2999;Würzburg
+Q3001;Paramaribo
+Q3012;Ulm
+Q3037;Kathmandu
+Q3043;Belmopan
+Q3070;San José
+Q3110;San Salvador
+Q3114;Canberra
+Q3130;Sydney
+Q3138;Trier
+Q3141;Melbourne
+Q3150;Jena
+Q3183;Perth
+Q3214;Cottbus
+Q3238;Tegucigalpa
+Q3274;Managua
+Q3306;Panama City
+Q3376;Trento
+Q3415;Ancona
+Q3437;Perugia
+Q3489;Harburg
+Q3519;Bari
+Q3543;Potenza
+Q3551;Rabat
+Q3561;Algiers
+Q3579;Tripoli
+Q3584;Nový Jičín
+Q3604;Djibouti
+Q3620;Sapinuwa
+Q3630;Jakarta
+Q3642;Asmara
+Q3657;Rietavas
+Q3659;N'Djamena
+Q3674;Niamey
+Q3688;Nouakchott
+Q3703;Bamako
+Q3711;Belgrade
+Q3726;Banjul
+Q3733;Conakry
+Q3739;Bissau
+Q3742;Casablanca
+Q3748;Monrovia
+Q3751;Praia
+Q3761;Accra
+Q3766;Damascus
+Q3780;Freetown
+Q3786;Esslingen am Neckar
+Q3799;Porto-Novo
+Q3805;Amman
+Q3808;Yaoundé
+Q3818;Malabo
+Q3825;Libreville
+Q3832;Bangui
+Q3838;Kinshasa
+Q3844;Brazzaville
+Q3854;Bujumbura
+Q3876;Lilongwe
+Q3881;Lusaka
+Q3882;Manama
+Q3883;Catanzaro
+Q3889;Maputo
+Q3894;Kampala
+Q3897;Luanda
+Q3901;Moroni
+Q3909;Maseru
+Q3921;Harare
+Q3929;Port Louis
+Q3932;São Tomé
+Q3935;Windhoek
+Q3940;Victoria
+Q3992;Liège
+Q4024;Frankfurt (Oder)
+Q4035;Osasco
+Q4045;Fujairah
+Q4093;Glasgow
+Q4133;Nordhorn
+Q4191;Lucerne
+Q4301;Arusha
+Q4361;Curitiba
+Q4629;Surat
+Q4709;Barquisimeto
+Q4999;Calimete
+Q5001;Perico
+Q5004;Rodas
+Q5008;Palmira
+Q5029;Colón
+Q5030;Sagua La Grande
+Q5042;Cruces
+Q5044;Cumanayagua
+Q5045;Lajas
+Q5112;Adelaide
+Q5266;Novo Mesto
+Q5276;Altena
+Q5316;Rovinj
+Q5398;Zülpich
+Q5408;Zaprešić
+Q5468;Durban
+Q5475;Treviso
+Q5640;Koprivnica
+Q5687;Jericho
+Q5713;Mary
+Q5724;Anuradhapura
+Q5753;Samarkand
+Q5760;Thebes
+Q5764;Bukhara
+Q5776;Bethlehem
+Q5788;Petra
+Q5806;Mecca
+Q5818;Córdoba
+Q5831;Melilla
+Q5832;Axum
+Q5838;Kabul
+Q5867;Vukovar
+Q5980;Alajärvi
+Q5981;Alavus
+Q5992;Kauhajoki
+Q6009;Kauhava
+Q6016;Kurikka
+Q6046;Novara
+Q6122;Asti
+Q6157;Seinäjoki
+Q6172;Ähtäri
+Q6221;Brescia
+Q6225;Coventry
+Q6226;St Albans
+Q6252;Monza
+Q6285;Varese
+Q6364;Uchkuduk
+Q6397;Avignon
+Q6454;Calais
+Q6487;Antalya
+Q6506;Varna
+Q6509;Burgas
+Q6537;Vicenza
+Q6616;Poitiers
+Q6647;Lalitpur
+Q6737;Castellammare di Stabia
+Q6761;Livorno
+Q6780;Hohnstein
+Q7024;Lugano
+Q7030;Wismar
+Q7036;Brühl
+Q7038;Girona
+Q7903;Casablanca
+Q8356;Valladolid
+Q8385;Ostrava
+Q8471;Reggio Calabria
+Q8621;Terni
+Q8646;Hong Kong
+Q8673;Lagos
+Q8678;Rio de Janeiro
+Q8686;Shanghai
+Q8692;Bilbao
+Q8717;Seville
+Q8745;Vigo
+Q8757;A Coruña
+Q8810;Granada
+Q8818;Valencia
+Q8826;Palma
+Q8851;Malaga
+Q8856;Straelen
+Q8969;Cancún
+Q9022;Guadalajara
+Q9270;Thimphu
+Q9279;Bandar Seri Begawan
+Q9310;Dili
+Q9326;Vientiane
+Q9347;Malé
+Q9365;Dushanbe
+Q9427;Timbuktu
+Q9783;Roermond
+Q9824;Erode
+Q9863;Salem
+Q9871;Tilburg
+Q9885;Coimbatore
+Q9888;Ooty
+Q9904;Edappadi
+Q9920;Haarlem
+Q9923;Namakkal
+Q9954;Purmerend
+Q10014;Kampen
+Q10086;Mysore
+Q10282;Pamplona
+Q10313;Donostia-San Sebastian
+Q10400;Almería
+Q10566;Saskatoon
+Q10686;Belfast
+Q10717;Georgetown
+Q10779;Zwenkau
+Q10933;Fröndenberg
+Q11043;Wiehl
+Q11125;Lugo
+Q11194;Sarajevo
+Q11568;Darwin
+Q11711;Siem Reap
+Q11725;Chongqing
+Q11739;Lahore
+Q11864;Junagadh
+Q11909;Vadodara
+Q11910;Gandhinagar
+Q11959;Alicante
+Q11974;Las Palmas de Gran Canaria
+Q11977;Tychy
+Q12233;Santander
+Q12246;Huelva
+Q12258;Sabadell
+Q12273;Gijón
+Q12292;Vila-real
+Q12303;Jerez de la Frontera
+Q12411;Pontevedra
+Q12887;Schaerbeek
+Q13153;Ronda
+Q13320;Savona
+Q13329;Piacenza
+Q13360;Reggio nell’Emilia
+Q13362;Ferrara
+Q13364;Ravenna
+Q13367;Forlì
+Q13369;Rimini
+Q13375;Pisa
+Q13377;Prato
+Q13386;Lecce
+Q13410;Latina
+Q13464;Foggia
+Q13486;Andria
+Q13498;Taranto
+Q13629;Sassari
+Q13648;Le Tampon
+Q13666;Messina
+Q13670;Syracuse
+Q13678;Agrigento
+Q13934;Rubí
+Q14318;Vitoria-Gasteiz
+Q14323;Mérida
+Q14328;Santa Cruz de Tenerife
+Q14453;Egilsstaðir
+Q14649;Avilés
+Q14903;Voerde (Niederrhein)
+Q14957;Papenburg
+Q15088;Tarragona
+Q15092;Castelló de la Plana
+Q15095;Albacete
+Q15174;Shenzhen
+Q15420;Granollers
+Q15468;Badalona
+Q15674;Kagoshima
+Q15678;Cáceres
+Q15679;Badajoz
+Q15681;Jaén
+Q15682;Cádiz
+Q15695;Salamanca
+Q15696;Zamora
+Q15699;León
+Q15760;Novorossiysk
+Q15853;Šempeter pri Gorici
+Q15855;Bovec
+Q15858;Brežice
+Q15860;Cerknica
+Q15861;Črnomelj
+Q15865;Domžale
+Q15867;Dravograd
+Q15868;Gornja Radgona
+Q15870;Grosuplje
+Q15871;Hrastnik
+Q15876;Ilirska Bistrica
+Q15877;Izola
+Q15883;Kamnik
+Q15885;Kostanjevica na Krki
+Q15886;Krško
+Q15889;Lenart v Slovenskih goricah
+Q15890;Lendava
+Q15896;Metlika
+Q15898;Mežica
+Q15899;Murska Sobota
+Q15901;Postojna
+Q15906;Ptuj
+Q15908;Radeče
+Q15911;Ravne na Koroškem
+Q15914;Ruše
+Q15916;Sežana
+Q15917;Slovenska Bistrica
+Q15918;Slovenj Gradec
+Q15919;Slovenske Konjice
+Q15926;Trebnje
+Q15928;Velenje
+Q15930;Zagorje ob Savi
+Q15984;Leer
+Q16010;Esch-sur-Alzette
+Q16012;Differdange
+Q16022;Barsinghausen
+Q16258;Maldonado
+Q16461;Nanaimo
+Q16572;Guangzhou
+Q16740;Maple Ridge
+Q16869;Constantinople
+Q17151;Thessaloniki
+Q17856;Ballarat
+Q17895;Palmerston
+Q18021;Biella
+Q18125;Manchester
+Q18705;Bajram Curri
+Q18709;Patos
+Q18730;Cërrik
+Q18737;Rrëshen
+Q18746;Roskovec
+Q18751;Poliçan
+Q18768;Laç
+Q18772;Librazhd
+Q18774;Kuçovë
+Q18777;Gramsh
+Q18780;Likasi
+Q18791;Shijak
+Q18808;Pyongyang
+Q19258;Prrenjas
+Q19259;Rubik
+Q19300;Molfetta
+Q19307;Çorovodë
+Q19429;Petrovaradin
+Q19583;Gori
+Q19689;Tirana
+Q20835;Hørsholm
+Q21176;Viborg
+Q21178;Næstved
+Q21179;Sønderborg
+Q21180;Silkeborg
+Q21181;Fredericia
+Q21184;Køge
+Q21185;Hjørring
+Q21197;Chișinău
+Q22066;Águas de Santa Bárbara
+Q22889;Bath
+Q22905;Bradford
+Q23021;Fort St. John
+Q23044;San Rafael
+Q23051;Swansea
+Q23070;Sneek
+Q23154;Bristol
+Q23311;City of London
+Q23436;Edinburgh
+Q23438;Ashgabat
+Q23551;Mérida
+Q23564;Podgorica
+Q23725;Byzantium
+Q24149;Arabsiyo
+Q24231;Nakskov
+Q24341;Talkalakh
+Q24826;Liverpool
+Q24879;Bremen
+Q25270;Pristina
+Q25282;Da Nang
+Q25286;Uppsala
+Q25390;Leeuwarden
+Q25475;Batumi
+Q25579;Umeå
+Q25659;Marjayoun
+Q25797;Žilina
+Q25804;Trondheim
+Q26101;Kasugai
+Q26119;Prešov
+Q26134;Nabatieh
+Q26155;Jounieh
+Q26175;Trnava
+Q26234;Esbjerg
+Q26268;Luleå
+Q26393;Poprad
+Q26397;Nitra
+Q26563;Roskilde
+Q26569;Zahlé
+Q26793;Bergen
+Q26881;Helsingør
+Q26906;Ciudad Bolívar
+Q26958;Layla
+Q27001;Martin
+Q27116;Vejle
+Q27119;Kolding
+Q27138;Unaizah
+Q27139;Afif
+Q27161;Körfez
+Q27162;Gölcük
+Q27168;Randers
+Q27174;Najran
+Q27176;Al Bahah
+Q27212;Thatta
+Q27221;As Sulayyil
+Q27222;Ras Tanura
+Q27225;Duba
+Q27234;Safwa City
+Q27242;Al-`Ula
+Q27359;Al Majma'ah
+Q27393;Herning
+Q27400;Hafar Al-Batin
+Q27402;Pinya
+Q27425;Hillerød
+Q27430;Jubail
+Q27452;Frederikshavn
+Q27469;Sakakah
+Q27660;Jizan
+Q27678;Holstebro
+Q28031;Svendborg
+Q28042;Holbæk
+Q28441;São Luís
+Q28516;Tarnobrzeg
+Q28729;Kozhikode
+Q28911;Lahti
+Q29042;Akureyri
+Q29303;Canterbury
+Q29585;Migues
+Q29888;Aswan
+Q29962;Asyut
+Q30002;Chengdu
+Q30520;Bulayev
+Q30616;Heredia
+Q30617;Cartago
+Q30620;Limón
+Q30687;Puntarenas
+Q30771;Jalna
+Q30951;Jalgaon
+Q30963;Kingston
+Q30970;Jamestown
+Q30985;Hamilton
+Q30990;Plymouth
+Q30994;The Valley
+Q30996;El Alto
+Q31350;Shibin Al Kawm, Al Minufiyah
+Q31356;Mingora
+Q31565;Jerash
+Q31572;Al Karak
+Q31594;Ar Ramtha
+Q31616;Ma'an
+Q31805;Invercargill
+Q32453;Rodríguez
+Q33334;Sikar
+Q33377;Jalandhar
+Q33412;Hubli
+Q33414;Hospet
+Q33532;Gandia
+Q33935;Tel Aviv
+Q33962;Sanremo
+Q34001;Roubaix
+Q34106;Sarnia
+Q34116;Thunder Bay
+Q34126;Funafuti
+Q34183;Barrie
+Q34218;Burlington
+Q34370;Rotterdam
+Q34647;Johannesburg
+Q34664;Hiroshima
+Q34692;Kingston
+Q34820;Santo Domingo
+Q34932;Brisbane
+Q34986;Trinidad
+Q34995;Cobija
+Q35001;Lismore
+Q35004;Tarija
+Q35045;Potosí
+Q35135;Catalão
+Q35178;Kuwait city
+Q35246;Oruro
+Q35362;Tajynsha
+Q35381;Colombo
+Q35484;Medina
+Q35493;Almaty
+Q35784;Al Bayda
+Q36168;Bridgetown
+Q36219;Brega
+Q36260;Apia
+Q36281;Roseau
+Q36307;Salta
+Q36312;Calgary
+Q36405;Aberdeen
+Q36526;Port Moresby
+Q36647;Cork
+Q36716;Kmeti
+Q36989;Pardubice
+Q37013;Rauma
+Q37100;Auckland
+Q37104;Alajuela
+Q37333;Lublin
+Q37400;Naypyidaw
+Q37701;Bloemfontein
+Q37801;Bălți
+Q37806;Port Vila
+Q37995;Yangon
+Q38380;Angers
+Q38545;Adana
+Q38807;Suva
+Q38811;Nasiriyah
+Q38834;Nuku'alofa
+Q38855;Gabane
+Q38870;Kopong
+Q38902;Thamaga
+Q39042;Cheyenne
+Q39121;Leeds
+Q39178;Port of Spain
+Q39383;Bodø
+Q39578;Qormi
+Q39583;Birkirkara
+Q39984;Cannes
+Q40191;Hobart
+Q40269;Porto Alegre
+Q40706;Paulínia
+Q40738;Bursa
+Q40811;Sukhumi
+Q40816;Benghazi
+Q40844;Breda
+Q40921;Honiara
+Q41128;Itanagar
+Q41183;Aleppo
+Q41252;Bydgoszcz
+Q41262;Nottingham
+Q41295;Basseterre
+Q41339;El Agheila
+Q41473;Nizamabad
+Q41496;Thiruvarur
+Q41547;St. George's
+Q41562;Thoothukudi
+Q41599;Świnoujście
+Q41621;Haifa
+Q41699;Castries
+Q41843;Beersheba
+Q41970;Pyatigorsk
+Q42117;Ansan
+Q42120;Anyang
+Q42146;Cheonan
+Q42160;Hwaseong
+Q42448;Sheffield
+Q42462;York
+Q42678;Makeni
+Q42800;Belo Horizonte
+Q42941;Agra
+Q42956;Harbin
+Q43382;Plymouth
+Q43387;Edirne
+Q43418;Concepción
+Q43453;Plzeň
+Q43463;Fortaleza
+Q43475;Derby
+Q43509;Guayaquil
+Q44013;Vaughan
+Q44016;Markham
+Q44059;La Plata
+Q44162;San Fernando del Valle de Catamarca
+Q44198;Brampton
+Q44206;Resistencia
+Q44208;Rawson
+Q44210;Córdoba
+Q44211;Corrientes
+Q44213;Paraná
+Q44214;Formosa
+Q44217;San Salvador de Jujuy
+Q44236;La Rioja
+Q44237;Mendoza
+Q44238;Posadas
+Q44239;Neuquén
+Q44240;Viedma
+Q44241;San Juan
+Q44242;Río Gallegos
+Q44243;San Luis
+Q44253;Santiago del Estero
+Q44254;Ushuaia
+Q44255;San Miguel de Tucumán
+Q44948;Krnete
+Q44950;Milosavci
+Q45197;Świętochłowice
+Q45301;Trabzon
+Q45313;Herat
+Q45604;Kandahar
+Q45797;Dunkirk
+Q45942;Annaba
+Q46135;Créteil
+Q46319;Sükhbaatar
+Q46702;Kavajë
+Q46940;Alcalá de Henares
+Q47034;Espoo
+Q47048;Oulu
+Q47138;Encarnación
+Q47264;Hassan
+Q47282;Osh
+Q47430;Green Bay
+Q47483;Sagunto
+Q47492;Gaza City
+Q47554;Toruń
+Q47571;Lorca
+Q47772;Bariloche
+Q47837;Laayoune
+Q47952;Salford
+Q48194;Frýdek-Místek
+Q48278;Medellín
+Q48285;Villa Carlos Paz
+Q48288;Jesús María
+Q48290;Cosquín, Córdoba
+Q48293;Alta Gracia
+Q48320;Kōbe
+Q48338;Kayseri
+Q48344;Recife
+Q48403;Amritsar
+Q48472;Konye-Urgench
+Q48814;Strumica
+Q49143;Quincy
+Q49303;Acuera
+Q49550;Mahón
+Q50816;Mississauga
+Q50968;Mosina
+Q50991;Swarzędz
+Q50992;Pobiedziska
+Q51003;Murowana Goślina
+Q51103;Cali
+Q51111;Pereira
+Q51408;Kórnik
+Q51427;Szamotuły
+Q51441;Czempiń
+Q51689;Plano
+Q51878;San Vito dei Normanni
+Q52101;Middelburg
+Q52506;General Roca
+Q52535;Rosario
+Q52578;Concordia
+Q52585;Gualeguaychú
+Q52591;Columbus
+Q52602;Gualeguay
+Q52828;Gołańcz
+Q52829;Grodzisk Wielkopolski
+Q52840;Jarocin
+Q52842;Kalisz
+Q52845;Konin
+Q52850;Kostrzyn
+Q52892;Leszno
+Q52893;Nowy Tomyśl
+Q52896;Pniewy
+Q52898;Rawicz
+Q52900;Wronki
+Q52902;Września
+Q52903;Środa Wielkopolska
+Q52998;Richmond Hill
+Q53077;Saltillo
+Q54108;Bahía Blanca
+Q54118;Azul
+Q54119;San Pedro
+Q54154;Revere
+Q54452;Kumanovo
+Q54880;Valencia
+Q54886;Cuenca
+Q54898;San Cristóbal de La Laguna
+Q55377;Oberá
+Q55378;Puerto Iguazú
+Q55385;Palpalá
+Q55855;Bella Vista, Corrientes
+Q55862;Goya
+Q56064;Colonia del Sacramento
+Q56136;San Bernardo
+Q57278;Newcastle
+Q57924;Lugau
+Q58349;General Pico
+Q58462;Ra's Lanuf
+Q58794;Satna
+Q59086;Suva Reka
+Q59101;Narvik
+Q59698;Swakopmund
+Q59975;Bejaïa
+Q60956;Ashkelon
+Q61089;Melaka City
+Q61092;George Town
+Q61301;Campeche
+Q61302;Chihuahua
+Q61320;Colima
+Q61394;Latur
+Q61432;Brandon
+Q61434;Nellore
+Q61445;Navi Mumbai
+Q61944;Semey
+Q62677;Karakorum
+Q62823;Barranquilla
+Q62868;Koszalin
+Q62937;Pułtusk
+Q63092;Carmona
+Q63233;Nasser
+Q66568;Kanpur
+Q66616;Indore
+Q68144;Zug
+Q72125;Giugliano in Campania
+Q72248;Vitry-sur-Seine
+Q72259;Portsmouth
+Q72571;Shoshong
+Q72818;Haiphong
+Q73022;Sittard
+Q73639;Pogradec
+Q74176;Beit Hanoun
+Q75621;Salamiyah
+Q76493;Dzerzhinsk
+Q79322;Kluczbork
+Q79808;Constanța
+Q79848;Southampton
+Q79857;Konya
+Q79863;Tskhinvali
+Q79980;Varanasi
+Q79990;Christchurch
+Q80021;Daugavpils
+Q80484;Patna
+Q80561;Antakya
+Q80985;Fez
+Q81033;Monterrey
+Q81046;Charleroi
+Q81137;Olomouc
+Q81398;Acapulco
+Q81562;Pico Truncado
+Q81581;Szeged
+Q81621;Fort-de-France
+Q81656;Esquel
+Q81788;Giza
+Q81882;Santos
+Q82030;Villarrobledo
+Q82070;Tyre
+Q82185;La Rochelle
+Q82500;St. Pölten
+Q82765;Olsztyn
+Q83061;Van
+Q83065;Leicester
+Q83178;Almere
+Q83189;Goiânia
+Q83285;Durrës
+Q83317;Mosul
+Q83387;Diyarbakır
+Q83531;Bitlis
+Q83786;Shimla
+Q92161;Changchun
+Q92212;Opole
+Q92237;Hsinking
+Q92561;London
+Q92689;Sopot
+Q93230;Rawalpindi
+Q93323;Chrzanów
+Q93338;Gaziantep
+Q93347;Mostar
+Q94637;Mut
+Q94775;Baracoa
+Q99151;Ourense
+Q99648;Ibb
+Q101254;Newport
+Q101418;Lobamba
+Q101530;Wieluń
+Q101625;Marrakesh
+Q101704;Myszyniec
+Q102317;Kielce
+Q102350;Bytom
+Q102397;Miskolc
+Q103011;Corinth
+Q103217;Częstochowa
+Q103717;Rovaniemi
+Q103725;Hafnarfjörður
+Q103892;Zabrze
+Q104302;Chorzów
+Q104712;Elbląg
+Q104720;Zielona Góra
+Q104725;Płock
+Q104731;Gorzów Wielkopolski
+Q104740;Radom
+Q104778;Beloretsk
+Q105037;Callao
+Q105048;Słupsk
+Q105060;Sosnowiec
+Q105084;Gliwice
+Q105344;Etoumbi
+Q106115;Tartagal
+Q106122;Rosario de la Frontera
+Q106274;Legnica
+Q106583;Bielsko-Biała
+Q106896;Ísafjörður
+Q107094;Rybnik
+Q107106;Jastrzębie-Zdrój
+Q107398;Akranes
+Q108223;Belize City
+Q108672;Dąbrowa Górnicza
+Q108679;Ruda Śląska
+Q109092;Kilkenny
+Q109386;Nampho
+Q109535;Zutphen
+Q109949;Matola
+Q110218;Mwanza
+Q110732;Wałbrzych
+Q112657;Pejë
+Q113464;Chatham-Kent
+Q114093;Stryków
+Q114257;Elbasan
+Q114970;Bauta
+Q114977;Guanajay
+Q114984;San Antonio de los Baños
+Q115006;Artemisa
+Q115256;Taoyuan City
+Q115323;Sumbawanga
+Q115329;Camagüey
+Q115382;Bayamo
+Q115403;Manzanillo
+Q115465;Ciego de Ávila
+Q115998;Gorna Oryahovitsa
+Q116156;Mariel
+Q116341;Korçë
+Q117040;Santiago de Cuba
+Q117625;Yurimaguas
+Q117731;Tamralipta
+Q118910;Nemenčinė
+Q118995;Muş
+Q119219;Pimpri-Chinchwad
+Q120641;Bitez
+Q120740;Lubomierz
+Q121551;Jhelum
+Q122758;Błażowa
+Q122803;Erzurum
+Q123160;Nanyuki
+Q123196;Sderot
+Q123438;Bogatynia
+Q123511;Grudziądz
+Q123709;Dundee
+Q124385;Miranshah
+Q124739;Tijuana
+Q124919;Kiuruvesi
+Q125080;Vaasa
+Q125293;Puebla City
+Q125434;Port Elizabeth
+Q125646;Jesús, Peru
+Q125924;Vinto
+Q126084;Acre
+Q126148;Tangier
+Q126269;Wolverhampton
+Q126308;El Bayyada
+Q126415;Ayn al-Arab/Kobanî
+Q126805;St. Catharines
+Q126898;Antibes
+Q127041;Mangalore
+Q127063;Kars
+Q127623;Vantaa
+Q128139;Priverno
+Q128147;Kingston upon Hull
+Q128849;Nagano
+Q129259;Niš
+Q129352;Stepanakert
+Q129610;Galway
+Q129649;İzmit
+Q129789;Al-Muabbada
+Q130191;Norwich
+Q130212;Székesfehérvár
+Q130228;Yenice
+Q130238;Cap Malheureux
+Q130254;Sirwah
+Q130469;Mazar-i-Sharif
+Q130514;Luxor
+Q131127;Banja Luka
+Q131128;Braunau am Inn
+Q131233;South Tarawa
+Q131243;Oranjestad
+Q131323;Misrata
+Q131495;Şırnak
+Q131612;Wiener Neustadt
+Q131638;Shkodër
+Q131694;Aden
+Q131818;Oran
+Q132043;Kulob
+Q132189;Saint-Marc
+Q132395;Byala, Ruse Province
+Q132409;Nalut
+Q132671;Pau
+Q132679;Willemstad
+Q132754;Erbil
+Q133073;Dunedin
+Q133116;Hamilton
+Q133118;Şanlıurfa
+Q133123;Patras
+Q133315;Limerick
+Q133961;Shipka
+Q134086;Al Jawf
+Q134121;Namur
+Q134287;Tarsus
+Q134291;Mersin
+Q134509;Port Said
+Q134620;Jyväskylä
+Q134672;Exeter
+Q134703;Kahramanmaraş
+Q134712;Šiauliai
+Q134740;Davlekanovo
+Q134902;Stoke-on-Trent
+Q135432;Nesher
+Q135864;Santa Elena
+Q135970;Pilar
+Q135983;Salto del Guairá
+Q135993;San Pedro de Ycuamandiyú
+Q136217;Erzincan
+Q136818;Buzema
+Q137203;Sandakan
+Q137271;Kota Kinabalu
+Q137863;Švenčionys
+Q138833;Kom Ombo
+Q138986;مأرب
+Q139045;Álftanes
+Q139725;Morąg
+Q139773;Abu Qir
+Q140075;Gold Coast
+Q140304;Zagazig
+Q140314;Tsageri
+Q140476;Zagórów
+Q140631;Tainan
+Q141263;Selebi-Phikwe
+Q141687;Bardia
+Q142101;Kożuchów
+Q142778;Coria, Cáceres
+Q144416;Zaio
+Q144773;Zakroczym
+Q144845;Dazaifu
+Q144983;Banská Bystrica
+Q145002;Trenčín
+Q145127;Tsalka
+Q145715;Qusar
+Q145764;Selat Panjang
+Q145865;Zamora
+Q145972;Zamość
+Q146307;Děčín
+Q146342;Teplice
+Q146356;Chomutov
+Q146509;Krzeszowice
+Q146723;Kisangani
+Q147089;Manisa
+Q147196;Zapala
+Q147243;Štip
+Q147402;Zapopan
+Q147548;Zaqatala
+Q147556;Istočno Sarajevo
+Q147607;Jablonec nad Nisou
+Q147697;Zarafshan
+Q147750;Zarasai
+Q147782;Zaraza
+Q147934;Jelenia Góra
+Q147938;Tsarevo
+Q147975;Zaria
+Q148327;Emona
+Q148615;Międzyzdroje
+Q148947;Krosno Odrzańskie
+Q148956;Biała Rawska
+Q149111;Lubsko
+Q149155;Semenivka
+Q149411;Żarki
+Q149955;Esmeraldas
+Q151920;Tiberias
+Q152368;Beit She'an
+Q152374;Kiryat Bialik
+Q152379;Hod HaSharon
+Q152385;Ma'alot-Tarshiha
+Q152387;Kiryat Yam
+Q152396;Dimona
+Q152406;Kiryat Gat
+Q152413;Givatayim
+Q152418;Karmiel
+Q152436;Kfar Saba
+Q152449;Beit Shemesh
+Q152462;Afula
+Q152467;Bnei Brak
+Q152473;Arad
+Q152491;Herzliya
+Q152501;Kiryat Ono
+Q152567;Kiryat Motzkin
+Q152593;Baqa-Jatt
+Q152602;Kiryat Ata
+Q152659;Kafr Qasim
+Q152831;Duhok
+Q152902;Tanga
+Q153331;Singida
+Q153511;Carúpano
+Q154897;Aabenraa
+Q155277;Tlaquepaque
+Q155530;Miarinarivo
+Q155915;Kastamonu
+Q155993;Kladno
+Q156080;Opava
+Q156858;Struga
+Q156974;Ústí nad Labem
+Q157024;Tetovo
+Q157032;Prilep
+Q157034;Kruševo
+Q157050;Veles
+Q157058;Gostivar
+Q157246;Bitola
+Q157516;Salantai
+Q157915;Garoua
+Q158004;Piotrków Trybunalski
+Q158006;Jaworzno
+Q158079;Kičevo
+Q158088;Kavadarci
+Q158119;Ramallah
+Q158242;Adamov
+Q158467;Gwalior
+Q158485;Siemianowice Śląskie
+Q158488;Piekary Śląskie
+Q159325;Lüderitz
+Q159610;Vlorë
+Q159835;Batman
+Q160173;Ruse
+Q160450;Samsun
+Q160493;Inverness
+Q160642;Salisbury
+Q160884;Keetmanshoop
+Q161893;Żukowo
+Q161905;Leśna
+Q161909;Iłowa
+Q161912;Solec Kujawski
+Q161914;Pieńsk
+Q162279;Kuopio
+Q162442;Allahabad
+Q162548;Oskemen
+Q162615;Cartagena
+Q162782;Port Antonio
+Q163464;Charallave
+Q163490;Sidon
+Q163584;Derry
+Q163607;Angkor
+Q163798;Thrissur
+Q164003;San Buenaventura, La Paz
+Q164023;Nowe
+Q164241;Jasień, Lubusz Voivodeship
+Q164954;Negotino
+Q165066;Szprotawa
+Q165204;Merida
+Q165285;Huittinen
+Q165420;Pleven
+Q165422;Francistown
+Q165444;Tikrit
+Q165450;Aral
+Q165768;Lobatse
+Q165867;Modi'in-Maccabim-Re'ut
+Q165988;Bobonong
+Q165995;Malatya
+Q166002;Upper Hutt
+Q166065;Lelystad
+Q166513;Bolgatanga
+Q166717;Kruszwica
+Q166824;Afyonkarahisar
+Q166838;Zavala
+Q167235;San Antonio del Sur
+Q167301;Letlhakane
+Q167394;Kragujevac
+Q167551;Gitega
+Q167582;Yokneam Illit
+Q167594;Tira
+Q167617;Rahat
+Q167632;Ofakim
+Q167649;Netivot
+Q167659;Nof HaGalil
+Q167677;Yavne
+Q167715;Thiruvananthapuram
+Q167731;Zawadzkie
+Q167744;Gryfice
+Q167749;Nahariya
+Q167800;Zakho
+Q167839;Čakovec
+Q167953;Rakovski
+Q167974;Táriba
+Q168162;Ness Ziona
+Q168176;Tamra
+Q168193;Najaf
+Q168197;Adıyaman
+Q168202;Rosh HaAyin
+Q168215;Tirat Carmel
+Q168225;Hebron
+Q168245;Umm al-Fahm
+Q168330;Sakhnin
+Q168337;Migdal HaEmek
+Q168652;Hargeisa
+Q168668;Dobrich
+Q168824;Kandé
+Q168866;Eskişehir
+Q168888;Maceió
+Q168902;Zbąszynek
+Q168905;Zbąszyń
+Q168954;Tripoli
+Q168965;Moa
+Q169134;Nara
+Q169160;Lezhë
+Q169224;Zduny
+Q169247;Doboj
+Q169334;Termas de Río Hondo
+Q170047;Samarra
+Q170115;Srinagar
+Q170244;Berat
+Q170263;Chester
+Q170287;Subotica
+Q170313;Mbombela
+Q170315;Abbottabad
+Q170415;Stara Zagora
+Q170457;Aydın
+Q170497;Gloucester
+Q170507;Nanterre
+Q170525;Agadir
+Q170532;Amasya
+Q170540;Taubaté
+Q170642;Hukuntsi
+Q170660;Moshupa
+Q170663;Shakawe
+Q170668;Gumare
+Q170688;Santa Cruz de la Sierra
+Q170693;Keflavík
+Q170698;Tutume
+Q170711;Palapye
+Q170714;Ramotswa
+Q170715;Kasane
+Q170717;Mogoditshane
+Q170724;Mahalapye
+Q170725;Molepolole
+Q170727;Tshabong
+Q170730;Kanye
+Q170732;Maun
+Q170755;Mathangwane
+Q170816;Maitengwe
+Q170872;Good Hope, Botswana
+Q170919;Pattaya
+Q170967;Denizli
+Q171012;Q171012
+Q171018;Zlín
+Q171031;Isparta
+Q171032;Mabeleapudi
+Q171065;Q171065
+Q171080;Kotor
+Q171101;Lecheng
+Q171223;Nyíregyháza
+Q171353;Esztergom
+Q171357;Kecskemét
+Q171612;Rio Branco
+Q171617;Campinas
+Q171632;Maracaibo
+Q171639;Ashdod
+Q171771;Bhubaneswar
+Q171810;Alanya
+Q172157;Winchester
+Q172251;Yabrud
+Q172343;Rafah
+Q172415;Kutaisi
+Q172438;Peterborough
+Q172597;ʿAmrān
+Q172601;Neftekamsk
+Q172996;George Town
+Q173277;Blagoevgrad
+Q173310;Kirkuk
+Q173338;Cetinje
+Q173474;Veliko Tarnovo
+Q173532;Byblos
+Q173545;Hama
+Q173690;Gjirokastër
+Q173731;Ghazni
+Q173985;Faisalabad
+Q174002;Colombes
+Q174019;Béziers
+Q174060;Elâzığ
+Q174237;Budva
+Q174262;Saint Peter Port
+Q174684;Tuzla
+Q174916;Tartus
+Q175262;Burnie
+Q175323;Adapazarı
+Q175459;Yevlakh
+Q175596;Ayoun el Atrous
+Q175903;Ischia di Castro
+Q175923;Jableh
+Q176086;Derik
+Q176728;Neskaupstaður
+Q176823;San Matías, Santa Cruz
+Q176891;Carapicuíba
+Q176924;Cananea
+Q177880;Yatağan
+Q178067;Toamasina
+Q178168;Mitrovica
+Q178385;Sliven
+Q178531;Vidin
+Q178582;Wels
+Q178663;Meknes
+Q178725;Niterói
+Q178835;Baalbek
+Q178931;Río Cauto
+Q178993;Palmas
+Q179007;Tucupita
+Q179290;Martvili
+Q179701;Jimaguayú
+Q179815;Durham
+Q179830;Jelgava
+Q179843;Makhmur
+Q180057;Lincoln
+Q180084;Ife
+Q180131;Gabrovo
+Q180139;Hradec Králové
+Q180176;Kozani
+Q180233;Pori
+Q180294;Jaffa
+Q180333;Foča
+Q180522;Aqaba
+Q180803;Truro
+Q180810;Mtskheta
+Q180921;Omdurman
+Q181379;Osmaniye
+Q181557;Kaohsiung
+Q181830;Shumen
+Q181854;Lappeenranta
+Q182009;Tekirdağ
+Q182025;Aksaray
+Q182059;Kumasi
+Q182092;Tobruk
+Q182299;Chania
+Q182428;Silistra
+Q182481;Tourcoing
+Q182521;Rustavi
+Q182625;Windsor
+Q182640;Ta'if
+Q182923;Stirling
+Q182984;Kano
+Q183104;Feldkirch
+Q183124;Cochabamba
+Q183199;Ioannina
+Q183298;Ibadan
+Q183303;Jalalabad
+Q183405;Safi
+Q183551;Waterford
+Q183651;Tokat
+Q184046;Zenica
+Q184090;Preston
+Q184184;Nouadhibou
+Q184403;São Bernardo do Campo
+Q184409;Guarulhos
+Q184459;Zeghanghane
+Q184539;Ordu
+Q184864;Megara
+Q185066;Cholet
+Q185084;Siirt
+Q185114;Targovishte
+Q185134;Tlemcen
+Q185156;Guantánamo
+Q185157;Tétouan
+Q185289;Pernik
+Q185336;Zugdidi
+Q185345;Poti
+Q185346;Ceyhan
+Q185404;Bundaberg
+Q185453;Multan
+Q185458;Quetta
+Q185518;Mandalay
+Q185555;Birštonas
+Q185689;Maros
+Q186040;Ayodhya
+Q186056;Kenge, Bandundu
+Q186141;Gangtok
+Q186142;Garðabær
+Q186234;Kufa
+Q186237;Joensuu
+Q186254;Haskovo
+Q186362;Embu
+Q186441;Gryfino
+Q186569;Yambol
+Q186576;Pazardzhik
+Q186935;Ahuachapán
+Q187284;Hurghada
+Q187346;Constantine
+Q187352;Kavala
+Q187593;Lubumbashi
+Q187961;Santa Bárbara
+Q188022;Mardin
+Q188304;Sunderland
+Q188336;Safed
+Q188693;Blantyre
+Q188892;Ribeirão Preto
+Q188894;Kütahya
+Q188901;Sorocaba
+Q189043;Petrópolis
+Q189059;Mytilene
+Q189128;León
+Q189133;Cairns
+Q189134;Uşak
+Q189138;Hermosillo
+Q189157;Utena
+Q189273;Zelów
+Q189305;Kyustendil
+Q189328;Lovech
+Q189383;Damietta
+Q189392;Karnak
+Q189471;Cupertino
+Q189502;Vratsa
+Q189650;Razgrad
+Q189685;Abomey
+Q189697;Karabük
+Q189715;Courbevoie
+Q189792;Zenopolis in Isauria
+Q189901;Argos
+Q189969;Ulcinj
+Q190005;Cienfuegos
+Q190021;Townsville
+Q190165;Luang Prabang
+Q190184;Harar
+Q190235;Horsens
+Q190583;Mikkeli
+Q190828;Petah Tikva
+Q190847;Alexandroupoli
+Q190897;Fier
+Q190948;Abha
+Q191015;Trakai
+Q191047;Ilulissat
+Q191099;Petrich
+Q191170;Fallujah
+Q191204;Slemani
+Q191415;Asnières-sur-Seine
+Q191642;São José dos Campos
+Q191652;Santo André
+Q191687;Heliopolis
+Q191718;Berbera
+Q191793;Karviná
+Q191805;Mladá Boleslav
+Q191871;Asenovgrad
+Q191914;Hachinohe
+Q192155;Kotka
+Q192176;Bender
+Q192181;São José do Rio Preto
+Q192213;Holon
+Q192225;Netanya
+Q192235;Ciudad del Este
+Q192378;Champigny-sur-Marne
+Q192518;Shibam
+Q192773;Aulnay-sous-Bois
+Q192807;Ramat Gan
+Q192870;Nokia
+Q192875;Kardzhali
+Q192888;Smolyan
+Q192896;Carlisle
+Q192898;Selfoss
+Q192904;Havířov
+Q192918;Sabratha
+Q192926;Kazanlak
+Q192961;Ramadi
+Q192980;Lamia
+Q193016;Campina Grande
+Q193021;Duque de Caxias
+Q193082;Svishtov
+Q193103;Herceg Novi
+Q193180;Kajaani
+Q193229;Visoko
+Q193241;Nesebar
+Q193250;Bulawayo
+Q193289;Iquitos
+Q193367;Porvoo
+Q193409;Tripoli
+Q193443;Salavat
+Q193445;Artvin
+Q193452;Armagh
+Q193478;Buda
+Q193486;Dire Dawa
+Q193763;Banovci, Nijemci
+Q193787;Tauragė
+Q193802;Oujda
+Q193920;Rueil-Malmaison
+Q194146;Niğde
+Q194164;Krujë
+Q194165;Irbid
+Q194328;Uberlândia
+Q194332;Mogi das Cruzes
+Q194338;São Carlos
+Q194438;Sibay
+Q194452;Karakol
+Q195215;Changhua City
+Q195410;Al-Qusayr
+Q195492;Kibaha
+Q195531;Jaramana
+Q196163;Łobez
+Q198419;Elektrostal
+Q198444;Porvenir
+Q198989;Aktau
+Q199440;Mexicali
+Q199500;Gyumri
+Q199528;Dehradun
+Q199605;Guwahati
+Q199712;Çanakkale
+Q199723;Balıkesir
+Q199762;Balkanabat
+Q199909;Karbala
+Q199970;Jastrowie
+Q200016;Visakhapatnam
+Q200019;Jodhpur
+Q200022;Matsuyama
+Q200028;Hamilton
+Q200030;Latakia
+Q200036;Volos
+Q200049;Ajmer
+Q200054;Jamshedpur
+Q200061;Prizren
+Q200119;Ujjain
+Q200122;Linnich
+Q200123;Ludhiana
+Q200133;Chalkida
+Q200166;Kitchener
+Q200200;Assur
+Q200235;Nashik
+Q200237;Meerut
+Q200251;Kōchi
+Q200311;Mathura
+Q200663;Faridabad
+Q200707;Takamatsu
+Q200709;Słubice
+Q200713;Aurangabad
+Q200718;Bikaner
+Q200731;Tottori
+Q200733;Nikšić
+Q200747;Wakayama
+Q200805;Aguascalientes City
+Q200878;Jabalpur
+Q200908;Rethymno
+Q200951;Bolu
+Q201051;Rishon LeZion
+Q201095;Giresun
+Q201101;Rize
+Q201186;Biskupiec
+Q201342;Niamtougou
+Q201613;Maebashi
+Q201722;Veroia
+Q201832;Aligarh
+Q201932;Kōfu
+Q202158;Hämeenlinna
+Q202162;Aba
+Q202188;Ardahan
+Q202195;Tunceli
+Q202776;Ziguinchor
+Q202852;Bled
+Q202889;Opalenica
+Q202907;Ōtsu
+Q202973;Kingston
+Q203000;Perth
+Q203197;Kandy
+Q203299;Faiyum
+Q203301;Umuahia
+Q203380;Napier
+Q203476;Port Blair
+Q203619;Kemi
+Q203675;Mažeikiai
+Q204271;San Luis Potosí
+Q204308;Miyazaki
+Q204317;Echternach
+Q204365;Zinder
+Q204381;Goma
+Q204382;Kouvola
+Q204391;Zinjibar
+Q204434;Bihać
+Q204439;El Alamein
+Q204720;Hereford
+Q204905;Eleusis
+Q204957;Kalundborg
+Q204966;Übach-Palenberg
+Q205119;Cajamarca
+Q205327;Kananga
+Q205526;Yamagata
+Q205632;Aubervilliers
+Q205648;Granada
+Q205792;Tamanrasset
+Q205832;Corfu
+Q205905;Lancaster
+Q205942;Yalova
+Q206125;Grabów nad Prosną
+Q206484;Abeokuta
+Q206687;Nelson
+Q206760;Kyrenia
+Q206879;Nevşehir
+Q206881;Kilis
+Q206885;Düzce
+Q206891;Kırıkkale
+Q206895;Hakkâri
+Q206900;Çorum
+Q206903;Kırklareli
+Q206954;Kastoria
+Q206957;Serres
+Q207098;Ghaziabad
+Q207100;Ziębice
+Q207223;Drogheda
+Q207259;Zliten
+Q207295;Uusikaupunki
+Q207321;Matsue
+Q207322;Huambo
+Q207324;Cuttack
+Q207350;Rehovot
+Q207371;Lichfield
+Q207467;Trikala
+Q207470;Bijelo Polje
+Q207540;Lod
+Q207639;Chichester
+Q207749;Thane
+Q207752;Shillong
+Q207753;Hyvinkää
+Q207754;Trichy
+Q207756;Tauranga
+Q207799;Puri
+Q207801;Bijeljina
+Q207891;Kokkola
+Q207972;Tepic
+Q207998;Fethiye
+Q207999;Kuusamo
+Q208005;Kırşehir
+Q208006;Bilecik
+Q208022;Police
+Q208097;Imphal
+Q208098;Sisimiut
+Q208151;León
+Q208162;Patiala
+Q208200;Berane
+Q208287;Kauniainen
+Q208293;Järvenpää
+Q208318;Kaduna
+Q208352;Borjomi
+Q208403;Komotini
+Q208472;Bingöl
+Q208473;Przemyśl
+Q208718;Port Sudan
+Q208725;Bat Yam
+Q208750;Prievidza
+Q208948;Rotorua
+Q209009;Telavi
+Q209034;Toluca
+Q209176;Ely
+Q209393;Ghat
+Q209423;Kirkenes
+Q209537;East London
+Q209698;Kolhapur
+Q209925;Çankırı
+Q209932;Biała Podlaska
+Q209978;Edessa
+Q210093;Motril
+Q210161;Ambato
+Q210197;Kukës
+Q210292;Yozgat
+Q210296;Xanthi
+Q210307;Ciudad Nezahualcóyotl
+Q210470;Katerini
+Q210886;Villahermosa
+Q210985;Chelmsford
+Q210987;Salo
+Q211020;Imatra
+Q211070;Mbandaka
+Q211073;Matadi
+Q211195;Plav
+Q211218;Aasiaat
+Q211318;Pitsunda
+Q211343;Pljevlja
+Q211563;Beira
+Q211590;Santa Clara
+Q211805;Bartın
+Q211811;Burdur
+Q211828;Bayburt
+Q211867;Oshawa
+Q211952;Kuşadası
+Q211970;Entebbe
+Q212283;Wells
+Q212289;Palmerston North
+Q212546;Akhaltsikhe
+Q212680;Lushnjë
+Q212757;Qamishli
+Q212773;Antigua Guatemala
+Q212841;Drama
+Q212856;Wadowice
+Q212984;New Plymouth
+Q213014;Akola
+Q213026;Bareilly
+Q213127;Ukmergė
+Q213248;Tirunelveli
+Q213898;Preveza
+Q214021;Tornio
+Q214057;Seltjarnarnes
+Q214173;Trujillo
+Q214178;Nablus
+Q214212;Karditsa
+Q214248;Benguela
+Q214303;Gümüşhane
+Q214344;Kočani
+Q214485;Kisumu
+Q214495;Bamyan
+Q214651;Bandırma
+Q214655;Çorlu
+Q214681;Panjim
+Q214777;Lohja
+Q215080;Machala
+Q215238;Abancay
+Q215277;Jaffna
+Q215633;Łomża
+Q215826;Grevenmacher
+Q216075;Cần Thơ
+Q216307;Pyrgos
+Q216363;Rîbnița
+Q216638;Wakefield
+Q216790;Hanko
+Q216835;Cap-Haïtien
+Q216847;Cúcuta
+Q216900;Kerava
+Q216902;Kabwe
+Q216912;Muğla
+Q216939;Essaouira
+Q216990;Blida
+Q217040;Tamale
+Q217047;Kemer
+Q217071;Pucallpa
+Q217156;Ismaïlia
+Q217426;Soweto
+Q217443;Chiatura
+Q217990;Tsnori
+Q218768;Rabaul
+Q218861;Gondar
+Q218954;Vohemar
+Q219093;Pyrzyce
+Q219117;Zomba
+Q219382;Lwówek Śląski
+Q219417;Húsavík
+Q219547;Dnestrovsc
+Q219583;El Jadida
+Q219664;Khabab
+Q219671;Ndola
+Q220049;Malakal
+Q220121;Montana
+Q220843;Walvis Bay
+Q221051;Xalapa
+Q221436;Maiduguri
+Q221447;Ramla
+Q221734;Rason
+Q221914;Moçâmedes
+Q221921;Comodoro Rivadavia
+Q222220;Ridderkerk
+Q222267;Kanyakumari
+Q222338;Walla Walla
+Q222755;Ibagué
+Q223154;Peshkopi
+Q223314;Qaanaaq
+Q223422;Anápolis
+Q223469;Tivat
+Q223587;Mansoura
+Q223761;Bobo Dioulasso
+Q223917;Boma
+Q223920;Pointe-Noire
+Q223966;Piura
+Q225641;Mombasa
+Q227072;Zouérat
+Q227156;Tsqaltubo
+Q227509;Az Zubayr
+Q228153;Zudáñez
+Q228405;Madurai
+Q229677;Zumbo
+Q230104;Nakhchivan
+Q230368;Caravaca de la Cruz
+Q230628;Erdenet
+Q231167;Zuwara
+Q231765;Geelong
+Q232226;Kelowna
+Q232842;Puno
+Q233467;Gisborne
+Q234056;Kohima
+Q234178;Bangor
+Q234184;Chełm
+Q234600;Al Ain
+Q235571;Darkhan
+Q235753;Nikkō
+Q236083;Suwałki
+Q236673;Gali
+Q237254;Lom
+Q237847;Solapur
+Q238217;Daraa
+Q238452;Arish
+Q238508;Gurgaon
+Q239097;Deir ez-Zor
+Q239107;Edfu
+Q239266;Višegrad
+Q239421;Nakuru
+Q239580;Kitwe
+Q239989;Hisarya, Bulgaria
+Q241122;Comrat
+Q241645;Bauru
+Q241767;Plasencia
+Q242059;Andrijevica
+Q242144;Bhilai
+Q242587;Abéché
+Q242895;Saharanpur
+Q242898;Jaisalmer
+Q242992;Bhavnagar
+Q242995;Jhansi
+Q243319;Morogoro
+Q243322;Gujranwala
+Q243325;Khulna
+Q243327;Changwon
+Q243456;Cumae
+Q243616;Preslav
+Q243699;Rosetta
+Q243846;Hillah
+Q243853;Nishinomiya
+Q244004;Sétif
+Q244025;Burnaby
+Q244139;Pinar del Rio
+Q244154;Holguín
+Q244159;Dhanbad
+Q244230;Bani Walid
+Q244232;Tabuk
+Q244236;Qabala
+Q244324;Guadix
+Q244509;Kigoma
+Q244745;San Jose Chinantequilla
+Q244747;Tudela
+Q245023;Taichung
+Q246069;Rutana
+Q246139;Rwamagana
+Q246145;Ruhengeri
+Q246288;Strzegom
+Q246554;Dolisie
+Q246590;Abu Dis
+Q246685;Polkowice
+Q246693;Ząbkowice Śląskie
+Q246956;Zárate
+Q247128;Ulvila
+Q247248;Sambhal
+Q247843;Cardona
+Q248144;Biała
+Q248251;Bački Petrovac
+Q248378;Kaçanik
+Q249022;Traralgon
+Q249049;Złocieniec
+Q249059;Złoczew
+Q249122;Złoty Stok
+Q249175;Lahij
+Q249226;Zəngilan
+Q249259;Jędrzejów
+Q249480;Herakleopolis Magna
+Q249869;Águas de Lindóia
+Q249884;Saint-Pierre
+Q249900;Águas de São Pedro
+Q249994;Hsinchu
+Q249995;Chiayi City
+Q249996;Keelung
+Q250276;Rishton, Uzbekistan
+Q250504;Gökçe
+Q250733;Wa
+Q251181;Adrar
+Q251329;Gaya
+Q251439;Koprivshtitsa
+Q251678;Aichach
+Q251929;Bunagana, Democratic Republic of the Congo
+Q253903;Beaumont
+Q255008;Mfuwe
+Q255385;Miastko
+Q255455;Jammu
+Q256711;Bunbury
+Q256782;Busko-Zdrój
+Q257326;La Higuera
+Q258447;Äänekoski
+Q259253;Buraidah
+Q259272;Gargždai
+Q259489;Rychwał
+Q259497;Krynica-Zdrój
+Q259636;Suonenjoki
+Q260317;Castlemaine
+Q260911;Chiclayo
+Q261076;Margilan
+Q261243;Dmanisi
+Q261705;Laakirchen
+Q261887;Kikwit
+Q261892;Kratié
+Q262223;Prithbinarayan
+Q262579;Karaman
+Q263684;Czechowice-Dziedzice
+Q263808;Urgut
+Q263922;Baniyas
+Q264075;Dieppe
+Q264172;Lewin Brzeski
+Q264464;Guaranda
+Q264679;Trenque Lauquen
+Q265115;Port Maria
+Q266896;Astara
+Q268247;Parika
+Q268774;Bananal
+Q268782;Bady Bassitt
+Q268806;Cabrália Paulista
+Q268906;Balbinos
+Q268915;Dhahran
+Q268938;Boa Esperança do Sul
+Q268956;Auriflama
+Q269168;Naresh
+Q269222;Buchanan
+Q269622;Old Cölln
+Q269960;Shubra El-Kheima
+Q269980;Newry
+Q270041;Al Hudaydah
+Q270048;Dumont
+Q270176;Belgaum
+Q270225;Kindu
+Q270297;Güines
+Q270310;Melena del Sur
+Q270500;Muharraq
+Q270535;Tkvarcheli
+Q270734;Broken Hill
+Q270754;Nag Hammadi
+Q270787;Kismayo
+Q270810;Ichinomiya
+Q270821;Baqubah
+Q271083;Åndalsnes
+Q271374;Guarujá
+Q271404;Kolwezi
+Q271564;Dusheti
+Q271730;Abbotsford
+Q271733;Moshi
+Q271771;Tanta
+Q271911;Dispur
+Q271925;Sozopol
+Q272254;São Vicente
+Q272362;Çaldıran
+Q272471;Matanzas
+Q272680;Bosra
+Q272795;Tacna
+Q272992;Çınar
+Q273030;Haridwar
+Q273413;Écija
+Q273779;Saint-Louis
+Q273863;Tsukuba
+Q274120;Niagara Falls
+Q274584;San Pedro Sula
+Q275109;Jundiaí
+Q275178;Aytos
+Q275630;Danilovgrad
+Q275635;Massawa
+Q275694;Opatów
+Q275919;Tubas
+Q276537;Borgarnes
+Q276746;Babati
+Q276857;Warka
+Q277372;Babel
+Q277505;Diriyah
+Q277674;Azaz
+Q277936;Kudirkos Naumiestis
+Q277966;Tshikapa
+Q278204;Noida
+Q278613;Klos, Mat
+Q278877;Český Těšín
+Q279009;David
+Q279048;Iasos
+Q280243;Louga
+Q280407;Kargowa
+Q280709;Yavatmal
+Q280853;Selouane
+Q280929;Urbano Noris
+Q280950;Frank País
+Q281016;Gibara
+Q281057;Rafael Freyre
+Q281104;Cacocum
+Q281186;Calixto García
+Q281205;Báguanos
+Q281213;Sagua de Tánamo
+Q281932;Arzashkun
+Q282380;Jedwabne
+Q282667;Nova Castilho
+Q283368;Raqqa
+Q283658;Ringsted
+Q284308;Bell Ville
+Q284529;San Cristóbal Verapaz
+Q285672;Moyobamba
+Q286554;Elektrėnai
+Q286563;Bignona
+Q286696;Krynki
+Q286843;Ash Shihr
+Q287136;Imías
+Q287715;Taşucu
+Q287731;El-Tod
+Q289143;Bor
+Q289267;Dschang
+Q289328;Caibarién
+Q289693;Sharjah
+Q290504;Pisco
+Q291277;Rio Claro
+Q291912;Sidra
+Q292970;Ólafsvík
+Q297060;Ölgii
+Q301283;Tabapuã
+Q301590;Fernão
+Q301924;Skawina
+Q302099;Requena
+Q302268;Afrin
+Q302654;Valsad
+Q302912;Kakamega
+Q303160;Upernavik
+Q303413;Duartina
+Q305067;Gniew
+Q305132;Altair, São Paulo
+Q305154;Szczekociny
+Q305508;Savanna-la-Mar
+Q305542;Abaradira
+Q305697;Płoty
+Q309164;Ra'anana
+Q309348;Khan Yunis
+Q309355;Kikinda
+Q309442;Paysandú
+Q309475;Al-Ubayyid
+Q310114;Khartoum North
+Q310117;Minya
+Q310622;Al Mahwit
+Q310751;Al-Qusayr
+Q310772;Mukalla
+Q310844;Cusae
+Q310892;al-Bab
+Q310893;Al Wakrah
+Q310895;Mayadin
+Q311099;Al-Suwayda
+Q311321;Al-Hasakah
+Q311326;Al-Bireh
+Q311946;Naryn
+Q312209;Buea
+Q312723;El-Mahalla El-Kubra
+Q312759;Biskra
+Q316211;Haapajärvi
+Q316841;Karlovo
+Q317145;Ozurgeti
+Q318156;Bahawalpur
+Q318245;Choibalsan
+Q318299;Xai-Xai
+Q318306;Quelimane
+Q318686;Radviliškis
+Q318889;Pliska
+Q319272;Trinidad
+Q319366;Galle
+Q319476;Cumaná
+Q319660;Mbuji-Mayi
+Q319740;Kawagoe
+Q319813;Siedlce
+Q320519;Senaki
+Q320704;Benin City
+Q320792;Bata
+Q321079;Jos
+Q321279;Ittoqqortoormiit
+Q321475;Kollam
+Q322126;Valkeakoski
+Q322149;Eldoret
+Q322155;Rajshahi
+Q322917;Abong-Mbang
+Q323801;Nampula
+Q323873;Trincomalee
+Q323986;Prijedor
+Q324394;Sarnath
+Q324880;Proszowice
+Q324884;Brzesko
+Q324888;Sępólno Krajeńskie
+Q324892;Staszów
+Q324897;Łask
+Q324903;Poddębice
+Q324907;Wieruszów
+Q324927;Miechów
+Q324934;Kłobuck
+Q324941;Żnin
+Q324971;Dąbrowa Tarnowska
+Q325124;Aleksandrów Kujawski
+Q325550;Myślenice
+Q325627;Mogilno
+Q325631;Pajęczno
+Q325910;Tuchola
+Q326123;Drawsko Pomorskie
+Q326142;Trzebiatów
+Q326304;Moab
+Q326312;Sevlievo
+Q326577;Bytów
+Q327348;Mount Gambier
+Q327413;Kiryat Shmona
+Q328030;Kut
+Q328153;Damanhur
+Q328176;Kafr el-Sheikh
+Q328402;Węgliniec
+Q328846;Nuevo Laredo
+Q329437;Balchik
+Q329503;Kalgoorlie
+Q329597;Goleniów
+Q329984;Úbeda
+Q330202;Itaquaquecetuba
+Q330531;Kota
+Q330643;Muradabad
+Q331048;Dimitrovgrad
+Q331099;Island of Mozambique
+Q331300;Mauá
+Q331384;Abreus
+Q331566;Sandanski
+Q331674;Q331674
+Q331764;Albury
+Q332319;Mek'ele
+Q332989;Loja
+Q333074;Moundou
+Q333476;Ségou
+Q333928;Maracay
+Q334197;Vila Velha
+Q334577;Quetzaltenango
+Q335446;Dębno
+Q335478;Ma'rib
+Q335548;Mbeya
+Q335596;Þorlákshöfn
+Q335708;6th of October City
+Q335716;Abu Kabir
+Q335769;Kafr el-Dawwar
+Q336350;Sokoto
+Q336375;Ropczyce
+Q336386;Dukla
+Q336448;Ćmielów
+Q336661;Qena
+Q336724;Qalyub
+Q336966;Banha
+Q337123;Mit Ghamr
+Q337530;Sarh
+Q337683;Čapljina
+Q337751;Nehardea
+Q337814;Nowe Warpno
+Q338059;Acarigua
+Q338844;Batna
+Q339258;Mocha
+Q339527;Launceston
+Q340566;Akhmeta
+Q340572;Akhmim
+Q341027;Ahtopol
+Q343973;İnegöl
+Q345163;Łabiszyn
+Q345204;Dakhla
+Q345233;Łasin
+Q345243;Łapy
+Q345316;Łazy
+Q345386;Łobżenica
+Q345389;Łochów
+Q346649;Q346649
+Q356811;Adi Keyh
+Q356816;Adi Quala
+Q357101;Adigrat
+Q359955;Ado Ekiti
+Q364601;Koźle
+Q365146;La Calera
+Q366010;Amarah
+Q366907;Sveti Nikole
+Q367273;Nova Varoš
+Q367780;Hamina
+Q367842;Laguna de Duero
+Q368320;Samborondón
+Q371354;Castelar
+Q371532;Lisala
+Q371734;Avaí
+Q372075;Raisio
+Q372773;Raipur
+Q372920;Puerto Ayacucho
+Q373059;Żywiec
+Q373808;Khujand
+Q374013;Villa Dolores
+Q374365;Jeddah
+Q374548;Serrana, São Paulo
+Q374748;Jenin, Palestine
+Q374768;Al-Zabadani
+Q374795;Bédy-Goazon
+Q375507;Gouyave
+Q376503;Américo Brasiliense
+Q376749;Chittagong
+Q376903;Valledupar
+Q377588;Sheikh Othman
+Q377601;Poá
+Q377696;Kahone
+Q377965;San Nicolás de los Arroyos
+Q377975;Maryborough
+Q377994;Sieniawa
+Q378649;Janakpurdham
+Q379338;Latacunga
+Q379509;Puerto la Cruz
+Q379669;Viekšniai
+Q381560;Kadoma
+Q381733;Uberaba
+Q382249;Butha-Buthe
+Q382587;Osieczna
+Q383170;Manica
+Q383622;Pakse
+Q383765;Mirante do Paranapanema
+Q383979;Canitar
+Q384433;Łęczna
+Q384544;Karlovy Vary
+Q385070;Borriana
+Q385155;Penrith
+Q385341;Jimma
+Q386626;Pickering
+Q386659;Wolbórz
+Q386858;Řevnice
+Q386991;Torreón
+Q387095;Ścinawa
+Q387117;Ślesin
+Q387194;Śmigiel
+Q387260;Śrem
+Q387307;Środa Śląska
+Q387463;Świebodzin
+Q387502;Świecie
+Q387591;Świerzawa
+Q387864;Pravets
+Q388108;Sohag
+Q388242;Tete
+Q388603;Şavşat District
+Q388745;Lauriacum
+Q389412;Niemcza
+Q389755;Pataliputra
+Q389860;Kalwaria Zebrzydowska
+Q390022;Getulina
+Q390096;Badulla
+Q390361;Breznik
+Q390583;Surrey
+Q390605;Plužine
+Q390783;Şəmkir
+Q390897;Q390897
+Q390969;Šakiai
+Q391011;Šalčininkai
+Q391033;Šamac
+Q391125;Q391125
+Q391159;Bansko
+Q391221;Barcelona
+Q391461;Grójec
+Q391582;Šilalė
+Q391599;Mpanda
+Q391626;Šilutė
+Q391747;Byumba
+Q391764;Širvintos
+Q392772;Švenčionėliai
+Q392988;Żabno
+Q393043;Żarów
+Q393091;Żelechów
+Q393119;Żerków
+Q393138;Żmigród
+Q393171;Żory
+Q393220;Żuromin
+Q393228;Żychlin
+Q393332;Žagarė
+Q393495;Bilbeis
+Q393498;Mallawi
+Q393829;Mersa Matruh
+Q394080;Beni Suef
+Q394756;Seda
+Q394888;El Refugio, Baja California
+Q395201;Agogo
+Q395433;Agordat
+Q395863;Desouk
+Q396491;Jastrebarsko
+Q396807;Agrinio
+Q397759;Yazmin
+Q398365;Aguilares, Argentina
+Q399083;Kwekwe
+Q399139;Biograd na Moru
+Q399270;Uruapan
+Q399316;Gweru
+Q399322;Mutare
+Q403112;Rzgów
+Q403166;Ai
+Q403446;Douma
+Q403929;Koluszki
+Q403941;Tuszyn
+Q404734;Senovo
+Q404746;Vetovo
+Q404820;Guararema
+Q404822;Kotel
+Q404939;Tutrakan
+Q404958;Varshets
+Q405114;Velingrad
+Q405136;Tryavna
+Q405153;Primorsko
+Q405157;Kozloduy
+Q405166;Sapareva Banya
+Q405175;Bobov Dol
+Q405184;Boychinovtsi
+Q405191;Kameno
+Q405203;Brezovo
+Q405215;Sadovo
+Q405223;Apriltsi
+Q405228;Byala Slatina
+Q405236;Belene
+Q405262;Zlatitsa
+Q405279;Dupnitsa
+Q405323;Zlataritsa
+Q405361;Chiprovtsi
+Q405367;Lyubimets
+Q405373;Dragoman
+Q405383;Bregovo
+Q405390;General Toshevo
+Q405397;Valchi Dol
+Q405420;Godech
+Q405426;Botevgrad
+Q405433;Aksakovo
+Q405440;Topolovgrad
+Q405481;Glavinitsa
+Q405507;Strelcha
+Q405562;Suhindol
+Q405567;Ugarchin
+Q405585;Lukovit
+Q405591;Gramada
+Q405610;Levski, Pleven Province
+Q405620;Valchedram
+Q405629;Strazhitsa
+Q405646;Sredets
+Q405663;Pavlikeni
+Q405708;Stamboliyski
+Q405720;Trastenik
+Q405726;Boboshevo
+Q405736;Galabovo
+Q405742;Radomir
+Q405774;Letnitsa
+Q405778;Dzhebel
+Q405784;Momchilgrad
+Q405789;Svilengrad
+Q405797;Isperih
+Q405893;Klisura
+Q405899;Debelets
+Q405905;Polski Trambesh
+Q405965;Saedinenie, Plovdiv Province
+Q405984;Tervel
+Q405991;Parvomay
+Q405997;Dolna Oryahovitsa
+Q406004;Kableshkovo
+Q406029;Kostandovo
+Q406033;Q406033
+Q406042;Elin Pelin
+Q406227;Karnobat
+Q406243;Omurtag
+Q406343;Koynare
+Q406426;Hadzhidimovo
+Q406488;Malko Tarnovo
+Q406506;Roman
+Q406512;Kaspichan
+Q406517;Rila
+Q406523;Septemvri
+Q406538;Iskar
+Q406545;Kubrat
+Q406624;Kilifarevo
+Q406657;Sveti Vlas
+Q407118;Novi Pazar
+Q407121;Tsar Kaloyan, Razgrad Province
+Q407257;Kostenets
+Q407377;Dobrinishte
+Q407570;Peshtera
+Q407705;Belovo
+Q408077;Elena
+Q412703;Ajdir
+Q413747;Akaa
+Q415943;Akarassos
+Q416835;Akbarpur
+Q418402;Akim Oda
+Q422197;Katta-Kurgan
+Q422286;Gostyń
+Q423258;Orhei
+Q423831;Akure
+Q424704;Port Colborne
+Q424715;Akçay
+Q425646;Figuig
+Q426891;Kakata
+Q427693;LaGrange, New York
+Q428006;Catlin, New York
+Q429059;Dvin
+Q429215;Sangli
+Q429741;Morant Bay
+Q429855;Sauce, Uruguay
+Q429864;Riihimäki
+Q430127;Barão de Antonina
+Q430470;Fatick
+Q430776;Nazareth
+Q430862;Huarmey
+Q431377;Promissão
+Q431533;Chingola
+Q431628;Nowe Miasteczko
+Q432353;Wyśmierzyce
+Q432397;Narsaq
+Q433861;Altai
+Q447844;Aluminé
+Q448370;Alvarado
+Q450625;Alytus
+Q451529;Am Timan
+Q451589;Pakwach
+Q451850;Musumba
+Q454510;Amantia
+Q454756;Amara, Nubia
+Q454982;Amarete
+Q455231;Laurent, South Dakota
+Q455701;Pacanów
+Q456577;Inhambane
+Q456624;Ambala
+Q456642;Ambanja
+Q456737;Ambattur
+Q456842;Ambrolauri
+Q457141;Gotse Delchev
+Q457697;Amblada
+Q457865;Sulechów
+Q459360;Cabinda
+Q459369;Franceville
+Q459553;Chetumal
+Q459600;Wagga Wagga
+Q460222;Ulhasnagar
+Q460697;Koudougou
+Q460736;Amadiya
+Q460925;Michalovce
+Q460971;Biecz
+Q461287;Ostrołęka
+Q461313;Burrel
+Q461773;Barueri
+Q462630;Tralleis
+Q462766;Solan
+Q463165;Sault Ste. Marie
+Q463384;Bulqizë
+Q464699;Bahir Dar
+Q464904;Yinxu
+Q465022;Enugu
+Q466046;Salé
+Q466216;Ta'izz
+Q466221;Sylhet
+Q467421;Americana
+Q467501;Khorugh
+Q467632;Gardēz
+Q468782;Huancayo
+Q470380;Přerov
+Q470445;Prostějov
+Q470481;Amfissa
+Q471886;Hadera
+Q472621;Wieliczka
+Q472822;Grindavík
+Q472925;Urgench
+Q473078;Namatanai
+Q473144;San Miguel de Velasco
+Q473209;Kamloops
+Q474651;Gjakova
+Q474669;Sachkhere
+Q474868;Alor Setar
+Q475802;Zaranj
+Q476436;Dobrzyca
+Q476688;Lebedyn
+Q476800;Lashkar Gah
+Q477148;Pul-e Khomri
+Q477152;Sarai
+Q477232;Aktobe
+Q477238;Taloqan
+Q477580;Jinotepe
+Q477955;Mszczonów
+Q478031;Batken
+Q478207;Kenitra
+Q478518;Kallithea
+Q478675;Riobamba
+Q481427;Amoudah
+Q483331;Iğdır
+Q483522;Villach
+Q484402;Anaklia
+Q484581;Analalava
+Q484706;Karaganda
+Q484799;Marbella
+Q485329;Ferrol
+Q485496;Shymkent
+Q486195;Khiva
+Q486282;Pavlodar
+Q486329;Fergana
+Q486913;Atyrau
+Q487439;Oral
+Q487656;Andijan
+Q487672;Daşoguz
+Q487679;Alcobendas
+Q487684;Türkmenabat
+Q487689;Jalal-Abad
+Q487981;Benidorm
+Q488030;Lumbo
+Q488052;Olivenza
+Q488379;Petropavl
+Q489569;Mutoko
+Q489660;Andahuaylas
+Q489679;Andalgalá
+Q489776;Porto Inglês
+Q489898;Nukus
+Q490573;Assomada
+Q490579;Pedra Badejo
+Q490643;Kokshetau
+Q490708;V.S.K.Valasai
+Q490883;Sri Ganganagar
+Q490991;Patacamaya
+Q491102;Taldykorgan
+Q491123;Kyzylorda
+Q491521;Colquencha
+Q491603;Kitee
+Q491829;Qacha's Nek
+Q491879;Termez
+Q492312;Hondarribia
+Q492552;Namangan
+Q494693;Torrelavega
+Q495387;Masan
+Q495547;Mindelo
+Q495730;Manzini
+Q496442;Ekibastuz
+Q496567;Eibar
+Q497115;Frombork
+Q497793;Bendigo
+Q498048;Pemba
+Q498192;Goroka
+Q498895;Kolašin
+Q498968;Espargos
+Q499318;Prienai
+Q499375;Daru
+Q499470;Ilam
+Q500080;Mojkovac
+Q500111;Arua
+Q500142;list of cities in Yemen
+Q500189;M'banza-Kongo
+Q500366;Ogbomosho
+Q500552;Uniejów
+Q500560;Aflou
+Q500641;Vabkent
+Q500888;Akhalkalaki
+Q501090;Castro Urdiales
+Q501543;Kiryat Malakhi
+Q501656;Sal Rei
+Q501709;Jinja
+Q501715;Port-Gentil
+Q502023;Coatzacoalcos
+Q502141;Rishikesh
+Q502216;Mzuzu
+Q502249;Villena
+Q503379;Skanderborg
+Q503469;Cahul
+Q503862;Naantali
+Q504114;Guelph
+Q504215;Ayacucho
+Q504394;Huánuco
+Q504587;Franca
+Q504657;Idlib
+Q505175;Zvartnots
+Q505416;Anykščiai
+Q506578;Baidoa
+Q506775;Rožaje
+Q506811;Odienné
+Q507080;Ciudad Guayana
+Q507144;Mullaitivu
+Q507517;Rochester
+Q508815;Carnuntum
+Q509739;Butare
+Q510413;Sullana
+Q510736;Monte Castelo, São Paulo
+Q510827;Strzelce Opolskie
+Q510842;Bisztynek
+Q511956;Bobolice
+Q512111;Bouar
+Q512116;Masally
+Q513601;Alambari
+Q513727;Samtredia
+Q515229;Ngerulmud
+Q515240;Macuto, Vargas
+Q515728;Harburg-Wilhelmsburg
+Q516116;Fushë-Arrëz
+Q516416;Kasanga
+Q516769;Faya-Largeau
+Q518431;Chimbote
+Q518785;Butembo
+Q518845;Biritiba-Mirim
+Q519026;Higuerote
+Q520600;Banyo, Cameroon
+Q520687;Mocuba
+Q520821;Haripur, Pakistan
+Q521322;Aboisso
+Q521702;Carnot
+Q522002;Macedônia
+Q522492;Arnis
+Q522912;Nola, Central African Republic
+Q523000;Kitale
+Q523287;Trzciel
+Q523550;Parisi
+Q523618;Edd
+Q523657;Yagoua
+Q523778;Sahiwal
+Q524851;Benque Viejo del Carmen
+Q525118;Maxixe
+Q525163;San Jacinto, Uruguay
+Q525618;Presidente Prudente
+Q525817;Deán Funes
+Q526169;Ujiji
+Q526318;Santana de Parnaíba
+Q526539;Mongomo
+Q526568;Tôlanaro
+Q526722;Nova Canaã Paulista
+Q526822;Murzuk
+Q527318;Qalat
+Q527748;Koror
+Q527768;Nidzica
+Q528432;Bamenda
+Q528679;Nyanza, Rwanda
+Q528941;Beitunia
+Q529282;Anenii Noi
+Q529834;Tsetserleg
+Q530171;Ajman
+Q530191;Nea Ionia
+Q530309;Karkkila
+Q530644;Naxos (city)
+Q533416;Pigüé
+Q533922;Ancient Ostra
+Q533932;Dirce Reis
+Q534409;Keren, Eritrea
+Q536230;Fartura
+Q537161;Sibanicú, Cuba
+Q537462;Beni Ansar / Aït Nsar
+Q539154;Beilul
+Q540844;Agdam
+Q540895;Mongo, Chad
+Q541435;Puerto Maldonado
+Q541656;Angoche
+Q542678;Rustaq
+Q542815;Tietê
+Q542966;Angren
+Q543800;Ylöjärvi
+Q544311;Borebi
+Q544701;Berbérati
+Q544733;Bordj Bou Arréridj
+Q544881;Rafard
+Q545707;Mascara
+Q545767;Paamiut
+Q546010;Ani
+Q546964;Dolores
+Q547381;Suchowola
+Q548248;St Asaph
+Q548441;Portugalete
+Q548805;El Hiba
+Q550407;Corella
+Q550446;Jeriquara
+Q551422;Dzierzgoń
+Q552390;Wittingen
+Q554417;Osiek, Świętokrzyskie Voivodeship
+Q554824;Kuźnia Raciborska
+Q554829;Woźniki
+Q555042;Koziegłowy, Silesian Voivodeship
+Q555053;Pilica
+Q555150;Dobra, Turek County
+Q555876;Pleszew
+Q556095;Manfalut
+Q556193;Ujście
+Q556344;Wysoka
+Q556484;Międzychód
+Q556944;Krobia
+Q557257;Nowe Skalmierzyce
+Q557306;Skoki
+Q557383;Deir al-Balah
+Q557397;Ankober
+Q557529;Muramvya
+Q557906;Ruciane-Nida
+Q558195;Lahn
+Q558579;Dobra
+Q558614;Lipiany
+Q558719;Trzcińsko-Zdrój
+Q558723;Resko
+Q559793;Caimito
+Q559801;San Cristóbal
+Q563067;Anna Regina
+Q565568;Tiaret
+Q567332;Annopol
+Q567350;Annotto Bay
+Q567821;Novais, São Paulo
+Q567827;Ozimek
+Q568137;Alotau
+Q568212;Cos (city)
+Q568394;Borá
+Q568905;Yarim
+Q569766;Shahrisabz
+Q569804;Wyszogród
+Q569838;Serock
+Q569904;Ouahigouya
+Q569938;Praszka
+Q570108;Bad Wilsnack
+Q570464;Pedro de Toledo
+Q571185;Działoszyce
+Q571215;Suakin
+Q571790;Mogontiacum
+Q571968;Bahía Honda
+Q572041;Antequera
+Q572152;Bissorã
+Q572237;Kać
+Q572380;Jizzakh
+Q572951;Mörön
+Q574469;Taza
+Q574555;Sayram
+Q574593;Warri
+Q575774;Al-Safira
+Q576368;Quneitra
+Q578026;Kleszczele
+Q578124;Igarapava
+Q578396;Kriva Palanka
+Q578408;Catiguá
+Q579199;9 de Julio
+Q579291;Bayt al-Faqih
+Q579689;Morden
+Q579753;Itariri
+Q580017;Matucana
+Q580366;Araras
+Q580533;Gwadar
+Q580743;Maspalomas
+Q580876;Vasai-Virar
+Q580965;Malegaon
+Q580968;Cabudare
+Q580973;Orange
+Q581142;el-Bahnasa
+Q581179;Kamina
+Q581187;Bucak
+Q581348;São Lourenço da Serra
+Q581379;Gulu
+Q581562;Satara
+Q582880;Leme
+Q583184;Antsirabe
+Q583185;Aydıncık
+Q583445;Léogâne
+Q583619;Owerri
+Q583818;Ichalkaranji
+Q583982;Anjangaon
+Q584001;Redcliff
+Q584008;Ambarnath
+Q584240;Sales
+Q584295;Udupi
+Q584494;Avadi
+Q584605;Nuzi
+Q584881;Santo Antônio da Alegria
+Q584966;Czarna Białostocka
+Q586057;Araxá
+Q586397;Gunthakal
+Q586498;Kédougou
+Q586758;Gazakh
+Q587013;São Sebastião, São Paulo
+Q587085;Ilorin
+Q587790;Santana da Ponte Pensa
+Q588048;Santo Tomás de Castilla
+Q588515;Guasave City
+Q588587;Arrah
+Q588987;Divinolândia
+Q589067;Anklav
+Q590133;La Victoria
+Q590205;Prince George
+Q590361;Auroville
+Q591213;Golczewo
+Q592262;Baborów
+Q592609;Lechería
+Q592809;Małogoszcz
+Q593009;Cesário Lange
+Q593156;Farah
+Q593435;Mbaïki
+Q593535;Iporanga
+Q593652;Borj Cédria
+Q593695;Panna, India
+Q595318;Fernando Prestes
+Q595441;La Unión, Huánuco
+Q595542;Mandurah
+Q595976;José Bonifácio, São Paulo
+Q596012;Temperley
+Q596678;Alfredo Marcondes
+Q596688;Matagalpa
+Q596931;Ubatuba
+Q597086;Ialoveni
+Q597122;Fushë-Krujë
+Q597189;Ras Ajdir
+Q597458;Mabaruma
+Q597804;Sandovalina
+Q598658;Tangalle
+Q598667;Bria
+Q599416;Sinop
+Q599533;Muborak
+Q599678;Powell River
+Q599897;Boujdour
+Q600310;Moji-Mirim
+Q600405;Gusau
+Q600680;ad-Dhahiriya
+Q600693;Thiès
+Q600706;Libertador General San Martín
+Q600883;Temsia
+Q600893;Kasama, Zambia
+Q600959;Pueblo Nuevo
+Q601142;Masvingo
+Q602128;Rubiácea
+Q602426;Ouazzane
+Q602564;Thurii
+Q603115;Güira de Melena
+Q603136;Candelaria
+Q603146;Carlos Manuel de Céspedes
+Q603163;Alquízar
+Q604251;Nowy Dwór Gdański
+Q604283;Coffs Harbour
+Q605113;Gosford
+Q605160;Kamëz
+Q605167;Potchefstroom
+Q605235;Goulburn
+Q605267;Geraldton
+Q605318;Joondalup
+Q605544;Halabja
+Q605693;Saltinho
+Q606153;Port Macquarie
+Q606162;Rockhampton
+Q606169;Armidale
+Q606288;Port Augusta
+Q606307;Wodonga
+Q606324;Hervey Bay
+Q606335;Mount Isa
+Q606357;Cessnock
+Q606385;Queanbeyan
+Q606485;Shëngjin
+Q607132;Skępe
+Q607167;La ciudad de tusa brous
+Q607594;Castilho
+Q608073;Dagana, Senegal
+Q608376;Błonie
+Q608752;Lieksa
+Q609246;Radzymin
+Q609649;Guliston
+Q609713;Toprakkale
+Q609892;Kosonsoy
+Q610390;Capela do Alto
+Q610600;Queenstown
+Q610917;Nowa Dęba
+Q611086;Lesko
+Q611297;Koronowo
+Q611784;Włoszczowa
+Q612160;Kangaatsiaq
+Q612250;Lae
+Q613246;Barawa
+Q613441;Middelfart
+Q613529;Tlalixtaquilla
+Q613701;Pieksämäki
+Q613791;Nakonde
+Q613913;Al Aaroui
+Q614072;Tlaxcala
+Q614754;Bir Lehlou
+Q615006;Ho
+Q615470;Las Piedras
+Q615633;Guastatoya
+Q615707;Pedernales, Delta Amacuro
+Q616404;Quinhámel
+Q616551;Olszyna
+Q616650;Indaiatuba
+Q616877;Louny
+Q616895;Ryn
+Q616927;Kurbnesh
+Q617032;Kibuye
+Q617400;Pontalinda
+Q617535;Apamea
+Q617618;Apapa
+Q617702;Aparecida
+Q618060;Bafilo
+Q618495;Aphrodisias
+Q619594;Q619594
+Q619937;Swift Current
+Q620625;Dikhil
+Q621181;Varniai
+Q622030;Palos de la Frontera
+Q622592;Raahe
+Q622780;Aksu
+Q623159;Qalqilya
+Q623298;Pujehun
+Q623504;Rusayl
+Q623765;Rugby
+Q624467;Hanseongbu
+Q624740;Araden
+Q626031;Esna
+Q626247;Araraquara
+Q626295;Ararat
+Q626670;Araure
+Q626835;Araçatuba
+Q627885;Ouésso
+Q630533;Tire
+Q630692;Saint Ann's Bay, Jamaica
+Q630805;Panjakent
+Q631087;Layyah
+Q631432;Soluntum
+Q632361;Sidi Ifni
+Q633664;Beloozyorsky
+Q633898;Paranapuã
+Q633929;Nacaome
+Q634063;Dusmareb
+Q634698;Kenema
+Q635045;Ondjiva
+Q636096;Olímpia
+Q636209;Mufulira
+Q637555;Montego Bay
+Q637863;Arcos de la Frontera
+Q638509;Chimoio
+Q638539;Ardanuç
+Q638725;Stęszew
+Q639212;Oborniki
+Q639241;Międzyrzecz
+Q639340;Pando
+Q639408;Waterloo
+Q639421;Pondicherry
+Q639467;Tsumeb
+Q639666;Crieff
+Q639674;Banfora
+Q639806;Machh
+Q639848;Jarinu
+Q640223;Choszczno
+Q640368;Sztum
+Q640453;Myślibórz
+Q640493;Kępno
+Q641098;Balasore
+Q641130;Triolet, Mauritius
+Q641706;Ejido
+Q642109;Xırdalan
+Q642164;Beylagan
+Q642192;Ostrzeszów
+Q642631;Busselton
+Q642696;Jämsä
+Q642787;Atafu
+Q642894;Alumínio
+Q643025;Minas
+Q643028;Najasa
+Q643047;Vertientes
+Q643052;Sierra de Cubitas
+Q643059;Guáimaro
+Q643074;Esmeralda
+Q643081;Nuevitas
+Q643112;Tabora
+Q643215;Coquitlam
+Q643313;Santa Cruz del Sur
+Q643346;Arviat
+Q643617;Florida
+Q643761;Jabłonowo Pomorskie
+Q643883;Sialkot
+Q644008;Qarshi
+Q644079;Prusice
+Q644663;Portmore
+Q644799;Mongu
+Q645725;Bhiwandi
+Q646620;Estella-Lizarra
+Q646684;Mtwara
+Q647051;Telenești
+Q647417;Mohammedia
+Q647543;Arrecife
+Q647982;Quba
+Q648215;Montecarlo
+Q648567;Bokhtar
+Q648709;Tursunzoda
+Q648732;St Davids
+Q648757;Mirassol
+Q649425;Konacık
+Q649510;Villa Longchamps, Buenos Aires
+Q650018;Domburg
+Q650146;Tambaú
+Q650208;Xonobod
+Q650394;Hazorasp
+Q650500;Batatais
+Q651744;Sandvika
+Q651860;Embu das Artes
+Q651891;Diadema
+Q652098;Firozpur
+Q652376;Ratlam
+Q652770;Coral Harbour
+Q653312;Arhavi
+Q653420;Bolnisi
+Q653797;Brzozów
+Q653808;Bardaï, Chad
+Q653844;Kańczuga
+Q653855;Cieszanów
+Q654169;Penonomé, Coclé
+Q654259;Bukoba
+Q655210;Jedlicze
+Q655363;Jacareí
+Q655412;Iwonicz-Zdrój
+Q655771;Hisor
+Q656189;Ensenada
+Q656988;Nurmes
+Q657072;Touba, Senegal
+Q657199;Franco da Rocha
+Q657428;Merca
+Q657734;Bertoua
+Q657744;Căușeni
+Q657763;Chitré
+Q657912;Sultanhanı
+Q657923;Embaúba
+Q658024;Óleo
+Q658168;Bousso
+Q658230;Kelmė
+Q659435;Sarıkaya
+Q659642;Kristinestad
+Q661529;Ripon
+Q661548;Weitra
+Q663633;Rio Grande da Serra
+Q664156;Paso de los Toros
+Q664158;Nuporanga
+Q664371;Aleksandrów Łódzki
+Q664550;Maradi
+Q664599;Nykarleby
+Q666165;Augusta Treverorum
+Q666831;Flin Flon
+Q667439;Ribeirão Grande
+Q667576;Hua Hin
+Q667588;Buk
+Q667650;Lichinga
+Q667652;Kinkala
+Q667828;Bafang
+Q668180;Muhanga
+Q668322;Knyszyn
+Q668462;Berisso
+Q668616;Negombo
+Q669305;Cotia
+Q671366;Stąporków
+Q671431;Prince Albert
+Q671704;Sédhiou
+Q672458;San Miguel
+Q673089;Puerto Cortés
+Q673185;Batouri
+Q673597;Gavião Peixoto
+Q674175;Kambove
+Q674320;Cerro de Pasco
+Q675568;Ha'il, Saudi Arabia
+Q676044;Adolfo
+Q676778;Chefchaouen
+Q676931;Puyo, Pastaza
+Q677300;San Pedro Town
+Q677348;Oriente, São Paulo
+Q677935;Veii
+Q678425;Głuchołazy
+Q679056;Hermonthis
+Q679169;Comayagua
+Q679238;Czaplinek
+Q679297;Lourdes
+Q679745;Koźmin Wielkopolski
+Q679786;Triunfo
+Q681802;Bolama
+Q681893;Errenteria
+Q681999;San Francisco de Macorís
+Q682868;Ribeirão Corrente
+Q683512;Savonlinna
+Q683525;Varkaus
+Q683938;Nueva Loja
+Q685330;Diofior
+Q685509;Santiago de Veraguas
+Q685613;Dois Córregos
+Q685808;Asadabad
+Q685941;Mawlamyine
+Q686167;Trzebinia
+Q686736;Chivilcoy
+Q686813;Kassala
+Q688281;Vrindavan
+Q688539;Rapperswil
+Q688654;Dubăsari
+Q689820;Debar
+Q690052;Trebinje
+Q690062;Rønne
+Q690333;Barentsburg
+Q690421;Tchibanga
+Q691016;Mutsamudu
+Q692847;Segesta
+Q693093;Machakos
+Q693140;Santa Cruz del Quiché
+Q693554;Gandajika
+Q694109;Puerto Baquerizo Moreno
+Q694939;Al Diwaniyah
+Q695330;Isfara
+Q695380;Villanueva de la Serena
+Q695425;Martos
+Q695585;Nagapattinam
+Q695623;Barinas
+Q695631;Los Teques
+Q696074;Juliaca
+Q696193;Ecbatana
+Q696605;Larkana
+Q697662;Kousséri
+Q698941;Arkalyk
+Q700050;Rehoboth
+Q701606;Głuszyca
+Q701651;Miaoli City
+Q703139;Arroyo Concepción
+Q704371;Mackay
+Q704978;Bathurst
+Q705699;Gladstone
+Q705705;Devonport
+Q705829;Mildura
+Q705867;Warrnambool
+Q705884;Arta, Djibouti
+Q706029;Whyalla
+Q706105;Dubbo
+Q707030;Shepparton
+Q709319;Bathinda
+Q711996;Barnala
+Q712644;Baramulla
+Q713377;Pingtung City
+Q713381;Taitung City
+Q717371;Ban Houayxay
+Q717399;Strzelce Krajeńskie
+Q717404;Olesno
+Q717684;Arvaikheer
+Q717774;Namysłów
+Q717933;Milicz
+Q717938;Wschowa
+Q717942;Trzebnica
+Q717947;Głubczyce
+Q718038;Sulęcin
+Q718108;Arys
+Q719815;Perga
+Q719954;Strzelin
+Q721374;Hammerfest
+Q721678;Ascención de Guarayos
+Q722522;Bouïra
+Q722827;Sikasso
+Q722997;Chortoq
+Q723584;Talara
+Q723588;Cabimas
+Q723677;Huaral
+Q724815;San Ignacio
+Q726751;Varadero
+Q727181;Kolar
+Q727464;Concepción del Uruguay
+Q728178;Pongaí
+Q728226;Maarrat al-Nu'man
+Q728412;Sabaneta
+Q728519;Oricum
+Q729978;Mediolanum
+Q730791;Wajir
+Q730806;Bongoville
+Q731256;Khovd
+Q732759;Ghinda
+Q732801;Kalemie
+Q732879;Baghlan
+Q733005;Guanare
+Q733093;Cobh
+Q733155;Orahovac
+Q733787;Iracemápolis
+Q734284;Remich
+Q734333;Itupeva
+Q734464;Bom Sucesso de Itararé
+Q734937;Ribeirão Branco
+Q735025;Cabo Frio
+Q735133;Ikaalinen
+Q735138;Kėdainiai
+Q735563;Kaarina
+Q735583;Ylivieska
+Q735609;Iringa
+Q735645;Atar
+Q735765;Vallegrande
+Q736905;Buta
+Q737270;Sur
+Q737416;Cândido Rodrigues
+Q737660;Marília
+Q737984;Przedbórz
+Q738159;Dunavarsány
+Q738187;Sultan Bathery
+Q738353;Heroica Matamoros
+Q738563;Hakha
+Q738748;Sittwe
+Q738901;Ferizaj
+Q738934;Estiva Gerbi
+Q738959;Sete Barras
+Q739292;Guararapes
+Q739308;Sibiti
+Q739664;Santa Ana
+Q739808;Gjilan
+Q740050;Gaur, Nepal
+Q740236;Asella
+Q740246;Kyōto
+Q740477;Tultitlán de Mariano Escobedo
+Q740499;Bishoftu
+Q740687;Guéckédougou
+Q740832;Jezkazgan
+Q740865;Wadi Halfa
+Q741134;Linden
+Q741667;Krajenka
+Q741876;Piaseczno
+Q742128;Achaguas
+Q742835;Palma Soriano
+Q742854;Keuruu
+Q743016;Ballsh
+Q743048;Pontes Gestal
+Q743218;Jonava
+Q743282;Napata
+Q743910;Szadek
+Q744239;Whangārei
+Q744399;Rincão
+Q744673;Gode
+Q744704;Kemijärvi
+Q745014;Mombuca
+Q745307;Itápolis
+Q745567;Odolanów
+Q745871;Goba
+Q745906;Ngaoundéré
+Q746395;Góra
+Q746407;Palić
+Q746670;Mouila
+Q746773;San Rafael de Velasco
+Q746968;Puerto Peñasco
+Q747140;Maihar
+Q747470;Dimitrovgrad
+Q747796;Zardab
+Q747840;Barisal
+Q747898;Uummannaq
+Q748028;Puerto Madryn
+Q748037;Janikowo
+Q748218;Irapuru
+Q748336;Battambang
+Q748513;Loviisa
+Q748533;Iisalmi
+Q748590;Cedros, Francisco Morazán
+Q748832;Chios
+Q749108;Nagarjunakonda
+Q749170;Pushkar
+Q749187;Girga
+Q749372;Rurrenabaque
+Q749623;Adrogué
+Q750443;Savannakhet
+Q750679;Samawah
+Q751077;Concepción, Santa Cruz
+Q751153;Węgorzewo
+Q751418;Manuel Tames
+Q752113;Tulcán
+Q752262;Q752262
+Q752267;Q752267
+Q753121;Atacames
+Q753590;City of Griffith
+Q753642;Avellaneda
+Q753906;Atbarah
+Q754480;Q754480
+Q754592;Atfih
+Q755752;Dessie
+Q755763;Jijiga
+Q755765;Awasa
+Q755791;Ati
+Q755860;Oakland
+Q756645;Valandovo
+Q757133;Chachapoyas
+Q757401;Atlixco
+Q757873;Q757873
+Q757905;Attapeu
+Q759381;Khamis Mushait
+Q760146;Bhilwara
+Q760714;Bhagalpur
+Q761408;Springs
+Q761508;Mrocza
+Q762430;Hamilton
+Q762727;Taroudant
+Q763015;Navoiy
+Q763595;Ilesa
+Q763662;Coracora
+Q763770;Kamenica
+Q764030;Qobustan
+Q764489;Buritizal
+Q764943;Olkusz
+Q764968;Massenya
+Q765185;Araçariguama
+Q765521;Eskifjörður
+Q765636;Gabriel Monteiro
+Q765820;Monte Caseros
+Q765823;Augusta Vindelicorum
+Q765887;Uzgen
+Q766309;Ukbara
+Q766735;Morococha
+Q767071;Soledad
+Q768086;Lambayeque
+Q768416;Priekulė
+Q768591;Oussouye
+Q768689;Pieniężno
+Q769578;Linstead
+Q769631;Drohiczyn
+Q769984;Caiuá
+Q770184;Quartier-Militaire
+Q770309;Cúa
+Q770336;Marneuli
+Q770447;Tissemsilt
+Q770518;Boumerdès
+Q770653;El Taref
+Q771267;Old Harbour
+Q771345;Helwan
+Q771907;Harem
+Q772458;Połczyn-Zdrój
+Q772672;Catacamas
+Q772875;Guernica
+Q773065;Itatiba
+Q773141;Ocauçu
+Q773225;Quevedo
+Q773227;Kęty
+Q773238;Milagro
+Q773603;Dhule
+Q773764;Juticalpa
+Q774098;Kazimierz Dolny
+Q774264;Eenhana
+Q774352;Bolków
+Q774405;La Chorrera
+Q775087;Al-Ram
+Q776418;Brzostek
+Q776499;Końskie
+Q776887;Kurunegala
+Q776912;Boraceia
+Q776930;Peterborough
+Q776965;Klaipėda
+Q777028;Thaba-Tseka
+Q777091;Sośnicowice
+Q777169;Tarnogród
+Q777802;Czerwieńsk
+Q778941;General Escobedo
+Q780529;Q780529
+Q780534;Sumbe
+Q780771;Escuintla
+Q780815;Cliza
+Q781245;San Martín
+Q781249;Närpes
+Q781354;Kapurthala
+Q781403;Q781403
+Q781510;Santa Cruz do Sul
+Q782278;Naupactus
+Q782743;Chinhoyi
+Q782760;Waitakere City
+Q782812;Avaré, São Paulo
+Q782857;Cyangugu
+Q783749;Vale
+Q783984;Austur-Skaftafellssýsla
+Q784207;Monte Mor
+Q785823;Kohunlich
+Q785888;Moguer
+Q786124;Kosovo Polje
+Q786140;Pedreira, São Paulo
+Q786758;Azogues
+Q787070;Cruzália
+Q787395;Llanfairfechan
+Q787824;Borovnica
+Q787968;Szydłów
+Q791685;Aweil, South Sudan
+Q791766;Awka
+Q792199;Bela Palanka
+Q792509;Axim
+Q792713;Ayabaca
+Q792769;Ayancık
+Q793377;Ayvacık
+Q793765;Bagua Grande
+Q793809;Huaraz
+Q794382;Beypazarı
+Q794668;Añatuya
+Q794712;Martakert
+Q794813;Songea
+Q794958;Al-Mubarraz
+Q796497;Bilara
+Q796669;Bhiwani
+Q797036;Prijepolje
+Q797499;Bardhere
+Q797512;Baarle
+Q797568;Babahoyo
+Q797713;Babimost
+Q797756;Baboua
+Q798245;Mahmutlar
+Q798765;Jisr al-Shughur
+Q799788;Bafatá
+Q799790;Bafia
+Q799794;Bafoulabé
+Q799808;Bafoussam
+Q799920;Baghdati
+Q800009;Lututów
+Q800122;Bago
+Q800155;Bagua
+Q803712;Baiji
+Q803960;Bairnsdale
+Q803984;Beit Jala
+Q803986;Beit Lahia
+Q803990;Beit Sahour
+Q804117;Bayankhongor
+Q804289;Bakel
+Q804607;Balaka Township
+Q804654;Balat
+Q805515;Balkhash
+Q805876;Balykchy
+Q805946;Bambari
+Q806082;Banana
+Q806249;Banda del Río Salí
+Q806424;Banes
+Q806478;Bangassou
+Q806552;Bangula
+Q806585;Banya, Plovdiv Province
+Q806817;Bankya
+Q806916;Bannu
+Q806929;Banpo
+Q807271;Baranów Sandomierski
+Q807311;Barbacena
+Q807901;Laitila
+Q807991;Barczewo
+Q808036;Bardo
+Q808100;Barentu, Eritrea
+Q808344;Barlinek
+Q808981;Barros Blancos
+Q809428;Bartica
+Q809657;Baruun-Urt
+Q809660;Barwani
+Q809664;Barwice
+Q809787;Basarabeasca
+Q809821;Voorburg
+Q810474;Bassar
+Q810710;Batallas
+Q810807;Bathurst
+Q811130;Baucau
+Q811144;Bauchi
+Q811831;Baures
+Q812112;Bayat
+Q812717;Baños de Agua Santa
+Q814033;Beed
+Q814922;Beitbridge
+Q815053;Bekabad
+Q815370;Beledweyne
+Q815399;Belen
+Q815721;Nysa
+Q815777;Bella Vista
+Q815782;Bella Unión
+Q816187;Belsh
+Q816341;Belén de Escobar
+Q816364;Bembla
+Q816673;Benalla
+Q816845;Irapuato
+Q817118;Höfn
+Q817269;Beni
+Q817954;Cubatão
+Q818019;Settat
+Q818403;Sokółka
+Q818765;Shinyanga
+Q818787;Hoegaarden
+Q818824;Maroua
+Q819123;Kolmanskop
+Q819314;Limbe
+Q819387;Haapavesi
+Q820024;Kupiškis
+Q820224;Tafalla
+Q820235;San Cristóbal
+Q820972;Tadjoura
+Q821023;Peqin
+Q821321;Dongola
+Q822196;Bernal
+Q822679;Garoowe
+Q822808;Dalanzadgad
+Q822815;Ulaangom
+Q824043;Toliara
+Q824594;Nador
+Q825818;Masyaf
+Q826068;Krosno
+Q826112;Punakha
+Q827047;Berovo
+Q827640;Tumbes
+Q828319;Bertioga
+Q828782;Quilmes
+Q829842;Forssa
+Q829886;Lindi
+Q830390;Treinta y Tres
+Q830631;Gisenyi
+Q831718;Sauðárkrókur
+Q833016;Tacuarembó
+Q833632;Garut
+Q833866;Gbadolite
+Q833946;Nueva Gerona
+Q834189;Komki-Ipala
+Q834310;Guadalupe, Baja California
+Q835000;Tutin
+Q835423;Strzyżów
+Q835838;Jurbarkas
+Q835843;Varėna
+Q835848;Naujoji Akmenė
+Q835856;Kuršėnai
+Q836198;Shinjuku
+Q836527;Tirupur
+Q836846;Talas
+Q836961;Drezdenko
+Q837035;Totonicapán
+Q837062;Olite
+Q838954;Sheberghan
+Q840712;Ica
+Q840962;Concepción
+Q841086;Municipality of Macau
+Q841231;Taboão da Serra
+Q841241;Limeira
+Q841557;Ongwediva
+Q842200;Sébikotane
+Q842228;Sangüesa
+Q842347;Villa Vaca Guzmán
+Q842355;Villa Serrano
+Q842360;Puerto Rico
+Q842373;Magdalena
+Q842407;Umm Qasr
+Q842472;Florida
+Q842779;Maturín
+Q842806;Guelmim
+Q842810;Smara
+Q842854;Ali Sabieh
+Q842869;Barda
+Q844091;Calabar
+Q844417;Stone Town
+Q844423;Teyateyaneng
+Q844430;Phuket
+Q844878;Bo
+Q844914;Mercedes
+Q845097;Sokodé
+Q845266;Yanjing
+Q845717;Garissa
+Q845720;Sancti Spíritus
+Q845866;Ramat HaSharon
+Q846502;Kuala Terengganu
+Q846939;Spanish Town
+Q847315;Musoma
+Q847606;Nagercoil
+Q847610;Seremban
+Q847660;Qatif
+Q847668;Qeqertarsuaq
+Q847677;Kaolack
+Q847691;Maniitsoq
+Q847715;Joniškis
+Q848403;Ilebo
+Q848638;Turkistan
+Q849292;Pedro Juan Caballero
+Q849524;Mostaganem
+Q849561;Chlef
+Q849835;Fray Bentos
+Q849934;Heinola
+Q851253;Campos do Jordão
+Q851292;Praia Grande
+Q851576;Nyala
+Q851855;Troyan
+Q851946;Gornji Petrovci
+Q852238;Onitsha
+Q852272;Vilkaviškis
+Q852276;Sidi Bel Abbès
+Q852363;Wolsztyn
+Q852469;Ouargla
+Q852515;Touggourt
+Q852528;Wad Madani
+Q852550;Gonaïves
+Q852698;Bádonfa
+Q853261;Jvari
+Q853785;Soroca
+Q853945;Dindigul
+Q854109;Luanshya
+Q854333;Tokmok
+Q854624;Bełżyce
+Q854791;Bhamo
+Q854934;Bhawana
+Q855122;Nanded
+Q855330;Donegal
+Q855634;Serowe
+Q855645;Durazno
+Q855717;Sisophon
+Q855724;Kampong Cham
+Q855820;Beltinci
+Q855940;Biała Piska
+Q855976;Białobrzegi
+Q855997;Sargodha
+Q856028;Biały Bór
+Q856151;Chipata
+Q856162;Phuntsholing
+Q856662;Lautoka
+Q857577;Mbanza-Ngungu
+Q857612;Calvar
+Q858120;Caaguazú District
+Q858130;Bierutów
+Q858312;Bieżuń
+Q858713;Ungheni
+Q859319;Ghanzi
+Q859708;Orapa
+Q860179;Obock
+Q860452;Bilaspur, Chhattisgarh
+Q861194;Chandrapur
+Q861630;La Sierpe
+Q861701;Placetas
+Q862041;Paro
+Q862508;Trinidad
+Q862611;Boké Region
+Q863058;Summerside
+Q863461;Bimbo
+Q863683;Rajgir
+Q863727;Bindura
+Q863795;Bingerville
+Q864100;Katima Mulilo
+Q864655;Serhetabat
+Q864836;Zhovkva
+Q864965;Petaling Jaya
+Q865146;Birendranagar
+Q865586;Galkayo
+Q865630;Birkerød
+Q865949;Birán
+Q867005;Oleszyce
+Q867039;Sokołów Małopolski
+Q867102;Gharyan
+Q867431;Radomyśl Wielki
+Q867437;Ulanów
+Q867586;Salt
+Q867592;Taba
+Q867603;El-Tor
+Q867704;Sędziszów Małopolski
+Q868203;Osogbo
+Q868205;Minas
+Q868631;Sukkur
+Q869403;Ciudad de la Costa
+Q870103;Pathein
+Q870475;Chamchamal
+Q871209;Solwezi
+Q871557;Tišina
+Q873405;La Guaira (city)
+Q874197;Lambaréné
+Q876166;Mariental
+Q876549;Kampot
+Q877229;Huining Prefecture
+Q877404;Iuvavum
+Q878820;Chincheros
+Q879057;Antabamba
+Q879065;Chalhuanca
+Q879071;Chuquibambilla
+Q880512;Black River
+Q882907;Corozal Town
+Q883362;Punta Gorda
+Q885996;Bluefields
+Q887147;Blönduós
+Q887488;Boaco
+Q888300;Dangriga
+Q888971;Bocas Town, Bocas del Toro
+Q890126;Bodzentyn
+Q890681;Boguchwała
+Q891241;Bol
+Q891664;Bolungarvík
+Q891719;Tinchlik
+Q891949;Nurafshon
+Q892020;Juma
+Q892276;Bondoukou
+Q892441;Bongor
+Q892886;Bonthe
+Q893092;Borama
+Q893274;Bor
+Q894513;Bossangoa
+Q895029;Boujad
+Q895407;Bowen
+Q896073;Boyuibe
+Q896185;Bozoum
+Q897232;Bragança Paulista
+Q897320;Brahmanbaria
+Q897446;Nidaros
+Q897898;Tongwan
+Q899873;Isiro
+Q905157;Guaratinguetá
+Q907241;Viana
+Q910973;Diourbel
+Q910997;Wyszków
+Q911020;Mońki
+Q911241;Vučitrn
+Q911248;Colonia Nicolich
+Q911310;Tumkur
+Q911358;Ebebiyín
+Q911750;Maisí
+Q912136;Peruíbe
+Q912253;North Bay
+Q912952;Pudasjärvi
+Q913102;Reyes, Bolivia
+Q913292;Moyamba
+Q913356;Tocuyito
+Q913390;Resende
+Q913406;Chirchiq
+Q914055;San Nicolás de los Garza
+Q915420;Loimaa
+Q916382;Ollantaytambo
+Q916514;Brzeszcze
+Q916536;La Ceiba
+Q916733;Ironcollo
+Q917173;Jumilla
+Q917434;Jauja
+Q917690;Zuunmod
+Q918461;Nkurenkuru
+Q919678;Yungay
+Q920204;Bernardino de Campos
+Q920242;Itaberá
+Q920866;Magnesia ad Sipylum
+Q921052;Dalvík
+Q921239;Pergamino
+Q921644;Eldorado, São Paulo
+Q922039;Santa Cruz da Conceição
+Q922701;Sitapur
+Q922944;Ubá
+Q922959;Glyfada
+Q923243;Langley
+Q923393;Lentvaris
+Q923414;Fontana
+Q923541;Puerto Deseado
+Q923643;Lazdijai
+Q923687;Uvira
+Q923811;New Amsterdam
+Q923862;Tanabi
+Q924078;Grodzisk Mazowiecki
+Q924098;Gornji Vakuf-Uskoplje
+Q924100;Choroszcz
+Q924124;Krzanowice
+Q924342;São Pedro, São Paulo
+Q924792;Brodowski
+Q924793;Machinda
+Q925419;São João da Boa Vista
+Q925506;Brok
+Q925686;Vopnafjörður
+Q926176;Itaju
+Q926426;Kozan
+Q926587;Las Parejas, Santa Fe
+Q926662;Itapecerica da Serra
+Q927541;Hořice
+Q927713;Hobro
+Q927933;Tarapoto
+Q927935;Ribeirão Pires
+Q928154;Pereira Barreto
+Q928234;Emilianópolis
+Q928262;Elisiário
+Q929022;Giannitsa
+Q929062;Gujrat
+Q929605;Razlog
+Q929689;Ngozi
+Q930149;Wołomin
+Q930321;Amparo, São Paulo
+Q930789;Kabala
+Q930883;Aramina
+Q931224;Ventanas
+Q931553;Lubniewice
+Q931560;Mairiporã
+Q932261;Sydney
+Q932640;Same
+Q932901;Khashuri
+Q933165;Reconquista
+Q933191;Pardinho
+Q933255;Smalininkai
+Q934086;Empalme
+Q934436;Dédougou
+Q934450;Moho
+Q934785;Trzcianka
+Q935454;Qift
+Q935519;Penticton
+Q935847;Viitasaari
+Q935886;Lusail
+Q936101;Oborniki Śląskie
+Q936316;Tan-Tan
+Q936510;Istarawshan
+Q937054;Гердонея
+Q937487;Katsina
+Q938046;Hvolsvöllur
+Q938162;Jaboticabal
+Q938457;Tadmur
+Q938562;Maçka
+Q938589;Blitta
+Q938739;San Lorenzo
+Q938803;General Levalle
+Q938820;Virrat
+Q938835;Guadalupe
+Q939109;Bíldudalur
+Q939112;Dečani
+Q939666;Pitangueiras
+Q939701;Orimattila
+Q939727;Somero
+Q939758;Kalajoki
+Q939771;Kuhmo
+Q940614;Garça
+Q940829;Sirohi
+Q941451;Tykocin
+Q941844;Grodków
+Q941948;Oni
+Q941980;Tkibuli
+Q942071;Itapetininga
+Q942135;Sumaré
+Q942392;Anhembi
+Q943270;SoharIO'[JIKL 'P JUK' JK'[P-
+Q943290;Sainshand
+Q943374;Uliastai
+Q944467;Pratânia
+Q944697;Loja
+Q945055;Bulgan
+Q945061;Ilhabela
+Q945288;Wiślica
+Q945388;Polatlı
+Q945473;Kazlų Rūda
+Q945484;Pasvalys
+Q945651;Zakliczyn
+Q946097;Ikere-Ekiti
+Q946143;Sighnaghi
+Q946326;Meridiano, São Paulo
+Q946384;Ibarra
+Q946930;Nova Campina
+Q946959;Liquiçá
+Q947414;Gołdap
+Q948050;Seeb
+Q948267;Wilamowice
+Q948304;Pszczyna
+Q948343;Naolinco, Veracruz
+Q948367;Janowiec Wielkopolski
+Q948448;Burao
+Q949535;San Francisco
+Q949907;Palanpur
+Q950436;Olecko
+Q950532;Tyrnavos
+Q950924;Samalut
+Q950991;Qasigiannguit
+Q951324;Beni Mazar
+Q951645;Quintana
+Q951906;Khojali
+Q952118;Talkha
+Q952173;Selinunte
+Q952230;Pedranópolis
+Q952273;Parque del Plata
+Q952374;Outokumpu
+Q952617;Hortolândia
+Q952665;Séguéla
+Q952726;Engenheiro Coelho
+Q952748;Comana
+Q952830;Santa Isabel
+Q953070;Parkano
+Q953081;Orivesi
+Q953341;Mirassolândia
+Q953449;Porlamar
+Q953490;Ciudad Ojeda
+Q953667;Castillos
+Q953723;Morteros
+Q954143;Cedynia
+Q954157;Chojna
+Q954186;Campbelltown
+Q954300;Santa Rosa de Copán
+Q954748;Głogówek
+Q955510;Itapevi
+Q955523;Dhamar
+Q955771;Pestszentimre
+Q956172;Mogi Guaçu
+Q956371;Mirzapur
+Q956602;Durg
+Q956690;Cornwall
+Q956745;Caxito
+Q956911;Otrar
+Q956922;Lanchkhuti
+Q956932;Sagarejo
+Q956954;Kaspi
+Q956966;Lagodekhi
+Q957326;Magway
+Q957530;Molėtai
+Q957653;Itu
+Q958001;Reginópolis
+Q958586;Barahona
+Q958621;Chaghcharan
+Q958717;Caiabu
+Q958747;Szczuczyn
+Q958899;Krumë
+Q959021;Punta Prieta
+Q959508;Ciężkowice
+Q959528;Morón
+Q959859;Naqada
+Q961143;Tupã
+Q962774;Naranjito
+Q963648;Birigüi
+Q963947;Ovacık
+Q964710;Fındıklı
+Q965360;Mbacké
+Q965924;Al-Madinat al-Zahira
+Q966350;Lqliâa
+Q966592;Odranci
+Q966990;Phongsali
+Q967110;São João de Iracema
+Q967648;São Caetano do Sul
+Q967746;Morón
+Q967899;Icém
+Q968765;Caravelí
+Q969144;Nakfa, Eritrea
+Q969307;Latrobe
+Q969880;Mwene-Ditu
+Q969998;Inycum
+Q970536;Cutral Có
+Q971397;Bastos
+Q971555;Cañada de Gómez
+Q972113;Falsterbo
+Q972756;Sheikhupura
+Q973385;Warnes
+Q973407;Cataviña
+Q974239;Negril
+Q974354;Chinandega
+Q974642;Pindamonhangaba
+Q974977;Szydłowiec
+Q975960;Zarcero
+Q976223;Kampong Thom
+Q976318;Chhaya
+Q976847;Santa Rita
+Q976975;Jorochito
+Q977149;Bonga
+Q977255;Plungė
+Q977305;Tambacounda
+Q978870;Borborema
+Q979808;Cagua
+Q980895;Mbini
+Q983026;Chilliwack
+Q983435;San José de Mayo
+Q983491;Itanhaém
+Q983495;Presidente Epitácio
+Q983498;Caraguatatuba
+Q983511;Valinhos
+Q983515;Charqueada
+Q983521;Caconde
+Q983529;Mongaguá
+Q983534;Vinhedo
+Q983683;Catanduva
+Q983726;Wołów
+Q983729;Krapkowice
+Q983747;Santa Bárbara d'Oeste
+Q983896;Alwernia
+Q983983;Nisko
+Q984274;Piątek, Łódź Voivodeship
+Q984462;Mikołajki
+Q984538;Krotoszyn
+Q984555;São José do Rio Pardo
+Q984571;Patos de Minas
+Q984575;Tébessa
+Q984646;Jiutepec
+Q984701;Gelinkaya
+Q984765;Chocz
+Q984857;Andrychów
+Q984858;Saarijärvi
+Q984863;Huehuetenango
+Q984927;Kannus
+Q985005;Pisz
+Q985386;Goniądz
+Q985458;Nivala
+Q985459;Oulainen
+Q985462;Nikaia
+Q985467;Raydah
+Q985494;Pirajuí
+Q985506;Jacupiranga
+Q985507;Morungaba
+Q985521;Guaymas
+Q985528;Przysucha
+Q985531;Tulkarm
+Q985548;Luba
+Q985562;Fada
+Q985569;Guará
+Q985581;Itararé
+Q985605;Ourinhos
+Q985614;Koulamoutou
+Q985618;Doba
+Q985622;Oshakati
+Q985627;Tieningboué
+Q985638;Marmaraereğlisi
+Q985642;Góra Kalwaria
+Q985646;Frampol
+Q985649;Brześć Kujawski
+Q985661;Brwinów
+Q985669;Chełmek
+Q985671;Vernon
+Q985674;Lloydminster
+Q985687;Konstancin-Jeziorna
+Q985803;N'dalatando
+Q985810;Skógar
+Q985991;Q985991
+Q986089;Cascante
+Q986100;Ridder
+Q986130;Sanniki, Masovian Voivodeship
+Q986198;Manukau City
+Q986207;Carrefour
+Q986288;Socopó
+Q986325;Safaga
+Q986336;Grootfontein
+Q986387;Cárdenas
+Q986406;Dąbrowa Białostocka
+Q986409;Kokemäki
+Q986429;Olmaliq
+Q986435;Nykøbing Falster
+Q986503;Guaraci
+Q986508;Penápolis
+Q986578;Harjavalta
+Q986763;Al-Suqaylabiyah
+Q986821;Susz
+Q986841;Reszel
+Q986875;Chhoti Sadri
+Q986912;Poniatowa
+Q986966;Przedecz
+Q986984;Prudnik
+Q987012;Bojanowo
+Q987160;Kałuszyn
+Q987193;Rogoźno
+Q987235;Gimbi
+Q987471;Bytom Odrzański
+Q987729;La Défense
+Q987745;Swords
+Q987754;Newcastle West
+Q987786;Skoczów
+Q987986;Chodecz
+Q987997;Sieraków
+Q988069;Of
+Q988169;Prabuty
+Q988179;Gryfów Śląski
+Q988185;Glinojeck
+Q988225;Tapachula
+Q988485;Prochowice
+Q988574;Paczków
+Q988576;Nakło nad Notecią
+Q988582;Ińsko
+Q988586;Sianów
+Q988588;Wyrzysk
+Q988593;Karlino
+Q988602;Moryń
+Q988604;Kępice
+Q988612;Wieleń
+Q988622;Polanów
+Q988628;Dobiegniew
+Q988632;Mirosławiec
+Q988636;Witnica
+Q988638;Drawno
+Q988639;Dobrzany
+Q988644;Mieszkowice
+Q988651;Pasłęk
+Q988658;Połaniec
+Q988663;Kłodawa
+Q989297;Rahim Yar Khan
+Q989419;Maszewo
+Q989423;Błaszki
+Q989427;Nowogard
+Q989432;Recz
+Q989441;Pełczyce
+Q989492;Córdoba
+Q989498;Niepołomice
+Q989561;Kalisz Pomorski
+Q989801;Kisielice
+Q989833;Orzysz
+Q989863;Tolkmicko
+Q989973;Tuczno
+Q990001;Heroica Nogales
+Q990095;Taxco
+Q990109;Enniskillen
+Q990115;Khenifra
+Q990122;Fada N'gourma
+Q990186;Margonin
+Q990188;Jaworzyna Śląska
+Q990310;Sungurlare
+Q990427;Tal Afar
+Q990569;Kankaanpää
+Q990573;Pyhäjärvi
+Q990651;Kozienice
+Q990657;Shfaram
+Q990685;Chincha Alta
+Q990698;Colomi
+Q990706;Montero
+Q990709;Sipe Sipe
+Q990738;Manta
+Q990746;Chimoré
+Q990764;San Fernando de Apure
+Q990779;Pyzdry
+Q990785;Dolsk
+Q990791;Pogorzela
+Q990795;Raszków
+Q990799;Gniewkowo
+Q990808;Gąbin
+Q990816;Kobylin
+Q990823;Rzepin
+Q990828;Byczyna
+Q990830;Dziwnów
+Q990837;Debrzno
+Q990841;Człopa
+Q991006;Minatitlán
+Q991022;Bystrzyca Kłodzka
+Q991076;Naklo
+Q991201;Rjukan
+Q991263;Slatina
+Q991268;Mamurras
+Q991295;Thompson
+Q991298;Brown's Town
+Q991310;Timmins
+Q991318;Radoviš
+Q991363;Corner Brook
+Q991395;Sa'dah
+Q991400;Puerto Barrios
+Q991408;Turmi
+Q991413;Linares
+Q991435;Ciudad del Carmen
+Q991590;Otyń
+Q991797;Kolbuszowa
+Q991819;Kock
+Q991829;Więcbork
+Q991840;Janów Lubelski
+Q991849;Mirsk
+Q991866;Szlichtyngowa
+Q991887;Kamieńsk
+Q991895;Skaryszew
+Q991912;Halinów
+Q991917;Radzyń Chełmiński
+Q991924;Chęciny
+Q991929;Koprzywnica
+Q991962;Chorzele
+Q991973;Chmielnik
+Q991998;Libiąż
+Q992077;Okakarara
+Q992136;Telefomin
+Q992154;Grand Baie
+Q992173;Trujillo
+Q992247;Bururi
+Q992829;Tornquist
+Q992910;Sobótka
+Q992920;Kąty Wrocławskie
+Q993076;Hlotse
+Q993149;Otjiwarongo
+Q993200;Chililabombwe
+Q993322;Luchenza
+Q993697;Ocnița
+Q993721;Germiston
+Q993859;Mardan
+Q994061;Kłecko
+Q994105;Minna
+Q994114;Yola
+Q994167;Odžak
+Q994203;Cazin
+Q994217;Sjenica
+Q994271;Opoczno
+Q994312;Tena
+Q994351;Río Tercero
+Q994514;Rangpur
+Q994585;Skwierzyna
+Q994662;Brusy
+Q995141;Różan
+Q995145;Lipsk
+Q995159;Ciechanowiec
+Q995163;Tawau
+Q995172;Idenau
+Q995249;Tukuyu
+Q995380;San Luis Río Colorado
+Q995413;Kpalimé
+Q995429;Brzeg Dolny
+Q995477;Drøbak
+Q995690;Media Luna
+Q995695;Puerto Cabello
+Q995707;Lodwar
+Q995718;San Carlos
+Q995727;Sacaba
+Q995752;San Ignacio de Velasco
+Q995806;Dobrzyń nad Wisłą
+Q995820;Bychawa
+Q995828;Gorzów Śląski
+Q995839;Międzylesie
+Q995847;Małomice
+Q995855;Radków
+Q995859;Szamocin
+Q995865;Mieroszów
+Q995872;Rydzyna
+Q995877;Miłomłyn
+Q995889;Lądek-Zdrój
+Q995903;Torzym
+Q996056;Ereğli
+Q996478;Guarenas
+Q996730;Kericho
+Q996851;Bungoma
+Q997047;Kumba
+Q997069;Mansa
+Q997084;Turmero
+Q997121;Kribi
+Q997314;Bu'ale
+Q997402;Buba
+Q997447;Węgorzyno
+Q997821;Delmas
+Q998476;Nowogrodziec
+Q998813;Narok
+Q999070;Nkongsamba
+Q999076;Dera Ghazi Khan
+Q999269;Cybinka
+Q999384;Kietrz
+Q999482;Wielbark, Warmian-Masurian Voivodeship
+Q999498;Manga
+Q999572;Nueva Helvecia
+Q999598;Szubin
+Q999604;Wiązów
+Q999607;Sędziszów
+Q999614;Olsztynek
+Q999623;Krasnobród
+Q999632;Pakość
+Q999638;Piotrków Kujawski
+Q999644;Krośniewice
+Q1000143;Güigüe
+Q1000333;Huancavelica
+Q1000341;Ilo
+Q1000346;Moquegua
+Q1000351;Kitakawabe
+Q1000373;Mandalgovi
+Q1000438;Szczawnica
+Q1000495;Rewa
+Q1000609;Gobabis
+Q1000839;Ordubad
+Q1000844;Khojavend
+Q1000883;Lachin
+Q1000887;Yehud
+Q1000938;Toszek
+Q1001200;Prószków
+Q1001307;Gogolin
+Q1001322;Syców
+Q1001440;Pétion-Ville
+Q1001496;Jeziorany
+Q1001517;Sompolno
+Q1001522;Navojoa
+Q1001571;Zalewo
+Q1001758;Buena Vista
+Q1001817;Buenos Aires
+Q1001887;Ifrane
+Q1001897;San Antonio de Palé
+Q1001914;Masaya
+Q1001927;Sastamala
+Q1001959;Cotacachi
+Q1001989;Huachacalla
+Q1001995;Huanchaco
+Q1002035;Viacha
+Q1002052;Huacho
+Q1002076;El Torno, Santa Cruz
+Q1002084;El Carmen (Santa Cruz)
+Q1002090;Quillacollo
+Q1002105;Santiago de Huari
+Q1002115;Limavady
+Q1002144;Southport
+Q1002286;Donji Milanovac
+Q1002533;Izbica Kujawska
+Q1002557;Safita
+Q1002560;Comarapa
+Q1002580;Koidutown-Sefadu
+Q1002638;Rubio
+Q1002658;Wielichowo
+Q1002670;Poniec
+Q1002685;Stawiszyn
+Q1002696;Trzemeszno
+Q1002776;Carrickmacross
+Q1002807;Cacheu
+Q1002823;Fomboni
+Q1002841;Ivanjica
+Q1002900;Edéa
+Q1002916;Kurihashi
+Q1002944;Zdzieszowice
+Q1003016;Leśnica
+Q1003112;Niemodlin
+Q1003264;Czchów
+Q1003267;Koniecpol
+Q1003272;Sułkowice
+Q1003276;Międzybórz
+Q1003279;Dobczyce
+Q1003283;Kcynia
+Q1003318;Quthing
+Q1003328;Karasburg
+Q1003429;Cruzeiro, São Paulo
+Q1003456;Cunha
+Q1003502;Secunderabad
+Q1003511;Mairana
+Q1003903;Hassa
+Q1004149;Olavarría
+Q1004283;Khanaqin
+Q1004290;Skuodas
+Q1004295;Kybartai
+Q1004298;Kalvarija
+Q1004302;Pakruojis
+Q1004312;Garliava
+Q1004320;Ariogala
+Q1004328;Pabradė
+Q1004561;Yeniceoba
+Q1004660;Q1004660
+Q1004686;Sandnessjøen
+Q1004716;Ras el Ma
+Q1004822;Bumba
+Q1005350;Ośno Lubuskie
+Q1005356;Rabka-Zdrój
+Q1005359;Strumień
+Q1005384;Wołczyn
+Q1005394;Ujazd
+Q1005403;Lubawka
+Q1005409;Drzewica
+Q1005414;Strzelno
+Q1005419;Twardogóra
+Q1005428;Przemków
+Q1005435;Dąbie, Greater Poland Voivodeship
+Q1005442;Otmuchów
+Q1005453;Kolonowskie
+Q1005464;Lidzbark
+Q1005472;Warta
+Q1005483;Pasym
+Q1005492;Sława
+Q1005503;Korfantów
+Q1005511;Krzepice
+Q1005538;Czerwionka-Leszczyny
+Q1005584;Omuthiya
+Q1005725;San Bautista
+Q1005827;Nekla
+Q1005837;Jutrosin
+Q1005855;Lubień Kujawski
+Q1005885;Ostroróg
+Q1005905;Lwówek
+Q1005972;Borek Wielkopolski
+Q1006065;Wąsosz
+Q1006081;Drobin
+Q1006116;Gemena
+Q1006137;Lodja
+Q1006155;Piriápolis
+Q1006165;Río Branco
+Q1006240;Palakkad
+Q1006277;Mandya
+Q1006343;Mira-Bhayandar
+Q1006363;Jagdalpur
+Q1006772;Ogrodzieniec
+Q1006788;Młynary
+Q1006813;Miłakowo
+Q1007275;San Juan de Payara
+Q1007342;Książ Wielkopolski
+Q1007355;Barcin
+Q1007479;Lubraniec
+Q1007603;Cerrillos
+Q1007634;Estelí
+Q1007647;Naivasha
+Q1007702;Florencia
+Q1007719;Kisii
+Q1008008;Hayes
+Q1008152;Thisted
+Q1008368;San José de Barlovento
+Q1008390;Nowy Korczyn
+Q1008456;Puerto Cabezas
+Q1008761;Piaski
+Q1008963;Mamporal
+Q1009161;Homa Bay
+Q1009179;Moyale
+Q1009199;Kilifi
+Q1009253;Ipswich
+Q1009276;Trelew
+Q1009308;Sefrou
+Q1009336;Debundscha
+Q1009509;Colac
+Q1009549;Gabela
+Q1009864;Christiana
+Q1010153;Sępopol
+Q1010278;Torit
+Q1010287;Kuajok
+Q1010367;Valera
+Q1010550;Pargas
+Q1010806;Bidor
+Q1010816;Jibla
+Q1010954;Somoto
+Q1010960;Gardabani
+Q1010979;Dedoplis Tskaro
+Q1010985;Tetri Tsqaro
+Q1011011;Khoni
+Q1011016;Kvareli
+Q1011047;Gurjaani
+Q1011210;Pichanal
+Q1011256;Saray, Tekirdağ
+Q1011290;Hasköy
+Q1011488;Nuweiba
+Q1011553;Nowy Wiśnicz
+Q1011669;Kélo
+Q1011863;Viqueque
+Q1011873;Manatuto
+Q1011890;Kolda
+Q1011972;Chibuto
+Q1012625;Dawson Creek
+Q1012706;Rourkela
+Q1012828;Lice
+Q1012831;Nizip
+Q1012868;Vulcănești
+Q1012887;Karadeniz Ereğli
+Q1012924;Ceadîr-Lunga
+Q1012929;Erzin
+Q1013379;Mafeteng
+Q1013389;Henties Bay
+Q1013428;Mokhotlong
+Q1013454;Jolfa, Azerbaijan
+Q1013526;Puerto Ayora
+Q1013556;Halebidu
+Q1013691;Lascano
+Q1013831;Gravisca
+Q1013946;Ruacana
+Q1013965;Otavi
+Q1014010;Tarim
+Q1014093;Gökçebey
+Q1014235;Portsmouth
+Q1014285;Alexandreia
+Q1014306;Cipolletti
+Q1014315;Santa Lucía
+Q1014367;Călărași
+Q1014375;Kholm
+Q1014380;Djanet
+Q1014390;Vélingara
+Q1014409;Juan Bautista Alberdi
+Q1014423;Irupana
+Q1014430;Daule
+Q1014433;Mapiri
+Q1014448;Colquiri
+Q1014456;Puerto Suárez
+Q1014461;Samaipata
+Q1014468;Caranavi
+Q1014474;San Pedro de Lloc
+Q1014481;Tupiza
+Q1014493;Montecristi
+Q1014504;Villamontes
+Q1014511;Uyuni
+Q1014530;Shinahota
+Q1014537;Coripata
+Q1014543;La Merced
+Q1014554;Macas
+Q1014561;Maryborough
+Q1014564;Puerto Francisco de Orellana
+Q1014661;Lules
+Q1015036;Skarszewy
+Q1015069;Dilolo
+Q1015146;Poipet
+Q1015152;Działoszyn
+Q1015157;Czarne
+Q1015160;Czersk
+Q1015165;Korsze
+Q1015172;Sulejów
+Q1015472;Jabalia
+Q1015546;San José de Fray Mamerto Esquiú
+Q1015639;Prince Rupert
+Q1015672;Whanganui
+Q1015681;Lower Hutt
+Q1015690;Hastings
+Q1015727;Mbale
+Q1015752;Konibodom
+Q1015773;Porirua
+Q1015796;Victor Harbor
+Q1015891;Gabú
+Q1016047;San Javie
+Q1016289;Tarata
+Q1016533;Eucaliptus
+Q1016732;Konongo
+Q1016873;Cruz del Eje
+Q1016881;Marcos Juárez
+Q1016922;Mänttä-Vilppula
+Q1017008;Hohoe
+Q1017098;Lospalos
+Q1017120;Mendi
+Q1017129;Paimio
+Q1017160;Hudur
+Q1017167;Garbahaareey
+Q1017183;Erigavo
+Q1017205;Hafun
+Q1017208;Burzaco
+Q1017210;Tsalenjikha
+Q1017314;Cholpon-Ata
+Q1017331;Westport
+Q1017358;Kavieng
+Q1017362;Mount Hagen
+Q1017367;San Antonio de Padua
+Q1017369;Kokopo
+Q1017376;Popondetta
+Q1017387;Rocha
+Q1017430;Lorengau
+Q1017554;Monte Grande
+Q1017556;Rosario de Lerma
+Q1017594;Merlo
+Q1017624;Portage la Prairie
+Q1017630;Oğuz
+Q1017637;Nawabshah
+Q1017651;Chiniot
+Q1017662;Qakh
+Q1017673;Isa Town
+Q1017678;Salyan
+Q1017683;Siyəzən
+Q1017691;Cold Lake
+Q1017696;Jacobabad
+Q1017710;Qubadlı
+Q1017735;Owen Sound
+Q1017801;Tabubil
+Q1017895;Butere
+Q1017971;Loikaw
+Q1017988;Vlasenica
+Q1018025;Vahdat
+Q1018092;Usulután
+Q1018116;Ruyigi
+Q1018160;Khachmaz
+Q1018163;Myeik
+Q1018167;Dawei
+Q1018173;Sagaing
+Q1018201;Nurak
+Q1018215;Yafran
+Q1018239;Selkirk, Manitoba
+Q1018271;Estevan
+Q1018369;Corriverton
+Q1018501;Lahad Datu
+Q1018524;Merak
+Q1018574;Aného
+Q1018592;Porto Amboim
+Q1018701;Thakhek
+Q1018781;San Diego
+Q1018868;Zhetikara
+Q1018872;Gleno
+Q1018877;Vreed en Hoop
+Q1019060;Eyl
+Q1019152;San Martín de los Andes
+Q1019356;Mendefera
+Q1019377;Shakhtinsk
+Q1019402;Winkler
+Q1019405;Priozersk
+Q1019424;Rufisque
+Q1019429;Podor
+Q1019431;M'Bour
+Q1019443;Reyðarfjörður
+Q1019448;Vogar
+Q1019452;Stykkishólmur
+Q1019455;Hólar
+Q1019459;Grundarfjörður
+Q1019466;Sandgerði
+Q1019470;Skive
+Q1019496;Moose Jaw
+Q1019505;Nowe Miasto nad Pilicą
+Q1019534;Trongsa
+Q1019991;Marondera
+Q1020010;Florø
+Q1020110;Mumias
+Q1020263;San Pedro de Jujuy
+Q1020273;Ciro Redondo
+Q1020276;Búðardalur
+Q1020277;Junín
+Q1020279;Punto Fijo
+Q1020288;Tiquipaya
+Q1020292;Isiolo
+Q1020297;El Tigre
+Q1020309;Pakxan
+Q1020314;Mayarí
+Q1020320;San Carlos, Río San Juan
+Q1020338;Maliana
+Q1020384;Labé
+Q1020396;José Enrique Rodó
+Q1020477;Dekemhare
+Q1020481;Mahdia
+Q1020484;Satpayev
+Q1020490;Mirpur Khas
+Q1020535;Trujillo
+Q1020576;Capilla del Monte
+Q1020627;Cəlilabad
+Q1020649;Samangan
+Q1020718;Roorkee
+Q1020753;Rosarito Beach
+Q1020776;Cabo San Lucas
+Q1020785;Tepoztlán
+Q1020794;Otavalo
+Q1020805;Sabya
+Q1020969;Tupambaé
+Q1020997;Wadi Al-Seer
+Q1021013;Jaʿār
+Q1021037;Terrace
+Q1021223;Kamień Krajeński
+Q1021263;Chociwel
+Q1021272;Okonek
+Q1021277;Ikast
+Q1021282;Nowy Staw
+Q1021286;Suchań
+Q1021294;Krzyż Wielkopolski
+Q1021592;Nea Filadelfeia
+Q1021638;Port Mathurin
+Q1021748;Quíbor
+Q1021903;Chivhu
+Q1022131;Rîșcani
+Q1022152;Chavuma
+Q1022170;Chokwe
+Q1022275;Necochea
+Q1022281;Chernomorets
+Q1022481;Tayibe
+Q1022488;Brighton and Hove
+Q1022523;Ekwendeni
+Q1022529;Chiradzulu
+Q1022535;Rumphi
+Q1022541;Chikwawa
+Q1022984;Farim
+Q1023044;Akmenė
+Q1023153;Eceabat
+Q1023290;Kara-Suu
+Q1023330;Ras al-Ayn
+Q1023334;Tuz Khormato
+Q1023359;Jalapa
+Q1023393;Retalhuleu
+Q1023493;Yaritagua
+Q1023521;Nueva Palmira
+Q1023540;Rosario
+Q1023619;Magdanly
+Q1023631;Sanare
+Q1023655;Salamá
+Q1023703;Oyo
+Q1023712;San Fernando
+Q1023718;Wete
+Q1023722;Damaturu
+Q1023746;Górzno
+Q1023760;Nowogród Bobrzański
+Q1024089;Opuwo
+Q1024157;Las Delicias
+Q1024653;Senafe
+Q1024671;Troškūnai
+Q1024673;Virbalis
+Q1024676;Tytuvėnai
+Q1024728;Wangaratta
+Q1024731;Valladolid
+Q1024793;Cabezas
+Q1025283;Hambantota
+Q1025299;Miłosław
+Q1025302;Jelcz-Laskowice
+Q1025304;Stronie Śląskie
+Q1025309;Głogów Małopolski
+Q1025311;Kunów
+Q1025316;Wleń
+Q1025320;Kosów Lacki
+Q1025323;Szczytna
+Q1025330;Orneta
+Q1025336;Józefów, Biłgoraj County
+Q1025462;Nepalgunj
+Q1025468;Jalore
+Q1025475;Jaunpur
+Q1025501;Cafayate
+Q1025577;Milford
+Q1025587;Grafton
+Q1025604;Maghera
+Q1025621;Mobaye
+Q1025701;Hveragerði
+Q1025799;Kariba
+Q1025801;Juigalpa
+Q1025805;Grigoriopol
+Q1025830;Ocotal
+Q1025861;Subačius
+Q1025873;Caimanera
+Q1025875;Czerwińsk nad Wisłą
+Q1026057;Yardımlı
+Q1026084;Tovuz
+Q1026135;Cala Cala
+Q1026185;Calabozo
+Q1026219;Punata
+Q1026224;Ivirgarzama
+Q1026244;San Joaquín
+Q1026253;Guayaramerín
+Q1026256;Camiri
+Q1026270;Paita
+Q1026281;Arani
+Q1026284;Salinas
+Q1026291;Kant
+Q1026296;Jinotega
+Q1026307;Chuy
+Q1026312;Puerto Quito
+Q1026347;Samosata
+Q1026567;Steinbach
+Q1026613;Wazirabad
+Q1026616;Jhang
+Q1026631;Göygöl
+Q1026633;Caleta Olivia
+Q1026821;Carmel City
+Q1026833;Humahuaca
+Q1026867;Reykjahlíð
+Q1026898;Naina Devi
+Q1026949;Ainaro
+Q1026957;Muang Xay
+Q1026971;Yateras
+Q1026976;Sale
+Q1026982;El Salvador
+Q1026987;Guatire
+Q1026991;Niceto Pérez
+Q1027004;Santa Rita, Venezuela
+Q1027018;Tela
+Q1027041;Mercedes
+Q1027045;Gijduvan
+Q1027111;Kengtung
+Q1027142;Pelplin
+Q1027174;Montepuez
+Q1027188;Gurúè
+Q1027526;Borne Sulinowo
+Q1027623;To‘rtko‘l
+Q1027828;Lomié
+Q1027843;Korogwe
+Q1028011;Camaná
+Q1028027;Rudnik nad Sanem
+Q1028086;Khanbaliq
+Q1028279;Cambridge
+Q1028289;Züünkharaa
+Q1029634;Ar Rutba
+Q1029645;Balad
+Q1029650;Afak
+Q1029787;Iskandariya
+Q1030076;Shamia
+Q1030194;Campana
+Q1030202;Campanero
+Q1030509;Campbell River
+Q1033066;Darayya
+Q1034159;Harstad
+Q1035471;Caraz
+Q1036082;Carhuaz
+Q1038323;Garabogaz
+Q1042410;Yōkaichi
+Q1043090;Borg El Arab
+Q1043575;Carmelo
+Q1044225;Abengourou
+Q1044689;Carora
+Q1046653;Khemisset
+Q1047734;Ertis
+Q1048762;Cuevas del Almanzora
+Q1050352;Catandica
+Q1051750;Pilzno
+Q1051957;Cayambe
+Q1054127;Andkhoy
+Q1054191;Centre de Flacq
+Q1055823;Cerro Chato
+Q1057594;River Cess
+Q1060628;Chambas
+Q1061665;Asaba
+Q1061677;Heerenveen
+Q1062370;Myitkyina
+Q1062463;Chane Independencia
+Q1062635;Chapala
+Q1067163;Tepi
+Q1067182;Beica
+Q1067293;Arboye
+Q1067464;Debarq
+Q1070175;Koumra
+Q1071771;Chibombo
+Q1072210;Basyoun
+Q1072833;Chilecito
+Q1074598;Chipoka
+Q1074644;Chiquián
+Q1074915;Chitipa
+Q1075566;Taunggyi
+Q1075607;Chocianów
+Q1076743;Urawa
+Q1081284;Kipushi
+Q1087848;Abu Qurayn
+Q1089052;Wojnicz
+Q1089449;Chulucanas
+Q1094355;Ciudad Guzmán
+Q1094368;Perico (Jujuy)
+Q1097771;Santa Rosa de Viterbo
+Q1100303;Siguiri
+Q1100543;Dabola
+Q1100799;Minvoul
+Q1100812;Campo
+Q1100817;Dimako
+Q1101913;Basoko
+Q1102045;Metangula
+Q1102117;Basankusu
+Q1102132;Yangambi
+Q1102140;Grand Lahou
+Q1102546;Oumé
+Q1102602;Mapai
+Q1102796;Biankouma
+Q1102986;Cobue
+Q1102993;Simunye
+Q1104010;Venta
+Q1105475;Q1105475
+Q1106169;Fougamou
+Q1106689;Banting
+Q1107673;Colcapirhua
+Q1108876;Collana
+Q1110006;Soqota
+Q1110016;Injibara
+Q1111957;Busia
+Q1112482;Altinópolis
+Q1112826;Vila de Sena
+Q1113311;Peshawar
+Q1115195;Bakoumba
+Q1119526;Nantes, São Paulo
+Q1120318;Igaraçu do Tietê
+Q1120810;Durán, Ecuador
+Q1120978;Sotouboua
+Q1122800;Witkowo
+Q1123806;Concepción, Tucumán
+Q1132939;Corinto
+Q1134076;San Pablo
+Q1134454;Coro
+Q1135603;Thyatira
+Q1136023;Sharuna
+Q1136189;Darbhanga
+Q1136771;Frankston
+Q1137496;Neapolis
+Q1138762;Ituni
+Q1138837;Cranbrook
+Q1141853;Hîncești
+Q1141858;Ajloun
+Q1142811;Cuamba
+Q1142846;Cuatro Cañadas
+Q1142926;Impfondo
+Q1143259;Cuevo
+Q1145715;Pelusium
+Q1146939;Manbij
+Q1149273;Paradero
+Q1149495;Czerniejewo
+Q1149502;Jarabulus
+Q1149819;Trashigang
+Q1150271;Edineț
+Q1150394;Alqosh
+Q1151582;Matam
+Q1152173;Berenice Panchrysos
+Q1152298;Kilamba
+Q1153061;Richard Toll
+Q1153620;Tivaouane
+Q1157971;Vera
+Q1159408;Dandenong
+Q1163924;Celaenae
+Q1164081;Al-Faw
+Q1166791;Muttrah
+Q1170305;Aïn El Aouda
+Q1173008;Dauphin
+Q1173023;Daura
+Q1179637;Kozlu
+Q1179844;Pınarbaşı
+Q1185041;Yenangyaung
+Q1187240;Kieta
+Q1187439;Buin, Papua New Guinea
+Q1188560;Winneba
+Q1189982;Godoy Cruz
+Q1190869;Catió
+Q1192453;Deoghar
+Q1192513;Golina
+Q1195207;Takéo
+Q1196877;Brak
+Q1200027;Sevojno
+Q1200140;Mounana
+Q1200491;Desaguadero
+Q1201732;Owando
+Q1202229;Hwange
+Q1202476;Ampang Jaya
+Q1203453;Sawara
+Q1203781;Lethem
+Q1207825;Tororo
+Q1208250;Hankou
+Q1209397;Lashio
+Q1209404;Hpa-An
+Q1210015;Kaga-Bandoro
+Q1222265;Bragado
+Q1222856;Braúna
+Q1222916;Santa Gertrudes
+Q1223508;Ohrid
+Q1226177;Dina
+Q1227687;Diriamba
+Q1229885;Jaén
+Q1231448;Heraclea in Trachis
+Q1232016;Kasese
+Q1236193;Paiania
+Q1240428;Skagaströnd
+Q1241126;Dondo
+Q1241501;Milot
+Q1243563;Tel Dor
+Q1243772;Samannud
+Q1246235;Nørresundby
+Q1246740;Metemma
+Q1247205;Khan Abad
+Q1249888;Ḍera Ismaīl K͟hān
+Q1250417;Tando Allahyar
+Q1250874;Aelia Capitolina
+Q1251114;Dostyk
+Q1251473;Chakwal
+Q1252806;Mandi Bahauddin
+Q1254798;Devarakonda
+Q1258998;Salona
+Q1261509;Druskininkai
+Q1266637;Dibrugarh
+Q1266676;Q1266676
+Q1266746;Puerto San José
+Q1266796;Ambo
+Q1268139;Duékoué
+Q1269422;San Carlos de Río Negro
+Q1270691;Adzopé
+Q1272817;Dəliməmmədli
+Q1273644;Pikine
+Q1274372;Ye
+Q1276800;Jorf
+Q1279608;Pacasmayo
+Q1280242;Kerema
+Q1280257;Stary Sącz
+Q1280261;Świątniki Górne
+Q1280559;Skała
+Q1280603;Piwniczna-Zdrój
+Q1280822;Maków Podhalański
+Q1280831;Ryglice
+Q1280869;Szczucin
+Q1280983;Radłów
+Q1281172;Słomniki
+Q1281557;Zator
+Q1286083;Makamba
+Q1288480;Kowalewo Pomorskie
+Q1289776;Moatize
+Q1294439;Salalah
+Q1296439;Effon-Alaiye
+Q1299852;Keningau
+Q1301146;Guerrero, Coahuila
+Q1302971;Gundeshapur
+Q1308292;Valle de la Pascua
+Q1315249;Kentau
+Q1318022;Canchungo
+Q1318036;Mbinda
+Q1318103;Sauteurs
+Q1321311;Île Sainte-Marie
+Q1322106;Rosignol
+Q1323393;Krzywiń
+Q1323910;Atlacomulco Municipality
+Q1324317;El Limón
+Q1324574;El-Qantarah el-Sharqiyya
+Q1324653;El Tocuyo
+Q1325690;Eldoradown
+Q1329990;Lapithos
+Q1332135;Campechuela
+Q1332144;Jesús Menéndez
+Q1332168;Majibacoa
+Q1332179;Cauto Cristo
+Q1333077;Skhirat
+Q1337557;Tálknafjörður
+Q1340301;Ende
+Q1340331;Joal-Fadiouth
+Q1340579;Nuwara Eliya
+Q1346418;Epanomi
+Q1349926;Sinuessa
+Q1351046;Marijampolė
+Q1354922;Eriza
+Q1355846;Mailuu-Suu
+Q1355984;Iłża
+Q1355994;Kleczew
+Q1360304;Monywa
+Q1362117;Mocímboa da Praia
+Q1364365;Zula
+Q1368165;Esperanza
+Q1368576;Mansôa
+Q1368696;Paurito
+Q1369593;Ad Dali'
+Q1369892;Pitt Meadows
+Q1370650;Nkhata Bay
+Q1374967;Euroea in Phoenicia
+Q1375645;Koh Kong
+Q1377361;Liwonde
+Q1377368;Gikongoro
+Q1377518;Highgate
+Q1383013;Ewarton
+Q1383404;Fayid
+Q1385982;Ezeiza
+Q1387526;Liberia
+Q1388385;Suwaylih
+Q1390081;Santa Teresa del Tuy
+Q1390721;Nhamatanda
+Q1391693;Saavedra
+Q1392195;Mango
+Q1393804;Victoria Falls
+Q1395079;Famaillá
+Q1404020;Ras Gharib
+Q1404518;Oranjemund
+Q1404724;Feni
+Q1406641;Kazimierza Wielka
+Q1407440;Fernández Alonso
+Q1415536;Lokichogio
+Q1416961;San Benito, Cochabamba
+Q1417212;Finike
+Q1421485;Miejska Górka
+Q1421516;Tuliszków
+Q1423367;Half Way Tree
+Q1425428;Newcastle upon Tyne
+Q1428069;Sorata
+Q1432674;Magnesia on the Maeander
+Q1434186;Halaesa
+Q1434796;Tamworth
+Q1436362;Falerii Novi
+Q1436787;Q1436787
+Q1438830;Fort William
+Q1439170;Lindóia
+Q1439179;Serra Negra
+Q1439211;Três Corações
+Q1439847;Foumban
+Q1440541;Fraita
+Q1441919;San Jacinto
+Q1442670;La Bañeza
+Q1444575;Chaguanas
+Q1444866;Frankfurt-West
+Q1445232;Purchena
+Q1447290;Ghorahi
+Q1449543;San Jorge (Santa Fe)
+Q1453180;Rohtak
+Q1453196;Muzaffarpur
+Q1456147;Fridau
+Q1457265;Usakos
+Q1457919;Triyuga
+Q1458892;Xangongo
+Q1467234;Nyanga
+Q1471709;Frías, Santiago del Estero
+Q1476045;Равва
+Q1483871;Blachownia
+Q1490813;Gadaka
+Q1491102;Q1491102
+Q1494067;La Banda
+Q1496283;Moreno
+Q1497761;Geestland
+Q1499762;Tansen
+Q1501621;General Güemes, Salta
+Q1505099;Dobre Miasto
+Q1506112;Puerto Pailas
+Q1506556;Yapacaní
+Q1508561;Santa Clara de Olimar
+Q1511713;Gościno
+Q1514901;Villa Soriano
+Q1517030;Kirtipur
+Q1517139;Tinaquillo
+Q1519037;Petra
+Q1524575;Urë Vajgurore
+Q1529020;Gladbach-Rheydt
+Q1530295;Divo
+Q1530699;Lekhnath
+Q1530936;Siddharthanagar
+Q1530993;Glengarriff
+Q1532147;Pan de Azúcar, Uruguay
+Q1543067;Grange Hill, Jamaica
+Q1543632;Taree
+Q1549798;Atlántida, Uruguay
+Q1550881;Yallahs
+Q1551924;Mikstat
+Q1552562;Guacara
+Q1552906;Guasdualito
+Q1553052;Nusaybin
+Q1553175;Achacachi
+Q1553776;Guiglo
+Q1554994;Karaköl
+Q1555291;Segodunum
+Q1555366;Gusinje
+Q1557691;Guédiawaye
+Q1557796;Gwanda
+Q1562063;Gürpınar
+Q1563449;San Antonio de los Cobres
+Q1564243;Dasharathchanda
+Q1572120;Halpa
+Q1579038;Nasielsk
+Q1584051;Padilla
+Q1587131;Soubré
+Q1587810;Rakoniewice
+Q1588249;Dabou
+Q1588797;Bouaflé
+Q1590553;Narayan
+Q1590869;Charikot
+Q1591499;Havelse
+Q1602650;Hella
+Q1602897;Hellissandur
+Q1605894;Seleucia Pieria
+Q1614556;Socuéllamos
+Q1616963;Monteros
+Q1617416;Aiquile
+Q1618305;Mutriku
+Q1622565;Lanús
+Q1625598;Botucatu
+Q1626079;Portachuelo
+Q1627466;Bir Salah
+Q1629019;Horsham
+Q1632220;Lucea
+Q1632719;Huacaraje
+Q1632770;Huamachuco
+Q1632857;Huanuni
+Q1634223;Panajachel
+Q1635196;Port Loko
+Q1635606;Temara
+Q1635802;Trindade
+Q1635908;Atzeneta del Maestrat
+Q1637405;Atibaia
+Q1637471;Vidisha
+Q1637488;Barretos
+Q1637498;Adamantina
+Q1637522;Araguari
+Q1637538;Cabo de Santo Agostinho
+Q1638389;Holambra
+Q1639538;Hvammstangi
+Q1640079;Hyderabad
+Q1641083;Murray Bridge
+Q1641337;Cotoca
+Q1642636;El Oued
+Q1642662;Nova Lima
+Q1642670;Tarhuna
+Q1642851;Camargo
+Q1642884;Muszyna
+Q1643630;Kalbajar
+Q1645056;Ilha Comprida
+Q1645067;Jaguariúna
+Q1645072;Mirandópolis
+Q1645082;Taquaritinga
+Q1645090;Porto Feliz
+Q1645095;Palmeira d'Oeste
+Q1645107;Salesópolis
+Q1645733;Presidente Venceslau
+Q1646103;Francisco Morato
+Q1646153;Yucumo
+Q1646181;Worcester
+Q1646321;Santa Cruz do Rio Pardo
+Q1646327;Ubirajara
+Q1646919;São Luiz do Paraitinga
+Q1646937;Andradina
+Q1646941;Iguape
+Q1646956;Avanhandava
+Q1646968;Ferraz de Vasconcelos
+Q1646970;Jandira
+Q1647776;Isfana
+Q1647782;Arealva
+Q1647805;Águas da Prata
+Q1647995;Mulukuku
+Q1648118;Ipiguá
+Q1648123;Paulo de Faria
+Q1648129;Santa Cruz das Palmeiras
+Q1648136;Estrela d'Oeste
+Q1648142;Santa Fé do Sul
+Q1648146;Nova Aliança
+Q1648152;Pindorama
+Q1648179;Fernandópolis
+Q1648184;Ipeúna
+Q1648190;Rubinéia
+Q1648196;Neves Paulista
+Q1648200;Ipaussu
+Q1648289;Monte Aprazível
+Q1648293;Marinópolis
+Q1648299;Potirendaba
+Q1648305;Itaí
+Q1648307;São Sebastião da Grama
+Q1648315;Bilac
+Q1648319;Lavínia
+Q1648342;Nova Granada
+Q1648345;Nova Odessa
+Q1648351;Nova Luzitânia
+Q1648356;Santa Albertina
+Q1648361;Iacanga
+Q1648366;Iaras
+Q1648408;Brotas
+Q1648416;Orindiúva
+Q1648420;Itobi
+Q1648425;Guzolândia
+Q1648432;Piratininga
+Q1648436;Paulistânia
+Q1648728;Roseira
+Q1649287;Tsiroanomandidy
+Q1649301;Sar-e Pol
+Q1649570;Khenchela
+Q1649601;Lençóis Paulista
+Q1649607;Pradópolis
+Q1649614;Santa Clara d'Oeste
+Q1649615;Santa Rita d'Oeste
+Q1649619;Santa Rita do Passa Quatro
+Q1649629;Matão
+Q1649639;Sales Oliveira
+Q1649645;Lucianópolis
+Q1649650;Nhandeara
+Q1649656;Lutécia
+Q1649661;Ibitinga
+Q1649666;Pedra Bela
+Q1649670;Ouroeste
+Q1649675;General Salgado
+Q1649677;Pauliceia
+Q1649682;Mira Estrela
+Q1649685;Glicério
+Q1649691;Guarantã
+Q1649808;Santa Salete
+Q1649813;Espírito Santo do Pinhal
+Q1649817;Santa Mercedes
+Q1649822;Jumirim
+Q1649828;Ilha Solteira
+Q1649831;Macaubal
+Q1649834;Guarani d'Oeste
+Q1649838;Sebastianópolis do Sul
+Q1649843;Pinhalzinho
+Q1649848;Itapura
+Q1649852;Ituverava
+Q1649857;Nova Independência
+Q1649865;Guapiaçu
+Q1649872;Nipoã
+Q1649876;Indiaporã
+Q1649943;Murutinga do Sul
+Q1649949;Jales
+Q1649954;Cardoso, São Paulo
+Q1649959;Tarumã
+Q1650017;Sidi Abdelaziz
+Q1650406;Abbeyleix
+Q1651059;Stony Hill, Jamaica
+Q1653558;Macatuba
+Q1655395;Ietas
+Q1656131;Ranya
+Q1656462;Linkuva
+Q1656534;Užventis
+Q1656947;Quitilipi
+Q1657230;Frías
+Q1657303;Villa Ángela
+Q1658420;Yangiyer
+Q1658493;Cedral
+Q1658504;Santo Antônio do Jardim
+Q1658515;Santo Antônio do Aracanguá
+Q1658522;Uchoa
+Q1658532;Tapiratiba
+Q1658752;Kagan
+Q1659926;Tikapur
+Q1661081;Independencia
+Q1663450;Portland
+Q1665908;Interamna Lirenas
+Q1667693;Makoua
+Q1668870;Qandala
+Q1673881;Iseyin
+Q1675026;Itahari
+Q1676159;Izra
+Q1676558;Q1676558
+Q1677434;May Pen
+Q1677956;Maiquetía
+Q1679567;Jakobstad
+Q1681204;Tumbura
+Q1681898;Mkoani
+Q1683722;Jaruco
+Q1683958;Madaba
+Q1688290;Esik
+Q1689268;Jimeta
+Q1691479;Thames
+Q1693963;Rokiškis
+Q1695650;Mong La
+Q1703483;Saran
+Q1704346;Outjo
+Q1707629;Gurdaspur
+Q1708160;Golaghat
+Q1709128;Marsabit
+Q1709570;José Pedro Varela
+Q1710703;San José, Andrés Ibáñez
+Q1711521;Nasca
+Q1712242;Charagua
+Q1714088;Nuevo Berlín
+Q1715139;Smørumnedre
+Q1719036;Yerba Buena, Tucumán
+Q1719466;Panevėžys
+Q1721432;Kailahun
+Q1722562;Q1722562
+Q1722889;Kambia, Sierra Leone
+Q1723411;Kamsar
+Q1724990;Oued Zem
+Q1725562;Pailón
+Q1729098;Yuscarán
+Q1735037;Kaskinen
+Q1736959;Katzrin
+Q1739016;Kenscoff
+Q1740472;Khagrachari
+Q1740527;Khambhat
+Q1740554;Khandbari
+Q1740566;Khaar
+Q1740681;Khorixas
+Q1740795;Kibeho
+Q1748623;Maghar
+Q1748922;Lahan
+Q1749078;Monterrico
+Q1749936;Bofete
+Q1749940;Álvaro de Carvalho
+Q1749953;Arapeí
+Q1749956;Embu-Guaçu
+Q1750027;Três Fronteiras
+Q1750066;Guaraçaí
+Q1750069;Caieiras
+Q1750070;Ubarana
+Q1750087;São João das Duas Pontes
+Q1750093;Cerqueira César
+Q1750096;Dolcinópolis
+Q1750100;Buritama
+Q1750107;Cordeirópolis
+Q1750113;Corumbataí
+Q1750166;Agudos
+Q1750185;Presidente Alves
+Q1750192;Arco-Íris
+Q1750195;Alvinlândia
+Q1750204;Dobrada
+Q1750207;Cajobi
+Q1750211;Monte Alegre do Sul
+Q1750214;Areiópolis
+Q1750222;Angatuba
+Q1750230;São José do Barreiro
+Q1750250;Arujá
+Q1750254;Ariranha
+Q1750257;Suzanápolis
+Q1750262;Elias Fausto
+Q1750431;Pirassununga
+Q1750436;Bálsamo
+Q1750439;Capivari
+Q1750446;Álvares Machado
+Q1750448;Bento de Abreu
+Q1750605;Lins
+Q1751333;Torrinha
+Q1751341;Ibirá
+Q1751347;Cananéia
+Q1751446;Bhadrapur
+Q1752951;Al Bayda'
+Q1754452;Campo Limpo Paulista
+Q1754457;Arandu
+Q1754561;Brejo Alegre
+Q1754569;Cosmópolis
+Q1754575;Analândia
+Q1754608;Álvares Florence
+Q1754616;Junqueirópolis
+Q1754621;Araçoiaba da Serra
+Q1754752;San Ignacio
+Q1754760;Santos Dumont, Minas Gerais
+Q1754796;Visconde do Rio Branco
+Q1755283;San Ramón de la Nueva Orán
+Q1756328;Ituiutaba
+Q1756745;Villa Mercedes
+Q1756874;Batak
+Q1757279;Sibut
+Q1758024;Nawa
+Q1758215;Outapi
+Q1759072;Queiroz
+Q1759088;Bocaina
+Q1759097;Herculândia
+Q1759103;Caçapava
+Q1759107;Bariri
+Q1759112;Várzea Paulista
+Q1759221;Populina
+Q1759235;Jaú
+Q1759241;Mesópolis
+Q1759350;Boituva
+Q1759360;La Oroya
+Q1759364;Natividade da Serra
+Q1759366;Tarma
+Q1759370;Aparecida d'Oeste
+Q1759377;Jambeiro
+Q1759384;Orlândia
+Q1759390;Iacri
+Q1759394;Ipuã
+Q1759399;Cerquilho
+Q1759461;Barra Bonita
+Q1759470;Porangaba
+Q1759478;Igaratá
+Q1759485;Miguelópolis
+Q1759587;Lagoinha
+Q1759612;Votuporanga
+Q1759617;Santa Branca
+Q1759626;Morro Agudo
+Q1759632;Redenção da Serra
+Q1759639;Paraibuna
+Q1759645;Torre de Pedra
+Q1759649;Mineiros do Tietê
+Q1759688;Cafelândia
+Q1759694;Pompeia
+Q1759699;São Joaquim da Barra
+Q1759703;Itirapina
+Q1759712;São Francisco, São Paulo
+Q1759716;Itapuí
+Q1759722;Conchal
+Q1759751;Echaporã
+Q1759758;Júlio Mesquita
+Q1759769;Itajobi
+Q1759773;Guariba
+Q1759780;Taquarituba
+Q1759784;Coronel Macedo
+Q1759791;Guaimbê
+Q1759798;Oscar Bressane
+Q1759801;Guaiçara
+Q1759806;Campina do Monte Alegre
+Q1759814;Terra Roxa
+Q1759820;Taquarivaí
+Q1759832;Marapoama
+Q1759836;Pontal
+Q1759841;Cristais Paulista
+Q1759848;Pirangi
+Q1759853;São José da Bela Vista
+Q1759984;Patrocínio Paulista
+Q1759992;Santa Maria da Serra
+Q1760024;Luís Antônio
+Q1760028;Itapira
+Q1760037;Aguaí
+Q1760043;Salto de Pirapora
+Q1760047;São Bento do Sapucaí
+Q1760053;Mairinque
+Q1760058;Cabreúva
+Q1760064;Lavrinhas
+Q1760068;Piquete
+Q1760074;Barrinha
+Q1760079;Rifaina
+Q1760087;Pedregulho
+Q1760091;Taiúva
+Q1760099;Sarapuí
+Q1760106;Nova Guataporanga
+Q1760112;Cachoeira Paulista
+Q1760116;Taiaçu
+Q1760121;Santo Antônio de Posse
+Q1760125;Serra Azul
+Q1760131;Tupi Paulista
+Q1760210;Santo Antônio do Pinhal
+Q1760228;Itirapuã
+Q1760232;São João do Pau d'Alho
+Q1760235;Santa Ernestina
+Q1760259;Apiaí
+Q1760263;Timburi
+Q1760269;Miracatu
+Q1760276;Taguaí
+Q1760282;Iperó
+Q1760286;Pariquera-Açu
+Q1760292;Cássia dos Coqueiros
+Q1760298;São Manuel
+Q1760305;Floreal
+Q1760311;Tejupá
+Q1760320;Santópolis do Aguapeí
+Q1760327;Joanópolis
+Q1760344;Espírito Santo do Turvo
+Q1760352;Conchas
+Q1760365;Palmital
+Q1760370;Cajuru
+Q1760376;Cajamar
+Q1760383;Quatá
+Q1760390;Santa Cruz da Esperança
+Q1760400;Salto Grande
+Q1760403;Narandiba
+Q1760410;Juquitiba
+Q1760417;Juquiá
+Q1760422;Banepa
+Q1760453;Monteiro Lobato, São Paulo
+Q1760459;Casa Branca
+Q1760484;Mococa
+Q1760500;Severínia
+Q1760526;Onda Verde
+Q1760531;Colômbia
+Q1760536;Sabino
+Q1760543;Palmares Paulista
+Q1760554;Poloni
+Q1760559;Santa Adélia
+Q1760579;Barra do Chapéu
+Q1760585;Nazaré Paulista
+Q1760595;Ribeirão Bonito
+Q1760603;Rancharia
+Q1760626;Monte Alto, São Paulo
+Q1760650;Barra do Turvo
+Q1760752;Piracaia
+Q1760760;Paraguaçu Paulista
+Q1760765;Pirapozinho
+Q1760843;Regente Feijó
+Q1760848;Jaci, São Paulo
+Q1760853;São Pedro do Turvo
+Q1760856;Itaoca
+Q1760867;Pirapora do Bom Jesus
+Q1760903;Ibirarema
+Q1760911;Iepê
+Q1760917;Marabá Paulista
+Q1760921;João Ramalho
+Q1760928;Maracaí
+Q1760940;Sarutaiá
+Q1760947;Cajati
+Q1760953;Campos Novos Paulista
+Q1760959;Bom Jesus dos Perdões
+Q1760977;Euclides da Cunha Paulista
+Q1760983;Ribeirão dos Índios
+Q1760989;Ibaté
+Q1760996;Paranapanema
+Q1761002;Pedrinhas Paulista
+Q1761054;Luiziânia
+Q1761063;Silveiras
+Q1761075;Cândido Mota
+Q1761081;Itapirapuã Paulista
+Q1761089;Descalvado
+Q1761094;Piquerobi
+Q1761103;Ribeirão do Sul
+Q1761110;Coroados
+Q1761119;Florínea
+Q1761435;Dourado, São Paulo
+Q1761450;Flórida Paulista
+Q1761462;Osvaldo Cruz
+Q1761493;Lucélia
+Q1761556;Rinópolis
+Q1761606;Colina
+Q1761695;Nova Europa
+Q1761702;Salmourão
+Q1761710;Sud Mennucci, São Paulo
+Q1761717;Parapuã
+Q1761725;Flora Rica
+Q1761735;Pracinha
+Q1761742;Inúbia Paulista
+Q1761747;Motuca
+Q1762529;Dracena
+Q1762903;Turmalina
+Q1764163;Santo Antônio de Jesus
+Q1764282;Balasagun
+Q1765382;Siechnice
+Q1765809;Gularia
+Q1766020;Oberlahnstein
+Q1766076;Tulsipur
+Q1766104;Don Bosco
+Q1766619;Chulumani
+Q1768653;as-Samu
+Q1770704;Hajjah
+Q1771398;Riffa
+Q1771693;Panguna
+Q1771762;Purnia
+Q1771821;Aitape
+Q1771999;Tiquipaya, Santa Cruz
+Q1772643;Porto Ferreira
+Q1772819;Wardha
+Q1772825;Hisar
+Q1773148;Choluteca
+Q1774419;Pala
+Q1774484;Monções
+Q1774606;Motihari
+Q1780345;Dobrodzień
+Q1781149;Konaklı
+Q1781511;Kong
+Q1783539;Mercedes
+Q1783586;Sarandí Grande
+Q1784163;Sarandí del Yí
+Q1784539;San Ramón
+Q1784710;Tranqueras
+Q1784816;Korsør
+Q1785706;Soledade
+Q1786045;Mao
+Q1786597;Pilar
+Q1788115;Kretinga
+Q1788128;Owo
+Q1789805;Lithgow
+Q1790572;Espera Feliz
+Q1794350;Kurchaloy
+Q1795422;Barbosa, São Paulo
+Q1795515;Piraju
+Q1795526;Gália
+Q1795537;Pederneiras
+Q1795562;Piacatu
+Q1795604;Rosana
+Q1795613;Tatuí
+Q1795617;Planalto
+Q1795634;Sertãozinho
+Q1795639;Ibiúna
+Q1795651;Guatapará
+Q1795659;Laranjal Paulista
+Q1795673;Louveira
+Q1795680;Quadra
+Q1795718;Pereiras
+Q1795726;Estrela do Norte, São Paulo
+Q1795750;Mariápolis
+Q1795758;Chavantes
+Q1795805;Restinga, São Paulo
+Q1795824;Potim
+Q1795838;Canas, São Paulo
+Q1795852;Pacaembu
+Q1796191;Frederiksværk
+Q1796340;Magda
+Q1796388;Clementina
+Q1796404;Sagres, São Paulo
+Q1796418;Lupércio
+Q1797503;Socorro
+Q1797764;Teseney
+Q1798084;Registro
+Q1798241;Santa Catarina
+Q1798593;La Angostura, Santa Cruz
+Q1798658;La Bélgica
+Q1798789;Jardinópolis
+Q1798797;Cravinhos
+Q1798802;Capão Bonito
+Q1798847;Santo Expedito
+Q1798851;Guapiara
+Q1798860;Guareí
+Q1798895;La Libertad, Santa Elena
+Q1799019;La Piedad
+Q1800625;Santo Anastácio
+Q1800635;Pilar do Sul
+Q1800652;Lahuachaca
+Q1800682;Irapuã
+Q1800695;Monte Azul Paulista
+Q1800701;Areias, São Paulo
+Q1800707;Manduri
+Q1800748;Piedade, São Paulo
+Q1800770;Martinópolis
+Q1800779;Cosmorama, São Paulo
+Q1801267;SoE
+Q1804166;Limoncito
+Q1806762;Alto Alegre, São Paulo
+Q1806934;San Martín
+Q1807660;Mandeville
+Q1807929;Yamuna Nagar
+Q1807961;Mueda
+Q1808002;Brejo do Cruz
+Q1808177;Itaporanga, São Paulo
+Q1808246;Platina
+Q1808261;Jaborandi, São Paulo
+Q1808286;São Miguel Arcanjo
+Q1808590;Itapeva, São Paulo
+Q1809024;Biltine
+Q1812040;Yauyos
+Q1813015;Çiçekdağı
+Q1813609;Skalbmierz
+Q1814658;Or Akiva
+Q1815730;Tubarão
+Q1815899;Sobral
+Q1815907;Novo Horizonte, São Paulo
+Q1815951;Ouro Verde
+Q1815958;São Roque, São Paulo
+Q1816107;Buri, São Paulo
+Q1816192;Baraguá
+Q1816203;Presidente Bernardes
+Q1816305;Palestina
+Q1816543;Fresnillo
+Q1816589;Qus
+Q1816833;Kapchagay
+Q1817181;Bebedouro
+Q1817441;Los Guayos
+Q1818610;Lastoursville
+Q1818778;Tultepec
+Q1819433;Santa Ana del Yacuma
+Q1819486;Monteagudo
+Q1822209;Goychay
+Q1822804;Al-Thawrah
+Q1822816;Al-Hajar al-Aswad
+Q1823772;Suraż
+Q1825355;Limbe
+Q1826232;Tłuszcz
+Q1827268;Lionel Town, Jamaica
+Q1827283;Maghagha
+Q1828035;Lisburn
+Q1828275;Loum
+Q1828708;Ya'bad
+Q1835777;Byas
+Q1840873;Martínez
+Q1844084;Ratnanagar
+Q1844478;Bidur
+Q1850973;Karatau
+Q1851063;Kürdəmir
+Q1851848;Pangani
+Q1853310;Ondo City
+Q1853576;Виндалиум
+Q1853969;San Vicente de Cañete
+Q1856972;Laï
+Q1860785;Villa Tunari
+Q1865092;Mulanje
+Q1866604;Livingstone
+Q1866839;Llafranc
+Q1867123;Lobos
+Q1867822;Al-Rastan
+Q1872912;Erfelek
+Q1876685;Nouaceur
+Q1879970;Q1879970
+Q1883766;Magburaka
+Q1884201;As Salif District
+Q1884227;Ad Dhale'e District
+Q1886455;Sunamganj
+Q1886737;Bella Vista
+Q1886759;Malargüe
+Q1887662;Siglufjörður
+Q1888230;Mamfe
+Q1889146;Venado Tuerto
+Q1889183;Ilıca
+Q1890257;Mangochi
+Q1892074;Simnas
+Q1892829;Beda Fomm
+Q1894006;Q1894006
+Q1894082;San Antonio Oeste
+Q1895616;Tuaran
+Q1896161;Omaruru
+Q1896205;Tell Abyad
+Q1896917;Mizque
+Q1897488;Anaco
+Q1897640;Zwoleń
+Q1899332;Qabatiya
+Q1899754;Pompeiopolis
+Q1899785;Iñapari
+Q1901003;Dondușeni
+Q1902266;Ożarów Mazowiecki
+Q1903588;Klimontów, Sandomierz County
+Q1904137;Martensville
+Q1904178;Meadow Lake
+Q1904521;Warman
+Q1905080;Victoria
+Q1906235;Łomianki
+Q1906245;Mordy
+Q1906256;Opole Lubelskie
+Q1906266;Rajgród
+Q1906278;Stawiski
+Q1906290;Wasilków
+Q1906311;Zabłudów
+Q1906323;Wolbrom
+Q1906334;Supraśl
+Q1906346;Ustrzyki Dolne
+Q1907375;Massaguet
+Q1911818;Kuşadası
+Q1912111;Caripe
+Q1913327;Łosice
+Q1913957;Koani
+Q1915327;Nizwa
+Q1916952;Nałęczów
+Q1920412;San Francisco Solano
+Q1921003;Nowogród
+Q1922275;Mandsaur
+Q1922294;Tuchów
+Q1922299;Zawichost
+Q1922307;Ryki
+Q1922317;Ożarów
+Q1922330;Tarczyn
+Q1928232;Guaimaca
+Q1935438;Buey Arriba
+Q1935454;Pilón
+Q1935474;Guisa
+Q1936063;Amancio
+Q1937588;Río Segundo
+Q1938135;Udhampur
+Q1938572;Mahmoudiyah, Egypt
+Q1938772;Puerto Padre
+Q1939468;Paravur
+Q1939876;Nsanje
+Q1940256;Eglon, Canaan
+Q1944489;San Pedro Garza García
+Q1945121;Palakollu
+Q1945622;Divjakë
+Q1946017;Ostrów Lubelski
+Q1946027;Tyszowce
+Q1946041;Suchedniów
+Q1946049;Zagórz
+Q1946056;Zwierzyniec
+Q1946067;Tyczyn
+Q1946077;Pilawa
+Q1946089;Nowa Sarzyna
+Q1948486;Kulu
+Q1948966;Lorena, São Paulo
+Q1948975;Santa Lúcia
+Q1949069;Ajitgarh
+Q1949403;Hajipur
+Q1949410;Sasaram
+Q1949422;Saharsa
+Q1951490;Mrauk U
+Q1951627;Mubi
+Q1953119;Paso de los Libres
+Q1958570;Koszyce, Lesser Poland Voivodeship
+Q1958679;Danlí
+Q1962023;Los Reyes municipal council
+Q1962063;Silao
+Q1962068;Holland Village
+Q1962087;Ciudad Nicolás Romero
+Q1962104;Chalco de Díaz Covarrubias
+Q1963933;Q1963933
+Q1964065;Gopalganj
+Q1965337;Narona
+Q1968268;Kegalle
+Q1969147;Nefasit
+Q1970117;Salinas
+Q1970952;Ben Slimane
+Q1971302;Madingou
+Q1972757;Ocumare del Tuy
+Q1972938;Ruwa
+Q1973073;Attock
+Q1974445;Santo Tomás
+Q1974467;Tingo María
+Q1975329;Phalombe
+Q1976231;Terjola
+Q1976493;Ağstafa
+Q1977737;Kratovo
+Q1980885;Errachidia
+Q1982115;Tarabuco
+Q1982137;Médéa
+Q1982983;Ștefan Vodă
+Q1983186;Bani Suheila
+Q1983868;Agsu
+Q1983875;Ağcabədi
+Q1983932;Agdash
+Q1987043;Obeliai
+Q1987664;Poli
+Q1987828;Kareli
+Q1987956;Niederlahnstein
+Q1988320;Evinayong
+Q1989713;Hippana
+Q1989793;Balakən
+Q1989822;Khobi
+Q1990163;Narayanganj
+Q1991249;Hun
+Q1991268;Port Fuad
+Q1991722;Probištip
+Q1993517;Saatlı
+Q1993655;Kiten, Burgas Province
+Q1994818;Vilkija
+Q1994826;Salto
+Q1995276;Janzur
+Q1996181;Füzuli
+Q1996815;Imishli
+Q1997282;Vicente Guerrero
+Q1998630;Tarqumiyah
+Q1998703;Atax
+Q2000579;Vabalninkas
+Q2001490;Rosmalen
+Q2005211;Shabwa
+Q2005262;Tibati
+Q2005439;Glew, Buenos Aires
+Q2006076;Muyinga
+Q2006102;Strășeni
+Q2006112;Drochia
+Q2006121;Taraclia
+Q2006546;Vilankulo
+Q2007466;Tombos
+Q2008189;Korba
+Q2009698;Qilixia
+Q2009853;Petit-Goâve
+Q2012489;Santa Cruz do Xingu
+Q2013262;Harasta
+Q2013622;Guaíra, São Paulo
+Q2014884;Oebisfelde
+Q2017187;Okene
+Q2017337;Q2017337
+Q2019719;Cimișlia
+Q2019727;Briceni
+Q2020432;Bubanza
+Q2021260;Camenca
+Q2023773;Ondangwa
+Q2027840;Santa Bárbara
+Q2029702;Nhlangano
+Q2031369;Pirané
+Q2031463;Santo Tomé
+Q2031761;Arcetri
+Q2033319;Oshikango
+Q2034978;Wum
+Q2037460;Dobanovci
+Q2038147;Salvador Mazza
+Q2038603;Tiraque
+Q2038791;San Ignacio de Moxos
+Q2042136;Tvedestrand
+Q2043641;Byala, Varna Province
+Q2043938;Biləsuvar
+Q2043944;Babek
+Q2044194;Urzędów
+Q2044578;Daugai
+Q2044597;Ežerėlis
+Q2044605;Dusetos
+Q2044626;Veisiejai
+Q2044999;Karaağaç
+Q2045352;Baltoji Vokė
+Q2046587;Pakenham
+Q2048321;Varde
+Q2048389;Palos Blancos
+Q2049147;Panauti
+Q2049431;Pangkham
+Q2053923;Parotani
+Q2058947;Puerto Castilla, Honduras
+Q2061265;Perito Moreno
+Q2061386;Yara
+Q2064746;Cortês
+Q2064953;Villa Krause
+Q2068157;Ixiamas
+Q2072599;Thermi
+Q2072887;Florești
+Q2075665;Puerto Lempira
+Q2076213;Croix-des-Bouquets
+Q2077013;Tres Arroyos
+Q2077993;Pavón, Santa Fe
+Q2078026;Balboa
+Q2078085;Fălești
+Q2080938;Agboville
+Q2084446;Arzew
+Q2084833;Zamyn-Üüd
+Q2086390;Mkokotoni
+Q2087489;Cotuí
+Q2087536;Sekong
+Q2087583;Nandurbar
+Q2087800;Neftçala
+Q2088134;San José del Cabo
+Q2088506;Nkayi, Republic of the Congo
+Q2088687;Hamad Town
+Q2089107;Nisporeni
+Q2089594;Sidi Kacem
+Q2089619;Ramygala
+Q2090598;Lerik
+Q2091673;Opatowiec
+Q2092448;Tafí Viejo
+Q2093549;San Gregorio de Polanco
+Q2094682;Tucacas
+Q2096693;Tala
+Q2097797;Casilda
+Q2100648;Gobernador Virasoro
+Q2102693;Brus Laguna
+Q2105236;Porto Santana
+Q2105480;Porus
+Q2110515;Naucalpan de Juárez
+Q2113237;San Lorenzo
+Q2113430;Protaras
+Q2114405;Pruchnik
+Q2117354;Puente San Pablo
+Q2117510;Guadalupe
+Q2120402;Pothia
+Q2120436;Khandela
+Q2121220;K'iche' Kingdom of Q'umarkaj
+Q2121478;Kaskelen
+Q2121778;Qorasuv
+Q2123036;Bamarni
+Q2123580;Quivicán
+Q2125362;Rada'a
+Q2126436;Ras al-Khaimah
+Q2129610;Valentín Alsina
+Q2132653;Al-Shaykh Badr
+Q2135041;Modliborzyce, Lublin Voivodeship
+Q2139799;Tasiilaq
+Q2139924;Altai
+Q2140586;Comana Pontica
+Q2141024;Soroti
+Q2143101;San José de Chiquitos
+Q2143690;Ferreñafe
+Q2144010;Thyolo
+Q2147497;Deir Atiyah
+Q2148072;İsmayıllı
+Q2148285;Turnacum
+Q2148635;Sabirabad
+Q2158248;Federal, Entre Ríos
+Q2158344;Huanta
+Q2159352;Şahbuz
+Q2160056;Mogielnica
+Q2164117;San Isidro
+Q2165007;Chicualacuala
+Q2167000;Schuckmannsburg
+Q2167485;Łaszczów
+Q2170773;Pontevedra, Buenos Aires Province
+Q2179474;Mariano Acosta, Buenos Aires Province
+Q2180590;Tumpat
+Q2181579;al-Eizariya
+Q2181742;Sri Aman
+Q2191437;Hajiqabul
+Q2191860;Berrechid
+Q2195778;Rafael Calzada
+Q2196757;Eyrarbakki
+Q2198509;San Miguel
+Q2199004;Leova
+Q2199244;Bajos de Haina
+Q2204862;Las Heras
+Q2205145;Ingeniero Jacobacci
+Q2210877;El-Balyana
+Q2213151;Saipina
+Q2215428;Souillac, Mauritius
+Q2218834;Kołaczyce
+Q2219198;Yeniceköy
+Q2219669;San Isidro, Santa Cruz
+Q2219690;Kepez
+Q2219743;San Juan de Yapacaní
+Q2219756;San Julián, Santa Cruz
+Q2219994;San Ramón
+Q2219999;San Ramón
+Q2220128;Kabala
+Q2220330;Yeşilköy
+Q2222379;Burton
+Q2222616;Telšiai
+Q2222874;Zanzibar City
+Q2222888;Santa Cruz, Jamaica
+Q2222954;Santa Fe de Yapacaní
+Q2223185;Santa María de Ipire
+Q2223250;Santa Rosa del Sara
+Q2224040;Kochkor-Ata
+Q2224587;José C. Paz
+Q2226347;Villa Ballester
+Q2226585;Tocoa
+Q2227170;Ramallo
+Q2228759;Tiko
+Q2231235;Shaqlawa
+Q2231416;Zharkent
+Q2232673;Tauresium
+Q2234098;Siwan
+Q2234347;Jiguaní
+Q2234381;Manatí
+Q2245953;Aguada de Pasajeros
+Q2246518;Antilla
+Q2249428;Tinsukia
+Q2249597;San Quintín
+Q2249997;Sîngerei
+Q2252605;Sironko
+Q2254425;Vescia
+Q2255913;Florida
+Q2260170;Wuchale
+Q2260544;Stassano
+Q2260811;Lilibaeum
+Q2261361;Chinde
+Q2262291;Kawkaban
+Q2262528;Entella
+Q2263449;Crater District
+Q2268790;Tartar
+Q2273431;Cochrane
+Q2274595;Parque San Martín, Buenos Aires Province
+Q2275389;Salavan
+Q2275983;Eryx
+Q2276572;Villa Adelina
+Q2277161;El Progreso
+Q2277705;Khombole
+Q2279371;Amba Mariam
+Q2279521;La Lima
+Q2280502;Villa Gobernador Gálvez
+Q2281181;Rezina
+Q2282045;Sidyma
+Q2282208;Yatta
+Q2282418;Nalaikh
+Q2283488;Tashkömür
+Q2283714;Santa Bárbara
+Q2283725;La Paz
+Q2283736;Zamora
+Q2284484;Traianoupoli
+Q2284679;General Alvear
+Q2284798;Larvik
+Q2287316;Jerada
+Q2287960;Indiana, São Paulo
+Q2290080;Puerto Ordaz
+Q2290708;Tunuyán
+Q2291654;Remedios de Escalada Calle Manuel Castro
+Q2292517;Skikda
+Q2292590;Hólmavík
+Q2292609;Glodeni
+Q2294429;Stokkseyri
+Q2294808;Ben Ahmed
+Q2294847;Bouskoura
+Q2297162;Patreksfjörður
+Q2297707;Villaguay
+Q2298580;Vergara
+Q2300140;Siteki
+Q2300732;Łagów, Świętokrzyskie Voivodeship
+Q2302162;Talgar
+Q2302185;Tekeli
+Q2304483;Urubamba
+Q2305215;Tychowo
+Q2305496;Sakib
+Q2305836;Swan Hill
+Q2305839;Kayanza
+Q2306609;Yunguyo
+Q2306922;Q2306922
+Q2307341;Apolo, La Paz
+Q2307361;Challapata
+Q2307472;San Borja
+Q2307821;Huancabamba
+Q2308752;Touba
+Q2317068;An-Nabk
+Q2319835;Zaklików
+Q2320876;Seiyun
+Q2329701;Taourirt
+Q2330467;Guercif
+Q2330916;General José de San Martín
+Q2332472;Daşkəsən
+Q2335256;Jahanpanah
+Q2338831;Pefki
+Q2341034;Bobowa
+Q2341047;Nowe Brzesko
+Q2342112;Szepietowo
+Q2342620;Lipsko
+Q2343396;Parczew
+Q2344474;Sainyabuli
+Q2344811;Kampong Speu
+Q2347569;Kyzyl-Kiya
+Q2349480;Kajiado
+Q2349902;Malout
+Q2350519;Al-Hay
+Q2351933;Chivay
+Q2351948;Mollendo
+Q2352148;Goranboy
+Q2352160;Gədəbəy
+Q2353893;Muqdadiyah
+Q2354276;Finote Selam
+Q2355674;Kerben
+Q2355915;Czyżew
+Q2355927;Rajmahal
+Q2356376;Kavarskas
+Q2356396;Šeduva
+Q2356406;Dūkštas
+Q2356424;Joniškėlis
+Q2357510;Harbour Island
+Q2357921;Sulukta
+Q2357934;Kerki
+Q2359107;Florencio Varela
+Q2359952;Sidi Slimane
+Q2360416;Asientos
+Q2360927;Pierrefonds
+Q2361176;Russeifa
+Q2361658;Sangolquí
+Q2362035;Kyaukpyu
+Q2362433;Ewo
+Q2363248;General Rodríguez
+Q2364639;Michałowo
+Q2364886;Curuzú Cuatiá
+Q2364972;Clarence-Rockland
+Q2365352;Balcarce
+Q2368491;Q2368491
+Q2369466;Moussoro
+Q2370405;Tenta
+Q2370892;Funes, Santa Fe
+Q2371098;Al-Haffah
+Q2372031;Przecław
+Q2373358;Orillia
+Q2374447;Shalkar
+Q2375484;Pandėlys
+Q2375652;Cupcini
+Q2375936;Kristiania
+Q2378055;Zhetisay
+Q2378079;Acalayong
+Q2380619;Vetren, Pazardzhik Province
+Q2384142;Ait Melloul
+Q2385194;Budanilkantha
+Q2391202;Nurpur
+Q2391391;Ayagoz
+Q2392142;Zefta
+Q2394006;Cəbrayil
+Q2396769;Gbélo
+Q2400043;Caseros
+Q2400442;América
+Q2401418;Albanopolis
+Q2404398;Q2404398
+Q2407540;Jumla
+Q2409359;Q2409359
+Q2409805;Katiola
+Q2412778;El Roble
+Q2413233;Mrozy, Mińsk County
+Q2414390;Q2414390
+Q2416719;Havran
+Q2419911;Al-Darbasiyah
+Q2421186;Hoa Lu
+Q2422345;Hīt
+Q2423013;Chacas
+Q2423141;Q2423141
+Q2423691;Aplao
+Q2427450;Hashtpar
+Q2427704;Fulacunda
+Q2427885;Banavasi
+Q2428259;Bhakkar
+Q2429241;Weldiya
+Q2431796;Udong
+Q2435120;Killiney
+Q2435851;Boumalne Dades
+Q2435966;Dura, Hebron
+Q2439514;Narol
+Q2440276;La Paz, Entre Ríos
+Q2441154;Tomoi
+Q2442675;Kagal
+Q2445461;Junnar
+Q2446919;Bangem
+Q2447248;Jaltipan de Morelos
+Q2447267;Salvatierra
+Q2448297;Frontera
+Q2449403;Brekstad
+Q2449559;Naulochus
+Q2450872;Kairana
+Q2450936;La Rumorosa
+Q2453472;Nabinagar
+Q2453742;Pinner
+Q2458075;Mwaro
+Q2462135;Osmanabad
+Q2465640;Vandavasi
+Q2465841;Yabassi
+Q2468528;Xızı
+Q2469089;Kermen
+Q2471469;Kabalo
+Q2472697;Ouro Sogui
+Q2472976;Ucureña
+Q2474056;San Pablo del Monte
+Q2475182;Pardes Hanna-Karkur
+Q2475251;Akora Khattak
+Q2475760;Vilcashuamán (provincial capital)
+Q2475775;Lamud
+Q2475908;Santa Elena
+Q2477040;Kamalamai
+Q2477836;Xacitarxan
+Q2481144;Oropolí
+Q2482800;Buka
+Q2483679;Comayaguela
+Q2485287;Victoria, Buenos Aires
+Q2488555;Sarandí
+Q2490824;Djambala
+Q2497882;Shindand
+Q2498357;Massakory
+Q2498538;Caucete
+Q2501786;Tiflet
+Q2506989;Kalaiya, Nepal
+Q2507925;Daleszyce
+Q2510244;Q2510244
+Q2511670;Tima
+Q2518084;Nowa Słupia
+Q2520086;Laboulaye
+Q2525523;Villa María
+Q2525798;Villa Simón Bolívar
+Q2527509;Villa Fiorito
+Q2527695;Vipava
+Q2528080;Tabligbo
+Q2530831;Puerto Rico
+Q2532403;Oleśnica, Świętokrzyskie Voivodeship
+Q2532991;Riverview, New Brunswick
+Q2533580;Kumbo
+Q2534936;Quillabamba
+Q2542686;Villanueva
+Q2543206;Lubomia
+Q2543304;Marehra
+Q2544458;Ceres
+Q2544796;Saswad
+Q2548730;Taounate
+Q2549060;Cogo
+Q2549481;Aconibe
+Q2550461;Niefang
+Q2550996;Tafilah
+Q2551179;Lubowidz, Masovian Voivodeship
+Q2552676;Siguatepeque
+Q2560293;Mhlume
+Q2560555;Mowa
+Q2561180;Yoro
+Q2561181;Faridpur
+Q2561304;La Esperanza
+Q2561339;Gracias
+Q2561767;Al-Sanamayn
+Q2562082;El Matareya
+Q2563156;Dembi Dollo
+Q2564973;Narlı
+Q2568748;Santa Elena de Uairén
+Q2568887;Arraba
+Q2569014;Dock Sud
+Q2570307;Adré
+Q2570767;Batu
+Q2570810;Baganuur
+Q2573174;Madaripur
+Q2573404;Jovellanos
+Q2573456;Jagüey Grande
+Q2574933;Halhul
+Q2579936;Karak
+Q2580069;Hub
+Q2580112;Dera Allah Yar
+Q2580372;Usta Mohammad
+Q2582611;Mongar
+Q2582671;Barranca
+Q2582682;Acomayo
+Q2583846;Timergara
+Q2584195;Villa Constitución
+Q2586396;Zouar
+Q2588425;Rymanów
+Q2588438;Juli
+Q2588449;Tarata
+Q2589060;Kimpese
+Q2590944;Reimerswaal
+Q2592149;Sakania
+Q2592625;Ghotki
+Q2593519;Tapah
+Q2593882;Bor-Öndör
+Q2594467;Idiofa
+Q2594860;Jamtara
+Q2597663;Aheloy
+Q2597671;Ignatievo
+Q2597688;Buhovo
+Q2598968;Yaguarú
+Q2602785;San Antonio del Táchira
+Q2603127;Al-Malikiyah
+Q2603720;Talanga
+Q2604081;Ezpeleta
+Q2604706;Obala
+Q2604875;Nkimi
+Q2604898;Mengomeyén
+Q2604911;Bidjabidjan
+Q2605356;Chiautempan
+Q2605394;Tepezalá
+Q2605521;Tank
+Q2607187;Islamkot
+Q2608234;Nuevo San Carlos
+Q2608258;Vordingborg
+Q2608785;La Democracia
+Q2608901;Río Turbio
+Q2609530;El Palomar, Buenos Aires
+Q2615863;Sharana
+Q2627209;Youssoufia
+Q2629026;Koro
+Q2629052;Meiganga
+Q2629132;Bandjoun
+Q2630835;Layou
+Q2631365;G‘uzor
+Q2631639;Ariha
+Q2638247;Cajatambo
+Q2638267;Huancané
+Q2638284;Azángaro
+Q2638295;Lampa
+Q2638372;Shopokov
+Q2638696;Yaguarón
+Q2640020;Palpa
+Q2640092;Junín
+Q2640808;Kirundo
+Q2642899;Proti
+Q2646407;Bekoji
+Q2650067;Al-Tall
+Q2654603;Chajarí
+Q2654892;Saly
+Q2656015;Ubundu
+Q2656174;Oum Hadjer
+Q2656511;Tenosique
+Q2656606;Sakçagözü
+Q2656617;Göytəpə
+Q2659599;Toba Tek Singh
+Q2660326;Seýdi
+Q2660652;Berenice Epideires
+Q2662138;Anathoth
+Q2663513;Shibin el-Qanater
+Q2669640;Cankuzo
+Q2670181;Velimeşe
+Q2670191;Emiliano Zapata
+Q2670226;Novi Iskar
+Q2671184;Mauritsstad
+Q2671684;Liman
+Q2671983;Juanjuí
+Q2672955;Sirhind-Fategarh
+Q2674113;Harbiye
+Q2674278;Payas
+Q2677927;Libertad
+Q2678458;Tanah Rata
+Q2689111;Ciudad Tecún Umán
+Q2699709;Hope Town
+Q2699921;Arendal
+Q2702755;Mbalmayo
+Q2703858;Q2703858
+Q2708419;Crasnoe
+Q2708429;Kaélé
+Q2708439;Guider
+Q2708449;Tiraspolul Nou
+Q2708630;Yokadouma
+Q2708658;Mokolo
+Q2708675;Mora
+Q2708692;Durlești
+Q2708772;Rio Rico
+Q2708780;Sangmélima
+Q2709339;Mbouda
+Q2709635;Izki
+Q2711899;Greater Noida
+Q2712890;Las Tablas
+Q2717832;Spata
+Q2717997;Salcajá
+Q2718157;San Juan Ostuncalco
+Q2718745;São Domingos
+Q2719371;Dumat Al-Jandal
+Q2720623;Micomeseng
+Q2720938;Añisoc
+Q2720977;Olanchito
+Q2725364;Pampas
+Q2725457;Catia La Mar
+Q2726628;Pausa
+Q2726653;Puquio
+Q2726675;San Miguel, La Mar Province
+Q2728193;Samarobriva
+Q2731869;Tułowice, Opole Voivodeship
+Q2733738;Colombia
+Q2736522;Bennane
+Q2738426;Mayumba
+Q2738432;Hola
+Q2743879;Don Torcuato
+Q2749246;Bahía de Caráquez
+Q2756591;Chone
+Q2762100;North Nicosia
+Q2765597;Balel Pipariya
+Q2766547;'s-Hertogenbosch
+Q2768192;Mahbubnagar
+Q2779509;Suchitoto Municipality
+Q2786965;Lincoln
+Q2794758;Djelfa
+Q2799572;Narsingdi
+Q2802564;Q2802564
+Q2811760;Hayq
+Q2820151;Abala
+Q2821705;Abomsa
+Q2824323;Adet
+Q2829115;Akok
+Q2829121;Akonolinga
+Q2829129;Q2829129
+Q2829307;Al-Buraimi
+Q2829381;Q2829381
+Q2829401;Qurayyat
+Q2837318;Aliyu Amba
+Q2837875;Allen
+Q2841553;Ambam
+Q2843528;Claypole, Buenos Aires
+Q2850267;Q2850267
+Q2855736;Ferkessédougou
+Q2857568;Q2857568
+Q2859097;Apóstoles
+Q2859135;Aquae Sextiae
+Q2861426;Aristóbulo del Valle
+Q2863566;Q2863566
+Q2866053;Q2866053
+Q2866945;Q2866945
+Q2877655;Babbila
+Q2877763;Zarumilla
+Q2878468;Q2878468
+Q2878774;Q2878774
+Q2878806;Badou
+Q2879423;Zacatelco, Mexico
+Q2880315;Bakou
+Q2881532;Balsa
+Q2881786;Bambey
+Q2881807;Bameka
+Q2882735;Tovar
+Q2883555;Banwa
+Q2884439;Bareq
+Q2884475;Bargny
+Q2885504;Barranqueras
+Q2887425;Басила
+Q2891356;Bati
+Q2893570;Q2893570
+Q2893571;Bedessa
+Q2895437;San Antonio de Los Altos
+Q2895928;Beniane
+Q2898863;Surif
+Q2901625;Bichena
+Q2902521;Q2902521
+Q2905684;Blagaj Japra
+Q2907474;Bni Drar
+Q2909484;Bolo, Ethiopia
+Q2911089;Q2911089
+Q2911237;Q2911237
+Q2912547;Fiq
+Q2915071;Bukama
+Q2915767;Al-Kiswah
+Q2916708;Cordero
+Q2918596;Bani Na'im
+Q2919205;Idhna
+Q2919593;Cantaura
+Q2920063;Emfraz
+Q2922134;Boulogne Sur Mer
+Q2922170;Bouna
+Q2922199;Boundji
+Q2922201;Bounkiling
+Q2922207;Boundiali
+Q2924202;Q2924202
+Q2928324;Bure (Gojjam), Ethiopia
+Q2928812;Butajira
+Q2929807;Bélabo
+Q2932988;San José de Metán
+Q2933923;Cinco Saltos
+Q2936867;Pune Camp
+Q2937166;Capacho Viejo
+Q2938844;Caripito
+Q2944558;Tômbwa
+Q2944819;Waku-Kungo
+Q2947580;Chagni
+Q2962698;Chepén
+Q2963374;Chichiriviche
+Q2964558;Chota
+Q2975160;Clairmont
+Q2975618;Clarines
+Q2977118;Nushki
+Q2977263;Mweka
+Q2981190;Meckhe
+Q2981942;Cojedes
+Q2986304;Pinosava
+Q2988951;Idku
+Q2989619;Urcos
+Q2989624;Yanaoca
+Q2989631;Paucartambo
+Q2989645;Paruro
+Q2989650;Locumba
+Q2991521;Cárdenas
+Q2995730;Zavet
+Q2996356;Hazar
+Q2996387;Saray-Jük
+Q2997217;Chkalovsk
+Q3008539;Q3008539
+Q3008765;Cynocephalus
+Q3010697;Hibiscus Coast
+Q3010762;Cúpira
+Q3011615;Q3011615
+Q3011860;Daga Post
+Q3012013;Dahra
+Q3013542;Dangila
+Q3018561;Apeldoorn
+Q3022078;Dembéni
+Q3022456;Dengel Ber
+Q3026080;Diamniadio
+Q3026301;Diaobé-Kabendou
+Q3027308;Marevo
+Q3027729;Q3027729
+Q3027745;Digelu
+Q3027920;Q3027920
+Q3033077;Djoum
+Q3033674;Dodola, Ethiopia
+Q3034353;Q3034353
+Q3036277;Dongou
+Q3036493;San José, Buenos Aires
+Q3036637;Junín
+Q3037416;Q3037416
+Q3037826;Q3037826
+Q3037892;Q3037892
+Q3039131;Drargua
+Q3040214;Dryden
+Q3040241;Drepana
+Q3041363;Dunmurry
+Q3041568;Pampatar
+Q3046868;Q3046868
+Q3049730;El Aioun Sidi Mellouk
+Q3049816;El Consejo
+Q3049894;Guittena
+Q3050629;Q3050629
+Q3050998;Q3050998
+Q3052011;Embarcación
+Q3055947;Sihuas
+Q3056421;Otuzco
+Q3057572;Q3057572
+Q3057885;Satipo
+Q3058634;Esquipulas
+Q3064447;Q3064447
+Q3064450;Q3064450
+Q3064684;Q3064684
+Q3064707;Q3064707
+Q3066757;Q3066757
+Q3066776;Q3066776
+Q3066862;Нкан
+Q3067441;San José de Guanipa
+Q3068588;San Sebastián
+Q3071111;Fianga
+Q3074767;Q3074767
+Q3075342;Fondanti
+Q3075960;Q3075960
+Q3077739;Fort Lamy
+Q3079381;Pierzchnica
+Q3079946;Foundiougne
+Q3086891;Ikela
+Q3090358;Nioro du Rip
+Q3094251;Gades
+Q3095100;Gandiaye
+Q3095299;Q3095299
+Q3098785;San Martín de Hidalgo
+Q3099183;Oued Laou
+Q3099245;Gatama
+Q3099973;Q3099973
+Q3099992;Q3099992
+Q3100001;Q3100001
+Q3100518;Guinguinéo
+Q3100527;Koungheul
+Q3101885;Izatovci
+Q3104753;Ghafsai
+Q3104786;Gharrous
+Q3109029;Mitsamihuli
+Q3109440;Q3109440
+Q3109447;Q3109447
+Q3110195;Humera
+Q3110404;Zoutpansberg
+Q3111400;Goré
+Q3111445;Gossas
+Q3111576;Goudiry
+Q3111582;Goudomp
+Q3111649;Goulmima
+Q3112862;Goz Beïda
+Q3113061;Leandro N. Alem
+Q3115487;Jardín América
+Q3115657;San Vicente
+Q3115808;Wanda
+Q3116519;Grenville
+Q3117688;Maipú
+Q3117988;Rivadavia
+Q3123278;Playas
+Q3124743;Muse
+Q3124883;Sembé
+Q3124895;Oyo, Republic of the Congo
+Q3125264;Habban District
+Q3126323;Амади-Унаре
+Q3127439;Harhoura
+Q3129329;Hedley, British Columbia
+Q3130855;Puerto Armuelles
+Q3131511;Juan Griego
+Q3132040;Puerto Píritu
+Q3132397;Kago Kaju
+Q3132654;Onoto
+Q3133884;Palo Negro
+Q3134346;La Grita
+Q3134431;Michelena
+Q3135733;Mitzic
+Q3136729;Tangin Dassouri
+Q3139869;Lamas
+Q3141156;Radoszyce, Świętokrzyskie Voivodeship
+Q3148695;Illaga
+Q3173182;Notsé
+Q3175104;Metu
+Q3187889;Jubbah
+Q3187962;Judibana
+Q3192160;Kalenić
+Q3192173;Kalfou
+Q3192625;Kanel
+Q3192674;Q3192674
+Q3192676;Q3192676
+Q3192757;Q3192757
+Q3192921;Karakore
+Q3192928;Q3192928
+Q3192944;Q3192944
+Q3193697;Q3193697
+Q3193715;Q3193715
+Q3194168;Q3194168
+Q3194845;Kele, Ethiopia
+Q3194987;Kemise
+Q3195629;Кеур-Мадиабел
+Q3196316;Kibangou
+Q3196396;Kidira
+Q3196864;Q3196864
+Q3198143;Kobo
+Q3198269;Q3198269
+Q3198730;Q3198730
+Q3199226;Q3199226
+Q3199267;Q3199267
+Q3199296;Koumpentoum
+Q3199308;Q3199308
+Q3199309;Q3199309
+Q3199354;Q3199354
+Q3200312;Kula, Ethiopia
+Q3201090;Kébémer
+Q3213480;La Vela de Coro
+Q3218330;Q3218330
+Q3219779;Q3219779
+Q3223801;Frederikssund
+Q3228826;Q3228826
+Q3232289;Bomassa
+Q3233176;Namaacha
+Q3233246;Denizciler
+Q3233253;Işıklar
+Q3233259;Ortaklar
+Q3233266;Kilimli
+Q3233272;Altınoluk
+Q3233819;Davutlar
+Q3233825;Acarlar
+Q3233841;Gözcüler
+Q3233849;Karaçulha
+Q3233854;Kargıpınarı
+Q3233861;Bekbele
+Q3233869;Yakınca
+Q3233887;Armutalan
+Q3233889;Küçükdalyan
+Q3233895;Umurlu
+Q3233902;Karayılan, İskenderun
+Q3233906;Tömük
+Q3233913;Büyükyoncalı
+Q3233968;Linguère
+Q3233991;Rose Hall
+Q3234877;Yeniçiftlik
+Q3235603;Hlatikulu
+Q3235662;Namanga
+Q3236167;Machiques
+Q3236446;Sechura
+Q3236564;Ancuabe
+Q3236687;Casma
+Q3240868;Q3240868
+Q3242297;Old Delhi
+Q3244848;Warrap, South Sudan
+Q3246886;Chia
+Q3250492;Hala
+Q3251369;Shakargarh
+Q3257780;Q3257780
+Q3258078;Q3258078
+Q3258096;Q3258096
+Q3258725;Q3258725
+Q3259332;Q3259332
+Q3259811;Q3259811
+Q3260036;Q3260036
+Q3260216;Loudima
+Q3263949;Cofradia
+Q3263986;Q3263986
+Q3263994;Q3263994
+Q3267362;Hillsborough
+Q3272262;Q3272262
+Q3272310;Q3272310
+Q3276080;Q3276080
+Q3280495;Majete
+Q3280505;Maji
+Q3280636;Makabana
+Q3281038;Goroumo
+Q3281850;Malem Hodar
+Q3284738;Gelgaudiškis
+Q3284743;Skaudvilė
+Q3285714;Q3285714
+Q3286489;Manono
+Q3286648;Q3286648
+Q3287523;Orlando
+Q3291153;Bolsward
+Q3298223;Lalian
+Q3303148;Abasan al-Kabera
+Q3303551;Mboro
+Q3304215;Mega, Ethiopia
+Q3304799;Mekane Berhan
+Q3304801;Mekane Selam
+Q3304823;Meki
+Q3305646;Cabana
+Q3305659;Mendoza
+Q3305671;Chuquibamba
+Q3305883;Alpuri
+Q3306256;Meraro
+Q3307115;Madingo-Kayes
+Q3307123;Gamboma
+Q3307130;Mossendjo
+Q3307235;Nueva Ocotepeque
+Q3307328;Metehara
+Q3308053;Mir Ali Tehsil
+Q3309417;Nauta
+Q3312318;Diosso
+Q3312424;Catacaos
+Q3312677;Ngwenya
+Q3312796;Mieso
+Q3312840;Lavumisa
+Q3315681;Palma
+Q3315977;Wilde
+Q3317408;Aija
+Q3317415;Llamellín
+Q3317423;Ambo
+Q3317432;Zorritos
+Q3317724;Caballococha
+Q3317765;San Lorenzo
+Q3317773;Contamana
+Q3318939;Corongo
+Q3319094;Monte Chingolo
+Q3319140;Q3319140
+Q3319310;Piscobamba
+Q3322143;Huari
+Q3322237;Venlo
+Q3322611;Pomabamba
+Q3322620;San Luis
+Q3322627;Atalaya
+Q3322634;Omate
+Q3322638;Canta
+Q3322678;Huaquillas
+Q3324947;Mossaka
+Q3325049;Mota, Ethiopia
+Q3327422;Mudula
+Q3327593;Mulenge
+Q3332659;Médina Yoro Foulah
+Q3334079;Q3334079
+Q3335196;Naema
+Q3335618;Q3335618
+Q3335646;Q3335646
+Q3336802;Q3336802
+Q3337485;Ndioum
+Q3337496;Q3337496
+Q3337871;Nejo
+Q3339368;Nguékhokh
+Q3339436;Q3339436
+Q3339476;Q3339476
+Q3339478;Q3339478
+Q3339481;Q3339481
+Q3339490;Q3339490
+Q3341295;Q3341295
+Q3341442;Q3341442
+Q3342002;Q3342002
+Q3342193;Q3342193
+Q3342356;Njarðvík
+Q3342357;Nkondjock
+Q3342631;Q3342631
+Q3343235;Q3343235
+Q3343338;Nondara
+Q3343398;Q3343398
+Q3344002;Celendín
+Q3344017;Ascope
+Q3344032;Contumazá
+Q3344040;Cascas
+Q3344048;Tocache
+Q3344055;Bellavista
+Q3344059;Julcán
+Q3344061;Lircay
+Q3344065;Saposoa
+Q3344069;Rioja
+Q3344072;Bolívar
+Q3344084;Santiago de Chuco
+Q3344087;Picota
+Q3344090;Tayabamba
+Q3344095;Yanahuanca
+Q3344099;Huaytará
+Q3344103;Requena
+Q3344124;Cangallo
+Q3344141;Ayaviri
+Q3344150;Putina
+Q3344173;Chupaca
+Q3344197;Jumbilla
+Q3344209;Sandia
+Q3344215;Calca
+Q3344236;Candarave
+Q3344351;Cajabamba
+Q3344843;Virú
+Q3344870;Esperanza
+Q3344909;Huanca Sancos
+Q3345555;Yauri
+Q3347049;Saidpur, Rangpur Division
+Q3347407;Santa María de Nieva
+Q3347804;O Smach
+Q3348229;Macusani
+Q3348236;Ilave
+Q3348291;Villa Salvación
+Q3350077;Okoyo
+Q3354065;Brønshøj
+Q3356822;Ortiz, Guárico
+Q3357935;Q3357935
+Q3357950;Q3357950
+Q3358051;Oued Zarga
+Q3358063;Q3358063
+Q3358844;Q3358844
+Q3361853;Q3361853
+Q3361894;Hanamakonda
+Q3366952;Alta
+Q3367230;Pasaje
+Q3368418;Q3368418
+Q3374452;Q3374452
+Q3395141;Q3395141
+Q3395829;Q3395829
+Q3396123;Q3396123
+Q3396216;Q3396216
+Q3399311;Q3399311
+Q3400357;Q3400357
+Q3400742;Pout
+Q3404617;Alatau
+Q3408680;Tari
+Q3411169;Pyapon
+Q3412425;Qarah
+Q3412433;Gajuri
+Q3412434;Qart Hadasht
+Q3414556;Slagelse
+Q3414795;Qurayyat, Oman
+Q3415703;Dakshinkali
+Q3416171;Gaighat
+Q3441236;Rommani
+Q3442746;Ross Béthio
+Q3442852;Росо
+Q3445866;Lož
+Q3449469;Lenggong
+Q3458581;Río Chico
+Q3460692;Sabou
+Q3461465;Sagure
+Q3464234;Sainte-Croix
+Q3469700;Salemata
+Q3470665;Q3470665
+Q3471566;San Mateo
+Q3472184;Q3472184
+Q3472573;Santa Bárbara
+Q3472621;Santa Cruz de Los Taques
+Q3472626;Santa Elena de Arenales
+Q3472806;Santa Lucía
+Q3473501;Q3473501
+Q3474658;Sawla
+Q3476942;Sebeta
+Q3477726;Q3477726
+Q3478042;Sela Dingay
+Q3478075;Q3478075
+Q3481209;Shaharah
+Q3483194;Sidi Bennour
+Q3483204;Bouknadel
+Q3485061;Синтиу-Бамамбе
+Q3485393;Complutum
+Q3486116;Q3486116
+Q3487283;Q3487283
+Q3488762;Q3488762
+Q3489051;Sokone
+Q3494688;Manzala
+Q3495996;Al Qunfudhah
+Q3498842;Matai
+Q3499515;Chivacoa
+Q3500883;Salamina
+Q3502865;Abutig
+Q3504032;Supe
+Q3504675;Santa Clara del Mar
+Q3505791;Al Jubayhah
+Q3505801;Al Quwaysimah
+Q3510499;Burutu
+Q3513519;Q3513519
+Q3513909;Q3513909
+Q3514416;Q3514416
+Q3523969;Thiadiaye
+Q3524626;Thilogne
+Q3528033;Tianjing
+Q3530435;Nyborg
+Q3532754;Q3532754
+Q3532864;Touissit
+Q3541533;Q3541533
+Q3541569;Q3541569
+Q3541582;Q3541582
+Q3544851;Natá de los Caballeros
+Q3546813;Q3546813
+Q3547421;Faaborg
+Q3552274;Ureña
+Q3556823;Santiago de Puriscal
+Q3558877;Hyria
+Q3559157;Q3559157
+Q3559224;Q3559224
+Q3561270;Siphae
+Q3563897;Vyadhapura
+Q3566248;Q3566248
+Q3567161;Welenchiti
+Q3567301;Were Ilu
+Q3567308;Wereta
+Q3569773;Q3569773
+Q3571397;Q3571397
+Q3574797;Zaouiet Sousse
+Q3574882;Q3574882
+Q3575469;Q3575469
+Q3575640;Q3575640
+Q3577266;Çobanlar
+Q3595659;Yalamlam
+Q3608608;Yaypan
+Q3619248;Vizianagaram
+Q3619316;Grenå
+Q3624939;Aserrí
+Q3626200;La Entrada
+Q3634114;Janjgir
+Q3636023;Bijapur
+Q3645136;Brixia
+Q3645598;Zuwetina
+Q3646152;Abu Qirqas
+Q3651040;Calulo
+Q3652748;Deir Mawas
+Q3660136;Carlos Spegazzini
+Q3666877;Chbar Ampéou
+Q3675400;Choni
+Q3693378;Q3693378
+Q3693997;Coronel Suárez
+Q3695241;Kot Momin
+Q3695624;Kandhkot
+Q3695697;Lāla Musa
+Q3696034;Al Mansura District
+Q3696048;Al Mualla District
+Q3696209;Al Husn
+Q3700809;Daphne near Antioch
+Q3711197;Mpwapwa
+Q3719360;Сан-Берту
+Q3720937;Al Jabalayn
+Q3721220;Tortuguitas
+Q3721297;Ciudad Jardín El Libertador
+Q3721987;Llavallol
+Q3722972;Villa Tesei
+Q3723035;Los Polvorines
+Q3723441;Villa Centenario
+Q3724044;Villa de Mayo
+Q3724048;Villa Domínico
+Q3732722;Q3732722
+Q3738335;Hamar
+Q3745777;Finziade
+Q3750807;Cregneash
+Q3753233;Oba
+Q3773723;Pelileo
+Q3780142;Barabanki
+Q3782784;Halyciae
+Q3786092;Virreyes, Buenos Aires
+Q3786437;Munro
+Q3786686;Villa Udaondo
+Q3787050;Ingeniero Pablo Nogués
+Q3788017;Hyria
+Q3809153;Michmash
+Q3813233;Ramachandrapuram, Medak
+Q3814773;Buka
+Q3816731;Yaguachi
+Q3826507;Sighnaq
+Q3829351;Lederata
+Q3836328;Q3836328
+Q3850273;Xochihuehuetlán
+Q3870019;Nacona
+Q3874055;Ncue
+Q3874838;Nerulum
+Q3878801;Netum
+Q3879165;Nsang
+Q3898587;Pedernales
+Q3905064;Pimentel
+Q3917005;Rumelange
+Q3918889;Валерий Николаевич Иванов
+Q3945164;Sakarya
+Q3946917;Q3946917
+Q3947434;San Juan District, Tibás
+Q3948919;Santa Ana
+Q3976467;Suani Ben Adem
+Q3983093;Temesa
+Q3990170;Theangela
+Q3991144;Tibula
+Q3998737;Tridentum
+Q4023866;Zaragoza
+Q4057168;Agui
+Q4059354;Акахете (Пуэбла)
+Q4063326;el-Kharga Town
+Q4064121;Amecameca de Juárez
+Q4064550;Амунтай
+Q4065546;Андреев (город Галицко-Волынской Руси)
+Q4072347;Ahuacatlán
+Q4079276;Batalik
+Q4083805;Бенито-Хуарес (Макушпана)
+Q4103058;Вальдорф (Баден)
+Q4105094;al-Wasta
+Q4115096;Atayurt
+Q4115712;Kaunas
+Q4116151;Q4116151
+Q4116186;Bawiti
+Q4116291;Al Hashimiyya
+Q4118337;Qudsaya
+Q4118953;Atarib
+Q4118993;Al Misrakh District
+Q4119728;Al-Khalidiya
+Q4119742;Inkhil
+Q4119766;15th of May City
+Q4119894;Yafa
+Q4120522;Jwaya
+Q4120566;Duraykish
+Q4120581;Sayyidah Zaynab
+Q4131635;Gazojak
+Q4131907;Gaibandha
+Q4132923;Grevenmacher
+Q4139824;Garrygala
+Q4140430;Lerdo de Tejada
+Q4151853;Gulistan, Balochistan
+Q4161769;Dinajpur
+Q4162074;Диранг
+Q4165411;Souq al-Shuyukh
+Q4165655;Hihya
+Q4166184;Al-Meshkhab
+Q4166337;Dar el-Salam
+Q4166604;Faraskur
+Q4167668;Hluti
+Q4167739;Dras
+Q4178675;Žiežmariai
+Q4208785;Qayyarah
+Q4210618;Кальяо (город)
+Q4220657;Кимбайя (муниципалитет)
+Q4251679;La Ventosa
+Q4274214;Magura, Bangladesh
+Q4291263;Мескиталь (Тамаулипас)
+Q4312918;Liao Nanjing
+Q4332682;Окосокоаутла-де-Эспиноса
+Q4373100;Порос (город)
+Q4394741;Río Grande
+Q4404527;Sadda, FATA
+Q4405727;Салах-эд-Дин (город)
+Q4407227;Сан-Агустин (Халиско)
+Q4407951;Сантьяго-де-Теапа
+Q4408287;B-baria, Bangladesh
+Q4409387;Sahajanpur
+Q4419079;Sicuani
+Q4445103;Al Gharraf
+Q4446399;Sura
+Q4449159;Таанах
+Q4449920;Q4449920
+Q4450198;Tacotalpa
+Q4452813;Tahaundam
+Q4453847;Tecpán de Galeana
+Q4459029;Tlaltenango de Sánchez Román
+Q4459073;Thmuis
+Q4468504;Уахикори
+Q4470303;Uychi
+Q4490010;Bohechío
+Q4491817;Forward Kahuta
+Q4495185;Jalpa de Méndez
+Q4495294;Hamam al-Alil
+Q4495844;Harinakunda
+Q4497421;Heho
+Q4502049;Ezzedine Salim subdistrict
+Q4506637;Chagai, Pakistan
+Q4515514;Zhongdu
+Q4515627;Чивидали-дель-Фриули
+Q4519132;Shabqadar
+Q4520486;Shargʻun
+Q4520563;Шарки-Караагач
+Q4523051;Al-Shirqat
+Q4523190;Sherpur
+Q4524218;Ширани
+Q4532299;Al-Rumaitha
+Q4533372;Ash-Shinafiyah
+Q4533693;Yugo, Baltistan
+Q4534209;Józefów nad Wisłą
+Q4539990;Яяма
+Q4579677;Shah Faisal Town
+Q4622385;Geita
+Q4623904;Njombe Mjini
+Q4624506;Bariadi
+Q4650216;Iskandar Puteri
+Q4666838;Abercwmboi
+Q4678136;Ad Dis
+Q4681407;Addu City
+Q4691274;Agara, Bangalore
+Q4691586;Agathyrnum
+Q4701880;Aktepe
+Q4702167;Al-Ahsa Governorate
+Q4702331;Al-Dar al-Kabirah
+Q4702665;Al-Karmah
+Q4703079;Al-Qaryatayn
+Q4703350;Al-Yamun
+Q4703973;Al Hamool
+Q4741622;Atuntaqui
+Q4747059;Amlapura
+Q4748280;Amphigeneia
+Q4752772;Anchovy
+Q4761912;Angadipuram Laterite
+Q4775046;Antiochia Lamotis
+Q4775098;Antiphellus
+Q4779536;Aphek
+Q4786593;Archidona, Ecuador
+Q4795376;Arnos Vale
+Q4795725;Arpalı Kasabası
+Q4810310;Assorus
+Q4821345;Augustopolis in Palaestina
+Q4825838;Kestel
+Q4830094;Kumarlar
+Q4838013;Babri, Burkina Faso
+Q4841319;Baeza
+Q4841445;Bagansiapiapi
+Q4843907;Baris
+Q4844168;Differdange
+Q4848984;Bakaata
+Q4850064;Balao
+Q4853169;Balzar
+Q4881072;Beiguozhuang
+Q4882129;Beldibi
+Q4890124;Q4890124
+Q4890987;Beramba, Madagascar
+Q4896286;Apros
+Q4902946;Biba, Egypt
+Q4907688;Bilene
+Q4916209;Bireuen
+Q4939784;Bollineni Hillside
+Q4950013;Bouneima
+Q4985397;Buena Fe
+Q4986941;Bukit Pasir
+Q4987159;Bukwa
+Q4998078;Buraan
+Q5005068;Bétou
+Q5017508;Caia, Mozambique
+Q5065997;Chabahil
+Q5077360;Kaolinovo
+Q5115146;Chu Lai
+Q5119394;Koza
+Q5119913;Cikarang
+Q5124142;Ciudad Cuauhtémoc
+Q5124170;Nueva Cáceres
+Q5148266;Colonia del Sol
+Q5157069;Compsa
+Q5208131;Dadyal
+Q5221425;Danyang
+Q5222112;Darat Izza
+Q5222600;Dargan Ata
+Q5238954;William C. Morris
+Q5243296;Dayr Hafir
+Q5243979;Tabacundo
+Q5247279;Kapaklı
+Q5248598;Savuca
+Q5248605;Kızılpınar
+Q5248613;Sultanköy
+Q5248622;Pelitli
+Q5250125;Çayırhan
+Q5250147;Turgutalp
+Q5250167;Yurtbaşı
+Q5250179;Turunçova
+Q5250191;Ovaeymir
+Q5255116;Dembecha
+Q5255269;Padang Besar
+Q5259650;Denu
+Q5270295;Diadochoupolis
+Q5278157;Dinga
+Q5278308;Dinhabah
+Q5284691;Divuma
+Q5295566;Dondo
+Q5350647;El-Badari
+Q5351224;El Empalme
+Q5352055;El Rosario, Baja California
+Q5352286;El Triunfo
+Q5372475;Eminabad
+Q5373099;Ur Kaśdim
+Q5376121;Endibir
+Q5395523;Saqunda
+Q5410028;La Villa del Rosario
+Q5414521;Euthydemia
+Q5419083;Ewu
+Q5431990;Falkum
+Q5437418;Fatehgunj
+Q5443492;Fenix
+Q5474197;Simeonovgrad
+Q5478122;Oum El Bouaghi
+Q5521848;Garabekewül
+Q5532089;General Pacheco
+Q5576202;Godavarikhani
+Q5577727;Goindval
+Q5582063;Gonoessa
+Q5582862;Cusco
+Q5584396;Gorakhpur
+Q5594333;Grand Bourg
+Q5599705;Эс-Сафф
+Q5600202;Qutur, Egypt
+Q5607284;Kafr Shukr
+Q5620048;Guriceel
+Q5627208;Güzelyalı
+Q5637571;Bola shareef
+Q5637733;Hadejia
+Q5639815;El Pangui
+Q5641021;Halah
+Q5641122;Halaç
+Q5641388;Q5641388
+Q5661720;Q5661720
+Q5664431;Q5664431
+Q5666936;Q5666936
+Q5666996;Q5666996
+Q5667075;Q5667075
+Q5667302;Q5667302
+Q5667609;Q5667609
+Q5668451;Bajil
+Q5668557;Q5668557
+Q5668715;Q5668715
+Q5669041;Q5669041
+Q5671433;Q5671433
+Q5671837;Q5671837
+Q5674954;Q5674954
+Q5676042;Pempe
+Q5676365;Q5676365
+Q5678181;Q5678181
+Q5680619;Q5680619
+Q5685979;Q5685979
+Q5691156;Q5691156
+Q5691477;Q5691477
+Q5691973;Q5691973
+Q5698503;Heheng
+Q5701221;Q5701221
+Q5701225;Q5701225
+Q5701306;Q5701306
+Q5701309;Q5701309
+Q5701336;Q5701336
+Q5701384;Q5701384
+Q5701386;Q5701386
+Q5701389;Q5701389
+Q5701455;Q5701455
+Q5701457;Q5701457
+Q5701510;Q5701510
+Q5701562;Q5701562
+Q5701565;Q5701565
+Q5701592;Q5701592
+Q5701662;Q5701662
+Q5701665;Q5701665
+Q5701727;Q5701727
+Q5701772;Q5701772
+Q5702191;Q5702191
+Q5702292;Q5702292
+Q5703231;Q5703231
+Q5703776;Q5703776
+Q5704405;Q5704405
+Q5704657;Q5704657
+Q5707354;Hellenopolis
+Q5709618;Q5709618
+Q5709620;Q5709620
+Q5710013;Weh Antioch Khosrow
+Q5710624;Q5710624
+Q5712621;Q5712621
+Q5712699;Q5712699
+Q5712788;Q5712788
+Q5713256;Q5713256
+Q5717907;Q5717907
+Q5722442;Q5722442
+Q5722721;Q5722721
+Q5724384;Q5724384
+Q5726624;Q5726624
+Q5727456;Q5727456
+Q5727577;Q5727577
+Q5727866;Q5727866
+Q5762368;Vinces
+Q5770842;Nombre de Jesús
+Q5770857;Q5770857
+Q5805661;Q5805661
+Q5806703;Diego de Alvear
+Q5832423;Q5832423
+Q5881262;Hollerich-Bonnevoie
+Q5905318;Hunza
+Q5905917;Q5905917
+Q5938642;Q5938642
+Q5945898;Q5945898
+Q5949897;Husseiniya
+Q5958093;West Kelowna
+Q5963243;Q5963243
+Q5968987;Laguna Alsina
+Q5987687;Idanre
+Q5990184;Tawella
+Q5994951;Iim
+Q5998871;Sinnuris
+Q5999474;Dhlail
+Q5999646;al-Maschariqa
+Q5999829;Q5999829
+Q6000830;Daraw
+Q6003432;Imasgho
+Q6007637;Sidas
+Q6014404;Trysa
+Q6015141;Q6015141
+Q6018368;Q6018368
+Q6018830;Q6018830
+Q6018847;Q6018847
+Q6023307;Q6023307
+Q6023870;Q6023870
+Q6025001;Q6025001
+Q6025183;Q6025183
+Q6026356;Q6026356
+Q6028342;Q6028342
+Q6031444;Q6031444
+Q6033063;Q6033063
+Q6049649;Anjara
+Q6050210;Q6050210
+Q6050235;Q6050235
+Q6050261;Q6050261
+Q6052525;Q6052525
+Q6055977;Q6055977
+Q6063659;A Coruña
+Q6069369;Pedro Luro
+Q6076674;Pir Jo Goth
+Q6080543;Ishozi
+Q6093787;Nabk
+Q6119013;San José Pibtuch
+Q6121011;Jacqueville
+Q6125981;Jalalpur Bhattian
+Q6154758;Tuxpan
+Q6159672;Varia
+Q6166116;Jawi, Penang
+Q6167965;Jayrud
+Q6168081;Jazer
+Q6173797;Q6173797
+Q6293554;Q6293554
+Q6298685;Ju
+Q6346798;Kahama
+Q6356825;Тадеф
+Q6365782;Kanyabayonga
+Q6389103;Saguntum
+Q6406498;Kilaguni
+Q6411201;King Abdulaziz City for Science and Technology
+Q6414288;Q6414288
+Q6415759;Talesh
+Q6419912;Porbandar
+Q6431544;Kordié
+Q6432728;Koru
+Q6442723;Kulachi
+Q6443598;Kumari
+Q6447388;Kurumbakkavu Bhagavathy Temple Edathala
+Q6449294;Kuzuculu
+Q6459366;Q6459366
+Q6462104;Q6462104
+Q6462206;Q6462206
+Q6462236;Q6462236
+Q6462296;Q6462296
+Q6465070;La Salina, Baja California
+Q6465543;La Troncal
+Q6492291;Las Lomitas
+Q6503576;Lawas
+Q6516399;Orkanger
+Q6540185;Liaqauatpur
+Q6571316;Dabakala
+Q6587270;Thila
+Q6634626;Pali
+Q6642236;Karaburna
+Q6649311;Kalecik
+Q6669164;Lomas de Sargentillo
+Q6704167;Lundu, Sarawak
+Q6710593;Göreme
+Q6710802;Lázaro Cárdenas, Jalisco
+Q6721179;Maarrat Misrin
+Q6726220;Madalla
+Q6727232;Madhabdi
+Q6729149;Dhuluiya
+Q6736825;Maintinandry
+Q6737428;Majayahan
+Q6740518;Makénéné
+Q6741298;Malanyu
+Q6741450;Malavli
+Q6792576;Maungdaw Township
+Q6817855;Mera, Pastaza
+Q6819071;Merewether
+Q6827675;Miani
+Q6843184;Midway
+Q6860386;Ma‘bar
+Q6874886;Mawqaq
+Q6887544;Moche, Trujillo
+Q6895634;Moladah
+Q6903267;Roosendaal
+Q6948694;Mysomakedones
+Q6956610;Naarath
+Q6965358;Naranjal
+Q6975381;Oba
+Q6976154;Çatalağzı
+Q6976177;İsmil
+Q6977194;Korak
+Q6983051;Naya Raipur
+Q6997025;Yaqubi
+Q6997456;Mergesor
+Q7021974;Nganda
+Q7037160;Nilore, Islamabad
+Q7067578;Nsoko
+Q7099213;Oracabessa
+Q7107134;Osmaniye
+Q7107313;Bangkalan
+Q7125163;Paishiyauvada
+Q7127272;Palestina
+Q7130364;Panchor
+Q7130524;Pandaul Vidhan Sabha constituency
+Q7138504;Parkhurst, Isle of Wight
+Q7139444;Paroom
+Q7193761;Pilar, Córdoba Province
+Q7195018;Pindi Bhattian
+Q7195866;Minicoy
+Q7230482;Port Arthur
+Q7237629;Pragjyotishpura
+Q7258579;Puerto Nuevo, Baja California
+Q7265828;Qaha
+Q7266461;Qanatir el Qahiriya
+Q7267178;Qatra
+Q7278471;Raba
+Q7283492;Rahmaniya
+Q7294653;Ras El Bar
+Q7305559;Redcliffe City
+Q7322016;Rhytion
+Q7367138;Rosa Zárate
+Q7396574;Sacatepéquez
+Q7398431;Safdarabad
+Q7403122;Saktigarh, Siliguri
+Q7409016;Sambaza
+Q7413381;San Antonio de Ureca
+Q7414682;San Lorenzo
+Q7414937;San Miguel, Bolívar
+Q7417749;Rim
+Q7419262;Santa Bárbara del Zulia
+Q7419863;Santa Rosa
+Q7420390;Santiago de los Caballeros de Guatemala
+Q7421008;Saponé
+Q7449126;Semarapura
+Q7454833;Serikin
+Q7456830;Setovia
+Q7461493;Shahbazpur Town
+Q7488720;Shankarapur
+Q7501510;Shorkot
+Q7504702;Shuhada
+Q7554677;Sohawa
+Q7581393;Spruce Creek
+Q7586465;Sriniwaspuri
+Q7636579;Sultan
+Q7641860;Suong
+Q7672929;Tabarjal
+Q7684735;Taposiris Magna
+Q7697898;Teluk Air Tawar
+Q7697909;Teluk Kumbar
+Q7877316;Udu, Nigeria
+Q7909176;Val d'Or, Penang
+Q7925281;Vicina
+Q7930370;Villa Jesús María
+Q7935966;Vishnu Baug Colony
+Q7958728;Wacca
+Q7960673;Waiwerang
+Q7973205;Wategaon
+Q7989391;Weston-under-Lizard
+Q8044291;Xiaoshangqiao
+Q8052256;Yeni
+Q8071357;Ziarat, North Khorasan
+Q8073157;Zoan
+Q8077609;Çaylı
+Q8196258;Q8196258
+Q8215260;Pillaro
+Q8215298;Béccar
+Q8253543;Bukit Baru
+Q8536073;Azimuntium
+Q8772897;El Carmen (Ecuador)
+Q8963744;General Leonidas Plaza Gutiérrez
+Q8964641;Gomphi
+Q9020124;Laminium
+Q9035712;Q9035712
+Q9061216;Q9061216
+Q9143904;Al Qa`idah
+Q9160295;Arretium
+Q9176109;Coyuca de Catalán
+Q9202485;Daton
+Q9293647;Muñiz, Buenos Aires
+Q9300715;Hunjiang City
+Q9560053;Abala
+Q9560982;Abkua
+Q9609662;Amangarh
+Q9712078;Caucaia do Alto
+Q10262540;Cutha
+Q10280269;Fateh Pur
+Q10301045;Ile
+Q10308542;José Santos Guardiola
+Q10316445;Las Varillas
+Q10323671;Manhiça
+Q10327461;Matru
+Q10344168;Panda
+Q10355792;Qalʻah-ye Zāl
+Q10378793;Teaoraereke
+Q10382434;Tifsa
+Q10394550;Yana
+Q10394607;Yele
+Q10396595;Āmer
+Q10401099;Alexandria Prophthasia
+Q10480578;Ekenäs
+Q10518562;Haugesund
+Q10542373;Kadam Rasul
+Q10543698;Karl Johan city
+Q10600392;Nguti
+Q10600995;Ninotsminda
+Q10637941;Porsgrunn
+Q10661956;Sarpsborg
+Q10699939;Q10699939
+Q10777291;Karapınar
+Q10803149;Ortahisar
+Q10803523;Ovaören
+Q10824077;Tatların
+Q10837783;Yukarıdinek
+Q10839880;Ølstykke-Stenløse
+Q10842552;İnallı
+Q10853792;Tønsberg
+Q10856006;Nakano
+Q10859337;Bruzual
+Q10859501;Stung Treng
+Q10860440;Pella
+Q10861438;Svay Rieng
+Q10867816;Shanqhae
+Q10891328;Nefas Mewcha
+Q10906766;Nanking
+Q10954107;Q10954107
+Q10954229;Q10954229
+Q10955509;Selangau, Sarawak
+Q11000280;Q11000280
+Q11004410;Pedro Carbo
+Q11014097;Formiae
+Q11023989;Q11023989
+Q11024122;Q11024122
+Q11025286;Q11025286
+Q11029999;Q11029999
+Q11043707;Q11043707
+Q11044571;Q11044571
+Q11045304;Q11045304
+Q11045775;Q11045775
+Q11046275;Q11046275
+Q11048692;Melut
+Q11122756;Q11122756
+Q11124315;Wuchang City
+Q11130899;Lacedaemon
+Q11139854;Q11139854
+Q11160785;Taqtaq
+Q11167467;Lirquén
+Q11168982;Chancay
+Q11249733;Jipijapa
+Q11293408;Q11293408
+Q11346728;Lhasa
+Q11349865;Lehi
+Q11400274;Katsushima
+Q11439906;Ōsaka
+Q11445500;Mukden
+Q11486078;Funai
+Q11690210;Q11690210
+Q11711757;Q11711757
+Q11722595;Q11722595
+Q11731607;Ommen
+Q11753303;Q11753303
+Q11792967;Norsup
+Q11794247;Nyaunglebin
+Q11830645;Psie Pole
+Q11878638;Velká Olomouc
+Q11903694;Q11903694
+Q11904142;Ad Salices
+Q11904143;Q11904143
+Q11904203;Q11904203
+Q11904209;Hadrianopolis
+Q11904486;Aijalon
+Q11904538;Q11904538
+Q11904922;Alexandria in Orietai
+Q11904923;Q11904923
+Q11905467;Q11905467
+Q11905752;Q11905752
+Q11906352;Q11906352
+Q11906692;Q11906692
+Q11906932;Q11906932
+Q11907034;Astapa
+Q11907223;Q11907223
+Q11907308;Ausa
+Q11907505;Q11907505
+Q11908820;Q11908820
+Q11909428;Q11909428
+Q11909484;Bizya
+Q11910210;Q11910210
+Q11913628;Q11913628
+Q11913747;Q11913747
+Q11913978;Q11913978
+Q11915614;Q11915614
+Q11915678;Q11915678
+Q11915715;Q11915715
+Q11916346;Q11916346
+Q11916493;Q11916493
+Q11916598;Q11916598
+Q11916627;Q11916627
+Q11916635;Q11916635
+Q11916722;Q11916722
+Q11917191;Q11917191
+Q11917849;Dumaria
+Q11917863;Q11917863
+Q11918142;Q11918142
+Q11918812;Q11918812
+Q11919190;Q11919190
+Q11919434;Q11919434
+Q11919440;Q11919440
+Q11919529;Q11919529
+Q11919561;Q11919561
+Q11919563;Q11919563
+Q11921103;Q11921103
+Q11921115;Q11921115
+Q11921177;Eudocias
+Q11921243;Q11921243
+Q11921470;Q11921470
+Q11923822;Q11923822
+Q11923856;Q11923856
+Q11923858;Gath Rimmon
+Q11923860;Q11923860
+Q11923902;Q11923902
+Q11923903;Q11923903
+Q11923909;Q11923909
+Q11924427;Q11924427
+Q11924817;Q11924817
+Q11924989;Gummi
+Q11925008;Q11925008
+Q11925148;Q11925148
+Q11925163;Q11925163
+Q11925164;Q11925164
+Q11925220;Q11925220
+Q11925247;Q11925247
+Q11925281;Q11925281
+Q11925286;Q11925286
+Q11925294;Q11925294
+Q11925311;Q11925311
+Q11925431;Q11925431
+Q11925432;Q11925432
+Q11925438;Q11925438
+Q11925441;Q11925441
+Q11925442;Q11925442
+Q11925455;Q11925455
+Q11925576;Hybla Major
+Q11925589;Q11925589
+Q11925634;Q11925634
+Q11925637;Q11925637
+Q11926001;Q11926001
+Q11926060;Q11926060
+Q11926141;Hrairia
+Q11926184;Q11926184
+Q11926192;Hurna
+Q11926198;Q11926198
+Q11926303;Q11926303
+Q11926317;Jarmuth
+Q11926387;Q11926387
+Q11926413;Ie
+Q11926503;Q11926503
+Q11926561;Q11926561
+Q11926564;Q11926564
+Q11926589;Q11926589
+Q11926755;Q11926755
+Q11926803;Intibili
+Q11926853;Irridu
+Q11926899;Q11926899
+Q11926968;Q11926968
+Q11926995;Ithoria
+Q11927021;Q11927021
+Q11929497;Q11929497
+Q11929595;Q11929595
+Q11929635;Q11929635
+Q11929644;Q11929644
+Q11929668;Karkh
+Q11929681;Kasan
+Q11929691;Q11929691
+Q11929692;Q11929692
+Q11929813;Q11929813
+Q11930000;Q11930000
+Q11931072;Q11931072
+Q11931146;Q11931146
+Q11931147;Q11931147
+Q11931174;Q11931174
+Q11931178;Larissa d'Assíria
+Q11931197;Q11931197
+Q11931236;Lavici
+Q11931241;Lawazantiya
+Q11931246;Q11931246
+Q11931294;Ledon
+Q11931301;Q11931301
+Q11931798;Leucophrys
+Q11931945;Q11931945
+Q11931946;Limne
+Q11931949;Q11931949
+Q11931950;Q11931950
+Q11931992;Q11931992
+Q11931997;Lysimachia (Aetolia)
+Q11932040;Q11932040
+Q11933999;Louata
+Q11934232;Q11934232
+Q11934283;Q11934283
+Q11934284;Luna
+Q11934291;Q11934291
+Q11934300;Q11934300
+Q11934523;Q11934523
+Q11934572;Q11934572
+Q11934662;Q11934662
+Q11934787;Q11934787
+Q11935060;Q11935060
+Q11935295;Mardaman
+Q11935569;Q11935569
+Q11936119;Massa Veternensis
+Q11936175;Q11936175
+Q11936307;Q11936307
+Q11936310;Q11936310
+Q11936311;Medeon
+Q11936411;Q11936411
+Q11936430;Q11936430
+Q11936454;Q11936454
+Q11936456;Q11936456
+Q11936483;Q11936483
+Q11936492;Q11936492
+Q11936724;Q11936724
+Q11936725;Q11936725
+Q11936726;Q11936726
+Q11936784;Q11936784
+Q11936815;Q11936815
+Q11936845;Q11936845
+Q11937108;Q11937108
+Q11937776;Mugilla
+Q11937795;Q11937795
+Q11937856;Q11937856
+Q11937880;Q11937880
+Q11938024;Q11938024
+Q11938028;Q11938028
+Q11938267;Q11938267
+Q11938336;Q11938336
+Q11938344;Q11938344
+Q11938434;Natas
+Q11938600;Q11938600
+Q11938603;Q11938603
+Q11938653;Q11938653
+Q11938655;Q11938655
+Q11938656;Q11938656
+Q11938693;Q11938693
+Q11939009;Q11939009
+Q11939048;Q11939048
+Q11939593;Q11939593
+Q11939601;Oropia
+Q11939621;Q11939621
+Q11939639;Q11939639
+Q11939754;Q11939754
+Q11939902;Q11939902
+Q11939937;Q11939937
+Q11940098;Q11940098
+Q11940207;Q11940207
+Q11940225;Q11940225
+Q11940236;Q11940236
+Q11940251;Q11940251
+Q11940407;Q11940407
+Q11940480;Q11940480
+Q11940493;Q11940493
+Q11941108;Q11941108
+Q11941360;Q11941360
+Q11941612;Q11941612
+Q11941720;Q11941720
+Q11941760;Q11941760
+Q11942094;Q11942094
+Q11942112;Q11942112
+Q11942475;Q11942475
+Q11942521;Potentia
+Q11942554;Praisos
+Q11944061;Q11944061
+Q11944351;Q11944351
+Q11946591;Q11946591
+Q11946622;Q11946622
+Q11946688;Q11946688
+Q11946823;Q11946823
+Q11946863;Q11946863
+Q11947731;Q11947731
+Q11947732;Q11947732
+Q11947748;Q11947748
+Q11947754;Q11947754
+Q11947910;Q11947910
+Q11947912;Q11947912
+Q11949612;Q11949612
+Q11949614;Q11949614
+Q11949674;Q11949674
+Q11949742;Q11949742
+Q11949854;Q11949854
+Q11949874;Q11949874
+Q11949948;Q11949948
+Q11950215;Q11950215
+Q11950409;Syangela
+Q11950443;Q11950443
+Q11950528;Q11950528
+Q11950583;Q11950583
+Q11950612;Q11950612
+Q11950675;Q11950675
+Q11950746;Q11950746
+Q11950751;Q11950751
+Q11950768;Q11950768
+Q11950776;Q11950776
+Q11950837;Q11950837
+Q11950864;Q11950864
+Q11950881;Q11950881
+Q11950885;Q11950885
+Q11950894;Q11950894
+Q11950934;Q11950934
+Q11951222;Q11951222
+Q11951565;Q11951565
+Q11951603;Q11951603
+Q11951621;Q11951621
+Q11951665;Q11951665
+Q11951728;Q11951728
+Q11951793;Q11951793
+Q11951823;Tifernum Metaurense
+Q11951834;Q11951834
+Q11952027;Q11952027
+Q11952068;Q11952068
+Q11952143;Q11952143
+Q11952993;Q11952993
+Q11953006;Q11953006
+Q11953032;Q11953032
+Q11953079;Q11953079
+Q11953150;Triocala
+Q11953360;Q11953360
+Q11953365;Q11953365
+Q11953408;Q11953408
+Q11953790;Q11953790
+Q11953805;Q11953805
+Q11953889;Q11953889
+Q11954075;Q11954075
+Q11954085;Q11954085
+Q11954122;Q11954122
+Q11954163;Q11954163
+Q11954189;Q11954189
+Q11954828;Q11954828
+Q11954955;Q11954955
+Q11955023;Q11955023
+Q11955083;Q11955083
+Q11955098;Q11955098
+Q11955111;Q11955111
+Q11955116;Q11955116
+Q11955184;Q11955184
+Q11955238;Q11955238
+Q11955240;Q11955240
+Q11955460;Q11955460
+Q11955516;Q11955516
+Q11955549;Q11955549
+Q11955550;Q11955550
+Q11955570;Q11955570
+Q11955606;Q11955606
+Q11955612;Q11955612
+Q11955620;Q11955620
+Q11955621;Q11955621
+Q11955622;Q11955622
+Q12180000;Aghir
+Q12184496;ِAlbosor
+Q12184689;Q12184689
+Q12185219;Q12185219
+Q12185451;Q12185451
+Q12186298;Эль-Харф
+Q12186493;Q12186493
+Q12186515;Q12186515
+Q12186928;Q12186928
+Q12187301;Q12187301
+Q12187525;Q12187525
+Q12187701;Ar Rajban
+Q12187714;Q12187714
+Q12187740;Q12187740
+Q12187916;Q12187916
+Q12187948;Ar Rawdah
+Q12187992;Q12187992
+Q12188030;Q12188030
+Q12188056;Az Zubaydiyah
+Q12188617;Эс-Суда
+Q12188818;Q12188818
+Q12188944;El Shorouk
+Q12189023;Q12189023
+Q12189158;Al-Shuna al-Shamalyah
+Q12189422;Q12189422
+Q12189449;Q12189449
+Q12189530;Q12189530
+Q12189776;Q12189776
+Q12190071;Q12190071
+Q12190227;Q12190227
+Q12190515;Q12190515
+Q12190542;Q12190542
+Q12190793;Q12190793
+Q12191144;New Cairo
+Q12191403;Qatif
+Q12191415;Q12191415
+Q12191447;Q12191447
+Q12191490;El Kantara
+Q12192163;Mafud
+Q12192260;Q12192260
+Q12192403;Q12192403
+Q12192449;Q12192449
+Q12192588;Q12192588
+Q12192860;Q12192860
+Q12193261;Q12193261
+Q12193560;Q12193560
+Q12193589;Q12193589
+Q12193707;Q12193707
+Q12193891;Mansura, Raqqa
+Q12193915;Al-Ain Region, Abu Dhabi
+Q12194127;Q12194127
+Q12194169;Q12194169
+Q12194422;Q12194422
+Q12194598;Al Hashimiya
+Q12194637;Q12194637
+Q12195127;Q12195127
+Q12195639;Q12195639
+Q12195788;Q12195788
+Q12199525;Новый Бени-Суэйф
+Q12199726;Q12199726
+Q12200476;Q12200476
+Q12200575;Bire Akkar
+Q12201321;Эль-Ибрахимия
+Q12201790;Q12201790
+Q12201989;Q12201989
+Q12202359;Turki
+Q12202762;Q12202762
+Q12203577;Q12203577
+Q12204956;Q12204956
+Q12205208;Q12205208
+Q12207016;Q12207016
+Q12207019;Habban
+Q12207042;Q12207042
+Q12207477;Q12207477
+Q12209022;Q12209022
+Q12209190;Q12209190
+Q12209192;Q12209192
+Q12209238;Q12209238
+Q12209250;Q12209250
+Q12209309;Q12209309
+Q12209342;Q12209342
+Q12209345;Q12209345
+Q12209384;Q12209384
+Q12209423;Q12209423
+Q12209474;Q12209474
+Q12209477;Q12209477
+Q12209556;Q12209556
+Q12209560;Q12209560
+Q12209578;Q12209578
+Q12209579;Q12209579
+Q12209582;Q12209582
+Q12209603;Q12209603
+Q12209635;Q12209635
+Q12209705;Q12209705
+Q12209711;Q12209711
+Q12209712;Q12209712
+Q12209727;Q12209727
+Q12209764;Q12209764
+Q12210853;Khamir
+Q12211002;Khereddine
+Q12211943;Думьят-эль-Джадида
+Q12212707;Q12212707
+Q12213476;Q12213476
+Q12213554;Q12213554
+Q12214074;Q12214074
+Q12214318;Q12214318
+Q12214550;Zakho
+Q12215069;Q12215069
+Q12215911;Q12215911
+Q12216525;Q12216525
+Q12218533;East Hidd City
+Q12218873;Q12218873
+Q12218941;Q12218941
+Q12219186;Q12219186
+Q12220316;old Sana
+Q12220509;Dahyan
+Q12220631;Q12220631
+Q12220632;Dawran
+Q12224236;Q12224236
+Q12227171;Q12227171
+Q12227613;Q12227613
+Q12229073;Ayn al-Tamr
+Q12230559;Q12230559
+Q12232879;Q12232879
+Q12233153;Q12233153
+Q12233466;Q12233466
+Q12233488;Qalansiyah
+Q12234512;Q12234512
+Q12234596;Q12234596
+Q12234940;Q12234940
+Q12234980;Q12234980
+Q12238566;Q12238566
+Q12238873;Q12238873
+Q12241799;Al Hassan Science City
+Q12241854;Q12241854
+Q12241857;Madinat Zayed
+Q12241887;Q12241887
+Q12241891;Ar Rayn
+Q12241940;Q12241940
+Q12242323;Q12242323
+Q12242399;Q12242399
+Q12242935;Musturud
+Q12243521;Baltim Resort
+Q12245008;Mellita
+Q12245024;Q12245024
+Q12246625;Q12246625
+Q12248469;Nisab
+Q12248676;Najan
+Q12249029;Q12249029
+Q12250817;Q12250817
+Q12274956;Q12274956
+Q12286651;Mykonos
+Q12345194;Q12345194
+Q12359550;Arlon
+Q12375138;Skien
+Q12390404;Q12390404
+Q12390415;Q12390415
+Q12390760;Q12390760
+Q12391331;Q12391331
+Q12401528;Q12401528
+Q12401568;Q12401568
+Q12403127;Q12403127
+Q12435629;Nala Sopara
+Q12520861;Tentena
+Q12530186;Q12530186
+Q12533648;Q12533648
+Q12535419;Q12535419
+Q12535442;Q12535442
+Q12535762;Q12535762
+Q12536050;Q12536050
+Q12536243;Q12536243
+Q12536268;Q12536268
+Q12536274;Q12536274
+Q12537795;Q12537795
+Q12538082;Q12538082
+Q12538332;Q12538332
+Q12538422;Q12538422
+Q12538663;Q12538663
+Q12539468;Q12539468
+Q12539515;Q12539515
+Q12539925;Q12539925
+Q12540592;Q12540592
+Q12541055;Q12541055
+Q12541090;Q12541090
+Q12546631;Q12546631
+Q12547673;Q12547673
+Q12547674;Q12547674
+Q12547959;Q12547959
+Q12548032;Q12548032
+Q12548033;Q12548033
+Q12549210;Q12549210
+Q12549229;Q12549229
+Q12549482;Q12549482
+Q12549498;Q12549498
+Q12549538;Q12549538
+Q12549868;Q12549868
+Q12550263;Q12550263
+Q12551519;Q12551519
+Q12551520;Q12551520
+Q12551704;Q12551704
+Q12551744;Q12551744
+Q12551881;Q12551881
+Q12551910;Q12551910
+Q12551911;Q12551911
+Q12552054;Q12552054
+Q12552097;Q12552097
+Q12552098;Q12552098
+Q12552099;Q12552099
+Q12552126;Q12552126
+Q12552762;Q12552762
+Q12552963;Q12552963
+Q12553746;Q12553746
+Q12554061;Q12554061
+Q12554391;Q12554391
+Q12554781;Q12554781
+Q12554801;Q12554801
+Q12555944;Navekat
+Q12555948;Q12555948
+Q12556472;Q12556472
+Q12556475;Q12556475
+Q12556476;Q12556476
+Q12556477;Q12556477
+Q12556566;Q12556566
+Q12556903;Q12556903
+Q12557873;Q12557873
+Q12558352;Q12558352
+Q12558974;Q12558974
+Q12559006;Q12559006
+Q12559406;Q12559406
+Q12559407;Q12559407
+Q12559677;Q12559677
+Q12560253;Q12560253
+Q12560411;Q12560411
+Q12560740;Q12560740
+Q12560957;Q12560957
+Q12561266;Q12561266
+Q12562341;Q12562341
+Q12562436;Q12562436
+Q12562437;Q12562437
+Q12562440;Q12562440
+Q12562441;Q12562441
+Q12562442;Q12562442
+Q12562446;Q12562446
+Q12562448;Q12562448
+Q12562450;Q12562450
+Q12562451;Q12562451
+Q12562453;Q12562453
+Q12562455;Q12562455
+Q12562456;Q12562456
+Q12562458;Q12562458
+Q12562462;Q12562462
+Q12562463;Q12562463
+Q12562464;Q12562464
+Q12562465;Q12562465
+Q12562466;Q12562466
+Q12562467;Q12562467
+Q12562469;Q12562469
+Q12562470;Q12562470
+Q12562473;Q12562473
+Q12562474;Q12562474
+Q12562476;Q12562476
+Q12562532;Q12562532
+Q12562598;Q12562598
+Q12562988;Q12562988
+Q12563046;Q12563046
+Q12563727;Q12563727
+Q12563728;Q12563728
+Q12563729;Q12563729
+Q12564949;Q12564949
+Q12564950;Q12564950
+Q12564951;Q12564951
+Q12564952;Q12564952
+Q12564953;Q12564953
+Q12564954;Q12564954
+Q12564955;Q12564955
+Q12564956;Q12564956
+Q12564957;Q12564957
+Q12564958;Q12564958
+Q12564959;Q12564959
+Q12564961;Q12564961
+Q12564962;Q12564962
+Q12564963;Q12564963
+Q12564964;Q12564964
+Q12564965;Q12564965
+Q12566128;Q12566128
+Q12566375;Q12566375
+Q12566452;Q12566452
+Q12568210;Q12568210
+Q12568388;Q12568388
+Q12568548;Q12568548
+Q12568626;Q12568626
+Q12568719;Q12568719
+Q12568997;Q12568997
+Q12569148;Q12569148
+Q12569288;Хэмден
+Q12569520;Q12569520
+Q12569522;Q12569522
+Q12571390;Q12571390
+Q12571796;Q12571796
+Q12571804;Q12571804
+Q12571806;Q12571806
+Q12609184;Uljin
+Q12634651;Koki
+Q12646101;Q12646101
+Q12683961;Bid
+Q12685605;Dembo
+Q12686738;Galas
+Q12688348;Jagoh
+Q12698776;Ndom
+Q12699022;Q12699022
+Q12700646;Pilin
+Q12709229;Sidam
+Q12709357;Sinfra
+Q12712755;Yoko
+Q12715526;Horten
+Q12732033;Q12732033
+Q12743707;Q12743707
+Q12756619;City of Zenica
+Q12822680;Q12822680
+Q12824866;Kishm
+Q12825018;Colón
+Q12825686;Q12825686
+Q12831146;Q12831146
+Q12831394;Truckton
+Q12831835;Vin
+Q12845287;Rəzi
+Q12877252;Epiphaneia in Bithynia
+Q12881477;Neon
+Q12884189;Ruhango
+Q12890620;Fernando Echenique
+Q12893305;Las Martínez
+Q12897993;Ван Хорн
+Q12979864;Gangavalli taluk
+Q13037424;Manëz
+Q13046194;Skupi
+Q13046345;Ad Quintum
+Q13060024;Siddhirganj
+Q13065889;Zigon
+Q13100072;Sandefjord
+Q13109202;Teodoro Sampaio
+Q13140702;Lyede
+Q13140703;Itu
+Q13141363;Al-Midaina
+Q13189044;Zwolle
+Q13189564;Junín
+Q13189679;La Joya de los Sachas
+Q13365870;Marrakech-Menara
+Q13634887;Al Qurayn, Egypt
+Q13635068;Hybla Heraea
+Q13638193;Ниязовск
+Q13655778;Olympe
+Q13957085;São Filipe
+Q14028321;Q14028321
+Q14060205;Maghrawa
+Q14203238;Bailey Town
+Q14204056;Q14204056
+Q14204629;Q14204629
+Q14204826;Krong Kep
+Q14206266;Q14206266
+Q14206889;Coolidge
+Q14207530;Deep Creek
+Q14208893;Farafra town
+Q14211067;Q14211067
+Q14213648;Q14213648
+Q14214048;Q14214048
+Q14214454;Lowlands
+Q14215956;Mut
+Q14217100;Griffith
+Q14218845;Q14218845
+Q14219428;Q14219428
+Q14219787;Q14219787
+Q14220314;Shwenyaung
+Q14220534;Siwa Town
+Q14221464;Q14221464
+Q14221557;Q14221557
+Q14221716;Q14221716
+Q14222058;True Blue
+Q14222661;Q14222661
+Q14226379;Naracoopa
+Q14232164;San Jose
+Q14236161;Tanjung Batu
+Q14517894;Watapur
+Q14523368;Q14523368
+Q14523617;Majuro
+Q14524048;Q14524048
+Q14623748;Skýros
+Q14900639;Santa Rosa
+Q14920600;San Francisco Coacalco
+Q14955813;Sandnes
+Q15063114;Q15063114
+Q15179688;Ambodiharina
+Q15192658;Ashrafiyat Sahnaya
+Q15207968;Catamayo
+Q15228735;Integrated urban water management in Medellín, Colombia
+Q15244462;Mananwala
+Q15247898;Mariposa, Satipo Province
+Q15248566;Marot
+Q15260737;Nachingwea, Tanzania
+Q15261696;Nerkattumseval
+Q15272287;Khairpur Tamiwali
+Q15275308;Santo Tomás
+Q15277648;Sidlaphadi
+Q15377091;Clausthal
+Q15411354;Q15411354
+Q15411978;Lamap
+Q15554012;Kasulu
+Q15723752;Q15723752
+Q15776943;Bhiria road
+Q15806224;Dokimeion
+Q15847116;Q15847116
+Q15872679;Aegys
+Q15874148;Q15874148
+Q15879944;Q15879944
+Q15902940;Taichung
+Q15934709;Кандага
+Q15966111;Yachay
+Q15972991;Q15972991
+Q15987253;Q15987253
+Q16010634;Magetobria
+Q16013996;Q16013996
+Q16045278;Q16045278
+Q16046152;Q16046152
+Q16049416;Q16049416
+Q16051569;Q16051569
+Q16052654;Q16052654
+Q16052713;Q16052713
+Q16068685;Doetinchem
+Q16069637;Lochem
+Q16118885;Q16118885
+Q16120028;Q16120028
+Q16121312;Q16121312
+Q16122205;Q16122205
+Q16122766;Q16122766
+Q16124238;Q16124238
+Q16220881;Nijkerk
+Q16257679;Chandpur
+Q16258125;Ortahisar
+Q16303925;Q16303925
+Q16304164;Q16304164
+Q16319265;Q16319265
+Q16319283;Zafarwal
+Q16330169;Q16330169
+Q16354966;Reps
+Q16355285;Fierzë
+Q16358899;Q16358899
+Q16371150;Q16371150
+Q16376641;Q16376641
+Q16454538;Q16454538
+Q16465942;Q16465942
+Q16482745;Alisio
+Q16483465;Antheia (Messenia)
+Q16508147;Гунди
+Q16509748;Q16509748
+Q16523298;Q16523298
+Q16526959;Al Ghuwariyah
+Q16537497;Besa
+Q16576408;Huaura
+Q16587384;La Concordia
+Q16612682;Tellenae
+Q16628307;Q16628307
+Q16645100;Q16645100
+Q16645326;Valley of the Chillos
+Q16647402;Q16647402
+Q16676721;Q16676721
+Q16727024;Yalavagi
+Q16734017;Petronia City
+Q16765057;Wiltz
+Q16846654;Imachara
+Q16890238;Chilca, Cañete
+Q16891715;Gogawan
+Q16920553;Rama
+Q16977290;Alkmaar
+Q17051166;Mastaura in Asia
+Q17055090;Hisar Urban Agglomeration
+Q17077319;Nangal Choudhary
+Q17081237;Luberizi
+Q17157092;Idrias
+Q17297395;Brinkmann
+Q17449251;Chavín de Huántar
+Q17516382;Guanape
+Q17586994;Q17586994
+Q17621594;Arisba
+Q17622961;Bolbe
+Q17627929;Coranza
+Q17991356;Q17991356
+Q18111544;Danyor
+Q18207676;Sihanoukville
+Q18351710;Maijdee
+Q18368176;Q18368176
+Q18377104;Q18377104
+Q18419392;Santa María del Oro
+Q18459276;Kurugöl
+Q18465837;Пириту
+Q18535266;Q18535266
+Q18592055;Gagnoa
+Q18654927;Q18654927
+Q18654954;Q18654954
+Q18676760;Tragilius
+Q18696315;Lissus
+Q18788784;El Carrizo
+Q18795368;Adolfo Ruiz Cortines
+Q18800799;Gabriel Leyva Solano
+Q18803101;Licenciado Benito Juárez
+Q18943508;Q18943508
+Q19343677;Bregbo
+Q19368095;Q19368095
+Q19542981;Q19542981
+Q19542984;Q19542984
+Q19598752;Q19598752
+Q19603600;Q19603600
+Q19713720;Q19713720
+Q19715112;Q19715112
+Q19716908;Sublaqueum
+Q19717047;Q19717047
+Q19718760;Rikhawdar
+Q19758976;San Sebastián
+Q19824930;Tlaxco
+Q19835573;Bockum-Hövel
+Q19850332;Hveragerði
+Q19858176;Bou Omrane
+Q19881964;Amaravati
+Q19900870;Graethem
+Q19901222;Posof
+Q19904705;Tuzla City
+Q20022186;Quillón
+Q20085842;Ефрон
+Q20085844;Ефрон
+Q20102648;Q20102648
+Q20102711;Q20102711
+Q20102718;Q20102718
+Q20102870;Q20102870
+Q20105043;Q20105043
+Q20107054;Q20107054
+Q20107757;Q20107757
+Q20107809;Carventum
+Q20107916;Q20107916
+Q20107933;Q20107933
+Q20108000;Q20108000
+Q20108068;Q20108068
+Q20108173;Q20108173
+Q20108199;Q20108199
+Q20108207;Q20108207
+Q20108209;Q20108209
+Q20108215;Q20108215
+Q20108275;Q20108275
+Q20108320;Q20108320
+Q20108326;Q20108326
+Q20108333;Q20108333
+Q20108391;Q20108391
+Q20108396;Q20108396
+Q20108409;Q20108409
+Q20108437;Q20108437
+Q20108455;Q20108455
+Q20108523;Q20108523
+Q20108531;Q20108531
+Q20108542;Q20108542
+Q20108570;Q20108570
+Q20108593;Q20108593
+Q20108619;Q20108619
+Q20108623;Q20108623
+Q20108649;Q20108649
+Q20108650;Q20108650
+Q20108651;Q20108651
+Q20108679;Q20108679
+Q20108708;Q20108708
+Q20108766;Q20108766
+Q20108893;Q20108893
+Q20108952;Q20108952
+Q20108977;Q20108977
+Q20108991;Q20108991
+Q20109049;Q20109049
+Q20109055;Q20109055
+Q20109102;Q20109102
+Q20109106;Q20109106
+Q20109123;Q20109123
+Q20204317;Huejotzingo
+Q20204353;Zacatlán
+Q20220404;Acultzingo
+Q20229329;Ciudad de Chiautla de Tapia
+Q20252359;Miguel Alemán, Hermosillo
+Q20292722;Villa Mariano Matamoros
+Q20382277;Q20382277
+Q20382484;Q20382484
+Q20390794;Q20390794
+Q20396292;Q20396292
+Q20397010;Al Bukayriyah
+Q20399771;Tasawah
+Q20404696;Q20404696
+Q20413554;Q20413554
+Q20415747;Q20415747
+Q20415874;Q20415874
+Q20417219;Bouaanan
+Q20417588;Q20417588
+Q20419412;Q20419412
+Q20423389;Q20423389
+Q20423415;Q20423415
+Q20423540;Yathrib
+Q20423959;Q20423959
+Q20464883;Vadamalapuram
+Q20483985;Q20483985
+Q20483988;Q20483988
+Q20483991;Q20483991
+Q20483994;Q20483994
+Q20484024;Q20484024
+Q20484032;Q20484032
+Q20484082;Q20484082
+Q20484171;Q20484171
+Q20484190;Q20484190
+Q20484211;Q20484211
+Q20484258;Q20484258
+Q20484369;Q20484369
+Q20484420;Q20484420
+Q20484423;Q20484423
+Q20484433;Q20484433
+Q20484436;Q20484436
+Q20484570;Q20484570
+Q20484637;Q20484637
+Q20484762;Q20484762
+Q20484859;Q20484859
+Q20484864;Q20484864
+Q20484870;Q20484870
+Q20484993;Q20484993
+Q20485010;Q20485010
+Q20485019;Q20485019
+Q20485029;Q20485029
+Q20485042;Q20485042
+Q20485073;Q20485073
+Q20485203;Q20485203
+Q20485258;Q20485258
+Q20485371;Q20485371
+Q20485381;Q20485381
+Q20485400;Q20485400
+Q20485501;Q20485501
+Q20485512;Q20485512
+Q20485544;Q20485544
+Q20485548;Q20485548
+Q20485550;Q20485550
+Q20485552;Q20485552
+Q20485660;Q20485660
+Q20485665;Q20485665
+Q20485693;Q20485693
+Q20485695;Q20485695
+Q20485731;Q20485731
+Q20485756;Q20485756
+Q20485825;Q20485825
+Q20485844;Q20485844
+Q20485881;Q20485881
+Q20485886;Q20485886
+Q20485895;Q20485895
+Q20485900;Q20485900
+Q20485939;Q20485939
+Q20485950;Q20485950
+Q20485981;Q20485981
+Q20485984;Q20485984
+Q20486033;Q20486033
+Q20486037;Q20486037
+Q20502588;Q20502588
+Q20502763;Q20502763
+Q20577232;Q20577232
+Q20584179;Q20584179
+Q20584189;Cataluña
+Q20589670;Q20589670
+Q20601279;Q20601279
+Q20620795;Q20620795
+Q20641708;Ejido Mochis
+Q20669755;Dédé-Makouba
+Q20736196;Dodhara-Chandani Municipality
+Q20809741;Tokha
+Q20809745;Nagarjun Municipality
+Q20809750;Kageshwori Manohara
+Q20809754;Chandragiri Municipality
+Q20809757;Gokarneshwor
+Q20809830;Tarakeshwor
+Q20829828;Lamki
+Q20861269;Montalvo
+Q20870856;Baba
+Q20870954;Palenque
+Q20966341;Ettelbrück
+Q20968258;Kabwe
+Q20969217;Vianden
+Q20969331;Diddeleng
+Q20976571;Adabokrom
+Q20976908;Mpohor
+Q20982437;Merawi, Ethiopia
+Q20993686;Chinderi
+Q21010221;San Telmo, Baja California
+Q21013878;Q21013878
+Q21034454;Q21034454
+Q21044453;Barahathawa Municipality
+Q21044532;Q21044532
+Q21075159;Q21075159
+Q21075306;Q21075306
+Q21076331;Q21076331
+Q21076417;Q21076417
+Q21076425;Q21076425
+Q21076437;Q21076437
+Q21076439;Q21076439
+Q21076455;Q21076455
+Q21076466;Q21076466
+Q21076480;Q21076480
+Q21076521;Q21076521
+Q21076523;Q21076523
+Q21076566;Q21076566
+Q21076567;Q21076567
+Q21076615;Amaragadhi
+Q21081228;Q21081228
+Q21087999;Burga
+Q21088353;Q21088353
+Q21088738;Q21088738
+Q21092595;Q21092595
+Q21095127;Q21095127
+Q21095147;Q21095147
+Q21095155;Q21095155
+Q21095193;Q21095193
+Q21097826;Q21097826
+Q21099418;Qastiliya
+Q21101964;Q21101964
+Q21123396;Basail
+Q21140688;Q21140688
+Q21414421;Oviedo
+Q21587147;Antipatrea
+Q21589819;Aulon
+Q21645767;Cestrina
+Q21654817;Scampis
+Q21711493;Christiania
+Q21712004;Merzifon
+Q21712896;Q21712896
+Q21746018;Bhairab Bāzār
+Q21760204;Wavre
+Q21764698;Sankt Vith
+Q21765449;Landen
+Q21765562;Leuven
+Q21765751;Mechelen
+Q21767677;Hannut
+Q21767697;Hasselt
+Q21769011;Genk
+Q21769082;Waremme
+Q21787794;Q21787794
+Q21787833;Q21787833
+Q21787866;Q21787866
+Q21788741;Q21788741
+Q21788742;Savé
+Q21790695;Q21790695
+Q21790698;Q21790698
+Q21806727;Q21806727
+Q21979688;Allenstein
+Q21994179;Kasaka LCI
+Q21995688;Anaittha
+Q22002185;Q22002185
+Q22002188;Q22002188
+Q22002189;Q22002189
+Q22002190;Amboasary
+Q22002193;Q22002193
+Q22002195;Q22002195
+Q22002196;Q22002196
+Q22002198;Q22002198
+Q22002202;Q22002202
+Q22002203;Q22002203
+Q22002204;Q22002204
+Q22002205;Q22002205
+Q22002206;Q22002206
+Q22002207;Q22002207
+Q22002208;Q22002208
+Q22002209;Q22002209
+Q22002210;Q22002210
+Q22002211;Q22002211
+Q22002212;Q22002212
+Q22002213;Q22002213
+Q22002214;Q22002214
+Q22002215;Q22002215
+Q22002216;Q22002216
+Q22002217;Q22002217
+Q22002218;Q22002218
+Q22002219;Q22002219
+Q22002220;Q22002220
+Q22002222;Q22002222
+Q22002223;Q22002223
+Q22002225;Q22002225
+Q22002226;Mahavelona
+Q22002227;Q22002227
+Q22002228;Q22002228
+Q22002229;Q22002229
+Q22002230;Q22002230
+Q22002231;Q22002231
+Q22002232;Q22002232
+Q22002233;Q22002233
+Q22002234;Q22002234
+Q22002236;Q22002236
+Q22002481;Q22002481
+Q22018317;Monteiro
+Q22035307;Q22035307
+Q22038711;Osório
+Q22064394;Turiúba
+Q22064397;Tuiuti
+Q22064399;Tremembé
+Q22064400;Trabiju
+Q22064407;Tarabai
+Q22064411;Taquaral
+Q22064413;Tapiraí
+Q22064418;Taciba
+Q22064419;Tabatinga
+Q22064499;Ribeira
+Q22065025;Tocantins
+Q22066885;Anhumas
+Q22082386;La cité du Fleuve
+Q22132450;Setganga
+Q22347637;Tarabo
+Q22350804;Peribeca
+Q22350840;Q22350840
+Q22350865;Q22350865
+Q22680674;Mbang
+Q22680860;Konye
+Q22694790;Kampar
+Q22829571;Galt
+Q22914735;Gopalpur, Tangail, Bangladesh
+Q22928906;Q22928906
+Q22929853;Q22929853
+Q22935181;Q22935181
+Q22936347;Tralles
+Q22948561;Al Shamal
+Q22961958;Q22961958
+Q22969731;Q22969731
+Q22979565;Dogbo
+Q23012947;Barndaké
+Q23012952;Bogo
+Q23012983;Dir
+Q23013006;Gobo
+Q23013009;Guere, Cameroon
+Q23013059;Martap
+Q23013060;Massock-Songloulou
+Q23013064;Meri, Cameroon
+Q23013122;Q23013122
+Q23013147;Soulédé-Roua
+Q23013165;Q23013165
+Q23013166;Widikum-Boffe
+Q23013167;Q23013167
+Q23015066;Bamenkombo
+Q23017320;Ndevana
+Q23048675;Q23048675
+Q23498650;Q23498650
+Q23498869;Q23498869
+Q23499015;Q23499015
+Q23499016;Q23499016
+Q23499058;Imesi Ile
+Q23499059;Q23499059
+Q23500605;Q23500605
+Q23649433;Coihueco
+Q23665342;Rey Bouba
+Q23682533;Santo Tomás
+Q23766515;Sann
+Q23808321;Fatehganj
+Q23808322;Faizabad Cantt
+Q23808328;Hastinganj
+Q23808330;Tarun Bazaar
+Q23808365;The Gateway of Gulmarg
+Q23808755;Kyaukhtu
+Q23835648;BABOR - VILLE
+Q23915191;Fredrikshald
+Q23929256;Q23929256
+Q23949850;Juhaynah
+Q23958347;Savar
+Q23979008;Trujillo
+Q23979439;Talavera de la Reina
+Q23982169;Nerva
+Q23984135;Melilla
+Q23986458;Hellín
+Q23986680;Carmona
+Q23992365;Q23992365
+Q23992507;Santiago de Compostela
+Q23992605;Q23992605
+Q23993047;Ripollet
+Q24001303;Esplugues de Llobregat
+Q24003614;Amposta
+Q24004465;Q24004465
+Q24007770;Q24007770
+Q24008496;Orihuela
+Q24008770;Jerez de los Caballeros
+Q24009550;Q24009550
+Q24010459;Miranda de Ebro
+Q24010572;Burgos
+Q24011926;Trebujena
+Q24012739;Getafe
+Q24013224;Úbeda
+Q24013285;Begíjar
+Q24013887;Agaete
+Q24014143;Ciudad Rodrigo
+Q24026909;Jaramijó
+Q24036336;Shimao
+Q24045719;San Ramón
+Q24049839;Rhithymna
+Q24053081;Adobha
+Q24061831;Clarkston Village Historic District
+Q24260573;Q24260573
+Q24261002;Kittrell, Texas
+Q24288527;Q24288527
+Q24882650;Nangal Kalan
+Q24887144;Shahidnagar Danda
+Q24906131;Nissing
+Q24907418;Devsar
+Q24907536;Basti Islamabad
+Q24909819;Lingshet
+Q24927921;Pahadi, Rajasthan
+Q24929370;Rithi, Katni
+Q24930608;Dadegaon
+Q24934489;Saroke
+Q24943469;Shurpali Shri Lakshmi Narasimha Temple
+Q24946388;Upalavi
+Q24949000;Kallurkot
+Q24952071;Shikar pur, Bhakkar
+Q24952263;Mullana
+Q24952482;Shankerpura
+Q25053057;Quezalapa
+Q25056931;Unwana city
+Q25110526;Nawer-Valley
+Q25230774;Wanyjok, South Sudan
+Q25247514;Lekki
+Q25247575;Lakota
+Q25247751;Sohawal
+Q25247765;Pangin
+Q25302843;Qayyarah
+Q25388051;Q25388051
+Q25388976;Upper Bayang
+Q25396900;Q25396900
+Q25397474;Q25397474
+Q25421489;Q25421489
+Q25421494;Q25421494
+Q25447117;Q25447117
+Q25461611;Q25461611
+Q25528561;Q25528561
+Q25530742;Q25530742
+Q25530748;Q25530748
+Q25530765;Q25530765
+Q25581618;Q25581618
+Q25582176;Q25582176
+Q25582178;Q25582178
+Q25582182;Q25582182
+Q25582183;Q25582183
+Q25582188;Q25582188
+Q25582190;Q25582190
+Q25582194;Q25582194
+Q25582196;Q25582196
+Q25582199;Q25582199
+Q25582203;Q25582203
+Q25582204;Q25582204
+Q25582206;Q25582206
+Q25582210;Q25582210
+Q25582222;Q25582222
+Q25582225;Q25582225
+Q25582226;Q25582226
+Q25582230;Q25582230
+Q25582232;Q25582232
+Q25582235;Q25582235
+Q25583216;Q25583216
+Q25583217;Q25583217
+Q25583220;Q25583220
+Q25583226;Q25583226
+Q25583229;Q25583229
+Q25587399;Rohanpur
+Q25590660;Q25590660
+Q25591146;Q25591146
+Q25591147;Q25591147
+Q25591189;Q25591189
+Q25591353;Q25591353
+Q25591356;Q25591356
+Q25591364;Q25591364
+Q25591391;Q25591391
+Q25591393;Q25591393
+Q25591416;Q25591416
+Q25591422;Q25591422
+Q25591430;Q25591430
+Q25591438;Q25591438
+Q25591446;Q25591446
+Q25591449;Q25591449
+Q25591451;Q25591451
+Q25591470;Q25591470
+Q25591478;Q25591478
+Q25591484;Q25591484
+Q25634166;Q25634166
+Q25661221;Te Haroto
+Q25767774;Mala, Cañete Province
+Q25768004;Paramonga, Peru
+Q25768133;Q25768133
+Q25805133;Abdon
+Q25850565;Эдер
+Q25990692;Dhingana City
+Q26233856;Q26233856
+Q26296883;Deventer
+Q26747720;Q26747720
+Q26761871;Simón Bolívar
+Q26772254;Kristiansand
+Q26772333;Stavanger
+Q26772477;Q26772477
+Q26866040;Dediapada
+Q27096933;San Lorenzo
+Q27122897;Kurayyimah
+Q27125336;Al Safi
+Q27125366;At Turrah
+Q27125371;Aydun
+Q27189578;Q27189578
+Q27480650;Q27480650
+Q27530903;Altona
+Q27541457;Q27541457
+Q27635194;Nyamasheke
+Q27784876;Galeana
+Q27910419;Durgawati
+Q27940770;Esperanza
+Q28026213;Q28026213
+Q28122652;Q28122652
+Q28153702;Agar, Madhya Pradesh
+Q28154023;Nangal Rajawatan
+Q28215083;Ticinum
+Q28221538;Maionia in Lydia
+Q28223524;Baral, Pakistan
+Q28319968;Bandol seoni
+Q28401698;Osemotor
+Q28403188;Ndi Oji Abam
+Q28445605;Abū Qurqāş
+Q28502997;Historic centre of Cusco
+Q28660543;Q28660543
+Q28682362;Q28682362
+Q28708391;Wijitapura
+Q28747858;Ghurayfah
+Q28799946;Etarea
+Q28883745;Pedro Vicente Maldonado
+Q28914824;Kerkrade
+Q28976219;Q28976219
+Q28976366;Q28976366
+Q29000726;Q29000726
+Q29001009;Al-Mashariqah
+Q29014747;Ayn al-Basha
+Q29016232;Q29016232
+Q29016242;Al-Hashimiyah
+Q29016266;Kufranjah
+Q29016316;Q29016316
+Q29057521;Diekirch
+Q29350065;Lucky Shah Sadar
+Q29512591;Al Midhatiya
+Q29575107;Segontia
+Q29828788;El Parco
+Q29956239;Sunpu
+Q30027673;Monfalcone
+Q30029393;Riva del Garda
+Q30066733;Sundar Basti
+Q30344713;Q30344713
+Q30590215;Sidi-Meskin
+Q30590864;Dongargaon, Agar Malwa
+Q30591336;Lakshipur
+Q30593336;Sudhowala
+Q30621429;Khanpur, Gujarat
+Q30622001;Bhaba Nagar
+Q30624191;Thana Khurd, Haryana
+Q30897875;Pana
+Q30944028;Q30944028
+Q31069548;Dunmurry West
+Q31193702;Q31193702
+Q31213664;Semari
+Q31455237;Q31455237
+Q31455238;Q31455238
+Q31455249;Q31455249
+Q31455252;Q31455252
+Q31455253;Q31455253
+Q31455254;Q31455254
+Q31455255;Q31455255
+Q31467408;Antwerp
+Q31513084;Santo Tomás
+Q31513590;Brugge
+Q31526356;Calabasa
+Q31555441;Tienen
+Q31558934;Tongeren
+Q31570226;Valderrama
+Q31571899;Verviers
+Q31575984;Egaña
+Q31590351;Geraardsbergen
+Q31755139;Sami, Paletwa
+Q31812078;Magallanes
+Q31812379;Maño
+Q31824038;Jodoigne
+Q31850648;Tiefo
+Q31850976;Weiji
+Q31872780;Aichach
+Q31875194;Al Mithnab
+Q31877141;Trinidad
+Q31891842;Q31891842
+Q31891847;Q31891847
+Q31891852;Q31891852
+Q31910934;Aranjuez
+Q31914172;Benoy
+Q31918779;Murcia
+Q31925653;Burg Stargard
+Q31926034;Zaragoza
+Q31997476;Erfurt
+Q32063702;Kalbe
+Q32067904;Kreisfreie Stadt Erfurt
+Q32067937;Kreisfreie Stadt Leipzig
+Q32116069;Magdeburg
+Q32189647;Nienburg
+Q32273365;Saal
+Q33019826;Q33019826
+Q33421017;Almelo
+Q33421377;Amersfoort
+Q33421878;Amstelveen
+Q33422054;Appingedam
+Q33424686;Best
+Q33427844;Büren
+Q33432813;Delft
+Q33432868;Den Helder
+Q33433503;Dordrecht
+Q33435346;Enkhuizen
+Q33439340;Gouda
+Q33444423;Helmond
+Q33456378;Leiden
+Q33461897;Meppel
+Q33467482;Nijmegen
+Q33475563;Rijswijk
+Q33482242;Schiedam
+Q33512296;Vlaardingen
+Q33512335;Vlissingen
+Q33512910;Wageningen
+Q33528284;Zoetermeer
+Q33529058;Züsow
+Q33678050;Góis
+Q35640709;Q35640709
+Q35722090;Machico
+Q35969205;Heraclea
+Q37819251;Каменный остров
+Q38298753;Q38298753
+Q38372119;Chamanki
+Q39260185;Maastricht
+Q39297398;Utrecht
+Q41794600;Q41794600
+Q41795540;The Hague
+Q41876951;Q41876951
+Q42109661;Bengal Vinto
+Q42271976;Q42271976
+Q42316051;Baala
+Q42328401;Tromsø
+Q42555003;Q42555003
+Q42555300;Q42555300
+Q42592114;Pachacútec City Special Project
+Q42900680;Ålesund
+Q43212685;Q43212685
+Q43212781;Q43212781
+Q43397658;Q43397658
+Q46187190;Uscana
+Q46451010;Tientsin
+Q47015368;Q47015368
+Q47037646;Wellington City
+Q47045330;Достлук
+Q47045335;Saparmyrat Türkmenbaşy
+Q47146007;Mukden
+Q47227519;Q47227519
+Q48724908;Kandikuppam
+Q48728445;Talwandi Bhindran
+Q48731532;Warangal Tri-City
+Q48733876;Chhanera
+Q48770924;Buari
+Q49277802;Köthen
+Q49279284;Q49279284
+Q49280467;Arnhem
+Q49280472;Assen
+Q49364945;Sahline
+Q49371613;Zana
+Q49371956;Skanes
+Q49403792;Ngornu
+Q49755148;Q49755148
+Q50293544;18 мая
+Q50347614;Maxville
+Q50358912;Mangina
+Q51338366;Kabara, Mali
+Q51389725;Namur
+Q51462855;Tournai
+Q51885230;Q51885230
+Q52153735;Heronem Trebirorum
+Q53314634;Q53314634
+Q54888161;Q54888161
+Q55048249;Tejo
+Q55144231;Q55144231
+Q55232742;Q55232742
+Q55232749;Q55232749
+Q55232758;Q55232758
+Q55232761;Q55232761
+Q55232766;Jhalokati
+Q55232769;Q55232769
+Q55232773;Q55232773
+Q55232777;Q55232777
+Q55232781;Q55232781
+Q55232785;Q55232785
+Q55232792;Q55232792
+Q55232795;Q55232795
+Q55232798;Q55232798
+Q55232808;Q55232808
+Q55232811;Q55232811
+Q55232814;Q55232814
+Q55440278;Dunkirk
+Q55608706;Cusae
+Q55615961;Khushalpur
+Q55616318;Kwale, Nigeria
+Q55630059;Pirangut
+Q55695431;Ávila
+Q55725085;Aladağ
+Q55868696;Teruel
+Q55893348;Sevilla
+Q55990972;Guadalajara
+Q56077649;Piracicaba
+Q56121478;Soria
+Q56241563;Ciudad Real
+Q56244320;Q56244320
+Q56244324;Q56244324
+Q56250654;Palencia
+Q56271982;Q56271982
+Q56273711;County-administered city
+Q56274303;Bouroum-Bouroum
+Q56291123;Old Neredmet Village
+Q56293133;Q56293133
+Q56301283;Q56301283
+Q56301285;Q56301285
+Q56302707;Miziling
+Q56376612;Q56376612
+Q57079173;Makale
+Q57419548;Q57419548
+Q58085822;Q58085822
+Q58900830;Bolax (Elis)
+Q58902279;Styllangium
+Q59985053;Q59985053
+Q59987223;Q59987223
+Q60054250;Q60054250
+Q60213117;Q60213117
+Q60577104;Q60577104
+Q60848484;Q60848484
+Q61105288;Q61105288
+Q61941883;İske Qazan
+Q61963154;Cuenca
+Q62789749;Q62789749
+Q63884249;Q63884249
+Q64523396;Q64523396
+Q64697794;Q64697794
+Q64769073;Gayéri
+Q64822404;European Green Capital
+Q65088955;Triopium
+Q65212614;Q65212614
+Q65307495;Mary Geoise
+Q65309550;Q65309550
+Q65680125;Q65680125
+Q66336728;Antiochia ad Sarum
+Q66364704;Blankaartkasteel
+Q66426746;Durbete
+Q66539301;Q66539301
+Q66644816;Q66644816
+Q66747528;Boryza
+Q67168350;Q67168350
+Q67216811;Onoguris
+Q68012046;Kapelhoek
+Q68457857;Kaliakair
+Q69744338;Q69744338
+Q69744376;Q69744376
+Q69744429;Q69744429
+Q70321467;Q70321467
+Q72861632;Q72861632
+Q73042984;Цхалтубо
+Q76993019;Gedera
+Q78745614;Q78745614
+Q78763453;Q78763453
+Q80092742;Pyli (Kos)
+Q81923050;Sergiopolis
+Q81970326;Yangcheng
+Q83184814;Q83184814
+Q84779307;Bulayïq
+Q84794369;Huarin
+Q84907516;Q84907516
+Q84908318;Q84908318
+Q85098690;Djoliba
+Q85635706;Q85635706

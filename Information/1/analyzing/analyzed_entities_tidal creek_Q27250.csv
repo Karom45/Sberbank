@@ -1,0 +1,260 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q113665;Purrenstrom;государство;1;1;from
+Q15731984;Osterley;это частный случай понятия;1;1;from
+Q7568316;South River;государство;1;1;from
+Q7568316;South River;это частный случай понятия;1;1;from
+Q7568316;South River;код GeoNames;1;1;from
+Q7568316;South River;код GNIS;1;1;from
+Q7568316;South River;географические координаты;1;2;from
+Q14920572;Muncy Creek;административно-территориальная единица;1;2;from
+Q14920572;Muncy Creek;государство;1;1;from
+Q14920572;Muncy Creek;изображение;1;1;from
+Q14920572;Muncy Creek;это частный случай понятия;1;1;from
+Q14920572;Muncy Creek;код GeoNames;1;1;from
+Q14920572;Muncy Creek;категория на Викискладе;1;1;from
+Q14920572;Muncy Creek;впадает в;1;2;to
+Q14920572;Muncy Creek;водосборный бассейн;1;1;from
+Q14920572;Muncy Creek;географические координаты;1;2;from
+Q14920572;Muncy Creek;приток;1;1;to
+Q14920572;Muncy Creek;находится на берегу водоёма;1;1;to
+Q14920572;Muncy Creek;проходит над/под;1;1;to
+Q15244088;Malad Creek;административно-территориальная единица;1;1;from
+Q15244088;Malad Creek;государство;1;1;from
+Q15244088;Malad Creek;это частный случай понятия;1;1;from
+Q15244088;Malad Creek;код GeoNames;1;1;from
+Q15244088;Malad Creek;географические координаты;1;1;from
+Q15731983;Eidumtief;административно-территориальная единица;1;1;from
+Q15731983;Eidumtief;государство;1;1;from
+Q15731983;Eidumtief;это частный случай понятия;1;1;from
+Q15731983;Eidumtief;код GeoNames;1;1;from
+Q15731983;Eidumtief;код GNS;1;1;from
+Q15731983;Eidumtief;географические координаты;1;1;from
+Q15731983;Eidumtief;находится в пределах природно-географического объекта;1;1;from
+Q7230819;Port Navas Creek;географические координаты;1;1;from
+Q7230819;Port Navas Creek;это частный случай понятия;1;1;from
+Q7230819;Port Navas Creek;государство;1;1;from
+Q6751433;Manori Creek;код GeoNames;1;1;from
+Q5316023;Duplin River;впадает в;1;1;from
+Q5316023;Duplin River;код GNIS;1;1;from
+Q5316023;Duplin River;географические координаты;1;1;from
+Q5685678;Hawtree Creek;административно-территориальная единица;1;1;from
+Q5685678;Hawtree Creek;государство;1;1;from
+Q5685678;Hawtree Creek;это частный случай понятия;1;1;from
+Q5685678;Hawtree Creek;географические координаты;1;1;from
+Q6734973;Mahul Creek;государство;1;1;from
+Q6734973;Mahul Creek;это частный случай понятия;1;1;from
+Q6734973;Mahul Creek;код GeoNames;1;1;from
+Q6734973;Mahul Creek;географические координаты;1;1;from
+Q6751433;Manori Creek;государство;1;1;from
+Q6751433;Manori Creek;это частный случай понятия;1;1;from
+Q6751433;Manori Creek;географические координаты;1;1;from
+Q7166570;Pequea Creek;находится на берегу водоёма;1;8;to
+Q7056502;North River;государство;1;1;from
+Q7056502;North River;это частный случай понятия;1;1;from
+Q7056502;North River;код GeoNames;1;1;from
+Q7056502;North River;код GNIS;1;1;from
+Q7056502;North River;географические координаты;1;2;from
+Q7166570;Pequea Creek;административно-территориальная единица;1;1;from
+Q7166570;Pequea Creek;государство;1;1;from
+Q7166570;Pequea Creek;это частный случай понятия;1;1;from
+Q7166570;Pequea Creek;впадает в;1;1;to
+Q7166570;Pequea Creek;водосборный бассейн;1;1;from
+Q7166570;Pequea Creek;географические координаты;1;1;from
+Q7166570;Pequea Creek;приток;1;1;to
+Q7166570;Pequea Creek;проходит над/под;1;7;to
+Q15731984;Osterley;государство;1;1;from
+Q15731984;Osterley;впадает в;1;1;from
+Q5316023;Duplin River;это частный случай понятия;1;1;from
+Q15731984;Osterley;географические координаты;1;1;from
+Q23795162;Estero Jobabo;государство;1;1;from
+Q23795162;Estero Jobabo;это частный случай понятия;1;1;from
+Q23795162;Estero Jobabo;код GeoNames;1;1;from
+Q23795162;Estero Jobabo;высота над уровнем моря;1;1;from
+Q23795162;Estero Jobabo;код GNS;1;1;from
+Q23795162;Estero Jobabo;географические координаты;1;1;from
+Q23797334;Estero Cunugunú;административно-территориальная единица;1;1;from
+Q23797334;Estero Cunugunú;государство;1;1;from
+Q23797334;Estero Cunugunú;это частный случай понятия;1;1;from
+Q23797334;Estero Cunugunú;код GeoNames;1;1;from
+Q23797334;Estero Cunugunú;код GNS;1;1;from
+Q23797334;Estero Cunugunú;географические координаты;1;1;from
+Q34642280;Betts Creek;административно-территориальная единица;1;1;from
+Q34642280;Betts Creek;государство;1;1;from
+Q34642280;Betts Creek;это частный случай понятия;1;1;from
+Q34642280;Betts Creek;код GeoNames;1;1;from
+Q34642280;Betts Creek;высота над уровнем моря;1;1;from
+Q34642280;Betts Creek;код GNIS;1;1;from
+Q34642280;Betts Creek;географические координаты;1;1;from
+Q34645769;Bridge Creek;административно-территориальная единица;1;1;from
+Q34645769;Bridge Creek;государство;1;1;from
+Q34645769;Bridge Creek;это частный случай понятия;1;1;from
+Q34645769;Bridge Creek;код GeoNames;1;1;from
+Q34645769;Bridge Creek;высота над уровнем моря;1;1;from
+Q34645769;Bridge Creek;код GNIS;1;1;from
+Q34645769;Bridge Creek;географические координаты;1;1;from
+Q41576010;Kaiserbalje;административно-территориальная единица;1;1;from
+Q41576010;Kaiserbalje;государство;1;1;from
+Q41576010;Kaiserbalje;это частный случай понятия;1;2;from
+Q23795162;Estero Jobabo;административно-территориальная единица;1;1;from
+Q21079258;Stierskreek;исток водотока;1;1;to
+Q21079258;Stierskreek;географические координаты;1;1;from
+Q15782968;Amrumtief;код GeoNames;1;1;from
+Q15731984;Osterley;находится в пределах природно-географического объекта;1;1;from
+Q15731984;Osterley;приток;1;1;to
+Q15731986;Vortrapptief;государство;1;1;from
+Q15731986;Vortrapptief;это частный случай понятия;1;1;from
+Q15731986;Vortrapptief;географические координаты;1;1;from
+Q15731986;Vortrapptief;находится в пределах природно-географического объекта;1;1;from
+Q15731987;Westerley;государство;1;1;from
+Q15731987;Westerley;это частный случай понятия;1;1;from
+Q15731987;Westerley;географические координаты;1;1;from
+Q15731987;Westerley;находится в пределах природно-географического объекта;1;1;from
+Q15782968;Amrumtief;административно-территориальная единица;1;1;from
+Q15782968;Amrumtief;государство;1;1;from
+Q15782968;Amrumtief;это частный случай понятия;1;1;from
+Q15782968;Amrumtief;код GNS;1;1;from
+Q21079258;Stierskreek;это частный случай понятия;1;1;from
+Q15782968;Amrumtief;географические координаты;1;1;from
+Q19884269;Q19884269;административно-территориальная единица;1;1;from
+Q19884269;Q19884269;государство;1;1;from
+Q19884269;Q19884269;это частный случай понятия;1;1;from
+Q19884269;Q19884269;географические координаты;1;1;from
+Q19915286;Q19915286;административно-территориальная единица;1;2;from
+Q19915286;Q19915286;государство;1;1;from
+Q19915286;Q19915286;изображение;1;1;from
+Q19915286;Q19915286;это частный случай понятия;1;1;from
+Q19915286;Q19915286;географические координаты;1;1;from
+Q20403520;Khor as Subiya;это частный случай понятия;1;1;from
+Q21079258;Stierskreek;административно-территориальная единица;1;1;from
+Q21079258;Stierskreek;государство;1;1;from
+Q5316023;Duplin River;код GeoNames;1;1;from
+Q5316023;Duplin River;изображение;1;1;from
+Q113665;Purrenstrom;это частный случай понятия;1;1;from
+Q4731299;Allegheny Creek;это частный случай понятия;1;1;from
+Q2096728;Boerekreek;административно-территориальная единица;1;1;from
+Q2096728;Boerekreek;государство;1;1;from
+Q2096728;Boerekreek;это частный случай понятия;1;2;from
+Q2096728;Boerekreek;категория на Викискладе;1;1;from
+Q2096728;Boerekreek;географические координаты;1;1;from
+Q2096728;Boerekreek;находится в пределах природно-географического объекта;1;1;from
+Q2146839;Lapscheurse Gat;административно-территориальная единица;1;2;from
+Q2146839;Lapscheurse Gat;государство;1;2;from
+Q2146839;Lapscheurse Gat;изображение;1;1;from
+Q2146839;Lapscheurse Gat;это частный случай понятия;1;2;from
+Q2146839;Lapscheurse Gat;впадает в;1;1;to
+Q2146839;Lapscheurse Gat;дата основания/создания/возникновения;1;1;from
+Q2146839;Lapscheurse Gat;момент времени;1;1;from
+Q2146839;Lapscheurse Gat;географические координаты;1;1;from
+Q2146839;Lapscheurse Gat;исток водотока;1;1;from
+Q2146839;Lapscheurse Gat;приток;1;1;to
+Q2146839;Lapscheurse Gat;находится на берегу водоёма;1;1;to
+Q2641027;Q2641027;государство;1;1;from
+Q2641027;Q2641027;это частный случай понятия;1;1;from
+Q2641027;Q2641027;находится в охранной зоне;1;1;from
+Q2722907;Kori Creek;административно-территориальная единица;1;1;from
+Q2722907;Kori Creek;государство;1;1;from
+Q2722907;Kori Creek;это частный случай понятия;1;1;from
+Q2722907;Kori Creek;код GeoNames;1;1;from
+Q2722907;Kori Creek;географические координаты;1;1;from
+Q4677755;Q4677755;государство;1;1;from
+Q4677755;Q4677755;это частный случай понятия;1;1;from
+Q4677755;Q4677755;местонахождение;1;1;from
+Q4731299;Allegheny Creek;административно-территориальная единица;1;1;from
+Q2092639;Q2092639;географические координаты;1;1;from
+Q2092639;Q2092639;это частный случай понятия;1;1;from
+Q2092639;Q2092639;изображение;1;1;from
+Q575145;Antietam Creek;код Freebase;1;1;from
+Q113665;Purrenstrom;код GeoNames;1;1;from
+Q113665;Purrenstrom;географические координаты;1;1;from
+Q575145;Antietam Creek;административно-территориальная единица;1;2;from
+Q575145;Antietam Creek;государство;1;1;from
+Q575145;Antietam Creek;изображение;1;1;from
+Q575145;Antietam Creek;код LCNAF;1;1;from
+Q575145;Antietam Creek;это частный случай понятия;1;1;from
+Q575145;Antietam Creek;описывается в источниках;1;1;from
+Q575145;Antietam Creek;длина;1;1;from
+Q575145;Antietam Creek;площадь бассейна;1;1;from
+Q575145;Antietam Creek;впадает в;1;1;from
+Q575145;Antietam Creek;водосборный бассейн;1;1;from
+Q575145;Antietam Creek;географические координаты;1;1;from
+Q575145;Antietam Creek;названо в честь;1;1;to
+Q2092639;Q2092639;государство;1;1;from
+Q575145;Antietam Creek;приток;1;1;to
+Q575145;Antietam Creek;основная тема;1;1;to
+Q575145;Antietam Creek;проходит над/под;1;1;to
+Q1453863;Q1453863;административно-территориальная единица;1;1;from
+Q1453863;Q1453863;государство;1;1;from
+Q1453863;Q1453863;это частный случай понятия;1;2;from
+Q1453863;Q1453863;географические координаты;1;1;from
+Q1649829;Q1649829;государство;1;1;from
+Q1649829;Q1649829;это частный случай понятия;1;1;from
+Q1649829;Q1649829;впадает в;1;1;to
+Q1649829;Q1649829;географические координаты;1;1;from
+Q1649829;Q1649829;находится в пределах природно-географического объекта;1;1;from
+Q1649829;Q1649829;приток;1;1;to
+Q4731299;Allegheny Creek;государство;1;1;from
+Q4731299;Allegheny Creek;впадает в;1;1;from
+Q5316023;Duplin River;государство;1;1;from
+Q4731299;Allegheny Creek;водосборный бассейн;1;1;from
+Q4782780;Aquashicola Creek;приток;1;1;to
+Q4782780;Aquashicola Creek;проходит над/под;1;1;to
+Q4905070;Big Beaver Creek;административно-территориальная единица;1;1;from
+Q4905070;Big Beaver Creek;государство;1;1;from
+Q4905070;Big Beaver Creek;это частный случай понятия;1;1;from
+Q4905070;Big Beaver Creek;код TGN;1;1;from
+Q4905070;Big Beaver Creek;впадает в;1;1;from
+Q4905070;Big Beaver Creek;водосборный бассейн;1;1;from
+Q4905070;Big Beaver Creek;географические координаты;1;1;from
+Q4905070;Big Beaver Creek;приток;1;1;to
+Q4906658;Big Wapwallopen Creek;административно-территориальная единица;1;1;from
+Q4906658;Big Wapwallopen Creek;государство;1;1;from
+Q4906658;Big Wapwallopen Creek;изображение;1;1;from
+Q4906658;Big Wapwallopen Creek;это частный случай понятия;1;1;from
+Q4906658;Big Wapwallopen Creek;число Стралера;1;1;from
+Q4906658;Big Wapwallopen Creek;код GeoNames;1;1;from
+Q4906658;Big Wapwallopen Creek;длина;1;1;from
+Q4906658;Big Wapwallopen Creek;площадь бассейна;1;1;from
+Q4906658;Big Wapwallopen Creek;впадает в;1;3;to
+Q4906658;Big Wapwallopen Creek;водосборный бассейн;1;1;from
+Q4906658;Big Wapwallopen Creek;географические координаты;1;2;from
+Q4906658;Big Wapwallopen Creek;приток;1;1;to
+Q5184417;Crescent River;административно-территориальная единица;1;1;from
+Q5184417;Crescent River;государство;1;1;from
+Q5184417;Crescent River;это частный случай понятия;1;1;from
+Q5184417;Crescent River;код GeoNames;1;1;from
+Q5184417;Crescent River;код GNIS;1;1;from
+Q5184417;Crescent River;географические координаты;1;2;from
+Q5316023;Duplin River;административно-территориальная единица;1;1;from
+Q4782780;Aquashicola Creek;географические координаты;1;1;from
+Q4782780;Aquashicola Creek;водосборный бассейн;1;1;from
+Q4782780;Aquashicola Creek;впадает в;1;1;to
+Q4762660;Angelica Creek;водосборный бассейн;1;1;from
+Q4731299;Allegheny Creek;географические координаты;1;1;from
+Q4731299;Allegheny Creek;приток;1;1;to
+Q4754050;Anderson Creek;административно-территориальная единица;1;1;from
+Q4754050;Anderson Creek;государство;1;1;from
+Q4754050;Anderson Creek;это частный случай понятия;1;1;from
+Q4754050;Anderson Creek;впадает в;1;1;from
+Q4754050;Anderson Creek;водосборный бассейн;1;1;from
+Q4754050;Anderson Creek;приток;1;1;to
+Q4762660;Angelica Creek;административно-территориальная единица;1;1;from
+Q4762660;Angelica Creek;государство;1;1;from
+Q4762660;Angelica Creek;это частный случай понятия;1;1;from
+Q4762660;Angelica Creek;код GeoNames;1;1;from
+Q4762660;Angelica Creek;впадает в;1;1;from
+Q4762660;Angelica Creek;географические координаты;1;1;from
+Q4782780;Aquashicola Creek;код GeoNames;1;1;from
+Q4762660;Angelica Creek;приток;1;1;to
+Q4774712;Antietam Creek;административно-территориальная единица;1;1;from
+Q4774712;Antietam Creek;государство;1;1;from
+Q4774712;Antietam Creek;это частный случай понятия;1;1;from
+Q4774712;Antietam Creek;впадает в;1;1;from
+Q4774712;Antietam Creek;водосборный бассейн;1;1;from
+Q4774712;Antietam Creek;географические координаты;1;1;from
+Q4774712;Antietam Creek;впадающие в озеро реки;1;1;to
+Q4774712;Antietam Creek;вытекающие из озера реки;1;1;to
+Q4774712;Antietam Creek;приток;1;1;to
+Q4782780;Aquashicola Creek;административно-территориальная единица;1;1;from
+Q4782780;Aquashicola Creek;государство;1;1;from
+Q4782780;Aquashicola Creek;это частный случай понятия;1;1;from
+Q41576010;Kaiserbalje;географические координаты;1;1;from

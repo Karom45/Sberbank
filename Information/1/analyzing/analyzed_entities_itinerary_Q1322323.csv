@@ -1,0 +1,709 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q26713067;Q26713067;государство;1;1;from
+Q3997961;Tratturo L'Aquila-Foggia;категория на Викискладе;1;1;from
+Q4210678;Кама;дата основания/создания/возникновения;1;1;from
+Q4210678;Кама;дата прекращения существования;1;1;from
+Q4331472;Q4331472;это частный случай понятия;1;1;from
+Q4384802;Пушкинское кольцо Верхневолжья;государство;1;1;from
+Q4384802;Пушкинское кольцо Верхневолжья;это частный случай понятия;1;1;from
+Q4991490;Q4991490;государство;1;1;from
+Q4991490;Q4991490;это частный случай понятия;1;1;from
+Q4991490;Q4991490;эра;1;1;from
+Q5026788;Camino de los chilenos;государство;1;1;from
+Q5026788;Camino de los chilenos;это частный случай понятия;1;1;from
+Q5026788;Camino de los chilenos;местонахождение;1;1;from
+Q5484928;Ruta del Alba;государство;1;1;from
+Q5484928;Ruta del Alba;это частный случай понятия;1;1;from
+Q5495107;Vitoria's Green Ring;административно-территориальная единица;1;1;from
+Q5495107;Vitoria's Green Ring;государство;1;1;from
+Q5495107;Vitoria's Green Ring;изображение;1;1;from
+Q5495107;Vitoria's Green Ring;это частный случай понятия;1;2;from
+Q5753507;Q5753507;государство;1;1;from
+Q5753507;Q5753507;это частный случай понятия;1;1;from
+Q4210678;Кама;это частный случай понятия;1;3;from
+Q4210678;Кама;государство;1;1;from
+Q3997967;Tratturo Sant'Andrea-Biferno;это частный случай понятия;1;1;from
+Q3997965;Tratturo Melfi-Castellaneta;это частный случай понятия;1;1;from
+Q3997962;Tratturo Lanciano-Cupello;государство;1;1;from
+Q3997962;Tratturo Lanciano-Cupello;это частный случай понятия;1;1;from
+Q3997963;Lucera-Castel di Sangro path;административно-территориальная единица;1;3;from
+Q3997963;Lucera-Castel di Sangro path;государство;1;1;from
+Q3997963;Lucera-Castel di Sangro path;изображение;1;1;from
+Q3997963;Lucera-Castel di Sangro path;это частный случай понятия;1;1;from
+Q3997965;Tratturo Melfi-Castellaneta;административно-территориальная единица;1;1;from
+Q3997965;Tratturo Melfi-Castellaneta;государство;1;1;from
+Q3997966;Tratturo Pescasseroli-Candela;административно-территориальная единица;1;4;from
+Q3997967;Tratturo Sant'Andrea-Biferno;государство;1;1;from
+Q3997966;Tratturo Pescasseroli-Candela;карта этой дороги;1;1;from
+Q3997966;Tratturo Pescasseroli-Candela;государство;1;1;from
+Q3997966;Tratturo Pescasseroli-Candela;изображение;1;1;from
+Q3997966;Tratturo Pescasseroli-Candela;это частный случай понятия;1;1;from
+Q3997966;Tratturo Pescasseroli-Candela;длина;1;1;from
+Q3997966;Tratturo Pescasseroli-Candela;категория на Викискладе;1;1;from
+Q3997966;Tratturo Pescasseroli-Candela;код Freebase;1;1;from
+Q3997967;Tratturo Sant'Andrea-Biferno;административно-территориальная единица;1;1;from
+Q5753507;Q5753507;часть от;1;1;from
+Q5789154;Q5789154;административно-территориальная единица;1;1;from
+Q5789154;Q5789154;государство;1;1;from
+Q5924300;Q5924300;используется как/для/в;1;1;from
+Q5893866;Q5893866;указания, как добраться;1;1;from
+Q5893866;Q5893866;используется как/для/в;1;1;from
+Q5924300;Q5924300;административно-территориальная единица;1;2;from
+Q5924300;Q5924300;государство;1;1;from
+Q5924300;Q5924300;это частный случай понятия;1;1;from
+Q5924300;Q5924300;код в регистре Национального наследия Ирана;1;1;from
+Q5924300;Q5924300;статус наследия;1;2;from
+Q5924300;Q5924300;указания, как добраться;1;1;from
+Q6114410;Q6114410;государство;1;1;from
+Q5893866;Q5893866;статус наследия;1;2;from
+Q6114410;Q6114410;изображение;1;1;from
+Q6114410;Q6114410;это частный случай понятия;1;1;from
+Q6114410;Q6114410;ID отношения в OpenStreetMap;1;1;from
+Q6114410;Q6114410;официальный сайт;1;1;from
+Q6114478;Q6114478;государство;1;1;from
+Q6114478;Q6114478;это частный случай понятия;1;1;from
+Q6161808;Q6161808;государство;1;1;from
+Q6161808;Q6161808;это частный случай понятия;1;2;from
+Q5893866;Q5893866;местонахождение;1;1;from
+Q5893866;Q5893866;код в регистре Национального наследия Ирана;1;1;from
+Q5789154;Q5789154;это частный случай понятия;1;1;from
+Q5875289;Q5875289;используется как/для/в;1;1;from
+Q5789154;Q5789154;часть от;1;1;from
+Q5789154;Q5789154;состоит из;1;1;to
+Q5875289;Q5875289;административно-территориальная единица;1;2;from
+Q5875289;Q5875289;государство;1;1;from
+Q5875289;Q5875289;это частный случай понятия;1;1;from
+Q5875289;Q5875289;код в регистре Национального наследия Ирана;1;1;from
+Q5875289;Q5875289;статус наследия;1;2;from
+Q5875289;Q5875289;указания, как добраться;1;1;from
+Q5890964;Q5890964;административно-территориальная единица;1;1;from
+Q5893866;Q5893866;это частный случай понятия;1;1;from
+Q5890964;Q5890964;государство;1;1;from
+Q5890964;Q5890964;это частный случай понятия;1;1;from
+Q5890964;Q5890964;код в регистре Национального наследия Ирана;1;1;from
+Q5890964;Q5890964;статус наследия;1;2;from
+Q5890964;Q5890964;указания, как добраться;1;1;from
+Q5890964;Q5890964;используется как/для/в;1;1;from
+Q5893866;Q5893866;административно-территориальная единица;1;2;from
+Q5893866;Q5893866;государство;1;1;from
+Q3997962;Tratturo Lanciano-Cupello;административно-территориальная единица;1;1;from
+Q3997961;Tratturo L'Aquila-Foggia;это частный случай понятия;1;1;from
+Q26713067;Q26713067;это частный случай понятия;1;1;from
+Q3997961;Tratturo L'Aquila-Foggia;изображение;1;1;from
+Q2274548;Aragonese Way;код Freebase;1;1;from
+Q2274548;Aragonese Way;идентификатор Bien de Interés Cultural;1;1;from
+Q2274548;Aragonese Way;основная категория по теме;1;1;from
+Q2274548;Aragonese Way;соединяется с;1;1;to
+Q2274548;Aragonese Way;общая тема категории;1;1;to
+Q2491449;Royal Road;административно-территориальная единица;1;1;from
+Q2491449;Royal Road;государство;1;1;from
+Q2491449;Royal Road;изображение;1;1;from
+Q2491449;Royal Road;это частный случай понятия;1;1;from
+Q2491449;Royal Road;код Freebase;1;1;from
+Q2531875;Q2531875;государство;1;1;from
+Q2531875;Q2531875;это частный случай понятия;1;1;from
+Q2683763;Q2683763;это частный случай понятия;1;1;from
+Q2775399;Zesstedenweg;административно-территориальная единица;1;1;from
+Q2775399;Zesstedenweg;государство;1;1;from
+Q2775399;Zesstedenweg;это частный случай понятия;1;1;from
+Q2962285;Q2962285;административно-территориальная единица;1;2;from
+Q2962285;Q2962285;названо в честь;1;1;from
+Q2962285;Q2962285;государство;1;1;from
+Q2274548;Aragonese Way;категория на Викискладе;1;1;from
+Q2274548;Aragonese Way;часть от;1;125;to
+Q2274548;Aragonese Way;пиктограмма;1;1;from
+Q1805430;Q1805430;это частный случай понятия;1;1;from
+Q1483227;Q1483227;это частный случай понятия;1;2;from
+Q1483227;Q1483227;статус наследия;1;1;from
+Q1483227;Q1483227;соединяется с;1;1;from
+Q1483227;Q1483227;расположение конечной точки;1;1;from
+Q1483227;Q1483227;основная категория по теме;1;1;from
+Q1528833;Crossing the Alps;это частный случай понятия;1;1;from
+Q1528833;Crossing the Alps;подкласс от;1;1;to
+Q1528833;Crossing the Alps;основная тема;1;1;to
+Q2054011;Schelde-Rijnverbinding;государство;1;2;from
+Q2274548;Aragonese Way;пункт назначения;1;1;from
+Q2054011;Schelde-Rijnverbinding;это частный случай понятия;1;1;from
+Q2054011;Schelde-Rijnverbinding;архивы хранятся в;1;1;from
+Q2274548;Aragonese Way;административно-территориальная единица;1;2;from
+Q2274548;Aragonese Way;государство;1;1;from
+Q2274548;Aragonese Way;изображение;1;1;from
+Q2274548;Aragonese Way;это частный случай понятия;1;3;from
+Q2274548;Aragonese Way;начало пути;1;1;from
+Q2274548;Aragonese Way;статус наследия;1;2;from
+Q2962285;Q2962285;изображение;1;1;from
+Q2962285;Q2962285;это частный случай понятия;1;1;from
+Q2962285;Q2962285;статус наследия;1;1;from
+Q3997958;Tratturo Centurelle-Montesecco;это частный случай понятия;1;1;from
+Q3997956;Tratturo Barletta-Grumo;это частный случай понятия;1;1;from
+Q3997957;Tratturo Celano-Foggia;административно-территориальная единица;1;3;from
+Q3997957;Tratturo Celano-Foggia;государство;1;1;from
+Q3997957;Tratturo Celano-Foggia;изображение;1;1;from
+Q3997957;Tratturo Celano-Foggia;это частный случай понятия;1;1;from
+Q3997958;Tratturo Centurelle-Montesecco;административно-территориальная единица;1;3;from
+Q3997958;Tratturo Centurelle-Montesecco;государство;1;1;from
+Q3997958;Tratturo Centurelle-Montesecco;изображение;1;1;from
+Q3997958;Tratturo Centurelle-Montesecco;код в Google Knowledge Graph;1;1;from
+Q3997956;Tratturo Barletta-Grumo;административно-территориальная единица;1;1;from
+Q3997959;Tratturo Foggia-Campolato;административно-территориальная единица;1;1;from
+Q3997959;Tratturo Foggia-Campolato;государство;1;1;from
+Q3997959;Tratturo Foggia-Campolato;это частный случай понятия;1;1;from
+Q3997960;Tratturo Foggia-Ofanto;административно-территориальная единица;1;1;from
+Q3997960;Tratturo Foggia-Ofanto;государство;1;1;from
+Q3997960;Tratturo Foggia-Ofanto;это частный случай понятия;1;1;from
+Q3997961;Tratturo L'Aquila-Foggia;административно-территориальная единица;1;3;from
+Q3997961;Tratturo L'Aquila-Foggia;государство;1;1;from
+Q3997956;Tratturo Barletta-Grumo;государство;1;1;from
+Q3997955;Tratturo Ateleta-Biferno;это частный случай понятия;1;1;from
+Q2962285;Q2962285;находится в охранной зоне;1;1;from
+Q3279064;Woold Homé;это частный случай понятия;1;1;from
+Q2962285;Q2962285;код TripAdvisor;1;1;from
+Q2962285;Q2962285;категория на Викискладе;1;1;from
+Q2962285;Q2962285;код Mérimée;1;1;from
+Q2962285;Q2962285;Michelin Voyages ID;1;1;from
+Q2962285;Q2962285;горный хребет;1;1;from
+Q2962285;Q2962285;географические координаты;1;1;from
+Q3142343;Q3142343;это частный случай понятия;1;1;from
+Q3279064;Woold Homé;государство;1;1;from
+Q3279064;Woold Homé;статус наследия;1;5;from
+Q3997955;Tratturo Ateleta-Biferno;государство;1;1;from
+Q3279064;Woold Homé;критерий Всемирного наследия;1;3;from
+Q3279064;Woold Homé;код в Предварительном списке Всемирного наследия;1;1;from
+Q3279064;Woold Homé;географические координаты;1;1;from
+Q3804530;Sigeric's itinerary;государство;1;4;from
+Q3804530;Sigeric's itinerary;это частный случай понятия;1;1;from
+Q3804530;Sigeric's itinerary;основная категория по теме;1;1;from
+Q3804530;Sigeric's itinerary;общая тема категории;1;1;to
+Q3997955;Tratturo Ateleta-Biferno;административно-территориальная единица;1;2;from
+Q6161808;Q6161808;часть от;1;1;from
+Q6161808;Q6161808;ID отношения в OpenStreetMap;1;1;from
+Q6174394;Eastern exodus;государство;1;1;from
+Q6174394;Eastern exodus;изображение;1;1;from
+Q20106697;Ruta dels Orígens;изображение;1;1;from
+Q20106697;Ruta dels Orígens;это частный случай понятия;1;1;from
+Q20106697;Ruta dels Orígens;географические координаты;1;1;from
+Q20106697;Ruta dels Orígens;официальный сайт;1;1;from
+Q20826907;Arno Trail;административно-территориальная единица;1;1;from
+Q20826907;Arno Trail;государство;1;1;from
+Q20826907;Arno Trail;это частный случай понятия;1;3;from
+Q20826907;Arno Trail;начало пути;1;1;from
+Q20826907;Arno Trail;длина;1;1;from
+Q20826907;Arno Trail;в точности соответствует;1;1;from
+Q20826907;Arno Trail;наивысшая точка;1;1;from
+Q20826907;Arno Trail;код Freebase;1;1;from
+Q21182220;Q21182220;административно-территориальная единица;1;1;from
+Q21182220;Q21182220;государство;1;1;from
+Q21182220;Q21182220;это частный случай понятия;1;1;from
+Q21182220;Q21182220;баннер Викигида;1;1;from
+Q22693213;Panorama on the mountains and lakes in Esino Lario;это частный случай понятия;1;1;from
+Q22969923;Q22969923;административно-территориальная единица;1;1;from
+Q22969923;Q22969923;государство;1;1;from
+Q20106697;Ruta dels Orígens;государство;1;2;from
+Q20106697;Ruta dels Orígens;административно-территориальная единица;1;1;from
+Q20103955;Estels del Sud;географические координаты;1;1;from
+Q20063888;Taiwan Cycling Route No.1;государство;1;1;from
+Q18536919;Q18536919;государство;1;1;from
+Q18536919;Q18536919;это частный случай понятия;1;1;from
+Q18544825;Q18544825;государство;1;1;from
+Q18544825;Q18544825;это частный случай понятия;1;2;from
+Q18544874;Q18544874;государство;1;1;from
+Q18544874;Q18544874;это частный случай понятия;1;1;from
+Q18914689;Среднеазиатское кольцо;это частный случай понятия;1;1;from
+Q18914689;Среднеазиатское кольцо;находится в пределах природно-географического объекта;1;1;from
+Q20063888;Taiwan Cycling Route No.1;изображение;1;1;from
+Q20103955;Estels del Sud;это частный случай понятия;1;1;from
+Q20063888;Taiwan Cycling Route No.1;это частный случай понятия;1;1;from
+Q20063888;Taiwan Cycling Route No.1;длина;1;1;from
+Q20063888;Taiwan Cycling Route No.1;файл KML;1;1;from
+Q20063888;Taiwan Cycling Route No.1;категория на Викискладе;1;1;from
+Q20063888;Taiwan Cycling Route No.1;ID отношения в OpenStreetMap;1;1;from
+Q20063888;Taiwan Cycling Route No.1;дата основания/создания/возникновения;1;1;from
+Q20103955;Estels del Sud;административно-территориальная единица;1;2;from
+Q20103955;Estels del Sud;государство;1;1;from
+Q22969923;Q22969923;это частный случай понятия;1;1;from
+Q22969923;Q22969923;категория на Викискладе;1;1;from
+Q22969923;Q22969923;состоит из;1;1;from
+Q26712070;Q26712070;это частный случай понятия;1;1;from
+Q26253658;Q26253658;файл KML;1;1;from
+Q26712024;Q26712024;государство;1;1;from
+Q26712024;Q26712024;это частный случай понятия;1;1;from
+Q26712024;Q26712024;файл KML;1;1;from
+Q26712050;Q26712050;государство;1;1;from
+Q26712050;Q26712050;это частный случай понятия;1;1;from
+Q26712050;Q26712050;файл KML;1;1;from
+Q26712070;Q26712070;государство;1;1;from
+Q26712070;Q26712070;файл KML;1;1;from
+Q26152633;Scottish National Trail;официальный сайт;1;1;from
+Q26712086;Q26712086;государство;1;1;from
+Q26712086;Q26712086;это частный случай понятия;1;1;from
+Q26712086;Q26712086;файл KML;1;1;from
+Q26712111;Q26712111;государство;1;1;from
+Q26712111;Q26712111;это частный случай понятия;1;1;from
+Q26712111;Q26712111;файл KML;1;1;from
+Q26712121;Q26712121;государство;1;1;from
+Q26712121;Q26712121;это частный случай понятия;1;1;from
+Q26253658;Q26253658;это частный случай понятия;1;1;from
+Q26152633;Scottish National Trail;это частный случай понятия;1;1;from
+Q22969923;Q22969923;часть от;1;1;to
+Q25016224;Sentiero del Viandante;длина;1;1;from
+Q24668281;Q24668281;государство;1;1;from
+Q24668281;Q24668281;это частный случай понятия;1;1;from
+Q24668281;Q24668281;файл KML;1;1;from
+Q25016224;Sentiero del Viandante;административно-территориальная единица;1;9;from
+Q25016224;Sentiero del Viandante;государство;1;1;from
+Q25016224;Sentiero del Viandante;изображение;1;1;from
+Q25016224;Sentiero del Viandante;код VIAF;1;1;from
+Q25016224;Sentiero del Viandante;это частный случай понятия;1;2;from
+Q25016224;Sentiero del Viandante;код «Вики любит памятники»;1;1;from
+Q26152633;Scottish National Trail;код VIAF;1;1;from
+Q25016224;Sentiero del Viandante;категория на Викискладе;1;1;from
+Q25016224;Sentiero del Viandante;адрес;1;1;from
+Q25016224;Sentiero del Viandante;баннер Викигида;1;1;from
+Q25016224;Sentiero del Viandante;имеет границы с;1;2;to
+Q25016224;Sentiero del Viandante;состоит из;1;1;to
+Q25668112;Wastineroute;государство;1;1;from
+Q25668112;Wastineroute;это частный случай понятия;1;1;from
+Q26152633;Scottish National Trail;государство;1;1;from
+Q18536850;Q18536850;это частный случай понятия;1;1;from
+Q17343171;Autoroute du soleil;статья в Викии;1;1;from
+Q17343171;Autoroute du soleil;частично совпадает с;1;2;from
+Q14201163;Abu Ballas;это частный случай понятия;1;3;from
+Q12603036;Q12603036;категория на Викискладе;1;1;from
+Q13138264;Taalroute;административно-территориальная единица;1;1;from
+Q13138264;Taalroute;государство;1;1;from
+Q13138264;Taalroute;это частный случай понятия;1;1;from
+Q13138264;Taalroute;категория на Викискладе;1;1;from
+Q14201163;Abu Ballas;административно-территориальная единица;1;1;from
+Q14201163;Abu Ballas;государство;1;1;from
+Q14201163;Abu Ballas;изображение;1;1;from
+Q14201163;Abu Ballas;код GeoNames;1;1;from
+Q12603036;Q12603036;государство;1;1;from
+Q14201163;Abu Ballas;высота над уровнем моря;1;1;from
+Q14201163;Abu Ballas;категория на Викискладе;1;1;from
+Q14201163;Abu Ballas;географические координаты;1;1;from
+Q14201531;Андалусия на общественном транспорте;это частный случай понятия;1;1;from
+Q14202745;Водный путь из Москвы в Санкт-Петербург;это частный случай понятия;1;1;from
+Q14202745;Водный путь из Москвы в Санкт-Петербург;начало пути;1;1;from
+Q14202745;Водный путь из Москвы в Санкт-Петербург;пункт назначения;1;1;from
+Q14202745;Водный путь из Москвы в Санкт-Петербург;баннер Викигида;1;1;from
+Q12603036;Q12603036;это частный случай понятия;1;2;from
+Q12603036;Q12603036;система автомагистралей;1;1;from
+Q14204029;Зелёное кольцо;государство;1;1;from
+Q6539666;Q6539666;государство;1;1;from
+Q6174394;Eastern exodus;это частный случай понятия;1;2;from
+Q6174394;Eastern exodus;категория на Викискладе;1;1;from
+Q6174394;Eastern exodus;момент времени;1;1;from
+Q6174394;Eastern exodus;географические координаты;1;1;from
+Q6174394;Eastern exodus;баннер Викигида;1;1;from
+Q6174394;Eastern exodus;основная тема;1;2;to
+Q6174394;Eastern exodus;изображённый объект;1;1;to
+Q6539666;Q6539666;административно-территориальная единица;1;2;from
+Q6539666;Q6539666;изображение;1;1;from
+Q12211544;Darb el-Arbain;это частный случай понятия;1;1;from
+Q6539666;Q6539666;это частный случай понятия;1;1;from
+Q6539666;Q6539666;код в регистре Национального наследия Ирана;1;1;from
+Q6539666;Q6539666;статус наследия;1;2;from
+Q6539666;Q6539666;местонахождение;1;1;from
+Q6539666;Q6539666;указания, как добраться;1;1;from
+Q6539666;Q6539666;используется как/для/в;1;1;from
+Q6539666;Q6539666;географические координаты;1;1;from
+Q12211544;Darb el-Arbain;государство;1;2;from
+Q14204029;Зелёное кольцо;административно-территориальная единица;1;1;from
+Q14204029;Зелёное кольцо;это частный случай понятия;1;1;from
+Q17343171;Autoroute du soleil;это частный случай понятия;1;1;from
+Q14529462;Q14529462;это частный случай понятия;1;1;from
+Q14333674;Q14333674;государство;1;2;from
+Q14333674;Q14333674;это частный случай понятия;1;1;from
+Q14419010;Agricultural road;государство;1;1;from
+Q14419010;Agricultural road;это частный случай понятия;1;1;from
+Q14505900;Q14505900;это частный случай понятия;1;1;from
+Q14505900;Q14505900;часть от;1;1;from
+Q14505900;Q14505900;состоит из;1;1;to
+Q14511342;Q14511342;это частный случай понятия;1;1;from
+Q16097863;Seongnam-daero;административно-территориальная единица;1;1;from
+Q14316464;Darb Siwa;длина;1;1;from
+Q16097863;Seongnam-daero;государство;1;1;from
+Q16097863;Seongnam-daero;это частный случай понятия;1;1;from
+Q16097863;Seongnam-daero;расположен на улице;1;1;to
+Q16982240;Mormon Trail;государство;1;1;from
+Q16982240;Mormon Trail;изображение;1;1;from
+Q16982240;Mormon Trail;это частный случай понятия;1;1;from
+Q17343171;Autoroute du soleil;государство;1;1;from
+Q17343171;Autoroute du soleil;код VIAF;1;1;from
+Q14316464;Darb Siwa;категория на Викискладе;1;1;from
+Q14316464;Darb Siwa;это частный случай понятия;1;1;from
+Q14236598;The North Cascade Loop;административно-территориальная единица;1;1;from
+Q14238808;walking tour of Sydney;это частный случай понятия;1;1;from
+Q14236598;The North Cascade Loop;государство;1;1;from
+Q14236598;The North Cascade Loop;это частный случай понятия;1;1;from
+Q14236598;The North Cascade Loop;географические координаты;1;1;from
+Q14236598;The North Cascade Loop;баннер Викигида;1;1;from
+Q14238395;Darb el-Farafra;административно-территориальная единица;1;1;from
+Q14238395;Darb el-Farafra;государство;1;1;from
+Q14238395;Darb el-Farafra;это частный случай понятия;1;1;from
+Q14238808;walking tour of Sydney;государство;1;1;from
+Q14238808;walking tour of Sydney;баннер Викигида;1;1;from
+Q14316464;Darb Siwa;изображение;1;1;from
+Q14316389;Darb Asyut;административно-территориальная единица;1;2;from
+Q14316389;Darb Asyut;государство;1;1;from
+Q14316389;Darb Asyut;это частный случай понятия;1;1;from
+Q14316420;Darb el-Tawil;административно-территориальная единица;1;2;from
+Q14316420;Darb el-Tawil;государство;1;1;from
+Q14316420;Darb el-Tawil;это частный случай понятия;1;1;from
+Q14316464;Darb Siwa;административно-территориальная единица;1;2;from
+Q14316464;Darb Siwa;государство;1;1;from
+Q1483227;Q1483227;государство;1;1;from
+Q1069359;Chemin des Dames;место смерти;1;1;to
+Q1069359;Chemin des Dames;баннер Викигида;1;1;from
+Q66371183;Q66371183;категория на Викискладе;1;1;from
+Q55975049;Q55975049;пункт назначения;1;1;from
+Q55975049;Q55975049;длина;1;1;from
+Q55975049;Q55975049;дата основания/создания/возникновения;1;1;from
+Q55975049;Q55975049;официальный сайт;1;1;from
+Q61636718;Bautzen–Preuschwitz–Grubschütz–Stiebitz–Bautzen;это частный случай понятия;1;2;from
+Q61636718;Bautzen–Preuschwitz–Grubschütz–Stiebitz–Bautzen;опубликовано в;1;1;from
+Q61636718;Bautzen–Preuschwitz–Grubschütz–Stiebitz–Bautzen;часть от;1;1;from
+Q61636718;Bautzen–Preuschwitz–Grubschütz–Stiebitz–Bautzen;дата публикации;1;1;from
+Q61636718;Bautzen–Preuschwitz–Grubschütz–Stiebitz–Bautzen;состоит из;1;1;to
+Q61636788;Bautzen–Weißnauslitz–Neudiehmen–Neukirch–Naundorf–Gaußig–Seitschen–Göda–Bautzen;это частный случай понятия;1;2;from
+Q61636788;Bautzen–Weißnauslitz–Neudiehmen–Neukirch–Naundorf–Gaußig–Seitschen–Göda–Bautzen;опубликовано в;1;1;from
+Q61636788;Bautzen–Weißnauslitz–Neudiehmen–Neukirch–Naundorf–Gaußig–Seitschen–Göda–Bautzen;часть от;1;1;from
+Q61636788;Bautzen–Weißnauslitz–Neudiehmen–Neukirch–Naundorf–Gaußig–Seitschen–Göda–Bautzen;дата публикации;1;1;from
+Q61636788;Bautzen–Weißnauslitz–Neudiehmen–Neukirch–Naundorf–Gaußig–Seitschen–Göda–Bautzen;состоит из;1;1;to
+Q61636847;Bautzen–Teichnitz–Quatitz–Großdubrau–Bautzen;это частный случай понятия;1;2;from
+Q61636847;Bautzen–Teichnitz–Quatitz–Großdubrau–Bautzen;опубликовано в;1;1;from
+Q61636847;Bautzen–Teichnitz–Quatitz–Großdubrau–Bautzen;дата публикации;1;1;from
+Q61636847;Bautzen–Teichnitz–Quatitz–Großdubrau–Bautzen;статус авторского права;1;2;from
+Q61636847;Bautzen–Teichnitz–Quatitz–Großdubrau–Bautzen;состоит из;1;1;to
+Q55975049;Q55975049;начало пути;1;1;from
+Q55975049;Q55975049;это частный случай понятия;1;3;from
+Q55975049;Q55975049;государство;1;2;from
+Q55435731;Ko Lanta Motorbike Tour Southwest;государство;1;1;from
+Q55398367;Ko Lanta Motorbike Tour East;государство;1;1;from
+Q55398367;Ko Lanta Motorbike Tour East;это частный случай понятия;1;1;from
+Q55398367;Ko Lanta Motorbike Tour East;ID отношения в OpenStreetMap;1;1;from
+Q55398367;Ko Lanta Motorbike Tour East;цвет (шестнадцатеричный триплет);1;1;from
+Q55400646;Along the coast of Uruguay;государство;1;1;from
+Q55400646;Along the coast of Uruguay;это частный случай понятия;1;1;from
+Q55400646;Along the coast of Uruguay;географические координаты;1;1;from
+Q55400646;Along the coast of Uruguay;баннер Викигида;1;1;from
+Q55435731;Ko Lanta Motorbike Tour Southwest;это частный случай понятия;1;1;from
+Q55975049;Q55975049;названо в честь;1;1;from
+Q55435731;Ko Lanta Motorbike Tour Southwest;ID отношения в OpenStreetMap;1;1;from
+Q55435731;Ko Lanta Motorbike Tour Southwest;цвет (шестнадцатеричный триплет);1;1;from
+Q55616936;Ko Lanta Noi Motorbike Tour;административно-территориальная единица;1;1;from
+Q55616936;Ko Lanta Noi Motorbike Tour;государство;1;1;from
+Q55616936;Ko Lanta Noi Motorbike Tour;это частный случай понятия;1;1;from
+Q55616936;Ko Lanta Noi Motorbike Tour;ID отношения в OpenStreetMap;1;1;from
+Q55616936;Ko Lanta Noi Motorbike Tour;цвет (шестнадцатеричный триплет);1;1;from
+Q55975049;Q55975049;административно-территориальная единица;1;3;from
+Q61636912;Bautzen–Neustadt;это частный случай понятия;1;2;from
+Q61636912;Bautzen–Neustadt;опубликовано в;1;1;from
+Q61636912;Bautzen–Neustadt;дата публикации;1;1;from
+Q65935684;Q65935684;географические координаты;1;1;from
+Q65935680;Q65935680;код в Предварительном списке Всемирного наследия;1;1;from
+Q65935680;Q65935680;состоит из;1;4;from
+Q65935680;Q65935680;географические координаты;1;1;from
+Q65935684;Q65935684;государство;1;1;from
+Q65935684;Q65935684;это частный случай понятия;1;1;from
+Q65935684;Q65935684;статус наследия;1;3;from
+Q65935684;Q65935684;критерий Всемирного наследия;1;1;from
+Q65935684;Q65935684;код в Предварительном списке Всемирного наследия;1;1;from
+Q65944563;The Central Slave and Ivory Trade Route;государство;1;1;from
+Q65935680;Q65935680;это частный случай понятия;1;1;from
+Q65944563;The Central Slave and Ivory Trade Route;это частный случай понятия;1;1;from
+Q65944563;The Central Slave and Ivory Trade Route;статус наследия;1;2;from
+Q65944563;The Central Slave and Ivory Trade Route;код в Предварительном списке Всемирного наследия;1;1;from
+Q65944563;The Central Slave and Ivory Trade Route;состоит из;1;6;from
+Q66371183;Q66371183;административно-территориальная единица;1;1;from
+Q66371183;Q66371183;государство;1;1;from
+Q66371183;Q66371183;это частный случай понятия;1;4;from
+Q66371183;Q66371183;начало пути;1;1;from
+Q65935680;Q65935680;статус наследия;1;2;from
+Q65935680;Q65935680;государство;1;1;from
+Q61636912;Bautzen–Neustadt;статус авторского права;1;2;from
+Q65920480;Q65920480;государство;1;1;from
+Q61636912;Bautzen–Neustadt;состоит из;1;1;to
+Q61636985;Bautzen–Steinigtwolmsdorf–Schirgiswalde–Bautzen;это частный случай понятия;1;3;from
+Q61636985;Bautzen–Steinigtwolmsdorf–Schirgiswalde–Bautzen;начало пути;1;2;from
+Q61636985;Bautzen–Steinigtwolmsdorf–Schirgiswalde–Bautzen;опубликовано в;1;1;from
+Q61636985;Bautzen–Steinigtwolmsdorf–Schirgiswalde–Bautzen;пункт назначения;1;1;from
+Q61636985;Bautzen–Steinigtwolmsdorf–Schirgiswalde–Bautzen;дата публикации;1;1;from
+Q61636985;Bautzen–Steinigtwolmsdorf–Schirgiswalde–Bautzen;статус авторского права;1;2;from
+Q61636985;Bautzen–Steinigtwolmsdorf–Schirgiswalde–Bautzen;состоит из;1;1;to
+Q65920480;Q65920480;это частный случай понятия;1;1;from
+Q65921486;Malawi Slave Routes and Dr. David Livingstone Trail;код в Предварительном списке Всемирного наследия;1;1;from
+Q65920480;Q65920480;статус наследия;1;4;from
+Q65920480;Q65920480;критерий Всемирного наследия;1;2;from
+Q65920480;Q65920480;код в Предварительном списке Всемирного наследия;1;1;from
+Q65920480;Q65920480;географические координаты;1;1;from
+Q65921486;Malawi Slave Routes and Dr. David Livingstone Trail;государство;1;1;from
+Q65921486;Malawi Slave Routes and Dr. David Livingstone Trail;это частный случай понятия;1;1;from
+Q65921486;Malawi Slave Routes and Dr. David Livingstone Trail;статус наследия;1;4;from
+Q65921486;Malawi Slave Routes and Dr. David Livingstone Trail;критерий Всемирного наследия;1;2;from
+Q52189311;The Scottish Whisky Route;основная тема;1;3;from
+Q52189311;The Scottish Whisky Route;это частный случай понятия;1;1;from
+Q52189311;The Scottish Whisky Route;государство;1;1;from
+Q26713669;Q26713669;файл KML;1;1;from
+Q26713643;Q26713643;государство;1;1;from
+Q26713643;Q26713643;это частный случай понятия;1;1;from
+Q26713643;Q26713643;файл KML;1;1;from
+Q26713653;Q26713653;государство;1;1;from
+Q26713653;Q26713653;это частный случай понятия;1;1;from
+Q26713653;Q26713653;файл KML;1;1;from
+Q26713669;Q26713669;государство;1;1;from
+Q26713669;Q26713669;это частный случай понятия;1;1;from
+Q26736082;Q26736082;государство;1;1;from
+Q26713632;Q26713632;это частный случай понятия;1;1;from
+Q26736082;Q26736082;это частный случай понятия;1;1;from
+Q26736083;Q26736083;государство;1;1;from
+Q26736083;Q26736083;это частный случай понятия;1;1;from
+Q26736083;Q26736083;баннер Викигида;1;1;from
+Q27861183;Q27861183;административно-территориальная единица;1;1;from
+Q27861183;Q27861183;государство;1;1;from
+Q27861183;Q27861183;это частный случай понятия;1;1;from
+Q28526880;Q28526880;административно-территориальная единица;1;1;from
+Q26713632;Q26713632;файл KML;1;1;from
+Q26713632;Q26713632;государство;1;1;from
+Q28526880;Q28526880;это частный случай понятия;1;1;from
+Q26713107;Q26713107;это частный случай понятия;1;1;from
+Q26713067;Q26713067;файл KML;1;1;from
+Q26713087;Q26713087;государство;1;1;from
+Q26713087;Q26713087;это частный случай понятия;1;1;from
+Q26713087;Q26713087;файл KML;1;1;from
+Q26713099;Q26713099;государство;1;1;from
+Q26713099;Q26713099;это частный случай понятия;1;1;from
+Q26713099;Q26713099;файл KML;1;1;from
+Q26713107;Q26713107;государство;1;1;from
+Q26713107;Q26713107;файл KML;1;1;from
+Q26713140;Q26713140;файл KML;1;1;from
+Q26713118;Q26713118;государство;1;1;from
+Q26713118;Q26713118;это частный случай понятия;1;1;from
+Q26713118;Q26713118;файл KML;1;1;from
+Q26713127;Q26713127;государство;1;1;from
+Q26713127;Q26713127;это частный случай понятия;1;1;from
+Q26713127;Q26713127;файл KML;1;1;from
+Q26713140;Q26713140;государство;1;1;from
+Q26713140;Q26713140;это частный случай понятия;1;1;from
+Q28526880;Q28526880;государство;1;1;from
+Q28526880;Q28526880;часть от;1;1;from
+Q52189311;The Scottish Whisky Route;административно-территориальная единица;1;1;from
+Q42897341;Q42897341;изображение;1;1;from
+Q41623575;Way of Saint James in Navarre;основная категория по теме;1;1;from
+Q41623575;Way of Saint James in Navarre;состоит из;1;1;to
+Q41623575;Way of Saint James in Navarre;несёт на себе;1;1;to
+Q41623575;Way of Saint James in Navarre;общая тема категории;1;1;to
+Q42329218;Batavierenpad;государство;1;1;from
+Q42329218;Batavierenpad;это частный случай понятия;1;1;from
+Q42329218;Batavierenpad;официальный сайт;1;1;from
+Q42897341;Q42897341;государство;1;3;from
+Q42897341;Q42897341;это частный случай понятия;1;1;from
+Q41623575;Way of Saint James in Navarre;категория на Викискладе;1;1;from
+Q42897341;Q42897341;дата официального открытия;1;1;from
+Q42897341;Q42897341;категория на Викискладе;1;1;from
+Q42897341;Q42897341;горный хребет;1;2;from
+Q42897341;Q42897341;расположение конечной точки;1;2;from
+Q42897341;Q42897341;находится в пределах природно-географического объекта;1;2;from
+Q42897341;Q42897341;баннер Викигида;1;1;from
+Q45311408;Suez route;это частный случай понятия;1;1;from
+Q45311408;Suez route;баннер Викигида;1;1;from
+Q41623575;Way of Saint James in Navarre;наивысшая точка;1;1;from
+Q41623575;Way of Saint James in Navarre;часть от;1;185;to
+Q28526880;Q28526880;состоит из;1;1;to
+Q28836293;Via Culinaria;владеет;1;1;to
+Q28836293;Via Culinaria;владельцем является;1;1;from
+Q28836293;Via Culinaria;административно-территориальная единица;1;1;from
+Q28836293;Via Culinaria;государство;1;1;from
+Q28836293;Via Culinaria;это частный случай понятия;1;2;from
+Q28836293;Via Culinaria;в точности соответствует;1;1;from
+Q28836293;Via Culinaria;отрасль;1;1;from
+Q28836293;Via Culinaria;официальный сайт;1;1;from
+Q28836293;Via Culinaria;основная тема;1;3;from
+Q41623575;Way of Saint James in Navarre;административно-территориальная единица;1;2;from
+Q41623575;Way of Saint James in Navarre;пиктограмма;1;1;from
+Q41623575;Way of Saint James in Navarre;государство;1;1;from
+Q41623575;Way of Saint James in Navarre;изображение;1;1;from
+Q41623575;Way of Saint James in Navarre;это частный случай понятия;1;2;from
+Q41623575;Way of Saint James in Navarre;начало пути;1;1;from
+Q41623575;Way of Saint James in Navarre;статус наследия;1;3;from
+Q41623575;Way of Saint James in Navarre;пункт назначения;1;1;from
+Q41623575;Way of Saint James in Navarre;глубочайшая точка;1;1;from
+Q41623575;Way of Saint James in Navarre;длина;1;1;from
+Q66371183;Q66371183;пункт назначения;1;1;from
+Q66680733;Q66680733;административно-территориальная единица;1;1;from
+Q1069359;Chemin des Dames;French Vikidia ID;1;1;from
+Q66680733;Q66680733;государство;1;1;from
+Q699862;ratlines;основная категория по теме;1;1;from
+Q699862;ratlines;область деятельности;1;1;to
+Q699862;ratlines;тематически относится к;1;1;to
+Q699862;ratlines;общая тема категории;1;1;to
+Q829469;Camino del Norte;административно-территориальная единица;1;6;from
+Q829469;Camino del Norte;государство;1;1;from
+Q829469;Camino del Norte;изображение;1;1;from
+Q829469;Camino del Norte;это частный случай понятия;1;3;from
+Q829469;Camino del Norte;статус наследия;1;4;from
+Q829469;Camino del Norte;площадь;1;1;from
+Q829469;Camino del Norte;пиктограмма;1;1;from
+Q829469;Camino del Norte;часть от;1;353;to
+Q829469;Camino del Norte;категория на Викискладе;1;1;from
+Q829469;Camino del Norte;ID отношения в OpenStreetMap;1;1;from
+Q829469;Camino del Norte;географические координаты;1;1;from
+Q829469;Camino del Norte;код Всемирного наследия ЮНЕСКО;1;1;from
+Q829469;Camino del Norte;идентификатор Bien de Interés Cultural;1;1;from
+Q829469;Camino del Norte;основная категория по теме;1;1;from
+Q829469;Camino del Norte;общая тема категории;1;1;to
+Q699862;ratlines;код Freebase;1;1;from
+Q699862;ratlines;идентификатор Dizionario di Storia;1;1;from
+Q699862;ratlines;война/сражение;1;1;from
+Q542830;Via Francigena;баннер Викигида;1;1;from
+Q542830;Via Francigena;код BNF;1;1;from
+Q542830;Via Francigena;код SUDOC;1;1;from
+Q542830;Via Francigena;код темы Quora;1;1;from
+Q542830;Via Francigena;категория на Викискладе;1;1;from
+Q542830;Via Francigena;идентификатор Dizionario di Storia;1;1;from
+Q542830;Via Francigena;код Freebase;1;1;from
+Q542830;Via Francigena;официальный сайт;1;1;from
+Q542830;Via Francigena;основная категория по теме;1;1;from
+Q542830;Via Francigena;несёт на себе;1;1;to
+Q699862;ratlines;категория на Викискладе;1;1;from
+Q542830;Via Francigena;общая тема категории;1;1;to
+Q589784;Leiðarvísir og borgarskipan;государство;1;6;from
+Q589784;Leiðarvísir og borgarskipan;это частный случай понятия;1;1;from
+Q589784;Leiðarvísir og borgarskipan;код Freebase;1;1;from
+Q699862;ratlines;государство;1;1;from
+Q699862;ratlines;код VIAF;1;1;from
+Q699862;ratlines;код GND;1;1;from
+Q699862;ratlines;это частный случай понятия;1;1;from
+Q829469;Camino del Norte;состоит из;1;2;to
+Q829469;Camino del Norte;категория содержит;1;1;to
+Q837143;flight into Egypt;создано на основе;1;18;to
+Q939508;Lesser Polish Way of St. James;состоит из;1;1;to
+Q939508;Lesser Polish Way of St. James;государство;1;1;from
+Q939508;Lesser Polish Way of St. James;это частный случай понятия;1;1;from
+Q939508;Lesser Polish Way of St. James;часть от;1;1;from
+Q939508;Lesser Polish Way of St. James;категория на Викискладе;1;1;from
+Q939508;Lesser Polish Way of St. James;ID отношения в OpenStreetMap;1;1;from
+Q939508;Lesser Polish Way of St. James;расположение конечной точки;1;1;from
+Q939508;Lesser Polish Way of St. James;код Freebase;1;1;from
+Q939508;Lesser Polish Way of St. James;основная категория по теме;1;1;from
+Q939508;Lesser Polish Way of St. James;общая тема категории;1;1;to
+Q842051;Clipper route;это частный случай понятия;1;1;from
+Q1069359;Chemin des Dames;государство;1;1;from
+Q1069359;Chemin des Dames;изображение;1;1;from
+Q1069359;Chemin des Dames;код VIAF;1;1;from
+Q1069359;Chemin des Dames;код LCNAF;1;1;from
+Q1069359;Chemin des Dames;это частный случай понятия;1;2;from
+Q1069359;Chemin des Dames;категория на Викискладе;1;1;from
+Q1069359;Chemin des Dames;географические координаты;1;1;from
+Q1069359;Chemin des Dames;код Freebase;1;1;from
+Q842051;Clipper route;код Freebase;1;1;from
+Q837143;flight into Egypt;категория объединяет темы;1;1;to
+Q837143;flight into Egypt;изображение;1;1;from
+Q837143;flight into Egypt;код в Православной энциклопедии онлайн;1;1;from
+Q837143;flight into Egypt;код LCNAF;1;1;from
+Q837143;flight into Egypt;это частный случай понятия;1;4;from
+Q837143;flight into Egypt;обозначение Iconclass;1;1;from
+Q837143;flight into Egypt;изображается на;1;4;from
+Q837143;flight into Egypt;описывается в источниках;1;1;from
+Q837143;flight into Egypt;часть от;1;1;to
+Q837143;flight into Egypt;категория на Викискладе;1;1;from
+Q837143;flight into Egypt;противоположно;1;1;to
+Q837143;flight into Egypt;код Freebase;1;1;from
+Q837143;flight into Egypt;общая тема категории;1;1;to
+Q837143;flight into Egypt;причиной является;1;1;from
+Q837143;flight into Egypt;основная категория по теме;1;1;from
+Q837143;flight into Egypt;галерея на Викискладе;1;1;from
+Q837143;flight into Egypt;основная тема;1;186;to
+Q837143;flight into Egypt;изображённый объект;1;67;to
+Q837143;flight into Egypt;производная работа;1;3;to
+Q837143;flight into Egypt;состоит из;1;1;to
+Q837143;flight into Egypt;вызывает;1;1;to
+Q542830;Via Francigena;код BAV;1;1;from
+Q542830;Via Francigena;это частный случай понятия;1;1;from
+Q542830;Via Francigena;код LCNAF;1;1;from
+Q61973;Golden Ring;изображение;1;1;from
+Q79420526;Q79420526;государство;1;1;from
+Q79420526;Q79420526;это частный случай понятия;1;3;from
+Q79420526;Q79420526;длина;1;1;from
+Q79420526;Q79420526;проектировщик;1;1;from
+Q79420526;Q79420526;дата основания/создания/возникновения;1;1;from
+Q79420526;Q79420526;официальный сайт;1;2;from
+Q79420526;Q79420526;описан на сайте;1;3;from
+Q61973;Golden Ring;государство;1;1;from
+Q61973;Golden Ring;код VIAF;1;1;from
+Q75708014;Q75708014;это частный случай понятия;1;2;from
+Q61973;Golden Ring;код LCNAF;1;1;from
+Q61973;Golden Ring;это частный случай понятия;1;2;from
+Q61973;Golden Ring;не путать с;1;1;to
+Q61973;Golden Ring;местонахождение;1;1;from
+Q61973;Golden Ring;код в Encyclopædia Universalis;1;1;from
+Q61973;Golden Ring;категория на Викискладе;1;1;from
+Q61973;Golden Ring;код Freebase;1;1;from
+Q61973;Golden Ring;основная категория по теме;1;1;from
+Q75708014;Q75708014;часть от;1;1;from
+Q75708014;Q75708014;государство;1;1;from
+Q61973;Golden Ring;общая тема категории;1;1;to
+Q67183601;Onezhsky Tract;государство;1;1;from
+Q66680733;Q66680733;это частный случай понятия;1;1;from
+Q66680733;Q66680733;баннер Викигида;1;1;from
+Q66831789;Q66831789;административно-территориальная единица;1;1;from
+Q66831789;Q66831789;государство;1;1;from
+Q66831789;Q66831789;это частный случай понятия;1;1;from
+Q66831789;Q66831789;статус наследия;1;1;from
+Q66831789;Q66831789;название;1;1;from
+Q66831789;Q66831789;код «Вики любит памятники»;1;1;from
+Q67183601;Onezhsky Tract;это частный случай понятия;1;1;from
+Q75708014;Q75708014;административно-территориальная единица;1;1;from
+Q67183601;Onezhsky Tract;начало пути;1;1;from
+Q67183601;Onezhsky Tract;пункт назначения;1;1;from
+Q67183601;Onezhsky Tract;баннер Викигида;1;1;from
+Q68493078;Q68493078;административно-территориальная единица;1;1;from
+Q68493078;Q68493078;государство;1;1;from
+Q68493078;Q68493078;это частный случай понятия;1;1;from
+Q68493078;Q68493078;баннер Викигида;1;1;from
+Q73545796;Q73545796;это частный случай понятия;1;1;from
+Q61973;Golden Ring;баннер Викигида;1;1;from
+Q208963;Spanish Road;карта местонахождения;1;1;from
+Q542830;Via Francigena;код GND;1;1;from
+Q477578;Incense Route – Desert Cities in the Negev;критерий Всемирного наследия;1;2;from
+Q475699;Way of St. James;Basque Vikidia ID;1;1;from
+Q475699;Way of St. James;баннер Викигида;1;1;from
+Q475699;Way of St. James;основная тема;1;1;to
+Q477578;Incense Route – Desert Cities in the Negev;государство;1;1;from
+Q477578;Incense Route – Desert Cities in the Negev;изображение;1;1;from
+Q477578;Incense Route – Desert Cities in the Negev;это частный случай понятия;1;1;from
+Q477578;Incense Route – Desert Cities in the Negev;статус наследия;1;11;from
+Q477578;Incense Route – Desert Cities in the Negev;площадь;1;2;from
+Q477578;Incense Route – Desert Cities in the Negev;часть от;1;4;to
+Q475699;Way of St. James;код Freebase;1;1;from
+Q477578;Incense Route – Desert Cities in the Negev;категория на Викискладе;1;1;from
+Q477578;Incense Route – Desert Cities in the Negev;состоит из;1;4;from
+Q477578;Incense Route – Desert Cities in the Negev;географические координаты;1;1;from
+Q477578;Incense Route – Desert Cities in the Negev;код Freebase;1;1;from
+Q477578;Incense Route – Desert Cities in the Negev;находится в пределах природно-географического объекта;1;1;from
+Q477578;Incense Route – Desert Cities in the Negev;код Всемирного наследия ЮНЕСКО;1;1;from
+Q542830;Via Francigena;государство;1;2;from
+Q542830;Via Francigena;код VIAF;1;1;from
+Q475699;Way of St. James;French Vikidia ID;1;1;from
+Q475699;Way of St. James;тематически относится к;1;1;from
+Q208963;Spanish Road;это частный случай понятия;1;1;from
+Q380251;Q380251;длина;1;1;from
+Q208963;Spanish Road;местонахождение;1;1;from
+Q208963;Spanish Road;код Freebase;1;1;from
+Q380251;Q380251;карта этой дороги;1;1;from
+Q380251;Q380251;государство;1;1;from
+Q380251;Q380251;это частный случай понятия;1;2;from
+Q380251;Q380251;начало пути;1;1;from
+Q380251;Q380251;пункт назначения;1;1;from
+Q380251;Q380251;название на языке оригинала;1;3;from
+Q380251;Q380251;местонахождение;1;1;from
+Q475699;Way of St. James;это частный случай понятия;1;4;from
+Q380251;Q380251;подкласс от;1;1;from
+Q380251;Q380251;категория на Викискладе;1;1;from
+Q380251;Q380251;конечная;1;2;from
+Q380251;Q380251;основная категория по теме;1;1;from
+Q380251;Q380251;часть от;1;1;to
+Q380251;Q380251;общая тема категории;1;1;to
+Q475699;Way of St. James;государство;1;1;from
+Q475699;Way of St. James;изображение;1;1;from
+Q26712121;Q26712121;файл KML;1;1;from

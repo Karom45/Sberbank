@@ -1,0 +1,389 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q50624;Rogaland;административно-территориальная единица;1;4251;to
+Q52600648;Troms og Finnmark fylke;площадь;1;29;from
+Q56404886;Innlandet;это частный случай понятия;1;1;from
+Q56404886;Innlandet;карта местонахождения;1;1;from
+Q56404886;Innlandet;изображение;1;2;from
+Q56404886;Innlandet;государство;1;1;from
+Q56404886;Innlandet;административно делится на;1;1;to
+Q56404886;Innlandet;административно-территориальная единица;1;59;to
+Q52600648;Troms og Finnmark fylke;заменён на;1;2;to
+Q52600648;Troms og Finnmark fylke;общая тема категории;1;1;to
+Q52600648;Troms og Finnmark fylke;юрисдикция распространяется на;1;4;to
+Q52600648;Troms og Finnmark fylke;является столицей;1;1;to
+Q52600648;Troms og Finnmark fylke;зона обслуживания;1;1;to
+Q52600648;Troms og Finnmark fylke;состоит из;1;1;to
+Q52600648;Troms og Finnmark fylke;основная категория по теме;1;1;from
+Q52600648;Troms og Finnmark fylke;официальный сайт;1;3;from
+Q52600648;Troms og Finnmark fylke;Lokalhistoriewiki.no ID;1;1;from
+Q52600648;Troms og Finnmark fylke;географические координаты;1;1;from
+Q52600648;Troms og Finnmark fylke;дата основания/создания/возникновения;1;1;from
+Q52600648;Troms og Finnmark fylke;код в Большой норвежской энциклопедии;1;1;from
+Q52600648;Troms og Finnmark fylke;ID отношения в OpenStreetMap;1;1;from
+Q52600648;Troms og Finnmark fylke;категория на Викискладе;1;1;from
+Q52600648;Troms og Finnmark fylke;часть от;1;1;from
+Q56404886;Innlandet;столица;1;1;from
+Q56404886;Innlandet;имеет границы с;1;7;to
+Q56404886;Innlandet;глава правительства;1;2;from
+Q56404886;Innlandet;код в Большой норвежской энциклопедии;1;1;from
+Q56404886;Innlandet;заменён на;1;2;to
+Q56404886;Innlandet;общая тема категории;1;1;to
+Q56404886;Innlandet;юрисдикция распространяется на;1;3;to
+Q56404886;Innlandet;зона обслуживания;1;1;to
+Q56404886;Innlandet;основная категория по теме;1;1;from
+Q56404886;Innlandet;официальный сайт;1;1;from
+Q56404886;Innlandet;Lokalhistoriewiki.no ID;1;1;from
+Q56404886;Innlandet;географические координаты;1;1;from
+Q56404886;Innlandet;дата основания/создания/возникновения;1;1;from
+Q56404886;Innlandet;ID отношения в OpenStreetMap;1;1;from
+Q56404886;Innlandet;изображение герба;1;1;from
+Q56404886;Innlandet;категория на Викискладе;1;1;from
+Q56404886;Innlandet;часть от;1;1;from
+Q56404886;Innlandet;ISO 3166-2;1;1;from
+Q56404886;Innlandet;площадь;1;29;from
+Q56404886;Innlandet;числовой код SSR для названия;1;1;from
+Q56404886;Innlandet;код GeoNames;1;1;from
+Q56404886;Innlandet;заменил;1;2;from
+Q56404886;Innlandet;должность главы правительства;1;1;from
+Q56404886;Innlandet;численность населения;1;1;from
+Q52600648;Troms og Finnmark fylke;ISO 3166-2;1;1;from
+Q52600648;Troms og Finnmark fylke;числовой код SSR для названия;1;1;from
+Q50624;Rogaland;административно делится на;1;2;to
+Q52600648;Troms og Finnmark fylke;код GeoNames;1;1;from
+Q127676;Trøndelag;место рождения;1;1;to
+Q127676;Trøndelag;зона обслуживания;1;9;to
+Q127676;Trøndelag;является столицей;1;1;to
+Q127676;Trøndelag;общая тема категории;1;1;to
+Q127676;Trøndelag;баннер Викигида;1;1;from
+Q127676;Trøndelag;основная категория по теме;1;1;from
+Q127676;Trøndelag;официальный сайт;1;2;from
+Q127676;Trøndelag;категория карт на Викискладе;1;1;from
+Q127676;Trøndelag;Lokalhistoriewiki.no ID;1;1;from
+Q127676;Trøndelag;код Freebase;1;1;from
+Q127676;Trøndelag;географические координаты;1;1;from
+Q127676;Trøndelag;идентификатор местоположения ArchINFORM;1;1;from
+Q127676;Trøndelag;код в Большой норвежской энциклопедии;1;1;from
+Q127676;Trøndelag;часовой пояс;1;1;from
+Q127676;Trøndelag;ID отношения в OpenStreetMap;1;1;from
+Q127676;Trøndelag;категория на Викискладе;1;1;from
+Q127676;Trøndelag;код NE.se;1;1;from
+Q127676;Trøndelag;ISO 3166-2;1;1;from
+Q127676;Trøndelag;используемый язык;1;2;from
+Q127676;Trøndelag;площадь;1;55;from
+Q127676;Trøndelag;числовой код SSR для названия;1;1;from
+Q127676;Trøndelag;категория объединяет темы;1;7;to
+Q127676;Trøndelag;происходит из;1;2;to
+Q127676;Trøndelag;юрисдикция распространяется на;1;4;to
+Q52600648;Troms og Finnmark fylke;изображение;1;1;from
+Q52600648;Troms og Finnmark fylke;заменил;1;2;from
+Q52600648;Troms og Finnmark fylke;должность главы правительства;1;1;from
+Q52600648;Troms og Finnmark fylke;численность населения;1;1;from
+Q52600648;Troms og Finnmark fylke;изображение герба;1;2;from
+Q52600648;Troms og Finnmark fylke;глава правительства;1;2;from
+Q52600648;Troms og Finnmark fylke;имеет границы с;1;4;to
+Q52600648;Troms og Finnmark fylke;столица;1;1;from
+Q52600648;Troms og Finnmark fylke;это частный случай понятия;1;1;from
+Q52600648;Troms og Finnmark fylke;карта местонахождения;1;1;from
+Q52600648;Troms og Finnmark fylke;государство;1;1;from
+Q127676;Trøndelag;место активности;1;1;to
+Q52600648;Troms og Finnmark fylke;административно делится на;1;1;to
+Q52600648;Troms og Finnmark fylke;административно-территориальная единица;1;47;to
+Q31281141;Q31281141;дата прекращения существования;1;1;from
+Q31281141;Q31281141;это частный случай понятия;1;1;from
+Q127676;Trøndelag;часть от;1;1;to
+Q127676;Trøndelag;местонахождение;1;1;to
+Q127676;Trøndelag;заменён на;1;2;to
+Q127676;Trøndelag;названо в честь;1;2;to
+Q127676;Trøndelag;обслуживаемый город;1;1;to
+Q56405721;Vestfold og Telemark;административно-территориальная единица;1;31;to
+Q56405721;Vestfold og Telemark;административно делится на;1;1;to
+Q56405721;Vestfold og Telemark;государство;1;1;from
+Q56405721;Vestfold og Telemark;изображение;1;1;from
+Q56407178;Viken;имеет границы с;1;6;to
+Q56407178;Viken;это частный случай понятия;1;1;from
+Q56407178;Viken;карта местонахождения;1;1;from
+Q56407178;Viken;изображение;1;1;from
+Q56407178;Viken;государство;1;1;from
+Q56407178;Viken;административно делится на;1;1;to
+Q56407178;Viken;административно-территориальная единица;1;65;to
+Q56407177;Vestland;заменён на;1;2;to
+Q56407177;Vestland;является столицей;1;1;to
+Q56407177;Vestland;категория объединяет темы;1;1;to
+Q56407177;Vestland;общая тема категории;1;1;to
+Q56407177;Vestland;юрисдикция распространяется на;1;4;to
+Q56407177;Vestland;зона обслуживания;1;1;to
+Q56407177;Vestland;состоит из;1;1;to
+Q56407177;Vestland;основная категория по теме;1;1;from
+Q56407177;Vestland;официальный сайт;1;1;from
+Q56407177;Vestland;Lokalhistoriewiki.no ID;1;1;from
+Q56407177;Vestland;географические координаты;1;1;from
+Q56407177;Vestland;дата основания/создания/возникновения;1;1;from
+Q56407177;Vestland;код в Большой норвежской энциклопедии;1;1;from
+Q56407177;Vestland;ID отношения в OpenStreetMap;1;1;from
+Q56407178;Viken;глава правительства;1;2;from
+Q56407178;Viken;изображение герба;1;1;from
+Q56407178;Viken;численность населения;1;1;from
+Q56407178;Viken;географические координаты;1;1;from
+Q56407178;Viken;категория объединяет темы;1;1;to
+Q56407178;Viken;общая тема категории;1;1;to
+Q56407178;Viken;юрисдикция распространяется на;1;6;to
+Q56407178;Viken;зона обслуживания;1;2;to
+Q56407178;Viken;состоит из;1;1;to
+Q56407178;Viken;основная категория по теме;1;1;from
+Q56407178;Viken;официальный сайт;1;3;from
+Q56407178;Viken;WDPA;1;1;from
+Q56407178;Viken;Lokalhistoriewiki.no ID;1;1;from
+Q56407178;Viken;дата основания/создания/возникновения;1;1;from
+Q56407178;Viken;должность главы правительства;1;1;from
+Q56407178;Viken;код в Большой норвежской энциклопедии;1;1;from
+Q56407178;Viken;ID отношения в OpenStreetMap;1;1;from
+Q56407178;Viken;категория на Викискладе;1;1;from
+Q56407178;Viken;часть от;1;1;from
+Q56407178;Viken;ISO 3166-2;1;1;from
+Q56407178;Viken;площадь;1;29;from
+Q56407178;Viken;числовой код SSR для названия;1;1;from
+Q56407178;Viken;код GeoNames;1;1;from
+Q56407178;Viken;заменил;1;3;from
+Q56407177;Vestland;категория на Викискладе;1;1;from
+Q56407177;Vestland;часть от;1;1;from
+Q56407177;Vestland;ISO 3166-2;1;1;from
+Q56405721;Vestfold og Telemark;числовой код SSR для названия;1;1;from
+Q56405721;Vestfold og Telemark;Lokalhistoriewiki.no ID;1;1;from
+Q56405721;Vestfold og Telemark;географические координаты;1;1;from
+Q56405721;Vestfold og Telemark;дата основания/создания/возникновения;1;1;from
+Q56405721;Vestfold og Telemark;код в Большой норвежской энциклопедии;1;1;from
+Q56405721;Vestfold og Telemark;ID отношения в OpenStreetMap;1;1;from
+Q56405721;Vestfold og Telemark;категория на Викискладе;1;1;from
+Q56405721;Vestfold og Telemark;часть от;1;1;from
+Q56405721;Vestfold og Telemark;ISO 3166-2;1;1;from
+Q56405721;Vestfold og Telemark;площадь;1;29;from
+Q56405721;Vestfold og Telemark;код GeoNames;1;1;from
+Q56405721;Vestfold og Telemark;основная категория по теме;1;1;from
+Q56405721;Vestfold og Telemark;заменил;1;2;from
+Q56405721;Vestfold og Telemark;должность главы правительства;1;1;from
+Q56405721;Vestfold og Telemark;численность населения;1;1;from
+Q56405721;Vestfold og Telemark;изображение герба;1;1;from
+Q56405721;Vestfold og Telemark;глава правительства;1;2;from
+Q56405721;Vestfold og Telemark;имеет границы с;1;4;to
+Q56405721;Vestfold og Telemark;столица;1;1;from
+Q56405721;Vestfold og Telemark;это частный случай понятия;1;1;from
+Q56405721;Vestfold og Telemark;карта местонахождения;1;1;from
+Q56405721;Vestfold og Telemark;официальный сайт;1;1;from
+Q56405721;Vestfold og Telemark;состоит из;1;1;to
+Q56407177;Vestland;площадь;1;29;from
+Q56407177;Vestland;это частный случай понятия;1;1;from
+Q56407177;Vestland;числовой код SSR для названия;1;1;from
+Q56407177;Vestland;код GeoNames;1;1;from
+Q56407177;Vestland;заменил;1;2;from
+Q56407177;Vestland;должность главы правительства;1;1;from
+Q56407177;Vestland;численность населения;1;1;from
+Q56407177;Vestland;изображение герба;1;1;from
+Q56407177;Vestland;глава правительства;1;2;from
+Q56407177;Vestland;имеет границы с;1;5;to
+Q56407177;Vestland;столица;1;1;from
+Q56407177;Vestland;карта местонахождения;1;1;from
+Q56405721;Vestfold og Telemark;зона обслуживания;1;2;to
+Q56407177;Vestland;изображение;1;1;from
+Q56407177;Vestland;государство;1;1;from
+Q56407177;Vestland;административно делится на;1;1;to
+Q56407177;Vestland;административно-территориальная единица;1;59;to
+Q56405721;Vestfold og Telemark;является столицей;1;1;to
+Q56405721;Vestfold og Telemark;заменён на;1;2;to
+Q56405721;Vestfold og Telemark;категория объединяет темы;1;1;to
+Q56405721;Vestfold og Telemark;общая тема категории;1;1;to
+Q56405721;Vestfold og Telemark;юрисдикция распространяется на;1;3;to
+Q127676;Trøndelag;категория для людей, связанных с местностью;1;1;from
+Q127676;Trøndelag;код GeoNames;1;1;from
+Q127676;Trøndelag;этнохороним;1;2;from
+Q50627;Møre og Romsdal;FIPS 10-4 (страны и регионы);1;1;from
+Q50627;Møre og Romsdal;изображение герба;1;1;from
+Q50627;Møre og Romsdal;глава правительства;1;2;from
+Q50627;Møre og Romsdal;имеет границы с;1;6;to
+Q50627;Møre og Romsdal;изображение флага;1;1;from
+Q50627;Møre og Romsdal;столица;1;1;from
+Q50627;Møre og Romsdal;это частный случай понятия;1;1;from
+Q50627;Møre og Romsdal;код LCNAF;1;1;from
+Q50627;Møre og Romsdal;карта местонахождения;1;1;from
+Q50627;Møre og Romsdal;описание герба;1;1;from
+Q50627;Møre og Romsdal;код GND;1;1;from
+Q50627;Møre og Romsdal;код VIAF;1;1;from
+Q50627;Møre og Romsdal;изображение;1;1;from
+Q50627;Møre og Romsdal;государство;1;1;from
+Q50627;Møre og Romsdal;административно делится на;1;2;to
+Q50627;Møre og Romsdal;административно-территориальная единица;1;10967;to
+Q50624;Rogaland;является столицей;1;1;to
+Q50624;Rogaland;общая тема категории;1;1;to
+Q50624;Rogaland;основная тема;1;1;to
+Q50624;Rogaland;юрисдикция распространяется на;1;6;to
+Q50624;Rogaland;награда от;1;1;to
+Q50624;Rogaland;место смерти;1;3;to
+Q50627;Møre og Romsdal;десятичная классификация Дьюи;1;1;from
+Q50627;Møre og Romsdal;численность населения;1;2;from
+Q50627;Møre og Romsdal;должность главы правительства;1;1;from
+Q50627;Møre og Romsdal;часовой пояс;1;1;from
+Q50627;Møre og Romsdal;официальный сайт;1;1;from
+Q50627;Møre og Romsdal;категория карт на Викискладе;1;1;from
+Q50627;Møre og Romsdal;Who's on First ID;1;1;from
+Q50627;Møre og Romsdal;Lokalhistoriewiki.no ID;1;1;from
+Q50627;Møre og Romsdal;код Freebase;1;1;from
+Q50627;Møre og Romsdal;географические координаты;1;1;from
+Q50627;Møre og Romsdal;код NUTS;1;1;from
+Q50627;Møre og Romsdal;идентификатор местоположения ArchINFORM;1;1;from
+Q50627;Møre og Romsdal;код в Большой норвежской энциклопедии;1;1;from
+Q50627;Møre og Romsdal;ID отношения в OpenStreetMap;1;1;from
+Q50627;Møre og Romsdal;категория для людей, родившихся здесь;1;1;from
+Q50627;Møre og Romsdal;категория на Викискладе;1;1;from
+Q50627;Møre og Romsdal;часть от;1;1;from
+Q50627;Møre og Romsdal;ISO 3166-2;1;1;from
+Q50627;Møre og Romsdal;код BNF;1;1;from
+Q50627;Møre og Romsdal;площадь;1;55;from
+Q50627;Møre og Romsdal;числовой код SSR для названия;1;1;from
+Q50627;Møre og Romsdal;категория для людей, связанных с местностью;1;1;from
+Q50627;Møre og Romsdal;код GeoNames;1;1;from
+Q50627;Møre og Romsdal;категория для людей, умерших здесь;1;1;from
+Q50624;Rogaland;зона обслуживания;1;11;to
+Q50624;Rogaland;место рождения;1;5;to
+Q50624;Rogaland;категория объединяет темы;1;13;to
+Q50624;Rogaland;глава правительства;1;2;from
+Q50624;Rogaland;категория для людей, связанных с местностью;1;1;from
+Q50624;Rogaland;код GeoNames;1;1;from
+Q50624;Rogaland;этнохороним;1;2;from
+Q50624;Rogaland;категория для людей, умерших здесь;1;1;from
+Q50624;Rogaland;категория для людей, родившихся здесь;1;1;from
+Q50624;Rogaland;должность главы правительства;1;1;from
+Q50624;Rogaland;численность населения;1;4;from
+Q50624;Rogaland;десятичная классификация Дьюи;1;1;from
+Q50624;Rogaland;изображение герба;1;1;from
+Q50624;Rogaland;имеет границы с;1;7;to
+Q50624;Rogaland;не путать с;1;2;to
+Q50624;Rogaland;изображение флага;1;1;from
+Q50624;Rogaland;столица;1;1;from
+Q50624;Rogaland;это частный случай понятия;1;1;from
+Q50624;Rogaland;код LCNAF;1;1;from
+Q50624;Rogaland;карта местонахождения;1;1;from
+Q50624;Rogaland;описание герба;1;1;from
+Q50624;Rogaland;код GND;1;1;from
+Q50624;Rogaland;изображение;1;1;from
+Q50624;Rogaland;государство;1;1;from
+Q50624;Rogaland;числовой код SSR для названия;1;1;from
+Q50624;Rogaland;площадь;1;55;from
+Q50624;Rogaland;место в MusicBrainz;1;1;from
+Q50624;Rogaland;географические координаты;1;1;from
+Q50624;Rogaland;баннер Викигида;1;1;from
+Q50624;Rogaland;основная категория по теме;1;1;from
+Q50624;Rogaland;FIPS 10-4 (страны и регионы);1;1;from
+Q50624;Rogaland;транскрипция в МФА;1;1;from
+Q50624;Rogaland;официальный сайт;1;1;from
+Q50624;Rogaland;категория карт на Викискладе;1;1;from
+Q50624;Rogaland;Who's on First ID;1;1;from
+Q50624;Rogaland;Lokalhistoriewiki.no ID;1;1;from
+Q50624;Rogaland;код Freebase;1;1;from
+Q50624;Rogaland;код NUTS;1;1;from
+Q50624;Rogaland;код BabelNet;1;1;from
+Q50624;Rogaland;идентификатор местоположения ArchINFORM;1;1;from
+Q50624;Rogaland;произношение (звуковой файл);1;1;from
+Q50624;Rogaland;код в Большой норвежской энциклопедии;1;1;from
+Q50624;Rogaland;часовой пояс;1;1;from
+Q50624;Rogaland;ID отношения в OpenStreetMap;1;1;from
+Q50624;Rogaland;категория на Викискладе;1;1;from
+Q50624;Rogaland;часть от;1;1;from
+Q50624;Rogaland;ISO 3166-2;1;1;from
+Q50624;Rogaland;код BNF;1;1;from
+Q50627;Møre og Romsdal;транскрипция в МФА;1;1;from
+Q50627;Møre og Romsdal;основная категория по теме;1;1;from
+Q127676;Trøndelag;категория для людей, умерших здесь;1;1;from
+Q50627;Møre og Romsdal;галерея на Викискладе;1;1;from
+Q50630;Nordland;местонахождение;1;4;to
+Q50630;Nordland;зона обслуживания;1;9;to
+Q50630;Nordland;названо в честь;1;2;to
+Q50630;Nordland;награда от;1;1;to
+Q50630;Nordland;место рождения;1;3;to
+Q50630;Nordland;юрисдикция распространяется на;1;8;to
+Q50630;Nordland;место в MusicBrainz;1;1;from
+Q50630;Nordland;баннер Викигида;1;1;from
+Q50630;Nordland;основная категория по теме;1;1;from
+Q50630;Nordland;FIPS 10-4 (страны и регионы);1;1;from
+Q50630;Nordland;транскрипция в МФА;1;1;from
+Q50630;Nordland;официальный сайт;1;1;from
+Q50630;Nordland;категория карт на Викискладе;1;1;from
+Q50630;Nordland;Who's on First ID;1;1;from
+Q50630;Nordland;Lokalhistoriewiki.no ID;1;1;from
+Q50630;Nordland;код Freebase;1;1;from
+Q50630;Nordland;географические координаты;1;1;from
+Q50630;Nordland;код NUTS;1;1;from
+Q50630;Nordland;идентификатор местоположения ArchINFORM;1;1;from
+Q50630;Nordland;произношение (звуковой файл);1;1;from
+Q50630;Nordland;код в Большой норвежской энциклопедии;1;1;from
+Q50630;Nordland;категория объединяет темы;1;15;to
+Q50630;Nordland;место создания;1;1;to
+Q50630;Nordland;общая тема категории;1;1;to
+Q127676;Trøndelag;глава правительства;1;1;from
+Q127676;Trøndelag;категория для людей, родившихся здесь;1;1;from
+Q127676;Trøndelag;официальное название;1;2;from
+Q127676;Trøndelag;код в энциклопедии «Британника онлайн»;1;1;from
+Q127676;Trøndelag;заменил;1;2;from
+Q127676;Trøndelag;должность главы правительства;1;1;from
+Q127676;Trøndelag;код в Большой каталанской энциклопедии;1;1;from
+Q127676;Trøndelag;численность населения;1;1;from
+Q127676;Trøndelag;десятичная классификация Дьюи;1;1;from
+Q127676;Trøndelag;изображение герба;1;1;from
+Q127676;Trøndelag;имеет границы с;1;6;to
+Q50630;Nordland;происходит из;1;2;to
+Q127676;Trøndelag;столица;1;2;from
+Q127676;Trøndelag;это частный случай понятия;1;2;from
+Q127676;Trøndelag;карта местонахождения;1;1;from
+Q127676;Trøndelag;изображение;1;1;from
+Q127676;Trøndelag;государство;1;1;from
+Q127676;Trøndelag;административно делится на;1;1;to
+Q127676;Trøndelag;карта этой дороги;1;1;from
+Q127676;Trøndelag;административно-территориальная единица;1;108;to
+Q50630;Nordland;является столицей;1;1;to
+Q50630;Nordland;часовой пояс;1;1;from
+Q50630;Nordland;ID отношения в OpenStreetMap;1;1;from
+Q50630;Nordland;категория на Викискладе;1;1;from
+Q50627;Møre og Romsdal;общая тема категории;1;1;to
+Q50630;Nordland;код LCNAF;1;1;from
+Q50630;Nordland;карта местонахождения;1;1;from
+Q50630;Nordland;описание герба;1;1;from
+Q50630;Nordland;код GND;1;1;from
+Q50630;Nordland;код VIAF;1;1;from
+Q50630;Nordland;изображение;1;1;from
+Q50630;Nordland;государство;1;1;from
+Q50630;Nordland;административно делится на;1;2;to
+Q50630;Nordland;административно-территориальная единица;1;19790;to
+Q50627;Møre og Romsdal;местонахождение;1;1;to
+Q50630;Nordland;столица;1;1;from
+Q50627;Møre og Romsdal;категория объединяет темы;1;15;to
+Q50627;Møre og Romsdal;награда от;1;1;to
+Q50627;Møre og Romsdal;место рождения;1;2;to
+Q50627;Møre og Romsdal;юрисдикция распространяется на;1;6;to
+Q50627;Møre og Romsdal;зона обслуживания;1;7;to
+Q50627;Møre og Romsdal;место смерти;1;1;to
+Q50627;Møre og Romsdal;место жительства;1;1;to
+Q50627;Møre og Romsdal;является столицей;1;1;to
+Q50627;Møre og Romsdal;баннер Викигида;1;1;from
+Q50630;Nordland;это частный случай понятия;1;1;from
+Q50630;Nordland;изображение флага;1;1;from
+Q50630;Nordland;часть от;1;1;from
+Q50630;Nordland;название на языке оригинала;1;1;from
+Q50630;Nordland;код темы Quora;1;1;from
+Q50630;Nordland;ISO 3166-2;1;1;from
+Q50630;Nordland;используемый язык;1;2;from
+Q50630;Nordland;код BNF;1;1;from
+Q50630;Nordland;код BabelNet;1;1;from
+Q50630;Nordland;код YSO;1;1;from
+Q50630;Nordland;площадь;1;55;from
+Q50630;Nordland;числовой код SSR для названия;1;1;from
+Q50630;Nordland;категория для людей, связанных с местностью;1;1;from
+Q50630;Nordland;код GeoNames;1;1;from
+Q50630;Nordland;имеет границы с;1;6;to
+Q50630;Nordland;этнохороним;1;2;from
+Q50630;Nordland;категория для людей, умерших здесь;1;1;from
+Q50630;Nordland;категория для людей, родившихся здесь;1;1;from
+Q50630;Nordland;официальное название;1;1;from
+Q50630;Nordland;должность главы правительства;1;1;from
+Q50630;Nordland;численность населения;1;3;from
+Q50630;Nordland;десятичная классификация Дьюи;1;1;from
+Q50630;Nordland;изображение герба;1;1;from
+Q50630;Nordland;глава правительства;1;2;from
+Q56407178;Viken;заменён на;1;3;to

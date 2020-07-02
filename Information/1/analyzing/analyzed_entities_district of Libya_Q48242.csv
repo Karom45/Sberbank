@@ -1,0 +1,459 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q25632;Jabal al Gharbi District;административно-территориальная единица;1;16;to
+Q48239;Murzuq District;код GeoNames;1;1;from
+Q48239;Murzuq District;это частный случай понятия;1;1;from
+Q48239;Murzuq District;карта местонахождения;1;1;from
+Q48239;Murzuq District;изображение;1;1;from
+Q48239;Murzuq District;государство;1;1;from
+Q48239;Murzuq District;административно-территориальная единица;1;14;to
+Q48236;Ghat District;происходит из;1;1;to
+Q48236;Ghat District;административно делится на;1;1;to
+Q48236;Ghat District;общая тема категории;1;1;to
+Q48236;Ghat District;является столицей;1;1;to
+Q48236;Ghat District;основная категория по теме;1;1;from
+Q48236;Ghat District;Who's on First ID;1;1;from
+Q48236;Ghat District;код Freebase;1;1;from
+Q48236;Ghat District;географические координаты;1;1;from
+Q48236;Ghat District;ISO 3166-2;1;1;from
+Q48236;Ghat District;используемый язык;1;1;from
+Q48236;Ghat District;код GeoNames;1;1;from
+Q48236;Ghat District;столица;1;1;from
+Q48236;Ghat District;это частный случай понятия;1;1;from
+Q48236;Ghat District;карта местонахождения;1;1;from
+Q48236;Ghat District;изображение;1;1;from
+Q48236;Ghat District;государство;1;1;from
+Q48236;Ghat District;административно-территориальная единица;1;2;to
+Q48233;Wadi al Hayaa District;административно делится на;1;1;to
+Q48233;Wadi al Hayaa District;общая тема категории;1;1;to
+Q48233;Wadi al Hayaa District;является столицей;1;1;to
+Q48239;Murzuq District;столица;1;1;from
+Q48239;Murzuq District;площадь;1;1;from
+Q48247;Jufra;является столицей;1;1;to
+Q48239;Murzuq District;используемый язык;1;2;from
+Q48247;Jufra;FIPS 10-4 (страны и регионы);1;1;from
+Q48247;Jufra;Who's on First ID;1;1;from
+Q48247;Jufra;код Freebase;1;1;from
+Q48247;Jufra;географические координаты;1;1;from
+Q48247;Jufra;ISO 3166-2;1;1;from
+Q48247;Jufra;площадь;1;1;from
+Q48247;Jufra;код GeoNames;1;1;from
+Q48247;Jufra;описывается в источниках;1;1;from
+Q48247;Jufra;столица;1;1;from
+Q48247;Jufra;это частный случай понятия;1;1;from
+Q48247;Jufra;карта местонахождения;1;1;from
+Q48247;Jufra;изображение;1;1;from
+Q48247;Jufra;государство;1;1;from
+Q48247;Jufra;административно-территориальная единица;1;7;to
+Q48239;Murzuq District;происходит из;1;2;to
+Q48239;Murzuq District;административно делится на;1;1;to
+Q48239;Murzuq District;общая тема категории;1;1;to
+Q48239;Murzuq District;является столицей;1;1;to
+Q48239;Murzuq District;основная категория по теме;1;1;from
+Q48239;Murzuq District;FIPS 10-4 (страны и регионы);1;1;from
+Q48239;Murzuq District;Who's on First ID;1;1;from
+Q48239;Murzuq District;код Freebase;1;1;from
+Q48239;Murzuq District;географические координаты;1;1;from
+Q48239;Murzuq District;часовой пояс;1;1;from
+Q48239;Murzuq District;ISO 3166-2;1;1;from
+Q48233;Wadi al Hayaa District;основная категория по теме;1;1;from
+Q48233;Wadi al Hayaa District;Who's on First ID;1;1;from
+Q48233;Wadi al Hayaa District;код Freebase;1;1;from
+Q48233;Wadi al Hayaa District;географические координаты;1;1;from
+Q48200;Kufra District;является столицей;1;1;to
+Q48200;Kufra District;основная категория по теме;1;1;from
+Q48200;Kufra District;FIPS 10-4 (страны и регионы);1;1;from
+Q48200;Kufra District;Who's on First ID;1;1;from
+Q48200;Kufra District;код Freebase;1;1;from
+Q48200;Kufra District;географические координаты;1;1;from
+Q48200;Kufra District;ISO 3166-2;1;1;from
+Q48200;Kufra District;код BabelNet;1;1;from
+Q48200;Kufra District;площадь;1;1;from
+Q48200;Kufra District;код GeoNames;1;1;from
+Q48200;Kufra District;численность населения;1;1;from
+Q48200;Kufra District;столица;1;1;from
+Q48200;Kufra District;это частный случай понятия;1;1;from
+Q48200;Kufra District;карта местонахождения;1;1;from
+Q48200;Kufra District;изображение;1;1;from
+Q48200;Kufra District;государство;1;1;from
+Q48200;Kufra District;административно-территориальная единица;1;7;to
+Q33507;Benghazi district;общая тема категории;1;1;to
+Q33507;Benghazi district;административно-территориальная единица;1;5;to
+Q33507;Benghazi district;основная категория по теме;1;1;from
+Q33507;Benghazi district;Who's on First ID;1;1;from
+Q33507;Benghazi district;географические координаты;1;1;from
+Q33507;Benghazi district;столица;1;1;from
+Q33507;Benghazi district;это частный случай понятия;1;1;from
+Q33507;Benghazi district;карта местонахождения;1;1;from
+Q48200;Kufra District;общая тема категории;1;1;to
+Q48200;Kufra District;административно делится на;1;1;to
+Q48232;Wadi al Shatii District;административно-территориальная единица;1;3;to
+Q48232;Wadi al Shatii District;общая тема категории;1;1;to
+Q48233;Wadi al Hayaa District;категория на Викискладе;1;1;from
+Q48233;Wadi al Hayaa District;ISO 3166-2;1;1;from
+Q48233;Wadi al Hayaa District;код GeoNames;1;1;from
+Q48233;Wadi al Hayaa District;имеет границы с;1;1;to
+Q48233;Wadi al Hayaa District;столица;1;1;from
+Q48233;Wadi al Hayaa District;это частный случай понятия;1;1;from
+Q48233;Wadi al Hayaa District;карта местонахождения;1;1;from
+Q48233;Wadi al Hayaa District;изображение;1;1;from
+Q48233;Wadi al Hayaa District;государство;1;1;from
+Q48233;Wadi al Hayaa District;административно-территориальная единица;1;3;to
+Q48232;Wadi al Shatii District;административно делится на;1;1;to
+Q48232;Wadi al Shatii District;является столицей;1;1;to
+Q48232;Wadi al Shatii District;государство;1;1;from
+Q48232;Wadi al Shatii District;основная категория по теме;1;1;from
+Q48232;Wadi al Shatii District;FIPS 10-4 (страны и регионы);1;1;from
+Q48232;Wadi al Shatii District;Who's on First ID;1;1;from
+Q48232;Wadi al Shatii District;код Freebase;1;1;from
+Q48232;Wadi al Shatii District;географические координаты;1;1;from
+Q48232;Wadi al Shatii District;ISO 3166-2;1;1;from
+Q48232;Wadi al Shatii District;код GeoNames;1;1;from
+Q48232;Wadi al Shatii District;имеет границы с;1;1;to
+Q48232;Wadi al Shatii District;столица;1;1;from
+Q48232;Wadi al Shatii District;это частный случай понятия;1;1;from
+Q48232;Wadi al Shatii District;карта местонахождения;1;1;from
+Q48247;Jufra;основная категория по теме;1;1;from
+Q48247;Jufra;основная тема;1;1;to
+Q25632;Jabal al Gharbi District;государство;1;1;from
+Q1474013;Mizda;код Trismegistos;1;1;from
+Q1474013;Mizda;код GeoNames;1;1;from
+Q1474013;Mizda;это частный случай понятия;1;2;from
+Q1474013;Mizda;государство;1;1;from
+Q1474013;Mizda;административно-территориальная единица;1;1;from
+Q1366684;Bani Walid District;общая тема категории;1;1;to
+Q1366684;Bani Walid District;основная категория по теме;1;1;from
+Q1366684;Bani Walid District;код Freebase;1;1;from
+Q1366684;Bani Walid District;географические координаты;1;1;from
+Q1366684;Bani Walid District;не путать с;1;1;to
+Q1366684;Bani Walid District;это частный случай понятия;1;2;from
+Q1366684;Bani Walid District;государство;1;1;from
+Q1366672;Quba District;общая тема категории;1;1;to
+Q1366672;Quba District;основная категория по теме;1;1;from
+Q1366672;Quba District;код Freebase;1;1;from
+Q1366672;Quba District;географические координаты;1;1;from
+Q1366672;Quba District;это частный случай понятия;1;1;from
+Q1366672;Quba District;государство;1;1;from
+Q996865;Gharyan District;общая тема категории;1;1;to
+Q996865;Gharyan District;основная категория по теме;1;1;from
+Q996865;Gharyan District;FIPS 10-4 (страны и регионы);1;1;from
+Q996865;Gharyan District;код Freebase;1;1;from
+Q996865;Gharyan District;географические координаты;1;1;from
+Q996865;Gharyan District;десятичная классификация Дьюи;1;1;from
+Q996865;Gharyan District;это частный случай понятия;1;1;from
+Q996865;Gharyan District;изображение;1;1;from
+Q1474013;Mizda;код TGN;1;1;from
+Q1474013;Mizda;местонахождение;1;1;from
+Q48247;Jufra;общая тема категории;1;1;to
+Q1474013;Mizda;географические координаты;1;1;from
+Q1640928;Ajdabiya District;основная категория по теме;1;1;from
+Q1640928;Ajdabiya District;FIPS 10-4 (страны и регионы);1;1;from
+Q1640928;Ajdabiya District;код Freebase;1;1;from
+Q1640928;Ajdabiya District;географические координаты;1;1;from
+Q1640928;Ajdabiya District;это частный случай понятия;1;1;from
+Q1640928;Ajdabiya District;государство;1;1;from
+Q1544750;Tarhuna wa Msalata District;место рождения;1;1;to
+Q1544750;Tarhuna wa Msalata District;общая тема категории;1;1;to
+Q1544750;Tarhuna wa Msalata District;основная категория по теме;1;1;from
+Q1544750;Tarhuna wa Msalata District;код Freebase;1;1;from
+Q1544750;Tarhuna wa Msalata District;географические координаты;1;1;from
+Q1544750;Tarhuna wa Msalata District;это частный случай понятия;1;1;from
+Q1544750;Tarhuna wa Msalata District;государство;1;1;from
+Q1544730;Sabratha wa Sorman District;общая тема категории;1;1;to
+Q1544730;Sabratha wa Sorman District;административно-территориальная единица;1;1;to
+Q1544730;Sabratha wa Sorman District;основная категория по теме;1;1;from
+Q1544730;Sabratha wa Sorman District;код Freebase;1;1;from
+Q1544730;Sabratha wa Sorman District;географические координаты;1;1;from
+Q1544730;Sabratha wa Sorman District;код GeoNames;1;1;from
+Q1544730;Sabratha wa Sorman District;это частный случай понятия;1;2;from
+Q1544730;Sabratha wa Sorman District;государство;1;1;from
+Q1474013;Mizda;общая тема категории;1;1;to
+Q1474013;Mizda;основная категория по теме;1;1;from
+Q1474013;Mizda;Who's on First ID;1;1;from
+Q1474013;Mizda;Heritage Gazetteer of Libya ID;1;1;from
+Q996865;Gharyan District;государство;1;1;from
+Q965665;Yafran District;FIPS 10-4 (страны и регионы);1;1;from
+Q965665;Yafran District;код Freebase;1;1;from
+Q965665;Yafran District;географические координаты;1;1;from
+Q209778;Murqub;столица;1;1;from
+Q209778;Murqub;это частный случай понятия;1;1;from
+Q209778;Murqub;карта местонахождения;1;1;from
+Q209778;Murqub;изображение;1;1;from
+Q209778;Murqub;государство;1;1;from
+Q209778;Murqub;административно-территориальная единица;1;6;to
+Q209772;Hizam al Akhdar District;код Freebase;1;1;from
+Q209772;Hizam al Akhdar District;географические координаты;1;1;from
+Q209772;Hizam al Akhdar District;это частный случай понятия;1;1;from
+Q209772;Hizam al Akhdar District;государство;1;1;from
+Q209753;Tajura wa Arba‘ District;общая тема категории;1;1;to
+Q209753;Tajura wa Arba‘ District;основная категория по теме;1;1;from
+Q209753;Tajura wa Arba‘ District;код Freebase;1;1;from
+Q209753;Tajura wa Arba‘ District;географические координаты;1;1;from
+Q209753;Tajura wa Arba‘ District;это частный случай понятия;1;2;from
+Q209753;Tajura wa Arba‘ District;государство;1;1;from
+Q185227;Ghadames District;административно-территориальная единица;1;1;to
+Q185227;Ghadames District;общая тема категории;1;1;to
+Q185227;Ghadames District;основная категория по теме;1;1;from
+Q185227;Ghadames District;FIPS 10-4 (страны и регионы);1;1;from
+Q185227;Ghadames District;код Freebase;1;1;from
+Q185227;Ghadames District;географические координаты;1;1;from
+Q185227;Ghadames District;это частный случай понятия;1;1;from
+Q185227;Ghadames District;государство;1;1;from
+Q48247;Jufra;административно делится на;1;1;to
+Q209778;Murqub;код GeoNames;1;1;from
+Q209778;Murqub;ISO 3166-2;1;1;from
+Q209778;Murqub;географические координаты;1;1;from
+Q329060;Jafara;код GeoNames;1;1;from
+Q965665;Yafran District;не путать с;1;1;to
+Q965665;Yafran District;это частный случай понятия;1;1;from
+Q965665;Yafran District;государство;1;1;from
+Q329060;Jafara;административно делится на;1;1;to
+Q329060;Jafara;общая тема категории;1;1;to
+Q329060;Jafara;является столицей;1;1;to
+Q329060;Jafara;основная категория по теме;1;1;from
+Q329060;Jafara;Who's on First ID;1;1;from
+Q329060;Jafara;код Freebase;1;1;from
+Q329060;Jafara;географические координаты;1;1;from
+Q329060;Jafara;ISO 3166-2;1;1;from
+Q329060;Jafara;код в Большой каталанской энциклопедии;1;1;from
+Q209778;Murqub;код Freebase;1;1;from
+Q329060;Jafara;столица;1;1;from
+Q329060;Jafara;это частный случай понятия;1;1;from
+Q329060;Jafara;карта местонахождения;1;1;from
+Q329060;Jafara;изображение;1;1;from
+Q329060;Jafara;государство;1;1;from
+Q329060;Jafara;административно-территориальная единица;1;2;to
+Q209778;Murqub;административно делится на;1;1;to
+Q209778;Murqub;является столицей;1;1;to
+Q209778;Murqub;общая тема категории;1;1;to
+Q209778;Murqub;основная категория по теме;1;1;from
+Q209778;Murqub;Who's on First ID;1;1;from
+Q33507;Benghazi district;государство;1;1;from
+Q32845;Misrata District;административно делится на;1;1;to
+Q32845;Misrata District;общая тема категории;1;1;to
+Q26124;Derna District;основная категория по теме;1;1;from
+Q26124;Derna District;Who's on First ID;1;1;from
+Q26124;Derna District;код Freebase;1;1;from
+Q26124;Derna District;географические координаты;1;1;from
+Q26124;Derna District;код NE.se;1;1;from
+Q26124;Derna District;ISO 3166-2;1;1;from
+Q26124;Derna District;категория для людей, связанных с местностью;1;1;from
+Q26124;Derna District;код GeoNames;1;1;from
+Q26124;Derna District;заменил;1;1;from
+Q26124;Derna District;столица;1;1;from
+Q26124;Derna District;это частный случай понятия;1;1;from
+Q26124;Derna District;карта местонахождения;1;1;from
+Q26124;Derna District;изображение;1;1;from
+Q26124;Derna District;государство;1;1;from
+Q26124;Derna District;административно-территориальная единица;1;7;to
+Q26023;Marj District;административно делится на;1;1;to
+Q26023;Marj District;общая тема категории;1;1;to
+Q26023;Marj District;является столицей;1;1;to
+Q26023;Marj District;основная категория по теме;1;1;from
+Q26023;Marj District;Who's on First ID;1;1;from
+Q26023;Marj District;код Freebase;1;1;from
+Q26023;Marj District;географические координаты;1;1;from
+Q26023;Marj District;код темы Quora;1;1;from
+Q26023;Marj District;ISO 3166-2;1;1;from
+Q26023;Marj District;код BabelNet;1;1;from
+Q26023;Marj District;код GeoNames;1;1;from
+Q26124;Derna District;FIPS 10-4 (страны и регионы);1;1;from
+Q26124;Derna District;является столицей;1;1;to
+Q32845;Misrata District;местонахождение;1;1;to
+Q26124;Derna District;категория объединяет темы;1;1;to
+Q26153;Zawiya District;столица;1;1;from
+Q26153;Zawiya District;это частный случай понятия;1;1;from
+Q26153;Zawiya District;карта местонахождения;1;1;from
+Q26153;Zawiya District;изображение;1;1;from
+Q26153;Zawiya District;государство;1;1;from
+Q26153;Zawiya District;административно-территориальная единица;1;3;to
+Q26132;Sabha District;административно делится на;1;1;to
+Q26132;Sabha District;общая тема категории;1;1;to
+Q26132;Sabha District;является столицей;1;1;to
+Q26132;Sabha District;основная категория по теме;1;1;from
+Q26132;Sabha District;FIPS 10-4 (страны и регионы);1;1;from
+Q26132;Sabha District;Who's on First ID;1;1;from
+Q26132;Sabha District;код Freebase;1;1;from
+Q26132;Sabha District;географические координаты;1;1;from
+Q26132;Sabha District;ISO 3166-2;1;1;from
+Q26132;Sabha District;код GeoNames;1;1;from
+Q26132;Sabha District;столица;1;1;from
+Q26132;Sabha District;это частный случай понятия;1;1;from
+Q26132;Sabha District;карта местонахождения;1;1;from
+Q26132;Sabha District;изображение;1;1;from
+Q26132;Sabha District;государство;1;1;from
+Q26132;Sabha District;административно-территориальная единица;1;2;to
+Q26124;Derna District;административно делится на;1;1;to
+Q26124;Derna District;общая тема категории;1;1;to
+Q26124;Derna District;заменён на;1;1;to
+Q26023;Marj District;столица;1;1;from
+Q26023;Marj District;это частный случай понятия;1;1;from
+Q26023;Marj District;карта местонахождения;1;1;from
+Q26023;Marj District;изображение;1;1;from
+Q25931;Butnan District;код Freebase;1;1;from
+Q25931;Butnan District;географические координаты;1;1;from
+Q25931;Butnan District;ISO 3166-2;1;1;from
+Q25931;Butnan District;используемый язык;1;1;from
+Q25931;Butnan District;код GeoNames;1;1;from
+Q25931;Butnan District;столица;1;1;from
+Q25931;Butnan District;это частный случай понятия;1;1;from
+Q25931;Butnan District;карта местонахождения;1;1;from
+Q25931;Butnan District;изображение;1;1;from
+Q25931;Butnan District;государство;1;1;from
+Q25931;Butnan District;административно-территориальная единица;1;8;to
+Q25632;Jabal al Gharbi District;происходит из;1;1;to
+Q25632;Jabal al Gharbi District;административно делится на;1;1;to
+Q25632;Jabal al Gharbi District;является столицей;1;1;to
+Q25632;Jabal al Gharbi District;общая тема категории;1;1;to
+Q25632;Jabal al Gharbi District;основная категория по теме;1;1;from
+Q25632;Jabal al Gharbi District;код Freebase;1;1;from
+Q25632;Jabal al Gharbi District;географические координаты;1;1;from
+Q25632;Jabal al Gharbi District;ISO 3166-2;1;1;from
+Q25632;Jabal al Gharbi District;используемый язык;1;1;from
+Q25632;Jabal al Gharbi District;код GeoNames;1;1;from
+Q25632;Jabal al Gharbi District;столица;1;1;from
+Q25632;Jabal al Gharbi District;это частный случай понятия;1;1;from
+Q25632;Jabal al Gharbi District;карта местонахождения;1;1;from
+Q25632;Jabal al Gharbi District;изображение;1;1;from
+Q25931;Butnan District;Who's on First ID;1;1;from
+Q25931;Butnan District;FIPS 10-4 (страны и регионы);1;1;from
+Q25931;Butnan District;основная категория по теме;1;1;from
+Q26000;Al Wahat District;ISO 3166-2;1;1;from
+Q26023;Marj District;государство;1;1;from
+Q26023;Marj District;административно-территориальная единица;1;3;to
+Q26000;Al Wahat District;происходит из;1;1;to
+Q26000;Al Wahat District;административно делится на;1;1;to
+Q26000;Al Wahat District;общая тема категории;1;1;to
+Q26000;Al Wahat District;является столицей;1;1;to
+Q26000;Al Wahat District;основная категория по теме;1;1;from
+Q26000;Al Wahat District;официальный сайт;1;1;from
+Q26000;Al Wahat District;Who's on First ID;1;1;from
+Q26000;Al Wahat District;код Freebase;1;1;from
+Q26000;Al Wahat District;географические координаты;1;1;from
+Q26000;Al Wahat District;используемый язык;1;1;from
+Q25931;Butnan District;является столицей;1;1;to
+Q26000;Al Wahat District;площадь;1;1;from
+Q26000;Al Wahat District;код GeoNames;1;1;from
+Q26000;Al Wahat District;столица;1;1;from
+Q26000;Al Wahat District;это частный случай понятия;1;1;from
+Q26000;Al Wahat District;карта местонахождения;1;1;from
+Q26000;Al Wahat District;изображение;1;1;from
+Q26000;Al Wahat District;государство;1;1;from
+Q26000;Al Wahat District;административно-территориальная единица;1;5;to
+Q25931;Butnan District;происходит из;1;1;to
+Q25931;Butnan District;административно делится на;1;1;to
+Q25931;Butnan District;общая тема категории;1;1;to
+Q26153;Zawiya District;код GeoNames;1;1;from
+Q26153;Zawiya District;код BabelNet;1;1;from
+Q26153;Zawiya District;ISO 3166-2;1;1;from
+Q27659;Nalut District;является столицей;1;1;to
+Q32841;Jabal al Akhdar;столица;1;1;from
+Q32841;Jabal al Akhdar;это частный случай понятия;1;2;from
+Q32841;Jabal al Akhdar;карта местонахождения;1;1;from
+Q32841;Jabal al Akhdar;изображение;1;1;from
+Q32841;Jabal al Akhdar;государство;1;1;from
+Q32841;Jabal al Akhdar;административно-территориальная единица;1;6;to
+Q32837;Tripoli District;административно делится на;1;1;to
+Q32837;Tripoli District;общая тема категории;1;1;to
+Q32837;Tripoli District;происходит из;1;2;to
+Q32837;Tripoli District;основная категория по теме;1;1;from
+Q32837;Tripoli District;FIPS 10-4 (страны и регионы);1;1;from
+Q32837;Tripoli District;Who's on First ID;1;1;from
+Q32837;Tripoli District;код Freebase;1;1;from
+Q32837;Tripoli District;географические координаты;1;1;from
+Q32837;Tripoli District;ISO 3166-2;1;1;from
+Q32837;Tripoli District;используемый язык;1;2;from
+Q32837;Tripoli District;код GeoNames;1;1;from
+Q32837;Tripoli District;столица;1;1;from
+Q32837;Tripoli District;это частный случай понятия;1;2;from
+Q32837;Tripoli District;карта местонахождения;1;1;from
+Q32837;Tripoli District;изображение;1;1;from
+Q32837;Tripoli District;государство;1;1;from
+Q32837;Tripoli District;административно-территориальная единица;1;1;to
+Q27659;Nalut District;происходит из;1;2;to
+Q27659;Nalut District;административно делится на;1;1;to
+Q32841;Jabal al Akhdar;код GeoNames;1;1;from
+Q32841;Jabal al Akhdar;код BabelNet;1;1;from
+Q32841;Jabal al Akhdar;ISO 3166-2;1;1;from
+Q32845;Misrata District;это частный случай понятия;1;1;from
+Q32845;Misrata District;является столицей;1;1;to
+Q32845;Misrata District;место в MusicBrainz;1;1;from
+Q32845;Misrata District;основная категория по теме;1;1;from
+Q32845;Misrata District;FIPS 10-4 (страны и регионы);1;1;from
+Q32845;Misrata District;Who's on First ID;1;1;from
+Q32845;Misrata District;код Freebase;1;1;from
+Q32845;Misrata District;географические координаты;1;1;from
+Q32845;Misrata District;часовой пояс;1;1;from
+Q32845;Misrata District;ISO 3166-2;1;1;from
+Q32845;Misrata District;код GeoNames;1;1;from
+Q32845;Misrata District;столица;1;1;from
+Q32845;Misrata District;карта местонахождения;1;1;from
+Q32841;Jabal al Akhdar;содержит;1;1;from
+Q32845;Misrata District;изображение;1;1;from
+Q32845;Misrata District;государство;1;1;from
+Q32845;Misrata District;административно-территориальная единица;1;18;to
+Q32841;Jabal al Akhdar;является столицей;1;1;to
+Q32841;Jabal al Akhdar;административно делится на;1;1;to
+Q32841;Jabal al Akhdar;общая тема категории;1;1;to
+Q32841;Jabal al Akhdar;основная категория по теме;1;1;from
+Q32841;Jabal al Akhdar;FIPS 10-4 (страны и регионы);1;1;from
+Q32841;Jabal al Akhdar;Who's on First ID;1;1;from
+Q32841;Jabal al Akhdar;код Freebase;1;1;from
+Q32841;Jabal al Akhdar;географические координаты;1;1;from
+Q27659;Nalut District;общая тема категории;1;1;to
+Q27659;Nalut District;основная категория по теме;1;1;from
+Q26153;Zawiya District;географические координаты;1;1;from
+Q27659;Nalut District;код Freebase;1;1;from
+Q26417;Sirte District;государство;1;1;from
+Q26417;Sirte District;административно-территориальная единица;1;11;to
+Q26161;Nuqat al Khams;административно делится на;1;1;to
+Q26161;Nuqat al Khams;общая тема категории;1;1;to
+Q26161;Nuqat al Khams;является столицей;1;1;to
+Q26161;Nuqat al Khams;основная категория по теме;1;1;from
+Q26161;Nuqat al Khams;FIPS 10-4 (страны и регионы);1;1;from
+Q26161;Nuqat al Khams;Who's on First ID;1;1;from
+Q26161;Nuqat al Khams;код Freebase;1;1;from
+Q26161;Nuqat al Khams;географические координаты;1;1;from
+Q26161;Nuqat al Khams;ISO 3166-2;1;1;from
+Q26161;Nuqat al Khams;код GeoNames;1;1;from
+Q26161;Nuqat al Khams;столица;1;1;from
+Q26161;Nuqat al Khams;это частный случай понятия;1;1;from
+Q26161;Nuqat al Khams;карта местонахождения;1;1;from
+Q26161;Nuqat al Khams;изображение;1;1;from
+Q26161;Nuqat al Khams;государство;1;1;from
+Q26161;Nuqat al Khams;административно-территориальная единица;1;6;to
+Q26153;Zawiya District;административно делится на;1;1;to
+Q26153;Zawiya District;общая тема категории;1;1;to
+Q26153;Zawiya District;является столицей;1;1;to
+Q26153;Zawiya District;основная категория по теме;1;1;from
+Q26153;Zawiya District;FIPS 10-4 (страны и регионы);1;1;from
+Q26153;Zawiya District;Who's on First ID;1;1;from
+Q26153;Zawiya District;код Freebase;1;1;from
+Q26417;Sirte District;изображение;1;1;from
+Q26417;Sirte District;карта местонахождения;1;1;from
+Q26417;Sirte District;это частный случай понятия;1;1;from
+Q26417;Sirte District;общая тема категории;1;1;to
+Q27659;Nalut District;географические координаты;1;1;from
+Q27659;Nalut District;ISO 3166-2;1;1;from
+Q27659;Nalut District;используемый язык;1;2;from
+Q27659;Nalut District;код GeoNames;1;1;from
+Q27659;Nalut District;столица;1;1;from
+Q27659;Nalut District;это частный случай понятия;1;1;from
+Q27659;Nalut District;карта местонахождения;1;1;from
+Q27659;Nalut District;изображение;1;1;from
+Q27659;Nalut District;государство;1;1;from
+Q27659;Nalut District;административно-территориальная единица;1;9;to
+Q26417;Sirte District;административно делится на;1;1;to
+Q26417;Sirte District;местонахождение;1;1;to
+Q26417;Sirte District;столица;1;1;from
+Q26417;Sirte District;является столицей;1;1;to
+Q26417;Sirte District;основная категория по теме;1;1;from
+Q26417;Sirte District;FIPS 10-4 (страны и регионы);1;1;from
+Q26417;Sirte District;Who's on First ID;1;1;from
+Q26417;Sirte District;код Freebase;1;1;from
+Q26417;Sirte District;географические координаты;1;1;from
+Q26417;Sirte District;часовой пояс;1;1;from
+Q26417;Sirte District;ISO 3166-2;1;1;from
+Q26417;Sirte District;код BabelNet;1;1;from
+Q26417;Sirte District;площадь;1;1;from
+Q26417;Sirte District;код GeoNames;1;1;from
+Q1640928;Ajdabiya District;общая тема категории;1;1;to

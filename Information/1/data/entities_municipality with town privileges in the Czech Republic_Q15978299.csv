@@ -1,0 +1,573 @@
+﻿entity;label
+Q1085;Prague
+Q14960;Brno
+Q16506;České Budějovice
+Q20492;Bechyně
+Q29704;Hodkovice nad Mohelkou
+Q63855;Roudnice nad Labem
+Q104587;Kyjov
+Q105198;Veselí nad Moravou
+Q143664;Dvůr Králové nad Labem
+Q146351;Liberec
+Q146363;Most
+Q147816;Harrachov
+Q149097;Jirkov
+Q149103;Rumburk
+Q149105;Tanvald
+Q149108;Jablunkov
+Q149229;Mimoň
+Q149320;Veverská Bítýška
+Q149592;Desná
+Q155975;Kutná Hora
+Q158239;Kroměříž
+Q158245;Písek
+Q158247;Jablonné v Podještědí
+Q158257;Hlučín
+Q158263;Polná
+Q158268;Klášterec nad Ohří
+Q158272;Žamberk
+Q158274;Kadaň
+Q158275;Varnsdorf
+Q158280;Dobřichovice
+Q158420;Červený Kostelec
+Q158423;Buštěhrad
+Q158429;Velká Bíteš
+Q158432;Stochov
+Q158435;Vrbno pod Pradědem
+Q158456;Libčice nad Vltavou
+Q158584;Duchcov
+Q161060;Přibyslav
+Q161513;Tišnov
+Q163881;Ivanovice na Hané
+Q164527;Vysoké nad Jizerou
+Q166255;Horšovský Týn
+Q168234;Zbiroh
+Q168900;Zbýšov
+Q169133;Zdice
+Q175197;Kunovice
+Q176289;Klimkovice
+Q183111;Jihlava
+Q188062;Kynšperk nad Ohří
+Q188082;Český Krumlov
+Q191097;Tachov
+Q193719;Cheb
+Q193721;Tábor
+Q193724;Slavkov u Brna
+Q205616;Koryčany
+Q207222;Zlaté Hory
+Q207251;Zliv
+Q214956;Znojmo
+Q225572;Lučany nad Nisou
+Q227189;Zruč nad Sázavou
+Q227614;Zubří
+Q239597;Neratovice
+Q240986;Veltrusy
+Q246634;Zábřeh
+Q246837;Zákupy
+Q247006;Zásmuky
+Q264897;Hostouň
+Q270704;Třebíč
+Q280020;Černošín
+Q280873;Teplice nad Metují
+Q282028;Seč
+Q291237;Klecany
+Q303478;Kravaře
+Q304189;Strážnice
+Q319731;Abertamy
+Q320939;Mělník
+Q320950;Trutnov
+Q321778;Hodonín
+Q327749;Železná Ruda
+Q327764;Prachatice
+Q330055;Újezd u Brna
+Q330259;Úpice
+Q330302;Úsov
+Q330409;Ústí nad Orlicí
+Q330493;Úterý
+Q330653;Úvaly
+Q330717;Úštěk
+Q331306;Šenov
+Q338616;Čelákovice
+Q339102;Černovice
+Q339112;Černošice
+Q339862;Červená Řečice
+Q340680;Česká Kamenice
+Q341053;Česká Skalice
+Q341056;Česká Třebová
+Q341197;České Velenice
+Q341223;Český Brod
+Q341243;Český Dub
+Q341777;Čáslav
+Q368796;Jilemnice
+Q368888;Sedlec-Prčice
+Q368929;Jindřichův Hradec
+Q371321;Šlapanice
+Q373804;Telč
+Q373951;Třebenice
+Q375651;Valašské Meziříčí
+Q378120;Žižkov
+Q383850;Litovel
+Q384403;Litoměřice
+Q386026;Orlová
+Q386988;Říčany
+Q387840;Chlumec
+Q388235;Libáň
+Q390177;Petřvald
+Q392166;Šluknov
+Q392285;Špindlerův Mlýn
+Q392429;Šternberk
+Q392466;Štramberk
+Q392544;Štíty
+Q392624;Štětí
+Q392692;Šumperk
+Q392779;Švihov
+Q393326;Žacléř
+Q393378;Žandov
+Q393426;Žatec
+Q393439;Ždánice
+Q393457;Ždírec nad Doubravou
+Q393474;Žebrák
+Q393519;Železnice
+Q393592;Železný Brod
+Q393955;Židlochovice
+Q394108;Žirovnice
+Q394241;Žlutice
+Q394278;Žulová
+Q394453;Žďár nad Sázavou
+Q430661;Chotěboř
+Q430864;Nymburk
+Q431111;Nejdek
+Q431739;Přebuz
+Q470369;Kolín
+Q502993;Uherské Hradiště
+Q508591;Police nad Metují
+Q509207;Volary
+Q512631;Bochov
+Q513417;Vsetín
+Q518360;Bílina
+Q523469;Mariánské Lázně
+Q523489;Terezín
+Q528324;Krásné Údolí
+Q528536;Andělská Hora
+Q541071;Hulín
+Q542224;Hejnice
+Q546673;Osek
+Q573642;Kelč
+Q579957;Dubňany
+Q580155;Strážov
+Q583910;Aš
+Q587388;Mohelnice
+Q590362;Planá nad Lužnicí
+Q591823;Náchod
+Q593629;Krupka
+Q597011;Slušovice
+Q601254;Dubí
+Q602976;Klatovy
+Q612646;Veselí nad Lužnicí
+Q615138;Soběslav
+Q616317;Bezdružice
+Q630358;Sedlčany
+Q637024;Bystré
+Q638306;Hranice
+Q639814;Plánice
+Q641158;Horažďovice
+Q646294;Rožmberk nad Vltavou
+Q646364;Rájec-Jestřebí
+Q647921;Březová
+Q648418;Březová nad Svitavou
+Q652710;Letovice
+Q654019;Příbor
+Q656603;Jičín
+Q662194;Velké Bílovice
+Q663186;Stárkov
+Q664895;Uherský Brod
+Q668190;Hradec nad Moravicí
+Q668247;Pyšely
+Q668695;Frenštát pod Radhoštěm
+Q677551;Svoboda nad Úpou
+Q682361;Uničov
+Q682544;Mikulov
+Q683165;Poděbrady
+Q691467;Hanušovice
+Q703158;Velké Meziříčí
+Q703182;Kašperské Hory
+Q704033;Hrádek nad Nisou
+Q722732;Litomyšl
+Q727383;Sokolov
+Q729166;Vysoké Veselí
+Q740292;Horní Cerekev
+Q740863;Česká Lípa
+Q740915;Fulnek
+Q742108;Sedlice
+Q742932;Solnice
+Q745031;Lom
+Q746111;Pacov
+Q748211;Old Town
+Q750224;Strakonice
+Q753289;Malá Strana
+Q755698;Svitavy
+Q756581;Františkovy Lázně
+Q761439;Moravský Krumlov
+Q763045;Miroslav
+Q765670;Borohrádek
+Q766465;Milovice
+Q773312;Třeboň
+Q775651;Plesná
+Q775776;Bystřice
+Q776426;Bučovice
+Q781530;Votice
+Q782147;Valtice
+Q786762;Hroznětín
+Q791533;Bavorov
+Q804395;Blatná
+Q804489;Bakov nad Jizerou
+Q815541;Týn nad Vltavou
+Q817141;Benešov nad Ploučnicí
+Q818540;Benátky nad Jizerou
+Q827041;Beroun
+Q830418;Jáchymov
+Q841296;Příbram
+Q842929;Nepomuk
+Q849439;Kopřivnice
+Q850676;Blansko
+Q851419;Turnov
+Q854597;Bečov nad Teplou
+Q855757;Bělčice
+Q885482;Blovice
+Q887281;Blšany
+Q890949;Bohumín
+Q891004;Bohušovice nad Ohří
+Q891190;Bojkovice
+Q893268;Bor
+Q894102;Borovany
+Q894440;Boskovice
+Q896422;Boží Dar
+Q898464;Brandýs nad Orlicí
+Q898468;Brandýs nad Labem-Stará Boleslav
+Q915051;Modřice
+Q920634;Lázně Bohdaneč
+Q924085;Horní Slavkov
+Q929808;Město Touškov
+Q933400;Hranice
+Q933480;Luhačovice
+Q934703;Kouřim
+Q936145;Loket
+Q937688;Strmilov
+Q941061;Bystřice pod Hostýnem
+Q942842;Smíchov
+Q944051;Horní Jiřetín
+Q946743;Skalná
+Q946780;Lanžhot
+Q946789;Luby
+Q950352;Brtnice
+Q954569;Vyškov
+Q954596;Havlíčkův Brod
+Q954611;Jeseník
+Q954808;Kaplice
+Q958157;Sezimovo Ústí
+Q959574;Mirošov
+Q965987;Všeruby
+Q968615;Nový Knín
+Q978446;Trmice
+Q978707;Hořovice
+Q985047;Nasavrky
+Q985465;Rakovník
+Q986070;Chrudim
+Q986077;Frýdlant
+Q986082;Litvínov
+Q987487;Ostrov
+Q987496;Kralupy nad Vltavou
+Q990988;Broumov
+Q992481;Brumov-Bylnice
+Q994946;Brušperk
+Q999899;Třešť
+Q999916;Vysoké Mýto
+Q999937;Chodov
+Q999961;Jaroměř
+Q1000029;Kraslice
+Q1000033;Lanškroun
+Q1000046;Kuřim
+Q1000056;Sušice
+Q1000060;Humpolec
+Q1000069;Lovosice
+Q1000073;Pelhřimov
+Q1000078;Moravská Třebová
+Q1000086;Nový Bor
+Q1000091;Rychnov nad Kněžnou
+Q1000097;Lázně Kynžvart
+Q1000101;Vlašim
+Q1000467;Hostinné
+Q1000475;Sázava
+Q1001501;Budišov nad Budišovkou
+Q1001600;Teplá
+Q1001639;Světlá nad Sázavou
+Q1001647;Budyně nad Ohří
+Q1008589;Plasy
+Q1008595;Vrchlabí
+Q1008610;Vizovice
+Q1008656;Cvikov
+Q1008677;Horní Blatná
+Q1008686;Ivančice
+Q1008696;Rožnov pod Radhoštěm
+Q1008737;Semily
+Q1008750;Stříbro
+Q1008983;Vodňany
+Q1008991;Kojetín
+Q1009003;Staré Město
+Q1009009;Nová Role
+Q1009071;Vracov
+Q1009095;Otrokovice
+Q1010131;Frýdlant nad Ostravicí
+Q1010144;Hluboká nad Vltavou
+Q1010158;Letohrad
+Q1010617;Libochovice
+Q1010667;Mšeno
+Q1011066;Stod
+Q1011641;Golčův Jeníkov
+Q1013838;Chyše
+Q1013843;Dačice
+Q1013850;Rýmařov
+Q1013858;Chlumec nad Cidlinou
+Q1013864;Hluk
+Q1013885;Chrastava
+Q1013898;Toužim
+Q1013909;Slaný
+Q1013914;Polička
+Q1013919;Vimperk
+Q1014994;Nalžovské Hory
+Q1015011;Milevsko
+Q1015273;Nové Strašecí
+Q1015409;Bílovec
+Q1015933;Moravský Beroun
+Q1017045;Protivín
+Q1017054;Oloví
+Q1017227;Nýřany
+Q1017232;Chropyně
+Q1017240;Kralovice
+Q1017247;Podbořany
+Q1017251;Nová Paka
+Q1017261;Rotava
+Q1017282;Horní Jelení
+Q1017769;Mnichovo Hradiště
+Q1017806;Nové Sedlo
+Q1017889;Volyně
+Q1018003;Habartov
+Q1018329;Odry
+Q1018341;Přelouč
+Q1018700;Bystřice nad Pernštejnem
+Q1018795;Bzenec
+Q1018854;Rychvald
+Q1018857;Nový Bydžov
+Q1018859;Lysá nad Labem
+Q1018863;Chýnov
+Q1019083;Napajedla
+Q1019315;Trhové Sviny
+Q1019326;Chabařovice
+Q1019335;Jílové u Prahy
+Q1019339;Město Albrechtice
+Q1019341;Velký Šenov
+Q1019344;Vamberk
+Q1019349;Olešnice
+Q1019355;Nové Hrady
+Q1019360;Dobřany
+Q1019365;Hronov
+Q1019371;Studénka
+Q1019471;Hrob
+Q1019675;Nové Město nad Metují
+Q1019688;Vyšší Brod
+Q1019831;Postoloprty
+Q1019844;Přimda
+Q1019936;Choceň
+Q1019942;Bělá pod Bezdězem
+Q1019956;Moravské Budějovice
+Q1019961;Kamenice nad Lipou
+Q1019970;Březnice
+Q1019988;Janské Lázně
+Q1020874;Přeštice
+Q1020927;Luže
+Q1021080;Lipník nad Bečvou
+Q1021090;Doksy
+Q1021103;Meziboří
+Q1022054;Bělá nad Radbuzou
+Q1022223;Břidličná
+Q1022960;Třemošnice
+Q1022962;Velká Bystřice
+Q1022963;Smečno
+Q1023451;Jaroměřice nad Rokytnou
+Q1023454;Plumlov
+Q1023466;Dolní Kounice
+Q1023810;Klobouky u Brna
+Q1023848;Podivín
+Q1023875;Hustopeče
+Q1024881;Velvary
+Q1025109;Lipnice nad Sázavou
+Q1025158;Javorník
+Q1025162;Vidnava
+Q1025172;Janov
+Q1025213;Rosice
+Q1027604;Uherský Ostroh
+Q1027617;Sezemice
+Q1027639;Dašice
+Q1027935;Karolinka
+Q1027943;Mnichovice
+Q1027959;Loštice
+Q1028003;Velké Pavlovice
+Q1028040;Dobrovice
+Q1028241;Chvaletice
+Q1076872;Chrast
+Q1091181;Chřibská
+Q1150268;Meziměstí
+Q1207480;Deštná
+Q1228928;Dobruška
+Q1236048;Dolní Benešov
+Q1236197;Dolní Poustevna
+Q1258284;Raspenava
+Q1261993;Tovačov
+Q1263301;Dubá
+Q1279557;Rajhrad
+Q1290479;Ledeč nad Sázavou
+Q1298137;Sadská
+Q1303768;Lomnice nad Popelkou
+Q1321460;Králíky
+Q1332348;Verneřice
+Q1332942;Skuteč
+Q1381784;Kunštát
+Q1394252;Kosmonosy
+Q1401340;Vlachovo Březí
+Q1406706;Výsluní
+Q1407742;Horní Bříza
+Q1416480;Proseč
+Q1420776;Ronov nad Doubravou
+Q1422132;Velké Opatovice
+Q1430746;Košťany
+Q1431223;Vroutek
+Q1433206;Hlinsko
+Q1444566;Staré Město
+Q1456612;Mladá Vožice
+Q1471150;Fryšták
+Q1475736;Mýto
+Q1476819;Valašské Klobouky
+Q1501040;Hartmanice
+Q1520116;Radnice
+Q1531214;Netolice
+Q1564700;Lišov
+Q1566973;Habry
+Q1575979;Vratimov
+Q1588293;Měčín
+Q1617117;Heřmanův Městec
+Q1624693;Holice
+Q1625820;Holýšov
+Q1627837;Hora Svaté Kateřiny
+Q1628630;Horní Benešov
+Q1628741;Horní Planá
+Q1630623;Hostivice
+Q2092257;Rožmitál pod Třemšínem
+Q2092696;Rabí
+Q2093942;Smiřice
+Q2164902;Rovensko pod Troskami
+Q2192982;Jesenice
+Q2278031;Krásná Hora nad Vltavou
+Q2302958;Větřní
+Q2305015;Suchdol nad Lužnicí
+Q2427117;Mníšek pod Brdy
+Q2427155;Náměšť nad Oslavou
+Q2702822;Jistebnice
+Q1630641;Hostomice
+Q1632233;Hoštka
+Q1632354;Rudná
+Q1632441;Miletín
+Q1632450;Jevíčko
+Q1632454;Hrotovice
+Q1632458;Staňkov
+Q1632475;Ledvice
+Q1632522;Hrušovany nad Jevišovkou
+Q1632615;Hrádek
+Q1632616;Počátky
+Q1638949;Husinec
+Q1641681;Neveklov
+Q1641693;Mirovice
+Q1641699;Libušín
+Q1641705;Slavičín
+Q1641712;Spálené Poříčí
+Q1641717;Kostelec nad Černými lesy
+Q1641736;Pohořelice
+Q1641742;Pec pod Sněžkou
+Q1641748;Manětín
+Q1641754;Potštát
+Q1641774;Starý Plzenec
+Q1641781;Vítkov
+Q1641787;Kasejovice
+Q1641793;Jevišovice
+Q1641799;Týnec nad Labem
+Q1641811;Mirotice
+Q1641823;Stráž nad Nežárkou
+Q1641829;Jiříkov
+Q1645575;Kostelec nad Orlicí
+Q1670040;Jemnice
+Q1676863;Jablonec nad Jizerou
+Q1676870;Jablonné nad Orlicí
+Q1682956;Janovice nad Úhlavou
+Q1688065;Jesenice
+Q1713787;Rudolfov
+Q1715023;Jílové
+Q1720340;Rokytnice v Orlických horách
+Q1722954;Kamenický Šenov
+Q1727398;Slavonice
+Q1729076;Kardašova Řečice
+Q1737551;Kaznějov
+Q1737652;Kdyně
+Q1744198;Kladruby
+Q1751518;Vejprty
+Q1756903;Nýrsko
+Q1756908;Nechanice
+Q1756917;Sobotka
+Q1756925;Mikulášovice
+Q1756935;Oslavany
+Q1756940;Planá
+Q1756960;Poběžovice
+Q1756968;Roztoky
+Q1757182;Slatiňany
+Q1757191;Krásná Lípa
+Q1761686;Stráž pod Ralskem
+Q1761692;Osečná
+Q1778456;Kryry
+Q1781657;Konice
+Q1782229;Uhlířské Janovice
+Q1784043;Kopidlno
+Q1785187;Kostelec na Hané
+Q1785189;Kostelec nad Labem
+Q1785887;Kožlany
+Q1789604;Krnov
+Q1790512;Králův Dvůr
+Q1790515;Krásno
+Q1800827;Mašťov
+Q1810187;Pilníkov
+Q1812126;Velké Hamry
+Q1813776;Pečky
+Q1818179;Lomnice nad Lužnicí
+Q1818241;Rousínov
+Q1823216;Liběchov
+Q1852454;Třemošná
+Q1852528;Třebechovice pod Orebem
+Q1852542;Odolena Voda
+Q1852569;Týnec nad Sázavou
+Q1852613;Rychnov u Jablonce nad Nisou
+Q1853577;Svratka
+Q1854528;Trhový Štěpánov
+Q1861138;Městec Králové
+Q1861148;Nové Město pod Smrkem
+Q1861156;Nová Včelnice
+Q1872383;Loučná pod Klínovcem
+Q1894625;Rokytnice nad Jizerou
+Q1935413;Nová Bystřice
+Q1936067;Smržovka
+Q1948234;Morkovice-Slížany
+Q2002875;Týniště nad Orlicí
+Q2003956;Rožďalovice
+Q2007259;Němčice nad Hanou
+Q2010709;Paskov
+Q2034281;Rejštejn
+Q2064097;Hrochův Týnec
+Q2069370;Ralsko
+Q2092152;Velešín
+Q2092235;Rtyně v Podkrkonoší

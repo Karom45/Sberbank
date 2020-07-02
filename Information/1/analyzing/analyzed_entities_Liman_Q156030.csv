@@ -1,0 +1,185 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q323265;Unterwarnow;административно-территориальная единица;1;1;from
+Q2619452;Tylihul Estuary;площадь;1;1;from
+Q2619452;Tylihul Estuary;административно-территориальная единица;1;2;from
+Q2619452;Tylihul Estuary;государство;1;1;from
+Q2619452;Tylihul Estuary;изображение;1;1;from
+Q2619452;Tylihul Estuary;впадающие в озеро реки;1;1;from
+Q2619452;Tylihul Estuary;это частный случай понятия;1;2;from
+Q2619452;Tylihul Estuary;статус наследия;1;1;from
+Q2619452;Tylihul Estuary;код GeoNames;1;1;from
+Q2619452;Tylihul Estuary;длина;1;1;from
+Q2619452;Tylihul Estuary;высота над уровнем моря;1;1;from
+Q2619452;Tylihul Estuary;ширина;1;1;from
+Q323265;Unterwarnow;государство;1;1;from
+Q2619452;Tylihul Estuary;объём;1;1;from
+Q2619452;Tylihul Estuary;часть от;1;1;from
+Q2619452;Tylihul Estuary;категория на Викискладе;1;1;from
+Q2619452;Tylihul Estuary;вертикальная глубина;1;1;from
+Q2619452;Tylihul Estuary;географические координаты;1;1;from
+Q2619452;Tylihul Estuary;код Freebase;1;1;from
+Q2619452;Tylihul Estuary;приток;1;3;from
+Q2619452;Tylihul Estuary;впадает в;1;3;to
+Q2619452;Tylihul Estuary;находится на берегу водоёма;1;9;to
+Q2449239;Burnas Lagoon;местонахождение;1;1;to
+Q2449239;Burnas Lagoon;впадает в;1;1;to
+Q2449239;Burnas Lagoon;находится на берегу водоёма;1;6;to
+Q2449239;Burnas Lagoon;приток;1;1;from
+Q2392933;Budaki Lagoon;название на языке оригинала;1;1;from
+Q2392933;Budaki Lagoon;категория на Викискладе;1;1;from
+Q2392933;Budaki Lagoon;код в Энциклопедии современной Украины;1;1;from
+Q2392933;Budaki Lagoon;географические координаты;1;1;from
+Q2392933;Budaki Lagoon;код Freebase;1;1;from
+Q2392933;Budaki Lagoon;часть от;1;1;to
+Q2392933;Budaki Lagoon;находится на берегу водоёма;1;3;to
+Q2449239;Burnas Lagoon;административно-территориальная единица;1;2;from
+Q2449239;Burnas Lagoon;государство;1;1;from
+Q2449239;Burnas Lagoon;изображение;1;1;from
+Q2449239;Burnas Lagoon;это частный случай понятия;1;2;from
+Q2449239;Burnas Lagoon;код GeoNames;1;1;from
+Q2449239;Burnas Lagoon;длина;1;1;from
+Q2449239;Burnas Lagoon;ширина;1;1;from
+Q2449239;Burnas Lagoon;часть от;1;1;from
+Q2449239;Burnas Lagoon;категория на Викискладе;1;1;from
+Q2449239;Burnas Lagoon;вертикальная глубина;1;1;from
+Q2449239;Burnas Lagoon;географические координаты;1;1;from
+Q2449239;Burnas Lagoon;код Freebase;1;1;from
+Q4073189;Akhtanizovskiy Liman;государство;1;1;from
+Q4073189;Akhtanizovskiy Liman;это частный случай понятия;1;2;from
+Q4073189;Akhtanizovskiy Liman;код GeoNames;1;1;from
+Q12085364;Budury Lagoon;административно-территориальная единица;1;1;from
+Q12085364;Budury Lagoon;это частный случай понятия;1;2;from
+Q12085364;Budury Lagoon;часть от;1;1;from
+Q12085364;Budury Lagoon;географические координаты;1;1;from
+Q14213239;Korission Lagoon;административно-территориальная единица;1;1;from
+Q14213239;Korission Lagoon;государство;1;1;from
+Q14213239;Korission Lagoon;изображение;1;1;from
+Q14213239;Korission Lagoon;это частный случай понятия;1;1;from
+Q14213239;Korission Lagoon;длина;1;1;from
+Q14213239;Korission Lagoon;ширина;1;1;from
+Q14213239;Korission Lagoon;категория на Викискладе;1;1;from
+Q14213239;Korission Lagoon;географические координаты;1;1;from
+Q16326607;Inkerman Bay;административно-территориальная единица;1;2;from
+Q16326607;Inkerman Bay;названо в честь;1;1;from
+Q16326607;Inkerman Bay;государство;1;1;from
+Q16326607;Inkerman Bay;изображение;1;1;from
+Q16326607;Inkerman Bay;это частный случай понятия;1;2;from
+Q16326607;Inkerman Bay;часть от;1;1;from
+Q16326607;Inkerman Bay;категория на Викискладе;1;1;from
+Q16326607;Inkerman Bay;географические координаты;1;1;from
+Q12085364;Budury Lagoon;государство;1;1;from
+Q12081666;Beikush liman;географические координаты;1;1;from
+Q4073189;Akhtanizovskiy Liman;код GNS;1;1;from
+Q12081666;Beikush liman;код в Энциклопедии современной Украины;1;1;from
+Q4073189;Akhtanizovskiy Liman;географические координаты;1;1;from
+Q4073189;Akhtanizovskiy Liman;приток;1;1;from
+Q4073189;Akhtanizovskiy Liman;впадает в;1;1;to
+Q6979546;Tuzly Lagoons;государство;1;1;from
+Q6979546;Tuzly Lagoons;изображение;1;1;from
+Q6979546;Tuzly Lagoons;карта местонахождения;1;1;from
+Q6979546;Tuzly Lagoons;это частный случай понятия;1;2;from
+Q6979546;Tuzly Lagoons;статус наследия;1;1;from
+Q6979546;Tuzly Lagoons;длина;1;1;from
+Q6979546;Tuzly Lagoons;площадь;1;1;from
+Q6979546;Tuzly Lagoons;часть от;1;11;to
+Q6979546;Tuzly Lagoons;категория на Викискладе;1;1;from
+Q6979546;Tuzly Lagoons;вертикальная глубина;1;1;from
+Q6979546;Tuzly Lagoons;географические координаты;1;1;from
+Q6979546;Tuzly Lagoons;основная категория по теме;1;1;from
+Q6979546;Tuzly Lagoons;галерея на Викискладе;1;1;from
+Q6979546;Tuzly Lagoons;общая тема категории;1;1;to
+Q12081666;Beikush liman;государство;1;1;from
+Q12081666;Beikush liman;это частный случай понятия;1;1;from
+Q2392933;Budaki Lagoon;код GeoNames;1;1;from
+Q2392933;Budaki Lagoon;это частный случай понятия;1;1;from
+Q2392933;Budaki Lagoon;карта местонахождения;1;1;from
+Q1906201;Lake Paliastomi;основная тема;1;1;to
+Q1974485;Dniester Liman;государство;1;1;from
+Q1974485;Dniester Liman;изображение;1;1;from
+Q1974485;Dniester Liman;впадающие в озеро реки;1;1;from
+Q1974485;Dniester Liman;код VIAF;1;1;from
+Q1974485;Dniester Liman;это частный случай понятия;1;2;from
+Q1974485;Dniester Liman;статус наследия;1;1;from
+Q1974485;Dniester Liman;код GeoNames;1;1;from
+Q1974485;Dniester Liman;длина;1;1;from
+Q1974485;Dniester Liman;высота над уровнем моря;1;1;from
+Q1974485;Dniester Liman;площадь;1;1;from
+Q1974485;Dniester Liman;ширина;1;1;from
+Q1974485;Dniester Liman;объём;1;1;from
+Q1974485;Dniester Liman;код в Большой российской энциклопедии онлайн;1;1;from
+Q1974485;Dniester Liman;часть от;1;2;to
+Q1974485;Dniester Liman;категория на Викискладе;1;1;from
+Q1974485;Dniester Liman;впадает в;1;2;to
+Q1974485;Dniester Liman;вертикальная глубина;1;1;from
+Q1974485;Dniester Liman;код в Энциклопедии современной Украины;1;1;from
+Q1974485;Dniester Liman;географические координаты;1;1;from
+Q1974485;Dniester Liman;административно-территориальная единица;1;1;from
+Q1906201;Lake Paliastomi;код Freebase;1;1;from
+Q1974485;Dniester Liman;основная категория по теме;1;1;from
+Q1906201;Lake Paliastomi;географические координаты;1;1;from
+Q323265;Unterwarnow;изображение;1;1;from
+Q323265;Unterwarnow;это частный случай понятия;1;1;from
+Q323265;Unterwarnow;код GeoNames;1;1;from
+Q323265;Unterwarnow;код TGN;1;1;from
+Q323265;Unterwarnow;географические координаты;1;1;from
+Q323265;Unterwarnow;код Freebase;1;1;from
+Q323265;Unterwarnow;находится на берегу водоёма;1;3;to
+Q323265;Unterwarnow;часть от;1;1;to
+Q1906201;Lake Paliastomi;административно-территориальная единица;1;1;from
+Q1906201;Lake Paliastomi;государство;1;1;from
+Q1906201;Lake Paliastomi;изображение;1;1;from
+Q1906201;Lake Paliastomi;бассейн объекта в странах;1;1;from
+Q1906201;Lake Paliastomi;это частный случай понятия;1;1;from
+Q1906201;Lake Paliastomi;описывается в источниках;1;1;from
+Q1906201;Lake Paliastomi;код GeoNames;1;1;from
+Q1906201;Lake Paliastomi;высота над уровнем моря;1;1;from
+Q1906201;Lake Paliastomi;площадь;1;1;from
+Q1906201;Lake Paliastomi;категория на Викискладе;1;1;from
+Q1906201;Lake Paliastomi;вертикальная глубина;1;1;from
+Q1974485;Dniester Liman;код Freebase;1;1;from
+Q1974485;Dniester Liman;приток;1;1;to
+Q2392933;Budaki Lagoon;изображение;1;1;from
+Q2392921;Khadzhibey Estuary;государство;1;1;from
+Q2392921;Khadzhibey Estuary;бассейн объекта в странах;1;1;from
+Q2392921;Khadzhibey Estuary;это частный случай понятия;1;2;from
+Q2392921;Khadzhibey Estuary;категория бассейна;1;1;from
+Q2392921;Khadzhibey Estuary;код GeoNames;1;1;from
+Q2392921;Khadzhibey Estuary;длина;1;1;from
+Q2392921;Khadzhibey Estuary;площадь;1;1;from
+Q2392921;Khadzhibey Estuary;ширина;1;1;from
+Q2392921;Khadzhibey Estuary;объём;1;1;from
+Q2392921;Khadzhibey Estuary;часть от;1;1;from
+Q2392921;Khadzhibey Estuary;категория на Викискладе;1;1;from
+Q2392921;Khadzhibey Estuary;вертикальная глубина;1;1;from
+Q2392921;Khadzhibey Estuary;географические координаты;1;1;from
+Q2392921;Khadzhibey Estuary;код Freebase;1;1;from
+Q2392921;Khadzhibey Estuary;приток;1;1;from
+Q2392921;Khadzhibey Estuary;впадает в;1;2;to
+Q2392921;Khadzhibey Estuary;категория объединяет темы;1;1;to
+Q2392921;Khadzhibey Estuary;находится на берегу водоёма;1;11;to
+Q2392933;Budaki Lagoon;административно-территориальная единица;1;2;from
+Q2392933;Budaki Lagoon;государство;1;1;from
+Q2392921;Khadzhibey Estuary;изображение;1;1;from
+Q2392921;Khadzhibey Estuary;названо в честь;1;1;from
+Q1974485;Dniester Liman;состоит из;1;1;to
+Q2392921;Khadzhibey Estuary;административно-территориальная единица;1;1;from
+Q1974485;Dniester Liman;общая тема категории;1;1;to
+Q1974485;Dniester Liman;находится на берегу водоёма;1;11;to
+Q1974485;Dniester Liman;местонахождение;1;1;to
+Q2166147;Sasyk Lagoon;административно-территориальная единица;1;1;from
+Q2166147;Sasyk Lagoon;государство;1;1;from
+Q2166147;Sasyk Lagoon;изображение;1;1;from
+Q2166147;Sasyk Lagoon;код VIAF;1;1;from
+Q2166147;Sasyk Lagoon;это частный случай понятия;1;2;from
+Q2166147;Sasyk Lagoon;статус наследия;1;1;from
+Q2166147;Sasyk Lagoon;длина;1;1;from
+Q2166147;Sasyk Lagoon;площадь;1;1;from
+Q2166147;Sasyk Lagoon;ширина;1;1;from
+Q2166147;Sasyk Lagoon;категория на Викискладе;1;1;from
+Q2166147;Sasyk Lagoon;вертикальная глубина;1;1;from
+Q2166147;Sasyk Lagoon;географические координаты;1;1;from
+Q2166147;Sasyk Lagoon;код Freebase;1;1;from
+Q2166147;Sasyk Lagoon;приток;1;2;from
+Q2166147;Sasyk Lagoon;находится на берегу водоёма;1;2;to
+Q2166147;Sasyk Lagoon;впадает в;1;2;to
+Q16326607;Inkerman Bay;приток;1;1;from

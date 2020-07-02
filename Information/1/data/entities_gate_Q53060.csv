@@ -1,0 +1,3773 @@
+﻿entity;label
+Q16998;Admiralty Gate
+Q17000;Birch Gate
+Q52436;big iron gate
+Q83973;Tiananmen
+Q129278;Lions' Gate
+Q199142;Inveraray, Front Street West, Avenue Screen
+Q204719;Dung Gate
+Q300761;Q300761
+Q312812;Jaffa Gate
+Q393072;Żelazna Brama
+Q475019;Q475019
+Q647228;Edirnekapı, Istanbul
+Q648844;Obeliskportal
+Q812949;Beamtentor
+Q821825;Berliner Tor (Wesel)
+Q855173;Pan Gate
+Q876120;Charlottenburg Gate
+Q900540;Wawel Coat of Arms Gate
+Q947597;Damascus Gate
+Q990750;Q990750
+Q996561;Brückentor (Traben-Trarbach)
+Q1167710;Q1167710
+Q1167729;St. Paul's Gate
+Q1244756;Oberes Tor
+Q1256221;New Gate
+Q1257917;Q1257917
+Q1324562;Yumen Pass
+Q1326294;Elephant Gate (Berlin Zoo)
+Q1344338;Rashōmon
+Q1357980;Gau Gate
+Q1367167;Golden Gate
+Q1439078;Fortunaportal
+Q1450403;Lion Gate
+Q1484405;Herod's Gate
+Q1526757;Entrance Gates, Younger Botanic Garden, Benmore House
+Q1641863;Straganiarska Gate in Gdańsk
+Q1725624;Oberes Tor
+Q1822397;Menin Gate
+Q1991768;Moerenpoort (Tongeren)
+Q2016890;Brusselpoort
+Q2027173;Delhi gate
+Q2027182;Alamgiri Gate
+Q2047806;Bighorn Ditch Headgate
+Q2080654;Kholm Gate
+Q2080676;Terespol Gate
+Q2097675;Westpoort
+Q2102067;Engelenpoort
+Q2155935;De Brakke Grond
+Q2181950;Brugse Poort
+Q2191859;Q2191859
+Q2207672;Kerkgracht-Poortje
+Q2266816;Porta Portese
+Q2306560;Spalter Tor
+Q2307025;Q2307025
+Q2345749;Q2345749
+Q2369295;Q2369295
+Q2421775;Smedenpoort
+Q2443871;Gateway, Islay House, Islay
+Q2482977;Qur'an Gate
+Q2485524;Sint Elisabethgasthuis
+Q2501776;Q2501776
+Q2521470;Waterpoort
+Q2521838;Berlin Gate
+Q2548886;Q2548886
+Q2604490;Q2604490
+Q2627390;Groeningepoort
+Q2685034;Porta Principalis Dextera
+Q2897727;Assassins' Gate
+Q2915274;Lille Gate
+Q2988142;Halle Gate
+Q3398768;Portail roman de Levignac
+Q3398772;Q3398772
+Q3399069;Ninove Gate
+Q3399071;Namur Gate
+Q3431357;Di'anmen
+Q3431717;Gate of Supreme Harmony
+Q3535259;Khooni Darwaza
+Q3621748;Q3621748
+Q3655157;cast-iron gate
+Q3908682;Porta Angelica
+Q3908696;Q3908696
+Q3908749;Porta Nuova
+Q3908778;Porta San Bortolo
+Q3908831;Porta Santo Spirito
+Q3908917;Q3908917
+Q4119189;Bab al-Salam
+Q4119844;Bab Kisan
+Q4173611;Egyptian Gates in Tsarskoe Selo
+Q4315859;Nevsky Gate in Peter & Paul Fortress
+Q4320446;Nicholas Gate
+Q4361189;Petrovsky Gate in Peter & Paul Fortress
+Q4664010;Abbey Gateway
+Q4748838;Amsterdam Gate, Jakarta
+Q4801401;Мельничные ворота
+Q4837231;Bab al-Maqam
+Q4837233;Bab al-Jabiyah
+Q4877716;Beautiful Gate
+Q4895510;Portal de Sant Antoni
+Q4966498;Bridgegate
+Q5032696;Canning Terrace
+Q5208116;Dads' Gates
+Q5253759;Delhi Gate
+Q5329197;East Propylon
+Q5330680;Eastgate and Eastgate Clock
+Q5369428;Sakurada-mon
+Q5414778;Sluck Gate in Niasviž
+Q5527012;Gate of Athena Archegetis
+Q5527127;Gates of Meran
+Q5579472;Golden Gates
+Q5594384;Grand Casemates Gates
+Q5878595;Gate of Citadel of Semnan
+Q6091768;Coria gate
+Q6091781;Q6091781
+Q6091895;Q6091895
+Q6815409;Memorial Gates
+Q7018771;Newport Arch
+Q7059427;Northgate
+Q7231541;Porte des Bombes
+Q7270326;Queen Elizabeth Gate
+Q7284860;Rainey Memorial Gates
+Q7593597;St John's Gate
+Q7735938;The Gateway, Nantwich
+Q7886121;Union Stock Yard Gate
+Q7895466;University of Glasgow Memorial Gates
+Q9168259;Grohman's Factory Gate
+Q9178710;Q9178710
+Q9178713;Q9178713
+Q9178714;Q9178714
+Q9178722;Q9178722
+Q9178723;Q9178723
+Q9178725;Q9178725
+Q9178726;Q9178726
+Q9178727;Q9178727
+Q9178728;Q9178728
+Q9178731;Q9178731
+Q9178737;Q9178737
+Q9178743;Q9178743
+Q9178748;Q9178748
+Q9178751;Q9178751
+Q9178754;Q9178754
+Q9178763;Q9178763
+Q9178768;Q9178768
+Q9178778;Q9178778
+Q9178779;Q9178779
+Q9178782;Q9178782
+Q9178783;Q9178783
+Q9178791;Q9178791
+Q9178794;Q9178794
+Q9178796;Q9178796
+Q9178804;Q9178804
+Q9178805;Q9178805
+Q9178806;Q9178806
+Q9178808;Q9178808
+Q9178809;Q9178809
+Q9178811;Q9178811
+Q9178812;Q9178812
+Q9178816;Pyrzycka Gate in Stargard
+Q9178817;Q9178817
+Q9178822;Q9178822
+Q9178824;Q9178824
+Q9178829;Q9178829
+Q9178830;Q9178830
+Q9178831;Q9178831
+Q9178832;Sławkowska Gate in Kraków
+Q9178836;Q9178836
+Q9178840;Q9178840
+Q9178853;Q9178853
+Q9178854;Q9178854
+Q9178857;Gate building of the Pszczyna Palace
+Q9178858;Wysoka Gate in Gryfice
+Q9178859;Q9178859
+Q9178865;Q9178865
+Q9178870;Q9178870
+Q9178877;Q9178877
+Q9178878;Q9178878
+Q9178881;Q9178881
+Q9178887;Q9178887
+Q9178888;Q9178888
+Q9178889;Q9178889
+Q9178890;Sailors Gate in Toruń
+Q9663386;Краковские ворота
+Q10861068;Q10861068
+Q10927210;National Taiwan University School Gate
+Q10955542;Great South Gate
+Q11625580;Hamaguri-gomon Gate
+Q11688739;Berlińska Gate
+Q11688741;Wawel Bernardine Gate
+Q11688744;Q11688744
+Q11688745;Q11688745
+Q11688747;Q11688747
+Q11688748;Q11688748
+Q11688749;Q11688749
+Q11688750;Q11688750
+Q11688753;Waza Gate in Krakow
+Q11688754;Q11688754
+Q11702671;Q11702671
+Q11722023;Lazaruspoortje
+Q11863285;Q11863285
+Q11906391;Q11906391
+Q12025726;Q12025726
+Q12105984;Q12105984
+Q12195531;Bab Ftouh
+Q12195545;Bab al-Yaman
+Q12257985;Q12257985
+Q12284522;Kyunt Kapu
+Q12298081;Hisar Kapia
+Q12413243;Ajmeri Gate
+Q12618624;Changryongmun
+Q12765002;Q12765002
+Q13028260;Q13028260
+Q13668679;Баб-эль-Сагир
+Q14378318;Spuipoort
+Q14378859;Stadhouderspoort
+Q14545025;Oberes Tor
+Q14923663;Brána zemědělského dvora (Butovice)
+Q15056611;Q15056611
+Q15230118;Q15230118
+Q15500157;Grace Gates
+Q15873035;Berchemsepoort
+Q15873446;Borsbeeksepoort
+Q15873523;Brigittenpoortje
+Q15874775;Edegemsepoort
+Q15876262;Herentalsepoort
+Q15877436;Kielsepoort
+Q15877804;Leopoldpoort
+Q15878856;Louisapoort
+Q15879261;Mechelsepoort
+Q15881768;Schijnpoort
+Q15882019;Sint-Laureinspoort
+Q15882238;Spoorbaanpoort
+Q15882267;Stadtholders Gate
+Q15883107;Turnhoutsepoort
+Q15884058;Wilrijksepoort
+Q15978997;Grand Entrance to Birkenhead Park
+Q16096172;Honghwamun
+Q16130708;Q16130708
+Q16324175;Mølleporten
+Q16487694;Q16487694
+Q16533316;Dębińska Gate
+Q16533323;Q16533323
+Q16533332;Mariacka Gate in Malbork
+Q16571242;Sacred Gate
+Q16587122;Q16587122
+Q16743963;Q16743963
+Q16765255;Gate of the Inspector
+Q16928576;Q16928576
+Q17195783;Q17195783
+Q17195846;Q17195846
+Q17195872;Q17195872
+Q17195875;Passerspoort
+Q17196102;Q17196102
+Q17253663;Doorway to Elisabeth Gasthuis
+Q17253828;Q17253828
+Q17254005;Q17254005
+Q17254032;St. Barbara Gasthuis
+Q17254155;Q17254155
+Q17254808;Q17254808
+Q17255029;Q17255029
+Q17288856;Poort bij Oude Hoogstraat 22, Amsterdam
+Q17291990;Q17291990
+Q17308727;Gasthuispoort, Amsterdam
+Q17319594;Q17319594
+Q17328473;Q17328473
+Q17328484;Gate Tweebaksmarkt 47
+Q17330428;Q17330428
+Q17330580;Q17330580
+Q17335116;Q17335116
+Q17335342;Q17335342
+Q17335358;Q17335358
+Q17335655;Poortje bij Herensteeg 11, Leiden
+Q17336160;Q17336160
+Q17337881;Penshal, Leiden
+Q17337899;Q17337899
+Q17338052;Sint Cecilia gasthuis, Leiden
+Q17338243;Q17338243
+Q17338674;Q17338674
+Q17339006;Q17339006
+Q17339058;Papengracht 23, Leiden
+Q17339299;Q17339299
+Q17339309;Poortje Stille Rijn 14/15, Leiden
+Q17339348;Q17339348
+Q17339847;Q17339847
+Q17339911;Q17339911
+Q17340064;Q17340064
+Q17340979;Q17340979
+Q17341912;Q17341912
+Q17341917;Q17341917
+Q17341918;Hofpoort, The Hague
+Q17343308;Q17343308
+Q17343311;Q17343311
+Q17343442;Q17343442
+Q17343509;Poortje bij Oude Vest 13, Breda
+Q17343552;gate Lutherse Kerk
+Q17343826;Q17343826
+Q17345390;Q17345390
+Q17345411;Q17345411
+Q17346592;Q17346592
+Q17346760;Q17346760
+Q17367496;Q17367496
+Q17373136;Q17373136
+Q17373300;Q17373300
+Q17373935;Q17373935
+Q17389087;Servetstraat 5, Utrecht
+Q17389133;Q17389133
+Q17389202;Q17389202
+Q17395217;Q17395217
+Q17395501;Vestingmuur tussen Strandboulevard Oost 1 en Plantage 26
+Q17397378;Q17397378
+Q17403593;Q17403593
+Q17405778;Q17405778
+Q17405879;Q17405879
+Q17409933;Q17409933
+Q17415705;Q17415705
+Q17418905;Q17418905
+Q17419544;Reperatricenklooster (Maastricht)
+Q17429945;Q17429945
+Q17433448;Q17433448
+Q17434288;Q17434288
+Q17435202;Q17435202
+Q17435284;Q17435284
+Q17438172;Q17438172
+Q17439379;Q17439379
+Q17439382;Q17439382
+Q17439678;Q17439678
+Q17440325;Q17440325
+Q17440334;Q17440334
+Q17442257;Q17442257
+Q17442643;Q17442643
+Q17444212;Q17444212
+Q17444226;Q17444226
+Q17444369;Q17444369
+Q17444372;Q17444372
+Q17444464;Q17444464
+Q17444558;Q17444558
+Q17444564;Q17444564
+Q17445167;Q17445167
+Q17445177;Q17445177
+Q17445184;Q17445184
+Q17445460;Q17445460
+Q17447583;Q17447583
+Q17449528;Q17449528
+Q17449904;Q17449904
+Q17449926;Starazhouski gates
+Q17450440;Q17450440
+Q17452322;Q17452322
+Q17452538;Q17452538
+Q17456416;Q17456416
+Q17457029;Q17457029
+Q17484703;Q17484703
+Q17485326;Waterpoort
+Q17525923;St Michaels Gate
+Q17526524;Gateway At Bromley College
+Q17526713;Outer East Gateway To Bishops Palace
+Q17526915;Gates, Gatepiers And Screen Approximately 70 Metres South East Of South Front Of Drayton House
+Q17527051;Gateway From Devereux Court
+Q17527297;Buckingham Palace Forecourt Gate Piers, Gates, Railings And Lamps
+Q17527315;St John's College, Gateway To Kitchen Yard To East Of Old Bridge
+Q17527365;Gates, Railings, Gate Piers To New Palace Yard, Houses Of Parliament
+Q17527366;The Hotspur Gateway Or Bondgate Tower
+Q17527390;North Screen To Buckingham Palace Forecourt With Gateway To Gardens
+Q17527493;Clock Tower Gate
+Q17527499;St John's College, Gateway To St John's Street To South Of The College Buildings
+Q17527604;Gateway At Axis To West Of Charlton House
+Q17527669;Shore Gate
+Q17527822;Syon Park Entrance Lodges And Gates, London Road
+Q17527827;Inigo Jones's Gateway In Chiswick Park
+Q17527853;Entrance Gateway Of Chiswick Park Immediately West Of Obelisk
+Q17527931;Gates, Gatepiers And Railings To Natural History Museum
+Q17527932;Gateway From Manor Farm To Churchyard And Attached Walls 7 Metres West Of Manor Farmhouse
+Q17527937;Gateway And Boundary Wall To Forecourt Of Stibbington Hall
+Q17527967;Gates And Railings To Maids Of Honour Row Maids Of Honour Row
+Q17527984;Hampton Court Lion Gates
+Q17527986;Trophy Gates
+Q17528133;Flowerpot Gate
+Q17528172;Flanking Screen Walls And Gate Piers Attached To West Front Of Heath Hall Linking East And West Pavilions
+Q17528287;Worcester College, Gateway On Walton Street To The North Of The North Range
+Q17528346;Priory House Gateway
+Q17528569;Turret Gateway
+Q17528593;Hyde Abbey Gateway
+Q17528632;Gateway From Garden To Stables Of Thorpe Hall
+Q17528666;Bishops Gate
+Q17528685;Gateway And Walls To Rectangular Enclosure, North East, East And South East Of Wothorpe Hall
+Q17528854;Canon Gate
+Q17528965;Landport Gate
+Q17529218;Abbey Gate
+Q17529273;Gateway And Flanking Walls At The East Entrance To Lanhydrock Park
+Q17529304;Woodstock Gate
+Q17529364;Abbey Gate
+Q17529384;Gate, Gate-piers And Garden Wall To North East Of Penheale Manor
+Q17529435;gate piers and gates to Amesbury Abbey
+Q17529502;The South Gate
+Q17529505;Christchurch Gateway
+Q17529561;The Cemetery Gateway At St Augustine's College
+Q17529564;Fyndon's Gateway At St Augustine's College The Great Gateway At St Augustine's College
+Q17529643;Prior Sellinge Gate
+Q17529694;Fisher Gate
+Q17529724;Great Gateway To Kepier Hospital
+Q17530027;St Annes Gate
+Q17530075;Main Entrance Gateway, 35 Metres North West Of Ven House
+Q17530411;Abbot Reginald's Gateway
+Q17530419;Gate And Railings Of Number 53
+Q17530445;Gateway Adjoining Capella Extra
+Q17530506;Crown Court, Adjoining Offices And Gate Arch
+Q17530514;Wall, Gates And Railings In Front Of Tullie House
+Q17530550;Entrance Gates And Lodges
+Q17530584;Gateway Arch West Of Lanercost Priory
+Q17530587;Gate With Flanking Lodge And Tower, To North Of Rose Castle
+Q17530920;Elizabeth Gate
+Q17531132;Abbey Gateway
+Q17531353;Palladian Gateway
+Q17531666;Gate Piers, Gates, Flanking Walls And Railings
+Q17531764;Railings And Gate With Overthrow At No 37
+Q17532093;Gates, Gate-piers, Walls And Railings To Front (east) Of Treludick
+Q17532288;East Gate
+Q17532334;Gateway (known As Inigo Jones Gateway) 90 Metres South East Of Denton Manor, In Denton Park
+Q17532670;Gateway At Scampton House Farm In Field To West Of House
+Q17532787;Gates And Piers To Nettleham Hall
+Q17532827;Gateway And Lodges To Melford Hall
+Q17533110;Left Gateway Turret To Stable Yard At Ketteringham Hall Incorporating A Greek Marble, With Attached Range
+Q17533163;Priors Gate
+Q17533226;Gateway, Attached Garden Walls And Coach House To South Of Main Front Of Chastleton House
+Q17533456;Cloister Gate
+Q17533536;The Cemetery Gate
+Q17533717;Gates, Railings, Screen Walls And Attached Garden Wall To Marlborough House
+Q17533835;Gateway At Colville Hall
+Q17534032;The Black Gate
+Q17534150;Priory Gate
+Q17534176;Lion Gate
+Q17534406;Gates, Gatepiers, Flanking Walls And Abutments
+Q17534430;Gates, Gate Piers And Railings To Norwood House
+Q17534503;The Bayle Gate
+Q17534759;Gateway With Attached Plinth Wall And Ironwork Screen Forming South Side Of South Court At Wentworth Woodhouse
+Q17534928;Malpas Hill Gateway
+Q17534935;Piers And Gates Forming South Entrance To Garden Of Heathcote From Grove Road
+Q17534990;Gate With Overthrow At Monmouth House
+Q17535128;The Strand Gate
+Q17535149;The New Gate
+Q17535256;Entrance Gates And Gate Piers
+Q17535953;Gateway To General Cemetery With Screen And Flanking Walls
+Q17536040;Gateway And Adjoining Walls At Garden Entrance To Oaks Park
+Q17536065;Gates And Gatepiers To The Church Of St Lawrence
+Q17536161;Gates, Gate Piers And Railings At Former West Entrance To Sandywell Park
+Q17536202;Gateway Adjacent To Wath Lodge
+Q17536342;Clairvoyee, Gate And Piers Set Within The Eastern Boundary Wall Of Barrington Park
+Q17536421;South Gate
+Q17536876;Water Gate
+Q17537666;Kings Edwards Gate
+Q17537836;Railings, Gate And Wall At No 13 (church Hatch)
+Q17537856;Gateway To Christchurch Churchyard
+Q17538411;Gateway To South Of Elmore Court
+Q17539177;Gates, Gate Piers And Walls Enclosing Garden East Of Langstone Court
+Q17539756;Gate In South Wall Of The Prospect
+Q17540073;Entrance Gates, Lamps And Lodges To Stoke Park
+Q17540619;Knights Hospitallers Gateway At Knights Gate
+Q17542319;Lion Gate
+Q17542328;Railings And Gates To Abbey House
+Q17542453;Gateway To Garden
+Q17542716;Gateway To Wolsey's College Of St Mary
+Q17542914;Gates, Screen, Piers And Wall To Frampton Hall
+Q17543634;Including Steeple Gate
+Q17544185;Close Gate
+Q17545080;Gates, Gate Standards And Side Screens Fronting North Facade Of Sandon Hall
+Q17545104;Wall, Gatepiers And Gateway Approximately 20 Metres South Of Church Of St Mary
+Q17545340;Gateway And Walling To Number 13 The Fort Fronting The Road
+Q17545650;Gates, Gatepiers And Railings Approximately 90 Metres West Of Harrowden Hall
+Q17545718;Gates And Gatepiers To East Of Longford Hall
+Q17545774;Entrance Screen And Gates To Hartford Hall
+Q17546014;Gateway To Highlow Hall
+Q17546116;Entrance Gateway To Military Hospital
+Q17546236;Entrance Gateway To The Henry King Memorial Almshouses
+Q17546299;Gates, Gatepiers And Screen Walls To West Of Matfen Hall
+Q17546383;Gateway, Lodges And Walls At Entrance To Swinburne Castle
+Q17546564;Gates, Gatepiers, And Railings To South Of The Etwall Almshouses
+Q17546710;Dent De Lion Gateway
+Q17547056;Gates And Gatepiers 12 Metres North-west Of Ebford Manor With Length Of Garden Wall To Right
+Q17547121;Gateway To Hadlow Castle
+Q17547170;Church Gate
+Q17547263;Drayton Gate
+Q17547338;Gates To The Durdans On Chalk Lane
+Q17547477;Lodges And Gates To Clandon Park House
+Q17547726;Gateway And Flanking Walls At Minster Churchyard
+Q17547984;Abbey Gateway
+Q17548394;Gateway, Gates, Wall And Attached Lodge To Wroxton College
+Q17548702;The Lion Gateway
+Q17548774;Gates And Piers At Number 16
+Q17548872;Country House Curtains Gateway
+Q17548882;Entrance Gates And Flanking Walls Approximately 70 Metres South West Of Manor House
+Q17548961;Gateway With Adjoining Wall And Railing To Yard Of Church Of St Olave
+Q17549025;Railings And Gate Approximately 100 Metres To Rear Of Number 17 Perrot House
+Q17549293;Gates, railings and gate piers to 2 Temple Place
+Q17549510;Entrance Gates At Newington House
+Q17549628;Queen's Gate
+Q17549653;Wall, Gates And Gate Piers Approximately 90 Metres South West Of Number 1
+Q17549664;Railings Gates And Gate Piers To Number 12
+Q17549697;Garden Gateway To Agents House
+Q17549730;Gates Piers And Walls To Churchyard
+Q17549887;Gateway Arch Approximately 25 Metres South East Of Holy Trinity Church Porch
+Q17549941;Gates, Piers And Wall To Demolished Uffington House
+Q17550107;Entrance Gates And Railings To The Wilderness 150 Metres West Of Belton House
+Q17550198;Gateway To Stable Courtyard At Madingley Hall
+Q17550201;Gateway And Screen Wall 1200 Metres North West Of Harlaxton Manor
+Q17550366;Gateway To Aslackby Manor
+Q17550418;Gates Of Fulbeck Hall
+Q17550737;Gateway At Kettlethorpe Hall, Mounting Block, Garden Wall And Gate Piers
+Q17550784;Gateway To House
+Q17550909;Gateway, Entrance Lodges And Wall To Fillingham Castle
+Q17551251;Gateway Approximately 25 Metres North Of Tower Of Church Of St Giles
+Q17551457;Gates, Piers, Screen And Wall At Hough Gates
+Q17551770;South Entrance Gateway To Compton Verney
+Q17551914;Gates And Screen To Walpole House
+Q17551933;Gates To Syon Lodge Syon Lodge
+Q17552222;Little Abbey Gateway
+Q17552467;Entrance Gates And Screen On Old Brompton Road
+Q17552591;Entrance Archway, Pair Of Chapel Lodges, Walls And Gates To Jesmond Cemetery
+Q17552685;Entrance Gateway Opposite Wellington Road
+Q17552735;Entrance Lodges And Gates To Arnos Vale Cemetery
+Q17552867;Railings And Gates Of The Church Of St Paul
+Q17553276;Railings, Gates And Gatepiers To Valentines Park
+Q17553279;Piers And Gates To Main Entrance To Redland Court
+Q17553345;North Gateway To Churchyard Of St Nicholas' Church Adjoining Bartholomew Street
+Q17553353;South Gateway To Churchyard Of St Nicholas' Church Adjoining Bartholomew Street
+Q17553362;Gates And Railings To Oak House Oak House
+Q17553379;Gate And Railings To Old Friars Old Friars
+Q17553774;Gates And Gatepiers North West Of War Memorial Onto University Road
+Q17553859;Railings And Gate To Forecourt At Willoughby House
+Q17553913;Gate And Railings To Forecourt Of Number 24 And 26
+Q17553958;Gates, Gate Piers And Flanking Garden Boundary Walls To South Of Castor House
+Q17554068;Gates And Gate Piers At South Entrance To Abbey Close
+Q17554184;Gateway And Curtain Wall To South East Of Captain's House
+Q17554265;Entrance Gateway At Dudley Zoo
+Q17554672;Railings, Piers And Gateway To Kings Hill Gazebo
+Q17555966;Gateway At The Pleasaunce
+Q17556213;Jarvis Brook, South West Gateway To Rotherfield Hall
+Q17557153;The Roper Gate
+Q17557163;Gates, Railings And Gate Piers Of Council House
+Q17557257;Gates, Railings And Piers On West Side Of Churchyard Of Church Of St Modwen
+Q17557276;Main Gateway To Blithfield Hall With Flanking Walls
+Q17557285;Water Gate
+Q17557379;Gates And Railings Enclosing South Side Of Garden To West Of Okeover Hall
+Q17557394;Gates, Piers And Railings Immediately North East Of Okeover Hall
+Q17557467;Gates, Gate Piers, Steps And Walls To Kitchen Garden Approximately 50 Yards North Of Okeover Hall
+Q17557921;Gates And Gatepiers Approximately 150 Metres South West Of Bulwick Hall
+Q17565077;Gates And Piers Between Norman Shaw North And South Buildings, Former New Scotland Yard
+Q17565174;Gateway And Flanking Walls Approximately 60 Metres East Of Forest Hill House
+Q17571514;Wedderburn Castle, The Lion Gate
+Q17593623;Q17593623
+Q17594165;Q17594165
+Q17597398;Q17597398
+Q17604307;Q17604307
+Q17604532;Haarendael: gate
+Q17606998;Q17606998
+Q17607744;Q17607744
+Q17613606;Q17613606
+Q17615111;Q17615111
+Q17615414;Q17615414
+Q17640671;Cook Street Gate
+Q17640863;The Little Abbey Gateway, Northgate Street
+Q17641281;Gateway to Brook Farm, Hillborough
+Q17641316;Lullingstone Castle gateway
+Q17641928;Priory gateway
+Q17645189;St John the Baptist's Church gateway, Howley Road
+Q17645792;Gateway to Almonry
+Q17645929;St Mary's gateway
+Q17646415;Whitefriars Gateway, South Lynn
+Q17647866;Gate of Bridewell, part of No 6 St Andrew's Hill
+Q17647873;Erpingham Gate
+Q17674202;Garden gateway at Tilstone Hall 130m south of Tilstone Hall Farm
+Q17676334;The Bargate, medieval gateway
+Q17737009;Burgess Gate
+Q17737768;White Gates, Screens And Piers Nw Of Leeswood Hall
+Q17740683;Gateway With Inscription Set In N Boundary Wall Of  Terrace Garden Opposite Vaynol Old Hall
+Q17741039;Gateway To The Church Of Saint Mary
+Q17741076;Edney Gates, Inc Flanking Screen And Attached Walls With Opposing Gates To S End Of Middle Court
+Q17742673;Gateway And Walls To 'the Abbey'
+Q17742814;Enclosing Wall & Gateway On N.side Of Rear Yard Of Cloister Hall,the Cathedral Close
+Q17743207;Dockyard Gates, The Dockyard
+Q17743363;Black Gates And Screens At Entrance To The Tower (formerly Listed Together With Leeswood Hall And No
+Q17743515;Marquess Gate With Steps Leading To E Entrance To Powis Castle, And Flanking Wall To N
+Q17743608;Outer Gateway at Powis Castle
+Q17743738;Railings,gates & Gatepiers At Bethania Baptist Chapel,william Street
+Q17743776;Gateway And Railings To Clytha Park
+Q17743824;Penrice Castle North-east Gates, Railings And Piers
+Q17743845;Romanesque Gateway In Former E Precinct Wall At Ewenny Priory (house)
+Q17743942;Priory Walls, Including North, West And Postern Gateways
+Q17744012;Entrance Gates And Railings At Newbridge Lodge
+Q17744027;Chirk Castle Gates, Screen And Piers
+Q17744112;Entrance Gates To Pontypool Park.
+Q17744533;Gates And Gate Piers At S Entrance To Hanmer Churchyard
+Q17744553;Screen And Gates Closing The Formal Garden At Erddig
+Q17744558;St. Giles' Churchyard Gates, Church Street(s Side)
+Q17798090;Queen's Park, Gateway
+Q17809742;Langholm, High Street, Library Gardens, Telford Gateway
+Q17849635;Staneyhill Tower, Obelisk Gate
+Q17957534;Gateway To Bramshill House
+Q18002951;Small Gate In Wall West Of Dorfold Hall
+Q18088130;Sint-Bernardsepoort
+Q18088131;Sint-Michielspoort
+Q18121506;Sylvia gate
+Q18147413;Q18147413
+Q18160247;Holbein Gate
+Q18396428;Alexander Gates (Okhta)
+Q18535194;Golden Gate
+Q18752661;Teen Darwaza
+Q18813763;Q18813763
+Q18813904;Q18813904
+Q18889826;Canada Gate
+Q19275460;Q19275460
+Q19386284;Q19386284
+Q19399452;Q19399452
+Q19406825;Portail du château de Banneville-la-Campagne
+Q19668727;Nations Gate
+Q19685194;Hompesch Gate
+Q19784031;The Love Gate of Visby city wall
+Q19861413;The School Gate
+Q19861430;The Kajsar Gate
+Q19861451;The South Gate
+Q19861467;The Sconce Gate
+Q19861972;The Large Beach Gate
+Q19861974;The Small Beach Gate
+Q19861976;The Fisherman's Gate
+Q19865576;FitzRandolph Gate
+Q19973829;Q19973829
+Q19974048;Q19974048
+Q20011118;Mdina Main Gate
+Q20011121;Greek's Gate
+Q20011126;Inner Greek's Gate
+Q20011127;Outer Greek's Gate
+Q20077256;Q20077256
+Q20406879;Bab Segma
+Q20536411;Кош-дарваза
+Q20895477;Porte des Augustins
+Q21011908;Q21011908
+Q21026875;Ново-Никольские ворота
+Q21037300;Q21037300
+Q21210541;Q21210541
+Q21428211;Entrance gates and lodges to Bowes Museum
+Q21531555;Q21531555
+Q21614221;Wignacourt Arch
+Q21711934;Špička (gate remains)
+Q21986844;Victoria Gate (Valletta)
+Q22015123;Q22015123
+Q22675184;Gate of the Marstall
+Q22680341;Rai Pithora Fort ramp and gateway
+Q22680393;Moti Gate of Sher Shah Suri
+Q22694057;Q22694057
+Q22807329;Qudsia Bagh Gateway
+Q22932429;Q22932429
+Q22935416;Lycée Marmontel de Mauriac
+Q22940008;Q22940008
+Q22940529;Q22940529
+Q22940786;Q22940786
+Q22950894;Q22950894
+Q22953431;Q22953431
+Q22954029;Porte Faugères
+Q22956066;Q22956066
+Q22959463;Q22959463
+Q22963764;Clos des Coutures
+Q22964270;Q22964270
+Q22965064;Q22965064
+Q22966050;Q22966050
+Q22966052;Q22966052
+Q22986375;Q22986375
+Q22986376;Q22986376
+Q22993243;Q22993243
+Q22994515;Q22994515
+Q23054479;Birgu Main Gate
+Q23054629;Couvre Porte Gate
+Q23054632;Advanced Gate
+Q23682884;Mistra Gate
+Q23867905;Porta est d'accés a l'antiga Finca Güell
+Q23930599;Boomsepoort
+Q23930600;Bredapoort
+Q23930601;Ekerensepoort
+Q23930612;Spoorwegpoort
+Q24005019;Waterpoort
+Q24305502;Q24305502
+Q24941552;Q24941552
+Q24946311;Q24946311
+Q24949242;Q24949242
+Q25425112;Q25425112
+Q26263435;Railings And Gates Round The Senate House
+Q26263496;Gate, Screen Wall And Balustrade To West Of Stoke Rochford Hall
+Q26263507;Gates And Screen Across The Main (South West) Approach To Cholmondeley Castle
+Q26263511;The College Gateway (All Saints Parish Room) The College Tower
+Q26268204;Entrance Gates, Piers And Lamps
+Q26272351;Gates And Railings To No 68
+Q26272398;Gate And Gatepiers Of Longfield House On Mortimer Street
+Q26272493;Gateway to Church of St Thomas's
+Q26272607;Gates Piers, Gates And Front Wall And Railings To The Old Malthouse
+Q26272652;Gate Piers And Gates To Churchyard At Church Of St Michael And All Angels
+Q26272883;Gates, Piers And Railings Adjoining Church Lodge
+Q26272884;Gates, Piers And Railings To Hartham House
+Q26273166;Gate, Piers And Railings To Ashley Leigh
+Q26273236;Entrance Gates And Piers To Church House
+Q26273547;Railings, Gate Piers And Gate To Burnley College Adult Education Centre
+Q26273651;Entrance Gates And Screen To Rudloe Manor
+Q26273735;Entrance Gates And Wall To Manor House
+Q26273838;Gateways
+Q26273987;Gates And Railings To South Of Manor Farmhouse
+Q26274231;Gateway Boundary Wall To The South Of Norton Manor
+Q26274233;Gateway And Boundary Wall To Kitchen Garden, South Of North Manor
+Q26274391;Gates And Gatepiers Approximately 100 Metres South Of Little Compton Manor
+Q26274496;Gates To North East Entrance Of Town Gardens
+Q26274568;Railings And  Wall With Gate Across Front Of Number 5
+Q26274574;Gateway And  Overthrow In Garden Of No 16
+Q26274843;Gate, Gate Piers And About 6 Metres Of Wall To Either Side, To Front Of The Moot
+Q26274846;Gate And Gate Piers To Gardens Opposite The Moot
+Q26274968;Gates And Gate Piers To Elston House
+Q26275642;Piers, Walls, Gates And Railings In Front Of Elswick Lodge
+Q26275663;Piers And Gates East Of Former Whickham View Schools
+Q26275939;Gates And Gate Piers At North East Corner Of Junction With Sunderland Road
+Q26276149;Piers, Walls, Gates And Railings At Entrance To Jarrow Park
+Q26276296;Gates And Gate Piers To West Of Washington Old Hall
+Q26276336;Gates And Gatepiers Adjoining North Front Of Old Place
+Q26276337;Gates, Wall And Gatepiers Approximately 20 Metres West Of West Front Of Old Place
+Q26276338;Gates And Gatepiers Situated 60 Metres South East Of Old Place
+Q26276973;Gates Of Cowdray House
+Q26277793;Gates And Gateway To The Deanery
+Q26278029;Gates, Gate Piers And Stone Wall Of St John's College, To South West Of The House
+Q26279809;Gate Piers And Gates Beside North Lodge
+Q26279915;Gateway To Gardens At Betchworth House
+Q26280421;Gateway And Wall To Old Cloth Hall (Laura Ashley's)
+Q26280500;Gate And Piers Adjoining To West Of West Horsley Place
+Q26280860;Railings With Gateway And End Piers To Front Of Halliford Manor
+Q26281388;Gates And Railings To Sandown Park Racecourse
+Q26281526;Entrance Piers, Gates And Railings To Whitely Village
+Q26281719;Gateway, Balustrading And Steps Over Ha Ha, 110 Metres South Of Orwell Park School
+Q26281848;Gateway To Easton House (Including Attached Walling)
+Q26281928;Gateway 20 Metres West North West Of Cockfield Hall Gatehouse (Including Adjoining Walling)
+Q26282592;Gates To Culford Hall
+Q26283309;Gate Screen To Titlington Hall
+Q26283821;Gates And Railings Along Road Frontage 10 Metres North Of Feld House
+Q26283978;Entrance Gates 300 Metres West North West Of Oaksmere
+Q26284399;Gateway Piers Railings
+Q26285254;Gates At Beckhampton House
+Q26285394;Entrance Gates And Piers To Village Cemetery
+Q26285741;Gateway In Wall To Right Of Numbers 107 And 108
+Q26286026;Gateway To St Dominic's Priory
+Q26286192;Gateway To Litten Park (Old St Thomas's Graveyard)
+Q26286792;Wall, Gate Piers And Gates 50 Yards To North Of The Barracks
+Q26287091;Gateway To Congregational Chapel
+Q26287269;Gates To King Hall
+Q26287273;Gates And Gatepiers To The Manor House
+Q26287470;Gate, Wall And Steps To Front Of Wedhampton Manor
+Q26287628;Churchyard Gatepiers And Gates To East Of Holy Trinity Church
+Q26287783;Gates And Railings With Dwarf Wall And Piers At Non Conformist Burial Ground
+Q26287988;Gates And Gate Piers To Boyton Manor
+Q26288102;Gateway At The Gatehouse
+Q26288218;Gateway To Front Of Manor Farm
+Q26288220;Railings And Gates To Front Of Corsley House
+Q26289354;Gates And Gatepiers 40 Metres East Of Rous Memeorial Hospital (Centre Block)
+Q26289531;Entrance Screen And Gateway And Gates, Approximately 20 Metres East Of Fairhaven
+Q26289536;Gates, Gateway And Entrance Screen 100 Metres West Of Swythamley Hall
+Q26289803;Gates And Gate Piers To Wetley Abbey (Approximately 30 Metres West)
+Q26289830;Entrance Gates, Piers And Railed Screen To Ashcombe Park
+Q26290415;Gates, Gatepiers And Steps Circa 50 Yards South Of Church Of St Michael
+Q26290509;Gates And Gate Piers To South West Of Number 136
+Q26291255;Gateway Arch Between 84 And 88
+Q26291394;Entrance Gates, Garden Temple, Pergola And Tool Shed To Lindens
+Q26291550;Gateway Between Old And New Lodges
+Q26291769;Railings And Gates In Grounds South West Of Woburn Park
+Q26291884;Railings And Gates In Front Of Numbers 4 And 5
+Q26291980;Gate Arch,Walls And Balustrade Attached To South West Of Lilford Hall
+Q26292262;Gateway, Wall And Piers Approximately 15 Metres South Of Church Of St Nicholas
+Q26292366;Gateway At Entrance To Abbey Lodge
+Q26292447;Gateway, Manor House (Winchester House School)
+Q26292452;Gates And Gatepiers Approximately 5 Metres North Of North Porch Of Church Of St Mary The Virgin
+Q26292458;Wall, Gatepiers, Gates And Steps Approximately 5 Metres West Of Rose Hill
+Q26292460;Wall, Gatepiers And Gate Approximately 40 Metres North Of Swanspool House
+Q26292786;Gates And Gatepiers To East Of Bradden House And Attached Walls
+Q26292839;Gates And Lodges
+Q26293158;Gateway To High Green Circa 60 Yards North Of Eslington Park
+Q26293234;Gateway, Bridge And Wall Attached To North West Of Callaly Castle
+Q26293284;Wall, Gateway And Gates To North Of Old Vicarage, With Attached Gateway And Gate To Churchyard
+Q26293527;Gates, Gatepiers And Balustrading To Forecourt Of Castle Ashby
+Q26293612;Gate Screen At Drive Entrance 220 Metres South Of Morwick Hall
+Q26293917;Gateway And Stable Range With Attached Wall To North Of Eglingham Hall
+Q26293942;Entrance Screen And Gates To Lemmington Hall (Sacred Heart Convent)
+Q26294010;Gates, Gatepiers And Garden Walls South Of Whitton Grange
+Q26294107;Gates Gate Piers And Screen Wall At North Lodge To Coupland Castle
+Q26294176;Gates, Gatepiers And Lodge To North West Of Cheswick House
+Q26294521;Gates Opposite North Transept
+Q26294605;Gateway Approximately 200 Yards West Of Cheeseburn Grange
+Q26294612;Gates, Gatepiers And Screen Walls Approximately 100 Yards South-West Of Eachwick Hall
+Q26294618;Gateway Approximately 440 Yards East Of Benridge Hall
+Q26294627;Gateway Approximately 20 Yards West Of Callerton Hall
+Q26294676;Railings And Gates North-East Of Lychgate To Church Of St Mary
+Q26294734;Gateway And Churchyard Wall To South Of Church Of St Andrew
+Q26294768;Gateways, Wall And Railings Approx 40 Yds West Of Belsay County First School
+Q26294936;Entrance Screen And Gates To Sandhoe Hall
+Q26295766;Gateway And Walls To Priory Of St Pancras
+Q26295882;Gates To West Of The Church Of All Saints'
+Q26296492;Gateway And Walls To Halls Place
+Q26296826;Entrance Screen And Gates To Chesters
+Q26296982;Gateway C5 Yards South-East Of Holeyn Hall
+Q26297555;Gateway To Former House Of Correction And Adjoining House To Left (2)
+Q26297595;Gateway to Church of St Peter Churchyard, 6 Metres North of the Church
+Q26297624;Gateway 8 Metres North East Of The Shurch Of St Mary Of The Purification
+Q26297629;Gateway At Kingswood, 40 Metres South Of The House
+Q26297796;Gate And Railing At Welham Park
+Q26297832;Gateway to Churchyard of Church of St Oswald, 12 Metres North of the Tower
+Q26298052;Gateway At Upton Hall
+Q26298143;Wall, Gargoyles And Gates To Church Of St Michael
+Q26298311;Gateways, Walls And Gatepiers With Wrought Iron Gates Attached To C17 Range To North East Of C19 House
+Q26298731;Gateway Approximately 30 Metres East Of Water Eaton Manor House
+Q26299182;Gateway Number 5 At Radcliffe Infirmary
+Q26299494;Entrance Gates To Sue Ryder Home (Quod Vide)  Sue Ryder Home, Entrance Gates (Quod Vide)
+Q26300164;Entrance Gates To Nuneham Courteney Arboretum
+Q26300295;Railings And Gate Approximately 10 Metres South Of Robey House
+Q26300409;Church of All Saints,Gateways And Attached Walls Approximately 15 Metres North West Of Porch
+Q26300503;Gates, Gatepiers, Screens And Attached Lodge Approximately 230 Metres North North West Of Kingston House, Kingstone Bagpuize Park
+Q26300846;Piers And Gates To East Of The Church Of St Andrew
+Q26301038;Gates, Gatepiers And Attached Wall Approximately 5 Metres South Of South Lodge, Approximately 1800 Metres South South East Of Eynsham Hall
+Q26301094;Gates, Gate Piers And Wall To St Mary's Churchyard
+Q26301292;Gates And Gate Piers To Fulmodeston Hall
+Q26301432;Gates, Gate Piers Wall And Railings To Church House
+Q26301435;Gates, Gate Piers And Railings At Former North Entrance To Gunthorpe Hall
+Q26301510;Gates And Piers At West Lodge
+Q26301518;Entrance Gates, Gate Piers And Wall To North Of Church Lodge
+Q26301835;Gate Railings And Attached Piers And Walls In Front Of Custom House
+Q26302810;Wall, Gates And Gatepiers Of Churchyard Of Parish Church Of St Mary And St Margaret
+Q26302842;Gates And Gatepiers To Holiday House
+Q26302849;Gate And Gatepiers And Railings Of Anna Sewell House
+Q26303138;Gate Pieces And Forecourt Walls To Number 256
+Q26304333;Gates And Gatepiers About 30 Yards North East Of Summer House In Grounds Of Shipton Court
+Q26304432;Gateway And Walls To Almshouses
+Q26304540;Old Church of St Nicholas Gateway Approximately 25 Metres to South West
+Q26304617;Gateway And Attached Walls Approximately 15 Metres South East Of Manor Farmhouse
+Q26304654;Gateway And Attached Walls Approximately 200 Metres South East Of Court Farmhouse
+Q26304672;Entrance Gateway, Gates And Railings With Flanking Walls Approximately 20 Metres South West Of South Porch Of Church Of St James
+Q26304797;Wall, Gate And Gatepiers Approximately 10 Metres East Of The Old Rectory And Borderingfootpath To Church Of St Mary
+Q26305038;Gate Piers, Gates And Quadrant Walls Approximately 105 Metres South West Of Cornwell Manor
+Q26305372;Gate, Gatepiers, And Railings, Approximately 10 Metres To South Of Number 3 Decker Hill
+Q26305529;Railings, Gate Piers And Gates Of Mardol Cottage
+Q26305536;Gateway To Aldenham Park
+Q26305636;Railings And Gate At The Chantry
+Q26305737;Railings And Gate About 2 Metres North Of Manor Farmhouse
+Q26306051;Railings, Gate Standards And Gates Of No 131
+Q26306058;Railings And Gates Of Audley Villa
+Q26306481;Wall,Gates And Gatepiers Attached To North West Of Lamport Hall Stables
+Q26306534;Wall,Gates And Gatepiers Approximately 3 Metres South Of Church Of All Saints
+Q26306726;Gate Piers, Gates And Railings To Lower House
+Q26306848;Railings Gate And Gate Piers Adjoining English Lodge To South-West
+Q26307041;Gate, Gate Piers And Flanking Walls Approximately 78 Metres To South West Of Church Of Saint Bartholomew
+Q26307049;Entrance Gates And Gate Piers Approximately 170 Metres To South East Of The Old Manor House
+Q26307074;Gate And Gate Piers Approximately 75 Metres To South Of Higher House
+Q26307247;Gates And Gate Piers Approximately 174 Metres To North West Of Longnor Hall
+Q26307485;Gates, Piers And Walls To East Of Church Of Holy Trinity
+Q26307763;Gateway And Front Boundary Walls To Priory Farmhouse
+Q26307855;Gateway 7 Metres North Of North East Corner, Yarlington House
+Q26307876;Gates And Gate Piers, And North And West Boundary Walls, To Maperton House
+Q26308128;Gateway On North West Corner Of Old House, King's School
+Q26308262;Gateway About 70 Metres North Of Ash House
+Q26308363;Gateway 30 Metres North Of The Old Rectory
+Q26308633;Gateway And Boundary Walling Between Dairy Cottage And Manor Farmhouse
+Q26308663;Gateway At Entrance To Churchyard Opposite West Doorway Of Church Of St James
+Q26308720;Gateway To East Of Forecourt Area Of Barrington Court
+Q26308721;Gateway To West Of Forecourt Area Of Barrington Court
+Q26308985;Entrance Gates, Gate Piers And Railings, 100 Metres North North East Of Church Of Saint Michael
+Q26309383;Gates And Piers At West End Of Facade Of Speakers' House
+Q26309567;Gates And Gatepiers To Ivy House
+Q26309573;Railings, Gate And Dwarf Wall Fronting Old Cross House Onto High Street
+Q26309625;Gate And Gatepiers, About 250 Metres South West Of Halsway Manor
+Q26309711;Gate, Gate Piers And Wall Fronting Manor Farmhouse
+Q26309753;Gate, Gate Piers, Railings And Dwarf Walls Fronting Cope
+Q26310057;Railings, Gates And Entrance Piers To Former Rook Lane Congregational Chapel
+Q26310419;Gates, Gate Piers, And Flanking Walls To Forecourt Of Mells Manor
+Q26310577;Entrance Gates, Gate Piers And Flanking Walls To Churchyard, Church Of St James
+Q26310715;Gateway At Principal Driveway Entrance To Southill House
+Q26311057;Gates, Gatepiers And Flanking Walls At Driveway Entrance To Springfield
+Q26311568;Gates To The Quarry
+Q26311632;Gate And Gate Piers At Driveway Entrance To Stockland Manor
+Q26311644;Gate Piers And Gates, About 20 Metres West Of West End Of Church Of St Mary
+Q26311757;Gates, Gate Piers And Lamp Overthrows To Church Of St John The Baptist
+Q26311827;Railings, Gate, Dwarf Walls And Piers To Cothelstone House Lodge
+Q26311863;Gateway And Gate At North West Entrance To Churchyard, Church Of St Mary
+Q26312004;Gateway And Wall Approximately 35 Metres North West Of The Old Rectory
+Q26312941;Railings, Gates And Gatepiers On Street At Congregational Church
+Q26313199;Gateway At Driveway Entrance To Charlynch House
+Q26313271;Gateway And Walls Abutting, On North West Front Of Slough Farmhouse
+Q26313478;Gates Gatepiers And Walls Abutting About 5 Metres On Either Side At Entrance To The Vicarage
+Q26313573;Gates, Gatepiers And Block Stones About 15 Metres East Of Edgeborough Farmhouse
+Q26313584;Gates And Gatepiers At Entrance To Staplegrove House
+Q26313699;Gateway And Wall Enclosing Garden On South Front, Plyeigh Manor
+Q26314393;Gates And Gatepiers At West Entrance To Stapleford Park
+Q26314396;Gates And Screen 3 Metres East Of Stapleford Hall
+Q26314508;Gates And Gate Piers To Cranbourne Hall (Cranbourne Hall Not Included)
+Q26314852;Entrance Gate Piers And Gates At Carlton Curlieu Hall
+Q26315019;Gateway And Railings To North Lodge
+Q26315181;Gates To Skellingthorpe Hall
+Q26315293;Gates To Number 96
+Q26315391;Gates To Skirbeck House (Western Pair)
+Q26315712;Gateway And Gate, West Side Of Churchyard, In Denton Park
+Q26315713;Gates To Denton Park
+Q26315776;Gateway To Fulbeck Manor
+Q26315914;Gates To St John's Church
+Q26315923;Gate To Waterloo Dock
+Q26315924;Gate To Victoria And Trafalgar Docks
+Q26316004;Gateway To Old Rectory On South Side Of Church, East End Of Chancel
+Q26316053;Gateway And Garden Wall Of Fir Tree House
+Q26316107;Gateways And Walls At The Old Hall
+Q26316164;Gateway, Railings To Churchyard Of Church Of St. Andrew
+Q26316441;Gateway To Stable Block At Hainton Hall, With Screen Walls
+Q26316683;Gateway
+Q26316901;Entrance Gates, Piers And Walls To Raithby Hall
+Q26316992;Gateway To East Lodge
+Q26317066;Gateway To Woolton Hall Park
+Q26317132;Gates And Railings To S Entrance To Springfield
+Q26317271;Gateway And Garden Wall At Manor House
+Q26317329;Gateway To Gate Burton Hall
+Q26317806;Gates With Gate Piers And Steps
+Q26317807;Gateway to Tudor Street
+Q26318054;Gates, Gates Piers And Flanking Walls At Main Entrance To St Michael's Convent
+Q26318195;Railings, Gate And Gate Piers At St James Vicarage
+Q26318244;Gate Piers, Gates And Railings At Mile End And Bow District Synagogue
+Q26318546;Entrance Gates To Whitelands College
+Q26318557;Entrance Gates At North West Entrance To Battersea Park
+Q26318558;Entrance Gates At South East Entrance To Battersea Park
+Q26318591;Gateway To London City Council East Hill Housing Estate
+Q26318644;Church of St Peter and St Paul Churchyard Gates and Gatepiers (North of Church)
+Q26318674;Gates, Gatepiers And Railings To Main Buildings Of Forest School
+Q26318733;Gates Adjoining Number 1 At South West Entrance To The Grove
+Q26318906;Gate, Walls And Piers To Main Entrance At Crossrigg Hall
+Q26318970;Gates And Gatepiers
+Q26319308;Gates And Piers To Entrance To Derby Gate
+Q26319901;Gates And Gatepiers Approximately 50 Metres West
+Q26320091;Gateway And Piers To North Of West End Of All Saints Church
+Q26320176;Gates, Wall And Wall With Railings To St Johns Church
+Q26320236;Entrance Lodges, Gates Screen And Boundary Walls At Toxteth Park Cemetery
+Q26320349;Railings With Gateway And End Piers To Front Of Halliford Manor
+Q26320427;Gates And Gatepiers Approximately 15 Metres West Of Church Of St Mary
+Q26320554;Gate And Overthrow 20 Metres South Of Church Of St Mary
+Q26320725;Gateway In Bounding Wall Opposite Kitchen Gardens
+Q26320970;Gateway At South End Of Road
+Q26321130;Gates To Princes Dock
+Q26321183;Gates And Gate Piers To St Oswald's Church
+Q26321188;Gates, Piers And Front Railings To North Side Of Chowbent Unitarian Chapel
+Q26322418;Gateway And Wall Enclosing Gardens Of Nos 9 To 12 Stephens Close
+Q26322770;Gateway To St Thomas' Hospital
+Q26323010;Wall, Gates And Lodges To Former Royal Marines School Of Music, East Barracks
+Q26323297;Gates About 5 Metres East Of The Gate House (T.R. 016559)
+Q26324799;Gates And Gate Piers To The West Of Oxon Hoath
+Q26327732;Railings, Gate Piers And Gates South Of Rock House
+Q26328025;Pleasington Lodge And Gateway To Woodfold Park
+Q26328402;Former Gateway To St Laurences Churchyard
+Q26328723;Gateway And Railings To Churchyard Of Longholme Methodist Church
+Q26328761;Gateway To Victoria Park
+Q26330718;Gates On Drive Circa 100 Metres South Of Scarisbrick Hall
+Q26330963;Entrance Piers And Gates At Clipsham Hall
+Q26333147;Wall, Railings And Gates To St James' Churchyard
+Q26333392;Entrance Gates And Piers To Churchyard Of St Helen's Parish Church
+Q26335688;Gateway To Burley On The Hill
+Q26335850;Gateway, Gates And Wall At Churchyard Of St Martin
+Q26335958;Piers And Gates At Churchyard Of St Peter
+Q26336107;Gates, Gatepiers And Railings At West Entrance Of Cattle Market
+Q26336146;Gates On East Side Of The Churchyard Of The Church Of St Michael
+Q26336150;Gates And Side Screens The Old Rectory
+Q26336594;Wall, Gates And Piers At Number 12 Brooke House School
+Q26336914;Wall, Gate Piers And Gates To Numbers 24-32
+Q26336952;Entrance Gates, Piers And Walling At Swithland Reservoir Water Works
+Q26336963;Gates, Piers And Wall At Church Of All Saints
+Q26338112;Gateway To Gateacre Hall Hotel
+Q26341381;Gates, Gatepiers And Attached Walls At West Entrance To Manor House
+Q26342474;Gates And Gatepiers At East End Of Church Walk
+Q26342606;Gate And Garden Wall, Moor Lodge
+Q26342762;Entrance Gates And Piers To The Old Rectory
+Q26343080;Gate And Gate Posts At West End Of Chinese Garden
+Q26343185;Gateway South West Of Church Of St Martin
+Q26343560;Gateway And Gates Approximately 50 Metres West Of Canteen At Soho Foundry
+Q26344411;Gateway And Walls To Garboldisham Manor
+Q26346105;Gates And Gate Piers To Hunstanton Park
+Q26347736;Gateway To Number 2
+Q26348081;Gates And Gatepiers To Westington Mill
+Q26348515;Gates Leading To The Malt House
+Q26349554;Railings, Gatepiers, Gates And Drinking Fountain At Parish Church Of St Andrews Along Road Frontage
+Q26349645;Railings And Gates At Haileybury And Imperial Service College Along Frontage To London Road
+Q26349671;Railings And  Garden Gate At Rose Cottage Fronting The Road
+Q26349828;Gate And Railings Of Fairholt
+Q26350154;Gates And Railings Along North Boundary Of Royal Naval College
+Q26350221;Gate, Gate Piers And Railings To Forecourt West Of Trafalgar Quarters
+Q26350228;Gates And Railings To East Of Grounds Of Royal Naval College
+Q26350821;Gateway to Yard of Church of St Peter
+Q26350865;Gateway And Railings To Forecourt Of Number 40
+Q26351672;Gates And 3 Gate Piers At Entry Gateway To Hoover Factory
+Q26351677;Gates, 4 Gate Piers And Railings Between Them At Main Entrance To Hoover Factory Fronting Western Avenue
+Q26351802;Gates, Gate Piers And Railings To Rear Of Numbers 13 And 15
+Q26352536;Gates And Screen Of St Raphael's Convent
+Q26353333;Gates And Garden Wall To The Grove Fronting Road
+Q26353811;Entrance Piers And Gates To Upminster Court
+Q26354555;Gate To South Of Cedars House
+Q26354923;Gate To The Lawn  The Lawn
+Q26355678;Gate And Railings To Number 92
+Q26355861;Gates To Highgate House
+Q26356200;Gateway, Gates And Quadrant Walls At Droitwich Lodge Entrance To Westwood Park
+Q26356203;Gates, Gatepiers And Quadrant Walls At Ombersley Lodge Entrance To Westwood Park
+Q26356941;Gates And Gatepiers To Churchyard, Church Of St Ethelbert
+Q26356960;Railings, Gate, Walls, Steps And Terrace To Stowe Court
+Q26361361;Gateway, Flanking Lodges And Flanking Walls To Puddlestone Court (Not Listed)
+Q26361960;Gates, Pedestrain Gate, And Gate Piers Approx 60 M North East Of Witley Manor
+Q26362217;Gates And 8 Gate Piers To Number 3 House And Number 4 House At Malvern College
+Q26362268;Gates Gate Piers And Railings To Number 148 (Davenham)
+Q26362404;Gates And Gate Posts To The Council House (Malvern Hills District Council Offices)
+Q26367229;Gateway To The Beverley Westwood Hospital
+Q26367895;Gateway To Falinge Park On Corner Of Falinge Road And Sheriff Street
+Q26368224;Gates And Piers About 100 Metres North West Of Bayham Abbey
+Q26368759;Gates, Piers And Quadrant Walls Adjacent To Beresford Lodge
+Q26371625;Gates To Murlingden, Piers And Wall Attached, Immediately North Of The Strict Baptist Chapel
+Q26372526;Gates And Railings To Churchyard Of St George
+Q26372868;Gateway To Milner Court
+Q26376274;Gateway And Garden Wall Of East Court, With Mounting Block Attached
+Q26378135;Gateway At Lamplugh Hall
+Q26379460;Gates 33 Yards To West Of Riding School
+Q26380253;Gateway And Boundary Wall To St John The Baptist's Church
+Q26380310;Gates To West Park
+Q26380438;Gateway To Stodhart Lodge
+Q26380678;Entrance Gates And Railings To Dunston Hall
+Q26380736;Gates And Attached Walls To Kings Newton Hall
+Q26380768;Gates And Gatepiers To Miserden Park
+Q26380832;Gates And Gatepiers To East Of Edgeworth Manor
+Q26380833;Gates And Gatepiers To South East Of South Lodge
+Q26381765;Gates, Gate Piers, Railings And Wall, Dowdeswell Lodge
+Q26381767;Gates, Gate Piers And Railings, The Lodge
+Q26381770;Gates, Railings And Wall Forming Boundary To Churchyard
+Q26381772;Gates And Gate Piers Forming North Entrance To Dowdeswell Court
+Q26381994;Gates And Wall Forming Entrance To Batsford Park Stables, Batsford Estate
+Q26382241;Gates, Gatepiers And Overthrow At Entrance To Churchyard Of Church Of St Mary Magdelene
+Q26382492;Gates, Gate Piers, And Walling In Approach To Parish Church Of St George
+Q26382836;Gates And Gate Piers Adjoining Bourton Lodge
+Q26383053;Gateway To South Of Stanley Park
+Q26383205;Gates, Railings And Boundary Walls To Coombe House
+Q26383386;Crossing Gates At Brimscombe St Mary's Crossing
+Q26383413;Gateway To Woodchester Park
+Q26383557;Gates And Gateway Approximately 15 Metres To West Of Church Of St John
+Q26383793;Gates And Railings At Entrance To Drive To Postlip Hall From Former A46 At Ngr Sp 006274
+Q26383816;Railings And Gate At Parr's Farmhouse
+Q26383970;Gate And Railings Surrounding Thimble Cottage, Middle Stanley Farm
+Q26384058;Gates And Gate Piers To The Parish Room
+Q26384693;Gate And Piers At St Michael's Church
+Q26384903;Gateway And Two Flanking Guardrooms To Former Willems Barracks
+Q26384924;Railings And Gates Enclosing Garden To South Of Nos 17 And 19
+Q26385528;Gateway To The Kitchen Garden Of South Tidworth House
+Q26385611;Gateway To East Lodge, Amport House
+Q26385855;Gate And Railings To East Of No 169 (St Vincent)
+Q26385975;Gates To Embley Park
+Q26385983;Gateway At Ashfield Lodge
+Q26386784;Gateway To Ashford Chase
+Q26386821;Gateway 400 Metres South Of Downlands
+Q26387009;Gates And Wall To Railway Convalescent Home
+Q26387028;Gateway To Arnewood Court Beside South Lodge
+Q26387476;Gates And Railings In Front Of Bramdean House
+Q26387803;Gateway To East Of Headmaster's House  St Mary's College
+Q26387819;Gates And Screens Of No 54
+Q26388195;Gates At W End Of Grounds Of Avington House 5 M S Of Avington Lodge
+Q26388388;Gates, Railings And Piers Forming Princes Gate
+Q26388413;Entrance Gates, Shelters, Railings And Boundary Walls To Whitley Bay Cemetery
+Q26388425;Gates Monument At St Marys Church
+Q26388486;Gateway
+Q26388804;Gate, Attached Steps, Walls And Railings To South East Of Foremark Hall
+Q26389401;Gateway To Harcombe House
+Q26389427;Gateway Arch Approximately 10 Metres East North East Of Manor House Hotel
+Q26390149;Gateway To Belmont Hotel
+Q26390950;Gates And Gateway Approximately 5 Metres North West Of Home Farmhouse
+Q26391117;Gates, Gate Piers, Railings And Piers West Of Canon Frome Court
+Q26391199;Gate And Gate Piers About 30 Yards East Of Brook Farmhouse
+Q26391255;Gates And Railings Of Cambridge General Cemetry Flanking Histon Road
+Q26391315;Gates And Piers To Dean Hall
+Q26391595;Gates And Gate Piers To Upper Lodge Of Wyastone Leys
+Q26391853;Gates, Gate Piers And Railings Immediately North Of North Lodge To Lyston House About 200 Yards North Of Lyston House
+Q26391908;Gate, Gate Piers And Flanking Rails About 100 Yards East Of Whitfield
+Q26392023;Gateway To Lane Between Numbers 49 And 50
+Q26392150;Gates, Gate Piers And Railings To South Of Church Of St Mary And All Saints
+Q26392255;Gate And Gate Piers At South East Entrance To French Garden, South Of Hewell Grange
+Q26392270;Gate, Gate Piers And Mounting Block About 20 Metres West Of The Firs
+Q26392452;Wall, Gates And Gate Piers Running South East From Corner Of Dovecot And Turning North East To North Front Of Former Stable
+Q26392545;Gate, Piers And Steps At West Gate To Walled Garden At Beechwood Park School
+Q26393924;Gates And Screen Of Brocket Park To The South-West Of Brocket Hall
+Q26395075;Gates And Attached Walls And Terrace To South Of Eyam Hall
+Q26395717;Gateway At Hare Street House
+Q26395915;Gates And Gate Piers At Briggens House Hotel 300 Metres North Of House
+Q26396115;Gateway To Baptist Chapel
+Q26396365;Gates At West Entrance To Hamels Park (East Hertfordshire Golf Club) And 2 Lodges (Hamels Lodge And Hamels Keep)
+Q26396649;Entrance Gates And Piers About 50 Metres North West Of Hill House
+Q26396962;Piers And Entrance Gates To Childwick Bury Manor
+Q26397154;Gates, Gatepiers And Railings To Darrowfield House
+Q26397361;Gates And Gate Piers To Welton Hill
+Q26397409;Gateway And Garden Walls At Brantinghamthorpe
+Q26397425;Gate, Gate Piers And Screen Walls To West Ella Hall
+Q26397441;Gates, Gate Piers And Flanking Walls To Anlaby House
+Q26397517;Gates, Wall And Railings To Barcroft Junior School Along Barcroft Street Frontage
+Q26397552;Entrance Gates And Piers On Dancers Hill Road At Bentley Heath Lodge
+Q26397705;Gate And Flanking Garden Wall Approximately 20 Metres West Of The Old Vicarage
+Q26397709;Gate, Gate Piers And Flanking Walls To Front Of Horkstow Hall
+Q26397756;Gates, Flanking Walls And Railings 25 Metres South Of The Old Vicarage / Old Vicarage Lodge
+Q26398016;Entrance Gate To Southernhay
+Q26398046;Gateway To The Castle
+Q26398307;Gates, Gatepiers And Boundary Walls At Hewlett's Reservoir
+Q26398348;Gates Piers And Wall To St Marys Cemetry Chapel
+Q26398419;Gateway At Eastern End Of Northern Abbey Drive
+Q26398478;Gateway At Principal Driveway Entrance To Clovelly Court
+Q26398798;Gateway About 7 Metres East Of Langstone Manor
+Q26398993;Gate And Gate Piers Approximately 60 Metres To South-East Of Bale's Ash
+Q26399635;Railings, Walls And Gates And Piers About 14M North West Of Woodland View
+Q26399698;Piers, Gates, Lantern And Boundary Walls Surrounding Churchyard Of St John The Baptist
+Q26400244;Gates And Railings To Nash Court (046597)
+Q26400379;Gates And Gatepiers 20 Metres South Of The Church Of St Mary
+Q26400698;Entrance Gates To Church Yard
+Q26400739;Gates And Standards At North East Entrance To Chruchyard Of St Michael's Church
+Q26400946;Railings, Gates And Gatepiers 5 Metres South West Of Woolley Lodge
+Q26401430;Entrance Gates And Gatepiers Approximately 75 Metres South East Of Fremington Manor House
+Q26401630;Gateway Arch Immediately South East Of Penquit House
+Q26401831;Gateway And Steps Circa 15 Metres South Of Old Traine East And West
+Q26401855;Railings, Piers And Gates To Baptist Chapel
+Q26401885;Piers, Railings And Gates To Imdina And Home Croft
+Q26401974;Gates And Piers At Bure Homage Lodge
+Q26401986;Gates And Gate Piers About 25 Metres South Of Church Of St James
+Q26402368;Gate And Gate Piers To Stalbridge Park 12 M North West Of Old School
+Q26402448;Gateway Or South Front To Former Almshouses
+Q26403003;Gates At Eastern Entrance To Thornbridge Hall
+Q26403314;Gate Piers And Gates To West Of St Mary's Churchyard
+Q26403585;Gates And Gate Piers To The Manor House
+Q26403758;Gate And End Piers At Street Boundary Of No 39 (Ashtree House)
+Q26404219;Gates And Gate Piers To St Mary's Church Churchyard, Leading To Church Walk
+Q26404339;Railings And Gate Before The Lawns
+Q26404417;Railings And Gates To Greenhill Court Along Greenhill
+Q26404483;Gate, Lamp And Overthrow Between Nos 54 And 56 At Entrance To Methodist Church From Cheap Street
+Q26404519;Gates And Gate Piers At North East End Of Abbey Close
+Q26405621;Gate And Gatepiers Immediately North-East Of Watermillock House
+Q26406639;Gateway, Offices And Guard House, With Walled Exercise Yard, Horseshoe Barracks
+Q26406983;Grays Inn Gardens Gates And Railings On South Side
+Q26406990;Gates And Railings To University College School
+Q26407000;Railings And Gates South Of Verulam Buildings
+Q26407009;Gates, Boundary Walls And Railings To Rear Garden Of Numbers 2-20 Gower Street
+Q26407019;Entrance Gates And Railings To Corams Gardens
+Q26407059;Entrance Gates And Flanking Wall To Burgh House
+Q26407254;Wall, Gate Piers And Gates Approximately 5 Metres To East Of The Church Of St Mary
+Q26407379;Entrance Lodges And Gates To Cemetery
+Q26407426;Entrance Gates And Gate Piers To Caversham Park
+Q26407560;Gateway To Lambourn Place From Churchyard
+Q26407695;Entrance Gates At Pegsd0N Lodge
+Q26407800;Gates, Gatepiers And Walls At Milton Lodge
+Q26407816;Wall, Gatepiers And Gates Belonging To Old Church Of St Mary
+Q26408074;Gates And Gate Piers To The Mansion
+Q26408187;Gates, Gate Piers And Wall To Tofte Manor
+Q26409831;Gate And Gate Piers About 5 Yards East Of Tithe Barn At Hanham Court
+Q26409832;Gate And Gate Piers Between Hanham Court And Tithe Barn At Hanham Court
+Q26410040;Gates, Gatepiers, Railings And Wall Adjoining Packington Hall On The South East
+Q26410110;Gates, Piers And Railings At Entrance To Fillongley Lodge
+Q26410355;Gates, Piers And Boundary Wall To Upton House From Old Bitton Track To The South, To The Old Coachhouse To The North
+Q26410543;Gateway To Manor House
+Q26410603;Gateway To Trueblue Farmhouse And Wall To The South East Of Trueblue Farmhouse
+Q26410718;Gates, Piers And Railings On North Boundary Of The Church Of St Mary
+Q26410766;Railings, Gate And Garden Wall North Of Kennet House
+Q26410778;Entrance Gates And Piers To Welford Park
+Q26410864;Railings And Gate Approximately 15 Metres To West Of Church Of St Mary
+Q26411461;Gateway To H M Prison
+Q26411574;Gates And Piers To Bulmershe Manor
+Q26412005;Entrance Gates And Gatepiers To Milton Abbey 240M North Of Milton Abbey School
+Q26412124;Gate-Piers And Gate On Fleet-Chickerwell Parish Boundary Immediately North Of Fleet Lodge
+Q26412160;Gateway 25 Metres South-South-East Of Outer Gatehouse
+Q26412797;Entrance Gates And Piers To Kingston Lacy Adjoining Blandford Lodge
+Q26412801;Entrance Gates To Kingston Lacy Adjoining Wimborne East Lodge
+Q26412985;Railings, Gatepiers And Gates At Elliott House
+Q26413003;Gateway And Loggia At Longfield
+Q26413031;Gate And Gatepiers At Abbey Park
+Q26413071;Gates To Cemetery
+Q26413123;Entrance Gates 30M East South East Of Tolpuddle Manor House
+Q26413978;Gate Piers, Gates, Overthrow And Stile 25 Metres North West Of Church Of St Brandon
+Q26414033;Gate, Railings And Wall In Front Of Number 6
+Q26414132;Gate Towers And Walls On West Side Of Stable Yard, 15M North Of The Castle
+Q26414138;Gates And Gate Piers, 5 Metres North Of The Lodge
+Q26414146;Piers, Walls, Gates And Railings At East Lodge, Hermitage Park
+Q26414175;Gateway To North-West Of Chester Lodge
+Q26414331;Gates Of The Engineering Laboratories Facing Coe Fen
+Q26414686;Gateway To College Of Further Education
+Q26414903;Gates Piers And Gates C.50 Metres South-West Of Church Of St. Mary
+Q26415776;Gates To Mount Ephraim At 063599
+Q26416337;Gateway,Gates And Railings At Entrance To Colne Park
+Q26416440;Railings And Gateway Approximately 7 Metres South Of The Manse
+Q26416713;Gate And Gate Piers Of Number 107
+Q26416937;Gate, Gateway And Railings On Dwarf Wall, Forming The Roadside Boundary To South-West Of Red House
+Q26417415;Gates And Railings To Gateside
+Q26417454;Piers And Gates To St Hubert's House
+Q26417500;Entrance Gates To Boveney Court
+Q26417507;Gates, Nine Gate Piers And Garden Wall To Dorney House
+Q26417653;Gates To Hall Barn Estate
+Q26417868;Gateway To Former Stableyard To North West Of Chalfont Park House*
+Q26417914;Gateway Cottage And Tudor Cottage
+Q26418073;Gates And Railings To Langley Park
+Q26418579;Gate Piers And Gates At West Entrance To Medmenham Abbey
+Q26419041;Railings And Gates Of St Peter's Terrace Fronting Trumpington Street
+Q26419099;Gates Of The Panton Arms Public House
+Q26419118;Railings And Gates At The Church Of The Holy Trinity
+Q26419147;Gateway Of Anstey Hall
+Q26419221;Gateway At Number 78
+Q26420012;Gates And Gate Piers At Main Entrance, At Anglesey Abbey
+Q26420224;Wall, Gates And Gatepiers Number 185
+Q26420336;Gateway To Ufford Hall
+Q26420388;Gates Immediately To East Of Greystones
+Q26420628;Gates And Gatepiers, At Entry To Madingley Hall
+Q26421068;Entrance Gates And Piers At West Entrance To Wimpole Hall
+Q26421465;Gates And Front Railings Of Walden House
+Q26421483;Railings And Gates Of Number 71
+Q26421505;Gates And Piers To Churchyard Of Church Of St Mary
+Q26421520;Gates And Wall Of Hinchingbrooke Park At Right Of Main Entrance
+Q26421687;Gate, Piers And Overthrow 30 Metres South East Of Filton House
+Q26421697;Piers, Plinths, Gates And Railings (20 Metres East Of Frenchay House And Clarendon Lodge)
+Q26421781;Piers, Statues And Gates About 21 Metres North Of Old Down House
+Q26421910;Gates, Piers, Flanking Walls And Railings 40 Metres North Of Hutton Court
+Q26422196;Gates, Gate Piers, Railings And Walls, 20 Yards To North Of Laundry House
+Q26422333;Gates, Gate Piers And Railings, 20 Yards To South West Of Parish Church Of St Mary
+Q26422503;Gates, Piers And Flanking Walls 20 Metres West Of Stoney Littleton Farmhouse
+Q26422564;Gates And Piers At Upper Lodge, North Of Harptree Court
+Q26422623;Gates, Piers And Flanking Walls At End Of Drive And About 100 Metres South East Of Renny's
+Q26422682;Wall, Piers And Gates About 16 Metres West Of The Court
+Q26422686;Piers, Gates And Overthrow At North East Entrance To Churchyard Of Church Of St. Mary
+Q26422833;Gates, Piers And Overthrow 10 Yards South Of South Porch Of Church Of St Lawrence
+Q26423020;Gates, Overthrow And Piers Approximately 80 Metres East Of Dutch Tea Garden
+Q26423113;Burmester Gate At Mickleham Parish Church
+Q26423357;Gateway, Approximately 150 Yards North Of Ramsey Abbey, Within The Grounds Of Ramsey Abbey School
+Q26423400;Gates, Gate Piers And Wall To Number 2
+Q26423872;Gate And Gate Piers Approximately 8 Metres East Of Coverham Abbey House
+Q26423893;Railings And Gates Enclosing Chaytor Memorial, Abutting West Tower Of Church Of St Michael
+Q26423909;Gates And Gate-Piers To Castle Hill House
+Q26424173;Gates And Gate Piers With Small Piece Of Walling At The Friary
+Q26424311;Gateway To South Of Aske Hall
+Q26424522;Gateway to Church of St Agatha, Approximately 25 Metres North-East of Church
+Q26424560;Gateway To St Trinians Hall
+Q26424857;Gateway Adjoining South-East Corner Of East Tower Of Skipton Castle
+Q26424882;Gateway To Hartforth Hall
+Q26425160;Mill Gate
+Q26425339;Gates To The South Of Clifford Hall Cottages
+Q26425411;Gateway To West Of Service Wing Of Byram Hall
+Q26425437;Gates And Piers To Bilbrough Grange 3 Metres South-East Of House
+Q26425713;Gates And Railings Opposite Doric Lodge
+Q26425826;Gate To Elmfield House And Attached Walls
+Q26426482;Gates And Gate Piers To Church Of St Paul
+Q26426598;Gates And Gate Piers To Churchyard Of Church Of St James
+Q26427157;Gates And Gatepiers To Slack Lane Baptist Church
+Q26427776;Gates Gatepiers And Railings To Armitage Bridge House
+Q26427894;Hollins Gate
+Q26427922;Brock Well Gate
+Q26428333;Gates And Gatepiers To Drive Of Royds Hall School
+Q26428372;Gateway Arch To South Of Church Of St Peter  Lamp Post In Middle Of St Peters Gardens
+Q26428378;Gates And Gatepiers At Entrance To Cemetery Opposite Longwood Methodist Church
+Q26428735;Gateway With Gate And Gate Piers At East Lodge
+Q26428738;Gate Piers And Gates At The Lodge
+Q26428813;Gateway And Lodges For Old Military Depot
+Q26428974;Gates, Gate Piers And Flanking Walls At Chevet Gates
+Q26429167;Entrance Gates To Bill Hill
+Q26429465;Entrance Gates And Piers, Terrace Walls And Steps, Adjoining New Lodge On North Side
+Q26429489;Gates South East Of The Garden House, And Gate Piers
+Q26429654;Pair Of Piers About 8 Metres West Of Villa Farmhouse
+Q26429808;Gate Piers And Gates About 53 Metres West Of Hill Court
+Q26429839;Gate Piers And Gates South Of Church Of St Paul
+Q26429877;Gate, Gatepiers And Walls At Entrance To Newham Hall
+Q26429899;Entrance Gates And Railings To North Of Gournay Court
+Q26430146;Piers And Gates At South And West Entances To Churchyard Of Church Of Holy Trinity
+Q26430366;Gate Arch And Flanking Walls, To South-East Of Crofton Hall
+Q26430461;Entrance Gates, Walls And Railings To Churchyard Of St Mary And St Michael
+Q26430699;Entrance Gates And Turnstiles
+Q26430745;Gates And Piers, 50 Yards North Of Backwell House
+Q26430751;Sundial, Mounting Steps, Walls And Gate About 6 Metres South East Of Macquarie Farmhouse
+Q26431158;Gates At Bedford School
+Q26431207;Gates, Wall And Railings Of Isel Bridge House
+Q26431280;Gate Piers, Gates, And Railings To Churchyard Entrance
+Q26431408;Gates, Piers, Wall And Lamps To West Of Church Of St Cuthbert
+Q26431433;Gateway To Broughton Tower
+Q26431718;Gates And Piers West Of Haughton Hall
+Q26431985;Jesus College, Gateway And Screen On North Side Of Chapel Court
+Q26432054;Gates And Gatepiers To Verdin Park
+Q26432091;Gates, Railings And Gatepiers At Sandy Brow
+Q26432171;Gate Piers, Gate And Walls To East, West And South Of The Hall, With Summerhouse In North Corner
+Q26432561;Entrance Gates, Piers And Boundary Walls Adjoining South Side Of South Lodge
+Q26432626;Gates, Gatepiers And Crescent Walls At Entrance To Nunthorpe Hall
+Q26432658;Piers, Railings And Gates At Entrance To Transporter Bridge
+Q26432853;Wall, Gatepiers, Gate And Arch To South And West Of Higher Trevartha Farmhouse
+Q26432953;Gateway At West Entrance To Churchyard Of St Odulphus
+Q26433199;Gateway Attached Retaining Wall And Garden Seat At Morley Manor
+Q26433279;Gateway At The Western Entrance To The Churchyard Of Church Of St Melor And Churchyard Cross At The North Side Of The Gateway
+Q26433485;Gates, Piers And Walls Surrounding Churchyard To South East And West Of Church Of St Philip And St James
+Q26433846;Gate And Bollards Approx 30M To North And West Of Threwithen House
+Q26433847;Gate With Piers Approximately 110 Metres North East Of Trewithen House
+Q26434138;Gates And Gate Piers To The Graveyard Of The Cathedral Church Of St Mary The Virgin
+Q26434577;Wall, Gatepiers And Gates Of Langford Hill
+Q26434979;Gate Piers, Gates And Flanking Walls South Of Chynhale Methodist Church
+Q26435546;Gateway With Piers And Walls About 30 Metres North Of Tregeare House
+Q26435871;Gateway With Gate At The South Entrance To Withiel House
+Q26435877;Gateway And Coffin Rest At The North East Entrance To The Churchyard Of Church Of St Helena
+Q26436900;Gateway At The South West Entrance To The Churchyard Of St Mewan
+Q26436917;Gates And Piers At The East Entrance To The Churchyard Of The Church Of St Crida
+Q26436933;Gateway With Flanking Walls At The South Side Of The Churchyard Of Church Of St Enoder
+Q26436968;Gateway At The West Entrance To The Mortuary Chapels
+Q26436971;Piers And Wall At The Entrance Gateway To Glencairn
+Q26437134;Gateway With Railings And Piers At North West Entrance To Prideaux House
+Q26437217;Gateway About 10 Metres North Of Trethevy
+Q26437237;Church Yard Gateway To East Of Church Of St Fimbarrus
+Q26437830;Gateway At The South Entrance To The Churchyard Of Church Of St Stephen
+Q26437866;Entrance Gateway South East Of The College
+Q26438208;Gateway To Cemetery With Pair Of Integral Chapels
+Q26438490;Gateway Piers And Walls For Eden Hall
+Q26438650;Sourlands Gate
+Q26439361;Gates And Gatepiers To Compton Park House, With 100 Metres Of Wall To North And 75 Metres To South
+Q26439595;Gateways, Steps And Walls Along The East And North Sides Of The Churchyard Of Church Of St Meubred
+Q26439748;Gateway Arch At Entrance To Drive South Of Vicarage
+Q26439781;Gateway To Old Traine
+Q26440125;Railings Gates Gate Piers And Section Of Boundary Wall On North Side Of Burial Ground Of Unitarian Chapel Including Lamp Standard To North East
+Q26440405;Gateway To North Of Hainton Hall
+Q26440449;Railings And Gate Approximately 5 Metres North Of Panfield Farmhouse
+Q26440450;Gateway To Leadenham House
+Q26440465;Former Gateway At Groves Barns
+Q26440532;Entrance Gateway To Saling Grove North Of West Lodge
+Q26440813;Gateway In The Grounds Of Holbeck Manor
+Q26440998;Gateway Gate Piers And Plinth Wall Across Front Of Trustees Savings Bank
+Q26441039;Gates, Piers And Boundary Walls To Number 25 Upwey Manor
+Q26441096;Gateway And Lodges (Approximately 100 Metres To East Of Swinton Castle)
+Q26441146;Gates And Gate-Piers To Northcliffe House
+Q26441352;Gates ,Railings And Piers Approximately 8 Metres To South Of House
+Q26441417;Gates Piers And Wall To Thorganby Hall Approximately Five Metres To North Of House
+Q26441432;Piers And Gate Approximately Twenty Metres To North Of House
+Q26441433;Gates And Railings Approximately Forty Five Metres To North Of House
+Q26441438;Railings, Gates And Piers To Heslington Hall Approximately 30 Metres To North Of House
+Q26441445;Gates And Piers To Moreby Hall Approximately 40 Metres To North East Of House
+Q26441472;Gateway, Wall, Railings And Piers To West Of Orangery
+Q26441523;Wall, Gate Piers, Gates And Stable To North Of Church Of St Hilda
+Q26441733;Gates, Railings And Four Gate Piers
+Q26441734;Gates, Piers And Attached Walls
+Q26441740;Gates, Gate Piers And Attached Walls
+Q26442020;Entrance Gates To Langton Hall And Flanking Wall
+Q26442275;Gates And Gatelodges To North Lodge, And South Lodge Of Briggens House Hotel
+Q26442356;Gate And Railings Of Churchyard To The South Of All Saints
+Q26442572;Gates And Gate Piers Approximately 20 Metres North West Of Manor Farmhouse
+Q26442689;Gates, Gate Piers And Railings At Low Lodge
+Q26442702;Gates, Gate Piers And Flanking Walls At Lodge To Newby Hall
+Q26442821;Gates, Gate Piers And Flanking Walls To Rudding Park
+Q26442827;Gates And Gate Piers To West Lodge
+Q26442920;Gate And Gate Piers With Attached Ha-Ha Approximately 5 Metres From North-East Corner Of Stable Block At Norton Conyers House
+Q26443065;Gateway Approximately 200 Metres East Of Langton Hall
+Q26443067;Gateway Approximately 500 Metres To South Of Pepper Arden Hall
+Q26443491;Gate And Piers To South East Of Church Of St Mary Magdalene
+Q26443539;Gates And Gate Piers On West Side Of Road Opposite Main Gateway
+Q26443540;Gates, Gate Piers And Flanking Sections Of Park Wall (Approximately 6 Metres Long) On East Side Of Road At North End Of The Causeway
+Q26443607;Gates To Kepwick Hall
+Q26443682;Gates And Gate Piers To Walk Mill Lodge
+Q26443850;Gates And Gatepiers With Adjoining Wall Enclosing Churchyard On South Side Of Church Of St James
+Q26443969;Gateway Approximately 150 Metres To South Of Thornton Watlass Hall
+Q26443980;Gateway to Church of St Gregory (Approximately 20 Metres South of Church)
+Q26444253;Gates, Piers And Railings To South Of Cleveland Tontine Inn
+Q26444532;Gateway To Hooton Pagnell Hall Including Wall On Right Of Driveway And Roadside Wall Linking To Garden Cloakroom
+Q26444551;Gates And Gatepiers To Brodsworth Hall Estate Situated On West Side Of Road To Marr Approximately 650 Metres To East Of Hall
+Q26444609;Gates And Gate Piers To Gardens Of Brodsworth Hall, Approximately 270 Metres To North East Of House
+Q26444815;Gateway Approximately 30 Metres To North West Of Old Hall Farmhouse
+Q26445442;Railings And Gate Bounding Gardento The West Of Premises Occupied By The South-Western Dairies Ltd
+Q26445500;Gates And Piers To Village Hall
+Q26446124;Gateway Spanning Road To North Of Craster Tower
+Q26446485;Gate Screen South East Of Bilton House
+Q26446753;Gates, Gatepiers And Railings Circa 1 Mile South Of Etal Manor
+Q26446806;Entrance Gateway To Wormington Grange
+Q26447007;Gateway And Walling Of Congregational Burial Ground Opposite The Old Forge
+Q26447436;Gates And Gate Piers Circa 150 Yards North West Of Pallinsburn
+Q26447673;Gates Gatepiers And  Quadrant Walls To North Of Hall
+Q26447854;Gates And Screen Wall At Entrance To Cowpen Cemetery
+Q26447888;Entrance Gates And Gate Piers To South Lytchett Manor, 700 Metres East Of South Lytchett Manor
+Q26447947;Entrance Gates And Gate Piers To South Lytchett Manor, 400 Metres South South East Of South Lytchett Manor
+Q26448022;Gates, Gate Piers And Railings At Entrance To Dumbleton Hall
+Q26448204;Gateway At Fowberry Lodge
+Q26448291;Gateway Attached To North-East Of The Rift Farmhouse
+Q26448408;Gateway Arch Immediately South East Of Tolpetherwin Farmhouse
+Q26448562;Gates, Gate Piers And Railings And Walls 135 Yards To South West Of Church Of St Michael And All Angels
+Q26448848;Gate Screen And Ha Ha To South Of Hall
+Q26449025;Gateway Circa 200 Yards North Of Lorbottle Hall
+Q26449191;Gateway 60 Metres West Of Haughton Castle With Attached Walls And Outbuildings
+Q26449274;Gates And Gateway Circa 150 Yards North East Of Holystone Grange
+Q26449338;Gates To Lime Avenue 15 M Se Of Avington Lodge Opposite Other Gates
+Q26449388;Gates And Gate Piers Adjacent To Lodge At North Entrance To Sandywell Park
+Q26449650;Gateway Approximately 60 Metres South East Of Waterlane House
+Q26449982;Screen With Gateway On North Of Beaufront Castle Stable Court
+Q26450010;Gates And Gatepiers Approximately 15 Metres To North Of Kennet Orley
+Q26450016;Gate And Gateway By South Lodge To Otterburn Hall
+Q26450262;Gateway (To Castle Grounds) Opposite Lodge To Allerburn
+Q26450682;Gateway To Orchard 50 Metres West Of Estate Office At Longwood
+Q26451244;Gateway To North-East Of Aske Hall
+Q26451281;Gates And Gate Piers About 15 Yards South-West Of Michaelchurch House
+Q26451520;Gateway Approximately 3 Metres South Of Low Lodge
+Q26451671;Gateway In Garden To West Of Trewardale
+Q26452077;Railings, Gatepiers And Gates Opposite The Hill
+Q26452215;Gates And Gate Piers To The Vicarage
+Q26452273;Railings, Gates, Piers And Urns To South Side Of South Parterre (Also Known As The French Garden)
+Q26452315;Gate And Gate Piers North West Of Iretonwood House
+Q26452335;Gateway At South Entrance To King's Acre
+Q26452432;Gateway And Walls Enclosing Graveyard Of All Saints
+Q26452459;Gates And Attached Walls At Entrance To Thornbridge Hall
+Q26452699;Gateway, Lychgate With Stile, Settles And Flanking Walls At Approximately 20 Metres North West Of Church Of St Laud
+Q26452722;Gateway School With Railings And Wall
+Q26452761;Gateway And Attached Wall To North Of Amber Farmhouse
+Q26452763;Gates, Railings And Piers By The Grand Lodge
+Q26452791;Gate And Railings Circa 20 Metres To North West Of Wotton House
+Q26452831;Gates, Piers And Walls, North-West Of Lumley Lodge
+Q26452921;Piers And Gates At Witton Castle North Entrance, With Wall To Bridge
+Q26453813;Gateway At The South Entrance To The Churchyard Of Church Of St Bartholomew
+Q26453978;Entrance Gateway To Windlestone Hall, With Piers, Quadrant Walls And Gates
+Q26454084;Gate And Gate Piers At Entrance To Hall Barn
+Q26454135;Front Gateway To Number 10
+Q26454173;East Gateway To St Mary's Churchyard
+Q26454280;Railings And Gates In Front Of Congregational Chapel
+Q26454367;Brick Gateway In Wall To The Old Friary
+Q26454465;Gate With Piers Approximately 100 Metres North East Of Trewithen House
+Q26454487;Gate With Piers Approximately 300 Metres North West Of Trewithen House
+Q26454739;Gates, Gate Piers And Railings To East Of Stone Lodge
+Q26454758;Gate, Flanking Walls And Railings Approximately 10 Metres West Of Rimswell Water Tower
+Q26454822;Railings, Piers And Gates, To West Of Roman Catholic Church Of St Mary
+Q26454894;Gates, Piers And Walls To Sledmere House From The Stables To The Triton Inn
+Q26455032;Gateway And Attached Garden Wall At The Manor House
+Q26455066;Gates, Piers And Forecourt Wall To Elm Court, Pierremont, Dentdale East, Dentdale West, Tower House And Pierremont Hall
+Q26455270;Gateway And Front Wall To Worsley House
+Q26455288;Gateway And Churchyard Wall On East And South Sides Of Saint Bartholomew's Churchyard
+Q26455681;Gates And Gate Piers To Former Diddington Hall
+Q26455768;Gate Piers, Gates And Walls Flanking Gateway At Approximately 15 Metres East Of Church Of St Stedian
+Q26455897;Gateway To The Old School
+Q26456055;Piers And Entrance Gates To Denham Court
+Q26456543;Entrance Gates To Former Worsley New Hall And Adjoining Quadrant Walls
+Q26457207;Waddington Hospital Gateway
+Q26457286;Gateway To Croston Rectory
+Q26457301;Gateways
+Q26458141;Gate, Screen And Garden Walls To Bridgefoot House
+Q26458585;Gateway At Rose Garden, At Anglesey Abbey
+Q26458952;Gateway On Drive Entrance To Clovelly Court Estate (Also Known As Round Towers)
+Q26459064;Gateway Approximately 7 Metres North Of New Oak Lodge
+Q26459136;Gateway Approximately 50 Metres West Of Dragons
+Q26459476;Gates And Gatepiers And Wall At Docwra's Manor
+Q26459492;Gates, Gate Piers And 2 Lodges To Sudbrooke Holme
+Q26459508;Gateways Walls And Railings At Number 1 (The Old School)  Roadside Wall And Railings At Number 2 (School House)
+Q26459539;Garden Gateway At Fillingham Castle
+Q26459678;Entrance Gates Adjoining Road And Approximately 40 Metres North Of Great Ruffins
+Q26459794;Gate, Gatepiers And Flanking Walls To Chulmleigh Primary School
+Q26460137;Gates And Piers To Stableyard Of Bilbrough Grange 2 Metres To Right Of House
+Q26460321;Gateway To Melchet Court
+Q26460399;Gates And Piers To Fulford Hall
+Q26460462;Gates And Gate Piers About 30 Yards East Of The Abbey Church Of St Michael And All Angels
+Q26460570;Gates And Gate Piers Adjoining North East Rear Range Of The Old Rectory The Old Rectory*
+Q26460623;Gate Piers And Gates To Walled Garden, And Walls Adjoining Approximately 40 Metres To South Of Heslington Hall
+Q26460762;Gates Piers And Curved Flanking Walls Approximately 200 Metres South Of Scale House
+Q26460939;Gateway And Front Boundary Wall To Rylstone House
+Q26460989;Gate And Gate Piers To Beoley Hall
+Q26461151;Gateway In Garden Wall On North Side Of Road Approximately 75 Metres North-East Of Bollitree Castle Farmhouse
+Q26461152;Gates Gatepiers Railings And Wall At Entrance To Monk Fryston Hall
+Q26461158;Gates, Overthrow And Gate Piers Approximately 20 Metres West Of Church Of St Andrew
+Q26461171;Gates With Flanking Walls And Two Pairs Of Piers Approximately 100 Metres South-West Of Weston Hall
+Q26461508;Entrance Gates To Drive From Stony Lane At Blake Hall
+Q26461511;Gateway To Castle Park
+Q26461580;Churchyard Gates And Gatepiers At West End Of Church Street
+Q26461700;Piers, Railings, Gate-Piers And Gates To Bickham House
+Q26462149;Gates And Piers To Well Vale Park, Beside Walled Garden
+Q26462249;Little Gate
+Q26462425;Gateway, Adjacent To Canons Barn
+Q26462445;Gateway And Boundary Walls Adjoining South Of Manor Lodge
+Q26463564;Railings On Dwarf Wall And Gate And Gate Approximately 3 Metres South East Of Wisteria House
+Q26463638;Churchyard Gates And Gatepiers 8 Metres North Of Church Of St Mary
+Q26463936;Gates To Drive Of The College
+Q26464446;Piers, Dwarf Wall, Gates And Railings At Westfield Farm
+Q26464604;Gates And Gatepiers To Rear Of Woolcomber House
+Q26465309;Gates And Gate Piers To Number 4 (Millbridge Nursing Home)
+Q26465455;Gates, Gate Piers, Overthrow, Railings And Boundary Walls At Chapel Antiques
+Q26465520;Gateway Approximately 100 Metres North East Of Skaiteshill House
+Q26465679;Gates Piers By Lodge With Gates
+Q26466610;Entrance Gates And Gatepiers To Durnford House
+Q26466803;Gates And Posts To East And West Of Church Of St Mary
+Q26467463;Gate, Piers, And Steps At South Gate To Walled Garden At Beechwood Park School
+Q26467468;Gates And Piers Approximately 120 Metres To East Of House
+Q26467617;Gates And Walls To South Entrance Of Essendon Place
+Q26467762;Railings, Piers And Gate At The Manor House
+Q26467966;Gates And Gate Piers, The Rectory
+Q26468151;Gates, Walls And Pavilions On The South Side Of Hatfield House
+Q26468298;Railings And Gates To Churchyard, Church Of St Peter
+Q26468307;The Cemetry Gates, Gate Piers And Boundary Walls
+Q26468477;Gates, Gate Piers And Flanking Walls At South Lodge To Nidd Hall
+Q26468704;Wall, Gate Piers, Gates And Lamp Overthrow To Churchyard, Church Of St Gregory
+Q26468886;Wall, Gate Piers And Gates At Lodge Approximately 400 Metres To North Of Welburn Hall
+Q26469032;Lee Gate
+Q26469072;White Gate
+Q26469168;Gateway, Gates And 45 Metre Long Boundary Wall, Norton House
+Q26469217;Gates And Railings To Congreational Church
+Q26469337;Gates And Piers To The Coach House, Approximately 12 Metres To West Of The Coach House
+Q26469367;South Entrance Gateway To Churchyard, Church Of St. Mary
+Q26469424;Gates, Gatepiers, Railings And Dwarf Wall Fronting Williton Hospital
+Q26469434;Gateway And Wall Surrounding Churchyard Of Former Church Of St Michael
+Q26469440;Gates Lodges To Howsham Hall
+Q26469521;Railings Set In Wall, Piers, Gatepiers And Gatefronting Nos 4 And 6, Returned East And West Sides For 5-10 Metres
+Q26469522;Gateway To Ranmore Cottage
+Q26469654;Gateway And Wall Of Former Dovecote Adjoining Berwick House To North East
+Q26469658;Gates And Gate Piers Approximately 60 Metres To East Of Berwick House
+Q26469738;Gate, Gate Piers And Flanking Wall Adjacent To Lodge Ot Chantry
+Q26469842;East Gateway To Churchyard, Church Of St George
+Q26469870;Gate And Piers, About 20 Metres West Of Steyning Manor
+Q26469879;Entrance Gates, Railings And Piers At Childwick Lodge
+Q26470271;Nelson Gate
+Q26470477;Gates, Gatepiers And Railings Fronting St Audrie's School
+Q26470766;Gateway And Flanking Walls To Hodnet Hall Approximately 18 Metres To South West Of Church Of Saint Luke
+Q26470974;Gateway And Flanking Walls Approximately 300 Metres To South East Of Hodnet Hall
+Q26471063;Gateway Lodge, Gates And Associated Railings At South Entrance To Brogyntyn Park
+Q26471191;Gateway About 175 Metres South West Of The Court
+Q26471532;Piers, Walling And Gates At Baptist Chapel
+Q26471599;Piers And Gates At Yew Tree Avenue, Clipsham Park Wood
+Q26471603;Gates Gatepiers And Wall Abutting At Entrance Of Ruishton House
+Q26471620;Piers And Gates To Churchyard Of St Mary
+Q26471661;Gate Piers, Gates And Wall Enclosing The Old School And Llanyblodwel Post Office
+Q26471869;Gates And Gate Piers Approximately 20 Metres To North West Of Shooter's Hill
+Q26472170;Gateway, About 140 Metres South East Of Wake Hill
+Q26472174;Entrance Gateway About 90 Metres South Of St John's Priory
+Q26472197;Gate And Gate Piers Approximately 166 Metres To North East Of Longnor Hall
+Q26472373;Gateway And Flight Of Steps At Roadside Entrance To Great House Farmhouse
+Q26472542;Entrance Gates, Piers And Wall At The Sir John Moore Church Of England School
+Q26472844;Stafford Gateway To Weston Park
+Q26472972;Gate And Gate Piers Approximately 16 Metres To South West Of Grove Farmhouse
+Q26473057;Gateway To Rackheath Park
+Q26473167;Gates And Gate Piers About 30 Yards North-North-East Of The Old Rectory
+Q26473309;Gates And Piers, Railings, Wall And Gateway, 20 Metres East Of Frenchay Manor
+Q26473530;High Gate
+Q26473607;Gates And Gate Piers To Former Ordnance Survey Offices
+Q26473633;Gate And Gate Piers Approximately 200 Metres West Of Coverham Abbey House
+Q26473741;Gateway, Forecourt Paving, And Roadside Boundary Wall To Hook Cottage
+Q26473882;Gates To Millers House Gate-Posts And Railings
+Q26474086;Railings And Gates About 15 Yards West Of The Church Of St Mary The Virgin
+Q26474289;Railings, Gates, Gate-Piers And Boundary Walls To Spennithorne Hall*
+Q26474404;Gates, Gate-Piers, Wall And Terminal Piers At Eagle Lodge
+Q26474669;Gate Piers, Gates And Railings Approximately 100 Metres East Of Church Of Saint Oswald's
+Q26474747;Gate Piers And Gates At Entrance To Churchyard Of Church Of St Mary
+Q26474822;Gate And Railings About One Yard South Of Church House
+Q26475584;Railings, Gates And Gate Piers On North West And North East Sides Of Baptist Church
+Q26475615;Entrance Gates, Piers And Flanking Walls To Box House
+Q26475822;Gates At Rear Of Number 40 Leading To Pathway At Rear Of City Of London Club
+Q26475911;Entrance Gates Piers And Railings At Hengrave Hall
+Q26476038;Gates To Fawley Court. Adjacent To Lodge (Quod Vide)
+Q26476494;Gates, Gate Piers, Linking Balustrading And Ramped Wall To South West Of Slinfold Manor
+Q26476499;Entrance Screen And Gates To Biddesden House
+Q26476506;Entrance Gates And Coach House At Hazelbury Manor
+Q26476951;Gateway To Burial Ground Of Former Baptist Chapel
+Q26477877;Cemetery Gate
+Q26478026;Gates Gatepiers And Flanking Wall At West Entrance To Shipton Court
+Q26478097;Gates Gatepiers And Entrance Quadrants Opposite Shipton Court
+Q26478425;Gates And Gate Piers To East Of Boyton Manor
+Q26478622;Gates, Piers And Railings At Western Block Of Number 39 (Beaufoy School Technical Block)
+Q26478722;Railings And Gates Of Front Gardens Of West View (Numbers 3 And 4) To North, South And West And Between The Gardens
+Q26478729;Railings And Gate To Front Garden Of West View (Numbers 6 And 7) To The West And North
+Q26478945;Gates, Gate Piers And Enclosing Wall To Garden Of Parliament Piece
+Q26479107;Gates And Gate Piers To Thornhill Lees Vicarage
+Q26479329;Gates And Gate Piers To Kirklees Hall
+Q26479525;Railings, Gates And Gate Piers To North West, North East, South East And West Of Church Of St George
+Q26479670;Railings And Gate To Garden Opposite No 5
+Q26479672;Worcester College, Boundary Wall On Worcester Street, Stretching 60 Yards South From The Entrance Block To The New Gateway
+Q26479690;Gates, Gate Piers And Front Walls To The Lynches
+Q26479856;Gates And Front Wall To Manor House
+Q26480009;Gates, Piers And Railings To Regency Lodge
+Q26480524;Gates To Wildcroft Manor
+Q26480863;Gates And Gate Piers South East Of No 8
+Q26480992;Gateway In Grounds Of Calderdale Borough Sowerby Bridge Area Office
+Q26481580;Gate And Gate Piers At Dunraven
+Q26482261;Railings And Gates Lodge To Welsh School
+Q26482292;Gates Piers And Gates To Stanwell Place
+Q26482430;Bradshaw Hall Gateway
+Q26482471;Gates, Gatepiers And Flanking Walls At Entrance To Villiers Limited
+Q26482507;Gateway Of Greystone Lodge (Lodge Not Included)
+Q26482545;Entrance To Stanley Dock At Saltney Street Corner
+Q26482730;Gates, Doors, Piers And Attached Quadrants Of Wall To Watermoor House
+Q26482958;Gateway Approximately 19 Metres West Of Mason Croft
+Q26483042;Gateway To South West Of The Swan Theatre
+Q26483233;Gates And Gate Piers To Royal Military Academy
+Q26483312;Gates, Gate Piers, Churchyard Wall And First World War Memorial Approximately 15 Yards East Of Church Of St Michael And All Angels
+Q26483356;Gateway To The Rear Of Shangton Hall Farmhouse
+Q26483517;Gates, Overthrow, Gate Piers And Garden Wall At Rudding Park
+Q26483645;Gates And Gate Piers/Walls To Ockham Park
+Q26483689;Gate Piers And Gates To Ashtead Park At Juncton Of Farm Lane And Pleasure Pit
+Q26483833;Gate, Gate Piers And Flanking Walls Approximately 80 Metres To South Of Conyngham Hall
+Q26483884;Gateway About 100 Yards South Of Boston Manor House
+Q26483903;Reigate Castle Gateway
+Q26484033;Gates, Piers And Overthrow To South Of Church Of St Mary Magdalene
+Q26484100;Gates, Piers And Entrance Yard Wall To South East Of Sharpecliffe Hall
+Q26484263;Gate And Gate Piers To South East Of Bradden House And Attached Quadrant Walls And Piers
+Q26484320;Gates And Railings To St Leonard's Almshouses
+Q26484385;Gates To Kitchen Garden At Broughton Hall
+Q26484640;Gateway Near Princess Amelia's Bath House, Gunnersbury Park
+Q26484725;Railings And Gates Of Burston House
+Q26485185;Gates, Gate Piers And Boundary Wall To Manor House
+Q26485214;Gateway And Wall To East Of Courtyard At Baynards Park
+Q26485221;Gateway And Railings To South Of The Garden At Baynards Park
+Q26485426;Gates And Gatepiers Approximately 10 Metres East Of Grendon Hall
+Q26485589;Gateway To Brandsby Hall, Approximately 100 Metres South East Of Church
+Q26485603;Gate, Overthrow, Gatepiers And Walls Approximately 25 Metres South Of The Old Rectory
+Q26500508;Entrance Gates Approximately 30 Metres To North Of Church Of St Mary
+Q26500632;Entrance Canopy, Lodges And Gates To Springfield Brewery
+Q26500732;Gate Opposite Roberts Street
+Q26500836;Gate Piers And Gate
+Q26501284;Gates, Piers And Railings To Cathedral Close
+Q26501692;Gate And Attached Walls To South East Of Church Of St Martin
+Q26501841;Gateway And Wall Attached To East Of Health Offices
+Q26501993;Gate Piers And Gate To Bramhope
+Q26502010;Gate Piers And Gate To Merton Lodge
+Q26502017;Gateway To Torwood Mount (Torwood Mount Not Included)
+Q26502303;Gates, Piers And Railings To South Of Monkwearmouth College Swan Street Centre
+Q26502312;Gates And Railings In Front Of Number 19
+Q26502405;Entrance Gates To Haslam Park
+Q26502641;Entrance Gates, Piers And Railings To Cornwallis Grove To East Of Grove House
+Q26502885;Gateway And Flanking Walls At Lees Rest Houses
+Q26502967;Gateway And Screen Walls, 2 Metres West Of Shrubland Hall Lodge
+Q26502984;Gateway At Entrance To Manchester Southern Cemetery
+Q26503076;Nunnery Gateway
+Q26503112;Railings, Walls, Gate Piers And Gates To Caledonian Park
+Q26503777;Railings And Gate Immediately North West Of Church
+Q26503877;Gates, Gatepiers And Perimeter Walls To St Bride's Churchyard
+Q26503970;Gates, Piers And Railings To Former Sunderland Orphange
+Q26504090;Gateway To Queen Avenue  Numbers 20 And 22 And Gateway To Sweeting Street
+Q26504202;Railings Gate And Wall To Went House
+Q26504850;Rear Boundary Wall Including Gateway To No 1 (No 1 Not Included)
+Q26505009;Gates And Gatepiers Circa 10 Metres North Of Church Of St John Baptist
+Q26505087;Entrance Gateway To Arrowe Hall With Flanking Screen Walls
+Q26505416;Gate Piers And Gate South East Of Trereife Manor
+Q26505424;Gate And Walls To Garden On West Side Of Road Opposite Entrance To West Woodhay House
+Q26505538;Gateway And Boundary Wall To St Andrew's Churchyard
+Q26505624;Gateway Building Society
+Q26505651;Salkeld Gate
+Q26506003;Gateway, Wall And Railings At Former Entrance North East Of Unthank Hall
+Q26506370;East Gate
+Q26506720;Gate And Gatepiers At North West Entrance To Churchyard
+Q26507028;Railings And Gateway To East Drive At Norwood Park
+Q26507273;Gate Piers, Gates And Flanking Walls To South West Of Treator Farmhouse
+Q26507567;Gateway to Churchyard of Church of St Oswald 24 Metres West of the Tower
+Q26507634;South Gateway To Churchyard Of Church Of Petroc Minor
+Q26507661;South West Gateway To Churchyard Of Church Of St Ida
+Q26507662;Gates And Gate Piers At North Entrance To Churchyard Of Church Of St Ida
+Q26507952;Nuttage Gate
+Q26507981;Gateway To South Of Tolson Hall And Attached Walls
+Q26508011;Gate Piers, Gates And Walls To Williamson Park
+Q26509470;Gateway And Garden Wall About 25 Yards North Of Brelston Court
+Q26509761;Gates And Gatepiers At Entrance To Longwood Methodist Church
+Q26510111;Gate And Gate Posts About 30 Metres South Of Moat House
+Q26510435;Gate, Piers And Railings To Garden, North West Corner Of Holmewood Hall
+Q26511196;Gate Piers, Gates And Adjoining Wall, At Entrance To The Cemetery
+Q26512253;Gates And Quadrant Walls To Olantigh
+Q26512307;Entrance Gates At Borlase School
+Q26512312;Gates And Gatepiers To Coalbrookdale Gate
+Q26512446;Badger Gate
+Q26512516;Entrance Gates, Piers And Front Railings To Sunderland Cemetery
+Q26512698;Gates And Gate Piers At Entrance To Humbledon Pumping Station
+Q26512753;Railings And Gates To No 47
+Q26512886;Wall, Gates And Railings Around Former Graveyard And Chapel, Now Rent Office
+Q26513025;Gates, Gate Piers And Boundary Wall Of Number 2
+Q26513065;Wall, Railings And Gates To Former Methodist Church
+Q26513089;Gate To Clarence Dock
+Q26513188;Langham House Including Gateway Adjoining On North
+Q26513199;Gates, Piers And Perimeter Walls To South And East Of Henbury Manor
+Q26513344;Gates And Railings To Main Entrance Of Phillips Park Cemetery
+Q26513556;Gates At Torbay Road Entrance To Abbey Park
+Q26513610;Gate Piers, Gates And Boundary Wall To Churchyard Of Church Of St Mary
+Q26513690;Railings And Gateway Across Drive Approximately 250 Metres East Of Lytham Hall
+Q26513929;Gateway And Boundary Walls At General Cemetery
+Q26514090;Gateway And Wall Of St Bartholomew Hospital
+Q26514182;Gates From Church Lane Into Churchyard Of All Saints
+Q26514350;Gates And Gate Piers To King Edward Vii High School
+Q26514532;Railings And Gate To Number 14
+Q26514603;Wall, Gate Piers And Gates Approximately 15 Metres To West Of Chieveley House
+Q26514889;Royal Fort Gate Piers And Gates
+Q26514920;Gates, Overthrow And Gatepiers Approximately 80 Metres To South Of Shaw House School
+Q26514963;Gateway To Blythe Hall
+Q26515106;Gate Piers And Gates At Benham Park, East Lodge
+Q26515856;Buckingham Gate
+Q26516163;Railings And Gate 20 Yards South West Approximately From South Porch Of Church Of St Mary
+Q26516290;Gates, Gatepiers And Railings To Parkwood Methodist Church
+Q26516452;Gates, Lanterns And Railings To Collett Lodge
+Q26517059;Entrance To Northernhay Gardens From  Northernhay Place
+Q26517127;Entrance Gateway From Queen Street
+Q26517440;Gates And Gate Piers Adjoining Tern Lodge To East
+Q26517570;Gates And Gate Piers To Front Of Church Of St James The Great
+Q26517599;Gateway In Grounds Of No 45 (The Ivybank Chest Clinic)
+Q26517602;Gate Piers And Gates To Hawcliffe Rock
+Q26517825;Railings, Wall, Piers, And Gates To South West Of Marling School
+Q26517960;Gates, Gatepiers And Railings To Front And Scapegoat Hill Baptist Church
+Q26518053;Gates And Walls To Minster Abbey
+Q26518058;Gate And Railings Adjoining And West Of The White Horse
+Q26518243;Gates And Quadrant Plan Brick Wall To South East Of South Lodge To Westwood Park
+Q26518345;Entrance Gates And Screen Walls At Wyvern Barracks
+Q26518420;Wall, Gate Piers And Gates, Extending In Front Of The South Side Of Church Of St Nicholas
+Q26518590;Gates And Gatepiers To Digby Hospital
+Q26518924;Piers, Gates And Railings North West Of Wimborne Lodge To Canford School
+Q26519486;Gateway To The Courtyard Of Stone House Cottage And The Manse
+Q26519801;Railings And Attached Gate Attached To West Of Hall Farmhouse
+Q26519862;Gateway And Flanking Walls In Front Of Manor House
+Q26520040;Entrance Gates At North East Entrance To Battersea Park
+Q26520111;Gateway And Stone Steps And Outbuilding Attached To South West Of Heptonstall Grammar School Museum
+Q26485766;Gates, Gatepiers And Railings To Church Of St John The Baptist
+Q26485832;Wall, Stables, Gates And Gatepiers At Entrance To Weston Hall
+Q26485995;Entrance Gates, Gatepiers And Flanking Wall To North Of Old Smugglers Cottage
+Q26486342;Entrance Gates And Walls To Oatlands Palace
+Q26486765;Wall, Gatepiers And Gates Extending To Approximately 100 Metres North, East And West Of Drayton House, And Attached Orangery
+Q26486889;Gates And Gate Piers
+Q26486944;Pococks Gate
+Q26486948;Gates And Attached Gatepiers Approximately 10 Metres East Of Duddington Manor
+Q26487032;Gate Arch And Forecourt Walls To Old Grammar School House
+Q26487063;Entrance Piers, Railings And Gates To Newlands
+Q26487137;Lytch Gate
+Q26487598;Entrance Gates And  Railings And Terminal Piers, 15 Metres North Of Manor House
+Q26487644;Wall, Railings, Gates And Steps To Right And Front Of The Old Schools
+Q26488151;Gates And Gatepiers To Main Entrance To East Of Morden Hall,Including Attached Wall To North
+Q26488363;Railings, Stone Wall And Gates To Former Churchyard Of St Martin Orgar
+Q26488364;Entrance Gates Gatepiers And Adjoining Walls To Queen Alexandras Court
+Q26488392;Gates And Gatepiers 60M South Of The Glanelly Rest
+Q26488453;Wall, Piers And Gates On East Side Of Forecourt To Sandford Park
+Q26488506;Gates To The North West Entrance To The Churchyard
+Q26488709;Railings And Gates To Front Gardens Of Constables And Five Firs
+Q26488713;Gateway To Number 21
+Q26488733;Entrance Gateway Approximately 15 Metres North West Of Master's Court
+Q26488963;Gates, Gate Piers And Curved Flanking Railings 50 Yards East Of Courtenay Avenue
+Q26489283;Gateway To St Gregory's College (Now Modern Workhouse), West Side Of Churchyard
+Q26489473;Gateway To Belton Park
+Q26489495;Railings And Gate To South Of Church Of St Chad
+Q26489549;Gateway And Boundary Wall To Conygree
+Q26489555;Gateway And Boundary Wall To Old Manor House
+Q26489796;Gateway To Wolborough House
+Q26489975;Gate, Gate Piers And Railings To St Margaret's Churchyard
+Q26489989;Railings And Gates To South And East Of St Nicholas' Churchyard
+Q26489998;Gates And Railings To East Of St Nicholas' Churchyard
+Q26490104;Railings Round New Church Hawe And Gates On The South Side Of The Square
+Q26490107;Gates To John Wesley's House
+Q26490253;Railings And Gates To Islington Tennis Centre And King George's Field
+Q26490966;Railing And Gate To Left Of 26 And 28
+Q26491280;Gates, Piers And Railings To Numbers 8 And 10
+Q26491307;Gates, Piers, Walls And Railings To Eden Holme And Gwynfa
+Q26491408;Gates And Lamp Bracket To East Of Church Of St Cuthbert With St Mary
+Q26491463;Gates And Gate Piers To East Of West Lodge, Carlisle Cemetery
+Q26491494;Railings And Gates At East End Of Cathedral
+Q26491847;Friars Gate
+Q26491877;Gates And Attached Railings Approximately 10 Metres South Of Parish Church Of St Mary
+Q26491941;Piers, Gates And Walls To Holyrood House
+Q26491988;Gateway To Speedwell House, Adjoining Number 6 (No 6 Not Included)
+Q26492015;Gateway And Railings To The Churchyard Of The Parish Church Of The Holy Cross
+Q26492160;Gateway To Pearson Park
+Q26492340;Entrance Lodges, Piers, Screen And Gates Of Withington Hospital
+Q26493473;Entrance Gatepiers, Gates And Walls To East Of Langford Court
+Q26493519;Gates, Dwarf Wall And Railings To High Town Methodist Church
+Q26493952;Gates, Gatepiers And Garden Wall To North Of Rudyard Hall
+Q26493960;Gateway To Malling Deanery
+Q26494079;Gates, Gatepiers, Railings, Walls And Attached Summerhouse Extending To Approximately 300 Metres North, South And East Of Harrowden Hall
+Q26494148;Gates And Gate Piers To Churchyard Of St Peter And St Paul
+Q26494312;Gateway To College Farm
+Q26494772;Gateway In Wall To South Of Bonham House
+Q26494926;Entrance Gateway To Church Of St Michael At North East Corner Of Churchyard
+Q26494939;Gates And Gatepiers Approximately 400 Metres South East Of Kingston House
+Q26495389;Gate, Gatepiers And Railings To Front Of Victoria Hall
+Q26495414;Gateway And Flanking Walls Apaproximately 18 Metres South South East Of Woodman's Cottage
+Q26495664;Piers And Gates Of Entrance To Burley Hall From Corn Mill Lane
+Q26495858;Gates, Gatepiers And Railings Approximately 15 Metres South Of Wellshead House
+Q26496053;Gateway And Walls To Courtyard Cottage
+Q26496060;Tays Gateway
+Q26496378;Gate, Gatepiers And Wall In Front Of And To East Of No 24 (Castle House)
+Q26496393;Gateway Immediately North West Of Coach House And Barn, Cockfield Hall (Including Adjoining Walling)
+Q26496409;Turnpike Gateway In Part Of Cliffe Castle Approximately 3 Metres To South West Of House
+Q26496678;Gates And Gatepiers At Main Entrance To Victoria Park
+Q26496752;Gate, Gate Piers And Front Boundary Wall Of The Hall
+Q26496808;Dunelm Court  Entrance Gateway To Dunelm Court
+Q26497289;Gateway To Number 59
+Q26497535;Gates, Gatepiers And Railings To Northwest Of Moseley Hall
+Q26497668;Gates, Piers And Railings Of Avon View Cemetery
+Q26497672;Gates And Piers Of Milton Lodge (Milton Lodge Not Included)
+Q26497769;Wall, Gate Piers And Gates Of Former Church Of St Andrew (Now Demolished)
+Q26497852;Gateway 10 Metres East Of The Old Halt
+Q26497891;Railings, Gates And Pier To Brandon Hill Across South West End Of Great George Street
+Q26497892;Entrance Gates And Piers To Greenbank Cemetery And Railings To East
+Q26497980;Wall, Gates And Railings To Stranger's Burial Ground
+Q26498051;Gates And Railings Round Portland Square Gardens
+Q26498239;Entrance Gates To East Of Bristol Grammar School
+Q26498424;Railings, Piers And Gate To South Lodge Of Downton Hall (Not Included)
+Q26498584;Wall, Railings, Gates And Gatepiers To The Front Of Number 26
+Q26498895;Ditchley Gate
+Q26498898;Gates Approximately 20 Metres South Of Wallingfen Chapel
+Q26498962;Gate And Gatepiers About 20 Metres West Of Nos 1 And 2
+Q26499218;Gate And Gatepiers Approximately 10 Metres North Of The Old Stone House, Teeton Hall
+Q26499227;Gates And Gate Piers Approximately 75 Metres East Of Sedgebrook Hall
+Q26499363;Gates And Adjoining Railings Approximately 250 Metres North West Of Rockbeare Court
+Q26499397;Gateway To Roman Catholic Church Of St Mary
+Q26499466;Gateway At Monkey Lodge
+Q26499567;Piers, Gates And Walls To Colston's School
+Q26499702;Entrance Gateway To Friends Meeting House, With Attached Front Wall
+Q26499812;Gateway At Icehouse Lodge
+Q26499886;Gates And Steps At North Corner Of Gardens
+Q26500046;Entrance Gates And Walls To Snelston Hall
+Q26500115;Gates, Gate Piers And Adjoining Walls Approximately 45 Metres East Of Wootton Hall
+Q26500292;Gates And Walls To West Side Of Cemetery
+Q26500319;Garden Gateway To Gunby Hall, West Side
+Q26500426;Church of St George, Brandon Hill, Rear Entrance Gates and Walls
+Q26520348;Gates And Gatepiers To Churchyard Wall Approximately 15 Metres South Of Manor House
+Q26520427;Gates And Gatepiers To Pampisford Hall
+Q26520737;Gate And Piers To Sutton House
+Q26520788;Widdop Gate
+Q26520841;Gates And Forecourt Walls To Congress Hall
+Q26521019;Gateway About 10 Metres North Of Stapleton Manor
+Q26521234;Gates And Boundary Wall To Cemetery
+Q26521394;Gateway And Boundary Wall At Daybrook Almshouses
+Q26521550;Gateway To Former Elton Manor
+Q26521646;Gates, Gateway, Walling And Wall Head 30 Metres West Of Theberton Hall
+Q26522131;Gateway 45 Metres North Of Main Entrance To Theberton House
+Q26522618;The Garden Gateway To The Old House  Wall To The Old House
+Q26522638;Gate Piers And Gates 110 Metres North Of Wootton House
+Q26522655;Itchenor Gate
+Q26522731;Railings And Gates Of Arboretum
+Q26522740;Gate Piers, Gates, Walls And Railings In Front Of Former Schools
+Q26523256;Gateway To Cemetery Chapels
+Q26524379;The Gothic Gateway (Shenstones Eyecatcher)
+Q26524996;Gates, Gatepiers And Railings To Prince Of Wales Gate
+Q26525085;Gates And Gatepiers To Alexandra Gate
+Q26525138;Gates, 2 Pairs Of Gate Piers And Quadrant Walls With Boundary (About 50 Yards Long) At Entrance To Warmley House
+Q26525353;Gates To St Marks Churchyard
+Q26525524;Gateway And Attached Wall At Right Angles 10 Metres To North Of Clay House
+Q26525907;Railings And Gate To No 60
+Q26525965;Piers To North And South And Gateway To North Of No 9
+Q26526204;Gateway And Garden Wall To North Of Chillingham Castle
+Q26526509;Gateway, 30 Metres South Of Frenchay Park
+Q26526887;South Gateway To Belford Hall
+Q26527248;Gateway to Churchyard of Church of St Leonard, 45 Metres South of the Church
+Q26527318;Gateway 19 Metres West Of Church Of All Saints
+Q26527391;Gates And Gateway Circa 100 Yards West Of Ellingham Hall
+Q26527539;Entrance Gates And Gatepiers To Vivary Park
+Q26527822;Hey Gate
+Q26528165;Gateway And Sundial At The Dial House
+Q26528194;Gate And Overthrow To East Grove
+Q26528328;Moor Gate
+Q26528446;Gates And Gate Piers At West Entrance To Shortgrove Park
+Q26528587;Railings And Gates To Churchyard Of St John The Baptist
+Q26528607;Gateway Adjacent To Road Gatehouse Farmhouse
+Q26528839;Gateway Into Tintinhull Court In South East Corner And Associated East And South Boundary Walls, Churchyard Of St Margaret
+Q26528859;Entrance Lodges, Gates And Railings To Abney Park Cemetery
+Q26529131;Gateway Screen Walls And Guardstones Adjoining North Lodge
+Q26529381;Gateway And Walls To Enclosure South Of Langar Hall Between Churchyard And Cropwell Bishop Road
+Q26529902;Gates, Gate Piers And Flanking Walls To East Drive At Newstead Abbey
+Q26529914;Gateway to Churchyard, 15 Metres North of Church of Saint Peter and Saint Paul
+Q26530211;Gates Gate Piers And Wall About 30 Metres North East Of Hull Place
+Q26530930;Gate, Gate Piers And Screen At Ickwell Lodge
+Q26531149;Gates And Railings To North East Corner, Churchyard Of Church Of St John The Baptist
+Q26531576;Gate Piers, Gates And Paddock Walls To North Of The Vicarage
+Q26531738;Railings, Gatepiers And Gates To Beel House
+Q26531826;Entrance Gateway To Franks Hall
+Q26531938;Gates And Railings To Alley Between Station Street Buildings And Rear Of Byran Arcade Westgate
+Q26531994;Wall, Gate Piers And Gates To Spital House
+Q26531996;Entrance Gateway Formerly To Blyth Hall
+Q26532017;Gateway And Attached Walls Between Sudbury Hall And Church
+Q26532036;Entrance Gates And Return Railings To Western Corner Of Cash's Park
+Q26532140;Gate, Gate Piers, Wall And Railings To Hextable House (Part Of North West Kent Teachers Training Centre)
+Q26532356;Gate To Number 2 The Old Clergy House In The Wall Along West Side Of The Old Clergy House
+Q26532535;Gateway To Palmer's Almshouses
+Q26532829;Gate Piers And Gates To Sutton Manor Grounds
+Q26533490;Gates, Piers And Walls To No 56 (South Lodge)
+Q26534118;White Gate
+Q26534357;Gateways
+Q26534470;Gateway And North Boundary Wall To Odcombe Rectory
+Q26534479;Entrance Gateway About 110 Metres South East Of East Stoke House
+Q26534739;Gateway And North Boundary Wall To Churchyard, 20 Metres North Of Porch Church Of St Mary The Virgin
+Q26534914;Gates And Gate Piers To South Of Fleming Memorial Hospital
+Q26535049;Gateway And Wall Linking The Priory And The Barn, About 14 Metres North
+Q26535222;West Gateway
+Q26535245;East Gateway
+Q26535913;Railings And Gate In Front Of Orchard House
+Q26536071;Entrance Gateway About 250 Metres South East Of Sparkford Hall
+Q26536720;Gates To Home Cottage
+Q26536768;Gateway To All Saints Church Centre, And Path
+Q26536851;Gates And Gate Piers And Section Of Wall To North Of Park Grange Lodge
+Q26537025;Entrance Gateway
+Q26537064;Wall, Gatepiers And Gate To Springwell House
+Q26537193;The Unicorn Gate
+Q26537200;Gates And Gate Piers To The Manor House
+Q26537286;Gateway At South Warnborough Manor
+Q26537583;Gateway And Wall To Churchyard Of Church Of All Saints
+Q26537737;Railings And Gates In Front Of Numbers 393-399
+Q26538101;Gates And Gate Piers To Hatherley Court
+Q26538242;Gates And Railings To Churchyard To South And South West Of Church Of St Catherine
+Q26538243;Entrance Gates To Hillfield Gardens
+Q26538724;Gateway And Railings To Canal Museum
+Q26538782;Gateway 20 Metres East Of St Mary's School
+Q26539006;Gateway And Boundary Walls To Number 115 Kersal Mount
+Q26539114;Gateway And Screen Wall At West Lodge To Norfolk Park
+Q26539153;Gateway And Boundary Wall To Number 14 Park House
+Q26539156;Gate, Piers, Railings And Dwarf Wall To Forecourt Of Basford House
+Q26539160;Railings And Gates At School And School House
+Q26539234;Entrance Gates And Piers At Kiln Yard
+Q26539263;Gateway And Boundary Wall At Number 947 East Lodge To Hillsborough House
+Q26539420;Gateway And Railing To Trinity Methodist Church
+Q26539450;Gates, Gate Piers And Walls To St Mary's Churchyard, Including Proclamation Steps
+Q26539584;Gateway To Botanical Gardens With Lodges Screen Wall And Railings
+Q26539729;Gateway And Railing At Woodhouse Cemetery
+Q26539742;Gateway And Railings To Botanical Gardens
+Q26539813;Gateway At South East Corner Of Park
+Q26539823;Main Entrance Gateway To Burre House With Attached Wing Walls
+Q26539839;Gateway And Railings To Church Of The Virgin Mary Eleousa
+Q26539883;Gateway And Railings To Lodge 30 Metres East Of Charles Avenue
+Q26540181;Gates And Gatepiers At Church Of St Helen
+Q26540225;Gate And Gatepiers At Former South Entrance To Pixton Park
+Q26540323;Gates At Number 54
+Q26540477;Bridge Gates Arundel Castle
+Q26540729;Gates, Railings And Wall On North Side Of Churchyard, Continued East Fronting School
+Q26540784;Friars Gate
+Q26541049;Gateway And Wing Walls 400 Metres South Of Hazelgrove House
+Q26541192;Gates, Gate Piers And Wall To Hanch Hall
+Q26541373;Gateway Top Midelney Place Incorporating Gatehouse
+Q26541412;Entrance Gateway North West Of Manfield Orthopaedic Hospital
+Q26541413;Gateway To Burton Pynsent House On Road Side
+Q26541753;Gateway And Wall To The Old Rectory
+Q26541891;Gates And 2 Gate Piers At Exit To Hoover Factory
+Q26542059;Railings, Wall, Gate Piers And Gate To West Of Methodist Church
+Q26542149;Gateway And Walls About 20 Metres North Of Shelford Manor House
+Q26542268;Entrance Gates To The Leys
+Q26542409;Gate And Railings At Entrance To St John's Churchyard
+Q26542495;Gates, Gatepiers And Flanking Walls, 10 Metres North Of Number 2
+Q26542640;Gateway And Chapels Of Broadwater Cemetery, Together With Tombs Of Richard Jefferies,(Near Middle Of Cemetery) And Wh Hudson (On South Side)
+Q26542807;Gateway And Churchyard Wall Abutting On South Side, Returned To North East Corner Of Church Of St Andrew
+Q26542916;Gateway In Wall To Stonar School Opposite Rookery Nursery
+Q26542954;Gateway, 60 Metres North West Of Nettlestead Chace
+Q26543341;Wall, Gatepiers And Gates Adjoining Baylis House To South East
+Q26543388;Gates And Gatepiers Adjoining Kiddington Lodge
+Q26543451;Wall, Gatepiers And Gates Adjoining South East Forecourt Wall To Baylis House To South East
+Q26543558;Gates And Railings At Northerly Entrance To St Mary's Churchyard
+Q26543629;Church Gate
+Q26543654;Abbey Gate
+Q26543996;Gate Piers And Gates At South Drive Entrance To Manor House
+Q26544073;Railings, Gate Piers And Gates To Forecourt Of Glenavon
+Q26544461;Gates, Gate Piers And Short Section Of Railing Adjacent To South End Of Railings To Holdenhurst
+Q26544476;Railings, Piers, Gates And Lamp Overthrow At South West Entrance To Churchyard, Church Of St Mary
+Q26544499;Gates, Gate Piers And Railings To Church Of The Holy Trinity
+Q26544511;Railings, Piers And Gates At South East Entrance To The Churchyard, Church Of St Mary
+Q26544716;Gates And Gate Piers To Sunnydale Farmhouse
+Q26544764;Entrance Gateway To Beechley
+Q26545009;Gate Piers And Gates At Cronton Hall
+Q26545508;Gates, Gate Piers And Terminal Piers To Newbridge Entrance To Tawstock Park
+Q26545582;Park Gate
+Q26545769;Gates And Gate Lodges To College Hall At Raf Cranwell
+Q26545886;Gates To Dorrington House
+Q26546148;Gateway At South West Entrance
+Q26546195;Gateway And Boundary Wall At Memorial Nurses' Home
+Q26546287;Railings, 2 Pairs Of Gatepiers And Gates To William Hulme Grammar School
+Q26546342;Railings And Gates At Eastcroft Cottages
+Q26546387;Gates And Gate Piers To The Quarry
+Q26546409;Gateways And Boundary Wall To Numbers 413 To 419
+Q26546433;Gateways And Railings At Yew Tree Grange
+Q26546435;Railings And Gates To Garden At East End Of Newcastle Terrace
+Q26546470;Gateway, Railing And Boundary Wall To Number 7 Mevell House
+Q26546679;Entrance Gateway Approximately 70 Metres West Of Mosborough Hall
+Q26546755;Gates, Railings And Boundary Walls To Arkwright Building
+Q26546784;Gateway And Pavilions At Entrance To Boating Lake
+Q26546789;Gateways And Screens At North End Of Embankment
+Q26546854;Gateway To Lime Tree Avenue Entrane To Wollaton Park
+Q26547311;Gates, Wall and Bollards to 89 Weetwood Lane
+Q26547352;Vesper Gate At Kirkstall Abbey
+Q26547503;Sphinx Gates (Pair Of Gate Piers And Gates Approximately 137 Metres East Of Barn)
+Q26547509;Lodge House, Gate Piers, Flanking Walls And Railings
+Q26547583;Gateway To Chapel Allerton Old Graveyard
+Q26547642;Gate Piers, Gates And Railings Approximately 25 Metres South West Of Hilly Ridge House
+Q26547672;Gates, Gate Piers And Boundary Walls To Road And Right Of Way, Ridgeway House
+Q26547790;Gate Approximately 100 Metres South West Of St Margarets Church
+Q26547812;Gateway And Boundary Wall South West Of Chapel Allerton Hospital
+Q26547817;Gates And Gate Piers Approximately 30 Metres To South East Of Beech Grove House
+Q26547923;Gates, Gate Piers And Railings To Old Station Forecourt
+Q26548167;Railings, Gate Piers And Gates Approximately 10 Metres To South East Of Unitarian Chapel
+Q26548209;Railings, Gates And Piers Enclosing Central Garden
+Q26548303;Gates And Railings Attached To Front Of Number 10
+Q26548530;Railings And Gates Forming South West Boundary Of Museum Gardens
+Q26548582;Gate, Forecourt Wall And Railings To Number 55
+Q26548623;Railings And Gates Attached To North East Corner Of York Minster
+Q26548780;Gate And Railings To Front Gardens Of Numbers 2-14
+Q26548839;Gates And Railings Approximately 20 Metres South West Of Number 9 The Judges Lodging
+Q26548861;Gates And Gate Piers To War Memorial Garden
+Q26548863;Entrance Gateway To Merchant Taylors School (Boys)
+Q26548917;Gate, Gate Piers And Front Garden Wall To Number 137
+Q26548973;Gate Standards, Gates And Railings To Front Of Numbers 104 And 106 (106 Not Included)
+Q26549173;Railings And Gates Fronting Forecourt Of The Kings Manor
+Q26549190;Gates And Railings To Deans Park
+Q26549194;Railings And Gates Attached To North West Corner Of York Minster
+Q26549669;Gates To Cliff Opposite The Crown Hotel
+Q26550183;Gate Piers And Gates To No 23 (The Old Parsonage)
+Q26550276;Gateway To Wood Hall
+Q26550392;Gates And Garden Railings To Number 18
+Q26550427;Entrance Gateway, Gates And Attached Boundary Walls At Number 35
+Q26550516;Gateway, Gates And Railings To Bootham Park Hospital
+Q26550657;Gates, Walls And Railings To Former Churchyard Of St Mary Bishophill Senior  Wall Bounding Former Churchyard Of St Mary Bishophill Senior
+Q26550898;Freestanding Overthrow In Fornt Of Entrance To Red Lion Hotel
+Q26551100;Firegrove House, Gateway
+Q26551463;Gateway To The Green
+Q26551648;Railings And Gates And Memorial In Courtyard To Pickering United Reformed (Congregational) Church
+Q26551873;Gates, Gate Piers And Flanking Walls To The Cottage
+Q26552042;Gate Piers And Gates South East Of Hamsterley Hall
+Q26552058;Gates, Gate Piers, Dwarf Walls And Screen Of Hamsterley Hall
+Q26552372;Gates And Gate Piers At Mascalls
+Q26552558;Entrance Gateway To Sharlston Hall
+Q26552716;Gateway And Flanking Walls In Stubton Hall Park
+Q26552856;Entrance Gates, Childwick Bury Stud
+Q26552946;Max Gate
+Q26552970;Gate, Gate Piers, Lamp And Railed Wall At Entrance To Moorlands Bible College
+Q26553228;Gates And Overthrow At Entrance To St John's Churchyard From St John's Court
+Q26553269;Gate Piers And Gates At Driveway Entrance To Old Auster
+Q26553343;South West Gateway To Montacute House
+Q26553474;Railings To Forecourt Of Magnolia House Incorporating Gates
+Q26553583;Entrance Screen, Gates And Balustrading To Forecourt Of Ditchley House
+Q26554207;Gate, Gate Piers, Chain Fence And Piers At Entrance To High Park Lodge
+Q26554396;Gateway to Churchyard Attached to Number 41
+Q26554810;Gate And Steps At South East Corner Of Sunken Garden To West Of Ledston Hall
+Q26554869;Gateway At Principal Driveway Entrance To North Of Shepton House
+Q26555022;Gateway And Boundary Wall To South And East Of Sedgebrook Manor
+Q26555102;Entrance Gateway Of Rosemount
+Q26555121;Gateway To The Forge (Number 77)
+Q26555351;Rear Gateway Of No 2 From South Street  Rear Gateway Of No 2 High Street
+Q26555521;Gate And Railings On North Side Of Newington Green
+Q26555657;Entrance Gates To New Park
+Q26555713;Railings And Gates To North Of Number 118 1/2
+Q26556038;Gateway About 25 Metres South West Of The Doctors Old House
+Q26556182;Railings And Gates In Front Of Hilton
+Q26556421;Gateway Attached To Number 7 And Stables At Right Angles
+Q26556429;Gates, Gatepiers And Wall Approximately 1 Metre South And West Of Brook House
+Q26556884;Gatearch Approximately 75 Metres West North West Of Church Of All Saints
+Q26557216;Gates And Gatepiers To Inworth Hall
+Q26557319;Gate And Gate Piers To St Ann's Orchard
+Q26557404;Gates, Piers, Railings And Side Drive Gates To Prince Of Wales Lodge
+Q26557642;Gates, Gatepiers And Balustraded Wall To East Of Greek Cathedral Of Aghia Sophia
+Q26558009;Gateway To Devon County Prison
+Q26558128;Marks Gate
+Q26558370;Gates, Gate Piers And Bollards Approximately 20 Metres North West Of Tower Of Church Of St Andrew
+Q26558920;Entrance Gates And Gate Piers To Cemetery
+Q26558994;Gates To The Grounds Of Hertford Castle (Hertford Castle Demolished)
+Q26559154;Gate At Ngr Tl 3273 1248
+Q26559155;Gate At Ngr Tl 3274 1247
+Q26559159;Gates To East Site At Mcmullens Brewery
+Q26559226;Gateway To West Of Number 35
+Q26559269;Gates, Gate Piers And Walls To North East Of Fonthill
+Q26559435;Gateway to Churchyard of St Mary and St Aldhelms Abbey Church
+Q26559731;Gates To Churchyard Of St Peter And St Paul
+Q26559940;Entrance Gates, Piers, Wing Walls And Screens At Stokesay Court
+Q26560016;Gates And Gate Piers To Churchyard Of St John The Baptist
+Q26560068;Entrance Gateway Walls To The Penmere Manor Hotel
+Q26560115;Gateway And Street Frontage Walls Of Former Stables At Carn's Yard
+Q26560315;Entrance Lodge, Walls, Piers, Gates And Railings At Portishead Burial Ground
+Q26560444;Gateway, Railings And Attached Fences At East Entrance To Wollaton Park
+Q26560453;Gateway And Boundary Wall At Wollaton House
+Q26560468;Railing And Gates Enclosing Circular Garden
+Q26560474;Gateways And Screens At North End Of Wilford Bridge
+Q26560479;Gateway, Screen Walls And Railings At South West Entrance To Arboretum
+Q26560592;Gateway And Screen Walls At Entrance To Norfolk Park
+Q26560658;Gateway And Boundary Wall To Rear Of Number 7 Mevell House
+Q26560691;Entrance Gateway Of Fletcher Moss Art Gallery
+Q26560818;Railings And Gate To Number 14 Churchill House
+Q26560858;Gateway And Flanking Walls At Number 99 Moorwinstow
+Q26560935;Gates, Gate Piers And Curved Walls At North East Entrance To Quemerford House
+Q26561113;Railing And Gates At Kettlebridge Nursery First School
+Q26561193;Entrance Gates At Stamford House And George House
+Q26561352;Gateway To Lenton Grove (School Of Music), University Of Nottingham
+Q26561369;Gateways And Railings At South Entrance To Nottingham High School
+Q26561402;Railings And Gateways To Churchyard Of Church Of All Saints
+Q26561449;Gateway And Boundary Wall At Swanswell Entrance To Lady Herberts Garden
+Q26561468;Gates And Gatepiers And Wall With Railings To The West Of South Lodge
+Q26562078;Entrance Gates And Bridge To Westbrook House
+Q26562157;The Lion Gate
+Q26562479;Church Hill Gate
+Q26562501;Gates And Piers To West Of Oakwood Lodge
+Q26562583;South Gateway About 100 Metres South Of The Manor House
+Q26562631;Gateway And Railings To Cemetery
+Q26563243;Gates And Gate Piers Of The White House
+Q26563255;Gateway To Former Liscard Battery
+Q26563364;The York Gate
+Q26563432;Gate To Churchyard Of St Pauls Church Armitage Bridge
+Q26563565;Cathedral Gateway At North West Corner Of Churchyard
+Q26563566;Entrance Gateway And Flanking Lodges (At South Entrance)
+Q26563751;East Gate
+Q26563849;Gates And Gate Piers To Ware Cemetery North Extension
+Q26564037;Entrance Gates And Screen To Shardeloes
+Q26564218;Gate Piers And Gates At Nazareth Unitarian Church
+Q26564265;Gatescreen At Entrance To The Swiss Garden
+Q26564389;Gates, Piers And Boundary Wall At Ramley House
+Q26564483;Wall, Gate And Gatepiers 20 Yards To North Of Wrotham Place
+Q26564597;Entrance Gates To Number 1 (Northill Grange)
+Q26564834;Gateway to Churchyard, Church of St Aldhelm
+Q26564921;Black Lion Gate
+Q26564973;Gates And Gate Piers At South Lodge Of Canford School
+Q26564985;Gates, Railings And Wall To Churchyard Extension Between The Rectory And Number 20
+Q26565091;Gates And Gate Piers To Centenary Methodist Church
+Q26565619;Cock Gate
+Q26566002;Gateway At East Entrance To Town Thorns
+Q26566404;Gates And Railings To Brabourne Churchyard Between Coquet Lodge And Church Farmhouse
+Q26566559;Gates And Gate Piers To Lloyd House
+Q26566561;Gates And Gate Piers By Lodge Before Drive To Broadlands
+Q26566766;Entrance Gates To Harton Cemetery
+Q26567035;Railings, Gate And Gatepiers To East Of Turvey Bridge
+Q26567226;Entrance Gates And Piers To Saltwell Park
+Q26567474;Gateway And Doors To St Anne's Vicarage
+Q26567529;Gates, Gate Piers And Railings To Cambridge Lodge
+Q26567547;Gateway Attached To Rear Of Clough House Farmhouse
+Q26567824;Gateway Piers 10 Metres South Of The Lodge
+Q26567830;Gates, Gate Piers, Garden Wall And Ha Ha South And East Of Enville Hall
+Q26568025;South West Gateway To The Goodwood Estate To The East Of Waterbeach Lodge, Goodwood Park
+Q26568898;Gates And Boundary Wall At Grammar School And Attached 'Kissing' Gate
+Q26569217;Entrance Gates And Pavilions At Recreation Ground  Entrance Pavilions And Gates At Recreation Ground
+Q26569415;Gates And Gatepiers Approximately 40 Metres West Of Pitsford Court
+Q26569430;Gates To The Laurels
+Q26569819;Entrance Piers And Gates 30 Metres West Of Church Of The Holy Trinity
+Q26569824;Piers And Gate Approximately 30 Metres To East Of Number 2
+Q26569848;Piers, Railings And Gate To West Of Crimchard House
+Q26569849;Gates To Docks 24 And 27 And 28 And Princes Dock
+Q26570288;Gateway To Whorns Place And Cart Shed
+Q26570400;Iron Gates At Foot Of Terrace Steps To East Of Cuerden Hall
+Q26570476;Gates, Gatepiers And Mounting Block To South West Of Ightham Mote
+Q26570530;Gates And Gate Piers To Welton Hall
+Q26570702;Gates And Gate Piers In Stable Yard At Hotham Hall
+Q26570776;White Gate
+Q26570977;St Leonard's Church Gateway
+Q26571157;Gateway Attached To Thornton Hall And Edgecumbe Hall
+Q26571197;Piers, Railings And Gates To Litfield House
+Q26571306;Piers, Gates And Railings Of St George's Public Library (Library Not Included)
+Q26571432;Entrance Gates And Gatepiers To Compton Hall
+Q26571479;Gateway To Former Blind Workshops
+Q26571543;Gateway To Outwood House
+Q26571776;Gates, Piers, Railings, Boundary Wall And Conduit Head On North Of Churchyard
+Q26571980;Entrance Gateway And Gates To British Muslim Heritage Centre
+Q26572190;Railings, Wall, Gate Piers And Gates Flanking Road To Front Of Gilstead Methodist Chapel
+Q26572487;Clock Tower Gateway
+Q26573215;Gate And Gate Piers To Emmanuel Baptist Church
+Q26573664;Entrance Gate Piers, Gates And Walls With Railings To Stockton House
+Q26574185;Entrance Gates And Wall To Box Cemetery
+Q26574322;Gates To Chilton Hall
+Q26574809;Gates To Pavilion Approximately 60 Metres To North West Of Pavilion
+Q26574936;Gates And Gateposts To Driveway To Avebury Manor
+Q26575752;Gate And Gate Piers 105 Metres South East Of Main Entrance To Theberton House
+Q26575771;Gate And Gate Piers 80 Metres North West Of Main Entrance To Theberton House
+Q26575812;Gate And Gate Piers At Junction Of Leiston Road And Onner's Lane
+Q26576413;Gate And Gate Piers 15 Metres North East Of Friston Hall
+Q26576671;Gateway And Adjoining Mounting Block In Garden Wall To South West Of Combe Hill House
+Q26576725;Gateway At Mansfield Cemetery
+Q26576833;Entrance Arch To Garden Of Bourne Hall
+Q26577123;Railings And Gate Approximately 10 Metres South East Of Number 25
+Q26577318;Gates And Gatepiers To Numbers 2 And 2A
+Q26577573;Gateway And Railings At Brackenhurst Hall
+Q26577722;Beacons Gate
+Q26577748;South East Gateway To Churchyard Of Church Of St Petroc Minor
+Q26578119;Gates And Gatepiers At South East Entrance To Churchyard
+Q26578120;Gates And Gatepiers At North Entrance To Churchyard
+Q26578161;Gateway At Trevissick Farmhouse
+Q26578895;Wall, Railings, Piers And Gates Attached To South West Of Home Farmhouse
+Q26579100;Gateway On The Boundary Wall Of No.73
+Q26579156;Gateway 5 Metres South South East Of Number 17
+Q26579450;Gate, Gate Piers And Wall To Nunwell House
+Q26579908;Gate Piers And Iron Gates Approximately 60 Metres North Of Treviles Farmhouse
+Q26579944;Gateway To West Of The Chaplaincy
+Q26580458;Gateway And Attached Railings To Borough Cemetery At North Lodge
+Q26580568;Gates, Piers And Overthrow At Entrance To The Old Vicarage
+Q26580588;Gateway Attached To North East Corner Of Old Library
+Q26580601;Gateway To Abbey Approach
+Q26580614;Arched Gateway To Edgar Wood Centre
+Q26580836;Gates, Gatepiers And Garden Wall To Tettenhall Towers
+Q26580848;North Gate, Buckfast Abbey
+Q26580908;Gateway, Wall And Lamp Brackets At South Entrance To Stanwix House
+Q26580958;Railings, Gates And Revetment Wall To Churchyard Of Parish Church Of St Mary
+Q26580989;Entrance Gates, Gate Piers, Walls And Railings To Townsend Cemetery
+Q26581305;Oulston Lodge Gateway To Newburgh Park
+Q26581787;Spa Mews Entrance Gateway
+Q26581980;Railings, Gate And Gatepiers Bounding West Side Of Italian Garden
+Q26582065;Gate Arch,Seat Niche,Walls,Balustrade And Terrace Walls Attached To And To South East Of Lilford Hall
+Q26582134;Gates And Gatepiers To Milton Malsor Manor House
+Q26582159;Railings And Gate To Vine House  Vine House
+Q26582209;The Old Gate
+Q26582216;Entrance Gateway To South Of Ayton Hall
+Q26582241;Gates And Gate Piers To North Of No 36 And Attached Outbuilding
+Q26582319;Gateway And Lodge To Hoar Cross Hall
+Q26582430;Gate, Gate Piers And Adjoining Walls To Ilam Park
+Q26582647;Gateway In South Wall Of Grounds Of No 2 (Cherchefelle)
+Q26582706;Entrance Lodge And Gates To Sutton Place
+Q26582784;Railings And Gates At South Side Of St Luke's Churchyard
+Q26582787;Gate Piers And Gates To Churchyard
+Q26582890;Gateway Piers And Flanking Walls Immediately North West Of Cotesbach Hall
+Q26582899;Gateway To Inner Forecourt, About 48 Metres North Of North Cadbury Court
+Q26583005;Gateway To Burley On The Hill
+Q26583051;Gateways Attached To North East And South East Corners Of Leigh House
+Q26583064;Gateway, About 80 Metres West Of Wyatt's Court
+Q26583122;Entrance Gates To Frogmore Farm
+Q26583193;Gates, Gate Piers And Churchyard Wall, Church Of The Holy Trinity
+Q26583194;Gates, Gate Piers, Flanking Walls And Railings Approximately One Metre South Of The Lodge To Scampston Hall
+Q26583226;Gate Piers, Gates And Railings Immediately To South Of Bedstone Court Lodge
+Q26583352;Gates, Gate Piers And Flanking Walls To Rockfield House
+Q26583356;Gateway Adjoining South Lodge
+Q26583413;Gates, Gatepiers And Railings Set In Dwarf Wall Fronting The Church Of St Mary
+Q26583432;Gateway And Frontage Wall To Ickleford Jmi School
+Q26583893;Gateway To Puriton Manor
+Q26584056;Gateway to South of Church of St Stephen
+Q26584149;Gates, Piers And Wall, 25 Metres To East Of Front Of Former Unitarian Chapel
+Q26584169;Gates And Gate Piers Approximately 70 Metres North Of Manor Farmhouse
+Q26584191;Gates And Piers To Stableyard At Thorganby Hall Approximately Fifteen Metres To North East Of House
+Q26584218;Gates And Gate Piers Approximately 100 Metres North East Of Hackness Hall
+Q26584402;Gate Between Headmaster's House And No 8 College Street  St Mary's College
+Q26584970;Wall, Railings And Gates Around Central Gardens
+Q26585353;Gates On West Side At Approach From Bridge Street
+Q26585409;Wall, Gates And Gate Piers North And West Of Church Of St Thomas By Launceston
+Q26585477;Entrance Gates To Longton Cemetery
+Q26585696;Gates And Piers Approximately 12 Metres South Of Green Hall
+Q26585748;Gate Piers, Gates And Garden Walls To Parkfield
+Q26585760;Entrance Gates, Piers And Railings To North Of Greenfylde School
+Q26585883;Entrance Gateway At Ripley St Thomas School
+Q26585934;Park Gateway 300 Metres North East Of Belton House
+Q26586015;Gate In Churchyard Wall To North Of Church Of Holy Trinity
+Q26586259;Gates And Gatepiers To Northwest Of Moseley Hall Cottage
+Q26586436;Gate Piers And Gates At North And South Entrances To Christ Church From Bridge Street
+Q26586476;Gate, Gatepiers, Wall And Railings At Entrance To Non Conformist Burial Ground
+Q26586537;Gates, Gate Piers And Boundary Walls To Rectory
+Q26586630;Gates, Piers And Flanking Quadrant Walls At Newnham House
+Q26587097;Gateway To Precinct  Pair Of Gatepiers And Gates Between College Yard And Cathedral Cemetary
+Q26587410;Gateway To Kingsnympton Park Beside South Lodge
+Q26587606;Gate Piers, Gates, Dwarf Walls And Railings To Church Of St Mary
+Q26587645;Wall, Gate Piers And Gates To The Old Rectory
+Q26587890;Gates And Wrought Iron Screen At West Entrance To Beddington Place
+Q26587987;Railings, Gates And Piers To Front Of Congregational Church
+Q26588135;Churchyard Gatepiers And Gates To West Of Holy Trinity Church
+Q26588399;Wharfe Gate
+Q26588678;Gateway
+Q26588903;Gateway At Ha-Ha On South Drive To Middleton Lodge
+Q26588974;Gate And Gate Piers About 10 Yards South West Of Huddington Court
+Q26588977;Gates And Gatepiers To North West Of Church Of Saint Anne
+Q26589011;Wall, Railings, Gates And Gate-Piers To Methodist Chapel
+Q26589094;Gate, Gate Posts And Railings To Grange Lea
+Q26589203;Entrance Gateway To Bridge House
+Q26589242;Gateway 400 Metres North West Of Breamore House, (In Woods)
+Q26589330;Gates And Gate-Piers Of Kingsley House
+Q26589549;Wall, Railings, Gate Piers And Gates Extending In Front Of The Old Vicarage
+Q26589567;Gates And Gate Lodge To South Lodge
+Q26589958;Gate Piers And Gates At Main Entrance To Malvern College
+Q26589973;Gate Screen Approximately 18 Metres South Of Pitchcombe House
+Q26590037;Gates And Piers At The North Entrance To The Rocks At Ngr St 7954 7083
+Q26590112;Gates And Boundary Walls In Front Of Langtons
+Q26590364;Gateway And Two Flanking Guardrooms To Former Beaumont Cavalry Barracks
+Q26590887;Wall, Gatepiers And Gate, East Of Primitive Methodist Chapel
+Q26590980;Gateway And Walling With Piscina 30 Metres North Of Fryer Mayne Manor
+Q26590996;Gate And Gate Piers To Drive To Westcote Manor
+Q26591035;Entrance Gates And Gateposts To Leweston Manor
+Q26591193;Gate And Gate Piers To Dashwood
+Q26591426;Gates And Gatepiers At West End Of Church Walk
+Q26591535;Piers Gates And West Wall To Courty Yard At Baningham Hall
+Q26591624;Gates And Piers At South Lodge
+Q26591742;Gateway Approximately 220 Metres South Of Bingham's Melcombe House
+Q26591782;Gateway to Churchyard Immediately South-East of Cerne Abbey.
+Q26591880;College Gate
+Q26592141;Churchyard Wall With Gateway Adjoining No 1,Market Square, Running Approximately 40M Along Bell Lane
+Q26592143;Gateway And Walls To Box House
+Q26592153;Gates And Gatepiers To East Of North Lodge
+Q26592290;Inner Gateway To Old Campden House
+Q26592795;Gates And Gate Piers To No. 113
+Q26593050;Gateway Adjoining South Of Sandy Park Inn
+Q26593168;Clapper Gate
+Q26593263;Gateway To Hill House
+Q26593611;Gates And Screen, South Ormsby Hall
+Q26593764;Railings And Gate To Front Garden To 114 Homelea
+Q26593879;Gates, Piers And Flankings Balustrades And Walls To Girsby Manor
+Q26593954;Railings And Gateway Bounding Roadside Of Churchyard Of Church Of St Mary
+Q26594118;Entrance Gateway To Halswell House Adjacent To No 30 The Lodge
+Q26594412;Church Gate
+Q26594639;Gate And Gateposts Approximately 35 Metres To East Of Roveries Hall
+Q26594788;Meadow Gate
+Q26594922;Gateway And Wall In Front Of Wynne's Almhouses
+Q26594968;Garden Gateway To The Grotto, In Private Gardens, East Of Terrace
+Q26595016;Gateway Approximately 2 Metres South Of South Lodge
+Q26595115;Gates To Skirbeck House (Eastern Pair)
+Q26595373;Gates And Railings To Newton House
+Q26595375;Gateway At North Entry To Church Yard At The Church Of St George
+Q26595429;Gateway, Wall And Railings To North Traine
+Q26595494;Swallerton Gate
+Q26595517;Entrance Gates, Langley Park
+Q26595540;Entrance Lodge (Park Stile Lodge) And Gates To Langley Park
+Q26595564;Gateway Opposite Fulbeck Hall
+Q26595942;Gateway Approximately 50 Metres South West Of Rydon House
+Q26596016;Gateway And Flanking Walls To Former Ladysmith Barracks
+Q26596046;Gateway With Settles, Gate Piers, Gate And Flanking Walls At Road Frontage To Former National School
+Q26596064;Churchyard Gates And Gatepiers To South Of Church Of The Holy Trinity
+Q26596487;Gateway, Walls And Railings To Barcroft Junior School Along Lovett Street Frontage
+Q26596500;Gateway And Railings At Entrance To Western Lodge
+Q26596599;Gates, Lodges And Flanking Walls To Sledmere House
+Q26596659;Gates And Gatepiers To Upwell Hall
+Q26596776;Wall, Piers, Railings And Gates Of Strict Baptist Chapel
+Q26596953;Gateway And Boundary Wall To School House And Church Hall
+Q26596971;Entrance Gates And Gate Piers To Hinwick House
+Q26597073;Gateway To Beverley Gas Works
+Q26597110;Piers, Gates, Railings And Walls Around Vane Mausoleum At Church Of St. Mary
+Q26597180;Gateway, Approach Walls And South Wall To St Michael's Churchyard
+Q26597320;Gateway And Railings To East Of Burn Hall
+Q26597456;Gateway And Wall Attached South Of Manor House
+Q26597610;Gates And Gate Piers At Entrance To Drive To Waddesdon Manor
+Q26597673;Gates Flanking Walls And Railings At London Road Lodge (New Lodge)
+Q26597765;Railings, Gateway And Wall Attached To South East Of The Gardener's Cottage
+Q26598072;Gate And Gate-Piers At East Entrance To Penpont House
+Q26598076;Gates, 2 Pairs Of Gate Piers, Boundary Wall And Railings To Road In Front Of Iford Manor
+Q26598096;Gates, Attached Wall And War Memorial To North Of St Michael's Church
+Q26598517;Gate And Gate Piers Approximately 67 Metres To North Of Broughton Tower
+Q26598570;Entrance Gates, Piers And Wall To Castle Park, From Boroughgate
+Q26598757;Eden Gate
+Q26598817;Gates, Gatepiers And Boundary/Retaining Walls To Railway Station Forecourt, Including Commercial Premises
+Q26599021;Gateway At Entrance To The Manor House
+Q26599199;Gateway, Coffin Rest And Lamp Post At The North East Entrance To The Churchyard Of Church Of St Cubert
+Q26599232;Entrance Gates And Wall Around Grounds To South Of Clevedon Court  Wall Along Road At Clevedon Court, Tickenham Road
+Q26599392;Wall, Gate Piers And Railings And Gates At Hollywood Tower
+Q26599505;Gates And Piers To North Lodge
+Q26599979;Gates And Gatepiers To New Church
+Q26600009;Green Gate
+Q26600093;Gate And Gatepiers To Church Of Holy Innocents
+Q26600131;Gates And Gatepiers To Cemetery Entrance, Including Dwarf Wall And Rails To Each Side
+Q26600211;Gateway And Gates Approximately 20 Metres East Of East End Of Christ Church
+Q26600721;Green Hill Gate
+Q26600889;Gates And Gate Piers To Lister Park  North Park Road, Gates And Gate Piers To Lister Park
+Q26601206;Entrance Lodge To Cusworth Hall Including Wing Walls And Gates
+Q26601207;Gates And Gatepiers To Gardens Of Brodsworth Hall, Approximately 160 Metres To East North East Of House
+Q26601253;Entrance Gateway To Wilsic Hall School
+Q26601304;Gateway And Flanking Walls Set Behind Cross Base Approximately 8 Metres To East Of Hill House
+Q26601402;2 Gateways To Snape Castle 20 Metres To South Of Castle
+Q26601455;Entrance Gateway And Gates To Stainborough Park
+Q26601599;Gates And Gate Piers On East Side Of Main Road Opposite The Old Garden
+Q26601642;Wall, Gates, Piers And Fences To Churchyard Of All Saints
+Q26601653;Gates, Piers And Flanking Walls At Lindrick Gate
+Q26601683;Gates, Gate Piers And Flanking Walls With Railings Approximately 100 Metres South Of Old Sleningford Hall
+Q26601770;Gates And Gate Piers In West Garden Wall Approximately 25 Metres South Of West Pavilion
+Q26601789;Gate Piers And Gates Approximately 10 Metres East Of Ingmanthorpe Hall
+Q26601919;Gates And Gate-Piers At Farnley Lodge To Farnley Hall
+Q26601976;Railings With Two Pairs Of Gates, And Overthrow With Lamp To Forecourt Of Nos 14 To 16
+Q26602027;Gates, Piers And Overthrow To Church Of Saint Lawrence
+Q26602075;Entrance Gates And Gate Piers Approximately 180 Metres West Of Scampston Hall
+Q26602277;Gate To Arden Hall Approximately 15 Metres South Of House
+Q26602431;Gates And Railings To Dale Lodge
+Q26602450;Gates, Gate Piers And Walls Approximately 55 Metres North Of Wykeham Abbey
+Q26602557;Stonebeck Gate
+Q26602610;Gates, Piers And Railings To Escrick Park
+Q26602634;Entrance Lodge, Gates, Piers And Walls To South East Of Grimston Lodge
+Q26602930;Gates And Piers To Bilbrough Grange (Qv) 60 Metres West Of House
+Q26603340;Entrance Gateway To Middleton Lodge
+Q26603460;Gate Piers And Gates To Casewick Park, A Quarter Of A Mile South West Of Casewick Hall
+Q26603515;Gateway And Flanking Walls To Folkingham Manor
+Q26603519;Gateway Adjacent To Hobby Lodge
+Q26603606;Newton Gate
+Q26603742;Methodist Church Gates And Railings
+Q26603841;Gates And Gate Piers To Hall Garth
+Q26604039;Wall, Gatepiers And Gate Immediately To The South East Of Hornapark
+Q26604195;Gates And Gatepiers To Number 146 (Glebe House)
+Q26604466;Wall, Railings, Gates And Gate Piers Approximately 10 Metres East Of Flanders Hall
+Q26604496;Gateway At Marske Hall
+Q26604562;Gateway To Temple Lodge
+Q26604709;Gates And Gate-Piers To South-East Of Spennithorne House
+Q26604728;Gates And Gate Piers To Wensley Hall
+Q26604730;Gates, Railings, Walls And Gate Piers Beside South Lodge Of Bolton Estate
+Q26604732;Gates And Gatepiers To East Of Church Of St Andrew
+Q26604791;Railings, Piers And Gates To North Entrance Of Rushmore Park
+Q26605136;Entrance Gate Piers, Gates And Railings To The Friary
+Q26605304;Gates And Railings Adjacent To South East Corner Of Mentmore Towers
+Q26605520;Railings Gates And Gatepiers To Wirksworth Baptist Cemetery
+Q26605551;Gates, Gatepiers, And Wall To Right, Approximately 130 Metres To North East Of Church Of St Mary
+Q26605557;Railings, Gate And Low Wall Approximately 4 Metres To South West Of The Malthouse
+Q26605630;Railings, Gate And Wall Approximately 3 Metres North Of Montpelier House
+Q26605831;Gate, Gate Piers And Flanking Dwarf Walls To Garden Forecourt Of Manor House Farmhouse
+Q26605897;Gates, Piers And Railings At Principal Entrance
+Q26606014;Gateway With Steps To Kitchen Garden To West Of Warmley House
+Q26606111;Gates And Posts To South Of Redworth Hall Lodge
+Q26606207;Gates And Gate Piers At North Entrance To Ascott House
+Q26606363;Clare College, Gateway To The University Library
+Q26606532;Gates And Gate Piers Opposite Number 7
+Q26606737;Gates, Piers And Flanking Walls, 30 Metres South Of Vale House
+Q26607031;Entrance Gates, Piers And Wall About 10 Metres To North Of Pypers
+Q26607425;Entrance Gates, Gate Piers, Walls And Railings, Odell Castle
+Q26607648;Gates And Screens Enclosing Forecourt To Front Elevation Of Henlow Grange
+Q26608279;The Gate
+Q26608557;Gates, Piers And Walls South Of Former Methodist Chapel
+Q26608821;Piers, Walls, Gates And Railings In Front Of The Lodge
+Q26608823;Piers, Wall, Gate And Railings South Of Biddick Hall
+Q26608846;Piers, Walls And Gates, 60 Metres West Of Harraton Lodge
+Q26609280;Stag Gate
+Q26609384;Gates And Railings To South Entrance Of Church Of Holy Trinity
+Q26609385;Gates And Railings To North Entrance Of Church Of Holy Trinity
+Q26609811;Gateway To Minterne House, Approximately 90 Metres North West Of Minterne House
+Q26609883;Gateway And Attached Front Garden Walling Immediately West Of Newlands Farmhouse
+Q26609938;Gateway And Bridge At Entrance To Eastbury House
+Q26610206;Railings, Piers And Gates Attached To South-West Of Stables Of Fontmell Parva House
+Q26610456;Gateway North Of The Priory
+Q26610459;Gate Piers And Gates Approximately 420 Metres South South West Of Lyneham House
+Q26610619;Gate Piers, Gate And Railings Immediately West Of Lower Lodge
+Q26610641;Railings, Wall, And Gate To Front Of Court Barton
+Q26610700;Railings, Gates And Piers To Kingsland
+Q26610703;Gateway And Steps At South Entry To Churchyard Of The Church Of St George
+Q26610709;Gateway In Wall Adjacent To Woodturners
+Q26610809;Gateway Immediately North East Of Bull And Bear Lodge
+Q26611188;Gates To Chainbridge
+Q26611198;Gates And Standards At North West Entrance To Churchyard Of St Michael's Church
+Q26611199;Gates And Standards To South East Entrance To Churchyard Of St Michael's Church
+Q26611328;Gateway Arch And Adjoining Garden Wall 20 Metres South West Of Dunsmore Farmhouse
+Q26611575;Gateway Approximately 130 Metres South Of Furlong Mill
+Q26611717;Wall, Railings And Gates About 20M West Of Church Of St Mary
+Q26611754;Gate To South Of Hill Top
+Q26611785;Gates And Gate Piers About 50 Metres South South West Of The Old Rectory
+Q26612082;Gateway Approximately 120 Metres East Of The Ruins Of Stevenstone House
+Q26612091;Gateway And Adjoining Railings Approximately 4 Metres East Of North Lodge
+Q26612133;Gate To East Of Highfield Hotel
+Q26612764;Gateway And Steps At South East Entrance To The Churchyard Of Church Of St Ciricius And St Julitta
+Q26612932;Gateway To St Michael's Mount
+Q26613073;Trecarne Gate
+Q26613103;Gate And Railings To East Of Paradise
+Q26613326;Gateway And Garden Walls To North Of Tregarden
+Q26613417;Gate, Gate-Piers And Flanking Walls At North Entrance To Altarnun Wesleyan Chapel
+Q26613629;Gateway To Gatehouse To North West Of Lavethan
+Q26613726;Gate Piers, Gate And Adjoining Outbuildings At Approximately 30 Metres North East Of Church Of Saint Sithney
+Q26613812;Gate Piers, Gates And Walls Flanking Gateway At Approximately 30 Metres North West Of Church Of St Stedian
+Q26614127;Lodge Gate
+Q26614535;Gates And Gate Piers Approximately 70 Yards South East Of Locko Park
+Q26614807;Gates, Gatepiers And Flanking Walls At Entrance To Nazareth House
+Q26614847;Wall, Gates And Gatepiers, North-West Of Tickhill House
+Q26614871;Gates, Gatepiers, Wall Steps And Mounting Block East Of Church Of St Cuthbert
+Q26615098;Forstal Gate
+Q26615186;Gates And Railings To Middlewich Cemetery
+Q26615250;Gate In Walled Garden South West Of Dorfold Hall
+Q26615525;Gateway To West Of Number 4
+Q26615623;Entrance Gates And Lodges To Cattle Market
+Q26616105;Gates And Gatepiers At Barrington Hall
+Q26616342;Gates And Gate Piers In Kitchen Garden At Anglesey Abbey
+Q26616770;Gateway Onto Trumpington Road At The Leys School
+Q26616912;Gates And Railings At North Lodge
+Q26616999;Jesus College, Gateway To Victoria Avenue
+Q26617470;Entrance Piers And Gates At Denham Mount
+Q26617493;Gates, Gate Piers, Railings And Wall At Entrance To Dorney Court
+Q26617515;Gates, Gate Piers, Walls And Railings At Entrance To Fulmer Hall
+Q26617627;Entrance Arch And Gates Adjoining Park Lodge
+Q26617995;Railings Gates And Gate Piers Over Wymans Brook To Viaduct
+Q26618097;Gates And Piers At Colleton Lodge
+Q26618144;Entrance Gates And Wall Of No 49
+Q26618174;Gates, Gate Piers And Boundary Wall Of Malvern Court Facing Malvern Place
+Q26618508;Gates At The Entrance To Dulford House Immediately Inside The Walled Park On The East Side
+Q26618893;Gateway Arch Approximately 10 Metres West Of Manor House Hotel
+Q26619246;Gates To North East Of Heath End Lodge
+Q26619282;Entrance Gates And Wall To Shardlow Hall
+Q26619303;Gates, Piers And Railings And Railings At Entrance To Queens Park
+Q26619432;Gates, Gate Piers And Screen To Bank Hall
+Q26619524;Gate To West Of Abbots Grove
+Q26619723;Railings, Gates And Gate Piers To Catholic Presbytery, Catholic Church And Numbers 25 To 29 (Odd)
+Q26620153;Gates, Piers And Walls East Of Castletown
+Q26620240;Gate Piers, Gates And Eastern Boundary Wall To Churchyard Of Central Methodist Church
+Q26620303;Gate To North Of Highfield Hotel
+Q26620491;Railings Running For 47 Metres Gates And Piers To West Of Rigmaden Park
+Q26620558;Railings And Gate Closing West Side Of Quadrangle At St Bees School
+Q26620573;Entrance Gateway And Walls To North Of Muncaster Castle
+Q26620662;Gates And Railings To South Of Eastgate House
+Q26620736;Gate And Lodges Of Oakwood Hospital
+Q26620748;Ruined Gateway
+Q26621129;Railings And Gate About 10 Metres North Of Ramsgate Library
+Q26621167;Gates And Quadrant Walls Attached To King George Vi Memorial Garden
+Q26621190;Gateway To The Old Manor House
+Q26621286;Gateway To North East Of Brook Farmhouse
+Q26621618;Gateway Approximately 30 Metres South Of Frating Hall
+Q26621767;Entrance Gates Adjacent To Kelvedon Lodge Q.V. 2/72
+Q26622278;Railing And Gates Approximately 13 Metres West Of Lime House
+Q26622291;Gateway And Railings To South And South East Of Froyz Hall
+Q26622934;South Entrance Gateway To Raby Castle
+Q26622960;Lodge Gate
+Q26622963;Golford Gate
+Q26623165;Gateway And Walls To Former Abbey School
+Q26624198;Gates And Gate Piers To Southampton Old Cemetery
+Q26624323;Gateway To Kitchen Garden, About 22 Metres East Of North East Corner Of Stanway House And About 2M Of Adjoining Wall Each Side
+Q26624327;Gates And Gate Piers To The Crippets
+Q26624661;The Gateway
+Q26624718;Piers, Gates, Railings And Dwarf Wall At Boundary To Churchyard To Church Of St John The Evangelist
+Q26625211;Gates And Gateway Adjoining Baptist Chapel To West
+Q26625268;Garden Gateway To South Of Bagpath Court
+Q26625381;Reevey Gate
+Q26625412;Gateway With Piers And Railings And Adjoining Summerhouse To North Adjoining North West Corner Of Hatherop School
+Q26625446;Rossley Gate
+Q26625485;Gateway To Coln Manor In Churchyard Wall Approximately 7 Metres North East Of North Transept To Church Of St John The Baptist
+Q26625634;Gates, Piers And Walls At The Court
+Q26625711;Gates And Gatepiers To Manor House
+Q26625780;Gate And Bridge Gate Piers To South Of Lower Water
+Q26625973;Gates And Gatepiers, Cemetery
+Q26626318;Gates To Stradsett Hall, Including Railings
+Q26626407;Gates And Gate Piers To Churchyard Of The Priory Church Of St Peter And St Paul
+Q26626906;Gates And Gatepiers And Steps Approximately 8 Metres North East Of Manor House
+Q26627186;Gates And Gatepiers To The Church Of St John The Evangelist
+Q26627244;Gates And Gate Piers To West, South And East Of St Georges Gardens
+Q26628129;Railings And Entrance Gates About 90 Metres West Of Loddenden Manor
+Q26628412;Gates And Piers With Railings At West End Of The Church Of St Mary Magdalene
+Q26628422;Entrance Gates To Infant School
+Q26628469;Railings And Gates To Churchyard Of The Church Of St James
+Q26628528;Gateway And Flanking Walls With Gatepiers At Cothelstone Manor
+Q26628643;Roadside Gateway Adjacent To East Side Of Enmore County Primary School
+Q26628743;Entrance Gateway To Former Charlton House
+Q26628936;Gate And Gate Piers Of Mells Manor
+Q26629225;Piers, Gate And Railings Set In Dwarf Wall Linking The Manse To Wick House And Fronting Baptist Church
+Q26629280;Gate And Gate Piers At East Entrance To Churchyard, Church Of St Andrew
+Q26629286;Gates And Gatepiers Fronting Road At The Old Rectory
+Q26629305;Gates, Railings And Dwarf Wall Fronting West Kilton Farmhouse
+Q26629334;Gateway About 25 Metres South West Of Ash House And South And West Boundary Walls
+Q26629451;Gateway, And West And South Boundary Wall, About 10 Metres From Dewdney's House
+Q26629502;Gateway To East Of South Lawn Of Barrington Court
+Q26629648;The Gateway
+Q26629766;Gate To North Garden, Between East And West Blocks, Redlynch Park House
+Q26629795;Gates And Railings On East Side Of Churchfields Recreation Ground
+Q26629838;Gate To Sefton Park At North End Of Street
+Q26629865;Gates And Gateway
+Q26629893;Wall, Gatepiers And Gates To No 51 And 51A
+Q26630044;Gateway And Flanking Walls To Scawby Hall
+Q26630372;Lamer Hill Gate
+Q26630668;Gates And Screen  At The East Entrance To Rothamsted Manor House
+Q26630784;Gates And Gatepiers Of King George V Playing Field
+Q26631095;Gateway To Number 302
+Q26631526;Gateway And Attached Walls Approximately 30 Metres North West Of Number 42
+Q26631596;Gate And Screen To North East Entrance To North Mymms Park Adjoining Churchyard
+Q26631861;Entrance Gates And Gate Piers At Number 33
+Q26631881;Railings Opposite Cark Manor Cottage, Railings And Gate
+Q26632044;Gates And Gate Piers About 275 Metres North Of Spring Grove
+Q26632172;Gates, Gate Piers, Railings And Garden Walls To East Front Of Haywood Lodge
+Q26632424;Gates, Gate Piers And Flanking Walls About 35 Yards North-East Of The North-East Corner Of The Church Of St Bartholomew
+Q26632657;Gates, Gate Piers And Railings At Entrance To Barber's Farmhouse
+Q26632658;Gates And Gate Piers At North Entrance To Churchyard
+Q26632801;Gates And Gate Piers 15 Metres West Of Wood House
+Q26633033;Gateway And Curtain Wall
+Q26633114;Gateway, Attached Bridge And Moat Platform Retaining Wall Of Bishopstone Court Farmhouse
+Q26633174;Gates And Gate Piers About 180 Yards North Of Kinnersley Court
+Q26633233;Gates And Gatepiers About 400 Metres South East Of Wood Norton Hall
+Q26633400;Gate And Gate Piers To Hindlip Hall
+Q26633442;Gateway And Quadrant Walls Immediately South-East Of Sinton Lodge
+Q26633595;Gates And Gatepiers And Section Of Curved Wall To Margate Cemetery
+Q26633831;Forest Gate
+Q26633875;Gateway Of St John's Hospital (North)
+Q26633898;Gateway At Rear Of No 6
+Q26633929;Wall, Piers And Gates Of Serle's House
+Q26634237;Gates To The Churchyard
+Q26634816;Gazeley Gate
+Q26635101;Gateway, 220 Metres South Of Shrubland Hall
+Q26635315;Schools Gateway
+Q26635657;Gates, Screen Walls, Posts And Chains At Dunchurch Lodge Estate
+Q26635660;Victorian Gateway Approximately 30 Metres North Of Inner Lodge At Dunchurch Lodge Estate
+Q26635661;Gateway And Screen Walls At Inner Lodge At Dunchurch Lodge Estate
+Q26635902;Gates And Two Pairs Of Gate Piers At Bateman's To The North East Of The House
+Q26636446;The South West Gateway Of Bayham Abbey
+Q26636647;St Nicholas Church Gateway
+Q26636912;Gateway In The Garden To South Of Gatewick
+Q26636935;Gateway At The North West Corner Of The Kitchen Garden Wall Of St Joseph's Dominican Convent At The Corner Of Brown's Lane And Church Street
+Q26637264;The Gateway To The West Or Main Drive Of Burton Park (St Michael's School)
+Q26637781;Gate Piers And Gates North Of Stonygate Pumping Station
+Q26637801;Gate Piers, Gates, Overthrow, Walls And Railings East Of Church Of St John The Evangelist
+Q26637973;Gate, Gate Piers To And Wall Around Ardallan
+Q26637975;Piers And Lamp Holders North Of Gateshead Housing Offices
+Q26637976;Gate Piers, Gates And Overthrow To East Of Church Of St Alban
+Q26638074;Piers, Walls And Gates And Railings West Of Former Whickham View Schools  Piers, Walls And Gates West Of Former Whickham View Schools
+Q26638407;Railings And Gates In Front Of Church Of St Mary The Virgin
+Q26638414;Garden Gates, Gate Piers, Ha-Ha Walls And Attached Lychgate At Hamptworth Lodge
+Q26638548;Gate In Centre Of Wall Dividing Garden At Beginning Of Walk Down To River, Of No 60
+Q26638563;Gates, Piers Overthrow And Forecourt Wall To North Walk Of No 19 And Its Extension To East In Front Of Chapel
+Q26638564;Railings And Gates Along North Walk To Front Of Garden Of Number 20
+Q26638619;Gateways
+Q26638669;Gate And Gate Piers To North East Of Warnford Place
+Q26638731;Collins Lane Gate
+Q26638901;Wall, Gates And Gate Piers To Front Of Kenyon Hall
+Q26639222;Gateway To Old Pastures
+Q26639317;Gateway, Lodge And Adjoining Office At Salford Northern Cemetery
+Q26639513;Gates And Gate Piers To East Haddon Hall Approximately 15 Metres From Numbers 1,8 And 9
+Q26640150;Entrance Gates To Wandsworth Cemetery
+Q26640184;Entrance Gates At South West Entrance To Battersea Park
+Q26640186;Entrance Gates And Lodges With Related Walls At Queen Mary's Hospital
+Q26640456;Gates And Gatepiers At Entrance To Abbey Mills Pumping Station
+Q26640824;Gateway To Hillingdon Uxbridge Cemetery
+Q26641000;Gate And Gate Piers To The Eagles
+Q26641043;Entrance Gateway Of The Congregational Church
+Q26641070;Railings And Gate Of Strawberry House
+Q26641135;Gates And Railings To St Marys
+Q26641618;Gates To Blankney Hall
+Q26641651;Gates And Gate Posts At East End Of Chinese Garden
+Q26642051;Gates And Gatepiers To Number 44
+Q26642256;Gates, Gateway And Wall To Irnham Hall
+Q26642355;Gate To Clarence And Clarence Graving Docks
+Q26642359;Pedestrian Garden Gateway To Demolished Uffington House
+Q26642434;Gate And Flanking Walls, Caythorpe Court
+Q26642473;East Gateway To Belvoir Estate
+Q26642493;Gateway To Sir Malcolm Sargent School
+Q26642650;Gates And Wall To Wellingore Hall
+Q26642680;Gates And Walls At The Manor House
+Q26642868;Scoles Gate
+Q26643054;Gateway Sixth Form College
+Q26643394;Gateway And Railings To Belgrave Gardens Opposite Belgrave Hall
+Q26643441;Gate Piers, Gate, Wall And Outhouse At King's Farmhouse
+Q26643513;Wall,Gate Piers And Gates To Old Hall Grounds
+Q26643686;Emmott Hall Gateway
+Q26643787;Gateway And Attached Farm Buildings On North West Side Of Farmyard At Bickerstaffe Hall Farm
+Q26643893;Gateway To Stubbylee Park
+Q26643933;Gateway To Rawtenstall Cemetery
+Q26644177;Wall, Gatepiers And Gates South Of Newton Hall
+Q26644188;Lodge Gate
+Q26644200;Bay Gate
+Q26644314;Entrance Gates And Two Archways To Capernwray Hall, Adjoining Borwick Logde
+Q26644440;Church Gate
+Q26644937;Entrance Gates And Piers At St Saviour's Convent
+Q26644962;Gates And Walls To The Church Of The New Jerusalem
+Q26645323;Gateway At South East Corner Of Churchyard Of Church Of St James
+Q26645775;Wall, Piers And Gates To The Grove
+Q26645887;Gates, Gate Piers And Overthrow At Churchyard Of Church Of St Paul
+Q26645904;Entrance Gate Piers And Gates To Drive Of Beanacre Manor
+Q26645937;Gate Piers And Gates Into Churchyard Of Church Of St Michael And All Angels
+Q26645946;Gates To St Thomas's Church
+Q26645988;Railings And Gates To No 12
+Q26646091;Gate Piers And Gates At Baptist Chapel
+Q26646094;Railings, Gates And Overthrow At West Door Of Church Of All Saints
+Q26646159;Gates And Piers To Churchyard Of Church Of St Peter And St Paul
+Q26646176;Gates To United Reformed Church
+Q26646411;Railings And Gates To Churchyard
+Q26646789;Gateway
+Q26647032;Railings And Gates Of Number 34 (Bridge House)
+Q26647170;Gates To Chilton Lodge
+Q26647362;Gates, Gate Piers And Lamp Arch To East Of Churchyard
+Q26647696;Entrance Gates, Wall And Drinking Fountain To Holy Trinity Almshouses
+Q26647957;Gate Piers And Gates, About 65 Metres North Of Bowling Green House
+Q26648023;Entrance Gateway, Immediately South Of Lodge To Cricket Court
+Q26648293;Gate And Gate Piers Approximately 20 Metres To North East Of The Warren
+Q26648376;Gates, Gate Piers And Flanking Walls Approximately 170 Metres To South West Of Peplow Hall
+Q26648470;Gates, Gate Piers And Flanking Walls Approximately 5 Metres To North East Of Shrewsbury Lodge
+Q26648755;Gate And Gateposts Approximately 70 Metres To East Of Roveries Hall
+Q26648800;Railings, Gates And Gatepiers Fronting Adams' Grammar School
+Q26648918;Railings Gates And War Memorial West Of The Coalbrookdale Institute
+Q26649117;Gate, Gatepiers And Flanking Railings, Adjoining The Manor House To West
+Q26649158;Gateway Stores
+Q26649272;Gateway Approximately 25 Metres South East Of South East Corner Of Old Church And Gateway In Old Churchyard
+Q26649462;Hensington Gate
+Q26649894;Gateway And Flanking Walls To St Marys Convent
+Q26650085;Gates And Gatepiers 40 Metres South Of Beterton House (Not Included)
+Q26650124;Gate To Walled Garden Approximately 400 Metres East Of Nuneham House
+Q26650128;Gateways
+Q26650541;Gateways
+Q26650601;Eastern Pier Of Gateway Approximately 1150 Metres South West Of Shotover Park
+Q26650795;Gate Number 3 With Flanking Walls At Radcliffe Infirmary
+Q26650950;Magdalen College, Gateway West Of Range On High Street
+Q26650964;Merton College, Screen On Merton Street, Being The Gateway To Merton Grove
+Q26651249;Gate To Rose Garden At Caunton Manor
+Q26651250;Railing And Gate At No 6
+Q26651271;Railings And Gate At North Road House
+Q26651486;Gate Piers, Gate And Garden Wall To West Of Unthank Hall
+Q26651654;Gate Piers And Gate At Miserton Station House
+Q26651878;Piers And Screen Wall Opposite Garden Gate
+Q26651963;Gateway Approximately 50 Yards South Of Birney Hill Hall
+Q26651999;Gateway To Roman Catholic Cemetery
+Q26652090;Gateway To Stable Block Of Roddam Hall
+Q26652316;East Cemetary Entrance Screen And Chapel Spire
+Q26652430;Gate Screen 80 Metres South West Of Morwick Hall
+Q26652498;Gates, Railings And Steps To Sheraton House
+Q26652568;Piers And Gate At Entrance To Drive To Church Of Our Lady
+Q26652823;Wall, Gates, Gatepiers And Railings Approximately 40 Metres South And West Of Church Of All Saints
+Q26652845;Gates, Gatepiers And Railings Approximately 300 Metres East Of Harrowden Hall
+Q26653014;Gates And Gatepiers 40 Metres South Of Great Addington Manor House
+Q26653191;Gateway And Gates At Cemetery Of St Mary Magdalene And Bishop's Hull
+Q26653425;Gateway And Boundary Wall To East And West Sides Of Road
+Q26653604;Gateway To James Stuart Gardens
+Q26653644;Gates And Gatepiers Approximately 300 Metres West Of East Carlton Hall
+Q26653654;Gates And Gatepiers Approximately 75 Metres West Of Great Oakley Hall
+Q26653779;Gates And Railings To Lenwade Lodge To Weston House
+Q26654085;Gates And Adjoining Railings At Entrance To Shotesham Park
+Q26654667;Entrance Gates And Gatepiers
+Q26654979;Gateway Attached To South West Of Stable Block Of Weston Hall
+Q26655100;Gates Piers And Gates At Lichfield Lodge
+Q26655340;Entrance Gates, Piers And Screen Walls And Railings To The Lawns
+Q26655584;Gateways, Gatepiers And Gates Approximately 30 Yards East Of Church Of St James And St Bartholomew
+Q26655660;Entrance Gate Piers And Gates 20M South West Of Foley House
+Q26655739;Gates, Gatepiers And Boundary Wall, 10 Metres South Of Ashfield Lodge
+Q26655855;Jacob Kramer College Wall, Gate, Gate Piers And Gates To Whitehall Road
+Q26655866;Gateway And Boundary Wall To East Of Parish Church Of St Peter
+Q26655982;Roadside Railings, Gate Piers And Gate To Sugarwell Court
+Q26656069;Front wall, gate piers and gates to 17 North Hill Road
+Q26656171;Gates, Gate Piers And Flanking Walls At Lodge To Weetwood Hall
+Q26656230;Holbeck Cemetery Entrance Gates Gate Piers And Flanking Walls
+Q26656275;Gateway And Flanking Walls To Former Railway Foundry
+Q26656404;Chester Road Gates
+Q26656405;Jubilee Gates
+Q26656555;Gates And Gate Piers To Old (North) Part Of Overleigh Cemetery
+Q26656566;Gates And Churchyard Wall To Church Of All Saints
+Q26657089;Railings And Gates To Caroline Gardens
+Q26657120;Gates And Gate Piers At North East Entrance To St Marys Churchyard
+Q26657460;Piers, Gates And Balustrade To West Of Culford Hall
+Q26657700;Gateway 10 Metres South Of The Lodge
+Q26657711;Gateway Immediately South East Of Coach House And Barn, Cockfield Hall (Including Adjoining L Shaped Section Of Walling To South East)
+Q26657776;Gateway 70 Metres South East Of Moat Hall (Including Attached Walling And Outbuilding)
+Q26657806;Gates, Piers And Flank Walling, 80 Metres North Of Orwell Park School
+Q26657912;Entrance Lodges And Gates To Oatlands Park Hotel
+Q26657932;Entrance Piers, Gates And Railings To Whiteley Village
+Q26657976;Gates And Gate Piers To Main Front Of Staff College
+Q26658130;Entrance Gates And Walls To Monksbridge
+Q26658217;Gate To County First School
+Q26658353;Railings, Gate And Gate Piers Of The Old Parsonage And Kilree House
+Q26658557;Gateway To Broome Park
+Q26658559;Gateway to Churchyard
+Q26658788;Gates, Piers And Railings, Camberwell New Cemetery
+Q26659076;Entrance Gates With Gatepiers To North West Of The Montefiore Synagogue
+Q26659745;Gate Piers And Gates At East Entrance To Botanic Gardens
+Q26659803;Gate Piers And Gates At Entrance To Meols Hall
+Q26659880;Gates, Lodges And Railings At Royal Victoria Infirmary
+Q26660101;Municipal Cemetery Inner Gateway
+Q26660216;Gates, Gate Piers And Walls To Former Bevendean Hospital
+Q26660885;The South Gate And Attached Walls And Piers And Wooden Gates
+Q26661107;Gate Piers And Gate To Stanmer Church
+Q26662027;Entrance Gates And Railings To Moreton Hall
+Q26662031;Entrance Gates And Gatepiers To Moreton Manor
+Q26662033;Entrance Gates And Railings To Moreton Morrell Tennis Court
+Q26662088;Railings And Gates And Gate Piers Approximately 15 Metres East Of The Church Of St Peter
+Q26662186;Railings And Gates To North Side Of The Churchyard Of St Peter And 2 Gates To The West
+Q26662305;Gates And Gate Piers And Walls To The South Of Wootton Hall With Wootton Bridge
+Q26662667;Gates And Gate Piers And Churchyard Wall Enclosing Church Of St Mary
+Q26662684;Gates And Piers Approximately 10 Metres North Of Stables
+Q26662724;Gate And Gate Piers And Attached Walls East Of Billesley Manor Hotel
+Q26662725;Gate And Gate Piers And Attached Walls North East Of Billesley Manor
+Q26663159;Gateway To Drive Of Acton Scott Hall 5 Metres East Of Churchyard Of St Margaret
+Q26663428;Gates And Gatepiers And Wall To Churchyard Of Church Of St Michael
+Q26663539;Entrance Gates And Screen At Henley Hall
+Q26663637;Gates And Piers And Walls To South West Of House At Entrance To The Lodge
+Q26663640;Gates And Piers To North Of Lodge To Moor Park
+Q26664053;Gates And Walls To Roman Catholic Church Of All Saints
+Q26664057;Gates And Boundary Wall To Royle House
+Q26664332;Entrance Gateway To Mesnes Park
+Q26664407;Gateway And Railings To Numbers 31, 33 And 35 (Keynsham House)
+Q26664689;Gates And Gate Piers At Main Entrance To Tiverton Cemetery Including Boundary Wall
+Q26664984;Gates And Gate Piers At West Entrance To Paternoster Row
+Q26665043;Entrance Gates And Gate Piers And Adjacent Walls To Park At Castle Mound
+Q26665045;Gate Piers And Gate To Carlyon House
+Q26665110;Railings And Lamp And Gates To North Of Churchyard Path
+Q26665148;Gates And Gate Piers And Lamp Standards Approximately 18 Metres South Of South East Corner Of Museum
+Q26665203;Entrance Gates And Piers Of Dulwich College To The East Of The Main Building
+Q26665206;Entrance Gates And Piers Of Dulwich Old College
+Q26665229;Gates, Piers And Railings To Beestons Gift Almshouses
+Q26665287;Gates To Dulwich Old Burial Ground
+Q26665309;Gates, Piers And Railings To Camberwell Old Cemetery
+Q26665418;Entrance Gate Piers, Gates And Railings To Nunhead Cemetery
+Q26665434;Gates And Gate Piers To The West Of Church Of St Peter
+Q26665498;Railings, Gates And Piers To Old St Marys Churchyard
+Q26665638;Gates, Gate Piers And Street Railings To Guys Hospital
+Q26665643;Gates To Kingswood House At Corner Of Lyall Avenue
+Q26665833;Wall, Archways And Gates To Courtyard Of Town Hall
+Q26665865;Railings, Walls, Gate Piers And Gates Of Weaste Cemetery
+Q26665868;Railings, Walls, Gate Piers And Gates To Cathedral Of St John
+Q26665925;Entrance Gateway To Dock Office
+Q26665969;Railings and gates East and South East of Saltram House
+Q26665973;Main Gateway At Raglan Barracks (Barracks Not Included)
+Q26666252;Gates, Gate Piers And Boundary Walls To Hamilton House
+Q26666288;Gate And Piers Approximately 15 Metres South West Of West End Of Church Of The Holy Apostles
+Q26666325;Gate And Piers Approximately 20 Metres North Of Chancel Of Church Of The Holy Apostles
+Q26666336;Gate Piers, Gates And Walls To Glenfall House
+Q26666339;Railings And Gate To St Marys Hall
+Q26666341;Gateway Formerly To The Court House In Garden To Rear Of Number 16 (Not Included)
+Q26666344;Gate And Gate Piers To The Court House
+Q26666450;Inner Gateway To Cemetery
+Q26666536;Gates And Railings To Central Gardens
+Q26666585;King James Gate
+Q26666715;Gates To Pershore House
+Q26667132;Entrance Gateway To Pittville Park
+Q26667199;Gates And Gate Piers To Halsey House (East Return)  Gates And Gatepiers To Halsey House
+Q26667214;Railings And Gates Fronting Number 2 (Masonic Hall) And To Area Left Return
+Q26667436;Gates Gate Piers And Railings To Fauconberg House
+Q26667466;Railings Walls Gates And Gate Piers To Church Of St Paul
+Q26667568;Entrance Lodge, Gates And Boundary Wall To St Pauls College
+Q26667586;Gate Piers And Gates To South East Of Broadlands House
+Q26667618;Gate Piers And Gates To Hall I Th Wood
+Q26667651;Railings And Gates To St Marys Churchyard
+Q26667761;Gates, Gate Piers And Railings To Central Gardens
+Q26667779;Park Gate
+Q26667893;Gate And Railings To Front Garden Of Number 17
+Q26668114;Railings And Gateway At Number 17
+Q26668158;Inner East Gateway To Bishops Palace
+Q26668159;Priory Gate
+Q26668734;Railings, Walls And Gates To Ardenlea
+Q26668739;Gateways At The Chetwynd Centre
+Q26668763;Gateway And Boundary Wall At Cook Street Entrance To Lady Herberts Garden
+Q26668766;Gateways And Walls At Bass Maltings
+Q26669074;Entrance Gatepiers, Gates And Forecourt Pool Surround At Pearce's Leather Works  Pearce's Leather Works
+Q26669097;Central Gates, Gate Piers And Railings To The Former Firestone Factory
+Q26669517;Gateway to Church of St George
+Q26669673;Gates And Gate Piers To Binfield Manor
+Q26669685;The White Gate
+Q26669695;Gates And Piers On North Of Churchyard To Church Of St Mark
+Q26669704;Gates And Piers At West Entrance To Binfield Park
+Q26670114;Entrance Gatepiers And Gates To The Leys
+Q26670124;Railings And Gates And Gas Lamp Bordering The Churchyard Of St Mary The Less On North And West Sides
+Q26670252;Gates And Gatepiers And Flanking Walls 220M To The West Of Sherfield House School Main Building
+Q26670284;Gate Piers And Gates To Highland Road Cemetery
+Q26670752;Gates, Gate Piers, Boundary Wall And Railings
+Q26670974;Entrance Gates, Piers And Walls To South Of Officers Mess
+Q26671564;Gates To Redworth Hall
+Q26671974;Entrance Gateway And Gates At No.44 (Abington Place Stables)
+Q26672427;Entrance Gates And Wall To East Side Of Rnad Bull Point
+Q26672928;Gates, Gatepiers, Railings And Lamp Standards, The 'Main Gate', At Hms Ganges
+Q26673416;Gateway With Steps And Boundary Walls To Upton House
+Q26673473;Railings And Gates
+Q26673485;Wall, Gatepiers And Gates To Perrymead Cemetery
+Q26673546;Piers, Gate And Quadrant Boundary Walls To Linsley House And Clarendon House
+Q26673587;Entrance Kiosks And Gates To Recreation Ground
+Q26673658;Entrance Gateway To Abbey Cemetery
+Q26673663;Rock Gate, (Or Chinese Gateway) With Retaining Wal
+Q26673697;Piers, Railings And Gates To The Church Of The Holy Trinity
+Q26673708;Piers, Gate And Railings To The Old Vicarage
+Q26673733;Piers, Gates, Railings And Plinths To Hedgemead Park
+Q26673922;Entrance Gates And Piers To St Michael's Cemetery
+Q26673939;Piers, Gates, Railings, Plinths And Steps To Hedgemead Park
+Q26673940;Railings And Gates Of Walcot Cemetery To North Of St Swithin's Church
+Q26673973;Gates And Railings At Entrance To South Lodge
+Q26674004;Gate Peirs At Sion Hill End Of The Entrance To Sion Hill Place
+Q26674274;Entrance Gates And Piers To Lyncombe Hill Burial Ground
+Q26674611;Gates And Gate Piers To Crowe Hall
+Q26674814;Gates And Piers At Entrance To Hedgmead Park
+Q26675170;Gates, Gate Piers And Walls To The Walled Gardens, Chiswick House Grounds
+Q26675178;Gate Piers And Gates To Memorial Stadium
+Q26676106;Gates No. 8 And No. 10 To The Western Docks
+Q26676153;Entrance Gates And Piers To Coventry War Memorial Park
+Q26677015;Gates And Gate Piers At Entrance To Mill Meece Pumping Station
+Q26677273;Potter Gateway To Sunnyhurst Wood
+Q26677312;Tulip Gate
+Q26677313;Rose Gate
+Q26677837;Memorial Gates outside Church of All Saints
+Q26678020;Entrance Piers And Gates To Silvergates
+Q26679061;Entrance Gates To Haslam Park
+Q26679350;Gate Piers, Gates And Walls To Williamson Park
+Q26682798;Gateway To Lombard House
+Q26682828;Gates, Gate Piers And Walls At The West Entrance To Woodway House
+Q26685267;Railings And 2 Sets Of Gates And Gate Piers To Key Hill Cemetery
+Q26791495;Q26791495
+Q26965384;Notre Dame Gate
+Q27080633;Gateway To Inigo Place And St Pauls Churchyard
+Q27080652;Wellington Barracks Railings And East And West Gates To Birdcage Walk
+Q27080712;Gateway And Railings Across South End Of Street With Retaining Wall Steps Down To Victoria Embankment Gardens
+Q27080878;Entrance Gates To Kensington Palace
+Q27080885;Two Gateways With Cast Iron Gates
+Q27080897;Gates Between Numbers 9 And 10, Leading To Gardens Of Ladbroke Square
+Q27081000;Gateway And Forecourt Wall To The Pheasantry
+Q27081169;Gates And Railings To London Gate And Chelsea Gate At The Royal Hospital
+Q27081652;Gateway To St James's Park, Opposite Marlborough Road
+Q27081681;Marlborough Gate
+Q27081710;Palace Gate
+Q27081727;Gate And End Piers To No 133 (Department Of Health Social Security)
+Q27081751;Gate And End Piers And Wall To Road
+Q27081948;Railings And Gates To Private Garden In Middle Of Square
+Q27082073;Casa Maria Gateway
+Q27082327;Cumberland Gate
+Q27082379;Victoria Gate
+Q27082380;Unicorn Gate
+Q27082605;Gates House
+Q27082700;Gate To Number 87
+Q27082701;Gate To Number 89
+Q27082856;Entrance Gates To Rose Hill (Richmond Public Library)
+Q27082864;Gates And Railings To Linden House
+Q27082927;Lion Gate
+Q27082944;Gates And Railings To Her Majesty's Land Registry Building
+Q27083244;Entrance Gates On Main Axis From Chelsea Embankment Royal Hospital
+Q27083398;Gateway Opposite Earls Court Road
+Q27083519;Gates And Railings On East Side Of Forecourt To Former Foundling Hospital
+Q27083690;Gates And Gatepiers To Albert Gate
+Q27083716;Entrance Gates To Wesley's Chapel
+Q27083718;Gates At North West Corner, Leading Into Charterhouse Street
+Q27083768;Gateway In Yard Of Church Of St Katherine Cree
+Q27083899;Gates And Railings In Front Of Number 17
+Q27083923;Gates And Railings In Front Of Dreadnought Seamen's Hospital
+Q27083932;Wall, Railings And Gates To East Of National Maritime Museum
+Q27084061;Gates, Gatepiers And Railings At Walthamstow Civic Centre
+Q27084162;Railings And Gates Around St Luke's Churchyard
+Q27084375;Gateway And Walls To North And West Of Raymond Buildings  Raymond Buildings Gateway And Walls
+Q27084528;Gates And Railings To St Johns Church
+Q27084890;Entrance Gates To West India Docks
+Q27084901;Entrance Gateway
+Q27084934;Gates, Gatepiers And Railings To Walthamstow High School
+Q27084942;Church of St Peter and St Paul Churchyard Gate and Gatepiers (South of Church)
+Q27085132;Gate With Overthrow At No 29
+Q27085245;Pair Of Lodges And Gates To The South East Of Bushy House (Guns Lodge)
+Q27085270;Entrance Gates And Railings Of Forecourt To Ham House
+Q27085436;Calais Gate
+Q27085620;West Entrance Gateway To Trent Park
+Q27085748;Gates Leading To Number 40 From Adams Court
+Q27085869;Gate Of Honour, Mill Hill School
+Q27085922;Gate And Gatehouses To Crematorium And Attached Railings, East Finchley Cemetery
+Q27085940;Gate And Railings To Former Churchyard Of Church Of St Botolph
+Q27085968;Gates And Railings To Church Of St Dunstan In The West
+Q27086122;Gates And Railings On West Side Of Forecourt To Former Foundling Hospital
+Q27086296;Garden Entrance Gateway To Number 120 The Friends Meeting House
+Q27086443;Gates And Wall To La Sainte Union Des Sacres Coeurs
+Q27086532;Entrance Gates, Garden Walls And Gates To Holly Terrace
+Q27086545;Entrance Gates And Walls To Lauderdale House Adjoining Highgate Hill
+Q27086597;Gates, Railings And Wall To The Grounds Of St Vedasts School, Sarum Chase
+Q27087190;Gates, Gate-Piers, Curved Wall Section And Railings Associated With Pumping Station
+Q27087643;Gateway, Formerly To Cromwell House
+Q27668056;Q27668056
+Q28172877;Tripolia Gates
+Q28370946;Q28370946
+Q28667443;Глухие ворота
+Q28685847;Q28685847
+Q28771413;Chin Shan Yen Gate
+Q28975384;Alekseevsky Gate
+Q29476279;Bhadra Tower
+Q29476452;Panchkuwa gate
+Q29476565;Delhi Darwaja
+Q29480991;Gates,Gatepiers,Railings,Piers & Dwarf Walls Around The Perimeter of Bethesda Welsh Presbyterian Cha
+Q29481186;Gatepiers and Gates at Llangedwyn Hall
+Q29481239;Gates and Gatepiers to Llanrhydd Hall
+Q29481684;Whitehurst Garden Gatepiers with Gates and perimeter Garden Wall
+Q29481781;Gatepiers & Gate at The Old Deanery
+Q29482300;Garden gatepiers, gates and wall at Ty-Brith
+Q29482504;Front Garden Walls, Gatepiers & Gates to Nos. 22, 24 & 26
+Q29482814;Gates, Gatepiers, Railings and Walls at Shirenewton Hall
+Q29483470;Gates, Gatepiers and Railings at Main Driveway Entrance to Coed-y-Celyn.
+Q29483743;Gateway Into Bible Garden,Ffordd Gwynedd
+Q29483748;Gate Piers & Gates at Entrance to St.Mary's Churchyard,Garth Road
+Q29485443;Churchyard gates, piers and railings
+Q29485577;Churchyard walls and gateways to Priory Church of Saint Nicholas
+Q29485626;Front garden wall, railings, gatepiers & gate to No 111, with penny postage stamp machine to right
+Q29485687;Gates to Bethesda Chapel,High Street
+Q29486502;Boundary walls, gatepiers and gate to forecourt and driveway at Old Gwernyfed
+Q29486677;Entrance gate, flanking walls and railings adjoining First Lodge to Llanerchydol Hall
+Q29487378;Gates and Gatepiers at The Sw Entry to Plas Machynlleth Park
+Q29488199;Entrance gates to Y Garreg Filltir
+Q29488283;Gates, gatepiers and bollards to footpath on S side
+Q29488312;Railings, gates and gatepiers to St John's Church
+Q29488314;Entrance gates and rails to Penuel Baptist Chapel
+Q29489085;Gatepiers & Gates to Castle Green House, Bridge Street
+Q29489101;Gates & Gatpiers to St.Mary's Churchyard, Church Street
+Q29489226;Gatepiers & Gates to S.of Llanfair,Llanfair Road,Llanfair
+Q29489324;One Set of Gatepiers and Gate to drives NW of Llanerchaeron (Previously listed as sited at Llanaeron
+Q29489595;Gates & Gatepiers to Penlan Park,Carmarthen Street
+Q29489904;Gates & Railings at St.Tydfil's Churchyard, High Street
+Q29489906;Gates & Gatepiers at Entry to Zoar Chapel, High Street,Pontmorlais
+Q29490152;Gates,Gatepiers & Churchyard Wall of St. Thomas' Church,Church Place
+Q29490252;Two Sets of Gates,Gatepiers & Railings to Parc Howard,Felinfoel Road
+Q29490480;Railings, gates and gatepiers to Hill Park Baptist Chapel
+Q29490785;Front Garden Wall & Gatepiers & Gate to Brecon House,The Cathedral Close
+Q29491509;Gatepiers, Gates and Boundary Walls at entrance to Penllyn Castle Main Drive
+Q29491526;Gates and Gatepiers at Drive Entrance to Friars Point House, Friars Road (W End), Barry Island
+Q29491728;Gates on the north side of the Church of St John the Evangelist
+Q29491793;Entrance Gates and Wall forming east boundary of the Entrance Garden at St Fagans Castle
+Q29492082;Gatepiers and Gates Adjoining Glaspant Lodge, Capel Iwan
+Q29492105;Gate Piers, Gates and Railings at Welsh Presbyterian Church, Clwyd Street (E Side)
+Q29492339;Gatepiers, Gates and Railings at Glandovan Lodge, Glandovan
+Q29492348;Railings and Entrance Gates at Drive to Rhydgarnwen, Llantood
+Q29492354;Gatepiers and Gates to Rhosygilwen Driveway, Rhos Hill
+Q29492603;Forecourt Gates, Gatepiers and Railings, A484 (W Side) Llechryd
+Q29492605;Entrance Gates, Piers and Railings at Glanarberth, A484 (N Side), Llechryd
+Q29492677;Entrance Gate to Saint John's Churchyard
+Q29492679;Gate and gatepiers midway along S drive at Coedarhydyglyn
+Q29492680;Gate and gatepiers beside South Lodge at Coedarhydyglyn
+Q29492797;Entrance Gates and Churchyard Walls at Saint Deiniol's Parish Church, Church Lane (Far End)
+Q29492804;Entrance Gate to Hawarden Castle, Glynne Way (S Side)
+Q29492896;Gatepiers and Gates to Castle Malgwyn Hotel, Castle Malgwyn
+Q29492903;Entrance Gates and Piers to Ffynone, Ffynnonau
+Q29493114;Walls, Gatepiers and Gates Enclosing The Memorial Garden at Bryn Awelon, Lon Fel (E Side)
+Q29493271;Gates and Railings at Capel Seion, Stryd Y Bont (Bridge Street) (N Side)
+Q29493311;Entrance Gates at Rug, Rug
+Q29493748;Decorative Gate Including Railings and Gatepiers Opposite Coed-Y-Moch Lodge
+Q29494133;Entrance Gates to Park, Park Road (W Side)
+Q29494164;Gates to Cemetary, Ruabon Road (Nw Side)
+Q29494256;Gatepiers and Gates at Church of St Peter
+Q29494844;Gates and Gate-piers at main entrance to New Cemetery
+Q29494976;Former entrance gateway to Lamphey Court
+Q29495082;One set of Gatepiers and Gates to drive SE of Llanerchaeron(Previously listed as sited at Llanaeron)
+Q29495085;Entrance Gates at St Michael's Church
+Q29495098;Entrance Gates to Ty Mawr
+Q29495162;Gates and Piers at Capel y Drindod
+Q29495292;Entrance Gates and Railings at Blaenwern
+Q29495373;Gatepiers and gates to Gelli
+Q29495417;Garden walls to N side of formal garden including gatepiers, gates and alcove
+Q29495424;Gatepiers and gates to the forecourt at Erddig
+Q29495425;Gatepiers and attached gates and railings on N drive
+Q29495431;Gatepiers, Railings and Gates at Forest Lodge entrance
+Q29495942;Principal entrance gates to Saint Issell's Churchyard
+Q29495943;Rear gates to Saint Issell's Churchyard
+Q29495944;North gates to Saint Issell's churchyard
+Q29496218;Entrance gate and gatepiers at Court Farm
+Q29496273;Memorial gates, gate-piers and flanking quadrant screens to Pontypool Park.
+Q29496289;Entrance gateway to St.James's Church
+Q29496469;St Caradoc Churchyard Gateway
+Q29496735;Entrance Gates at Nanhoron
+Q29496823;Gates of Baptist Chapel
+Q29496835;Entrance Gates and Walls near Lower Lodge at Cefnamwlch
+Q29497133;Steps, Gates and Gatepiers to W of St Cyngar's Church
+Q29497169;Gates and Gatepiers immediately S of the Flaming Urn Monument
+Q29497180;Gates and Gatepiers opposite the Coach-house including Curved Wall adjoining to NE.
+Q29497181;Main Gates and Gatepiers to Plas Brondanw including attached Enclosing Walls and Revettment to E
+Q29497182;Steps, Gates and Gatepiers to Upper Terrace at Plas Brondanw Gardens
+Q29497185;Gates and Gatepiers at SE corner of Plas Brondanw Gardens including Garden Wall to NE.
+Q29497191;Gates, Gatepiers and Steps 50m NE of the Orangery at Plas Brondanw Gardens
+Q29497195;Dolphin Gates and Gatepiers at Plas Brondanw including Railings to NW
+Q29497208;Gates and Gatepiers opposite Gattws
+Q29497451;Gates and Gatepiers at Dolwen Lodge
+Q29497679;Entrance gateway and wall at Treberfydd
+Q29497877;Gates and arch to Church of St. Cyngar
+Q29497886;Gateway in field wall of Dinam
+Q29497958;Gates and gatepiers at entrance to Gliffaes
+Q29498065;Entrance Gates, Boundary Wall and railings to former Bethany Chapel
+Q29498066;Entrance Gates, Boundary Wall and Railings at Whitefield Chapel.
+Q29498781;Archway to drive, Dolwilym
+Q29498925;Pwllheli Gates and Gate Piers to Amgueddfa Lloyd George
+Q29499323;Entrance gates and walls to Groes Hall
+Q29499565;Entrance gates to Newport Magistrates Court
+Q29499567;Main entrance gate, railings and flanking walls at St Woolos Cemetery
+Q29499704;Entrance Gateway at Churchyard of St Mary Risca
+Q29499714;Entrance Gates and Railings at Christ Church
+Q29499862;Gates, Gatepiers and Forecourt Walls, including associated Arch and Bridge to S, at the Almshouses
+Q29499869;Forecourt Gates and Gatepiers at Llanrhaeadr Hall
+Q29499870;Entrance Gates, Gatepiers and adjoining Strapwork Walls at Llanrhaeadr Hall
+Q29499942;Gates and railings at Mount Pleasant Baptist Chapel
+Q29499944;Gates and railings at Bethesda Baptist Church
+Q29500005;Entrance gates and gate piers to Kilvrough Manor
+Q29500286;Waterloo Road Gatepiers & Gates to Belle Vue Park
+Q29500298;Gates and Gatepiers at SW Corner of Belle Vue Park
+Q29500402;Gateway to Talbot Memorial Park
+Q29500667;Entrance Gateway at Faendre Hall
+Q29501091;Gates and railings to Bethel Calvinistic Methodist Chapel
+Q29501126;Gates and railings to Capel Blaenplwyf
+Q29501127;Gates and railings to Capel Carmel
+Q29501180;Gatepiers, Gates and Railings at the A48 entrance to Wyelands
+Q29501189;Gatepiers and Gates of St Tewdric
+Q29501190;Portskewett Gates and Gatepiers at St Pierre
+Q29501205;Gates and Gatepiers at Mathern Lodge, Wyelands
+Q29501301;Entrance Gates & Piers at Tonyrefail School
+Q29501630;Gates, Gatepiers and Screen Walls at Pale Hall
+Q29501761;Entrance Gates and Gatepiers of Chepstow Racecourse (Piercefield Park) at Middle Lodge
+Q29501842;Gates and gate piers to Church of St Mary
+Q29502614;Entrance Piers, Gates and Boundary Wall to Church of St Eurgain and St Peter
+Q29502858;Entrance Gateway and flanking walls to Jews' Cemetery
+Q29503030;Entrance gates and railings of The Endowed School
+Q29503524;Entrance Screen, Gates and Gatepiers to Haberdashers' Monmouth School for Girls
+Q29503562;Gates and Gatepiers of Conway Road Methodist Church
+Q29503583;Front Wall, Gatepiers and Gate of No 88 (Bridge House)
+Q29503591;Gatepiers, walls and gates at Ciliauwen Lodge
+Q29503714;Gates and railings at Capel Moriah
+Q29503967;Entrance gates and piers to The Mount
+Q29504174;Structure of gates, gatepiers and attached walls with railings to main entrance to Bailey Park
+Q29504256;Gate and gatepiers to Church of St Ciwg
+Q29504257;Gatepiers and gates to Church of Saint Peter
+Q29504444;Entrance Gates, Gatepiers and Wall of Insole Court
+Q29504677;Entrance gates and piers to Church of St Trillo
+Q29504923;Gatepiers, gates and railings to S of St David's Hospital
+Q29504924;Gates and railings to Capel Elim
+Q29504933;Main gates and gatepiers to Carmarthen Park
+Q29505192;Entrance gates at Glanpaith
+Q29505218;Entrance gatepiers, gates and railings at Clareston
+Q29505405;Entrance Gateway to Plas-newydd
+Q29505406;Entrance gateway to Porth-y-carn
+Q29505442;Entrance gates to Broncastell
+Q29505443;Entrance gates to Church of St David
+Q29505460;Entrance gateway and gates to parish cemetery
+Q29505498;Entrance gates and railings to Ebenezer Baptist Chapel
+Q29505499;Entrance gates with vestry to Tabernacle Chapel
+Q29505541;Entrance gates to churchyard of Church of St Brynach
+Q29505905;Forecourt and Graveyard Gates, Gatepiers and Walls of Bethesda'r Fro Chapel
+Q29506203;Entrance gates and piers to Eglwys Newydd church
+Q29506205;Gatepiers and gates at Hafod Lodge
+Q29506221;Entrance gatepiers and gates to Penoyre
+Q29506292;Entrance gates, piers and walling at Cors y Gedol Hall
+Q29506649;Gates at SW, and railings to S and W sides of churchyard of St Mary
+Q29506650;Gatepiers and gates to St Michael's Churchyard
+Q29506856;Gatepiers and Gates of Church of St. James
+Q29506857;Gatepiers, Gates And Railings Of St James' Square. Monmouth
+Q29506858;Gatepiers, Gates and Railings of Wesleyan Methodist Chapel
+Q29506859;Gatepiers, Gates and wing walls at Newton Court
+Q29506877;Old Entrance Gateway, River Wall and secondary Gate of Monmouth Boys School
+Q29506890;Wall, Gatepiers, Gates and Railings of the Arts Centre
+Q29506891;Wall, Railings, Gatepiers and Gates of Henry Burton Court
+Q29506926;Gatepiers and gate on E side of Llywel churchyard
+Q29507337;Gatepiers and Gates at Cemetery
+Q29507385;Wall, Gatepiers and Gates beside Lodge at entrance to Abergavenny Castle
+Q29507386;Gatepiers, Gates and Fence of The Willows
+Q29507483;Entrance Gates and Screen Fence at Trinity Almshouses
+Q29507484;Entrance Gates of No. 11
+Q29507592;Cemetery Gates, Gatepiers and adjoiniing railings
+Q29507667;Entrance Gate and Fence to the Churchyard of the Church of St. Andrew
+Q29507695;Entrance Gateway to Pant-y-Goitre
+Q29507697;Gates and Gatepiers to Hanover Chapel
+Q29507734;Street Wall, Gatepiers and Gates of Llanddewi Rhydderch Baptist Chapel
+Q29507762;Wall, Gatepiers and Gates at Porth Pen-y-parc
+Q29507765;Walls, Gatepiers, Gates and Lodge at Porth-y-pentre
+Q29508075;O.M. Edwards Memorial Gateway
+Q29509261;Gatepiers and Gates, Ticket office, Boundary Walls and Railings at Beaumaris Castle
+Q29547958;Q29547958
+Q29552410;Gate of Brewery Plzeňský Prazdroj
+Q29860355;Roshanara Bagh Punjabi Gate
+Q29860499;Rajpur Cemetery Gate
+Q29860548;British Magazine
+Q29860622;Sher Shah Suri Gate
+Q29974327;Q29974327
+Q29974443;Q29974443
+Q29976562;Q29976562
+Q30035103;Q30035103
+Q30035365;Q30035365
+Q30037982;Q30037982
+Q30039073;Q30039073
+Q30039950;Q30039950
+Q30041181;Q30041181
+Q30041243;Q30041243
+Q30041331;Q30041331
+Q30041363;Q30041363
+Q30041661;Q30041661
+Q30045068;Q30045068
+Q30046221;Q30046221
+Q30046403;Q30046403
+Q30046404;Q30046404
+Q30047131;Q30047131
+Q30047359;Q30047359
+Q30056102;Q30056102
+Q30061473;Q30061473
+Q30061516;Q30061516
+Q30062237;Q30062237
+Q30069646;Q30069646
+Q30070644;Q30070644
+Q30070650;Q30070650
+Q30071584;Q30071584
+Q30071700;Q30071700
+Q30072801;Q30072801
+Q30072812;Q30072812
+Q30073218;Q30073218
+Q30073228;Q30073228
+Q30076342;Q30076342
+Q30076360;Q30076360
+Q30076802;Q30076802
+Q30077135;Q30077135
+Q30077652;Wrocław Gate in Oleśnica
+Q30077837;Q30077837
+Q30077840;Q30077840
+Q30078297;Q30078297
+Q30078587;Q30078587
+Q30078701;Q30078701
+Q30079111;Q30079111
+Q30079112;Q30079112
+Q30079608;Q30079608
+Q30079609;Q30079609
+Q30079610;Q30079610
+Q30079612;Q30079612
+Q30079615;Q30079615
+Q30079870;Q30079870
+Q30080649;Q30080649
+Q30081363;Q30081363
+Q30083061;Q30083061
+Q30083063;Q30083063
+Q30083133;Q30083133
+Q30083135;Q30083135
+Q30083136;Q30083136
+Q30083520;Q30083520
+Q30083658;Q30083658
+Q30088774;Q30088774
+Q30089391;Q30089391
+Q30089561;Q30089561
+Q30089698;Q30089698
+Q30090692;Q30090692
+Q30091204;Q30091204
+Q30091400;Q30091400
+Q30091412;Q30091412
+Q30091550;Q30091550
+Q30091857;Q30091857
+Q30091874;Q30091874
+Q30092122;Q30092122
+Q30092267;Q30092267
+Q30092525;Q30092525
+Q30095205;Q30095205
+Q30095664;Q30095664
+Q30095898;Q30095898
+Q30097307;Q30097307
+Q30098183;Q30098183
+Q30098202;Q30098202
+Q30098599;Q30098599
+Q30099091;Q30099091
+Q30099212;Q30099212
+Q30099217;Q30099217
+Q30099219;Q30099219
+Q30099223;Q30099223
+Q30099383;Q30099383
+Q30099803;Q30099803
+Q30099838;Q30099838
+Q30099925;Q30099925
+Q30100046;Q30100046
+Q30100059;Q30100059
+Q30100542;Q30100542
+Q30100687;Q30100687
+Q30100738;Q30100738
+Q30100835;Q30100835
+Q30101674;Q30101674
+Q30101716;Q30101716
+Q30101737;Q30101737
+Q30101788;Szczebrzeska Gate in Zamość
+Q30101795;Q30101795
+Q30101801;Q30101801
+Q30101809;Q30101809
+Q30101810;Q30101810
+Q30102355;Q30102355
+Q30102496;Q30102496
+Q30102498;Q30102498
+Q30102616;Q30102616
+Q30102685;Q30102685
+Q30102704;Q30102704
+Q30102805;Q30102805
+Q30102818;Q30102818
+Q30103265;Q30103265
+Q30103292;Q30103292
+Q30103520;Q30103520
+Q30103765;Q30103765
+Q30103813;Q30103813
+Q30103928;Q30103928
+Q30104071;Q30104071
+Q30104497;Q30104497
+Q30105077;Q30105077
+Q30108242;Mill Gate in Strzelce Krajeńskie
+Q30108245;Q30108245
+Q30108377;Q30108377
+Q30112657;Arbeit macht frei-gate
+Q30114710;Arbeit macht frei-gate
+Q30135251;Brandenburg Gate in Łagów
+Q30135943;Q30135943
+Q30135988;Q30135988
+Q30136951;Q30136951
+Q30142087;Q30142087
+Q30142245;Q30142245
+Q30142302;Q30142302
+Q30142313;Q30142313
+Q30142371;Q30142371
+Q30142395;Q30142395
+Q30142486;Q30142486
+Q30142543;Q30142543
+Q30142643;Q30142643
+Q30142770;Q30142770
+Q30142772;Q30142772
+Q30142999;Q30142999
+Q30143649;Q30143649
+Q30144203;Q30144203
+Q30144623;Q30144623
+Q30158874;Q30158874
+Q30158883;Q30158883
+Q30158932;Q30158932
+Q30158984;Q30158984
+Q30159181;Q30159181
+Q30159882;Q30159882
+Q30161054;Q30161054
+Q30161384;Q30161384
+Q30162355;Q30162355
+Q30162418;Q30162418
+Q30169815;Q30169815
+Q30173129;Q30173129
+Q30181915;Q30181915
+Q30182597;Q30182597
+Q30187633;Q30187633
+Q30216991;Q30216991
+Q30217466;Q30217466
+Q30220752;Q30220752
+Q30220761;Q30220761
+Q30223273;Q30223273
+Q30223284;Q30223284
+Q30223321;Q30223321
+Q30223327;Q30223327
+Q30223335;Q30223335
+Q30223345;Q30223345
+Q30223363;Q30223363
+Q30223381;Q30223381
+Q30223388;Q30223388
+Q30223396;Q30223396
+Q30223511;Q30223511
+Q30224094;Q30224094
+Q30224244;Q30224244
+Q30228883;Q30228883
+Q30229526;Lower Gate in Prudnik
+Q30230941;Q30230941
+Q30231900;Q30231900
+Q30232344;Q30232344
+Q30232395;Q30232395
+Q30232403;Q30232403
+Q30238146;Q30238146
+Q30238148;Q30238148
+Q30238265;Q30238265
+Q30245078;Q30245078
+Q30245427;Q30245427
+Q30245447;Q30245447
+Q30245460;Q30245460
+Q30245484;Q30245484
+Q30245772;Wrocławska Gate in Nysa
+Q30246070;Q30246070
+Q30246383;Q30246383
+Q30301765;Reixa de Can Carreras
+Q30512396;Q30512396
+Q30512908;Q30512908
+Q30532536;Q30532536
+Q30532539;Q30532539
+Q30532540;Q30532540
+Q30532542;Q30532542
+Q30534074;Q30534074
+Q30536427;Q30536427
+Q30537616;Q30537616
+Q30542213;Q30542213
+Q30542218;Q30542218
+Q30549873;Q30549873
+Q30549882;Q30549882
+Q30553079;Q30553079
+Q30553093;Q30553093
+Q30557053;Q30557053
+Q30557076;Q30557076
+Q30558583;Q30558583
+Q30558591;Q30558591
+Q30559206;Q30559206
+Q30559399;Q30559399
+Q30565745;Q30565745
+Q30570811;Q30570811
+Q30572966;Q30572966
+Q30574953;Q30574953
+Q30576911;Q30576911
+Q30579753;Q30579753
+Q30579763;Q30579763
+Q30579766;Q30579766
+Q30582775;Q30582775
+Q30582894;Q30582894
+Q30583055;Q30583055
+Q30583442;Q30583442
+Q30584150;Q30584150
+Q30584178;Q30584178
+Q30584543;Q30584543
+Q30584671;Q30584671
+Q30584797;Q30584797
+Q30585355;Q30585355
+Q30585503;Q30585503
+Q30609012;Q30609012
+Q30611406;Q30611406
+Q30619449;Q30619449
+Q30623546;Q30623546
+Q30623575;Curzon Gate
+Q30624685;Mill Gate in Słupsk
+Q30636192;Q30636192
+Q30640334;Q30640334
+Q30648007;Q30648007
+Q30650765;Q30650765
+Q30694329;Paired Fortress Gates
+Q30781457;Q30781457
+Q30782805;Q30782805
+Q30908758;Q30908758
+Q30960322;Człuchowska Gate
+Q30964443;Q30964443
+Q31069624;Q31069624
+Q31075936;Q31075936
+Q31096719;Q31096719
+Q31097660;Q31097660
+Q31097666;North Gate in Frombork
+Q31097690;West Gate in Frombork
+Q31106836;Q31106836
+Q31112130;Q31112130
+Q31118953;Q31118953
+Q31127000;Q31127000
+Q31127022;Q31127022
+Q31127027;Q31127027
+Q31130125;Q31130125
+Q31138986;Q31138986
+Q31138989;Q31138989
+Q31139170;Q31139170
+Q31139171;Q31139171
+Q31139187;Q31139187
+Q31141132;Q31141132
+Q31193566;Q31193566
+Q31789263;Q31789263
+Q31805237;High Gate in Lidzbark Warmiński
+Q31807762;Gate at the Orthodox church in Elbląg
+Q31808027;Q31808027
+Q31864474;Q31864474
+Q31864892;Q31864892
+Q31864947;Lubawska Gate in Nowe Miasto Lubawskie
+Q31891301;Q31891301
+Q32028580;Q32028580
+Q32033790;Q32033790
+Q32043037;Q32043037
+Q32050112;Q32050112
+Q32119801;Q32119801
+Q32119846;Q32119846
+Q32143760;Q32143760
+Q32259822;Q32259822
+Q32260774;Q32260774
+Q32263952;Q32263952
+Q32271891;Q32271891
+Q32271936;Q32271936
+Q32663516;Q32663516
+Q32664827;Q32664827
+Q32981529;Q32981529
+Q32981557;Q32981557
+Q32998836;Q32998836
+Q32999465;Q32999465
+Q32999571;Q32999571
+Q32999775;Q32999775
+Q33001159;Q33001159
+Q33008049;Q33008049
+Q33011390;Q33011390
+Q33012716;Q33012716
+Q33014155;Q33014155
+Q33026216;Q33026216
+Q33087654;Q33087654
+Q33088108;Q33088108
+Q33088109;Q33088109
+Q33089439;Q33089439
+Q33092951;Q33092951
+Q33134917;Q33134917
+Q33135343;Q33135343
+Q33135385;Q33135385
+Q33135778;Q33135778
+Q33136333;Q33136333
+Q33138455;Q33138455
+Q33139278;Q33139278
+Q33139410;Q33139410
+Q33139763;Q33139763
+Q33143494;Q33143494
+Q33235815;Q33235815
+Q33237721;Q33237721
+Q33250346;Q33250346
+Q33250356;Q33250356
+Q33255178;Q33255178
+Q33256017;Q33256017
+Q33257894;Q33257894
+Q33257907;Q33257907
+Q33258976;Wolin Gate in Kamień Pomorski
+Q33304347;Q33304347
+Q33304459;Q33304459
+Q33305038;Q33305038
+Q33307848;Q33307848
+Q33310972;Q33310972
+Q33310979;Q33310979
+Q33312959;Q33312959
+Q33312971;Q33312971
+Q33314064;Q33314064
+Q33314395;Q33314395
+Q33315309;Q33315309
+Q33315321;Q33315321
+Q33326920;Q33326920
+Q33326934;Pyrzycka Gate in Stargard Szczeciński
+Q33326944;Wałowa Gate in Stargard Szczeciński
+Q33328104;Q33328104
+Q33331825;Q33331825
+Q33385957;Q33385957
+Q33385967;Q33385967
+Q33386683;Q33386683
+Q33388666;Q33388666
+Q33390604;Q33390604
+Q33397097;Q33397097
+Q33400815;Q33400815
+Q33407999;Q33407999
+Q33409653;Q33409653
+Q33413143;Q33413143
+Q33423528;Q33423528
+Q33423804;Q33423804
+Q33462102;Q33462102
+Q33468193;Q33468193
+Q33471852;Q33471852
+Q33473059;Q33473059
+Q33481611;Q33481611
+Q33485190;Q33485190
+Q33485211;Q33485211
+Q33487552;Q33487552
+Q33487574;Q33487574
+Q33487593;Q33487593
+Q33490343;Q33490343
+Q33491507;Q33491507
+Q33501392;Q33501392
+Q33502845;Holy Cross Monastery - gate
+Q33506400;Q33506400
+Q33506576;Q33506576
+Q33508867;Q33508867
+Q33512776;East gate to Camaldolese monastery in Rytwiany
+Q33512786;West gate to Camaldolese monastery in Rytwiany
+Q33513136;Q33513136
+Q33513682;Kraków Gate in Szydłów
+Q33514357;Q33514357
+Q33530458;Q33530458
+Q33530980;Q33530980
+Q33544045;Q33544045
+Q33545520;Q33545520
+Q33550782;Q33550782
+Q33607861;Q33607861
+Q33608226;Q33608226
+Q33608379;Q33608379
+Q33615593;Q33615593
+Q36859208;Q36859208
+Q36860157;Q36860157
+Q36860533;Q36860533
+Q36865323;Q36865323
+Q36867363;Q36867363
+Q36867683;Gate at the house Březinka 9 (Bělá pod Bezdězem)
+Q36998450;Q36998450
+Q36999212;Q36999212
+Q37000997;Q37000997
+Q37001040;Q37001040
+Q37001053;Q37001053
+Q37004675;Q37004675
+Q37011823;Q37011823
+Q37012027;Q37012027
+Q37012305;Q37012305
+Q37013345;Gate to the Jewish Quarter (Boskovice)
+Q37013887;Q37013887
+Q37013905;Q37013905
+Q37014285;Q37014285
+Q37022130;Q37022130
+Q37029022;Q37029022
+Q37161481;Q37161481
+Q37161515;Q37161515
+Q37179123;Q37179123
+Q37180780;Q37180780
+Q37180796;Q37180796
+Q37182662;Q37182662
+Q37268058;Q37268058
+Q37268077;Q37268077
+Q37268112;Q37268112
+Q37274283;Q37274283
+Q37274548;Q37274548
+Q37281764;Q37281764
+Q37289508;Q37289508
+Q37315084;Q37315084
+Q37335330;Q37335330
+Q37335943;Q37335943
+Q37338170;Q37338170
+Q37341596;Q37341596
+Q37422655;Q37422655
+Q37423871;Q37423871
+Q37424058;Q37424058
+Q37424311;Q37424311
+Q37428748;Q37428748
+Q37431706;Q37431706
+Q37443070;Q37443070
+Q37446976;Q37446976
+Q37451638;Q37451638
+Q37456332;Q37456332
+Q37457690;Q37457690
+Q37806422;Q37806422
+Q37817224;Q37817224
+Q37820052;Q37820052
+Q37820651;Q37820651
+Q37851697;Q37851697
+Q37990509;Q37990509
+Q37990858;Q37990858
+Q38034904;Q38034904
+Q38036116;Q38036116
+Q38037554;Q38037554
+Q38037840;Q38037840
+Q38038434;Q38038434
+Q38038446;Q38038446
+Q38042703;Q38042703
+Q38042712;Q38042712
+Q38045337;Q38045337
+Q38045356;Q38045356
+Q38047291;Q38047291
+Q38047613;Q38047613
+Q38047619;Q38047619
+Q38047630;Q38047630
+Q38047646;Q38047646
+Q38048750;Q38048750
+Q38048988;Q38048988
+Q38049978;Q38049978
+Q38050332;Q38050332
+Q38090013;Q38090013
+Q38092102;Q38092102
+Q38094783;Q38094783
+Q38095486;Q38095486
+Q38140491;Dlouhoveská čp. 68 (Sušice)
+Q38141079;Gate
+Q38149801;Q38149801
+Q38149833;Q38149833
+Q38187213;Q38187213
+Q38187219;Q38187219
+Q38187324;Q38187324
+Q38191672;Q38191672
+Q38192966;Q38192966
+Q38192971;Q38192971
+Q38193427;Q38193427
+Q38197741;Q38197741
+Q38197745;Q38197745
+Q38227949;Q38227949
+Q38233222;Q38233222
+Q38234455;Q38234455
+Q38236331;Q38236331
+Q38236739;Q38236739
+Q38236786;Q38236786
+Q38487071;Homestead gate Stoliňská 821
+Q38774514;Q38774514
+Q39481313;Q39481313
+Q40161076;Q40161076
+Q40729318;Dragon Gate (San Francisco)
+Q41135264;Arab Sarai Gateway, North facing
+Q41362993;Q41362993
+Q41363066;Q41363066
+Q41367627;Q41367627
+Q41425503;Taubertalweg 50, Steinmühle (Rothenburg ob der Tauber)
+Q41514529;Arab Sarai Gateway, East facing
+Q41514540;Arab Sarai and Abadi-Bagh-Buhalima gateways
+Q41515802;Mubarakpur gates and walls
+Q41604795;Visegrad Gate
+Q41651164;Badli-Ki-Sarai gateways
+Q41652596;Badun Gate
+Q41652635;Lal Kot gateways
+Q41652753;Rai Pithora fort gateway, Ladho Sarai
+Q42416502;Porte Saint-Roch - Sint-Rochuspoort
+Q42416644;Q42416644
+Q42416762;Q42416762
+Q42598515;Q42598515
+Q42761109;Q42761109
+Q42941709;Q42941709
+Q44933332;Gildepoortje
+Q47501009;Q47501009
+Q47505884;Q47505884
+Q48928816;Xuanwu Gate
+Q49404175;Q49404175
+Q49409440;Q49409440
+Q49409525;Soritz 24
+Q49409771;Q49409771
+Q50160808;Stone Gates (Brantwood Place)
+Q50664833;Q50664833
+Q51868759;Friesepoort
+Q52186917;Q52186917
+Q54086953;Q54086953
+Q54086959;Spodní brána na evangelický hřbitov v Křížlicích
+Q54336840;Basilica Cathedral of St. John the Baptist Entrance Archway
+Q55027736;Old Church Gates
+Q55028556;Peace Park Gates
+Q55046387;Volunteer Arch
+Q55048032;Ballyowen House
+Q55049475;Beaufort College Gates
+Q55049940;Eyrecourt Castle Gates
+Q55050216;Rathangan Church gateway
+Q55051000;Slane Castle Gate
+Q55051617;Mount Congreve House Gates
+Q55051618;Whitfield Court Gates
+Q55137570;Gate of Harmonious Interest
+Q55597447;gate 1 in Markkula farm
+Q55597448;gate 2 in Markkula farm
+Q55597449;gate in Liljeblom house
+Q55739169;Gate in Lanžov
+Q55762792;Fordingbridge War Memorial Gates
+Q56153566;Gate of Old Fort
+Q56159160;Small gateway of fort
+Q56218488;Kanchi gate
+Q56221405;Porta di San Martino
+Q56245266;Dakhil Darwaza
+Q56245397;Gumti Gateway
+Q56245411;Kotwali Darwaza
+Q56245449;Lukachuri Gateway
+Q56257080;Gateway of Mughal Sarai Akbar or Jahangir
+Q56380249;South Gate
+Q56380291;Tripolia Gate
+Q56525906;The singha darwaza of Cachari ruins
+Q56558267;Q56558267
+Q56606278;Ornamental Gate Piers And Gates, West Lodge, Milne Graden
+Q56816885;Porte Lombarde
+Q57988000;Rotary Welcome Cairns
+Q58405762;two turnstiles
+Q58808829;Gate to Woodbrook and Hawkwell
+Q58808996;Gate piers to forecourt at Davenport House Farm
+Q58897216;Bab El Khemis
+Q58976601;Medina gate
+Q59149176;Pair of gatepiers c.3 yds to East of Boults Green Farmhouse
+Q59398938;Gate piers, gates and railings of St. Peter's Chuchyard
+Q59633498;Barsi gate
+Q59633510;Gateways of Old Mughal Sarai
+Q59633568;Bab-e-Faiz gate
+Q60211242;Q60211242
+Q60216029;Q60216029
+Q60595499;Vestre kurtineport
+Q60596179;Vestre port
+Q61745637;Q61745637
+Q61778688;Bell tower
+Q62086385;Gates, plinths and railings at Top Lodge to former Aston Hall
+Q62091809;Garden wall and gateway at Burton Hall
+Q62122744;Gates and piers to St Bartholomew's Church
+Q62124168;Gate piers and gates to churchyard opposite east end of Church of St John
+Q62124180;Gate Piers, Gates and Retaining Wall to Churchyard of Former Church of St Peter
+Q62254843;North gates to St Boniface's Churchyard
+Q62260653;West gates to St Boniface's Churchyard
+Q62261834;Gate piers, gates and garden walls 20m to either side, in front of the Old Hall
+Q62268409;Gates, piers and wall at North end of Crewe Hall Drive
+Q62272581;Gates, overthrow and gate piers to the Churchyard of St Bartholomew
+Q62422288;South Lodge, railings, gates and gatepiers
+Q62424648;Gate piers, gates and screen about 70 metres south west of Bostock Hall
+Q62512570;Park Gates and Gate Piers with Wing Walls on north drive to Bolesworth Castle
+Q62784088;City Gate, Champaner
+Q62785415;East and South Bhadra Gates, Champaner
+Q62887005;Atak Gate
+Q62887408;Budhiya Gate
+Q62887977;Sadan Shah Gate
+Q62888604;Gate No. 4 of Pavagadh fort
+Q63076165;Higashiyama Zoo and Botanical Gardens Hoshigaoka Gate
+Q63102518;Grimma town gate of Leipzig
+Q63323023;Gulan Bulan Gate
+Q63323046;Buland Gate
+Q63323076;Makai Gate
+Q63323080;Tarapore Gate
+Q63343468;Inscription and Arjun Bari Gate
+Q63344188;Q63344188
+Q63344197;Gateway of Khan Sarovar
+Q63356821;Vadodara Gate, Dabhoi
+Q63357046;Hira Gate, Dabhoi
+Q63357419;Mahudi Gate, Dabhoi
+Q63357663;Nandodi Gate, Dabhoi
+Q63871301;Q63871301
+Q63871627;Category:Paŭnočnaja Gate of the Brest Fortress
+Q63871959;Q63871959
+Q63872058;Uschodniaja Gate
+Q64148650;Q64148650
+Q64148658;Q64148658
+Q64148660;Q64148660
+Q64148664;Q64148664
+Q64148667;Q64148667
+Q64148684;Q64148684
+Q64148687;Q64148687
+Q64756678;Q64756678
+Q64797352;Kalupur Darwaja
+Q64797365;Sarangpur Darwaja
+Q65006969;Q65006969
+Q65006977;Q65006977
+Q65007000;Q65007000
+Q65038354;Q65038354
+Q65038366;Q65038366
+Q65050699;Golden Gate
+Q65930228;Aldford Lodge Gates, Piers and Wing Walls
+Q65930538;Gatepiers, gates and churchyard walls to west of church of St Mary
+Q65936847;Gateway to the Old King's Yards
+Q65939734;Shah Burj Gate
+Q66030587;Holy Gate at Rizopolozhensky Monastery (Suzdal)
+Q66107968;Q66107968
+Q66447518;Dahihanda gate of outer city wall
+Q66447867;Khirki gate in the outer city wall
+Q66454559;Dula Gate
+Q66454778;Haripura Gate
+Q66455119;Ratan Roy’s Gateway
+Q66456987;Jiwanpura Gate
+Q66658775;Main entrance, Grosvenor Park
+Q66684605;St Mary's Hospital World War II Memorial Gates
+Q66719892;Q66719892
+Q66741868;Q66741868
+Q66845405;Q66845405
+Q67201089;Dariyapur Darwaja
+Q67201103;Prem Darwaja
+Q67202201;Q67202201
+Q67203065;Astodiya Darwaja
+Q67203553;Portão do Parque Guinle
+Q67204345;Portão do Parque Darke de Mattos
+Q67204619;Portão da Coroa do Zoológico
+Q67204758;Portão Monumental da Floresta da Tijuca
+Q67204760;Portão do Açude Solidão
+Q67205032;Portão de Ferro da Quinta da Boa Vista
+Q67205942;Raipur Darwaja
+Q67210303;Portão Monumental do Passeio Público
+Q67210330;Portão da Praça Paris
+Q67326625;Q67326625
+Q67628845;Cast Iron Gate
+Q67630900;Bamondas Mukherjee's Gateway
+Q67885646;Gateway of Ahiritola bazar
+Q67911854;Gateway of Pratap Chandra Ghosh's house
+Q67945900;Garden gateway, Lennoxlove House
+Q68005731;Gateway of Laha's house
+Q68030212;Gateway of Thakurbagan
+Q68603944;Fort William Water Gate
+Q69407823;Chapel and Calvary at Porta de Sant Miquel
+Q69461178;Ghari Ghar Gateway
+Q69947057;The Landgate
+Q70192440;Arco de la Peña
+Q72715274;Q72715274
+Q72715379;Q72715379
+Q72715963;Q72715963
+Q73165784;Arco de las Pesas
+Q74824621;Gates, gatepiers and flanking walls at main entrance to park at Beechwood Park School
+Q75602560;Lodges to Bramshill House
+Q77056868;King's College, Gateway to Queen's Road
+Q77062270;Peterhouse, Gates and piers of the Master's Lodge
+Q77345041;Corstorphine House (gates and walls)
+Q78481283;Bradstreet Gate
+Q79048075;Lepcis Magna: Byzantine Gate
+Q79389045;North Lodges, Lulworth Castle
+Q80723396;Q80723396
+Q82033108;Walls, gatepiers and gates to the churchyard of St Peter
+Q83181699;Railings, piers and gates at Church of St Michael, Burleydam
+Q83182618;Boundary walls, gates and gate piers to south, west and east of Church of St Mary
+Q83187030;Pair of lodges, gatepiers and gates to Exton Park
+Q83413740;Gate of taxes
+Q84353092;Q84353092
+Q84463769;Kashmiri Gate
+Q84519047;Q84519047
+Q84702451;Churchyard wall and stiles and gates to north and west of Church of St Lawrence
+Q84766556;North east entrance to churchyard of Church of St Nonna
+Q84766584;North west entrance to churchyard of Church of St Nonna
+Q84766860;Gate and gate-piers, wall to right and mounting block at south east entrance to churchyard of Church of St Nonna
+Q84846479;Gateway to south side of churchyard of Church of St Andrew
+Q84849406;Gatepiers and gates circa 20 yards north east of The Old Stable Block, Peover Hall
+Q85177694;Gates and gate piers to Wilderness garden at north end of lime avenue of Adlington Hall
+Q85179912;Gate piers and gates to north approach of Adlington Hall
+Q85413113;Gatepiers and gates to Ramsdell Hall
+Q86214587;camp gate
+Q86497950;Q86497950
+Q86498226;Q86498226
+Q86699629;Churchyard walls, gate piers and gates, to Church of St Mary

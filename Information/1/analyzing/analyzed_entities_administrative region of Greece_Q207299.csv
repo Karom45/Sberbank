@@ -1,0 +1,471 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q17152;Central Macedonia;административно-территориальная единица;1;118;to
+Q202484;Peloponnese Region;государство;1;1;from
+Q202484;Peloponnese Region;код GeoNames;1;1;from
+Q202484;Peloponnese Region;категория для людей, умерших здесь;1;1;from
+Q202484;Peloponnese Region;категория для людей, родившихся здесь;1;1;from
+Q202484;Peloponnese Region;официальное название;1;1;from
+Q202484;Peloponnese Region;численность населения;1;2;from
+Q202484;Peloponnese Region;десятичная классификация Дьюи;1;1;from
+Q202484;Peloponnese Region;изображение герба;1;1;from
+Q202484;Peloponnese Region;глава правительства;1;1;from
+Q202484;Peloponnese Region;столица;1;1;from
+Q202484;Peloponnese Region;это частный случай понятия;1;1;from
+Q202484;Peloponnese Region;карта местонахождения;1;1;from
+Q202484;Peloponnese Region;изображение;1;1;from
+Q202484;Peloponnese Region;административно-территориальная единица;1;83;to
+Q199580;Central Greece Region;идентификатор местоположения ArchINFORM;1;1;from
+Q199580;Central Greece Region;общая тема категории;1;1;to
+Q199580;Central Greece Region;происходит из;1;2;to
+Q199580;Central Greece Region;место рождения;1;2;to
+Q199580;Central Greece Region;место погребения;1;1;to
+Q199580;Central Greece Region;категория объединяет темы;1;5;to
+Q199580;Central Greece Region;место жительства;1;1;to
+Q199580;Central Greece Region;основная категория по теме;1;1;from
+Q199580;Central Greece Region;официальный сайт;1;1;from
+Q199580;Central Greece Region;Who's on First ID;1;1;from
+Q199580;Central Greece Region;код Freebase;1;1;from
+Q199580;Central Greece Region;географические координаты;1;1;from
+Q199580;Central Greece Region;код NUTS;1;1;from
+Q202484;Peloponnese Region;подробная карта;1;1;from
+Q202484;Peloponnese Region;название на языке оригинала;1;1;from
+Q202484;Peloponnese Region;категория для людей, связанных с местностью;1;1;from
+Q202484;Peloponnese Region;позиционная карта;1;1;from
+Q758056;Attica Region;код VIAF;1;1;from
+Q758056;Attica Region;изображение;1;1;from
+Q758056;Attica Region;государство;1;1;from
+Q758056;Attica Region;административно делится на;1;1;to
+Q758056;Attica Region;административно-территориальная единица;1;245;to
+Q202484;Peloponnese Region;общая тема категории;1;1;to
+Q202484;Peloponnese Region;категория объединяет темы;1;4;to
+Q202484;Peloponnese Region;происходит из;1;1;to
+Q202484;Peloponnese Region;является столицей;1;1;to
+Q202484;Peloponnese Region;место смерти;1;5;to
+Q202484;Peloponnese Region;место рождения;1;10;to
+Q202484;Peloponnese Region;административно делится на;1;1;to
+Q202484;Peloponnese Region;основная категория по теме;1;1;from
+Q202484;Peloponnese Region;официальный сайт;1;1;from
+Q202484;Peloponnese Region;Who's on First ID;1;1;from
+Q202484;Peloponnese Region;код Freebase;1;1;from
+Q202484;Peloponnese Region;географические координаты;1;1;from
+Q202484;Peloponnese Region;идентификатор местоположения ArchINFORM;1;1;from
+Q202484;Peloponnese Region;часовой пояс;1;1;from
+Q202484;Peloponnese Region;ID отношения в OpenStreetMap;1;1;from
+Q202484;Peloponnese Region;геоданные;1;1;from
+Q202484;Peloponnese Region;категория на Викискладе;1;1;from
+Q202484;Peloponnese Region;ISO 3166-2;1;1;from
+Q202484;Peloponnese Region;используемый язык;1;1;from
+Q202484;Peloponnese Region;площадь;1;1;from
+Q199580;Central Greece Region;дата основания/создания/возникновения;1;1;from
+Q199580;Central Greece Region;ID отношения в OpenStreetMap;1;1;from
+Q758056;Attica Region;карта местонахождения;1;1;from
+Q180484;Epirus Region;категория карт на Викискладе;1;1;from
+Q180484;Epirus Region;часть от;1;1;to
+Q180484;Epirus Region;категория объединяет темы;1;6;to
+Q180484;Epirus Region;является столицей;1;1;to
+Q180484;Epirus Region;происходит из;1;4;to
+Q180484;Epirus Region;местонахождение;1;2;to
+Q180484;Epirus Region;место рождения;1;6;to
+Q180484;Epirus Region;dmoz;1;1;from
+Q180484;Epirus Region;место в MusicBrainz;1;1;from
+Q180484;Epirus Region;баннер Викигида;1;1;from
+Q180484;Epirus Region;галерея на Викискладе;1;1;from
+Q180484;Epirus Region;основная категория по теме;1;1;from
+Q180484;Epirus Region;официальный сайт;1;1;from
+Q180484;Epirus Region;код Freebase;1;1;from
+Q199580;Central Greece Region;геоданные;1;1;from
+Q180484;Epirus Region;географические координаты;1;1;from
+Q180484;Epirus Region;код NUTS;1;1;from
+Q180484;Epirus Region;идентификатор местоположения ArchINFORM;1;1;from
+Q180484;Epirus Region;часовой пояс;1;1;from
+Q180484;Epirus Region;ID отношения в OpenStreetMap;1;1;from
+Q180484;Epirus Region;геоданные;1;1;from
+Q180484;Epirus Region;категория на Викискладе;1;1;from
+Q180484;Epirus Region;ISO 3166-2;1;1;from
+Q180484;Epirus Region;используемый язык;1;4;from
+Q180484;Epirus Region;код BNF;1;1;from
+Q180484;Epirus Region;площадь;1;1;from
+Q180484;Epirus Region;категория для людей, связанных с местностью;1;1;from
+Q180484;Epirus Region;находится в пределах природно-географического объекта;1;3;to
+Q180484;Epirus Region;расположение штаб-квартиры;1;1;to
+Q180484;Epirus Region;место смерти;1;2;to
+Q180484;Epirus Region;конечная;1;1;to
+Q199580;Central Greece Region;категория на Викискладе;1;1;from
+Q199580;Central Greece Region;ISO 3166-2;1;1;from
+Q199580;Central Greece Region;используемый язык;1;2;from
+Q199580;Central Greece Region;площадь;1;1;from
+Q199580;Central Greece Region;категория для людей, связанных с местностью;1;1;from
+Q199580;Central Greece Region;категория для людей, похороненных здесь;1;1;from
+Q199580;Central Greece Region;название на языке оригинала;1;1;from
+Q199580;Central Greece Region;код GeoNames;1;1;from
+Q199580;Central Greece Region;категория для людей, умерших здесь;1;1;from
+Q199580;Central Greece Region;категория для людей, родившихся здесь;1;1;from
+Q199580;Central Greece Region;код в Большой каталанской энциклопедии;1;1;from
+Q199580;Central Greece Region;численность населения;1;1;from
+Q199580;Central Greece Region;десятичная классификация Дьюи;1;1;from
+Q199580;Central Greece Region;глава правительства;1;1;from
+Q199580;Central Greece Region;изображение флага;1;1;from
+Q199580;Central Greece Region;столица;1;1;from
+Q199580;Central Greece Region;это частный случай понятия;1;1;from
+Q199580;Central Greece Region;карта местонахождения;1;1;from
+Q199580;Central Greece Region;код GND;1;1;from
+Q199580;Central Greece Region;изображение;1;1;from
+Q199580;Central Greece Region;государство;1;1;from
+Q199580;Central Greece Region;административно делится на;1;1;to
+Q199580;Central Greece Region;административно-территориальная единица;1;67;to
+Q180484;Epirus Region;общая тема категории;1;1;to
+Q180484;Epirus Region;основная тема;1;1;to
+Q758056;Attica Region;код GND;1;1;from
+Q758056;Attica Region;это частный случай понятия;1;1;from
+Q17152;Central Macedonia;административно делится на;1;1;to
+Q1267522;Crete Region;это частный случай понятия;1;1;from
+Q1267522;Crete Region;официальный сайт;1;1;from
+Q1267522;Crete Region;код NUTS;1;1;from
+Q1267522;Crete Region;ID отношения в OpenStreetMap;1;1;from
+Q1267522;Crete Region;геоданные;1;1;from
+Q1267522;Crete Region;ISO 3166-2;1;1;from
+Q1267522;Crete Region;площадь;1;1;from
+Q1267522;Crete Region;позиционная карта;1;1;from
+Q1267522;Crete Region;код GeoNames;1;1;from
+Q1267522;Crete Region;категория для людей, родившихся здесь;1;1;from
+Q1267522;Crete Region;численность населения;1;1;from
+Q1267522;Crete Region;глава правительства;1;1;from
+Q1267522;Crete Region;столица;1;1;from
+Q1267522;Crete Region;карта местонахождения;1;1;from
+Q1147674;Ionian Islands Region;официальный сайт;1;1;from
+Q1267522;Crete Region;изображение;1;1;from
+Q1267522;Crete Region;государство;1;1;from
+Q1267522;Crete Region;административно делится на;1;1;to
+Q1267522;Crete Region;административно-территориальная единица;1;97;to
+Q1147674;Ionian Islands Region;общая тема категории;1;1;to
+Q1147674;Ionian Islands Region;категория объединяет темы;1;1;to
+Q1147674;Ionian Islands Region;происходит из;1;1;to
+Q1147674;Ionian Islands Region;является столицей;1;1;to
+Q1147674;Ionian Islands Region;часть от;1;1;to
+Q1147674;Ionian Islands Region;изображённый объект;1;1;to
+Q1147674;Ionian Islands Region;расположение штаб-квартиры;1;1;to
+Q1147674;Ionian Islands Region;административно делится на;1;1;to
+Q1267522;Crete Region;основная категория по теме;1;1;from
+Q1267522;Crete Region;dmoz;1;1;from
+Q1267522;Crete Region;изображённый объект;1;1;to
+Q1267522;Crete Region;является столицей;1;1;to
+Q22807284;Thessaly Region;категория объединяет темы;1;1;to
+Q22807284;Thessaly Region;местонахождение;1;1;to
+Q22807284;Thessaly Region;является столицей;1;1;to
+Q22807284;Thessaly Region;расположение штаб-квартиры;1;4;to
+Q22807284;Thessaly Region;основная категория по теме;1;1;from
+Q22807284;Thessaly Region;официальный сайт;1;1;from
+Q22807284;Thessaly Region;French Vikidia ID;1;1;from
+Q22807284;Thessaly Region;географические координаты;1;1;from
+Q22807284;Thessaly Region;часовой пояс;1;2;from
+Q22807284;Thessaly Region;ID отношения в OpenStreetMap;1;1;from
+Q22807284;Thessaly Region;ISO 3166-2;1;1;from
+Q22807284;Thessaly Region;площадь;1;1;from
+Q22807284;Thessaly Region;не путать с;1;2;to
+Q22807284;Thessaly Region;категория для людей, родившихся здесь;1;1;from
+Q22807284;Thessaly Region;глава правительства;1;1;from
+Q22807284;Thessaly Region;столица;1;1;from
+Q22807284;Thessaly Region;это частный случай понятия;1;1;from
+Q22807284;Thessaly Region;карта местонахождения;1;2;from
+Q22807284;Thessaly Region;государство;1;1;from
+Q22807284;Thessaly Region;логотип;1;1;from
+Q22807284;Thessaly Region;административно делится на;1;1;to
+Q22807284;Thessaly Region;административно-территориальная единица;1;65;to
+Q1267522;Crete Region;общая тема категории;1;1;to
+Q1267522;Crete Region;категория объединяет темы;1;1;to
+Q1267522;Crete Region;расположение штаб-квартиры;1;3;to
+Q1147674;Ionian Islands Region;основная категория по теме;1;1;from
+Q1147674;Ionian Islands Region;находится в пределах природно-географического объекта;1;1;to
+Q758056;Attica Region;столица;1;1;from
+Q758056;Attica Region;ISO 3166-2;1;2;from
+Q758056;Attica Region;расположение штаб-квартиры;1;17;to
+Q758056;Attica Region;место рождения;1;2;to
+Q758056;Attica Region;место в MusicBrainz;1;1;from
+Q758056;Attica Region;основная категория по теме;1;1;from
+Q758056;Attica Region;официальный сайт;1;1;from
+Q758056;Attica Region;географические координаты;1;1;from
+Q758056;Attica Region;дата основания/создания/возникновения;1;1;from
+Q758056;Attica Region;идентификатор местоположения ArchINFORM;1;1;from
+Q758056;Attica Region;часовой пояс;1;2;from
+Q758056;Attica Region;ID отношения в OpenStreetMap;1;1;from
+Q758056;Attica Region;геоданные;1;1;from
+Q758056;Attica Region;категория на Викискладе;1;1;from
+Q758056;Attica Region;код BNF;1;1;from
+Q1147674;Ionian Islands Region;географические координаты;1;1;from
+Q758056;Attica Region;площадь;1;1;from
+Q758056;Attica Region;позиционная карта;1;1;from
+Q758056;Attica Region;не путать с;1;1;to
+Q758056;Attica Region;категория для людей, связанных с местностью;1;1;from
+Q758056;Attica Region;название на языке оригинала;1;1;from
+Q758056;Attica Region;код GeoNames;1;1;from
+Q758056;Attica Region;категория для людей, умерших здесь;1;1;from
+Q758056;Attica Region;категория для людей, родившихся здесь;1;1;from
+Q758056;Attica Region;официальное название;1;1;from
+Q758056;Attica Region;численность населения;1;1;from
+Q758056;Attica Region;десятичная классификация Дьюи;1;1;from
+Q758056;Attica Region;глава правительства;1;1;from
+Q758056;Attica Region;местонахождение;1;2;to
+Q758056;Attica Region;категория объединяет темы;1;3;to
+Q758056;Attica Region;общая тема категории;1;1;to
+Q758056;Attica Region;является столицей;1;1;to
+Q1147674;Ionian Islands Region;дата основания/создания/возникновения;1;1;from
+Q1147674;Ionian Islands Region;идентификатор местоположения ArchINFORM;1;1;from
+Q1147674;Ionian Islands Region;ID отношения в OpenStreetMap;1;1;from
+Q1147674;Ionian Islands Region;геоданные;1;1;from
+Q1147674;Ionian Islands Region;категория на Викискладе;1;1;from
+Q1147674;Ionian Islands Region;ISO 3166-2;1;1;from
+Q1147674;Ionian Islands Region;используемый язык;1;1;from
+Q1147674;Ionian Islands Region;площадь;1;1;from
+Q1147674;Ionian Islands Region;позиционная карта;1;1;from
+Q1147674;Ionian Islands Region;название на языке оригинала;1;1;from
+Q1147674;Ionian Islands Region;код GeoNames;1;1;from
+Q1147674;Ionian Islands Region;категория для людей, умерших здесь;1;1;from
+Q1147674;Ionian Islands Region;категория для людей, родившихся здесь;1;1;from
+Q1147674;Ionian Islands Region;официальное название;1;1;from
+Q1147674;Ionian Islands Region;описывается в источниках;1;2;from
+Q1147674;Ionian Islands Region;численность населения;1;1;from
+Q1147674;Ionian Islands Region;десятичная классификация Дьюи;1;1;from
+Q1147674;Ionian Islands Region;глава правительства;1;3;from
+Q1147674;Ionian Islands Region;столица;1;1;from
+Q1147674;Ionian Islands Region;это частный случай понятия;1;1;from
+Q1147674;Ionian Islands Region;карта местонахождения;1;1;from
+Q1147674;Ionian Islands Region;изображение;1;1;from
+Q1147674;Ionian Islands Region;государство;1;1;from
+Q1147674;Ionian Islands Region;административно-территориальная единица;1;32;to
+Q758056;Attica Region;происходит из;1;1;to
+Q180484;Epirus Region;название на языке оригинала;1;1;from
+Q180484;Epirus Region;код GeoNames;1;1;from
+Q180484;Epirus Region;категория для людей, умерших здесь;1;1;from
+Q165408;West Macedonia Region;находится в пределах природно-географического объекта;1;21;to
+Q170291;West Greece Region;столица;1;1;from
+Q170291;West Greece Region;это частный случай понятия;1;1;from
+Q170291;West Greece Region;карта местонахождения;1;2;from
+Q170291;West Greece Region;код GND;1;1;from
+Q170291;West Greece Region;государство;1;1;from
+Q170291;West Greece Region;административно-территориальная единица;1;82;to
+Q165408;West Macedonia Region;состоит из;1;1;to
+Q165408;West Macedonia Region;общая тема категории;1;1;to
+Q165408;West Macedonia Region;категория объединяет темы;1;6;to
+Q165408;West Macedonia Region;является столицей;1;1;to
+Q165408;West Macedonia Region;местонахождение;1;1;to
+Q165408;West Macedonia Region;место рождения;1;5;to
+Q165408;West Macedonia Region;место в MusicBrainz;1;1;from
+Q165408;West Macedonia Region;площадь;1;1;from
+Q165408;West Macedonia Region;баннер Викигида;1;1;from
+Q165408;West Macedonia Region;основная категория по теме;1;1;from
+Q165408;West Macedonia Region;официальный сайт;1;1;from
+Q165408;West Macedonia Region;категория карт на Викискладе;1;1;from
+Q165408;West Macedonia Region;Who's on First ID;1;1;from
+Q165408;West Macedonia Region;код Freebase;1;1;from
+Q165408;West Macedonia Region;географические координаты;1;1;from
+Q165408;West Macedonia Region;код NUTS;1;1;from
+Q165408;West Macedonia Region;идентификатор местоположения ArchINFORM;1;1;from
+Q165408;West Macedonia Region;ID отношения в OpenStreetMap;1;1;from
+Q165408;West Macedonia Region;геоданные;1;1;from
+Q165408;West Macedonia Region;категория на Викискладе;1;1;from
+Q170291;West Greece Region;глава правительства;1;1;from
+Q170291;West Greece Region;десятичная классификация Дьюи;1;1;from
+Q170291;West Greece Region;категория для людей, родившихся здесь;1;1;from
+Q170291;West Greece Region;категория для людей, умерших здесь;1;1;from
+Q171314;East Macedonia and Thrace;код GND;1;1;from
+Q171314;East Macedonia and Thrace;государство;1;1;from
+Q171314;East Macedonia and Thrace;административно делится на;1;1;to
+Q171314;East Macedonia and Thrace;административно-территориальная единица;1;77;to
+Q170291;West Greece Region;общая тема категории;1;1;to
+Q170291;West Greece Region;место рождения;1;3;to
+Q170291;West Greece Region;категория объединяет темы;1;5;to
+Q170291;West Greece Region;место смерти;1;1;to
+Q170291;West Greece Region;является столицей;1;1;to
+Q170291;West Greece Region;расположение штаб-квартиры;1;1;to
+Q170291;West Greece Region;административно делится на;1;1;to
+Q170291;West Greece Region;основная категория по теме;1;1;from
+Q170291;West Greece Region;официальный сайт;1;1;from
+Q170291;West Greece Region;код NKC;1;1;from
+Q170291;West Greece Region;код Freebase;1;1;from
+Q170291;West Greece Region;географические координаты;1;1;from
+Q170291;West Greece Region;идентификатор местоположения ArchINFORM;1;1;from
+Q170291;West Greece Region;ID отношения в OpenStreetMap;1;1;from
+Q170291;West Greece Region;геоданные;1;1;from
+Q170291;West Greece Region;категория на Викискладе;1;1;from
+Q170291;West Greece Region;ISO 3166-2;1;1;from
+Q170291;West Greece Region;площадь;1;1;from
+Q170291;West Greece Region;категория для людей, связанных с местностью;1;1;from
+Q170291;West Greece Region;название на языке оригинала;1;1;from
+Q170291;West Greece Region;код GeoNames;1;1;from
+Q165408;West Macedonia Region;ISO 3166-2;1;1;from
+Q165408;West Macedonia Region;позиционная карта;1;1;from
+Q180484;Epirus Region;категория для людей, родившихся здесь;1;1;from
+Q17152;Central Macedonia;категория для людей, связанных с местностью;1;1;from
+Q17152;Central Macedonia;Who's on First ID;1;1;from
+Q17152;Central Macedonia;код Freebase;1;1;from
+Q17152;Central Macedonia;географические координаты;1;1;from
+Q17152;Central Macedonia;код NUTS;1;1;from
+Q17152;Central Macedonia;EU Research participant ID;1;1;from
+Q17152;Central Macedonia;идентификатор местоположения ArchINFORM;1;1;from
+Q17152;Central Macedonia;ID отношения в OpenStreetMap;1;1;from
+Q17152;Central Macedonia;геоданные;1;1;from
+Q17152;Central Macedonia;категория на Викискладе;1;1;from
+Q17152;Central Macedonia;EU VAT number;1;1;from
+Q17152;Central Macedonia;ISO 3166-2;1;1;from
+Q17152;Central Macedonia;площадь;1;1;from
+Q17152;Central Macedonia;код GeoNames;1;1;from
+Q165408;West Macedonia Region;категория для людей, связанных с местностью;1;1;from
+Q17152;Central Macedonia;категория для людей, умерших здесь;1;1;from
+Q17152;Central Macedonia;категория для людей, родившихся здесь;1;1;from
+Q17152;Central Macedonia;численность населения;1;1;from
+Q17152;Central Macedonia;десятичная классификация Дьюи;1;1;from
+Q17152;Central Macedonia;глава правительства;1;4;from
+Q17152;Central Macedonia;изображение флага;1;1;from
+Q17152;Central Macedonia;столица;1;1;from
+Q17152;Central Macedonia;это частный случай понятия;1;1;from
+Q17152;Central Macedonia;карта местонахождения;1;1;from
+Q17152;Central Macedonia;код GND;1;1;from
+Q17152;Central Macedonia;изображение;1;1;from
+Q17152;Central Macedonia;государство;1;1;from
+Q17152;Central Macedonia;категория карт на Викискладе;1;1;from
+Q17152;Central Macedonia;официальный сайт;1;1;from
+Q17152;Central Macedonia;основная категория по теме;1;1;from
+Q17152;Central Macedonia;баннер Викигида;1;1;from
+Q165408;West Macedonia Region;название на языке оригинала;1;1;from
+Q165408;West Macedonia Region;код GeoNames;1;1;from
+Q165408;West Macedonia Region;категория для людей, умерших здесь;1;1;from
+Q165408;West Macedonia Region;категория для людей, родившихся здесь;1;1;from
+Q165408;West Macedonia Region;официальное название;1;1;from
+Q165408;West Macedonia Region;численность населения;1;3;from
+Q165408;West Macedonia Region;десятичная классификация Дьюи;1;1;from
+Q165408;West Macedonia Region;глава правительства;1;1;to
+Q165408;West Macedonia Region;изображение флага;1;1;from
+Q165408;West Macedonia Region;столица;1;1;from
+Q165408;West Macedonia Region;это частный случай понятия;1;1;from
+Q165408;West Macedonia Region;карта местонахождения;1;1;from
+Q165408;West Macedonia Region;код GND;1;1;from
+Q165408;West Macedonia Region;государство;1;1;from
+Q165408;West Macedonia Region;административно делится на;1;1;to
+Q165408;West Macedonia Region;административно-территориальная единица;1;46;to
+Q17152;Central Macedonia;является столицей;1;1;to
+Q17152;Central Macedonia;состоит из;1;1;to
+Q17152;Central Macedonia;общая тема категории;1;1;to
+Q17152;Central Macedonia;место рождения;1;2;to
+Q17152;Central Macedonia;категория объединяет темы;1;5;to
+Q17152;Central Macedonia;часть от;1;3;to
+Q17152;Central Macedonia;расположение штаб-квартиры;1;6;to
+Q17152;Central Macedonia;находится в пределах природно-географического объекта;1;6;to
+Q17152;Central Macedonia;место в MusicBrainz;1;1;from
+Q171314;East Macedonia and Thrace;карта местонахождения;1;1;from
+Q171314;East Macedonia and Thrace;это частный случай понятия;1;1;from
+Q171314;East Macedonia and Thrace;столица;1;1;from
+Q173620;North Aegean Region;код GND;1;1;from
+Q173620;North Aegean Region;ISO 3166-2;1;1;from
+Q173620;North Aegean Region;площадь;1;1;from
+Q173620;North Aegean Region;позиционная карта;1;1;from
+Q173620;North Aegean Region;код GeoNames;1;1;from
+Q173620;North Aegean Region;категория для людей, умерших здесь;1;1;from
+Q173620;North Aegean Region;категория для людей, родившихся здесь;1;1;from
+Q173620;North Aegean Region;численность населения;1;1;from
+Q173620;North Aegean Region;глава правительства;1;3;from
+Q173620;North Aegean Region;изображение флага;1;1;from
+Q173620;North Aegean Region;столица;1;1;from
+Q173620;North Aegean Region;это частный случай понятия;1;1;from
+Q173620;North Aegean Region;карта местонахождения;1;1;from
+Q173620;North Aegean Region;государство;1;1;from
+Q171314;East Macedonia and Thrace;изображение флага;1;1;from
+Q173620;North Aegean Region;административно-территориальная единица;1;57;to
+Q173616;South Aegean;общая тема категории;1;1;to
+Q173616;South Aegean;место рождения;1;2;to
+Q173616;South Aegean;место смерти;1;2;to
+Q173616;South Aegean;является столицей;1;1;to
+Q173616;South Aegean;категория объединяет темы;1;3;to
+Q173616;South Aegean;административно делится на;1;1;to
+Q173616;South Aegean;dmoz;1;1;from
+Q173616;South Aegean;место в MusicBrainz;1;1;from
+Q173616;South Aegean;баннер Викигида;1;1;from
+Q173616;South Aegean;основная категория по теме;1;1;from
+Q173616;South Aegean;официальный сайт;1;1;from
+Q173620;North Aegean Region;категория на Викискладе;1;1;from
+Q173620;North Aegean Region;геоданные;1;1;from
+Q173620;North Aegean Region;ID отношения в OpenStreetMap;1;1;from
+Q173620;North Aegean Region;идентификатор местоположения ArchINFORM;1;1;from
+Q180484;Epirus Region;код в Большой каталанской энциклопедии;1;1;from
+Q180484;Epirus Region;численность населения;1;1;from
+Q180484;Epirus Region;десятичная классификация Дьюи;1;1;from
+Q180484;Epirus Region;глава правительства;1;1;from
+Q180484;Epirus Region;изображение флага;1;1;from
+Q180484;Epirus Region;столица;1;1;from
+Q180484;Epirus Region;это частный случай понятия;1;1;from
+Q180484;Epirus Region;карта местонахождения;1;1;from
+Q180484;Epirus Region;код GND;1;1;from
+Q180484;Epirus Region;изображение;1;1;from
+Q180484;Epirus Region;государство;1;1;from
+Q180484;Epirus Region;административно делится на;1;1;to
+Q180484;Epirus Region;административно-территориальная единица;1;154;to
+Q173620;North Aegean Region;общая тема категории;1;1;to
+Q173620;North Aegean Region;расположение штаб-квартиры;1;1;to
+Q173620;North Aegean Region;категория объединяет темы;1;2;to
+Q173620;North Aegean Region;является столицей;1;1;to
+Q173620;North Aegean Region;место погребения;1;1;to
+Q173620;North Aegean Region;находится в пределах природно-географического объекта;1;2;to
+Q173620;North Aegean Region;административно делится на;1;1;to
+Q173620;North Aegean Region;баннер Викигида;1;1;from
+Q173620;North Aegean Region;основная категория по теме;1;1;from
+Q173620;North Aegean Region;официальный сайт;1;1;from
+Q173620;North Aegean Region;код Freebase;1;1;from
+Q173620;North Aegean Region;географические координаты;1;1;from
+Q173616;South Aegean;код Freebase;1;1;from
+Q173616;South Aegean;географические координаты;1;1;from
+Q173616;South Aegean;идентификатор местоположения ArchINFORM;1;1;from
+Q171314;East Macedonia and Thrace;имеет границы с;1;1;to
+Q171314;East Macedonia and Thrace;место рождения;1;3;to
+Q171314;East Macedonia and Thrace;место в MusicBrainz;1;1;from
+Q171314;East Macedonia and Thrace;баннер Викигида;1;1;from
+Q171314;East Macedonia and Thrace;основная категория по теме;1;1;from
+Q171314;East Macedonia and Thrace;официальный сайт;1;1;from
+Q171314;East Macedonia and Thrace;категория карт на Викискладе;1;1;from
+Q171314;East Macedonia and Thrace;Who's on First ID;1;1;from
+Q171314;East Macedonia and Thrace;код Freebase;1;1;from
+Q171314;East Macedonia and Thrace;географические координаты;1;1;from
+Q171314;East Macedonia and Thrace;код NUTS;1;1;from
+Q171314;East Macedonia and Thrace;идентификатор местоположения ArchINFORM;1;1;from
+Q171314;East Macedonia and Thrace;ID отношения в OpenStreetMap;1;1;from
+Q171314;East Macedonia and Thrace;геоданные;1;1;from
+Q171314;East Macedonia and Thrace;категория на Викискладе;1;1;from
+Q171314;East Macedonia and Thrace;ISO 3166-2;1;1;from
+Q171314;East Macedonia and Thrace;должность руководителя организации;1;1;from
+Q171314;East Macedonia and Thrace;площадь;1;1;from
+Q171314;East Macedonia and Thrace;категория для людей, связанных с местностью;1;1;from
+Q171314;East Macedonia and Thrace;название на языке оригинала;1;1;from
+Q171314;East Macedonia and Thrace;код GeoNames;1;1;from
+Q171314;East Macedonia and Thrace;категория для людей, умерших здесь;1;1;from
+Q171314;East Macedonia and Thrace;категория для людей, родившихся здесь;1;1;from
+Q171314;East Macedonia and Thrace;численность населения;1;2;from
+Q171314;East Macedonia and Thrace;десятичная классификация Дьюи;1;1;from
+Q171314;East Macedonia and Thrace;глава правительства;1;1;from
+Q171314;East Macedonia and Thrace;часть от;1;1;to
+Q171314;East Macedonia and Thrace;является столицей;1;1;to
+Q173616;South Aegean;часовой пояс;1;2;from
+Q171314;East Macedonia and Thrace;категория объединяет темы;1;5;to
+Q173616;South Aegean;ID отношения в OpenStreetMap;1;1;from
+Q173616;South Aegean;геоданные;1;1;from
+Q173616;South Aegean;категория на Викискладе;1;1;from
+Q173616;South Aegean;ISO 3166-2;1;1;from
+Q173616;South Aegean;площадь;1;1;from
+Q173616;South Aegean;позиционная карта;1;1;from
+Q173616;South Aegean;категория для людей, связанных с местностью;1;1;from
+Q173616;South Aegean;код GeoNames;1;1;from
+Q173616;South Aegean;категория для людей, умерших здесь;1;1;from
+Q173616;South Aegean;категория для людей, родившихся здесь;1;1;from
+Q173616;South Aegean;численность населения;1;1;from
+Q173616;South Aegean;глава правительства;1;1;from
+Q173616;South Aegean;изображение флага;1;1;from
+Q173616;South Aegean;столица;1;1;from
+Q173616;South Aegean;это частный случай понятия;1;1;from
+Q173616;South Aegean;код LCNAF;1;1;from
+Q173616;South Aegean;карта местонахождения;1;1;from
+Q173616;South Aegean;код GND;1;1;from
+Q173616;South Aegean;изображение;1;1;from
+Q173616;South Aegean;государство;1;1;from
+Q173616;South Aegean;административно-территориальная единица;1;142;to
+Q171314;East Macedonia and Thrace;состоит из;1;1;to
+Q171314;East Macedonia and Thrace;управляемая организация;1;1;to
+Q171314;East Macedonia and Thrace;общая тема категории;1;1;to
+Q171314;East Macedonia and Thrace;расположение штаб-квартиры;1;3;to
+Q22807284;Thessaly Region;общая тема категории;1;1;to

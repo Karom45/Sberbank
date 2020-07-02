@@ -1,0 +1,66 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q2893222;Iguaçu Territory;государство;1;1;from
+Q10380856;Rio Branco Territory;дата основания/создания/возникновения;1;1;from
+Q27495552;Rondônia Territory;государство;1;1;from
+Q27495552;Rondônia Territory;это частный случай понятия;1;1;from
+Q27495552;Rondônia Territory;заменил;1;1;to
+Q27495552;Rondônia Territory;заменён на;1;1;to
+Q27495552;Rondônia Territory;дата основания/создания/возникновения;1;1;from
+Q27495552;Rondônia Territory;дата прекращения существования;1;1;from
+Q27495564;Acre Territory;государство;1;1;from
+Q27495564;Acre Territory;это частный случай понятия;1;1;from
+Q27495564;Acre Territory;столица;1;1;from
+Q27495564;Acre Territory;заменил;1;1;to
+Q27495564;Acre Territory;заменён на;1;1;from
+Q27495564;Acre Territory;дата основания/создания/возникновения;1;1;from
+Q27495564;Acre Territory;дата прекращения существования;1;1;from
+Q27495570;Roraima Territory;государство;1;1;from
+Q27495570;Roraima Territory;это частный случай понятия;1;1;from
+Q27495570;Roraima Territory;столица;1;1;from
+Q27495570;Roraima Territory;заменил;1;1;to
+Q27495570;Roraima Territory;заменён на;1;1;to
+Q27495570;Roraima Territory;дата основания/создания/возникновения;1;1;from
+Q27495570;Roraima Territory;дата прекращения существования;1;1;from
+Q27495835;Fernando de Noronha Territory;государство;1;1;from
+Q27495835;Fernando de Noronha Territory;это частный случай понятия;1;1;from
+Q27495835;Fernando de Noronha Territory;заменил;1;1;from
+Q27495835;Fernando de Noronha Territory;заменён на;1;2;from
+Q27495835;Fernando de Noronha Territory;дата основания/создания/возникновения;1;1;from
+Q27495835;Fernando de Noronha Territory;дата прекращения существования;1;1;from
+Q41535907;Federal Territory of Fernando de Noronha;государство;1;1;from
+Q41535907;Federal Territory of Fernando de Noronha;это частный случай понятия;1;2;from
+Q41535907;Federal Territory of Fernando de Noronha;дата основания/создания/возникновения;1;1;from
+Q10380856;Rio Branco Territory;дата прекращения существования;1;1;from
+Q10380856;Rio Branco Territory;заменён на;1;1;from
+Q2893222;Iguaçu Territory;это частный случай понятия;1;1;from
+Q10380856;Rio Branco Territory;заменил;1;1;to
+Q2893222;Iguaçu Territory;столица;1;1;from
+Q2893222;Iguaçu Territory;заменил;1;2;from
+Q2893222;Iguaçu Territory;заменён на;1;2;from
+Q2893222;Iguaçu Territory;дата основания/создания/возникновения;1;1;from
+Q2893222;Iguaçu Territory;дата прекращения существования;1;1;from
+Q2893222;Iguaçu Territory;является столицей;1;1;to
+Q10380853;Amapá Territory;государство;1;1;from
+Q10380853;Amapá Territory;это частный случай понятия;1;1;from
+Q10380853;Amapá Territory;заменил;1;1;to
+Q10380853;Amapá Territory;заменён на;1;1;from
+Q10380853;Amapá Territory;дата основания/создания/возникновения;1;1;from
+Q10380853;Amapá Territory;дата прекращения существования;1;1;from
+Q10380854;Punta Porá Territory;государство;1;1;from
+Q10380854;Punta Porá Territory;это частный случай понятия;1;1;from
+Q10380854;Punta Porá Territory;столица;1;1;from
+Q10380854;Punta Porá Territory;заменил;1;1;from
+Q10380854;Punta Porá Territory;заменён на;1;1;from
+Q10380854;Punta Porá Territory;дата основания/создания/возникновения;1;1;from
+Q10380854;Punta Porá Territory;дата прекращения существования;1;1;from
+Q10380854;Punta Porá Territory;является столицей;1;1;to
+Q10380855;Guaporé Territory;государство;1;1;from
+Q10380855;Guaporé Territory;это частный случай понятия;1;1;from
+Q10380855;Guaporé Territory;заменил;1;1;to
+Q10380855;Guaporé Territory;заменён на;1;1;from
+Q10380855;Guaporé Territory;дата основания/создания/возникновения;1;1;from
+Q10380855;Guaporé Territory;дата прекращения существования;1;1;from
+Q10380856;Rio Branco Territory;государство;1;1;from
+Q10380856;Rio Branco Territory;это частный случай понятия;1;1;from
+Q10380856;Rio Branco Territory;столица;1;1;from
+Q41535907;Federal Territory of Fernando de Noronha;дата прекращения существования;1;1;from

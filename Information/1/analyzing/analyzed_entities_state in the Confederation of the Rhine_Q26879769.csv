@@ -1,0 +1,885 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q20135;Grand Duchy of Hesse;форма правления;1;1;from
+Q673865;Hohenzollern-Hechingen;административно-территориальная единица;1;2;from
+Q639100;Principality of Reuss-Gera;код Freebase;1;1;from
+Q639100;Principality of Reuss-Gera;основная категория по теме;1;1;from
+Q639100;Principality of Reuss-Gera;административно делится на;1;1;to
+Q639100;Principality of Reuss-Gera;юрисдикция распространяется на;1;1;to
+Q639100;Principality of Reuss-Gera;род;1;1;to
+Q639100;Principality of Reuss-Gera;общая тема категории;1;1;to
+Q639100;Principality of Reuss-Gera;гражданство;1;2;to
+Q639100;Principality of Reuss-Gera;владеет;1;1;to
+Q639100;Principality of Reuss-Gera;категория объединяет темы;1;1;to
+Q639100;Principality of Reuss-Gera;является столицей;1;1;to
+Q673865;Hohenzollern-Hechingen;форма правления;1;1;from
+Q673865;Hohenzollern-Hechingen;код GND;1;1;from
+Q639100;Principality of Reuss-Gera;дата основания/создания/возникновения;1;1;from
+Q673865;Hohenzollern-Hechingen;карта местонахождения;1;1;from
+Q673865;Hohenzollern-Hechingen;это частный случай понятия;1;2;from
+Q673865;Hohenzollern-Hechingen;столица;1;1;from
+Q673865;Hohenzollern-Hechingen;официальный язык;1;1;from
+Q673865;Hohenzollern-Hechingen;изображение флага;1;1;from
+Q673865;Hohenzollern-Hechingen;изображение герба;1;1;from
+Q673865;Hohenzollern-Hechingen;владеет;1;1;from
+Q673865;Hohenzollern-Hechingen;участник организации или клуба;1;1;from
+Q673865;Hohenzollern-Hechingen;дата основания/создания/возникновения;1;1;from
+Q673865;Hohenzollern-Hechingen;дата прекращения существования;1;1;from
+Q673865;Hohenzollern-Hechingen;код Freebase;1;1;from
+Q639100;Principality of Reuss-Gera;дата прекращения существования;1;1;from
+Q639100;Principality of Reuss-Gera;участник организации или клуба;1;1;from
+Q630163;Schwarzburg-Sondershausen;участник организации или клуба;1;1;from
+Q639100;Principality of Reuss-Gera;форма правления;1;1;from
+Q630163;Schwarzburg-Sondershausen;дата прекращения существования;1;1;from
+Q630163;Schwarzburg-Sondershausen;код Freebase;1;1;from
+Q630163;Schwarzburg-Sondershausen;код NKC;1;1;from
+Q630163;Schwarzburg-Sondershausen;категория карт на Викискладе;1;1;from
+Q630163;Schwarzburg-Sondershausen;основная категория по теме;1;1;from
+Q630163;Schwarzburg-Sondershausen;административно делится на;1;1;to
+Q630163;Schwarzburg-Sondershausen;гражданство;1;1;to
+Q630163;Schwarzburg-Sondershausen;владельцем является;1;1;to
+Q630163;Schwarzburg-Sondershausen;место рождения;1;1;to
+Q630163;Schwarzburg-Sondershausen;категория объединяет темы;1;1;to
+Q630163;Schwarzburg-Sondershausen;общая тема категории;1;1;to
+Q639100;Principality of Reuss-Gera;административно-территориальная единица;1;2;from
+Q639100;Principality of Reuss-Gera;площадь;1;1;from
+Q639100;Principality of Reuss-Gera;код VIAF;1;1;from
+Q639100;Principality of Reuss-Gera;код GND;1;1;from
+Q639100;Principality of Reuss-Gera;карта местонахождения;1;1;from
+Q639100;Principality of Reuss-Gera;часть света;1;1;from
+Q639100;Principality of Reuss-Gera;это частный случай понятия;1;4;from
+Q639100;Principality of Reuss-Gera;столица;1;1;from
+Q639100;Principality of Reuss-Gera;официальный язык;1;1;from
+Q639100;Principality of Reuss-Gera;изображение флага;1;1;from
+Q639100;Principality of Reuss-Gera;изображение герба;1;1;from
+Q639100;Principality of Reuss-Gera;численность населения;1;1;from
+Q639100;Principality of Reuss-Gera;категория для людей, связанных с местностью;1;1;from
+Q673865;Hohenzollern-Hechingen;владельцем является;1;1;to
+Q673865;Hohenzollern-Hechingen;род;1;11;to
+Q673865;Hohenzollern-Hechingen;заменён на;1;1;to
+Q686965;Anhalt-Bernburg;дата основания/создания/возникновения;1;1;from
+Q675085;Saxe-Gotha-Altenburg;титул;1;1;to
+Q686965;Anhalt-Bernburg;административно-территориальная единица;1;2;from
+Q686965;Anhalt-Bernburg;карта местонахождения;1;1;from
+Q686965;Anhalt-Bernburg;часть света;1;1;from
+Q686965;Anhalt-Bernburg;это частный случай понятия;1;2;from
+Q686965;Anhalt-Bernburg;столица;1;1;from
+Q686965;Anhalt-Bernburg;изображение флага;1;1;from
+Q686965;Anhalt-Bernburg;изображение герба;1;1;from
+Q686965;Anhalt-Bernburg;в этом списке перечисляются;1;1;from
+Q686965;Anhalt-Bernburg;категория на Викискладе;1;1;from
+Q686965;Anhalt-Bernburg;участник организации или клуба;1;1;from
+Q686965;Anhalt-Bernburg;дата прекращения существования;1;1;from
+Q673865;Hohenzollern-Hechingen;административно делится на;1;1;to
+Q686965;Anhalt-Bernburg;географические координаты;1;1;from
+Q686965;Anhalt-Bernburg;код Freebase;1;1;from
+Q686965;Anhalt-Bernburg;основная категория по теме;1;1;from
+Q686965;Anhalt-Bernburg;административно делится на;1;1;to
+Q686965;Anhalt-Bernburg;государство;1;1;to
+Q686965;Anhalt-Bernburg;гражданство;1;2;to
+Q686965;Anhalt-Bernburg;место рождения;1;1;to
+Q686965;Anhalt-Bernburg;общая тема категории;1;1;to
+Q695316;Schwarzburg-Rudolstadt;форма правления;1;1;from
+Q695316;Schwarzburg-Rudolstadt;административно-территориальная единица;1;2;from
+Q695316;Schwarzburg-Rudolstadt;код VIAF;1;1;from
+Q675085;Saxe-Gotha-Altenburg;занимаемая должность;1;1;to
+Q675085;Saxe-Gotha-Altenburg;следующее по порядку;1;1;to
+Q675085;Saxe-Gotha-Altenburg;категория объединяет темы;1;1;to
+Q675085;Saxe-Gotha-Altenburg;общая тема категории;1;1;to
+Q673865;Hohenzollern-Hechingen;юрисдикция распространяется на;1;1;to
+Q673865;Hohenzollern-Hechingen;является столицей;1;1;to
+Q673865;Hohenzollern-Hechingen;заменил;1;1;to
+Q673865;Hohenzollern-Hechingen;состоит из;1;1;to
+Q673865;Hohenzollern-Hechingen;государство;1;1;to
+Q675085;Saxe-Gotha-Altenburg;административно-территориальная единица;1;2;from
+Q675085;Saxe-Gotha-Altenburg;предыдущее по порядку;1;1;from
+Q675085;Saxe-Gotha-Altenburg;код GND;1;1;from
+Q675085;Saxe-Gotha-Altenburg;часть света;1;1;from
+Q675085;Saxe-Gotha-Altenburg;это частный случай понятия;1;1;from
+Q675085;Saxe-Gotha-Altenburg;изображение флага;1;1;from
+Q675085;Saxe-Gotha-Altenburg;категория для людей, связанных с местностью;1;1;from
+Q675085;Saxe-Gotha-Altenburg;категория на Викискладе;1;1;from
+Q675085;Saxe-Gotha-Altenburg;участник организации или клуба;1;1;from
+Q675085;Saxe-Gotha-Altenburg;код для сущности Wolfram Language;1;1;from
+Q675085;Saxe-Gotha-Altenburg;дата основания/создания/возникновения;1;1;from
+Q675085;Saxe-Gotha-Altenburg;дата прекращения существования;1;1;from
+Q675085;Saxe-Gotha-Altenburg;код Freebase;1;1;from
+Q675085;Saxe-Gotha-Altenburg;код NKC;1;1;from
+Q675085;Saxe-Gotha-Altenburg;основная категория по теме;1;1;from
+Q675085;Saxe-Gotha-Altenburg;административно делится на;1;1;to
+Q675085;Saxe-Gotha-Altenburg;гражданство;1;2;to
+Q675085;Saxe-Gotha-Altenburg;род;1;8;to
+Q630163;Schwarzburg-Sondershausen;дата основания/создания/возникновения;1;1;from
+Q630163;Schwarzburg-Sondershausen;категория на Викискладе;1;1;from
+Q20135;Grand Duchy of Hesse;административно-территориальная единица;1;3;to
+Q530428;Principality of Leyen;часть света;1;1;from
+Q509478;Reuss-Lobenstein;код VIAF;1;1;from
+Q509478;Reuss-Lobenstein;код GND;1;1;from
+Q509478;Reuss-Lobenstein;это частный случай понятия;1;1;from
+Q509478;Reuss-Lobenstein;официальный язык;1;1;from
+Q509478;Reuss-Lobenstein;изображение флага;1;1;from
+Q509478;Reuss-Lobenstein;участник организации или клуба;1;1;from
+Q509478;Reuss-Lobenstein;дата основания/создания/возникновения;1;1;from
+Q509478;Reuss-Lobenstein;дата прекращения существования;1;1;from
+Q509478;Reuss-Lobenstein;код Freebase;1;1;from
+Q509478;Reuss-Lobenstein;WorldCat Identities ID;1;1;from
+Q530428;Principality of Leyen;карта местонахождения;1;1;from
+Q530428;Principality of Leyen;это частный случай понятия;1;3;from
+Q315667;Saxe-Weimar;следующее по порядку;1;1;to
+Q530428;Principality of Leyen;столица;1;1;from
+Q530428;Principality of Leyen;официальный язык;1;1;from
+Q530428;Principality of Leyen;изображение флага;1;1;from
+Q530428;Principality of Leyen;изображение герба;1;1;from
+Q530428;Principality of Leyen;категория на Викискладе;1;1;from
+Q530428;Principality of Leyen;участник организации или клуба;1;1;from
+Q530428;Principality of Leyen;дата основания/создания/возникновения;1;1;from
+Q530428;Principality of Leyen;дата прекращения существования;1;1;from
+Q530428;Principality of Leyen;код Freebase;1;1;from
+Q530428;Principality of Leyen;является столицей;1;1;to
+Q531783;Principality of Reuss-Greiz;форма правления;1;1;from
+Q315667;Saxe-Weimar;является столицей;1;1;to
+Q315667;Saxe-Weimar;общая тема категории;1;1;to
+Q630163;Schwarzburg-Sondershausen;площадь;1;1;from
+Q315667;Saxe-Weimar;изображение флага;1;1;from
+Q310650;Schaumburg-Lippe;категория объединяет темы;1;1;to
+Q310650;Schaumburg-Lippe;общая тема категории;1;1;to
+Q310650;Schaumburg-Lippe;участник(и);1;1;to
+Q315667;Saxe-Weimar;форма правления;1;1;from
+Q315667;Saxe-Weimar;предыдущее по порядку;1;2;from
+Q315667;Saxe-Weimar;исполнительная власть;1;1;from
+Q315667;Saxe-Weimar;код VIAF;1;1;from
+Q315667;Saxe-Weimar;код GND;1;1;from
+Q315667;Saxe-Weimar;карта местонахождения;1;1;from
+Q315667;Saxe-Weimar;это частный случай понятия;1;2;from
+Q315667;Saxe-Weimar;столица;1;1;from
+Q315667;Saxe-Weimar;изображение герба;1;1;from
+Q315667;Saxe-Weimar;государство;1;1;to
+Q315667;Saxe-Weimar;название на языке оригинала;1;1;from
+Q315667;Saxe-Weimar;код GAMEO;1;1;from
+Q315667;Saxe-Weimar;участник организации или клуба;1;1;from
+Q315667;Saxe-Weimar;архивы хранятся в;1;1;from
+Q315667;Saxe-Weimar;состоит из;1;1;from
+Q315667;Saxe-Weimar;дата основания/создания/возникновения;1;1;from
+Q315667;Saxe-Weimar;дата прекращения существования;1;1;from
+Q315667;Saxe-Weimar;код Freebase;1;1;from
+Q315667;Saxe-Weimar;основная категория по теме;1;1;from
+Q315667;Saxe-Weimar;часть от;1;1;to
+Q315667;Saxe-Weimar;место рождения;1;1;to
+Q531783;Principality of Reuss-Greiz;административно-территориальная единица;1;2;from
+Q531783;Principality of Reuss-Greiz;предыдущее по порядку;1;1;from
+Q531783;Principality of Reuss-Greiz;код VIAF;1;1;from
+Q630163;Schwarzburg-Sondershausen;административно-территориальная единица;1;2;from
+Q543090;Reuss-Ebersdorf;код Freebase;1;1;from
+Q551530;Arenberg;это частный случай понятия;1;2;from
+Q551530;Arenberg;изображение флага;1;1;from
+Q551530;Arenberg;изображение герба;1;1;from
+Q551530;Arenberg;код в Большой каталанской энциклопедии;1;1;from
+Q551530;Arenberg;описывается в источниках;1;1;from
+Q551530;Arenberg;дата основания/создания/возникновения;1;1;from
+Q551530;Arenberg;дата прекращения существования;1;1;from
+Q551530;Arenberg;географические координаты;1;1;from
+Q551530;Arenberg;NWBib ID;1;1;from
+Q630163;Schwarzburg-Sondershausen;форма правления;1;1;from
+Q630163;Schwarzburg-Sondershausen;код VIAF;1;1;from
+Q531783;Principality of Reuss-Greiz;код GND;1;1;from
+Q630163;Schwarzburg-Sondershausen;код GND;1;1;from
+Q630163;Schwarzburg-Sondershausen;карта местонахождения;1;1;from
+Q630163;Schwarzburg-Sondershausen;часть света;1;1;from
+Q630163;Schwarzburg-Sondershausen;это частный случай понятия;1;2;from
+Q630163;Schwarzburg-Sondershausen;столица;1;1;from
+Q630163;Schwarzburg-Sondershausen;официальный язык;1;1;from
+Q630163;Schwarzburg-Sondershausen;изображение флага;1;1;from
+Q630163;Schwarzburg-Sondershausen;изображение герба;1;1;from
+Q630163;Schwarzburg-Sondershausen;численность населения;1;1;from
+Q630163;Schwarzburg-Sondershausen;описывается в источниках;1;1;from
+Q630163;Schwarzburg-Sondershausen;владеет;1;1;from
+Q543090;Reuss-Ebersdorf;дата прекращения существования;1;1;from
+Q543090;Reuss-Ebersdorf;дата основания/создания/возникновения;1;1;from
+Q543090;Reuss-Ebersdorf;участник организации или клуба;1;1;from
+Q543090;Reuss-Ebersdorf;изображение флага;1;1;from
+Q531783;Principality of Reuss-Greiz;карта местонахождения;1;1;from
+Q531783;Principality of Reuss-Greiz;часть света;1;1;from
+Q531783;Principality of Reuss-Greiz;это частный случай понятия;1;2;from
+Q531783;Principality of Reuss-Greiz;столица;1;1;from
+Q531783;Principality of Reuss-Greiz;официальный язык;1;1;from
+Q531783;Principality of Reuss-Greiz;изображение флага;1;1;from
+Q531783;Principality of Reuss-Greiz;изображение герба;1;1;from
+Q531783;Principality of Reuss-Greiz;численность населения;1;1;from
+Q531783;Principality of Reuss-Greiz;описывается в источниках;1;1;from
+Q531783;Principality of Reuss-Greiz;площадь;1;1;from
+Q531783;Principality of Reuss-Greiz;категория на Викискладе;1;1;from
+Q531783;Principality of Reuss-Greiz;участник организации или клуба;1;1;from
+Q531783;Principality of Reuss-Greiz;дата основания/создания/возникновения;1;1;from
+Q531783;Principality of Reuss-Greiz;дата прекращения существования;1;1;from
+Q531783;Principality of Reuss-Greiz;код Freebase;1;1;from
+Q531783;Principality of Reuss-Greiz;основная категория по теме;1;1;from
+Q531783;Principality of Reuss-Greiz;административно делится на;1;1;to
+Q531783;Principality of Reuss-Greiz;не путать с;1;1;to
+Q531783;Principality of Reuss-Greiz;общая тема категории;1;1;to
+Q531783;Principality of Reuss-Greiz;следующее по порядку;1;1;to
+Q543090;Reuss-Ebersdorf;код GND;1;1;from
+Q543090;Reuss-Ebersdorf;это частный случай понятия;1;1;from
+Q543090;Reuss-Ebersdorf;официальный язык;1;1;from
+Q695316;Schwarzburg-Rudolstadt;код GND;1;1;from
+Q695316;Schwarzburg-Rudolstadt;карта местонахождения;1;1;from
+Q695316;Schwarzburg-Rudolstadt;код LCNAF;1;1;from
+Q836680;Duchy of Nassau;код SUDOC;1;1;from
+Q836680;Duchy of Nassau;столица;1;4;from
+Q836680;Duchy of Nassau;официальный язык;1;1;from
+Q836680;Duchy of Nassau;денежная единица;1;1;from
+Q836680;Duchy of Nassau;изображение флага;1;1;from
+Q836680;Duchy of Nassau;изображение герба;1;1;from
+Q836680;Duchy of Nassau;численность населения;1;1;from
+Q836680;Duchy of Nassau;описывается в источниках;1;1;from
+Q836680;Duchy of Nassau;название на языке оригинала;1;1;from
+Q836680;Duchy of Nassau;категория для людей, связанных с местностью;1;1;from
+Q836680;Duchy of Nassau;площадь;1;1;from
+Q836680;Duchy of Nassau;код BNF;1;1;from
+Q836680;Duchy of Nassau;используемый язык;1;1;from
+Q836680;Duchy of Nassau;часть света;1;1;from
+Q836680;Duchy of Nassau;категория на Викискладе;1;1;from
+Q836680;Duchy of Nassau;участник организации или клуба;1;1;from
+Q836680;Duchy of Nassau;дата основания/создания/возникновения;1;1;from
+Q836680;Duchy of Nassau;дата прекращения существования;1;1;from
+Q836680;Duchy of Nassau;основная категория по теме;1;1;from
+Q836680;Duchy of Nassau;код NLI;1;1;from
+Q836680;Duchy of Nassau;названо в честь;1;3;to
+Q836680;Duchy of Nassau;гражданство;1;12;to
+Q836680;Duchy of Nassau;административно делится на;1;1;to
+Q836680;Duchy of Nassau;основная тема;1;4;to
+Q836680;Duchy of Nassau;участник(и);1;1;to
+Q836680;Duchy of Nassau;это частный случай понятия;1;1;from
+Q836680;Duchy of Nassau;код LCNAF;1;1;from
+Q695316;Schwarzburg-Rudolstadt;часть света;1;1;from
+Q701969;Principality of Regensburg;изображение герба;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;государство;1;2;to
+Q700663;Saxe-Coburg-Saalfeld;административно делится на;1;1;to
+Q700663;Saxe-Coburg-Saalfeld;является столицей;1;1;to
+Q700663;Saxe-Coburg-Saalfeld;общая тема категории;1;1;to
+Q700663;Saxe-Coburg-Saalfeld;гражданство;1;1;to
+Q700663;Saxe-Coburg-Saalfeld;принадлежность;1;1;to
+Q701969;Principality of Regensburg;код VIAF;1;1;from
+Q701969;Principality of Regensburg;код GND;1;1;from
+Q701969;Principality of Regensburg;часть света;1;1;from
+Q701969;Principality of Regensburg;это частный случай понятия;1;2;from
+Q701969;Principality of Regensburg;столица;1;1;from
+Q701969;Principality of Regensburg;название на языке оригинала;1;1;from
+Q836680;Duchy of Nassau;карта местонахождения;1;2;from
+Q701969;Principality of Regensburg;используемый язык;1;1;from
+Q701969;Principality of Regensburg;дата основания/создания/возникновения;1;1;from
+Q701969;Principality of Regensburg;дата прекращения существования;1;1;from
+Q701969;Principality of Regensburg;код Freebase;1;1;from
+Q701969;Principality of Regensburg;состоит из;1;1;to
+Q836680;Duchy of Nassau;форма правления;1;2;from
+Q836680;Duchy of Nassau;предыдущее по порядку;1;2;to
+Q836680;Duchy of Nassau;следующее по порядку;1;1;to
+Q836680;Duchy of Nassau;государство;1;4;to
+Q836680;Duchy of Nassau;код VIAF;1;1;from
+Q836680;Duchy of Nassau;код GND;1;1;from
+Q836680;Duchy of Nassau;является столицей;1;2;to
+Q836680;Duchy of Nassau;категория объединяет темы;1;1;to
+Q836680;Duchy of Nassau;владельцем является;1;1;to
+Q14551680;Principality of Lippe;дата прекращения существования;1;1;from
+Q14551680;Principality of Lippe;административно-территориальная единица;1;2;from
+Q14551680;Principality of Lippe;карта местонахождения;1;1;from
+Q14551680;Principality of Lippe;это частный случай понятия;1;4;from
+Q14551680;Principality of Lippe;столица;1;1;from
+Q14551680;Principality of Lippe;официальный язык;1;1;from
+Q14551680;Principality of Lippe;изображение флага;1;1;from
+Q14551680;Principality of Lippe;род;1;1;from
+Q14551680;Principality of Lippe;заменил;1;1;from
+Q14551680;Principality of Lippe;категория на Викискладе;1;1;from
+Q14551680;Principality of Lippe;участник организации или клуба;1;1;from
+Q14551680;Principality of Lippe;дата основания/создания/возникновения;1;1;from
+Q14551680;Principality of Lippe;географические координаты;1;1;from
+Q836680;Duchy of Nassau;общая тема категории;1;1;to
+Q14551680;Principality of Lippe;тематически относится к;1;1;to
+Q14551680;Principality of Lippe;гражданство;1;9;to
+Q14551680;Principality of Lippe;административно делится на;1;1;to
+Q14551680;Principality of Lippe;заменён на;1;1;to
+Q14551680;Principality of Lippe;основная тема;1;1;to
+Q19837669;Principality of Salm;код GND;1;1;from
+Q19837669;Principality of Salm;часть света;1;1;from
+Q19837669;Principality of Salm;это частный случай понятия;1;3;from
+Q19837669;Principality of Salm;столица;1;1;from
+Q19837669;Principality of Salm;изображение флага;1;1;from
+Q19837669;Principality of Salm;дата основания/создания/возникновения;1;2;from
+Q11024667;Duchy of Mecklenburg-Schwerin;следующее по порядку;1;1;to
+Q11024667;Duchy of Mecklenburg-Schwerin;гражданство;1;1;to
+Q11024667;Duchy of Mecklenburg-Schwerin;заменил;1;1;to
+Q11024667;Duchy of Mecklenburg-Schwerin;дата прекращения существования;1;1;from
+Q836680;Duchy of Nassau;административно-территориальная единица;1;1;to
+Q2751106;Duchy of Mecklenburg-Strelitz;карта местонахождения;1;1;from
+Q2751106;Duchy of Mecklenburg-Strelitz;это частный случай понятия;1;1;from
+Q2751106;Duchy of Mecklenburg-Strelitz;изображение флага;1;1;from
+Q2751106;Duchy of Mecklenburg-Strelitz;изображение герба;1;1;from
+Q2751106;Duchy of Mecklenburg-Strelitz;часть от;1;1;from
+Q2751106;Duchy of Mecklenburg-Strelitz;категория на Викискладе;1;1;from
+Q2751106;Duchy of Mecklenburg-Strelitz;участник организации или клуба;1;1;from
+Q2751106;Duchy of Mecklenburg-Strelitz;дата основания/создания/возникновения;1;1;from
+Q2751106;Duchy of Mecklenburg-Strelitz;дата прекращения существования;1;1;from
+Q2751106;Duchy of Mecklenburg-Strelitz;код Freebase;1;1;from
+Q2751106;Duchy of Mecklenburg-Strelitz;род;1;1;to
+Q11024667;Duchy of Mecklenburg-Schwerin;административно-территориальная единица;1;2;from
+Q11024667;Duchy of Mecklenburg-Schwerin;код VIAF;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;карта местонахождения;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;часть света;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;это частный случай понятия;1;3;from
+Q11024667;Duchy of Mecklenburg-Schwerin;изображение флага;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;изображение герба;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;заменён на;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;категория на Викискладе;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;участник организации или клуба;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;дата основания/создания/возникновения;1;2;from
+Q700663;Saxe-Coburg-Saalfeld;основная категория по теме;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;WorldCat Identities ID;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;код Freebase;1;1;from
+Q696651;Saxe-Eisenach;государство;1;1;to
+Q696651;Saxe-Eisenach;карта местонахождения;1;1;from
+Q696651;Saxe-Eisenach;это частный случай понятия;1;3;from
+Q696651;Saxe-Eisenach;столица;1;1;from
+Q696651;Saxe-Eisenach;изображение флага;1;1;from
+Q696651;Saxe-Eisenach;изображение герба;1;1;from
+Q696651;Saxe-Eisenach;участник организации или клуба;1;1;from
+Q696651;Saxe-Eisenach;дата основания/создания/возникновения;1;1;from
+Q696651;Saxe-Eisenach;дата прекращения существования;1;1;from
+Q696651;Saxe-Eisenach;код Freebase;1;1;from
+Q696651;Saxe-Eisenach;основная категория по теме;1;1;from
+Q696651;Saxe-Eisenach;заменил;1;1;to
+Q696651;Saxe-Eisenach;страна происхождения;1;1;to
+Q697084;Duchy of Oldenburg;изображение флага;1;1;from
+Q696651;Saxe-Eisenach;общая тема категории;1;1;to
+Q696651;Saxe-Eisenach;гражданство;1;1;to
+Q696651;Saxe-Eisenach;является столицей;1;1;to
+Q697084;Duchy of Oldenburg;предыдущее по порядку;1;1;to
+Q697084;Duchy of Oldenburg;следующее по порядку;1;3;to
+Q697084;Duchy of Oldenburg;государство;1;1;to
+Q697084;Duchy of Oldenburg;код GND;1;1;from
+Q697084;Duchy of Oldenburg;карта местонахождения;1;1;from
+Q697084;Duchy of Oldenburg;часть света;1;1;from
+Q697084;Duchy of Oldenburg;это частный случай понятия;1;2;from
+Q697084;Duchy of Oldenburg;столица;1;1;from
+Q696651;Saxe-Eisenach;код GND;1;1;from
+Q696651;Saxe-Eisenach;форма правления;1;1;from
+Q695316;Schwarzburg-Rudolstadt;общая тема категории;1;1;to
+Q695316;Schwarzburg-Rudolstadt;категория объединяет темы;1;1;to
+Q695316;Schwarzburg-Rudolstadt;это частный случай понятия;1;2;from
+Q695316;Schwarzburg-Rudolstadt;столица;1;1;from
+Q695316;Schwarzburg-Rudolstadt;официальный язык;1;1;from
+Q695316;Schwarzburg-Rudolstadt;изображение флага;1;1;from
+Q695316;Schwarzburg-Rudolstadt;изображение герба;1;1;from
+Q695316;Schwarzburg-Rudolstadt;численность населения;1;1;from
+Q695316;Schwarzburg-Rudolstadt;площадь;1;1;from
+Q695316;Schwarzburg-Rudolstadt;код Католической энциклопедии;1;1;from
+Q695316;Schwarzburg-Rudolstadt;категория на Викискладе;1;1;from
+Q695316;Schwarzburg-Rudolstadt;участник организации или клуба;1;1;from
+Q695316;Schwarzburg-Rudolstadt;дата основания/создания/возникновения;1;1;from
+Q695316;Schwarzburg-Rudolstadt;дата прекращения существования;1;1;from
+Q695316;Schwarzburg-Rudolstadt;код Freebase;1;1;from
+Q695316;Schwarzburg-Rudolstadt;код NKC;1;1;from
+Q695316;Schwarzburg-Rudolstadt;категория карт на Викискладе;1;1;from
+Q695316;Schwarzburg-Rudolstadt;основная категория по теме;1;1;from
+Q695316;Schwarzburg-Rudolstadt;место рождения;1;1;to
+Q695316;Schwarzburg-Rudolstadt;административно делится на;1;1;to
+Q695316;Schwarzburg-Rudolstadt;юрисдикция распространяется на;1;1;to
+Q695316;Schwarzburg-Rudolstadt;основная тема;1;1;to
+Q695316;Schwarzburg-Rudolstadt;гражданство;1;2;to
+Q695316;Schwarzburg-Rudolstadt;является столицей;1;1;to
+Q695316;Schwarzburg-Rudolstadt;государство;1;1;to
+Q697084;Duchy of Oldenburg;официальный язык;1;1;from
+Q697084;Duchy of Oldenburg;изображение герба;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;дата прекращения существования;1;1;from
+Q698089;Grand Duchy of Würzburg;государство;1;1;to
+Q698089;Grand Duchy of Würzburg;часть света;1;1;from
+Q698089;Grand Duchy of Würzburg;это частный случай понятия;1;4;from
+Q698089;Grand Duchy of Würzburg;столица;1;1;from
+Q698089;Grand Duchy of Würzburg;официальный язык;1;1;from
+Q698089;Grand Duchy of Würzburg;изображение флага;1;1;from
+Q698089;Grand Duchy of Würzburg;изображение герба;1;1;from
+Q698089;Grand Duchy of Würzburg;участник организации или клуба;1;1;from
+Q698089;Grand Duchy of Würzburg;дата основания/создания/возникновения;1;1;from
+Q698089;Grand Duchy of Würzburg;дата прекращения существования;1;1;from
+Q698089;Grand Duchy of Würzburg;код Freebase;1;1;from
+Q698089;Grand Duchy of Würzburg;состоит из;1;1;to
+Q698089;Grand Duchy of Würzburg;имеет границы с;1;1;to
+Q697084;Duchy of Oldenburg;категория для людей, связанных с местностью;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;административно-территориальная единица;1;2;from
+Q700663;Saxe-Coburg-Saalfeld;код VIAF;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;код GND;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;карта местонахождения;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;часть света;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;это частный случай понятия;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;столица;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;изображение герба;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;категория на Викискладе;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;участник организации или клуба;1;1;from
+Q700663;Saxe-Coburg-Saalfeld;дата основания/создания/возникновения;1;1;from
+Q698089;Grand Duchy of Würzburg;карта местонахождения;1;1;from
+Q698089;Grand Duchy of Würzburg;код GND;1;1;from
+Q698089;Grand Duchy of Würzburg;код VIAF;1;2;from
+Q698089;Grand Duchy of Würzburg;отношение к религии;1;1;from
+Q697084;Duchy of Oldenburg;категория на Викискладе;1;1;from
+Q697084;Duchy of Oldenburg;участник организации или клуба;1;1;from
+Q697084;Duchy of Oldenburg;дата основания/создания/возникновения;1;1;from
+Q697084;Duchy of Oldenburg;дата прекращения существования;1;1;from
+Q697084;Duchy of Oldenburg;географические координаты;1;1;from
+Q697084;Duchy of Oldenburg;код Freebase;1;1;from
+Q697084;Duchy of Oldenburg;место рождения;1;2;to
+Q697084;Duchy of Oldenburg;гражданство;1;2;to
+Q697084;Duchy of Oldenburg;категория объединяет темы;1;1;to
+Q697084;Duchy of Oldenburg;является столицей;1;1;to
+Q698048;County of Isenburg;код VIAF;1;1;from
+Q698048;County of Isenburg;код GND;1;1;from
+Q698048;County of Isenburg;это частный случай понятия;1;2;from
+Q698048;County of Isenburg;изображение герба;1;1;from
+Q698048;County of Isenburg;код CERL;1;1;from
+Q698048;County of Isenburg;категория на Викискладе;1;1;from
+Q698048;County of Isenburg;код Freebase;1;1;from
+Q698048;County of Isenburg;WorldCat Identities ID;1;1;from
+Q698048;County of Isenburg;основная категория по теме;1;1;from
+Q698048;County of Isenburg;род;1;1;to
+Q698048;County of Isenburg;общая тема категории;1;1;to
+Q698048;County of Isenburg;место смерти;1;1;to
+Q698089;Grand Duchy of Würzburg;форма правления;1;1;from
+Q310650;Schaumburg-Lippe;местонахождение;1;1;to
+Q310650;Schaumburg-Lippe;административно делится на;1;1;to
+Q310650;Schaumburg-Lippe;место рождения;1;1;to
+Q154195;Kingdom of Bavaria;дата основания/создания/возникновения;1;1;from
+Q154195;Kingdom of Bavaria;описание девиза;1;1;from
+Q154195;Kingdom of Bavaria;название на языке оригинала;1;1;from
+Q154195;Kingdom of Bavaria;категория для людей, связанных с местностью;1;1;from
+Q154195;Kingdom of Bavaria;площадь;1;1;from
+Q154195;Kingdom of Bavaria;код Historical Gazetteer;1;1;from
+Q154195;Kingdom of Bavaria;используемый язык;1;1;from
+Q154195;Kingdom of Bavaria;официальная религия;1;1;from
+Q154195;Kingdom of Bavaria;код Католической энциклопедии;1;1;from
+Q154195;Kingdom of Bavaria;код темы Quora;1;1;from
+Q154195;Kingdom of Bavaria;категория на Викискладе;1;1;from
+Q154195;Kingdom of Bavaria;архивы хранятся в;1;1;from
+Q154195;Kingdom of Bavaria;дата прекращения существования;1;1;from
+Q154195;Kingdom of Bavaria;изображение герба;1;1;from
+Q154195;Kingdom of Bavaria;географические координаты;1;1;from
+Q154195;Kingdom of Bavaria;код Freebase;1;1;from
+Q154195;Kingdom of Bavaria;основная категория по теме;1;1;from
+Q154195;Kingdom of Bavaria;гражданство;1;197;to
+Q154195;Kingdom of Bavaria;участник(и);1;2;to
+Q154195;Kingdom of Bavaria;принадлежность;1;5;to
+Q154195;Kingdom of Bavaria;административно-территориальная единица;1;19;to
+Q154195;Kingdom of Bavaria;местонахождение;1;1;to
+Q154195;Kingdom of Bavaria;заменён на;1;1;to
+Q154195;Kingdom of Bavaria;состоит из;1;1;to
+Q154195;Kingdom of Bavaria;относится к;1;1;to
+Q154195;Kingdom of Bavaria;численность населения;1;1;from
+Q154195;Kingdom of Bavaria;гимн;1;1;from
+Q157013;Hohenzollern-Sigmaringen;столица;1;1;from
+Q153943;Kingdom of Westphalia;общая тема категории;1;1;to
+Q153943;Kingdom of Westphalia;географические координаты;1;1;from
+Q153943;Kingdom of Westphalia;код Freebase;1;1;from
+Q153943;Kingdom of Westphalia;NWBib ID;1;1;from
+Q153943;Kingdom of Westphalia;категория карт на Викискладе;1;1;from
+Q153943;Kingdom of Westphalia;основная категория по теме;1;1;from
+Q153943;Kingdom of Westphalia;административно-территориальная единица;1;14;to
+Q153943;Kingdom of Westphalia;гражданство;1;3;to
+Q153943;Kingdom of Westphalia;состоит из;1;1;to
+Q153943;Kingdom of Westphalia;страна происхождения;1;2;to
+Q153943;Kingdom of Westphalia;основная тема;1;3;to
+Q153943;Kingdom of Westphalia;категория объединяет темы;1;1;to
+Q154195;Kingdom of Bavaria;форма правления;1;1;from
+Q154195;Kingdom of Bavaria;имеет границы с;1;2;to
+Q154195;Kingdom of Bavaria;отношение к религии;1;2;from
+Q154195;Kingdom of Bavaria;административно делится на;1;30;from
+Q154195;Kingdom of Bavaria;предыдущее по порядку;1;1;to
+Q154195;Kingdom of Bavaria;государство;1;326;to
+Q154195;Kingdom of Bavaria;законодательный орган;1;1;from
+Q154195;Kingdom of Bavaria;карта местонахождения;1;1;from
+Q154195;Kingdom of Bavaria;это частный случай понятия;1;5;from
+Q154195;Kingdom of Bavaria;столица;1;1;from
+Q154195;Kingdom of Bavaria;официальный язык;1;1;from
+Q154195;Kingdom of Bavaria;денежная единица;1;1;from
+Q154195;Kingdom of Bavaria;изображение флага;1;1;from
+Q154195;Kingdom of Bavaria;работодатель;1;1;to
+Q154195;Kingdom of Bavaria;подписавшийся;1;2;to
+Q154195;Kingdom of Bavaria;основная тема;1;1;to
+Q155570;Saxe-Weimar-Eisenach;гражданство;1;13;to
+Q155570;Saxe-Weimar-Eisenach;код Католической энциклопедии;1;1;from
+Q155570;Saxe-Weimar-Eisenach;категория на Викискладе;1;1;from
+Q155570;Saxe-Weimar-Eisenach;участник организации или клуба;1;1;from
+Q155570;Saxe-Weimar-Eisenach;код для сущности Wolfram Language;1;1;from
+Q155570;Saxe-Weimar-Eisenach;дата основания/создания/возникновения;1;2;from
+Q155570;Saxe-Weimar-Eisenach;дата прекращения существования;1;1;from
+Q155570;Saxe-Weimar-Eisenach;географические координаты;1;1;from
+Q155570;Saxe-Weimar-Eisenach;код Freebase;1;1;from
+Q155570;Saxe-Weimar-Eisenach;категория карт на Викискладе;1;1;from
+Q155570;Saxe-Weimar-Eisenach;основная категория по теме;1;1;from
+Q155570;Saxe-Weimar-Eisenach;местонахождение;1;1;to
+Q155570;Saxe-Weimar-Eisenach;административно делится на;1;1;to
+Q154195;Kingdom of Bavaria;место рождения;1;6;to
+Q155570;Saxe-Weimar-Eisenach;род;1;10;to
+Q155570;Saxe-Weimar-Eisenach;общая тема категории;1;1;to
+Q155570;Saxe-Weimar-Eisenach;основная тема;1;1;to
+Q155570;Saxe-Weimar-Eisenach;категория объединяет темы;1;1;to
+Q155570;Saxe-Weimar-Eisenach;является столицей;1;1;to
+Q155570;Saxe-Weimar-Eisenach;место жительства;1;1;to
+Q157013;Hohenzollern-Sigmaringen;основатель;1;1;from
+Q157013;Hohenzollern-Sigmaringen;форма правления;1;1;from
+Q157013;Hohenzollern-Sigmaringen;отношение к религии;1;1;from
+Q157013;Hohenzollern-Sigmaringen;код VIAF;1;1;from
+Q157013;Hohenzollern-Sigmaringen;карта местонахождения;1;1;from
+Q155570;Saxe-Weimar-Eisenach;площадь;1;1;from
+Q155570;Saxe-Weimar-Eisenach;название на языке оригинала;1;1;from
+Q155570;Saxe-Weimar-Eisenach;код в энциклопедии «Британника онлайн»;1;1;from
+Q155570;Saxe-Weimar-Eisenach;заменил;1;1;from
+Q154195;Kingdom of Bavaria;страна происхождения;1;8;to
+Q154195;Kingdom of Bavaria;юрисдикция распространяется на;1;16;to
+Q154195;Kingdom of Bavaria;следующее по порядку;1;2;to
+Q154195;Kingdom of Bavaria;заказчик произведения;1;1;to
+Q154195;Kingdom of Bavaria;категория объединяет темы;1;4;to
+Q154195;Kingdom of Bavaria;названо в честь;1;1;to
+Q154195;Kingdom of Bavaria;общая тема категории;1;1;to
+Q154195;Kingdom of Bavaria;место жительства;1;1;to
+Q155570;Saxe-Weimar-Eisenach;форма правления;1;1;from
+Q155570;Saxe-Weimar-Eisenach;административно-территориальная единица;1;1;to
+Q155570;Saxe-Weimar-Eisenach;государство;1;2;to
+Q155570;Saxe-Weimar-Eisenach;код VIAF;1;1;from
+Q155570;Saxe-Weimar-Eisenach;код GND;1;1;from
+Q155570;Saxe-Weimar-Eisenach;описание герба;1;1;from
+Q155570;Saxe-Weimar-Eisenach;карта местонахождения;1;1;from
+Q155570;Saxe-Weimar-Eisenach;код LCNAF;1;1;from
+Q155570;Saxe-Weimar-Eisenach;это частный случай понятия;1;4;from
+Q155570;Saxe-Weimar-Eisenach;столица;1;1;from
+Q155570;Saxe-Weimar-Eisenach;официальный язык;1;1;from
+Q155570;Saxe-Weimar-Eisenach;изображение флага;1;1;from
+Q155570;Saxe-Weimar-Eisenach;изображение герба;1;1;from
+Q155570;Saxe-Weimar-Eisenach;менеджер/директор;1;1;from
+Q155570;Saxe-Weimar-Eisenach;описывается в источниках;1;2;from
+Q153943;Kingdom of Westphalia;дата прекращения существования;1;1;from
+Q153943;Kingdom of Westphalia;дата основания/создания/возникновения;1;1;from
+Q153943;Kingdom of Westphalia;участник организации или клуба;1;1;from
+Q153015;Kingdom of Saxony;форма правления;1;2;from
+Q20135;Grand Duchy of Hesse;заменён на;1;1;to
+Q20135;Grand Duchy of Hesse;состоит из;1;1;to
+Q20135;Grand Duchy of Hesse;юрисдикция распространяется на;1;3;to
+Q20135;Grand Duchy of Hesse;категория объединяет темы;1;16;to
+Q20135;Grand Duchy of Hesse;основная тема;1;3;to
+Q20135;Grand Duchy of Hesse;следующее по порядку;1;1;to
+Q20135;Grand Duchy of Hesse;основатель;1;1;to
+Q20135;Grand Duchy of Hesse;награда от;1;1;to
+Q20135;Grand Duchy of Hesse;общая тема категории;1;2;to
+Q20135;Grand Duchy of Hesse;место жительства;1;1;to
+Q20135;Grand Duchy of Hesse;род;1;1;to
+Q153015;Kingdom of Saxony;административно-территориальная единица;1;15;to
+Q153015;Kingdom of Saxony;изображение герба;1;1;from
+Q153015;Kingdom of Saxony;отношение к религии;1;1;from
+Q153015;Kingdom of Saxony;предыдущее по порядку;1;2;from
+Q153015;Kingdom of Saxony;законодательный орган;1;1;from
+Q153015;Kingdom of Saxony;карта местонахождения;1;1;from
+Q153015;Kingdom of Saxony;часть света;1;1;from
+Q153015;Kingdom of Saxony;это частный случай понятия;1;3;from
+Q153015;Kingdom of Saxony;столица;1;1;from
+Q153015;Kingdom of Saxony;официальный язык;1;1;from
+Q153015;Kingdom of Saxony;денежная единица;1;1;from
+Q153015;Kingdom of Saxony;изображение флага;1;1;from
+Q153015;Kingdom of Saxony;имеет границы с;1;2;to
+Q20135;Grand Duchy of Hesse;гражданство;1;24;to
+Q20135;Grand Duchy of Hesse;место рождения;1;4;to
+Q20135;Grand Duchy of Hesse;основная категория по теме;1;1;from
+Q20135;Grand Duchy of Hesse;код Freebase;1;1;from
+Q20135;Grand Duchy of Hesse;административно делится на;1;1;to
+Q20135;Grand Duchy of Hesse;предыдущее по порядку;1;1;from
+Q20135;Grand Duchy of Hesse;государство;1;7;to
+Q20135;Grand Duchy of Hesse;код VIAF;1;1;from
+Q20135;Grand Duchy of Hesse;код GND;1;1;from
+Q20135;Grand Duchy of Hesse;карта местонахождения;1;1;from
+Q20135;Grand Duchy of Hesse;код LCNAF;1;1;from
+Q20135;Grand Duchy of Hesse;это частный случай понятия;1;3;from
+Q20135;Grand Duchy of Hesse;столица;1;1;from
+Q20135;Grand Duchy of Hesse;официальный язык;1;1;from
+Q20135;Grand Duchy of Hesse;изображение флага;1;1;from
+Q20135;Grand Duchy of Hesse;изображение герба;1;1;from
+Q20135;Grand Duchy of Hesse;численность населения;1;1;from
+Q20135;Grand Duchy of Hesse;описывается в источниках;1;3;from
+Q20135;Grand Duchy of Hesse;код в энциклопедии «Британника онлайн»;1;1;from
+Q20135;Grand Duchy of Hesse;этнохороним;1;1;from
+Q20135;Grand Duchy of Hesse;название на языке оригинала;1;1;from
+Q20135;Grand Duchy of Hesse;площадь;1;1;from
+Q20135;Grand Duchy of Hesse;категория на Викискладе;1;1;from
+Q20135;Grand Duchy of Hesse;код для сущности Wolfram Language;1;1;from
+Q20135;Grand Duchy of Hesse;дата основания/создания/возникновения;1;1;from
+Q20135;Grand Duchy of Hesse;дата прекращения существования;1;1;from
+Q20135;Grand Duchy of Hesse;географические координаты;1;1;from
+Q153015;Kingdom of Saxony;гимн;1;1;from
+Q153015;Kingdom of Saxony;численность населения;1;1;from
+Q153943;Kingdom of Westphalia;категория на Викискладе;1;1;from
+Q153943;Kingdom of Westphalia;часть света;1;1;from
+Q153015;Kingdom of Saxony;место публикации;1;1;to
+Q153015;Kingdom of Saxony;тематически относится к;1;1;to
+Q153015;Kingdom of Saxony;участник(и);1;1;to
+Q153943;Kingdom of Westphalia;форма правления;1;1;from
+Q153943;Kingdom of Westphalia;отношение к религии;1;1;from
+Q153943;Kingdom of Westphalia;административно делится на;1;11;from
+Q153943;Kingdom of Westphalia;государство;1;326;to
+Q153943;Kingdom of Westphalia;код VIAF;1;1;from
+Q153943;Kingdom of Westphalia;код GND;1;1;from
+Q153943;Kingdom of Westphalia;карта местонахождения;1;1;from
+Q153943;Kingdom of Westphalia;код LCNAF;1;1;from
+Q153943;Kingdom of Westphalia;это частный случай понятия;1;4;from
+Q153015;Kingdom of Saxony;описывается в источниках;1;2;from
+Q153943;Kingdom of Westphalia;глава государства;1;1;from
+Q153943;Kingdom of Westphalia;столица;1;1;from
+Q153943;Kingdom of Westphalia;денежная единица;1;1;from
+Q153943;Kingdom of Westphalia;изображение флага;1;1;from
+Q153943;Kingdom of Westphalia;имеет границы с;1;1;from
+Q153943;Kingdom of Westphalia;изображение герба;1;1;from
+Q153943;Kingdom of Westphalia;код в Большой каталанской энциклопедии;1;1;from
+Q153943;Kingdom of Westphalia;описывается в источниках;1;3;from
+Q153943;Kingdom of Westphalia;название на языке оригинала;1;1;from
+Q153943;Kingdom of Westphalia;должность главы государства;1;1;from
+Q153943;Kingdom of Westphalia;код Historical Gazetteer;1;1;from
+Q153015;Kingdom of Saxony;принадлежность;1;1;to
+Q153015;Kingdom of Saxony;местонахождение;1;4;to
+Q153015;Kingdom of Saxony;место смерти;1;1;to
+Q153015;Kingdom of Saxony;основная тема;1;16;to
+Q153015;Kingdom of Saxony;код в энциклопедии «Британника онлайн»;1;1;from
+Q153015;Kingdom of Saxony;площадь;1;1;from
+Q153015;Kingdom of Saxony;код BabelNet;1;1;from
+Q153015;Kingdom of Saxony;используемый язык;1;1;from
+Q153015;Kingdom of Saxony;код темы Quora;1;1;from
+Q153015;Kingdom of Saxony;категория на Викискладе;1;1;from
+Q153015;Kingdom of Saxony;участник организации или клуба;1;1;from
+Q153015;Kingdom of Saxony;дата основания/создания/возникновения;1;1;from
+Q153015;Kingdom of Saxony;дата прекращения существования;1;1;from
+Q153015;Kingdom of Saxony;географические координаты;1;1;from
+Q153015;Kingdom of Saxony;код Freebase;1;1;from
+Q153015;Kingdom of Saxony;основная категория по теме;1;1;from
+Q153015;Kingdom of Saxony;гражданство;1;234;to
+Q153015;Kingdom of Saxony;место рождения;1;9;to
+Q153015;Kingdom of Saxony;государство;1;233;to
+Q153015;Kingdom of Saxony;юрисдикция распространяется на;1;4;to
+Q153015;Kingdom of Saxony;страна происхождения;1;7;to
+Q153015;Kingdom of Saxony;административно делится на;1;1;to
+Q153015;Kingdom of Saxony;общая тема категории;1;1;to
+Q153015;Kingdom of Saxony;состоит из;1;1;to
+Q153015;Kingdom of Saxony;следующее по порядку;1;2;to
+Q153015;Kingdom of Saxony;оператор;1;1;to
+Q153015;Kingdom of Saxony;подписавшийся;1;2;to
+Q157013;Hohenzollern-Sigmaringen;это частный случай понятия;1;3;from
+Q157013;Hohenzollern-Sigmaringen;официальный язык;1;1;from
+Q310650;Schaumburg-Lippe;названо в честь;1;1;to
+Q249428;Grand Duchy of Berg;общая тема категории;1;1;to
+Q249428;Grand Duchy of Berg;категория на Викискладе;1;1;from
+Q249428;Grand Duchy of Berg;участник организации или клуба;1;1;from
+Q249428;Grand Duchy of Berg;дата основания/создания/возникновения;1;1;from
+Q249428;Grand Duchy of Berg;дата прекращения существования;1;1;from
+Q249428;Grand Duchy of Berg;код Freebase;1;1;from
+Q249428;Grand Duchy of Berg;NWBib ID;1;1;from
+Q249428;Grand Duchy of Berg;основная категория по теме;1;1;from
+Q249428;Grand Duchy of Berg;гражданство;1;2;to
+Q249428;Grand Duchy of Berg;государство;1;5;to
+Q249428;Grand Duchy of Berg;состоит из;1;1;to
+Q249428;Grand Duchy of Berg;заменён на;1;1;to
+Q264970;Anhalt-Köthen;административно-территориальная единица;1;2;from
+Q249428;Grand Duchy of Berg;название на языке оригинала;1;2;from
+Q264970;Anhalt-Köthen;карта местонахождения;1;1;from
+Q264970;Anhalt-Köthen;это частный случай понятия;1;3;from
+Q264970;Anhalt-Köthen;изображение флага;1;1;from
+Q264970;Anhalt-Köthen;изображение герба;1;1;from
+Q264970;Anhalt-Köthen;категория на Викискладе;1;1;from
+Q264970;Anhalt-Köthen;участник организации или клуба;1;1;from
+Q264970;Anhalt-Köthen;дата основания/создания/возникновения;1;1;from
+Q264970;Anhalt-Köthen;дата прекращения существования;1;1;from
+Q264970;Anhalt-Köthen;географические координаты;1;1;from
+Q264970;Anhalt-Köthen;код Freebase;1;1;from
+Q264970;Anhalt-Köthen;основная категория по теме;1;1;from
+Q249428;Grand Duchy of Berg;площадь;1;1;from
+Q249428;Grand Duchy of Berg;заменил;1;1;from
+Q157013;Hohenzollern-Sigmaringen;изображение флага;1;1;from
+Q186320;Grand Duchy of Baden;основатель;1;1;to
+Q186320;Grand Duchy of Baden;находится в пределах природно-географического объекта;1;1;from
+Q186320;Grand Duchy of Baden;основная категория по теме;1;1;from
+Q186320;Grand Duchy of Baden;гражданство;1;38;to
+Q186320;Grand Duchy of Baden;место рождения;1;15;to
+Q186320;Grand Duchy of Baden;место смерти;1;2;to
+Q186320;Grand Duchy of Baden;участник(и);1;2;to
+Q186320;Grand Duchy of Baden;общая тема категории;1;1;to
+Q186320;Grand Duchy of Baden;местонахождение;1;2;to
+Q186320;Grand Duchy of Baden;административно делится на;1;1;to
+Q186320;Grand Duchy of Baden;состоит из;1;1;to
+Q186320;Grand Duchy of Baden;основная тема;1;4;to
+Q186320;Grand Duchy of Baden;место активности;1;1;to
+Q249428;Grand Duchy of Berg;численность населения;1;1;from
+Q186320;Grand Duchy of Baden;принадлежность;1;2;to
+Q186320;Grand Duchy of Baden;является столицей;1;1;to
+Q249428;Grand Duchy of Berg;форма правления;1;1;from
+Q249428;Grand Duchy of Berg;описание флага;1;1;from
+Q249428;Grand Duchy of Berg;карта местонахождения;1;1;from
+Q249428;Grand Duchy of Berg;часть света;1;1;from
+Q249428;Grand Duchy of Berg;это частный случай понятия;1;2;from
+Q249428;Grand Duchy of Berg;столица;1;1;from
+Q249428;Grand Duchy of Berg;официальный язык;1;1;from
+Q249428;Grand Duchy of Berg;изображение флага;1;1;from
+Q249428;Grand Duchy of Berg;изображение герба;1;1;from
+Q264970;Anhalt-Köthen;административно делится на;1;1;to
+Q264970;Anhalt-Köthen;место рождения;1;2;to
+Q264970;Anhalt-Köthen;гражданство;1;2;to
+Q310650;Schaumburg-Lippe;название на языке оригинала;1;1;from
+Q310650;Schaumburg-Lippe;код GND;1;1;from
+Q310650;Schaumburg-Lippe;карта местонахождения;1;1;from
+Q310650;Schaumburg-Lippe;код LCNAF;1;1;from
+Q310650;Schaumburg-Lippe;это частный случай понятия;1;2;from
+Q310650;Schaumburg-Lippe;столица;1;1;from
+Q310650;Schaumburg-Lippe;официальный язык;1;1;from
+Q310650;Schaumburg-Lippe;изображение флага;1;1;from
+Q310650;Schaumburg-Lippe;изображение герба;1;1;from
+Q310650;Schaumburg-Lippe;численность населения;1;1;from
+Q310650;Schaumburg-Lippe;описывается в источниках;1;1;from
+Q310650;Schaumburg-Lippe;код в энциклопедии «Британника онлайн»;1;1;from
+Q310650;Schaumburg-Lippe;площадь;1;1;from
+Q264970;Anhalt-Köthen;часть от;1;1;to
+Q310650;Schaumburg-Lippe;код Католической энциклопедии;1;1;from
+Q310650;Schaumburg-Lippe;категория на Викискладе;1;1;from
+Q310650;Schaumburg-Lippe;участник организации или клуба;1;1;from
+Q310650;Schaumburg-Lippe;состоит из;1;1;to
+Q310650;Schaumburg-Lippe;дата основания/создания/возникновения;1;1;from
+Q310650;Schaumburg-Lippe;дата прекращения существования;1;1;from
+Q310650;Schaumburg-Lippe;код Freebase;1;1;from
+Q310650;Schaumburg-Lippe;код NKC;1;1;from
+Q310650;Schaumburg-Lippe;категория карт на Викискладе;1;1;from
+Q310650;Schaumburg-Lippe;основная категория по теме;1;1;from
+Q310650;Schaumburg-Lippe;гражданство;1;4;to
+Q310650;Schaumburg-Lippe;код VIAF;1;1;from
+Q310650;Schaumburg-Lippe;административно-территориальная единица;1;2;from
+Q310650;Schaumburg-Lippe;форма правления;1;1;from
+Q281005;Saxe-Hildburghausen;категория объединяет темы;1;1;to
+Q264970;Anhalt-Köthen;общая тема категории;1;1;to
+Q281005;Saxe-Hildburghausen;административно-территориальная единица;1;2;from
+Q281005;Saxe-Hildburghausen;код VIAF;1;1;from
+Q281005;Saxe-Hildburghausen;код GND;1;1;from
+Q281005;Saxe-Hildburghausen;карта местонахождения;1;1;from
+Q281005;Saxe-Hildburghausen;это частный случай понятия;1;1;from
+Q281005;Saxe-Hildburghausen;столица;1;1;from
+Q281005;Saxe-Hildburghausen;изображение флага;1;1;from
+Q281005;Saxe-Hildburghausen;изображение герба;1;1;from
+Q281005;Saxe-Hildburghausen;описывается в источниках;1;1;from
+Q281005;Saxe-Hildburghausen;категория для людей, связанных с местностью;1;1;from
+Q281005;Saxe-Hildburghausen;категория на Викискладе;1;1;from
+Q281005;Saxe-Hildburghausen;участник организации или клуба;1;1;from
+Q281005;Saxe-Hildburghausen;дата основания/создания/возникновения;1;1;from
+Q281005;Saxe-Hildburghausen;дата прекращения существования;1;1;from
+Q281005;Saxe-Hildburghausen;код Freebase;1;1;from
+Q281005;Saxe-Hildburghausen;WorldCat Identities ID;1;1;from
+Q281005;Saxe-Hildburghausen;основная категория по теме;1;1;from
+Q281005;Saxe-Hildburghausen;административно делится на;1;1;to
+Q281005;Saxe-Hildburghausen;род;1;7;to
+Q281005;Saxe-Hildburghausen;общая тема категории;1;1;to
+Q281005;Saxe-Hildburghausen;является столицей;1;1;to
+Q281005;Saxe-Hildburghausen;гражданство;1;1;to
+Q186320;Grand Duchy of Baden;код Freebase;1;1;from
+Q186320;Grand Duchy of Baden;географические координаты;1;1;from
+Q186320;Grand Duchy of Baden;дата прекращения существования;1;1;from
+Q157710;Duchy of Saxe-Meiningen;код NKC;1;1;from
+Q157710;Duchy of Saxe-Meiningen;изображение герба;1;1;from
+Q157710;Duchy of Saxe-Meiningen;численность населения;1;1;from
+Q157710;Duchy of Saxe-Meiningen;описывается в источниках;1;1;from
+Q157710;Duchy of Saxe-Meiningen;код в энциклопедии «Британника онлайн»;1;1;from
+Q157710;Duchy of Saxe-Meiningen;площадь;1;1;from
+Q157710;Duchy of Saxe-Meiningen;код Католической энциклопедии;1;1;from
+Q157710;Duchy of Saxe-Meiningen;категория на Викискладе;1;1;from
+Q157710;Duchy of Saxe-Meiningen;участник организации или клуба;1;1;from
+Q157710;Duchy of Saxe-Meiningen;дата основания/создания/возникновения;1;1;from
+Q157710;Duchy of Saxe-Meiningen;дата прекращения существования;1;1;from
+Q157710;Duchy of Saxe-Meiningen;код Freebase;1;1;from
+Q157710;Duchy of Saxe-Meiningen;основная категория по теме;1;1;from
+Q165763;Waldeck;код GND;1;1;from
+Q157710;Duchy of Saxe-Meiningen;административно делится на;1;1;to
+Q157710;Duchy of Saxe-Meiningen;местонахождение;1;1;to
+Q157710;Duchy of Saxe-Meiningen;имеет границы с;1;1;to
+Q157710;Duchy of Saxe-Meiningen;род;1;14;to
+Q157710;Duchy of Saxe-Meiningen;место рождения;1;1;to
+Q157710;Duchy of Saxe-Meiningen;государство;1;1;to
+Q157710;Duchy of Saxe-Meiningen;общая тема категории;1;1;to
+Q165763;Waldeck;форма правления;1;1;from
+Q165763;Waldeck;административно-территориальная единица;1;3;from
+Q165763;Waldeck;предыдущее по порядку;1;1;from
+Q165763;Waldeck;государство;1;1;from
+Q157710;Duchy of Saxe-Meiningen;изображение флага;1;1;from
+Q157710;Duchy of Saxe-Meiningen;официальный язык;1;1;from
+Q157710;Duchy of Saxe-Meiningen;столица;1;1;from
+Q157710;Duchy of Saxe-Meiningen;это частный случай понятия;1;2;from
+Q157013;Hohenzollern-Sigmaringen;изображение герба;1;1;from
+Q157013;Hohenzollern-Sigmaringen;код в Большой каталанской энциклопедии;1;1;from
+Q157013;Hohenzollern-Sigmaringen;заменил;1;1;to
+Q157013;Hohenzollern-Sigmaringen;заменён на;1;2;to
+Q157013;Hohenzollern-Sigmaringen;не путать с;1;1;to
+Q157013;Hohenzollern-Sigmaringen;часть от;1;6;from
+Q157013;Hohenzollern-Sigmaringen;участник организации или клуба;1;6;from
+Q157013;Hohenzollern-Sigmaringen;дата основания/создания/возникновения;1;1;from
+Q157013;Hohenzollern-Sigmaringen;дата прекращения существования;1;1;from
+Q157013;Hohenzollern-Sigmaringen;географические координаты;1;1;from
+Q157013;Hohenzollern-Sigmaringen;код Freebase;1;1;from
+Q157013;Hohenzollern-Sigmaringen;WorldCat Identities ID;1;1;from
+Q157013;Hohenzollern-Sigmaringen;род;1;20;to
+Q157013;Hohenzollern-Sigmaringen;место рождения;1;1;to
+Q157013;Hohenzollern-Sigmaringen;административно делится на;1;1;to
+Q157013;Hohenzollern-Sigmaringen;владельцем является;1;1;to
+Q157013;Hohenzollern-Sigmaringen;состоит из;1;1;to
+Q157013;Hohenzollern-Sigmaringen;государство;1;1;to
+Q157013;Hohenzollern-Sigmaringen;местонахождение;1;1;to
+Q157710;Duchy of Saxe-Meiningen;административно-территориальная единица;1;1;to
+Q157710;Duchy of Saxe-Meiningen;код VIAF;1;1;from
+Q157710;Duchy of Saxe-Meiningen;код GND;1;1;from
+Q157710;Duchy of Saxe-Meiningen;карта местонахождения;1;1;from
+Q165763;Waldeck;изображение;1;1;from
+Q165763;Waldeck;карта местонахождения;1;1;from
+Q186320;Grand Duchy of Baden;дата основания/создания/возникновения;1;1;from
+Q186320;Grand Duchy of Baden;официальный язык;1;1;from
+Q165763;Waldeck;гражданство;1;1;to
+Q165763;Waldeck;род;1;2;to
+Q165763;Waldeck;следующее по порядку;1;1;to
+Q186320;Grand Duchy of Baden;форма правления;1;1;from
+Q186320;Grand Duchy of Baden;административно-территориальная единица;1;3;to
+Q186320;Grand Duchy of Baden;государство;1;43;to
+Q186320;Grand Duchy of Baden;код VIAF;1;1;from
+Q186320;Grand Duchy of Baden;карта местонахождения;1;1;from
+Q186320;Grand Duchy of Baden;код LCNAF;1;1;from
+Q186320;Grand Duchy of Baden;это частный случай понятия;1;3;from
+Q186320;Grand Duchy of Baden;столица;1;1;from
+Q186320;Grand Duchy of Baden;изображение флага;1;1;from
+Q165763;Waldeck;это частный случай понятия;1;2;from
+Q186320;Grand Duchy of Baden;гимн;1;1;from
+Q186320;Grand Duchy of Baden;изображение герба;1;1;from
+Q186320;Grand Duchy of Baden;код в Большой каталанской энциклопедии;1;1;from
+Q186320;Grand Duchy of Baden;описывается в источниках;1;6;from
+Q186320;Grand Duchy of Baden;заменил;1;1;to
+Q186320;Grand Duchy of Baden;заменён на;1;2;to
+Q186320;Grand Duchy of Baden;название на языке оригинала;1;1;from
+Q186320;Grand Duchy of Baden;код BNF;1;1;from
+Q186320;Grand Duchy of Baden;часть от;1;4;from
+Q186320;Grand Duchy of Baden;категория на Викискладе;1;1;from
+Q186320;Grand Duchy of Baden;участник организации или клуба;1;1;from
+Q165763;Waldeck;является столицей;1;1;to
+Q165763;Waldeck;основная тема;1;3;to
+Q165763;Waldeck;названо в честь;1;1;to
+Q165763;Waldeck;место смерти;1;2;to
+Q165763;Waldeck;столица;1;1;from
+Q165763;Waldeck;официальный язык;1;1;from
+Q165763;Waldeck;изображение флага;1;1;from
+Q165763;Waldeck;изображение герба;1;1;from
+Q165763;Waldeck;численность населения;1;1;from
+Q165763;Waldeck;код в Большой каталанской энциклопедии;1;1;from
+Q165763;Waldeck;описывается в источниках;1;3;from
+Q165763;Waldeck;код в энциклопедии «Британника онлайн»;1;1;from
+Q165763;Waldeck;площадь;1;1;from
+Q165763;Waldeck;используемый язык;1;1;from
+Q165763;Waldeck;код Католической энциклопедии;1;1;from
+Q165763;Waldeck;категория на Викискладе;1;1;from
+Q165763;Waldeck;участник организации или клуба;1;1;from
+Q165763;Waldeck;дата основания/создания/возникновения;1;1;from
+Q165763;Waldeck;дата прекращения существования;1;1;from
+Q165763;Waldeck;географические координаты;1;1;from
+Q165763;Waldeck;код Freebase;1;1;from
+Q165763;Waldeck;NWBib ID;1;1;from
+Q165763;Waldeck;официальный сайт;1;1;from
+Q165763;Waldeck;основная категория по теме;1;1;from
+Q165763;Waldeck;место рождения;1;2;to
+Q165763;Waldeck;общая тема категории;1;1;to
+Q165763;Waldeck;административно делится на;1;2;to
+Q19837669;Principality of Salm;дата прекращения существования;1;1;from

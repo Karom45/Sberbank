@@ -1,0 +1,372 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q431385;Bururi Province;административно-территориальная единица;1;282;to
+Q822566;Rutana Province;ISO 3166-2;1;1;from
+Q822571;Muyinga Province;названо в честь;1;1;from
+Q822571;Muyinga Province;административно-территориальная единица;1;186;to
+Q822566;Rutana Province;общая тема категории;1;1;to
+Q822566;Rutana Province;является столицей;1;1;to
+Q822566;Rutana Province;основная категория по теме;1;1;from
+Q822566;Rutana Province;FIPS 10-4 (страны и регионы);1;1;from
+Q822566;Rutana Province;Who's on First ID;1;1;from
+Q822566;Rutana Province;код Freebase;1;1;from
+Q822566;Rutana Province;географические координаты;1;1;from
+Q822566;Rutana Province;код BabelNet;1;1;from
+Q822578;Ruyigi Province;административно делится на;1;1;to
+Q822566;Rutana Province;площадь;1;1;from
+Q822566;Rutana Province;высота над уровнем моря;1;1;from
+Q822566;Rutana Province;код GeoNames;1;1;from
+Q822566;Rutana Province;имеет границы с;1;4;to
+Q822566;Rutana Province;столица;1;1;from
+Q822566;Rutana Province;это частный случай понятия;1;1;from
+Q822566;Rutana Province;карта местонахождения;1;1;from
+Q822566;Rutana Province;государство;1;1;from
+Q822566;Rutana Province;административно делится на;1;1;to
+Q822571;Muyinga Province;административно делится на;1;1;to
+Q822571;Muyinga Province;государство;1;1;from
+Q822571;Muyinga Province;карта местонахождения;1;1;from
+Q822571;Muyinga Province;это частный случай понятия;1;1;from
+Q822578;Ruyigi Province;административно-территориальная единица;1;380;to
+Q822571;Muyinga Province;общая тема категории;1;1;to
+Q822571;Muyinga Province;состоит из;1;1;to
+Q822571;Muyinga Province;место рождения;1;1;to
+Q822571;Muyinga Province;место смерти;1;1;to
+Q822571;Muyinga Province;является столицей;1;1;to
+Q822571;Muyinga Province;основная категория по теме;1;1;from
+Q822571;Muyinga Province;FIPS 10-4 (страны и регионы);1;1;from
+Q822571;Muyinga Province;Who's on First ID;1;1;from
+Q822571;Muyinga Province;код Freebase;1;1;from
+Q822571;Muyinga Province;географические координаты;1;1;from
+Q822571;Muyinga Province;часовой пояс;1;1;from
+Q822571;Muyinga Province;ISO 3166-2;1;1;from
+Q822571;Muyinga Province;площадь;1;1;from
+Q822571;Muyinga Province;высота над уровнем моря;1;1;from
+Q822571;Muyinga Province;название на языке оригинала;1;1;from
+Q822571;Muyinga Province;код GeoNames;1;1;from
+Q822571;Muyinga Province;имеет границы с;1;4;to
+Q822571;Muyinga Province;столица;1;1;from
+Q822566;Rutana Province;названо в честь;1;1;from
+Q822566;Rutana Province;административно-территориальная единица;1;230;to
+Q735463;Karuzi Province;общая тема категории;1;1;to
+Q720852;Ngozi Province;место рождения;1;4;to
+Q720852;Ngozi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q720852;Ngozi Province;Who's on First ID;1;1;from
+Q720852;Ngozi Province;код Freebase;1;1;from
+Q720852;Ngozi Province;географические координаты;1;1;from
+Q720852;Ngozi Province;ISO 3166-2;1;1;from
+Q720852;Ngozi Province;площадь;1;1;from
+Q720852;Ngozi Province;высота над уровнем моря;1;1;from
+Q720852;Ngozi Province;код GeoNames;1;1;from
+Q720852;Ngozi Province;имеет границы с;1;5;to
+Q720852;Ngozi Province;столица;1;1;from
+Q720852;Ngozi Province;это частный случай понятия;1;1;from
+Q720852;Ngozi Province;карта местонахождения;1;1;from
+Q720852;Ngozi Province;государство;1;1;from
+Q720852;Ngozi Province;административно делится на;1;1;to
+Q720852;Ngozi Province;названо в честь;1;1;from
+Q720852;Ngozi Province;административно-территориальная единица;1;148;to
+Q720848;Kayanza Province;общая тема категории;1;1;to
+Q720848;Kayanza Province;состоит из;1;1;to
+Q720848;Kayanza Province;место рождения;1;1;to
+Q720852;Ngozi Province;основная категория по теме;1;1;from
+Q720852;Ngozi Province;местонахождение;1;1;to
+Q735463;Karuzi Province;является столицей;1;1;to
+Q720852;Ngozi Province;состоит из;1;1;to
+Q735463;Karuzi Province;основная категория по теме;1;1;from
+Q735463;Karuzi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q735463;Karuzi Province;Who's on First ID;1;1;from
+Q735463;Karuzi Province;код Freebase;1;1;from
+Q735463;Karuzi Province;географические координаты;1;1;from
+Q735463;Karuzi Province;ISO 3166-2;1;1;from
+Q735463;Karuzi Province;площадь;1;1;from
+Q735463;Karuzi Province;высота над уровнем моря;1;1;from
+Q735463;Karuzi Province;код GeoNames;1;1;from
+Q735463;Karuzi Province;имеет границы с;1;5;to
+Q735463;Karuzi Province;столица;1;1;from
+Q735463;Karuzi Province;это частный случай понятия;1;1;from
+Q735463;Karuzi Province;карта местонахождения;1;1;from
+Q735463;Karuzi Province;государство;1;1;from
+Q735463;Karuzi Province;административно делится на;1;1;to
+Q735463;Karuzi Province;названо в честь;1;1;from
+Q735463;Karuzi Province;административно-территориальная единица;1;120;to
+Q720852;Ngozi Province;является столицей;1;1;to
+Q720852;Ngozi Province;общая тема категории;1;1;to
+Q822578;Ruyigi Province;названо в честь;1;1;from
+Q822578;Ruyigi Province;государство;1;1;from
+Q720848;Kayanza Province;основная категория по теме;1;1;from
+Q847718;Mwaro Province;является столицей;1;1;to
+Q1816580;Bujumbura Mairie Province;код GeoNames;1;1;from
+Q1816580;Bujumbura Mairie Province;столица;1;1;from
+Q1816580;Bujumbura Mairie Province;это частный случай понятия;1;1;from
+Q1816580;Bujumbura Mairie Province;карта местонахождения;1;1;from
+Q1816580;Bujumbura Mairie Province;государство;1;1;from
+Q1816580;Bujumbura Mairie Province;предыдущее по порядку;1;1;from
+Q1816580;Bujumbura Mairie Province;административно делится на;1;1;to
+Q1816580;Bujumbura Mairie Province;административно-территориальная единица;1;17;to
+Q847718;Mwaro Province;общая тема категории;1;1;to
+Q847718;Mwaro Province;основная категория по теме;1;1;from
+Q822578;Ruyigi Province;карта местонахождения;1;1;from
+Q847718;Mwaro Province;FIPS 10-4 (страны и регионы);1;1;from
+Q847718;Mwaro Province;код Freebase;1;1;from
+Q847718;Mwaro Province;географические координаты;1;1;from
+Q847718;Mwaro Province;дата основания/создания/возникновения;1;1;from
+Q847718;Mwaro Province;ISO 3166-2;1;1;from
+Q847718;Mwaro Province;код BabelNet;1;1;from
+Q847718;Mwaro Province;площадь;1;1;from
+Q847718;Mwaro Province;высота над уровнем моря;1;1;from
+Q847718;Mwaro Province;код GeoNames;1;1;from
+Q1816580;Bujumbura Mairie Province;высота над уровнем моря;1;1;from
+Q1816580;Bujumbura Mairie Province;площадь;1;1;from
+Q1816580;Bujumbura Mairie Province;ISO 3166-2;1;1;from
+Q1816580;Bujumbura Mairie Province;дата основания/создания/возникновения;1;1;from
+Q20669646;Rumonge Province;является столицей;1;1;to
+Q20669646;Rumonge Province;общая тема категории;1;1;to
+Q20669646;Rumonge Province;основная категория по теме;1;1;from
+Q20669646;Rumonge Province;географические координаты;1;1;from
+Q20669646;Rumonge Province;ISO 3166-2;1;1;from
+Q20669646;Rumonge Province;площадь;1;1;from
+Q20669646;Rumonge Province;код GeoNames;1;1;from
+Q20669646;Rumonge Province;имеет границы с;1;3;to
+Q20669646;Rumonge Province;столица;1;1;from
+Q20669646;Rumonge Province;это частный случай понятия;1;1;from
+Q20669646;Rumonge Province;карта местонахождения;1;1;from
+Q20669646;Rumonge Province;государство;1;1;from
+Q20669646;Rumonge Province;названо в честь;1;1;from
+Q20669646;Rumonge Province;административно-территориальная единица;1;5;to
+Q1816580;Bujumbura Mairie Province;является столицей;1;1;to
+Q1816580;Bujumbura Mairie Province;состоит из;1;1;to
+Q1816580;Bujumbura Mairie Province;следующее по порядку;1;1;to
+Q1816580;Bujumbura Mairie Province;Who's on First ID;1;1;from
+Q1816580;Bujumbura Mairie Province;географические координаты;1;1;from
+Q847718;Mwaro Province;имеет границы с;1;4;to
+Q847718;Mwaro Province;столица;1;1;from
+Q847718;Mwaro Province;это частный случай понятия;1;1;from
+Q823740;Makamba Province;государство;1;1;from
+Q823740;Makamba Province;названо в честь;1;1;from
+Q823740;Makamba Province;административно-территориальная единица;1;279;to
+Q822578;Ruyigi Province;общая тема категории;1;1;to
+Q822578;Ruyigi Province;место рождения;1;1;to
+Q822578;Ruyigi Province;является столицей;1;1;to
+Q822578;Ruyigi Province;основная категория по теме;1;1;from
+Q822578;Ruyigi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q822578;Ruyigi Province;Who's on First ID;1;1;from
+Q822578;Ruyigi Province;код Freebase;1;1;from
+Q822578;Ruyigi Province;географические координаты;1;1;from
+Q822578;Ruyigi Province;ID отношения в OpenStreetMap;1;1;from
+Q822578;Ruyigi Province;ISO 3166-2;1;1;from
+Q822578;Ruyigi Province;площадь;1;1;from
+Q822578;Ruyigi Province;высота над уровнем моря;1;1;from
+Q822578;Ruyigi Province;код GeoNames;1;1;from
+Q822578;Ruyigi Province;код в Большой каталанской энциклопедии;1;1;from
+Q822578;Ruyigi Province;имеет границы с;1;4;to
+Q822578;Ruyigi Province;столица;1;1;from
+Q822578;Ruyigi Province;это частный случай понятия;1;1;from
+Q823740;Makamba Province;административно делится на;1;1;to
+Q823740;Makamba Province;карта местонахождения;1;1;from
+Q847718;Mwaro Province;карта местонахождения;1;2;from
+Q823740;Makamba Province;это частный случай понятия;1;1;from
+Q847718;Mwaro Province;государство;1;1;from
+Q847718;Mwaro Province;административно делится на;1;1;to
+Q847718;Mwaro Province;названо в честь;1;1;from
+Q847718;Mwaro Province;административно-территориальная единица;1;65;to
+Q823740;Makamba Province;общая тема категории;1;1;to
+Q823740;Makamba Province;состоит из;1;1;to
+Q823740;Makamba Province;место рождения;1;1;to
+Q823740;Makamba Province;является столицей;1;1;to
+Q823740;Makamba Province;основная категория по теме;1;1;from
+Q823740;Makamba Province;FIPS 10-4 (страны и регионы);1;1;from
+Q823740;Makamba Province;Who's on First ID;1;1;from
+Q823740;Makamba Province;код Freebase;1;1;from
+Q823740;Makamba Province;географические координаты;1;1;from
+Q823740;Makamba Province;ISO 3166-2;1;1;from
+Q823740;Makamba Province;площадь;1;1;from
+Q823740;Makamba Province;высота над уровнем моря;1;1;from
+Q823740;Makamba Province;код GeoNames;1;1;from
+Q823740;Makamba Province;имеет границы с;1;3;to
+Q823740;Makamba Province;столица;1;1;from
+Q720848;Kayanza Province;является столицей;1;1;to
+Q720848;Kayanza Province;FIPS 10-4 (страны и регионы);1;1;from
+Q431385;Bururi Province;названо в честь;1;1;from
+Q505596;Cibitoke Province;основная категория по теме;1;1;from
+Q600840;Kirundo Province;карта местонахождения;1;1;from
+Q600840;Kirundo Province;государство;1;1;from
+Q600840;Kirundo Province;административно делится на;1;1;to
+Q600840;Kirundo Province;названо в честь;1;1;from
+Q600840;Kirundo Province;административно-территориальная единица;1;78;to
+Q505596;Cibitoke Province;общая тема категории;1;1;to
+Q505596;Cibitoke Province;состоит из;1;1;to
+Q505596;Cibitoke Province;является столицей;1;1;to
+Q505596;Cibitoke Province;место рождения;1;1;to
+Q505596;Cibitoke Province;FIPS 10-4 (страны и регионы);1;1;from
+Q645033;Cankuzo Province;код GeoNames;1;1;from
+Q505596;Cibitoke Province;Who's on First ID;1;1;from
+Q505596;Cibitoke Province;код Freebase;1;1;from
+Q505596;Cibitoke Province;географические координаты;1;1;from
+Q505596;Cibitoke Province;ISO 3166-2;1;1;from
+Q505596;Cibitoke Province;площадь;1;1;from
+Q505596;Cibitoke Province;высота над уровнем моря;1;1;from
+Q505596;Cibitoke Province;код GeoNames;1;1;from
+Q505596;Cibitoke Province;имеет границы с;1;2;to
+Q505596;Cibitoke Province;столица;1;1;from
+Q600840;Kirundo Province;это частный случай понятия;1;1;from
+Q600840;Kirundo Province;столица;1;1;from
+Q600840;Kirundo Province;имеет границы с;1;2;to
+Q600840;Kirundo Province;код GeoNames;1;1;from
+Q645033;Cankuzo Province;столица;1;1;from
+Q645033;Cankuzo Province;это частный случай понятия;1;1;from
+Q645033;Cankuzo Province;карта местонахождения;1;1;from
+Q645033;Cankuzo Province;государство;1;1;from
+Q645033;Cankuzo Province;административно делится на;1;1;to
+Q645033;Cankuzo Province;названо в честь;1;1;from
+Q645033;Cankuzo Province;административно-территориальная единица;1;242;to
+Q600840;Kirundo Province;общая тема категории;1;1;to
+Q600840;Kirundo Province;состоит из;1;1;to
+Q600840;Kirundo Province;место рождения;1;1;to
+Q600840;Kirundo Province;является столицей;1;1;to
+Q600840;Kirundo Province;основная категория по теме;1;1;from
+Q600840;Kirundo Province;FIPS 10-4 (страны и регионы);1;1;from
+Q600840;Kirundo Province;Who's on First ID;1;1;from
+Q600840;Kirundo Province;код Freebase;1;1;from
+Q600840;Kirundo Province;географические координаты;1;1;from
+Q600840;Kirundo Province;ISO 3166-2;1;1;from
+Q600840;Kirundo Province;площадь;1;1;from
+Q600840;Kirundo Province;высота над уровнем моря;1;1;from
+Q505596;Cibitoke Province;это частный случай понятия;1;1;from
+Q505596;Cibitoke Province;карта местонахождения;1;2;from
+Q505596;Cibitoke Province;государство;1;1;from
+Q460538;Bubanza Province;административно делится на;1;1;to
+Q460538;Bubanza Province;административно-территориальная единица;1;134;to
+Q431385;Bururi Province;является столицей;1;1;to
+Q431385;Bururi Province;общая тема категории;1;1;to
+Q431385;Bururi Province;основная категория по теме;1;1;from
+Q431385;Bururi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q431385;Bururi Province;Who's on First ID;1;1;from
+Q431385;Bururi Province;код Freebase;1;1;from
+Q431385;Bururi Province;географические координаты;1;1;from
+Q431385;Bururi Province;ISO 3166-2;1;1;from
+Q431385;Bururi Province;площадь;1;1;from
+Q431385;Bururi Province;высота над уровнем моря;1;1;from
+Q431385;Bururi Province;код GeoNames;1;1;from
+Q431385;Bururi Province;код в Большой каталанской энциклопедии;1;1;from
+Q431385;Bururi Province;имеет границы с;1;6;to
+Q431385;Bururi Province;столица;1;1;from
+Q431385;Bururi Province;это частный случай понятия;1;1;from
+Q431385;Bururi Province;карта местонахождения;1;1;from
+Q431385;Bururi Province;государство;1;1;from
+Q431385;Bururi Province;административно делится на;1;1;to
+Q460538;Bubanza Province;названо в честь;1;1;from
+Q460538;Bubanza Province;государство;1;1;from
+Q505596;Cibitoke Province;административно делится на;1;1;to
+Q460538;Bubanza Province;карта местонахождения;1;1;from
+Q505596;Cibitoke Province;названо в честь;1;1;from
+Q505596;Cibitoke Province;административно-территориальная единица;1;173;to
+Q460538;Bubanza Province;общая тема категории;1;1;to
+Q460538;Bubanza Province;состоит из;1;1;to
+Q460538;Bubanza Province;является столицей;1;1;to
+Q460538;Bubanza Province;основная категория по теме;1;1;from
+Q460538;Bubanza Province;FIPS 10-4 (страны и регионы);1;1;from
+Q460538;Bubanza Province;Who's on First ID;1;1;from
+Q460538;Bubanza Province;код Freebase;1;1;from
+Q460538;Bubanza Province;географические координаты;1;1;from
+Q460538;Bubanza Province;категория на Викискладе;1;1;from
+Q460538;Bubanza Province;ISO 3166-2;1;1;from
+Q460538;Bubanza Province;площадь;1;1;from
+Q460538;Bubanza Province;высота над уровнем моря;1;1;from
+Q460538;Bubanza Province;код GeoNames;1;1;from
+Q460538;Bubanza Province;код в Большой каталанской энциклопедии;1;1;from
+Q460538;Bubanza Province;имеет границы с;1;4;to
+Q460538;Bubanza Province;столица;1;1;from
+Q460538;Bubanza Province;это частный случай понятия;1;1;from
+Q645033;Cankuzo Province;имеет границы с;1;3;to
+Q645033;Cankuzo Province;высота над уровнем моря;1;1;from
+Q720848;Kayanza Province;Who's on First ID;1;1;from
+Q720843;Gitega Province;это частный случай понятия;1;1;from
+Q720843;Gitega Province;ISO 3166-2;1;1;from
+Q720843;Gitega Province;площадь;1;1;from
+Q720843;Gitega Province;высота над уровнем моря;1;1;from
+Q720843;Gitega Province;категория для людей, связанных с местностью;1;1;from
+Q720843;Gitega Province;код GeoNames;1;1;from
+Q720843;Gitega Province;категория для людей, родившихся здесь;1;1;from
+Q720843;Gitega Province;код в Большой каталанской энциклопедии;1;1;from
+Q720843;Gitega Province;имеет границы с;1;8;to
+Q720843;Gitega Province;столица;1;1;from
+Q720843;Gitega Province;карта местонахождения;1;1;from
+Q645033;Cankuzo Province;площадь;1;1;from
+Q720843;Gitega Province;изображение;1;1;from
+Q720843;Gitega Province;государство;1;1;from
+Q720843;Gitega Province;административно делится на;1;1;to
+Q720843;Gitega Province;названо в честь;1;1;from
+Q720843;Gitega Province;административно-территориальная единица;1;238;to
+Q671086;Muramvya Province;общая тема категории;1;1;to
+Q671086;Muramvya Province;является столицей;1;1;to
+Q671086;Muramvya Province;место рождения;1;2;to
+Q671086;Muramvya Province;основная категория по теме;1;1;from
+Q720843;Gitega Province;географические координаты;1;1;from
+Q720843;Gitega Province;код Freebase;1;1;from
+Q720843;Gitega Province;Who's on First ID;1;1;from
+Q720843;Gitega Province;FIPS 10-4 (страны и регионы);1;1;from
+Q720848;Kayanza Province;географические координаты;1;1;from
+Q720848;Kayanza Province;ISO 3166-2;1;1;from
+Q720848;Kayanza Province;код BabelNet;1;1;from
+Q720848;Kayanza Province;площадь;1;1;from
+Q720848;Kayanza Province;высота над уровнем моря;1;1;from
+Q720848;Kayanza Province;код GeoNames;1;1;from
+Q720848;Kayanza Province;имеет границы с;1;5;to
+Q720848;Kayanza Province;столица;1;1;from
+Q720848;Kayanza Province;это частный случай понятия;1;1;from
+Q720848;Kayanza Province;карта местонахождения;1;1;from
+Q720848;Kayanza Province;государство;1;1;from
+Q720848;Kayanza Province;административно делится на;1;1;to
+Q720848;Kayanza Province;названо в честь;1;1;from
+Q720848;Kayanza Province;административно-территориальная единица;1;148;to
+Q720843;Gitega Province;общая тема категории;1;1;to
+Q720843;Gitega Province;место рождения;1;1;to
+Q720843;Gitega Province;категория объединяет темы;1;2;to
+Q720843;Gitega Province;является столицей;1;1;to
+Q720843;Gitega Province;основная категория по теме;1;1;from
+Q671086;Muramvya Province;FIPS 10-4 (страны и регионы);1;2;from
+Q671086;Muramvya Province;Who's on First ID;1;1;from
+Q671086;Muramvya Province;код Freebase;1;1;from
+Q645043;Bujumbura Rural Province;ISO 3166-2;1;1;from
+Q645043;Bujumbura Rural Province;высота над уровнем моря;1;1;from
+Q645043;Bujumbura Rural Province;код GeoNames;1;1;from
+Q645043;Bujumbura Rural Province;имеет границы с;1;6;to
+Q645043;Bujumbura Rural Province;столица;1;1;from
+Q645043;Bujumbura Rural Province;это частный случай понятия;1;1;from
+Q645043;Bujumbura Rural Province;карта местонахождения;1;1;from
+Q645043;Bujumbura Rural Province;государство;1;1;from
+Q645043;Bujumbura Rural Province;предыдущее по порядку;1;1;from
+Q645043;Bujumbura Rural Province;административно делится на;1;1;to
+Q645043;Bujumbura Rural Province;названо в честь;1;1;from
+Q645043;Bujumbura Rural Province;административно-территориальная единица;1;103;to
+Q645033;Cankuzo Province;общая тема категории;1;1;to
+Q645033;Cankuzo Province;является столицей;1;1;to
+Q645033;Cankuzo Province;основная категория по теме;1;1;from
+Q645033;Cankuzo Province;FIPS 10-4 (страны и регионы);1;1;from
+Q645033;Cankuzo Province;Who's on First ID;1;1;from
+Q645033;Cankuzo Province;код Freebase;1;1;from
+Q645033;Cankuzo Province;географические координаты;1;1;from
+Q645033;Cankuzo Province;ISO 3166-2;1;1;from
+Q645043;Bujumbura Rural Province;площадь;1;1;from
+Q645043;Bujumbura Rural Province;дата основания/создания/возникновения;1;1;from
+Q671086;Muramvya Province;географические координаты;1;1;from
+Q645043;Bujumbura Rural Province;географические координаты;1;1;from
+Q671086;Muramvya Province;ISO 3166-2;1;1;from
+Q671086;Muramvya Province;площадь;1;1;from
+Q671086;Muramvya Province;высота над уровнем моря;1;1;from
+Q671086;Muramvya Province;код GeoNames;1;1;from
+Q671086;Muramvya Province;имеет границы с;1;5;to
+Q671086;Muramvya Province;столица;1;1;from
+Q671086;Muramvya Province;это частный случай понятия;1;1;from
+Q671086;Muramvya Province;карта местонахождения;1;1;from
+Q671086;Muramvya Province;государство;1;1;from
+Q671086;Muramvya Province;административно делится на;1;1;to
+Q671086;Muramvya Province;названо в честь;1;1;from
+Q671086;Muramvya Province;административно-территориальная единица;1;91;to
+Q645043;Bujumbura Rural Province;состоит из;1;1;to
+Q645043;Bujumbura Rural Province;место рождения;1;1;to
+Q645043;Bujumbura Rural Province;общая тема категории;1;1;to
+Q645043;Bujumbura Rural Province;следующее по порядку;1;1;to
+Q645043;Bujumbura Rural Province;основная категория по теме;1;1;from
+Q645043;Bujumbura Rural Province;Who's on First ID;1;1;from
+Q645043;Bujumbura Rural Province;код Freebase;1;1;from
+Q20669646;Rumonge Province;состоит из;1;1;to

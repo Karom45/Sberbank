@@ -1,0 +1,710 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q27038;Zagreb County;административно-территориальная единица;1;703;to
+Q58146;Zadar County;основная тема шаблона;1;1;to
+Q58159;Osijek-Baranja County;часовой пояс;1;2;from
+Q58159;Osijek-Baranja County;местный телефонный код;1;1;from
+Q58159;Osijek-Baranja County;идентификатор местоположения ArchINFORM;1;1;from
+Q58159;Osijek-Baranja County;географические координаты;1;1;from
+Q58159;Osijek-Baranja County;код Freebase;1;1;from
+Q58159;Osijek-Baranja County;Who's on First ID;1;1;from
+Q58159;Osijek-Baranja County;код NKC;1;1;from
+Q58159;Osijek-Baranja County;категория карт на Викискладе;1;1;from
+Q58159;Osijek-Baranja County;официальный сайт;1;1;from
+Q58159;Osijek-Baranja County;FIPS 10-4 (страны и регионы);1;1;from
+Q58159;Osijek-Baranja County;основная категория по теме;1;1;from
+Q58159;Osijek-Baranja County;место в MusicBrainz;1;1;from
+Q58159;Osijek-Baranja County;административно делится на;1;1;to
+Q58159;Osijek-Baranja County;категория объединяет темы;1;4;to
+Q58159;Osijek-Baranja County;место рождения;1;2;to
+Q58159;Osijek-Baranja County;общая тема категории;1;1;to
+Q58159;Osijek-Baranja County;является столицей;1;1;to
+Q58194;Šibenik-Knin County;административно-территориальная единица;1;360;to
+Q58194;Šibenik-Knin County;государство;1;1;from
+Q58159;Osijek-Baranja County;ID отношения в OpenStreetMap;1;1;from
+Q58159;Osijek-Baranja County;категория на Викискладе;1;1;from
+Q58159;Osijek-Baranja County;идентификатор Ringgold;1;1;from
+Q58159;Osijek-Baranja County;столица;1;1;from
+Q58146;Zadar County;место смерти;1;1;to
+Q58146;Zadar County;общая тема категории;1;1;to
+Q58146;Zadar County;является столицей;1;1;to
+Q58159;Osijek-Baranja County;административно-территориальная единица;1;288;to
+Q58159;Osijek-Baranja County;государство;1;1;from
+Q58159;Osijek-Baranja County;код ISNI;1;1;from
+Q58159;Osijek-Baranja County;карта местонахождения;1;1;from
+Q58159;Osijek-Baranja County;это частный случай понятия;1;1;from
+Q58159;Osijek-Baranja County;изображение флага;1;1;from
+Q58159;Osijek-Baranja County;ISO 3166-2;1;1;from
+Q58159;Osijek-Baranja County;имеет границы с;1;4;to
+Q58159;Osijek-Baranja County;изображение герба;1;1;from
+Q58159;Osijek-Baranja County;численность населения;1;1;from
+Q58159;Osijek-Baranja County;категория для людей, родившихся здесь;1;1;from
+Q58159;Osijek-Baranja County;категория для людей, умерших здесь;1;1;from
+Q58159;Osijek-Baranja County;код GeoNames;1;1;from
+Q58159;Osijek-Baranja County;категория для людей, связанных с местностью;1;1;from
+Q58159;Osijek-Baranja County;площадь;1;1;from
+Q58194;Šibenik-Knin County;карта местонахождения;1;1;from
+Q58194;Šibenik-Knin County;это частный случай понятия;1;1;from
+Q58194;Šibenik-Knin County;столица;1;1;from
+Q58194;Šibenik-Knin County;является столицей;1;1;to
+Q58194;Šibenik-Knin County;основная категория по теме;1;1;from
+Q58194;Šibenik-Knin County;место в MusicBrainz;1;1;from
+Q58194;Šibenik-Knin County;административно делится на;1;1;to
+Q58194;Šibenik-Knin County;основная тема шаблона;1;1;to
+Q58194;Šibenik-Knin County;категория объединяет темы;1;4;to
+Q58194;Šibenik-Knin County;юрисдикция распространяется на;1;1;to
+Q58194;Šibenik-Knin County;место рождения;1;1;to
+Q58194;Šibenik-Knin County;общая тема категории;1;1;to
+Q58225;Vukovar-Syrmia County;административно-территориальная единица;1;143;to
+Q58194;Šibenik-Knin County;официальный сайт;1;1;from
+Q58225;Vukovar-Syrmia County;государство;1;1;from
+Q58225;Vukovar-Syrmia County;изображение;1;1;from
+Q58225;Vukovar-Syrmia County;карта местонахождения;1;1;from
+Q58225;Vukovar-Syrmia County;это частный случай понятия;1;1;from
+Q58225;Vukovar-Syrmia County;столица;1;1;from
+Q58225;Vukovar-Syrmia County;изображение флага;1;1;from
+Q58225;Vukovar-Syrmia County;имеет границы с;1;2;to
+Q58225;Vukovar-Syrmia County;изображение герба;1;1;from
+Q58194;Šibenik-Knin County;FIPS 10-4 (страны и регионы);1;1;from
+Q58194;Šibenik-Knin County;категория карт на Викискладе;1;1;from
+Q58194;Šibenik-Knin County;изображение флага;1;1;from
+Q58194;Šibenik-Knin County;категория для людей, связанных с местностью;1;1;from
+Q58194;Šibenik-Knin County;имеет границы с;1;2;to
+Q58194;Šibenik-Knin County;изображение герба;1;1;from
+Q58194;Šibenik-Knin County;численность населения;1;1;from
+Q58194;Šibenik-Knin County;основной шаблон по теме;1;1;from
+Q58194;Šibenik-Knin County;официальное название;1;1;from
+Q58194;Šibenik-Knin County;категория для людей, родившихся здесь;1;1;from
+Q58194;Šibenik-Knin County;категория для людей, умерших здесь;1;1;from
+Q58194;Šibenik-Knin County;код GeoNames;1;1;from
+Q58194;Šibenik-Knin County;площадь;1;1;from
+Q58194;Šibenik-Knin County;Who's on First ID;1;1;from
+Q58194;Šibenik-Knin County;ISO 3166-2;1;1;from
+Q58194;Šibenik-Knin County;категория на Викискладе;1;1;from
+Q58194;Šibenik-Knin County;ID отношения в OpenStreetMap;1;1;from
+Q58194;Šibenik-Knin County;часовой пояс;1;2;from
+Q58194;Šibenik-Knin County;местный телефонный код;1;1;from
+Q58194;Šibenik-Knin County;идентификатор местоположения ArchINFORM;1;1;from
+Q58194;Šibenik-Knin County;географические координаты;1;1;from
+Q58194;Šibenik-Knin County;код Freebase;1;1;from
+Q58146;Zadar County;категория объединяет темы;1;4;to
+Q58146;Zadar County;административно делится на;1;1;to
+Q58111;Požega-Slavonia County;код GeoNames;1;1;from
+Q58146;Zadar County;место в MusicBrainz;1;1;from
+Q58129;Brod-Posavina County;изображение;1;1;from
+Q58129;Brod-Posavina County;карта местонахождения;1;1;from
+Q58129;Brod-Posavina County;это частный случай понятия;1;1;from
+Q58129;Brod-Posavina County;столица;1;1;from
+Q58129;Brod-Posavina County;изображение флага;1;1;from
+Q58129;Brod-Posavina County;имеет границы с;1;4;to
+Q58129;Brod-Posavina County;изображение герба;1;1;from
+Q58129;Brod-Posavina County;численность населения;1;1;from
+Q58129;Brod-Posavina County;категория для людей, родившихся здесь;1;1;from
+Q58129;Brod-Posavina County;категория для людей, умерших здесь;1;1;from
+Q58129;Brod-Posavina County;код GeoNames;1;1;from
+Q58129;Brod-Posavina County;категория для людей, связанных с местностью;1;1;from
+Q58129;Brod-Posavina County;площадь;1;1;from
+Q58129;Brod-Posavina County;ISO 3166-2;1;1;from
+Q58129;Brod-Posavina County;категория на Викискладе;1;1;from
+Q58129;Brod-Posavina County;ID отношения в OpenStreetMap;1;1;from
+Q58129;Brod-Posavina County;часовой пояс;1;2;from
+Q58129;Brod-Posavina County;код тезауруса PACTOLS;1;1;from
+Q58129;Brod-Posavina County;местный телефонный код;1;1;from
+Q58129;Brod-Posavina County;государство;1;1;from
+Q58129;Brod-Posavina County;административно-территориальная единица;1;354;to
+Q58111;Požega-Slavonia County;общая тема категории;1;1;to
+Q58111;Požega-Slavonia County;код Freebase;1;1;from
+Q58111;Požega-Slavonia County;площадь;1;1;from
+Q58111;Požega-Slavonia County;ISO 3166-2;1;1;from
+Q58111;Požega-Slavonia County;категория на Викискладе;1;1;from
+Q58111;Požega-Slavonia County;ID отношения в OpenStreetMap;1;1;from
+Q58111;Požega-Slavonia County;часовой пояс;1;2;from
+Q58111;Požega-Slavonia County;местный телефонный код;1;1;from
+Q58111;Požega-Slavonia County;идентификатор местоположения ArchINFORM;1;1;from
+Q58111;Požega-Slavonia County;географические координаты;1;1;from
+Q58111;Požega-Slavonia County;Who's on First ID;1;1;from
+Q58111;Požega-Slavonia County;является столицей;1;1;to
+Q58111;Požega-Slavonia County;категория карт на Викискладе;1;1;from
+Q58111;Požega-Slavonia County;официальный сайт;1;1;from
+Q58111;Požega-Slavonia County;FIPS 10-4 (страны и регионы);1;1;from
+Q58111;Požega-Slavonia County;основная категория по теме;1;1;from
+Q58111;Požega-Slavonia County;место в MusicBrainz;1;1;from
+Q58111;Požega-Slavonia County;административно делится на;1;1;to
+Q58111;Požega-Slavonia County;место рождения;1;2;to
+Q58111;Požega-Slavonia County;категория объединяет темы;1;4;to
+Q58129;Brod-Posavina County;идентификатор местоположения ArchINFORM;1;1;from
+Q58129;Brod-Posavina County;географические координаты;1;1;from
+Q58129;Brod-Posavina County;код Freebase;1;1;from
+Q58146;Zadar County;местный телефонный код;1;1;from
+Q58146;Zadar County;категория для людей, связанных с местностью;1;1;from
+Q58146;Zadar County;площадь;1;1;from
+Q58146;Zadar County;код BNF;1;1;from
+Q58146;Zadar County;ISO 3166-2;1;1;from
+Q58146;Zadar County;категория на Викискладе;1;1;from
+Q58146;Zadar County;код автомобильного номера;1;1;from
+Q58146;Zadar County;ID отношения в OpenStreetMap;1;1;from
+Q58146;Zadar County;часовой пояс;1;2;from
+Q58146;Zadar County;идентификатор местоположения ArchINFORM;1;1;from
+Q58146;Zadar County;категория для людей, умерших здесь;1;1;from
+Q58146;Zadar County;географические координаты;1;1;from
+Q58146;Zadar County;код Freebase;1;1;from
+Q58146;Zadar County;Who's on First ID;1;1;from
+Q58146;Zadar County;код NKC;1;1;from
+Q58146;Zadar County;категория карт на Викискладе;1;1;from
+Q58146;Zadar County;официальный сайт;1;1;from
+Q58146;Zadar County;FIPS 10-4 (страны и регионы);1;1;from
+Q58146;Zadar County;основная категория по теме;1;1;from
+Q58146;Zadar County;код GeoNames;1;1;from
+Q58146;Zadar County;категория для людей, родившихся здесь;1;1;from
+Q58129;Brod-Posavina County;Who's on First ID;1;1;from
+Q58129;Brod-Posavina County;является столицей;1;1;to
+Q58129;Brod-Posavina County;категория карт на Викискладе;1;1;from
+Q58129;Brod-Posavina County;официальный сайт;1;1;from
+Q58129;Brod-Posavina County;FIPS 10-4 (страны и регионы);1;1;from
+Q58129;Brod-Posavina County;основная категория по теме;1;1;from
+Q58129;Brod-Posavina County;место в MusicBrainz;1;1;from
+Q58129;Brod-Posavina County;административно делится на;1;1;to
+Q58129;Brod-Posavina County;категория объединяет темы;1;4;to
+Q58129;Brod-Posavina County;общая тема категории;1;1;to
+Q58146;Zadar County;административно-территориальная единица;1;595;to
+Q58146;Zadar County;основной шаблон по теме;1;1;from
+Q58146;Zadar County;государство;1;1;from
+Q58146;Zadar County;изображение;1;1;from
+Q58146;Zadar County;карта местонахождения;1;1;from
+Q58146;Zadar County;это частный случай понятия;1;1;to
+Q58146;Zadar County;столица;1;1;from
+Q58146;Zadar County;изображение флага;1;1;from
+Q58146;Zadar County;имеет границы с;1;4;to
+Q58146;Zadar County;изображение герба;1;1;from
+Q58225;Vukovar-Syrmia County;численность населения;1;1;from
+Q58225;Vukovar-Syrmia County;официальное название;1;1;from
+Q58225;Vukovar-Syrmia County;категория для людей, родившихся здесь;1;1;from
+Q58225;Vukovar-Syrmia County;категория для людей, умерших здесь;1;1;from
+Q58289;Dubrovnik-Neretva County;изображение герба;1;1;from
+Q58289;Dubrovnik-Neretva County;категория для людей, родившихся здесь;1;1;from
+Q58289;Dubrovnik-Neretva County;категория для людей, умерших здесь;1;1;from
+Q58289;Dubrovnik-Neretva County;код GeoNames;1;1;from
+Q58289;Dubrovnik-Neretva County;категория для людей, связанных с местностью;1;1;from
+Q58289;Dubrovnik-Neretva County;площадь;1;1;from
+Q58289;Dubrovnik-Neretva County;ISO 3166-2;1;1;from
+Q58289;Dubrovnik-Neretva County;категория на Викискладе;1;1;from
+Q58289;Dubrovnik-Neretva County;ID отношения в OpenStreetMap;1;1;from
+Q58289;Dubrovnik-Neretva County;часовой пояс;1;2;from
+Q58289;Dubrovnik-Neretva County;местный телефонный код;1;1;from
+Q58289;Dubrovnik-Neretva County;состоит из;1;1;from
+Q58289;Dubrovnik-Neretva County;идентификатор местоположения ArchINFORM;1;1;from
+Q58289;Dubrovnik-Neretva County;географические координаты;1;1;from
+Q58289;Dubrovnik-Neretva County;код Freebase;1;1;from
+Q58289;Dubrovnik-Neretva County;Who's on First ID;1;1;from
+Q58289;Dubrovnik-Neretva County;категория карт на Викискладе;1;1;from
+Q58289;Dubrovnik-Neretva County;официальный сайт;1;1;from
+Q58289;Dubrovnik-Neretva County;FIPS 10-4 (страны и регионы);1;1;from
+Q58289;Dubrovnik-Neretva County;имеет границы с;1;1;to
+Q58289;Dubrovnik-Neretva County;изображение флага;1;1;from
+Q58289;Dubrovnik-Neretva County;столица;1;1;from
+Q58268;Istria County;место рождения;1;1;to
+Q58268;Istria County;официальный сайт;1;1;from
+Q58268;Istria County;FIPS 10-4 (страны и регионы);1;1;from
+Q58268;Istria County;основная категория по теме;1;1;from
+Q58268;Istria County;место в MusicBrainz;1;1;from
+Q58268;Istria County;административно делится на;1;1;to
+Q58268;Istria County;основная тема шаблона;1;1;to
+Q58268;Istria County;зона обслуживания;1;1;to
+Q58268;Istria County;категория объединяет темы;1;6;to
+Q58268;Istria County;является столицей;1;1;to
+Q58289;Dubrovnik-Neretva County;это частный случай понятия;1;1;from
+Q58268;Istria County;юрисдикция распространяется на;1;1;to
+Q58268;Istria County;предки из;1;2;to
+Q58268;Istria County;место смерти;1;1;to
+Q58268;Istria County;общая тема категории;1;1;to
+Q58268;Istria County;происходит из;1;3;to
+Q58289;Dubrovnik-Neretva County;административно-территориальная единица;1;809;to
+Q58289;Dubrovnik-Neretva County;государство;1;1;from
+Q58289;Dubrovnik-Neretva County;карта местонахождения;1;1;from
+Q58289;Dubrovnik-Neretva County;основная категория по теме;1;1;from
+Q58289;Dubrovnik-Neretva County;баннер Викигида;1;1;from
+Q58289;Dubrovnik-Neretva County;административно делится на;1;1;to
+Q58330;Međimurje County;категория карт на Викискладе;1;1;from
+Q58330;Međimurje County;ID отношения в OpenStreetMap;1;1;from
+Q58330;Međimurje County;часовой пояс;1;2;from
+Q58330;Međimurje County;местный телефонный код;1;1;from
+Q58330;Međimurje County;идентификатор местоположения ArchINFORM;1;1;from
+Q58330;Međimurje County;географические координаты;1;1;from
+Q58330;Međimurje County;код Freebase;1;1;from
+Q58330;Međimurje County;Who's on First ID;1;1;from
+Q58330;Međimurje County;код NKC;1;1;from
+Q58330;Međimurje County;официальный сайт;1;1;from
+Q58330;Međimurje County;ISO 3166-2;1;1;from
+Q58330;Međimurje County;FIPS 10-4 (страны и регионы);1;1;from
+Q58330;Međimurje County;основная категория по теме;1;1;from
+Q58330;Međimurje County;место в MusicBrainz;1;1;from
+Q58330;Međimurje County;административно делится на;1;1;to
+Q58330;Međimurje County;основная тема шаблона;1;1;to
+Q58330;Međimurje County;место рождения;1;2;to
+Q58330;Međimurje County;категория объединяет темы;1;4;to
+Q58330;Međimurje County;является столицей;1;1;to
+Q58330;Međimurje County;категория на Викискладе;1;1;from
+Q58330;Međimurje County;код BNF;1;1;from
+Q58289;Dubrovnik-Neretva County;категория объединяет темы;1;4;to
+Q58330;Međimurje County;столица;1;1;from
+Q58289;Dubrovnik-Neretva County;общая тема категории;1;1;to
+Q58289;Dubrovnik-Neretva County;является столицей;1;1;to
+Q58289;Dubrovnik-Neretva County;часть от;1;1;to
+Q58330;Međimurje County;административно-территориальная единица;1;114;to
+Q58330;Međimurje County;государство;1;1;from
+Q58330;Međimurje County;изображение;1;1;from
+Q58330;Međimurje County;карта местонахождения;1;1;from
+Q58330;Međimurje County;это частный случай понятия;1;1;from
+Q58330;Međimurje County;изображение флага;1;1;from
+Q58330;Međimurje County;площадь;1;1;from
+Q58330;Međimurje County;имеет границы с;1;2;to
+Q58330;Međimurje County;изображение герба;1;1;from
+Q58330;Međimurje County;основной шаблон по теме;1;1;from
+Q58330;Međimurje County;официальное название;1;1;from
+Q58330;Međimurje County;категория для людей, родившихся здесь;1;1;from
+Q58330;Međimurje County;категория для людей, умерших здесь;1;1;from
+Q58330;Međimurje County;код GeoNames;1;1;from
+Q58330;Međimurje County;категория для людей, связанных с местностью;1;1;from
+Q58268;Istria County;категория карт на Викискладе;1;1;from
+Q58268;Istria County;Who's on First ID;1;1;from
+Q58268;Istria County;код Freebase;1;1;from
+Q58253;Split-Dalmatia County;изображение герба;1;1;from
+Q58225;Vukovar-Syrmia County;является столицей;1;1;to
+Q58253;Split-Dalmatia County;административно-территориальная единица;1;1104;to
+Q58253;Split-Dalmatia County;государство;1;1;from
+Q58253;Split-Dalmatia County;карта местонахождения;1;1;from
+Q58253;Split-Dalmatia County;это частный случай понятия;1;1;from
+Q58253;Split-Dalmatia County;столица;1;1;from
+Q58253;Split-Dalmatia County;изображение флага;1;1;from
+Q58253;Split-Dalmatia County;имеет границы с;1;2;to
+Q58253;Split-Dalmatia County;категория для людей, родившихся здесь;1;1;from
+Q58225;Vukovar-Syrmia County;категория объединяет темы;1;4;to
+Q58253;Split-Dalmatia County;категория для людей, умерших здесь;1;1;from
+Q58253;Split-Dalmatia County;код GeoNames;1;1;from
+Q58253;Split-Dalmatia County;категория для людей, похороненных здесь;1;1;from
+Q58253;Split-Dalmatia County;категория для людей, связанных с местностью;1;1;from
+Q58253;Split-Dalmatia County;площадь;1;1;from
+Q58253;Split-Dalmatia County;ISO 3166-2;1;1;from
+Q58253;Split-Dalmatia County;категория на Викискладе;1;1;from
+Q58253;Split-Dalmatia County;ID отношения в OpenStreetMap;1;1;from
+Q58225;Vukovar-Syrmia County;общая тема категории;1;1;to
+Q58225;Vukovar-Syrmia County;место рождения;1;1;to
+Q58253;Split-Dalmatia County;код NUTS;1;1;from
+Q58225;Vukovar-Syrmia County;местный телефонный код;1;1;from
+Q58225;Vukovar-Syrmia County;код GeoNames;1;1;from
+Q58225;Vukovar-Syrmia County;название на языке оригинала;1;1;from
+Q58225;Vukovar-Syrmia County;категория для людей, связанных с местностью;1;1;from
+Q58225;Vukovar-Syrmia County;площадь;1;1;from
+Q58225;Vukovar-Syrmia County;ISO 3166-2;1;1;from
+Q58225;Vukovar-Syrmia County;категория на Викискладе;1;1;from
+Q58225;Vukovar-Syrmia County;ID отношения в OpenStreetMap;1;1;from
+Q58225;Vukovar-Syrmia County;часовой пояс;1;2;from
+Q58225;Vukovar-Syrmia County;идентификатор местоположения ArchINFORM;1;1;from
+Q58225;Vukovar-Syrmia County;административно делится на;1;1;to
+Q58225;Vukovar-Syrmia County;географические координаты;1;1;from
+Q58225;Vukovar-Syrmia County;код Freebase;1;1;from
+Q58225;Vukovar-Syrmia County;Who's on First ID;1;1;from
+Q58225;Vukovar-Syrmia County;категория карт на Викискладе;1;1;from
+Q58225;Vukovar-Syrmia County;официальный сайт;1;1;from
+Q58225;Vukovar-Syrmia County;FIPS 10-4 (страны и регионы);1;1;from
+Q58225;Vukovar-Syrmia County;основная категория по теме;1;1;from
+Q58225;Vukovar-Syrmia County;место в MusicBrainz;1;1;from
+Q58253;Split-Dalmatia County;идентификатор местоположения ArchINFORM;1;1;from
+Q58253;Split-Dalmatia County;географические координаты;1;1;from
+Q58268;Istria County;географические координаты;1;1;from
+Q58268;Istria County;используемый язык;1;3;from
+Q58268;Istria County;основной шаблон по теме;1;1;from
+Q58268;Istria County;категория для людей, родившихся здесь;1;1;from
+Q58268;Istria County;категория для людей, умерших здесь;1;1;from
+Q58268;Istria County;код GeoNames;1;1;from
+Q58268;Istria County;название на языке оригинала;1;2;from
+Q58268;Istria County;категория для людей, похороненных здесь;1;1;from
+Q58268;Istria County;категория для людей, связанных с местностью;1;1;from
+Q58268;Istria County;площадь;1;1;from
+Q58268;Istria County;ISO 3166-2;1;1;from
+Q58268;Istria County;имеет границы с;1;1;to
+Q58268;Istria County;EU VAT number;1;1;from
+Q58268;Istria County;категория на Викискладе;1;1;from
+Q58268;Istria County;код автомобильного номера;1;1;from
+Q58268;Istria County;ID отношения в OpenStreetMap;1;1;from
+Q58268;Istria County;часовой пояс;1;2;from
+Q58268;Istria County;местный телефонный код;1;1;from
+Q58268;Istria County;идентификатор местоположения ArchINFORM;1;1;from
+Q58268;Istria County;EU Research participant ID;1;1;from
+Q58268;Istria County;изображение герба;1;1;from
+Q58268;Istria County;изображение флага;1;1;from
+Q58253;Split-Dalmatia County;код Freebase;1;1;from
+Q58253;Split-Dalmatia County;находится в границах современной административной единицы;1;1;to
+Q58253;Split-Dalmatia County;Who's on First ID;1;1;from
+Q58253;Split-Dalmatia County;категория карт на Викискладе;1;1;from
+Q58253;Split-Dalmatia County;официальный сайт;1;1;from
+Q58253;Split-Dalmatia County;FIPS 10-4 (страны и регионы);1;1;from
+Q58253;Split-Dalmatia County;основная категория по теме;1;1;from
+Q58253;Split-Dalmatia County;баннер Викигида;1;1;from
+Q58253;Split-Dalmatia County;место в MusicBrainz;1;1;from
+Q58253;Split-Dalmatia County;административно делится на;1;1;to
+Q58253;Split-Dalmatia County;категория объединяет темы;1;5;to
+Q58268;Istria County;столица;1;1;from
+Q58253;Split-Dalmatia County;место рождения;1;2;to
+Q58253;Split-Dalmatia County;общая тема категории;1;1;to
+Q58253;Split-Dalmatia County;является столицей;1;1;to
+Q58268;Istria County;административно-территориальная единица;1;762;to
+Q58268;Istria County;государство;1;1;from
+Q58268;Istria County;код GND;1;1;from
+Q58268;Istria County;карта местонахождения;1;1;from
+Q58268;Istria County;это частный случай понятия;1;1;from
+Q58111;Požega-Slavonia County;категория для людей, связанных с местностью;1;1;from
+Q58111;Požega-Slavonia County;категория для людей, умерших здесь;1;1;from
+Q27038;Zagreb County;государство;1;1;from
+Q57060;Sisak-Moslavina County;ID отношения в OpenStreetMap;1;1;from
+Q57071;Karlovac County;изображение герба;1;1;from
+Q57071;Karlovac County;численность населения;1;1;from
+Q57071;Karlovac County;основной шаблон по теме;1;1;from
+Q57071;Karlovac County;категория для людей, родившихся здесь;1;1;from
+Q57071;Karlovac County;категория для людей, умерших здесь;1;1;from
+Q57071;Karlovac County;код GeoNames;1;1;from
+Q57071;Karlovac County;категория для людей, связанных с местностью;1;1;from
+Q57071;Karlovac County;площадь;1;1;from
+Q57071;Karlovac County;код BabelNet;1;1;from
+Q57071;Karlovac County;ISO 3166-2;1;1;from
+Q57071;Karlovac County;категория на Викискладе;1;1;from
+Q57071;Karlovac County;ID отношения в OpenStreetMap;1;1;from
+Q57071;Karlovac County;часовой пояс;1;2;from
+Q57071;Karlovac County;местный телефонный код;1;1;from
+Q57071;Karlovac County;идентификатор местоположения ArchINFORM;1;1;from
+Q57071;Karlovac County;географические координаты;1;1;from
+Q57071;Karlovac County;код Freebase;1;1;from
+Q57071;Karlovac County;Who's on First ID;1;1;from
+Q57071;Karlovac County;категория карт на Викискладе;1;1;from
+Q57071;Karlovac County;имеет границы с;1;4;to
+Q57071;Karlovac County;изображение флага;1;1;from
+Q57071;Karlovac County;столица;1;1;from
+Q57060;Sisak-Moslavina County;место в MusicBrainz;1;1;from
+Q57060;Sisak-Moslavina County;местный телефонный код;1;1;from
+Q57060;Sisak-Moslavina County;географические координаты;1;1;from
+Q57060;Sisak-Moslavina County;код Freebase;1;1;from
+Q57060;Sisak-Moslavina County;Who's on First ID;1;1;from
+Q57060;Sisak-Moslavina County;категория карт на Викискладе;1;1;from
+Q57060;Sisak-Moslavina County;официальный сайт;1;1;from
+Q57060;Sisak-Moslavina County;FIPS 10-4 (страны и регионы);1;1;from
+Q57060;Sisak-Moslavina County;основная категория по теме;1;1;from
+Q57060;Sisak-Moslavina County;административно делится на;1;1;to
+Q57071;Karlovac County;это частный случай понятия;1;1;from
+Q57060;Sisak-Moslavina County;место рождения;1;1;to
+Q57060;Sisak-Moslavina County;категория объединяет темы;1;4;to
+Q57060;Sisak-Moslavina County;является столицей;1;1;to
+Q57060;Sisak-Moslavina County;общая тема категории;1;1;to
+Q57071;Karlovac County;административно-территориальная единица;1;854;to
+Q57071;Karlovac County;государство;1;1;from
+Q57071;Karlovac County;изображение;1;1;from
+Q57071;Karlovac County;карта местонахождения;1;1;from
+Q57071;Karlovac County;официальный сайт;1;1;from
+Q57071;Karlovac County;FIPS 10-4 (страны и регионы);1;1;from
+Q57071;Karlovac County;основная категория по теме;1;1;from
+Q57967;Varaždin County;географические координаты;1;1;from
+Q57967;Varaždin County;площадь;1;1;from
+Q57967;Varaždin County;ISO 3166-2;1;1;from
+Q57967;Varaždin County;идентификатор Ringgold;1;1;from
+Q57967;Varaždin County;категория на Викискладе;1;1;from
+Q57967;Varaždin County;ID отношения в OpenStreetMap;1;1;from
+Q57967;Varaždin County;часовой пояс;1;2;from
+Q57967;Varaždin County;местный телефонный код;1;1;from
+Q57967;Varaždin County;идентификатор местоположения ArchINFORM;1;1;from
+Q57967;Varaždin County;код Freebase;1;1;from
+Q57967;Varaždin County;код GeoNames;1;1;from
+Q57967;Varaždin County;Who's on First ID;1;1;from
+Q57967;Varaždin County;официальный сайт;1;1;from
+Q57967;Varaždin County;FIPS 10-4 (страны и регионы);1;1;from
+Q57967;Varaždin County;основная категория по теме;1;1;from
+Q57967;Varaždin County;место в MusicBrainz;1;1;from
+Q57967;Varaždin County;административно делится на;1;1;to
+Q57967;Varaždin County;основная тема шаблона;1;1;to
+Q57967;Varaždin County;категория объединяет темы;1;3;to
+Q57967;Varaždin County;категория для людей, связанных с местностью;1;1;from
+Q57967;Varaždin County;категория для людей, умерших здесь;1;1;from
+Q57071;Karlovac County;место в MusicBrainz;1;1;from
+Q57967;Varaždin County;код ISNI;1;1;from
+Q57071;Karlovac County;административно делится на;1;1;to
+Q57071;Karlovac County;основная тема шаблона;1;1;to
+Q57071;Karlovac County;категория объединяет темы;1;4;to
+Q57071;Karlovac County;общая тема категории;1;1;to
+Q57071;Karlovac County;является столицей;1;1;to
+Q57967;Varaždin County;административно-территориальная единица;1;309;to
+Q57967;Varaždin County;государство;1;1;from
+Q57967;Varaždin County;изображение;1;1;from
+Q57967;Varaždin County;код GND;1;1;from
+Q57967;Varaždin County;категория для людей, родившихся здесь;1;1;from
+Q57967;Varaždin County;карта местонахождения;1;1;from
+Q57967;Varaždin County;это частный случай понятия;1;1;from
+Q57967;Varaždin County;столица;1;1;from
+Q57967;Varaždin County;изображение флага;1;1;from
+Q57967;Varaždin County;имеет границы с;1;4;to
+Q57967;Varaždin County;изображение герба;1;1;from
+Q57967;Varaždin County;численность населения;1;1;from
+Q57967;Varaždin County;основной шаблон по теме;1;1;from
+Q57060;Sisak-Moslavina County;часовой пояс;1;2;from
+Q57060;Sisak-Moslavina County;категория на Викискладе;1;1;from
+Q58111;Požega-Slavonia County;категория для людей, родившихся здесь;1;1;from
+Q57060;Sisak-Moslavina County;ISO 3166-2;1;1;from
+Q27038;Zagreb County;код Freebase;1;1;from
+Q27038;Zagreb County;Who's on First ID;1;1;from
+Q27038;Zagreb County;категория карт на Викискладе;1;1;from
+Q27038;Zagreb County;официальный сайт;1;1;from
+Q27038;Zagreb County;FIPS 10-4 (страны и регионы);1;1;from
+Q27038;Zagreb County;основная категория по теме;1;1;from
+Q27038;Zagreb County;место в MusicBrainz;1;1;from
+Q27038;Zagreb County;административно делится на;1;1;to
+Q27038;Zagreb County;категория объединяет темы;1;3;to
+Q27038;Zagreb County;юрисдикция распространяется на;1;1;to
+Q27038;Zagreb County;основная тема шаблона;1;1;to
+Q27038;Zagreb County;общая тема категории;1;1;to
+Q27038;Zagreb County;является столицей;1;1;to
+Q57056;Krapina-Zagorje County;административно-территориальная единица;1;425;to
+Q57056;Krapina-Zagorje County;государство;1;1;from
+Q57056;Krapina-Zagorje County;карта местонахождения;1;1;from
+Q57056;Krapina-Zagorje County;это частный случай понятия;1;1;from
+Q57056;Krapina-Zagorje County;столица;1;1;from
+Q57056;Krapina-Zagorje County;изображение флага;1;1;from
+Q27038;Zagreb County;географические координаты;1;1;from
+Q27038;Zagreb County;идентификатор местоположения ArchINFORM;1;1;from
+Q27038;Zagreb County;часовой пояс;1;2;from
+Q27038;Zagreb County;официальное название;1;1;from
+Q27038;Zagreb County;карта местонахождения;1;1;from
+Q27038;Zagreb County;это частный случай понятия;1;1;from
+Q27038;Zagreb County;столица;1;1;from
+Q27038;Zagreb County;изображение флага;1;1;from
+Q27038;Zagreb County;имеет границы с;1;7;to
+Q27038;Zagreb County;изображение герба;1;1;from
+Q27038;Zagreb County;численность населения;1;2;from
+Q27038;Zagreb County;основной шаблон по теме;1;1;from
+Q27038;Zagreb County;категория для людей, родившихся здесь;1;1;from
+Q27038;Zagreb County;ID отношения в OpenStreetMap;1;1;from
+Q27038;Zagreb County;код GeoNames;1;1;from
+Q27038;Zagreb County;код TGN;1;1;from
+Q27038;Zagreb County;название на языке оригинала;1;1;from
+Q27038;Zagreb County;категория для людей, связанных с местностью;1;1;from
+Q27038;Zagreb County;площадь;1;1;from
+Q27038;Zagreb County;код BNF;1;1;from
+Q27038;Zagreb County;ISO 3166-2;1;1;from
+Q27038;Zagreb County;категория на Викискладе;1;1;from
+Q57056;Krapina-Zagorje County;имеет границы с;1;3;to
+Q57056;Krapina-Zagorje County;изображение герба;1;1;from
+Q57056;Krapina-Zagorje County;основной шаблон по теме;1;1;from
+Q57060;Sisak-Moslavina County;имеет границы с;1;5;to
+Q57056;Krapina-Zagorje County;общая тема категории;1;1;to
+Q57060;Sisak-Moslavina County;административно-территориальная единица;1;770;to
+Q57060;Sisak-Moslavina County;государство;1;1;from
+Q57060;Sisak-Moslavina County;изображение;1;1;from
+Q57060;Sisak-Moslavina County;карта местонахождения;1;1;from
+Q57060;Sisak-Moslavina County;это частный случай понятия;1;1;from
+Q57060;Sisak-Moslavina County;столица;1;1;from
+Q57060;Sisak-Moslavina County;изображение флага;1;1;from
+Q57060;Sisak-Moslavina County;глава правительства;1;1;from
+Q57056;Krapina-Zagorje County;категория объединяет темы;1;3;to
+Q57060;Sisak-Moslavina County;изображение герба;1;1;from
+Q57060;Sisak-Moslavina County;численность населения;1;2;from
+Q57060;Sisak-Moslavina County;категория для людей, родившихся здесь;1;1;from
+Q57060;Sisak-Moslavina County;категория для людей, умерших здесь;1;1;from
+Q57060;Sisak-Moslavina County;код GeoNames;1;1;from
+Q57060;Sisak-Moslavina County;название на языке оригинала;1;1;from
+Q57060;Sisak-Moslavina County;категория для людей, связанных с местностью;1;1;from
+Q57060;Sisak-Moslavina County;площадь;1;1;from
+Q57056;Krapina-Zagorje County;является столицей;1;1;to
+Q57056;Krapina-Zagorje County;место рождения;1;2;to
+Q57056;Krapina-Zagorje County;категория для людей, родившихся здесь;1;1;from
+Q57056;Krapina-Zagorje County;местный телефонный код;1;1;from
+Q57056;Krapina-Zagorje County;категория для людей, умерших здесь;1;1;from
+Q57056;Krapina-Zagorje County;код GeoNames;1;1;from
+Q57056;Krapina-Zagorje County;категория для людей, связанных с местностью;1;1;from
+Q57056;Krapina-Zagorje County;площадь;1;1;from
+Q57056;Krapina-Zagorje County;ISO 3166-2;1;1;from
+Q57056;Krapina-Zagorje County;категория на Викискладе;1;1;from
+Q57056;Krapina-Zagorje County;ID отношения в OpenStreetMap;1;1;from
+Q57056;Krapina-Zagorje County;часовой пояс;1;2;from
+Q57056;Krapina-Zagorje County;идентификатор местоположения ArchINFORM;1;1;from
+Q57056;Krapina-Zagorje County;основная тема шаблона;1;1;to
+Q57056;Krapina-Zagorje County;географические координаты;1;1;from
+Q57056;Krapina-Zagorje County;код Freebase;1;1;from
+Q57056;Krapina-Zagorje County;Who's on First ID;1;1;from
+Q57056;Krapina-Zagorje County;официальный сайт;1;1;from
+Q57056;Krapina-Zagorje County;FIPS 10-4 (страны и регионы);1;1;from
+Q57056;Krapina-Zagorje County;основная категория по теме;1;1;from
+Q57056;Krapina-Zagorje County;место в MusicBrainz;1;1;from
+Q57056;Krapina-Zagorje County;административно делится на;1;1;to
+Q57967;Varaždin County;общая тема категории;1;1;to
+Q57967;Varaždin County;является столицей;1;1;to
+Q58026;Koprivnica-Križevci County;административно-территориальная единица;1;259;to
+Q58026;Koprivnica-Križevci County;государство;1;1;from
+Q58081;Lika-Senj County;основной шаблон по теме;1;1;from
+Q58081;Lika-Senj County;категория для людей, родившихся здесь;1;1;from
+Q58081;Lika-Senj County;категория для людей, умерших здесь;1;1;from
+Q58081;Lika-Senj County;код GeoNames;1;1;from
+Q58081;Lika-Senj County;категория для людей, связанных с местностью;1;1;from
+Q58081;Lika-Senj County;площадь;1;1;from
+Q58081;Lika-Senj County;ISO 3166-2;1;1;from
+Q58081;Lika-Senj County;категория на Викискладе;1;1;from
+Q58081;Lika-Senj County;ID отношения в OpenStreetMap;1;1;from
+Q58081;Lika-Senj County;идентификатор местоположения ArchINFORM;1;1;from
+Q58081;Lika-Senj County;географические координаты;1;1;from
+Q58081;Lika-Senj County;код Freebase;1;1;from
+Q58081;Lika-Senj County;Who's on First ID;1;1;from
+Q58081;Lika-Senj County;категория карт на Викискладе;1;1;from
+Q58081;Lika-Senj County;официальный сайт;1;1;from
+Q58081;Lika-Senj County;FIPS 10-4 (страны и регионы);1;1;from
+Q58081;Lika-Senj County;основная категория по теме;1;1;from
+Q58081;Lika-Senj County;административно делится на;1;1;to
+Q58081;Lika-Senj County;основная тема шаблона;1;1;to
+Q58081;Lika-Senj County;изображение герба;1;1;from
+Q58081;Lika-Senj County;имеет границы с;1;3;to
+Q58081;Lika-Senj County;изображение флага;1;1;from
+Q58071;Primorje-Gorski Kotar County;зона обслуживания;1;1;to
+Q58071;Primorje-Gorski Kotar County;Who's on First ID;1;1;from
+Q58071;Primorje-Gorski Kotar County;категория карт на Викискладе;1;1;from
+Q58071;Primorje-Gorski Kotar County;официальный сайт;1;1;from
+Q58071;Primorje-Gorski Kotar County;FIPS 10-4 (страны и регионы);1;1;from
+Q58071;Primorje-Gorski Kotar County;основная категория по теме;1;1;from
+Q58071;Primorje-Gorski Kotar County;административно делится на;1;1;to
+Q58071;Primorje-Gorski Kotar County;место рождения;1;2;to
+Q58071;Primorje-Gorski Kotar County;основная тема шаблона;1;1;to
+Q58071;Primorje-Gorski Kotar County;категория объединяет темы;1;5;to
+Q58081;Lika-Senj County;столица;1;1;from
+Q58071;Primorje-Gorski Kotar County;местонахождение;1;1;to
+Q58071;Primorje-Gorski Kotar County;общая тема категории;1;1;to
+Q58071;Primorje-Gorski Kotar County;является столицей;1;1;to
+Q58071;Primorje-Gorski Kotar County;происходит из;1;1;to
+Q58081;Lika-Senj County;административно-территориальная единица;1;1633;to
+Q58081;Lika-Senj County;государство;1;1;from
+Q58081;Lika-Senj County;карта местонахождения;1;1;from
+Q58081;Lika-Senj County;это частный случай понятия;1;1;from
+Q58081;Lika-Senj County;категория объединяет темы;1;4;to
+Q58081;Lika-Senj County;место рождения;1;2;to
+Q58081;Lika-Senj County;является столицей;1;1;to
+Q58092;Virovitica-Podravina County;общая тема категории;1;1;to
+Q58092;Virovitica-Podravina County;официальный сайт;1;1;from
+Q58092;Virovitica-Podravina County;FIPS 10-4 (страны и регионы);1;1;from
+Q58092;Virovitica-Podravina County;основная категория по теме;1;1;from
+Q58092;Virovitica-Podravina County;административно делится на;1;1;to
+Q58092;Virovitica-Podravina County;местонахождение;1;2;to
+Q58092;Virovitica-Podravina County;является столицей;1;1;to
+Q58092;Virovitica-Podravina County;категория объединяет темы;1;2;to
+Q58092;Virovitica-Podravina County;место рождения;1;2;to
+Q58111;Požega-Slavonia County;административно-территориальная единица;1;406;to
+Q58092;Virovitica-Podravina County;код Freebase;1;1;from
+Q58111;Požega-Slavonia County;государство;1;1;from
+Q58111;Požega-Slavonia County;карта местонахождения;1;1;from
+Q58111;Požega-Slavonia County;это частный случай понятия;1;1;from
+Q58111;Požega-Slavonia County;столица;1;1;from
+Q58111;Požega-Slavonia County;изображение флага;1;1;from
+Q58111;Požega-Slavonia County;имеет границы с;1;5;to
+Q58111;Požega-Slavonia County;изображение герба;1;1;from
+Q58111;Požega-Slavonia County;официальное название;1;1;from
+Q58092;Virovitica-Podravina County;Who's on First ID;1;1;from
+Q58092;Virovitica-Podravina County;географические координаты;1;1;from
+Q58081;Lika-Senj County;общая тема категории;1;1;to
+Q58092;Virovitica-Podravina County;численность населения;1;1;from
+Q58092;Virovitica-Podravina County;административно-территориальная единица;1;208;to
+Q58092;Virovitica-Podravina County;государство;1;1;from
+Q58092;Virovitica-Podravina County;карта местонахождения;1;1;from
+Q58092;Virovitica-Podravina County;это частный случай понятия;1;1;from
+Q58092;Virovitica-Podravina County;столица;1;1;from
+Q58092;Virovitica-Podravina County;изображение флага;1;1;from
+Q58092;Virovitica-Podravina County;имеет границы с;1;4;to
+Q58092;Virovitica-Podravina County;изображение герба;1;1;from
+Q58092;Virovitica-Podravina County;категория для людей, родившихся здесь;1;1;from
+Q58092;Virovitica-Podravina County;идентификатор местоположения ArchINFORM;1;1;from
+Q58092;Virovitica-Podravina County;код GeoNames;1;1;from
+Q58092;Virovitica-Podravina County;категория для людей, связанных с местностью;1;1;from
+Q58092;Virovitica-Podravina County;площадь;1;1;from
+Q58092;Virovitica-Podravina County;ISO 3166-2;1;1;from
+Q58092;Virovitica-Podravina County;категория на Викискладе;1;1;from
+Q58092;Virovitica-Podravina County;ID отношения в OpenStreetMap;1;1;from
+Q58092;Virovitica-Podravina County;часовой пояс;1;2;from
+Q58092;Virovitica-Podravina County;местный телефонный код;1;1;from
+Q58071;Primorje-Gorski Kotar County;код Freebase;1;1;from
+Q58071;Primorje-Gorski Kotar County;географические координаты;1;1;from
+Q58071;Primorje-Gorski Kotar County;идентификатор местоположения ArchINFORM;1;1;from
+Q58026;Koprivnica-Križevci County;общая тема категории;1;1;to
+Q58026;Koprivnica-Križevci County;FIPS 10-4 (страны и регионы);1;1;from
+Q58026;Koprivnica-Križevci County;основная категория по теме;1;1;from
+Q58026;Koprivnica-Križevci County;место в MusicBrainz;1;1;from
+Q58026;Koprivnica-Križevci County;административно делится на;1;1;to
+Q58026;Koprivnica-Križevci County;основная тема шаблона;1;1;to
+Q58026;Koprivnica-Križevci County;место рождения;1;2;to
+Q58026;Koprivnica-Križevci County;место смерти;1;1;to
+Q58026;Koprivnica-Križevci County;категория объединяет темы;1;3;to
+Q58026;Koprivnica-Križevci County;является столицей;1;1;to
+Q58026;Koprivnica-Križevci County;Who's on First ID;1;1;from
+Q58060;Bjelovar-Bilogora County;административно-территориальная единица;1;320;to
+Q58060;Bjelovar-Bilogora County;государство;1;1;from
+Q58060;Bjelovar-Bilogora County;изображение;1;1;from
+Q58060;Bjelovar-Bilogora County;описание герба;1;1;from
+Q58060;Bjelovar-Bilogora County;карта местонахождения;1;1;from
+Q58060;Bjelovar-Bilogora County;это частный случай понятия;1;1;from
+Q58060;Bjelovar-Bilogora County;столица;1;1;from
+Q58060;Bjelovar-Bilogora County;изображение флага;1;1;from
+Q58026;Koprivnica-Križevci County;официальный сайт;1;1;from
+Q58026;Koprivnica-Križevci County;код Freebase;1;1;from
+Q58060;Bjelovar-Bilogora County;изображение герба;1;1;from
+Q58026;Koprivnica-Križevci County;категория для людей, родившихся здесь;1;1;from
+Q58026;Koprivnica-Križevci County;карта местонахождения;1;1;from
+Q58026;Koprivnica-Križevci County;это частный случай понятия;1;1;from
+Q58026;Koprivnica-Križevci County;столица;1;1;from
+Q58026;Koprivnica-Križevci County;изображение флага;1;1;from
+Q58026;Koprivnica-Križevci County;имеет границы с;1;5;to
+Q58026;Koprivnica-Križevci County;изображение герба;1;1;from
+Q58026;Koprivnica-Križevci County;численность населения;1;2;from
+Q58026;Koprivnica-Križevci County;основной шаблон по теме;1;1;from
+Q58026;Koprivnica-Križevci County;категория для людей, умерших здесь;1;1;from
+Q58026;Koprivnica-Križevci County;географические координаты;1;1;from
+Q58026;Koprivnica-Križevci County;код GeoNames;1;1;from
+Q58026;Koprivnica-Križevci County;категория для людей, связанных с местностью;1;1;from
+Q58026;Koprivnica-Križevci County;площадь;1;1;from
+Q58026;Koprivnica-Križevci County;ISO 3166-2;1;1;from
+Q58026;Koprivnica-Križevci County;категория на Викискладе;1;1;from
+Q58026;Koprivnica-Križevci County;ID отношения в OpenStreetMap;1;1;from
+Q58026;Koprivnica-Križevci County;часовой пояс;1;2;from
+Q58026;Koprivnica-Križevci County;местный телефонный код;1;1;from
+Q58060;Bjelovar-Bilogora County;имеет границы с;1;5;to
+Q58060;Bjelovar-Bilogora County;численность населения;1;1;from
+Q58071;Primorje-Gorski Kotar County;ID отношения в OpenStreetMap;1;1;from
+Q58071;Primorje-Gorski Kotar County;основной шаблон по теме;1;1;from
+Q58071;Primorje-Gorski Kotar County;административно-территориальная единица;1;681;to
+Q58071;Primorje-Gorski Kotar County;государство;1;1;from
+Q58071;Primorje-Gorski Kotar County;карта местонахождения;1;1;from
+Q58071;Primorje-Gorski Kotar County;это частный случай понятия;1;1;from
+Q58071;Primorje-Gorski Kotar County;столица;1;1;from
+Q58071;Primorje-Gorski Kotar County;изображение флага;1;1;from
+Q58071;Primorje-Gorski Kotar County;имеет границы с;1;4;to
+Q58071;Primorje-Gorski Kotar County;изображение герба;1;1;from
+Q58071;Primorje-Gorski Kotar County;категория для людей, родившихся здесь;1;1;from
+Q58060;Bjelovar-Bilogora County;общая тема категории;1;1;to
+Q58071;Primorje-Gorski Kotar County;категория для людей, умерших здесь;1;1;from
+Q58071;Primorje-Gorski Kotar County;код GeoNames;1;1;from
+Q58071;Primorje-Gorski Kotar County;категория для людей, связанных с местностью;1;1;from
+Q58071;Primorje-Gorski Kotar County;площадь;1;1;from
+Q58071;Primorje-Gorski Kotar County;используемый язык;1;1;from
+Q58071;Primorje-Gorski Kotar County;ISO 3166-2;1;1;from
+Q58071;Primorje-Gorski Kotar County;категория на Викискладе;1;1;from
+Q58071;Primorje-Gorski Kotar County;код автомобильного номера;1;1;from
+Q58060;Bjelovar-Bilogora County;является столицей;1;1;to
+Q58060;Bjelovar-Bilogora County;категория объединяет темы;1;3;to
+Q58060;Bjelovar-Bilogora County;категория для людей, родившихся здесь;1;1;from
+Q58060;Bjelovar-Bilogora County;идентификатор местоположения ArchINFORM;1;1;from
+Q58060;Bjelovar-Bilogora County;категория для людей, умерших здесь;1;1;from
+Q58060;Bjelovar-Bilogora County;код GeoNames;1;1;from
+Q58060;Bjelovar-Bilogora County;площадь;1;1;from
+Q58060;Bjelovar-Bilogora County;ISO 3166-2;1;1;from
+Q58060;Bjelovar-Bilogora County;категория на Викискладе;1;1;from
+Q58060;Bjelovar-Bilogora County;код автомобильного номера;1;2;from
+Q58060;Bjelovar-Bilogora County;ID отношения в OpenStreetMap;1;1;from
+Q58060;Bjelovar-Bilogora County;местный телефонный код;1;1;from
+Q58060;Bjelovar-Bilogora County;код NUTS;1;1;from
+Q58060;Bjelovar-Bilogora County;административно делится на;1;2;to
+Q58060;Bjelovar-Bilogora County;географические координаты;1;1;from
+Q58060;Bjelovar-Bilogora County;код Freebase;1;1;from
+Q58060;Bjelovar-Bilogora County;Who's on First ID;1;1;from
+Q58060;Bjelovar-Bilogora County;категория карт на Викискладе;1;1;from
+Q58060;Bjelovar-Bilogora County;официальный сайт;1;1;from
+Q58060;Bjelovar-Bilogora County;FIPS 10-4 (страны и регионы);1;1;from
+Q58060;Bjelovar-Bilogora County;основная категория по теме;1;1;from
+Q58060;Bjelovar-Bilogora County;место в MusicBrainz;1;1;from
+Q58330;Međimurje County;общая тема категории;1;1;to

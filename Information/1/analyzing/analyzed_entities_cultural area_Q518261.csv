@@ -1,0 +1,235 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q18389;New England;административно-территориальная единица;1;1;to
+Q1788657;Northern England;позиционная карта;1;1;from
+Q1788657;Northern England;имеет границы с;1;3;from
+Q1788657;Northern England;численность населения;1;1;from
+Q1788657;Northern England;число посетителей в год;1;4;from
+Q1788657;Northern England;уровень безработицы;1;1;from
+Q1788657;Northern England;WOEID;1;1;from
+Q1788657;Northern England;самая северная точка;1;1;from
+Q1788657;Northern England;самая южная точка;1;1;from
+Q1788657;Northern England;самая восточная точка;1;1;from
+Q1788657;Northern England;самая западная точка;1;1;from
+Q1788657;Northern England;прозвище;1;5;from
+Q1788657;Northern England;этнохороним;1;1;from
+Q1788657;Northern England;код TGN;1;1;from
+Q1788657;Northern England;кухня;1;13;from
+Q1788657;Northern England;ключевое событие;1;20;from
+Q1788657;Northern England;площадь;1;1;from
+Q1788657;Northern England;общий объём экспорта;1;1;from
+Q1788657;Northern England;общий объём импорта;1;1;from
+Q1788657;Northern England;код FAST;1;1;from
+Q1788657;Northern England;классификация климата Кёппена;1;1;from
+Q1788657;Northern England;код BabelNet;1;1;from
+Q1788657;Northern England;код BNF;1;1;from
+Q1788657;Northern England;используемый язык;1;1;from
+Q1788657;Northern England;категория на Викискладе;1;1;from
+Q1788657;Northern England;святой покровитель;1;1;from
+Q1788657;Northern England;часовой пояс;1;2;from
+Q1788657;Northern England;наивысшая точка;1;1;from
+Q1788657;Northern England;это частный случай понятия;1;2;from
+Q1788657;Northern England;код LCNAF;1;1;from
+Q1788657;Northern England;карта местонахождения;1;1;from
+Q1788657;Northern England;код GND;1;1;from
+Q781973;Rust Belt;государство;1;1;from
+Q781973;Rust Belt;карта местонахождения;1;1;from
+Q781973;Rust Belt;это частный случай понятия;1;2;from
+Q781973;Rust Belt;код в энциклопедии «Британника онлайн»;1;1;from
+Q781973;Rust Belt;код темы Quora;1;1;from
+Q781973;Rust Belt;состоит из;1;1;from
+Q781973;Rust Belt;географические координаты;1;1;from
+Q781973;Rust Belt;код Freebase;1;1;from
+Q781973;Rust Belt;основная тема;1;1;to
+Q781973;Rust Belt;вдохновлено;1;1;to
+Q781973;Rust Belt;часть от;1;1;to
+Q781973;Rust Belt;находится в пределах природно-географического объекта;1;1;to
+Q1076032;Mithila;государство;1;1;from
+Q1076032;Mithila;карта местонахождения;1;1;from
+Q1076032;Mithila;это частный случай понятия;1;1;from
+Q1076032;Mithila;баннер Викигида;1;1;from
+Q1076032;Mithila;место рождения;1;1;to
+Q1788657;Northern England;ответственность несёт;1;2;from
+Q1788657;Northern England;административно-территориальная единица;1;1;from
+Q1788657;Northern England;административно делится на;1;3;from
+Q1788657;Northern England;предыдущее по порядку;1;4;from
+Q1788657;Northern England;государство;1;1;from
+Q1788657;Northern England;находится на берегу водоёма;1;6;from
+Q1788657;Northern England;исполнительная власть;1;2;from
+Q1788657;Northern England;код VIAF;1;1;from
+Q1788657;Northern England;код Freebase;1;1;from
+Q1788657;Northern England;основная категория по теме;1;1;from
+Q18389;New England;названо в честь;1;1;to
+Q7681435;Tamilakam;это частный случай понятия;1;1;to
+Q3321023;Olmec heartland;государство;1;1;from
+Q3321023;Olmec heartland;это частный случай понятия;1;1;from
+Q3321023;Olmec heartland;позиционная карта;1;1;from
+Q3321023;Olmec heartland;местонахождение;1;1;to
+Q3321023;Olmec heartland;географические координаты;1;1;from
+Q3321023;Olmec heartland;код Freebase;1;1;from
+Q4193757;Zomia;названо в честь;1;1;from
+Q4193757;Zomia;это частный случай понятия;1;2;from
+Q4193757;Zomia;кем названо;1;1;from
+Q4193757;Zomia;история происходит в месте;1;1;to
+Q4193757;Zomia;основная тема;1;1;to
+Q7681435;Tamilakam;карта местонахождения;1;1;from
+Q7681435;Tamilakam;описывается в источниках;1;1;from
+Q1788657;Northern England;код NLI;1;1;from
+Q7681435;Tamilakam;код в энциклопедии «Британника онлайн»;1;1;from
+Q7681435;Tamilakam;подкласс от;1;1;from
+Q28151373;Q28151373;административно-территориальная единица;1;1;from
+Q28151373;Q28151373;государство;1;1;from
+Q28151373;Q28151373;изображение;1;1;from
+Q28151373;Q28151373;это частный случай понятия;1;2;from
+Q28151373;Q28151373;географические координаты;1;1;from
+Q30089740;Albanosphere;основатель;1;1;from
+Q30089740;Albanosphere;этническая группа;1;1;from
+Q30089740;Albanosphere;это частный случай понятия;1;1;from
+Q30089740;Albanosphere;часть от;1;1;from
+Q30747883;monde arabo-musulman;это частный случай понятия;1;2;from
+Q2673740;Appalachia;категория объединяет темы;1;1;to
+Q2673740;Appalachia;место рождения;1;1;to
+Q2673740;Appalachia;общая тема категории;1;1;to
+Q2673740;Appalachia;местонахождение;1;1;to
+Q1788657;Northern England;происходит из;1;1;to
+Q1788657;Northern England;место рождения;1;2;to
+Q1788657;Northern England;местонахождение;1;6;to
+Q1788657;Northern England;общая тема категории;1;1;to
+Q1788657;Northern England;юрисдикция распространяется на;1;1;to
+Q1788657;Northern England;основная тема;1;5;to
+Q1788657;Northern England;представляет страну в спорте;1;1;to
+Q2673740;Appalachia;административно-территориальная единица;1;1;from
+Q2673740;Appalachia;названо в честь;1;1;to
+Q2673740;Appalachia;государство;1;1;from
+Q2673740;Appalachia;изображение;1;1;from
+Q2673740;Appalachia;карта местонахождения;1;1;from
+Q2673740;Appalachia;код LCNAF;1;1;from
+Q2673740;Appalachia;это частный случай понятия;1;1;from
+Q2673740;Appalachia;код US National Archives;1;1;from
+Q2673740;Appalachia;значение в OmegaWiki;1;1;from
+Q2673740;Appalachia;категория на Викискладе;1;1;from
+Q2673740;Appalachia;идентификатор MeSH;1;1;from
+Q2673740;Appalachia;географические координаты;1;1;from
+Q2673740;Appalachia;код Freebase;1;1;from
+Q2673740;Appalachia;основная категория по теме;1;1;from
+Q2673740;Appalachia;баннер Викигида;1;1;from
+Q2673740;Appalachia;dmoz;1;1;from
+Q2673740;Appalachia;юрисдикция распространяется на;1;1;to
+Q2673740;Appalachia;основная тема;1;340;to
+Q541576;Anglosphere;общая тема категории;1;1;to
+Q541576;Anglosphere;основная категория по теме;1;1;from
+Q541576;Anglosphere;French Vikidia ID;1;1;from
+Q18389;New England;категория карт на Викискладе;1;1;from
+Q18389;New England;код темы Quora;1;1;from
+Q18389;New England;категория на Викискладе;1;1;from
+Q18389;New England;кем названо;1;1;from
+Q18389;New England;часовой пояс;1;1;from
+Q18389;New England;код в Большой норвежской энциклопедии;1;1;from
+Q18389;New England;код GACS;1;1;from
+Q18389;New England;идентификатор MeSH;1;1;from
+Q18389;New England;состоит из;1;3;to
+Q18389;New England;географические координаты;1;1;from
+Q18389;New England;идентификатор Dizionario di Storia;1;1;from
+Q18389;New England;код Freebase;1;1;from
+Q18389;New England;код статьи Klexikon;1;1;from
+Q18389;New England;основная категория по теме;1;1;from
+Q541576;Anglosphere;код Freebase;1;1;from
+Q18389;New England;баннер Викигида;1;1;from
+Q18389;New England;dmoz;1;1;from
+Q18389;New England;местонахождение;1;8;to
+Q18389;New England;история происходит в месте;1;6;to
+Q18389;New England;место рождения;1;20;to
+Q18389;New England;категория объединяет темы;1;3;to
+Q18389;New England;тематически относится к;1;1;to
+Q18389;New England;изображённый объект;1;8;to
+Q18389;New England;место жительства;1;3;to
+Q18389;New England;основная тема портала Викимедиа;1;1;to
+Q18389;New England;место активности;1;2;to
+Q18389;New England;место создания;1;2;to
+Q18389;New England;код в Итальянской энциклопедии онлайн;1;1;from
+Q18389;New England;код NE.se;1;1;from
+Q18389;New England;код темы NYT;1;1;from
+Q18389;New England;код в Encyclopædia Universalis;1;1;from
+Q18389;New England;изображение печати/эмблемы;1;1;from
+Q18389;New England;государство;1;1;from
+Q18389;New England;изображение;1;1;from
+Q18389;New England;находится на берегу водоёма;1;1;from
+Q18389;New England;код VIAF;1;1;from
+Q18389;New England;код GND;1;1;from
+Q18389;New England;карта местонахождения;1;1;from
+Q18389;New England;код LCNAF;1;1;from
+Q18389;New England;это частный случай понятия;1;1;to
+Q18389;New England;изображение флага;1;1;from
+Q18389;New England;имеет границы с;1;2;from
+Q18389;New England;портал Викимедиа;1;1;from
+Q18389;New England;код US National Archives;1;1;from
+Q18389;New England;значение в OmegaWiki;1;1;from
+Q18389;New England;код в Большой каталанской энциклопедии;1;1;from
+Q18389;New England;описывается в источниках;1;1;from
+Q18389;New England;код в энциклопедии «Британника онлайн»;1;1;from
+Q18389;New England;код GeoNames;1;1;from
+Q18389;New England;подробная карта;1;1;from
+Q18389;New England;название на языке оригинала;1;1;from
+Q18389;New England;не путать с;1;1;to
+Q18389;New England;площадь;1;1;from
+Q18389;New England;код YSO;1;1;from
+Q18389;New England;код BNF;1;1;from
+Q18389;New England;коллаж;1;1;from
+Q18389;New England;вдохновлено;1;1;to
+Q18389;New England;находится в пределах природно-географического объекта;1;5;to
+Q18389;New England;основная тема;1;4;to
+Q49042;Southern United States;код темы Quora;1;2;from
+Q49042;Southern United States;код GACS;1;1;from
+Q49042;Southern United States;состоит из;1;2;to
+Q49042;Southern United States;географические координаты;1;1;from
+Q49042;Southern United States;код Freebase;1;1;from
+Q49042;Southern United States;основная категория по теме;1;1;from
+Q49042;Southern United States;баннер Викигида;1;1;from
+Q49042;Southern United States;dmoz;1;1;from
+Q49042;Southern United States;тематически относится к;1;2;to
+Q49042;Southern United States;названо в честь;1;1;to
+Q49042;Southern United States;основная тема;1;5;to
+Q49042;Southern United States;часть от;1;1;to
+Q49042;Southern United States;история происходит в месте;1;3;to
+Q49042;Southern United States;зона обслуживания;1;1;to
+Q49042;Southern United States;культура;1;1;to
+Q49042;Southern United States;место жительства;1;2;to
+Q49042;Southern United States;место рождения;1;1;to
+Q49042;Southern United States;изображённый объект;1;2;to
+Q49042;Southern United States;общая тема категории;1;3;to
+Q49042;Southern United States;место съёмок;1;1;to
+Q541576;Anglosphere;изображение;1;1;from
+Q541576;Anglosphere;это частный случай понятия;1;1;from
+Q541576;Anglosphere;подкласс от;1;1;from
+Q541576;Anglosphere;код темы Quora;1;1;from
+Q541576;Anglosphere;часть от;1;1;from
+Q541576;Anglosphere;код BNCF;1;1;from
+Q49042;Southern United States;категория на Викискладе;1;1;from
+Q49042;Southern United States;местонахождение;1;13;to
+Q18389;New England;расположение штаб-квартиры;1;4;to
+Q49042;Southern United States;код BNF;1;1;from
+Q18389;New England;место смерти;1;4;to
+Q18389;New England;место изготовления;1;4;to
+Q18389;New England;происходит из;1;1;to
+Q18389;New England;общая тема категории;1;2;to
+Q25763;Greater Iran;государство;1;1;from
+Q25763;Greater Iran;изображение;1;1;from
+Q25763;Greater Iran;часть света;1;2;from
+Q25763;Greater Iran;это частный случай понятия;1;4;from
+Q25763;Greater Iran;история темы;1;1;from
+Q25763;Greater Iran;код BabelNet;1;1;from
+Q25763;Greater Iran;код темы Quora;1;1;from
+Q25763;Greater Iran;часть от;1;1;from
+Q25763;Greater Iran;код Freebase;1;1;from
+Q25763;Greater Iran;культура;1;35;to
+Q25763;Greater Iran;страна происхождения;1;1;to
+Q25763;Greater Iran;происходит из;1;1;to
+Q49042;Southern United States;государство;1;1;to
+Q49042;Southern United States;изображение;1;3;from
+Q49042;Southern United States;карта местонахождения;1;1;from
+Q49042;Southern United States;код LCNAF;1;1;from
+Q49042;Southern United States;это частный случай понятия;1;2;from
+Q49042;Southern United States;код в энциклопедии «Британника онлайн»;1;1;from
+Q49042;Southern United States;прозвище;1;1;from
+Q49042;Southern United States;история темы;1;1;from
+Q49042;Southern United States;код BabelNet;1;1;from
+Q30747883;monde arabo-musulman;область деятельности;1;2;to

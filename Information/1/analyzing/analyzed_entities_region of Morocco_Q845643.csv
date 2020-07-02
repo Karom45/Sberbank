@@ -1,0 +1,243 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q19843788;Casablanca-Settat;административно-территориальная единица;1;17;to
+Q20652586;Souss-Massa;административно-территориальная единица;1;14;to
+Q19951300;Tanger-Tétouan-Al Hoceïma;идентификатор местоположения ArchINFORM;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;дата основания/создания/возникновения;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;географические координаты;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;основная категория по теме;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;является столицей;1;1;to
+Q19951300;Tanger-Tétouan-Al Hoceïma;общая тема категории;1;1;to
+Q19951300;Tanger-Tétouan-Al Hoceïma;категория объединяет темы;1;1;to
+Q19951300;Tanger-Tétouan-Al Hoceïma;место рождения;1;1;to
+Q19951300;Tanger-Tétouan-Al Hoceïma;происходит из;1;2;to
+Q19953016;Béni Mellal-Khénifra;административно-территориальная единица;1;6;to
+Q19953016;Béni Mellal-Khénifra;административно делится на;1;1;to
+Q19953016;Béni Mellal-Khénifra;государство;1;1;from
+Q19953016;Béni Mellal-Khénifra;карта местонахождения;1;1;from
+Q19953016;Béni Mellal-Khénifra;это частный случай понятия;1;1;from
+Q19953016;Béni Mellal-Khénifra;столица;1;1;from
+Q19953016;Béni Mellal-Khénifra;категория для людей, родившихся здесь;1;1;from
+Q19953016;Béni Mellal-Khénifra;название на языке оригинала;1;2;from
+Q19953016;Béni Mellal-Khénifra;площадь;1;1;from
+Q19953016;Béni Mellal-Khénifra;ISO 3166-2;1;1;from
+Q19953016;Béni Mellal-Khénifra;категория на Викискладе;1;1;from
+Q19953016;Béni Mellal-Khénifra;геоданные;1;1;from
+Q19953016;Béni Mellal-Khénifra;ID отношения в OpenStreetMap;1;1;from
+Q19953016;Béni Mellal-Khénifra;дата основания/создания/возникновения;1;1;from
+Q19953016;Béni Mellal-Khénifra;географические координаты;1;1;from
+Q19953016;Béni Mellal-Khénifra;основная категория по теме;1;1;from
+Q19953016;Béni Mellal-Khénifra;категория объединяет темы;1;1;to
+Q19953016;Béni Mellal-Khénifra;общая тема категории;1;1;to
+Q19951300;Tanger-Tétouan-Al Hoceïma;ID отношения в OpenStreetMap;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;геоданные;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;категория на Викискладе;1;1;from
+Q19951239;Rabat-Salé-Kénitra;место смерти;1;1;to
+Q19951239;Rabat-Salé-Kénitra;используемый язык;1;2;from
+Q19951239;Rabat-Salé-Kénitra;ISO 3166-2;1;1;from
+Q19951239;Rabat-Salé-Kénitra;категория на Викискладе;1;1;from
+Q19951239;Rabat-Salé-Kénitra;геоданные;1;1;from
+Q19951239;Rabat-Salé-Kénitra;ID отношения в OpenStreetMap;1;1;from
+Q19951239;Rabat-Salé-Kénitra;часовой пояс;1;2;from
+Q19951239;Rabat-Salé-Kénitra;идентификатор местоположения ArchINFORM;1;1;from
+Q19951239;Rabat-Salé-Kénitra;дата основания/создания/возникновения;1;1;from
+Q19951239;Rabat-Salé-Kénitra;географические координаты;1;1;from
+Q19951239;Rabat-Salé-Kénitra;основная категория по теме;1;1;from
+Q19951239;Rabat-Salé-Kénitra;категория объединяет темы;1;2;to
+Q19951239;Rabat-Salé-Kénitra;общая тема категории;1;1;to
+Q19951239;Rabat-Salé-Kénitra;происходит из;1;1;to
+Q19951300;Tanger-Tétouan-Al Hoceïma;ISO 3166-2;1;1;from
+Q19951239;Rabat-Salé-Kénitra;место рождения;1;1;to
+Q19951300;Tanger-Tétouan-Al Hoceïma;административно-территориальная единица;1;16;to
+Q19951300;Tanger-Tétouan-Al Hoceïma;административно делится на;1;1;to
+Q19951300;Tanger-Tétouan-Al Hoceïma;государство;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;изображение;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;карта местонахождения;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;это частный случай понятия;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;столица;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;категория для людей, родившихся здесь;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;название на языке оригинала;1;2;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;площадь;1;1;from
+Q19951300;Tanger-Tétouan-Al Hoceïma;используемый язык;1;1;from
+Q19953016;Béni Mellal-Khénifra;является столицей;1;1;to
+Q20652586;Souss-Massa;названо в честь;1;2;from
+Q19843788;Casablanca-Settat;административно делится на;1;1;to
+Q20652586;Souss-Massa;административно делится на;1;1;to
+Q21235104;Dakhla-Oued Ed-Dahab;ID отношения в OpenStreetMap;1;1;from
+Q21235104;Dakhla-Oued Ed-Dahab;дата основания/создания/возникновения;1;1;from
+Q21235104;Dakhla-Oued Ed-Dahab;географические координаты;1;1;from
+Q21235104;Dakhla-Oued Ed-Dahab;основная категория по теме;1;1;from
+Q21235104;Dakhla-Oued Ed-Dahab;общая тема категории;1;1;to
+Q23048167;Oriental;административно-территориальная единица;1;12;to
+Q23048167;Oriental;административно делится на;1;1;to
+Q23048167;Oriental;государство;1;1;from
+Q23048167;Oriental;изображение;1;2;from
+Q23048167;Oriental;карта местонахождения;1;1;from
+Q23048167;Oriental;это частный случай понятия;1;1;from
+Q23048167;Oriental;столица;1;1;from
+Q23048167;Oriental;категория для людей, родившихся здесь;1;1;from
+Q23048167;Oriental;код GeoNames;1;1;from
+Q23048167;Oriental;название на языке оригинала;1;2;from
+Q23048167;Oriental;не путать с;1;1;to
+Q23048167;Oriental;площадь;1;1;from
+Q23048167;Oriental;используемый язык;1;2;from
+Q23048167;Oriental;ISO 3166-2;1;1;from
+Q23048167;Oriental;категория на Викискладе;1;1;from
+Q23048167;Oriental;геоданные;1;1;from
+Q23048167;Oriental;ID отношения в OpenStreetMap;1;1;from
+Q23048167;Oriental;дата основания/создания/возникновения;1;1;from
+Q23048167;Oriental;географические координаты;1;1;from
+Q23048167;Oriental;основная категория по теме;1;1;from
+Q23048167;Oriental;является столицей;1;1;to
+Q23048167;Oriental;происходит из;1;2;to
+Q21235104;Dakhla-Oued Ed-Dahab;категория на Викискладе;1;1;from
+Q21235104;Dakhla-Oued Ed-Dahab;ISO 3166-2;1;1;from
+Q21235104;Dakhla-Oued Ed-Dahab;используемый язык;1;1;from
+Q20652586;Souss-Massa;дата основания/создания/возникновения;1;1;from
+Q20652586;Souss-Massa;государство;1;1;from
+Q20652586;Souss-Massa;карта местонахождения;1;1;from
+Q20652586;Souss-Massa;это частный случай понятия;1;1;from
+Q20652586;Souss-Massa;столица;1;1;from
+Q20652586;Souss-Massa;название на языке оригинала;1;2;from
+Q20652586;Souss-Massa;площадь;1;1;from
+Q20652586;Souss-Massa;используемый язык;1;1;from
+Q20652586;Souss-Massa;ISO 3166-2;1;1;from
+Q20652586;Souss-Massa;категория на Викискладе;1;1;from
+Q20652586;Souss-Massa;геоданные;1;1;from
+Q20652586;Souss-Massa;ID отношения в OpenStreetMap;1;1;from
+Q20652586;Souss-Massa;идентификатор местоположения ArchINFORM;1;1;from
+Q20652586;Souss-Massa;географические координаты;1;1;from
+Q21235104;Dakhla-Oued Ed-Dahab;площадь;1;1;from
+Q20652586;Souss-Massa;официальный сайт;1;1;from
+Q20652586;Souss-Massa;основная категория по теме;1;1;from
+Q20652586;Souss-Massa;является столицей;1;1;to
+Q20652586;Souss-Massa;общая тема категории;1;1;to
+Q20652586;Souss-Massa;происходит из;1;1;to
+Q21235104;Dakhla-Oued Ed-Dahab;административно-территориальная единица;1;9;to
+Q21235104;Dakhla-Oued Ed-Dahab;административно делится на;1;1;to
+Q21235104;Dakhla-Oued Ed-Dahab;государство;1;1;from
+Q21235104;Dakhla-Oued Ed-Dahab;карта местонахождения;1;1;from
+Q21235104;Dakhla-Oued Ed-Dahab;это частный случай понятия;1;1;from
+Q21235104;Dakhla-Oued Ed-Dahab;численность населения;1;2;from
+Q21235104;Dakhla-Oued Ed-Dahab;на территорию претендует;1;1;from
+Q19951239;Rabat-Salé-Kénitra;площадь;1;1;from
+Q19951239;Rabat-Salé-Kénitra;название на языке оригинала;1;2;from
+Q19951239;Rabat-Salé-Kénitra;категория для людей, умерших здесь;1;1;from
+Q19951239;Rabat-Salé-Kénitra;категория для людей, родившихся здесь;1;1;from
+Q19950954;Drâa-Tafilalet;ID отношения в OpenStreetMap;1;1;from
+Q19950954;Drâa-Tafilalet;дата основания/создания/возникновения;1;1;from
+Q19950954;Drâa-Tafilalet;географические координаты;1;1;from
+Q19950954;Drâa-Tafilalet;основная категория по теме;1;1;from
+Q19950954;Drâa-Tafilalet;является столицей;1;1;to
+Q19950954;Drâa-Tafilalet;общая тема категории;1;1;to
+Q19950954;Drâa-Tafilalet;происходит из;1;1;to
+Q19951027;Fès-Meknès;административно-территориальная единица;1;11;to
+Q19951027;Fès-Meknès;административно делится на;1;1;to
+Q19951027;Fès-Meknès;государство;1;1;from
+Q19951027;Fès-Meknès;изображение;1;1;from
+Q19951027;Fès-Meknès;карта местонахождения;1;1;from
+Q19951027;Fès-Meknès;это частный случай понятия;1;1;from
+Q19951027;Fès-Meknès;столица;1;1;from
+Q19951027;Fès-Meknès;название на языке оригинала;1;2;from
+Q19951027;Fès-Meknès;используемый язык;1;2;from
+Q19951027;Fès-Meknès;ISO 3166-2;1;1;from
+Q19951027;Fès-Meknès;категория на Викискладе;1;1;from
+Q19951027;Fès-Meknès;геоданные;1;1;from
+Q19951027;Fès-Meknès;ID отношения в OpenStreetMap;1;1;from
+Q19951027;Fès-Meknès;идентификатор местоположения ArchINFORM;1;1;from
+Q19951027;Fès-Meknès;дата основания/создания/возникновения;1;1;from
+Q19951027;Fès-Meknès;географические координаты;1;1;from
+Q19951027;Fès-Meknès;основная категория по теме;1;1;from
+Q19951027;Fès-Meknès;общая тема категории;1;1;to
+Q19951027;Fès-Meknès;является столицей;1;1;to
+Q19951027;Fès-Meknès;происходит из;1;1;to
+Q19950954;Drâa-Tafilalet;геоданные;1;1;from
+Q19950954;Drâa-Tafilalet;категория на Викискладе;1;1;from
+Q19950954;Drâa-Tafilalet;ISO 3166-2;1;1;from
+Q19843788;Casablanca-Settat;дата основания/создания/возникновения;1;1;from
+Q19843788;Casablanca-Settat;государство;1;1;from
+Q19843788;Casablanca-Settat;карта местонахождения;1;1;from
+Q19843788;Casablanca-Settat;это частный случай понятия;1;1;from
+Q19843788;Casablanca-Settat;столица;1;1;from
+Q19843788;Casablanca-Settat;категория для людей, родившихся здесь;1;1;from
+Q19843788;Casablanca-Settat;название на языке оригинала;1;2;from
+Q19843788;Casablanca-Settat;площадь;1;1;from
+Q19843788;Casablanca-Settat;ISO 3166-2;1;1;from
+Q19843788;Casablanca-Settat;категория на Викискладе;1;1;from
+Q19843788;Casablanca-Settat;геоданные;1;1;from
+Q19843788;Casablanca-Settat;ID отношения в OpenStreetMap;1;1;from
+Q19843788;Casablanca-Settat;идентификатор местоположения ArchINFORM;1;1;from
+Q19843788;Casablanca-Settat;географические координаты;1;1;from
+Q19950954;Drâa-Tafilalet;площадь;1;1;from
+Q19843788;Casablanca-Settat;основная категория по теме;1;1;from
+Q19843788;Casablanca-Settat;категория объединяет темы;1;1;to
+Q19843788;Casablanca-Settat;общая тема категории;1;1;to
+Q19843788;Casablanca-Settat;является столицей;1;1;to
+Q19950954;Drâa-Tafilalet;административно-территориальная единица;1;65;to
+Q19950954;Drâa-Tafilalet;названо в честь;1;2;from
+Q19950954;Drâa-Tafilalet;административно делится на;1;1;to
+Q19950954;Drâa-Tafilalet;государство;1;1;from
+Q19950954;Drâa-Tafilalet;карта местонахождения;1;1;from
+Q19950954;Drâa-Tafilalet;это частный случай понятия;1;1;from
+Q19950954;Drâa-Tafilalet;столица;1;1;from
+Q19950954;Drâa-Tafilalet;название на языке оригинала;1;2;from
+Q19951051;Guelmim-Oued Noun;административно-территориальная единица;1;7;to
+Q19951051;Guelmim-Oued Noun;административно делится на;1;1;to
+Q19951051;Guelmim-Oued Noun;государство;1;1;from
+Q19951125;Marrakesh-Safi;идентификатор местоположения ArchINFORM;1;1;from
+Q19951125;Marrakesh-Safi;административно делится на;1;1;to
+Q19951125;Marrakesh-Safi;государство;1;1;from
+Q19951125;Marrakesh-Safi;карта местонахождения;1;1;from
+Q19951125;Marrakesh-Safi;это частный случай понятия;1;1;from
+Q19951125;Marrakesh-Safi;столица;1;1;from
+Q19951125;Marrakesh-Safi;численность населения;1;2;from
+Q19951125;Marrakesh-Safi;название на языке оригинала;1;2;from
+Q19951125;Marrakesh-Safi;позиционная карта;1;1;from
+Q19951125;Marrakesh-Safi;ISO 3166-2;1;1;from
+Q19951125;Marrakesh-Safi;категория на Викискладе;1;1;from
+Q19951125;Marrakesh-Safi;геоданные;1;1;from
+Q19951125;Marrakesh-Safi;ID отношения в OpenStreetMap;1;1;from
+Q19951125;Marrakesh-Safi;дата основания/создания/возникновения;1;1;from
+Q19951088;Laâyoune-Sakia El Hamra;общая тема категории;1;1;to
+Q19951125;Marrakesh-Safi;географические координаты;1;1;from
+Q19951125;Marrakesh-Safi;основная категория по теме;1;1;from
+Q19951125;Marrakesh-Safi;является столицей;1;1;to
+Q19951125;Marrakesh-Safi;общая тема категории;1;1;to
+Q19951125;Marrakesh-Safi;происходит из;1;1;to
+Q19951239;Rabat-Salé-Kénitra;административно-территориальная единица;1;10;to
+Q19951239;Rabat-Salé-Kénitra;административно делится на;1;1;to
+Q19951239;Rabat-Salé-Kénitra;государство;1;1;from
+Q19951239;Rabat-Salé-Kénitra;карта местонахождения;1;1;from
+Q19951239;Rabat-Salé-Kénitra;это частный случай понятия;1;1;from
+Q19951239;Rabat-Salé-Kénitra;столица;1;1;from
+Q19951239;Rabat-Salé-Kénitra;официальное название;1;1;from
+Q19951125;Marrakesh-Safi;административно-территориальная единица;1;11;to
+Q19951088;Laâyoune-Sakia El Hamra;основная категория по теме;1;1;from
+Q19951051;Guelmim-Oued Noun;карта местонахождения;1;1;from
+Q19951051;Guelmim-Oued Noun;является столицей;1;1;to
+Q19951051;Guelmim-Oued Noun;это частный случай понятия;1;1;from
+Q19951051;Guelmim-Oued Noun;название на языке оригинала;1;1;from
+Q19951051;Guelmim-Oued Noun;площадь;1;1;from
+Q19951051;Guelmim-Oued Noun;ISO 3166-2;1;1;from
+Q19951051;Guelmim-Oued Noun;категория на Викискладе;1;1;from
+Q19951051;Guelmim-Oued Noun;геоданные;1;1;from
+Q19951051;Guelmim-Oued Noun;ID отношения в OpenStreetMap;1;1;from
+Q19951051;Guelmim-Oued Noun;дата основания/создания/возникновения;1;1;from
+Q19951051;Guelmim-Oued Noun;географические координаты;1;1;from
+Q19951051;Guelmim-Oued Noun;официальный сайт;1;1;from
+Q19951051;Guelmim-Oued Noun;основная категория по теме;1;1;from
+Q19951051;Guelmim-Oued Noun;общая тема категории;1;1;to
+Q19951051;Guelmim-Oued Noun;происходит из;1;1;to
+Q19951088;Laâyoune-Sakia El Hamra;географические координаты;1;1;from
+Q19951088;Laâyoune-Sakia El Hamra;административно-территориальная единица;1;6;to
+Q19951088;Laâyoune-Sakia El Hamra;административно делится на;1;1;to
+Q19951088;Laâyoune-Sakia El Hamra;государство;1;1;from
+Q19951088;Laâyoune-Sakia El Hamra;изображение;1;1;from
+Q19951088;Laâyoune-Sakia El Hamra;карта местонахождения;1;1;from
+Q19951088;Laâyoune-Sakia El Hamra;это частный случай понятия;1;1;from
+Q19951088;Laâyoune-Sakia El Hamra;название на языке оригинала;1;2;from
+Q19951088;Laâyoune-Sakia El Hamra;площадь;1;1;from
+Q19951088;Laâyoune-Sakia El Hamra;ISO 3166-2;1;1;from
+Q19951088;Laâyoune-Sakia El Hamra;категория на Викискладе;1;1;from
+Q19951088;Laâyoune-Sakia El Hamra;ID отношения в OpenStreetMap;1;1;from
+Q19951088;Laâyoune-Sakia El Hamra;дата основания/создания/возникновения;1;1;from
+Q23048167;Oriental;категория объединяет темы;1;1;to

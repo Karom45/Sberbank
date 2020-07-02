@@ -1,0 +1,761 @@
+﻿entity;label
+Q3237;Rügen
+Q3803;Lesser Sunda Islands
+Q10096;Kepulauan Anambas
+Q10100;Natuna
+Q10107;Thousand Islands
+Q20317;Liancourt Rocks
+Q21111;Corn Islands
+Q25231;Svalbard
+Q26262;Virgin Islands
+Q27088;Savage Islands
+Q27601;Joinville Island group
+Q29460;Senkaku Islands
+Q33654;Campbell Island group
+Q35672;Pitcairn Islands
+Q35942;Polynesia
+Q38095;Galápagos Islands
+Q38272;British Isles
+Q41451;Bounty Islands
+Q41455;Snares Islands/Tini Heke
+Q42314;Channel Islands
+Q46275;New Zealand Subantarctic Islands
+Q46439;Judge and Clerk Islets
+Q46489;Bishop and Clerk Islets
+Q46623;Prince Edward Islands
+Q46772;Kerguelen Islands
+Q47134;Shetland Islands
+Q51930;Isole Tremiti
+Q59913;Nuyts Archipelago
+Q76936;Frisian Islands
+Q80389;Kuril Islands
+Q80967;Outer Hebrides
+Q81052;Inner Hebrides
+Q85377;Canadian Arctic Archipelago
+Q93259;Lesser Antilles
+Q100166;Orkney Islands
+Q118350;Caroline Islands
+Q118920;Society Islands
+Q123377;Hebrides
+Q130574;Chafarinas Islands
+Q131198;Heard Island and McDonald Islands
+Q140298;Windward Islands
+Q140510;Alexander Archipelago
+Q140948;South Shetland Islands
+Q148966;Solomon Islands
+Q153732;Mariana Islands
+Q156325;Juan Fernández Islands
+Q162126;Samoan Islands
+Q166131;Antilles
+Q166479;St Kilda
+Q171132;Cyclades
+Q172697;Marquesas Islands
+Q175057;Fernando de Noronha
+Q177608;Chiloé Archipelago
+Q179883;Aeolian Islands
+Q180209;Isles of Scilly
+Q183110;Northwestern Hawaiian Islands
+Q183416;Windward Islands
+Q183963;Tuamotus
+Q185018;Franz Josef Land
+Q186233;Andaman Islands
+Q186822;Lofoten
+Q192188;Chagos Archipelago
+Q192281;Severnaya Zemlya
+Q192626;Hawaiian Islands
+Q197893;Zhongsha Islands
+Q201698;Crozet Islands
+Q204403;Diomede Islands
+Q205695;Mascarene Islands
+Q205711;Solovetsky Islands
+Q207383;South Orkney Islands
+Q208643;Malay Archipelago
+Q211844;Palm Islands
+Q212893;Aran Islands
+Q234796;Line Islands
+Q236601;Glorioso Islands
+Q249870;Kinmen
+Q250574;Kent Group
+Q271674;Phoenix Islands
+Q271876;Gilbert Islands
+Q273303;Langkawi
+Q277294;Palm Jumeirah
+Q292072;Lavezzi Islands
+Q292411;Îles de la Madeleine
+Q292594;Two Groups Islands
+Q292600;Chausey
+Q292608;îles Nuageuses
+Q292642;Lérins Islands
+Q292647;Petite Terre Islands
+Q292657;îles des Saintes
+Q292672;Duke of Gloucester Islands
+Q292684;Disappointment Islands
+Q292688;King George Islands
+Q292695;Salvation's Islands
+Q292728;Îles d'Hyères
+Q300789;Aagaard Islands
+Q304371;Abaco Islands
+Q304679;Palmer Archipelago
+Q344617;Acteon Group
+Q378556;Palagruža
+Q472207;Amirante Islands
+Q478104;archipel de Bréhat
+Q502678;Ertholmene
+Q503482;Grenadines
+Q503712;Antipodes Island Group
+Q504043;Gambier Islands
+Q511957;Phi Phi Islands
+Q513565;Galite Islands
+Q514070;Andros, Bahamas
+Q520323;Dampier Archipelago
+Q521002;Mapia
+Q537749;Florida Keys
+Q543164;Sporades
+Q547164;Arcipelago Spezzino
+Q559798;Colorados Archipelago
+Q575828;Maddalena archipelago
+Q577808;De Long Islands
+Q583716;Hermite Islands
+Q593783;Rimsky-Korsakov Archipelago
+Q599570;Caicos Islands
+Q600466;Ritchie's Archipelago
+Q609255;Matsu Islands
+Q610364;Hen and Chicken Islands
+Q611007;Broughton Archipelago
+Q615609;Formiche di Grosseto
+Q618573;Lamu Archipelago
+Q620481;Alphonse Group
+Q624535;Cayos Cochinos
+Q628731;Poor Knights Islands
+Q633848;Gulf Islands
+Q634740;Comoros Islands
+Q637741;Nukumanu Islands
+Q639185;Peros Banhos
+Q639648;Dahlak Archipelago
+Q640228;Houtman Abrolhos
+Q643715;Islas Marías
+Q645941;Argentine Islands
+Q646300;Burkett Islands
+Q649480;Lukunor
+Q650847;Fakaofo
+Q652659;Ilhas Cagarras
+Q653377;Ari Atoll
+Q667910;Lake Erie Islands
+Q668784;Jardines del Rey
+Q670647;Rocas Alijos
+Q673757;Brissago Islands
+Q680330;Острова Цивольки
+Q733162;Kirov Islands
+Q753719;Fjäderholmarna
+Q761460;Kerkennah Islands
+Q764547;Stockholm archipelago
+Q768065;Christiana Islands
+Q770646;Batu Islands
+Q776075;Écréhous
+Q794125;Skellig Islands
+Q797807;Babuyan Islands
+Q797876;Insular Islands
+Q827173;Berry Islands
+Q829084;Vegaøyan
+Q841337;Japanese Archipelago
+Q844857;Pacific Islands
+Q846021;Southern Coral Group
+Q878481;Aegean Islands
+Q921587;Tukangbesi Islands
+Q924897;Inner Islands
+Q927361;Grip
+Q928636;Semidi Islands
+Q928900;The Universe
+Q930426;Austral Islands
+Q930732;Deboyne Islands
+Q934813;Rotuma Group
+Q935795;Vesterålen
+Q940411;Estevan Group
+Q940915;Q940915
+Q941625;Maatsuyker Islands
+Q942849;îlets de Rémire
+Q943413;Elizabeth Islands
+Q943596;Fratelli Islands
+Q946258;Discovery Islands
+Q987983;Derawan Islands
+Q997637;Buccaneer Archipelago
+Q1033280;Cani Islands
+Q1050549;Thousand Islands
+Q1061195;Sulu Archipelago
+Q1062438;Lau Islands
+Q1068224;Rock Islands
+Q1070802;Chesterfield Islands
+Q1073664;Chincha Islands
+Q1076210;Chonos Archipelago
+Q1087292;Ayu Islands
+Q1087864;Kepulauan Ambai
+Q1112052;Yam Islands
+Q1127200;Louisiade Archipelago
+Q1142129;Pearl Islands
+Q1160526;Desventuradas Islands
+Q1160985;Ten Thousand Islands
+Q1165876;Hawar Islands
+Q1190997;Riau
+Q1236059;Jentilez
+Q1240906;Rowley Shoals
+Q1243835;Los Monjes Archipelago
+Q1252239;Hochelaga Archipelago
+Q1268823;Palliser Islands
+Q1270287;South Funen Archipelago
+Q1271796;Nomoi Islands
+Q1289337;Aleipata Islands
+Q1298289;Egmont Islands
+Q1313806;Sapwuahfik
+Q1317450;Lihir Group
+Q1319369;Si Phan Don
+Q1321946;Nordenskiöld Archipelago
+Q1323403;Kai Islands
+Q1324957;Elaphiti Islands
+Q1325658;Medvezhyi Islands
+Q1329507;Treshnish Isles
+Q1332426;Los Testigos Islands
+Q1333790;Gotō Islands
+Q1348763;Magdalen Islands
+Q1349991;Hermit Islands
+Q1365603;Ona
+Q1371403;Similan Islands
+Q1385577;Exuma
+Q1385966;Hirsholmene
+Q1387897;Seven Brothers
+Q1396187;Farallon Islands
+Q1401374;Western Islands, Papua New Guinea
+Q1428101;Ross Archipelago
+Q1464773;West Estonian archipelago
+Q1464953;Frioul archipelago
+Q1481721;Aurora Islands
+Q1532665;Glénan Islands
+Q1551908;Out Skerries
+Q1567562;Sjuøyane
+Q1571136;Lobos de Afuera Islands
+Q1592071;Hà Tiên Islands
+Q1606513;Monach Islands
+Q1631429;Raeffsky Islands
+Q1653952;IJburg
+Q1670879;San Blas Islands
+Q1674262;Isles of Shoals
+Q1729382;Karimata Islands
+Q1783891;Gjesværstappan
+Q1785427;Helligvær
+Q1794762;Bolærne
+Q1796700;Tarva
+Q1811115;Barra Isles
+Q1819363;Archipelago of the Recherche
+Q1850373;Nibani islands
+Q1866307;Alor Archipelago
+Q1869866;Lord Howe Island Group
+Q1891973;Haparanda Archipelago National Park
+Q1915097;McDonald Islands
+Q1917496;Reef Islands
+Q1919137;Melchior Islands
+Q1943179;Mokohinau Islands
+Q1964365;Namoluk
+Q1972381;Orcas Island
+Q1998546;Nordre Rønner
+Q1999082;Leeward Islands
+Q2033674;Wilhelm Archipelago
+Q2051148;Haparanda archipelago
+Q2060655;Острова Вилькицкого
+Q2093907;Manawatāwhi/Three Kings Islands
+Q2094207;Îles Finocchiarola
+Q2110514;Mariestad archipelago
+Q2160141;Tambelan Archipelago
+Q2165273;Strofades
+Q2185317;Lolland-Falster
+Q2271175;Longships
+Q2325506;Baku Archipelago
+Q2434403;Piteå archipelago
+Q2533792;Men-a-vaur
+Q2534146;skerry coast of Hällaryd
+Q2543245;Luleå archipelago
+Q2632038;Bocas del Toro Archipelago
+Q2654640;Beryozovye Islands
+Q2658546;Palm Jebel Ali
+Q2682091;Kalix archipelago
+Q2688904;Bugge Islands
+Q2739116;Sgat Mòr and Sgat Beag
+Q2746725;Archipelago of Gothenburg
+Q2749240;Ballestas Islands
+Q2822064;Absyrtides
+Q2855295;The Cumbraes
+Q2860198;Bonaparte Archipelago
+Q2860200;archipel charentais
+Q2860202;Q2860202
+Q2860206;Bazaruto Archipelago
+Q2860207;Queen Adelaide Archipelago
+Q2860208;Q2860208
+Q2860213;Archipel de Molène
+Q2860218;Socotra Archipelago
+Q2860226;Archipel des Embiez
+Q2860228;Guaitecas Archipelago
+Q2860229;archipel des Ébihens
+Q2860231;Archipel des Sept Îles
+Q2860232;Archipelago of Saint-Pierre Lake
+Q2860242;Archipel des Sanguinaires
+Q2888085;Calbuco Archipelago
+Q2906599;Bliksvær
+Q2916889;Bass Islands
+Q2989562;Houmets
+Q3001931;Crab Keys
+Q3051528;Kangean Islands
+Q3099608;Kuriat
+Q3100269;Kneiss
+Q3117681;South Georgia group
+Q3120753;Gull Keys
+Q3139199;Formigues Islands
+Q3140809;Q3140809
+Q3143509;Husvær
+Q3183008;Johnson Keys
+Q3223542;Le Jardin au Bout du Monde
+Q3256723;Little Swash Keys
+Q3264385;Lower Harbor Keys
+Q3289762;Selayar Islands
+Q3296073;Marvin Keys
+Q3307738;Mez de Goëlo
+Q3312642;Middle Keys
+Q3323576;Q3323576
+Q3327388;Mud Keys
+Q3357290;Froan
+Q3360255;Vaigattøyane
+Q3361819;Copeland Islands
+Q3374456;Pelican Keys
+Q3377005;Peterson Keys
+Q3395350;Pollock Keys
+Q3422820;Q3422820
+Q3437623;Bird Rocks
+Q3454571;récifs de Bellone
+Q3472073;Sandværet
+Q3519334;Q3519334
+Q3538668;Triagoz
+Q3545909;Holmöarna
+Q3552092;Upper Keys
+Q3593520;Îles Laval
+Q3593527;îles Cerbicale
+Q3593531;Islas Evout
+Q3593535;Hinako islands
+Q3593538;Îles Leygues
+Q3593548;îles Saint-Marcouf
+Q3593560;îles d'Endoume
+Q3593561;Îles Boynes
+Q3593563;îles de Buguélès
+Q3593572;Apostle Islands
+Q3593573;Q3593573
+Q3593577;îles du Prince-de-Monaco
+Q3628422;Madeira Islands
+Q3646413;Guayaneco Archipelago
+Q3745222;Turku Archipelago
+Q3777194;Rabbit Islands
+Q3803158;Maltese Islands
+Q3803258;Kolosov islands
+Q3911374;Prickly Pear Cays
+Q4058447;Azores
+Q4117117;South Natuna
+Q4260286;Masalembu Islands
+Q4274246;Ilhéus da Madalena
+Q4338916;Chastye Islands
+Q4483480;Fijian Archipelago
+Q4568777;Bispøyan
+Q4582241;Arøya
+Q4582537;Gressholman
+Q4708407;Alas Islands
+Q4802353;Arvalik Islands
+Q4942786;Boobyalla Islands
+Q4981820;Brækmoholmane
+Q4987217;Bulandet
+Q5021639;Norrbotten archipelago
+Q5036265;Capricorn and Bunker Group
+Q5238909;Svenska Högarna
+Q5241918;Davis Islands
+Q5363289;Lucayan Archipelago
+Q5414106;Q5414106
+Q5415832;Evangelistas Islets
+Q5430186;Fairfax Islands
+Q5625944;Gåsvær
+Q5643689;Q5643689
+Q5656850;Islas Vernaci
+Q5702811;Q5702811
+Q5702818;Q5702818
+Q5702828;Q5702828
+Q5702832;Q5702832
+Q5713357;Henderson Islets
+Q5758591;Highjump Archipelago
+Q5759326;Cayos Dromedarios
+Q5759338;Cayos de la Enfermería
+Q5759342;Cayos de las Cinco Leguas
+Q5908126;Hoskyn Islands
+Q5922354;Group Huaura Islands
+Q5922356;Group Pescadores Islands
+Q5922359;Guañape Islands
+Q5922365;Islas Isabel
+Q5922374;Islas Lobos
+Q5922414;Islas de Castillo Grande
+Q5922435;Islas de las Lechiguanas
+Q5922542;Cuatro Hermanos Islands
+Q5946905;Huron Islands
+Q5951207;Huvudskär
+Q6083757;Islands of Shanghai
+Q6087362;Q6087362
+Q16976168;Södermanland archipelago
+Q17067423;Tata Islands
+Q17140346;Ko Yao archipelago
+Q17379717;Q17379717
+Q17386740;Q17386740
+Q17386744;Q17386744
+Q18559944;Nordøyan
+Q19394089;Q19394089
+Q19401615;Q19401615
+Q19727601;Kepulauan Mentawai
+Q19868346;Beşadalar
+Q19911854;Dinagat Islands
+Q20379610;Kasakeemeemisekak Islands
+Q20829724;Marinier Archipelago
+Q21475997;Haydée
+Q21476127;Max Douguet archipelago
+Q21713615;Bahama Islands
+Q21790413;Bermuda Islands
+Q21882998;Sunday Islands
+Q21883880;Vernon Islands
+Q21884792;Archipelago of the Recherche
+Q21889488;Malus Islands
+Q21892356;Coronation Islands
+Q21907896;Low Isles
+Q21914276;Drum And Drumsticks
+Q21922529;Tom Thumb Islands
+Q21924695;Dawson Islands
+Q21943923;Cecilia Islands
+Q22338730;Îles de Boucherville
+Q22417184;Q22417184
+Q22417202;Q22417202
+Q22449316;Archipel de Mingan
+Q22449389;Q22449389
+Q22449396;Q22449396
+Q22495712;Thirty Thousand Islands
+Q22697285;Admiral Group
+Q23011164;Canso Islands
+Q23304702;Wayag Islands
+Q23734850;Troldholme
+Q23746930;Jyllinge Holme
+Q23987918;Q23987918
+Q24248888;Southern Gulf Islands
+Q24351186;Bergholmarna
+Q24434813;Q24434813
+Q24434815;Q24434815
+Q24434817;Q24434817
+Q24434819;Q24434819
+Q24434822;Korkeat Luotosaaret
+Q24507250;Q24507250
+Q24507260;Q24507260
+Q24507278;Kahdenhaaraset
+Q24507349;Tupasalot
+Q24507364;Q24507364
+Q24528332;Q24528332
+Q24570845;Triste Islands
+Q24818392;Kepulauan Soma
+Q24821262;Pulau-pulau Peyaba
+Q24821482;Pulau Guasarang
+Q24821705;Kepulauan Barat
+Q24822019;Pulau Geupon
+Q24822022;Kepulauan Hinako
+Q24822132;Kokos
+Q24824609;Pulau Pasi
+Q24825743;Pulau-Pulau Watubela
+Q24825749;Pulau-pulau Watulai
+Q24825885;Pulau Pulau Widi
+Q24825918;Pulau Pulau Woda
+Q24827320;Kepulauan Ukenao
+Q24827438;Pulau-Pulau Daram
+Q24827914;Pulau Pulau Toade
+Q24827933;Kepulauan Tobea
+Q24827934;Tobelo
+Q24828236;Kepulauan Tupis
+Q24829155;Pulau-Pulau Tapok
+Q24829352;Kepulauan Tengah
+Q24829435;Kepulauan Tidung
+Q24829451;Pulau-Pulau Tigasaudara
+Q24829561;Kepulauan Togian
+Q24829579;Kepulauan Tumbak
+Q24830449;Kepulauan Sumur
+Q24830547;Pulau-Pulau Tabul
+Q24830629;Pulau-Pulau Talaud
+Q24837934;Kepulauan Seram Laut
+Q24838492;Kepulauan Silando
+Q24838552;Kepulauan Silumba
+Q24838720;Kepulauan Singkep Laut
+Q24838724;Sainoa
+Q24839026;Pulau-pulau Solor
+Q24841965;Kepulauan Sapude
+Q24841984;Kepulauan Sarangburung
+Q24842000;Kepulauan Sariga
+Q24842086;Kepulauan Schouten
+Q24842157;Kepulauan Sededap
+Q24842260;Kepulauan Selatan Daya
+Q24843378;Pulau-Pulau Rambobo
+Q24843413;Kepulauan Rukan
+Q24843519;Pulau-Pulau Sagof
+Q24843722;Pulau-pulau Sanggeluhang
+Q24843760;Pulau-Pulau Segaf
+Q24843761;Kepulauan Segama
+Q6106257;Q6106257
+Q6407838;Cayos Cinco Balas
+Q6424147;Ko Kra
+Q6503051;Law Islands
+Q6707049;Lyall Islands
+Q6721784;MacCormaig Isles
+Q6745123;Malvinas Islands
+Q6849948;Mikkelsen Islands
+Q6864692;Mingan Archipelago
+Q6895696;Molasses Keys
+Q6895760;Molde Archipelago
+Q6930594;Mu Ko Kam
+Q6930596;Mu Ko Phayam
+Q6930606;Samui archipelago
+Q6933888;Mule Keys
+Q6976531;Scalloway Islands
+Q7111986;Outer Lands
+Q7114027;Overton Islands
+Q7210939;Five West Sea Islands
+Q7230903;Port Royal Cays
+Q7243391;Primeiras and Segundas Archipelago
+Q7289747;Ramna Stacks
+Q7366205;Rookery Islands
+Q7411790;Samuel Islands
+Q7414590;San Juan Islands
+Q7547029;Snake Islands
+Q7622445;Strawberry Islands
+Q7659795;Sydhavsøerne
+Q7784200;Thimble Islands
+Q7796210;Thorfinn Islands
+Q7826920;Torran Rocks
+Q7851254;Tudjuh Archipelago
+Q7856802;Tusket Islands
+Q7917677;Ve Skerries
+Q8026333;Q8026333
+Q8079056;Östergötland archipelago
+Q9164235;Q9164235
+Q10430608;Björkskär
+Q10504955;Gillöga
+Q10510882;Gunnarstenarna
+Q10561755;Lilla Nassa
+Q10570977;Q10570977
+Q10571435;Lygna
+Q10602924;Norrpada
+Q10651573;Revskär
+Q10658917;Röder
+Q10658938;Rödlöga archipelago
+Q10669823;Skarv archipelago
+Q10670274;Skoboraden
+Q10681079;Stora Nassa
+Q10685227;Svenska Stenarna
+Q10688475;Söderarm archipelago
+Q10706376;Tunnhamn
+Q10725931;Ängskär
+Q10728362;East Möja archipelago
+Q10957162;Q10957162
+Q11050796;Q11050796
+Q11216846;Q11216846
+Q11218377;Q11218377
+Q11218712;Q11218712
+Q11219273;Q11219273
+Q11219367;Q11219367
+Q11223129;Q11223129
+Q11223416;Q11223416
+Q11223533;Q11223533
+Q11229438;Værlandet
+Q11234873;Q11234873
+Q11336572;Q11336572
+Q11401819;South Kuril Islands
+Q11969207;Q11969207
+Q11997976;Q11997976
+Q11998890;Rønnbeckøyane
+Q12009106;Q12009106
+Q12010225;Q12010225
+Q12011713;Q12011713
+Q12117273;Лебяжьи острова
+Q12377862;Utvær
+Q12403759;Q12403759
+Q12965786;Three Kings islands
+Q13257169;Kvarken Archipelago
+Q13383295;Ogasawara Islands
+Q13575214;Q13575214
+Q14208835;Exuma Islands
+Q15088317;Raja Ampat Islands
+Q15708551;Gapøyholman
+Q15710830;Anderssonøyane
+Q15919116;Jambelí Islands
+Q16039555;Battures de Malmanoury
+Q16040106;îles Davis
+Q16185064;Heuksan Islands
+Q16266752;Lingga
+Q16327240;Arakan archipelago
+Q16511291;Seal Islands
+Q16580120;Samuel Islands
+Q16580143;The Fridays
+Q16625755;Seal Rocks
+Q16851776;Cape Farewell Archipelago
+Q16878267;Småland archipelago
+Q16891371;Fosterøyane
+Q16896592;Dolomittøyane
+Q24847175;Kepulauan Pelapis
+Q24847260;Pulau-pulau Pengib
+Q24847280;Kepulauan Penjalin
+Q24847447;Pulau-Pulau Pisang
+Q24847528;Pulau Pulau Fonokabai
+Q24847798;Kepulauan Ranjuni
+Q24849544;Pulau Pulau Padaido
+Q24849578;Kepulauan Pagai
+Q24850094;Pulau-pulau Pasitel
+Q24850196;Kepulauan Podena
+Q24853333;Pulau-pulau Nenung
+Q24853513;Pulau-Pulau Nusela
+Q24853564;Kepulauan Obit
+Q24853646;Spermonde Archipelago
+Q24854701;Kepulauan Nanusa
+Q24855427;Pulau Pulau Moor
+Q24860133;Kepulauan Momparang
+Q24878056;Kepulauan Matarape
+Q24878251;Pulau-Pulau Menon
+Q24878326;Kepulauan Masalaka
+Q24878339;Kepulauan Masar
+Q24879352;Kepulauan Maba
+Q24879361;Kepulauan Bonerate
+Q24879523;Pulau Pulau Mamboor
+Q24879678;Pulau Pulau Mapia
+Q24879737;Pulau-pulau Mariri
+Q24880696;Kepulauan Leman
+Q24880759;Kepulauan Leti
+Q24880889;Kepulauan Lingga
+Q24880975;Pulau-pulau Loleojaha
+Q24880983;Kepulauan Loloda Selatan
+Q24881040;Pulau-Pulau Maisel
+Q24881793;Pulau-pulau Kumamba
+Q24881835;Pulau Pulau Kuran
+Q24881855;Pulau Pulau Kus
+Q24882014;Kepulauan Lambasina
+Q24882152;Laurot
+Q24882168;Kepulauan Layah
+Q24884022;Kepulauan Kedindingan
+Q24885460;Kepulauan Kolo
+Q24886418;Kowangko
+Q24886506;Pulau-Pulau Krakata
+Q24887101;Kepulauan Langkesi
+Q24894924;Pulau-pulau Karaweira
+Q24894942;Pulau-pulau Karimunjawa
+Q24897214;Pulau Kaukanao
+Q24911138;Pulau Pulau Kalies
+Q24912529;Pulau-Pulau Kawio
+Q24920445;Pulau-pulau Jedan
+Q24920583;Pulau-pulau Jin
+Q24920769;Pulau-Pulau Kab
+Q24940352;Kepulauan Gurung
+Q24950197;Diyar Al Muharraq
+Q24959588;Pulau Pulau Goraici
+Q24959603;Pulau-pulau Gordon
+Q24966865;Kepulauan Gorom
+Q24976700;Pulau-Pulau Jefdoif
+Q24977185;Pulau-Pulau Dua
+Q24982758;Kepulauan Dakokay
+Q24982792;Pulau-Pulau Damar
+Q24982875;Kepulauan Dangkal
+Q24992764;Kepulauan Burung
+Q24997223;Pulau-Pulau Boo
+Q24997299;Kepulauan Bawoka
+Q25005409;Pulau Pulau Batutol
+Q25012264;Kepulauan Banggai
+Q25012280;Kepulauan Bangkalan
+Q25012484;Kepulauan Banyak
+Q25016262;Pulau-pulau Aruah
+Q25016294;Pulau-Pulau Asia
+Q25016385;Pulau Pulau Babar
+Q25016406;Kepulauan Bacan
+Q25016414;Kepulauan Badas
+Q25016848;Pulau Pulau Auri
+Q25016849;Kepulauan Ayer Besar
+Q25017599;Pulau-pulau Mondong
+Q25017679;Pulau Pulau Latalata
+Q25017681;Pulau Pulau Tema
+Q25017686;Pulau-pulau Maisel
+Q25017779;Kepulauan Brace
+Q25019367;Ayermasin
+Q25019761;Pulau-pulau Luing
+Q25020441;Pulau Nusatel
+Q25020505;Pulau-Pulau Tomah
+Q25022592;Pulau-Pulau Openta
+Q25022655;Pulau-Pulau Jal
+Q25022656;Pulau-Pulau Jam
+Q25022657;Pulau-Pulau Wasankaini
+Q25022665;Pulau-Pulau Farondi
+Q25022671;Pulau-Pulau Langkissiel
+Q25026650;Pulau-Pulau Tanjungkulit
+Q25046183;Surin Islands
+Q25059169;Torlesse Islands
+Q25069158;Pulau Dakokay
+Q25162136;Greek Islands
+Q26156118;Pulau-Pulau Sangihe
+Q26221031;Middelplaten
+Q26723710;Aland Islands
+Q26757080;Pulau Pulau Biak
+Q26759722;Pulau Pulau Gorauci
+Q26761160;Pulau-pulau Selanga
+Q26761319;Pulau-pulau Tapai
+Q26761354;Pulau-pulau Babi
+Q26807238;Isle-aux-Grues archipelago
+Q27577733;Marshall Islands
+Q27696964;Saint Andrews Group
+Q27986852;Cut in Two Island
+Q28040145;Q28040145
+Q28040312;Q28040312
+Q28040574;Riou archipel
+Q28670474;Zadar archipelago
+Q28724713;Nias archipelago
+Q30632618;Saros Islands
+Q30693402;Baco Islands
+Q31079733;Henckeløyane
+Q31079734;Jakimovičøyane
+Q31079739;Q31079739
+Q31873279;Spalathronísia
+Q31897859;Djurö Skärgård
+Q31912362;Butong archipelago
+Q32263773;Karlsöarna
+Q39756812;Q39756812
+Q49023882;Q49023882
+Q49183177;Q49183177
+Q49295826;Q49295826
+Q49295906;Q49295906
+Q49296131;Q49296131
+Q49296136;Q49296136
+Q49296347;Q49296347
+Q49296349;Q49296349
+Q49296517;Q49296517
+Q49296522;Q49296522
+Q49296643;Q49296643
+Q49296672;Q49296672
+Q49296857;Q49296857
+Q49297022;Q49297022
+Q49637300;East Harbor Keys
+Q49637834;Fanny Keys
+Q49653546;Little Sandy Keys
+Q49656522;Manatee Keys
+Q49657649;Maurelle Islands
+Q49677168;Salt Pond Keys
+Q55729152;Deokjeok islands
+Q56064569;Trossö-Kalvö-Lindö
+Q56064932;Väderöarna
+Q56065057;Koster Islands
+Q56405839;Solvær
+Q58176635;Small Isles
+Q60787313;Krakatoa archipelago
+Q61081133;Q61081133
+Q61081134;Q61081134
+Q61081143;Q61081143
+Q63391542;Rochers Trémarec
+Q64692249;Kvarken Archipelago – zone A
+Q64692250;Kvarken Archipelago – zone B
+Q68911682;Q68911682
+Q71007326;Q71007326
+Q71831464;Q71831464
+Q78979260;Q78979260
+Q86412116;Q86412116

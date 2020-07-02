@@ -1,0 +1,942 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q177525;Falcarragh;административно-территориальная единица;1;1;from
+Q2424891;Kilkieran;Who's on First ID;1;1;from
+Q2311794;Barna;Who's on First ID;1;1;from
+Q2311794;Barna;место рождения;1;2;to
+Q2424891;Kilkieran;административно-территориальная единица;1;1;from
+Q2424891;Kilkieran;государство;1;1;from
+Q2424891;Kilkieran;изображение;1;1;from
+Q2424891;Kilkieran;это частный случай понятия;1;2;from
+Q2424891;Kilkieran;код GeoNames;1;1;from
+Q2424891;Kilkieran;высота над уровнем моря;1;1;from
+Q2424891;Kilkieran;Irish Grid Reference;1;1;from
+Q2424891;Kilkieran;часовой пояс;1;1;from
+Q2424891;Kilkieran;географические координаты;1;1;from
+Q2424891;Kilkieran;код Freebase;1;1;from
+Q2424891;Kilkieran;место рождения;1;3;to
+Q2474158;Ballinskelligs;официальный сайт;1;1;from
+Q2474158;Ballinskelligs;административно-территориальная единица;1;1;from
+Q2474158;Ballinskelligs;государство;1;1;from
+Q2474158;Ballinskelligs;изображение;1;1;from
+Q2474158;Ballinskelligs;это частный случай понятия;1;2;from
+Q2474158;Ballinskelligs;официальное название;1;2;from
+Q2474158;Ballinskelligs;код GeoNames;1;1;from
+Q2474158;Ballinskelligs;код темы Quora;1;1;from
+Q2474158;Ballinskelligs;категория на Викискладе;1;1;from
+Q2474158;Ballinskelligs;Irish Grid Reference;1;1;from
+Q2474158;Ballinskelligs;часовой пояс;1;1;from
+Q2474158;Ballinskelligs;географические координаты;1;1;from
+Q2474158;Ballinskelligs;код Freebase;1;1;from
+Q2311794;Barna;код Freebase;1;1;from
+Q2311794;Barna;географические координаты;1;1;from
+Q2311794;Barna;Logainm ID;1;1;from
+Q2311794;Barna;часовой пояс;1;1;from
+Q2247547;Toormakeady;это частный случай понятия;1;2;from
+Q2247547;Toormakeady;код GeoNames;1;1;from
+Q2247547;Toormakeady;высота над уровнем моря;1;1;from
+Q2247547;Toormakeady;площадь;1;1;from
+Q2247547;Toormakeady;категория на Викискладе;1;1;from
+Q2247547;Toormakeady;Irish Grid Reference;1;1;from
+Q2247547;Toormakeady;часовой пояс;1;1;from
+Q2247547;Toormakeady;Logainm ID;1;1;from
+Q2247547;Toormakeady;географические координаты;1;1;from
+Q2247547;Toormakeady;код Freebase;1;1;from
+Q2247547;Toormakeady;Who's on First ID;1;1;from
+Q2247547;Toormakeady;место смерти;1;1;to
+Q2247547;Toormakeady;местонахождение;1;1;to
+Q2247547;Toormakeady;место рождения;1;1;to
+Q2311794;Barna;административно-территориальная единица;1;1;from
+Q2311794;Barna;государство;1;1;from
+Q2311794;Barna;изображение;1;1;from
+Q2311794;Barna;код VIAF;1;1;from
+Q2311794;Barna;код LCNAF;1;1;from
+Q2311794;Barna;это частный случай понятия;1;2;from
+Q2311794;Barna;код GeoNames;1;1;from
+Q2311794;Barna;высота над уровнем моря;1;1;from
+Q2311794;Barna;площадь;1;1;from
+Q2311794;Barna;категория на Викискладе;1;1;from
+Q2311794;Barna;Irish Grid Reference;1;1;from
+Q2474158;Ballinskelligs;Who's on First ID;1;1;from
+Q2474158;Ballinskelligs;место жительства;1;1;to
+Q2247547;Toormakeady;код VIAF;1;1;from
+Q2588739;Lettermore;административно-территориальная единица;1;1;from
+Q2566772;Rossport;государство;1;1;from
+Q2566772;Rossport;это частный случай понятия;1;2;from
+Q2566772;Rossport;код GeoNames;1;1;from
+Q2566772;Rossport;высота над уровнем моря;1;1;from
+Q2566772;Rossport;категория на Викискладе;1;1;from
+Q2566772;Rossport;Irish Grid Reference;1;1;from
+Q2566772;Rossport;часовой пояс;1;1;from
+Q2566772;Rossport;Logainm ID;1;1;from
+Q2566772;Rossport;географические координаты;1;1;from
+Q2566772;Rossport;код Freebase;1;1;from
+Q2566772;Rossport;Who's on First ID;1;1;from
+Q2566772;Rossport;место жительства;1;1;to
+Q2588739;Lettermore;государство;1;1;from
+Q2528821;Brandon, County Kerry;административно-территориальная единица;1;1;from
+Q2588739;Lettermore;это частный случай понятия;1;1;from
+Q2588739;Lettermore;численность населения;1;46;from
+Q2588739;Lettermore;официальное название;1;1;from
+Q2588739;Lettermore;код GeoNames;1;1;from
+Q2588739;Lettermore;высота над уровнем моря;1;1;from
+Q2588739;Lettermore;категория на Викискладе;1;1;from
+Q2588739;Lettermore;Irish Grid Reference;1;1;from
+Q2588739;Lettermore;часовой пояс;1;1;from
+Q2588739;Lettermore;Logainm ID;1;1;from
+Q2588739;Lettermore;географические координаты;1;1;from
+Q2588739;Lettermore;код Freebase;1;1;from
+Q2588739;Lettermore;Who's on First ID;1;1;from
+Q2566772;Rossport;административно-территориальная единица;1;1;from
+Q2563229;Bunbeg;Who's on First ID;1;1;from
+Q2563229;Bunbeg;код Freebase;1;1;from
+Q2563229;Bunbeg;географические координаты;1;1;from
+Q2528821;Brandon, County Kerry;государство;1;1;from
+Q2528821;Brandon, County Kerry;изображение;1;1;from
+Q2528821;Brandon, County Kerry;это частный случай понятия;1;2;from
+Q2528821;Brandon, County Kerry;код GeoNames;1;1;from
+Q2528821;Brandon, County Kerry;высота над уровнем моря;1;1;from
+Q2528821;Brandon, County Kerry;категория на Викискладе;1;1;from
+Q2528821;Brandon, County Kerry;Irish Grid Reference;1;1;from
+Q2528821;Brandon, County Kerry;часовой пояс;1;1;from
+Q2528821;Brandon, County Kerry;Logainm ID;1;1;from
+Q2528821;Brandon, County Kerry;географические координаты;1;1;from
+Q2528821;Brandon, County Kerry;код Freebase;1;1;from
+Q2528821;Brandon, County Kerry;Who's on First ID;1;1;from
+Q2528821;Brandon, County Kerry;место рождения;1;1;to
+Q2563229;Bunbeg;государство;1;1;from
+Q2563229;Bunbeg;изображение;1;1;from
+Q2563229;Bunbeg;это частный случай понятия;1;2;from
+Q2563229;Bunbeg;имеет границы с;1;1;from
+Q2563229;Bunbeg;WOEID;1;1;from
+Q2563229;Bunbeg;код GeoNames;1;1;from
+Q2563229;Bunbeg;название на языке оригинала;1;1;from
+Q2563229;Bunbeg;площадь;1;1;from
+Q2563229;Bunbeg;категория на Викискладе;1;1;from
+Q2563229;Bunbeg;Irish Grid Reference;1;1;from
+Q2563229;Bunbeg;часовой пояс;1;1;from
+Q2563229;Bunbeg;Logainm ID;1;1;from
+Q2247547;Toormakeady;код LCNAF;1;1;from
+Q2247547;Toormakeady;изображение;1;1;from
+Q2078132;Annagry;это частный случай понятия;1;2;from
+Q2084408;Carrowteige;административно-территориальная единица;1;1;from
+Q2078180;Cloghane;Who's on First ID;1;1;from
+Q2078231;Fintown;административно-территориальная единица;1;1;from
+Q2078231;Fintown;государство;1;1;from
+Q2078231;Fintown;это частный случай понятия;1;2;from
+Q2078231;Fintown;код GeoNames;1;1;from
+Q2078231;Fintown;высота над уровнем моря;1;1;from
+Q2078231;Fintown;категория на Викискладе;1;1;from
+Q2078231;Fintown;Irish Grid Reference;1;1;from
+Q2078231;Fintown;часовой пояс;1;1;from
+Q2078231;Fintown;географические координаты;1;1;from
+Q2078231;Fintown;код Freebase;1;1;from
+Q2078231;Fintown;Who's on First ID;1;1;from
+Q2084408;Carrowteige;государство;1;1;from
+Q2084438;Belderrig;высота над уровнем моря;1;1;from
+Q2084408;Carrowteige;это частный случай понятия;1;2;from
+Q2084408;Carrowteige;код GeoNames;1;1;from
+Q2084408;Carrowteige;высота над уровнем моря;1;1;from
+Q2084408;Carrowteige;Irish Grid Reference;1;1;from
+Q2084408;Carrowteige;часовой пояс;1;1;from
+Q2084408;Carrowteige;географические координаты;1;1;from
+Q2084408;Carrowteige;код Freebase;1;1;from
+Q2084408;Carrowteige;Who's on First ID;1;1;from
+Q2084408;Carrowteige;расположение штаб-квартиры;1;1;to
+Q2084438;Belderrig;административно-территориальная единица;1;1;to
+Q2084438;Belderrig;государство;1;1;from
+Q2084438;Belderrig;это частный случай понятия;1;2;from
+Q2078180;Cloghane;географические координаты;1;1;from
+Q2078180;Cloghane;часовой пояс;1;1;from
+Q2078180;Cloghane;Irish Grid Reference;1;1;from
+Q2078180;Cloghane;категория на Викискладе;1;1;from
+Q2078132;Annagry;официальное название;1;2;from
+Q2078132;Annagry;код GeoNames;1;1;from
+Q2078132;Annagry;высота над уровнем моря;1;1;from
+Q2078132;Annagry;категория на Викискладе;1;1;from
+Q2078132;Annagry;Irish Grid Reference;1;1;from
+Q2078132;Annagry;часовой пояс;1;1;from
+Q2078132;Annagry;географические координаты;1;1;from
+Q2078132;Annagry;Who's on First ID;1;1;from
+Q2078170;Carrigart;административно-территориальная единица;1;1;from
+Q2078170;Carrigart;государство;1;1;from
+Q2078170;Carrigart;изображение;1;1;from
+Q2078170;Carrigart;это частный случай понятия;1;2;from
+Q2078170;Carrigart;код GeoNames;1;1;from
+Q2078170;Carrigart;категория на Викискладе;1;1;from
+Q2078170;Carrigart;Irish Grid Reference;1;1;from
+Q2078170;Carrigart;часовой пояс;1;1;from
+Q2078170;Carrigart;географические координаты;1;1;from
+Q2078170;Carrigart;Who's on First ID;1;1;from
+Q2078170;Carrigart;место рождения;1;1;to
+Q2078180;Cloghane;административно-территориальная единица;1;1;from
+Q2078180;Cloghane;государство;1;1;from
+Q2078180;Cloghane;изображение;1;2;from
+Q2078180;Cloghane;это частный случай понятия;1;2;from
+Q2078180;Cloghane;код GeoNames;1;1;from
+Q2078180;Cloghane;название на языке оригинала;1;1;from
+Q2084438;Belderrig;код GeoNames;1;1;from
+Q2084438;Belderrig;категория на Викискладе;1;1;from
+Q2247547;Toormakeady;государство;1;1;from
+Q2147088;Cornamona;административно-территориальная единица;1;1;from
+Q2085894;Clonbur;Who's on First ID;1;1;from
+Q2085894;Clonbur;место рождения;1;2;to
+Q2085894;Clonbur;место смерти;1;1;to
+Q2091058;Recess;административно-территориальная единица;1;1;from
+Q2091058;Recess;государство;1;1;from
+Q2091058;Recess;это частный случай понятия;1;2;from
+Q2091058;Recess;высота над уровнем моря;1;1;from
+Q2091058;Recess;категория на Викискладе;1;1;from
+Q2091058;Recess;Irish Grid Reference;1;1;from
+Q2091058;Recess;часовой пояс;1;1;from
+Q2091058;Recess;Logainm ID;1;1;from
+Q2091058;Recess;географические координаты;1;1;from
+Q2147088;Cornamona;государство;1;1;from
+Q2084438;Belderrig;Irish Grid Reference;1;1;from
+Q2147088;Cornamona;это частный случай понятия;1;2;from
+Q2147088;Cornamona;код GeoNames;1;1;from
+Q2147088;Cornamona;высота над уровнем моря;1;1;from
+Q2147088;Cornamona;категория на Викискладе;1;1;from
+Q2147088;Cornamona;Irish Grid Reference;1;1;from
+Q2147088;Cornamona;часовой пояс;1;1;from
+Q2147088;Cornamona;географические координаты;1;1;from
+Q2147088;Cornamona;код Freebase;1;1;from
+Q2147088;Cornamona;Who's on First ID;1;1;from
+Q2147088;Cornamona;место смерти;1;1;to
+Q2147088;Cornamona;место рождения;1;1;to
+Q2247547;Toormakeady;административно-территориальная единица;1;1;from
+Q2085894;Clonbur;код Freebase;1;1;from
+Q2085894;Clonbur;географические координаты;1;1;from
+Q2085894;Clonbur;часовой пояс;1;1;from
+Q2085894;Clonbur;Irish Grid Reference;1;1;from
+Q2084438;Belderrig;часовой пояс;1;1;from
+Q2084438;Belderrig;Logainm ID;1;1;from
+Q2084438;Belderrig;географические координаты;1;1;from
+Q2084438;Belderrig;код Freebase;1;1;from
+Q2084438;Belderrig;Who's on First ID;1;1;from
+Q2085195;Kilnamartyra;административно-территориальная единица;1;1;from
+Q2085195;Kilnamartyra;государство;1;1;from
+Q2085195;Kilnamartyra;это частный случай понятия;1;2;from
+Q2085195;Kilnamartyra;код GeoNames;1;1;from
+Q2085195;Kilnamartyra;высота над уровнем моря;1;1;from
+Q2085195;Kilnamartyra;категория на Викискладе;1;1;from
+Q2085195;Kilnamartyra;Irish Grid Reference;1;1;from
+Q2085195;Kilnamartyra;часовой пояс;1;1;from
+Q2085195;Kilnamartyra;географические координаты;1;1;from
+Q2085195;Kilnamartyra;Who's on First ID;1;1;from
+Q2085195;Kilnamartyra;место рождения;1;2;to
+Q2085894;Clonbur;административно-территориальная единица;1;1;from
+Q2085894;Clonbur;государство;1;1;from
+Q2085894;Clonbur;это частный случай понятия;1;2;from
+Q2085894;Clonbur;WOEID;1;1;from
+Q2085894;Clonbur;код GeoNames;1;1;from
+Q2085894;Clonbur;название на языке оригинала;1;1;from
+Q2085894;Clonbur;высота над уровнем моря;1;1;from
+Q2085894;Clonbur;код темы Quora;1;1;from
+Q2085894;Clonbur;категория на Викискладе;1;1;from
+Q2588739;Lettermore;место рождения;1;1;to
+Q2650181;Feothanach;административно-территориальная единица;1;1;from
+Q2650181;Feothanach;государство;1;1;from
+Q3776352;Downings;административно-территориальная единица;1;1;from
+Q3775912;Kilgalligan;государство;1;1;from
+Q3775912;Kilgalligan;это частный случай понятия;1;3;from
+Q3775912;Kilgalligan;официальное название;1;1;from
+Q3775912;Kilgalligan;код GeoNames;1;1;from
+Q3775912;Kilgalligan;высота над уровнем моря;1;1;from
+Q3775912;Kilgalligan;категория на Викискладе;1;1;from
+Q3775912;Kilgalligan;часовой пояс;1;1;from
+Q3775912;Kilgalligan;Logainm ID;1;1;from
+Q3775912;Kilgalligan;географические координаты;1;1;from
+Q3775912;Kilgalligan;Who's on First ID;1;1;from
+Q3775912;Kilgalligan;место смерти;1;1;to
+Q3775912;Kilgalligan;место рождения;1;1;to
+Q3776352;Downings;государство;1;1;from
+Q3776872;Camus, County Galway;государство;1;1;from
+Q3776352;Downings;изображение;1;2;from
+Q3776352;Downings;это частный случай понятия;1;3;from
+Q3776352;Downings;официальное название;1;1;from
+Q3776352;Downings;код GeoNames;1;1;from
+Q3776352;Downings;категория на Викискладе;1;1;from
+Q3776352;Downings;Irish Grid Reference;1;1;from
+Q3776352;Downings;часовой пояс;1;1;from
+Q3776352;Downings;Logainm ID;1;1;from
+Q3776352;Downings;географические координаты;1;1;from
+Q3776352;Downings;Who's on First ID;1;1;from
+Q3776352;Downings;место рождения;1;1;to
+Q3776352;Downings;расположение конечной точки;1;1;to
+Q3775912;Kilgalligan;административно-территориальная единица;1;1;from
+Q3775878;An Seanphobal;код Freebase;1;1;from
+Q3775878;An Seanphobal;географические координаты;1;1;from
+Q3775878;An Seanphobal;часовой пояс;1;1;from
+Q3756358;Derrybeg;часовой пояс;1;1;from
+Q3756358;Derrybeg;Logainm ID;1;1;from
+Q3756358;Derrybeg;географические координаты;1;1;from
+Q3756358;Derrybeg;Who's on First ID;1;1;from
+Q3756358;Derrybeg;имеет границы с;1;1;to
+Q3756358;Derrybeg;место рождения;1;1;to
+Q3756411;Carna;государство;1;1;from
+Q3756411;Carna;изображение;1;1;from
+Q3756411;Carna;код VIAF;1;1;from
+Q3756411;Carna;это частный случай понятия;1;2;from
+Q3756411;Carna;высота над уровнем моря;1;1;from
+Q3756411;Carna;категория на Викискладе;1;1;from
+Q3756411;Carna;Irish Grid Reference;1;1;from
+Q3756411;Carna;часовой пояс;1;1;from
+Q3756411;Carna;Logainm ID;1;1;from
+Q3756411;Carna;географические координаты;1;1;from
+Q3756411;Carna;место рождения;1;4;to
+Q3756411;Carna;административно-территориальная единица;1;1;to
+Q3775878;An Seanphobal;административно-территориальная единица;1;1;from
+Q3775878;An Seanphobal;государство;1;1;from
+Q3775878;An Seanphobal;изображение;1;1;from
+Q3775878;An Seanphobal;это частный случай понятия;1;2;from
+Q3775878;An Seanphobal;численность населения;1;1;from
+Q3775878;An Seanphobal;категория на Викискладе;1;1;from
+Q3775878;An Seanphobal;Irish Grid Reference;1;1;from
+Q3776872;Camus, County Galway;административно-территориальная единица;1;1;from
+Q3776872;Camus, County Galway;это частный случай понятия;1;2;from
+Q2650181;Feothanach;это частный случай понятия;1;3;from
+Q13156894;Tully;это частный случай понятия;1;2;from
+Q7862290;Tóin an tSeanbhaile;государство;1;1;from
+Q7862290;Tóin an tSeanbhaile;это частный случай понятия;1;2;from
+Q7862290;Tóin an tSeanbhaile;официальное название;1;1;from
+Q7862290;Tóin an tSeanbhaile;высота над уровнем моря;1;1;from
+Q7862290;Tóin an tSeanbhaile;Irish Grid Reference;1;1;from
+Q7862290;Tóin an tSeanbhaile;Logainm ID;1;1;from
+Q7862290;Tóin an tSeanbhaile;географические координаты;1;1;from
+Q12738628;Gaeltacht Corca Dhuibhne;административно-территориальная единица;1;1;from
+Q12738628;Gaeltacht Corca Dhuibhne;государство;1;1;from
+Q12738628;Gaeltacht Corca Dhuibhne;это частный случай понятия;1;1;from
+Q13156894;Tully;административно-территориальная единица;1;1;from
+Q13156894;Tully;государство;1;1;from
+Q13156894;Tully;официальное название;1;1;from
+Q3776872;Camus, County Galway;высота над уровнем моря;1;1;from
+Q13156894;Tully;код GeoNames;1;1;from
+Q13156894;Tully;Logainm ID;1;1;from
+Q13156894;Tully;Who's on First ID;1;1;from
+Q13157348;Gaeltacht na nDéise;изображение;1;1;from
+Q13157348;Gaeltacht na nDéise;это частный случай понятия;1;1;from
+Q13157348;Gaeltacht na nDéise;площадь;1;1;from
+Q13157348;Gaeltacht na nDéise;географические координаты;1;1;from
+Q13404123;Gaeltacht an Láir;государство;1;1;from
+Q13404123;Gaeltacht an Láir;это частный случай понятия;1;2;from
+Q13404123;Gaeltacht an Láir;часовой пояс;1;1;from
+Q18562292;Baile na nGall;государство;1;1;from
+Q18562292;Baile na nGall;это частный случай понятия;1;3;from
+Q7862290;Tóin an tSeanbhaile;административно-территориальная единица;1;1;from
+Q5568527;Glengad;географические координаты;1;1;from
+Q5568527;Glengad;часовой пояс;1;1;from
+Q5568527;Glengad;Irish Grid Reference;1;1;from
+Q3776872;Camus, County Galway;Irish Grid Reference;1;1;from
+Q3776872;Camus, County Galway;часовой пояс;1;1;from
+Q3776872;Camus, County Galway;Logainm ID;1;1;from
+Q3776872;Camus, County Galway;географические координаты;1;1;from
+Q3776872;Camus, County Galway;код Freebase;1;1;from
+Q3778640;Askill;это частный случай понятия;1;2;from
+Q3778640;Askill;код темы Quora;1;1;from
+Q4851770;Ballintra;административно-территориальная единица;1;1;from
+Q4851770;Ballintra;государство;1;1;from
+Q4851770;Ballintra;это частный случай понятия;1;2;from
+Q4851770;Ballintra;Irish Grid Reference;1;1;from
+Q4851770;Ballintra;часовой пояс;1;1;from
+Q4851770;Ballintra;Logainm ID;1;1;from
+Q4851770;Ballintra;географические координаты;1;1;from
+Q5315434;Dunlewey;государство;1;1;from
+Q5315434;Dunlewey;это частный случай понятия;1;2;from
+Q5315434;Dunlewey;категория на Викискладе;1;1;from
+Q5315434;Dunlewey;Irish Grid Reference;1;1;from
+Q5315434;Dunlewey;географические координаты;1;1;from
+Q5315434;Dunlewey;конечная;1;1;to
+Q5568527;Glengad;административно-территориальная единица;1;1;from
+Q5568527;Glengad;государство;1;1;from
+Q5568527;Glengad;изображение;1;1;from
+Q5568527;Glengad;это частный случай понятия;1;2;from
+Q5568527;Glengad;высота над уровнем моря;1;1;from
+Q3756358;Derrybeg;категория на Викискладе;1;1;from
+Q3756358;Derrybeg;код GeoNames;1;1;from
+Q3756358;Derrybeg;это частный случай понятия;1;2;from
+Q2672182;Aughleam;код Freebase;1;1;from
+Q2672172;Ráth Cairn;код Freebase;1;1;from
+Q2672172;Ráth Cairn;место рождения;1;1;to
+Q2672182;Aughleam;административно-территориальная единица;1;1;to
+Q2672182;Aughleam;государство;1;1;from
+Q2672182;Aughleam;изображение;1;1;from
+Q2672182;Aughleam;это частный случай понятия;1;2;from
+Q2672182;Aughleam;код TGN;1;1;from
+Q2672182;Aughleam;высота над уровнем моря;1;1;from
+Q2672182;Aughleam;категория на Викискладе;1;1;from
+Q2672182;Aughleam;Irish Grid Reference;1;1;from
+Q2672182;Aughleam;часовой пояс;1;1;from
+Q2672182;Aughleam;географические координаты;1;1;from
+Q2672400;Maum;административно-территориальная единица;1;1;to
+Q3756358;Derrybeg;государство;1;1;from
+Q2672400;Maum;государство;1;1;from
+Q2672400;Maum;это частный случай понятия;1;2;from
+Q2672400;Maum;WOEID;1;1;from
+Q2672400;Maum;код GeoNames;1;1;from
+Q2672400;Maum;высота над уровнем моря;1;1;from
+Q2672400;Maum;категория на Викискладе;1;1;from
+Q2672400;Maum;Irish Grid Reference;1;1;from
+Q2672400;Maum;часовой пояс;1;1;from
+Q2672400;Maum;Logainm ID;1;1;from
+Q2672400;Maum;географические координаты;1;1;from
+Q2672400;Maum;код Freebase;1;1;from
+Q2672400;Maum;Who's on First ID;1;1;from
+Q2672172;Ráth Cairn;географические координаты;1;1;from
+Q2672172;Ráth Cairn;часовой пояс;1;1;from
+Q2672172;Ráth Cairn;Irish Grid Reference;1;1;from
+Q2672172;Ráth Cairn;категория на Викискладе;1;1;from
+Q2650181;Feothanach;код GeoNames;1;1;from
+Q2650181;Feothanach;высота над уровнем моря;1;1;from
+Q2650181;Feothanach;часовой пояс;1;1;from
+Q2650181;Feothanach;географические координаты;1;1;from
+Q2650181;Feothanach;код Freebase;1;1;from
+Q2650181;Feothanach;Who's on First ID;1;1;from
+Q2650181;Feothanach;место рождения;1;1;to
+Q2661340;Rossaveal;административно-территориальная единица;1;1;from
+Q2661340;Rossaveal;государство;1;1;from
+Q2661340;Rossaveal;изображение;1;1;from
+Q2661340;Rossaveal;это частный случай понятия;1;2;from
+Q2661340;Rossaveal;код GeoNames;1;1;from
+Q2661340;Rossaveal;высота над уровнем моря;1;1;from
+Q2661340;Rossaveal;категория на Викискладе;1;1;from
+Q2661340;Rossaveal;Irish Grid Reference;1;1;from
+Q2661340;Rossaveal;часовой пояс;1;1;from
+Q2661340;Rossaveal;географические координаты;1;1;from
+Q2661340;Rossaveal;код Freebase;1;1;from
+Q2661340;Rossaveal;Who's on First ID;1;1;from
+Q2661340;Rossaveal;место жительства;1;1;to
+Q2672172;Ráth Cairn;административно-территориальная единица;1;1;from
+Q2672172;Ráth Cairn;государство;1;1;from
+Q2672172;Ráth Cairn;изображение;1;1;from
+Q2672172;Ráth Cairn;это частный случай понятия;1;2;from
+Q2672172;Ráth Cairn;высота над уровнем моря;1;1;from
+Q3367637;Doochary;административно-территориальная единица;1;1;from
+Q3367637;Doochary;государство;1;1;from
+Q3367637;Doochary;изображение;1;1;from
+Q3596080;Lettermacaward;часовой пояс;1;1;from
+Q3596080;Lettermacaward;Who's on First ID;1;1;from
+Q3596080;Lettermacaward;место рождения;1;1;to
+Q3596086;Leabgarrow;государство;1;1;from
+Q3596086;Leabgarrow;изображение;1;1;from
+Q3596086;Leabgarrow;это частный случай понятия;1;2;from
+Q3596086;Leabgarrow;код GeoNames;1;1;from
+Q3596086;Leabgarrow;категория на Викискладе;1;1;from
+Q3596086;Leabgarrow;Irish Grid Reference;1;1;from
+Q3596086;Leabgarrow;часовой пояс;1;1;from
+Q3596086;Leabgarrow;географические координаты;1;1;from
+Q3596086;Leabgarrow;Who's on First ID;1;1;from
+Q3753938;Loch an Iúir;административно-территориальная единица;1;1;from
+Q3753938;Loch an Iúir;государство;1;1;from
+Q3753938;Loch an Iúir;изображение;1;1;from
+Q3753938;Loch an Iúir;это частный случай понятия;1;2;from
+Q3753938;Loch an Iúir;код GeoNames;1;1;from
+Q3753938;Loch an Iúir;высота над уровнем моря;1;1;from
+Q3753938;Loch an Iúir;категория на Викискладе;1;1;from
+Q3753938;Loch an Iúir;Irish Grid Reference;1;1;from
+Q3753938;Loch an Iúir;часовой пояс;1;1;from
+Q3753938;Loch an Iúir;Logainm ID;1;1;from
+Q3753938;Loch an Iúir;географические координаты;1;1;from
+Q3753938;Loch an Iúir;код Freebase;1;1;from
+Q3753938;Loch an Iúir;Who's on First ID;1;1;from
+Q3753938;Loch an Iúir;место рождения;1;1;to
+Q3596080;Lettermacaward;географические координаты;1;1;from
+Q3596080;Lettermacaward;Irish Grid Reference;1;1;from
+Q3367637;Doochary;это частный случай понятия;1;2;from
+Q3596080;Lettermacaward;категория на Викискладе;1;1;from
+Q3367637;Doochary;название на языке оригинала;1;1;from
+Q3367637;Doochary;категория на Викискладе;1;1;from
+Q3367637;Doochary;Irish Grid Reference;1;1;from
+Q3367637;Doochary;часовой пояс;1;1;from
+Q3367637;Doochary;Logainm ID;1;1;from
+Q3367637;Doochary;географические координаты;1;1;from
+Q3367679;Crolly;административно-территориальная единица;1;1;from
+Q3367679;Crolly;государство;1;1;from
+Q3367679;Crolly;изображение;1;1;from
+Q3367679;Crolly;это частный случай понятия;1;2;from
+Q3367679;Crolly;код GeoNames;1;1;from
+Q3367679;Crolly;высота над уровнем моря;1;1;from
+Q3367679;Crolly;категория на Викискладе;1;1;from
+Q3367679;Crolly;Irish Grid Reference;1;1;from
+Q3367679;Crolly;часовой пояс;1;1;from
+Q3367679;Crolly;Logainm ID;1;1;from
+Q3367679;Crolly;географические координаты;1;1;from
+Q3367679;Crolly;Who's on First ID;1;1;from
+Q3596080;Lettermacaward;административно-территориальная единица;1;1;from
+Q3596080;Lettermacaward;государство;1;1;from
+Q3596080;Lettermacaward;изображение;1;1;from
+Q3596080;Lettermacaward;это частный случай понятия;1;2;from
+Q3596080;Lettermacaward;WOEID;1;1;from
+Q3596080;Lettermacaward;код GeoNames;1;1;from
+Q3596080;Lettermacaward;высота над уровнем моря;1;1;from
+Q2078132;Annagry;численность населения;1;1;from
+Q2078132;Annagry;изображение;1;1;from
+Q177525;Falcarragh;государство;1;1;from
+Q816116;Belmullet;высота над уровнем моря;1;1;from
+Q803785;Ballynahown;часовой пояс;1;1;from
+Q803785;Ballynahown;Logainm ID;1;1;from
+Q803785;Ballynahown;географические координаты;1;1;from
+Q803785;Ballynahown;код Freebase;1;1;from
+Q803785;Ballynahown;Who's on First ID;1;1;from
+Q803785;Ballynahown;место рождения;1;1;to
+Q803785;Ballynahown;место смерти;1;1;to
+Q803785;Ballynahown;расположение штаб-квартиры;1;1;to
+Q816116;Belmullet;административно-территориальная единица;1;1;from
+Q816116;Belmullet;государство;1;1;from
+Q816116;Belmullet;это частный случай понятия;1;2;from
+Q816116;Belmullet;код GeoNames;1;1;from
+Q816116;Belmullet;категория на Викискладе;1;1;from
+Q915185;Inverin;официальное название;1;2;from
+Q816116;Belmullet;Irish Grid Reference;1;1;from
+Q816116;Belmullet;часовой пояс;1;1;from
+Q816116;Belmullet;Logainm ID;1;1;from
+Q816116;Belmullet;географические координаты;1;1;from
+Q816116;Belmullet;код Freebase;1;1;from
+Q816116;Belmullet;Who's on First ID;1;1;from
+Q816116;Belmullet;место рождения;1;5;to
+Q816116;Belmullet;названо в честь;1;1;to
+Q816116;Belmullet;обслуживаемый город;1;1;to
+Q915185;Inverin;административно-территориальная единица;1;1;to
+Q915185;Inverin;государство;1;1;from
+Q915185;Inverin;изображение;1;1;from
+Q803785;Ballynahown;высота над уровнем моря;1;1;from
+Q803785;Ballynahown;код GeoNames;1;1;from
+Q803785;Ballynahown;официальное название;1;2;from
+Q803785;Ballynahown;это частный случай понятия;1;3;from
+Q788778;Gortahork;часовой пояс;1;1;from
+Q788778;Gortahork;Logainm ID;1;1;from
+Q788778;Gortahork;географические координаты;1;2;from
+Q788778;Gortahork;код Freebase;1;1;from
+Q788778;Gortahork;Who's on First ID;1;1;from
+Q788778;Gortahork;место рождения;1;3;to
+Q798788;Ring;административно-территориальная единица;1;1;to
+Q798788;Ring;государство;1;1;from
+Q798788;Ring;это частный случай понятия;1;2;from
+Q798788;Ring;код GeoNames;1;1;from
+Q798788;Ring;название на языке оригинала;1;1;from
+Q798788;Ring;высота над уровнем моря;1;1;from
+Q798788;Ring;категория на Викискладе;1;1;from
+Q798788;Ring;Irish Grid Reference;1;1;from
+Q798788;Ring;часовой пояс;1;1;from
+Q798788;Ring;Logainm ID;1;1;from
+Q798788;Ring;географические координаты;1;1;from
+Q798788;Ring;код Freebase;1;1;from
+Q798788;Ring;Who's on First ID;1;1;from
+Q798788;Ring;место рождения;1;3;to
+Q803785;Ballynahown;административно-территориальная единица;1;1;to
+Q803785;Ballynahown;государство;1;1;from
+Q803785;Ballynahown;изображение;1;2;from
+Q803785;Ballynahown;код VIAF;1;1;from
+Q803785;Ballynahown;код LCNAF;1;1;from
+Q915185;Inverin;это частный случай понятия;1;2;from
+Q915185;Inverin;код GeoNames;1;1;from
+Q788778;Gortahork;код GeoNames;1;1;from
+Q932302;Dingle;находится в пределах природно-географического объекта;1;1;to
+Q932302;Dingle;код GeoNames;1;1;from
+Q932302;Dingle;название на языке оригинала;1;1;from
+Q932302;Dingle;высота над уровнем моря;1;1;from
+Q932302;Dingle;площадь;1;1;from
+Q932302;Dingle;часть от;1;1;from
+Q932302;Dingle;категория на Викискладе;1;1;from
+Q932302;Dingle;Irish Grid Reference;1;1;from
+Q932302;Dingle;часовой пояс;1;1;from
+Q932302;Dingle;Logainm ID;1;1;from
+Q932302;Dingle;географические координаты;1;1;from
+Q932302;Dingle;код Freebase;1;1;from
+Q932302;Dingle;Who's on First ID;1;1;from
+Q932302;Dingle;основная категория по теме;1;1;from
+Q915185;Inverin;высота над уровнем моря;1;1;from
+Q932302;Dingle;галерея на Викискладе;1;1;from
+Q932302;Dingle;место в MusicBrainz;1;1;from
+Q932302;Dingle;место рождения;1;14;to
+Q932302;Dingle;место смерти;1;3;to
+Q932302;Dingle;место создания;1;1;to
+Q932302;Dingle;названо в честь;1;1;to
+Q932302;Dingle;общая тема категории;1;1;to
+Q936492;Teelin;административно-территориальная единица;1;1;from
+Q936492;Teelin;государство;1;1;from
+Q936492;Teelin;изображение;1;1;from
+Q936492;Teelin;код VIAF;1;1;from
+Q936492;Teelin;это частный случай понятия;1;2;from
+Q932302;Dingle;это частный случай понятия;1;2;from
+Q932302;Dingle;код LCNAF;1;1;from
+Q932302;Dingle;код VIAF;1;1;from
+Q932302;Dingle;город-побратим;1;2;to
+Q915185;Inverin;категория на Викискладе;1;1;from
+Q915185;Inverin;ID отношения в OpenStreetMap;1;1;from
+Q915185;Inverin;Irish Grid Reference;1;1;from
+Q915185;Inverin;часовой пояс;1;1;from
+Q915185;Inverin;Logainm ID;1;1;from
+Q915185;Inverin;географические координаты;1;1;from
+Q915185;Inverin;код Freebase;1;1;from
+Q915185;Inverin;Who's on First ID;1;1;from
+Q915185;Inverin;место рождения;1;6;to
+Q916008;Costelloe;административно-территориальная единица;1;1;from
+Q916008;Costelloe;государство;1;1;from
+Q916008;Costelloe;изображение;1;1;from
+Q916008;Costelloe;это частный случай понятия;1;2;from
+Q916008;Costelloe;код GeoNames;1;1;from
+Q916008;Costelloe;не путать с;1;1;to
+Q916008;Costelloe;высота над уровнем моря;1;1;from
+Q916008;Costelloe;Irish Grid Reference;1;1;from
+Q916008;Costelloe;часовой пояс;1;1;from
+Q916008;Costelloe;Logainm ID;1;1;from
+Q916008;Costelloe;географические координаты;1;1;from
+Q916008;Costelloe;код Freebase;1;1;from
+Q916008;Costelloe;Who's on First ID;1;1;from
+Q932302;Dingle;административно-территориальная единица;1;1;to
+Q932302;Dingle;государство;1;1;from
+Q932302;Dingle;изображение;1;1;from
+Q788778;Gortahork;категория на Викискладе;1;1;from
+Q788778;Gortahork;официальное название;1;3;from
+Q2078132;Annagry;государство;1;1;from
+Q482534;Spiddal;код GeoNames;1;1;from
+Q482400;Carraroe;код Freebase;1;1;from
+Q482400;Carraroe;Who's on First ID;1;1;from
+Q482400;Carraroe;место рождения;1;5;to
+Q482400;Carraroe;местонахождение;1;1;to
+Q482534;Spiddal;административно-территориальная единица;1;2;to
+Q482534;Spiddal;государство;1;1;from
+Q482534;Spiddal;изображение;1;1;from
+Q482534;Spiddal;код VIAF;1;1;from
+Q482534;Spiddal;код LCNAF;1;1;from
+Q482534;Spiddal;это частный случай понятия;1;2;from
+Q482534;Spiddal;WOEID;1;1;from
+Q482534;Spiddal;официальное название;1;1;from
+Q482534;Spiddal;название на языке оригинала;1;1;from
+Q482534;Spiddal;расположение штаб-квартиры;1;2;to
+Q482534;Spiddal;высота над уровнем моря;1;1;from
+Q482534;Spiddal;категория на Викискладе;1;1;from
+Q482534;Spiddal;Irish Grid Reference;1;1;from
+Q482534;Spiddal;часовой пояс;1;1;from
+Q482534;Spiddal;код EMLO location;1;1;from
+Q482534;Spiddal;Logainm ID;1;1;from
+Q482534;Spiddal;географические координаты;1;1;from
+Q482534;Spiddal;код Freebase;1;1;from
+Q482534;Spiddal;Who's on First ID;1;1;from
+Q482534;Spiddal;транскрипция в МФА;1;1;from
+Q482534;Spiddal;баннер Викигида;1;1;from
+Q482534;Spiddal;dmoz;1;1;from
+Q482400;Carraroe;географические координаты;1;1;from
+Q482400;Carraroe;Logainm ID;1;1;from
+Q482400;Carraroe;часовой пояс;1;1;from
+Q482400;Carraroe;Irish Grid Reference;1;1;from
+Q177525;Falcarragh;изображение;1;1;from
+Q177525;Falcarragh;код VIAF;1;1;from
+Q177525;Falcarragh;код LCNAF;1;1;from
+Q177525;Falcarragh;это частный случай понятия;1;2;from
+Q177525;Falcarragh;WOEID;1;1;from
+Q177525;Falcarragh;код GeoNames;1;1;from
+Q177525;Falcarragh;название на языке оригинала;1;1;from
+Q177525;Falcarragh;категория на Викискладе;1;1;from
+Q177525;Falcarragh;Irish Grid Reference;1;1;from
+Q177525;Falcarragh;часовой пояс;1;1;from
+Q177525;Falcarragh;Logainm ID;1;1;from
+Q177525;Falcarragh;географические координаты;1;1;from
+Q177525;Falcarragh;код Freebase;1;1;from
+Q177525;Falcarragh;Who's on First ID;1;1;from
+Q177525;Falcarragh;место рождения;1;2;to
+Q482400;Carraroe;административно-территориальная единица;1;2;to
+Q482400;Carraroe;государство;1;1;from
+Q482400;Carraroe;изображение;1;1;from
+Q482400;Carraroe;это частный случай понятия;1;2;from
+Q482400;Carraroe;официальное название;1;1;from
+Q482400;Carraroe;код GeoNames;1;1;from
+Q482400;Carraroe;название на языке оригинала;1;1;from
+Q482400;Carraroe;высота над уровнем моря;1;1;from
+Q482400;Carraroe;код темы Quora;1;1;from
+Q482400;Carraroe;категория на Викискладе;1;1;from
+Q482534;Spiddal;место рождения;1;7;to
+Q482534;Spiddal;место смерти;1;1;to
+Q788778;Gortahork;это частный случай понятия;1;2;from
+Q736912;Ballyvourney;высота над уровнем моря;1;1;from
+Q692983;Magheraroarty;официальное название;1;2;from
+Q692983;Magheraroarty;часовой пояс;1;1;from
+Q692983;Magheraroarty;Logainm ID;1;1;from
+Q692983;Magheraroarty;географические координаты;1;1;from
+Q692983;Magheraroarty;код Freebase;1;1;from
+Q736912;Ballyvourney;административно-территориальная единица;1;1;to
+Q736912;Ballyvourney;государство;1;1;from
+Q736912;Ballyvourney;код VIAF;1;1;from
+Q736912;Ballyvourney;код LCNAF;1;1;from
+Q736912;Ballyvourney;это частный случай понятия;1;2;from
+Q736912;Ballyvourney;официальное название;1;2;from
+Q736912;Ballyvourney;код GeoNames;1;1;from
+Q736912;Ballyvourney;категория на Викискладе;1;1;from
+Q482534;Spiddal;место съёмок;1;1;to
+Q736912;Ballyvourney;Irish Grid Reference;1;1;from
+Q736912;Ballyvourney;часовой пояс;1;1;from
+Q736912;Ballyvourney;Logainm ID;1;1;from
+Q736912;Ballyvourney;географические координаты;1;1;from
+Q736912;Ballyvourney;код Freebase;1;1;from
+Q736912;Ballyvourney;Who's on First ID;1;1;from
+Q736912;Ballyvourney;место рождения;1;9;to
+Q788778;Gortahork;административно-территориальная единица;1;1;from
+Q788778;Gortahork;государство;1;1;from
+Q788778;Gortahork;изображение;1;1;from
+Q788778;Gortahork;код VIAF;1;1;from
+Q788778;Gortahork;код LCNAF;1;1;from
+Q692983;Magheraroarty;это частный случай понятия;1;2;from
+Q692983;Magheraroarty;изображение;1;1;from
+Q692983;Magheraroarty;государство;1;1;from
+Q692983;Magheraroarty;административно-территориальная единица;1;1;from
+Q482534;Spiddal;местонахождение;1;1;to
+Q667646;Glenties;административно-территориальная единица;1;1;from
+Q667646;Glenties;государство;1;1;from
+Q667646;Glenties;изображение;1;1;from
+Q667646;Glenties;код VIAF;1;1;from
+Q667646;Glenties;код LCNAF;1;1;from
+Q667646;Glenties;это частный случай понятия;1;2;from
+Q667646;Glenties;численность населения;1;1;from
+Q667646;Glenties;WOEID;1;1;from
+Q667646;Glenties;победитель;1;5;from
+Q667646;Glenties;официальное название;1;2;from
+Q667646;Glenties;код GeoNames;1;1;from
+Q667646;Glenties;высота над уровнем моря;1;1;from
+Q667646;Glenties;код темы Quora;1;1;from
+Q667646;Glenties;категория на Викискладе;1;1;from
+Q667646;Glenties;Irish Grid Reference;1;1;from
+Q667646;Glenties;часовой пояс;1;1;from
+Q667646;Glenties;Logainm ID;1;1;from
+Q667646;Glenties;географические координаты;1;1;from
+Q667646;Glenties;код Freebase;1;1;from
+Q667646;Glenties;Who's on First ID;1;1;from
+Q667646;Glenties;основная категория по теме;1;1;from
+Q667646;Glenties;место смерти;1;1;to
+Q667646;Glenties;место рождения;1;4;to
+Q667646;Glenties;общая тема категории;1;1;to
+Q936492;Teelin;код GeoNames;1;1;from
+Q936492;Teelin;высота над уровнем моря;1;1;from
+Q936492;Teelin;категория на Викискладе;1;1;from
+Q1266246;Dunquin;код Freebase;1;1;from
+Q1266246;Dunquin;государство;1;1;from
+Q1266246;Dunquin;изображение;1;1;from
+Q1266246;Dunquin;код VIAF;1;1;from
+Q1266246;Dunquin;код LCNAF;1;1;from
+Q1266246;Dunquin;это частный случай понятия;1;2;from
+Q1266246;Dunquin;код GeoNames;1;1;from
+Q1266246;Dunquin;не путать с;1;1;to
+Q1266246;Dunquin;категория на Викискладе;1;1;from
+Q1266246;Dunquin;Irish Grid Reference;1;1;from
+Q1266246;Dunquin;часовой пояс;1;1;from
+Q1266246;Dunquin;Logainm ID;1;1;from
+Q1266246;Dunquin;географические координаты;1;1;from
+Q1266246;Dunquin;Who's on First ID;1;1;from
+Q1755549;Achill Sound;это частный случай понятия;1;2;from
+Q1266246;Dunquin;код NKC;1;1;from
+Q1266246;Dunquin;транскрипция в МФА;1;1;from
+Q1266246;Dunquin;место рождения;1;2;to
+Q1266246;Dunquin;названо в честь;1;1;to
+Q1741252;Kilcommon;административно-территориальная единица;1;1;from
+Q1741252;Kilcommon;государство;1;1;from
+Q1741252;Kilcommon;это частный случай понятия;1;2;from
+Q1741252;Kilcommon;Logainm ID;1;1;from
+Q1741252;Kilcommon;географические координаты;1;1;from
+Q1755549;Achill Sound;административно-территориальная единица;1;1;to
+Q1755549;Achill Sound;государство;1;1;from
+Q1755549;Achill Sound;изображение;1;3;from
+Q1266246;Dunquin;административно-территориальная единица;1;1;from
+Q1265808;Dungloe;расположение штаб-квартиры;1;1;to
+Q1265808;Dungloe;место рождения;1;4;to
+Q1265808;Dungloe;dmoz;1;1;from
+Q1242535;Dooniver;государство;1;1;from
+Q1242535;Dooniver;это частный случай понятия;1;3;from
+Q1242535;Dooniver;код GeoNames;1;1;from
+Q1242535;Dooniver;высота над уровнем моря;1;1;from
+Q1242535;Dooniver;Irish Grid Reference;1;1;from
+Q1242535;Dooniver;часовой пояс;1;1;from
+Q1242535;Dooniver;Logainm ID;1;1;from
+Q1242535;Dooniver;географические координаты;1;1;from
+Q1242535;Dooniver;официальный сайт;1;1;from
+Q1265808;Dungloe;административно-территориальная единица;1;1;from
+Q1265808;Dungloe;государство;1;1;from
+Q1265808;Dungloe;изображение;1;1;from
+Q1265808;Dungloe;это частный случай понятия;1;2;from
+Q1265808;Dungloe;официальное название;1;1;from
+Q1265808;Dungloe;код GeoNames;1;1;from
+Q1265808;Dungloe;высота над уровнем моря;1;1;from
+Q1265808;Dungloe;код темы Quora;1;1;from
+Q1265808;Dungloe;категория на Викискладе;1;1;from
+Q1265808;Dungloe;Irish Grid Reference;1;1;from
+Q1265808;Dungloe;часовой пояс;1;1;from
+Q1265808;Dungloe;Logainm ID;1;1;from
+Q1265808;Dungloe;географические координаты;1;1;from
+Q1265808;Dungloe;код Freebase;1;1;from
+Q1265808;Dungloe;Who's on First ID;1;1;from
+Q1265808;Dungloe;официальный сайт;1;1;from
+Q1755549;Achill Sound;код VIAF;1;1;from
+Q1755549;Achill Sound;является столицей;1;1;from
+Q936492;Teelin;Irish Grid Reference;1;1;from
+Q2077247;Ranafast;изображение;1;1;from
+Q2062739;Rosmuc;код GeoNames;1;1;from
+Q2062739;Rosmuc;высота над уровнем моря;1;1;from
+Q2062739;Rosmuc;категория на Викискладе;1;1;from
+Q2062739;Rosmuc;Irish Grid Reference;1;1;from
+Q2062739;Rosmuc;часовой пояс;1;1;from
+Q2062739;Rosmuc;Logainm ID;1;1;from
+Q2062739;Rosmuc;географические координаты;1;1;from
+Q2062739;Rosmuc;код Freebase;1;1;from
+Q2062739;Rosmuc;Who's on First ID;1;1;from
+Q2062739;Rosmuc;место рождения;1;1;to
+Q2077247;Ranafast;административно-территориальная единица;1;1;from
+Q2077247;Ranafast;государство;1;1;from
+Q2077247;Ranafast;код VIAF;1;1;from
+Q1755549;Achill Sound;код GeoNames;1;1;from
+Q2077247;Ranafast;это частный случай понятия;1;3;from
+Q2077247;Ranafast;численность населения;1;1;from
+Q2077247;Ranafast;официальное название;1;1;from
+Q2077247;Ranafast;код GeoNames;1;1;from
+Q2077247;Ranafast;часовой пояс;1;2;from
+Q2077247;Ranafast;Logainm ID;1;1;from
+Q2077247;Ranafast;географические координаты;1;1;from
+Q2077247;Ranafast;код Freebase;1;1;from
+Q2077247;Ranafast;Who's on First ID;1;1;from
+Q2077247;Ranafast;место рождения;1;4;to
+Q2077247;Ranafast;место создания;1;1;to
+Q2078132;Annagry;административно-территориальная единица;1;1;from
+Q2062739;Rosmuc;это частный случай понятия;1;2;from
+Q2062739;Rosmuc;изображение;1;1;from
+Q2062739;Rosmuc;государство;1;1;from
+Q2062739;Rosmuc;административно-территориальная единица;1;1;from
+Q1755549;Achill Sound;высота над уровнем моря;1;1;from
+Q1755549;Achill Sound;категория на Викискладе;1;1;from
+Q1755549;Achill Sound;Irish Grid Reference;1;1;from
+Q1755549;Achill Sound;часовой пояс;1;1;from
+Q1755549;Achill Sound;Logainm ID;1;1;from
+Q1755549;Achill Sound;географические координаты;1;1;from
+Q1755549;Achill Sound;код Freebase;1;1;from
+Q1755549;Achill Sound;Who's on First ID;1;1;from
+Q1755549;Achill Sound;столица;1;1;to
+Q2012973;Furbo;административно-территориальная единица;1;1;from
+Q2012973;Furbo;государство;1;1;from
+Q2012973;Furbo;изображение;1;1;from
+Q2012973;Furbo;это частный случай понятия;1;2;from
+Q2012973;Furbo;официальное название;1;1;from
+Q2012973;Furbo;код GeoNames;1;1;from
+Q2012973;Furbo;высота над уровнем моря;1;1;from
+Q2012973;Furbo;категория на Викискладе;1;1;from
+Q2012973;Furbo;Irish Grid Reference;1;1;from
+Q2012973;Furbo;часовой пояс;1;1;from
+Q2012973;Furbo;Logainm ID;1;1;from
+Q2012973;Furbo;географические координаты;1;1;from
+Q2012973;Furbo;код Freebase;1;1;from
+Q2012973;Furbo;Who's on First ID;1;1;from
+Q2012973;Furbo;расположение штаб-квартиры;1;1;to
+Q2012973;Furbo;место смерти;1;1;to
+Q1242535;Dooniver;административно-территориальная единица;1;1;from
+Q1189299;Ballynagall;место рождения;1;1;to
+Q1189299;Ballynagall;Who's on First ID;1;1;from
+Q1016267;Kilcar;географические координаты;1;1;from
+Q1016267;Kilcar;код VIAF;1;1;from
+Q1016267;Kilcar;код LCNAF;1;1;from
+Q1016267;Kilcar;это частный случай понятия;1;3;from
+Q1016267;Kilcar;WOEID;1;1;from
+Q1016267;Kilcar;официальное название;1;2;from
+Q1016267;Kilcar;код GeoNames;1;1;from
+Q1016267;Kilcar;код TGN;1;1;from
+Q1016267;Kilcar;категория для людей, связанных с местностью;1;1;from
+Q1016267;Kilcar;категория на Викискладе;1;1;from
+Q1016267;Kilcar;Irish Grid Reference;1;1;from
+Q1016267;Kilcar;часовой пояс;1;1;from
+Q1016267;Kilcar;Logainm ID;1;2;from
+Q1016267;Kilcar;код Freebase;1;1;from
+Q1189299;Ballynagall;географические координаты;1;3;from
+Q1016267;Kilcar;Who's on First ID;1;1;from
+Q1016267;Kilcar;официальный сайт;1;1;from
+Q1016267;Kilcar;основная категория по теме;1;1;from
+Q1016267;Kilcar;место в MusicBrainz;1;1;from
+Q1016267;Kilcar;место рождения;1;1;to
+Q1016267;Kilcar;общая тема категории;1;1;to
+Q1016267;Kilcar;категория объединяет темы;1;1;to
+Q1016273;Cúil Aodha;административно-территориальная единица;1;2;to
+Q1016273;Cúil Aodha;государство;1;1;from
+Q1016273;Cúil Aodha;изображение;1;1;from
+Q1016273;Cúil Aodha;это частный случай понятия;1;3;from
+Q1016273;Cúil Aodha;официальное название;1;1;from
+Q1016267;Kilcar;изображение;1;1;from
+Q1016267;Kilcar;государство;1;1;from
+Q1016267;Kilcar;административно-территориальная единица;1;1;from
+Q958639;Glencolumbkille;место смерти;1;1;to
+Q936492;Teelin;часовой пояс;1;1;from
+Q936492;Teelin;Logainm ID;1;1;from
+Q936492;Teelin;географические координаты;1;1;from
+Q936492;Teelin;код Freebase;1;1;from
+Q936492;Teelin;Who's on First ID;1;1;from
+Q958639;Glencolumbkille;административно-территориальная единица;1;4;to
+Q958639;Glencolumbkille;государство;1;1;from
+Q958639;Glencolumbkille;изображение;1;1;from
+Q958639;Glencolumbkille;код VIAF;1;1;from
+Q958639;Glencolumbkille;код LCNAF;1;1;from
+Q958639;Glencolumbkille;это частный случай понятия;1;3;from
+Q958639;Glencolumbkille;численность населения;1;1;from
+Q958639;Glencolumbkille;официальное название;1;2;from
+Q958639;Glencolumbkille;код GeoNames;1;1;from
+Q958639;Glencolumbkille;код TGN;1;1;from
+Q958639;Glencolumbkille;высота над уровнем моря;1;1;from
+Q958639;Glencolumbkille;часть от;1;1;from
+Q958639;Glencolumbkille;категория на Викискладе;1;1;from
+Q958639;Glencolumbkille;Irish Grid Reference;1;1;from
+Q958639;Glencolumbkille;часовой пояс;1;1;from
+Q958639;Glencolumbkille;Logainm ID;1;1;from
+Q958639;Glencolumbkille;географические координаты;1;1;from
+Q958639;Glencolumbkille;код Freebase;1;1;from
+Q958639;Glencolumbkille;Who's on First ID;1;1;from
+Q958639;Glencolumbkille;место рождения;1;3;to
+Q1016273;Cúil Aodha;код GeoNames;1;1;from
+Q1016273;Cúil Aodha;категория на Викискладе;1;1;from
+Q1016273;Cúil Aodha;Irish Grid Reference;1;1;from
+Q1016318;Burtonport;это частный случай понятия;1;2;from
+Q1016318;Burtonport;WOEID;1;1;from
+Q1016318;Burtonport;официальное название;1;2;from
+Q1016318;Burtonport;код GeoNames;1;1;from
+Q1016318;Burtonport;название на языке оригинала;1;1;from
+Q1016318;Burtonport;категория на Викискладе;1;1;from
+Q1016318;Burtonport;Irish Grid Reference;1;1;from
+Q1016318;Burtonport;часовой пояс;1;1;from
+Q1016318;Burtonport;Logainm ID;1;1;from
+Q1016318;Burtonport;географические координаты;1;1;from
+Q1016318;Burtonport;код Freebase;1;1;from
+Q1016318;Burtonport;Who's on First ID;1;1;from
+Q1016318;Burtonport;место смерти;1;1;to
+Q1016318;Burtonport;место рождения;1;3;to
+Q1016318;Burtonport;расположение штаб-квартиры;1;1;to
+Q1189299;Ballynagall;административно-территориальная единица;1;1;from
+Q1189299;Ballynagall;государство;1;1;from
+Q1189299;Ballynagall;изображение;1;1;from
+Q1189299;Ballynagall;это частный случай понятия;1;2;from
+Q1189299;Ballynagall;официальное название;1;1;from
+Q1189299;Ballynagall;код GeoNames;1;1;from
+Q1189299;Ballynagall;высота над уровнем моря;1;1;from
+Q1189299;Ballynagall;категория на Викискладе;1;1;from
+Q1189299;Ballynagall;Irish Grid Reference;1;1;from
+Q1189299;Ballynagall;часовой пояс;1;1;from
+Q1189299;Ballynagall;Logainm ID;1;1;from
+Q1016318;Burtonport;численность населения;1;1;from
+Q1016318;Burtonport;изображение;1;1;from
+Q1016273;Cúil Aodha;часовой пояс;1;1;from
+Q1016318;Burtonport;государство;1;1;from
+Q1016273;Cúil Aodha;Logainm ID;1;1;from
+Q1016273;Cúil Aodha;географические координаты;1;1;from
+Q1016273;Cúil Aodha;код Freebase;1;1;from
+Q1016273;Cúil Aodha;Who's on First ID;1;1;from
+Q1016273;Cúil Aodha;место в MusicBrainz;1;1;from
+Q1016273;Cúil Aodha;место рождения;1;4;to
+Q1016302;Ballingeary;административно-территориальная единица;1;1;to
+Q1016302;Ballingeary;государство;1;1;from
+Q1016302;Ballingeary;изображение;1;1;from
+Q1016302;Ballingeary;код VIAF;1;1;from
+Q1016302;Ballingeary;код LCNAF;1;1;from
+Q1016302;Ballingeary;это частный случай понятия;1;2;from
+Q1016302;Ballingeary;WOEID;1;1;from
+Q1016302;Ballingeary;код GeoNames;1;1;from
+Q1016302;Ballingeary;высота над уровнем моря;1;1;from
+Q1016302;Ballingeary;категория на Викискладе;1;1;from
+Q1016302;Ballingeary;Irish Grid Reference;1;1;from
+Q1016302;Ballingeary;часовой пояс;1;1;from
+Q1016302;Ballingeary;Logainm ID;1;1;from
+Q1016302;Ballingeary;географические координаты;1;1;from
+Q1016302;Ballingeary;код Freebase;1;1;from
+Q1016302;Ballingeary;Who's on First ID;1;1;from
+Q1016302;Ballingeary;официальный сайт;1;1;from
+Q1016302;Ballingeary;место рождения;1;3;to
+Q1016318;Burtonport;административно-территориальная единица;1;1;from
+Q18562292;Baile na nGall;географические координаты;1;1;from

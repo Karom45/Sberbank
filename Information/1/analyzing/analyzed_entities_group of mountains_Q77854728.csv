@@ -1,0 +1,79 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q1867128;Lobspitzen;административно-территориальная единица;1;1;from
+Q21868431;Klammerköpfe;географические координаты;1;1;from
+Q21871459;Gstemmerspitzen;горный хребет;1;1;from
+Q21871459;Gstemmerspitzen;код GNS;1;1;from
+Q21871459;Gstemmerspitzen;код GeoNames;1;1;from
+Q21871459;Gstemmerspitzen;это частный случай понятия;1;1;from
+Q21871459;Gstemmerspitzen;государство;1;1;from
+Q21871459;Gstemmerspitzen;административно-территориальная единица;1;2;from
+Q21868431;Klammerköpfe;часть от;1;6;to
+Q21868431;Klammerköpfe;состоит из;1;6;from
+Q21871459;Gstemmerspitzen;географические координаты;1;1;from
+Q21868431;Klammerköpfe;код GNS;1;1;from
+Q21868431;Klammerköpfe;высота над уровнем моря;1;1;from
+Q21868431;Klammerköpfe;код GeoNames;1;1;from
+Q21868431;Klammerköpfe;это частный случай понятия;1;1;from
+Q21868431;Klammerköpfe;изображение;1;1;from
+Q21868431;Klammerköpfe;государство;1;1;from
+Q21868431;Klammerköpfe;административно-территориальная единица;1;2;from
+Q21871459;Gstemmerspitzen;состоит из;1;3;from
+Q21871459;Gstemmerspitzen;часть от;1;3;to
+Q1867128;Lobspitzen;государство;1;1;from
+Q33137937;Cook Hills;государство;1;1;from
+Q77982949;Q77982949;состоит из;1;2;from
+Q77982949;Q77982949;горный хребет;1;1;from
+Q77982949;Q77982949;это частный случай понятия;1;1;from
+Q33137937;Cook Hills;географические координаты;1;1;from
+Q33137937;Cook Hills;код GNIS;1;1;from
+Q33137937;Cook Hills;код GeoNames;1;1;from
+Q33137937;Cook Hills;это частный случай понятия;1;1;from
+Q33137937;Cook Hills;административно-территориальная единица;1;1;from
+Q21880581;Talggenköpfe;административно-территориальная единица;1;1;from
+Q21880581;Talggenköpfe;географические координаты;1;1;from
+Q21880581;Talggenköpfe;горный хребет;1;1;from
+Q21880581;Talggenköpfe;высота над уровнем моря;1;1;from
+Q21880581;Talggenköpfe;код GeoNames;1;1;from
+Q21880581;Talggenköpfe;это частный случай понятия;1;1;from
+Q21880581;Talggenköpfe;изображение;1;1;from
+Q21880581;Talggenköpfe;государство;1;1;from
+Q21865734;Seichenkopf;часть от;1;2;to
+Q21865734;Seichenkopf;географические координаты;1;1;from
+Q21865734;Seichenkopf;состоит из;1;2;from
+Q2016737;Ohrenspitzen;государство;1;2;from
+Q2016737;Ohrenspitzen;горный хребет;1;1;from
+Q2016737;Ohrenspitzen;категория на Викискладе;1;1;from
+Q2016737;Ohrenspitzen;находится в охранной зоне;1;1;from
+Q2016737;Ohrenspitzen;топографическая изоляция;1;1;from
+Q2016737;Ohrenspitzen;высота над уровнем моря;1;1;from
+Q2016737;Ohrenspitzen;это частный случай понятия;1;1;from
+Q2016737;Ohrenspitzen;изображение;1;1;from
+Q2016737;Ohrenspitzen;административно-территориальная единица;1;1;from
+Q21865734;Seichenkopf;горный хребет;1;1;from
+Q1867128;Lobspitzen;часть от;1;5;to
+Q1867128;Lobspitzen;географические координаты;1;1;from
+Q1867128;Lobspitzen;состоит из;1;5;from
+Q1867128;Lobspitzen;горный хребет;1;1;from
+Q1867128;Lobspitzen;высота над уровнем моря;1;1;from
+Q1867128;Lobspitzen;это частный случай понятия;1;1;from
+Q1867128;Lobspitzen;изображение;1;1;from
+Q2016737;Ohrenspitzen;состоит из;1;3;from
+Q2016737;Ohrenspitzen;географические координаты;1;1;from
+Q2016737;Ohrenspitzen;основная категория по теме;1;1;from
+Q2016737;Ohrenspitzen;галерея на Викискладе;1;1;from
+Q21865734;Seichenkopf;код GNS;1;1;from
+Q21865734;Seichenkopf;код GeoNames;1;1;from
+Q21865734;Seichenkopf;это частный случай понятия;1;1;from
+Q21865734;Seichenkopf;государство;1;1;from
+Q21865734;Seichenkopf;административно-территориальная единица;1;2;from
+Q20190903;Hornspitzen;часть от;1;5;to
+Q20190903;Hornspitzen;географические координаты;1;1;from
+Q20190903;Hornspitzen;наивысшая точка;1;1;from
+Q20190903;Hornspitzen;состоит из;1;5;from
+Q20190903;Hornspitzen;горный хребет;1;1;from
+Q20190903;Hornspitzen;это частный случай понятия;1;1;from
+Q20190903;Hornspitzen;государство;1;2;from
+Q20190903;Hornspitzen;административно-территориальная единица;1;2;from
+Q2016737;Ohrenspitzen;общая тема категории;1;1;to
+Q2016737;Ohrenspitzen;часть от;1;3;to
+Q77982949;Q77982949;часть от;1;2;to

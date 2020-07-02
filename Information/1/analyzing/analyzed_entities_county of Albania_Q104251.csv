@@ -1,0 +1,353 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q189296;Berat County;административно-территориальная единица;1;621;to
+Q189296;Berat County;административно делится на;1;1;to
+Q193790;Elbasan County;изображение герба;1;1;from
+Q193790;Elbasan County;столица;1;1;from
+Q193790;Elbasan County;это частный случай понятия;1;1;from
+Q193790;Elbasan County;карта местонахождения;1;1;from
+Q193790;Elbasan County;изображение;1;1;from
+Q193790;Elbasan County;государство;1;1;from
+Q193790;Elbasan County;административно делится на;1;1;to
+Q193790;Elbasan County;административно-территориальная единица;1;327;to
+Q193464;Korçë County;происходит из;1;1;to
+Q193464;Korçë County;общая тема категории;1;1;to
+Q193464;Korçë County;находится в пределах природно-географического объекта;1;4;to
+Q193464;Korçë County;категория объединяет темы;1;3;to
+Q193464;Korçë County;является столицей;1;1;to
+Q193464;Korçë County;основная категория по теме;1;1;from
+Q193464;Korçë County;FIPS 10-4 (страны и регионы);1;1;from
+Q193464;Korçë County;официальный сайт;1;1;from
+Q193464;Korçë County;Who's on First ID;1;1;from
+Q193464;Korçë County;код Freebase;1;1;from
+Q193464;Korçë County;географические координаты;1;1;from
+Q193790;Elbasan County;численность населения;1;1;from
+Q193790;Elbasan County;категория для людей, родившихся здесь;1;1;from
+Q193790;Elbasan County;код GeoNames;1;1;from
+Q193790;Elbasan County;код Freebase;1;1;from
+Q193790;Elbasan County;общая тема категории;1;1;to
+Q193790;Elbasan County;место рождения;1;3;to
+Q193790;Elbasan County;категория объединяет темы;1;3;to
+Q193790;Elbasan County;является столицей;1;1;to
+Q193790;Elbasan County;основная категория по теме;1;1;from
+Q193790;Elbasan County;FIPS 10-4 (страны и регионы);1;1;from
+Q193790;Elbasan County;официальный сайт;1;1;from
+Q193790;Elbasan County;Who's on First ID;1;1;from
+Q193790;Elbasan County;географические координаты;1;1;from
+Q193790;Elbasan County;категория для людей, связанных с местностью;1;1;from
+Q193790;Elbasan County;часовой пояс;1;1;from
+Q193790;Elbasan County;ID отношения в OpenStreetMap;1;1;from
+Q193790;Elbasan County;геоданные;1;1;from
+Q193790;Elbasan County;категория на Викискладе;1;1;from
+Q193790;Elbasan County;ISO 3166-2;1;1;from
+Q193790;Elbasan County;постоянный дубликат;1;1;to
+Q193790;Elbasan County;площадь;1;1;from
+Q193790;Elbasan County;высота над уровнем моря;1;1;from
+Q193464;Korçë County;часовой пояс;1;1;from
+Q193464;Korçë County;ID отношения в OpenStreetMap;1;1;from
+Q193464;Korçë County;геоданные;1;1;from
+Q193454;Gjirokastër County;геоданные;1;1;from
+Q193454;Gjirokastër County;категория объединяет темы;1;3;to
+Q193454;Gjirokastër County;основная категория по теме;1;1;from
+Q193454;Gjirokastër County;FIPS 10-4 (страны и регионы);1;1;from
+Q193454;Gjirokastër County;Who's on First ID;1;1;from
+Q193454;Gjirokastër County;код Freebase;1;1;from
+Q193454;Gjirokastër County;географические координаты;1;1;from
+Q193454;Gjirokastër County;часовой пояс;1;1;from
+Q193454;Gjirokastër County;ID отношения в OpenStreetMap;1;1;from
+Q193454;Gjirokastër County;категория на Викискладе;1;1;from
+Q193454;Gjirokastër County;является столицей;1;1;to
+Q193454;Gjirokastër County;ISO 3166-2;1;1;from
+Q193454;Gjirokastër County;площадь;1;1;from
+Q193454;Gjirokastër County;высота над уровнем моря;1;1;from
+Q193454;Gjirokastër County;категория для людей, связанных с местностью;1;1;from
+Q193454;Gjirokastër County;код GeoNames;1;1;from
+Q193454;Gjirokastër County;категория для людей, родившихся здесь;1;1;from
+Q193454;Gjirokastër County;численность населения;1;1;from
+Q193454;Gjirokastër County;столица;1;1;from
+Q193454;Gjirokastër County;место рождения;1;2;to
+Q193454;Gjirokastër County;общая тема категории;1;1;to
+Q193464;Korçë County;категория на Викискладе;1;1;from
+Q193464;Korçë County;категория для людей, родившихся здесь;1;1;from
+Q193464;Korçë County;ISO 3166-2;1;1;from
+Q193464;Korçë County;используемый язык;1;1;from
+Q193464;Korçë County;код BabelNet;1;1;from
+Q193464;Korçë County;площадь;1;1;from
+Q193464;Korçë County;высота над уровнем моря;1;1;from
+Q193464;Korçë County;категория для людей, связанных с местностью;1;1;from
+Q193464;Korçë County;код GeoNames;1;1;from
+Q193464;Korçë County;категория для людей, умерших здесь;1;1;from
+Q193464;Korçë County;численность населения;1;1;from
+Q193464;Korçë County;административно-территориальная единица;1;327;to
+Q193464;Korçë County;изображение герба;1;1;from
+Q193464;Korçë County;изображение флага;1;1;from
+Q193464;Korçë County;столица;1;1;from
+Q193464;Korçë County;это частный случай понятия;1;1;from
+Q193464;Korçë County;карта местонахождения;1;1;from
+Q193464;Korçë County;изображение;1;1;from
+Q193464;Korçë County;государство;1;1;from
+Q193464;Korçë County;административно делится на;1;1;to
+Q229892;Tirana County;административно-территориальная единица;1;347;to
+Q229892;Tirana County;административно делится на;1;1;to
+Q229892;Tirana County;государство;1;1;from
+Q231900;Fier County;административно-территориальная единица;1;115;to
+Q231900;Fier County;численность населения;1;1;from
+Q231900;Fier County;изображение герба;1;1;from
+Q231900;Fier County;столица;1;1;from
+Q231900;Fier County;это частный случай понятия;1;1;from
+Q231900;Fier County;карта местонахождения;1;1;from
+Q231900;Fier County;изображение;1;1;from
+Q231900;Fier County;государство;1;1;from
+Q231900;Fier County;административно делится на;1;1;to
+Q231896;Kukës County;категория объединяет темы;1;1;to
+Q231900;Fier County;код GeoNames;1;1;from
+Q231896;Kukës County;общая тема категории;1;1;to
+Q231896;Kukës County;место рождения;1;1;to
+Q231896;Kukës County;является столицей;1;1;to
+Q231896;Kukës County;основная категория по теме;1;1;from
+Q231896;Kukës County;FIPS 10-4 (страны и регионы);1;1;from
+Q231896;Kukës County;официальный сайт;1;1;from
+Q231896;Kukës County;Who's on First ID;1;1;from
+Q231896;Kukës County;код Freebase;1;1;from
+Q231900;Fier County;категория для людей, родившихся здесь;1;1;from
+Q231900;Fier County;категория для людей, связанных с местностью;1;1;from
+Q231896;Kukës County;часовой пояс;1;1;from
+Q231900;Fier County;Who's on First ID;1;1;from
+Q231900;Fier County;местонахождение;1;1;to
+Q231900;Fier County;общая тема категории;1;1;to
+Q231900;Fier County;является столицей;1;1;to
+Q231900;Fier County;категория объединяет темы;1;2;to
+Q231900;Fier County;место в MusicBrainz;1;1;from
+Q231900;Fier County;основная категория по теме;1;1;from
+Q231900;Fier County;FIPS 10-4 (страны и регионы);1;1;from
+Q231900;Fier County;официальный сайт;1;1;from
+Q231900;Fier County;код Freebase;1;1;from
+Q231900;Fier County;высота над уровнем моря;1;1;from
+Q231900;Fier County;географические координаты;1;1;from
+Q231900;Fier County;часовой пояс;1;1;from
+Q231900;Fier County;ID отношения в OpenStreetMap;1;1;from
+Q231900;Fier County;геоданные;1;1;from
+Q231900;Fier County;категория на Викискладе;1;1;from
+Q231900;Fier County;ISO 3166-2;1;1;from
+Q231900;Fier County;используемый язык;1;1;from
+Q231900;Fier County;площадь;1;1;from
+Q231896;Kukës County;географические координаты;1;1;from
+Q231896;Kukës County;ID отношения в OpenStreetMap;1;1;from
+Q229892;Tirana County;изображение;1;1;from
+Q229892;Tirana County;высота над уровнем моря;1;1;from
+Q229892;Tirana County;географические координаты;1;1;from
+Q229892;Tirana County;часовой пояс;1;1;from
+Q229892;Tirana County;ID отношения в OpenStreetMap;1;1;from
+Q229892;Tirana County;геоданные;1;1;from
+Q229892;Tirana County;категория на Викискладе;1;1;from
+Q229892;Tirana County;ISO 3166-2;1;1;from
+Q229892;Tirana County;код BabelNet;1;1;from
+Q229892;Tirana County;площадь;1;1;from
+Q229892;Tirana County;категория для людей, связанных с местностью;1;1;from
+Q229892;Tirana County;официальный сайт;1;1;from
+Q229892;Tirana County;код GeoNames;1;1;from
+Q229892;Tirana County;категория для людей, умерших здесь;1;1;from
+Q229892;Tirana County;категория для людей, родившихся здесь;1;1;from
+Q229892;Tirana County;численность населения;1;1;from
+Q229892;Tirana County;изображение герба;1;1;from
+Q229892;Tirana County;столица;1;1;from
+Q229892;Tirana County;это частный случай понятия;1;1;from
+Q229892;Tirana County;карта местонахождения;1;1;from
+Q229892;Tirana County;код Freebase;1;1;from
+Q229892;Tirana County;FIPS 10-4 (страны и регионы);1;1;from
+Q231896;Kukës County;геоданные;1;1;from
+Q231896;Kukës County;это частный случай понятия;1;1;from
+Q231896;Kukës County;категория на Викискладе;1;1;from
+Q231896;Kukës County;ISO 3166-2;1;1;from
+Q231896;Kukës County;площадь;1;1;from
+Q231896;Kukës County;высота над уровнем моря;1;1;from
+Q231896;Kukës County;код GeoNames;1;1;from
+Q231896;Kukës County;численность населения;1;1;from
+Q231896;Kukës County;изображение герба;1;1;from
+Q231896;Kukës County;столица;1;1;from
+Q231896;Kukës County;карта местонахождения;1;1;from
+Q229892;Tirana County;основная категория по теме;1;1;from
+Q231896;Kukës County;изображение;1;1;from
+Q231896;Kukës County;государство;1;1;from
+Q231896;Kukës County;административно делится на;1;1;to
+Q231896;Kukës County;административно-территориальная единица;1;188;to
+Q229892;Tirana County;является столицей;1;1;to
+Q229892;Tirana County;общая тема категории;1;1;to
+Q229892;Tirana County;категория объединяет темы;1;4;to
+Q229892;Tirana County;место в MusicBrainz;1;1;from
+Q193454;Gjirokastër County;это частный случай понятия;1;1;from
+Q193454;Gjirokastër County;карта местонахождения;1;1;from
+Q193454;Gjirokastër County;изображение;1;1;from
+Q192849;Vlorë County;категория объединяет темы;1;2;to
+Q192853;Durrës County;столица;1;1;from
+Q192853;Durrës County;это частный случай понятия;1;1;from
+Q192853;Durrës County;карта местонахождения;1;1;from
+Q192853;Durrës County;изображение;1;1;from
+Q192853;Durrës County;государство;1;1;from
+Q192853;Durrës County;административно делится на;1;1;to
+Q192853;Durrës County;административно-территориальная единица;1;116;to
+Q192849;Vlorë County;общая тема категории;1;1;to
+Q192849;Vlorë County;место рождения;1;2;to
+Q192853;Durrës County;численность населения;1;1;from
+Q192849;Vlorë County;является столицей;1;1;to
+Q192849;Vlorë County;место в MusicBrainz;1;1;from
+Q192849;Vlorë County;основная категория по теме;1;1;from
+Q192849;Vlorë County;FIPS 10-4 (страны и регионы);1;1;from
+Q192849;Vlorë County;официальный сайт;1;1;from
+Q192849;Vlorë County;Who's on First ID;1;1;from
+Q192849;Vlorë County;код Freebase;1;1;from
+Q192849;Vlorë County;географические координаты;1;1;from
+Q192853;Durrës County;изображение герба;1;1;from
+Q192853;Durrës County;код в Большой каталанской энциклопедии;1;1;from
+Q192849;Vlorë County;ID отношения в OpenStreetMap;1;1;from
+Q192853;Durrës County;географические координаты;1;1;from
+Q192866;Dibër County;административно-территориальная единица;1;241;to
+Q192853;Durrës County;общая тема категории;1;1;to
+Q192853;Durrës County;категория объединяет темы;1;3;to
+Q192853;Durrës County;основная категория по теме;1;1;from
+Q192853;Durrës County;FIPS 10-4 (страны и регионы);1;1;from
+Q192853;Durrës County;официальный сайт;1;1;from
+Q192853;Durrës County;Who's on First ID;1;1;from
+Q192853;Durrës County;код Freebase;1;1;from
+Q192853;Durrës County;часовой пояс;1;1;from
+Q192853;Durrës County;категория для людей, родившихся здесь;1;1;from
+Q192853;Durrës County;ID отношения в OpenStreetMap;1;1;from
+Q192853;Durrës County;геоданные;1;1;from
+Q192853;Durrës County;категория на Викискладе;1;1;from
+Q192853;Durrës County;ISO 3166-2;1;1;from
+Q192853;Durrës County;площадь;1;1;from
+Q192853;Durrës County;высота над уровнем моря;1;1;from
+Q192853;Durrës County;категория для людей, связанных с местностью;1;1;from
+Q192853;Durrës County;код GeoNames;1;1;from
+Q192849;Vlorë County;часовой пояс;1;1;from
+Q192849;Vlorë County;геоданные;1;1;from
+Q192866;Dibër County;государство;1;1;from
+Q189296;Berat County;категория для людей, связанных с местностью;1;1;from
+Q189296;Berat County;географические координаты;1;1;from
+Q189296;Berat County;часовой пояс;1;1;from
+Q189296;Berat County;ID отношения в OpenStreetMap;1;1;from
+Q189296;Berat County;геоданные;1;1;from
+Q189296;Berat County;категория на Викискладе;1;1;from
+Q189296;Berat County;ISO 3166-2;1;1;from
+Q189296;Berat County;площадь;1;1;from
+Q189296;Berat County;высота над уровнем моря;1;1;from
+Q189296;Berat County;код GeoNames;1;1;from
+Q189296;Berat County;Who's on First ID;1;1;from
+Q189296;Berat County;категория для людей, родившихся здесь;1;1;from
+Q189296;Berat County;численность населения;1;1;from
+Q189296;Berat County;изображение герба;1;1;from
+Q189296;Berat County;столица;1;1;from
+Q189296;Berat County;это частный случай понятия;1;1;from
+Q189296;Berat County;карта местонахождения;1;1;from
+Q189296;Berat County;изображение;1;1;from
+Q189296;Berat County;государство;1;1;from
+Q189296;Berat County;код Freebase;1;1;from
+Q189296;Berat County;официальный сайт;1;1;from
+Q192849;Vlorë County;категория на Викискладе;1;1;from
+Q192849;Vlorë County;столица;1;1;from
+Q192849;Vlorë County;ISO 3166-2;1;1;from
+Q192849;Vlorë County;площадь;1;1;from
+Q192849;Vlorë County;высота над уровнем моря;1;1;from
+Q192849;Vlorë County;категория для людей, связанных с местностью;1;1;from
+Q192849;Vlorë County;код GeoNames;1;1;from
+Q192849;Vlorë County;категория для людей, родившихся здесь;1;1;from
+Q192849;Vlorë County;численность населения;1;1;from
+Q192849;Vlorë County;изображение герба;1;1;from
+Q192849;Vlorë County;это частный случай понятия;1;1;from
+Q189296;Berat County;FIPS 10-4 (страны и регионы);1;1;from
+Q192849;Vlorë County;карта местонахождения;1;1;from
+Q192849;Vlorë County;изображение;1;1;from
+Q192849;Vlorë County;государство;1;1;from
+Q192849;Vlorë County;административно делится на;1;1;to
+Q192849;Vlorë County;административно-территориальная единица;1;405;to
+Q189296;Berat County;общая тема категории;1;1;to
+Q189296;Berat County;категория объединяет темы;1;3;to
+Q189296;Berat County;основная категория по теме;1;1;from
+Q192866;Dibër County;административно делится на;1;1;to
+Q192866;Dibër County;изображение;1;1;from
+Q193454;Gjirokastër County;государство;1;1;from
+Q193438;Shkodër County;административно делится на;1;1;to
+Q193438;Shkodër County;категория для людей, родившихся здесь;1;1;from
+Q193438;Shkodër County;численность населения;1;1;from
+Q193438;Shkodër County;изображение герба;1;1;from
+Q193438;Shkodër County;столица;1;1;from
+Q193438;Shkodër County;это частный случай понятия;1;1;from
+Q193438;Shkodër County;карта местонахождения;1;1;from
+Q193438;Shkodër County;изображение;1;1;from
+Q193438;Shkodër County;государство;1;1;from
+Q193438;Shkodër County;административно-территориальная единица;1;434;to
+Q193438;Shkodër County;код GeoNames;1;1;from
+Q193436;Lezhë County;местонахождение;1;1;to
+Q193436;Lezhë County;общая тема категории;1;1;to
+Q193436;Lezhë County;категория объединяет темы;1;2;to
+Q193436;Lezhë County;является столицей;1;1;to
+Q193436;Lezhë County;основная категория по теме;1;1;from
+Q193436;Lezhë County;FIPS 10-4 (страны и регионы);1;1;from
+Q193436;Lezhë County;официальный сайт;1;1;from
+Q193436;Lezhë County;Who's on First ID;1;1;from
+Q193438;Shkodër County;категория для людей, умерших здесь;1;1;from
+Q193438;Shkodër County;категория для людей, связанных с местностью;1;1;from
+Q193436;Lezhë County;географические координаты;1;1;from
+Q193438;Shkodër County;официальный сайт;1;1;from
+Q193454;Gjirokastër County;административно делится на;1;1;to
+Q193454;Gjirokastër County;административно-территориальная единица;1;268;to
+Q193438;Shkodër County;общая тема категории;1;1;to
+Q193438;Shkodër County;категория объединяет темы;1;4;to
+Q193438;Shkodër County;является столицей;1;1;to
+Q193438;Shkodër County;место в MusicBrainz;1;1;from
+Q193438;Shkodër County;основная категория по теме;1;1;from
+Q193438;Shkodër County;FIPS 10-4 (страны и регионы);1;1;from
+Q193438;Shkodër County;Who's on First ID;1;1;from
+Q193438;Shkodër County;высота над уровнем моря;1;1;from
+Q193438;Shkodër County;код Freebase;1;1;from
+Q193438;Shkodër County;географические координаты;1;1;from
+Q193438;Shkodër County;часовой пояс;1;1;from
+Q193438;Shkodër County;ID отношения в OpenStreetMap;1;1;from
+Q193438;Shkodër County;геоданные;1;1;from
+Q193438;Shkodër County;категория на Викискладе;1;1;from
+Q193438;Shkodër County;ISO 3166-2;1;1;from
+Q193438;Shkodër County;площадь;1;1;from
+Q193436;Lezhë County;код Freebase;1;1;from
+Q193436;Lezhë County;часовой пояс;1;1;from
+Q192866;Dibër County;карта местонахождения;1;1;from
+Q192866;Dibër County;ISO 3166-2;1;1;from
+Q192866;Dibër County;официальный сайт;1;1;from
+Q192866;Dibër County;Who's on First ID;1;1;from
+Q192866;Dibër County;код Freebase;1;1;from
+Q192866;Dibër County;географические координаты;1;1;from
+Q192866;Dibër County;часовой пояс;1;1;from
+Q192866;Dibër County;ID отношения в OpenStreetMap;1;1;from
+Q192866;Dibër County;геоданные;1;1;from
+Q192866;Dibër County;категория на Викискладе;1;1;from
+Q192866;Dibër County;площадь;1;1;from
+Q192866;Dibër County;основная категория по теме;1;1;from
+Q192866;Dibër County;высота над уровнем моря;1;1;from
+Q192866;Dibër County;категория для людей, связанных с местностью;1;1;from
+Q192866;Dibër County;код GeoNames;1;1;from
+Q192866;Dibër County;категория для людей, родившихся здесь;1;1;from
+Q192866;Dibër County;численность населения;1;1;from
+Q192866;Dibër County;изображение герба;1;1;from
+Q192866;Dibër County;столица;1;1;from
+Q192866;Dibër County;это частный случай понятия;1;1;from
+Q192866;Dibër County;FIPS 10-4 (страны и регионы);1;1;from
+Q192866;Dibër County;категория объединяет темы;1;3;to
+Q193436;Lezhë County;ID отношения в OpenStreetMap;1;1;from
+Q193436;Lezhë County;изображение герба;1;1;from
+Q193436;Lezhë County;геоданные;1;1;from
+Q193436;Lezhë County;категория на Викискладе;1;1;from
+Q193436;Lezhë County;ISO 3166-2;1;1;from
+Q193436;Lezhë County;площадь;1;1;from
+Q193436;Lezhë County;высота над уровнем моря;1;1;from
+Q193436;Lezhë County;код GeoNames;1;1;from
+Q193436;Lezhë County;категория для людей, родившихся здесь;1;1;from
+Q193436;Lezhë County;численность населения;1;1;from
+Q193436;Lezhë County;столица;1;1;from
+Q192866;Dibër County;место рождения;1;4;to
+Q193436;Lezhë County;это частный случай понятия;1;1;from
+Q193436;Lezhë County;карта местонахождения;1;1;from
+Q193436;Lezhë County;изображение;1;1;from
+Q193436;Lezhë County;государство;1;1;from
+Q193436;Lezhë County;административно делится на;1;1;to
+Q193436;Lezhë County;административно-территориальная единица;1;131;to
+Q192866;Dibër County;общая тема категории;1;1;to
+Q192866;Dibër County;является столицей;1;1;to
+Q231900;Fier County;происходит из;1;1;to

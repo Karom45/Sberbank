@@ -1,0 +1,895 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q62574346;Pinnacle Wash;административно-территориальная единица;1;1;from
+Q45117035;Чобан-Чокрак;площадь бассейна;1;1;from
+Q42399951;Пашала;площадь бассейна;1;1;from
+Q42399951;Пашала;категория на Викискладе;1;1;from
+Q42399951;Пашала;впадает в;1;1;from
+Q45021005;Соляная;государство;1;1;from
+Q45021005;Соляная;это частный случай понятия;1;1;from
+Q45021005;Соляная;длина;1;1;from
+Q45021005;Соляная;площадь бассейна;1;1;from
+Q45021005;Соляная;впадает в;1;1;from
+Q45117035;Чобан-Чокрак;государство;1;1;from
+Q45117035;Чобан-Чокрак;это частный случай понятия;1;1;from
+Q45117035;Чобан-Чокрак;длина;1;1;from
+Q45117035;Чобан-Чокрак;впадает в;1;1;from
+Q42399951;Пашала;это частный случай понятия;1;1;from
+Q45243513;Колпак;государство;1;1;from
+Q45243513;Колпак;это частный случай понятия;1;1;from
+Q45243513;Колпак;длина;1;1;from
+Q45243513;Колпак;площадь бассейна;1;1;from
+Q45243513;Колпак;впадает в;1;1;from
+Q48941845;Широкая;административно-территориальная единица;1;1;from
+Q48941845;Широкая;государство;1;1;from
+Q48941845;Широкая;изображение;1;1;from
+Q48941845;Широкая;это частный случай понятия;1;1;from
+Q48941845;Широкая;длина;1;1;from
+Q48941845;Широкая;площадь;1;1;from
+Q42399951;Пашала;длина;1;1;from
+Q42399951;Пашала;государство;1;1;from
+Q48941845;Широкая;наибольший уклон;1;1;from
+Q42052015;Заветленинская;длина;1;1;from
+Q41818500;Кочегеньская;длина;1;1;from
+Q41818500;Кочегеньская;площадь бассейна;1;1;from
+Q41818500;Кочегеньская;впадает в;1;1;from
+Q41823250;Тарханская;государство;1;1;from
+Q41823250;Тарханская;это частный случай понятия;1;1;from
+Q41823250;Тарханская;длина;1;1;from
+Q41823250;Тарханская;площадь бассейна;1;1;from
+Q41823250;Тарханская;категория на Викискладе;1;1;from
+Q41823250;Тарханская;впадает в;1;1;from
+Q42052015;Заветленинская;государство;1;1;from
+Q42052015;Заветленинская;это частный случай понятия;1;1;from
+Q42052015;Заветленинская;площадь бассейна;1;1;from
+Q42377634;Канака (балка);впадает в;1;1;to
+Q42052015;Заветленинская;категория на Викискладе;1;1;from
+Q42052015;Заветленинская;впадает в;1;1;from
+Q42347066;Туакская балка;государство;1;1;from
+Q42347066;Туакская балка;это частный случай понятия;1;1;from
+Q42347066;Туакская балка;длина;1;1;from
+Q42347066;Туакская балка;площадь бассейна;1;1;from
+Q42347066;Туакская балка;впадает в;1;1;from
+Q42377634;Канака (балка);государство;1;1;from
+Q42377634;Канака (балка);это частный случай понятия;1;1;from
+Q42377634;Канака (балка);длина;1;1;from
+Q42377634;Канака (балка);площадь бассейна;1;1;from
+Q48941845;Широкая;площадь бассейна;1;1;from
+Q48941845;Широкая;впадает в;1;1;from
+Q41818500;Кочегеньская;государство;1;1;from
+Q49789408;Consumers Wash;впадает в;1;1;from
+Q49789161;Coleman Wash;впадает в;1;1;from
+Q49789161;Coleman Wash;водосборный бассейн;1;1;from
+Q49789161;Coleman Wash;код GNIS;1;1;from
+Q49789161;Coleman Wash;географические координаты;1;1;from
+Q49789161;Coleman Wash;приток;1;1;to
+Q49789408;Consumers Wash;административно-территориальная единица;1;1;from
+Q49789408;Consumers Wash;государство;1;1;from
+Q49789408;Consumers Wash;это частный случай понятия;1;1;from
+Q49789408;Consumers Wash;код GeoNames;1;1;from
+Q49789408;Consumers Wash;высота над уровнем моря;1;1;from
+Q49789408;Consumers Wash;местонахождение;1;1;from
+Q49789408;Consumers Wash;водосборный бассейн;1;1;from
+Q49789161;Coleman Wash;код GeoNames;1;1;from
+Q49789408;Consumers Wash;код GNIS;1;1;from
+Q49789408;Consumers Wash;географические координаты;1;1;from
+Q49789408;Consumers Wash;приток;1;1;to
+Q49790598;Cottonwood Wash;административно-территориальная единица;1;1;from
+Q49790598;Cottonwood Wash;государство;1;1;from
+Q49790598;Cottonwood Wash;это частный случай понятия;1;1;from
+Q49790598;Cottonwood Wash;код GeoNames;1;1;from
+Q49790598;Cottonwood Wash;высота над уровнем моря;1;1;from
+Q49790598;Cottonwood Wash;впадает в;1;1;to
+Q49790598;Cottonwood Wash;водосборный бассейн;1;1;from
+Q49790598;Cottonwood Wash;код GNIS;1;1;from
+Q49789161;Coleman Wash;высота над уровнем моря;1;1;from
+Q49789161;Coleman Wash;это частный случай понятия;1;1;from
+Q48941845;Широкая;уклон;1;1;from
+Q49785242;Cardinal Wash;административно-территориальная единица;1;1;from
+Q48941845;Широкая;водосборный бассейн;1;1;from
+Q49784811;Camel Wash;административно-территориальная единица;1;1;from
+Q49784811;Camel Wash;государство;1;1;from
+Q49784811;Camel Wash;это частный случай понятия;1;1;from
+Q49784811;Camel Wash;код GeoNames;1;1;from
+Q49784811;Camel Wash;высота над уровнем моря;1;1;from
+Q49784811;Camel Wash;впадает в;1;1;from
+Q49784811;Camel Wash;водосборный бассейн;1;1;from
+Q49784811;Camel Wash;код GNIS;1;1;from
+Q49784811;Camel Wash;географические координаты;1;1;from
+Q49784811;Camel Wash;приток;1;1;to
+Q49785242;Cardinal Wash;государство;1;1;from
+Q49789161;Coleman Wash;государство;1;1;from
+Q49785242;Cardinal Wash;это частный случай понятия;1;1;from
+Q49785242;Cardinal Wash;код GeoNames;1;1;from
+Q49785242;Cardinal Wash;высота над уровнем моря;1;1;from
+Q49785242;Cardinal Wash;местонахождение;1;1;from
+Q49785242;Cardinal Wash;впадает в;1;1;from
+Q49785242;Cardinal Wash;горный хребет;1;1;from
+Q49785242;Cardinal Wash;водосборный бассейн;1;1;from
+Q49785242;Cardinal Wash;код GNIS;1;1;from
+Q49785242;Cardinal Wash;географические координаты;1;1;from
+Q49785242;Cardinal Wash;приток;1;1;to
+Q49789161;Coleman Wash;административно-территориальная единица;1;1;from
+Q41818500;Кочегеньская;это частный случай понятия;1;1;from
+Q41805505;Чокракская;впадает в;1;1;from
+Q49790598;Cottonwood Wash;приток;1;1;from
+Q25025287;Vallecito Wash;географические координаты;1;1;from
+Q23993884;Rambla del Plano Carbonero;это частный случай понятия;1;1;from
+Q23993884;Rambla del Plano Carbonero;код GeoNames;1;1;from
+Q23993884;Rambla del Plano Carbonero;код GNS;1;1;from
+Q23993884;Rambla del Plano Carbonero;географические координаты;1;1;from
+Q24896065;Tumco Wash;государство;1;1;from
+Q24896065;Tumco Wash;это частный случай понятия;1;1;from
+Q24896065;Tumco Wash;код GNIS;1;1;from
+Q24896065;Tumco Wash;географические координаты;1;1;from
+Q25025287;Vallecito Wash;государство;1;1;from
+Q25025287;Vallecito Wash;это частный случай понятия;1;1;from
+Q25025287;Vallecito Wash;код GNIS;1;1;from
+Q26714623;Чапурниковская балка;это частный случай понятия;1;1;from
+Q23993884;Rambla del Plano Carbonero;административно-территориальная единица;1;1;from
+Q26714623;Чапурниковская балка;горный хребет;1;1;from
+Q28186736;Callville Wash;государство;1;1;from
+Q28186736;Callville Wash;это частный случай понятия;1;1;from
+Q28186736;Callville Wash;код GeoNames;1;1;from
+Q28186736;Callville Wash;код GNIS;1;1;from
+Q28186736;Callville Wash;географические координаты;1;1;from
+Q41159605;Чинграл-Джилга;государство;1;1;from
+Q41159605;Чинграл-Джилга;это частный случай понятия;1;1;from
+Q41159605;Чинграл-Джилга;длина;1;1;from
+Q41159605;Чинграл-Джилга;впадает в;1;1;from
+Q41159723;Ichkin Dzilga;государство;1;1;from
+Q23993884;Rambla del Plano Carbonero;государство;1;1;from
+Q23993842;Rambla de la Pinilla;географические координаты;1;1;from
+Q41159723;Ichkin Dzilga;длина;1;1;from
+Q23993038;Q23993038;код GeoNames;1;1;from
+Q23993004;Rambla de Ribota;код GeoNames;1;1;from
+Q23993004;Rambla de Ribota;код в Большой арагонской энциклопедии;1;1;from
+Q23993004;Rambla de Ribota;впадает в;1;1;from
+Q23993004;Rambla de Ribota;водосборный бассейн;1;1;from
+Q23993004;Rambla de Ribota;географические координаты;1;1;from
+Q23993004;Rambla de Ribota;исток водотока;1;1;from
+Q23993004;Rambla de Ribota;находится на берегу водоёма;1;2;to
+Q23993004;Rambla de Ribota;приток;1;1;to
+Q23993038;Q23993038;административно-территориальная единица;1;1;from
+Q23993038;Q23993038;государство;1;1;from
+Q23993038;Q23993038;это частный случай понятия;1;1;from
+Q23993038;Q23993038;код GNS;1;1;from
+Q23993842;Rambla de la Pinilla;код GNS;1;1;from
+Q23993038;Q23993038;географические координаты;1;1;from
+Q23993460;Rambla del Puerto;административно-территориальная единица;1;1;from
+Q23993460;Rambla del Puerto;государство;1;1;from
+Q23993460;Rambla del Puerto;это частный случай понятия;1;1;from
+Q23993460;Rambla del Puerto;код GeoNames;1;1;from
+Q23993460;Rambla del Puerto;код GNS;1;1;from
+Q23993460;Rambla del Puerto;географические координаты;1;1;from
+Q23993842;Rambla de la Pinilla;административно-территориальная единица;1;1;from
+Q23993842;Rambla de la Pinilla;государство;1;1;from
+Q23993842;Rambla de la Pinilla;это частный случай понятия;1;1;from
+Q23993842;Rambla de la Pinilla;код GeoNames;1;1;from
+Q41159723;Ichkin Dzilga;это частный случай понятия;1;1;from
+Q41159723;Ichkin Dzilga;категория на Викискладе;1;1;from
+Q41805505;Чокракская;площадь бассейна;1;1;from
+Q41794624;Узунлар (балка);длина;1;1;from
+Q41750344;Баш-Киргиз (река);длина;1;1;from
+Q41750344;Баш-Киргиз (река);площадь бассейна;1;1;from
+Q41750344;Баш-Киргиз (река);впадает в;1;1;from
+Q41763699;Коровья балка;государство;1;1;from
+Q41763699;Коровья балка;это частный случай понятия;1;1;from
+Q41763699;Коровья балка;длина;1;1;from
+Q41763699;Коровья балка;площадь бассейна;1;1;from
+Q41763699;Коровья балка;категория на Викискладе;1;1;from
+Q41763699;Коровья балка;впадает в;1;1;from
+Q41794624;Узунлар (балка);государство;1;1;from
+Q41794624;Узунлар (балка);это частный случай понятия;1;1;from
+Q41794624;Узунлар (балка);площадь бассейна;1;1;from
+Q41750344;Баш-Киргиз (река);государство;1;1;from
+Q41794624;Узунлар (балка);впадает в;1;1;from
+Q41796841;Baksu;государство;1;1;from
+Q41796841;Baksu;это частный случай понятия;1;1;from
+Q41796841;Baksu;длина;1;1;from
+Q41796841;Baksu;площадь бассейна;1;1;from
+Q41796841;Baksu;категория на Викискладе;1;1;from
+Q41796841;Baksu;впадает в;1;1;from
+Q41805505;Чокракская;административно-территориальная единица;1;1;from
+Q41805505;Чокракская;государство;1;1;from
+Q41805505;Чокракская;это частный случай понятия;1;1;from
+Q41805505;Чокракская;длина;1;1;from
+Q41750344;Баш-Киргиз (река);это частный случай понятия;1;1;from
+Q41687731;Таш-Алчин (балка);впадает в;1;1;from
+Q41159723;Ichkin Dzilga;впадает в;1;1;from
+Q41504995;Семь Колодезей (балка);длина;1;1;from
+Q41170227;Чурбашская;государство;1;1;from
+Q41170227;Чурбашская;это частный случай понятия;1;1;from
+Q41170227;Чурбашская;длина;1;1;from
+Q41170227;Чурбашская;впадает в;1;1;from
+Q41504893;Кривая (балка);государство;1;1;from
+Q41504893;Кривая (балка);это частный случай понятия;1;1;from
+Q41504893;Кривая (балка);длина;1;1;from
+Q41504893;Кривая (балка);категория на Викискладе;1;1;from
+Q41504893;Кривая (балка);впадает в;1;1;from
+Q41504995;Семь Колодезей (балка);государство;1;1;from
+Q41504995;Семь Колодезей (балка);это частный случай понятия;1;1;from
+Q41504995;Семь Колодезей (балка);впадает в;1;1;from
+Q41687731;Таш-Алчин (балка);длина;1;1;from
+Q41632982;Песчаная;государство;1;1;from
+Q41632982;Песчаная;это частный случай понятия;1;1;from
+Q41632982;Песчаная;длина;1;1;from
+Q41632982;Песчаная;впадает в;1;1;from
+Q41670276;Babchikskaya;государство;1;1;from
+Q41670276;Babchikskaya;это частный случай понятия;1;1;from
+Q41670276;Babchikskaya;длина;1;1;from
+Q41670276;Babchikskaya;категория на Викискладе;1;1;from
+Q41670276;Babchikskaya;впадает в;1;1;from
+Q41687731;Таш-Алчин (балка);государство;1;1;from
+Q41687731;Таш-Алчин (балка);это частный случай понятия;1;1;from
+Q49790598;Cottonwood Wash;географические координаты;1;1;from
+Q49795467;Desert Lake Wash;административно-территориальная единица;1;1;from
+Q62574346;Pinnacle Wash;государство;1;1;from
+Q49890046;Deadman Creek;приток;1;1;to
+Q49890046;Deadman Creek;государство;1;1;from
+Q49890046;Deadman Creek;это частный случай понятия;1;1;from
+Q49890046;Deadman Creek;код GeoNames;1;1;from
+Q49890046;Deadman Creek;высота над уровнем моря;1;1;from
+Q49890046;Deadman Creek;местонахождение;1;1;from
+Q49890046;Deadman Creek;впадает в;1;2;to
+Q49890046;Deadman Creek;водосборный бассейн;1;1;from
+Q49890046;Deadman Creek;код GNIS;1;1;from
+Q49890046;Deadman Creek;географические координаты;1;1;from
+Q49890046;Deadman Creek;исток водотока;1;2;from
+Q49890046;Deadman Creek;находится на берегу водоёма;1;1;to
+Q49893008;Desert Lake Wash;административно-территориальная единица;1;1;from
+Q49824018;Kenilworth Wash;приток;1;1;to
+Q49893008;Desert Lake Wash;государство;1;1;from
+Q49893008;Desert Lake Wash;это частный случай понятия;1;1;from
+Q49893008;Desert Lake Wash;код GeoNames;1;1;from
+Q49893008;Desert Lake Wash;высота над уровнем моря;1;1;from
+Q49893008;Desert Lake Wash;код GNIS;1;1;from
+Q49893008;Desert Lake Wash;географические координаты;1;1;from
+Q49899106;East Fork Desert Lake Wash;административно-территориальная единица;1;1;from
+Q49899106;East Fork Desert Lake Wash;государство;1;1;from
+Q49899106;East Fork Desert Lake Wash;это частный случай понятия;1;1;from
+Q49899106;East Fork Desert Lake Wash;код GeoNames;1;1;from
+Q49899106;East Fork Desert Lake Wash;высота над уровнем моря;1;1;from
+Q49890046;Deadman Creek;административно-территориальная единица;1;1;from
+Q49824018;Kenilworth Wash;находится на берегу водоёма;1;2;to
+Q49899106;East Fork Desert Lake Wash;географические координаты;1;1;from
+Q49819119;Jackass Wash;местонахождение;1;1;from
+Q49815474;Humbug Wash;код GeoNames;1;1;from
+Q49815474;Humbug Wash;высота над уровнем моря;1;1;from
+Q49815474;Humbug Wash;впадает в;1;1;from
+Q49815474;Humbug Wash;водосборный бассейн;1;1;from
+Q49815474;Humbug Wash;код GNIS;1;1;from
+Q49815474;Humbug Wash;географические координаты;1;1;from
+Q49819119;Jackass Wash;административно-территориальная единица;1;1;from
+Q49819119;Jackass Wash;государство;1;1;from
+Q49819119;Jackass Wash;это частный случай понятия;1;1;from
+Q49819119;Jackass Wash;код GeoNames;1;1;from
+Q49819119;Jackass Wash;высота над уровнем моря;1;1;from
+Q49819119;Jackass Wash;впадает в;1;1;from
+Q49824018;Kenilworth Wash;географические координаты;1;1;from
+Q49819119;Jackass Wash;код GNIS;1;1;from
+Q49819119;Jackass Wash;географические координаты;1;1;from
+Q49819119;Jackass Wash;находится на берегу водоёма;1;1;to
+Q49819119;Jackass Wash;приток;1;1;to
+Q49824018;Kenilworth Wash;административно-территориальная единица;1;1;from
+Q49824018;Kenilworth Wash;государство;1;1;from
+Q49824018;Kenilworth Wash;это частный случай понятия;1;1;from
+Q49824018;Kenilworth Wash;код GeoNames;1;1;from
+Q49824018;Kenilworth Wash;местонахождение;1;2;from
+Q49824018;Kenilworth Wash;впадает в;1;1;from
+Q49824018;Kenilworth Wash;код GNIS;1;1;from
+Q49899106;East Fork Desert Lake Wash;код GNIS;1;1;from
+Q49928640;Left Fork Deadman Creek;административно-территориальная единица;1;1;from
+Q49815474;Humbug Wash;государство;1;1;from
+Q55399411;Rambla del Medio;впадает в;1;1;to
+Q55399403;Rambla de la Mina;административно-территориальная единица;1;1;from
+Q55399403;Rambla de la Mina;государство;1;1;from
+Q55399403;Rambla de la Mina;это частный случай понятия;1;2;from
+Q55399403;Rambla de la Mina;впадает в;1;2;from
+Q55399403;Rambla de la Mina;водосборный бассейн;1;1;from
+Q55399403;Rambla de la Mina;географические координаты;1;1;from
+Q55399403;Rambla de la Mina;приток;1;1;to
+Q55399403;Rambla de la Mina;несёт на себе;1;1;to
+Q55399411;Rambla del Medio;административно-территориальная единица;1;1;from
+Q55399411;Rambla del Medio;государство;1;1;from
+Q55399411;Rambla del Medio;это частный случай понятия;1;1;from
+Q55399411;Rambla del Medio;водосборный бассейн;1;1;from
+Q52391113;Аян-Дере;впадает в;1;1;from
+Q55399411;Rambla del Medio;приток;1;1;to
+Q55555555;Arroyo Las Palomas;административно-территориальная единица;1;1;from
+Q55555555;Arroyo Las Palomas;государство;1;1;from
+Q55555555;Arroyo Las Palomas;это частный случай понятия;1;1;from
+Q55555555;Arroyo Las Palomas;код GeoNames;1;1;from
+Q55555555;Arroyo Las Palomas;код GNS;1;1;from
+Q55555555;Arroyo Las Palomas;географические координаты;1;1;from
+Q56640700;Яныкер;административно-территориальная единица;1;1;from
+Q56640700;Яныкер;государство;1;1;from
+Q56640700;Яныкер;это частный случай понятия;1;1;from
+Q56640700;Яныкер;длина;1;1;from
+Q52391113;Аян-Дере;географические координаты;1;1;from
+Q52391113;Аян-Дере;длина;1;1;from
+Q49928640;Left Fork Deadman Creek;государство;1;1;from
+Q49929080;Left Fork Summerville Wash;это частный случай понятия;1;1;from
+Q49928640;Left Fork Deadman Creek;это частный случай понятия;1;1;from
+Q49928640;Left Fork Deadman Creek;код GeoNames;1;1;from
+Q49928640;Left Fork Deadman Creek;высота над уровнем моря;1;1;from
+Q49928640;Left Fork Deadman Creek;впадает в;1;1;from
+Q49928640;Left Fork Deadman Creek;горный хребет;1;1;from
+Q49928640;Left Fork Deadman Creek;водосборный бассейн;1;1;from
+Q49928640;Left Fork Deadman Creek;код GNIS;1;1;from
+Q49928640;Left Fork Deadman Creek;географические координаты;1;1;from
+Q49928640;Left Fork Deadman Creek;исток водотока;1;1;to
+Q49929080;Left Fork Summerville Wash;административно-территориальная единица;1;1;from
+Q49929080;Left Fork Summerville Wash;государство;1;1;from
+Q49929080;Left Fork Summerville Wash;код GeoNames;1;1;from
+Q52391113;Аян-Дере;это частный случай понятия;1;2;from
+Q49929080;Left Fork Summerville Wash;высота над уровнем моря;1;1;from
+Q49929080;Left Fork Summerville Wash;впадает в;1;1;to
+Q49929080;Left Fork Summerville Wash;водосборный бассейн;1;1;from
+Q49929080;Left Fork Summerville Wash;код GNIS;1;1;from
+Q49929080;Left Fork Summerville Wash;географические координаты;1;1;from
+Q49929080;Left Fork Summerville Wash;приток;1;1;to
+Q51952825;Pirie-Torrens Corridor;государство;1;1;from
+Q51952825;Pirie-Torrens Corridor;это частный случай понятия;1;1;from
+Q51952825;Pirie-Torrens Corridor;ID отношения в OpenStreetMap;1;1;from
+Q52391113;Аян-Дере;административно-территориальная единица;1;2;from
+Q52391113;Аян-Дере;государство;1;2;from
+Q49815474;Humbug Wash;это частный случай понятия;1;1;from
+Q49815474;Humbug Wash;административно-территориальная единица;1;1;from
+Q49795467;Desert Lake Wash;государство;1;1;from
+Q49797397;Drunkards Wash;код GNIS;1;1;from
+Q49797373;Drop Wash;водосборный бассейн;1;1;from
+Q49797373;Drop Wash;код GNIS;1;1;from
+Q49797373;Drop Wash;географические координаты;1;1;from
+Q49797397;Drunkards Wash;административно-территориальная единица;1;1;from
+Q49797397;Drunkards Wash;государство;1;1;from
+Q49797397;Drunkards Wash;это частный случай понятия;1;1;from
+Q49797397;Drunkards Wash;код GeoNames;1;1;from
+Q49797397;Drunkards Wash;высота над уровнем моря;1;1;from
+Q49797397;Drunkards Wash;местонахождение;1;1;from
+Q49797397;Drunkards Wash;впадает в;1;1;from
+Q49797397;Drunkards Wash;водосборный бассейн;1;1;from
+Q49797397;Drunkards Wash;географические координаты;1;1;from
+Q49797373;Drop Wash;высота над уровнем моря;1;1;from
+Q49797397;Drunkards Wash;приток;1;1;to
+Q49798498;Dry Wash;административно-территориальная единица;1;1;from
+Q49798498;Dry Wash;государство;1;1;from
+Q49798498;Dry Wash;это частный случай понятия;1;1;from
+Q49798498;Dry Wash;код GeoNames;1;1;from
+Q49798498;Dry Wash;не путать с;1;2;to
+Q49798498;Dry Wash;высота над уровнем моря;1;1;from
+Q49798498;Dry Wash;впадает в;1;1;from
+Q49798498;Dry Wash;водосборный бассейн;1;1;from
+Q49798498;Dry Wash;код GNIS;1;1;from
+Q49798498;Dry Wash;географические координаты;1;1;from
+Q49797373;Drop Wash;впадает в;1;1;from
+Q49797373;Drop Wash;код GeoNames;1;1;from
+Q49798501;Dry Wash;административно-территориальная единица;1;1;from
+Q49795468;Desert Seep Wash;административно-территориальная единица;1;1;from
+Q49795467;Desert Lake Wash;это частный случай понятия;1;1;from
+Q49795467;Desert Lake Wash;код GeoNames;1;1;from
+Q49795467;Desert Lake Wash;высота над уровнем моря;1;1;from
+Q49795467;Desert Lake Wash;местонахождение;1;1;from
+Q49795467;Desert Lake Wash;находится в охранной зоне;1;1;from
+Q49795467;Desert Lake Wash;впадает в;1;1;to
+Q49795467;Desert Lake Wash;код GNIS;1;1;from
+Q49795467;Desert Lake Wash;географические координаты;1;1;from
+Q49795467;Desert Lake Wash;приток;1;1;from
+Q49795467;Desert Lake Wash;находится на берегу водоёма;1;1;to
+Q49795467;Desert Lake Wash;впадающие в озеро реки;1;1;to
+Q49795468;Desert Seep Wash;государство;1;1;from
+Q49797373;Drop Wash;это частный случай понятия;1;1;from
+Q49795468;Desert Seep Wash;это частный случай понятия;1;1;from
+Q49795468;Desert Seep Wash;код GeoNames;1;1;from
+Q49795468;Desert Seep Wash;высота над уровнем моря;1;1;from
+Q49795468;Desert Seep Wash;местонахождение;1;1;from
+Q49795468;Desert Seep Wash;впадает в;1;4;to
+Q49795468;Desert Seep Wash;водосборный бассейн;1;1;from
+Q49795468;Desert Seep Wash;код GNIS;1;1;from
+Q49795468;Desert Seep Wash;географические координаты;1;1;from
+Q49795468;Desert Seep Wash;приток;1;1;to
+Q49797373;Drop Wash;административно-территориальная единица;1;1;from
+Q49797373;Drop Wash;государство;1;1;from
+Q49798498;Dry Wash;приток;1;1;to
+Q49798501;Dry Wash;государство;1;1;from
+Q49810159;Hayes Wash;приток;1;1;to
+Q49806304;Grassy Wash;код GNIS;1;1;from
+Q49805903;Grand Wash;код GNIS;1;1;from
+Q49805903;Grand Wash;географические координаты;1;1;from
+Q49805903;Grand Wash;местонахождение;1;1;to
+Q49806304;Grassy Wash;административно-территориальная единица;1;1;from
+Q49806304;Grassy Wash;государство;1;1;from
+Q49806304;Grassy Wash;это частный случай понятия;1;1;from
+Q49806304;Grassy Wash;код GeoNames;1;1;from
+Q49806304;Grassy Wash;высота над уровнем моря;1;1;from
+Q49806304;Grassy Wash;местонахождение;1;1;from
+Q49806304;Grassy Wash;впадает в;1;1;from
+Q49806304;Grassy Wash;водосборный бассейн;1;1;from
+Q49806304;Grassy Wash;географические координаты;1;1;from
+Q49805903;Grand Wash;находится в охранной зоне;1;1;from
+Q49806304;Grassy Wash;приток;1;1;to
+Q49806304;Grassy Wash;находится на берегу водоёма;1;1;to
+Q49810159;Hayes Wash;административно-территориальная единица;1;1;from
+Q49810159;Hayes Wash;государство;1;1;from
+Q49810159;Hayes Wash;это частный случай понятия;1;1;from
+Q49810159;Hayes Wash;код GeoNames;1;1;from
+Q49810159;Hayes Wash;высота над уровнем моря;1;1;from
+Q49810159;Hayes Wash;впадает в;1;1;to
+Q49810159;Hayes Wash;водосборный бассейн;1;1;from
+Q49810159;Hayes Wash;код GNIS;1;1;from
+Q49810159;Hayes Wash;географические координаты;1;1;from
+Q49805903;Grand Wash;категория на Викискладе;1;1;from
+Q49805903;Grand Wash;высота над уровнем моря;1;1;from
+Q49798501;Dry Wash;это частный случай понятия;1;1;from
+Q49804013;Gentile Wash;это частный случай понятия;1;1;from
+Q49798501;Dry Wash;код GeoNames;1;1;from
+Q49798501;Dry Wash;не путать с;1;2;to
+Q49798501;Dry Wash;высота над уровнем моря;1;1;from
+Q49798501;Dry Wash;местонахождение;1;1;from
+Q49798501;Dry Wash;впадает в;1;1;from
+Q49798501;Dry Wash;водосборный бассейн;1;1;from
+Q49798501;Dry Wash;код GNIS;1;1;from
+Q49798501;Dry Wash;географические координаты;1;1;from
+Q49798501;Dry Wash;приток;1;1;to
+Q49804013;Gentile Wash;административно-территориальная единица;1;1;from
+Q49804013;Gentile Wash;государство;1;1;from
+Q49804013;Gentile Wash;код GeoNames;1;1;from
+Q49805903;Grand Wash;код GeoNames;1;1;from
+Q49804013;Gentile Wash;высота над уровнем моря;1;1;from
+Q49804013;Gentile Wash;местонахождение;1;1;from
+Q49804013;Gentile Wash;впадает в;1;1;from
+Q49804013;Gentile Wash;водосборный бассейн;1;1;from
+Q49804013;Gentile Wash;код GNIS;1;1;from
+Q49804013;Gentile Wash;географические координаты;1;1;from
+Q49804013;Gentile Wash;приток;1;1;to
+Q49805903;Grand Wash;административно-территориальная единица;1;1;from
+Q49805903;Grand Wash;государство;1;1;from
+Q49805903;Grand Wash;изображение;1;1;from
+Q49805903;Grand Wash;это частный случай понятия;1;1;from
+Q23993004;Rambla de Ribota;это частный случай понятия;1;1;from
+Q23993004;Rambla de Ribota;государство;1;1;from
+Q23993004;Rambla de Ribota;административно-территориальная единица;1;1;from
+Q62592827;Potter Wash;это частный случай понятия;1;1;from
+Q62592748;Wildcat Draw;это частный случай понятия;1;1;from
+Q62592748;Wildcat Draw;код GeoNames;1;1;from
+Q62592748;Wildcat Draw;высота над уровнем моря;1;1;from
+Q62592748;Wildcat Draw;местонахождение;1;1;from
+Q62592748;Wildcat Draw;впадает в;1;1;from
+Q62592748;Wildcat Draw;код GNIS;1;1;from
+Q62592748;Wildcat Draw;географические координаты;1;1;from
+Q62592748;Wildcat Draw;находится на берегу водоёма;1;1;to
+Q62592748;Wildcat Draw;приток;1;1;to
+Q62592827;Potter Wash;административно-территориальная единица;1;2;from
+Q62592827;Potter Wash;государство;1;1;from
+Q62592827;Potter Wash;код GeoNames;1;1;from
+Q62592748;Wildcat Draw;административно-территориальная единица;1;1;from
+Q62592827;Potter Wash;высота над уровнем моря;1;1;from
+Q62592827;Potter Wash;впадает в;1;1;from
+Q62592827;Potter Wash;код GNIS;1;1;from
+Q62592827;Potter Wash;географические координаты;1;1;from
+Q62592827;Potter Wash;находится на берегу водоёма;1;1;to
+Q62592827;Potter Wash;приток;1;1;to
+Q62594018;Red Holes Wash;административно-территориальная единица;1;1;from
+Q62594018;Red Holes Wash;государство;1;1;from
+Q62594018;Red Holes Wash;это частный случай понятия;1;1;from
+Q62594018;Red Holes Wash;код GeoNames;1;1;from
+Q62594018;Red Holes Wash;высота над уровнем моря;1;1;from
+Q62592748;Wildcat Draw;государство;1;1;from
+Q62592455;Timothy Wash;впадающие в озеро реки;1;1;to
+Q62594018;Red Holes Wash;водосборный бассейн;1;1;from
+Q62589794;West Fork Desert Lake Wash;код GNIS;1;1;from
+Q62582281;North Salt Wash;высота над уровнем моря;1;1;from
+Q62582281;North Salt Wash;впадает в;1;1;to
+Q62582281;North Salt Wash;водосборный бассейн;1;1;from
+Q62582281;North Salt Wash;код GNIS;1;1;from
+Q62582281;North Salt Wash;географические координаты;1;1;from
+Q62582281;North Salt Wash;приток;1;1;to
+Q62589794;West Fork Desert Lake Wash;административно-территориальная единица;1;1;from
+Q62589794;West Fork Desert Lake Wash;государство;1;1;from
+Q62589794;West Fork Desert Lake Wash;это частный случай понятия;1;1;from
+Q62589794;West Fork Desert Lake Wash;код GeoNames;1;1;from
+Q62589794;West Fork Desert Lake Wash;высота над уровнем моря;1;1;from
+Q62589794;West Fork Desert Lake Wash;географические координаты;1;1;from
+Q62592455;Timothy Wash;находится на берегу водоёма;1;2;to
+Q62592455;Timothy Wash;административно-территориальная единица;1;1;from
+Q62592455;Timothy Wash;государство;1;1;from
+Q62592455;Timothy Wash;это частный случай понятия;1;1;from
+Q62592455;Timothy Wash;код GeoNames;1;1;from
+Q62592455;Timothy Wash;высота над уровнем моря;1;1;from
+Q62592455;Timothy Wash;местонахождение;1;2;from
+Q62592455;Timothy Wash;находится в охранной зоне;1;1;from
+Q62592455;Timothy Wash;впадает в;1;1;to
+Q62592455;Timothy Wash;код GNIS;1;1;from
+Q62592455;Timothy Wash;географические координаты;1;1;from
+Q62592455;Timothy Wash;приток;1;2;from
+Q62594018;Red Holes Wash;впадает в;1;1;from
+Q62594018;Red Holes Wash;код GNIS;1;1;from
+Q62582281;North Salt Wash;это частный случай понятия;1;1;from
+Q62595960;Summerville Wash;водосборный бассейн;1;1;from
+Q62595277;March Flat Wash;впадает в;1;1;to
+Q62595277;March Flat Wash;водосборный бассейн;1;1;from
+Q62595277;March Flat Wash;код GNIS;1;1;from
+Q62595277;March Flat Wash;географические координаты;1;1;from
+Q62595277;March Flat Wash;приток;1;1;to
+Q62595960;Summerville Wash;административно-территориальная единица;1;1;from
+Q62595960;Summerville Wash;государство;1;1;from
+Q62595960;Summerville Wash;это частный случай понятия;1;1;from
+Q62595960;Summerville Wash;код GeoNames;1;1;from
+Q62595960;Summerville Wash;высота над уровнем моря;1;1;from
+Q62595960;Summerville Wash;впадает в;1;1;to
+Q62595960;Summerville Wash;код GNIS;1;1;from
+Q62595277;March Flat Wash;код GeoNames;1;1;from
+Q62595960;Summerville Wash;географические координаты;1;1;from
+Q62595960;Summerville Wash;приток;1;1;to
+Q62596046;Middle Fork Summerville Wash;административно-территориальная единица;1;1;from
+Q62596046;Middle Fork Summerville Wash;государство;1;1;from
+Q62596046;Middle Fork Summerville Wash;это частный случай понятия;1;1;from
+Q62596046;Middle Fork Summerville Wash;код GeoNames;1;1;from
+Q62596046;Middle Fork Summerville Wash;высота над уровнем моря;1;1;from
+Q62596046;Middle Fork Summerville Wash;впадает в;1;1;from
+Q62596046;Middle Fork Summerville Wash;водосборный бассейн;1;1;from
+Q62596046;Middle Fork Summerville Wash;код GNIS;1;1;from
+Q62596046;Middle Fork Summerville Wash;географические координаты;1;1;from
+Q62595277;March Flat Wash;высота над уровнем моря;1;1;from
+Q62595277;March Flat Wash;это частный случай понятия;1;1;from
+Q62594018;Red Holes Wash;географические координаты;1;1;from
+Q62594078;Lucky Flats Wash;географические координаты;1;1;from
+Q62594018;Red Holes Wash;приток;1;1;to
+Q62594078;Lucky Flats Wash;административно-территориальная единица;1;1;from
+Q62594078;Lucky Flats Wash;государство;1;1;from
+Q62594078;Lucky Flats Wash;находится на берегу водоёма;1;1;to
+Q62594078;Lucky Flats Wash;это частный случай понятия;1;1;from
+Q62594078;Lucky Flats Wash;код GeoNames;1;1;from
+Q62594078;Lucky Flats Wash;высота над уровнем моря;1;1;from
+Q62594078;Lucky Flats Wash;местонахождение;1;1;to
+Q62594078;Lucky Flats Wash;впадает в;1;1;from
+Q62594078;Lucky Flats Wash;водосборный бассейн;1;1;from
+Q62594078;Lucky Flats Wash;код GNIS;1;1;from
+Q62594078;Lucky Flats Wash;приток;1;1;to
+Q62595277;March Flat Wash;государство;1;1;from
+Q62594206;Stove Gulch;административно-территориальная единица;1;1;from
+Q62594206;Stove Gulch;государство;1;1;from
+Q62594206;Stove Gulch;это частный случай понятия;1;1;from
+Q62594206;Stove Gulch;код GeoNames;1;1;from
+Q62594206;Stove Gulch;высота над уровнем моря;1;1;from
+Q62594206;Stove Gulch;впадает в;1;1;from
+Q62594206;Stove Gulch;водосборный бассейн;1;1;from
+Q62594206;Stove Gulch;код GNIS;1;1;from
+Q62594206;Stove Gulch;географические координаты;1;1;from
+Q62594206;Stove Gulch;приток;1;1;to
+Q62595277;March Flat Wash;административно-территориальная единица;1;1;from
+Q62582281;North Salt Wash;код GeoNames;1;1;from
+Q62582281;North Salt Wash;государство;1;1;from
+Q23992124;Q23992124;географические координаты;1;1;from
+Q62579687;Marsing Wash;водосборный бассейн;1;1;from
+Q62575271;Right Fork Deadman Creek;водосборный бассейн;1;1;from
+Q62575271;Right Fork Deadman Creek;код GNIS;1;1;from
+Q62575271;Right Fork Deadman Creek;географические координаты;1;1;from
+Q62575271;Right Fork Deadman Creek;исток водотока;1;1;to
+Q62579687;Marsing Wash;административно-территориальная единица;1;2;from
+Q62579687;Marsing Wash;государство;1;1;from
+Q62579687;Marsing Wash;это частный случай понятия;1;1;from
+Q62579687;Marsing Wash;код GeoNames;1;1;from
+Q62579687;Marsing Wash;высота над уровнем моря;1;1;from
+Q62579687;Marsing Wash;местонахождение;1;1;from
+Q62579687;Marsing Wash;впадает в;1;1;from
+Q62579687;Marsing Wash;код GNIS;1;1;from
+Q62575271;Right Fork Deadman Creek;впадает в;1;1;from
+Q62579687;Marsing Wash;географические координаты;1;1;from
+Q62579687;Marsing Wash;приток;1;1;to
+Q62580063;Washboard Wash;административно-территориальная единица;1;2;from
+Q62580063;Washboard Wash;государство;1;1;from
+Q62580063;Washboard Wash;это частный случай понятия;1;1;from
+Q62580063;Washboard Wash;код GeoNames;1;1;from
+Q62580063;Washboard Wash;высота над уровнем моря;1;1;from
+Q62580063;Washboard Wash;местонахождение;1;1;from
+Q62580063;Washboard Wash;впадает в;1;3;to
+Q62580063;Washboard Wash;водосборный бассейн;1;1;from
+Q62580063;Washboard Wash;код GNIS;1;1;from
+Q62575271;Right Fork Deadman Creek;горный хребет;1;1;from
+Q62575271;Right Fork Deadman Creek;высота над уровнем моря;1;1;from
+Q62580063;Washboard Wash;приток;1;1;to
+Q62574729;Meads Wash;это частный случай понятия;1;1;from
+Q62574346;Pinnacle Wash;это частный случай понятия;1;1;from
+Q62574346;Pinnacle Wash;код GeoNames;1;1;from
+Q62574346;Pinnacle Wash;высота над уровнем моря;1;1;from
+Q62574346;Pinnacle Wash;местонахождение;1;1;from
+Q62574346;Pinnacle Wash;впадает в;1;1;from
+Q62574346;Pinnacle Wash;водосборный бассейн;1;1;from
+Q62574346;Pinnacle Wash;код GNIS;1;1;from
+Q62574346;Pinnacle Wash;географические координаты;1;1;from
+Q62574346;Pinnacle Wash;приток;1;1;to
+Q62574729;Meads Wash;административно-территориальная единица;1;1;from
+Q62574729;Meads Wash;государство;1;1;from
+Q62574729;Meads Wash;код GeoNames;1;1;from
+Q62575271;Right Fork Deadman Creek;код GeoNames;1;1;from
+Q62574729;Meads Wash;высота над уровнем моря;1;1;from
+Q62574729;Meads Wash;местонахождение;1;1;from
+Q62574729;Meads Wash;впадает в;1;1;from
+Q62574729;Meads Wash;горный хребет;1;1;from
+Q62574729;Meads Wash;водосборный бассейн;1;1;from
+Q62574729;Meads Wash;код GNIS;1;1;from
+Q62574729;Meads Wash;географические координаты;1;1;from
+Q62574729;Meads Wash;приток;1;1;to
+Q62575271;Right Fork Deadman Creek;административно-территориальная единица;1;1;from
+Q62575271;Right Fork Deadman Creek;государство;1;1;from
+Q62575271;Right Fork Deadman Creek;это частный случай понятия;1;1;from
+Q62580063;Washboard Wash;географические координаты;1;1;from
+Q62580063;Washboard Wash;находится на берегу водоёма;1;1;to
+Q62582281;North Salt Wash;административно-территориальная единица;1;1;from
+Q62581496;Sand Wash;код GNIS;1;1;from
+Q62581459;Sand Wash;код GNIS;1;1;from
+Q62581459;Sand Wash;географические координаты;1;1;from
+Q62581459;Sand Wash;приток;1;1;to
+Q62581496;Sand Wash;административно-территориальная единица;1;1;from
+Q62581496;Sand Wash;государство;1;1;from
+Q62581496;Sand Wash;это частный случай понятия;1;1;from
+Q62581496;Sand Wash;код GeoNames;1;1;from
+Q62581496;Sand Wash;не путать с;1;1;to
+Q62581496;Sand Wash;высота над уровнем моря;1;1;from
+Q62581496;Sand Wash;местонахождение;1;2;from
+Q62581496;Sand Wash;впадает в;1;2;to
+Q62581496;Sand Wash;географические координаты;1;1;from
+Q62581459;Sand Wash;впадает в;1;1;from
+Q62581496;Sand Wash;приток;1;1;to
+Q62581519;Soap Wash;административно-территориальная единица;1;1;from
+Q62581519;Soap Wash;государство;1;1;from
+Q62581519;Soap Wash;это частный случай понятия;1;1;from
+Q62581519;Soap Wash;код GeoNames;1;1;from
+Q62581519;Soap Wash;высота над уровнем моря;1;1;from
+Q62581519;Soap Wash;впадает в;1;1;from
+Q62581519;Soap Wash;водосборный бассейн;1;1;from
+Q62581519;Soap Wash;код GNIS;1;1;from
+Q62581519;Soap Wash;географические координаты;1;1;from
+Q62581519;Soap Wash;приток;1;1;to
+Q62581459;Sand Wash;водосборный бассейн;1;1;from
+Q62581459;Sand Wash;высота над уровнем моря;1;1;from
+Q62581042;Twin Peaks Wash;административно-территориальная единица;1;2;from
+Q62581319;Mathis Wash;государство;1;1;from
+Q62581042;Twin Peaks Wash;государство;1;1;from
+Q62581042;Twin Peaks Wash;это частный случай понятия;1;1;from
+Q62581042;Twin Peaks Wash;код GeoNames;1;1;from
+Q62581042;Twin Peaks Wash;высота над уровнем моря;1;1;from
+Q62581042;Twin Peaks Wash;местонахождение;1;1;from
+Q62581042;Twin Peaks Wash;впадает в;1;1;from
+Q62581042;Twin Peaks Wash;водосборный бассейн;1;1;from
+Q62581042;Twin Peaks Wash;код GNIS;1;1;from
+Q62581042;Twin Peaks Wash;географические координаты;1;1;from
+Q62581042;Twin Peaks Wash;приток;1;1;to
+Q62581319;Mathis Wash;административно-территориальная единица;1;1;from
+Q62581319;Mathis Wash;это частный случай понятия;1;1;from
+Q62581459;Sand Wash;не путать с;1;1;to
+Q62581319;Mathis Wash;код GeoNames;1;1;from
+Q62581319;Mathis Wash;высота над уровнем моря;1;1;from
+Q62581319;Mathis Wash;впадает в;1;1;to
+Q62581319;Mathis Wash;водосборный бассейн;1;1;from
+Q62581319;Mathis Wash;код GNIS;1;1;from
+Q62581319;Mathis Wash;географические координаты;1;1;from
+Q62581319;Mathis Wash;приток;1;1;to
+Q62581459;Sand Wash;административно-территориальная единица;1;1;from
+Q62581459;Sand Wash;государство;1;1;from
+Q62581459;Sand Wash;это частный случай понятия;1;1;from
+Q62581459;Sand Wash;код GeoNames;1;1;from
+Q62596046;Middle Fork Summerville Wash;приток;1;1;to
+Q83269635;Lohanska balka;административно-территориальная единица;1;1;from
+Q83269635;Lohanska balka;государство;1;1;from
+Q19842647;Карантинная балка;изображение;1;1;from
+Q16901967;Tres Alamos Wash;это частный случай понятия;1;1;from
+Q16901967;Tres Alamos Wash;код GNIS;1;1;from
+Q16901967;Tres Alamos Wash;географические координаты;1;1;from
+Q18394755;Tongue Wash;административно-территориальная единица;1;1;from
+Q18394755;Tongue Wash;государство;1;1;from
+Q18394755;Tongue Wash;это частный случай понятия;1;1;from
+Q18394755;Tongue Wash;официальное название;1;1;from
+Q18394755;Tongue Wash;код GNIS;1;1;from
+Q18394755;Tongue Wash;географические координаты;1;1;from
+Q19842647;Карантинная балка;административно-территориальная единица;1;2;from
+Q19842647;Карантинная балка;государство;1;1;from
+Q19842647;Карантинная балка;это частный случай понятия;1;2;from
+Q16628575;Detrital Wash;находится в пределах природно-географического объекта;1;1;from
+Q19842647;Карантинная балка;часть от;1;3;to
+Q19842647;Карантинная балка;основная категория по теме;1;1;from
+Q19842647;Карантинная балка;имеет границы с;1;2;to
+Q19842647;Карантинная балка;проходит над/под;1;1;to
+Q19842647;Карантинная балка;общая тема категории;1;1;to
+Q20072676;Алимова балка;административно-территориальная единица;1;1;from
+Q20072676;Алимова балка;государство;1;4;from
+Q20072676;Алимова балка;изображение;1;1;from
+Q20072676;Алимова балка;это частный случай понятия;1;2;from
+Q20072676;Алимова балка;часть от;1;1;from
+Q20072676;Алимова балка;географические координаты;1;1;from
+Q16901967;Tres Alamos Wash;государство;1;1;from
+Q16628575;Detrital Wash;географические координаты;1;1;from
+Q20073744;Приворотная балка;изображение;1;1;from
+Q12116781;Laboratornaya Gully;категория на Викискладе;1;1;from
+Q11944533;Rambla de Cervera;категория на Викискладе;1;1;from
+Q11944533;Rambla de Cervera;географические координаты;1;1;from
+Q12078848;Аполлонова балка;государство;1;4;from
+Q12078848;Аполлонова балка;изображение;1;1;from
+Q12078848;Аполлонова балка;это частный случай понятия;1;1;from
+Q12078848;Аполлонова балка;категория на Викискладе;1;1;from
+Q12078848;Аполлонова балка;географические координаты;1;1;from
+Q12116781;Laboratornaya Gully;административно-территориальная единица;1;1;from
+Q12116781;Laboratornaya Gully;государство;1;2;from
+Q12116781;Laboratornaya Gully;изображение;1;1;from
+Q12116781;Laboratornaya Gully;это частный случай понятия;1;1;from
+Q12116781;Laboratornaya Gully;географические координаты;1;1;from
+Q16628575;Detrital Wash;водосборный бассейн;1;1;from
+Q12165049;Ushakov's Balka;административно-территориальная единица;1;1;from
+Q12165049;Ushakov's Balka;названо в честь;1;1;from
+Q12165049;Ushakov's Balka;государство;1;4;from
+Q12165049;Ushakov's Balka;изображение;1;1;from
+Q12165049;Ushakov's Balka;это частный случай понятия;1;2;from
+Q12165049;Ushakov's Balka;категория на Викискладе;1;1;from
+Q12165049;Ushakov's Balka;географические координаты;1;1;from
+Q16628575;Detrital Wash;административно-территориальная единица;1;1;from
+Q16628575;Detrital Wash;государство;1;1;from
+Q16628575;Detrital Wash;это частный случай понятия;1;1;from
+Q16628575;Detrital Wash;код GeoNames;1;1;from
+Q20073744;Приворотная балка;государство;1;1;from
+Q20073744;Приворотная балка;это частный случай понятия;1;1;from
+Q83269635;Lohanska balka;изображение;1;1;from
+Q22073332;Fremont Canyon;код GNIS;1;1;from
+Q22073314;Dead Mare Wash;географические координаты;1;1;from
+Q22073324;Denmark Wash;административно-территориальная единица;1;1;from
+Q22073324;Denmark Wash;государство;1;1;from
+Q22073324;Denmark Wash;это частный случай понятия;1;1;from
+Q22073324;Denmark Wash;код GeoNames;1;1;from
+Q22073324;Denmark Wash;код GNIS;1;1;from
+Q22073324;Denmark Wash;географические координаты;1;2;from
+Q22073332;Fremont Canyon;административно-территориальная единица;1;1;from
+Q22073332;Fremont Canyon;государство;1;1;from
+Q22073332;Fremont Canyon;это частный случай понятия;1;1;from
+Q22073332;Fremont Canyon;код GeoNames;1;1;from
+Q22073332;Fremont Canyon;географические координаты;1;1;from
+Q22073314;Dead Mare Wash;находится в охранной зоне;1;1;from
+Q23768380;Arroyo La Petaca;государство;1;1;from
+Q23768380;Arroyo La Petaca;это частный случай понятия;1;2;from
+Q23768380;Arroyo La Petaca;код GeoNames;1;1;from
+Q23768380;Arroyo La Petaca;высота над уровнем моря;1;1;from
+Q23768380;Arroyo La Petaca;код GNS;1;1;from
+Q23768380;Arroyo La Petaca;географические координаты;1;1;from
+Q23992124;Q23992124;административно-территориальная единица;1;1;from
+Q23992124;Q23992124;государство;1;1;from
+Q23992124;Q23992124;это частный случай понятия;1;1;from
+Q23992124;Q23992124;код GeoNames;1;1;from
+Q23992124;Q23992124;код GNS;1;1;from
+Q22073314;Dead Mare Wash;код GNIS;1;1;from
+Q22073314;Dead Mare Wash;код GeoNames;1;1;from
+Q20073744;Приворотная балка;длина;1;1;from
+Q22058366;Alma Wash;административно-территориальная единица;1;1;from
+Q20073744;Приворотная балка;площадь бассейна;1;1;from
+Q20073744;Приворотная балка;географические координаты;1;1;from
+Q21196755;Chinle Wash;административно-территориальная единица;1;1;from
+Q21196755;Chinle Wash;государство;1;1;from
+Q21196755;Chinle Wash;это частный случай понятия;1;1;from
+Q21196755;Chinle Wash;код GeoNames;1;1;from
+Q21196755;Chinle Wash;находится в охранной зоне;1;1;from
+Q21196755;Chinle Wash;впадает в;1;1;from
+Q21196755;Chinle Wash;водосборный бассейн;1;1;from
+Q21196755;Chinle Wash;код GNIS;1;1;from
+Q21196755;Chinle Wash;географические координаты;1;2;from
+Q22058366;Alma Wash;государство;1;1;from
+Q22073314;Dead Mare Wash;это частный случай понятия;1;1;from
+Q22058366;Alma Wash;это частный случай понятия;1;1;from
+Q22058366;Alma Wash;код GeoNames;1;1;from
+Q22058366;Alma Wash;географические координаты;1;1;from
+Q22073285;Cunningham Wash;административно-территориальная единица;1;1;from
+Q22073285;Cunningham Wash;государство;1;1;from
+Q22073285;Cunningham Wash;это частный случай понятия;1;1;from
+Q22073285;Cunningham Wash;код GeoNames;1;1;from
+Q22073285;Cunningham Wash;код GNIS;1;1;from
+Q22073285;Cunningham Wash;географические координаты;1;1;from
+Q22073314;Dead Mare Wash;административно-территориальная единица;1;1;from
+Q22073314;Dead Mare Wash;государство;1;1;from
+Q11944533;Rambla de Cervera;длина;1;1;from
+Q11944533;Rambla de Cervera;код GeoNames;1;1;from
+Q11944533;Rambla de Cervera;код в Большой каталанской энциклопедии;1;1;from
+Q3418404;Rambla de la Viuda;приток;1;1;to
+Q3418404;Rambla de la Viuda;изображение;1;1;from
+Q3418404;Rambla de la Viuda;это частный случай понятия;1;1;from
+Q3418404;Rambla de la Viuda;код в Большой каталанской энциклопедии;1;1;from
+Q3418404;Rambla de la Viuda;код GeoNames;1;1;from
+Q3418404;Rambla de la Viuda;длина;1;1;from
+Q3418404;Rambla de la Viuda;площадь бассейна;1;1;from
+Q3418404;Rambla de la Viuda;впадает в;1;3;to
+Q3418404;Rambla de la Viuda;водосборный бассейн;1;1;from
+Q3418404;Rambla de la Viuda;водоём на реке;1;1;from
+Q3418404;Rambla de la Viuda;плотина;1;1;from
+Q3418404;Rambla de la Viuda;географические координаты;1;1;from
+Q3418404;Rambla de la Viuda;находится в пределах природно-географического объекта;1;1;to
+Q3418404;Rambla de la Viuda;административно-территориальная единица;1;1;from
+Q4076653;Balka Skelevaya;административно-территориальная единица;1;1;from
+Q4076653;Balka Skelevaya;государство;1;1;from
+Q4076653;Balka Skelevaya;изображение;1;1;from
+Q4076653;Balka Skelevaya;это частный случай понятия;1;1;from
+Q4076653;Balka Skelevaya;категория на Викискладе;1;1;from
+Q4076653;Balka Skelevaya;дата основания/создания/возникновения;1;1;from
+Q4211262;Kamenny Log;административно-территориальная единица;1;1;from
+Q4211262;Kamenny Log;государство;1;1;from
+Q4211262;Kamenny Log;изображение;1;1;from
+Q4211262;Kamenny Log;это частный случай понятия;1;2;from
+Q4211262;Kamenny Log;категория на Викискладе;1;1;from
+Q3418404;Rambla de la Viuda;государство;1;1;from
+Q3308361;Rambla de las Ovejas;приток;1;1;to
+Q11944533;Rambla de Cervera;это частный случай понятия;1;1;from
+Q859888;Chaco Wash;код VIAF;1;1;from
+Q83269635;Lohanska balka;это частный случай понятия;1;1;from
+Q83269635;Lohanska balka;категория на Викискладе;1;1;from
+Q83269635;Lohanska balka;географические координаты;1;1;from
+Q83845998;Tunelna balka;административно-территориальная единица;1;1;from
+Q83845998;Tunelna balka;государство;1;1;from
+Q83845998;Tunelna balka;изображение;1;1;from
+Q83845998;Tunelna balka;это частный случай понятия;1;1;from
+Q83845998;Tunelna balka;категория на Викискладе;1;1;from
+Q83845998;Tunelna balka;географические координаты;1;1;from
+Q859888;Chaco Wash;административно-территориальная единица;1;1;from
+Q859888;Chaco Wash;государство;1;1;from
+Q859888;Chaco Wash;это частный случай понятия;1;1;from
+Q3308361;Rambla de las Ovejas;географические координаты;1;1;from
+Q859888;Chaco Wash;код GeoNames;1;1;from
+Q859888;Chaco Wash;впадает в;1;1;from
+Q859888;Chaco Wash;водосборный бассейн;1;1;from
+Q859888;Chaco Wash;географические координаты;1;1;from
+Q859888;Chaco Wash;код Freebase;1;1;from
+Q3308361;Rambla de las Ovejas;государство;1;1;from
+Q3308361;Rambla de las Ovejas;изображение;1;1;from
+Q3308361;Rambla de las Ovejas;это частный случай понятия;1;1;from
+Q3308361;Rambla de las Ovejas;код в Большой каталанской энциклопедии;1;1;from
+Q3308361;Rambla de las Ovejas;категория на Викискладе;1;1;from
+Q3308361;Rambla de las Ovejas;впадает в;1;1;from
+Q4372646;Balka Popov Yar;государство;1;1;from
+Q4372646;Balka Popov Yar;это частный случай понятия;1;2;from
+Q4372646;Balka Popov Yar;код GeoNames;1;1;from
+Q7415766;Sand Canyon Wash;административно-территориальная единица;1;1;from
+Q5150580;Comb Wash;код GeoNames;1;1;from
+Q5150580;Comb Wash;категория на Викискладе;1;1;from
+Q5150580;Comb Wash;код GNIS;1;1;from
+Q5150580;Comb Wash;географические координаты;1;1;from
+Q5253098;Delamar Wash;административно-территориальная единица;1;1;from
+Q5253098;Delamar Wash;государство;1;1;from
+Q5253098;Delamar Wash;это частный случай понятия;1;1;from
+Q5253098;Delamar Wash;код GeoNames;1;1;from
+Q5253098;Delamar Wash;код TGN;1;1;from
+Q5253098;Delamar Wash;код GNIS;1;1;from
+Q5253098;Delamar Wash;географические координаты;1;2;from
+Q7415766;Sand Canyon Wash;государство;1;1;from
+Q4372646;Balka Popov Yar;высота над уровнем моря;1;1;from
+Q7415766;Sand Canyon Wash;это частный случай понятия;1;1;from
+Q7415766;Sand Canyon Wash;впадает в;1;1;from
+Q7415766;Sand Canyon Wash;код GNIS;1;1;from
+Q7415766;Sand Canyon Wash;географические координаты;1;1;from
+Q7636552;Sulphur Springs Draw;административно-территориальная единица;1;1;from
+Q7636552;Sulphur Springs Draw;государство;1;1;from
+Q7636552;Sulphur Springs Draw;это частный случай понятия;1;1;from
+Q7636552;Sulphur Springs Draw;код GeoNames;1;1;from
+Q7636552;Sulphur Springs Draw;географические координаты;1;1;from
+Q11944533;Rambla de Cervera;государство;1;1;from
+Q11944533;Rambla de Cervera;изображение;1;1;from
+Q5150580;Comb Wash;это частный случай понятия;1;1;from
+Q5150580;Comb Wash;изображение;1;1;from
+Q5150580;Comb Wash;государство;1;1;from
+Q5150580;Comb Wash;административно-территориальная единица;1;1;from
+Q4372646;Balka Popov Yar;код GNS;1;1;from
+Q4372646;Balka Popov Yar;географические координаты;1;2;from
+Q4408585;Sarzhin Yar;административно-территориальная единица;1;1;from
+Q4408585;Sarzhin Yar;государство;1;1;from
+Q4408585;Sarzhin Yar;изображение;1;1;from
+Q4408585;Sarzhin Yar;это частный случай понятия;1;1;from
+Q4408585;Sarzhin Yar;категория на Викискладе;1;1;from
+Q4408585;Sarzhin Yar;географические координаты;1;1;from
+Q4429834;Valley of Sotera River;административно-территориальная единица;1;1;from
+Q4429834;Valley of Sotera River;государство;1;1;from
+Q4429834;Valley of Sotera River;изображение;1;1;from
+Q4429834;Valley of Sotera River;это частный случай понятия;1;1;from
+Q4429834;Valley of Sotera River;категория на Викискладе;1;1;from
+Q4429834;Valley of Sotera River;географические координаты;1;1;from
+Q4726997;Aliso Creek;административно-территориальная единица;1;1;from
+Q4726997;Aliso Creek;государство;1;1;from
+Q4726997;Aliso Creek;это частный случай понятия;1;1;from
+Q4726997;Aliso Creek;код GeoNames;1;1;from
+Q4726997;Aliso Creek;впадает в;1;1;from
+Q4726997;Aliso Creek;водосборный бассейн;1;1;from
+Q4726997;Aliso Creek;код GNIS;1;1;from
+Q4726997;Aliso Creek;географические координаты;1;1;from
+Q4726997;Aliso Creek;приток;1;1;to
+Q56640700;Яныкер;впадает в;1;1;from

@@ -1,0 +1,272 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q45240;Monte Carlo;административно-территориальная единица;1;18;to
+Q55115;Monaco-Ville;изображение;1;1;from
+Q55112;Saint Michel;административно-территориальная единица;1;1;from
+Q55112;Saint Michel;государство;1;1;from
+Q55112;Saint Michel;изображение;1;1;from
+Q55112;Saint Michel;карта местонахождения;1;1;from
+Q55112;Saint Michel;это частный случай понятия;1;2;from
+Q55112;Saint Michel;столица;1;1;from
+Q55112;Saint Michel;код GeoNames;1;1;from
+Q55112;Saint Michel;площадь;1;1;from
+Q55112;Saint Michel;почтовый индекс;1;1;from
+Q55112;Saint Michel;код автомобильного номера;1;1;from
+Q55112;Saint Michel;географические координаты;1;1;from
+Q55112;Saint Michel;код Freebase;1;1;from
+Q55115;Monaco-Ville;административно-территориальная единица;1;6;to
+Q55115;Monaco-Ville;государство;1;1;from
+Q55115;Monaco-Ville;находится на берегу водоёма;1;1;from
+Q55108;Moneghetti;Who's on First ID;1;1;from
+Q55115;Monaco-Ville;карта местонахождения;1;1;from
+Q55115;Monaco-Ville;это частный случай понятия;1;2;from
+Q55115;Monaco-Ville;десятичная классификация Дьюи;1;1;from
+Q55115;Monaco-Ville;код в Большой каталанской энциклопедии;1;1;from
+Q55115;Monaco-Ville;описывается в источниках;1;1;from
+Q55115;Monaco-Ville;является столицей;1;1;from
+Q55115;Monaco-Ville;категория для людей, родившихся здесь;1;1;from
+Q55115;Monaco-Ville;код GeoNames;1;1;from
+Q55115;Monaco-Ville;категория для людей, связанных с местностью;1;1;from
+Q55115;Monaco-Ville;UN/LOCODE;1;1;from
+Q55115;Monaco-Ville;площадь;1;1;from
+Q55115;Monaco-Ville;почтовый индекс;1;1;from
+Q55115;Monaco-Ville;ISO 3166-2;1;1;from
+Q55115;Monaco-Ville;код темы Quora;1;1;from
+Q55108;Moneghetti;имеет границы с;1;1;to
+Q55108;Moneghetti;код Freebase;1;1;from
+Q55115;Monaco-Ville;код автомобильного номера;1;1;from
+Q55105;Les Révoires;код автомобильного номера;1;1;from
+Q55102;La Colle;основная категория по теме;1;1;from
+Q55102;La Colle;место рождения;1;8;to
+Q55102;La Colle;общая тема категории;1;1;to
+Q55102;La Colle;расположение штаб-квартиры;1;1;to
+Q55105;Les Révoires;административно-территориальная единица;1;1;from
+Q55105;Les Révoires;государство;1;1;from
+Q55105;Les Révoires;изображение;1;1;from
+Q55105;Les Révoires;карта местонахождения;1;1;from
+Q55105;Les Révoires;это частный случай понятия;1;2;from
+Q55105;Les Révoires;столица;1;1;from
+Q55105;Les Révoires;код GeoNames;1;1;from
+Q55105;Les Révoires;высота над уровнем моря;1;1;from
+Q55105;Les Révoires;площадь;1;1;from
+Q55105;Les Révoires;почтовый индекс;1;1;from
+Q55105;Les Révoires;географические координаты;1;1;from
+Q55108;Moneghetti;географические координаты;1;1;from
+Q55105;Les Révoires;код Freebase;1;1;from
+Q55108;Moneghetti;административно-территориальная единица;1;2;to
+Q55108;Moneghetti;государство;1;1;from
+Q55108;Moneghetti;изображение;1;1;from
+Q55108;Moneghetti;карта местонахождения;1;1;from
+Q55108;Moneghetti;это частный случай понятия;1;3;from
+Q55108;Moneghetti;столица;1;1;from
+Q55108;Moneghetti;код GeoNames;1;1;from
+Q55108;Moneghetti;площадь;1;1;from
+Q55108;Moneghetti;почтовый индекс;1;1;from
+Q55108;Moneghetti;ISO 3166-2;1;1;from
+Q55108;Moneghetti;категория на Викискладе;1;1;from
+Q55108;Moneghetti;код автомобильного номера;1;1;from
+Q55108;Moneghetti;ID отношения в OpenStreetMap;1;1;from
+Q55115;Monaco-Ville;категория на Викискладе;1;1;from
+Q55115;Monaco-Ville;ID отношения в OpenStreetMap;1;1;from
+Q55102;La Colle;географические координаты;1;1;from
+Q18635826;Ravin de Sainte-Dévote;государство;1;1;from
+Q13378480;Spélugues;местонахождение;1;2;to
+Q13378482;La Source;государство;1;1;from
+Q13378482;La Source;это частный случай понятия;1;1;from
+Q13378482;La Source;ISO 3166-2;1;1;from
+Q13378485;Moulins;государство;1;1;from
+Q13378485;Moulins;это частный случай понятия;1;1;from
+Q13378485;Moulins;ISO 3166-2;1;1;from
+Q13378486;Malbousquet;государство;1;1;from
+Q13378486;Malbousquet;это частный случай понятия;1;1;from
+Q13378486;Malbousquet;ISO 3166-2;1;1;from
+Q13378488;La Gare;государство;1;1;from
+Q13378488;La Gare;это частный случай понятия;1;1;from
+Q13378488;La Gare;ISO 3166-2;1;1;from
+Q18635826;Ravin de Sainte-Dévote;административно-территориальная единица;1;1;to
+Q18635826;Ravin de Sainte-Dévote;изображение;1;2;from
+Q13378480;Spélugues;это частный случай понятия;1;1;from
+Q18635826;Ravin de Sainte-Dévote;карта местонахождения;1;1;from
+Q18635826;Ravin de Sainte-Dévote;это частный случай понятия;1;2;from
+Q18635826;Ravin de Sainte-Dévote;имеет границы с;1;4;from
+Q18635826;Ravin de Sainte-Dévote;площадь;1;1;from
+Q18635826;Ravin de Sainte-Dévote;категория на Викискладе;1;1;from
+Q18635826;Ravin de Sainte-Dévote;географические координаты;1;1;from
+Q18635826;Ravin de Sainte-Dévote;местонахождение;1;1;to
+Q19286504;Jardin Exotique;административно-территориальная единица;1;2;to
+Q19286504;Jardin Exotique;государство;1;1;from
+Q19286504;Jardin Exotique;изображение;1;1;from
+Q19286504;Jardin Exotique;карта местонахождения;1;1;from
+Q19286504;Jardin Exotique;это частный случай понятия;1;2;from
+Q19286504;Jardin Exotique;площадь;1;1;from
+Q19286504;Jardin Exotique;категория на Викискладе;1;1;from
+Q13378480;Spélugues;ISO 3166-2;1;1;from
+Q13378480;Spélugues;государство;1;1;from
+Q55115;Monaco-Ville;географические координаты;1;1;from
+Q55125;Le Portier;карта местонахождения;1;1;from
+Q55115;Monaco-Ville;код Freebase;1;1;from
+Q55115;Monaco-Ville;Who's on First ID;1;1;from
+Q55115;Monaco-Ville;основная категория по теме;1;1;from
+Q55115;Monaco-Ville;место в MusicBrainz;1;1;from
+Q55115;Monaco-Ville;столица;1;1;to
+Q55115;Monaco-Ville;расположение штаб-квартиры;1;1;to
+Q55115;Monaco-Ville;место рождения;1;4;to
+Q55115;Monaco-Ville;местонахождение;1;1;to
+Q55115;Monaco-Ville;общая тема категории;1;1;to
+Q55115;Monaco-Ville;основная тема;1;1;to
+Q55115;Monaco-Ville;категория объединяет темы;1;2;to
+Q55125;Le Portier;административно-территориальная единица;1;1;from
+Q55125;Le Portier;государство;1;1;from
+Q55125;Le Portier;изображение;1;1;from
+Q55125;Le Portier;это частный случай понятия;1;1;from
+Q13378479;Vallon de la Rousse;ID отношения в OpenStreetMap;1;1;from
+Q55125;Le Portier;численность населения;1;1;from
+Q55125;Le Portier;высота над уровнем моря;1;1;from
+Q55125;Le Portier;площадь;1;1;from
+Q55125;Le Portier;почтовый индекс;1;1;from
+Q55125;Le Portier;категория на Викискладе;1;1;from
+Q55125;Le Portier;код автомобильного номера;1;1;from
+Q55125;Le Portier;часовой пояс;1;1;from
+Q55125;Le Portier;идентификатор Structurae;1;1;from
+Q55125;Le Portier;дата начала;1;1;from
+Q55125;Le Portier;географические координаты;1;1;from
+Q55125;Le Portier;официальный сайт;1;1;from
+Q13378479;Vallon de la Rousse;государство;1;1;from
+Q13378479;Vallon de la Rousse;это частный случай понятия;1;1;from
+Q13378479;Vallon de la Rousse;ISO 3166-2;1;1;from
+Q55102;La Colle;код Freebase;1;1;from
+Q55102;La Colle;код автомобильного номера;1;1;from
+Q45240;Monte Carlo;названо в честь;1;4;to
+Q55088;Larvotto;карта местонахождения;1;1;from
+Q45240;Monte Carlo;место смерти;1;143;to
+Q45240;Monte Carlo;расположение штаб-квартиры;1;13;to
+Q45240;Monte Carlo;местонахождение;1;8;to
+Q45240;Monte Carlo;место активности;1;3;to
+Q45240;Monte Carlo;имеет границы с;1;1;to
+Q45240;Monte Carlo;история происходит в месте;1;4;to
+Q45240;Monte Carlo;изображённый объект;1;1;to
+Q45240;Monte Carlo;место первого исполнения;1;3;to
+Q45240;Monte Carlo;общая тема категории;1;1;to
+Q45240;Monte Carlo;категория объединяет темы;1;3;to
+Q45240;Monte Carlo;место публикации;1;1;to
+Q55088;Larvotto;административно-территориальная единица;1;3;to
+Q55088;Larvotto;государство;1;1;from
+Q55088;Larvotto;изображение;1;1;from
+Q55088;Larvotto;это частный случай понятия;1;3;from
+Q45240;Monte Carlo;место жительства;1;89;to
+Q55088;Larvotto;код GeoNames;1;1;from
+Q55088;Larvotto;площадь;1;1;from
+Q55088;Larvotto;почтовый индекс;1;1;from
+Q55088;Larvotto;ISO 3166-2;1;1;from
+Q55088;Larvotto;категория на Викискладе;1;1;from
+Q55088;Larvotto;код автомобильного номера;1;1;from
+Q55088;Larvotto;ID отношения в OpenStreetMap;1;1;from
+Q55088;Larvotto;географические координаты;1;1;from
+Q55088;Larvotto;код Freebase;1;1;from
+Q55088;Larvotto;место смерти;1;1;to
+Q55088;Larvotto;местонахождение;1;1;to
+Q55089;Saint Roman, Monaco;административно-территориальная единица;1;1;to
+Q55089;Saint Roman, Monaco;государство;1;1;from
+Q55089;Saint Roman, Monaco;изображение;1;1;from
+Q45240;Monte Carlo;место рождения;1;37;to
+Q45240;Monte Carlo;место в MusicBrainz;1;1;from
+Q55089;Saint Roman, Monaco;это частный случай понятия;1;3;from
+Q45240;Monte Carlo;UN/LOCODE;1;1;from
+Q45240;Monte Carlo;государство;1;1;from
+Q45240;Monte Carlo;изображение;1;1;from
+Q45240;Monte Carlo;город-побратим;1;1;to
+Q45240;Monte Carlo;код VIAF;1;2;from
+Q45240;Monte Carlo;код GND;1;1;from
+Q45240;Monte Carlo;карта местонахождения;1;1;from
+Q45240;Monte Carlo;это частный случай понятия;1;3;from
+Q45240;Monte Carlo;код US National Archives;1;1;from
+Q45240;Monte Carlo;значение в OmegaWiki;1;1;from
+Q45240;Monte Carlo;код в Большой каталанской энциклопедии;1;1;from
+Q45240;Monte Carlo;категория для людей, родившихся здесь;1;1;from
+Q45240;Monte Carlo;категория для людей, умерших здесь;1;1;from
+Q45240;Monte Carlo;код GeoNames;1;1;from
+Q45240;Monte Carlo;категория для людей, связанных с местностью;1;1;from
+Q45240;Monte Carlo;площадь;1;1;from
+Q45240;Monte Carlo;основная категория по теме;1;1;from
+Q45240;Monte Carlo;код BNF;1;1;from
+Q45240;Monte Carlo;почтовый индекс;1;1;from
+Q45240;Monte Carlo;ISO 3166-2;1;1;from
+Q45240;Monte Carlo;категория на Викискладе;1;1;from
+Q45240;Monte Carlo;код автомобильного номера;1;1;from
+Q45240;Monte Carlo;ID отношения в OpenStreetMap;1;1;from
+Q45240;Monte Carlo;часовой пояс;1;1;from
+Q45240;Monte Carlo;идентификатор местоположения ArchINFORM;1;1;from
+Q45240;Monte Carlo;дата основания/создания/возникновения;1;1;from
+Q45240;Monte Carlo;код в Ларуссе;1;1;from
+Q45240;Monte Carlo;географические координаты;1;1;from
+Q45240;Monte Carlo;код Freebase;1;1;from
+Q45240;Monte Carlo;Who's on First ID;1;1;from
+Q45240;Monte Carlo;официальный сайт;1;1;from
+Q55089;Saint Roman, Monaco;карта местонахождения;1;1;from
+Q55089;Saint Roman, Monaco;код GeoNames;1;1;from
+Q55102;La Colle;ISO 3166-2;1;1;from
+Q55098;Fontvieille;код Freebase;1;1;from
+Q55098;Fontvieille;карта местонахождения;1;1;from
+Q55098;Fontvieille;это частный случай понятия;1;3;from
+Q55098;Fontvieille;код в энциклопедии «Британника онлайн»;1;1;from
+Q55098;Fontvieille;код GeoNames;1;1;from
+Q55098;Fontvieille;код TGN;1;1;from
+Q55098;Fontvieille;площадь;1;1;from
+Q55098;Fontvieille;почтовый индекс;1;1;from
+Q55098;Fontvieille;ISO 3166-2;1;1;from
+Q55098;Fontvieille;вид в ночное время;1;1;from
+Q55098;Fontvieille;категория на Викискладе;1;1;from
+Q55098;Fontvieille;код автомобильного номера;1;1;from
+Q55098;Fontvieille;ID отношения в OpenStreetMap;1;1;from
+Q55098;Fontvieille;дата основания/создания/возникновения;1;1;from
+Q55098;Fontvieille;географические координаты;1;1;from
+Q55098;Fontvieille;Who's on First ID;1;1;from
+Q55098;Fontvieille;изображение;1;1;from
+Q55098;Fontvieille;место в MusicBrainz;1;1;from
+Q55098;Fontvieille;местонахождение;1;3;to
+Q55098;Fontvieille;общая тема категории;1;1;to
+Q55098;Fontvieille;место жительства;1;1;to
+Q55098;Fontvieille;расположение штаб-квартиры;1;1;to
+Q55102;La Colle;административно-территориальная единица;1;1;from
+Q55102;La Colle;государство;1;1;from
+Q55102;La Colle;изображение;1;1;from
+Q55102;La Colle;карта местонахождения;1;1;from
+Q55102;La Colle;это частный случай понятия;1;2;from
+Q55102;La Colle;столица;1;1;from
+Q55102;La Colle;код GeoNames;1;1;from
+Q55102;La Colle;площадь;1;1;from
+Q55102;La Colle;почтовый индекс;1;1;from
+Q55098;Fontvieille;код VIAF;1;1;from
+Q55098;Fontvieille;государство;1;1;from
+Q55089;Saint Roman, Monaco;площадь;1;1;from
+Q55095;La Condamine;код GeoNames;1;1;from
+Q55089;Saint Roman, Monaco;почтовый индекс;1;1;from
+Q55089;Saint Roman, Monaco;ISO 3166-2;1;1;from
+Q55089;Saint Roman, Monaco;категория на Викискладе;1;1;from
+Q55089;Saint Roman, Monaco;код автомобильного номера;1;1;from
+Q55089;Saint Roman, Monaco;географические координаты;1;1;from
+Q55089;Saint Roman, Monaco;код Freebase;1;1;from
+Q55089;Saint Roman, Monaco;Who's on First ID;1;1;from
+Q55095;La Condamine;административно-территориальная единица;1;4;to
+Q55095;La Condamine;государство;1;1;from
+Q55095;La Condamine;изображение;1;1;from
+Q55095;La Condamine;карта местонахождения;1;1;from
+Q55095;La Condamine;это частный случай понятия;1;2;from
+Q55095;La Condamine;столица;1;1;from
+Q55095;La Condamine;код в энциклопедии «Британника онлайн»;1;1;from
+Q55095;La Condamine;код TGN;1;1;from
+Q55098;Fontvieille;административно-территориальная единица;1;9;to
+Q55095;La Condamine;площадь;1;1;from
+Q55095;La Condamine;почтовый индекс;1;1;from
+Q55095;La Condamine;ISO 3166-2;1;1;from
+Q55095;La Condamine;категория на Викискладе;1;1;from
+Q55095;La Condamine;код автомобильного номера;1;1;from
+Q55095;La Condamine;ID отношения в OpenStreetMap;1;1;from
+Q55095;La Condamine;географические координаты;1;2;from
+Q55095;La Condamine;код Freebase;1;1;from
+Q55095;La Condamine;Who's on First ID;1;1;from
+Q55095;La Condamine;основная категория по теме;1;1;from
+Q55095;La Condamine;место рождения;1;2;to
+Q55095;La Condamine;имеет границы с;1;1;to
+Q55095;La Condamine;общая тема категории;1;1;to
+Q55095;La Condamine;расположение штаб-квартиры;1;1;to
+Q19286504;Jardin Exotique;географические координаты;1;1;from

@@ -1,0 +1,945 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q211900;Napo Province;административно-территориальная единица;1;139;to
+Q504238;Loja Province;административно-территориальная единица;1;342;to
+Q499475;Orellana Province;географические координаты;1;1;from
+Q499475;Orellana Province;код Freebase;1;1;from
+Q499475;Orellana Province;Who's on First ID;1;1;from
+Q499475;Orellana Province;официальный сайт;1;1;from
+Q499475;Orellana Province;FIPS 10-4 (страны и регионы);1;1;from
+Q499475;Orellana Province;основная категория по теме;1;1;from
+Q499475;Orellana Province;является столицей;1;1;to
+Q499475;Orellana Province;расположение штаб-квартиры;1;1;to
+Q499475;Orellana Province;место рождения;1;2;to
+Q499475;Orellana Province;происходит из;1;3;to
+Q499475;Orellana Province;является эндемиком в;1;1;to
+Q499475;Orellana Province;общая тема категории;1;1;to
+Q504238;Loja Province;административно делится на;1;1;to
+Q499475;Orellana Province;местный телефонный код;1;1;from
+Q504238;Loja Province;описание флага;1;1;from
+Q504238;Loja Province;государство;1;1;from
+Q504238;Loja Province;карта местонахождения;1;1;from
+Q504238;Loja Province;это частный случай понятия;1;1;from
+Q504238;Loja Province;столица;1;1;from
+Q504238;Loja Province;официальный язык;1;2;from
+Q504238;Loja Province;изображение флага;1;1;from
+Q504238;Loja Province;имеет границы с;1;4;to
+Q504238;Loja Province;глава правительства;1;2;from
+Q504238;Loja Province;изображение герба;1;1;from
+Q504238;Loja Province;десятичная классификация Дьюи;1;1;from
+Q504238;Loja Province;численность населения;1;2;from
+Q499475;Orellana Province;дата основания/создания/возникновения;1;1;from
+Q499475;Orellana Province;часовой пояс;1;1;from
+Q211900;Napo Province;административно делится на;1;1;to
+Q499475;Orellana Province;изображение флага;1;1;from
+Q499456;Sucumbíos Province;место рождения;1;1;to
+Q499456;Sucumbíos Province;происходит из;1;5;to
+Q499456;Sucumbíos Province;состоит из;1;1;to
+Q499456;Sucumbíos Province;является столицей;1;1;to
+Q499456;Sucumbíos Province;общая тема категории;1;1;to
+Q499475;Orellana Province;административно-территориальная единица;1;8;to
+Q499475;Orellana Province;административно делится на;1;1;to
+Q499475;Orellana Province;государство;1;1;from
+Q499475;Orellana Province;карта местонахождения;1;1;from
+Q499475;Orellana Province;это частный случай понятия;1;1;from
+Q499475;Orellana Province;столица;1;1;from
+Q499475;Orellana Province;официальный язык;1;3;from
+Q499475;Orellana Province;имеет границы с;1;4;to
+Q499475;Orellana Province;ID отношения в OpenStreetMap;1;1;from
+Q499475;Orellana Province;глава правительства;1;2;from
+Q499475;Orellana Province;десятичная классификация Дьюи;1;1;from
+Q499475;Orellana Province;численность населения;1;2;from
+Q499475;Orellana Province;должность главы правительства;1;1;from
+Q499475;Orellana Province;официальное название;1;1;from
+Q499475;Orellana Province;этнохороним;1;1;from
+Q499475;Orellana Province;код GeoNames;1;1;from
+Q499475;Orellana Province;высота над уровнем моря;1;1;from
+Q499475;Orellana Province;площадь;1;1;from
+Q499475;Orellana Province;почтовый индекс;1;1;from
+Q499475;Orellana Province;ISO 3166-2;1;1;from
+Q499475;Orellana Province;категория на Викискладе;1;1;from
+Q504238;Loja Province;код в Большой каталанской энциклопедии;1;1;from
+Q504238;Loja Province;должность главы правительства;1;1;from
+Q504238;Loja Province;официальное название;1;1;from
+Q504252;Tungurahua Province;высота над уровнем моря;1;1;from
+Q504252;Tungurahua Province;столица;1;1;from
+Q504252;Tungurahua Province;официальный язык;1;2;from
+Q504252;Tungurahua Province;изображение флага;1;1;from
+Q504252;Tungurahua Province;имеет границы с;1;6;to
+Q504252;Tungurahua Province;изображение герба;1;1;from
+Q504252;Tungurahua Province;десятичная классификация Дьюи;1;1;from
+Q504252;Tungurahua Province;численность населения;1;2;from
+Q504252;Tungurahua Province;код в Большой каталанской энциклопедии;1;1;from
+Q504252;Tungurahua Province;должность главы правительства;1;1;from
+Q504252;Tungurahua Province;официальное название;1;1;from
+Q504252;Tungurahua Province;этнохороним;1;1;from
+Q504252;Tungurahua Province;код GeoNames;1;1;from
+Q504252;Tungurahua Province;площадь;1;1;from
+Q504238;Loja Province;этнохороним;1;1;from
+Q504252;Tungurahua Province;код BNF;1;1;from
+Q504252;Tungurahua Province;почтовый индекс;1;1;from
+Q504252;Tungurahua Province;используемый язык;1;3;from
+Q504252;Tungurahua Province;ISO 3166-2;1;1;from
+Q504252;Tungurahua Province;категория на Викискладе;1;1;from
+Q504252;Tungurahua Province;ID отношения в OpenStreetMap;1;1;from
+Q504252;Tungurahua Province;часовой пояс;1;1;from
+Q504252;Tungurahua Province;местный телефонный код;1;1;from
+Q504252;Tungurahua Province;дата основания/создания/возникновения;1;1;from
+Q504252;Tungurahua Province;географические координаты;1;1;from
+Q504252;Tungurahua Province;код Freebase;1;1;from
+Q504252;Tungurahua Province;Who's on First ID;1;1;from
+Q504252;Tungurahua Province;это частный случай понятия;1;1;from
+Q504252;Tungurahua Province;карта местонахождения;1;1;from
+Q504252;Tungurahua Province;описание герба;1;1;from
+Q504252;Tungurahua Province;государство;1;1;from
+Q504238;Loja Province;код GeoNames;1;1;from
+Q504238;Loja Province;категория для людей, связанных с местностью;1;1;from
+Q504238;Loja Province;площадь;1;1;from
+Q504238;Loja Province;почтовый индекс;1;1;from
+Q504238;Loja Province;ISO 3166-2;1;1;from
+Q504238;Loja Province;категория на Викискладе;1;1;from
+Q504238;Loja Province;ID отношения в OpenStreetMap;1;1;from
+Q504238;Loja Province;часовой пояс;1;1;from
+Q504238;Loja Province;местный телефонный код;1;1;from
+Q504238;Loja Province;дата основания/создания/возникновения;1;1;from
+Q504238;Loja Province;географические координаты;1;1;from
+Q504238;Loja Province;код Freebase;1;1;from
+Q504238;Loja Province;Who's on First ID;1;1;from
+Q504238;Loja Province;официальный сайт;1;1;from
+Q504238;Loja Province;FIPS 10-4 (страны и регионы);1;1;from
+Q504238;Loja Province;основная категория по теме;1;1;from
+Q504238;Loja Province;место рождения;1;3;to
+Q504238;Loja Province;место смерти;1;1;to
+Q504238;Loja Province;происходит из;1;1;to
+Q504238;Loja Province;местонахождение;1;1;to
+Q504238;Loja Province;категория объединяет темы;1;1;to
+Q504238;Loja Province;общая тема категории;1;1;to
+Q504238;Loja Province;является столицей;1;1;to
+Q504252;Tungurahua Province;административно-территориальная единица;1;119;to
+Q504252;Tungurahua Province;описание флага;1;1;from
+Q499456;Sucumbíos Province;основная категория по теме;1;1;from
+Q499456;Sucumbíos Province;FIPS 10-4 (страны и регионы);1;1;from
+Q499456;Sucumbíos Province;официальный сайт;1;1;from
+Q466019;El Oro Province;местный телефонный код;1;1;from
+Q466019;El Oro Province;официальное название;1;1;from
+Q466019;El Oro Province;этнохороним;1;1;from
+Q466019;El Oro Province;код GeoNames;1;1;from
+Q466019;El Oro Province;высота над уровнем моря;1;1;from
+Q466019;El Oro Province;площадь;1;1;from
+Q466019;El Oro Province;код BNF;1;1;from
+Q466019;El Oro Province;почтовый индекс;1;1;from
+Q466019;El Oro Province;используемый язык;1;1;from
+Q466019;El Oro Province;ISO 3166-2;1;1;from
+Q466019;El Oro Province;категория на Викискладе;1;1;from
+Q466019;El Oro Province;ID отношения в OpenStreetMap;1;1;from
+Q466019;El Oro Province;часовой пояс;1;1;from
+Q466019;El Oro Province;дата основания/создания/возникновения;1;1;from
+Q475038;Galápagos Province;государство;1;1;from
+Q466019;El Oro Province;географические координаты;1;1;from
+Q466019;El Oro Province;код Freebase;1;1;from
+Q466019;El Oro Province;Who's on First ID;1;1;from
+Q466019;El Oro Province;официальный сайт;1;1;from
+Q466019;El Oro Province;FIPS 10-4 (страны и регионы);1;1;from
+Q466019;El Oro Province;основная категория по теме;1;1;from
+Q466019;El Oro Province;место рождения;1;3;to
+Q466019;El Oro Province;является столицей;1;1;to
+Q466019;El Oro Province;происходит из;1;1;to
+Q466019;El Oro Province;владельцем является;1;1;to
+Q466019;El Oro Province;общая тема категории;1;2;to
+Q475038;Galápagos Province;административно-территориальная единица;1;126;to
+Q466019;El Oro Province;должность главы правительства;1;1;from
+Q466019;El Oro Province;численность населения;1;2;from
+Q466019;El Oro Province;десятичная классификация Дьюи;1;1;from
+Q466019;El Oro Province;изображение герба;1;1;from
+Q335526;Esmeraldas;официальный сайт;1;1;from
+Q335526;Esmeraldas;FIPS 10-4 (страны и регионы);1;1;from
+Q335526;Esmeraldas;основная категория по теме;1;1;from
+Q335526;Esmeraldas;место в MusicBrainz;1;1;from
+Q335526;Esmeraldas;категория объединяет темы;1;2;to
+Q335526;Esmeraldas;является столицей;1;1;to
+Q335526;Esmeraldas;место рождения;1;9;to
+Q335526;Esmeraldas;юрисдикция распространяется на;1;1;to
+Q335526;Esmeraldas;происходит из;1;3;to
+Q335526;Esmeraldas;место жительства;1;1;to
+Q335526;Esmeraldas;местонахождение;1;1;to
+Q335526;Esmeraldas;история происходит в месте;1;1;to
+Q335526;Esmeraldas;состоит из;1;1;to
+Q335526;Esmeraldas;место изготовления;1;1;to
+Q335526;Esmeraldas;место смерти;1;2;to
+Q335526;Esmeraldas;общая тема категории;1;1;to
+Q466019;El Oro Province;административно-территориальная единица;1;205;to
+Q466019;El Oro Province;административно делится на;1;1;to
+Q466019;El Oro Province;государство;1;1;from
+Q466019;El Oro Province;карта местонахождения;1;1;from
+Q466019;El Oro Province;это частный случай понятия;1;1;from
+Q466019;El Oro Province;столица;1;1;from
+Q466019;El Oro Province;официальный язык;1;1;from
+Q466019;El Oro Province;изображение флага;1;1;from
+Q466019;El Oro Province;имеет границы с;1;4;to
+Q475038;Galápagos Province;административно делится на;1;1;to
+Q475038;Galápagos Province;карта местонахождения;1;1;from
+Q499456;Sucumbíos Province;Who's on First ID;1;1;from
+Q499456;Sucumbíos Province;официальное название;1;1;from
+Q499456;Sucumbíos Province;административно-территориальная единица;1;100;to
+Q499456;Sucumbíos Province;административно делится на;1;1;to
+Q499456;Sucumbíos Province;государство;1;1;from
+Q499456;Sucumbíos Province;карта местонахождения;1;1;from
+Q499456;Sucumbíos Province;это частный случай понятия;1;1;from
+Q499456;Sucumbíos Province;столица;1;1;from
+Q499456;Sucumbíos Province;официальный язык;1;5;from
+Q499456;Sucumbíos Province;изображение флага;1;1;from
+Q499456;Sucumbíos Province;имеет границы с;1;8;to
+Q499456;Sucumbíos Province;десятичная классификация Дьюи;1;1;from
+Q499456;Sucumbíos Province;численность населения;1;2;from
+Q499456;Sucumbíos Province;должность главы правительства;1;1;from
+Q499456;Sucumbíos Province;этнохороним;1;1;from
+Q475038;Galápagos Province;это частный случай понятия;1;2;from
+Q499456;Sucumbíos Province;код GeoNames;1;1;from
+Q499456;Sucumbíos Province;высота над уровнем моря;1;1;from
+Q499456;Sucumbíos Province;площадь;1;1;from
+Q499456;Sucumbíos Province;почтовый индекс;1;1;from
+Q499456;Sucumbíos Province;ISO 3166-2;1;1;from
+Q499456;Sucumbíos Province;категория на Викискладе;1;1;from
+Q499456;Sucumbíos Province;ID отношения в OpenStreetMap;1;1;from
+Q499456;Sucumbíos Province;часовой пояс;1;1;from
+Q499456;Sucumbíos Province;местный телефонный код;1;1;from
+Q499456;Sucumbíos Province;дата основания/создания/возникновения;1;1;from
+Q499456;Sucumbíos Province;географические координаты;1;1;from
+Q499456;Sucumbíos Province;код Freebase;1;1;from
+Q475038;Galápagos Province;общая тема категории;1;1;to
+Q475038;Galápagos Province;является столицей;1;1;to
+Q475038;Galápagos Province;изображённый объект;1;1;to
+Q475038;Galápagos Province;основная категория по теме;1;1;from
+Q475038;Galápagos Province;столица;1;1;from
+Q475038;Galápagos Province;официальный язык;1;1;from
+Q475038;Galápagos Province;изображение флага;1;1;from
+Q475038;Galápagos Province;глава правительства;1;1;from
+Q475038;Galápagos Province;десятичная классификация Дьюи;1;1;from
+Q475038;Galápagos Province;численность населения;1;2;from
+Q475038;Galápagos Province;официальное название;1;1;from
+Q475038;Galápagos Province;этнохороним;1;1;from
+Q475038;Galápagos Province;код GeoNames;1;1;from
+Q475038;Galápagos Province;высота над уровнем моря;1;1;from
+Q475038;Galápagos Province;площадь;1;1;from
+Q475038;Galápagos Province;код BabelNet;1;1;from
+Q475038;Galápagos Province;код BNF;1;1;from
+Q475038;Galápagos Province;почтовый индекс;1;1;from
+Q475038;Galápagos Province;ISO 3166-2;1;1;from
+Q475038;Galápagos Province;категория на Викискладе;1;1;from
+Q475038;Galápagos Province;ID отношения в OpenStreetMap;1;1;from
+Q475038;Galápagos Province;часовой пояс;1;1;from
+Q475038;Galápagos Province;местный телефонный код;1;1;from
+Q475038;Galápagos Province;дата основания/создания/возникновения;1;1;from
+Q475038;Galápagos Province;географические координаты;1;1;from
+Q475038;Galápagos Province;код Freebase;1;1;from
+Q475038;Galápagos Province;Who's on First ID;1;1;from
+Q475038;Galápagos Province;официальный сайт;1;1;from
+Q475038;Galápagos Province;FIPS 10-4 (страны и регионы);1;1;from
+Q504252;Tungurahua Province;официальный сайт;1;1;from
+Q504252;Tungurahua Province;FIPS 10-4 (страны и регионы);1;1;from
+Q504252;Tungurahua Province;основная категория по теме;1;1;from
+Q744670;Zamora-Chinchipe Province;происходит из;1;1;to
+Q744670;Zamora-Chinchipe Province;категория на Викискладе;1;1;from
+Q744670;Zamora-Chinchipe Province;ID отношения в OpenStreetMap;1;1;from
+Q744670;Zamora-Chinchipe Province;часовой пояс;1;1;from
+Q744670;Zamora-Chinchipe Province;местный телефонный код;1;1;from
+Q744670;Zamora-Chinchipe Province;дата основания/создания/возникновения;1;1;from
+Q744670;Zamora-Chinchipe Province;географические координаты;1;1;from
+Q744670;Zamora-Chinchipe Province;код Freebase;1;1;from
+Q744670;Zamora-Chinchipe Province;Who's on First ID;1;1;from
+Q744670;Zamora-Chinchipe Province;официальный сайт;1;1;from
+Q744670;Zamora-Chinchipe Province;FIPS 10-4 (страны и регионы);1;1;from
+Q744670;Zamora-Chinchipe Province;основная категория по теме;1;1;from
+Q744670;Zamora-Chinchipe Province;является столицей;1;1;to
+Q744670;Zamora-Chinchipe Province;место рождения;1;1;to
+Q1123208;Santo Domingo de los Tsáchilas Province;численность населения;1;2;from
+Q744670;Zamora-Chinchipe Province;общая тема категории;1;1;to
+Q1123208;Santo Domingo de los Tsáchilas Province;административно-территориальная единица;1;4;to
+Q1123208;Santo Domingo de los Tsáchilas Province;административно делится на;1;1;to
+Q1123208;Santo Domingo de los Tsáchilas Province;государство;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;карта местонахождения;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;это частный случай понятия;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;столица;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;официальный язык;1;2;from
+Q1123208;Santo Domingo de los Tsáchilas Province;изображение флага;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;имеет границы с;1;5;to
+Q1123208;Santo Domingo de los Tsáchilas Province;глава правительства;1;2;from
+Q1123208;Santo Domingo de los Tsáchilas Province;изображение герба;1;1;from
+Q744670;Zamora-Chinchipe Province;ISO 3166-2;1;1;from
+Q744670;Zamora-Chinchipe Province;почтовый индекс;1;1;from
+Q744670;Zamora-Chinchipe Province;код BNF;1;1;from
+Q744670;Zamora-Chinchipe Province;площадь;1;1;from
+Q549522;Morona-Santiago Province;место в MusicBrainz;1;1;from
+Q549522;Morona-Santiago Province;является столицей;1;1;to
+Q549522;Morona-Santiago Province;происходит из;1;3;to
+Q549522;Morona-Santiago Province;место рождения;1;1;to
+Q549522;Morona-Santiago Province;общая тема категории;1;1;to
+Q744670;Zamora-Chinchipe Province;административно-территориальная единица;1;241;to
+Q744670;Zamora-Chinchipe Province;административно делится на;1;1;to
+Q744670;Zamora-Chinchipe Province;государство;1;1;from
+Q744670;Zamora-Chinchipe Province;код GND;1;1;from
+Q744670;Zamora-Chinchipe Province;карта местонахождения;1;1;from
+Q744670;Zamora-Chinchipe Province;это частный случай понятия;1;1;from
+Q744670;Zamora-Chinchipe Province;столица;1;1;from
+Q744670;Zamora-Chinchipe Province;официальный язык;1;2;from
+Q744670;Zamora-Chinchipe Province;изображение флага;1;1;from
+Q744670;Zamora-Chinchipe Province;имеет границы с;1;3;to
+Q744670;Zamora-Chinchipe Province;глава правительства;1;2;from
+Q744670;Zamora-Chinchipe Province;десятичная классификация Дьюи;1;1;from
+Q744670;Zamora-Chinchipe Province;численность населения;1;2;from
+Q744670;Zamora-Chinchipe Province;код в Большой каталанской энциклопедии;1;1;from
+Q744670;Zamora-Chinchipe Province;должность главы правительства;1;1;from
+Q744670;Zamora-Chinchipe Province;официальное название;1;1;from
+Q744670;Zamora-Chinchipe Province;этнохороним;1;1;from
+Q744670;Zamora-Chinchipe Province;код GeoNames;1;1;from
+Q744670;Zamora-Chinchipe Province;код TGN;1;1;from
+Q744670;Zamora-Chinchipe Province;высота над уровнем моря;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;десятичная классификация Дьюи;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;должность главы правительства;1;1;from
+Q549522;Morona-Santiago Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1124125;Santa Elena Province;почтовый индекс;1;1;from
+Q1124125;Santa Elena Province;официальный язык;1;1;from
+Q1124125;Santa Elena Province;изображение флага;1;1;from
+Q1124125;Santa Elena Province;имеет границы с;1;2;to
+Q1124125;Santa Elena Province;изображение герба;1;1;from
+Q1124125;Santa Elena Province;десятичная классификация Дьюи;1;1;from
+Q1124125;Santa Elena Province;численность населения;1;2;from
+Q1124125;Santa Elena Province;должность главы правительства;1;1;from
+Q1124125;Santa Elena Province;официальное название;1;1;from
+Q1124125;Santa Elena Province;этнохороним;1;1;from
+Q1124125;Santa Elena Province;код GeoNames;1;1;from
+Q1124125;Santa Elena Province;высота над уровнем моря;1;1;from
+Q1124125;Santa Elena Province;площадь;1;1;from
+Q1124125;Santa Elena Province;ISO 3166-2;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;официальное название;1;1;from
+Q1124125;Santa Elena Province;категория на Викискладе;1;1;from
+Q1124125;Santa Elena Province;ID отношения в OpenStreetMap;1;1;from
+Q1124125;Santa Elena Province;часовой пояс;1;1;from
+Q1124125;Santa Elena Province;местный телефонный код;1;1;from
+Q1124125;Santa Elena Province;дата основания/создания/возникновения;1;1;from
+Q1124125;Santa Elena Province;географические координаты;1;1;from
+Q1124125;Santa Elena Province;код Freebase;1;1;from
+Q1124125;Santa Elena Province;Who's on First ID;1;1;from
+Q1124125;Santa Elena Province;официальный сайт;1;1;from
+Q1124125;Santa Elena Province;основная категория по теме;1;1;from
+Q1124125;Santa Elena Province;место в MusicBrainz;1;1;from
+Q1124125;Santa Elena Province;является столицей;1;1;to
+Q1124125;Santa Elena Province;столица;1;1;from
+Q1124125;Santa Elena Province;это частный случай понятия;1;1;from
+Q1124125;Santa Elena Province;карта местонахождения;1;1;from
+Q1124125;Santa Elena Province;государство;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;категория для людей, родившихся здесь;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;этнохороним;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;код GeoNames;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;категория для людей, связанных с местностью;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;высота над уровнем моря;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;площадь;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;почтовый индекс;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;ISO 3166-2;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;категория на Викискладе;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;ID отношения в OpenStreetMap;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;часовой пояс;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;местный телефонный код;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;дата основания/создания/возникновения;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;географические координаты;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;код Freebase;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;Who's on First ID;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;официальный сайт;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;основная категория по теме;1;1;from
+Q1123208;Santo Domingo de los Tsáchilas Province;является столицей;1;1;to
+Q1123208;Santo Domingo de los Tsáchilas Province;происходит из;1;1;to
+Q1123208;Santo Domingo de los Tsáchilas Province;категория объединяет темы;1;2;to
+Q1123208;Santo Domingo de los Tsáchilas Province;место рождения;1;1;to
+Q1123208;Santo Domingo de los Tsáchilas Province;общая тема категории;1;1;to
+Q1124125;Santa Elena Province;административно-территориальная единица;1;20;to
+Q1124125;Santa Elena Province;административно делится на;1;1;to
+Q549522;Morona-Santiago Province;основная категория по теме;1;1;from
+Q549522;Morona-Santiago Province;официальный сайт;1;1;from
+Q504252;Tungurahua Province;галерея на Викискладе;1;1;from
+Q504260;Los Ríos Province;место рождения;1;7;to
+Q504260;Los Ríos Province;категория на Викискладе;1;1;from
+Q504260;Los Ríos Province;ID отношения в OpenStreetMap;1;1;from
+Q504260;Los Ríos Province;часовой пояс;1;1;from
+Q504260;Los Ríos Province;местный телефонный код;1;1;from
+Q504260;Los Ríos Province;дата основания/создания/возникновения;1;1;from
+Q504260;Los Ríos Province;географические координаты;1;1;from
+Q504260;Los Ríos Province;код Freebase;1;1;from
+Q504260;Los Ríos Province;Who's on First ID;1;1;from
+Q504260;Los Ríos Province;официальный сайт;1;1;from
+Q504260;Los Ríos Province;FIPS 10-4 (страны и регионы);1;1;from
+Q504260;Los Ríos Province;основная категория по теме;1;1;from
+Q504260;Los Ríos Province;происходит из;1;1;to
+Q504260;Los Ríos Province;является столицей;1;1;to
+Q504666;Manabí Province;десятичная классификация Дьюи;1;1;from
+Q504260;Los Ríos Province;общая тема категории;1;1;to
+Q504666;Manabí Province;административно-территориальная единица;1;264;to
+Q504666;Manabí Province;административно делится на;1;1;to
+Q504666;Manabí Province;описание флага;1;1;from
+Q504666;Manabí Province;государство;1;1;from
+Q504666;Manabí Province;описание герба;1;1;from
+Q504666;Manabí Province;карта местонахождения;1;1;from
+Q504666;Manabí Province;это частный случай понятия;1;1;from
+Q504666;Manabí Province;столица;1;1;from
+Q504666;Manabí Province;официальный язык;1;1;from
+Q504666;Manabí Province;изображение флага;1;1;from
+Q504666;Manabí Province;имеет границы с;1;5;to
+Q504260;Los Ríos Province;код темы Quora;1;1;from
+Q504260;Los Ríos Province;ISO 3166-2;1;1;from
+Q504260;Los Ríos Province;почтовый индекс;1;1;from
+Q504260;Los Ríos Province;площадь;1;1;from
+Q504252;Tungurahua Province;происходит из;1;3;to
+Q504252;Tungurahua Province;является столицей;1;1;to
+Q504252;Tungurahua Province;категория объединяет темы;1;1;to
+Q504252;Tungurahua Province;место рождения;1;1;to
+Q504252;Tungurahua Province;общая тема категории;1;1;to
+Q504252;Tungurahua Province;административно делится на;1;1;to
+Q504260;Los Ríos Province;административно-территориальная единица;1;61;to
+Q504260;Los Ríos Province;административно делится на;1;1;to
+Q504260;Los Ríos Province;государство;1;1;from
+Q504260;Los Ríos Province;код GND;1;1;from
+Q504260;Los Ríos Province;карта местонахождения;1;1;from
+Q504260;Los Ríos Province;это частный случай понятия;1;1;from
+Q504260;Los Ríos Province;столица;1;1;from
+Q504260;Los Ríos Province;официальный язык;1;1;from
+Q504260;Los Ríos Province;изображение флага;1;1;from
+Q504260;Los Ríos Province;имеет границы с;1;5;to
+Q504260;Los Ríos Province;глава правительства;1;2;from
+Q504260;Los Ríos Province;десятичная классификация Дьюи;1;1;from
+Q504260;Los Ríos Province;численность населения;1;2;from
+Q504260;Los Ríos Province;код в Большой каталанской энциклопедии;1;1;from
+Q504260;Los Ríos Province;должность главы правительства;1;1;from
+Q504260;Los Ríos Province;официальное название;1;1;from
+Q504260;Los Ríos Province;этнохороним;1;2;from
+Q504260;Los Ríos Province;код GeoNames;1;1;from
+Q504260;Los Ríos Province;высота над уровнем моря;1;1;from
+Q504666;Manabí Province;изображение герба;1;1;from
+Q504666;Manabí Province;численность населения;1;2;from
+Q549522;Morona-Santiago Province;Who's on First ID;1;1;from
+Q549522;Morona-Santiago Province;код GeoNames;1;1;from
+Q549522;Morona-Santiago Province;карта местонахождения;1;1;from
+Q549522;Morona-Santiago Province;это частный случай понятия;1;1;from
+Q549522;Morona-Santiago Province;столица;1;1;from
+Q549522;Morona-Santiago Province;официальный язык;1;3;from
+Q549522;Morona-Santiago Province;изображение флага;1;1;from
+Q549522;Morona-Santiago Province;имеет границы с;1;7;to
+Q549522;Morona-Santiago Province;десятичная классификация Дьюи;1;1;from
+Q549522;Morona-Santiago Province;численность населения;1;2;from
+Q549522;Morona-Santiago Province;код в Большой каталанской энциклопедии;1;1;from
+Q549522;Morona-Santiago Province;должность главы правительства;1;1;from
+Q549522;Morona-Santiago Province;официальное название;1;1;from
+Q549522;Morona-Santiago Province;этнохороним;1;1;from
+Q549522;Morona-Santiago Province;код TGN;1;1;from
+Q504666;Manabí Province;код в Большой каталанской энциклопедии;1;1;from
+Q549522;Morona-Santiago Province;высота над уровнем моря;1;1;from
+Q549522;Morona-Santiago Province;площадь;1;1;from
+Q549522;Morona-Santiago Province;код BabelNet;1;1;from
+Q549522;Morona-Santiago Province;почтовый индекс;1;1;from
+Q549522;Morona-Santiago Province;ISO 3166-2;1;1;from
+Q549522;Morona-Santiago Province;категория на Викискладе;1;1;from
+Q549522;Morona-Santiago Province;ID отношения в OpenStreetMap;1;1;from
+Q549522;Morona-Santiago Province;часовой пояс;1;1;from
+Q549522;Morona-Santiago Province;местный телефонный код;1;1;from
+Q549522;Morona-Santiago Province;дата основания/создания/возникновения;1;1;from
+Q549522;Morona-Santiago Province;географические координаты;1;1;from
+Q549522;Morona-Santiago Province;код Freebase;1;1;from
+Q549522;Morona-Santiago Province;государство;1;1;from
+Q549522;Morona-Santiago Province;административно делится на;1;1;to
+Q549522;Morona-Santiago Province;административно-территориальная единица;1;199;to
+Q504666;Manabí Province;является столицей;1;1;to
+Q504666;Manabí Province;должность главы правительства;1;1;from
+Q504666;Manabí Province;официальное название;1;1;from
+Q504666;Manabí Province;этнохороним;1;1;from
+Q504666;Manabí Province;код GeoNames;1;1;from
+Q504666;Manabí Province;категория для людей, связанных с местностью;1;1;from
+Q504666;Manabí Province;высота над уровнем моря;1;1;from
+Q504666;Manabí Province;площадь;1;1;from
+Q504666;Manabí Province;код BNF;1;1;from
+Q504666;Manabí Province;почтовый индекс;1;1;from
+Q504666;Manabí Province;ISO 3166-2;1;1;from
+Q504666;Manabí Province;категория на Викискладе;1;1;from
+Q504666;Manabí Province;ID отношения в OpenStreetMap;1;1;from
+Q504666;Manabí Province;часовой пояс;1;1;from
+Q504666;Manabí Province;местный телефонный код;1;1;from
+Q504666;Manabí Province;дата основания/создания/возникновения;1;1;from
+Q504666;Manabí Province;географические координаты;1;1;from
+Q504666;Manabí Province;код Freebase;1;1;from
+Q504666;Manabí Province;Who's on First ID;1;1;from
+Q504666;Manabí Province;официальный сайт;1;1;from
+Q504666;Manabí Province;FIPS 10-4 (страны и регионы);1;1;from
+Q504666;Manabí Province;основная категория по теме;1;1;from
+Q504666;Manabí Province;место рождения;1;8;to
+Q504666;Manabí Province;названо в честь;1;1;to
+Q504666;Manabí Province;общая тема категории;1;1;to
+Q504666;Manabí Province;категория объединяет темы;1;1;to
+Q335526;Esmeraldas;Who's on First ID;1;1;from
+Q335526;Esmeraldas;код Freebase;1;1;from
+Q335526;Esmeraldas;географические координаты;1;1;from
+Q241140;Cotopaxi Province;официальный язык;1;2;from
+Q238492;Chimborazo Province;является столицей;1;1;to
+Q238492;Chimborazo Province;место смерти;1;1;to
+Q238492;Chimborazo Province;находится в границах современной административной единицы;1;1;to
+Q238492;Chimborazo Province;общая тема категории;1;1;to
+Q241140;Cotopaxi Province;административно-территориальная единица;1;402;to
+Q241140;Cotopaxi Province;административно делится на;1;1;to
+Q241140;Cotopaxi Province;описание флага;1;1;from
+Q241140;Cotopaxi Province;государство;1;1;from
+Q241140;Cotopaxi Province;описание герба;1;1;from
+Q241140;Cotopaxi Province;карта местонахождения;1;1;from
+Q241140;Cotopaxi Province;это частный случай понятия;1;1;from
+Q241140;Cotopaxi Province;столица;1;1;from
+Q241140;Cotopaxi Province;изображение флага;1;1;from
+Q241140;Cotopaxi Province;почтовый индекс;1;1;from
+Q241140;Cotopaxi Province;имеет границы с;1;6;to
+Q241140;Cotopaxi Province;глава правительства;1;2;from
+Q241140;Cotopaxi Province;изображение герба;1;1;from
+Q241140;Cotopaxi Province;десятичная классификация Дьюи;1;1;from
+Q241140;Cotopaxi Province;численность населения;1;2;from
+Q241140;Cotopaxi Province;код в Большой каталанской энциклопедии;1;1;from
+Q241140;Cotopaxi Province;должность главы правительства;1;1;from
+Q241140;Cotopaxi Province;официальное название;1;1;from
+Q241140;Cotopaxi Province;этнохороним;1;1;from
+Q241140;Cotopaxi Province;код GeoNames;1;1;from
+Q241140;Cotopaxi Province;высота над уровнем моря;1;1;from
+Q241140;Cotopaxi Province;площадь;1;1;from
+Q238492;Chimborazo Province;место рождения;1;4;to
+Q238492;Chimborazo Province;происходит из;1;3;to
+Q238492;Chimborazo Province;основная категория по теме;1;1;from
+Q238492;Chimborazo Province;FIPS 10-4 (страны и регионы);1;1;from
+Q238492;Chimborazo Province;официальный язык;1;2;from
+Q238492;Chimborazo Province;изображение флага;1;1;from
+Q238492;Chimborazo Province;имеет границы с;1;5;to
+Q238492;Chimborazo Province;изображение герба;1;1;from
+Q238492;Chimborazo Province;десятичная классификация Дьюи;1;1;from
+Q238492;Chimborazo Province;численность населения;1;2;from
+Q238492;Chimborazo Province;код в Большой каталанской энциклопедии;1;1;from
+Q238492;Chimborazo Province;должность главы правительства;1;1;from
+Q238492;Chimborazo Province;официальное название;1;1;from
+Q238492;Chimborazo Province;этнохороним;1;1;from
+Q238492;Chimborazo Province;код GeoNames;1;1;from
+Q238492;Chimborazo Province;высота над уровнем моря;1;1;from
+Q238492;Chimborazo Province;площадь;1;1;from
+Q238492;Chimborazo Province;код BNF;1;1;from
+Q238492;Chimborazo Province;почтовый индекс;1;1;from
+Q238492;Chimborazo Province;ISO 3166-2;1;1;from
+Q238492;Chimborazo Province;категория на Викискладе;1;1;from
+Q238492;Chimborazo Province;ID отношения в OpenStreetMap;1;1;from
+Q238492;Chimborazo Province;часовой пояс;1;1;from
+Q238492;Chimborazo Province;местный телефонный код;1;1;from
+Q238492;Chimborazo Province;дата основания/создания/возникновения;1;1;from
+Q238492;Chimborazo Province;географические координаты;1;1;from
+Q238492;Chimborazo Province;код Freebase;1;1;from
+Q238492;Chimborazo Province;Who's on First ID;1;1;from
+Q238492;Chimborazo Province;официальный сайт;1;1;from
+Q241140;Cotopaxi Province;код BNF;1;1;from
+Q241140;Cotopaxi Province;ISO 3166-2;1;1;from
+Q238492;Chimborazo Province;это частный случай понятия;1;1;from
+Q261165;Bolívar Province;официальный сайт;1;1;from
+Q261165;Bolívar Province;высота над уровнем моря;1;1;from
+Q261165;Bolívar Province;площадь;1;1;from
+Q261165;Bolívar Province;почтовый индекс;1;1;from
+Q261165;Bolívar Province;ISO 3166-2;1;1;from
+Q261165;Bolívar Province;категория на Викискладе;1;1;from
+Q261165;Bolívar Province;ID отношения в OpenStreetMap;1;1;from
+Q261165;Bolívar Province;часовой пояс;1;1;from
+Q261165;Bolívar Province;местный телефонный код;1;1;from
+Q261165;Bolívar Province;дата основания/создания/возникновения;1;1;from
+Q261165;Bolívar Province;географические координаты;1;1;from
+Q261165;Bolívar Province;код Freebase;1;1;from
+Q261165;Bolívar Province;Who's on First ID;1;1;from
+Q261165;Bolívar Province;FIPS 10-4 (страны и регионы);1;1;from
+Q241140;Cotopaxi Province;категория на Викискладе;1;1;from
+Q261165;Bolívar Province;основная категория по теме;1;1;from
+Q261165;Bolívar Province;является столицей;1;1;to
+Q261165;Bolívar Province;происходит из;1;2;to
+Q261165;Bolívar Province;общая тема категории;1;1;to
+Q272586;Pichincha Province;административно-территориальная единица;1;1032;to
+Q272586;Pichincha Province;административно делится на;1;1;to
+Q272586;Pichincha Province;государство;1;1;from
+Q272586;Pichincha Province;карта местонахождения;1;1;from
+Q272586;Pichincha Province;это частный случай понятия;1;1;from
+Q272586;Pichincha Province;столица;1;1;from
+Q272586;Pichincha Province;официальный язык;1;2;from
+Q272586;Pichincha Province;изображение флага;1;1;from
+Q261165;Bolívar Province;код GeoNames;1;1;from
+Q261165;Bolívar Province;этнохороним;1;1;from
+Q261165;Bolívar Province;официальное название;1;1;from
+Q261165;Bolívar Province;должность главы правительства;1;1;from
+Q241140;Cotopaxi Province;ID отношения в OpenStreetMap;1;1;from
+Q241140;Cotopaxi Province;часовой пояс;1;1;from
+Q241140;Cotopaxi Province;местный телефонный код;1;1;from
+Q241140;Cotopaxi Province;дата основания/создания/возникновения;1;1;from
+Q241140;Cotopaxi Province;географические координаты;1;1;from
+Q241140;Cotopaxi Province;код Freebase;1;1;from
+Q241140;Cotopaxi Province;Who's on First ID;1;1;from
+Q241140;Cotopaxi Province;официальный сайт;1;1;from
+Q241140;Cotopaxi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q241140;Cotopaxi Province;основная категория по теме;1;1;from
+Q241140;Cotopaxi Province;происходит из;1;4;to
+Q241140;Cotopaxi Province;является столицей;1;1;to
+Q241140;Cotopaxi Province;общая тема категории;1;1;to
+Q261165;Bolívar Province;административно-территориальная единица;1;24;to
+Q261165;Bolívar Province;административно делится на;1;1;to
+Q261165;Bolívar Province;государство;1;1;from
+Q261165;Bolívar Province;карта местонахождения;1;1;from
+Q261165;Bolívar Province;это частный случай понятия;1;1;from
+Q261165;Bolívar Province;столица;1;1;from
+Q261165;Bolívar Province;официальный язык;1;2;from
+Q261165;Bolívar Province;изображение флага;1;1;from
+Q261165;Bolívar Province;имеет границы с;1;5;to
+Q261165;Bolívar Province;десятичная классификация Дьюи;1;1;from
+Q261165;Bolívar Province;численность населения;1;2;from
+Q261165;Bolívar Province;код в Большой каталанской энциклопедии;1;1;from
+Q238492;Chimborazo Province;столица;1;1;from
+Q238492;Chimborazo Province;карта местонахождения;1;1;from
+Q272586;Pichincha Province;глава правительства;1;3;from
+Q214814;Pastaza Province;имеет границы с;1;5;to
+Q211900;Napo Province;категория объединяет темы;1;1;to
+Q211900;Napo Province;происходит из;1;5;to
+Q211900;Napo Province;общая тема категории;1;1;to
+Q211900;Napo Province;является столицей;1;1;to
+Q214814;Pastaza Province;административно-территориальная единица;1;60;to
+Q214814;Pastaza Province;административно делится на;1;1;to
+Q214814;Pastaza Province;государство;1;1;from
+Q214814;Pastaza Province;карта местонахождения;1;1;from
+Q214814;Pastaza Province;это частный случай понятия;1;1;from
+Q214814;Pastaza Province;столица;1;1;from
+Q214814;Pastaza Province;официальный язык;1;7;from
+Q214814;Pastaza Province;изображение флага;1;1;from
+Q214814;Pastaza Province;десятичная классификация Дьюи;1;1;from
+Q214814;Pastaza Province;ID отношения в OpenStreetMap;1;1;from
+Q214814;Pastaza Province;численность населения;1;2;from
+Q214814;Pastaza Province;код в Большой каталанской энциклопедии;1;1;from
+Q214814;Pastaza Province;должность главы правительства;1;1;from
+Q214814;Pastaza Province;официальное название;1;1;from
+Q214814;Pastaza Province;этнохороним;1;1;from
+Q214814;Pastaza Province;код GeoNames;1;1;from
+Q214814;Pastaza Province;позиционная карта;1;1;from
+Q214814;Pastaza Province;площадь;1;1;from
+Q214814;Pastaza Province;код BabelNet;1;1;from
+Q214814;Pastaza Province;почтовый индекс;1;1;from
+Q214814;Pastaza Province;ISO 3166-2;1;1;from
+Q214814;Pastaza Province;код темы Quora;1;1;from
+Q211900;Napo Province;основная категория по теме;1;1;from
+Q211900;Napo Province;FIPS 10-4 (страны и регионы);1;2;from
+Q211900;Napo Province;официальный сайт;1;1;from
+Q211900;Napo Province;Who's on First ID;1;1;from
+Q211900;Napo Province;государство;1;1;from
+Q211900;Napo Province;карта местонахождения;1;1;from
+Q211900;Napo Province;это частный случай понятия;1;1;from
+Q211900;Napo Province;столица;1;1;from
+Q211900;Napo Province;официальный язык;1;3;from
+Q211900;Napo Province;изображение флага;1;1;from
+Q211900;Napo Province;имеет границы с;1;6;to
+Q211900;Napo Province;десятичная классификация Дьюи;1;1;from
+Q211900;Napo Province;численность населения;1;2;from
+Q211900;Napo Province;код в Большой каталанской энциклопедии;1;1;from
+Q211900;Napo Province;должность главы правительства;1;1;from
+Q211900;Napo Province;официальное название;1;1;from
+Q211900;Napo Province;этнохороним;1;1;from
+Q211900;Napo Province;код GeoNames;1;1;from
+Q211900;Napo Province;площадь;1;1;from
+Q211900;Napo Province;почтовый индекс;1;1;from
+Q211900;Napo Province;ISO 3166-2;1;1;from
+Q211900;Napo Province;категория на Викискладе;1;1;from
+Q211900;Napo Province;ID отношения в OpenStreetMap;1;1;from
+Q211900;Napo Province;часовой пояс;1;1;from
+Q211900;Napo Province;местный телефонный код;1;1;from
+Q211900;Napo Province;дата основания/создания/возникновения;1;1;from
+Q211900;Napo Province;наивысшая точка;1;1;from
+Q211900;Napo Province;географические координаты;1;1;from
+Q211900;Napo Province;код Freebase;1;1;from
+Q214814;Pastaza Province;категория на Викискладе;1;1;from
+Q214814;Pastaza Province;часовой пояс;1;1;from
+Q238492;Chimborazo Province;государство;1;1;from
+Q220451;Azuay Province;Who's on First ID;1;1;from
+Q220451;Azuay Province;высота над уровнем моря;1;1;from
+Q220451;Azuay Province;площадь;1;1;from
+Q220451;Azuay Province;код BNF;1;1;from
+Q220451;Azuay Province;почтовый индекс;1;1;from
+Q220451;Azuay Province;ISO 3166-2;1;1;from
+Q220451;Azuay Province;категория на Викискладе;1;1;from
+Q220451;Azuay Province;ID отношения в OpenStreetMap;1;1;from
+Q220451;Azuay Province;часовой пояс;1;1;from
+Q220451;Azuay Province;местный телефонный код;1;1;from
+Q220451;Azuay Province;дата основания/создания/возникновения;1;1;from
+Q220451;Azuay Province;географические координаты;1;1;from
+Q220451;Azuay Province;код Freebase;1;1;from
+Q220451;Azuay Province;официальный сайт;1;1;from
+Q214814;Pastaza Province;местный телефонный код;1;1;from
+Q220451;Azuay Province;FIPS 10-4 (страны и регионы);1;1;from
+Q220451;Azuay Province;основная категория по теме;1;1;from
+Q220451;Azuay Province;место в MusicBrainz;1;1;from
+Q220451;Azuay Province;административно-территориальная единица;1;537;to
+Q220451;Azuay Province;происходит из;1;2;to
+Q220451;Azuay Province;место рождения;1;4;to
+Q220451;Azuay Province;юрисдикция распространяется на;1;2;to
+Q220451;Azuay Province;страна происхождения;1;1;to
+Q220451;Azuay Province;общая тема категории;1;1;to
+Q220451;Azuay Province;является столицей;1;1;to
+Q238492;Chimborazo Province;административно-территориальная единица;1;196;to
+Q238492;Chimborazo Province;административно делится на;1;1;to
+Q220451;Azuay Province;код TGN;1;1;from
+Q220451;Azuay Province;код GeoNames;1;1;from
+Q220451;Azuay Province;этнохороним;1;1;from
+Q220451;Azuay Province;официальное название;1;1;from
+Q214814;Pastaza Province;дата основания/создания/возникновения;1;1;from
+Q214814;Pastaza Province;географические координаты;1;1;from
+Q214814;Pastaza Province;код Freebase;1;1;from
+Q214814;Pastaza Province;Who's on First ID;1;1;from
+Q214814;Pastaza Province;официальный сайт;1;1;from
+Q214814;Pastaza Province;FIPS 10-4 (страны и регионы);1;1;from
+Q214814;Pastaza Province;основная категория по теме;1;1;from
+Q214814;Pastaza Province;происходит из;1;6;to
+Q214814;Pastaza Province;место рождения;1;2;to
+Q214814;Pastaza Province;является столицей;1;1;to
+Q214814;Pastaza Province;общая тема категории;1;1;to
+Q220451;Azuay Province;административно делится на;1;1;to
+Q220451;Azuay Province;государство;1;1;from
+Q220451;Azuay Province;код GND;1;1;from
+Q220451;Azuay Province;карта местонахождения;1;1;from
+Q220451;Azuay Province;это частный случай понятия;1;1;from
+Q220451;Azuay Province;столица;1;1;from
+Q220451;Azuay Province;официальный язык;1;2;from
+Q220451;Azuay Province;изображение флага;1;1;from
+Q220451;Azuay Province;имеет границы с;1;6;to
+Q220451;Azuay Province;глава правительства;1;2;from
+Q220451;Azuay Province;десятичная классификация Дьюи;1;1;from
+Q220451;Azuay Province;численность населения;1;2;from
+Q220451;Azuay Province;код в Большой каталанской энциклопедии;1;1;from
+Q220451;Azuay Province;должность главы правительства;1;1;from
+Q272586;Pichincha Province;имеет границы с;1;6;to
+Q272586;Pichincha Province;изображение герба;1;1;from
+Q335526;Esmeraldas;дата основания/создания/возникновения;1;1;from
+Q335464;Guayas Province;место смерти;1;1;to
+Q335464;Guayas Province;географические координаты;1;1;from
+Q335464;Guayas Province;код Freebase;1;1;from
+Q335464;Guayas Province;Who's on First ID;1;1;from
+Q335464;Guayas Province;официальный сайт;1;1;from
+Q335464;Guayas Province;FIPS 10-4 (страны и регионы);1;1;from
+Q335464;Guayas Province;основная категория по теме;1;1;from
+Q335464;Guayas Province;место в MusicBrainz;1;1;from
+Q335464;Guayas Province;место рождения;1;15;to
+Q335464;Guayas Province;юрисдикция распространяется на;1;3;to
+Q335464;Guayas Province;местонахождение;1;1;to
+Q335464;Guayas Province;категория объединяет темы;1;2;to
+Q335464;Guayas Province;общая тема категории;1;1;to
+Q335464;Guayas Province;является столицей;1;1;to
+Q335471;Cañar Province;десятичная классификация Дьюи;1;1;from
+Q335464;Guayas Province;находится в границах современной административной единицы;1;1;to
+Q335471;Cañar Province;административно-территориальная единица;1;139;to
+Q335471;Cañar Province;административно делится на;1;1;to
+Q335471;Cañar Province;описание флага;1;1;from
+Q335471;Cañar Province;государство;1;1;from
+Q335471;Cañar Province;описание герба;1;1;from
+Q335471;Cañar Province;карта местонахождения;1;1;from
+Q335471;Cañar Province;это частный случай понятия;1;1;from
+Q335471;Cañar Province;столица;1;1;from
+Q335471;Cañar Province;официальный язык;1;2;from
+Q335471;Cañar Province;изображение флага;1;1;from
+Q335471;Cañar Province;имеет границы с;1;4;to
+Q335464;Guayas Province;дата основания/создания/возникновения;1;1;from
+Q335464;Guayas Province;местный телефонный код;1;1;from
+Q335464;Guayas Province;часовой пояс;1;1;from
+Q335464;Guayas Province;ID отношения в OpenStreetMap;1;1;from
+Q335464;Guayas Province;административно делится на;1;1;to
+Q335464;Guayas Province;описание флага;1;1;from
+Q335464;Guayas Province;государство;1;1;from
+Q335464;Guayas Province;карта местонахождения;1;1;from
+Q335464;Guayas Province;это частный случай понятия;1;1;from
+Q335464;Guayas Province;столица;1;1;from
+Q335464;Guayas Province;официальный язык;1;1;from
+Q335464;Guayas Province;изображение флага;1;1;from
+Q335464;Guayas Province;имеет границы с;1;8;to
+Q335464;Guayas Province;глава правительства;1;2;from
+Q335464;Guayas Province;изображение герба;1;1;from
+Q335464;Guayas Province;десятичная классификация Дьюи;1;1;from
+Q335464;Guayas Province;численность населения;1;2;from
+Q335464;Guayas Province;код в Большой каталанской энциклопедии;1;1;from
+Q335464;Guayas Province;должность главы правительства;1;1;from
+Q335464;Guayas Province;официальное название;1;1;from
+Q335464;Guayas Province;категория для людей, родившихся здесь;1;1;from
+Q335464;Guayas Province;этнохороним;1;1;from
+Q335464;Guayas Province;код GeoNames;1;1;from
+Q335464;Guayas Province;категория для людей, связанных с местностью;1;1;from
+Q335464;Guayas Province;высота над уровнем моря;1;1;from
+Q335464;Guayas Province;площадь;1;1;from
+Q335464;Guayas Province;почтовый индекс;1;1;from
+Q335464;Guayas Province;ISO 3166-2;1;1;from
+Q335464;Guayas Province;категория на Викискладе;1;1;from
+Q335471;Cañar Province;изображение герба;1;1;from
+Q335471;Cañar Province;численность населения;1;2;from
+Q321863;Imbabura Province;является столицей;1;1;to
+Q335526;Esmeraldas;официальное название;1;1;from
+Q335526;Esmeraldas;государство;1;1;from
+Q335526;Esmeraldas;карта местонахождения;1;1;from
+Q335526;Esmeraldas;это частный случай понятия;1;1;from
+Q335526;Esmeraldas;столица;1;1;from
+Q335526;Esmeraldas;официальный язык;1;4;from
+Q335526;Esmeraldas;изображение флага;1;1;from
+Q335526;Esmeraldas;имеет границы с;1;6;to
+Q335526;Esmeraldas;изображение герба;1;1;from
+Q335526;Esmeraldas;десятичная классификация Дьюи;1;1;from
+Q335526;Esmeraldas;численность населения;1;2;from
+Q335526;Esmeraldas;код в Большой каталанской энциклопедии;1;1;from
+Q335526;Esmeraldas;должность главы правительства;1;1;from
+Q335526;Esmeraldas;категория для людей, родившихся здесь;1;1;from
+Q335471;Cañar Province;код в Большой каталанской энциклопедии;1;1;from
+Q335526;Esmeraldas;этнохороним;1;1;from
+Q335526;Esmeraldas;код GeoNames;1;1;from
+Q335526;Esmeraldas;категория для людей, связанных с местностью;1;1;from
+Q335526;Esmeraldas;высота над уровнем моря;1;1;from
+Q335526;Esmeraldas;площадь;1;1;from
+Q335526;Esmeraldas;код BNF;1;1;from
+Q335526;Esmeraldas;почтовый индекс;1;1;from
+Q335526;Esmeraldas;ISO 3166-2;1;1;from
+Q335526;Esmeraldas;категория на Викискладе;1;1;from
+Q335526;Esmeraldas;ID отношения в OpenStreetMap;1;1;from
+Q335526;Esmeraldas;часовой пояс;1;1;from
+Q335526;Esmeraldas;местный телефонный код;1;1;from
+Q335526;Esmeraldas;описание флага;1;1;from
+Q335526;Esmeraldas;административно делится на;1;1;to
+Q335526;Esmeraldas;административно-территориальная единица;1;176;to
+Q335471;Cañar Province;общая тема категории;1;2;to
+Q335471;Cañar Province;должность главы правительства;1;1;from
+Q335471;Cañar Province;официальное название;1;1;from
+Q335471;Cañar Province;этнохороним;1;1;from
+Q335471;Cañar Province;код GeoNames;1;1;from
+Q335471;Cañar Province;категория для людей, связанных с местностью;1;1;from
+Q335471;Cañar Province;высота над уровнем моря;1;1;from
+Q335471;Cañar Province;площадь;1;1;from
+Q335471;Cañar Province;почтовый индекс;1;1;from
+Q335471;Cañar Province;ISO 3166-2;1;1;from
+Q335471;Cañar Province;категория на Викискладе;1;1;from
+Q335471;Cañar Province;ID отношения в OpenStreetMap;1;1;from
+Q335471;Cañar Province;часовой пояс;1;1;from
+Q335471;Cañar Province;местный телефонный код;1;1;from
+Q335471;Cañar Province;дата основания/создания/возникновения;1;1;from
+Q335471;Cañar Province;географические координаты;1;1;from
+Q335471;Cañar Province;код Freebase;1;1;from
+Q335471;Cañar Province;Who's on First ID;1;1;from
+Q335471;Cañar Province;официальный сайт;1;1;from
+Q335471;Cañar Province;FIPS 10-4 (страны и регионы);1;1;from
+Q335471;Cañar Province;основная категория по теме;1;1;from
+Q335471;Cañar Province;происходит из;1;1;to
+Q335471;Cañar Province;категория объединяет темы;1;1;to
+Q335471;Cañar Province;место рождения;1;4;to
+Q335471;Cañar Province;страна происхождения;1;1;to
+Q335471;Cañar Province;является столицей;1;1;to
+Q335464;Guayas Province;административно-территориальная единица;1;470;to
+Q321863;Imbabura Province;общая тема категории;1;1;to
+Q272586;Pichincha Province;десятичная классификация Дьюи;1;1;from
+Q321729;Carchi Province;десятичная классификация Дьюи;1;1;from
+Q272586;Pichincha Province;общая тема категории;1;1;to
+Q272586;Pichincha Province;является столицей;1;1;to
+Q321729;Carchi Province;административно-территориальная единица;1;204;to
+Q321729;Carchi Province;административно делится на;1;1;to
+Q321729;Carchi Province;государство;1;1;from
+Q321729;Carchi Province;карта местонахождения;1;1;from
+Q321729;Carchi Province;это частный случай понятия;1;1;from
+Q321729;Carchi Province;столица;1;1;from
+Q321729;Carchi Province;официальный язык;1;2;from
+Q321729;Carchi Province;изображение флага;1;1;from
+Q321729;Carchi Province;имеет границы с;1;4;to
+Q321729;Carchi Province;изображение герба;1;1;from
+Q321729;Carchi Province;численность населения;1;2;from
+Q321729;Carchi Province;категория на Викискладе;1;1;from
+Q321729;Carchi Province;код в Большой каталанской энциклопедии;1;1;from
+Q321729;Carchi Province;должность главы правительства;1;1;from
+Q321729;Carchi Province;официальное название;1;1;from
+Q321729;Carchi Province;категория для людей, родившихся здесь;1;1;from
+Q321729;Carchi Province;этнохороним;1;1;from
+Q321729;Carchi Province;код GeoNames;1;1;from
+Q321729;Carchi Province;категория для людей, связанных с местностью;1;1;from
+Q321729;Carchi Province;высота над уровнем моря;1;1;from
+Q321729;Carchi Province;площадь;1;1;from
+Q321729;Carchi Province;код BabelNet;1;1;from
+Q321729;Carchi Province;код BNF;1;1;from
+Q321729;Carchi Province;почтовый индекс;1;1;from
+Q272586;Pichincha Province;работодатель;1;1;to
+Q272586;Pichincha Province;является эндемиком в;1;1;to
+Q272586;Pichincha Province;происходит из;1;2;to
+Q272586;Pichincha Province;юрисдикция распространяется на;1;1;to
+Q272586;Pichincha Province;численность населения;1;2;from
+Q272586;Pichincha Province;код в Большой каталанской энциклопедии;1;1;from
+Q272586;Pichincha Province;должность главы правительства;1;1;from
+Q272586;Pichincha Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q272586;Pichincha Province;официальное название;1;1;from
+Q272586;Pichincha Province;этнохороним;1;2;from
+Q272586;Pichincha Province;код GeoNames;1;1;from
+Q272586;Pichincha Province;позиционная карта;1;1;from
+Q272586;Pichincha Province;площадь;1;1;from
+Q272586;Pichincha Province;код BNF;1;1;from
+Q272586;Pichincha Province;почтовый индекс;1;1;from
+Q272586;Pichincha Province;ISO 3166-2;1;1;from
+Q272586;Pichincha Province;категория на Викискладе;1;1;from
+Q272586;Pichincha Province;ID отношения в OpenStreetMap;1;1;from
+Q272586;Pichincha Province;часовой пояс;1;1;from
+Q272586;Pichincha Province;местный телефонный код;1;1;from
+Q272586;Pichincha Province;дата основания/создания/возникновения;1;1;from
+Q272586;Pichincha Province;наивысшая точка;1;1;from
+Q272586;Pichincha Province;географические координаты;1;1;from
+Q272586;Pichincha Province;код Freebase;1;1;from
+Q272586;Pichincha Province;Who's on First ID;1;1;from
+Q272586;Pichincha Province;официальный сайт;1;1;from
+Q272586;Pichincha Province;FIPS 10-4 (страны и регионы);1;1;from
+Q272586;Pichincha Province;основная категория по теме;1;1;from
+Q272586;Pichincha Province;место рождения;1;12;to
+Q321729;Carchi Province;ISO 3166-2;1;1;from
+Q321729;Carchi Province;ID отношения в OpenStreetMap;1;1;from
+Q321863;Imbabura Province;состоит из;1;1;to
+Q321863;Imbabura Province;ID отношения в OpenStreetMap;1;1;from
+Q321863;Imbabura Province;должность главы правительства;1;1;from
+Q321863;Imbabura Province;официальное название;1;1;from
+Q321863;Imbabura Province;категория для людей, родившихся здесь;1;1;from
+Q321863;Imbabura Province;этнохороним;1;1;from
+Q321863;Imbabura Province;код GeoNames;1;1;from
+Q321863;Imbabura Province;категория для людей, связанных с местностью;1;1;from
+Q321863;Imbabura Province;высота над уровнем моря;1;1;from
+Q321863;Imbabura Province;площадь;1;1;from
+Q321863;Imbabura Province;код BNF;1;1;from
+Q321863;Imbabura Province;почтовый индекс;1;1;from
+Q321863;Imbabura Province;ISO 3166-2;1;1;from
+Q321863;Imbabura Province;категория на Викискладе;1;1;from
+Q321863;Imbabura Province;часовой пояс;1;1;from
+Q321729;Carchi Province;часовой пояс;1;1;from
+Q321863;Imbabura Province;местный телефонный код;1;1;from
+Q321863;Imbabura Province;дата основания/создания/возникновения;1;1;from
+Q321863;Imbabura Province;географические координаты;1;1;from
+Q321863;Imbabura Province;код Freebase;1;1;from
+Q321863;Imbabura Province;Who's on First ID;1;1;from
+Q321863;Imbabura Province;официальный сайт;1;1;from
+Q321863;Imbabura Province;FIPS 10-4 (страны и регионы);1;1;from
+Q321863;Imbabura Province;основная категория по теме;1;1;from
+Q321863;Imbabura Province;место в MusicBrainz;1;1;from
+Q321863;Imbabura Province;категория объединяет темы;1;2;to
+Q321863;Imbabura Province;место рождения;1;7;to
+Q321863;Imbabura Province;происходит из;1;1;to
+Q321863;Imbabura Province;код в Большой каталанской энциклопедии;1;1;from
+Q321863;Imbabura Province;численность населения;1;2;from
+Q321863;Imbabura Province;десятичная классификация Дьюи;1;1;from
+Q321863;Imbabura Province;изображение герба;1;1;from
+Q321729;Carchi Province;местный телефонный код;1;1;from
+Q321729;Carchi Province;дата основания/создания/возникновения;1;1;from
+Q321729;Carchi Province;географические координаты;1;1;from
+Q321729;Carchi Province;код Freebase;1;1;from
+Q321729;Carchi Province;Who's on First ID;1;1;from
+Q321729;Carchi Province;официальный сайт;1;1;from
+Q321729;Carchi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q321729;Carchi Province;основная категория по теме;1;1;from
+Q321729;Carchi Province;категория объединяет темы;1;2;to
+Q321729;Carchi Province;место рождения;1;12;to
+Q321729;Carchi Province;происходит из;1;1;to
+Q321729;Carchi Province;состоит из;1;1;to
+Q321729;Carchi Province;является столицей;1;1;to
+Q321729;Carchi Province;общая тема категории;1;1;to
+Q321863;Imbabura Province;административно-территориальная единица;1;311;to
+Q321863;Imbabura Province;административно делится на;1;1;to
+Q321863;Imbabura Province;государство;1;1;from
+Q321863;Imbabura Province;код GND;1;1;from
+Q321863;Imbabura Province;карта местонахождения;1;1;from
+Q321863;Imbabura Province;это частный случай понятия;1;1;from
+Q321863;Imbabura Province;столица;1;1;from
+Q321863;Imbabura Province;официальный язык;1;3;from
+Q321863;Imbabura Province;изображение флага;1;1;from
+Q321863;Imbabura Province;имеет границы с;1;5;to
+Q321863;Imbabura Province;глава правительства;1;2;from
+Q1124125;Santa Elena Province;общая тема категории;1;1;to

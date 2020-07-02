@@ -1,0 +1,89 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q1449476;Trujillo Intendancy;государство;1;1;from
+Q1449476;Trujillo Intendancy;изображение;1;1;from
+Q5918734;San Miguel de Tucumán Intendancy;это частный случай понятия;1;1;from
+Q5918725;Puno Intendancy;это частный случай понятия;1;1;from
+Q5918723;Puebla Intendency;это частный случай понятия;1;1;from
+Q5918721;Potosí Intendancy;это частный случай понятия;1;1;from
+Q5918715;La Paz Intendancy;это частный случай понятия;1;1;from
+Q5918715;La Paz Intendancy;государство;1;1;from
+Q5918709;Huancavelica Intendancy;это частный случай понятия;1;1;from
+Q5918705;Huamanga Intendancy;это частный случай понятия;1;1;from
+Q5918701;Guanajuato Intendency;это частный случай понятия;1;1;from
+Q5918699;Guadalajara Intendency;это частный случай понятия;1;1;from
+Q5918696;Durango Intendency;это частный случай понятия;1;1;from
+Q5918693;Córdoba del Tucumán Intendancy;место рождения;1;1;to
+Q5918693;Córdoba del Tucumán Intendancy;это частный случай понятия;1;1;from
+Q5918690;Coquimbo Intendancy;дата прекращения существования;1;1;from
+Q5918690;Coquimbo Intendancy;дата основания/создания/возникновения;1;1;from
+Q5918690;Coquimbo Intendancy;это частный случай понятия;1;1;from
+Q5918690;Coquimbo Intendancy;государство;1;1;from
+Q5918687;Concepción Intendancy;административно-территориальная единица;1;1;to
+Q5918687;Concepción Intendancy;дата основания/создания/возникновения;1;1;from
+Q5918737;San Salvador Intendancy;административно делится на;1;4;from
+Q5918737;San Salvador Intendancy;государство;1;1;from
+Q5918737;San Salvador Intendancy;это частный случай понятия;1;1;from
+Q5918744;Santiago de Chile Intendancy;государство;1;1;from
+Q5918759;Cuzco Intendancy;это частный случай понятия;1;1;from
+Q5918759;Cuzco Intendancy;государство;1;1;from
+Q5918748;Valladolid Intendency;это частный случай понятия;1;1;from
+Q5918746;Tarma Intendancy;это частный случай понятия;1;1;from
+Q5918746;Tarma Intendancy;государство;1;1;from
+Q5918744;Santiago de Chile Intendancy;дата прекращения существования;1;1;from
+Q5918744;Santiago de Chile Intendancy;дата основания/создания/возникновения;1;1;from
+Q5918744;Santiago de Chile Intendancy;это частный случай понятия;1;1;from
+Q5918741;Santa Cruz de la Sierra Intendancy;это частный случай понятия;1;1;from
+Q5918737;San Salvador Intendancy;столица;1;1;from
+Q5918737;San Salvador Intendancy;является столицей;1;1;to
+Q5918737;San Salvador Intendancy;юрисдикция распространяется на;1;1;to
+Q5918737;San Salvador Intendancy;административно-территориальная единица;1;4;to
+Q5918737;San Salvador Intendancy;место смерти;1;1;to
+Q5918737;San Salvador Intendancy;место рождения;1;1;to
+Q5918737;San Salvador Intendancy;заменён на;1;1;to
+Q5918737;San Salvador Intendancy;заменил;1;1;to
+Q5918737;San Salvador Intendancy;должность главы правительства;1;1;from
+Q5918687;Concepción Intendancy;это частный случай понятия;1;1;from
+Q5918687;Concepción Intendancy;государство;1;2;from
+Q5918684;Comayagua Intendancy;дата основания/создания/возникновения;1;1;from
+Q2894090;León Intendancy;дата основания/создания/возникновения;1;1;from
+Q5918658;Arequipa Intendancy;государство;1;1;from
+Q5655043;Salta del Tucumán Intendancy;общая тема категории;1;1;to
+Q5655043;Salta del Tucumán Intendancy;место рождения;1;1;to
+Q5655043;Salta del Tucumán Intendancy;основная категория по теме;1;1;from
+Q5655043;Salta del Tucumán Intendancy;это частный случай понятия;1;1;from
+Q5197103;Cuyo Intendancy;это частный случай понятия;1;1;from
+Q2894090;León Intendancy;административно-территориальная единица;1;5;to
+Q2894090;León Intendancy;заменил;1;1;to
+Q2894090;León Intendancy;заменён на;1;1;from
+Q5918661;Arizpe Intendency;это частный случай понятия;1;1;from
+Q2894090;León Intendancy;это частный случай понятия;1;1;from
+Q2894090;León Intendancy;государство;1;1;from
+Q2894090;León Intendancy;административно делится на;1;5;from
+Q2881427;Lima Intendancy;дата прекращения существования;1;1;from
+Q2881427;Lima Intendancy;дата основания/создания/возникновения;1;1;from
+Q2881427;Lima Intendancy;это частный случай понятия;1;1;from
+Q2881427;Lima Intendancy;государство;1;2;from
+Q1449476;Trujillo Intendancy;это частный случай понятия;1;1;from
+Q5918658;Arequipa Intendancy;это частный случай понятия;1;1;from
+Q5918664;Buenos Aires Intendancy;это частный случай понятия;1;1;from
+Q5918684;Comayagua Intendancy;заменён на;1;1;to
+Q5918679;Ciudad Real de Chiapas Intendancy;дата основания/создания/возникновения;1;1;from
+Q5918684;Comayagua Intendancy;заменил;1;1;to
+Q5918684;Comayagua Intendancy;столица;1;1;from
+Q5918684;Comayagua Intendancy;это частный случай понятия;1;1;from
+Q5918684;Comayagua Intendancy;государство;1;1;from
+Q5918684;Comayagua Intendancy;административно делится на;1;2;from
+Q5918684;Comayagua Intendancy;административно-территориальная единица;1;2;to
+Q5918681;Cochabamba Intendancy;это частный случай понятия;1;1;from
+Q5918679;Ciudad Real de Chiapas Intendancy;место рождения;1;1;to
+Q5918679;Ciudad Real de Chiapas Intendancy;это частный случай понятия;1;1;from
+Q5918671;Caracas Intendancy;это частный случай понятия;1;1;from
+Q5918679;Ciudad Real de Chiapas Intendancy;государство;1;1;from
+Q5918677;Chuquisaca Intendancy;это частный случай понятия;1;1;from
+Q5918674;Chiloé Intendancy;дата прекращения существования;1;1;from
+Q5918674;Chiloé Intendancy;дата основания/создания/возникновения;1;1;from
+Q5918674;Chiloé Intendancy;заменён на;1;1;from
+Q5918674;Chiloé Intendancy;это частный случай понятия;1;1;from
+Q5918674;Chiloé Intendancy;государство;1;1;from
+Q5918674;Chiloé Intendancy;административно-территориальная единица;1;1;from
+Q5918763;Paraguay Intendancy;это частный случай понятия;1;1;from

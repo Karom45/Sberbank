@@ -1,0 +1,635 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q222564;Itapúa;административно-территориальная единица;1;120;to
+Q755115;Ñeembucú Department;исполнительная власть;1;1;from
+Q750551;Presidente Hayes Department;юрисдикция распространяется на;1;5;to
+Q750551;Presidente Hayes Department;категория объединяет темы;1;1;to
+Q750551;Presidente Hayes Department;общая тема категории;1;1;to
+Q750551;Presidente Hayes Department;административно делится на;1;1;to
+Q755115;Ñeembucú Department;административно-территориальная единица;1;28;to
+Q755115;Ñeembucú Department;государство;1;1;from
+Q755115;Ñeembucú Department;законодательный орган;1;1;from
+Q755115;Ñeembucú Department;карта местонахождения;1;1;from
+Q750551;Presidente Hayes Department;является столицей;1;1;to
+Q755115;Ñeembucú Department;это частный случай понятия;1;1;from
+Q755115;Ñeembucú Department;столица;1;1;from
+Q755115;Ñeembucú Department;изображение флага;1;1;from
+Q755115;Ñeembucú Department;имеет границы с;1;6;to
+Q755115;Ñeembucú Department;изображение герба;1;1;from
+Q755115;Ñeembucú Department;десятичная классификация Дьюи;1;1;from
+Q755115;Ñeembucú Department;численность населения;1;1;from
+Q750551;Presidente Hayes Department;происходит из;1;9;to
+Q750551;Presidente Hayes Department;место смерти;1;1;to
+Q755115;Ñeembucú Department;должность главы правительства;1;1;from
+Q750551;Presidente Hayes Department;ISO 3166-2;1;1;from
+Q750551;Presidente Hayes Department;численность населения;1;1;from
+Q750551;Presidente Hayes Department;код в Большой каталанской энциклопедии;1;1;from
+Q750551;Presidente Hayes Department;должность главы правительства;1;1;from
+Q750551;Presidente Hayes Department;код GeoNames;1;1;from
+Q750551;Presidente Hayes Department;код TGN;1;1;from
+Q750551;Presidente Hayes Department;площадь;1;1;from
+Q750551;Presidente Hayes Department;используемый язык;1;9;from
+Q750551;Presidente Hayes Department;категория на Викискладе;1;1;from
+Q750551;Presidente Hayes Department;основная категория по теме;1;1;from
+Q750551;Presidente Hayes Department;ID отношения в OpenStreetMap;1;1;from
+Q750551;Presidente Hayes Department;географические координаты;1;1;from
+Q750551;Presidente Hayes Department;код Freebase;1;1;from
+Q750551;Presidente Hayes Department;Who's on First ID;1;1;from
+Q750551;Presidente Hayes Department;категория карт на Викискладе;1;1;from
+Q750551;Presidente Hayes Department;официальный сайт;1;1;from
+Q750551;Presidente Hayes Department;FIPS 10-4 (страны и регионы);1;1;from
+Q755115;Ñeembucú Department;код в Большой каталанской энциклопедии;1;1;from
+Q755115;Ñeembucú Department;категория для людей, родившихся здесь;1;1;from
+Q755116;Guairá Department;категория для людей, родившихся здесь;1;1;from
+Q755116;Guairá Department;это частный случай понятия;1;1;from
+Q755116;Guairá Department;государство;1;1;from
+Q755116;Guairá Department;изображение;1;1;from
+Q755116;Guairá Department;законодательный орган;1;1;from
+Q755116;Guairá Department;исполнительная власть;1;1;from
+Q755116;Guairá Department;код VIAF;1;1;from
+Q755116;Guairá Department;код GND;1;1;from
+Q755116;Guairá Department;карта местонахождения;1;1;from
+Q755116;Guairá Department;столица;1;1;from
+Q755115;Ñeembucú Department;административно делится на;1;1;to
+Q755116;Guairá Department;изображение флага;1;1;from
+Q755116;Guairá Department;имеет границы с;1;3;to
+Q755116;Guairá Department;изображение герба;1;2;from
+Q755116;Guairá Department;десятичная классификация Дьюи;1;1;from
+Q755116;Guairá Department;численность населения;1;1;from
+Q755116;Guairá Department;код US National Archives;1;1;from
+Q755116;Guairá Department;код в Большой каталанской энциклопедии;1;1;from
+Q755116;Guairá Department;административно-территориальная единица;1;48;to
+Q755115;Ñeembucú Department;общая тема категории;1;1;to
+Q755115;Ñeembucú Department;код GeoNames;1;1;from
+Q755115;Ñeembucú Department;код Freebase;1;1;from
+Q755115;Ñeembucú Department;код TGN;1;1;from
+Q755115;Ñeembucú Department;площадь;1;1;from
+Q755115;Ñeembucú Department;ISO 3166-2;1;1;from
+Q755115;Ñeembucú Department;категория на Викискладе;1;1;from
+Q755115;Ñeembucú Department;ID отношения в OpenStreetMap;1;1;from
+Q755115;Ñeembucú Department;часовой пояс;1;1;from
+Q755115;Ñeembucú Department;географические координаты;1;1;from
+Q755115;Ñeembucú Department;Who's on First ID;1;1;from
+Q755115;Ñeembucú Department;юрисдикция распространяется на;1;5;to
+Q755115;Ñeembucú Department;категория карт на Викискладе;1;1;from
+Q755115;Ñeembucú Department;FIPS 10-4 (страны и регионы);1;1;from
+Q755115;Ñeembucú Department;основная категория по теме;1;1;from
+Q755115;Ñeembucú Department;является столицей;1;1;to
+Q755115;Ñeembucú Department;местонахождение;1;3;to
+Q755115;Ñeembucú Department;обслуживаемый город;1;1;to
+Q755115;Ñeembucú Department;категория объединяет темы;1;2;to
+Q750551;Presidente Hayes Department;десятичная классификация Дьюи;1;1;from
+Q750551;Presidente Hayes Department;изображение герба;1;1;from
+Q750551;Presidente Hayes Department;имеет границы с;1;9;to
+Q741017;Boquerón Department;административно-территориальная единица;1;17;to
+Q741009;Concepción Department;происходит из;1;3;to
+Q741009;Concepción Department;место рождения;1;2;to
+Q741009;Concepción Department;юрисдикция распространяется на;1;5;to
+Q741009;Concepción Department;общая тема категории;1;1;to
+Q741009;Concepción Department;категория объединяет темы;1;1;to
+Q741009;Concepción Department;является столицей;1;1;to
+Q741009;Concepción Department;административно делится на;1;1;to
+Q741017;Boquerón Department;предыдущее по порядку;1;1;from
+Q741009;Concepción Department;FIPS 10-4 (страны и регионы);1;1;from
+Q741017;Boquerón Department;государство;1;1;from
+Q741017;Boquerón Department;изображение;1;1;from
+Q741017;Boquerón Department;законодательный орган;1;1;from
+Q741017;Boquerón Department;исполнительная власть;1;1;from
+Q741017;Boquerón Department;карта местонахождения;1;1;from
+Q741017;Boquerón Department;это частный случай понятия;1;1;from
+Q741017;Boquerón Department;столица;1;1;from
+Q741009;Concepción Department;основная категория по теме;1;1;from
+Q741009;Concepción Department;категория карт на Викискладе;1;1;from
+Q750551;Presidente Hayes Department;изображение флага;1;1;from
+Q741009;Concepción Department;площадь;1;1;from
+Q741009;Concepción Department;имеет границы с;1;6;to
+Q741009;Concepción Department;десятичная классификация Дьюи;1;1;from
+Q741009;Concepción Department;численность населения;1;1;from
+Q741009;Concepción Department;код в Большой каталанской энциклопедии;1;1;from
+Q741009;Concepción Department;должность главы правительства;1;1;from
+Q741009;Concepción Department;код GeoNames;1;1;from
+Q741009;Concepción Department;код TGN;1;1;from
+Q741009;Concepción Department;код BNF;1;1;from
+Q741009;Concepción Department;Who's on First ID;1;1;from
+Q741009;Concepción Department;используемый язык;1;3;from
+Q741009;Concepción Department;ISO 3166-2;1;1;from
+Q741009;Concepción Department;категория на Викискладе;1;1;from
+Q741009;Concepción Department;ID отношения в OpenStreetMap;1;1;from
+Q741009;Concepción Department;часовой пояс;1;1;from
+Q741009;Concepción Department;географические координаты;1;1;from
+Q741009;Concepción Department;код Freebase;1;1;from
+Q741017;Boquerón Department;изображение флага;1;1;from
+Q741017;Boquerón Department;имеет границы с;1;11;to
+Q741017;Boquerón Department;изображение герба;1;1;from
+Q741017;Boquerón Department;административно делится на;1;1;to
+Q741017;Boquerón Department;происходит из;1;8;to
+Q741017;Boquerón Department;следующее по порядку;1;1;to
+Q741017;Boquerón Department;обслуживаемый город;1;1;to
+Q741017;Boquerón Department;юрисдикция распространяется на;1;5;to
+Q741017;Boquerón Department;является столицей;1;1;to
+Q741017;Boquerón Department;общая тема категории;1;1;to
+Q741017;Boquerón Department;категория объединяет темы;1;1;to
+Q750551;Presidente Hayes Department;административно-территориальная единица;1;24;to
+Q741017;Boquerón Department;десятичная классификация Дьюи;1;1;from
+Q750551;Presidente Hayes Department;государство;1;1;from
+Q750551;Presidente Hayes Department;изображение;1;5;from
+Q750551;Presidente Hayes Department;законодательный орган;1;1;from
+Q750551;Presidente Hayes Department;исполнительная власть;1;1;from
+Q750551;Presidente Hayes Department;карта местонахождения;1;1;from
+Q750551;Presidente Hayes Department;это частный случай понятия;1;1;from
+Q750551;Presidente Hayes Department;столица;1;1;from
+Q741017;Boquerón Department;баннер Викигида;1;1;from
+Q741017;Boquerón Department;основная категория по теме;1;1;from
+Q741017;Boquerón Department;FIPS 10-4 (страны и регионы);1;2;from
+Q741017;Boquerón Department;категория карт на Викискладе;1;1;from
+Q741017;Boquerón Department;численность населения;1;1;from
+Q741017;Boquerón Department;код в Большой каталанской энциклопедии;1;1;from
+Q741017;Boquerón Department;должность главы правительства;1;1;from
+Q741017;Boquerón Department;код GeoNames;1;1;from
+Q741017;Boquerón Department;код TGN;1;1;from
+Q741017;Boquerón Department;позиционная карта;1;1;from
+Q741017;Boquerón Department;площадь;1;1;from
+Q741017;Boquerón Department;используемый язык;1;8;from
+Q741017;Boquerón Department;ISO 3166-2;1;1;from
+Q741017;Boquerón Department;категория на Викискладе;1;1;from
+Q741017;Boquerón Department;ID отношения в OpenStreetMap;1;1;from
+Q741017;Boquerón Department;часовой пояс;1;1;from
+Q741017;Boquerón Department;географические координаты;1;1;from
+Q741017;Boquerón Department;код Freebase;1;1;from
+Q741017;Boquerón Department;Who's on First ID;1;1;from
+Q755116;Guairá Department;должность главы правительства;1;1;from
+Q755116;Guairá Department;код GeoNames;1;1;from
+Q222564;Itapúa;государство;1;1;from
+Q881839;Caazapá;исполнительная власть;1;1;from
+Q880399;Caaguazú;начало пути;1;2;to
+Q880399;Caaguazú;пункт назначения;1;2;to
+Q880399;Caaguazú;общая тема категории;1;1;to
+Q880399;Caaguazú;является столицей;1;1;to
+Q881839;Caazapá;административно-территориальная единица;1;42;to
+Q881839;Caazapá;государство;1;1;from
+Q881839;Caazapá;законодательный орган;1;1;from
+Q881839;Caazapá;код GND;1;1;from
+Q880399;Caaguazú;происходит из;1;1;to
+Q881839;Caazapá;карта местонахождения;1;1;from
+Q881839;Caazapá;это частный случай понятия;1;1;from
+Q881839;Caazapá;столица;1;1;from
+Q881839;Caazapá;изображение флага;1;1;from
+Q881839;Caazapá;имеет границы с;1;6;to
+Q881839;Caazapá;изображение герба;1;1;from
+Q881839;Caazapá;десятичная классификация Дьюи;1;1;from
+Q880399;Caaguazú;юрисдикция распространяется на;1;5;to
+Q880399;Caaguazú;категория объединяет темы;1;2;to
+Q881839;Caazapá;код в Большой каталанской энциклопедии;1;1;from
+Q880399;Caaguazú;ID отношения в OpenStreetMap;1;1;from
+Q880399;Caaguazú;категория для людей, родившихся здесь;1;1;from
+Q880399;Caaguazú;код GeoNames;1;1;from
+Q880399;Caaguazú;код TGN;1;1;from
+Q880399;Caaguazú;площадь;1;1;from
+Q880399;Caaguazú;используемый язык;1;1;from
+Q880399;Caaguazú;ISO 3166-2;1;1;from
+Q880399;Caaguazú;категория на Викискладе;1;1;from
+Q880399;Caaguazú;часовой пояс;1;1;from
+Q880399;Caaguazú;место рождения;1;3;to
+Q880399;Caaguazú;географические координаты;1;2;from
+Q880399;Caaguazú;код Freebase;1;1;from
+Q880399;Caaguazú;Who's on First ID;1;1;from
+Q880399;Caaguazú;категория карт на Викискладе;1;1;from
+Q880399;Caaguazú;FIPS 10-4 (страны и регионы);1;1;from
+Q880399;Caaguazú;основная категория по теме;1;1;from
+Q880399;Caaguazú;место в MusicBrainz;1;1;from
+Q881839;Caazapá;численность населения;1;1;from
+Q881839;Caazapá;должность главы правительства;1;1;from
+Q755116;Guairá Department;код TGN;1;1;from
+Q15977818;Chaco Department;дата основания/создания/возникновения;1;1;from
+Q881839;Caazapá;административно делится на;1;1;to
+Q15977818;Chaco Department;административно-территориальная единица;1;1;from
+Q15977818;Chaco Department;государство;1;1;from
+Q15977818;Chaco Department;это частный случай понятия;1;2;from
+Q15977818;Chaco Department;имеет границы с;1;2;to
+Q15977818;Chaco Department;численность населения;1;2;from
+Q15977818;Chaco Department;код в Большой каталанской энциклопедии;1;1;from
+Q15977818;Chaco Department;дата прекращения существования;1;1;from
+Q881839;Caazapá;общая тема категории;1;1;to
+Q15977821;Nuevo Asunción Department;следующее по порядку;1;1;from
+Q15977821;Nuevo Asunción Department;государство;1;1;from
+Q15977821;Nuevo Asunción Department;это частный случай понятия;1;1;from
+Q15977821;Nuevo Asunción Department;имеет границы с;1;1;to
+Q15977821;Nuevo Asunción Department;численность населения;1;2;from
+Q15977821;Nuevo Asunción Department;дата основания/создания/возникновения;1;1;from
+Q15977821;Nuevo Asunción Department;дата прекращения существования;1;1;from
+Q881839;Caazapá;категория объединяет темы;1;1;to
+Q881839;Caazapá;юрисдикция распространяется на;1;5;to
+Q881839;Caazapá;код GeoNames;1;1;from
+Q881839;Caazapá;часовой пояс;1;1;from
+Q881839;Caazapá;код TGN;1;1;from
+Q881839;Caazapá;позиционная карта;1;1;from
+Q881839;Caazapá;площадь;1;1;from
+Q881839;Caazapá;код BNF;1;1;from
+Q881839;Caazapá;ISO 3166-2;1;1;from
+Q881839;Caazapá;категория на Викискладе;1;1;from
+Q881839;Caazapá;ID отношения в OpenStreetMap;1;1;from
+Q881839;Caazapá;географические координаты;1;1;from
+Q881839;Caazapá;является столицей;1;1;to
+Q881839;Caazapá;код Freebase;1;1;from
+Q881839;Caazapá;Who's on First ID;1;1;from
+Q881839;Caazapá;категория карт на Викискладе;1;1;from
+Q881839;Caazapá;официальный сайт;1;1;from
+Q881839;Caazapá;FIPS 10-4 (страны и регионы);1;1;from
+Q881839;Caazapá;основная категория по теме;1;1;from
+Q881839;Caazapá;место в MusicBrainz;1;1;from
+Q880399;Caaguazú;должность главы правительства;1;1;from
+Q880399;Caaguazú;код в Большой каталанской энциклопедии;1;1;from
+Q880399;Caaguazú;численность населения;1;1;from
+Q755121;Cordillera Department;код GND;1;1;from
+Q755116;Guairá Department;общая тема категории;1;1;to
+Q755116;Guairá Department;административно делится на;1;1;to
+Q755121;Cordillera Department;административно-территориальная единица;1;55;to
+Q755121;Cordillera Department;государство;1;1;from
+Q755121;Cordillera Department;изображение;1;1;from
+Q755121;Cordillera Department;законодательный орган;1;1;from
+Q755121;Cordillera Department;исполнительная власть;1;1;from
+Q755121;Cordillera Department;карта местонахождения;1;1;from
+Q755116;Guairá Department;происходит из;1;1;to
+Q755121;Cordillera Department;это частный случай понятия;1;1;from
+Q755121;Cordillera Department;столица;1;1;from
+Q755121;Cordillera Department;изображение флага;1;1;from
+Q755121;Cordillera Department;имеет границы с;1;5;to
+Q755121;Cordillera Department;изображение герба;1;1;from
+Q755121;Cordillera Department;десятичная классификация Дьюи;1;1;from
+Q755121;Cordillera Department;численность населения;1;1;from
+Q755116;Guairá Department;юрисдикция распространяется на;1;5;to
+Q755116;Guairá Department;является столицей;1;1;to
+Q880399;Caaguazú;десятичная классификация Дьюи;1;1;from
+Q755116;Guairá Department;дата основания/создания/возникновения;1;1;from
+Q755116;Guairá Department;категория для людей, связанных с местностью;1;1;from
+Q755116;Guairá Department;площадь;1;1;from
+Q755116;Guairá Department;используемый язык;1;1;from
+Q755116;Guairá Department;ISO 3166-2;1;1;from
+Q755116;Guairá Department;категория на Викискладе;1;1;from
+Q755116;Guairá Department;ID отношения в OpenStreetMap;1;1;from
+Q755116;Guairá Department;часовой пояс;1;1;from
+Q755116;Guairá Department;географические координаты;1;1;from
+Q755116;Guairá Department;категория объединяет темы;1;3;to
+Q755116;Guairá Department;код Freebase;1;1;from
+Q755116;Guairá Department;Who's on First ID;1;1;from
+Q755116;Guairá Department;категория карт на Викискладе;1;1;from
+Q755116;Guairá Department;FIPS 10-4 (страны и регионы);1;1;from
+Q755116;Guairá Department;основная категория по теме;1;1;from
+Q755116;Guairá Department;место в MusicBrainz;1;1;from
+Q755116;Guairá Department;место рождения;1;1;to
+Q755121;Cordillera Department;код в Большой каталанской энциклопедии;1;1;from
+Q755121;Cordillera Department;должность главы правительства;1;1;from
+Q755121;Cordillera Department;категория для людей, родившихся здесь;1;1;from
+Q880399;Caaguazú;государство;1;1;from
+Q755121;Cordillera Department;категория объединяет темы;1;3;to
+Q755121;Cordillera Department;происходит из;1;1;to
+Q755121;Cordillera Department;юрисдикция распространяется на;1;5;to
+Q755121;Cordillera Department;общая тема категории;1;1;to
+Q755121;Cordillera Department;административно делится на;1;1;to
+Q880399;Caaguazú;административно-территориальная единица;1;78;to
+Q880399;Caaguazú;административно делится на;1;1;to
+Q880399;Caaguazú;законодательный орган;1;1;from
+Q755121;Cordillera Department;код GeoNames;1;1;from
+Q880399;Caaguazú;исполнительная власть;1;1;from
+Q880399;Caaguazú;код GND;1;1;from
+Q880399;Caaguazú;карта местонахождения;1;1;from
+Q880399;Caaguazú;это частный случай понятия;1;1;from
+Q880399;Caaguazú;столица;1;1;from
+Q880399;Caaguazú;имеет границы с;1;7;to
+Q880399;Caaguazú;изображение герба;1;1;from
+Q755121;Cordillera Department;является столицей;1;1;to
+Q755121;Cordillera Department;место рождения;1;3;to
+Q755121;Cordillera Department;место в MusicBrainz;1;1;from
+Q755121;Cordillera Department;основная категория по теме;1;1;from
+Q755121;Cordillera Department;код TGN;1;1;from
+Q755121;Cordillera Department;название на языке оригинала;1;1;from
+Q755121;Cordillera Department;категория для людей, связанных с местностью;1;1;from
+Q755121;Cordillera Department;площадь;1;1;from
+Q755121;Cordillera Department;используемый язык;1;1;from
+Q755121;Cordillera Department;ISO 3166-2;1;1;from
+Q755121;Cordillera Department;категория на Викискладе;1;1;from
+Q755121;Cordillera Department;ID отношения в OpenStreetMap;1;1;from
+Q755121;Cordillera Department;часовой пояс;1;1;from
+Q755121;Cordillera Department;географические координаты;1;1;from
+Q755121;Cordillera Department;код Freebase;1;1;from
+Q755121;Cordillera Department;Who's on First ID;1;1;from
+Q755121;Cordillera Department;категория карт на Викискладе;1;1;from
+Q755121;Cordillera Department;официальный сайт;1;1;from
+Q755121;Cordillera Department;FIPS 10-4 (страны и регионы);1;1;from
+Q741009;Concepción Department;изображение флага;1;1;from
+Q741009;Concepción Department;столица;1;1;from
+Q741009;Concepción Department;это частный случай понятия;1;1;from
+Q279085;Canindeyú;место в MusicBrainz;1;1;from
+Q279085;Canindeyú;часовой пояс;1;1;from
+Q279085;Canindeyú;географические координаты;1;1;from
+Q279085;Canindeyú;код Freebase;1;1;from
+Q279085;Canindeyú;Who's on First ID;1;1;from
+Q279085;Canindeyú;категория карт на Викискладе;1;1;from
+Q279085;Canindeyú;FIPS 10-4 (страны и регионы);1;1;from
+Q279085;Canindeyú;основная категория по теме;1;1;from
+Q279085;Canindeyú;является столицей;1;1;to
+Q279085;Canindeyú;категория на Викискладе;1;1;from
+Q279085;Canindeyú;юрисдикция распространяется на;1;5;to
+Q279085;Canindeyú;происходит из;1;1;to
+Q279085;Canindeyú;категория объединяет темы;1;1;to
+Q279085;Canindeyú;общая тема категории;1;1;to
+Q279085;Canindeyú;административно делится на;1;1;to
+Q372461;Central Department;административно-территориальная единица;1;41;to
+Q372461;Central Department;государство;1;1;from
+Q279085;Canindeyú;ID отношения в OpenStreetMap;1;1;from
+Q279085;Canindeyú;ISO 3166-2;1;1;from
+Q372461;Central Department;законодательный орган;1;1;from
+Q279085;Canindeyú;изображение герба;1;1;from
+Q279085;Canindeyú;законодательный орган;1;1;from
+Q279085;Canindeyú;исполнительная власть;1;1;from
+Q279085;Canindeyú;карта местонахождения;1;1;from
+Q279085;Canindeyú;это частный случай понятия;1;1;from
+Q279085;Canindeyú;столица;1;1;from
+Q279085;Canindeyú;изображение флага;1;1;from
+Q279085;Canindeyú;имеет границы с;1;6;to
+Q279085;Canindeyú;десятичная классификация Дьюи;1;1;from
+Q279085;Canindeyú;используемый язык;1;1;from
+Q279085;Canindeyú;численность населения;1;1;from
+Q279085;Canindeyú;код в Большой каталанской энциклопедии;1;1;from
+Q279085;Canindeyú;должность главы правительства;1;1;from
+Q279085;Canindeyú;код GeoNames;1;1;from
+Q279085;Canindeyú;код TGN;1;1;from
+Q279085;Canindeyú;площадь;1;1;from
+Q279085;Canindeyú;код BNF;1;1;from
+Q372461;Central Department;изображение;1;1;from
+Q372461;Central Department;исполнительная власть;1;1;from
+Q741009;Concepción Department;код LCNAF;1;1;from
+Q372461;Central Department;основная категория по теме;1;1;from
+Q372461;Central Department;дата основания/создания/возникновения;1;1;from
+Q372461;Central Department;географические координаты;1;1;from
+Q372461;Central Department;код Freebase;1;1;from
+Q372461;Central Department;Who's on First ID;1;1;from
+Q372461;Central Department;категория карт на Викискладе;1;1;from
+Q372461;Central Department;официальный сайт;1;1;from
+Q372461;Central Department;FIPS 10-4 (страны и регионы);1;1;from
+Q372461;Central Department;место в MusicBrainz;1;1;from
+Q372461;Central Department;ID отношения в OpenStreetMap;1;1;from
+Q372461;Central Department;является столицей;1;1;to
+Q372461;Central Department;место рождения;1;3;to
+Q372461;Central Department;местонахождение;1;1;to
+Q372461;Central Department;категория объединяет темы;1;3;to
+Q372461;Central Department;происходит из;1;1;to
+Q372461;Central Department;юрисдикция распространяется на;1;5;to
+Q372461;Central Department;общая тема категории;1;1;to
+Q372461;Central Department;часовой пояс;1;1;from
+Q372461;Central Department;категория на Викискладе;1;1;from
+Q372461;Central Department;карта местонахождения;1;1;from
+Q372461;Central Department;код в Большой каталанской энциклопедии;1;1;from
+Q372461;Central Department;это частный случай понятия;1;1;from
+Q372461;Central Department;столица;1;1;from
+Q372461;Central Department;изображение флага;1;1;from
+Q372461;Central Department;имеет границы с;1;6;to
+Q372461;Central Department;изображение герба;1;1;from
+Q372461;Central Department;десятичная классификация Дьюи;1;1;from
+Q372461;Central Department;численность населения;1;1;from
+Q372461;Central Department;должность главы правительства;1;1;from
+Q372461;Central Department;ISO 3166-2;1;1;from
+Q372461;Central Department;категория для людей, родившихся здесь;1;1;from
+Q372461;Central Department;код GeoNames;1;1;from
+Q372461;Central Department;код TGN;1;1;from
+Q372461;Central Department;название на языке оригинала;1;1;from
+Q372461;Central Department;категория для людей, связанных с местностью;1;1;from
+Q372461;Central Department;площадь;1;1;from
+Q372461;Central Department;используемый язык;1;1;from
+Q279085;Canindeyú;государство;1;1;from
+Q279085;Canindeyú;административно-территориальная единица;1;26;to
+Q240014;Paraguarí Department;административно делится на;1;1;to
+Q222564;Itapúa;категория карт на Викискладе;1;1;from
+Q222564;Itapúa;ISO 3166-2;1;1;from
+Q222564;Itapúa;категория на Викискладе;1;1;from
+Q222564;Itapúa;ID отношения в OpenStreetMap;1;1;from
+Q222564;Itapúa;часовой пояс;1;1;from
+Q222564;Itapúa;географические координаты;1;1;from
+Q222564;Itapúa;код Freebase;1;1;from
+Q222564;Itapúa;Who's on First ID;1;1;from
+Q222564;Itapúa;официальный сайт;1;1;from
+Q222564;Itapúa;площадь;1;1;from
+Q222564;Itapúa;FIPS 10-4 (страны и регионы);1;1;from
+Q222564;Itapúa;основная категория по теме;1;1;from
+Q222564;Itapúa;место в MusicBrainz;1;1;from
+Q222564;Itapúa;место рождения;1;3;to
+Q222564;Itapúa;значимое место;1;1;to
+Q222564;Itapúa;категория объединяет темы;1;2;to
+Q222564;Itapúa;происходит из;1;1;to
+Q222564;Itapúa;используемый язык;1;1;from
+Q222564;Itapúa;код TGN;1;1;from
+Q240014;Paraguarí Department;является столицей;1;1;to
+Q222564;Itapúa;столица;1;1;from
+Q222564;Itapúa;законодательный орган;1;1;from
+Q222564;Itapúa;исполнительная власть;1;1;from
+Q222564;Itapúa;код VIAF;1;1;from
+Q222564;Itapúa;код GND;1;1;from
+Q222564;Itapúa;карта местонахождения;1;1;from
+Q222564;Itapúa;код LCNAF;1;1;from
+Q222564;Itapúa;это частный случай понятия;1;1;from
+Q222564;Itapúa;изображение флага;1;1;from
+Q222564;Itapúa;код GeoNames;1;1;from
+Q222564;Itapúa;имеет границы с;1;5;to
+Q222564;Itapúa;изображение герба;1;1;from
+Q222564;Itapúa;десятичная классификация Дьюи;1;1;from
+Q222564;Itapúa;численность населения;1;1;from
+Q222564;Itapúa;код в Большой каталанской энциклопедии;1;1;from
+Q222564;Itapúa;должность главы правительства;1;1;from
+Q222564;Itapúa;категория для людей, родившихся здесь;1;1;from
+Q222564;Itapúa;юрисдикция распространяется на;1;5;to
+Q222564;Itapúa;обслуживаемый город;1;1;to
+Q222564;Itapúa;общая тема категории;1;1;to
+Q240014;Paraguarí Department;Who's on First ID;1;1;from
+Q240014;Paraguarí Department;площадь;1;1;from
+Q240014;Paraguarí Department;используемый язык;1;1;from
+Q240014;Paraguarí Department;ISO 3166-2;1;1;from
+Q240014;Paraguarí Department;категория на Викискладе;1;1;from
+Q240014;Paraguarí Department;ID отношения в OpenStreetMap;1;1;from
+Q240014;Paraguarí Department;географические координаты;1;2;from
+Q240014;Paraguarí Department;код Freebase;1;1;from
+Q240014;Paraguarí Department;категория карт на Викискладе;1;1;from
+Q222564;Itapúa;является столицей;1;1;to
+Q240014;Paraguarí Department;FIPS 10-4 (страны и регионы);1;1;from
+Q240014;Paraguarí Department;основная категория по теме;1;1;from
+Q240014;Paraguarí Department;место рождения;1;2;to
+Q240014;Paraguarí Department;категория объединяет темы;1;2;to
+Q240014;Paraguarí Department;происходит из;1;1;to
+Q240014;Paraguarí Department;юрисдикция распространяется на;1;5;to
+Q240014;Paraguarí Department;общая тема категории;1;1;to
+Q240014;Paraguarí Department;код TGN;1;1;from
+Q240014;Paraguarí Department;код GeoNames;1;1;from
+Q240014;Paraguarí Department;категория для людей, родившихся здесь;1;1;from
+Q240014;Paraguarí Department;должность главы правительства;1;1;from
+Q222564;Itapúa;административно делится на;1;1;to
+Q240014;Paraguarí Department;административно-территориальная единица;1;63;to
+Q240014;Paraguarí Department;государство;1;1;from
+Q240014;Paraguarí Department;законодательный орган;1;1;from
+Q240014;Paraguarí Department;исполнительная власть;1;1;from
+Q240014;Paraguarí Department;код GND;1;1;from
+Q240014;Paraguarí Department;карта местонахождения;1;1;from
+Q240014;Paraguarí Department;это частный случай понятия;1;1;from
+Q240014;Paraguarí Department;столица;1;1;from
+Q240014;Paraguarí Department;изображение флага;1;1;from
+Q240014;Paraguarí Department;имеет границы с;1;7;to
+Q240014;Paraguarí Department;изображение герба;1;1;from
+Q240014;Paraguarí Department;десятичная классификация Дьюи;1;1;from
+Q240014;Paraguarí Department;численность населения;1;1;from
+Q240014;Paraguarí Department;код в Большой каталанской энциклопедии;1;1;from
+Q372461;Central Department;административно делится на;1;1;to
+Q526176;San Pedro Department;административно-территориальная единица;1;35;to
+Q526176;San Pedro Department;государство;1;1;from
+Q682654;Alto Paraná Department;происходит из;1;2;to
+Q682654;Alto Paraná Department;Who's on First ID;1;1;from
+Q682654;Alto Paraná Department;категория карт на Викискладе;1;1;from
+Q682654;Alto Paraná Department;официальный сайт;1;1;from
+Q682654;Alto Paraná Department;FIPS 10-4 (страны и регионы);1;1;from
+Q682654;Alto Paraná Department;основная категория по теме;1;1;from
+Q682654;Alto Paraná Department;является столицей;1;1;to
+Q682654;Alto Paraná Department;категория объединяет темы;1;2;to
+Q682654;Alto Paraná Department;юрисдикция распространяется на;1;5;to
+Q682654;Alto Paraná Department;географические координаты;1;1;from
+Q682654;Alto Paraná Department;общая тема категории;1;1;to
+Q682654;Alto Paraná Department;административно делится на;1;1;to
+Q686586;Amambay Department;административно-территориальная единица;1;24;to
+Q686586;Amambay Department;государство;1;1;from
+Q686586;Amambay Department;изображение;1;1;from
+Q686586;Amambay Department;законодательный орган;1;1;from
+Q686586;Amambay Department;исполнительная власть;1;1;from
+Q682654;Alto Paraná Department;код Freebase;1;1;from
+Q682654;Alto Paraná Department;дата основания/создания/возникновения;1;1;from
+Q682654;Alto Paraná Department;это частный случай понятия;1;1;from
+Q682654;Alto Paraná Department;категория для людей, родившихся здесь;1;1;from
+Q682654;Alto Paraná Department;изображение флага;1;1;from
+Q682654;Alto Paraná Department;имеет границы с;1;6;to
+Q682654;Alto Paraná Department;изображение герба;1;1;from
+Q682654;Alto Paraná Department;десятичная классификация Дьюи;1;1;from
+Q682654;Alto Paraná Department;численность населения;1;1;from
+Q682654;Alto Paraná Department;код в Большой каталанской энциклопедии;1;1;from
+Q682654;Alto Paraná Department;должность главы правительства;1;1;from
+Q682654;Alto Paraná Department;код GeoNames;1;1;from
+Q682654;Alto Paraná Department;часовой пояс;1;1;from
+Q682654;Alto Paraná Department;код TGN;1;1;from
+Q682654;Alto Paraná Department;площадь;1;1;from
+Q682654;Alto Paraná Department;код BNF;1;1;from
+Q682654;Alto Paraná Department;используемый язык;1;2;from
+Q682654;Alto Paraná Department;ISO 3166-2;1;1;from
+Q682654;Alto Paraná Department;категория на Викискладе;1;1;from
+Q682654;Alto Paraná Department;ID отношения в OpenStreetMap;1;1;from
+Q686586;Amambay Department;карта местонахождения;1;1;from
+Q686586;Amambay Department;это частный случай понятия;1;1;from
+Q686586;Amambay Department;столица;1;1;from
+Q686586;Amambay Department;является столицей;1;1;to
+Q686586;Amambay Department;официальный сайт;1;1;from
+Q686586;Amambay Department;FIPS 10-4 (страны и регионы);1;1;from
+Q686586;Amambay Department;основная категория по теме;1;1;from
+Q686586;Amambay Department;категория объединяет темы;1;2;to
+Q686586;Amambay Department;юрисдикция распространяется на;1;5;to
+Q686586;Amambay Department;происходит из;1;1;to
+Q686586;Amambay Department;общая тема категории;1;1;to
+Q686586;Amambay Department;место смерти;1;1;to
+Q686586;Amambay Department;изображение флага;1;1;from
+Q686586;Amambay Department;административно делится на;1;1;to
+Q741009;Concepción Department;административно-территориальная единица;1;25;to
+Q741009;Concepción Department;государство;1;1;from
+Q741009;Concepción Department;законодательный орган;1;1;from
+Q741009;Concepción Department;исполнительная власть;1;1;from
+Q741009;Concepción Department;код VIAF;1;1;from
+Q741009;Concepción Department;карта местонахождения;1;1;from
+Q686586;Amambay Department;категория карт на Викискладе;1;1;from
+Q686586;Amambay Department;Who's on First ID;1;1;from
+Q686586;Amambay Department;код Freebase;1;1;from
+Q686586;Amambay Department;географические координаты;1;1;from
+Q686586;Amambay Department;имеет границы с;1;4;to
+Q686586;Amambay Department;изображение герба;1;1;from
+Q686586;Amambay Department;десятичная классификация Дьюи;1;1;from
+Q686586;Amambay Department;численность населения;1;1;from
+Q686586;Amambay Department;код в Большой каталанской энциклопедии;1;1;from
+Q686586;Amambay Department;должность главы правительства;1;1;from
+Q686586;Amambay Department;категория для людей, родившихся здесь;1;1;from
+Q686586;Amambay Department;код GeoNames;1;1;from
+Q686586;Amambay Department;код TGN;1;1;from
+Q686586;Amambay Department;площадь;1;1;from
+Q686586;Amambay Department;используемый язык;1;1;from
+Q686586;Amambay Department;ISO 3166-2;1;1;from
+Q686586;Amambay Department;категория на Викискладе;1;1;from
+Q686586;Amambay Department;ID отношения в OpenStreetMap;1;1;from
+Q686586;Amambay Department;часовой пояс;1;1;from
+Q682654;Alto Paraná Department;столица;1;1;from
+Q682654;Alto Paraná Department;карта местонахождения;1;1;from
+Q526176;San Pedro Department;изображение;1;1;from
+Q526176;San Pedro Department;FIPS 10-4 (страны и регионы);1;1;from
+Q526176;San Pedro Department;ISO 3166-2;1;1;from
+Q526176;San Pedro Department;категория на Викискладе;1;1;from
+Q526176;San Pedro Department;ID отношения в OpenStreetMap;1;1;from
+Q526176;San Pedro Department;часовой пояс;1;1;from
+Q526176;San Pedro Department;географические координаты;1;1;from
+Q526176;San Pedro Department;код Freebase;1;1;from
+Q526176;San Pedro Department;Who's on First ID;1;1;from
+Q526176;San Pedro Department;основная категория по теме;1;1;from
+Q526176;San Pedro Department;площадь;1;1;from
+Q526176;San Pedro Department;является столицей;1;1;to
+Q526176;San Pedro Department;происходит из;1;3;to
+Q526176;San Pedro Department;категория объединяет темы;1;2;to
+Q526176;San Pedro Department;юрисдикция распространяется на;1;5;to
+Q526176;San Pedro Department;общая тема категории;1;1;to
+Q526176;San Pedro Department;место рождения;1;1;to
+Q526176;San Pedro Department;административно делится на;1;1;to
+Q526176;San Pedro Department;используемый язык;1;3;from
+Q526176;San Pedro Department;категория для людей, связанных с местностью;1;1;from
+Q682654;Alto Paraná Department;исполнительная власть;1;1;from
+Q526176;San Pedro Department;изображение флага;1;1;from
+Q526176;San Pedro Department;законодательный орган;1;1;from
+Q526176;San Pedro Department;исполнительная власть;1;1;from
+Q526176;San Pedro Department;код VIAF;1;1;from
+Q526176;San Pedro Department;код GND;1;1;from
+Q526176;San Pedro Department;карта местонахождения;1;1;from
+Q526176;San Pedro Department;это частный случай понятия;1;1;from
+Q526176;San Pedro Department;столица;1;1;from
+Q526176;San Pedro Department;имеет границы с;1;6;to
+Q526176;San Pedro Department;код TGN;1;1;from
+Q526176;San Pedro Department;изображение герба;1;1;from
+Q526176;San Pedro Department;десятичная классификация Дьюи;1;1;from
+Q526176;San Pedro Department;численность населения;1;1;from
+Q526176;San Pedro Department;код в Большой каталанской энциклопедии;1;1;from
+Q526176;San Pedro Department;должность главы правительства;1;1;from
+Q526176;San Pedro Department;категория для людей, родившихся здесь;1;1;from
+Q526176;San Pedro Department;код GeoNames;1;1;from
+Q682642;Alto Paraguay Department;административно-территориальная единица;1;20;to
+Q682642;Alto Paraguay Department;административно делится на;1;1;to
+Q682642;Alto Paraguay Department;государство;1;1;from
+Q682642;Alto Paraguay Department;является столицей;1;1;to
+Q682642;Alto Paraguay Department;дата основания/создания/возникновения;1;1;from
+Q682642;Alto Paraguay Department;географические координаты;1;1;from
+Q682642;Alto Paraguay Department;код Freebase;1;1;from
+Q682642;Alto Paraguay Department;Who's on First ID;1;1;from
+Q682642;Alto Paraguay Department;категория карт на Викискладе;1;1;from
+Q682642;Alto Paraguay Department;FIPS 10-4 (страны и регионы);1;2;from
+Q682642;Alto Paraguay Department;основная категория по теме;1;1;from
+Q682642;Alto Paraguay Department;происходит из;1;7;to
+Q682642;Alto Paraguay Department;законодательный орган;1;1;from
+Q682642;Alto Paraguay Department;место рождения;1;1;to
+Q682642;Alto Paraguay Department;юрисдикция распространяется на;1;5;to
+Q682642;Alto Paraguay Department;общая тема категории;1;1;to
+Q682642;Alto Paraguay Department;категория объединяет темы;1;1;to
+Q682654;Alto Paraná Department;административно-территориальная единица;1;72;to
+Q682654;Alto Paraná Department;государство;1;1;from
+Q682654;Alto Paraná Department;законодательный орган;1;1;from
+Q682642;Alto Paraguay Department;часовой пояс;1;1;from
+Q682642;Alto Paraguay Department;ID отношения в OpenStreetMap;1;1;from
+Q682642;Alto Paraguay Department;категория на Викискладе;1;1;from
+Q682642;Alto Paraguay Department;ISO 3166-2;1;1;from
+Q682642;Alto Paraguay Department;исполнительная власть;1;1;from
+Q682642;Alto Paraguay Department;карта местонахождения;1;1;from
+Q682642;Alto Paraguay Department;это частный случай понятия;1;1;from
+Q682642;Alto Paraguay Department;столица;1;1;from
+Q682642;Alto Paraguay Department;изображение флага;1;1;from
+Q682642;Alto Paraguay Department;имеет границы с;1;6;to
+Q682642;Alto Paraguay Department;изображение герба;1;1;from
+Q682642;Alto Paraguay Department;десятичная классификация Дьюи;1;1;from
+Q682642;Alto Paraguay Department;численность населения;1;1;from
+Q682642;Alto Paraguay Department;код в Большой каталанской энциклопедии;1;1;from
+Q682642;Alto Paraguay Department;должность главы правительства;1;1;from
+Q682642;Alto Paraguay Department;код GeoNames;1;1;from
+Q682642;Alto Paraguay Department;код TGN;1;1;from
+Q682642;Alto Paraguay Department;площадь;1;1;from
+Q682642;Alto Paraguay Department;используемый язык;1;7;from
+Q15977821;Nuevo Asunción Department;предыдущее по порядку;1;1;to

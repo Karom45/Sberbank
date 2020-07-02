@@ -1,0 +1,337 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q305677;Abastumani;административно-территориальная единица;1;1;to
+Q2508003;Gantiadi;изображение;1;1;from
+Q2508003;Gantiadi;географические координаты;1;1;from
+Q2508003;Gantiadi;категория на Викискладе;1;1;from
+Q2508003;Gantiadi;почтовый индекс;1;1;from
+Q2508003;Gantiadi;код Цифрового атласа Римской империи;1;1;from
+Q2508003;Gantiadi;код GeoNames;1;1;from
+Q2508003;Gantiadi;это частный случай понятия;1;2;from
+Q2508003;Gantiadi;карта местонахождения;1;1;from
+Q2508003;Gantiadi;находится на берегу водоёма;1;1;from
+Q2508003;Gantiadi;государство;1;1;from
+Q305677;Abastumani;государство;1;1;from
+Q2508003;Gantiadi;административно-территориальная единица;1;1;to
+Q2483897;Kazreti;Who's on First ID;1;1;from
+Q2483897;Kazreti;код Freebase;1;1;from
+Q2483897;Kazreti;географические координаты;1;1;from
+Q2483897;Kazreti;местный телефонный код;1;1;from
+Q2483897;Kazreti;часовой пояс;1;1;from
+Q2483897;Kazreti;категория на Викискладе;1;1;from
+Q2483897;Kazreti;почтовый индекс;1;1;from
+Q2508003;Gantiadi;код Freebase;1;1;from
+Q2508003;Gantiadi;Who's on First ID;1;1;from
+Q2508003;Gantiadi;место смерти;1;2;to
+Q2508003;Gantiadi;место рождения;1;2;to
+Q3646259;Makhinjauri;географические координаты;1;1;from
+Q3646259;Makhinjauri;категория на Викискладе;1;1;from
+Q3646259;Makhinjauri;код GeoNames;1;1;from
+Q3646259;Makhinjauri;численность населения;1;1;from
+Q3646259;Makhinjauri;это частный случай понятия;1;2;from
+Q3646259;Makhinjauri;изображение;1;1;from
+Q3646259;Makhinjauri;государство;1;1;from
+Q3646259;Makhinjauri;административно-территориальная единица;1;1;from
+Q2625895;Myussera;место смерти;1;1;to
+Q2625895;Myussera;Who's on First ID;1;1;from
+Q2625895;Myussera;код Freebase;1;1;from
+Q2625895;Myussera;географические координаты;1;1;from
+Q2625895;Myussera;ID отношения в OpenStreetMap;1;1;from
+Q2625895;Myussera;код GeoNames;1;1;from
+Q2625895;Myussera;это частный случай понятия;1;1;from
+Q2625895;Myussera;государство;1;2;from
+Q2625895;Myussera;административно-территориальная единица;1;2;from
+Q2483897;Kazreti;название на языке оригинала;1;1;from
+Q2483897;Kazreti;код GeoNames;1;1;from
+Q2483897;Kazreti;официальное название;1;1;from
+Q2474275;Surami;это частный случай понятия;1;2;from
+Q2474275;Surami;государство;1;1;from
+Q2474275;Surami;административно-территориальная единица;1;1;from
+Q2344454;Aspindza;местонахождение;1;1;to
+Q2344454;Aspindza;столица;1;1;to
+Q2344454;Aspindza;место рождения;1;3;to
+Q2344454;Aspindza;Who's on First ID;1;1;from
+Q2344454;Aspindza;код Freebase;1;1;from
+Q2344454;Aspindza;географические координаты;1;1;from
+Q2344454;Aspindza;категория на Викискладе;1;1;from
+Q2344454;Aspindza;высота над уровнем моря;1;1;from
+Q2344454;Aspindza;название на языке оригинала;1;1;from
+Q2344454;Aspindza;код GeoNames;1;1;from
+Q2344454;Aspindza;является столицей;1;1;from
+Q2344454;Aspindza;первое письменное упоминание;1;1;from
+Q2344454;Aspindza;это частный случай понятия;1;2;from
+Q2344454;Aspindza;изображение;1;2;from
+Q2344454;Aspindza;государство;1;1;from
+Q2474275;Surami;изображение;1;1;from
+Q2474275;Surami;численность населения;1;2;from
+Q2483897;Kazreti;численность населения;1;2;from
+Q2474275;Surami;описывается в источниках;1;1;from
+Q2483897;Kazreti;это частный случай понятия;1;1;from
+Q2483897;Kazreti;изображение;1;1;from
+Q2483897;Kazreti;государство;1;1;from
+Q2483897;Kazreti;административно-территориальная единица;1;1;from
+Q2474275;Surami;место смерти;1;1;to
+Q2474275;Surami;категория объединяет темы;1;2;to
+Q2474275;Surami;место рождения;1;6;to
+Q2474275;Surami;Who's on First ID;1;1;from
+Q2474275;Surami;код Freebase;1;1;from
+Q2474275;Surami;географические координаты;1;1;from
+Q2474275;Surami;часовой пояс;1;1;from
+Q2474275;Surami;категория на Викискладе;1;1;from
+Q2474275;Surami;название на языке оригинала;1;1;from
+Q2474275;Surami;код GeoNames;1;1;from
+Q2474275;Surami;категория для людей, умерших здесь;1;1;from
+Q2474275;Surami;категория для людей, родившихся здесь;1;1;from
+Q2474275;Surami;официальное название;1;1;from
+Q3646259;Makhinjauri;код Freebase;1;1;from
+Q3646259;Makhinjauri;Who's on First ID;1;1;from
+Q3646259;Makhinjauri;место смерти;1;1;to
+Q3951485;Цагвери;находится в пределах природно-географического объекта;1;1;from
+Q3951485;Цагвери;местный телефонный код;1;1;from
+Q3951485;Цагвери;категория на Викискладе;1;1;from
+Q3951485;Цагвери;почтовый индекс;1;1;from
+Q3951485;Цагвери;высота над уровнем моря;1;1;from
+Q3951485;Цагвери;это частный случай понятия;1;2;from
+Q3951485;Цагвери;изображение;1;1;from
+Q3951485;Цагвери;государство;1;1;from
+Q3951485;Цагвери;административно-территориальная единица;1;1;from
+Q3915294;Цхнети;место рождения;1;1;to
+Q3915294;Цхнети;географические координаты;1;1;from
+Q3915294;Цхнети;численность населения;1;1;from
+Q3915294;Цхнети;это частный случай понятия;1;2;from
+Q3915294;Цхнети;государство;1;1;from
+Q3915294;Цхнети;административно-территориальная единица;1;1;from
+Q3814758;Tamarisi;географические координаты;1;1;from
+Q3814758;Tamarisi;дата основания/создания/возникновения;1;1;from
+Q3814758;Tamarisi;местный телефонный код;1;1;from
+Q3951485;Цагвери;географические координаты;1;1;from
+Q3951485;Цагвери;место смерти;1;1;to
+Q3814758;Tamarisi;почтовый индекс;1;1;from
+Q3951485;Цагвери;место рождения;1;1;to
+Q14645211;Kharagauli;место рождения;1;2;to
+Q14645211;Kharagauli;код Freebase;1;1;from
+Q14645211;Kharagauli;географические координаты;1;1;from
+Q14645211;Kharagauli;дата основания/создания/возникновения;1;1;from
+Q14645211;Kharagauli;местный телефонный код;1;1;from
+Q14645211;Kharagauli;категория на Викискладе;1;1;from
+Q14645211;Kharagauli;почтовый индекс;1;1;from
+Q14645211;Kharagauli;классификация климата Кёппена;1;1;from
+Q14645211;Kharagauli;площадь;1;1;from
+Q14645211;Kharagauli;код GeoNames;1;1;from
+Q14645211;Kharagauli;является столицей;1;1;from
+Q14645211;Kharagauli;численность населения;1;3;from
+Q14645211;Kharagauli;это частный случай понятия;1;2;from
+Q14645211;Kharagauli;находится на берегу водоёма;1;1;from
+Q14645211;Kharagauli;изображение;1;1;from
+Q14645211;Kharagauli;государство;1;1;from
+Q14645211;Kharagauli;административно-территориальная единица;1;1;from
+Q3814758;Tamarisi;часовой пояс;1;1;from
+Q3814758;Tamarisi;высота над уровнем моря;1;1;from
+Q3646262;Chakvi;административно-территориальная единица;1;1;from
+Q3646490;Ochkhamuri;это частный случай понятия;1;2;from
+Q3646490;Ochkhamuri;государство;1;1;from
+Q3646490;Ochkhamuri;административно-территориальная единица;1;1;from
+Q3646262;Chakvi;место рождения;1;1;to
+Q3646262;Chakvi;основная тема;1;1;to
+Q3646262;Chakvi;Who's on First ID;1;1;from
+Q3646262;Chakvi;код Freebase;1;1;from
+Q3646262;Chakvi;географические координаты;1;1;from
+Q3646262;Chakvi;местный телефонный код;1;1;from
+Q3646262;Chakvi;категория на Викискладе;1;1;from
+Q3646262;Chakvi;почтовый индекс;1;1;from
+Q3646262;Chakvi;высота над уровнем моря;1;1;from
+Q3646262;Chakvi;код GeoNames;1;1;from
+Q3646262;Chakvi;описывается в источниках;1;1;from
+Q3646262;Chakvi;численность населения;1;2;from
+Q3646262;Chakvi;это частный случай понятия;1;2;from
+Q3646262;Chakvi;изображение;1;1;from
+Q3646262;Chakvi;государство;1;1;from
+Q3646490;Ochkhamuri;находится на берегу водоёма;1;1;from
+Q3646490;Ochkhamuri;численность населения;1;2;from
+Q3814758;Tamarisi;название на языке оригинала;1;1;from
+Q3646490;Ochkhamuri;код GeoNames;1;1;from
+Q3814758;Tamarisi;официальное название;1;1;from
+Q3814758;Tamarisi;численность населения;1;3;from
+Q3814758;Tamarisi;это частный случай понятия;1;2;from
+Q3814758;Tamarisi;государство;1;1;from
+Q3814758;Tamarisi;административно-территориальная единица;1;1;from
+Q3653117;Mirzaani, daba;географические координаты;1;1;from
+Q3653117;Mirzaani, daba;почтовый индекс;1;1;from
+Q3653117;Mirzaani, daba;не путать с;1;1;from
+Q3653117;Mirzaani, daba;численность населения;1;2;from
+Q3653117;Mirzaani, daba;это частный случай понятия;1;2;from
+Q3653117;Mirzaani, daba;государство;1;1;from
+Q3653117;Mirzaani, daba;административно-территориальная единица;1;1;from
+Q3646490;Ochkhamuri;место рождения;1;1;to
+Q3646490;Ochkhamuri;Who's on First ID;1;1;from
+Q3646490;Ochkhamuri;географические координаты;1;1;from
+Q3646490;Ochkhamuri;почтовый индекс;1;1;from
+Q3646490;Ochkhamuri;высота над уровнем моря;1;1;from
+Q2344454;Aspindza;административно-территориальная единица;1;1;from
+Q2200805;Bediani;место рождения;1;1;to
+Q2200805;Bediani;Who's on First ID;1;1;from
+Q1025102;Keda;высота над уровнем моря;1;1;from
+Q1025102;Keda;является столицей;1;1;from
+Q1025102;Keda;численность населения;1;2;from
+Q1025102;Keda;изображение герба;1;1;from
+Q1025102;Keda;изображение флага;1;1;from
+Q1025102;Keda;это частный случай понятия;1;2;from
+Q1025102;Keda;находится на берегу водоёма;1;1;from
+Q1025102;Keda;изображение;1;1;from
+Q1025102;Keda;государство;1;1;from
+Q1025102;Keda;административно-территориальная единица;1;1;from
+Q789104;Bakuriani;общая тема категории;1;1;to
+Q789104;Bakuriani;категория объединяет темы;1;1;to
+Q789104;Bakuriani;место жительства;1;1;to
+Q789104;Bakuriani;место рождения;1;10;to
+Q789104;Bakuriani;код NLI;1;1;from
+Q789104;Bakuriani;официальный сайт;1;1;from
+Q789104;Bakuriani;находится в пределах природно-географического объекта;1;1;from
+Q789104;Bakuriani;Who's on First ID;1;1;from
+Q1025102;Keda;код GeoNames;1;1;from
+Q1025102;Keda;почтовый индекс;1;1;from
+Q789104;Bakuriani;географические координаты;1;1;from
+Q1025102;Keda;географические координаты;1;1;from
+Q1025120;Khelvachauri;место рождения;1;2;to
+Q1025120;Khelvachauri;Who's on First ID;1;1;from
+Q1025120;Khelvachauri;код Freebase;1;1;from
+Q1025120;Khelvachauri;географические координаты;1;1;from
+Q1025120;Khelvachauri;категория на Викискладе;1;1;from
+Q1025120;Khelvachauri;почтовый индекс;1;1;from
+Q1025120;Khelvachauri;код GeoNames;1;1;from
+Q1025120;Khelvachauri;является столицей;1;1;from
+Q1025120;Khelvachauri;численность населения;1;1;from
+Q1025120;Khelvachauri;это частный случай понятия;1;2;from
+Q1025120;Khelvachauri;изображение;1;2;from
+Q1025120;Khelvachauri;государство;1;1;from
+Q1025120;Khelvachauri;административно-территориальная единица;1;1;from
+Q1025102;Keda;место рождения;1;1;to
+Q1025102;Keda;категория объединяет темы;1;1;to
+Q1025102;Keda;столица;1;1;to
+Q1025102;Keda;код Freebase;1;1;from
+Q789104;Bakuriani;код Freebase;1;1;from
+Q789104;Bakuriani;категория на Викискладе;1;1;from
+Q1025823;Stepantsminda;административно-территориальная единица;1;1;to
+Q305677;Abastumani;Who's on First ID;1;1;from
+Q305677;Abastumani;географические координаты;1;1;from
+Q305677;Abastumani;местный телефонный код;1;1;from
+Q305677;Abastumani;часовой пояс;1;1;from
+Q305677;Abastumani;категория на Викискладе;1;1;from
+Q305677;Abastumani;код в Большой российской энциклопедии онлайн;1;1;from
+Q305677;Abastumani;почтовый индекс;1;1;from
+Q305677;Abastumani;площадь;1;1;from
+Q305677;Abastumani;высота над уровнем моря;1;2;from
+Q305677;Abastumani;название на языке оригинала;1;1;from
+Q305677;Abastumani;код GeoNames;1;1;from
+Q305677;Abastumani;официальное название;1;3;from
+Q305677;Abastumani;описывается в источниках;1;7;from
+Q305677;Abastumani;численность населения;1;2;from
+Q305677;Abastumani;это частный случай понятия;1;3;from
+Q305677;Abastumani;код LCNAF;1;1;from
+Q305677;Abastumani;код VIAF;1;1;from
+Q305677;Abastumani;изображение;1;2;from
+Q305677;Abastumani;код Freebase;1;1;from
+Q305677;Abastumani;находится в пределах природно-географического объекта;1;1;from
+Q789104;Bakuriani;код в Большой российской энциклопедии онлайн;1;1;from
+Q305677;Abastumani;баннер Викигида;1;1;from
+Q789104;Bakuriani;почтовый индекс;1;1;from
+Q789104;Bakuriani;код FAST;1;1;from
+Q789104;Bakuriani;высота над уровнем моря;1;1;from
+Q789104;Bakuriani;категория для людей, связанных с местностью;1;1;from
+Q789104;Bakuriani;код GeoNames;1;1;from
+Q789104;Bakuriani;описывается в источниках;1;1;from
+Q789104;Bakuriani;это частный случай понятия;1;2;from
+Q789104;Bakuriani;код LCNAF;1;1;from
+Q789104;Bakuriani;код GND;1;1;from
+Q789104;Bakuriani;код VIAF;1;1;from
+Q789104;Bakuriani;изображение;1;2;from
+Q789104;Bakuriani;государство;1;1;from
+Q789104;Bakuriani;административно-территориальная единица;1;1;from
+Q305677;Abastumani;место рождения;1;4;to
+Q305677;Abastumani;основная тема;1;3;to
+Q305677;Abastumani;названо в честь;1;1;to
+Q305677;Abastumani;место смерти;1;4;to
+Q1025120;Khelvachauri;столица;1;1;to
+Q1025823;Stepantsminda;государство;1;1;from
+Q2200805;Bediani;код Freebase;1;1;from
+Q2090524;Tianeti;численность населения;1;1;from
+Q2090524;Tianeti;находится на берегу водоёма;1;1;from
+Q2090524;Tianeti;изображение;1;2;from
+Q2090524;Tianeti;государство;1;3;from
+Q2090524;Tianeti;административно-территориальная единица;1;2;from
+Q2029774;Manglisi;значимое место;1;1;to
+Q2029774;Manglisi;местонахождение;1;1;to
+Q2029774;Manglisi;место рождения;1;9;to
+Q2029774;Manglisi;галерея на Викискладе;1;1;from
+Q2029774;Manglisi;Who's on First ID;1;1;from
+Q2029774;Manglisi;географические координаты;1;1;from
+Q2029774;Manglisi;дата основания/создания/возникновения;1;1;from
+Q2029774;Manglisi;почтовый индекс;1;1;from
+Q2029774;Manglisi;высота над уровнем моря;1;1;from
+Q2029774;Manglisi;название на языке оригинала;1;1;from
+Q2029774;Manglisi;код TGN;1;1;from
+Q2029774;Manglisi;код GeoNames;1;1;from
+Q2029774;Manglisi;описывается в источниках;1;1;from
+Q2090524;Tianeti;это частный случай понятия;1;2;from
+Q2090524;Tianeti;является столицей;1;2;from
+Q2029774;Manglisi;это частный случай понятия;1;3;from
+Q2090524;Tianeti;код GeoNames;1;1;from
+Q2200805;Bediani;географические координаты;1;1;from
+Q2200805;Bediani;категория на Викискладе;1;1;from
+Q2200805;Bediani;высота над уровнем моря;1;1;from
+Q2200805;Bediani;код GeoNames;1;1;from
+Q2200805;Bediani;это частный случай понятия;1;2;from
+Q2200805;Bediani;изображение;1;1;from
+Q2200805;Bediani;государство;1;1;from
+Q2200805;Bediani;административно-территориальная единица;1;1;from
+Q2090524;Tianeti;столица;1;2;to
+Q2090524;Tianeti;место рождения;1;5;to
+Q2090524;Tianeti;официальный сайт;1;1;from
+Q2090524;Tianeti;код Freebase;1;1;from
+Q2090524;Tianeti;географические координаты;1;1;from
+Q2090524;Tianeti;местный телефонный код;1;1;from
+Q2090524;Tianeti;категория на Викискладе;1;1;from
+Q2090524;Tianeti;почтовый индекс;1;1;from
+Q2090524;Tianeti;высота над уровнем моря;1;1;from
+Q2029774;Manglisi;численность населения;1;1;from
+Q2029774;Manglisi;находится на берегу водоёма;1;1;from
+Q1025823;Stepantsminda;изображение;1;1;from
+Q1025823;Stepantsminda;местонахождение;1;1;to
+Q1025823;Stepantsminda;место рождения;1;6;to
+Q1025823;Stepantsminda;значимое место;1;3;to
+Q1025823;Stepantsminda;dmoz;1;1;from
+Q1025823;Stepantsminda;баннер Викигида;1;1;from
+Q1025823;Stepantsminda;Who's on First ID;1;1;from
+Q1025823;Stepantsminda;код Freebase;1;1;from
+Q1025823;Stepantsminda;географические координаты;1;1;from
+Q1025823;Stepantsminda;местный телефонный код;1;1;from
+Q1025823;Stepantsminda;категория на Викискладе;1;1;from
+Q1025823;Stepantsminda;код темы Quora;1;1;from
+Q1025823;Stepantsminda;высота над уровнем моря;1;1;from
+Q1025823;Stepantsminda;название на языке оригинала;1;1;from
+Q1025823;Stepantsminda;код GeoNames;1;1;from
+Q1025823;Stepantsminda;официальное название;1;1;from
+Q1025823;Stepantsminda;является столицей;1;1;from
+Q1025823;Stepantsminda;численность населения;1;2;from
+Q1025823;Stepantsminda;это частный случай понятия;1;2;from
+Q1025823;Stepantsminda;столица;1;1;to
+Q1089456;Khulo;административно-территориальная единица;1;1;to
+Q2029774;Manglisi;изображение;1;1;from
+Q1089456;Khulo;государство;1;1;from
+Q2029774;Manglisi;государство;1;1;from
+Q2029774;Manglisi;административно-территориальная единица;1;1;from
+Q1089456;Khulo;место рождения;1;4;to
+Q1089456;Khulo;столица;1;1;to
+Q1089456;Khulo;Who's on First ID;1;1;from
+Q1089456;Khulo;код Freebase;1;1;from
+Q1089456;Khulo;географические координаты;1;1;from
+Q1089456;Khulo;дата основания/создания/возникновения;1;1;from
+Q1089456;Khulo;категория на Викискладе;1;1;from
+Q1089456;Khulo;почтовый индекс;1;1;from
+Q1089456;Khulo;высота над уровнем моря;1;1;from
+Q1089456;Khulo;код GeoNames;1;1;from
+Q1089456;Khulo;является столицей;1;1;from
+Q1089456;Khulo;численность населения;1;1;from
+Q1089456;Khulo;это частный случай понятия;1;2;from
+Q1089456;Khulo;находится на берегу водоёма;1;1;from
+Q1089456;Khulo;изображение;1;1;from
+Q14645211;Kharagauli;столица;1;1;to

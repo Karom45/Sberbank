@@ -1,0 +1,452 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q6906;UTC+06:00;изображение;1;1;from
+Q5895100;Hong Kong Time;предположительно одно и то же с;1;1;from
+Q3543509;Philippine Standard Time;короткое название;1;1;from
+Q3543509;Philippine Standard Time;это частный случай понятия;1;1;from
+Q3543509;Philippine Standard Time;государство;1;1;from
+Q3446496;Chamorro Time Zone;часовой пояс;1;6;to
+Q3446496;Chamorro Time Zone;предположительно одно и то же с;1;1;from
+Q3446496;Chamorro Time Zone;сдвиг часового пояса;1;1;from
+Q3446496;Chamorro Time Zone;это частный случай понятия;1;1;from
+Q3297477;Nepal Standard Time;часовой пояс;1;47;to
+Q3297477;Nepal Standard Time;код Freebase;1;1;from
+Q3297477;Nepal Standard Time;предположительно одно и то же с;1;1;from
+Q3297477;Nepal Standard Time;сдвиг часового пояса;1;1;from
+Q3297477;Nepal Standard Time;это частный случай понятия;1;1;from
+Q3272978;time in Malaysia;общая тема категории;1;1;to
+Q3272978;time in Malaysia;часовой пояс;1;326;to
+Q3272978;time in Malaysia;основная категория по теме;1;1;from
+Q3272978;time in Malaysia;код Freebase;1;1;from
+Q3272978;time in Malaysia;предположительно одно и то же с;1;1;from
+Q3272978;time in Malaysia;сдвиг часового пояса;1;1;from
+Q3272978;time in Malaysia;короткое название;1;2;from
+Q3272978;time in Malaysia;это частный случай понятия;1;1;from
+Q3272978;time in Malaysia;государство;1;1;from
+Q3248716;Bangladesh Standard Time;код Freebase;1;1;from
+Q3248716;Bangladesh Standard Time;предположительно одно и то же с;1;1;to
+Q3248716;Bangladesh Standard Time;часовой пояс;1;14;to
+Q3248716;Bangladesh Standard Time;сдвиг часового пояса;1;1;from
+Q3543509;Philippine Standard Time;сдвиг часового пояса;1;1;from
+Q3543509;Philippine Standard Time;категория на Викискладе;1;1;from
+Q3543509;Philippine Standard Time;предположительно одно и то же с;1;1;from
+Q4544247;Egypt Standard Time;сдвиг часового пояса;1;1;from
+Q5895100;Hong Kong Time;это частный случай понятия;1;1;from
+Q5087694;Chatham Standard Time Zone;географические координаты;1;1;from
+Q5087694;Chatham Standard Time Zone;предположительно одно и то же с;1;1;from
+Q5087694;Chatham Standard Time Zone;сдвиг часового пояса;1;1;from
+Q5087694;Chatham Standard Time Zone;это частный случай понятия;1;1;from
+Q4816926;Samoa Time Zone;часовой пояс;1;13;to
+Q4816926;Samoa Time Zone;предположительно одно и то же с;1;1;to
+Q4816926;Samoa Time Zone;сдвиг часового пояса;1;1;from
+Q4816926;Samoa Time Zone;это частный случай понятия;1;1;from
+Q4544247;Egypt Standard Time;часовой пояс;1;8;to
+Q4544247;Egypt Standard Time;предположительно одно и то же с;1;1;from
+Q4544247;Egypt Standard Time;это частный случай понятия;1;1;from
+Q3543509;Philippine Standard Time;код Freebase;1;1;from
+Q4205542;Myanmar Standard Time;общая тема категории;1;1;to
+Q4205542;Myanmar Standard Time;часовой пояс;1;11;to
+Q4205542;Myanmar Standard Time;предположительно одно и то же с;1;1;from
+Q4205542;Myanmar Standard Time;сдвиг часового пояса;1;1;from
+Q4205542;Myanmar Standard Time;это частный случай понятия;1;1;from
+Q4127120;Armenia Time;часовой пояс;1;2;to
+Q4127120;Armenia Time;предположительно одно и то же с;1;1;from
+Q4127120;Armenia Time;сдвиг часового пояса;1;1;from
+Q4127120;Armenia Time;это частный случай понятия;1;1;from
+Q4127120;Armenia Time;государство;1;1;from
+Q3543509;Philippine Standard Time;часовой пояс;1;275;to
+Q3248716;Bangladesh Standard Time;это частный случай понятия;1;1;from
+Q3248716;Bangladesh Standard Time;государство;1;1;from
+Q3246553;Azerbaijan Time;общая тема категории;1;1;to
+Q3134950;Kunlun time;истинно для места;1;1;from
+Q3208688;Cape Verde Time;изображение;1;1;from
+Q3208688;Cape Verde Time;государство;1;1;from
+Q3134980;Mountain Time Zone;часовой пояс;1;3960;to
+Q3134980;Mountain Time Zone;код Freebase;1;1;from
+Q3134980;Mountain Time Zone;предположительно одно и то же с;1;2;to
+Q3134980;Mountain Time Zone;категория на Викискладе;1;1;from
+Q3134980;Mountain Time Zone;сдвиг часового пояса;1;2;from
+Q3134980;Mountain Time Zone;это частный случай понятия;1;1;from
+Q3134980;Mountain Time Zone;изображение;1;1;from
+Q3134950;Kunlun time;дата окончания;1;1;from
+Q3134950;Kunlun time;дата основания/создания/возникновения;1;1;from
+Q3134950;Kunlun time;это частный случай понятия;1;1;from
+Q3208688;Cape Verde Time;сдвиг часового пояса;1;1;from
+Q2620414;Kamchatka Time;часовой пояс;1;6;to
+Q2620414;Kamchatka Time;код Freebase;1;1;from
+Q2620414;Kamchatka Time;предположительно одно и то же с;1;1;from
+Q2620414;Kamchatka Time;сдвиг часового пояса;1;1;from
+Q2620414;Kamchatka Time;короткое название;1;2;from
+Q2620414;Kamchatka Time;это частный случай понятия;1;1;from
+Q2598703;Yukon Standard Time Zone;это частный случай понятия;1;1;from
+Q2583609;Israel time zone;общая тема категории;1;1;to
+Q2583609;Israel time zone;часовой пояс;1;14;to
+Q2583609;Israel time zone;код Freebase;1;1;from
+Q2583609;Israel time zone;предположительно одно и то же с;1;1;to
+Q3208688;Cape Verde Time;это частный случай понятия;1;1;from
+Q3208688;Cape Verde Time;предположительно одно и то же с;1;1;to
+Q3246553;Azerbaijan Time;часовой пояс;1;4;to
+Q3244578;Singapore Standard Time;это частный случай понятия;1;1;from
+Q3246553;Azerbaijan Time;основная категория по теме;1;1;from
+Q3246553;Azerbaijan Time;предположительно одно и то же с;1;1;from
+Q3246553;Azerbaijan Time;сдвиг часового пояса;1;1;from
+Q3246553;Azerbaijan Time;короткое название;1;1;from
+Q3246553;Azerbaijan Time;это частный случай понятия;1;1;from
+Q3246553;Azerbaijan Time;государство;1;1;from
+Q3244578;Singapore Standard Time;общая тема категории;1;1;to
+Q3244578;Singapore Standard Time;часовой пояс;1;57;to
+Q3244578;Singapore Standard Time;код Freebase;1;1;from
+Q3244578;Singapore Standard Time;предположительно одно и то же с;1;1;to
+Q3244578;Singapore Standard Time;сдвиг часового пояса;1;1;from
+Q3244578;Singapore Standard Time;государство;1;1;from
+Q3208688;Cape Verde Time;код Freebase;1;1;from
+Q3241537;Hawaii–Aleutian Time Zone;часовой пояс;1;23;to
+Q3241537;Hawaii–Aleutian Time Zone;код Freebase;1;1;from
+Q3241537;Hawaii–Aleutian Time Zone;предположительно одно и то же с;1;1;from
+Q3241537;Hawaii–Aleutian Time Zone;сдвиг часового пояса;1;1;from
+Q3241537;Hawaii–Aleutian Time Zone;это частный случай понятия;1;1;from
+Q3238805;Alaska Time Zone;часовой пояс;1;112;to
+Q3238805;Alaska Time Zone;код Freebase;1;1;from
+Q3238805;Alaska Time Zone;предположительно одно и то же с;1;2;to
+Q3238805;Alaska Time Zone;сдвиг часового пояса;1;2;from
+Q3238805;Alaska Time Zone;это частный случай понятия;1;1;from
+Q3208688;Cape Verde Time;часовой пояс;1;1;to
+Q5895100;Hong Kong Time;сдвиг часового пояса;1;1;from
+Q5895100;Hong Kong Time;часовой пояс;1;3;to
+Q2583609;Israel time zone;это частный случай понятия;1;1;from
+Q6087247;Israel Summer Time;это частный случай понятия;1;1;from
+Q27963524;Asia/Seoul;это частный случай понятия;1;1;from
+Q21168029;Yemen time zone;часовой пояс;1;2;to
+Q21168029;Yemen time zone;это частный случай понятия;1;1;from
+Q21168029;Yemen time zone;государство;1;1;from
+Q20988530;time in Turkey;часовой пояс;1;2;to
+Q20988530;time in Turkey;сдвиг часового пояса;1;1;from
+Q20988530;time in Turkey;это частный случай понятия;1;2;from
+Q20988530;time in Turkey;государство;1;1;from
+Q20757849;Changpai time;заменил;1;1;to
+Q20757849;Changpai time;дата окончания;1;1;from
+Q20757849;Changpai time;дата начала;1;1;from
+Q20757849;Changpai time;заменён на;1;1;from
+Q20757849;Changpai time;это частный случай понятия;1;2;from
+Q20757849;Changpai time;названо в честь;1;1;from
+Q20757515;Pyongyang time;часовой пояс;1;823;to
+Q20757515;Pyongyang time;дата основания/создания/возникновения;1;1;from
+Q20757515;Pyongyang time;сдвиг часового пояса;1;3;from
+Q20757515;Pyongyang time;это частный случай понятия;1;1;from
+Q20757515;Pyongyang time;государство;1;1;from
+Q20757515;Pyongyang time;названо в честь;1;1;from
+Q20757515;Pyongyang time;административно-территориальная единица;1;1;from
+Q18392530;Srednekolymsk Time;предположительно одно и то же с;1;1;from
+Q18392530;Srednekolymsk Time;сдвиг часового пояса;1;1;from
+Q18392530;Srednekolymsk Time;это частный случай понятия;1;1;from
+Q18355572;Saudi Arabia Standard Time;предположительно одно и то же с;1;1;from
+Q27963524;Asia/Seoul;сдвиг часового пояса;1;1;from
+Q27963524;Asia/Seoul;предположительно одно и то же с;1;1;from
+Q27963524;Asia/Seoul;часовой пояс;1;1;to
+Q56678087;Sri Lanka Time Zone;это частный случай понятия;1;1;from
+Q60738798;Newfoundland Time Zone;это частный случай понятия;1;1;from
+Q60738798;Newfoundland Time Zone;государство;1;1;from
+Q59255877;Australian Western Standard Time;предположительно одно и то же с;1;1;to
+Q59255877;Australian Western Standard Time;сдвиг часового пояса;1;1;from
+Q59255877;Australian Western Standard Time;это частный случай понятия;1;1;from
+Q57175063;West African Time Zone;часовой пояс;1;3;to
+Q57175063;West African Time Zone;это частный случай понятия;1;1;from
+Q57175063;West African Time Zone;часть света;1;1;from
+Q56678272;Venezuela Time Zone;часовой пояс;1;1;to
+Q56678272;Venezuela Time Zone;это частный случай понятия;1;1;from
+Q56678087;Sri Lanka Time Zone;часовой пояс;1;1;to
+Q56640598;Central European Time Zone;часовой пояс;1;1;to
+Q30016705;Indochina Time;это частный случай понятия;1;1;from
+Q56640598;Central European Time Zone;местонахождение;1;1;from
+Q56640598;Central European Time Zone;это частный случай понятия;1;1;from
+Q48782664;Q48782664;часовой пояс;1;2;to
+Q48782664;Q48782664;сдвиг часового пояса;1;1;from
+Q48782664;Q48782664;это частный случай понятия;1;1;from
+Q48782664;Q48782664;государство;1;1;from
+Q30016705;Indochina Time;основная тема;1;6;to
+Q30016705;Indochina Time;часовой пояс;1;15;to
+Q30016705;Indochina Time;предположительно одно и то же с;1;1;from
+Q30016705;Indochina Time;сдвиг часового пояса;1;1;from
+Q30016705;Indochina Time;короткое название;1;1;from
+Q18355572;Saudi Arabia Standard Time;сдвиг часового пояса;1;1;from
+Q18355572;Saudi Arabia Standard Time;это частный случай понятия;1;1;from
+Q18355572;Saudi Arabia Standard Time;государство;1;1;from
+Q7458035;Indonesia Western Standard Time;официальное название;1;1;from
+Q7458046;Indonesia Central Standard Time;часовой пояс;1;6;to
+Q7458046;Indonesia Central Standard Time;предположительно одно и то же с;1;1;to
+Q7458046;Indonesia Central Standard Time;часть от;1;1;from
+Q7458046;Indonesia Central Standard Time;сдвиг часового пояса;1;1;from
+Q7458046;Indonesia Central Standard Time;это частный случай понятия;1;1;from
+Q7458046;Indonesia Central Standard Time;государство;1;1;from
+Q7458035;Indonesia Western Standard Time;состоит из;1;1;to
+Q7458035;Indonesia Western Standard Time;часовой пояс;1;39;to
+Q7458035;Indonesia Western Standard Time;предположительно одно и то же с;1;1;to
+Q7458035;Indonesia Western Standard Time;часть от;1;1;from
+Q7458035;Indonesia Western Standard Time;сдвиг часового пояса;1;1;from
+Q7458035;Indonesia Western Standard Time;это частный случай понятия;1;1;from
+Q7458054;Indonesia Eastern Standard Time;государство;1;1;from
+Q7458035;Indonesia Western Standard Time;государство;1;1;from
+Q6913416;Bagdad Time zone;часовой пояс;1;1;from
+Q6913416;Bagdad Time zone;это частный случай понятия;1;1;from
+Q6171715;Ecuador Time;общая тема категории;1;1;to
+Q6171715;Ecuador Time;часовой пояс;1;1;to
+Q6171715;Ecuador Time;основная категория по теме;1;1;from
+Q6171715;Ecuador Time;это частный случай понятия;1;2;from
+Q6171715;Ecuador Time;государство;1;1;from
+Q6087247;Israel Summer Time;часовой пояс;1;3;to
+Q6087247;Israel Summer Time;предположительно одно и то же с;1;1;from
+Q6087247;Israel Summer Time;сдвиг часового пояса;1;1;from
+Q7458046;Indonesia Central Standard Time;состоит из;1;1;to
+Q7458054;Indonesia Eastern Standard Time;это частный случай понятия;1;1;from
+Q16888326;Kyrgyzstan Time;предположительно одно и то же с;1;1;from
+Q7987828;Western European Summer Time;предположительно одно и то же с;1;1;from
+Q16888326;Kyrgyzstan Time;сдвиг часового пояса;1;1;from
+Q16888326;Kyrgyzstan Time;это частный случай понятия;1;1;from
+Q16888326;Kyrgyzstan Time;государство;1;1;from
+Q12644295;Vanuatu Time;предположительно одно и то же с;1;1;to
+Q12644295;Vanuatu Time;сдвиг часового пояса;1;1;from
+Q12644295;Vanuatu Time;это частный случай понятия;1;1;from
+Q11367286;Central Daylight Time;предположительно одно и то же с;1;1;to
+Q11367286;Central Daylight Time;сдвиг часового пояса;1;1;from
+Q11367286;Central Daylight Time;это частный случай понятия;1;1;from
+Q7987828;Western European Summer Time;часовой пояс;1;1070;to
+Q7987828;Western European Summer Time;код Freebase;1;1;from
+Q7987828;Western European Summer Time;сдвиг часового пояса;1;1;from
+Q7458054;Indonesia Eastern Standard Time;сдвиг часового пояса;1;1;from
+Q7987828;Western European Summer Time;это частный случай понятия;1;1;from
+Q7805356;Peru Time Zone;общая тема категории;1;1;to
+Q7805356;Peru Time Zone;часовой пояс;1;5;to
+Q7805356;Peru Time Zone;основная категория по теме;1;1;from
+Q7805356;Peru Time Zone;предположительно одно и то же с;1;1;from
+Q7805356;Peru Time Zone;сдвиг часового пояса;1;1;from
+Q7805356;Peru Time Zone;это частный случай понятия;1;1;from
+Q7805356;Peru Time Zone;государство;1;1;from
+Q7458054;Indonesia Eastern Standard Time;состоит из;1;1;to
+Q7458054;Indonesia Eastern Standard Time;предположительно одно и то же с;1;1;to
+Q7458054;Indonesia Eastern Standard Time;часть от;1;1;from
+Q2583609;Israel time zone;сдвиг часового пояса;1;1;from
+Q2583609;Israel time zone;государство;1;1;from
+Q6906;UTC+06:00;это частный случай понятия;1;2;from
+Q1053705;Central Africa Time;это частный случай понятия;1;1;from
+Q843589;Western European Time;сдвиг часового пояса;1;1;from
+Q843589;Western European Time;это частный случай понятия;1;1;from
+Q843589;Western European Time;часть света;1;1;from
+Q842320;Moscow Time;код Freebase;1;1;from
+Q842320;Moscow Time;предположительно одно и то же с;1;1;to
+Q842320;Moscow Time;часовой пояс;1;1163;to
+Q842320;Moscow Time;сдвиг часового пояса;1;3;from
+Q842320;Moscow Time;короткое название;1;2;from
+Q842320;Moscow Time;это частный случай понятия;1;1;from
+Q842320;Moscow Time;государство;1;1;from
+Q770321;South African Standard Time;общая тема категории;1;1;to
+Q770321;South African Standard Time;часовой пояс;1;4;to
+Q770321;South African Standard Time;код Freebase;1;1;from
+Q770321;South African Standard Time;предположительно одно и то же с;1;1;to
+Q770321;South African Standard Time;сдвиг часового пояса;1;1;from
+Q770321;South African Standard Time;это частный случай понятия;1;1;from
+Q712168;Taiwan time;общая тема категории;1;1;to
+Q712168;Taiwan time;часовой пояс;1;1597;to
+Q712168;Taiwan time;основная категория по теме;1;1;from
+Q712168;Taiwan time;код Freebase;1;1;from
+Q712168;Taiwan time;предположительно одно и то же с;1;1;to
+Q712168;Taiwan time;сдвиг часового пояса;1;1;from
+Q712168;Taiwan time;это частный случай понятия;1;2;from
+Q712168;Taiwan time;государство;1;1;from
+Q712168;Taiwan time;административно делится на;1;4;from
+Q843589;Western European Time;предположительно одно и то же с;1;1;to
+Q843589;Western European Time;код Freebase;1;1;from
+Q843589;Western European Time;часовой пояс;1;2087;to
+Q909085;Japan Standard Time;код Freebase;1;1;from
+Q996734;Macau Standard Time;предположительно одно и то же с;1;1;to
+Q996734;Macau Standard Time;это частный случай понятия;1;2;from
+Q941023;Eastern Time Zone;часовой пояс;1;12492;to
+Q941023;Eastern Time Zone;код Freebase;1;1;from
+Q941023;Eastern Time Zone;предположительно одно и то же с;1;2;to
+Q941023;Eastern Time Zone;категория на Викискладе;1;1;from
+Q941023;Eastern Time Zone;сдвиг часового пояса;1;2;from
+Q941023;Eastern Time Zone;это частный случай понятия;1;1;from
+Q941023;Eastern Time Zone;изображение;1;1;from
+Q909085;Japan Standard Time;часовой пояс;1;12062;to
+Q909085;Japan Standard Time;IANA timezone ID;1;1;from
+Q909085;Japan Standard Time;предположительно одно и то же с;1;1;to
+Q847142;Pacific Time Zone;названо в честь;1;1;from
+Q909085;Japan Standard Time;категория на Викискладе;1;1;from
+Q909085;Japan Standard Time;сдвиг часового пояса;1;1;from
+Q909085;Japan Standard Time;это частный случай понятия;1;1;from
+Q847142;Pacific Time Zone;часовой пояс;1;4835;to
+Q847142;Pacific Time Zone;код Freebase;1;1;from
+Q847142;Pacific Time Zone;предположительно одно и то же с;1;3;to
+Q847142;Pacific Time Zone;код темы Quora;1;2;from
+Q847142;Pacific Time Zone;сдвиг часового пояса;1;2;from
+Q847142;Pacific Time Zone;это частный случай понятия;1;1;from
+Q847142;Pacific Time Zone;код LCNAF;1;1;from
+Q847142;Pacific Time Zone;код VIAF;1;1;from
+Q632994;Vladivostok Time;часовой пояс;1;455;to
+Q632994;Vladivostok Time;код Freebase;1;1;from
+Q632994;Vladivostok Time;предположительно одно и то же с;1;1;from
+Q30192;Greenwich Mean Time;код Freebase;1;1;from
+Q76133;Korea Standard Time;общая тема категории;1;1;to
+Q76133;Korea Standard Time;основная категория по теме;1;1;from
+Q76133;Korea Standard Time;код Freebase;1;1;from
+Q76133;Korea Standard Time;предположительно одно и то же с;1;1;to
+Q76133;Korea Standard Time;часовой пояс;1;1419;to
+Q76133;Korea Standard Time;сдвиг часового пояса;1;1;from
+Q76133;Korea Standard Time;это частный случай понятия;1;1;from
+Q76133;Korea Standard Time;государство;1;1;from
+Q30192;Greenwich Mean Time;названо в честь;1;1;to
+Q30192;Greenwich Mean Time;официальный сайт;1;1;from
+Q30192;Greenwich Mean Time;идентификатор Австралийского образовательного словаря;1;1;from
+Q30192;Greenwich Mean Time;код в Большой норвежской энциклопедии;1;1;from
+Q190252;Eastern European Time;сдвиг часового пояса;1;1;from
+Q30192;Greenwich Mean Time;часовой пояс;1;504;to
+Q30192;Greenwich Mean Time;сдвиг часового пояса;1;1;from
+Q30192;Greenwich Mean Time;короткое название;1;1;from
+Q30192;Greenwich Mean Time;метка Stack Exchange;1;1;from
+Q30192;Greenwich Mean Time;код в энциклопедии «Британника онлайн»;1;1;from
+Q30192;Greenwich Mean Time;это частный случай понятия;1;2;from
+Q6906;UTC+06:00;часовой пояс;1;7978;to
+Q6906;UTC+06:00;код Freebase;1;1;from
+Q6906;UTC+06:00;предположительно одно и то же с;1;5;to
+Q6906;UTC+06:00;категория на Викискладе;1;1;from
+Q6906;UTC+06:00;сдвиг часового пояса;1;1;from
+Q190252;Eastern European Time;это частный случай понятия;1;1;from
+Q190252;Eastern European Time;предположительно одно и то же с;1;1;to
+Q632994;Vladivostok Time;сдвиг часового пояса;1;1;from
+Q385504;Magadan Time;часовой пояс;1;314;to
+Q632994;Vladivostok Time;короткое название;1;2;from
+Q632994;Vladivostok Time;это частный случай понятия;1;1;from
+Q614092;Anywhere on Earth;это частный случай понятия;1;1;from
+Q604055;Indian Standard Time;заменён на;1;1;to
+Q604055;Indian Standard Time;часовой пояс;1;6134;to
+Q604055;Indian Standard Time;код Freebase;1;1;from
+Q604055;Indian Standard Time;географические координаты;1;1;from
+Q604055;Indian Standard Time;предположительно одно и то же с;1;1;from
+Q604055;Indian Standard Time;сдвиг часового пояса;1;1;from
+Q604055;Indian Standard Time;заменил;1;1;from
+Q604055;Indian Standard Time;это частный случай понятия;1;1;from
+Q385504;Magadan Time;код Freebase;1;1;from
+Q190252;Eastern European Time;код Freebase;1;1;from
+Q385504;Magadan Time;сдвиг часового пояса;1;1;from
+Q385504;Magadan Time;короткое название;1;2;from
+Q385504;Magadan Time;это частный случай понятия;1;1;from
+Q385504;Magadan Time;названо в честь;1;1;from
+Q207020;Central European Summer Time;часовой пояс;1;16863;to
+Q207020;Central European Summer Time;код Freebase;1;1;from
+Q207020;Central European Summer Time;предположительно одно и то же с;1;3;to
+Q207020;Central European Summer Time;сдвиг часового пояса;1;1;from
+Q207020;Central European Summer Time;короткое название;1;3;from
+Q207020;Central European Summer Time;это частный случай понятия;1;2;from
+Q190252;Eastern European Time;часовой пояс;1;961;to
+Q996734;Macau Standard Time;часовой пояс;1;1;to
+Q1053705;Central Africa Time;сдвиг часового пояса;1;1;from
+Q2420151;Newfoundland Standard time;часовой пояс;1;17;to
+Q1053705;Central Africa Time;предположительно одно и то же с;1;1;to
+Q2350893;Samara Time;часовой пояс;1;2985;to
+Q2350893;Samara Time;код Freebase;1;1;from
+Q2350893;Samara Time;предположительно одно и то же с;1;1;to
+Q2350893;Samara Time;сдвиг часового пояса;1;1;from
+Q2350893;Samara Time;короткое название;1;1;from
+Q2350893;Samara Time;это частный случай понятия;1;2;from
+Q2347353;Irkutsk Time;часовой пояс;1;1207;to
+Q2347353;Irkutsk Time;код Freebase;1;1;from
+Q2347353;Irkutsk Time;предположительно одно и то же с;1;1;to
+Q2347353;Irkutsk Time;сдвиг часового пояса;1;1;from
+Q2347353;Irkutsk Time;короткое название;1;2;from
+Q2347353;Irkutsk Time;это частный случай понятия;1;1;from
+Q2347353;Irkutsk Time;государство;1;1;from
+Q2332010;Yekaterinburg Time;часовой пояс;1;76;to
+Q2332010;Yekaterinburg Time;код Freebase;1;1;from
+Q2332010;Yekaterinburg Time;предположительно одно и то же с;1;1;to
+Q2332010;Yekaterinburg Time;сдвиг часового пояса;1;1;from
+Q2332010;Yekaterinburg Time;короткое название;1;2;from
+Q2332010;Yekaterinburg Time;это частный случай понятия;1;1;from
+Q2280376;Port Blair mean time;заменил;1;1;to
+Q2280376;Port Blair mean time;код Freebase;1;1;from
+Q2280376;Port Blair mean time;заменён на;1;1;from
+Q2280376;Port Blair mean time;это частный случай понятия;1;2;from
+Q2280365;Calcutta time;код Freebase;1;1;from
+Q2280365;Calcutta time;это частный случай понятия;1;1;from
+Q2351250;Yakutsk Time;это частный случай понятия;1;1;from
+Q2351250;Yakutsk Time;короткое название;1;2;from
+Q2351250;Yakutsk Time;сдвиг часового пояса;1;1;from
+Q2356448;Kaliningrad Time;часовой пояс;1;7;to
+Q2420151;Newfoundland Standard time;код Freebase;1;1;from
+Q2420151;Newfoundland Standard time;предположительно одно и то же с;1;1;from
+Q2420151;Newfoundland Standard time;сдвиг часового пояса;1;1;from
+Q2420151;Newfoundland Standard time;это частный случай понятия;1;1;from
+Q2392297;Iran Standard Time Zone;общая тема категории;1;1;to
+Q2392297;Iran Standard Time Zone;часовой пояс;1;74;to
+Q2392297;Iran Standard Time Zone;код Freebase;1;1;from
+Q2392297;Iran Standard Time Zone;предположительно одно и то же с;1;1;from
+Q2392297;Iran Standard Time Zone;сдвиг часового пояса;1;1;from
+Q2392297;Iran Standard Time Zone;это частный случай понятия;1;1;from
+Q2356448;Kaliningrad Time;код Freebase;1;1;from
+Q2356448;Kaliningrad Time;сдвиг часового пояса;1;1;from
+Q2351250;Yakutsk Time;предположительно одно и то же с;1;1;from
+Q2356448;Kaliningrad Time;короткое название;1;2;from
+Q2356448;Kaliningrad Time;это частный случай понятия;1;1;from
+Q2356448;Kaliningrad Time;названо в честь;1;1;from
+Q2351310;Krasnoyarsk Time;часовой пояс;1;5699;to
+Q2351310;Krasnoyarsk Time;код Freebase;1;1;from
+Q2351310;Krasnoyarsk Time;предположительно одно и то же с;1;1;to
+Q2351310;Krasnoyarsk Time;сдвиг часового пояса;1;1;from
+Q2351310;Krasnoyarsk Time;короткое название;1;2;from
+Q2351310;Krasnoyarsk Time;это частный случай понятия;1;1;from
+Q2351250;Yakutsk Time;часовой пояс;1;1223;to
+Q2351250;Yakutsk Time;код Freebase;1;1;from
+Q2244681;British Summer Time;выдающееся произведение;1;1;to
+Q2244681;British Summer Time;часовой пояс;1;12;to
+Q2244681;British Summer Time;код Freebase;1;1;from
+Q1143153;China Standard Time;это частный случай понятия;1;1;from
+Q1773949;East Africa Time;это частный случай понятия;1;1;from
+Q1322118;Omsk Time;часовой пояс;1;5665;to
+Q1322118;Omsk Time;код Freebase;1;1;from
+Q1322118;Omsk Time;предположительно одно и то же с;1;1;to
+Q1322118;Omsk Time;сдвиг часового пояса;1;1;from
+Q1322118;Omsk Time;короткое название;1;2;from
+Q1322118;Omsk Time;это частный случай понятия;1;1;from
+Q1143153;China Standard Time;часовой пояс;1;6067;to
+Q1143153;China Standard Time;предположительно одно и то же с;1;1;to
+Q1143153;China Standard Time;произношение (звуковой файл);1;1;from
+Q1143153;China Standard Time;сдвиг часового пояса;1;1;from
+Q1109976;Eastern European Summer Time;часовой пояс;1;592;to
+Q1773949;East Africa Time;предположительно одно и то же с;1;1;from
+Q1109976;Eastern European Summer Time;код Freebase;1;1;from
+Q1109976;Eastern European Summer Time;предположительно одно и то же с;1;1;from
+Q1109976;Eastern European Summer Time;сдвиг часового пояса;1;1;from
+Q1109976;Eastern European Summer Time;это частный случай понятия;1;1;from
+Q1087393;Bhutan Time;часовой пояс;1;2;to
+Q1087393;Bhutan Time;предположительно одно и то же с;1;1;from
+Q1087393;Bhutan Time;сдвиг часового пояса;1;1;from
+Q1087393;Bhutan Time;это частный случай понятия;1;1;from
+Q1087393;Bhutan Time;государство;1;1;from
+Q1053705;Central Africa Time;часовой пояс;1;14;to
+Q1053705;Central Africa Time;код Freebase;1;1;from
+Q1773949;East Africa Time;сдвиг часового пояса;1;1;from
+Q1773949;East Africa Time;код Freebase;1;1;from
+Q2244681;British Summer Time;Microsoft Academic ID;1;1;from
+Q2086913;Central Time Zone;категория на Викискладе;1;1;from
+Q2244681;British Summer Time;сдвиг часового пояса;1;1;from
+Q2244681;British Summer Time;это частный случай понятия;1;1;from
+Q2234548;Pakistan Standard Time;часовой пояс;1;66;to
+Q2234548;Pakistan Standard Time;код Freebase;1;1;from
+Q2234548;Pakistan Standard Time;предположительно одно и то же с;1;1;from
+Q2234548;Pakistan Standard Time;сдвиг часового пояса;1;1;from
+Q2234548;Pakistan Standard Time;это частный случай понятия;1;1;from
+Q2086913;Central Time Zone;часть от;1;1;to
+Q2086913;Central Time Zone;часовой пояс;1;7204;to
+Q2086913;Central Time Zone;код Freebase;1;1;from
+Q2086913;Central Time Zone;предположительно одно и то же с;1;2;from
+Q2086913;Central Time Zone;код темы Quora;1;1;from
+Q1773949;East Africa Time;основная категория по теме;1;1;from
+Q2086913;Central Time Zone;сдвиг часового пояса;1;2;from
+Q2086913;Central Time Zone;это частный случай понятия;1;1;from
+Q2086913;Central Time Zone;изображение;1;1;from
+Q2085376;Atlantic Time Zone;часовой пояс;1;115;to
+Q2085376;Atlantic Time Zone;код Freebase;1;1;from
+Q2085376;Atlantic Time Zone;предположительно одно и то же с;1;1;from
+Q2085376;Atlantic Time Zone;категория на Викискладе;1;1;from
+Q2085376;Atlantic Time Zone;сдвиг часового пояса;1;1;from
+Q2085376;Atlantic Time Zone;это частный случай понятия;1;1;from
+Q1773949;East Africa Time;общая тема категории;1;1;to
+Q1773949;East Africa Time;часовой пояс;1;129;to
+Q60738798;Newfoundland Time Zone;часовой пояс;1;1;to

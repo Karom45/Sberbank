@@ -1,0 +1,696 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q1492;Barcelona;административно-территориальная единица;1;4688;to
+Q14960;Brno;соединяется с;1;1;to
+Q14960;Brno;основная тема;1;5;to
+Q14960;Brno;изображённый объект;1;3;to
+Q14960;Brno;категория объединяет темы;1;26;to
+Q14960;Brno;место съёмок;1;2;to
+Q14960;Brno;награда от;1;1;to
+Q14960;Brno;основные направления;1;2;to
+Q14960;Brno;начало пути;1;2;to
+Q14960;Brno;пункт назначения;1;1;to
+Q14960;Brno;обслуживаемый город;1;1;to
+Q14960;Brno;юрисдикция распространяется на;1;2;to
+Q14960;Brno;история происходит в месте;1;1;to
+Q14960;Brno;официальная резиденция;1;1;to
+Q14960;Brno;общая тема категории;1;1;to
+Q14960;Brno;предположительно одно и то же с;1;1;to
+Q14960;Brno;элемент для смысла;1;1;to
+Q35997;İzmir;административно-территориальная единица;1;328;to
+Q35997;İzmir;административно делится на;1;11;from
+Q35997;İzmir;предыдущее по порядку;1;1;from
+Q14960;Brno;расположение конечной точки;1;8;to
+Q14960;Brno;место погребения;1;20;to
+Q14960;Brno;ключевое событие;1;1;from
+Q14960;Brno;место рождения;1;2410;to
+Q14960;Brno;транскрипция в МФА;1;1;from
+Q14960;Brno;основная категория по теме;1;1;from
+Q14960;Brno;галерея на Викискладе;1;1;from
+Q14960;Brno;баннер Викигида;1;1;from
+Q14960;Brno;электронная почта;1;1;from
+Q14960;Brno;место в MusicBrainz;1;1;from
+Q14960;Brno;dmoz;1;1;from
+Q14960;Brno;пример использования свойства;1;1;to
+Q14960;Brno;место жительства;1;41;to
+Q14960;Brno;место создания;1;17;to
+Q14960;Brno;место смерти;1;1267;to
+Q14960;Brno;местонахождение;1;121;to
+Q14960;Brno;место активности;1;59;to
+Q14960;Brno;столица;1;9;to
+Q14960;Brno;материнская компания (организация, учреждение);1;42;to
+Q14960;Brno;место публикации;1;166;to
+Q14960;Brno;названо в честь;1;159;to
+Q14960;Brno;владельцем является;1;8;to
+Q35997;İzmir;государство;1;6;from
+Q35997;İzmir;изображение;1;1;from
+Q35997;İzmir;город-побратим;1;31;to
+Q35997;İzmir;код места в Foursquare;1;1;from
+Q35997;İzmir;категория для людей, родившихся здесь;1;1;from
+Q35997;İzmir;категория для людей, умерших здесь;1;1;from
+Q35997;İzmir;этнохороним;1;2;from
+Q35997;İzmir;код GeoNames;1;1;from
+Q35997;İzmir;название на языке оригинала;1;1;from
+Q35997;İzmir;категория фильмов, снятых в этом месте;1;1;from
+Q35997;İzmir;категория для людей, похороненных здесь;1;1;from
+Q35997;İzmir;категория для людей, связанных с местностью;1;1;from
+Q35997;İzmir;код места в Facebook;1;1;from
+Q35997;İzmir;находится на берегу водоёма;1;3;from
+Q35997;İzmir;учётная запись в Твиттере;1;2;from
+Q35997;İzmir;учётная запись в Instagram;1;1;from
+Q35997;İzmir;учётная запись Facebook;1;1;from
+Q35997;İzmir;высота над уровнем моря;1;1;from
+Q35997;İzmir;площадь;1;1;from
+Q35997;İzmir;история темы;1;1;from
+Q35997;İzmir;код YSO;1;1;from
+Q35997;İzmir;классификация климата Кёппена;1;1;from
+Q35997;İzmir;прозвище;1;1;from
+Q35997;İzmir;официальное название;1;1;from
+Q35997;İzmir;основной шаблон по теме;1;1;from
+Q35997;İzmir;код в энциклопедии «Британника онлайн»;1;1;from
+Q35997;İzmir;код VIAF;1;1;from
+Q35997;İzmir;код GND;1;1;from
+Q35997;İzmir;карта местонахождения;1;1;from
+Q35997;İzmir;код LCNAF;1;1;from
+Q35997;İzmir;часть света;1;1;from
+Q35997;İzmir;это частный случай понятия;1;7;from
+Q35997;İzmir;имеет границы с;1;1;to
+Q35997;İzmir;глава правительства;1;11;from
+Q35997;İzmir;десятичная классификация Дьюи;1;1;from
+Q35997;İzmir;численность населения;1;2;from
+Q35997;İzmir;портал Викимедиа;1;1;from
+Q35997;İzmir;код US National Archives;1;1;from
+Q35997;İzmir;значение в OmegaWiki;1;1;from
+Q35997;İzmir;код в Большой каталанской энциклопедии;1;1;from
+Q35997;İzmir;должность главы правительства;1;1;from
+Q35997;İzmir;описывается в источниках;1;6;from
+Q35997;İzmir;является столицей;1;1;from
+Q14960;Brno;официальный сайт;1;1;from
+Q14960;Brno;категория карт на Викискладе;1;1;from
+Q35997;İzmir;география темы;1;1;from
+Q14960;Brno;включает населённый пункт;1;6;from
+Q14960;Brno;десятичная классификация Дьюи;1;1;from
+Q14960;Brno;численность населения;1;72;from
+Q14960;Brno;код US National Archives;1;1;from
+Q14960;Brno;первое письменное упоминание;1;1;from
+Q14960;Brno;код LEI;1;1;from
+Q14960;Brno;код в Большой каталанской энциклопедии;1;1;from
+Q14960;Brno;описывается в источниках;1;4;from
+Q14960;Brno;является столицей;1;11;from
+Q14960;Brno;код в энциклопедии «Британника онлайн»;1;1;from
+Q14960;Brno;глава правительства;1;7;from
+Q14960;Brno;официальное название;1;5;from
+Q14960;Brno;организационно-правовая форма;1;1;from
+Q14960;Brno;список памятников;1;1;from
+Q14960;Brno;категория для людей, родившихся здесь;1;1;from
+Q14960;Brno;категория для людей, умерших здесь;1;1;from
+Q14960;Brno;код GeoNames;1;1;from
+Q14960;Brno;код TGN;1;1;from
+Q14960;Brno;название на языке оригинала;1;1;from
+Q14960;Brno;изображение герба;1;1;from
+Q14960;Brno;имеет границы с;1;27;to
+Q14960;Brno;LAU;1;1;from
+Q14960;Brno;полученные награды;1;1;from
+Q13298;Graz;пункт назначения;1;1;to
+Q13298;Graz;страна происхождения;1;1;to
+Q13298;Graz;общая тема категории;1;1;to
+Q13298;Graz;награда от;1;1;to
+Q14960;Brno;административно-территориальная единица;1;2682;to
+Q14960;Brno;административно делится на;1;1;to
+Q14960;Brno;логотип;1;1;from
+Q14960;Brno;расположение штаб-квартиры;1;1907;to
+Q14960;Brno;государство;1;15;from
+Q14960;Brno;изображение флага;1;1;from
+Q14960;Brno;изображение;1;1;from
+Q14960;Brno;город-побратим;1;19;to
+Q14960;Brno;находится на берегу водоёма;1;2;from
+Q14960;Brno;код VIAF;1;1;from
+Q14960;Brno;код GND;1;1;from
+Q14960;Brno;описание герба;1;1;from
+Q14960;Brno;код LCNAF;1;1;from
+Q14960;Brno;это частный случай понятия;1;9;from
+Q14960;Brno;категория для людей, похороненных здесь;1;1;from
+Q14960;Brno;категория для людей, связанных с местностью;1;1;from
+Q14960;Brno;владеет;1;8;from
+Q14960;Brno;код Bildkatalog;1;1;from
+Q14960;Brno;произношение (звуковой файл);1;1;from
+Q14960;Brno;средний возраст;1;1;from
+Q14960;Brno;код EMLO location;1;1;from
+Q14960;Brno;идентификатор местоположения ArchINFORM;1;1;from
+Q14960;Brno;дата основания/создания/возникновения;1;1;from
+Q14960;Brno;EU Research participant ID;1;1;from
+Q14960;Brno;географические координаты;1;1;from
+Q14960;Brno;код Freebase;1;1;from
+Q14960;Brno;код статьи Klexikon;1;1;from
+Q14960;Brno;код GAMEO;1;1;from
+Q14960;Brno;Who's on First ID;1;1;from
+Q14960;Brno;Uppsala University Alvin ID;1;1;from
+Q14960;Brno;исторический регион;1;1;from
+Q14960;Brno;код NKC;1;1;from
+Q14960;Brno;Czech municipality ID;1;1;from
+Q14960;Brno;administrative district of Czech municipality with authorized municipal office ID;1;1;from
+Q14960;Brno;administrative district of Czech municipality with expanded powers ID;1;1;from
+Q14960;Brno;French Vikidia ID;1;1;from
+Q14960;Brno;часовой пояс;1;2;from
+Q14960;Brno;Czech Registration ID;1;1;from
+Q14960;Brno;число домов;1;41;from
+Q14960;Brno;ID отношения в OpenStreetMap;1;1;from
+Q14960;Brno;код места в Facebook;1;1;from
+Q14960;Brno;высота над уровнем моря;1;1;from
+Q14960;Brno;площадь;1;1;from
+Q14960;Brno;использует;1;1;from
+Q14960;Brno;код BNF;1;1;from
+Q14960;Brno;почтовый индекс;1;1;from
+Q14960;Brno;туристический центр;1;1;from
+Q14960;Brno;код в Большой российской энциклопедии онлайн;1;1;from
+Q14960;Brno;код в Encyclopædia Universalis;1;1;from
+Q14960;Brno;код NE.se;1;1;from
+Q14960;Brno;код в Итальянской энциклопедии онлайн;1;1;from
+Q14960;Brno;код темы Quora;1;1;from
+Q14960;Brno;дочерние компании (организации, учреждения);1;42;from
+Q14960;Brno;EU VAT number;1;1;from
+Q14960;Brno;категория на Викискладе;1;1;from
+Q14960;Brno;код автомобильного номера;1;1;from
+Q14960;Brno;сабреддит;1;1;from
+Q35997;İzmir;хештег;1;1;from
+Q35997;İzmir;код BNF;1;1;from
+Q13298;Graz;значимое место;1;1;to
+Q38283;Yokohama;код в Encyclopædia Universalis;1;1;from
+Q38283;Yokohama;учётная запись в Твиттере;1;1;from
+Q38283;Yokohama;высота над уровнем моря;1;1;from
+Q38283;Yokohama;площадь;1;1;from
+Q38283;Yokohama;код FAST;1;1;from
+Q38283;Yokohama;код YSO;1;1;from
+Q38283;Yokohama;коллаж;1;1;from
+Q38283;Yokohama;почтовый индекс;1;2;from
+Q38283;Yokohama;код в Большой российской энциклопедии онлайн;1;1;from
+Q38283;Yokohama;номер компании (Япония);1;1;from
+Q38283;Yokohama;владеет;1;2;from
+Q38283;Yokohama;код темы Quora;1;1;from
+Q38283;Yokohama;код NDL;1;1;from
+Q38283;Yokohama;идентификатор Ringgold;1;1;from
+Q38283;Yokohama;категория на Викискладе;1;1;from
+Q38283;Yokohama;сабреддит;1;1;from
+Q38283;Yokohama;ID отношения в OpenStreetMap;1;1;from
+Q38283;Yokohama;часовой пояс;1;1;from
+Q38283;Yokohama;код субъекта самоуправления Японии;1;1;from
+Q38283;Yokohama;код места в Facebook;1;1;from
+Q38283;Yokohama;написание каной;1;1;from
+Q38283;Yokohama;это частный случай понятия;1;5;from
+Q38283;Yokohama;описывается в источниках;1;1;from
+Q38283;Yokohama;изображение флага;1;1;from
+Q38283;Yokohama;глава правительства;1;1;from
+Q38283;Yokohama;изображение герба;1;1;from
+Q38283;Yokohama;численность населения;1;6;from
+Q38283;Yokohama;код US National Archives;1;1;from
+Q38283;Yokohama;значение в OmegaWiki;1;1;from
+Q38283;Yokohama;код в Большой каталанской энциклопедии;1;1;from
+Q38283;Yokohama;источник дополнительных внешних данных;1;2;from
+Q38283;Yokohama;является столицей;1;1;to
+Q38283;Yokohama;категория для людей, связанных с местностью;1;1;from
+Q38283;Yokohama;код в энциклопедии «Британника онлайн»;1;2;from
+Q38283;Yokohama;официальное название;1;1;from
+Q38283;Yokohama;категория для людей, родившихся здесь;1;1;from
+Q38283;Yokohama;категория для людей, умерших здесь;1;1;from
+Q38283;Yokohama;этнохороним;1;2;from
+Q38283;Yokohama;код GeoNames;1;1;from
+Q38283;Yokohama;название на языке оригинала;1;1;from
+Q38283;Yokohama;категория фильмов, снятых в этом месте;1;1;from
+Q38283;Yokohama;местный телефонный код;1;1;from
+Q38283;Yokohama;код GeoNLP;1;1;from
+Q38283;Yokohama;идентификатор местоположения ArchINFORM;1;1;from
+Q38283;Yokohama;основные направления;1;2;to
+Q38283;Yokohama;член спортивной команды;1;1;to
+Q38283;Yokohama;место жительства;1;16;to
+Q38283;Yokohama;владельцем является;1;3;to
+Q38283;Yokohama;заменён на;1;1;to
+Q38283;Yokohama;оператор;1;2;to
+Q38283;Yokohama;место публикации;1;2;to
+Q38283;Yokohama;место погребения;1;3;to
+Q38283;Yokohama;место создания;1;11;to
+Q38283;Yokohama;место изготовления;1;5;to
+Q38283;Yokohama;дата основания/создания/возникновения;1;1;from
+Q38283;Yokohama;место активности;1;6;to
+Q38283;Yokohama;основная тема;1;4;to
+Q38283;Yokohama;категория объединяет темы;1;10;to
+Q38283;Yokohama;предположительно одно и то же с;1;1;to
+Q38283;Yokohama;общая тема категории;1;1;to
+Q38283;Yokohama;место съёмок;1;1;to
+Q38283;Yokohama;издатель;1;1;to
+Q38283;Yokohama;находится в границах современной административной единицы;1;1;to
+Q38283;Yokohama;основной порт;1;4;to
+Q38283;Yokohama;история происходит в месте;1;47;to
+Q38283;Yokohama;юрисдикция распространяется на;1;5;to
+Q38283;Yokohama;ответственность несёт;1;550;to
+Q38283;Yokohama;код Comic Vine;1;1;from
+Q38283;Yokohama;географические координаты;1;1;from
+Q38283;Yokohama;код Freebase;1;1;from
+Q38283;Yokohama;Japan Search name ID;1;1;from
+Q38283;Yokohama;Who's on First ID;1;1;from
+Q38283;Yokohama;категория карт на Викискладе;1;1;from
+Q38283;Yokohama;официальный сайт;1;1;from
+Q38283;Yokohama;основная категория по теме;1;1;from
+Q38283;Yokohama;галерея на Викискладе;1;1;from
+Q38283;Yokohama;баннер Викигида;1;1;from
+Q38283;Yokohama;место в MusicBrainz;1;1;from
+Q38283;Yokohama;dmoz;1;1;from
+Q38283;Yokohama;место рождения;1;1509;to
+Q38283;Yokohama;расположение конечной точки;1;33;to
+Q38283;Yokohama;местонахождение;1;42;to
+Q38283;Yokohama;расположение штаб-квартиры;1;100;to
+Q38283;Yokohama;место смерти;1;106;to
+Q38283;Yokohama;столица;1;1;to
+Q38283;Yokohama;код LCNAF;1;1;from
+Q35997;İzmir;коллаж;1;1;from
+Q35997;İzmir;ключевое событие;1;4;from
+Q35997;İzmir;идентификатор Dizionario di Storia;1;1;from
+Q35997;İzmir;код Freebase;1;1;from
+Q35997;İzmir;Who's on First ID;1;1;from
+Q35997;İzmir;код NKC;1;1;from
+Q35997;İzmir;код TDV İslam Ansiklopedisi;1;1;from
+Q35997;İzmir;French Vikidia ID;1;1;from
+Q35997;İzmir;Basque Vikidia ID;1;1;from
+Q35997;İzmir;категория карт на Викискладе;1;1;from
+Q35997;İzmir;официальный сайт;1;1;from
+Q35997;İzmir;относится к вики-проекту;1;1;from
+Q35997;İzmir;основная категория по теме;1;1;from
+Q35997;İzmir;галерея на Викискладе;1;1;from
+Q35997;İzmir;баннер Викигида;1;1;from
+Q35997;İzmir;место в MusicBrainz;1;1;from
+Q35997;İzmir;dmoz;1;1;from
+Q35997;İzmir;категория объединяет темы;1;14;to
+Q35997;İzmir;место рождения;1;1005;to
+Q35997;İzmir;место жительства;1;14;to
+Q35997;İzmir;географические координаты;1;1;from
+Q35997;İzmir;наивысшая точка;1;1;from
+Q38283;Yokohama;карта местонахождения;1;1;from
+Q35997;İzmir;вид в ночное время;1;1;from
+Q35997;İzmir;почтовый индекс;1;1;from
+Q35997;İzmir;код в Большой российской энциклопедии онлайн;1;1;from
+Q35997;İzmir;код в Nomisma.org;1;1;from
+Q35997;İzmir;постоянный дубликат;1;1;to
+Q35997;İzmir;код TripAdvisor;1;1;from
+Q35997;İzmir;код в Encyclopædia Universalis;1;1;from
+Q35997;İzmir;занимает ту же территорию с;1;1;to
+Q35997;İzmir;код темы Quora;1;1;from
+Q35997;İzmir;категория на Викискладе;1;1;from
+Q35997;İzmir;дата основания/создания/возникновения;1;1;from
+Q35997;İzmir;код автомобильного номера;1;1;from
+Q35997;İzmir;ID отношения в OpenStreetMap;1;1;from
+Q35997;İzmir;часовой пояс;1;1;from
+Q35997;İzmir;панорамный вид;1;1;from
+Q35997;İzmir;код EMLO location;1;1;from
+Q35997;İzmir;местный телефонный код;1;1;from
+Q35997;İzmir;рабочий список проекта Викимедиа;1;1;from
+Q35997;İzmir;идентификатор местоположения ArchINFORM;1;1;from
+Q35997;İzmir;место смерти;1;206;to
+Q35997;İzmir;местонахождение;1;33;to
+Q35997;İzmir;расположение штаб-квартиры;1;44;to
+Q38283;Yokohama;административно делится на;1;1;to
+Q35997;İzmir;порт приписки;1;42;to
+Q35997;İzmir;ответственность несёт;1;2;to
+Q35997;İzmir;тематически относится к;1;2;to
+Q35997;İzmir;общая тема категории;1;1;to
+Q35997;İzmir;место съёмок;1;2;to
+Q35997;İzmir;предки из;1;1;to
+Q35997;İzmir;соединяется с;1;1;to
+Q38283;Yokohama;административно-территориальная единица;1;290;to
+Q38283;Yokohama;изображение печати/эмблемы;1;1;from
+Q35997;İzmir;место погребения;1;20;to
+Q38283;Yokohama;государство;1;1;from
+Q38283;Yokohama;изображение;1;1;from
+Q38283;Yokohama;город-побратим;1;11;to
+Q38283;Yokohama;законодательный орган;1;1;from
+Q38283;Yokohama;находится на берегу водоёма;1;1;from
+Q38283;Yokohama;код ISNI;1;1;from
+Q38283;Yokohama;код VIAF;1;1;from
+Q38283;Yokohama;код GND;1;1;from
+Q35997;İzmir;обслуживаемый город;1;1;to
+Q35997;İzmir;место изготовления;1;1;to
+Q35997;İzmir;место публикации;1;1;to
+Q35997;İzmir;основная тема портала Викимедиа;1;1;to
+Q35997;İzmir;зона обслуживания;1;5;to
+Q35997;İzmir;следующее по порядку;1;1;to
+Q35997;İzmir;место активности;1;6;to
+Q35997;İzmir;столица;1;2;to
+Q35997;İzmir;происходит из;1;2;to
+Q35997;İzmir;место обнаружения;1;2;to
+Q35997;İzmir;изображённый объект;1;1;to
+Q35997;İzmir;история происходит в месте;1;5;to
+Q35997;İzmir;названо в честь;1;9;to
+Q35997;İzmir;основная тема;1;7;to
+Q35997;İzmir;юрисдикция распространяется на;1;7;to
+Q35997;İzmir;расположение конечной точки;1;1;to
+Q35997;İzmir;основные направления;1;1;to
+Q35997;İzmir;конечная;1;2;to
+Q35997;İzmir;основная тема шаблона;1;1;to
+Q35997;İzmir;место создания;1;7;to
+Q35997;İzmir;пункт назначения;1;2;to
+Q13298;Graz;столица;1;4;to
+Q13298;Graz;место изготовления;1;1;to
+Q1492;Barcelona;административно делится на;1;2;to
+Q1492;Barcelona;юрисдикция распространяется на;1;13;to
+Q1492;Barcelona;место публикации;1;472;to
+Q1492;Barcelona;столица;1;13;to
+Q1492;Barcelona;основная тема портала Викимедиа;1;1;to
+Q1492;Barcelona;место обнаружения;1;1;to
+Q1492;Barcelona;основная тема;1;10;to
+Q1492;Barcelona;член спортивной команды;1;9;to
+Q1492;Barcelona;гражданство;1;1;to
+Q1492;Barcelona;опубликовано в;1;11;to
+Q1492;Barcelona;зона обслуживания;1;4;to
+Q1492;Barcelona;место жительства;1;619;to
+Q1492;Barcelona;начало пути;1;12;to
+Q1492;Barcelona;пункт назначения;1;23;to
+Q1492;Barcelona;расположение конечной точки;1;3;to
+Q1492;Barcelona;основные направления;1;2;to
+Q1492;Barcelona;страна происхождения;1;1;to
+Q1492;Barcelona;основной порт;1;5;to
+Q1492;Barcelona;названо в честь;1;14;to
+Q1492;Barcelona;изображённый объект;1;19;to
+Q1492;Barcelona;история происходит в месте;1;134;to
+Q1492;Barcelona;место съёмок;1;112;to
+Q1492;Barcelona;Basque Vikidia ID;1;1;from
+Q1492;Barcelona;код NLI;1;1;from
+Q1492;Barcelona;категория карт на Викискладе;1;1;from
+Q1492;Barcelona;Analysis & Policy Observatory term ID;1;1;from
+Q1492;Barcelona;ключевое событие;1;8;from
+Q1492;Barcelona;официальный праздник;1;1;from
+Q1492;Barcelona;официальный сайт;1;2;from
+Q1492;Barcelona;основная категория по теме;1;1;from
+Q1492;Barcelona;галерея на Викискладе;1;1;from
+Q1492;Barcelona;баннер Викигида;1;1;from
+Q1492;Barcelona;место в MusicBrainz;1;1;from
+Q1492;Barcelona;местонахождение;1;462;to
+Q1492;Barcelona;dmoz;1;1;from
+Q1492;Barcelona;пример использования свойства;1;2;to
+Q1492;Barcelona;категория объединяет темы;1;44;to
+Q1492;Barcelona;место рождения;1;9650;to
+Q1492;Barcelona;место смерти;1;3856;to
+Q1492;Barcelona;место создания;1;312;to
+Q1492;Barcelona;расположение штаб-квартиры;1;1311;to
+Q1492;Barcelona;место активности;1;1285;to
+Q1492;Barcelona;место изготовления;1;292;to
+Q1492;Barcelona;место погребения;1;5;to
+Q1492;Barcelona;заменён на;1;1;to
+Q3640;Ankara;изображение герба;1;1;from
+Q3640;Ankara;код VIAF;1;1;from
+Q3640;Ankara;код GND;1;1;from
+Q3640;Ankara;карта местонахождения;1;1;from
+Q3640;Ankara;код LCNAF;1;1;from
+Q3640;Ankara;часть света;1;1;from
+Q3640;Ankara;это частный случай понятия;1;7;from
+Q3640;Ankara;официальный язык;1;1;from
+Q3640;Ankara;глава правительства;1;5;from
+Q3640;Ankara;численность населения;1;4;from
+Q1492;Barcelona;производитель;1;1;to
+Q3640;Ankara;портал Викимедиа;1;1;from
+Q3640;Ankara;код US National Archives;1;1;from
+Q3640;Ankara;значение в OmegaWiki;1;1;from
+Q3640;Ankara;WOEID;1;1;from
+Q3640;Ankara;код в Большой каталанской энциклопедии;1;1;from
+Q3640;Ankara;должность главы правительства;1;1;from
+Q3640;Ankara;описывается в источниках;1;10;from
+Q3640;Ankara;является столицей;1;2;from
+Q3640;Ankara;находится на берегу водоёма;1;2;from
+Q3640;Ankara;город-побратим;1;37;to
+Q3640;Ankara;изображение;1;1;from
+Q3640;Ankara;государство;1;4;from
+Q1492;Barcelona;порт приписки;1;50;to
+Q1492;Barcelona;тематически относится к;1;3;to
+Q1492;Barcelona;учебное заведение;1;1;to
+Q1492;Barcelona;история выставок;1;1;to
+Q1492;Barcelona;продюсер;1;1;to
+Q1492;Barcelona;производящая компания;1;1;to
+Q1492;Barcelona;записано на;1;1;to
+Q1492;Barcelona;хранится в коллекции;1;1;to
+Q1492;Barcelona;место первого исполнения;1;3;to
+Q1492;Barcelona;ссылается на;1;1;to
+Q1492;Barcelona;награда от;1;1;to
+Q1492;Barcelona;общая тема категории;1;1;to
+Q1492;Barcelona;соединяется с;1;1;to
+Q1492;Barcelona;область интересов;1;1;to
+Q1492;Barcelona;обслуживаемый город;1;1;to
+Q3640;Ankara;административно-территориальная единица;1;280;to
+Q3640;Ankara;логотип;1;1;from
+Q1492;Barcelona;WorldCat Identities ID;1;1;from
+Q1492;Barcelona;English Vikidia ID;1;1;from
+Q3640;Ankara;основной шаблон по теме;1;1;from
+Q1492;Barcelona;категория для людей, родившихся здесь;1;1;from
+Q1492;Barcelona;код в Большой каталанской энциклопедии;1;1;from
+Q1492;Barcelona;должность главы правительства;1;2;from
+Q1492;Barcelona;описывается в источниках;1;7;from
+Q1492;Barcelona;является столицей;1;19;from
+Q1492;Barcelona;код в энциклопедии «Британника онлайн»;1;1;from
+Q1492;Barcelona;официальное название;1;1;from
+Q1492;Barcelona;прозвище;1;3;from
+Q1492;Barcelona;список памятников;1;1;from
+Q1492;Barcelona;категория для людей, умерших здесь;1;1;from
+Q1492;Barcelona;код US National Archives;1;1;from
+Q1492;Barcelona;число домохозяйств;1;6;from
+Q1492;Barcelona;этнохороним;1;10;from
+Q1492;Barcelona;код GeoNames;1;1;from
+Q1492;Barcelona;код Pleiades;1;1;from
+Q1492;Barcelona;код TGN;1;1;from
+Q1492;Barcelona;название на языке оригинала;1;1;from
+Q1492;Barcelona;категория фильмов, снятых в этом месте;1;1;from
+Q1492;Barcelona;категория для людей, похороненных здесь;1;1;from
+Q1492;Barcelona;значение в OmegaWiki;1;1;from
+Q1492;Barcelona;портал Викимедиа;1;1;from
+Q1492;Barcelona;Spanish Vikidia ID;1;1;from
+Q1492;Barcelona;код GND;1;1;from
+Q1492;Barcelona;описание флага;1;1;from
+Q1492;Barcelona;государство;1;1;from
+Q1492;Barcelona;изображение;1;1;from
+Q1492;Barcelona;город-побратим;1;37;to
+Q1492;Barcelona;находится на берегу водоёма;1;1;from
+Q1492;Barcelona;исполнительная власть;1;1;from
+Q1492;Barcelona;код ISNI;1;1;from
+Q1492;Barcelona;код VIAF;1;1;from
+Q1492;Barcelona;описание герба;1;1;from
+Q1492;Barcelona;численность населения;1;88;from
+Q1492;Barcelona;карта местонахождения;1;1;from
+Q1492;Barcelona;код LCNAF;1;1;from
+Q1492;Barcelona;это частный случай понятия;1;8;from
+Q1492;Barcelona;изображение флага;1;1;from
+Q1492;Barcelona;имеет границы с;1;11;to
+Q1492;Barcelona;глава правительства;1;12;from
+Q1492;Barcelona;изображение герба;1;2;from
+Q1492;Barcelona;десятичная классификация Дьюи;1;1;from
+Q1492;Barcelona;категория для людей, связанных с местностью;1;1;from
+Q1492;Barcelona;код места в Facebook;1;1;from
+Q1492;Barcelona;высота над уровнем моря;1;1;from
+Q1492;Barcelona;код Freebase;1;1;from
+Q1492;Barcelona;IDESCAT territorial code in Catalonia;1;1;from
+Q1492;Barcelona;код EMLO location;1;1;from
+Q1492;Barcelona;местный телефонный код;1;1;from
+Q1492;Barcelona;идентификатор местоположения ArchINFORM;1;1;from
+Q1492;Barcelona;код Comic Vine;1;1;from
+Q1492;Barcelona;наивысшая точка;1;1;from
+Q1492;Barcelona;географические координаты;1;1;from
+Q1492;Barcelona;код WordLift;1;1;from
+Q1492;Barcelona;код статьи Klexikon;1;1;from
+Q1492;Barcelona;площадь;1;1;from
+Q1492;Barcelona;Who's on First ID;1;1;from
+Q1492;Barcelona;DR topic ID;1;1;from
+Q1492;Barcelona;код NKC;1;1;from
+Q1492;Barcelona;епархия;1;1;from
+Q1492;Barcelona;код TDV İslam Ansiklopedisi;1;1;from
+Q1492;Barcelona;муниципальный код INE;1;1;from
+Q1492;Barcelona;French Vikidia ID;1;1;from
+Q1492;Barcelona;Italian Vikidia ID;1;1;from
+Q1492;Barcelona;часовой пояс;1;1;from
+Q1492;Barcelona;код места в Instagram;1;1;from
+Q1492;Barcelona;святой покровитель;1;1;from
+Q1492;Barcelona;BVMC place id;1;1;from
+Q1492;Barcelona;история темы;1;1;from
+Q1492;Barcelona;код YSO;1;1;from
+Q1492;Barcelona;код BNF;1;1;from
+Q1492;Barcelona;коллаж;1;1;from
+Q1492;Barcelona;почтовый индекс;1;1;from
+Q1492;Barcelona;код в Большой российской энциклопедии онлайн;1;1;from
+Q1492;Barcelona;код в Nomisma.org;1;1;from
+Q1492;Barcelona;код в Encyclopædia Universalis;1;1;from
+Q1492;Barcelona;код темы Quora;1;2;from
+Q1492;Barcelona;вид в ночное время;1;1;from
+Q1492;Barcelona;код NDL;1;1;from
+Q1492;Barcelona;Dagens Nyheter topic ID;1;1;from
+Q1492;Barcelona;часть от;1;4;to
+Q1492;Barcelona;категория на Викискладе;1;1;from
+Q1492;Barcelona;код автомобильного номера;1;1;from
+Q1492;Barcelona;сабреддит;1;1;from
+Q1492;Barcelona;ID отношения в OpenStreetMap;1;1;from
+Q3640;Ankara;код в энциклопедии «Британника онлайн»;1;1;from
+Q3640;Ankara;официальное название;1;1;from
+Q13298;Graz;начало пути;1;5;to
+Q13298;Graz;код места в Facebook;1;1;from
+Q13298;Graz;категория для людей, умерших здесь;1;1;from
+Q13298;Graz;код GeoNames;1;1;from
+Q13298;Graz;код TGN;1;1;from
+Q13298;Graz;название на языке оригинала;1;1;from
+Q13298;Graz;категория для людей, похороненных здесь;1;1;from
+Q13298;Graz;категория для людей, связанных с местностью;1;1;from
+Q13298;Graz;владеет;1;2;from
+Q13298;Graz;код GAMEO;1;1;from
+Q13298;Graz;высота над уровнем моря;1;1;from
+Q13298;Graz;официальное название;1;1;from
+Q13298;Graz;площадь;1;2;from
+Q13298;Graz;код YSO;1;1;from
+Q13298;Graz;почтовый индекс;1;15;from
+Q13298;Graz;код в Большой российской энциклопедии онлайн;1;1;from
+Q13298;Graz;код в Encyclopædia Universalis;1;1;from
+Q13298;Graz;код темы Quora;1;1;from
+Q13298;Graz;идентификатор Ringgold;1;1;from
+Q13298;Graz;EU VAT number;1;1;from
+Q13298;Graz;категория для людей, родившихся здесь;1;1;from
+Q13298;Graz;код в энциклопедии «Британника онлайн»;1;1;from
+Q3640;Ankara;гражданство;1;1;to
+Q13298;Graz;код GND;1;1;from
+Q13298;Graz;административно делится на;1;1;to
+Q13298;Graz;полученные награды;1;1;from
+Q13298;Graz;государство;1;16;from
+Q13298;Graz;изображение;1;1;from
+Q13298;Graz;город-побратим;1;17;to
+Q13298;Graz;находится на берегу водоёма;1;1;from
+Q13298;Graz;код ISNI;1;1;from
+Q13298;Graz;код VIAF;1;1;from
+Q13298;Graz;карта местонахождения;1;1;from
+Q13298;Graz;является столицей;1;3;from
+Q13298;Graz;код LCNAF;1;1;from
+Q13298;Graz;это частный случай понятия;1;8;from
+Q13298;Graz;имеет границы с;1;4;to
+Q13298;Graz;глава правительства;1;18;from
+Q13298;Graz;изображение герба;1;1;from
+Q13298;Graz;десятичная классификация Дьюи;1;1;from
+Q13298;Graz;численность населения;1;5;from
+Q13298;Graz;код в Большой каталанской энциклопедии;1;1;from
+Q13298;Graz;категория на Викискладе;1;1;from
+Q13298;Graz;код автомобильного номера;1;1;from
+Q13298;Graz;сабреддит;1;1;from
+Q13298;Graz;категория объединяет темы;1;6;to
+Q13298;Graz;место рождения;1;1768;to
+Q13298;Graz;место погребения;1;17;to
+Q13298;Graz;место активности;1;422;to
+Q13298;Graz;расположение штаб-квартиры;1;119;to
+Q13298;Graz;место смерти;1;1212;to
+Q13298;Graz;место жительства;1;23;to
+Q13298;Graz;местонахождение;1;66;to
+Q13298;Graz;владельцем является;1;2;to
+Q13298;Graz;названо в честь;1;4;to
+Q13298;Graz;ID отношения в OpenStreetMap;1;2;from
+Q13298;Graz;место создания;1;5;to
+Q13298;Graz;место публикации;1;21;to
+Q13298;Graz;место первого исполнения;1;2;to
+Q13298;Graz;расположение конечной точки;1;2;to
+Q13298;Graz;обслуживаемый город;1;1;to
+Q13298;Graz;история происходит в месте;1;1;to
+Q13298;Graz;юрисдикция распространяется на;1;2;to
+Q13298;Graz;основная тема;1;1;to
+Q13298;Graz;пример использования свойства;1;1;to
+Q13298;Graz;место в MusicBrainz;1;1;from
+Q13298;Graz;код австрийского муниципалитета;1;1;from
+Q13298;Graz;баннер Викигида;1;1;from
+Q13298;Graz;часовой пояс;1;2;from
+Q13298;Graz;участник организации или клуба;1;2;from
+Q13298;Graz;местный телефонный код;1;1;from
+Q13298;Graz;идентификатор местоположения ArchINFORM;1;1;from
+Q13298;Graz;EU Research participant ID;1;1;from
+Q13298;Graz;RegiowikiAT ID;1;1;from
+Q13298;Graz;географические координаты;1;1;from
+Q13298;Graz;код Freebase;1;1;from
+Q13298;Graz;код статьи Klexikon;1;1;from
+Q13298;Graz;Who's on First ID;1;1;from
+Q13298;Graz;Uppsala University Alvin ID;1;1;from
+Q13298;Graz;код NKC;1;1;from
+Q13298;Graz;French Vikidia ID;1;1;from
+Q13298;Graz;категория карт на Викискладе;1;1;from
+Q13298;Graz;официальный сайт;1;1;from
+Q13298;Graz;основная категория по теме;1;1;from
+Q13298;Graz;галерея на Викискладе;1;1;from
+Q13298;Graz;административно-территориальная единица;1;1017;to
+Q3640;Ankara;соединяется с;1;1;to
+Q3640;Ankara;категория для людей, родившихся здесь;1;1;from
+Q3640;Ankara;код автомобильного номера;1;1;from
+Q3640;Ankara;код в Большой российской энциклопедии онлайн;1;1;from
+Q3640;Ankara;код в Nomisma.org;1;1;from
+Q3640;Ankara;код в Encyclopædia Universalis;1;1;from
+Q3640;Ankara;код Католической энциклопедии;1;1;from
+Q3640;Ankara;код темы Quora;1;1;from
+Q3640;Ankara;вид в ночное время;1;1;from
+Q3640;Ankara;код NDL;1;1;from
+Q3640;Ankara;категория на Викискладе;1;1;from
+Q3640;Ankara;ID отношения в OpenStreetMap;1;1;from
+Q3640;Ankara;коллаж;1;1;from
+Q3640;Ankara;часовой пояс;1;1;from
+Q3640;Ankara;панорамный вид;1;1;from
+Q3640;Ankara;код UK Parliament thesaurus;1;1;from
+Q3640;Ankara;местный телефонный код;1;1;from
+Q3640;Ankara;идентификатор местоположения ArchINFORM;1;1;from
+Q3640;Ankara;относится к вики-проекту;1;1;from
+Q3640;Ankara;географические координаты;1;1;from
+Q3640;Ankara;идентификатор Dizionario di Storia;1;1;from
+Q3640;Ankara;почтовый индекс;1;1;from
+Q3640;Ankara;география темы;1;1;from
+Q3640;Ankara;основные направления;1;1;to
+Q3640;Ankara;позиционная карта;1;1;from
+Q3640;Ankara;категория для людей, умерших здесь;1;1;from
+Q3640;Ankara;этнохороним;1;1;from
+Q3640;Ankara;код GeoNames;1;1;from
+Q3640;Ankara;название на языке оригинала;1;1;from
+Q3640;Ankara;категория фильмов, снятых в этом месте;1;1;from
+Q3640;Ankara;категория для людей, похороненных здесь;1;1;from
+Q3640;Ankara;категория для людей, связанных с местностью;1;1;from
+Q3640;Ankara;владеет;1;9;from
+Q3640;Ankara;код места в Facebook;1;1;from
+Q3640;Ankara;хештег;1;1;from
+Q3640;Ankara;учётная запись в Твиттере;1;2;from
+Q3640;Ankara;учётная запись в Instagram;1;1;from
+Q3640;Ankara;учётная запись Facebook;1;1;from
+Q3640;Ankara;высота над уровнем моря;1;1;from
+Q3640;Ankara;площадь;1;1;from
+Q3640;Ankara;история темы;1;1;from
+Q3640;Ankara;код YSO;1;1;from
+Q3640;Ankara;классификация климата Кёппена;1;2;from
+Q3640;Ankara;код Freebase;1;1;from
+Q3640;Ankara;код статьи Klexikon;1;1;from
+Q3640;Ankara;Who's on First ID;1;1;from
+Q3640;Ankara;место первого исполнения;1;1;to
+Q3640;Ankara;место жительства;1;20;to
+Q3640;Ankara;названо в честь;1;12;to
+Q3640;Ankara;история происходит в месте;1;6;to
+Q3640;Ankara;конечная;1;1;to
+Q3640;Ankara;владельцем является;1;9;to
+Q3640;Ankara;основная тема шаблона;1;1;to
+Q3640;Ankara;основная тема портала Викимедиа;1;1;to
+Q3640;Ankara;зона обслуживания;1;14;to
+Q3640;Ankara;основная тема;1;10;to
+Q3640;Ankara;код NKC;1;1;from
+Q3640;Ankara;начало пути;1;1;to
+Q3640;Ankara;расположение конечной точки;1;2;to
+Q3640;Ankara;юрисдикция распространяется на;1;1;to
+Q3640;Ankara;обслуживаемый город;1;2;to
+Q3640;Ankara;общая тема категории;1;1;to
+Q3640;Ankara;тематически относится к;1;2;to
+Q3640;Ankara;изображённый объект;1;1;to
+Q3640;Ankara;через;1;1;to
+Q3640;Ankara;место активности;1;18;to
+Q3640;Ankara;местонахождение;1;137;to
+Q3640;Ankara;место создания;1;29;to
+Q3640;Ankara;место погребения;1;14;to
+Q3640;Ankara;код TDV İslam Ansiklopedisi;1;1;from
+Q3640;Ankara;French Vikidia ID;1;1;from
+Q3640;Ankara;Spanish Vikidia ID;1;1;from
+Q3640;Ankara;Basque Vikidia ID;1;1;from
+Q3640;Ankara;категория карт на Викискладе;1;1;from
+Q3640;Ankara;официальный сайт;1;1;from
+Q3640;Ankara;основная категория по теме;1;1;from
+Q3640;Ankara;галерея на Викискладе;1;1;from
+Q3640;Ankara;баннер Викигида;1;1;from
+Q3640;Ankara;код NLI;1;1;from
+Q3640;Ankara;место в MusicBrainz;1;1;from
+Q3640;Ankara;dmoz;1;1;from
+Q3640;Ankara;столица;1;4;to
+Q3640;Ankara;категория объединяет темы;1;22;to
+Q3640;Ankara;место рождения;1;1398;to
+Q3640;Ankara;расположение штаб-квартиры;1;273;to
+Q3640;Ankara;место смерти;1;671;to
+Q38283;Yokohama;названо в честь;1;1;to

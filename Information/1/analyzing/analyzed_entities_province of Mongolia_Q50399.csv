@@ -1,0 +1,762 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q18827;Darkhan-Uul Province;административно-территориальная единица;1;6;to
+Q234713;Övörkhangai Province;категория объединяет темы;1;3;to
+Q234713;Övörkhangai Province;географические координаты;1;1;from
+Q234713;Övörkhangai Province;код Freebase;1;1;from
+Q234713;Övörkhangai Province;Who's on First ID;1;1;from
+Q234713;Övörkhangai Province;категория карт на Викискладе;1;1;from
+Q234713;Övörkhangai Province;официальный сайт;1;1;from
+Q234713;Övörkhangai Province;FIPS 10-4 (страны и регионы);1;1;from
+Q234713;Övörkhangai Province;основная категория по теме;1;1;from
+Q234713;Övörkhangai Province;место в MusicBrainz;1;1;from
+Q234713;Övörkhangai Province;место рождения;1;31;to
+Q234713;Övörkhangai Province;является столицей;1;1;to
+Q234713;Övörkhangai Province;часовой пояс;1;1;from
+Q234713;Övörkhangai Province;общая тема категории;1;1;to
+Q235579;Ömnögovi Province;административно-территориальная единица;1;86;to
+Q235579;Ömnögovi Province;административно делится на;1;1;to
+Q235579;Ömnögovi Province;государство;1;1;from
+Q235579;Ömnögovi Province;изображение;1;1;from
+Q235579;Ömnögovi Province;код VIAF;1;1;from
+Q235579;Ömnögovi Province;код GND;1;1;from
+Q235579;Ömnögovi Province;карта местонахождения;1;1;from
+Q235579;Ömnögovi Province;это частный случай понятия;1;1;from
+Q234713;Övörkhangai Province;дата основания/создания/возникновения;1;1;from
+Q234713;Övörkhangai Province;код автомобильного номера;1;1;from
+Q235579;Ömnögovi Province;изображение флага;1;1;from
+Q234713;Övörkhangai Province;столица;1;1;from
+Q234710;Orkhon Province;общая тема категории;1;1;to
+Q234713;Övörkhangai Province;административно-территориальная единица;1;49;to
+Q234713;Övörkhangai Province;административно делится на;1;1;to
+Q234713;Övörkhangai Province;изображение печати/эмблемы;1;1;from
+Q234713;Övörkhangai Province;государство;1;1;from
+Q234713;Övörkhangai Province;изображение;1;1;from
+Q234713;Övörkhangai Province;код VIAF;1;1;from
+Q234713;Övörkhangai Province;карта местонахождения;1;1;from
+Q234713;Övörkhangai Province;это частный случай понятия;1;1;from
+Q234713;Övörkhangai Province;изображение флага;1;1;from
+Q234713;Övörkhangai Province;категория на Викискладе;1;1;from
+Q234713;Övörkhangai Province;имеет границы с;1;6;to
+Q234713;Övörkhangai Province;изображение герба;1;1;from
+Q234713;Övörkhangai Province;численность населения;1;3;from
+Q234713;Övörkhangai Province;категория для людей, родившихся здесь;1;1;from
+Q234713;Övörkhangai Province;код GeoNames;1;1;from
+Q234713;Övörkhangai Province;название на языке оригинала;1;2;from
+Q234713;Övörkhangai Province;категория для людей, связанных с местностью;1;1;from
+Q234713;Övörkhangai Province;площадь;1;1;from
+Q234713;Övörkhangai Province;ISO 3166-2;1;1;from
+Q235579;Ömnögovi Province;столица;1;1;from
+Q235579;Ömnögovi Province;имеет границы с;1;4;to
+Q213272;Dornogovi Province;изображение герба;1;1;from
+Q236333;Govisümber Province;численность населения;1;3;from
+Q236333;Govisümber Province;государство;1;1;from
+Q236333;Govisümber Province;изображение;1;1;from
+Q236333;Govisümber Province;код VIAF;1;1;from
+Q236333;Govisümber Province;карта местонахождения;1;1;from
+Q236333;Govisümber Province;это частный случай понятия;1;1;from
+Q236333;Govisümber Province;столица;1;1;from
+Q236333;Govisümber Province;изображение флага;1;1;from
+Q236333;Govisümber Province;имеет границы с;1;4;to
+Q236333;Govisümber Province;изображение герба;1;1;from
+Q236333;Govisümber Province;код GeoNames;1;1;from
+Q236333;Govisümber Province;административно-территориальная единица;1;5;to
+Q236333;Govisümber Province;название на языке оригинала;1;2;from
+Q236333;Govisümber Province;площадь;1;1;from
+Q236333;Govisümber Province;ISO 3166-2;1;1;from
+Q236333;Govisümber Province;категория на Викискладе;1;1;from
+Q236333;Govisümber Province;код автомобильного номера;1;1;from
+Q236333;Govisümber Province;местный телефонный код;1;1;from
+Q236333;Govisümber Province;дата основания/создания/возникновения;1;1;from
+Q236333;Govisümber Province;географические координаты;1;2;from
+Q236333;Govisümber Province;код Freebase;1;1;from
+Q236333;Govisümber Province;административно делится на;1;1;to
+Q235579;Ömnögovi Province;категория объединяет темы;1;1;to
+Q235579;Ömnögovi Province;изображение герба;1;1;from
+Q235579;Ömnögovi Province;дата основания/создания/возникновения;1;1;from
+Q235579;Ömnögovi Province;численность населения;1;3;from
+Q235579;Ömnögovi Province;код в Большой каталанской энциклопедии;1;1;from
+Q235579;Ömnögovi Province;код GeoNames;1;1;from
+Q235579;Ömnögovi Province;название на языке оригинала;1;2;from
+Q235579;Ömnögovi Province;площадь;1;1;from
+Q235579;Ömnögovi Province;ISO 3166-2;1;1;from
+Q235579;Ömnögovi Province;категория на Викискладе;1;1;from
+Q235579;Ömnögovi Province;код автомобильного номера;1;1;from
+Q235579;Ömnögovi Province;часовой пояс;1;1;from
+Q235579;Ömnögovi Province;географические координаты;1;1;from
+Q235579;Ömnögovi Province;является столицей;1;1;to
+Q235579;Ömnögovi Province;код Freebase;1;1;from
+Q235579;Ömnögovi Province;Who's on First ID;1;1;from
+Q235579;Ömnögovi Province;категория карт на Викискладе;1;1;from
+Q235579;Ömnögovi Province;официальный сайт;1;1;from
+Q235579;Ömnögovi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q235579;Ömnögovi Province;основная категория по теме;1;1;from
+Q235579;Ömnögovi Province;место в MusicBrainz;1;1;from
+Q235579;Ömnögovi Province;место рождения;1;3;to
+Q235579;Ömnögovi Province;общая тема категории;1;1;to
+Q234710;Orkhon Province;категория объединяет темы;1;1;to
+Q234710;Orkhon Province;является столицей;1;1;to
+Q234710;Orkhon Province;место в MusicBrainz;1;1;from
+Q234680;Selenge Province;это частный случай понятия;1;1;from
+Q213272;Dornogovi Province;общая тема категории;1;1;to
+Q213272;Dornogovi Province;является столицей;1;1;to
+Q234680;Selenge Province;административно-территориальная единица;1;86;to
+Q234680;Selenge Province;административно делится на;1;1;to
+Q234680;Selenge Province;государство;1;1;from
+Q234680;Selenge Province;изображение;1;1;from
+Q234680;Selenge Province;код VIAF;1;1;from
+Q234680;Selenge Province;карта местонахождения;1;1;from
+Q234680;Selenge Province;код LCNAF;1;1;from
+Q234680;Selenge Province;столица;1;1;to
+Q213272;Dornogovi Province;категория объединяет темы;1;2;to
+Q234680;Selenge Province;изображение флага;1;1;from
+Q234680;Selenge Province;имеет границы с;1;7;to
+Q234680;Selenge Province;изображение герба;1;1;from
+Q234680;Selenge Province;численность населения;1;3;from
+Q234680;Selenge Province;является столицей;1;1;to
+Q234680;Selenge Province;код GeoNames;1;1;from
+Q234680;Selenge Province;название на языке оригинала;1;2;from
+Q234680;Selenge Province;категория для людей, связанных с местностью;1;1;from
+Q234680;Selenge Province;площадь;1;1;from
+Q213272;Dornogovi Province;происходит из;1;1;to
+Q213272;Dornogovi Province;место рождения;1;5;to
+Q234710;Orkhon Province;основная категория по теме;1;1;from
+Q213272;Dornogovi Province;код автомобильного номера;1;1;from
+Q213272;Dornogovi Province;категория для людей, родившихся здесь;1;1;from
+Q213272;Dornogovi Province;код GeoNames;1;1;from
+Q213272;Dornogovi Province;код TGN;1;1;from
+Q213272;Dornogovi Province;название на языке оригинала;1;2;from
+Q213272;Dornogovi Province;высота над уровнем моря;1;1;from
+Q213272;Dornogovi Province;площадь;1;1;from
+Q213272;Dornogovi Province;используемый язык;1;1;from
+Q213272;Dornogovi Province;ISO 3166-2;1;1;from
+Q213272;Dornogovi Province;категория на Викискладе;1;1;from
+Q213272;Dornogovi Province;часовой пояс;1;1;from
+Q213272;Dornogovi Province;место в MusicBrainz;1;1;from
+Q213272;Dornogovi Province;местный телефонный код;1;1;from
+Q213272;Dornogovi Province;дата основания/создания/возникновения;1;1;from
+Q213272;Dornogovi Province;географические координаты;1;1;from
+Q213272;Dornogovi Province;код Freebase;1;1;from
+Q213272;Dornogovi Province;Who's on First ID;1;1;from
+Q213272;Dornogovi Province;категория карт на Викискладе;1;1;from
+Q213272;Dornogovi Province;официальный сайт;1;1;from
+Q213272;Dornogovi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q213272;Dornogovi Province;основная категория по теме;1;1;from
+Q234680;Selenge Province;код BabelNet;1;1;from
+Q234680;Selenge Province;ISO 3166-2;1;1;from
+Q234680;Selenge Province;категория на Викискладе;1;1;from
+Q234710;Orkhon Province;категория на Викискладе;1;1;from
+Q234710;Orkhon Province;столица;1;1;from
+Q234710;Orkhon Province;изображение флага;1;1;from
+Q234710;Orkhon Province;имеет границы с;1;2;to
+Q234710;Orkhon Province;изображение герба;1;1;from
+Q234710;Orkhon Province;численность населения;1;3;from
+Q234710;Orkhon Province;код GeoNames;1;1;from
+Q234710;Orkhon Province;название на языке оригинала;1;2;from
+Q234710;Orkhon Province;площадь;1;1;from
+Q234710;Orkhon Province;ISO 3166-2;1;1;from
+Q234710;Orkhon Province;код автомобильного номера;1;1;from
+Q234680;Selenge Province;код автомобильного номера;1;1;from
+Q234710;Orkhon Province;часовой пояс;1;1;from
+Q234710;Orkhon Province;местный телефонный код;1;1;from
+Q234710;Orkhon Province;дата основания/создания/возникновения;1;1;from
+Q234710;Orkhon Province;географические координаты;1;1;from
+Q234710;Orkhon Province;код Freebase;1;1;from
+Q234710;Orkhon Province;Who's on First ID;1;1;from
+Q234710;Orkhon Province;категория карт на Викискладе;1;1;from
+Q234710;Orkhon Province;официальный сайт;1;1;from
+Q234710;Orkhon Province;FIPS 10-4 (страны и регионы);1;1;from
+Q234710;Orkhon Province;это частный случай понятия;1;1;from
+Q234710;Orkhon Province;карта местонахождения;1;1;from
+Q234710;Orkhon Province;код VIAF;1;1;from
+Q234710;Orkhon Province;изображение;1;1;from
+Q234680;Selenge Province;часовой пояс;1;1;from
+Q234680;Selenge Province;местный телефонный код;1;1;from
+Q234680;Selenge Province;идентификатор местоположения ArchINFORM;1;1;from
+Q234680;Selenge Province;дата основания/создания/возникновения;1;1;from
+Q234680;Selenge Province;географические координаты;1;1;from
+Q234680;Selenge Province;код Freebase;1;1;from
+Q234680;Selenge Province;Who's on First ID;1;1;from
+Q234680;Selenge Province;категория карт на Викискладе;1;1;from
+Q234680;Selenge Province;официальный сайт;1;1;from
+Q234680;Selenge Province;FIPS 10-4 (страны и регионы);1;1;from
+Q234680;Selenge Province;основная категория по теме;1;1;from
+Q234680;Selenge Province;место в MusicBrainz;1;1;from
+Q234680;Selenge Province;место рождения;1;6;to
+Q234680;Selenge Province;категория объединяет темы;1;2;to
+Q234680;Selenge Province;общая тема категории;1;1;to
+Q234680;Selenge Province;анклав в;1;1;to
+Q234710;Orkhon Province;административно-территориальная единица;1;3;to
+Q234710;Orkhon Province;административно делится на;1;1;to
+Q234710;Orkhon Province;государство;1;1;from
+Q236333;Govisümber Province;Who's on First ID;1;1;from
+Q236333;Govisümber Province;категория карт на Викискладе;1;1;from
+Q236333;Govisümber Province;официальный сайт;1;1;from
+Q276195;Töv Province;название на языке оригинала;1;2;from
+Q276195;Töv Province;код GND;1;1;from
+Q276195;Töv Province;карта местонахождения;1;1;from
+Q276195;Töv Province;это частный случай понятия;1;1;from
+Q276195;Töv Province;столица;1;1;from
+Q276195;Töv Province;изображение флага;1;1;from
+Q276195;Töv Province;имеет границы с;1;8;to
+Q276195;Töv Province;изображение герба;1;1;from
+Q276195;Töv Province;численность населения;1;3;from
+Q276195;Töv Province;код GeoNames;1;1;from
+Q276195;Töv Province;категория для людей, связанных с местностью;1;1;from
+Q276195;Töv Province;изображение;1;1;from
+Q276195;Töv Province;площадь;1;1;from
+Q276195;Töv Province;ISO 3166-2;1;1;from
+Q276195;Töv Province;категория на Викискладе;1;1;from
+Q276195;Töv Province;код автомобильного номера;1;1;from
+Q276195;Töv Province;часовой пояс;1;1;from
+Q276195;Töv Province;местный телефонный код;1;1;from
+Q276195;Töv Province;дата основания/создания/возникновения;1;1;from
+Q276195;Töv Province;географические координаты;1;1;from
+Q276195;Töv Province;код Freebase;1;1;from
+Q276195;Töv Province;код VIAF;1;1;from
+Q276195;Töv Province;государство;1;1;from
+Q244804;Sükhbaatar Province;используемый язык;1;1;from
+Q244804;Sükhbaatar Province;официальный сайт;1;1;from
+Q244804;Sükhbaatar Province;категория на Викискладе;1;1;from
+Q244804;Sükhbaatar Province;код автомобильного номера;1;1;from
+Q244804;Sükhbaatar Province;часовой пояс;1;1;from
+Q244804;Sükhbaatar Province;местный телефонный код;1;1;from
+Q244804;Sükhbaatar Province;дата основания/создания/возникновения;1;1;from
+Q244804;Sükhbaatar Province;географические координаты;1;1;from
+Q244804;Sükhbaatar Province;код Freebase;1;1;from
+Q244804;Sükhbaatar Province;Who's on First ID;1;1;from
+Q244804;Sükhbaatar Province;категория карт на Викискладе;1;1;from
+Q244804;Sükhbaatar Province;FIPS 10-4 (страны и регионы);1;1;from
+Q276195;Töv Province;изображение печати/эмблемы;1;1;from
+Q244804;Sükhbaatar Province;основная категория по теме;1;1;from
+Q244804;Sükhbaatar Province;место в MusicBrainz;1;1;from
+Q244804;Sükhbaatar Province;категория объединяет темы;1;2;to
+Q244804;Sükhbaatar Province;происходит из;1;1;to
+Q244804;Sükhbaatar Province;место рождения;1;1;to
+Q244804;Sükhbaatar Province;является столицей;1;1;to
+Q244804;Sükhbaatar Province;общая тема категории;1;1;to
+Q276195;Töv Province;административно-территориальная единица;1;106;to
+Q276195;Töv Province;административно делится на;1;1;to
+Q276195;Töv Province;Who's on First ID;1;1;from
+Q276195;Töv Province;категория карт на Викискладе;1;1;from
+Q276195;Töv Province;официальный сайт;1;1;from
+Q276200;Bayankhongor Province;код Freebase;1;1;from
+Q276200;Bayankhongor Province;площадь;1;1;from
+Q276200;Bayankhongor Province;используемый язык;1;1;from
+Q276200;Bayankhongor Province;ISO 3166-2;1;1;from
+Q276200;Bayankhongor Province;категория на Викискладе;1;1;from
+Q276200;Bayankhongor Province;код автомобильного номера;1;1;from
+Q276200;Bayankhongor Province;часовой пояс;1;1;from
+Q276200;Bayankhongor Province;местный телефонный код;1;1;from
+Q276200;Bayankhongor Province;дата основания/создания/возникновения;1;1;from
+Q276200;Bayankhongor Province;географические координаты;1;1;from
+Q276200;Bayankhongor Province;Who's on First ID;1;1;from
+Q276195;Töv Province;FIPS 10-4 (страны и регионы);1;1;from
+Q276200;Bayankhongor Province;категория карт на Викискладе;1;1;from
+Q276200;Bayankhongor Province;официальный сайт;1;1;from
+Q276200;Bayankhongor Province;FIPS 10-4 (страны и регионы);1;1;from
+Q276200;Bayankhongor Province;основная категория по теме;1;1;from
+Q276200;Bayankhongor Province;место в MusicBrainz;1;1;from
+Q276200;Bayankhongor Province;место рождения;1;2;to
+Q276200;Bayankhongor Province;происходит из;1;1;to
+Q276200;Bayankhongor Province;является столицей;1;1;to
+Q276200;Bayankhongor Province;общая тема категории;1;1;to
+Q276200;Bayankhongor Province;название на языке оригинала;1;2;from
+Q276200;Bayankhongor Province;код GeoNames;1;1;from
+Q276200;Bayankhongor Province;численность населения;1;3;from
+Q276200;Bayankhongor Province;изображение герба;1;1;from
+Q276195;Töv Province;основная категория по теме;1;1;from
+Q276195;Töv Province;место в MusicBrainz;1;1;from
+Q276195;Töv Province;место рождения;1;5;to
+Q276195;Töv Province;место смерти;1;1;to
+Q276195;Töv Province;город-побратим;1;1;to
+Q276195;Töv Province;категория объединяет темы;1;2;to
+Q276195;Töv Province;общая тема категории;1;1;to
+Q276195;Töv Province;является столицей;1;1;to
+Q276200;Bayankhongor Province;административно-территориальная единица;1;65;to
+Q276200;Bayankhongor Province;административно делится на;1;1;to
+Q276200;Bayankhongor Province;государство;1;1;from
+Q276200;Bayankhongor Province;изображение;1;1;from
+Q276200;Bayankhongor Province;код VIAF;1;1;from
+Q276200;Bayankhongor Province;код GND;1;1;from
+Q276200;Bayankhongor Province;карта местонахождения;1;1;from
+Q276200;Bayankhongor Province;это частный случай понятия;1;1;from
+Q276200;Bayankhongor Province;столица;1;1;from
+Q276200;Bayankhongor Province;изображение флага;1;1;from
+Q276200;Bayankhongor Province;имеет границы с;1;5;to
+Q244804;Sükhbaatar Province;ISO 3166-2;1;1;from
+Q244804;Sükhbaatar Province;площадь;1;1;from
+Q236333;Govisümber Province;FIPS 10-4 (страны и регионы);1;1;from
+Q239040;Khentii Province;FIPS 10-4 (страны и регионы);1;1;from
+Q239040;Khentii Province;категория на Викискладе;1;1;from
+Q239040;Khentii Province;код автомобильного номера;1;1;from
+Q239040;Khentii Province;часовой пояс;1;1;from
+Q239040;Khentii Province;дата основания/создания/возникновения;1;1;from
+Q239040;Khentii Province;географические координаты;1;2;from
+Q239040;Khentii Province;код Freebase;1;1;from
+Q239040;Khentii Province;Who's on First ID;1;1;from
+Q239040;Khentii Province;категория карт на Викискладе;1;1;from
+Q239040;Khentii Province;официальный сайт;1;1;from
+Q239040;Khentii Province;основная категория по теме;1;1;from
+Q239040;Khentii Province;площадь;1;1;from
+Q239040;Khentii Province;место в MusicBrainz;1;1;from
+Q239040;Khentii Province;место рождения;1;5;to
+Q239040;Khentii Province;категория объединяет темы;1;2;to
+Q239040;Khentii Province;является столицей;1;1;to
+Q239040;Khentii Province;исток водотока;1;1;to
+Q239040;Khentii Province;общая тема категории;1;1;to
+Q244788;Khövsgöl Province;административно-территориальная единица;1;91;to
+Q244788;Khövsgöl Province;административно делится на;1;1;to
+Q244788;Khövsgöl Province;государство;1;1;from
+Q239040;Khentii Province;ISO 3166-2;1;1;from
+Q239040;Khentii Province;категория для людей, связанных с местностью;1;1;from
+Q244804;Sükhbaatar Province;категория для людей, связанных с местностью;1;1;from
+Q239040;Khentii Province;код VIAF;1;1;from
+Q236333;Govisümber Province;основная категория по теме;1;1;from
+Q236333;Govisümber Province;место в MusicBrainz;1;1;from
+Q236333;Govisümber Province;является столицей;1;1;to
+Q236333;Govisümber Province;категория объединяет темы;1;1;to
+Q236333;Govisümber Province;общая тема категории;1;1;to
+Q239040;Khentii Province;административно-территориальная единица;1;77;to
+Q239040;Khentii Province;административно делится на;1;1;to
+Q239040;Khentii Province;государство;1;1;from
+Q239040;Khentii Province;изображение;1;1;from
+Q239040;Khentii Province;код GND;1;1;from
+Q239040;Khentii Province;название на языке оригинала;1;2;from
+Q239040;Khentii Province;карта местонахождения;1;1;from
+Q239040;Khentii Province;это частный случай понятия;1;1;from
+Q239040;Khentii Province;столица;1;1;from
+Q239040;Khentii Province;изображение флага;1;1;from
+Q239040;Khentii Province;имеет границы с;1;9;to
+Q239040;Khentii Province;изображение герба;1;1;from
+Q239040;Khentii Province;численность населения;1;3;from
+Q239040;Khentii Province;код GeoNames;1;1;from
+Q239040;Khentii Province;код TGN;1;1;from
+Q244788;Khövsgöl Province;изображение;1;1;from
+Q244788;Khövsgöl Province;код VIAF;1;1;from
+Q244788;Khövsgöl Province;код GND;1;1;from
+Q244804;Sükhbaatar Province;карта местонахождения;1;1;from
+Q244788;Khövsgöl Province;место рождения;1;8;to
+Q244788;Khövsgöl Province;является столицей;1;1;to
+Q244788;Khövsgöl Province;категория объединяет темы;1;2;to
+Q244788;Khövsgöl Province;общая тема категории;1;1;to
+Q244804;Sükhbaatar Province;административно-территориальная единица;1;100;to
+Q244804;Sükhbaatar Province;административно делится на;1;1;to
+Q244804;Sükhbaatar Province;государство;1;1;from
+Q244804;Sükhbaatar Province;изображение;1;1;from
+Q244804;Sükhbaatar Province;код VIAF;1;1;from
+Q244804;Sükhbaatar Province;это частный случай понятия;1;1;from
+Q244788;Khövsgöl Province;карта местонахождения;1;1;from
+Q244804;Sükhbaatar Province;столица;1;1;from
+Q244804;Sükhbaatar Province;изображение флага;1;1;from
+Q244804;Sükhbaatar Province;имеет границы с;1;4;to
+Q244804;Sükhbaatar Province;изображение герба;1;1;from
+Q244804;Sükhbaatar Province;численность населения;1;3;from
+Q244804;Sükhbaatar Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q244804;Sükhbaatar Province;код GeoNames;1;1;from
+Q244804;Sükhbaatar Province;название на языке оригинала;1;2;from
+Q244804;Sükhbaatar Province;код персоны/учреждения в Британском музее;1;1;from
+Q244788;Khövsgöl Province;место в MusicBrainz;1;1;from
+Q244788;Khövsgöl Province;основная категория по теме;1;1;from
+Q244788;Khövsgöl Province;FIPS 10-4 (страны и регионы);1;1;from
+Q244788;Khövsgöl Province;официальный сайт;1;1;from
+Q244788;Khövsgöl Province;это частный случай понятия;1;1;from
+Q244788;Khövsgöl Province;столица;1;1;from
+Q244788;Khövsgöl Province;изображение флага;1;1;from
+Q244788;Khövsgöl Province;имеет границы с;1;5;to
+Q244788;Khövsgöl Province;изображение герба;1;1;from
+Q244788;Khövsgöl Province;численность населения;1;3;from
+Q244788;Khövsgöl Province;код GeoNames;1;1;from
+Q244788;Khövsgöl Province;название на языке оригинала;1;2;from
+Q244788;Khövsgöl Province;категория для людей, связанных с местностью;1;1;from
+Q244788;Khövsgöl Province;площадь;1;1;from
+Q244788;Khövsgöl Province;ISO 3166-2;1;1;from
+Q244788;Khövsgöl Province;категория на Викискладе;1;1;from
+Q244788;Khövsgöl Province;код автомобильного номера;1;1;from
+Q244788;Khövsgöl Province;часовой пояс;1;1;from
+Q244788;Khövsgöl Province;дата основания/создания/возникновения;1;1;from
+Q244788;Khövsgöl Province;географические координаты;1;1;from
+Q244788;Khövsgöl Province;код Freebase;1;1;from
+Q244788;Khövsgöl Province;Who's on First ID;1;1;from
+Q244788;Khövsgöl Province;категория карт на Викискладе;1;1;from
+Q213272;Dornogovi Province;численность населения;1;3;from
+Q213272;Dornogovi Province;имеет границы с;1;6;to
+Q18827;Darkhan-Uul Province;административно делится на;1;1;to
+Q192942;Uvs Province;категория для людей, связанных с местностью;1;1;from
+Q192942;Uvs Province;столица;1;1;from
+Q192942;Uvs Province;изображение флага;1;1;from
+Q192942;Uvs Province;имеет границы с;1;4;to
+Q192942;Uvs Province;изображение герба;1;1;from
+Q192942;Uvs Province;численность населения;1;3;from
+Q192942;Uvs Province;код в Большой каталанской энциклопедии;1;1;from
+Q192942;Uvs Province;категория для людей, родившихся здесь;1;1;from
+Q192942;Uvs Province;код GeoNames;1;1;from
+Q192942;Uvs Province;название на языке оригинала;1;2;from
+Q192942;Uvs Province;площадь;1;1;from
+Q192942;Uvs Province;карта местонахождения;1;1;from
+Q192942;Uvs Province;ISO 3166-2;1;1;from
+Q192942;Uvs Province;категория на Викискладе;1;1;from
+Q192942;Uvs Province;код автомобильного номера;1;1;from
+Q192942;Uvs Province;часовой пояс;1;1;from
+Q192942;Uvs Province;местный телефонный код;1;1;from
+Q192942;Uvs Province;дата основания/создания/возникновения;1;1;from
+Q192942;Uvs Province;географические координаты;1;1;from
+Q192942;Uvs Province;код Freebase;1;1;from
+Q192942;Uvs Province;Who's on First ID;1;1;from
+Q192942;Uvs Province;это частный случай понятия;1;1;from
+Q192942;Uvs Province;код GND;1;1;from
+Q192942;Uvs Province;официальный сайт;1;1;from
+Q191792;Bayan-Ölgii Province;баннер Викигида;1;1;from
+Q191792;Bayan-Ölgii Province;местный телефонный код;1;1;from
+Q191792;Bayan-Ölgii Province;дата основания/создания/возникновения;1;1;from
+Q191792;Bayan-Ölgii Province;географические координаты;1;1;from
+Q191792;Bayan-Ölgii Province;код Freebase;1;1;from
+Q191792;Bayan-Ölgii Province;Who's on First ID;1;1;from
+Q191792;Bayan-Ölgii Province;категория карт на Викискладе;1;1;from
+Q191792;Bayan-Ölgii Province;официальный сайт;1;1;from
+Q191792;Bayan-Ölgii Province;FIPS 10-4 (страны и регионы);1;1;from
+Q191792;Bayan-Ölgii Province;основная категория по теме;1;1;from
+Q191792;Bayan-Ölgii Province;место в MusicBrainz;1;1;from
+Q192942;Uvs Province;изображение;1;1;from
+Q191792;Bayan-Ölgii Province;место смерти;1;1;to
+Q191792;Bayan-Ölgii Province;является столицей;1;1;to
+Q191792;Bayan-Ölgii Province;место рождения;1;1;to
+Q191792;Bayan-Ölgii Province;общая тема категории;1;1;to
+Q191792;Bayan-Ölgii Province;категория объединяет темы;1;1;to
+Q191792;Bayan-Ölgii Province;происходит из;1;1;to
+Q192942;Uvs Province;административно-территориальная единица;1;53;to
+Q192942;Uvs Province;административно делится на;1;1;to
+Q192942;Uvs Province;государство;1;1;from
+Q192942;Uvs Province;категория карт на Викискладе;1;1;from
+Q192942;Uvs Province;FIPS 10-4 (страны и регионы);1;1;from
+Q213272;Dornogovi Province;изображение флага;1;1;from
+Q192945;Govi-Altai Province;категория карт на Викискладе;1;1;from
+Q192945;Govi-Altai Province;ISO 3166-2;1;1;from
+Q192945;Govi-Altai Province;категория на Викискладе;1;1;from
+Q192945;Govi-Altai Province;код автомобильного номера;1;1;from
+Q192945;Govi-Altai Province;часовой пояс;1;1;from
+Q192945;Govi-Altai Province;местный телефонный код;1;1;from
+Q192945;Govi-Altai Province;дата основания/создания/возникновения;1;1;from
+Q192945;Govi-Altai Province;географические координаты;1;2;from
+Q192945;Govi-Altai Province;код Freebase;1;1;from
+Q192945;Govi-Altai Province;Who's on First ID;1;1;from
+Q192945;Govi-Altai Province;официальный сайт;1;1;from
+Q192945;Govi-Altai Province;площадь;1;1;from
+Q192945;Govi-Altai Province;FIPS 10-4 (страны и регионы);1;1;from
+Q192945;Govi-Altai Province;основная категория по теме;1;1;from
+Q192945;Govi-Altai Province;место в MusicBrainz;1;1;from
+Q192945;Govi-Altai Province;место рождения;1;2;to
+Q192945;Govi-Altai Province;происходит из;1;2;to
+Q192945;Govi-Altai Province;является столицей;1;1;to
+Q192945;Govi-Altai Province;категория объединяет темы;1;1;to
+Q192945;Govi-Altai Province;общая тема категории;1;1;to
+Q194098;Khovd Province;административно-территориальная единица;1;78;to
+Q192945;Govi-Altai Province;используемый язык;1;2;from
+Q192945;Govi-Altai Province;название на языке оригинала;1;2;from
+Q192942;Uvs Province;основная категория по теме;1;1;from
+Q192945;Govi-Altai Province;изображение;1;1;from
+Q192942;Uvs Province;место в MusicBrainz;1;1;from
+Q192942;Uvs Province;место рождения;1;32;to
+Q192942;Uvs Province;категория объединяет темы;1;3;to
+Q192942;Uvs Province;место создания;1;1;to
+Q192942;Uvs Province;является столицей;1;1;to
+Q192942;Uvs Province;общая тема категории;1;1;to
+Q192945;Govi-Altai Province;административно-территориальная единица;1;102;to
+Q192945;Govi-Altai Province;административно делится на;1;1;to
+Q192945;Govi-Altai Province;государство;1;1;from
+Q192945;Govi-Altai Province;код VIAF;1;1;from
+Q192945;Govi-Altai Province;код TGN;1;1;from
+Q192945;Govi-Altai Province;код GND;1;1;from
+Q192945;Govi-Altai Province;карта местонахождения;1;1;from
+Q192945;Govi-Altai Province;это частный случай понятия;1;1;from
+Q192945;Govi-Altai Province;столица;1;1;from
+Q192945;Govi-Altai Province;изображение флага;1;1;from
+Q192945;Govi-Altai Province;имеет границы с;1;4;to
+Q192945;Govi-Altai Province;изображение герба;1;1;from
+Q192945;Govi-Altai Province;численность населения;1;3;from
+Q192945;Govi-Altai Province;код GeoNames;1;1;from
+Q191792;Bayan-Ölgii Province;часовой пояс;1;1;from
+Q191792;Bayan-Ölgii Province;код автомобильного номера;1;1;from
+Q191792;Bayan-Ölgii Province;категория на Викискладе;1;1;from
+Q18827;Darkhan-Uul Province;место рождения;1;1;to
+Q18827;Darkhan-Uul Province;географические координаты;1;1;from
+Q18827;Darkhan-Uul Province;код Freebase;1;1;from
+Q18827;Darkhan-Uul Province;Who's on First ID;1;1;from
+Q18827;Darkhan-Uul Province;категория карт на Викискладе;1;1;from
+Q18827;Darkhan-Uul Province;официальный сайт;1;1;from
+Q18827;Darkhan-Uul Province;FIPS 10-4 (страны и регионы);1;1;from
+Q18827;Darkhan-Uul Province;основная категория по теме;1;1;from
+Q18827;Darkhan-Uul Province;место в MusicBrainz;1;1;from
+Q18827;Darkhan-Uul Province;является столицей;1;1;to
+Q18827;Darkhan-Uul Province;общая тема категории;1;1;to
+Q18827;Darkhan-Uul Province;анклав в;1;1;from
+Q18827;Darkhan-Uul Province;категория объединяет темы;1;1;to
+Q167764;Zavkhan Province;административно-территориальная единица;1;61;to
+Q167764;Zavkhan Province;административно делится на;1;1;to
+Q167764;Zavkhan Province;государство;1;1;from
+Q167764;Zavkhan Province;изображение;1;1;from
+Q167764;Zavkhan Province;код VIAF;1;1;from
+Q167764;Zavkhan Province;карта местонахождения;1;1;from
+Q167764;Zavkhan Province;это частный случай понятия;1;1;from
+Q167764;Zavkhan Province;столица;1;1;from
+Q18827;Darkhan-Uul Province;дата основания/создания/возникновения;1;1;from
+Q18827;Darkhan-Uul Province;местный телефонный код;1;1;from
+Q191792;Bayan-Ölgii Province;ISO 3166-2;1;1;from
+Q18827;Darkhan-Uul Province;изображение флага;1;1;from
+Q18827;Darkhan-Uul Province;государство;1;1;from
+Q18827;Darkhan-Uul Province;изображение;1;1;from
+Q18827;Darkhan-Uul Province;код VIAF;1;1;from
+Q18827;Darkhan-Uul Province;карта местонахождения;1;1;from
+Q18827;Darkhan-Uul Province;часть света;1;1;from
+Q18827;Darkhan-Uul Province;это частный случай понятия;1;1;from
+Q18827;Darkhan-Uul Province;столица;1;1;from
+Q18827;Darkhan-Uul Province;официальный язык;1;1;from
+Q18827;Darkhan-Uul Province;денежная единица;1;1;from
+Q18827;Darkhan-Uul Province;имеет границы с;1;1;to
+Q18827;Darkhan-Uul Province;часовой пояс;1;1;from
+Q18827;Darkhan-Uul Province;изображение герба;1;1;from
+Q18827;Darkhan-Uul Province;численность населения;1;3;from
+Q18827;Darkhan-Uul Province;код GeoNames;1;1;from
+Q18827;Darkhan-Uul Province;название на языке оригинала;1;2;from
+Q18827;Darkhan-Uul Province;высота над уровнем моря;1;1;from
+Q18827;Darkhan-Uul Province;площадь;1;1;from
+Q18827;Darkhan-Uul Province;ISO 3166-2;1;1;from
+Q18827;Darkhan-Uul Province;категория на Викискладе;1;1;from
+Q18827;Darkhan-Uul Province;код автомобильного номера;1;1;from
+Q167764;Zavkhan Province;изображение флага;1;1;from
+Q167764;Zavkhan Province;имеет границы с;1;7;to
+Q167764;Zavkhan Province;изображение герба;1;1;from
+Q191792;Bayan-Ölgii Province;столица;1;1;from
+Q167764;Zavkhan Province;является столицей;1;1;to
+Q191792;Bayan-Ölgii Province;административно-территориальная единица;1;97;to
+Q191792;Bayan-Ölgii Province;административно делится на;1;1;to
+Q191792;Bayan-Ölgii Province;государство;1;1;from
+Q191792;Bayan-Ölgii Province;изображение;1;1;from
+Q191792;Bayan-Ölgii Province;код VIAF;1;1;from
+Q191792;Bayan-Ölgii Province;код GND;1;1;from
+Q191792;Bayan-Ölgii Province;карта местонахождения;1;1;from
+Q191792;Bayan-Ölgii Province;это частный случай понятия;1;1;from
+Q191792;Bayan-Ölgii Province;изображение флага;1;1;from
+Q167764;Zavkhan Province;численность населения;1;3;from
+Q191792;Bayan-Ölgii Province;имеет границы с;1;5;to
+Q191792;Bayan-Ölgii Province;изображение герба;1;1;from
+Q191792;Bayan-Ölgii Province;численность населения;1;3;from
+Q191792;Bayan-Ölgii Province;код GeoNames;1;1;from
+Q191792;Bayan-Ölgii Province;код TGN;1;1;from
+Q191792;Bayan-Ölgii Province;название на языке оригинала;1;2;from
+Q191792;Bayan-Ölgii Province;высота над уровнем моря;1;1;from
+Q191792;Bayan-Ölgii Province;площадь;1;1;from
+Q191792;Bayan-Ölgii Province;используемый язык;1;1;from
+Q167764;Zavkhan Province;общая тема категории;1;1;to
+Q167764;Zavkhan Province;категория объединяет темы;1;2;to
+Q167764;Zavkhan Province;место рождения;1;4;to
+Q167764;Zavkhan Province;место в MusicBrainz;1;1;from
+Q167764;Zavkhan Province;код GeoNames;1;1;from
+Q167764;Zavkhan Province;название на языке оригинала;1;2;from
+Q167764;Zavkhan Province;категория для людей, связанных с местностью;1;1;from
+Q167764;Zavkhan Province;высота над уровнем моря;1;1;from
+Q167764;Zavkhan Province;площадь;1;1;from
+Q167764;Zavkhan Province;ISO 3166-2;1;1;from
+Q167764;Zavkhan Province;категория на Викискладе;1;1;from
+Q167764;Zavkhan Province;код автомобильного номера;1;1;from
+Q167764;Zavkhan Province;часовой пояс;1;1;from
+Q167764;Zavkhan Province;местный телефонный код;1;1;from
+Q167764;Zavkhan Province;идентификатор местоположения ArchINFORM;1;1;from
+Q167764;Zavkhan Province;дата основания/создания/возникновения;1;1;from
+Q167764;Zavkhan Province;географические координаты;1;1;from
+Q167764;Zavkhan Province;код Freebase;1;1;from
+Q167764;Zavkhan Province;Who's on First ID;1;1;from
+Q167764;Zavkhan Province;категория карт на Викискладе;1;1;from
+Q167764;Zavkhan Province;официальный сайт;1;1;from
+Q167764;Zavkhan Province;FIPS 10-4 (страны и регионы);1;1;from
+Q167764;Zavkhan Province;основная категория по теме;1;1;from
+Q194098;Khovd Province;административно делится на;1;1;to
+Q194098;Khovd Province;государство;1;1;to
+Q194098;Khovd Province;изображение;1;1;from
+Q209774;Bulgan Province;географические координаты;1;1;from
+Q209774;Bulgan Province;название на языке оригинала;1;2;from
+Q209774;Bulgan Province;категория для людей, связанных с местностью;1;1;from
+Q209774;Bulgan Province;площадь;1;1;from
+Q209774;Bulgan Province;ISO 3166-2;1;1;from
+Q209774;Bulgan Province;категория на Викискладе;1;1;from
+Q209774;Bulgan Province;код автомобильного номера;1;1;from
+Q209774;Bulgan Province;часовой пояс;1;1;from
+Q209774;Bulgan Province;местный телефонный код;1;1;from
+Q209774;Bulgan Province;дата основания/создания/возникновения;1;1;from
+Q209774;Bulgan Province;код Freebase;1;1;from
+Q209774;Bulgan Province;численность населения;1;3;from
+Q209774;Bulgan Province;Who's on First ID;1;1;from
+Q209774;Bulgan Province;категория карт на Викискладе;1;1;from
+Q209774;Bulgan Province;официальный сайт;1;1;from
+Q209774;Bulgan Province;FIPS 10-4 (страны и регионы);1;1;from
+Q209774;Bulgan Province;основная категория по теме;1;1;from
+Q209774;Bulgan Province;место в MusicBrainz;1;1;from
+Q209774;Bulgan Province;место рождения;1;4;to
+Q209774;Bulgan Province;категория объединяет темы;1;2;to
+Q209774;Bulgan Province;общая тема категории;1;1;to
+Q209774;Bulgan Province;код GeoNames;1;1;from
+Q209774;Bulgan Province;изображение герба;1;1;from
+Q207809;Arkhangai Province;код Freebase;1;1;from
+Q207809;Arkhangai Province;общая тема категории;1;1;to
+Q207809;Arkhangai Province;категория карт на Викискладе;1;1;from
+Q207809;Arkhangai Province;официальный сайт;1;1;from
+Q207809;Arkhangai Province;FIPS 10-4 (страны и регионы);1;1;from
+Q207809;Arkhangai Province;основная категория по теме;1;1;from
+Q207809;Arkhangai Province;баннер Викигида;1;1;from
+Q207809;Arkhangai Province;место в MusicBrainz;1;1;from
+Q207809;Arkhangai Province;место рождения;1;4;to
+Q207809;Arkhangai Province;является столицей;1;1;to
+Q207809;Arkhangai Province;категория объединяет темы;1;2;to
+Q209774;Bulgan Province;административно-территориальная единица;1;59;to
+Q209774;Bulgan Province;имеет границы с;1;7;to
+Q209774;Bulgan Province;административно делится на;1;1;to
+Q209774;Bulgan Province;государство;1;1;from
+Q209774;Bulgan Province;изображение;1;1;from
+Q209774;Bulgan Province;код VIAF;1;1;from
+Q209774;Bulgan Province;код GND;1;1;from
+Q209774;Bulgan Province;карта местонахождения;1;1;from
+Q209774;Bulgan Province;это частный случай понятия;1;1;from
+Q209774;Bulgan Province;столица;1;1;from
+Q209774;Bulgan Province;изображение флага;1;1;from
+Q209774;Bulgan Province;является столицей;1;1;to
+Q211835;Dundgovi Province;административно-территориальная единица;1;43;to
+Q211835;Dundgovi Province;административно делится на;1;1;to
+Q211835;Dundgovi Province;общая тема категории;1;1;to
+Q211835;Dundgovi Province;Who's on First ID;1;1;from
+Q211835;Dundgovi Province;категория карт на Викискладе;1;1;from
+Q211835;Dundgovi Province;официальный сайт;1;1;from
+Q211835;Dundgovi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q211835;Dundgovi Province;основная категория по теме;1;1;from
+Q211835;Dundgovi Province;баннер Викигида;1;1;from
+Q211835;Dundgovi Province;место в MusicBrainz;1;1;from
+Q211835;Dundgovi Province;является столицей;1;1;to
+Q211835;Dundgovi Province;категория объединяет темы;1;2;to
+Q213272;Dornogovi Province;административно-территориальная единица;1;118;to
+Q211835;Dundgovi Province;государство;1;1;from
+Q213272;Dornogovi Province;административно делится на;1;1;to
+Q213272;Dornogovi Province;государство;1;1;from
+Q213272;Dornogovi Province;изображение;1;1;from
+Q213272;Dornogovi Province;город-побратим;1;1;to
+Q213272;Dornogovi Province;код VIAF;1;1;from
+Q213272;Dornogovi Province;код GND;1;1;from
+Q213272;Dornogovi Province;карта местонахождения;1;1;from
+Q213272;Dornogovi Province;это частный случай понятия;1;1;from
+Q213272;Dornogovi Province;столица;1;1;from
+Q211835;Dundgovi Province;код Freebase;1;1;from
+Q211835;Dundgovi Province;географические координаты;1;1;from
+Q211835;Dundgovi Province;дата основания/создания/возникновения;1;1;from
+Q211835;Dundgovi Province;местный телефонный код;1;1;from
+Q211835;Dundgovi Province;изображение;1;1;from
+Q211835;Dundgovi Province;код VIAF;1;1;from
+Q211835;Dundgovi Province;карта местонахождения;1;1;from
+Q211835;Dundgovi Province;код LCNAF;1;1;from
+Q211835;Dundgovi Province;это частный случай понятия;1;1;from
+Q211835;Dundgovi Province;столица;1;1;from
+Q211835;Dundgovi Province;изображение флага;1;1;from
+Q211835;Dundgovi Province;имеет границы с;1;5;to
+Q211835;Dundgovi Province;изображение герба;1;1;from
+Q211835;Dundgovi Province;численность населения;1;3;from
+Q211835;Dundgovi Province;код GeoNames;1;1;from
+Q211835;Dundgovi Province;название на языке оригинала;1;2;from
+Q211835;Dundgovi Province;категория для людей, связанных с местностью;1;1;from
+Q211835;Dundgovi Province;высота над уровнем моря;1;1;from
+Q211835;Dundgovi Province;площадь;1;1;from
+Q211835;Dundgovi Province;ISO 3166-2;1;1;from
+Q211835;Dundgovi Province;категория на Викискладе;1;1;from
+Q211835;Dundgovi Province;код автомобильного номера;1;1;from
+Q211835;Dundgovi Province;часовой пояс;1;1;from
+Q207809;Arkhangai Province;Who's on First ID;1;1;from
+Q207809;Arkhangai Province;географические координаты;1;1;from
+Q194098;Khovd Province;код GND;1;1;from
+Q207795;Dornod Province;код GND;1;1;from
+Q194098;Khovd Province;место в MusicBrainz;1;1;from
+Q194098;Khovd Province;категория объединяет темы;1;2;to
+Q194098;Khovd Province;является столицей;1;1;to
+Q194098;Khovd Province;общая тема категории;1;1;to
+Q207795;Dornod Province;административно-территориальная единица;1;214;to
+Q207795;Dornod Province;административно делится на;1;1;to
+Q207795;Dornod Province;государство;1;1;from
+Q207795;Dornod Province;изображение;1;1;from
+Q207795;Dornod Province;код VIAF;1;2;from
+Q207795;Dornod Province;карта местонахождения;1;1;from
+Q194098;Khovd Province;FIPS 10-4 (страны и регионы);1;1;from
+Q207795;Dornod Province;код LCNAF;1;1;from
+Q207795;Dornod Province;это частный случай понятия;1;1;from
+Q207795;Dornod Province;столица;1;1;from
+Q207795;Dornod Province;изображение флага;1;1;from
+Q207795;Dornod Province;имеет границы с;1;3;to
+Q207795;Dornod Province;изображение герба;1;1;from
+Q207795;Dornod Province;численность населения;1;3;from
+Q207795;Dornod Province;код в Большой каталанской энциклопедии;1;1;from
+Q207795;Dornod Province;код GeoNames;1;1;from
+Q194098;Khovd Province;основная категория по теме;1;1;from
+Q194098;Khovd Province;официальный сайт;1;1;from
+Q207809;Arkhangai Province;дата основания/создания/возникновения;1;1;from
+Q194098;Khovd Province;категория для людей, связанных с местностью;1;1;from
+Q194098;Khovd Province;карта местонахождения;1;1;from
+Q194098;Khovd Province;это частный случай понятия;1;1;from
+Q194098;Khovd Province;столица;1;1;from
+Q194098;Khovd Province;изображение флага;1;1;from
+Q194098;Khovd Province;имеет границы с;1;5;to
+Q194098;Khovd Province;изображение герба;1;1;from
+Q194098;Khovd Province;численность населения;1;2;from
+Q194098;Khovd Province;код GeoNames;1;1;from
+Q194098;Khovd Province;название на языке оригинала;1;2;from
+Q194098;Khovd Province;площадь;1;1;from
+Q194098;Khovd Province;категория карт на Викискладе;1;1;from
+Q194098;Khovd Province;код BabelNet;1;1;from
+Q194098;Khovd Province;ISO 3166-2;1;1;from
+Q194098;Khovd Province;категория на Викискладе;1;1;from
+Q194098;Khovd Province;код автомобильного номера;1;1;from
+Q194098;Khovd Province;часовой пояс;1;1;from
+Q194098;Khovd Province;дата основания/создания/возникновения;1;1;from
+Q194098;Khovd Province;географические координаты;1;1;from
+Q194098;Khovd Province;код Freebase;1;1;from
+Q194098;Khovd Province;Who's on First ID;1;1;from
+Q207795;Dornod Province;название на языке оригинала;1;2;from
+Q207795;Dornod Province;высота над уровнем моря;1;1;from
+Q207795;Dornod Province;площадь;1;1;from
+Q207809;Arkhangai Province;код GeoNames;1;1;from
+Q207809;Arkhangai Province;код VIAF;1;1;from
+Q207809;Arkhangai Province;код GND;1;1;from
+Q207809;Arkhangai Province;карта местонахождения;1;1;from
+Q207809;Arkhangai Province;это частный случай понятия;1;1;from
+Q207809;Arkhangai Province;столица;1;1;from
+Q207809;Arkhangai Province;изображение флага;1;1;from
+Q207809;Arkhangai Province;имеет границы с;1;5;to
+Q207809;Arkhangai Province;изображение герба;1;1;from
+Q207809;Arkhangai Province;численность населения;1;3;from
+Q207809;Arkhangai Province;код TGN;1;1;from
+Q207795;Dornod Province;используемый язык;1;1;from
+Q207809;Arkhangai Province;название на языке оригинала;1;2;from
+Q207809;Arkhangai Province;категория для людей, связанных с местностью;1;1;from
+Q207809;Arkhangai Province;высота над уровнем моря;1;1;from
+Q207809;Arkhangai Province;площадь;1;1;from
+Q207809;Arkhangai Province;ISO 3166-2;1;1;from
+Q207809;Arkhangai Province;категория на Викискладе;1;1;from
+Q207809;Arkhangai Province;код автомобильного номера;1;1;from
+Q207809;Arkhangai Province;часовой пояс;1;1;from
+Q207809;Arkhangai Province;местный телефонный код;1;1;from
+Q207809;Arkhangai Province;изображение;1;1;from
+Q207809;Arkhangai Province;государство;1;1;from
+Q207809;Arkhangai Province;административно делится на;1;1;to
+Q207809;Arkhangai Province;административно-территориальная единица;1;40;to
+Q207795;Dornod Province;ISO 3166-2;1;1;from
+Q207795;Dornod Province;категория на Викискладе;1;1;from
+Q207795;Dornod Province;код автомобильного номера;1;1;from
+Q207795;Dornod Province;часовой пояс;1;1;from
+Q207795;Dornod Province;местный телефонный код;1;1;from
+Q207795;Dornod Province;дата основания/создания/возникновения;1;1;from
+Q207795;Dornod Province;географические координаты;1;1;from
+Q207795;Dornod Province;код Freebase;1;1;from
+Q207795;Dornod Province;Who's on First ID;1;1;from
+Q207795;Dornod Province;категория карт на Викискладе;1;1;from
+Q207795;Dornod Province;официальный сайт;1;1;from
+Q207795;Dornod Province;FIPS 10-4 (страны и регионы);1;1;from
+Q207795;Dornod Province;основная категория по теме;1;1;from
+Q207795;Dornod Province;место в MusicBrainz;1;1;from
+Q207795;Dornod Province;место рождения;1;1;to
+Q207795;Dornod Province;является столицей;1;1;to
+Q207795;Dornod Province;происходит из;1;1;to
+Q207795;Dornod Province;общая тема категории;1;1;to
+Q207795;Dornod Province;категория объединяет темы;1;1;to
+Q276200;Bayankhongor Province;категория объединяет темы;1;1;to

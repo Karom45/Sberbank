@@ -1,0 +1,442 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q214064;Aleppo Governorate;административно-территориальная единица;1;840;to
+Q233236;Latakia Governorate;категория объединяет темы;1;4;to
+Q233914;Al-Hasakah Governorate;официальное название;1;1;from
+Q233914;Al-Hasakah Governorate;численность населения;1;4;from
+Q233914;Al-Hasakah Governorate;имеет границы с;1;1;from
+Q233914;Al-Hasakah Governorate;столица;1;1;from
+Q233914;Al-Hasakah Governorate;это частный случай понятия;1;1;from
+Q233914;Al-Hasakah Governorate;карта местонахождения;1;1;from
+Q233914;Al-Hasakah Governorate;изображение;1;1;from
+Q233914;Al-Hasakah Governorate;государство;1;1;from
+Q233914;Al-Hasakah Governorate;административно делится на;1;1;to
+Q233914;Al-Hasakah Governorate;административно-территориальная единица;1;475;to
+Q233236;Latakia Governorate;общая тема категории;1;1;to
+Q233236;Latakia Governorate;место смерти;1;1;to
+Q233914;Al-Hasakah Governorate;код GeoNames;1;1;from
+Q233236;Latakia Governorate;является столицей;1;1;to
+Q233236;Latakia Governorate;место рождения;1;5;to
+Q233236;Latakia Governorate;зона обслуживания;1;1;to
+Q233236;Latakia Governorate;местонахождение;1;4;to
+Q233236;Latakia Governorate;история происходит в месте;1;1;to
+Q233236;Latakia Governorate;место в MusicBrainz;1;1;from
+Q233236;Latakia Governorate;основная категория по теме;1;1;from
+Q233236;Latakia Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q233236;Latakia Governorate;Who's on First ID;1;1;from
+Q233236;Latakia Governorate;код Freebase;1;1;from
+Q233236;Latakia Governorate;географические координаты;1;1;from
+Q233914;Al-Hasakah Governorate;категория для людей, родившихся здесь;1;1;from
+Q233914;Al-Hasakah Governorate;код TGN;1;1;from
+Q232399;Rif Dimashq Governorate;происходит из;1;1;to
+Q233914;Al-Hasakah Governorate;основная категория по теме;1;1;from
+Q235563;Al-Raqqah Governorate;карта местонахождения;1;1;from
+Q235563;Al-Raqqah Governorate;изображение;1;1;from
+Q235563;Al-Raqqah Governorate;государство;1;1;from
+Q235563;Al-Raqqah Governorate;административно-территориальная единица;1;319;to
+Q233914;Al-Hasakah Governorate;общая тема категории;1;1;to
+Q233914;Al-Hasakah Governorate;происходит из;1;3;to
+Q233914;Al-Hasakah Governorate;категория объединяет темы;1;7;to
+Q233914;Al-Hasakah Governorate;является столицей;1;1;to
+Q233914;Al-Hasakah Governorate;местонахождение;1;4;to
+Q233914;Al-Hasakah Governorate;место рождения;1;11;to
+Q233914;Al-Hasakah Governorate;место в MusicBrainz;1;1;from
+Q233914;Al-Hasakah Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q233914;Al-Hasakah Governorate;название на языке оригинала;1;1;from
+Q233914;Al-Hasakah Governorate;официальный сайт;1;1;from
+Q233914;Al-Hasakah Governorate;категория карт на Викискладе;1;1;from
+Q233914;Al-Hasakah Governorate;Who's on First ID;1;1;from
+Q233914;Al-Hasakah Governorate;географические координаты;1;1;from
+Q233914;Al-Hasakah Governorate;часовой пояс;1;1;from
+Q233914;Al-Hasakah Governorate;категория на Викискладе;1;1;from
+Q233914;Al-Hasakah Governorate;ISO 3166-2;1;1;from
+Q233914;Al-Hasakah Governorate;используемый язык;1;3;from
+Q233914;Al-Hasakah Governorate;площадь;1;1;from
+Q233914;Al-Hasakah Governorate;позиционная карта;1;1;from
+Q233914;Al-Hasakah Governorate;категория для людей, связанных с местностью;1;1;from
+Q233236;Latakia Governorate;часовой пояс;1;2;from
+Q233236;Latakia Governorate;категория на Викискладе;1;1;from
+Q233236;Latakia Governorate;ISO 3166-2;1;1;from
+Q233218;Idlib Governorate;подробная карта;1;1;from
+Q233218;Idlib Governorate;Who's on First ID;1;1;from
+Q233218;Idlib Governorate;код Freebase;1;1;from
+Q233218;Idlib Governorate;географические координаты;1;1;from
+Q233218;Idlib Governorate;часовой пояс;1;2;from
+Q233218;Idlib Governorate;категория на Викискладе;1;1;from
+Q233218;Idlib Governorate;код темы Quora;1;1;from
+Q233218;Idlib Governorate;ISO 3166-2;1;1;from
+Q233218;Idlib Governorate;код BabelNet;1;1;from
+Q233218;Idlib Governorate;площадь;1;1;from
+Q233218;Idlib Governorate;категория для людей, связанных с местностью;1;1;from
+Q233218;Idlib Governorate;код TGN;1;1;from
+Q233218;Idlib Governorate;код GeoNames;1;1;from
+Q233236;Latakia Governorate;площадь;1;1;from
+Q233218;Idlib Governorate;официальное название;1;1;from
+Q233218;Idlib Governorate;численность населения;1;5;from
+Q233218;Idlib Governorate;десятичная классификация Дьюи;1;1;from
+Q233218;Idlib Governorate;столица;1;1;from
+Q233218;Idlib Governorate;это частный случай понятия;1;1;from
+Q233218;Idlib Governorate;карта местонахождения;1;1;from
+Q233218;Idlib Governorate;код VIAF;1;1;from
+Q233218;Idlib Governorate;изображение;1;1;from
+Q233218;Idlib Governorate;государство;1;1;from
+Q233218;Idlib Governorate;административно делится на;1;1;to
+Q233218;Idlib Governorate;административно-территориальная единица;1;647;to
+Q233218;Idlib Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q233218;Idlib Governorate;основная категория по теме;1;1;from
+Q233218;Idlib Governorate;расположение штаб-квартиры;1;2;to
+Q233218;Idlib Governorate;местонахождение;1;16;to
+Q233236;Latakia Governorate;позиционная карта;1;1;from
+Q233236;Latakia Governorate;категория для людей, связанных с местностью;1;1;from
+Q233236;Latakia Governorate;название на языке оригинала;1;1;from
+Q233236;Latakia Governorate;код TGN;1;1;from
+Q233236;Latakia Governorate;подробная карта;1;1;from
+Q233236;Latakia Governorate;код GeoNames;1;1;from
+Q233236;Latakia Governorate;официальное название;1;1;from
+Q233236;Latakia Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q233236;Latakia Governorate;численность населения;1;5;from
+Q233236;Latakia Governorate;десятичная классификация Дьюи;1;1;from
+Q233236;Latakia Governorate;столица;1;1;from
+Q233236;Latakia Governorate;это частный случай понятия;1;1;from
+Q233236;Latakia Governorate;карта местонахождения;1;1;from
+Q233236;Latakia Governorate;изображение;1;1;from
+Q233236;Latakia Governorate;государство;1;1;from
+Q233236;Latakia Governorate;административно делится на;1;1;to
+Q233236;Latakia Governorate;административно-территориальная единица;1;884;to
+Q233218;Idlib Governorate;категория объединяет темы;1;1;to
+Q233218;Idlib Governorate;общая тема категории;1;1;to
+Q233218;Idlib Governorate;зона обслуживания;1;1;to
+Q233218;Idlib Governorate;является столицей;1;1;to
+Q233218;Idlib Governorate;место рождения;1;2;to
+Q233218;Idlib Governorate;место смерти;1;2;to
+Q235563;Al-Raqqah Governorate;это частный случай понятия;1;1;from
+Q235563;Al-Raqqah Governorate;столица;1;1;from
+Q235563;Al-Raqqah Governorate;численность населения;1;5;from
+Q1689560;Daraa Governorate;площадь;1;1;from
+Q1689560;Daraa Governorate;зона обслуживания;1;3;to
+Q1689560;Daraa Governorate;местонахождение;1;10;to
+Q1689560;Daraa Governorate;основная категория по теме;1;1;from
+Q1689560;Daraa Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q1689560;Daraa Governorate;официальный сайт;1;1;from
+Q1689560;Daraa Governorate;Who's on First ID;1;1;from
+Q1689560;Daraa Governorate;код Freebase;1;1;from
+Q1689560;Daraa Governorate;географические координаты;1;2;from
+Q1689560;Daraa Governorate;часовой пояс;1;2;from
+Q1689560;Daraa Governorate;категория на Викискладе;1;1;from
+Q1689560;Daraa Governorate;ISO 3166-2;1;1;from
+Q1689560;Daraa Governorate;позиционная карта;1;1;from
+Q236797;As-Suwayda Governorate;административно делится на;1;1;to
+Q1689560;Daraa Governorate;категория для людей, связанных с местностью;1;1;from
+Q1689560;Daraa Governorate;подробная карта;1;1;from
+Q1689560;Daraa Governorate;код GeoNames;1;1;from
+Q1689560;Daraa Governorate;официальное название;1;1;from
+Q1689560;Daraa Governorate;численность населения;1;4;from
+Q1689560;Daraa Governorate;имеет границы с;1;2;to
+Q1689560;Daraa Governorate;столица;1;1;from
+Q1689560;Daraa Governorate;это частный случай понятия;1;1;from
+Q1689560;Daraa Governorate;карта местонахождения;1;1;from
+Q1689560;Daraa Governorate;изображение;1;1;from
+Q1689560;Daraa Governorate;государство;1;1;from
+Q1689560;Daraa Governorate;является столицей;1;1;to
+Q1689560;Daraa Governorate;место рождения;1;3;to
+Q1689560;Daraa Governorate;общая тема категории;1;4;to
+Q1689560;Daraa Governorate;категория объединяет темы;1;1;to
+Q2007044;Damascus Governorate;является столицей;1;1;to
+Q2007044;Damascus Governorate;происходит из;1;1;to
+Q2007044;Damascus Governorate;общая тема категории;1;1;to
+Q2007044;Damascus Governorate;зона обслуживания;1;1;to
+Q2007044;Damascus Governorate;основная категория по теме;1;1;from
+Q2007044;Damascus Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q2007044;Damascus Governorate;официальный сайт;1;1;from
+Q2007044;Damascus Governorate;Who's on First ID;1;1;from
+Q2007044;Damascus Governorate;код Freebase;1;1;from
+Q2007044;Damascus Governorate;географические координаты;1;1;from
+Q2007044;Damascus Governorate;анклав в;1;1;from
+Q2007044;Damascus Governorate;категория на Викискладе;1;1;from
+Q2007044;Damascus Governorate;ISO 3166-2;1;1;from
+Q2007044;Damascus Governorate;используемый язык;1;1;from
+Q2007044;Damascus Governorate;код TGN;1;1;from
+Q2007044;Damascus Governorate;код GeoNames;1;1;from
+Q2007044;Damascus Governorate;численность населения;1;4;from
+Q2007044;Damascus Governorate;столица;1;1;from
+Q2007044;Damascus Governorate;это частный случай понятия;1;1;from
+Q2007044;Damascus Governorate;карта местонахождения;1;1;from
+Q2007044;Damascus Governorate;государство;1;1;from
+Q2007044;Damascus Governorate;административно-территориальная единица;1;32;to
+Q1689560;Daraa Governorate;административно делится на;1;1;to
+Q1689560;Daraa Governorate;административно-территориальная единица;1;157;to
+Q236797;As-Suwayda Governorate;общая тема категории;1;1;to
+Q235563;Al-Raqqah Governorate;код GeoNames;1;1;from
+Q235563;Al-Raqqah Governorate;Who's on First ID;1;1;from
+Q235563;Al-Raqqah Governorate;происходит из;1;1;to
+Q235563;Al-Raqqah Governorate;категория объединяет темы;1;1;to
+Q235563;Al-Raqqah Governorate;общая тема категории;1;1;to
+Q235563;Al-Raqqah Governorate;является столицей;1;1;to
+Q235563;Al-Raqqah Governorate;зона обслуживания;1;1;to
+Q235563;Al-Raqqah Governorate;место рождения;1;1;to
+Q235563;Al-Raqqah Governorate;местонахождение;1;9;to
+Q235563;Al-Raqqah Governorate;место в MusicBrainz;1;1;from
+Q235563;Al-Raqqah Governorate;основная категория по теме;1;1;from
+Q235563;Al-Raqqah Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q235563;Al-Raqqah Governorate;официальный сайт;1;1;from
+Q235563;Al-Raqqah Governorate;код Freebase;1;1;from
+Q236797;As-Suwayda Governorate;категория объединяет темы;1;1;to
+Q235563;Al-Raqqah Governorate;географические координаты;1;1;from
+Q235563;Al-Raqqah Governorate;код тезауруса PACTOLS;1;1;from
+Q235563;Al-Raqqah Governorate;часовой пояс;1;2;from
+Q235563;Al-Raqqah Governorate;категория на Викискладе;1;1;from
+Q235563;Al-Raqqah Governorate;ISO 3166-2;1;1;from
+Q235563;Al-Raqqah Governorate;используемый язык;1;1;from
+Q235563;Al-Raqqah Governorate;площадь;1;1;from
+Q235563;Al-Raqqah Governorate;позиционная карта;1;1;from
+Q235563;Al-Raqqah Governorate;категория для людей, связанных с местностью;1;1;from
+Q235563;Al-Raqqah Governorate;код TGN;1;1;from
+Q235563;Al-Raqqah Governorate;подробная карта;1;1;from
+Q235563;Al-Raqqah Governorate;административно делится на;1;1;to
+Q236797;As-Suwayda Governorate;административно-территориальная единица;1;228;to
+Q236797;As-Suwayda Governorate;государство;1;1;from
+Q236797;As-Suwayda Governorate;изображение;1;1;from
+Q236797;As-Suwayda Governorate;местонахождение;1;3;to
+Q236797;As-Suwayda Governorate;является столицей;1;1;to
+Q236797;As-Suwayda Governorate;место рождения;1;3;to
+Q236797;As-Suwayda Governorate;место в MusicBrainz;1;1;from
+Q236797;As-Suwayda Governorate;основная категория по теме;1;1;from
+Q236797;As-Suwayda Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q236797;As-Suwayda Governorate;Who's on First ID;1;1;from
+Q236797;As-Suwayda Governorate;код Freebase;1;1;from
+Q236797;As-Suwayda Governorate;географические координаты;1;1;from
+Q236797;As-Suwayda Governorate;часовой пояс;1;2;from
+Q236797;As-Suwayda Governorate;категория на Викискладе;1;1;from
+Q236797;As-Suwayda Governorate;ISO 3166-2;1;1;from
+Q236797;As-Suwayda Governorate;площадь;1;1;from
+Q236797;As-Suwayda Governorate;позиционная карта;1;1;from
+Q236797;As-Suwayda Governorate;категория для людей, связанных с местностью;1;1;from
+Q236797;As-Suwayda Governorate;код TGN;1;1;from
+Q236797;As-Suwayda Governorate;код GeoNames;1;1;from
+Q236797;As-Suwayda Governorate;официальное название;1;1;from
+Q236797;As-Suwayda Governorate;численность населения;1;5;from
+Q236797;As-Suwayda Governorate;имеет границы с;1;1;to
+Q236797;As-Suwayda Governorate;столица;1;1;from
+Q236797;As-Suwayda Governorate;это частный случай понятия;1;1;from
+Q236797;As-Suwayda Governorate;карта местонахождения;1;1;from
+Q232399;Rif Dimashq Governorate;административно делится на;1;1;to
+Q232399;Rif Dimashq Governorate;общая тема категории;1;4;to
+Q214064;Aleppo Governorate;административно делится на;1;1;to
+Q219690;Quneitra Governorate;административно-территориальная единица;1;341;to
+Q219690;Quneitra Governorate;подробная карта;1;1;from
+Q219690;Quneitra Governorate;код GeoNames;1;1;from
+Q219690;Quneitra Governorate;официальное название;1;1;from
+Q219690;Quneitra Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q219690;Quneitra Governorate;численность населения;1;5;from
+Q219690;Quneitra Governorate;имеет границы с;1;2;to
+Q219690;Quneitra Governorate;столица;1;1;from
+Q219690;Quneitra Governorate;это частный случай понятия;1;1;from
+Q219690;Quneitra Governorate;карта местонахождения;1;1;from
+Q219690;Quneitra Governorate;изображение;1;1;from
+Q219690;Quneitra Governorate;государство;1;1;from
+Q214094;Homs Governorate;административно делится на;1;1;to
+Q219690;Quneitra Governorate;категория для людей, связанных с местностью;1;1;from
+Q214094;Homs Governorate;общая тема категории;1;2;to
+Q214094;Homs Governorate;категория объединяет темы;1;6;to
+Q214094;Homs Governorate;местонахождение;1;4;to
+Q214094;Homs Governorate;место рождения;1;1;to
+Q214094;Homs Governorate;зона обслуживания;1;2;to
+Q214094;Homs Governorate;расположение штаб-квартиры;1;1;to
+Q214094;Homs Governorate;является столицей;1;1;to
+Q214094;Homs Governorate;место в MusicBrainz;1;1;from
+Q214094;Homs Governorate;основная категория по теме;1;1;from
+Q214094;Homs Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q214094;Homs Governorate;официальный сайт;1;1;from
+Q219690;Quneitra Governorate;код TGN;1;1;from
+Q219690;Quneitra Governorate;позиционная карта;1;1;from
+Q232399;Rif Dimashq Governorate;категория объединяет темы;1;8;to
+Q219690;Quneitra Governorate;является столицей;1;1;to
+Q232355;Hama Governorate;численность населения;1;4;from
+Q232355;Hama Governorate;десятичная классификация Дьюи;1;1;from
+Q232355;Hama Governorate;столица;1;1;from
+Q232355;Hama Governorate;это частный случай понятия;1;1;from
+Q232355;Hama Governorate;карта местонахождения;1;1;from
+Q232355;Hama Governorate;изображение;1;1;from
+Q232355;Hama Governorate;государство;1;1;from
+Q232355;Hama Governorate;административно-территориальная единица;1;642;to
+Q219690;Quneitra Governorate;административно делится на;1;1;to
+Q219690;Quneitra Governorate;категория объединяет темы;1;1;to
+Q219690;Quneitra Governorate;общая тема категории;1;1;to
+Q219690;Quneitra Governorate;зона обслуживания;1;1;to
+Q219690;Quneitra Governorate;площадь;1;1;from
+Q219690;Quneitra Governorate;место смерти;1;2;to
+Q219690;Quneitra Governorate;место рождения;1;1;to
+Q219690;Quneitra Governorate;местонахождение;1;6;to
+Q219690;Quneitra Governorate;основная категория по теме;1;1;from
+Q219690;Quneitra Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q219690;Quneitra Governorate;Who's on First ID;1;1;from
+Q219690;Quneitra Governorate;код Freebase;1;1;from
+Q219690;Quneitra Governorate;географические координаты;1;1;from
+Q219690;Quneitra Governorate;часовой пояс;1;2;from
+Q219690;Quneitra Governorate;категория на Викискладе;1;1;from
+Q219690;Quneitra Governorate;ISO 3166-2;1;1;from
+Q214094;Homs Governorate;Who's on First ID;1;1;from
+Q214094;Homs Governorate;код Freebase;1;1;from
+Q214094;Homs Governorate;географические координаты;1;1;from
+Q214064;Aleppo Governorate;ISO 3166-2;1;1;from
+Q214064;Aleppo Governorate;юрисдикция распространяется на;1;1;to
+Q214064;Aleppo Governorate;основная категория по теме;1;1;from
+Q214064;Aleppo Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q214064;Aleppo Governorate;официальный сайт;1;1;from
+Q214064;Aleppo Governorate;категория карт на Викискладе;1;1;from
+Q214064;Aleppo Governorate;Who's on First ID;1;1;from
+Q214064;Aleppo Governorate;код Freebase;1;1;from
+Q214064;Aleppo Governorate;географические координаты;1;1;from
+Q214064;Aleppo Governorate;код для сущности Wolfram Language;1;1;from
+Q214064;Aleppo Governorate;часовой пояс;1;2;from
+Q214064;Aleppo Governorate;категория на Викискладе;1;1;from
+Q214064;Aleppo Governorate;площадь;1;1;from
+Q214094;Homs Governorate;часовой пояс;1;2;from
+Q214064;Aleppo Governorate;категория для людей, связанных с местностью;1;1;from
+Q214064;Aleppo Governorate;код GeoNames;1;1;from
+Q214064;Aleppo Governorate;категория для людей, умерших здесь;1;1;from
+Q214064;Aleppo Governorate;официальное название;1;1;from
+Q214064;Aleppo Governorate;численность населения;1;4;from
+Q214064;Aleppo Governorate;десятичная классификация Дьюи;1;1;from
+Q214064;Aleppo Governorate;столица;1;1;from
+Q214064;Aleppo Governorate;это частный случай понятия;1;1;from
+Q214064;Aleppo Governorate;карта местонахождения;1;1;from
+Q214064;Aleppo Governorate;изображение;1;1;from
+Q214064;Aleppo Governorate;государство;1;1;from
+Q214064;Aleppo Governorate;местонахождение;1;12;to
+Q214064;Aleppo Governorate;место смерти;1;1;to
+Q214064;Aleppo Governorate;расположение штаб-квартиры;1;2;to
+Q214064;Aleppo Governorate;зона обслуживания;1;2;to
+Q214094;Homs Governorate;категория на Викискладе;1;1;from
+Q214094;Homs Governorate;ISO 3166-2;1;1;from
+Q214094;Homs Governorate;код BNF;1;1;from
+Q214094;Homs Governorate;площадь;1;1;from
+Q214094;Homs Governorate;позиционная карта;1;1;from
+Q214094;Homs Governorate;категория для людей, связанных с местностью;1;1;from
+Q214094;Homs Governorate;код TGN;1;1;from
+Q214094;Homs Governorate;подробная карта;1;1;from
+Q214094;Homs Governorate;код GeoNames;1;1;from
+Q214094;Homs Governorate;численность населения;1;5;from
+Q214094;Homs Governorate;десятичная классификация Дьюи;1;1;from
+Q214094;Homs Governorate;имеет границы с;1;2;to
+Q214094;Homs Governorate;столица;1;1;from
+Q214094;Homs Governorate;это частный случай понятия;1;1;from
+Q214094;Homs Governorate;карта местонахождения;1;1;from
+Q214094;Homs Governorate;изображение;1;1;from
+Q214094;Homs Governorate;государство;1;1;from
+Q214094;Homs Governorate;административно-территориальная единица;1;1724;to
+Q214064;Aleppo Governorate;является столицей;1;1;to
+Q214064;Aleppo Governorate;общая тема категории;1;4;to
+Q214064;Aleppo Governorate;часть от;1;1;to
+Q214064;Aleppo Governorate;категория объединяет темы;1;7;to
+Q214064;Aleppo Governorate;место рождения;1;4;to
+Q232355;Hama Governorate;официальное название;1;1;from
+Q232355;Hama Governorate;код GeoNames;1;1;from
+Q232355;Hama Governorate;подробная карта;1;1;from
+Q232387;Deir ez-Zor Governorate;Who's on First ID;1;1;from
+Q232399;Rif Dimashq Governorate;административно-территориальная единица;1;1577;to
+Q232387;Deir ez-Zor Governorate;административно делится на;1;1;to
+Q232387;Deir ez-Zor Governorate;категория объединяет темы;1;1;to
+Q232387;Deir ez-Zor Governorate;общая тема категории;1;1;to
+Q232387;Deir ez-Zor Governorate;место рождения;1;2;to
+Q232387;Deir ez-Zor Governorate;является столицей;1;1;to
+Q232387;Deir ez-Zor Governorate;местонахождение;1;9;to
+Q232387;Deir ez-Zor Governorate;место в MusicBrainz;1;1;from
+Q232387;Deir ez-Zor Governorate;основная категория по теме;1;1;from
+Q232387;Deir ez-Zor Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q232387;Deir ez-Zor Governorate;ключевое событие;1;2;from
+Q232387;Deir ez-Zor Governorate;код Freebase;1;1;from
+Q232387;Deir ez-Zor Governorate;столица;1;1;from
+Q232387;Deir ez-Zor Governorate;географические координаты;1;1;from
+Q232387;Deir ez-Zor Governorate;часовой пояс;1;2;from
+Q232387;Deir ez-Zor Governorate;категория на Викискладе;1;1;from
+Q232387;Deir ez-Zor Governorate;ISO 3166-2;1;1;from
+Q232387;Deir ez-Zor Governorate;площадь;1;1;from
+Q232387;Deir ez-Zor Governorate;категория для людей, связанных с местностью;1;1;from
+Q232387;Deir ez-Zor Governorate;код TGN;1;1;from
+Q232387;Deir ez-Zor Governorate;подробная карта;1;1;from
+Q232387;Deir ez-Zor Governorate;код GeoNames;1;1;from
+Q232387;Deir ez-Zor Governorate;численность населения;1;4;from
+Q232387;Deir ez-Zor Governorate;десятичная классификация Дьюи;1;1;from
+Q232399;Rif Dimashq Governorate;государство;1;1;from
+Q232399;Rif Dimashq Governorate;город-побратим;1;1;to
+Q232399;Rif Dimashq Governorate;карта местонахождения;1;1;from
+Q232399;Rif Dimashq Governorate;это частный случай понятия;1;1;from
+Q232399;Rif Dimashq Governorate;место рождения;1;2;to
+Q232399;Rif Dimashq Governorate;анклав в;1;1;to
+Q232399;Rif Dimashq Governorate;зона обслуживания;1;1;to
+Q232399;Rif Dimashq Governorate;место смерти;1;2;to
+Q232399;Rif Dimashq Governorate;местонахождение;1;7;to
+Q232399;Rif Dimashq Governorate;основная категория по теме;1;1;from
+Q232399;Rif Dimashq Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q232399;Rif Dimashq Governorate;официальный сайт;1;1;from
+Q232399;Rif Dimashq Governorate;Who's on First ID;1;1;from
+Q232399;Rif Dimashq Governorate;код Freebase;1;1;from
+Q232399;Rif Dimashq Governorate;географические координаты;1;1;from
+Q232399;Rif Dimashq Governorate;часовой пояс;1;2;from
+Q232399;Rif Dimashq Governorate;категория на Викискладе;1;1;from
+Q232399;Rif Dimashq Governorate;ISO 3166-2;1;1;from
+Q232399;Rif Dimashq Governorate;используемый язык;1;1;from
+Q232399;Rif Dimashq Governorate;площадь;1;1;from
+Q232399;Rif Dimashq Governorate;категория для людей, связанных с местностью;1;1;from
+Q232399;Rif Dimashq Governorate;код GeoNames;1;1;from
+Q232399;Rif Dimashq Governorate;официальное название;1;1;from
+Q232399;Rif Dimashq Governorate;численность населения;1;4;from
+Q232399;Rif Dimashq Governorate;десятичная классификация Дьюи;1;1;from
+Q232399;Rif Dimashq Governorate;имеет границы с;1;2;to
+Q232399;Rif Dimashq Governorate;столица;1;1;from
+Q232387;Deir ez-Zor Governorate;имеет границы с;1;1;to
+Q232387;Deir ez-Zor Governorate;это частный случай понятия;1;1;from
+Q232355;Hama Governorate;код TGN;1;1;from
+Q232355;Hama Governorate;основная категория по теме;1;1;from
+Q232382;Tartus Governorate;карта местонахождения;1;1;from
+Q232382;Tartus Governorate;изображение;1;1;from
+Q232382;Tartus Governorate;государство;1;1;from
+Q232382;Tartus Governorate;административно-территориальная единица;1;473;to
+Q232355;Hama Governorate;административно делится на;1;1;to
+Q232355;Hama Governorate;общая тема категории;1;4;to
+Q232355;Hama Governorate;категория объединяет темы;1;2;to
+Q232355;Hama Governorate;место рождения;1;3;to
+Q232355;Hama Governorate;является столицей;1;1;to
+Q232355;Hama Governorate;местонахождение;1;12;to
+Q232355;Hama Governorate;зона обслуживания;1;1;to
+Q232355;Hama Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q232387;Deir ez-Zor Governorate;карта местонахождения;1;1;from
+Q232355;Hama Governorate;официальный сайт;1;1;from
+Q232355;Hama Governorate;Uppsala University Alvin ID;1;1;from
+Q232355;Hama Governorate;Who's on First ID;1;1;from
+Q232355;Hama Governorate;код Freebase;1;1;from
+Q232355;Hama Governorate;географические координаты;1;1;from
+Q232355;Hama Governorate;часовой пояс;1;2;from
+Q232355;Hama Governorate;категория на Викискладе;1;1;from
+Q232355;Hama Governorate;ISO 3166-2;1;1;from
+Q232355;Hama Governorate;код BNF;1;1;from
+Q232355;Hama Governorate;площадь;1;1;from
+Q232355;Hama Governorate;категория для людей, связанных с местностью;1;1;from
+Q232382;Tartus Governorate;это частный случай понятия;1;1;from
+Q232382;Tartus Governorate;столица;1;1;from
+Q232382;Tartus Governorate;имеет границы с;1;1;to
+Q232382;Tartus Governorate;численность населения;1;4;from
+Q232387;Deir ez-Zor Governorate;код GND;1;1;from
+Q232387;Deir ez-Zor Governorate;изображение;1;1;from
+Q232387;Deir ez-Zor Governorate;государство;1;1;from
+Q232387;Deir ez-Zor Governorate;административно-территориальная единица;1;336;to
+Q232382;Tartus Governorate;административно делится на;1;1;to
+Q232382;Tartus Governorate;общая тема категории;1;1;to
+Q232382;Tartus Governorate;категория объединяет темы;1;5;to
+Q232382;Tartus Governorate;местонахождение;1;1;to
+Q232382;Tartus Governorate;является столицей;1;1;to
+Q232382;Tartus Governorate;зона обслуживания;1;1;to
+Q232382;Tartus Governorate;место рождения;1;3;to
+Q232382;Tartus Governorate;основная категория по теме;1;1;from
+Q232382;Tartus Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q232382;Tartus Governorate;Who's on First ID;1;1;from
+Q232382;Tartus Governorate;код Freebase;1;1;from
+Q232382;Tartus Governorate;географические координаты;1;1;from
+Q232382;Tartus Governorate;категория на Викискладе;1;1;from
+Q232382;Tartus Governorate;ISO 3166-2;1;1;from
+Q232382;Tartus Governorate;код BabelNet;1;1;from
+Q232382;Tartus Governorate;площадь;1;1;from
+Q232382;Tartus Governorate;категория для людей, связанных с местностью;1;1;from
+Q232382;Tartus Governorate;код TGN;1;1;from
+Q232382;Tartus Governorate;код GeoNames;1;1;from
+Q2007044;Damascus Governorate;административно делится на;1;1;to

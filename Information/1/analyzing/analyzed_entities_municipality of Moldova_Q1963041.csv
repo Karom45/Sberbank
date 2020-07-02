@@ -1,0 +1,42 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q17176229;Chișinău Municipality;государство;1;1;from
+Q18088065;Bender Municipality;географические координаты;1;1;from
+Q18088065;Bender Municipality;является столицей;1;1;to
+Q18088065;Bender Municipality;часть от;1;1;to
+Q18088065;Bender Municipality;административно-территориальная единица;1;1;to
+Q18088065;Bender Municipality;имеет границы с;1;1;to
+Q29017181;Bălți Municipality;государство;1;1;from
+Q29017181;Bălți Municipality;код VIAF;1;1;from
+Q29017181;Bălți Municipality;код LCNAF;1;1;from
+Q29017181;Bălți Municipality;это частный случай понятия;1;2;from
+Q29017181;Bălți Municipality;столица;1;1;from
+Q29017181;Bălți Municipality;численность населения;1;2;from
+Q29017181;Bălți Municipality;код GeoNames;1;1;from
+Q29017181;Bălți Municipality;ISO 3166-2;1;1;from
+Q29017181;Bălți Municipality;ID отношения в OpenStreetMap;1;1;from
+Q29017181;Bălți Municipality;географические координаты;1;1;from
+Q29017181;Bălți Municipality;FIPS 10-4 (страны и регионы);1;1;from
+Q29017181;Bălți Municipality;административно делится на;1;1;to
+Q29017181;Bălți Municipality;административно-территориальная единица;1;5;to
+Q18088065;Bender Municipality;Who's on First ID;1;1;from
+Q18088065;Bender Municipality;ID отношения в OpenStreetMap;1;1;from
+Q17176229;Chișinău Municipality;это частный случай понятия;1;2;from
+Q18088065;Bender Municipality;ISO 3166-2;1;1;from
+Q17176229;Chișinău Municipality;столица;1;1;from
+Q17176229;Chișinău Municipality;код GeoNames;1;1;from
+Q17176229;Chișinău Municipality;ISO 3166-2;1;1;from
+Q17176229;Chișinău Municipality;категория на Викискладе;1;1;from
+Q17176229;Chișinău Municipality;ID отношения в OpenStreetMap;1;1;from
+Q17176229;Chișinău Municipality;дата основания/создания/возникновения;1;1;from
+Q17176229;Chișinău Municipality;географические координаты;1;1;from
+Q17176229;Chișinău Municipality;FIPS 10-4 (страны и регионы);1;3;from
+Q17176229;Chișinău Municipality;основная категория по теме;1;1;from
+Q17176229;Chișinău Municipality;административно делится на;1;1;to
+Q17176229;Chișinău Municipality;административно-территориальная единица;1;80;to
+Q17176229;Chișinău Municipality;общая тема категории;1;1;to
+Q18088065;Bender Municipality;административно делится на;1;1;to
+Q18088065;Bender Municipality;государство;1;1;from
+Q18088065;Bender Municipality;это частный случай понятия;1;2;from
+Q18088065;Bender Municipality;столица;1;1;from
+Q18088065;Bender Municipality;код GeoNames;1;1;from
+Q29017181;Bălți Municipality;является столицей;1;1;to

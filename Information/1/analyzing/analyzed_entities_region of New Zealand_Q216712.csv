@@ -1,0 +1,615 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q59596;Northland Region;административно-территориальная единица;1;204;to
+Q692912;Otago Region;категория на Викискладе;1;1;from
+Q692912;Otago Region;код в Большой каталанской энциклопедии;1;1;from
+Q692912;Otago Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q692912;Otago Region;категория для людей, родившихся здесь;1;1;from
+Q692912;Otago Region;категория для людей, умерших здесь;1;1;from
+Q692912;Otago Region;код GeoNames;1;1;from
+Q692912;Otago Region;площадь;1;1;from
+Q692912;Otago Region;ISO 3166-2;1;1;from
+Q692912;Otago Region;ID отношения в OpenStreetMap;1;1;from
+Q666142;Tasman District;место в MusicBrainz;1;1;from
+Q692912;Otago Region;часовой пояс;1;1;from
+Q692912;Otago Region;New Zealand Gazetteer place ID;1;1;from
+Q692912;Otago Region;идентификатор местоположения ArchINFORM;1;1;from
+Q692912;Otago Region;дата основания/создания/возникновения;1;1;from
+Q692912;Otago Region;географические координаты;1;1;from
+Q692912;Otago Region;код Freebase;1;1;from
+Q692912;Otago Region;Who's on First ID;1;1;from
+Q692912;Otago Region;численность населения;1;2;from
+Q692912;Otago Region;имеет границы с;1;3;to
+Q692912;Otago Region;изображение флага;1;1;from
+Q692912;Otago Region;столица;1;1;from
+Q666142;Tasman District;категория объединяет темы;1;2;to
+Q666142;Tasman District;заменён на;1;1;to
+Q666142;Tasman District;изображённый объект;1;1;to
+Q666142;Tasman District;основная тема;1;1;to
+Q666142;Tasman District;юрисдикция распространяется на;1;1;to
+Q666142;Tasman District;общая тема категории;1;3;to
+Q666142;Tasman District;административно делится на;1;1;to
+Q692912;Otago Region;административно-территориальная единица;1;861;to
+Q692912;Otago Region;административно делится на;1;1;to
+Q692912;Otago Region;государство;1;1;from
+Q692912;Otago Region;код VIAF;1;1;from
+Q692912;Otago Region;код GND;1;1;from
+Q692912;Otago Region;карта местонахождения;1;1;from
+Q692912;Otago Region;код LCNAF;1;1;from
+Q692912;Otago Region;это частный случай понятия;1;1;from
+Q692912;Otago Region;находится в пределах природно-географического объекта;1;1;from
+Q692912;Otago Region;Analysis & Policy Observatory term ID;1;1;from
+Q692912;Otago Region;руководящий орган;1;1;from
+Q726917;Auckland Region;изображение;1;1;from
+Q726917;Auckland Region;карта местонахождения;1;1;from
+Q726917;Auckland Region;это частный случай понятия;1;1;from
+Q726917;Auckland Region;столица;1;1;from
+Q726917;Auckland Region;имеет границы с;1;2;to
+Q726917;Auckland Region;численность населения;1;1;from
+Q726917;Auckland Region;категория для людей, родившихся здесь;1;1;from
+Q726917;Auckland Region;категория для людей, умерших здесь;1;1;from
+Q726917;Auckland Region;код GeoNames;1;1;from
+Q726917;Auckland Region;код TGN;1;1;from
+Q726917;Auckland Region;категория для людей, связанных с местностью;1;1;from
+Q726917;Auckland Region;высота над уровнем моря;1;1;from
+Q726917;Auckland Region;площадь;1;1;from
+Q726917;Auckland Region;ISO 3166-2;1;1;from
+Q726917;Auckland Region;категория на Викискладе;1;1;from
+Q726917;Auckland Region;ID отношения в OpenStreetMap;1;1;from
+Q726917;Auckland Region;код VIAF;1;1;from
+Q726917;Auckland Region;государство;1;1;from
+Q692912;Otago Region;официальный сайт;1;1;from
+Q726917;Auckland Region;административно-территориальная единица;1;928;to
+Q692912;Otago Region;FIPS 10-4 (страны и регионы);1;1;from
+Q692912;Otago Region;основная категория по теме;1;1;from
+Q692912;Otago Region;баннер Викигида;1;1;from
+Q692912;Otago Region;место в MusicBrainz;1;1;from
+Q692912;Otago Region;dmoz;1;1;from
+Q692912;Otago Region;является столицей;1;1;to
+Q692912;Otago Region;является эндемиком в;1;2;to
+Q692912;Otago Region;место смерти;1;3;to
+Q692912;Otago Region;место рождения;1;19;to
+Q692912;Otago Region;расположение штаб-квартиры;1;5;to
+Q692912;Otago Region;категория объединяет темы;1;3;to
+Q692912;Otago Region;местонахождение;1;5;to
+Q692912;Otago Region;основная тема;1;1;to
+Q692912;Otago Region;юрисдикция распространяется на;1;1;to
+Q692912;Otago Region;общая тема категории;1;1;to
+Q666142;Tasman District;является столицей;1;1;to
+Q666142;Tasman District;основная категория по теме;1;1;from
+Q726917;Auckland Region;New Zealand Gazetteer place ID;1;2;from
+Q657004;Canterbury Region;географические координаты;1;1;from
+Q657004;Canterbury Region;ISO 3166-2;1;1;from
+Q657004;Canterbury Region;код темы Quora;1;1;from
+Q657004;Canterbury Region;категория на Викискладе;1;1;from
+Q657004;Canterbury Region;ID отношения в OpenStreetMap;1;1;from
+Q657004;Canterbury Region;часовой пояс;1;1;from
+Q657004;Canterbury Region;New Zealand Gazetteer place ID;1;1;from
+Q657004;Canterbury Region;идентификатор местоположения ArchINFORM;1;1;from
+Q657004;Canterbury Region;код Freebase;1;1;from
+Q666142;Tasman District;официальный сайт;1;1;from
+Q657004;Canterbury Region;Who's on First ID;1;1;from
+Q657004;Canterbury Region;находится в пределах природно-географического объекта;1;1;from
+Q657004;Canterbury Region;Analysis & Policy Observatory term ID;1;1;from
+Q657004;Canterbury Region;руководящий орган;1;1;from
+Q657004;Canterbury Region;официальный сайт;1;1;from
+Q657004;Canterbury Region;FIPS 10-4 (страны и регионы);1;1;from
+Q657004;Canterbury Region;основная категория по теме;1;1;from
+Q657004;Canterbury Region;площадь;1;1;from
+Q657004;Canterbury Region;категория для людей, связанных с местностью;1;1;from
+Q657004;Canterbury Region;код GeoNames;1;1;from
+Q657004;Canterbury Region;категория для людей, умерших здесь;1;1;from
+Q657004;Canterbury Region;административно делится на;1;1;to
+Q657004;Canterbury Region;государство;1;1;from
+Q657004;Canterbury Region;изображение;1;1;from
+Q657004;Canterbury Region;код VIAF;1;1;from
+Q657004;Canterbury Region;код GND;1;2;from
+Q657004;Canterbury Region;карта местонахождения;1;1;from
+Q657004;Canterbury Region;код LCNAF;1;1;from
+Q657004;Canterbury Region;это частный случай понятия;1;1;from
+Q657004;Canterbury Region;столица;1;1;from
+Q657004;Canterbury Region;имеет границы с;1;4;to
+Q657004;Canterbury Region;глава правительства;1;1;from
+Q657004;Canterbury Region;численность населения;1;4;from
+Q657004;Canterbury Region;код в Большой каталанской энциклопедии;1;1;from
+Q657004;Canterbury Region;описывается в источниках;1;1;from
+Q657004;Canterbury Region;категория для людей, родившихся здесь;1;1;from
+Q657004;Canterbury Region;баннер Викигида;1;1;from
+Q657004;Canterbury Region;место в MusicBrainz;1;1;from
+Q657004;Canterbury Region;dmoz;1;1;from
+Q666142;Tasman District;это частный случай понятия;1;1;from
+Q666142;Tasman District;имеет границы с;1;4;to
+Q666142;Tasman District;код GeoNames;1;1;from
+Q666142;Tasman District;категория для людей, связанных с местностью;1;1;from
+Q666142;Tasman District;площадь;1;1;from
+Q666142;Tasman District;ISO 3166-2;1;1;from
+Q666142;Tasman District;категория на Викискладе;1;1;from
+Q666142;Tasman District;часовой пояс;1;1;from
+Q666142;Tasman District;New Zealand Gazetteer place ID;1;1;from
+Q666142;Tasman District;идентификатор местоположения ArchINFORM;1;1;from
+Q666142;Tasman District;дата основания/создания/возникновения;1;1;from
+Q666142;Tasman District;географические координаты;1;1;from
+Q666142;Tasman District;код Freebase;1;1;from
+Q666142;Tasman District;Who's on First ID;1;1;from
+Q666142;Tasman District;находится в пределах природно-географического объекта;1;1;from
+Q666142;Tasman District;руководящий орган;1;1;from
+Q666142;Tasman District;столица;1;1;from
+Q666142;Tasman District;карта местонахождения;1;1;from
+Q657004;Canterbury Region;категория объединяет темы;1;4;to
+Q666142;Tasman District;код VIAF;1;1;from
+Q657004;Canterbury Region;является эндемиком в;1;3;to
+Q657004;Canterbury Region;место рождения;1;19;to
+Q657004;Canterbury Region;местонахождение;1;3;to
+Q657004;Canterbury Region;место жительства;1;1;to
+Q657004;Canterbury Region;расположение штаб-квартиры;1;1;to
+Q657004;Canterbury Region;юрисдикция распространяется на;1;1;to
+Q657004;Canterbury Region;общая тема категории;1;1;to
+Q657004;Canterbury Region;место активности;1;1;to
+Q657004;Canterbury Region;является столицей;1;1;to
+Q657004;Canterbury Region;место смерти;1;1;to
+Q666142;Tasman District;административно-территориальная единица;1;314;to
+Q666142;Tasman District;названо в честь;1;1;from
+Q666142;Tasman District;государство;1;1;from
+Q666142;Tasman District;изображение;1;1;from
+Q666142;Tasman District;код ISNI;1;1;from
+Q726917;Auckland Region;часовой пояс;1;1;from
+Q726917;Auckland Region;идентификатор местоположения ArchINFORM;1;1;from
+Q59596;Northland Region;административно делится на;1;1;to
+Q1995856;Nelson Region;имеет границы с;1;2;to
+Q864971;Southland Region;является столицей;1;1;to
+Q1995856;Nelson Region;административно-территориальная единица;1;48;to
+Q1995856;Nelson Region;государство;1;1;from
+Q1995856;Nelson Region;изображение;1;1;from
+Q1995856;Nelson Region;карта местонахождения;1;1;from
+Q1995856;Nelson Region;это частный случай понятия;1;1;from
+Q1995856;Nelson Region;столица;1;1;from
+Q1995856;Nelson Region;код GeoNames;1;1;from
+Q864971;Southland Region;категория на Викискладе;1;1;from
+Q1995856;Nelson Region;ISO 3166-2;1;1;from
+Q1995856;Nelson Region;категория на Викискладе;1;1;from
+Q1995856;Nelson Region;ID отношения в OpenStreetMap;1;1;from
+Q1995856;Nelson Region;географические координаты;1;1;from
+Q1995856;Nelson Region;код Freebase;1;1;from
+Q1995856;Nelson Region;находится в пределах природно-географического объекта;1;1;from
+Q1995856;Nelson Region;руководящий орган;1;1;from
+Q864971;Southland Region;общая тема категории;1;1;to
+Q864971;Southland Region;основная тема;1;1;to
+Q864971;Southland Region;расположение штаб-квартиры;1;1;to
+Q864971;Southland Region;категория объединяет темы;1;4;to
+Q864971;Southland Region;New Zealand Gazetteer place ID;1;1;from
+Q864971;Southland Region;идентификатор местоположения ArchINFORM;1;1;from
+Q864971;Southland Region;дата основания/создания/возникновения;1;1;from
+Q864971;Southland Region;географические координаты;1;1;from
+Q864971;Southland Region;код Freebase;1;1;from
+Q864971;Southland Region;Who's on First ID;1;1;from
+Q864971;Southland Region;находится в пределах природно-географического объекта;1;1;from
+Q864971;Southland Region;руководящий орган;1;1;from
+Q864971;Southland Region;FIPS 10-4 (страны и регионы);1;1;from
+Q864971;Southland Region;основная категория по теме;1;1;from
+Q864971;Southland Region;баннер Викигида;1;1;from
+Q864971;Southland Region;место в MusicBrainz;1;1;from
+Q864971;Southland Region;dmoz;1;1;from
+Q864971;Southland Region;место рождения;1;10;to
+Q864971;Southland Region;юрисдикция распространяется на;1;1;to
+Q1995856;Nelson Region;основная категория по теме;1;1;from
+Q1995856;Nelson Region;является столицей;1;1;to
+Q1995856;Nelson Region;юрисдикция распространяется на;1;1;to
+Q2192924;Bay of Plenty Region;New Zealand Gazetteer place ID;1;1;from
+Q2192924;Bay of Plenty Region;географические координаты;1;1;from
+Q2192924;Bay of Plenty Region;код Freebase;1;1;from
+Q2192924;Bay of Plenty Region;Who's on First ID;1;1;from
+Q2192924;Bay of Plenty Region;руководящий орган;1;1;from
+Q2192924;Bay of Plenty Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2192924;Bay of Plenty Region;основная категория по теме;1;1;from
+Q2192924;Bay of Plenty Region;баннер Викигида;1;1;from
+Q2192924;Bay of Plenty Region;место в MusicBrainz;1;1;from
+Q2192924;Bay of Plenty Region;место рождения;1;5;to
+Q2192924;Bay of Plenty Region;юрисдикция распространяется на;1;2;to
+Q2192924;Bay of Plenty Region;категория объединяет темы;1;3;to
+Q2192924;Bay of Plenty Region;изображённый объект;1;1;to
+Q2192924;Bay of Plenty Region;местонахождение;1;2;to
+Q2192924;Bay of Plenty Region;общая тема категории;1;1;to
+Q2192924;Bay of Plenty Region;является столицей;1;1;to
+Q2192924;Bay of Plenty Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2192924;Bay of Plenty Region;часовой пояс;1;1;from
+Q1995856;Nelson Region;общая тема категории;1;1;to
+Q2192924;Bay of Plenty Region;категория на Викискладе;1;1;from
+Q1995856;Nelson Region;основная тема;1;1;to
+Q1995856;Nelson Region;административно делится на;1;1;to
+Q2192924;Bay of Plenty Region;административно-территориальная единица;1;112;to
+Q2192924;Bay of Plenty Region;названо в честь;1;1;from
+Q2192924;Bay of Plenty Region;государство;1;1;from
+Q2192924;Bay of Plenty Region;изображение;1;1;from
+Q2192924;Bay of Plenty Region;карта местонахождения;1;1;from
+Q2192924;Bay of Plenty Region;это частный случай понятия;1;1;from
+Q2192924;Bay of Plenty Region;столица;1;1;from
+Q2192924;Bay of Plenty Region;имеет границы с;1;2;to
+Q2192924;Bay of Plenty Region;категория для людей, родившихся здесь;1;1;from
+Q2192924;Bay of Plenty Region;код GeoNames;1;1;from
+Q2192924;Bay of Plenty Region;категория для людей, связанных с местностью;1;1;from
+Q2192924;Bay of Plenty Region;площадь;1;1;from
+Q2192924;Bay of Plenty Region;ISO 3166-2;1;1;from
+Q864971;Southland Region;часовой пояс;1;1;from
+Q864971;Southland Region;ISO 3166-2;1;1;from
+Q726917;Auckland Region;географические координаты;1;1;from
+Q856010;Wellington Region;столица;1;1;from
+Q856010;Wellington Region;административно делится на;1;1;to
+Q856010;Wellington Region;государство;1;1;from
+Q856010;Wellington Region;изображение;1;1;from
+Q856010;Wellington Region;код VIAF;1;1;from
+Q856010;Wellington Region;код GND;1;1;from
+Q856010;Wellington Region;карта местонахождения;1;1;from
+Q856010;Wellington Region;это частный случай понятия;1;1;from
+Q856010;Wellington Region;имеет границы с;1;2;to
+Q864971;Southland Region;площадь;1;1;from
+Q856010;Wellington Region;численность населения;1;2;from
+Q856010;Wellington Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q856010;Wellington Region;категория для людей, родившихся здесь;1;1;from
+Q856010;Wellington Region;категория для людей, умерших здесь;1;1;from
+Q856010;Wellington Region;код GeoNames;1;1;from
+Q856010;Wellington Region;категория для людей, связанных с местностью;1;1;from
+Q856010;Wellington Region;владеет;1;1;from
+Q856010;Wellington Region;административно-территориальная единица;1;382;to
+Q726917;Auckland Region;административно делится на;1;1;to
+Q726917;Auckland Region;является столицей;1;1;to
+Q726917;Auckland Region;общая тема категории;1;2;to
+Q726917;Auckland Region;код Freebase;1;1;from
+Q726917;Auckland Region;руководящий орган;1;1;from
+Q726917;Auckland Region;FIPS 10-4 (страны и регионы);1;1;from
+Q726917;Auckland Region;основная категория по теме;1;1;from
+Q726917;Auckland Region;баннер Викигида;1;1;from
+Q726917;Auckland Region;место в MusicBrainz;1;1;from
+Q726917;Auckland Region;заменён на;1;2;to
+Q726917;Auckland Region;изображённый объект;1;1;to
+Q726917;Auckland Region;целевая аудитория;1;1;to
+Q726917;Auckland Region;расположение штаб-квартиры;1;1;to
+Q726917;Auckland Region;место рождения;1;26;to
+Q726917;Auckland Region;место смерти;1;7;to
+Q726917;Auckland Region;место жительства;1;1;to
+Q726917;Auckland Region;категория объединяет темы;1;3;to
+Q726917;Auckland Region;юрисдикция распространяется на;1;1;to
+Q856010;Wellington Region;площадь;1;1;from
+Q856010;Wellington Region;ISO 3166-2;1;1;from
+Q856010;Wellington Region;категория на Викискладе;1;1;from
+Q856010;Wellington Region;общая тема категории;1;1;to
+Q856010;Wellington Region;владельцем является;1;2;to
+Q856010;Wellington Region;является столицей;1;1;to
+Q864971;Southland Region;административно-территориальная единица;1;442;to
+Q864971;Southland Region;административно делится на;1;1;to
+Q864971;Southland Region;государство;1;1;from
+Q864971;Southland Region;код VIAF;1;1;from
+Q864971;Southland Region;карта местонахождения;1;1;from
+Q864971;Southland Region;код LCNAF;1;1;from
+Q864971;Southland Region;это частный случай понятия;1;1;from
+Q864971;Southland Region;столица;1;1;from
+Q864971;Southland Region;имеет границы с;1;2;to
+Q864971;Southland Region;категория для людей, родившихся здесь;1;1;from
+Q864971;Southland Region;категория для людей, умерших здесь;1;1;from
+Q864971;Southland Region;код GeoNames;1;1;from
+Q864971;Southland Region;категория для людей, связанных с местностью;1;1;from
+Q856010;Wellington Region;расположение штаб-квартиры;1;1;to
+Q856010;Wellington Region;юрисдикция распространяется на;1;1;to
+Q856010;Wellington Region;ID отношения в OpenStreetMap;1;1;from
+Q856010;Wellington Region;категория объединяет темы;1;5;to
+Q856010;Wellington Region;часовой пояс;1;1;from
+Q856010;Wellington Region;New Zealand Gazetteer place ID;1;1;from
+Q856010;Wellington Region;идентификатор местоположения ArchINFORM;1;1;from
+Q856010;Wellington Region;дата основания/создания/возникновения;1;1;from
+Q856010;Wellington Region;географические координаты;1;1;from
+Q856010;Wellington Region;код Freebase;1;1;from
+Q856010;Wellington Region;Who's on First ID;1;1;from
+Q856010;Wellington Region;категория карт на Викискладе;1;1;from
+Q856010;Wellington Region;руководящий орган;1;1;from
+Q856010;Wellington Region;FIPS 10-4 (страны и регионы);1;1;from
+Q856010;Wellington Region;основная категория по теме;1;1;from
+Q856010;Wellington Region;баннер Викигида;1;1;from
+Q856010;Wellington Region;место в MusicBrainz;1;1;from
+Q856010;Wellington Region;dmoz;1;1;from
+Q856010;Wellington Region;место рождения;1;6;to
+Q657004;Canterbury Region;административно-территориальная единица;1;555;to
+Q541468;West Coast Region;административно делится на;1;1;to
+Q541468;West Coast Region;является столицей;1;1;to
+Q139918;Waikato Region;баннер Викигида;1;1;from
+Q139918;Waikato Region;географические координаты;1;1;from
+Q139918;Waikato Region;код Freebase;1;1;from
+Q139918;Waikato Region;Who's on First ID;1;1;from
+Q139918;Waikato Region;Analysis & Policy Observatory term ID;1;1;from
+Q139918;Waikato Region;руководящий орган;1;1;from
+Q139918;Waikato Region;FIPS 10-4 (страны и регионы);1;1;from
+Q139918;Waikato Region;основная категория по теме;1;1;from
+Q139918;Waikato Region;место в MusicBrainz;1;1;from
+Q139918;Waikato Region;административно делится на;1;1;to
+Q139918;Waikato Region;dmoz;1;1;from
+Q139918;Waikato Region;место рождения;1;30;to
+Q139918;Waikato Region;находится в пределах природно-географического объекта;1;6;to
+Q139918;Waikato Region;является столицей;1;1;to
+Q139918;Waikato Region;место смерти;1;1;to
+Q139918;Waikato Region;категория объединяет темы;1;5;to
+Q139918;Waikato Region;местонахождение;1;5;to
+Q139918;Waikato Region;идентификатор местоположения ArchINFORM;1;1;from
+Q139918;Waikato Region;New Zealand Gazetteer place ID;1;1;from
+Q139918;Waikato Region;часовой пояс;1;1;from
+Q139918;Waikato Region;ID отношения в OpenStreetMap;1;1;from
+Q139918;Waikato Region;карта местонахождения;1;1;from
+Q139918;Waikato Region;это частный случай понятия;1;1;from
+Q139918;Waikato Region;столица;1;1;from
+Q139918;Waikato Region;имеет границы с;1;5;to
+Q139918;Waikato Region;глава правительства;1;1;from
+Q139918;Waikato Region;численность населения;1;3;from
+Q139918;Waikato Region;должность главы правительства;1;1;from
+Q139918;Waikato Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q139918;Waikato Region;категория для людей, родившихся здесь;1;1;from
+Q139918;Waikato Region;категория для людей, умерших здесь;1;1;from
+Q139918;Waikato Region;код GeoNames;1;1;from
+Q139918;Waikato Region;категория для людей, связанных с местностью;1;1;from
+Q139918;Waikato Region;площадь;1;1;from
+Q139918;Waikato Region;ISO 3166-2;1;1;from
+Q139918;Waikato Region;категория на Викискладе;1;1;from
+Q139918;Waikato Region;общая тема категории;1;1;to
+Q139918;Waikato Region;юрисдикция распространяется на;1;1;to
+Q140083;Marlborough District;государство;1;1;from
+Q140083;Marlborough District;ID отношения в OpenStreetMap;1;1;from
+Q140083;Marlborough District;идентификатор местоположения ArchINFORM;1;1;from
+Q140083;Marlborough District;дата основания/создания/возникновения;1;1;from
+Q140083;Marlborough District;географические координаты;1;1;from
+Q140083;Marlborough District;код Freebase;1;1;from
+Q140083;Marlborough District;Who's on First ID;1;1;from
+Q140083;Marlborough District;находится в пределах природно-географического объекта;1;1;from
+Q140083;Marlborough District;WorldCat Identities ID;1;1;from
+Q140083;Marlborough District;руководящий орган;1;1;from
+Q140083;Marlborough District;FIPS 10-4 (страны и регионы);1;1;from
+Q140083;Marlborough District;основная категория по теме;1;1;from
+Q140083;Marlborough District;баннер Викигида;1;1;from
+Q140083;Marlborough District;административно-территориальная единица;1;127;to
+Q140083;Marlborough District;место рождения;1;4;to
+Q140083;Marlborough District;место смерти;1;2;to
+Q140083;Marlborough District;часть от;1;3;to
+Q140083;Marlborough District;часовой пояс;1;1;from
+Q140083;Marlborough District;категория на Викискладе;1;1;from
+Q140083;Marlborough District;изображение;1;1;from
+Q140083;Marlborough District;код темы Quora;1;1;from
+Q140083;Marlborough District;код VIAF;1;1;from
+Q140083;Marlborough District;код GND;1;1;from
+Q140083;Marlborough District;карта местонахождения;1;1;from
+Q140083;Marlborough District;код LCNAF;1;1;from
+Q140083;Marlborough District;это частный случай понятия;1;2;from
+Q140083;Marlborough District;столица;1;1;from
+Q140083;Marlborough District;имеет границы с;1;4;to
+Q140083;Marlborough District;код в энциклопедии «Британника онлайн»;1;1;from
+Q140083;Marlborough District;категория для людей, родившихся здесь;1;1;from
+Q140083;Marlborough District;код GeoNames;1;1;from
+Q140083;Marlborough District;категория для людей, связанных с местностью;1;1;from
+Q140083;Marlborough District;позиционная карта;1;1;from
+Q140083;Marlborough District;площадь;1;1;from
+Q140083;Marlborough District;ISO 3166-2;1;1;from
+Q140083;Marlborough District;код в Encyclopædia Universalis;1;1;from
+Q139918;Waikato Region;государство;1;1;from
+Q139918;Waikato Region;административно-территориальная единица;1;292;to
+Q541468;West Coast Region;юрисдикция распространяется на;1;1;to
+Q59596;Northland Region;основная категория по теме;1;1;from
+Q59596;Northland Region;New Zealand Gazetteer place ID;1;1;from
+Q59596;Northland Region;географические координаты;1;1;from
+Q59596;Northland Region;код Freebase;1;1;from
+Q59596;Northland Region;Who's on First ID;1;1;from
+Q59596;Northland Region;Analysis & Policy Observatory term ID;1;1;from
+Q59596;Northland Region;руководящий орган;1;1;from
+Q59596;Northland Region;FIPS 10-4 (страны и регионы);1;1;from
+Q59596;Northland Region;баннер Викигида;1;1;from
+Q139907;Manawatū-Whanganui Region;общая тема категории;1;1;to
+Q59596;Northland Region;dmoz;1;1;from
+Q59596;Northland Region;категория объединяет темы;1;5;to
+Q59596;Northland Region;место рождения;1;14;to
+Q59596;Northland Region;местонахождение;1;2;to
+Q59596;Northland Region;место обнаружения;1;1;to
+Q59596;Northland Region;расположение штаб-квартиры;1;1;to
+Q59596;Northland Region;место жительства;1;1;to
+Q59596;Northland Region;часовой пояс;1;1;from
+Q59596;Northland Region;категория на Викискладе;1;1;from
+Q59596;Northland Region;идентификатор Ringgold;1;1;from
+Q59596;Northland Region;ISO 3166-2;1;1;from
+Q59596;Northland Region;государство;1;1;from
+Q59596;Northland Region;код ISNI;1;1;from
+Q59596;Northland Region;код VIAF;1;1;from
+Q59596;Northland Region;код GND;1;1;from
+Q59596;Northland Region;карта местонахождения;1;2;from
+Q59596;Northland Region;это частный случай понятия;1;1;from
+Q59596;Northland Region;столица;1;1;from
+Q59596;Northland Region;имеет границы с;1;1;to
+Q59596;Northland Region;численность населения;1;2;from
+Q59596;Northland Region;код в Большой каталанской энциклопедии;1;1;from
+Q59596;Northland Region;категория для людей, родившихся здесь;1;1;from
+Q59596;Northland Region;категория для людей, умерших здесь;1;1;from
+Q59596;Northland Region;код GeoNames;1;1;from
+Q59596;Northland Region;категория для людей, связанных с местностью;1;1;from
+Q59596;Northland Region;площадь;1;1;from
+Q59596;Northland Region;юрисдикция распространяется на;1;1;to
+Q59596;Northland Region;является столицей;1;1;to
+Q59596;Northland Region;часть от;1;1;to
+Q139907;Manawatū-Whanganui Region;категория на Викискладе;1;1;from
+Q139907;Manawatū-Whanganui Region;New Zealand Gazetteer place ID;1;2;from
+Q139907;Manawatū-Whanganui Region;идентификатор местоположения ArchINFORM;1;1;from
+Q139907;Manawatū-Whanganui Region;дата основания/создания/возникновения;1;1;from
+Q139907;Manawatū-Whanganui Region;географические координаты;1;1;from
+Q139907;Manawatū-Whanganui Region;код Freebase;1;1;from
+Q139907;Manawatū-Whanganui Region;Who's on First ID;1;1;from
+Q139907;Manawatū-Whanganui Region;Analysis & Policy Observatory term ID;1;1;from
+Q139907;Manawatū-Whanganui Region;руководящий орган;1;1;from
+Q139907;Manawatū-Whanganui Region;FIPS 10-4 (страны и регионы);1;1;from
+Q139907;Manawatū-Whanganui Region;основная категория по теме;1;1;from
+Q139907;Manawatū-Whanganui Region;место в MusicBrainz;1;1;from
+Q139907;Manawatū-Whanganui Region;место рождения;1;11;to
+Q139907;Manawatū-Whanganui Region;является столицей;1;1;to
+Q139907;Manawatū-Whanganui Region;категория объединяет темы;1;3;to
+Q139907;Manawatū-Whanganui Region;юрисдикция распространяется на;1;1;to
+Q139907;Manawatū-Whanganui Region;часовой пояс;1;1;from
+Q139907;Manawatū-Whanganui Region;ISO 3166-2;1;1;from
+Q59596;Northland Region;общая тема категории;1;1;to
+Q139907;Manawatū-Whanganui Region;площадь;1;1;from
+Q139907;Manawatū-Whanganui Region;административно-территориальная единица;1;168;to
+Q139907;Manawatū-Whanganui Region;административно делится на;1;1;to
+Q139907;Manawatū-Whanganui Region;государство;1;1;from
+Q139907;Manawatū-Whanganui Region;код VIAF;1;1;from
+Q139907;Manawatū-Whanganui Region;код GND;1;1;from
+Q139907;Manawatū-Whanganui Region;карта местонахождения;1;1;from
+Q139907;Manawatū-Whanganui Region;код LCNAF;1;1;from
+Q139907;Manawatū-Whanganui Region;это частный случай понятия;1;1;from
+Q139907;Manawatū-Whanganui Region;столица;1;1;from
+Q139907;Manawatū-Whanganui Region;имеет границы с;1;4;to
+Q139907;Manawatū-Whanganui Region;численность населения;1;3;from
+Q139907;Manawatū-Whanganui Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q139907;Manawatū-Whanganui Region;категория для людей, родившихся здесь;1;1;from
+Q139907;Manawatū-Whanganui Region;код GeoNames;1;1;from
+Q139907;Manawatū-Whanganui Region;категория для людей, связанных с местностью;1;1;from
+Q140083;Marlborough District;категория объединяет темы;1;3;to
+Q140083;Marlborough District;общая тема категории;1;1;to
+Q140083;Marlborough District;юрисдикция распространяется на;1;1;to
+Q251825;Hawke's Bay Region;баннер Викигида;1;1;from
+Q251825;Hawke's Bay Region;географические координаты;1;1;from
+Q251825;Hawke's Bay Region;код Freebase;1;1;from
+Q251825;Hawke's Bay Region;Who's on First ID;1;1;from
+Q251825;Hawke's Bay Region;Analysis & Policy Observatory term ID;1;1;from
+Q251825;Hawke's Bay Region;руководящий орган;1;1;from
+Q251825;Hawke's Bay Region;FIPS 10-4 (страны и регионы);1;1;from
+Q251825;Hawke's Bay Region;основная категория по теме;1;1;from
+Q251825;Hawke's Bay Region;место в MusicBrainz;1;1;from
+Q140083;Marlborough District;названо в честь;1;1;to
+Q251825;Hawke's Bay Region;dmoz;1;1;from
+Q251825;Hawke's Bay Region;часть от;1;1;to
+Q251825;Hawke's Bay Region;место рождения;1;13;to
+Q251825;Hawke's Bay Region;место смерти;1;5;to
+Q251825;Hawke's Bay Region;является столицей;1;1;to
+Q251825;Hawke's Bay Region;категория объединяет темы;1;4;to
+Q251825;Hawke's Bay Region;расположение штаб-квартиры;1;1;to
+Q251825;Hawke's Bay Region;идентификатор местоположения ArchINFORM;1;1;from
+Q251825;Hawke's Bay Region;New Zealand Gazetteer place ID;1;1;from
+Q251825;Hawke's Bay Region;часовой пояс;1;1;from
+Q251825;Hawke's Bay Region;категория на Викискладе;1;1;from
+Q140246;Gisborne District;административно делится на;1;1;to
+Q251825;Hawke's Bay Region;административно-территориальная единица;1;133;to
+Q251825;Hawke's Bay Region;государство;1;1;from
+Q251825;Hawke's Bay Region;изображение;1;1;from
+Q251825;Hawke's Bay Region;карта местонахождения;1;1;from
+Q251825;Hawke's Bay Region;это частный случай понятия;1;1;from
+Q251825;Hawke's Bay Region;столица;1;1;from
+Q251825;Hawke's Bay Region;имеет границы с;1;3;to
+Q251825;Hawke's Bay Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q251825;Hawke's Bay Region;категория для людей, родившихся здесь;1;1;from
+Q251825;Hawke's Bay Region;категория для людей, умерших здесь;1;1;from
+Q251825;Hawke's Bay Region;код GeoNames;1;1;from
+Q251825;Hawke's Bay Region;категория для людей, связанных с местностью;1;1;from
+Q251825;Hawke's Bay Region;площадь;1;1;from
+Q251825;Hawke's Bay Region;ISO 3166-2;1;1;from
+Q251825;Hawke's Bay Region;юрисдикция распространяется на;1;1;to
+Q251825;Hawke's Bay Region;общая тема категории;1;1;to
+Q251825;Hawke's Bay Region;местонахождение;1;2;to
+Q541468;West Coast Region;идентификатор местоположения ArchINFORM;1;1;from
+Q541468;West Coast Region;код Freebase;1;1;from
+Q541468;West Coast Region;Who's on First ID;1;1;from
+Q541468;West Coast Region;находится в пределах природно-географического объекта;1;1;from
+Q541468;West Coast Region;руководящий орган;1;1;from
+Q541468;West Coast Region;FIPS 10-4 (страны и регионы);1;1;from
+Q541468;West Coast Region;основная категория по теме;1;1;from
+Q541468;West Coast Region;баннер Викигида;1;1;from
+Q541468;West Coast Region;dmoz;1;1;from
+Q541468;West Coast Region;административно-территориальная единица;1;269;to
+Q541468;West Coast Region;часть от;1;1;to
+Q541468;West Coast Region;категория объединяет темы;1;3;to
+Q541468;West Coast Region;изображённый объект;1;1;to
+Q541468;West Coast Region;местонахождение;1;1;to
+Q541468;West Coast Region;место рождения;1;4;to
+Q541468;West Coast Region;общая тема категории;1;1;to
+Q541468;West Coast Region;географические координаты;1;1;from
+Q541468;West Coast Region;часовой пояс;1;1;from
+Q251825;Hawke's Bay Region;административно делится на;1;1;to
+Q541468;West Coast Region;категория на Викискладе;1;1;from
+Q541468;West Coast Region;государство;1;1;from
+Q541468;West Coast Region;изображение;1;1;from
+Q541468;West Coast Region;код VIAF;1;1;from
+Q541468;West Coast Region;карта местонахождения;1;1;from
+Q541468;West Coast Region;это частный случай понятия;1;1;from
+Q541468;West Coast Region;столица;1;1;from
+Q541468;West Coast Region;имеет границы с;1;4;to
+Q541468;West Coast Region;численность населения;1;1;from
+Q541468;West Coast Region;категория для людей, родившихся здесь;1;1;from
+Q541468;West Coast Region;код GeoNames;1;1;from
+Q541468;West Coast Region;категория для людей, связанных с местностью;1;1;from
+Q541468;West Coast Region;высота над уровнем моря;1;1;from
+Q541468;West Coast Region;площадь;1;1;from
+Q541468;West Coast Region;ISO 3166-2;1;1;from
+Q541468;West Coast Region;код в Encyclopædia Universalis;1;1;from
+Q140246;Gisborne District;общая тема категории;1;2;to
+Q140246;Gisborne District;юрисдикция распространяется на;1;1;to
+Q140246;Gisborne District;место рождения;1;5;to
+Q140207;Taranaki Region;категория для людей, связанных с местностью;1;1;from
+Q140207;Taranaki Region;площадь;1;1;from
+Q140207;Taranaki Region;ISO 3166-2;1;1;from
+Q140207;Taranaki Region;код в Encyclopædia Universalis;1;1;from
+Q140207;Taranaki Region;категория на Викискладе;1;1;from
+Q140207;Taranaki Region;ID отношения в OpenStreetMap;1;1;from
+Q140207;Taranaki Region;часовой пояс;1;1;from
+Q140207;Taranaki Region;идентификатор местоположения ArchINFORM;1;1;from
+Q140207;Taranaki Region;географические координаты;1;1;from
+Q140207;Taranaki Region;код Freebase;1;1;from
+Q140207;Taranaki Region;Who's on First ID;1;1;from
+Q140207;Taranaki Region;руководящий орган;1;1;from
+Q140207;Taranaki Region;FIPS 10-4 (страны и регионы);1;1;from
+Q140207;Taranaki Region;основная категория по теме;1;1;from
+Q140207;Taranaki Region;баннер Викигида;1;1;from
+Q140207;Taranaki Region;место в MusicBrainz;1;1;from
+Q140207;Taranaki Region;не путать с;1;1;to
+Q140207;Taranaki Region;название на языке оригинала;1;1;from
+Q140207;Taranaki Region;место смерти;1;3;to
+Q140207;Taranaki Region;код GeoNames;1;1;from
+Q140083;Marlborough District;основная тема;1;1;to
+Q140083;Marlborough District;является столицей;1;1;to
+Q140083;Marlborough District;административно делится на;1;1;to
+Q140207;Taranaki Region;административно-территориальная единица;1;111;to
+Q140207;Taranaki Region;государство;1;1;from
+Q140207;Taranaki Region;код VIAF;1;1;from
+Q140207;Taranaki Region;код GND;1;1;from
+Q140207;Taranaki Region;карта местонахождения;1;1;from
+Q140207;Taranaki Region;это частный случай понятия;1;1;from
+Q140207;Taranaki Region;столица;1;1;from
+Q140207;Taranaki Region;имеет границы с;1;2;to
+Q140207;Taranaki Region;численность населения;1;2;from
+Q140207;Taranaki Region;код в Большой каталанской энциклопедии;1;1;from
+Q140207;Taranaki Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q140207;Taranaki Region;категория для людей, родившихся здесь;1;1;from
+Q140207;Taranaki Region;категория объединяет темы;1;3;to
+Q140207;Taranaki Region;место рождения;1;27;to
+Q140246;Gisborne District;категория объединяет темы;1;3;to
+Q140246;Gisborne District;категория для людей, связанных с местностью;1;1;from
+Q140246;Gisborne District;ISO 3166-2;1;1;from
+Q140246;Gisborne District;код в Encyclopædia Universalis;1;1;from
+Q140246;Gisborne District;категория на Викискладе;1;1;from
+Q140246;Gisborne District;часовой пояс;1;1;from
+Q140246;Gisborne District;New Zealand Gazetteer place ID;1;1;from
+Q140246;Gisborne District;идентификатор местоположения ArchINFORM;1;1;from
+Q140246;Gisborne District;географические координаты;1;1;from
+Q140246;Gisborne District;код Freebase;1;1;from
+Q140246;Gisborne District;Who's on First ID;1;1;from
+Q140246;Gisborne District;руководящий орган;1;1;from
+Q140246;Gisborne District;FIPS 10-4 (страны и регионы);1;1;from
+Q140246;Gisborne District;основная категория по теме;1;1;from
+Q140246;Gisborne District;баннер Викигида;1;1;from
+Q140246;Gisborne District;место в MusicBrainz;1;1;from
+Q140246;Gisborne District;является столицей;1;1;to
+Q140246;Gisborne District;площадь;1;1;from
+Q140246;Gisborne District;код GeoNames;1;1;from
+Q140207;Taranaki Region;является столицей;1;1;to
+Q140246;Gisborne District;категория для людей, родившихся здесь;1;1;from
+Q140207;Taranaki Region;местонахождение;1;4;to
+Q140207;Taranaki Region;место активности;1;1;to
+Q140207;Taranaki Region;юрисдикция распространяется на;1;1;to
+Q140207;Taranaki Region;общая тема категории;1;1;to
+Q140207;Taranaki Region;административно делится на;1;1;to
+Q140246;Gisborne District;административно-территориальная единица;1;325;to
+Q140246;Gisborne District;государство;1;1;from
+Q140246;Gisborne District;город-побратим;1;1;to
+Q140246;Gisborne District;код VIAF;1;1;from
+Q140246;Gisborne District;карта местонахождения;1;1;from
+Q140246;Gisborne District;код LCNAF;1;1;from
+Q140246;Gisborne District;это частный случай понятия;1;2;from
+Q140246;Gisborne District;столица;1;1;from
+Q140246;Gisborne District;имеет границы с;1;5;to
+Q140246;Gisborne District;код в энциклопедии «Британника онлайн»;1;1;from
+Q2192924;Bay of Plenty Region;административно делится на;1;1;to

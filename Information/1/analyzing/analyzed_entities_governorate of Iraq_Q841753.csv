@@ -1,0 +1,567 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q59202;Babylon Governorate;административно-территориальная единица;1;296;to
+Q213170;Maysan Governorate;основная категория по теме;1;1;from
+Q213170;Maysan Governorate;часовой пояс;1;1;from
+Q213170;Maysan Governorate;код тезауруса PACTOLS;1;1;from
+Q213170;Maysan Governorate;географические координаты;1;1;from
+Q213170;Maysan Governorate;код Freebase;1;1;from
+Q213170;Maysan Governorate;Who's on First ID;1;1;from
+Q213170;Maysan Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q213170;Maysan Governorate;место рождения;1;9;to
+Q213170;Maysan Governorate;ISO 3166-2;1;1;from
+Q213170;Maysan Governorate;происходит из;1;1;to
+Q213170;Maysan Governorate;категория объединяет темы;1;1;to
+Q213170;Maysan Governorate;является столицей;1;1;to
+Q213170;Maysan Governorate;общая тема категории;1;1;to
+Q213170;Maysan Governorate;административно делится на;1;1;to
+Q213182;Sulaymaniyah Governorate;административно-территориальная единица;1;1373;to
+Q213170;Maysan Governorate;категория на Викискладе;1;1;from
+Q213170;Maysan Governorate;используемый язык;1;1;from
+Q212761;Al Muthanna Governorate;категория объединяет темы;1;1;to
+Q213170;Maysan Governorate;карта местонахождения;1;1;from
+Q212761;Al Muthanna Governorate;место рождения;1;3;to
+Q212761;Al Muthanna Governorate;является столицей;1;1;to
+Q212761;Al Muthanna Governorate;общая тема категории;1;1;to
+Q212761;Al Muthanna Governorate;административно делится на;1;1;to
+Q213170;Maysan Governorate;административно-территориальная единица;1;218;to
+Q213170;Maysan Governorate;государство;1;1;from
+Q213170;Maysan Governorate;это частный случай понятия;1;1;from
+Q213170;Maysan Governorate;площадь;1;1;from
+Q213170;Maysan Governorate;столица;1;1;from
+Q213170;Maysan Governorate;имеет границы с;1;1;to
+Q213170;Maysan Governorate;численность населения;1;1;from
+Q213170;Maysan Governorate;код GeoNames;1;1;from
+Q213170;Maysan Governorate;код TGN;1;1;from
+Q213170;Maysan Governorate;категория для людей, связанных с местностью;1;1;from
+Q213182;Sulaymaniyah Governorate;государство;1;1;from
+Q213182;Sulaymaniyah Governorate;изображение;1;1;from
+Q213182;Sulaymaniyah Governorate;карта ареала вида;1;1;from
+Q213182;Sulaymaniyah Governorate;владельцем является;1;1;to
+Q213182;Sulaymaniyah Governorate;официальный сайт;1;1;from
+Q213182;Sulaymaniyah Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q213182;Sulaymaniyah Governorate;основная категория по теме;1;1;from
+Q213182;Sulaymaniyah Governorate;зона обслуживания;1;1;to
+Q213182;Sulaymaniyah Governorate;является столицей;1;1;to
+Q213182;Sulaymaniyah Governorate;место рождения;1;4;to
+Q213182;Sulaymaniyah Governorate;местонахождение;1;1;to
+Q213182;Sulaymaniyah Governorate;карта местонахождения;1;1;from
+Q213182;Sulaymaniyah Governorate;общая тема категории;1;1;to
+Q213182;Sulaymaniyah Governorate;происходит из;1;1;to
+Q213182;Sulaymaniyah Governorate;административно делится на;1;1;to
+Q213189;Erbil Governorate;административно-территориальная единица;1;788;to
+Q213189;Erbil Governorate;государство;1;1;from
+Q213189;Erbil Governorate;изображение;1;1;from
+Q213182;Sulaymaniyah Governorate;Who's on First ID;1;1;from
+Q213182;Sulaymaniyah Governorate;код Freebase;1;1;from
+Q213182;Sulaymaniyah Governorate;географические координаты;1;1;from
+Q213182;Sulaymaniyah Governorate;часовой пояс;1;1;from
+Q213182;Sulaymaniyah Governorate;категория на Викискладе;1;1;from
+Q213182;Sulaymaniyah Governorate;ISO 3166-2;1;1;from
+Q213182;Sulaymaniyah Governorate;используемый язык;1;1;from
+Q213182;Sulaymaniyah Governorate;площадь;1;1;from
+Q213182;Sulaymaniyah Governorate;не путать с;1;3;to
+Q213182;Sulaymaniyah Governorate;код TGN;1;1;from
+Q213182;Sulaymaniyah Governorate;код GeoNames;1;1;from
+Q213182;Sulaymaniyah Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q213182;Sulaymaniyah Governorate;код в Большой каталанской энциклопедии;1;1;from
+Q213182;Sulaymaniyah Governorate;численность населения;1;1;from
+Q213182;Sulaymaniyah Governorate;имеет границы с;1;2;to
+Q213182;Sulaymaniyah Governorate;столица;1;1;from
+Q213182;Sulaymaniyah Governorate;это частный случай понятия;1;1;from
+Q212761;Al Muthanna Governorate;местонахождение;1;2;to
+Q212761;Al Muthanna Governorate;основная категория по теме;1;1;from
+Q213189;Erbil Governorate;это частный случай понятия;1;1;from
+Q193551;Basra Governorate;изображение флага;1;1;from
+Q193551;Basra Governorate;изображение;1;1;from
+Q193551;Basra Governorate;код GND;1;1;from
+Q193551;Basra Governorate;карта местонахождения;1;1;from
+Q193551;Basra Governorate;код LCNAF;1;1;from
+Q193551;Basra Governorate;это частный случай понятия;1;1;from
+Q193551;Basra Governorate;столица;1;1;from
+Q193551;Basra Governorate;имеет границы с;1;2;to
+Q193551;Basra Governorate;изображение печати/эмблемы;1;1;from
+Q193551;Basra Governorate;численность населения;1;1;from
+Q193551;Basra Governorate;код в Большой каталанской энциклопедии;1;1;from
+Q193551;Basra Governorate;код GeoNames;1;1;from
+Q193551;Basra Governorate;код TGN;1;1;from
+Q193551;Basra Governorate;категория для людей, связанных с местностью;1;1;from
+Q193551;Basra Governorate;площадь;1;1;from
+Q193551;Basra Governorate;государство;1;1;from
+Q193551;Basra Governorate;административно-территориальная единица;1;153;to
+Q212761;Al Muthanna Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q193268;Kirkuk Governorate;место рождения;1;3;to
+Q193268;Kirkuk Governorate;часовой пояс;1;1;from
+Q193268;Kirkuk Governorate;географические координаты;1;1;from
+Q193268;Kirkuk Governorate;код Freebase;1;1;from
+Q193268;Kirkuk Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q193268;Kirkuk Governorate;основная категория по теме;1;1;from
+Q193268;Kirkuk Governorate;место в MusicBrainz;1;1;from
+Q193268;Kirkuk Governorate;зона обслуживания;1;1;to
+Q193268;Kirkuk Governorate;административно делится на;1;1;to
+Q193268;Kirkuk Governorate;местонахождение;1;5;to
+Q193268;Kirkuk Governorate;является столицей;1;1;to
+Q193268;Kirkuk Governorate;занимаемая должность;1;1;to
+Q193268;Kirkuk Governorate;общая тема категории;1;1;to
+Q193268;Kirkuk Governorate;происходит из;1;3;to
+Q193268;Kirkuk Governorate;категория объединяет темы;1;1;to
+Q193551;Basra Governorate;используемый язык;1;3;from
+Q193551;Basra Governorate;ISO 3166-2;1;1;from
+Q193551;Basra Governorate;категория на Викискладе;1;1;from
+Q212761;Al Muthanna Governorate;категория для людей, связанных с местностью;1;1;from
+Q212761;Al Muthanna Governorate;столица;1;1;from
+Q212761;Al Muthanna Governorate;имеет границы с;1;2;to
+Q212761;Al Muthanna Governorate;десятичная классификация Дьюи;1;1;from
+Q212761;Al Muthanna Governorate;численность населения;1;1;from
+Q212761;Al Muthanna Governorate;код GeoNames;1;1;from
+Q212761;Al Muthanna Governorate;код TGN;1;1;from
+Q212761;Al Muthanna Governorate;площадь;1;1;from
+Q193551;Basra Governorate;географические координаты;1;1;from
+Q212761;Al Muthanna Governorate;ISO 3166-2;1;1;from
+Q212761;Al Muthanna Governorate;категория на Викискладе;1;1;from
+Q212761;Al Muthanna Governorate;часовой пояс;1;1;from
+Q212761;Al Muthanna Governorate;географические координаты;1;1;from
+Q212761;Al Muthanna Governorate;код Freebase;1;1;from
+Q212761;Al Muthanna Governorate;Who's on First ID;1;1;from
+Q212761;Al Muthanna Governorate;это частный случай понятия;1;1;from
+Q212761;Al Muthanna Governorate;карта местонахождения;1;1;from
+Q212761;Al Muthanna Governorate;государство;1;1;from
+Q212761;Al Muthanna Governorate;административно-территориальная единица;1;444;to
+Q193551;Basra Governorate;административно делится на;1;1;to
+Q193551;Basra Governorate;является столицей;1;1;to
+Q193551;Basra Governorate;общая тема категории;1;1;to
+Q193551;Basra Governorate;категория объединяет темы;1;1;to
+Q193551;Basra Governorate;происходит из;1;3;to
+Q193551;Basra Governorate;местонахождение;1;2;to
+Q193551;Basra Governorate;место рождения;1;5;to
+Q193551;Basra Governorate;место в MusicBrainz;1;1;from
+Q193551;Basra Governorate;основная категория по теме;1;1;from
+Q193551;Basra Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q193551;Basra Governorate;официальный сайт;1;3;from
+Q193551;Basra Governorate;Who's on First ID;1;1;from
+Q193551;Basra Governorate;код Freebase;1;1;from
+Q213189;Erbil Governorate;карта местонахождения;1;1;from
+Q213189;Erbil Governorate;столица;1;1;from
+Q59202;Babylon Governorate;государство;1;1;from
+Q217075;Diyala Governorate;категория на Викискладе;1;1;from
+Q217075;Diyala Governorate;код GeoNames;1;1;from
+Q217075;Diyala Governorate;код TGN;1;1;from
+Q217075;Diyala Governorate;категория для людей, связанных с местностью;1;1;from
+Q217075;Diyala Governorate;площадь;1;1;from
+Q217075;Diyala Governorate;используемый язык;1;1;from
+Q217075;Diyala Governorate;ISO 3166-2;1;1;from
+Q217075;Diyala Governorate;часовой пояс;1;1;from
+Q217075;Diyala Governorate;имеет границы с;1;3;to
+Q217075;Diyala Governorate;географические координаты;1;1;from
+Q217075;Diyala Governorate;код Freebase;1;1;from
+Q217075;Diyala Governorate;Who's on First ID;1;1;from
+Q217075;Diyala Governorate;код NKC;1;1;from
+Q217075;Diyala Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q217075;Diyala Governorate;основная категория по теме;1;1;from
+Q217075;Diyala Governorate;численность населения;1;1;from
+Q217075;Diyala Governorate;столица;1;1;from
+Q215649;Dhi Qar Governorate;категория на Викискладе;1;1;from
+Q215649;Dhi Qar Governorate;местонахождение;1;2;to
+Q215649;Dhi Qar Governorate;географические координаты;1;1;from
+Q215649;Dhi Qar Governorate;код Freebase;1;1;from
+Q215649;Dhi Qar Governorate;Who's on First ID;1;1;from
+Q215649;Dhi Qar Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q215649;Dhi Qar Governorate;основная категория по теме;1;1;from
+Q215649;Dhi Qar Governorate;место рождения;1;6;to
+Q215649;Dhi Qar Governorate;общая тема категории;1;1;to
+Q217075;Diyala Governorate;это частный случай понятия;1;1;from
+Q215649;Dhi Qar Governorate;является столицей;1;1;to
+Q215649;Dhi Qar Governorate;административно делится на;1;1;to
+Q217075;Diyala Governorate;административно-территориальная единица;1;434;to
+Q217075;Diyala Governorate;государство;1;1;from
+Q217075;Diyala Governorate;изображение;1;1;from
+Q217075;Diyala Governorate;карта местонахождения;1;1;from
+Q217075;Diyala Governorate;местонахождение;1;4;to
+Q217075;Diyala Governorate;место рождения;1;5;to
+Q217075;Diyala Governorate;место смерти;1;1;to
+Q15631321;Halabja Governorate;ID отношения в OpenStreetMap;1;1;from
+Q15631321;Halabja Governorate;имеет границы с;1;2;to
+Q15631321;Halabja Governorate;численность населения;1;2;from
+Q15631321;Halabja Governorate;код TGN;1;1;from
+Q15631321;Halabja Governorate;площадь;1;1;from
+Q15631321;Halabja Governorate;ISO 3166-2;1;1;from
+Q15631321;Halabja Governorate;категория на Викискладе;1;1;from
+Q15631321;Halabja Governorate;часовой пояс;1;1;from
+Q217075;Diyala Governorate;является столицей;1;1;to
+Q15631321;Halabja Governorate;географические координаты;1;1;from
+Q15631321;Halabja Governorate;основная категория по теме;1;1;from
+Q15631321;Halabja Governorate;административно-территориальная единица;1;7;to
+Q15631321;Halabja Governorate;общая тема категории;1;1;to
+Q15631321;Halabja Governorate;место рождения;1;1;to
+Q15631321;Halabja Governorate;местонахождение;1;1;to
+Q15631321;Halabja Governorate;столица;1;1;from
+Q15631321;Halabja Governorate;это частный случай понятия;1;1;from
+Q15631321;Halabja Governorate;карта местонахождения;1;1;from
+Q15631321;Halabja Governorate;изображение;1;1;from
+Q15631321;Halabja Governorate;государство;1;1;from
+Q6448838;Kuwait Governorate;дата прекращения существования;1;1;from
+Q6448838;Kuwait Governorate;дата основания/создания/возникновения;1;1;from
+Q6448838;Kuwait Governorate;изображение флага;1;1;from
+Q6448838;Kuwait Governorate;денежная единица;1;1;from
+Q6448838;Kuwait Governorate;официальный язык;1;1;from
+Q6448838;Kuwait Governorate;столица;1;1;from
+Q6448838;Kuwait Governorate;это частный случай понятия;1;1;from
+Q6448838;Kuwait Governorate;карта местонахождения;1;1;from
+Q217075;Diyala Governorate;административно делится на;1;1;to
+Q217075;Diyala Governorate;происходит из;1;1;to
+Q217075;Diyala Governorate;категория объединяет темы;1;1;to
+Q217075;Diyala Governorate;общая тема категории;1;1;to
+Q215649;Dhi Qar Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q215649;Dhi Qar Governorate;ISO 3166-2;1;1;from
+Q213189;Erbil Governorate;имеет границы с;1;1;to
+Q213189;Erbil Governorate;расположение штаб-квартиры;1;1;to
+Q213189;Erbil Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q213189;Erbil Governorate;основная категория по теме;1;1;from
+Q213189;Erbil Governorate;место в MusicBrainz;1;1;from
+Q213189;Erbil Governorate;место рождения;1;1;to
+Q213189;Erbil Governorate;местонахождение;1;3;to
+Q213189;Erbil Governorate;место погребения;1;1;to
+Q213189;Erbil Governorate;основная тема;1;1;to
+Q213189;Erbil Governorate;Who's on First ID;1;1;from
+Q213189;Erbil Governorate;общая тема категории;1;1;to
+Q213189;Erbil Governorate;категория объединяет темы;1;1;to
+Q213189;Erbil Governorate;происходит из;1;2;to
+Q213189;Erbil Governorate;административно делится на;1;1;to
+Q214104;Karbala Governorate;административно-территориальная единица;1;56;to
+Q214104;Karbala Governorate;государство;1;1;from
+Q213189;Erbil Governorate;официальный сайт;1;1;from
+Q213189;Erbil Governorate;код Freebase;1;1;from
+Q215649;Dhi Qar Governorate;площадь;1;1;from
+Q213189;Erbil Governorate;код BabelNet;1;1;from
+Q213189;Erbil Governorate;численность населения;1;1;from
+Q213189;Erbil Governorate;код US National Archives;1;1;from
+Q213189;Erbil Governorate;код GeoNames;1;1;from
+Q213189;Erbil Governorate;код TGN;1;1;from
+Q213189;Erbil Governorate;категория для людей, связанных с местностью;1;1;from
+Q213189;Erbil Governorate;площадь;1;1;from
+Q213189;Erbil Governorate;коллаж;1;1;from
+Q213189;Erbil Governorate;географические координаты;1;1;from
+Q213189;Erbil Governorate;используемый язык;1;2;from
+Q213189;Erbil Governorate;ISO 3166-2;1;1;from
+Q213189;Erbil Governorate;категория на Викискладе;1;1;from
+Q213189;Erbil Governorate;ID отношения в OpenStreetMap;1;1;from
+Q213189;Erbil Governorate;часовой пояс;1;1;from
+Q213189;Erbil Governorate;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q214104;Karbala Governorate;карта местонахождения;1;1;from
+Q214104;Karbala Governorate;это частный случай понятия;1;1;from
+Q214104;Karbala Governorate;столица;1;1;from
+Q215649;Dhi Qar Governorate;изображение;1;1;from
+Q214104;Karbala Governorate;является столицей;1;1;to
+Q214104;Karbala Governorate;общая тема категории;1;1;to
+Q214104;Karbala Governorate;категория объединяет темы;1;1;to
+Q214104;Karbala Governorate;административно делится на;1;1;to
+Q215649;Dhi Qar Governorate;административно-территориальная единица;1;394;to
+Q215649;Dhi Qar Governorate;государство;1;1;from
+Q215649;Dhi Qar Governorate;карта местонахождения;1;1;from
+Q214104;Karbala Governorate;имеет границы с;1;2;to
+Q215649;Dhi Qar Governorate;это частный случай понятия;1;1;from
+Q215649;Dhi Qar Governorate;столица;1;1;from
+Q215649;Dhi Qar Governorate;имеет границы с;1;3;to
+Q215649;Dhi Qar Governorate;численность населения;1;1;from
+Q215649;Dhi Qar Governorate;код GeoNames;1;1;from
+Q215649;Dhi Qar Governorate;код TGN;1;1;from
+Q214104;Karbala Governorate;место в MusicBrainz;1;1;from
+Q214104;Karbala Governorate;основная категория по теме;1;1;from
+Q214104;Karbala Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q214104;Karbala Governorate;Who's on First ID;1;1;from
+Q214104;Karbala Governorate;код Freebase;1;1;from
+Q214104;Karbala Governorate;географические координаты;1;1;from
+Q214104;Karbala Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q214104;Karbala Governorate;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q214104;Karbala Governorate;часовой пояс;1;1;from
+Q214104;Karbala Governorate;категория на Викискладе;1;1;from
+Q214104;Karbala Governorate;ISO 3166-2;1;1;from
+Q214104;Karbala Governorate;код BNF;1;1;from
+Q214104;Karbala Governorate;площадь;1;1;from
+Q214104;Karbala Governorate;категория для людей, связанных с местностью;1;1;from
+Q214104;Karbala Governorate;код TGN;1;1;from
+Q214104;Karbala Governorate;код GeoNames;1;1;from
+Q214104;Karbala Governorate;численность населения;1;2;from
+Q193268;Kirkuk Governorate;категория на Викискладе;1;1;from
+Q193268;Kirkuk Governorate;ISO 3166-2;1;1;from
+Q193268;Kirkuk Governorate;используемый язык;1;3;from
+Q189352;Nineveh Governorate;код GeoNames;1;1;from
+Q189352;Nineveh Governorate;код ISNI;1;1;from
+Q189352;Nineveh Governorate;карта местонахождения;1;1;from
+Q189352;Nineveh Governorate;это частный случай понятия;1;1;from
+Q189352;Nineveh Governorate;столица;1;1;from
+Q189352;Nineveh Governorate;имеет границы с;1;1;to
+Q189352;Nineveh Governorate;численность населения;1;1;from
+Q189352;Nineveh Governorate;код TGN;1;1;from
+Q189352;Nineveh Governorate;государство;1;1;from
+Q189352;Nineveh Governorate;категория для людей, связанных с местностью;1;1;from
+Q189352;Nineveh Governorate;площадь;1;1;from
+Q189352;Nineveh Governorate;используемый язык;1;5;from
+Q189352;Nineveh Governorate;ISO 3166-2;1;1;from
+Q189352;Nineveh Governorate;идентификатор Ringgold;1;1;from
+Q189352;Nineveh Governorate;категория на Викискладе;1;1;from
+Q189352;Nineveh Governorate;изображение;1;1;from
+Q189352;Nineveh Governorate;административно делится на;1;1;to
+Q187334;Al Anbar Governorate;категория на Викискладе;1;1;from
+Q187334;Al Anbar Governorate;местонахождение;1;7;to
+Q187334;Al Anbar Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q187334;Al Anbar Governorate;географические координаты;1;1;from
+Q187334;Al Anbar Governorate;код Freebase;1;1;from
+Q187334;Al Anbar Governorate;Who's on First ID;1;1;from
+Q187334;Al Anbar Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q187334;Al Anbar Governorate;основная категория по теме;1;1;from
+Q187334;Al Anbar Governorate;место смерти;1;4;to
+Q189352;Nineveh Governorate;административно-территориальная единица;1;682;to
+Q187334;Al Anbar Governorate;является столицей;1;1;to
+Q187334;Al Anbar Governorate;место рождения;1;9;to
+Q187334;Al Anbar Governorate;расположение штаб-квартиры;1;2;to
+Q187334;Al Anbar Governorate;категория объединяет темы;1;2;to
+Q187334;Al Anbar Governorate;общая тема категории;1;1;to
+Q187334;Al Anbar Governorate;административно делится на;1;1;to
+Q189352;Nineveh Governorate;географические координаты;1;1;from
+Q189352;Nineveh Governorate;код Freebase;1;1;from
+Q189352;Nineveh Governorate;Who's on First ID;1;1;from
+Q189541;Dohuk Governorate;код BabelNet;1;1;from
+Q189541;Dohuk Governorate;имеет границы с;1;1;to
+Q189541;Dohuk Governorate;численность населения;1;3;from
+Q189541;Dohuk Governorate;код US National Archives;1;1;from
+Q189541;Dohuk Governorate;категория для людей, родившихся здесь;1;1;from
+Q189541;Dohuk Governorate;код GeoNames;1;1;from
+Q189541;Dohuk Governorate;площадь;1;1;from
+Q189541;Dohuk Governorate;коллаж;1;1;from
+Q189352;Nineveh Governorate;официальный сайт;1;1;from
+Q189541;Dohuk Governorate;используемый язык;1;2;from
+Q189541;Dohuk Governorate;ISO 3166-2;1;1;from
+Q189541;Dohuk Governorate;категория на Викискладе;1;1;from
+Q189541;Dohuk Governorate;ID отношения в OpenStreetMap;1;1;from
+Q189541;Dohuk Governorate;часовой пояс;1;1;from
+Q189541;Dohuk Governorate;географические координаты;1;1;from
+Q189541;Dohuk Governorate;столица;1;1;from
+Q189541;Dohuk Governorate;это частный случай понятия;1;1;from
+Q189541;Dohuk Governorate;карта местонахождения;1;1;from
+Q189541;Dohuk Governorate;изображение;1;1;from
+Q189541;Dohuk Governorate;государство;1;1;from
+Q189541;Dohuk Governorate;административно-территориальная единица;1;354;to
+Q189352;Nineveh Governorate;общая тема категории;1;1;to
+Q189352;Nineveh Governorate;категория объединяет темы;1;1;to
+Q189352;Nineveh Governorate;является столицей;1;1;to
+Q189352;Nineveh Governorate;история происходит в месте;1;1;to
+Q189352;Nineveh Governorate;место рождения;1;3;to
+Q189352;Nineveh Governorate;происходит из;1;5;to
+Q189352;Nineveh Governorate;названо в честь;1;1;to
+Q189352;Nineveh Governorate;местонахождение;1;8;to
+Q189352;Nineveh Governorate;место в MusicBrainz;1;1;from
+Q189352;Nineveh Governorate;основная категория по теме;1;1;from
+Q189352;Nineveh Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q187334;Al Anbar Governorate;часовой пояс;1;1;from
+Q187334;Al Anbar Governorate;ISO 3166-2;1;1;from
+Q193268;Kirkuk Governorate;площадь;1;1;from
+Q59202;Babylon Governorate;место смерти;1;1;to
+Q59202;Babylon Governorate;основная категория по теме;1;1;from
+Q59202;Babylon Governorate;место в MusicBrainz;1;1;from
+Q59202;Babylon Governorate;находится в границах современной административной единицы;1;1;to
+Q59202;Babylon Governorate;местонахождение;1;2;to
+Q59202;Babylon Governorate;является столицей;1;1;to
+Q59202;Babylon Governorate;место обнаружения;1;1;to
+Q59202;Babylon Governorate;место рождения;1;2;to
+Q59202;Babylon Governorate;Who's on First ID;1;1;from
+Q59202;Babylon Governorate;общая тема категории;1;1;to
+Q59202;Babylon Governorate;категория объединяет темы;1;1;to
+Q59202;Babylon Governorate;административно делится на;1;1;to
+Q62987;Al-Qādisiyyah Governorate;административно-территориальная единица;1;317;to
+Q62987;Al-Qādisiyyah Governorate;государство;1;1;from
+Q62987;Al-Qādisiyyah Governorate;карта местонахождения;1;1;from
+Q59202;Babylon Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q59202;Babylon Governorate;код Freebase;1;1;from
+Q187334;Al Anbar Governorate;площадь;1;1;from
+Q59202;Babylon Governorate;код GeoNames;1;1;from
+Q59202;Babylon Governorate;изображение;1;1;from
+Q59202;Babylon Governorate;карта местонахождения;1;1;from
+Q59202;Babylon Governorate;это частный случай понятия;1;1;from
+Q59202;Babylon Governorate;столица;1;1;from
+Q59202;Babylon Governorate;имеет границы с;1;1;to
+Q59202;Babylon Governorate;численность населения;1;1;from
+Q59202;Babylon Governorate;код TGN;1;1;from
+Q59202;Babylon Governorate;географические координаты;1;1;from
+Q59202;Babylon Governorate;категория для людей, связанных с местностью;1;1;from
+Q59202;Babylon Governorate;площадь;1;1;from
+Q59202;Babylon Governorate;ISO 3166-2;1;1;from
+Q59202;Babylon Governorate;категория на Викискладе;1;1;from
+Q59202;Babylon Governorate;часовой пояс;1;1;from
+Q59202;Babylon Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q62987;Al-Qādisiyyah Governorate;это частный случай понятия;1;1;from
+Q62987;Al-Qādisiyyah Governorate;столица;1;1;from
+Q62987;Al-Qādisiyyah Governorate;имеет границы с;1;2;to
+Q187334;Al Anbar Governorate;это частный случай понятия;1;1;from
+Q187334;Al Anbar Governorate;административно-территориальная единица;1;1264;to
+Q187334;Al Anbar Governorate;государство;1;1;from
+Q187334;Al Anbar Governorate;изображение;1;1;from
+Q187334;Al Anbar Governorate;код VIAF;1;1;from
+Q187334;Al Anbar Governorate;код GND;1;1;from
+Q187334;Al Anbar Governorate;карта местонахождения;1;1;from
+Q187334;Al Anbar Governorate;столица;1;1;from
+Q62987;Al-Qādisiyyah Governorate;численность населения;1;1;from
+Q187334;Al Anbar Governorate;имеет границы с;1;6;to
+Q187334;Al Anbar Governorate;численность населения;1;1;from
+Q187334;Al Anbar Governorate;категория для людей, умерших здесь;1;1;from
+Q187334;Al Anbar Governorate;код GeoNames;1;1;from
+Q187334;Al Anbar Governorate;код TGN;1;1;from
+Q187334;Al Anbar Governorate;категория для людей, связанных с местностью;1;1;from
+Q62987;Al-Qādisiyyah Governorate;административно делится на;1;1;to
+Q62987;Al-Qādisiyyah Governorate;общая тема категории;1;1;to
+Q62987;Al-Qādisiyyah Governorate;является столицей;1;1;to
+Q62987;Al-Qādisiyyah Governorate;категория объединяет темы;1;1;to
+Q62987;Al-Qādisiyyah Governorate;место рождения;1;1;to
+Q62987;Al-Qādisiyyah Governorate;основная категория по теме;1;1;from
+Q62987;Al-Qādisiyyah Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q62987;Al-Qādisiyyah Governorate;Who's on First ID;1;1;from
+Q62987;Al-Qādisiyyah Governorate;код Freebase;1;1;from
+Q62987;Al-Qādisiyyah Governorate;географические координаты;1;1;from
+Q62987;Al-Qādisiyyah Governorate;часовой пояс;1;1;from
+Q62987;Al-Qādisiyyah Governorate;категория на Викискладе;1;1;from
+Q62987;Al-Qādisiyyah Governorate;ISO 3166-2;1;1;from
+Q62987;Al-Qādisiyyah Governorate;площадь;1;1;from
+Q62987;Al-Qādisiyyah Governorate;категория для людей, связанных с местностью;1;1;from
+Q62987;Al-Qādisiyyah Governorate;код TGN;1;1;from
+Q62987;Al-Qādisiyyah Governorate;код GeoNames;1;1;from
+Q189541;Dohuk Governorate;код Freebase;1;1;from
+Q189541;Dohuk Governorate;Who's on First ID;1;1;from
+Q189541;Dohuk Governorate;официальный сайт;1;1;from
+Q191075;Baghdad Governorate;находится в границах современной административной единицы;1;1;to
+Q191075;Baghdad Governorate;официальный сайт;1;1;from
+Q191075;Baghdad Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q191075;Baghdad Governorate;основная категория по теме;1;1;from
+Q191075;Baghdad Governorate;место в MusicBrainz;1;1;from
+Q191075;Baghdad Governorate;общая тема категории;1;1;to
+Q191075;Baghdad Governorate;происходит из;1;4;to
+Q191075;Baghdad Governorate;материнская компания (организация, учреждение);1;1;to
+Q191075;Baghdad Governorate;географические координаты;1;1;from
+Q191075;Baghdad Governorate;категория объединяет темы;1;1;to
+Q191075;Baghdad Governorate;административно делится на;1;1;to
+Q192882;Najaf Governorate;административно-территориальная единица;1;297;to
+Q192882;Najaf Governorate;государство;1;1;from
+Q192882;Najaf Governorate;карта местонахождения;1;1;from
+Q192882;Najaf Governorate;это частный случай понятия;1;1;from
+Q191075;Baghdad Governorate;код Freebase;1;1;from
+Q191075;Baghdad Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q189541;Dohuk Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q191075;Baghdad Governorate;код GeoNames;1;1;from
+Q191075;Baghdad Governorate;это частный случай понятия;1;1;from
+Q191075;Baghdad Governorate;столица;1;1;from
+Q191075;Baghdad Governorate;имеет границы с;1;3;to
+Q191075;Baghdad Governorate;десятичная классификация Дьюи;1;1;from
+Q191075;Baghdad Governorate;численность населения;1;2;from
+Q191075;Baghdad Governorate;код US National Archives;1;1;from
+Q191075;Baghdad Governorate;код TGN;1;1;from
+Q191075;Baghdad Governorate;часовой пояс;1;1;from
+Q191075;Baghdad Governorate;категория для людей, связанных с местностью;1;1;from
+Q191075;Baghdad Governorate;высота над уровнем моря;1;1;from
+Q191075;Baghdad Governorate;площадь;1;2;from
+Q191075;Baghdad Governorate;используемый язык;1;4;from
+Q191075;Baghdad Governorate;ISO 3166-2;1;1;from
+Q191075;Baghdad Governorate;категория на Викискладе;1;1;from
+Q192882;Najaf Governorate;столица;1;1;from
+Q192882;Najaf Governorate;имеет границы с;1;3;to
+Q192882;Najaf Governorate;численность населения;1;1;from
+Q193268;Kirkuk Governorate;карта местонахождения;1;1;from
+Q192882;Najaf Governorate;место рождения;1;2;to
+Q192882;Najaf Governorate;местонахождение;1;1;to
+Q192882;Najaf Governorate;общая тема категории;1;1;to
+Q192882;Najaf Governorate;административно делится на;1;1;to
+Q193268;Kirkuk Governorate;административно-территориальная единица;1;243;to
+Q193268;Kirkuk Governorate;государство;1;1;from
+Q193268;Kirkuk Governorate;это частный случай понятия;1;1;from
+Q192882;Najaf Governorate;код GeoNames;1;1;from
+Q193268;Kirkuk Governorate;столица;1;1;from
+Q193268;Kirkuk Governorate;имеет границы с;1;1;to
+Q193268;Kirkuk Governorate;численность населения;1;1;from
+Q193268;Kirkuk Governorate;значение в OmegaWiki;1;1;from
+Q193268;Kirkuk Governorate;код GeoNames;1;1;from
+Q193268;Kirkuk Governorate;категория для людей, связанных с местностью;1;1;from
+Q192882;Najaf Governorate;место смерти;1;2;to
+Q192882;Najaf Governorate;является столицей;1;1;to
+Q192882;Najaf Governorate;расположение штаб-квартиры;1;2;to
+Q192882;Najaf Governorate;категория объединяет темы;1;1;to
+Q192882;Najaf Governorate;место в MusicBrainz;1;1;from
+Q192882;Najaf Governorate;основная категория по теме;1;1;from
+Q192882;Najaf Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q192882;Najaf Governorate;Who's on First ID;1;1;from
+Q192882;Najaf Governorate;географические координаты;1;1;from
+Q192882;Najaf Governorate;дата основания/создания/возникновения;1;1;from
+Q192882;Najaf Governorate;часовой пояс;1;1;from
+Q192882;Najaf Governorate;категория на Викискладе;1;1;from
+Q192882;Najaf Governorate;ISO 3166-2;1;1;from
+Q192882;Najaf Governorate;код BabelNet;1;1;from
+Q192882;Najaf Governorate;площадь;1;1;from
+Q192882;Najaf Governorate;категория для людей, связанных с местностью;1;1;from
+Q192882;Najaf Governorate;код TGN;1;1;from
+Q191075;Baghdad Governorate;карта местонахождения;1;1;from
+Q191075;Baghdad Governorate;изображение;1;1;from
+Q191075;Baghdad Governorate;государство;1;1;from
+Q189747;Wasit Governorate;часовой пояс;1;1;from
+Q189747;Wasit Governorate;код TGN;1;1;from
+Q189747;Wasit Governorate;категория для людей, связанных с местностью;1;1;from
+Q189747;Wasit Governorate;площадь;1;1;from
+Q189747;Wasit Governorate;используемый язык;1;1;from
+Q189747;Wasit Governorate;ISO 3166-2;1;1;from
+Q189747;Wasit Governorate;категория на Викискладе;1;1;from
+Q189747;Wasit Governorate;географические координаты;1;1;from
+Q189747;Wasit Governorate;происходит из;1;1;to
+Q189747;Wasit Governorate;код Freebase;1;1;from
+Q189747;Wasit Governorate;Who's on First ID;1;1;from
+Q189747;Wasit Governorate;код NKC;1;1;from
+Q189747;Wasit Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q189747;Wasit Governorate;основная категория по теме;1;1;from
+Q189747;Wasit Governorate;место в MusicBrainz;1;1;from
+Q189747;Wasit Governorate;код GeoNames;1;1;from
+Q189747;Wasit Governorate;категория для людей, умерших здесь;1;1;from
+Q189747;Wasit Governorate;численность населения;1;1;from
+Q189747;Wasit Governorate;имеет границы с;1;2;to
+Q189747;Wasit Governorate;столица;1;1;from
+Q189747;Wasit Governorate;это частный случай понятия;1;1;from
+Q189747;Wasit Governorate;карта местонахождения;1;1;from
+Q189747;Wasit Governorate;государство;1;1;from
+Q189747;Wasit Governorate;административно-территориальная единица;1;289;to
+Q189541;Dohuk Governorate;административно делится на;1;1;to
+Q189541;Dohuk Governorate;происходит из;1;2;to
+Q189541;Dohuk Governorate;общая тема категории;1;1;to
+Q189541;Dohuk Governorate;категория объединяет темы;1;1;to
+Q189541;Dohuk Governorate;является столицей;1;1;to
+Q189541;Dohuk Governorate;местонахождение;1;1;to
+Q189541;Dohuk Governorate;место рождения;1;2;to
+Q189541;Dohuk Governorate;основная категория по теме;1;1;from
+Q189747;Wasit Governorate;место рождения;1;6;to
+Q189747;Wasit Governorate;место смерти;1;3;to
+Q191075;Baghdad Governorate;административно-территориальная единица;1;175;to
+Q190131;Saladin Governorate;место в MusicBrainz;1;1;from
+Q190131;Saladin Governorate;идентификатор местоположения ArchINFORM;1;1;from
+Q190131;Saladin Governorate;географические координаты;1;1;from
+Q190131;Saladin Governorate;код Freebase;1;1;from
+Q190131;Saladin Governorate;Who's on First ID;1;1;from
+Q190131;Saladin Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q190131;Saladin Governorate;основная категория по теме;1;1;from
+Q190131;Saladin Governorate;является столицей;1;1;to
+Q189747;Wasit Governorate;категория объединяет темы;1;2;to
+Q190131;Saladin Governorate;местонахождение;1;3;to
+Q190131;Saladin Governorate;место рождения;1;2;to
+Q190131;Saladin Governorate;общая тема категории;1;1;to
+Q190131;Saladin Governorate;категория объединяет темы;1;1;to
+Q190131;Saladin Governorate;происходит из;1;1;to
+Q190131;Saladin Governorate;административно делится на;1;1;to
+Q190131;Saladin Governorate;категория на Викискладе;1;1;from
+Q190131;Saladin Governorate;ISO 3166-2;1;1;from
+Q190131;Saladin Governorate;используемый язык;1;1;from
+Q190131;Saladin Governorate;площадь;1;1;from
+Q190131;Saladin Governorate;категория для людей, связанных с местностью;1;1;from
+Q190131;Saladin Governorate;код TGN;1;1;from
+Q190131;Saladin Governorate;код GeoNames;1;1;from
+Q190131;Saladin Governorate;численность населения;1;1;from
+Q190131;Saladin Governorate;имеет границы с;1;1;to
+Q190131;Saladin Governorate;столица;1;1;from
+Q190131;Saladin Governorate;это частный случай понятия;1;1;from
+Q190131;Saladin Governorate;карта местонахождения;1;2;from
+Q190131;Saladin Governorate;государство;1;1;from
+Q190131;Saladin Governorate;административно-территориальная единица;1;363;to
+Q189747;Wasit Governorate;административно делится на;1;1;to
+Q189747;Wasit Governorate;общая тема категории;1;1;to
+Q189747;Wasit Governorate;является столицей;1;1;to
+Q15631321;Halabja Governorate;является столицей;1;1;to

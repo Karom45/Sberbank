@@ -1,0 +1,371 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q233169;Beni Department;основатель;1;1;from
+Q238079;Potosí Department;государство;1;1;from
+Q238079;Potosí Department;код в Большой каталанской энциклопедии;1;1;from
+Q238079;Potosí Department;численность населения;1;1;from
+Q238079;Potosí Department;изображение герба;1;1;from
+Q238079;Potosí Department;имеет границы с;1;7;to
+Q238079;Potosí Department;изображение флага;1;1;from
+Q238079;Potosí Department;столица;1;1;from
+Q238079;Potosí Department;это частный случай понятия;1;1;from
+Q238079;Potosí Department;код LCNAF;1;1;from
+Q238079;Potosí Department;карта местонахождения;1;1;from
+Q238079;Potosí Department;административно делится на;1;1;to
+Q238079;Potosí Department;является столицей;1;1;to
+Q238079;Potosí Department;административно-территориальная единица;1;2459;to
+Q235362;Pando Department;является столицей;1;1;to
+Q235362;Pando Department;общая тема категории;1;1;to
+Q235362;Pando Department;место рождения;1;2;to
+Q235362;Pando Department;категория объединяет темы;1;2;to
+Q235362;Pando Department;происходит из;1;5;to
+Q235362;Pando Department;баннер Викигида;1;1;from
+Q235362;Pando Department;галерея на Викискладе;1;1;from
+Q235362;Pando Department;основная категория по теме;1;1;from
+Q238079;Potosí Department;категория для людей, родившихся здесь;1;1;from
+Q238079;Potosí Department;код GeoNames;1;1;from
+Q238079;Potosí Department;код TGN;1;1;from
+Q238079;Potosí Department;категория для людей, связанных с местностью;1;1;from
+Q238079;Potosí Department;часть от;1;2;to
+Q238079;Potosí Department;находится в пределах природно-географического объекта;1;1;to
+Q238079;Potosí Department;местонахождение;1;1;to
+Q238079;Potosí Department;место рождения;1;6;to
+Q238079;Potosí Department;категория объединяет темы;1;5;to
+Q238079;Potosí Department;происходит из;1;2;to
+Q238079;Potosí Department;место в MusicBrainz;1;1;from
+Q238079;Potosí Department;баннер Викигида;1;1;from
+Q238079;Potosí Department;основная категория по теме;1;1;from
+Q238079;Potosí Department;FIPS 10-4 (страны и регионы);1;1;from
+Q238079;Potosí Department;категория карт на Викискладе;1;1;from
+Q238079;Potosí Department;Who's on First ID;1;1;from
+Q238079;Potosí Department;код Freebase;1;1;from
+Q238079;Potosí Department;географические координаты;1;1;from
+Q238079;Potosí Department;ID отношения в OpenStreetMap;1;1;from
+Q238079;Potosí Department;категория на Викискладе;1;1;from
+Q238079;Potosí Department;ISO 3166-2;1;1;from
+Q238079;Potosí Department;используемый язык;1;2;from
+Q238079;Potosí Department;площадь;1;1;from
+Q235362;Pando Department;FIPS 10-4 (страны и регионы);1;1;from
+Q235362;Pando Department;официальный сайт;1;1;from
+Q235362;Pando Department;категория карт на Викискладе;1;1;from
+Q235362;Pando Department;государство;1;1;from
+Q235362;Pando Department;административно-территориальная единица;1;191;to
+Q235110;Chuquisaca Department;часть от;1;1;to
+Q235110;Chuquisaca Department;общая тема категории;1;1;to
+Q235110;Chuquisaca Department;место смерти;1;4;to
+Q235110;Chuquisaca Department;категория объединяет темы;1;3;to
+Q235110;Chuquisaca Department;место рождения;1;17;to
+Q235110;Chuquisaca Department;местонахождение;1;2;to
+Q235110;Chuquisaca Department;происходит из;1;2;to
+Q235110;Chuquisaca Department;место в MusicBrainz;1;1;from
+Q235110;Chuquisaca Department;баннер Викигида;1;1;from
+Q235110;Chuquisaca Department;основная категория по теме;1;1;from
+Q235110;Chuquisaca Department;FIPS 10-4 (страны и регионы);1;1;from
+Q235110;Chuquisaca Department;официальный сайт;1;1;from
+Q235110;Chuquisaca Department;категория карт на Викискладе;1;1;from
+Q235110;Chuquisaca Department;Who's on First ID;1;1;from
+Q235110;Chuquisaca Department;код Freebase;1;1;from
+Q235110;Chuquisaca Department;географические координаты;1;1;from
+Q235110;Chuquisaca Department;ID отношения в OpenStreetMap;1;1;from
+Q235110;Chuquisaca Department;категория на Викискладе;1;1;from
+Q235362;Pando Department;административно делится на;1;2;to
+Q235362;Pando Department;изображение;1;1;from
+Q235362;Pando Department;Who's on First ID;1;1;from
+Q235362;Pando Department;карта местонахождения;1;1;from
+Q235362;Pando Department;код Freebase;1;1;from
+Q235362;Pando Department;географические координаты;1;1;from
+Q235362;Pando Department;дата основания/создания/возникновения;1;1;from
+Q235362;Pando Department;ID отношения в OpenStreetMap;1;1;from
+Q235362;Pando Department;категория на Викискладе;1;1;from
+Q235362;Pando Department;ISO 3166-2;1;1;from
+Q235362;Pando Department;используемый язык;1;5;from
+Q235362;Pando Department;площадь;1;1;from
+Q235362;Pando Department;высота над уровнем моря;1;1;from
+Q235362;Pando Department;код TGN;1;1;from
+Q235362;Pando Department;код GeoNames;1;1;from
+Q235362;Pando Department;код в Большой каталанской энциклопедии;1;1;from
+Q235362;Pando Department;численность населения;1;1;from
+Q235362;Pando Department;изображение герба;1;1;from
+Q235362;Pando Department;имеет границы с;1;5;to
+Q235362;Pando Department;изображение флага;1;1;from
+Q235362;Pando Department;столица;1;1;from
+Q235362;Pando Department;это частный случай понятия;1;1;from
+Q235362;Pando Department;код LCNAF;1;1;from
+Q238079;Potosí Department;общая тема категории;1;1;to
+Q272784;La Paz Department;административно-территориальная единица;1;2682;to
+Q233169;Beni Department;административно-территориальная единица;1;386;to
+Q1061368;Oruro Department;это частный случай понятия;1;1;from
+Q1061368;Oruro Department;код TGN;1;1;from
+Q1061368;Oruro Department;код GeoNames;1;1;from
+Q1061368;Oruro Department;категория для людей, родившихся здесь;1;1;from
+Q1061368;Oruro Department;код в Большой каталанской энциклопедии;1;1;from
+Q1061368;Oruro Department;численность населения;1;1;from
+Q1061368;Oruro Department;изображение герба;1;1;from
+Q1061368;Oruro Department;имеет границы с;1;5;to
+Q1061368;Oruro Department;изображение флага;1;1;from
+Q1061368;Oruro Department;столица;1;1;from
+Q1061368;Oruro Department;код LCNAF;1;1;from
+Q272784;La Paz Department;административно делится на;1;1;to
+Q1061368;Oruro Department;карта местонахождения;1;1;from
+Q1061368;Oruro Department;изображение;1;1;from
+Q1061368;Oruro Department;государство;1;1;from
+Q1061368;Oruro Department;административно делится на;1;1;to
+Q1061368;Oruro Department;административно-территориальная единица;1;1574;to
+Q272784;La Paz Department;энтохороним от;1;1;to
+Q272784;La Paz Department;является столицей;1;1;to
+Q272784;La Paz Department;общая тема категории;1;1;to
+Q272784;La Paz Department;место смерти;1;2;to
+Q1061368;Oruro Department;категория для людей, связанных с местностью;1;1;from
+Q1061368;Oruro Department;высота над уровнем моря;1;1;from
+Q1061368;Oruro Department;площадь;1;1;from
+Q1061368;Oruro Department;код BNF;1;1;from
+Q1061368;Oruro Department;общая тема категории;1;1;to
+Q1061368;Oruro Department;место рождения;1;2;to
+Q1061368;Oruro Department;типовая местность (геология);1;1;to
+Q1061368;Oruro Department;юрисдикция распространяется на;1;1;to
+Q1061368;Oruro Department;происходит из;1;2;to
+Q1061368;Oruro Department;категория объединяет темы;1;4;to
+Q1061368;Oruro Department;местонахождение;1;2;to
+Q1061368;Oruro Department;баннер Викигида;1;1;from
+Q1061368;Oruro Department;основная категория по теме;1;1;from
+Q1061368;Oruro Department;FIPS 10-4 (страны и регионы);1;1;from
+Q1061368;Oruro Department;официальный сайт;1;1;from
+Q1061368;Oruro Department;категория карт на Викискладе;1;1;from
+Q1061368;Oruro Department;Who's on First ID;1;1;from
+Q1061368;Oruro Department;код Freebase;1;1;from
+Q1061368;Oruro Department;географические координаты;1;1;from
+Q1061368;Oruro Department;ID отношения в OpenStreetMap;1;1;from
+Q1061368;Oruro Department;категория на Викискладе;1;1;from
+Q1061368;Oruro Department;ISO 3166-2;1;1;from
+Q1061368;Oruro Department;используемый язык;1;4;from
+Q272784;La Paz Department;расположение штаб-квартиры;1;1;to
+Q272784;La Paz Department;местонахождение;1;2;to
+Q272784;La Paz Department;место рождения;1;6;to
+Q272784;La Paz Department;код BabelNet;1;1;from
+Q272784;La Paz Department;название на языке оригинала;1;1;from
+Q272784;La Paz Department;код TGN;1;1;from
+Q272784;La Paz Department;код GeoNames;1;1;from
+Q272784;La Paz Department;этнохороним;1;1;from
+Q272784;La Paz Department;категория для людей, родившихся здесь;1;1;from
+Q272784;La Paz Department;код в Большой каталанской энциклопедии;1;1;from
+Q272784;La Paz Department;численность населения;1;1;from
+Q272784;La Paz Department;изображение герба;1;1;from
+Q272784;La Paz Department;глава правительства;1;1;from
+Q272784;La Paz Department;имеет границы с;1;8;to
+Q272784;La Paz Department;изображение флага;1;1;from
+Q272784;La Paz Department;официальный язык;1;3;from
+Q272784;La Paz Department;столица;1;1;from
+Q272784;La Paz Department;это частный случай понятия;1;2;from
+Q272784;La Paz Department;код LCNAF;1;1;from
+Q272784;La Paz Department;карта местонахождения;1;1;from
+Q272784;La Paz Department;код VIAF;1;1;from
+Q272784;La Paz Department;изображение;1;1;from
+Q272784;La Paz Department;государство;1;1;from
+Q272784;La Paz Department;площадь;1;1;from
+Q272784;La Paz Department;код BNF;1;1;from
+Q272784;La Paz Department;зона обслуживания;1;1;to
+Q272784;La Paz Department;используемый язык;1;12;from
+Q272784;La Paz Department;является эндемиком в;1;1;to
+Q272784;La Paz Department;происходит из;1;11;to
+Q272784;La Paz Department;категория объединяет темы;1;4;to
+Q272784;La Paz Department;состоит из;1;1;to
+Q272784;La Paz Department;место в MusicBrainz;1;1;from
+Q272784;La Paz Department;баннер Викигида;1;1;from
+Q272784;La Paz Department;основная категория по теме;1;1;from
+Q272784;La Paz Department;FIPS 10-4 (страны и регионы);1;1;from
+Q272784;La Paz Department;официальный сайт;1;1;from
+Q272784;La Paz Department;Who's on First ID;1;1;from
+Q272784;La Paz Department;код Freebase;1;1;from
+Q272784;La Paz Department;географические координаты;1;1;from
+Q272784;La Paz Department;идентификатор местоположения ArchINFORM;1;1;from
+Q272784;La Paz Department;код для сущности Wolfram Language;1;1;from
+Q272784;La Paz Department;местный телефонный код;1;1;from
+Q272784;La Paz Department;ID отношения в OpenStreetMap;1;1;from
+Q272784;La Paz Department;категория на Викискладе;1;1;from
+Q272784;La Paz Department;часть от;1;3;to
+Q272784;La Paz Department;ISO 3166-2;1;1;from
+Q235110;Chuquisaca Department;ISO 3166-2;1;1;from
+Q235110;Chuquisaca Department;используемый язык;1;2;from
+Q235110;Chuquisaca Department;код BabelNet;1;1;from
+Q233917;Cochabamba Department;категория для людей, связанных с местностью;1;1;from
+Q233917;Cochabamba Department;код Freebase;1;1;from
+Q233917;Cochabamba Department;географические координаты;1;1;from
+Q233917;Cochabamba Department;ID отношения в OpenStreetMap;1;1;from
+Q233917;Cochabamba Department;категория на Викискладе;1;1;from
+Q233917;Cochabamba Department;ISO 3166-2;1;1;from
+Q233917;Cochabamba Department;используемый язык;1;4;from
+Q233917;Cochabamba Department;код BNF;1;1;from
+Q233917;Cochabamba Department;площадь;1;1;from
+Q233917;Cochabamba Department;высота над уровнем моря;1;1;from
+Q233917;Cochabamba Department;название на языке оригинала;1;1;from
+Q235110;Chuquisaca Department;площадь;1;1;from
+Q233917;Cochabamba Department;код TGN;1;1;from
+Q233917;Cochabamba Department;код GeoNames;1;1;from
+Q233917;Cochabamba Department;категория для людей, родившихся здесь;1;1;from
+Q233917;Cochabamba Department;официальное название;1;1;from
+Q233917;Cochabamba Department;код в Большой каталанской энциклопедии;1;1;from
+Q233917;Cochabamba Department;численность населения;1;1;from
+Q233917;Cochabamba Department;изображение герба;1;1;from
+Q233917;Cochabamba Department;имеет границы с;1;6;to
+Q233917;Cochabamba Department;изображение флага;1;1;from
+Q233917;Cochabamba Department;Who's on First ID;1;1;from
+Q233917;Cochabamba Department;категория карт на Викискладе;1;1;from
+Q233917;Cochabamba Department;официальный сайт;1;1;from
+Q233917;Cochabamba Department;FIPS 10-4 (страны и регионы);1;1;from
+Q233933;Tarija Department;карта местонахождения;1;1;from
+Q233933;Tarija Department;код VIAF;1;1;from
+Q233933;Tarija Department;государство;1;1;from
+Q233933;Tarija Department;административно делится на;1;1;to
+Q233933;Tarija Department;названо в честь;1;1;to
+Q233933;Tarija Department;административно-территориальная единица;1;206;to
+Q233917;Cochabamba Department;расположение штаб-квартиры;1;1;to
+Q233917;Cochabamba Department;общая тема категории;1;1;to
+Q233917;Cochabamba Department;место создания;1;1;to
+Q233917;Cochabamba Department;место смерти;1;1;to
+Q233917;Cochabamba Department;местонахождение;1;1;to
+Q233917;Cochabamba Department;юрисдикция распространяется на;1;1;to
+Q233917;Cochabamba Department;является столицей;1;1;to
+Q233917;Cochabamba Department;категория объединяет темы;1;6;to
+Q233917;Cochabamba Department;происходит из;1;4;to
+Q233917;Cochabamba Department;место рождения;1;6;to
+Q233917;Cochabamba Department;место в MusicBrainz;1;1;from
+Q233917;Cochabamba Department;баннер Викигида;1;1;from
+Q233917;Cochabamba Department;основная категория по теме;1;1;from
+Q233917;Cochabamba Department;столица;1;1;from
+Q233917;Cochabamba Department;это частный случай понятия;1;1;from
+Q233917;Cochabamba Department;код LCNAF;1;1;from
+Q233169;Beni Department;категория на Викискладе;1;1;from
+Q233169;Beni Department;используемый язык;1;19;from
+Q233169;Beni Department;площадь;1;1;from
+Q233169;Beni Department;высота над уровнем моря;1;1;from
+Q233169;Beni Department;название на языке оригинала;1;1;from
+Q233169;Beni Department;код TGN;1;1;from
+Q233169;Beni Department;код GeoNames;1;1;from
+Q233169;Beni Department;код в энциклопедии «Британника онлайн»;1;1;from
+Q233169;Beni Department;код в Большой каталанской энциклопедии;1;1;from
+Q233169;Beni Department;численность населения;1;1;from
+Q233169;Beni Department;изображение герба;1;1;from
+Q233169;Beni Department;имеет границы с;1;5;to
+Q233169;Beni Department;изображение флага;1;1;from
+Q233169;Beni Department;столица;1;1;from
+Q233169;Beni Department;это частный случай понятия;1;1;from
+Q233169;Beni Department;код LCNAF;1;1;from
+Q233169;Beni Department;карта местонахождения;1;1;from
+Q233169;Beni Department;изображение;1;1;from
+Q233169;Beni Department;государство;1;1;from
+Q233169;Beni Department;административно делится на;1;1;to
+Q233169;Beni Department;ISO 3166-2;1;1;from
+Q233169;Beni Department;ID отношения в OpenStreetMap;1;1;from
+Q233917;Cochabamba Department;карта местонахождения;1;1;from
+Q233169;Beni Department;дата основания/создания/возникновения;1;1;from
+Q233917;Cochabamba Department;государство;1;1;from
+Q233917;Cochabamba Department;административно делится на;1;1;to
+Q233917;Cochabamba Department;административно-территориальная единица;1;750;to
+Q233169;Beni Department;является столицей;1;1;to
+Q233169;Beni Department;общая тема категории;1;1;to
+Q233169;Beni Department;местонахождение;1;1;to
+Q233169;Beni Department;зона обслуживания;1;1;to
+Q233169;Beni Department;юрисдикция распространяется на;1;1;to
+Q233169;Beni Department;категория объединяет темы;1;2;to
+Q233169;Beni Department;происходит из;1;19;to
+Q233169;Beni Department;место рождения;1;12;to
+Q233169;Beni Department;баннер Викигида;1;1;from
+Q233169;Beni Department;основная категория по теме;1;1;from
+Q233169;Beni Department;FIPS 10-4 (страны и регионы);1;1;from
+Q233169;Beni Department;официальный сайт;1;1;from
+Q233169;Beni Department;категория карт на Викискладе;1;1;from
+Q233169;Beni Department;Who's on First ID;1;1;from
+Q233169;Beni Department;код Freebase;1;1;from
+Q233169;Beni Department;географические координаты;1;1;from
+Q233933;Tarija Department;код LCNAF;1;1;from
+Q233933;Tarija Department;это частный случай понятия;1;1;from
+Q233933;Tarija Department;столица;1;1;from
+Q235106;Santa Cruz Department;расположение штаб-квартиры;1;2;to
+Q235106;Santa Cruz Department;является столицей;1;1;to
+Q235106;Santa Cruz Department;категория объединяет темы;1;3;to
+Q235106;Santa Cruz Department;место в MusicBrainz;1;1;from
+Q235106;Santa Cruz Department;баннер Викигида;1;1;from
+Q235106;Santa Cruz Department;основная категория по теме;1;1;from
+Q235106;Santa Cruz Department;FIPS 10-4 (страны и регионы);1;1;from
+Q235106;Santa Cruz Department;официальный сайт;1;1;from
+Q235106;Santa Cruz Department;Who's on First ID;1;1;from
+Q235106;Santa Cruz Department;код Freebase;1;1;from
+Q235106;Santa Cruz Department;географические координаты;1;1;from
+Q235106;Santa Cruz Department;дата основания/создания/возникновения;1;1;from
+Q235106;Santa Cruz Department;ID отношения в OpenStreetMap;1;1;from
+Q235106;Santa Cruz Department;категория на Викискладе;1;1;from
+Q235106;Santa Cruz Department;ISO 3166-2;1;1;from
+Q235106;Santa Cruz Department;используемый язык;1;9;from
+Q235106;Santa Cruz Department;площадь;1;1;from
+Q235106;Santa Cruz Department;высота над уровнем моря;1;1;from
+Q235106;Santa Cruz Department;категория для людей, связанных с местностью;1;1;from
+Q235106;Santa Cruz Department;название на языке оригинала;1;1;from
+Q235106;Santa Cruz Department;происходит из;1;9;to
+Q235106;Santa Cruz Department;место рождения;1;4;to
+Q235106;Santa Cruz Department;код GeoNames;1;1;from
+Q235106;Santa Cruz Department;место смерти;1;2;to
+Q235110;Chuquisaca Department;высота над уровнем моря;1;1;from
+Q235110;Chuquisaca Department;код TGN;1;1;from
+Q235110;Chuquisaca Department;код GeoNames;1;1;from
+Q235110;Chuquisaca Department;категория для людей, родившихся здесь;1;1;from
+Q235110;Chuquisaca Department;код в Большой каталанской энциклопедии;1;1;from
+Q235110;Chuquisaca Department;численность населения;1;1;from
+Q235110;Chuquisaca Department;изображение герба;1;1;from
+Q235110;Chuquisaca Department;имеет границы с;1;5;to
+Q235110;Chuquisaca Department;изображение флага;1;1;from
+Q235110;Chuquisaca Department;столица;1;1;from
+Q235110;Chuquisaca Department;это частный случай понятия;1;1;from
+Q235110;Chuquisaca Department;код LCNAF;1;1;from
+Q235110;Chuquisaca Department;карта местонахождения;1;1;from
+Q235110;Chuquisaca Department;изображение;1;1;from
+Q235110;Chuquisaca Department;государство;1;1;from
+Q235110;Chuquisaca Department;административно делится на;1;1;to
+Q235110;Chuquisaca Department;административно-территориальная единица;1;1119;to
+Q235106;Santa Cruz Department;общая тема категории;1;1;to
+Q235106;Santa Cruz Department;местонахождение;1;1;to
+Q235106;Santa Cruz Department;код TGN;1;1;from
+Q235106;Santa Cruz Department;категория для людей, родившихся здесь;1;1;from
+Q233933;Tarija Department;изображение флага;1;1;from
+Q233933;Tarija Department;официальный сайт;1;1;from
+Q233933;Tarija Department;Who's on First ID;1;1;from
+Q233933;Tarija Department;код Freebase;1;1;from
+Q233933;Tarija Department;географические координаты;1;1;from
+Q233933;Tarija Department;дата основания/создания/возникновения;1;1;from
+Q233933;Tarija Department;ID отношения в OpenStreetMap;1;1;from
+Q233933;Tarija Department;категория на Викискладе;1;1;from
+Q233933;Tarija Department;ISO 3166-2;1;1;from
+Q233933;Tarija Department;используемый язык;1;4;from
+Q233933;Tarija Department;код BNF;1;1;from
+Q233933;Tarija Department;площадь;1;1;from
+Q233933;Tarija Department;высота над уровнем моря;1;1;from
+Q233933;Tarija Department;код TGN;1;1;from
+Q233933;Tarija Department;код GeoNames;1;1;from
+Q233933;Tarija Department;категория для людей, родившихся здесь;1;1;from
+Q233933;Tarija Department;текст девиза;1;1;from
+Q233933;Tarija Department;код в Большой каталанской энциклопедии;1;1;from
+Q233933;Tarija Department;численность населения;1;1;from
+Q233933;Tarija Department;изображение герба;1;1;from
+Q233933;Tarija Department;имеет границы с;1;5;to
+Q233933;Tarija Department;категория карт на Викискладе;1;1;from
+Q233933;Tarija Department;FIPS 10-4 (страны и регионы);1;1;from
+Q235106;Santa Cruz Department;код в Большой каталанской энциклопедии;1;1;from
+Q233933;Tarija Department;основная категория по теме;1;1;from
+Q235106;Santa Cruz Department;численность населения;1;1;from
+Q235106;Santa Cruz Department;изображение герба;1;1;from
+Q235106;Santa Cruz Department;имеет границы с;1;8;to
+Q235106;Santa Cruz Department;изображение флага;1;1;from
+Q235106;Santa Cruz Department;столица;1;1;from
+Q235106;Santa Cruz Department;это частный случай понятия;1;1;from
+Q235106;Santa Cruz Department;карта местонахождения;1;1;from
+Q235106;Santa Cruz Department;город-побратим;1;1;to
+Q235106;Santa Cruz Department;государство;1;1;from
+Q235106;Santa Cruz Department;административно делится на;1;1;to
+Q235106;Santa Cruz Department;административно-территориальная единица;1;1160;to
+Q233933;Tarija Department;является столицей;1;1;to
+Q233933;Tarija Department;общая тема категории;1;1;to
+Q233933;Tarija Department;заменён на;1;1;to
+Q233933;Tarija Department;категория объединяет темы;1;3;to
+Q233933;Tarija Department;место рождения;1;2;to
+Q233933;Tarija Department;происходит из;1;4;to
+Q233933;Tarija Department;место в MusicBrainz;1;1;from
+Q233933;Tarija Department;баннер Викигида;1;1;from
+Q1061368;Oruro Department;является столицей;1;1;to

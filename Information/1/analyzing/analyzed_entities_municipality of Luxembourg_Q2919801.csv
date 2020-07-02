@@ -1,0 +1,2842 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q1134542;Préizerdaul;административно-территориальная единица;1;4;to
+Q985333;Useldange;код BNF;1;1;from
+Q985382;Leudelange;категория для людей, связанных с местностью;1;1;from
+Q985382;Leudelange;высота над уровнем моря;1;1;from
+Q985382;Leudelange;категория на Викискладе;1;1;from
+Q985382;Leudelange;произношение (звуковой файл);1;1;from
+Q985382;Leudelange;географические координаты;1;1;from
+Q985382;Leudelange;код Freebase;1;1;from
+Q985382;Leudelange;Who's on First ID;1;1;from
+Q985382;Leudelange;LAU;1;1;from
+Q985382;Leudelange;официальный сайт;1;1;from
+Q985382;Leudelange;основная категория по теме;1;1;from
+Q985382;Leudelange;расположение штаб-квартиры;1;3;to
+Q985382;Leudelange;административно-территориальная единица;1;5;to
+Q985382;Leudelange;место рождения;1;2;to
+Q985382;Leudelange;местонахождение;1;1;to
+Q985382;Leudelange;состоит из;1;1;to
+Q985382;Leudelange;категория объединяет темы;1;2;to
+Q985382;Leudelange;пункт назначения;1;3;to
+Q985382;Leudelange;место жительства;1;1;to
+Q985382;Leudelange;общая тема категории;1;1;to
+Q985382;Leudelange;код GeoNames;1;1;from
+Q985382;Leudelange;категория для людей, родившихся здесь;1;1;from
+Q985382;Leudelange;численность населения;1;53;from
+Q985333;Useldange;состоит из;1;1;to
+Q985333;Useldange;произношение (звуковой файл);1;1;from
+Q985333;Useldange;географические координаты;1;1;from
+Q985333;Useldange;код Freebase;1;1;from
+Q985333;Useldange;Who's on First ID;1;1;from
+Q985333;Useldange;LAU;1;1;from
+Q985333;Useldange;официальный сайт;1;1;from
+Q985333;Useldange;основная категория по теме;1;1;from
+Q985333;Useldange;административно-территориальная единица;1;6;to
+Q985333;Useldange;место рождения;1;2;to
+Q985382;Leudelange;изображение герба;1;1;from
+Q985333;Useldange;общая тема категории;1;1;to
+Q985382;Leudelange;государство;1;1;from
+Q985382;Leudelange;изображение;1;1;from
+Q985382;Leudelange;код VIAF;1;1;from
+Q985382;Leudelange;код GND;1;1;from
+Q985382;Leudelange;это частный случай понятия;1;1;from
+Q985382;Leudelange;имеет границы с;1;1;to
+Q985382;Leudelange;глава правительства;1;57;from
+Q985383;Mompach;административно-территориальная единица;1;7;to
+Q985383;Mompach;государство;1;1;from
+Q985383;Mompach;изображение;1;1;from
+Q985385;Winseler;высота над уровнем моря;1;1;from
+Q985385;Winseler;код VIAF;1;1;from
+Q985385;Winseler;код GND;1;1;from
+Q985385;Winseler;это частный случай понятия;1;1;from
+Q985385;Winseler;имеет границы с;1;1;to
+Q985385;Winseler;изображение герба;1;1;from
+Q985385;Winseler;численность населения;1;53;from
+Q985385;Winseler;код GeoNames;1;1;from
+Q985385;Winseler;название на языке оригинала;1;1;from
+Q985385;Winseler;площадь;1;1;from
+Q985383;Mompach;общая тема категории;1;1;to
+Q985385;Winseler;код SUDOC;1;1;from
+Q985385;Winseler;категория на Викискладе;1;1;from
+Q985385;Winseler;географические координаты;1;1;from
+Q985385;Winseler;код Freebase;1;1;from
+Q985385;Winseler;Who's on First ID;1;1;from
+Q985385;Winseler;LAU;1;1;from
+Q985385;Winseler;официальный сайт;1;1;from
+Q985385;Winseler;основная категория по теме;1;1;from
+Q985385;Winseler;государство;1;1;from
+Q985383;Mompach;является столицей;1;1;to
+Q985383;Mompach;код VIAF;1;1;from
+Q985383;Mompach;категория на Викискладе;1;1;from
+Q985383;Mompach;это частный случай понятия;1;1;from
+Q985383;Mompach;столица;1;1;from
+Q985383;Mompach;имеет границы с;1;4;to
+Q985383;Mompach;изображение герба;1;1;from
+Q985383;Mompach;численность населения;1;51;from
+Q985383;Mompach;код GeoNames;1;1;from
+Q985383;Mompach;высота над уровнем моря;1;1;from
+Q985383;Mompach;площадь;1;1;from
+Q985383;Mompach;произношение (звуковой файл);1;3;from
+Q985383;Mompach;предыдущее по порядку;1;1;to
+Q985383;Mompach;дата прекращения существования;1;1;from
+Q985383;Mompach;географические координаты;1;1;from
+Q985383;Mompach;код Freebase;1;1;from
+Q985383;Mompach;Who's on First ID;1;1;from
+Q985383;Mompach;LAU;1;1;from
+Q985383;Mompach;официальный сайт;1;1;from
+Q985383;Mompach;основная категория по теме;1;1;from
+Q985383;Mompach;местонахождение;1;1;to
+Q985333;Useldange;категория на Викискладе;1;1;from
+Q985333;Useldange;площадь;1;1;from
+Q985385;Winseler;административно-территориальная единица;1;8;to
+Q985333;Useldange;высота над уровнем моря;1;1;from
+Q985149;Steinsel;общая тема категории;1;1;to
+Q985149;Steinsel;юрисдикция распространяется на;1;1;to
+Q985153;Rosport;административно-территориальная единица;1;8;to
+Q985153;Rosport;государство;1;1;from
+Q985153;Rosport;изображение;1;1;from
+Q985153;Rosport;код VIAF;1;1;from
+Q985153;Rosport;код GND;1;1;from
+Q985153;Rosport;это частный случай понятия;1;1;from
+Q985153;Rosport;столица;1;1;from
+Q985153;Rosport;имеет границы с;1;3;to
+Q985153;Rosport;изображение герба;1;1;from
+Q985153;Rosport;численность населения;1;51;from
+Q985153;Rosport;код GeoNames;1;1;from
+Q985153;Rosport;высота над уровнем моря;1;1;from
+Q985153;Rosport;площадь;1;1;from
+Q985153;Rosport;категория на Викискладе;1;1;from
+Q985153;Rosport;произношение (звуковой файл);1;1;from
+Q985153;Rosport;идентификатор местоположения ArchINFORM;1;1;from
+Q985153;Rosport;дата прекращения существования;1;1;from
+Q985149;Steinsel;расположение штаб-квартиры;1;1;to
+Q985149;Steinsel;состоит из;1;2;to
+Q985149;Steinsel;место рождения;1;1;to
+Q985149;Steinsel;высота над уровнем моря;1;1;from
+Q985149;Steinsel;изображение;1;1;from
+Q985149;Steinsel;код VIAF;1;1;from
+Q985149;Steinsel;это частный случай понятия;1;1;from
+Q985149;Steinsel;имеет границы с;1;1;to
+Q985149;Steinsel;изображение герба;1;1;from
+Q985149;Steinsel;численность населения;1;53;from
+Q985149;Steinsel;WOEID;1;1;from
+Q985149;Steinsel;код GeoNames;1;1;from
+Q985149;Steinsel;площадь;1;1;from
+Q985149;Steinsel;основная категория по теме;1;1;from
+Q985149;Steinsel;категория на Викискладе;1;1;from
+Q985149;Steinsel;произношение (звуковой файл);1;1;from
+Q985149;Steinsel;участник организации или клуба;1;1;from
+Q985149;Steinsel;географические координаты;1;1;from
+Q985149;Steinsel;код Freebase;1;1;from
+Q985149;Steinsel;Who's on First ID;1;1;from
+Q985149;Steinsel;LAU;1;1;from
+Q985149;Steinsel;официальный сайт;1;1;from
+Q985153;Rosport;географические координаты;1;1;from
+Q985153;Rosport;код Freebase;1;1;from
+Q985153;Rosport;Who's on First ID;1;1;from
+Q985333;Useldange;государство;1;1;from
+Q985196;Reisdorf;произношение (звуковой файл);1;3;from
+Q985196;Reisdorf;географические координаты;1;1;from
+Q985196;Reisdorf;код Freebase;1;1;from
+Q985196;Reisdorf;Who's on First ID;1;1;from
+Q985196;Reisdorf;LAU;1;1;from
+Q985196;Reisdorf;официальный сайт;1;1;from
+Q985196;Reisdorf;основная категория по теме;1;1;from
+Q985196;Reisdorf;общая тема категории;1;1;to
+Q985333;Useldange;изображение;1;1;from
+Q985196;Reisdorf;площадь;1;1;from
+Q985333;Useldange;код VIAF;1;1;from
+Q985333;Useldange;код GND;1;1;from
+Q985333;Useldange;карта местонахождения;1;1;from
+Q985333;Useldange;это частный случай понятия;1;1;from
+Q985333;Useldange;имеет границы с;1;5;to
+Q985333;Useldange;изображение герба;1;1;from
+Q985333;Useldange;численность населения;1;53;from
+Q985333;Useldange;код GeoNames;1;1;from
+Q985196;Reisdorf;категория на Викискладе;1;1;from
+Q985196;Reisdorf;высота над уровнем моря;1;1;from
+Q985153;Rosport;LAU;1;1;from
+Q985196;Reisdorf;административно-территориальная единица;1;6;to
+Q985153;Rosport;официальный сайт;1;1;from
+Q985153;Rosport;основная категория по теме;1;1;from
+Q985153;Rosport;расположение штаб-квартиры;1;2;to
+Q985153;Rosport;место рождения;1;2;to
+Q985153;Rosport;предыдущее по порядку;1;1;to
+Q985153;Rosport;часть от;1;1;to
+Q985153;Rosport;является столицей;1;1;to
+Q985153;Rosport;общая тема категории;1;1;to
+Q985196;Reisdorf;государство;1;1;from
+Q985196;Reisdorf;код GeoNames;1;1;from
+Q985196;Reisdorf;изображение;1;1;from
+Q985196;Reisdorf;код VIAF;1;1;from
+Q985196;Reisdorf;карта местонахождения;1;1;from
+Q985196;Reisdorf;это частный случай понятия;1;1;from
+Q985196;Reisdorf;имеет границы с;1;1;to
+Q985196;Reisdorf;изображение герба;1;1;from
+Q985196;Reisdorf;численность населения;1;53;from
+Q985196;Reisdorf;WOEID;1;1;from
+Q985385;Winseler;состоит из;1;1;to
+Q985385;Winseler;общая тема категории;1;1;to
+Q832382;Bettendorf;это частный случай понятия;1;1;from
+Q985390;Weiler-la-Tour;состоит из;1;1;to
+Q985392;Goesdorf;административно-территориальная единица;1;7;to
+Q985392;Goesdorf;общая тема категории;1;1;to
+Q985393;Nommern;государство;1;1;from
+Q985393;Nommern;код VIAF;1;1;from
+Q985393;Nommern;карта местонахождения;1;1;from
+Q985393;Nommern;это частный случай понятия;1;1;from
+Q985393;Nommern;имеет границы с;1;2;to
+Q985393;Nommern;изображение герба;1;1;from
+Q985393;Nommern;численность населения;1;53;from
+Q985393;Nommern;код GeoNames;1;1;from
+Q985393;Nommern;изображение дорожного знака с названием населённого пункта;1;1;from
+Q985393;Nommern;высота над уровнем моря;1;1;from
+Q985393;Nommern;площадь;1;1;from
+Q985393;Nommern;категория на Викискладе;1;1;from
+Q985393;Nommern;произношение (звуковой файл);1;1;from
+Q985393;Nommern;географические координаты;1;1;from
+Q985393;Nommern;код Freebase;1;1;from
+Q985393;Nommern;Who's on First ID;1;1;from
+Q985393;Nommern;LAU;1;1;from
+Q985392;Goesdorf;состоит из;1;4;to
+Q985392;Goesdorf;основная категория по теме;1;1;from
+Q985392;Goesdorf;официальный сайт;1;1;from
+Q985392;Goesdorf;WOEID;1;1;from
+Q985390;Weiler-la-Tour;общая тема категории;1;1;to
+Q985392;Goesdorf;государство;1;1;from
+Q985392;Goesdorf;код VIAF;1;1;from
+Q985392;Goesdorf;код LCNAF;1;1;from
+Q985392;Goesdorf;это частный случай понятия;1;1;from
+Q985392;Goesdorf;имеет границы с;1;2;to
+Q985392;Goesdorf;изображение герба;1;1;from
+Q985392;Goesdorf;численность населения;1;53;from
+Q985392;Goesdorf;код GeoNames;1;1;from
+Q985392;Goesdorf;WorldCat Identities ID;1;1;from
+Q985392;Goesdorf;высота над уровнем моря;1;1;from
+Q985392;Goesdorf;площадь;1;1;from
+Q985392;Goesdorf;категория на Викискладе;1;1;from
+Q985392;Goesdorf;произношение (звуковой файл);1;1;from
+Q985392;Goesdorf;географические координаты;1;1;from
+Q985392;Goesdorf;код Freebase;1;1;from
+Q985392;Goesdorf;Who's on First ID;1;1;from
+Q985392;Goesdorf;LAU;1;1;from
+Q985393;Nommern;официальный сайт;1;1;from
+Q985393;Nommern;основная категория по теме;1;1;from
+Q985393;Nommern;состоит из;1;2;to
+Q985397;Larochette;код LCNAF;1;1;from
+Q985395;Lintgen;административно-территориальная единица;1;5;to
+Q985395;Lintgen;место рождения;1;3;to
+Q985395;Lintgen;является столицей;1;1;to
+Q985395;Lintgen;общая тема категории;1;1;to
+Q985397;Larochette;государство;1;1;from
+Q985397;Larochette;код VIAF;1;1;from
+Q985397;Larochette;код GND;1;1;from
+Q985397;Larochette;карта местонахождения;1;1;from
+Q985397;Larochette;это частный случай понятия;1;1;from
+Q985395;Lintgen;официальный сайт;1;1;from
+Q985397;Larochette;имеет границы с;1;2;to
+Q985397;Larochette;изображение герба;1;1;from
+Q985397;Larochette;численность населения;1;53;from
+Q985397;Larochette;код GeoNames;1;1;from
+Q985397;Larochette;высота над уровнем моря;1;1;from
+Q985397;Larochette;площадь;1;1;from
+Q985397;Larochette;код FAST;1;1;from
+Q985397;Larochette;код SUDOC;1;1;from
+Q985395;Lintgen;основная категория по теме;1;1;from
+Q985395;Lintgen;LAU;1;1;from
+Q985393;Nommern;административно-территориальная единица;1;6;to
+Q985395;Lintgen;изображение герба;1;1;from
+Q985393;Nommern;место рождения;1;1;to
+Q985393;Nommern;общая тема категории;1;1;to
+Q985395;Lintgen;государство;1;1;from
+Q985395;Lintgen;код VIAF;1;1;from
+Q985395;Lintgen;карта местонахождения;1;1;from
+Q985395;Lintgen;это частный случай понятия;1;1;from
+Q985395;Lintgen;столица;1;1;from
+Q985395;Lintgen;имеет границы с;1;2;to
+Q985395;Lintgen;численность населения;1;53;from
+Q985395;Lintgen;Who's on First ID;1;1;from
+Q985395;Lintgen;код GeoNames;1;1;from
+Q985395;Lintgen;высота над уровнем моря;1;1;from
+Q985395;Lintgen;площадь;1;1;from
+Q985395;Lintgen;категория на Викискладе;1;1;from
+Q985395;Lintgen;произношение (звуковой файл);1;1;from
+Q985395;Lintgen;состоит из;1;4;from
+Q985395;Lintgen;географические координаты;1;1;from
+Q985395;Lintgen;код Freebase;1;1;from
+Q985390;Weiler-la-Tour;административно-территориальная единица;1;2;to
+Q985390;Weiler-la-Tour;место рождения;1;1;to
+Q985387;Mertert;административно-территориальная единица;1;7;to
+Q985390;Weiler-la-Tour;основная категория по теме;1;1;from
+Q985387;Mertert;Who's on First ID;1;1;from
+Q985387;Mertert;LAU;1;1;from
+Q985387;Mertert;официальный сайт;1;1;from
+Q985387;Mertert;основная категория по теме;1;1;from
+Q985387;Mertert;место рождения;1;2;to
+Q985387;Mertert;место смерти;1;1;to
+Q985387;Mertert;местонахождение;1;1;to
+Q985387;Mertert;состоит из;1;2;to
+Q985387;Mertert;является столицей;1;1;to
+Q985387;Mertert;категория объединяет темы;1;2;to
+Q985387;Mertert;общая тема категории;1;1;to
+Q985387;Mertert;расположение штаб-квартиры;1;1;to
+Q985388;Garnich;государство;1;1;from
+Q985388;Garnich;изображение;1;3;from
+Q985388;Garnich;код VIAF;1;1;from
+Q985388;Garnich;код GND;1;1;from
+Q985388;Garnich;карта местонахождения;1;1;from
+Q985388;Garnich;часть света;1;1;from
+Q985388;Garnich;это частный случай понятия;1;1;from
+Q985387;Mertert;код Freebase;1;1;from
+Q985387;Mertert;географические координаты;1;1;from
+Q985387;Mertert;произношение (звуковой файл);1;1;from
+Q985387;Mertert;глава правительства;1;8;from
+Q985387;Mertert;государство;1;1;from
+Q985387;Mertert;изображение;1;1;from
+Q985387;Mertert;находится на берегу водоёма;1;1;from
+Q985387;Mertert;код VIAF;1;1;from
+Q985387;Mertert;код GND;1;1;from
+Q985387;Mertert;это частный случай понятия;1;2;from
+Q985387;Mertert;столица;1;1;from
+Q985387;Mertert;имеет границы с;1;1;to
+Q985387;Mertert;изображение герба;1;1;from
+Q985387;Mertert;категория на Викискладе;1;1;from
+Q985387;Mertert;численность населения;1;53;from
+Q985387;Mertert;официальное название;1;1;from
+Q985387;Mertert;категория для людей, родившихся здесь;1;1;from
+Q985387;Mertert;код GeoNames;1;1;from
+Q985387;Mertert;название на языке оригинала;1;1;from
+Q985387;Mertert;категория для людей, связанных с местностью;1;1;from
+Q985387;Mertert;высота над уровнем моря;1;1;from
+Q985387;Mertert;площадь;1;1;from
+Q985388;Garnich;имеет границы с;1;4;to
+Q985388;Garnich;изображение герба;1;1;from
+Q985388;Garnich;численность населения;1;53;from
+Q985390;Weiler-la-Tour;площадь;1;1;from
+Q985390;Weiler-la-Tour;это частный случай понятия;1;1;from
+Q985390;Weiler-la-Tour;имеет границы с;1;1;to
+Q985390;Weiler-la-Tour;глава правительства;1;17;from
+Q985390;Weiler-la-Tour;изображение герба;1;1;from
+Q985390;Weiler-la-Tour;численность населения;1;53;from
+Q985390;Weiler-la-Tour;код GeoNames;1;1;from
+Q985390;Weiler-la-Tour;название на языке оригинала;1;3;from
+Q985390;Weiler-la-Tour;высота над уровнем моря;1;1;from
+Q985390;Weiler-la-Tour;категория на Викискладе;1;1;from
+Q985390;Weiler-la-Tour;государство;1;1;from
+Q985390;Weiler-la-Tour;ID отношения в OpenStreetMap;1;1;from
+Q985390;Weiler-la-Tour;произношение (звуковой файл);1;1;from
+Q985390;Weiler-la-Tour;участник организации или клуба;1;1;from
+Q985390;Weiler-la-Tour;географические координаты;1;1;from
+Q985390;Weiler-la-Tour;код Freebase;1;1;from
+Q985390;Weiler-la-Tour;Who's on First ID;1;1;from
+Q985390;Weiler-la-Tour;LAU;1;1;from
+Q985390;Weiler-la-Tour;официальный сайт;1;1;from
+Q985390;Weiler-la-Tour;код VIAF;1;1;from
+Q985388;Garnich;место жительства;1;1;to
+Q985388;Garnich;код GeoNames;1;1;from
+Q985388;Garnich;епархия;1;1;from
+Q985388;Garnich;название на языке оригинала;1;1;from
+Q985388;Garnich;высота над уровнем моря;1;1;from
+Q985388;Garnich;площадь;1;1;from
+Q985388;Garnich;категория на Викискладе;1;1;from
+Q985388;Garnich;произношение (звуковой файл);1;1;from
+Q985388;Garnich;географические координаты;1;1;from
+Q985388;Garnich;код Freebase;1;1;from
+Q985388;Garnich;Who's on First ID;1;1;from
+Q985388;Garnich;LAU;1;1;from
+Q985388;Garnich;общая тема категории;1;1;to
+Q985388;Garnich;официальный сайт;1;1;from
+Q985388;Garnich;основная категория по теме;1;1;from
+Q985388;Garnich;административно-территориальная единица;1;7;to
+Q985388;Garnich;место рождения;1;4;to
+Q985388;Garnich;часть от;1;1;to
+Q985388;Garnich;начало пути;1;8;to
+Q985388;Garnich;пункт назначения;1;11;to
+Q985388;Garnich;местонахождение;1;1;to
+Q985149;Steinsel;государство;1;1;from
+Q985149;Steinsel;административно-территориальная единица;1;15;to
+Q958682;Habscht;общая тема категории;1;1;to
+Q866692;Bissen;государство;1;1;from
+Q866692;Bissen;место смерти;1;1;to
+Q866692;Bissen;местонахождение;1;1;to
+Q866692;Bissen;общая тема категории;1;1;to
+Q895269;Bous;административно-территориальная единица;1;5;to
+Q895269;Bous;государство;1;1;from
+Q895269;Bous;код GND;1;1;from
+Q895269;Bous;карта местонахождения;1;1;from
+Q895269;Bous;это частный случай понятия;1;1;from
+Q895269;Bous;имеет границы с;1;2;to
+Q895269;Bous;глава правительства;1;5;from
+Q895269;Bous;изображение герба;1;1;from
+Q895269;Bous;численность населения;1;53;from
+Q895269;Bous;код GeoNames;1;1;from
+Q895269;Bous;высота над уровнем моря;1;1;from
+Q895269;Bous;площадь;1;1;from
+Q895269;Bous;категория на Викискладе;1;1;from
+Q895269;Bous;произношение (звуковой файл);1;1;from
+Q895269;Bous;географические координаты;1;1;from
+Q895269;Bous;код Freebase;1;1;from
+Q866692;Bissen;административно-территориальная единица;1;4;to
+Q866692;Bissen;место рождения;1;5;to
+Q866692;Bissen;основная категория по теме;1;1;from
+Q866692;Bissen;код GeoNames;1;1;from
+Q866692;Bissen;код VIAF;1;1;from
+Q866692;Bissen;код GND;1;1;from
+Q866692;Bissen;карта местонахождения;1;1;from
+Q866692;Bissen;это частный случай понятия;1;1;from
+Q866692;Bissen;имеет границы с;1;4;to
+Q866692;Bissen;глава правительства;1;10;from
+Q866692;Bissen;изображение герба;1;1;from
+Q866692;Bissen;численность населения;1;53;from
+Q866692;Bissen;не путать с;1;1;to
+Q866692;Bissen;официальный сайт;1;1;from
+Q866692;Bissen;высота над уровнем моря;1;1;from
+Q866692;Bissen;площадь;1;1;from
+Q866692;Bissen;категория на Викискладе;1;1;from
+Q866692;Bissen;произношение (звуковой файл);1;1;from
+Q866692;Bissen;географические координаты;1;1;from
+Q866692;Bissen;код Freebase;1;1;from
+Q866692;Bissen;Who's on First ID;1;1;from
+Q866692;Bissen;LAU;1;1;from
+Q895269;Bous;Who's on First ID;1;1;from
+Q895269;Bous;LAU;1;1;from
+Q895269;Bous;официальный сайт;1;1;from
+Q917508;Walferdange;местонахождение;1;2;to
+Q917508;Walferdange;географические координаты;1;1;from
+Q917508;Walferdange;код Freebase;1;1;from
+Q917508;Walferdange;Who's on First ID;1;1;from
+Q917508;Walferdange;код NKC;1;1;from
+Q917508;Walferdange;LAU;1;1;from
+Q917508;Walferdange;официальный сайт;1;1;from
+Q917508;Walferdange;основная категория по теме;1;1;from
+Q917508;Walferdange;место рождения;1;2;to
+Q917508;Walferdange;состоит из;1;1;to
+Q917508;Walferdange;произношение (звуковой файл);1;1;from
+Q917508;Walferdange;пункт назначения;1;2;to
+Q917508;Walferdange;часть от;1;1;to
+Q917508;Walferdange;является столицей;1;1;to
+Q917508;Walferdange;расположение штаб-квартиры;1;1;to
+Q917508;Walferdange;место смерти;1;1;to
+Q917508;Walferdange;общая тема категории;1;1;to
+Q917508;Walferdange;юрисдикция распространяется на;1;1;to
+Q921291;Mamer;административно-территориальная единица;1;12;to
+Q917508;Walferdange;участник организации или клуба;1;1;from
+Q917508;Walferdange;категория на Викискладе;1;1;from
+Q895269;Bous;основная категория по теме;1;1;from
+Q917508;Walferdange;код LCNAF;1;1;from
+Q895269;Bous;местонахождение;1;1;to
+Q895269;Bous;наивысшая точка;1;1;to
+Q895269;Bous;общая тема категории;1;1;to
+Q917508;Walferdange;административно-территориальная единица;1;17;to
+Q917508;Walferdange;государство;1;1;from
+Q917508;Walferdange;город-побратим;1;3;to
+Q917508;Walferdange;код VIAF;1;1;from
+Q917508;Walferdange;код GND;1;1;from
+Q917508;Walferdange;это частный случай понятия;1;1;from
+Q917508;Walferdange;площадь;1;1;from
+Q917508;Walferdange;столица;1;1;from
+Q917508;Walferdange;имеет границы с;1;1;to
+Q917508;Walferdange;глава правительства;1;21;from
+Q917508;Walferdange;изображение герба;1;1;from
+Q917508;Walferdange;численность населения;1;53;from
+Q917508;Walferdange;код GeoNames;1;1;from
+Q917508;Walferdange;название на языке оригинала;1;1;from
+Q917508;Walferdange;высота над уровнем моря;1;1;from
+Q866692;Bissen;изображение;1;1;from
+Q850734;Betzdorf;расположение штаб-квартиры;1;1;to
+Q958682;Habscht;местонахождение;1;1;to
+Q850734;Betzdorf;общая тема категории;1;1;to
+Q836075;Clervaux;государство;1;1;from
+Q836075;Clervaux;изображение;1;1;from
+Q836075;Clervaux;код VIAF;1;2;from
+Q836075;Clervaux;код GND;1;1;from
+Q836075;Clervaux;карта местонахождения;1;1;from
+Q836075;Clervaux;код LCNAF;1;1;from
+Q836075;Clervaux;это частный случай понятия;1;1;from
+Q836075;Clervaux;имеет границы с;1;2;to
+Q836075;Clervaux;глава правительства;1;34;from
+Q836075;Clervaux;изображение герба;1;1;from
+Q836075;Clervaux;численность населения;1;53;from
+Q836075;Clervaux;WOEID;1;1;from
+Q836075;Clervaux;является столицей;1;1;from
+Q836075;Clervaux;категория для людей, родившихся здесь;1;1;from
+Q836075;Clervaux;категория для людей, умерших здесь;1;1;from
+Q836075;Clervaux;код GeoNames;1;1;from
+Q836075;Clervaux;категория для людей, связанных с местностью;1;1;from
+Q836075;Clervaux;площадь;1;1;from
+Q836075;Clervaux;категория на Викискладе;1;1;from
+Q836075;Clervaux;административно-территориальная единица;1;25;to
+Q832382;Bettendorf;общая тема категории;1;1;to
+Q832382;Bettendorf;категория объединяет темы;1;1;to
+Q832382;Bettendorf;произношение (звуковой файл);1;1;from
+Q832382;Bettendorf;изображение герба;1;1;from
+Q832382;Bettendorf;численность населения;1;54;from
+Q832382;Bettendorf;категория для людей, родившихся здесь;1;1;from
+Q832382;Bettendorf;код GeoNames;1;1;from
+Q832382;Bettendorf;не путать с;1;5;to
+Q832382;Bettendorf;высота над уровнем моря;1;1;from
+Q832382;Bettendorf;площадь;1;1;from
+Q832382;Bettendorf;категория на Викискладе;1;1;from
+Q832382;Bettendorf;географические координаты;1;1;from
+Q832382;Bettendorf;местонахождение;1;1;to
+Q832382;Bettendorf;код Freebase;1;1;from
+Q832382;Bettendorf;Who's on First ID;1;1;from
+Q832382;Bettendorf;LAU;1;1;from
+Q832382;Bettendorf;официальный сайт;1;1;from
+Q832382;Bettendorf;основная категория по теме;1;1;from
+Q832382;Bettendorf;административно-территориальная единица;1;7;to
+Q832382;Bettendorf;часть от;1;1;to
+Q832382;Bettendorf;состоит из;1;4;to
+Q836075;Clervaux;код тезауруса PACTOLS;1;1;from
+Q836075;Clervaux;произношение (звуковой файл);1;3;from
+Q836075;Clervaux;идентификатор местоположения ArchINFORM;1;1;from
+Q850734;Betzdorf;участник организации или клуба;1;1;from
+Q850734;Betzdorf;изображение герба;1;1;from
+Q850734;Betzdorf;численность населения;1;53;from
+Q850734;Betzdorf;WOEID;1;1;from
+Q850734;Betzdorf;код GeoNames;1;1;from
+Q850734;Betzdorf;высота над уровнем моря;1;1;from
+Q850734;Betzdorf;площадь;1;1;from
+Q850734;Betzdorf;категория на Викискладе;1;1;from
+Q850734;Betzdorf;произношение (звуковой файл);1;1;from
+Q850734;Betzdorf;географические координаты;1;1;from
+Q850734;Betzdorf;это частный случай понятия;1;1;from
+Q850734;Betzdorf;код Freebase;1;1;from
+Q850734;Betzdorf;Who's on First ID;1;1;from
+Q850734;Betzdorf;LAU;1;1;from
+Q850734;Betzdorf;официальный сайт;1;1;from
+Q850734;Betzdorf;основная категория по теме;1;1;from
+Q850734;Betzdorf;административно-территориальная единица;1;10;to
+Q850734;Betzdorf;местонахождение;1;1;to
+Q850734;Betzdorf;место рождения;1;1;to
+Q850734;Betzdorf;имеет границы с;1;1;from
+Q850734;Betzdorf;код GND;1;1;from
+Q836075;Clervaux;географические координаты;1;1;from
+Q836075;Clervaux;состоит из;1;4;to
+Q836075;Clervaux;код Freebase;1;1;from
+Q836075;Clervaux;Who's on First ID;1;1;from
+Q836075;Clervaux;LAU;1;1;from
+Q836075;Clervaux;официальный сайт;1;1;from
+Q836075;Clervaux;основная категория по теме;1;1;from
+Q836075;Clervaux;баннер Викигида;1;1;from
+Q836075;Clervaux;место в MusicBrainz;1;1;from
+Q836075;Clervaux;место смерти;1;6;to
+Q836075;Clervaux;место рождения;1;7;to
+Q850734;Betzdorf;код VIAF;1;1;from
+Q836075;Clervaux;часть от;1;1;to
+Q836075;Clervaux;местонахождение;1;2;to
+Q836075;Clervaux;категория объединяет темы;1;3;to
+Q836075;Clervaux;расположение штаб-квартиры;1;1;to
+Q836075;Clervaux;общая тема категории;1;1;to
+Q836075;Clervaux;столица;1;1;to
+Q850734;Betzdorf;государство;1;1;from
+Q850734;Betzdorf;изображение;1;1;from
+Q921291;Mamer;государство;1;1;from
+Q921291;Mamer;изображение;1;1;from
+Q921291;Mamer;код VIAF;1;1;from
+Q921291;Mamer;код GND;1;1;from
+Q939625;Kayl;основная категория по теме;1;1;from
+Q939625;Kayl;место жительства;1;1;to
+Q939625;Kayl;административно-территориальная единица;1;5;to
+Q939625;Kayl;местонахождение;1;2;to
+Q939625;Kayl;место рождения;1;4;to
+Q939625;Kayl;состоит из;1;2;to
+Q939625;Kayl;юрисдикция распространяется на;1;2;to
+Q939625;Kayl;наивысшая точка;1;1;to
+Q939625;Kayl;глубочайшая точка;1;1;to
+Q939625;Kayl;общая тема категории;1;1;to
+Q939625;Kayl;расположение штаб-квартиры;1;1;to
+Q956489;Schuttrange;государство;1;1;from
+Q956489;Schuttrange;код VIAF;1;1;from
+Q956489;Schuttrange;код GND;1;1;from
+Q956489;Schuttrange;это частный случай понятия;1;1;from
+Q956489;Schuttrange;имеет границы с;1;2;to
+Q956489;Schuttrange;изображение герба;1;1;from
+Q956489;Schuttrange;численность населения;1;53;from
+Q956489;Schuttrange;код GeoNames;1;1;from
+Q939625;Kayl;официальный сайт;1;1;from
+Q939625;Kayl;LAU;1;1;from
+Q939625;Kayl;Who's on First ID;1;1;from
+Q939625;Kayl;WOEID;1;1;from
+Q939598;Mondercange;общая тема категории;1;1;to
+Q939625;Kayl;государство;1;1;from
+Q939625;Kayl;изображение;1;1;from
+Q939625;Kayl;код VIAF;1;1;from
+Q939625;Kayl;это частный случай понятия;1;1;from
+Q939625;Kayl;имеет границы с;1;1;to
+Q939625;Kayl;изображение герба;1;1;from
+Q939625;Kayl;численность населения;1;53;from
+Q939625;Kayl;должность главы правительства;1;1;from
+Q939625;Kayl;код Freebase;1;1;from
+Q939625;Kayl;код GeoNames;1;1;from
+Q939625;Kayl;высота над уровнем моря;1;1;from
+Q939625;Kayl;площадь;1;1;from
+Q939625;Kayl;категория на Викискладе;1;1;from
+Q939625;Kayl;ID отношения в OpenStreetMap;1;1;from
+Q939625;Kayl;произношение (звуковой файл);1;3;from
+Q939625;Kayl;участник организации или клуба;1;1;from
+Q939625;Kayl;географические координаты;1;1;from
+Q956489;Schuttrange;высота над уровнем моря;1;1;from
+Q956489;Schuttrange;площадь;1;1;from
+Q956489;Schuttrange;категория на Викискладе;1;1;from
+Q958682;Habscht;географические координаты;1;1;from
+Q958682;Habscht;заменил;1;2;from
+Q958682;Habscht;код GeoNames;1;1;from
+Q958682;Habscht;название на языке оригинала;1;1;from
+Q958682;Habscht;высота над уровнем моря;1;1;from
+Q958682;Habscht;площадь;1;1;from
+Q958682;Habscht;категория на Викискладе;1;1;from
+Q958682;Habscht;произношение (звуковой файл);1;1;from
+Q958682;Habscht;дата основания/создания/возникновения;1;1;from
+Q958682;Habscht;код Freebase;1;1;from
+Q958682;Habscht;изображение герба;1;1;from
+Q958682;Habscht;Who's on First ID;1;1;from
+Q958682;Habscht;LAU;1;1;from
+Q958682;Habscht;официальный сайт;1;1;from
+Q958682;Habscht;основная категория по теме;1;1;from
+Q958682;Habscht;следующее по порядку;1;1;to
+Q958682;Habscht;заменён на;1;2;to
+Q958682;Habscht;является столицей;1;1;to
+Q958682;Habscht;расположение штаб-квартиры;1;1;to
+Q958682;Habscht;численность населения;1;53;from
+Q958682;Habscht;глава правительства;1;2;from
+Q956489;Schuttrange;произношение (звуковой файл);1;1;from
+Q956489;Schuttrange;место рождения;1;1;to
+Q956489;Schuttrange;участник организации или клуба;1;1;from
+Q956489;Schuttrange;географические координаты;1;1;from
+Q956489;Schuttrange;код Freebase;1;1;from
+Q956489;Schuttrange;Who's on First ID;1;1;from
+Q956489;Schuttrange;LAU;1;1;from
+Q956489;Schuttrange;официальный сайт;1;1;from
+Q956489;Schuttrange;основная категория по теме;1;1;from
+Q956489;Schuttrange;административно-территориальная единица;1;6;to
+Q956489;Schuttrange;общая тема категории;1;1;to
+Q958682;Habscht;имеет границы с;1;8;to
+Q956489;Schuttrange;местонахождение;1;1;to
+Q958682;Habscht;административно-территориальная единица;1;13;to
+Q958682;Habscht;государство;1;1;from
+Q958682;Habscht;код VIAF;1;1;from
+Q958682;Habscht;код GND;1;1;from
+Q958682;Habscht;карта местонахождения;1;1;from
+Q958682;Habscht;это частный случай понятия;1;3;from
+Q958682;Habscht;столица;1;1;from
+Q939598;Mondercange;место рождения;1;1;to
+Q939598;Mondercange;юрисдикция распространяется на;1;1;to
+Q939598;Mondercange;расположение штаб-квартиры;1;3;to
+Q921291;Mamer;глубочайшая точка;1;1;to
+Q921291;Mamer;место рождения;1;12;to
+Q921291;Mamer;наивысшая точка;1;1;to
+Q921291;Mamer;пункт назначения;1;6;to
+Q921291;Mamer;часть от;1;1;to
+Q921291;Mamer;является столицей;1;1;to
+Q921291;Mamer;место смерти;1;2;to
+Q921291;Mamer;начало пути;1;3;to
+Q921291;Mamer;категория объединяет темы;1;2;to
+Q921291;Mamer;юрисдикция распространяется на;1;1;to
+Q921291;Mamer;основная категория по теме;1;1;from
+Q921291;Mamer;общая тема категории;1;1;to
+Q921321;Hesperange;административно-территориальная единица;1;18;to
+Q921321;Hesperange;государство;1;1;from
+Q921321;Hesperange;изображение;1;1;from
+Q921321;Hesperange;город-побратим;1;1;to
+Q921321;Hesperange;код VIAF;1;1;from
+Q921321;Hesperange;код GND;1;1;from
+Q921321;Hesperange;это частный случай понятия;1;1;from
+Q921291;Mamer;расположение штаб-квартиры;1;2;to
+Q921291;Mamer;официальный сайт;1;1;from
+Q921321;Hesperange;глава правительства;1;9;from
+Q921291;Mamer;код GeoNames;1;1;from
+Q921291;Mamer;карта местонахождения;1;1;from
+Q921291;Mamer;это частный случай понятия;1;1;from
+Q921291;Mamer;столица;1;1;from
+Q921291;Mamer;имеет границы с;1;7;to
+Q921291;Mamer;глава правительства;1;1;from
+Q921291;Mamer;изображение герба;1;1;from
+Q921291;Mamer;численность населения;1;53;from
+Q921291;Mamer;категория для людей, родившихся здесь;1;1;from
+Q921291;Mamer;категория для людей, связанных с местностью;1;1;from
+Q921291;Mamer;LAU;1;1;from
+Q921291;Mamer;высота над уровнем моря;1;1;from
+Q921291;Mamer;площадь;1;1;from
+Q921291;Mamer;категория на Викискладе;1;1;from
+Q921291;Mamer;произношение (звуковой файл);1;1;from
+Q921291;Mamer;участник организации или клуба;1;1;from
+Q921291;Mamer;географические координаты;1;1;from
+Q921291;Mamer;код Freebase;1;1;from
+Q921291;Mamer;Who's on First ID;1;1;from
+Q921321;Hesperange;имеет границы с;1;1;to
+Q921321;Hesperange;изображение герба;1;1;from
+Q939598;Mondercange;состоит из;1;1;to
+Q939598;Mondercange;произношение (звуковой файл);1;1;from
+Q939598;Mondercange;это частный случай понятия;1;1;from
+Q939598;Mondercange;имеет границы с;1;1;to
+Q939598;Mondercange;изображение герба;1;1;from
+Q939598;Mondercange;численность населения;1;53;from
+Q939598;Mondercange;код GeoNames;1;1;from
+Q939598;Mondercange;высота над уровнем моря;1;1;from
+Q939598;Mondercange;площадь;1;1;from
+Q939598;Mondercange;категория на Викискладе;1;1;from
+Q939598;Mondercange;участник организации или клуба;1;1;from
+Q939598;Mondercange;государство;1;1;from
+Q939598;Mondercange;географические координаты;1;1;from
+Q939598;Mondercange;код Freebase;1;1;from
+Q939598;Mondercange;Who's on First ID;1;1;from
+Q939598;Mondercange;LAU;1;1;from
+Q939598;Mondercange;официальный сайт;1;1;from
+Q939598;Mondercange;основная категория по теме;1;1;from
+Q939598;Mondercange;административно-территориальная единица;1;6;to
+Q939598;Mondercange;местонахождение;1;1;to
+Q939598;Mondercange;код VIAF;1;1;from
+Q921321;Hesperange;общая тема категории;1;1;to
+Q921321;Hesperange;численность населения;1;53;from
+Q921321;Hesperange;Who's on First ID;1;1;from
+Q921321;Hesperange;код GeoNames;1;1;from
+Q921321;Hesperange;высота над уровнем моря;1;1;from
+Q921321;Hesperange;площадь;1;1;from
+Q921321;Hesperange;код SUDOC;1;1;from
+Q921321;Hesperange;категория на Викискладе;1;1;from
+Q921321;Hesperange;произношение (звуковой файл);1;1;from
+Q921321;Hesperange;географические координаты;1;1;from
+Q921321;Hesperange;код Freebase;1;1;from
+Q921321;Hesperange;LAU;1;1;from
+Q921321;Hesperange;пункт назначения;1;1;to
+Q921321;Hesperange;официальный сайт;1;1;from
+Q921321;Hesperange;основная категория по теме;1;1;from
+Q921321;Hesperange;место рождения;1;4;to
+Q921321;Hesperange;расположение штаб-квартиры;1;3;to
+Q921321;Hesperange;местонахождение;1;1;to
+Q921321;Hesperange;состоит из;1;1;to
+Q921321;Hesperange;юрисдикция распространяется на;1;1;to
+Q921321;Hesperange;место жительства;1;1;to
+Q985397;Larochette;категория на Викискладе;1;1;from
+Q985397;Larochette;произношение (звуковой файл);1;3;from
+Q985397;Larochette;географические координаты;1;1;from
+Q986417;Grosbous;основная категория по теме;1;1;from
+Q986590;Boevange-sur-Attert;основная категория по теме;1;1;from
+Q986590;Boevange-sur-Attert;является столицей;1;1;to
+Q986590;Boevange-sur-Attert;место рождения;1;2;to
+Q986590;Boevange-sur-Attert;заменил;1;1;to
+Q986590;Boevange-sur-Attert;общая тема категории;1;1;to
+Q1016233;Fischbach;государство;1;1;from
+Q1016233;Fischbach;изображение;1;1;from
+Q1016233;Fischbach;код GND;1;1;from
+Q1016233;Fischbach;карта местонахождения;1;1;from
+Q1016233;Fischbach;это частный случай понятия;1;1;from
+Q1016233;Fischbach;имеет границы с;1;1;from
+Q1016233;Fischbach;глава правительства;1;5;from
+Q1016233;Fischbach;изображение герба;1;1;from
+Q1016233;Fischbach;численность населения;1;53;from
+Q1016233;Fischbach;категория для людей, умерших здесь;1;1;from
+Q1016233;Fischbach;код GeoNames;1;1;from
+Q1016233;Fischbach;высота над уровнем моря;1;1;from
+Q1016233;Fischbach;площадь;1;1;from
+Q1016233;Fischbach;категория на Викискладе;1;1;from
+Q986590;Boevange-sur-Attert;официальный сайт;1;1;from
+Q986590;Boevange-sur-Attert;LAU;1;1;from
+Q986590;Boevange-sur-Attert;Who's on First ID;1;1;from
+Q986590;Boevange-sur-Attert;изображение герба;1;1;from
+Q986417;Grosbous;общая тема категории;1;1;to
+Q986590;Boevange-sur-Attert;административно-территориальная единица;1;5;to
+Q986590;Boevange-sur-Attert;государство;1;1;from
+Q986590;Boevange-sur-Attert;код VIAF;1;1;from
+Q986590;Boevange-sur-Attert;карта местонахождения;1;1;from
+Q986590;Boevange-sur-Attert;это частный случай понятия;1;1;from
+Q986590;Boevange-sur-Attert;столица;1;1;from
+Q986590;Boevange-sur-Attert;имеет границы с;1;5;to
+Q986590;Boevange-sur-Attert;численность населения;1;51;from
+Q986590;Boevange-sur-Attert;код Freebase;1;1;from
+Q986590;Boevange-sur-Attert;заменён на;1;1;from
+Q986590;Boevange-sur-Attert;код GeoNames;1;1;from
+Q986590;Boevange-sur-Attert;высота над уровнем моря;1;1;from
+Q986590;Boevange-sur-Attert;площадь;1;1;from
+Q986590;Boevange-sur-Attert;категория на Викискладе;1;1;from
+Q986590;Boevange-sur-Attert;произношение (звуковой файл);1;1;from
+Q986590;Boevange-sur-Attert;дата прекращения существования;1;1;from
+Q986590;Boevange-sur-Attert;географические координаты;1;1;from
+Q1016233;Fischbach;произношение (звуковой файл);1;1;from
+Q1016233;Fischbach;географические координаты;1;1;from
+Q1016233;Fischbach;код Freebase;1;1;from
+Q1017400;Stadtbredimus;административно-территориальная единица;1;4;to
+Q1017400;Stadtbredimus;произношение (звуковой файл);1;1;from
+Q1017400;Stadtbredimus;географические координаты;1;1;from
+Q1017400;Stadtbredimus;код Freebase;1;1;from
+Q1017400;Stadtbredimus;Who's on First ID;1;1;from
+Q1017400;Stadtbredimus;LAU;1;1;from
+Q1017400;Stadtbredimus;официальный сайт;1;1;from
+Q1017400;Stadtbredimus;основная категория по теме;1;1;from
+Q1017400;Stadtbredimus;место рождения;1;2;to
+Q1017400;Stadtbredimus;состоит из;1;1;to
+Q1017400;Stadtbredimus;площадь;1;1;from
+Q1017400;Stadtbredimus;изображённый объект;1;1;to
+Q1017400;Stadtbredimus;общая тема категории;1;1;to
+Q1017402;Frisange;административно-территориальная единица;1;2;to
+Q1017402;Frisange;государство;1;1;from
+Q1017402;Frisange;изображение;1;1;from
+Q1017402;Frisange;код VIAF;1;1;from
+Q1017402;Frisange;это частный случай понятия;1;2;from
+Q1017402;Frisange;имеет границы с;1;1;to
+Q1017400;Stadtbredimus;категория на Викискладе;1;1;from
+Q1017400;Stadtbredimus;высота над уровнем моря;1;1;from
+Q1016233;Fischbach;Who's on First ID;1;1;from
+Q1017400;Stadtbredimus;государство;1;1;from
+Q1016233;Fischbach;LAU;1;1;from
+Q1016233;Fischbach;официальный сайт;1;1;from
+Q1016233;Fischbach;основная категория по теме;1;1;from
+Q1016233;Fischbach;место смерти;1;2;to
+Q1016233;Fischbach;местонахождение;1;1;to
+Q1016233;Fischbach;административно-территориальная единица;1;6;to
+Q1016233;Fischbach;общая тема категории;1;1;to
+Q1016233;Fischbach;категория объединяет темы;1;1;to
+Q1017400;Stadtbredimus;находится на берегу водоёма;1;1;from
+Q1017400;Stadtbredimus;код GeoNames;1;1;from
+Q1017400;Stadtbredimus;код VIAF;1;1;from
+Q1017400;Stadtbredimus;код GND;1;1;from
+Q1017400;Stadtbredimus;карта местонахождения;1;1;from
+Q1017400;Stadtbredimus;это частный случай понятия;1;1;from
+Q1017400;Stadtbredimus;имеет границы с;1;2;to
+Q1017400;Stadtbredimus;изображение герба;1;1;from
+Q1017400;Stadtbredimus;численность населения;1;53;from
+Q1017400;Stadtbredimus;WOEID;1;1;from
+Q986417;Grosbous;состоит из;1;1;to
+Q986417;Grosbous;официальный сайт;1;1;from
+Q986400;Strassen;категория на Викискладе;1;1;from
+Q986417;Grosbous;LAU;1;1;from
+Q986403;Erpeldange;численность населения;1;53;from
+Q986403;Erpeldange;код GeoNames;1;1;from
+Q986403;Erpeldange;высота над уровнем моря;1;1;from
+Q986403;Erpeldange;площадь;1;1;from
+Q986403;Erpeldange;категория на Викискладе;1;1;from
+Q986403;Erpeldange;географические координаты;1;1;from
+Q986403;Erpeldange;код Freebase;1;1;from
+Q986403;Erpeldange;Who's on First ID;1;1;from
+Q986403;Erpeldange;LAU;1;1;from
+Q986403;Erpeldange;официальный сайт;1;1;from
+Q986403;Erpeldange;основная категория по теме;1;1;from
+Q986403;Erpeldange;состоит из;1;4;to
+Q986403;Erpeldange;административно-территориальная единица;1;4;to
+Q986403;Erpeldange;место рождения;1;1;to
+Q986403;Erpeldange;место жительства;1;1;to
+Q986403;Erpeldange;общая тема категории;1;1;to
+Q986412;Dalheim;государство;1;1;from
+Q986412;Dalheim;код VIAF;1;1;from
+Q986412;Dalheim;код GND;1;1;from
+Q986403;Erpeldange;изображение герба;1;1;from
+Q986403;Erpeldange;имеет границы с;1;3;to
+Q986403;Erpeldange;это частный случай понятия;1;1;from
+Q986400;Strassen;административно-территориальная единица;1;5;to
+Q986400;Strassen;участник организации или клуба;1;1;from
+Q986400;Strassen;географические координаты;1;1;from
+Q986400;Strassen;код Freebase;1;1;from
+Q986400;Strassen;Who's on First ID;1;1;from
+Q986400;Strassen;LAU;1;1;from
+Q986400;Strassen;официальный сайт;1;1;from
+Q986400;Strassen;основная категория по теме;1;1;from
+Q986400;Strassen;расположение штаб-квартиры;1;7;to
+Q986400;Strassen;место смерти;1;4;to
+Q986403;Erpeldange;карта местонахождения;1;1;from
+Q986400;Strassen;место рождения;1;1;to
+Q986400;Strassen;состоит из;1;6;to
+Q986400;Strassen;местонахождение;1;1;to
+Q986400;Strassen;расположение конечной точки;1;1;to
+Q986400;Strassen;общая тема категории;1;1;to
+Q986400;Strassen;юрисдикция распространяется на;1;1;to
+Q986403;Erpeldange;государство;1;1;from
+Q986403;Erpeldange;изображение;1;1;from
+Q986412;Dalheim;карта местонахождения;1;1;from
+Q986412;Dalheim;код LCNAF;1;1;from
+Q986412;Dalheim;это частный случай понятия;1;1;from
+Q986417;Grosbous;изображение герба;1;1;from
+Q986412;Dalheim;наивысшая точка;1;1;to
+Q986412;Dalheim;общая тема категории;1;1;to
+Q986417;Grosbous;государство;1;1;from
+Q986417;Grosbous;изображение;1;1;from
+Q986417;Grosbous;код VIAF;1;1;from
+Q986417;Grosbous;карта местонахождения;1;1;from
+Q986417;Grosbous;это частный случай понятия;1;1;from
+Q986417;Grosbous;имеет границы с;1;2;to
+Q986417;Grosbous;численность населения;1;53;from
+Q986412;Dalheim;категория объединяет темы;1;1;to
+Q986417;Grosbous;код GeoNames;1;1;from
+Q986417;Grosbous;высота над уровнем моря;1;1;from
+Q986417;Grosbous;площадь;1;1;from
+Q986417;Grosbous;категория на Викискладе;1;1;from
+Q986417;Grosbous;произношение (звуковой файл);1;1;from
+Q986417;Grosbous;географические координаты;1;1;from
+Q986417;Grosbous;код Freebase;1;1;from
+Q986417;Grosbous;Who's on First ID;1;1;from
+Q986412;Dalheim;расположение штаб-квартиры;1;1;to
+Q986412;Dalheim;место рождения;1;2;to
+Q986412;Dalheim;имеет границы с;1;3;to
+Q986412;Dalheim;код SUDOC;1;1;from
+Q986412;Dalheim;изображение герба;1;1;from
+Q986412;Dalheim;численность населения;1;53;from
+Q986412;Dalheim;категория для людей, родившихся здесь;1;1;from
+Q986412;Dalheim;код GeoNames;1;1;from
+Q986412;Dalheim;код Цифрового атласа Римской империи;1;1;from
+Q986412;Dalheim;высота над уровнем моря;1;1;from
+Q986412;Dalheim;площадь;1;1;from
+Q986412;Dalheim;код FAST;1;1;from
+Q986412;Dalheim;категория на Викискладе;1;1;from
+Q986412;Dalheim;местонахождение;1;3;to
+Q986412;Dalheim;произношение (звуковой файл);1;1;from
+Q986412;Dalheim;географические координаты;1;1;from
+Q986412;Dalheim;код Freebase;1;1;from
+Q986412;Dalheim;Who's on First ID;1;1;from
+Q986412;Dalheim;LAU;1;1;from
+Q986412;Dalheim;официальный сайт;1;1;from
+Q986412;Dalheim;основная категория по теме;1;1;from
+Q986412;Dalheim;административно-территориальная единица;1;6;to
+Q1017402;Frisange;изображение герба;1;1;from
+Q1017402;Frisange;численность населения;1;53;from
+Q1017402;Frisange;код GeoNames;1;1;from
+Q1017402;Frisange;категория для людей, связанных с местностью;1;1;from
+Q1017425;Flaxweiler;WOEID;1;1;from
+Q1017425;Flaxweiler;код GeoNames;1;1;from
+Q1017425;Flaxweiler;название на языке оригинала;1;3;from
+Q1017425;Flaxweiler;высота над уровнем моря;1;1;from
+Q1017425;Flaxweiler;площадь;1;1;from
+Q1017425;Flaxweiler;категория на Викискладе;1;1;from
+Q1017425;Flaxweiler;ID отношения в OpenStreetMap;1;1;from
+Q1017425;Flaxweiler;произношение (звуковой файл);1;1;from
+Q1017425;Flaxweiler;географические координаты;1;1;from
+Q1017425;Flaxweiler;код Freebase;1;1;from
+Q1017425;Flaxweiler;Who's on First ID;1;1;from
+Q1017425;Flaxweiler;LAU;1;1;from
+Q1017425;Flaxweiler;официальный сайт;1;1;from
+Q1017425;Flaxweiler;основная категория по теме;1;1;from
+Q1017425;Flaxweiler;место рождения;1;2;to
+Q1017425;Flaxweiler;административно-территориальная единица;1;10;to
+Q1017425;Flaxweiler;местонахождение;1;4;to
+Q1017425;Flaxweiler;общая тема категории;1;1;to
+Q1017435;Heiderscheid;административно-территориальная единица;1;1;to
+Q1017425;Flaxweiler;численность населения;1;53;from
+Q1017425;Flaxweiler;изображение герба;1;1;from
+Q1017425;Flaxweiler;глава правительства;1;43;from
+Q1017421;Saeul;LAU;1;1;from
+Q1017421;Saeul;код GeoNames;1;1;from
+Q1017421;Saeul;высота над уровнем моря;1;1;from
+Q1017421;Saeul;площадь;1;1;from
+Q1017421;Saeul;категория на Викискладе;1;1;from
+Q1017421;Saeul;произношение (звуковой файл);1;1;from
+Q1017421;Saeul;географические координаты;1;1;from
+Q1017421;Saeul;код Freebase;1;1;from
+Q1017421;Saeul;Who's on First ID;1;1;from
+Q1017421;Saeul;официальный сайт;1;1;from
+Q1017425;Flaxweiler;имеет границы с;1;1;to
+Q1017421;Saeul;основная категория по теме;1;1;from
+Q1017421;Saeul;административно-территориальная единица;1;5;to
+Q1017421;Saeul;общая тема категории;1;1;to
+Q1017425;Flaxweiler;государство;1;1;from
+Q1017425;Flaxweiler;изображение;1;1;from
+Q1017425;Flaxweiler;код VIAF;1;1;from
+Q1017425;Flaxweiler;код LCNAF;1;1;from
+Q1017425;Flaxweiler;это частный случай понятия;1;1;from
+Q1017435;Heiderscheid;государство;1;1;from
+Q1017435;Heiderscheid;код VIAF;1;1;from
+Q1017435;Heiderscheid;код GND;1;1;from
+Q1133688;Lac de la Haute-Sûre;категория на Викискладе;1;1;from
+Q1133688;Lac de la Haute-Sûre;имеет границы с;1;3;to
+Q1133688;Lac de la Haute-Sûre;глава правительства;1;7;from
+Q1133688;Lac de la Haute-Sûre;изображение герба;1;1;from
+Q1133688;Lac de la Haute-Sûre;численность населения;1;53;from
+Q1133688;Lac de la Haute-Sûre;код GeoNames;1;1;from
+Q1133688;Lac de la Haute-Sûre;название на языке оригинала;1;1;from
+Q1133688;Lac de la Haute-Sûre;высота над уровнем моря;1;1;from
+Q1133688;Lac de la Haute-Sûre;площадь;1;1;from
+Q1133688;Lac de la Haute-Sûre;участник организации или клуба;1;1;from
+Q1133688;Lac de la Haute-Sûre;карта местонахождения;1;1;from
+Q1133688;Lac de la Haute-Sûre;географические координаты;1;1;from
+Q1133688;Lac de la Haute-Sûre;код Freebase;1;1;from
+Q1133688;Lac de la Haute-Sûre;Who's on First ID;1;1;from
+Q1133688;Lac de la Haute-Sûre;LAU;1;1;from
+Q1133688;Lac de la Haute-Sûre;официальный сайт;1;1;from
+Q1133688;Lac de la Haute-Sûre;основная категория по теме;1;1;from
+Q1133688;Lac de la Haute-Sûre;состоит из;1;4;to
+Q1133688;Lac de la Haute-Sûre;не путать с;1;1;to
+Q1133688;Lac de la Haute-Sûre;это частный случай понятия;1;1;from
+Q1133688;Lac de la Haute-Sûre;код VIAF;1;1;from
+Q1017435;Heiderscheid;это частный случай понятия;1;3;from
+Q1017435;Heiderscheid;ID отношения в OpenStreetMap;1;1;from
+Q1017435;Heiderscheid;изображение герба;1;1;from
+Q1017435;Heiderscheid;численность населения;1;1;from
+Q1017435;Heiderscheid;официальное название;1;1;from
+Q1017435;Heiderscheid;код GeoNames;1;1;from
+Q1017435;Heiderscheid;название на языке оригинала;1;1;from
+Q1017435;Heiderscheid;высота над уровнем моря;1;1;from
+Q1017435;Heiderscheid;площадь;1;1;from
+Q1017435;Heiderscheid;категория на Викискладе;1;1;from
+Q1017435;Heiderscheid;произношение (звуковой файл);1;1;from
+Q1133688;Lac de la Haute-Sûre;изображение;1;1;from
+Q1017435;Heiderscheid;географические координаты;1;1;from
+Q1017435;Heiderscheid;код Freebase;1;1;from
+Q1017435;Heiderscheid;Who's on First ID;1;1;from
+Q1017435;Heiderscheid;официальный сайт;1;1;from
+Q1017435;Heiderscheid;место рождения;1;1;to
+Q1017435;Heiderscheid;место жительства;1;1;to
+Q1133688;Lac de la Haute-Sûre;административно-территориальная единица;1;9;to
+Q1133688;Lac de la Haute-Sûre;государство;1;1;from
+Q1017421;Saeul;численность населения;1;53;from
+Q1017421;Saeul;изображение герба;1;1;from
+Q1017421;Saeul;имеет границы с;1;6;to
+Q1017407;Waldbredimus;код Freebase;1;1;from
+Q1017407;Waldbredimus;численность населения;1;53;from
+Q1017407;Waldbredimus;код GeoNames;1;1;from
+Q1017407;Waldbredimus;название на языке оригинала;1;1;from
+Q1017407;Waldbredimus;высота над уровнем моря;1;1;from
+Q1017407;Waldbredimus;площадь;1;1;from
+Q1017407;Waldbredimus;категория на Викискладе;1;1;from
+Q1017407;Waldbredimus;произношение (звуковой файл);1;1;from
+Q1017407;Waldbredimus;географические координаты;1;1;from
+Q1017407;Waldbredimus;Who's on First ID;1;1;from
+Q1017407;Waldbredimus;имеет границы с;1;1;to
+Q1017407;Waldbredimus;LAU;1;1;from
+Q1017407;Waldbredimus;официальный сайт;1;1;from
+Q1017407;Waldbredimus;основная категория по теме;1;1;from
+Q1017407;Waldbredimus;административно-территориальная единица;1;3;to
+Q1017407;Waldbredimus;общая тема категории;1;1;to
+Q1017410;Lenningen;административно-территориальная единица;1;2;to
+Q1017410;Lenningen;государство;1;1;from
+Q1017410;Lenningen;код VIAF;1;1;from
+Q1017407;Waldbredimus;изображение герба;1;1;from
+Q1017407;Waldbredimus;это частный случай понятия;1;1;from
+Q1017410;Lenningen;это частный случай понятия;1;1;from
+Q1017402;Frisange;официальный сайт;1;1;from
+Q1017402;Frisange;высота над уровнем моря;1;1;from
+Q1017402;Frisange;категория на Викискладе;1;1;from
+Q1017402;Frisange;произношение (звуковой файл);1;1;from
+Q1017402;Frisange;участник организации или клуба;1;1;from
+Q1017402;Frisange;географические координаты;1;2;from
+Q1017402;Frisange;код Freebase;1;1;from
+Q1017402;Frisange;Who's on First ID;1;1;from
+Q1017402;Frisange;LAU;1;1;from
+Q1017402;Frisange;основная категория по теме;1;1;from
+Q1017407;Waldbredimus;карта местонахождения;1;1;from
+Q1017402;Frisange;место в MusicBrainz;1;1;from
+Q1017402;Frisange;состоит из;1;2;to
+Q1017402;Frisange;общая тема категории;1;1;to
+Q1017402;Frisange;категория объединяет темы;1;1;to
+Q1017407;Waldbredimus;государство;1;1;from
+Q1017407;Waldbredimus;изображение;1;1;from
+Q1017407;Waldbredimus;код VIAF;1;1;from
+Q1017407;Waldbredimus;код GND;1;1;from
+Q1017410;Lenningen;карта местонахождения;1;1;from
+Q1017410;Lenningen;имеет границы с;1;2;to
+Q1017421;Saeul;это частный случай понятия;1;1;from
+Q1017412;Waldbillig;LAU;1;1;from
+Q1017412;Waldbillig;название на языке оригинала;1;1;from
+Q1017412;Waldbillig;высота над уровнем моря;1;1;from
+Q1017412;Waldbillig;площадь;1;1;from
+Q1017412;Waldbillig;категория на Викискладе;1;1;from
+Q1017412;Waldbillig;произношение (звуковой файл);1;1;from
+Q1017412;Waldbillig;географические координаты;1;1;from
+Q1017412;Waldbillig;код Freebase;1;1;from
+Q1017412;Waldbillig;Who's on First ID;1;1;from
+Q1017412;Waldbillig;официальный сайт;1;1;from
+Q1017412;Waldbillig;численность населения;1;53;from
+Q1017412;Waldbillig;основная категория по теме;1;1;from
+Q1017412;Waldbillig;состоит из;1;2;to
+Q1017412;Waldbillig;административно-территориальная единица;1;4;to
+Q1017412;Waldbillig;общая тема категории;1;1;to
+Q1017421;Saeul;государство;1;1;from
+Q1017421;Saeul;изображение;1;1;from
+Q1017421;Saeul;код VIAF;1;1;from
+Q1017421;Saeul;карта местонахождения;1;1;from
+Q1017412;Waldbillig;код GeoNames;1;1;from
+Q1017412;Waldbillig;изображение герба;1;1;from
+Q1017410;Lenningen;изображение герба;1;1;from
+Q1017410;Lenningen;Who's on First ID;1;1;from
+Q1017410;Lenningen;численность населения;1;53;from
+Q1017410;Lenningen;код GeoNames;1;1;from
+Q1017410;Lenningen;высота над уровнем моря;1;1;from
+Q1017410;Lenningen;площадь;1;1;from
+Q1017410;Lenningen;категория на Викискладе;1;1;from
+Q1017410;Lenningen;произношение (звуковой файл);1;1;from
+Q1017410;Lenningen;географические координаты;1;1;from
+Q1017410;Lenningen;код Freebase;1;1;from
+Q1017410;Lenningen;LAU;1;1;from
+Q1017412;Waldbillig;имеет границы с;1;3;to
+Q1017410;Lenningen;официальный сайт;1;1;from
+Q1017410;Lenningen;основная категория по теме;1;1;from
+Q1017410;Lenningen;место рождения;1;1;to
+Q1017410;Lenningen;местонахождение;1;1;to
+Q1017410;Lenningen;общая тема категории;1;1;to
+Q1017412;Waldbillig;государство;1;1;from
+Q1017412;Waldbillig;код VIAF;1;1;from
+Q1017412;Waldbillig;это частный случай понятия;1;1;from
+Q986400;Strassen;произношение (звуковой файл);1;1;from
+Q986400;Strassen;код темы Quora;1;1;from
+Q985397;Larochette;код Freebase;1;1;from
+Q985404;Wincrange;LAU;1;1;from
+Q985471;Koerich;произношение (звуковой файл);1;1;from
+Q985471;Koerich;участник организации или клуба;1;1;from
+Q985471;Koerich;географические координаты;1;1;from
+Q985471;Koerich;код Freebase;1;1;from
+Q985471;Koerich;Who's on First ID;1;1;from
+Q985471;Koerich;LAU;1;1;from
+Q985471;Koerich;WorldCat Identities ID;1;1;from
+Q985471;Koerich;официальный сайт;1;1;from
+Q985471;Koerich;основная категория по теме;1;1;from
+Q985471;Koerich;место рождения;1;1;to
+Q985471;Koerich;категория объединяет темы;1;2;to
+Q985471;Koerich;расположение штаб-квартиры;1;1;to
+Q985471;Koerich;общая тема категории;1;1;to
+Q985472;Tuntange;административно-территориальная единица;1;9;to
+Q985472;Tuntange;государство;1;1;from
+Q985472;Tuntange;изображение;1;1;from
+Q985472;Tuntange;код VIAF;1;1;from
+Q985472;Tuntange;это частный случай понятия;1;1;from
+Q985472;Tuntange;столица;1;1;from
+Q985471;Koerich;категория на Викискладе;1;1;from
+Q985471;Koerich;площадь;1;1;from
+Q985471;Koerich;высота над уровнем моря;1;1;from
+Q985471;Koerich;код VIAF;1;1;from
+Q985404;Wincrange;основная категория по теме;1;1;from
+Q985404;Wincrange;состоит из;1;3;to
+Q985404;Wincrange;местонахождение;1;3;to
+Q985404;Wincrange;является столицей;1;1;to
+Q985404;Wincrange;общая тема категории;1;1;to
+Q985404;Wincrange;категория объединяет темы;1;1;to
+Q985471;Koerich;административно-территориальная единица;1;6;to
+Q985471;Koerich;государство;1;1;from
+Q985471;Koerich;код GND;1;1;from
+Q985471;Koerich;код GeoNames;1;1;from
+Q985471;Koerich;карта местонахождения;1;1;from
+Q985471;Koerich;это частный случай понятия;1;1;from
+Q985471;Koerich;имеет границы с;1;4;to
+Q985471;Koerich;глава правительства;1;4;from
+Q985471;Koerich;изображение герба;1;1;from
+Q985471;Koerich;численность населения;1;53;from
+Q985471;Koerich;категория для людей, родившихся здесь;1;1;from
+Q985471;Koerich;категория для людей, умерших здесь;1;1;from
+Q985472;Tuntange;имеет границы с;1;4;to
+Q985472;Tuntange;изображение герба;1;1;from
+Q985472;Tuntange;численность населения;1;51;from
+Q985473;Vichten;географические координаты;1;1;from
+Q985473;Vichten;изображение герба;1;1;from
+Q985473;Vichten;численность населения;1;53;from
+Q985473;Vichten;код GeoNames;1;1;from
+Q985473;Vichten;название на языке оригинала;1;1;from
+Q985473;Vichten;высота над уровнем моря;1;1;from
+Q985473;Vichten;площадь;1;1;from
+Q985473;Vichten;категория на Викискладе;1;1;from
+Q985473;Vichten;произношение (звуковой файл);1;1;from
+Q985473;Vichten;код Freebase;1;1;from
+Q985473;Vichten;это частный случай понятия;1;1;from
+Q985473;Vichten;Who's on First ID;1;1;from
+Q985473;Vichten;LAU;1;1;from
+Q985473;Vichten;официальный сайт;1;1;from
+Q985473;Vichten;основная категория по теме;1;1;from
+Q985473;Vichten;состоит из;1;1;to
+Q985473;Vichten;административно-территориальная единица;1;2;to
+Q985473;Vichten;общая тема категории;1;1;to
+Q985473;Vichten;место рождения;1;1;to
+Q985473;Vichten;имеет границы с;1;8;to
+Q985473;Vichten;карта местонахождения;1;1;from
+Q985472;Tuntange;заменён на;1;1;from
+Q985472;Tuntange;Who's on First ID;1;1;from
+Q985472;Tuntange;код GeoNames;1;1;from
+Q985472;Tuntange;высота над уровнем моря;1;1;from
+Q985472;Tuntange;площадь;1;1;from
+Q985472;Tuntange;категория на Викискладе;1;1;from
+Q985472;Tuntange;произношение (звуковой файл);1;1;from
+Q985472;Tuntange;дата прекращения существования;1;1;from
+Q985472;Tuntange;географические координаты;1;1;from
+Q985472;Tuntange;код Freebase;1;1;from
+Q985472;Tuntange;LAU;1;1;from
+Q985473;Vichten;код GND;1;1;from
+Q985472;Tuntange;официальный сайт;1;1;from
+Q985472;Tuntange;основная категория по теме;1;1;from
+Q985472;Tuntange;заменил;1;1;to
+Q985472;Tuntange;место рождения;1;1;to
+Q985472;Tuntange;является столицей;1;1;to
+Q985472;Tuntange;общая тема категории;1;1;to
+Q985473;Vichten;государство;1;1;from
+Q985473;Vichten;код VIAF;1;1;from
+Q985404;Wincrange;официальный сайт;1;1;from
+Q985404;Wincrange;код Freebase;1;1;from
+Q986400;Strassen;площадь;1;1;from
+Q985404;Wincrange;географические координаты;1;1;from
+Q985399;Wormeldange;высота над уровнем моря;1;1;from
+Q985399;Wormeldange;площадь;1;1;from
+Q985399;Wormeldange;категория на Викискладе;1;1;from
+Q985399;Wormeldange;произношение (звуковой файл);1;4;from
+Q985399;Wormeldange;географические координаты;1;1;from
+Q985399;Wormeldange;код Freebase;1;1;from
+Q985399;Wormeldange;Who's on First ID;1;1;from
+Q985399;Wormeldange;LAU;1;1;from
+Q985399;Wormeldange;официальный сайт;1;1;from
+Q985399;Wormeldange;основная категория по теме;1;1;from
+Q985399;Wormeldange;место в MusicBrainz;1;1;from
+Q985399;Wormeldange;административно-территориальная единица;1;7;to
+Q985399;Wormeldange;местонахождение;1;2;to
+Q985399;Wormeldange;место смерти;1;1;to
+Q985399;Wormeldange;состоит из;1;1;to
+Q985399;Wormeldange;часть от;1;1;to
+Q985399;Wormeldange;общая тема категории;1;1;to
+Q985402;Niederanven;административно-территориальная единица;1;17;to
+Q985402;Niederanven;государство;1;1;from
+Q985399;Wormeldange;код GeoNames;1;1;from
+Q985399;Wormeldange;численность населения;1;53;from
+Q985399;Wormeldange;изображение герба;1;1;from
+Q985397;Larochette;состоит из;1;2;to
+Q985397;Larochette;Who's on First ID;1;1;from
+Q985397;Larochette;находится в пределах природно-географического объекта;1;1;from
+Q985397;Larochette;LAU;1;1;from
+Q985397;Larochette;официальный сайт;1;1;from
+Q985397;Larochette;основная категория по теме;1;1;from
+Q985397;Larochette;баннер Викигида;1;1;from
+Q985397;Larochette;код NLI;1;1;from
+Q985397;Larochette;административно-территориальная единица;1;3;to
+Q985397;Larochette;место рождения;1;1;to
+Q985399;Wormeldange;имеет границы с;1;1;to
+Q985397;Larochette;часть от;1;1;to
+Q985397;Larochette;общая тема категории;1;1;to
+Q985399;Wormeldange;государство;1;1;from
+Q985399;Wormeldange;изображение;1;1;from
+Q985399;Wormeldange;находится на берегу водоёма;1;1;from
+Q985399;Wormeldange;код VIAF;1;1;from
+Q985399;Wormeldange;код GND;1;1;from
+Q985399;Wormeldange;это частный случай понятия;1;1;from
+Q985402;Niederanven;город-побратим;1;24;to
+Q985402;Niederanven;код VIAF;1;1;from
+Q985402;Niederanven;это частный случай понятия;1;1;from
+Q985404;Wincrange;имеет границы с;1;3;to
+Q985404;Wincrange;административно-территориальная единица;1;39;to
+Q985404;Wincrange;государство;1;1;from
+Q985404;Wincrange;изображение;1;1;from
+Q985404;Wincrange;код VIAF;1;1;from
+Q985404;Wincrange;код GND;1;1;from
+Q985404;Wincrange;карта местонахождения;1;1;from
+Q985404;Wincrange;это частный случай понятия;1;1;from
+Q985404;Wincrange;столица;1;1;from
+Q985404;Wincrange;изображение герба;1;1;from
+Q985402;Niederanven;место рождения;1;1;to
+Q985404;Wincrange;численность населения;1;53;from
+Q985404;Wincrange;категория для людей, родившихся здесь;1;1;from
+Q985404;Wincrange;код GeoNames;1;1;from
+Q985404;Wincrange;название на языке оригинала;1;1;from
+Q985404;Wincrange;высота над уровнем моря;1;1;from
+Q985404;Wincrange;площадь;1;1;from
+Q985404;Wincrange;категория на Викискладе;1;1;from
+Q985404;Wincrange;произношение (звуковой файл);1;1;from
+Q985402;Niederanven;общая тема категории;1;1;to
+Q985402;Niederanven;состоит из;1;2;to
+Q985402;Niederanven;имеет границы с;1;2;to
+Q985402;Niederanven;произношение (звуковой файл);1;1;from
+Q985402;Niederanven;глава правительства;1;46;from
+Q985402;Niederanven;изображение герба;1;1;from
+Q985402;Niederanven;численность населения;1;53;from
+Q985402;Niederanven;описывается в источниках;1;2;from
+Q985402;Niederanven;код GeoNames;1;1;from
+Q985402;Niederanven;высота над уровнем моря;1;1;from
+Q985402;Niederanven;площадь;1;1;from
+Q985402;Niederanven;категория на Викискладе;1;1;from
+Q985402;Niederanven;участник организации или клуба;1;1;from
+Q985402;Niederanven;основная тема;1;2;to
+Q985402;Niederanven;географические координаты;1;1;from
+Q985402;Niederanven;код Freebase;1;1;from
+Q985402;Niederanven;Who's on First ID;1;1;from
+Q985402;Niederanven;LAU;1;1;from
+Q985402;Niederanven;официальный сайт;1;1;from
+Q985402;Niederanven;основная категория по теме;1;1;from
+Q985402;Niederanven;местонахождение;1;1;to
+Q985402;Niederanven;место смерти;1;1;to
+Q985476;Sandweiler;административно-территориальная единица;1;11;to
+Q985476;Sandweiler;государство;1;1;from
+Q985476;Sandweiler;изображение;1;2;from
+Q985476;Sandweiler;код VIAF;1;1;from
+Q985479;Manternach;состоит из;1;1;to
+Q985479;Manternach;расположение штаб-квартиры;1;1;to
+Q985479;Manternach;общая тема категории;1;1;to
+Q986392;Esch-sur-Sûre;административно-территориальная единица;1;14;to
+Q986392;Esch-sur-Sûre;государство;1;1;from
+Q986392;Esch-sur-Sûre;изображение;1;1;from
+Q986392;Esch-sur-Sûre;код VIAF;1;1;from
+Q986392;Esch-sur-Sûre;карта местонахождения;1;1;from
+Q986392;Esch-sur-Sûre;это частный случай понятия;1;1;from
+Q986392;Esch-sur-Sûre;имеет границы с;1;4;to
+Q986392;Esch-sur-Sûre;изображение герба;1;1;from
+Q986392;Esch-sur-Sûre;численность населения;1;53;from
+Q986392;Esch-sur-Sûre;WOEID;1;1;from
+Q986392;Esch-sur-Sûre;код GeoNames;1;1;from
+Q986392;Esch-sur-Sûre;высота над уровнем моря;1;1;from
+Q986392;Esch-sur-Sûre;площадь;1;1;from
+Q986392;Esch-sur-Sûre;категория на Викискладе;1;1;from
+Q986392;Esch-sur-Sûre;произношение (звуковой файл);1;1;from
+Q986392;Esch-sur-Sûre;участник организации или клуба;1;1;from
+Q985479;Manternach;местонахождение;1;1;to
+Q985479;Manternach;административно-территориальная единица;1;6;to
+Q985479;Manternach;основная категория по теме;1;1;from
+Q985479;Manternach;численность населения;1;53;from
+Q985478;Steinfort;общая тема категории;1;1;to
+Q985478;Steinfort;категория объединяет темы;1;1;to
+Q985479;Manternach;государство;1;1;from
+Q985479;Manternach;изображение;1;1;from
+Q985479;Manternach;код VIAF;1;1;from
+Q985479;Manternach;это частный случай понятия;1;1;from
+Q985479;Manternach;имеет границы с;1;2;to
+Q985479;Manternach;изображение герба;1;1;from
+Q985479;Manternach;код GeoNames;1;1;from
+Q985479;Manternach;официальный сайт;1;1;from
+Q985479;Manternach;высота над уровнем моря;1;1;from
+Q985479;Manternach;площадь;1;1;from
+Q985479;Manternach;категория на Викискладе;1;1;from
+Q985479;Manternach;произношение (звуковой файл);1;1;from
+Q985479;Manternach;географические координаты;1;1;from
+Q985479;Manternach;код Freebase;1;1;from
+Q985479;Manternach;Who's on First ID;1;1;from
+Q985479;Manternach;LAU;1;1;from
+Q986392;Esch-sur-Sûre;географические координаты;1;1;from
+Q986392;Esch-sur-Sûre;код Freebase;1;1;from
+Q986392;Esch-sur-Sûre;Who's on First ID;1;1;from
+Q986396;Rambrouch;категория объединяет темы;1;1;to
+Q986396;Rambrouch;LAU;1;1;from
+Q986396;Rambrouch;официальный сайт;1;1;from
+Q986396;Rambrouch;основная категория по теме;1;1;from
+Q986396;Rambrouch;состоит из;1;5;to
+Q986396;Rambrouch;административно-территориальная единица;1;16;to
+Q986396;Rambrouch;место рождения;1;2;to
+Q986396;Rambrouch;местонахождение;1;1;to
+Q986396;Rambrouch;общая тема категории;1;1;to
+Q986400;Strassen;государство;1;1;from
+Q986396;Rambrouch;код Freebase;1;1;from
+Q986400;Strassen;код VIAF;1;1;from
+Q986400;Strassen;это частный случай понятия;1;1;from
+Q986400;Strassen;имеет границы с;1;1;to
+Q986400;Strassen;глава правительства;1;43;from
+Q986400;Strassen;изображение герба;1;1;from
+Q986400;Strassen;численность населения;1;53;from
+Q986400;Strassen;код GeoNames;1;1;from
+Q986400;Strassen;высота над уровнем моря;1;1;from
+Q986396;Rambrouch;Who's on First ID;1;1;from
+Q986396;Rambrouch;географические координаты;1;1;from
+Q986392;Esch-sur-Sûre;LAU;1;1;from
+Q986396;Rambrouch;карта местонахождения;1;1;from
+Q986392;Esch-sur-Sûre;официальный сайт;1;1;from
+Q986392;Esch-sur-Sûre;основная категория по теме;1;1;from
+Q986392;Esch-sur-Sûre;баннер Викигида;1;1;from
+Q986392;Esch-sur-Sûre;состоит из;1;3;to
+Q986392;Esch-sur-Sûre;общая тема категории;1;1;to
+Q986396;Rambrouch;государство;1;1;from
+Q986396;Rambrouch;изображение;1;1;from
+Q986396;Rambrouch;код VIAF;1;1;from
+Q986396;Rambrouch;это частный случай понятия;1;1;from
+Q986396;Rambrouch;произношение (звуковой файл);1;3;from
+Q986396;Rambrouch;имеет границы с;1;9;to
+Q986396;Rambrouch;изображение герба;1;1;from
+Q986396;Rambrouch;численность населения;1;53;from
+Q986396;Rambrouch;категория для людей, родившихся здесь;1;1;from
+Q986396;Rambrouch;код GeoNames;1;1;from
+Q986396;Rambrouch;высота над уровнем моря;1;1;from
+Q986396;Rambrouch;площадь;1;1;from
+Q986396;Rambrouch;категория на Викискладе;1;1;from
+Q985478;Steinfort;является столицей;1;1;to
+Q985478;Steinfort;расположение штаб-квартиры;1;1;to
+Q985478;Steinfort;местонахождение;1;1;to
+Q985477;Kopstal;изображение;1;1;from
+Q985476;Sandweiler;основная категория по теме;1;1;from
+Q985476;Sandweiler;часть от;1;2;to
+Q985476;Sandweiler;место рождения;1;2;to
+Q985476;Sandweiler;местонахождение;1;3;to
+Q985476;Sandweiler;расположение штаб-квартиры;1;1;to
+Q985476;Sandweiler;место создания;1;1;to
+Q985476;Sandweiler;общая тема категории;1;1;to
+Q985477;Kopstal;государство;1;1;from
+Q985477;Kopstal;код VIAF;1;1;from
+Q985476;Sandweiler;LAU;1;1;from
+Q985477;Kopstal;код GND;1;1;from
+Q985477;Kopstal;карта местонахождения;1;1;from
+Q985477;Kopstal;это частный случай понятия;1;1;from
+Q985477;Kopstal;столица;1;1;from
+Q985477;Kopstal;имеет границы с;1;3;to
+Q985477;Kopstal;глава правительства;1;14;from
+Q985477;Kopstal;изображение герба;1;1;from
+Q985477;Kopstal;численность населения;1;53;from
+Q985476;Sandweiler;официальный сайт;1;1;from
+Q985476;Sandweiler;Who's on First ID;1;1;from
+Q985477;Kopstal;высота над уровнем моря;1;1;from
+Q985476;Sandweiler;не путать с;1;1;to
+Q985476;Sandweiler;код GND;1;1;from
+Q985476;Sandweiler;карта местонахождения;1;1;from
+Q985476;Sandweiler;это частный случай понятия;1;1;from
+Q985476;Sandweiler;имеет границы с;1;5;to
+Q985476;Sandweiler;изображение герба;1;1;from
+Q985476;Sandweiler;численность населения;1;53;from
+Q985476;Sandweiler;официальное название;1;3;from
+Q985476;Sandweiler;код GeoNames;1;1;from
+Q985476;Sandweiler;высота над уровнем моря;1;1;from
+Q985476;Sandweiler;код Freebase;1;1;from
+Q985476;Sandweiler;площадь;1;1;from
+Q985476;Sandweiler;почтовый индекс;1;1;from
+Q985476;Sandweiler;категория на Викискладе;1;1;from
+Q985476;Sandweiler;ID отношения в OpenStreetMap;1;1;from
+Q985476;Sandweiler;произношение (звуковой файл);1;1;from
+Q985476;Sandweiler;участник организации или клуба;1;1;from
+Q985476;Sandweiler;состоит из;1;4;from
+Q985476;Sandweiler;географические координаты;1;1;from
+Q985477;Kopstal;код GeoNames;1;1;from
+Q985477;Kopstal;площадь;1;1;from
+Q985478;Steinfort;пункт назначения;1;4;to
+Q985478;Steinfort;участник организации или клуба;1;1;from
+Q985478;Steinfort;численность населения;1;53;from
+Q985478;Steinfort;WOEID;1;1;from
+Q985478;Steinfort;категория для людей, родившихся здесь;1;1;from
+Q985478;Steinfort;код GeoNames;1;1;from
+Q985478;Steinfort;высота над уровнем моря;1;1;from
+Q985478;Steinfort;площадь;1;1;from
+Q985478;Steinfort;категория на Викискладе;1;1;from
+Q985478;Steinfort;произношение (звуковой файл);1;1;from
+Q985478;Steinfort;географические координаты;1;1;from
+Q985478;Steinfort;имеет границы с;1;7;to
+Q985478;Steinfort;код Freebase;1;1;from
+Q985478;Steinfort;Who's on First ID;1;1;from
+Q985478;Steinfort;LAU;1;1;from
+Q985478;Steinfort;официальный сайт;1;1;from
+Q985478;Steinfort;основная категория по теме;1;1;from
+Q985478;Steinfort;место рождения;1;4;to
+Q985478;Steinfort;место смерти;1;1;to
+Q985478;Steinfort;начало пути;1;5;to
+Q985478;Steinfort;изображение герба;1;1;from
+Q985478;Steinfort;столица;1;1;from
+Q985477;Kopstal;категория на Викискладе;1;1;from
+Q985477;Kopstal;место рождения;1;2;to
+Q985477;Kopstal;произношение (звуковой файл);1;1;from
+Q985477;Kopstal;географические координаты;1;1;from
+Q985477;Kopstal;код Freebase;1;1;from
+Q985477;Kopstal;Who's on First ID;1;1;from
+Q985477;Kopstal;LAU;1;1;from
+Q985477;Kopstal;официальный сайт;1;1;from
+Q985477;Kopstal;основная категория по теме;1;1;from
+Q985477;Kopstal;административно-территориальная единица;1;5;to
+Q985477;Kopstal;расположение штаб-квартиры;1;2;to
+Q985478;Steinfort;это частный случай понятия;1;2;from
+Q985477;Kopstal;является столицей;1;1;to
+Q985477;Kopstal;общая тема категории;1;1;to
+Q985478;Steinfort;административно-территориальная единица;1;11;to
+Q985478;Steinfort;государство;1;1;from
+Q985478;Steinfort;изображение;1;1;from
+Q985478;Steinfort;код VIAF;1;1;from
+Q985478;Steinfort;код GND;1;1;from
+Q985478;Steinfort;карта местонахождения;1;1;from
+Q832382;Bettendorf;имеет границы с;1;1;to
+Q832382;Bettendorf;карта местонахождения;1;1;from
+Q1134542;Préizerdaul;государство;1;1;from
+Q166320;Wahl;имеет границы с;1;2;to
+Q183841;Schengen;карта местонахождения;1;2;from
+Q183841;Schengen;это частный случай понятия;1;1;from
+Q183841;Schengen;столица;1;1;from
+Q183841;Schengen;имеет границы с;1;1;to
+Q183841;Schengen;изображение герба;1;1;from
+Q183841;Schengen;численность населения;1;53;from
+Q183841;Schengen;WOEID;1;1;from
+Q183841;Schengen;включает населённый пункт;1;3;from
+Q183841;Schengen;официальное название;1;1;from
+Q183841;Schengen;код GeoNames;1;1;from
+Q183841;Schengen;категория для людей, связанных с местностью;1;1;from
+Q183841;Schengen;высота над уровнем моря;1;1;from
+Q183841;Schengen;площадь;1;2;from
+Q183841;Schengen;код BNF;1;1;from
+Q183841;Schengen;категория на Викискладе;1;1;from
+Q183841;Schengen;произношение (звуковой файл);1;1;from
+Q183841;Schengen;идентификатор местоположения ArchINFORM;1;1;from
+Q183841;Schengen;географические координаты;1;1;from
+Q183841;Schengen;код Freebase;1;1;from
+Q183841;Schengen;код GND;1;1;from
+Q183841;Schengen;код VIAF;1;1;from
+Q183841;Schengen;находится на берегу водоёма;1;1;from
+Q166320;Wahl;код Freebase;1;1;from
+Q166320;Wahl;численность населения;1;52;from
+Q166320;Wahl;код GeoNames;1;1;from
+Q166320;Wahl;название на языке оригинала;1;1;from
+Q166320;Wahl;высота над уровнем моря;1;1;from
+Q166320;Wahl;площадь;1;1;from
+Q166320;Wahl;категория на Викискладе;1;1;from
+Q166320;Wahl;произношение (звуковой файл);1;1;from
+Q166320;Wahl;географические координаты;1;1;from
+Q166320;Wahl;Who's on First ID;1;1;from
+Q183841;Schengen;город-побратим;1;1;to
+Q166320;Wahl;LAU;1;1;from
+Q166320;Wahl;официальный сайт;1;1;from
+Q166320;Wahl;основная категория по теме;1;1;from
+Q166320;Wahl;общая тема категории;1;1;to
+Q183841;Schengen;административно-территориальная единица;1;14;to
+Q183841;Schengen;названо в честь;1;1;from
+Q183841;Schengen;государство;1;1;from
+Q183841;Schengen;изображение;1;1;from
+Q183841;Schengen;Who's on First ID;1;1;from
+Q183841;Schengen;LAU;1;1;from
+Q183841;Schengen;официальный сайт;1;1;from
+Q284855;Mersch;изображение;1;1;from
+Q256978;Lorentzweiler;LAU;1;1;from
+Q256978;Lorentzweiler;официальный сайт;1;1;from
+Q256978;Lorentzweiler;основная категория по теме;1;1;from
+Q256978;Lorentzweiler;административно-территориальная единица;1;7;to
+Q256978;Lorentzweiler;место рождения;1;2;to
+Q256978;Lorentzweiler;общая тема категории;1;1;to
+Q284855;Mersch;административно-территориальная единица;1;26;to
+Q284855;Mersch;государство;1;1;from
+Q284855;Mersch;код VIAF;1;1;from
+Q256978;Lorentzweiler;код Freebase;1;1;from
+Q284855;Mersch;код GND;1;1;from
+Q284855;Mersch;карта местонахождения;1;1;from
+Q284855;Mersch;это частный случай понятия;1;1;from
+Q284855;Mersch;имеет границы с;1;3;to
+Q284855;Mersch;глава правительства;1;17;from
+Q284855;Mersch;изображение герба;1;1;from
+Q284855;Mersch;численность населения;1;53;from
+Q284855;Mersch;WOEID;1;1;from
+Q256978;Lorentzweiler;Who's on First ID;1;1;from
+Q256978;Lorentzweiler;географические координаты;1;1;from
+Q183841;Schengen;основная категория по теме;1;1;from
+Q256978;Lorentzweiler;карта местонахождения;1;1;from
+Q183841;Schengen;баннер Викигида;1;1;from
+Q183841;Schengen;состоит из;1;2;to
+Q183841;Schengen;местонахождение;1;6;to
+Q183841;Schengen;общая тема категории;1;1;to
+Q183841;Schengen;категория объединяет темы;1;1;to
+Q256978;Lorentzweiler;государство;1;1;from
+Q256978;Lorentzweiler;код VIAF;1;1;from
+Q256978;Lorentzweiler;код GND;1;1;from
+Q256978;Lorentzweiler;это частный случай понятия;1;1;from
+Q256978;Lorentzweiler;участник организации или клуба;1;1;from
+Q256978;Lorentzweiler;имеет границы с;1;1;to
+Q256978;Lorentzweiler;изображение герба;1;1;from
+Q256978;Lorentzweiler;численность населения;1;53;from
+Q256978;Lorentzweiler;код GeoNames;1;1;from
+Q256978;Lorentzweiler;высота над уровнем моря;1;1;from
+Q256978;Lorentzweiler;площадь;1;1;from
+Q256978;Lorentzweiler;категория на Викискладе;1;1;from
+Q256978;Lorentzweiler;произношение (звуковой файл);1;1;from
+Q166320;Wahl;изображение герба;1;1;from
+Q166320;Wahl;это частный случай понятия;1;1;from
+Q284855;Mersch;является столицей;1;2;from
+Q166320;Wahl;карта местонахождения;1;1;from
+Q16050;Diekirch;категория объединяет темы;1;2;to
+Q24454;Troisvierges;административно-территориальная единица;1;27;to
+Q24454;Troisvierges;государство;1;1;from
+Q24454;Troisvierges;код VIAF;1;1;from
+Q24454;Troisvierges;код GND;1;1;from
+Q24454;Troisvierges;карта местонахождения;1;1;from
+Q24454;Troisvierges;это частный случай понятия;1;1;from
+Q24454;Troisvierges;имеет границы с;1;1;to
+Q24454;Troisvierges;глава правительства;1;2;from
+Q24454;Troisvierges;изображение герба;1;1;from
+Q24454;Troisvierges;численность населения;1;53;from
+Q24454;Troisvierges;категория для людей, родившихся здесь;1;1;from
+Q24454;Troisvierges;код GeoNames;1;1;from
+Q24454;Troisvierges;категория для людей, связанных с местностью;1;1;from
+Q24454;Troisvierges;высота над уровнем моря;1;1;from
+Q24454;Troisvierges;площадь;1;1;from
+Q24454;Troisvierges;категория на Викискладе;1;1;from
+Q24454;Troisvierges;ID отношения в OpenStreetMap;1;1;from
+Q24454;Troisvierges;произношение (звуковой файл);1;1;from
+Q16050;Diekirch;общая тема категории;1;1;to
+Q16050;Diekirch;место жительства;1;1;to
+Q16050;Diekirch;расположение конечной точки;1;1;to
+Q16050;Diekirch;LAU;1;1;from
+Q16050;Diekirch;код BNF;1;1;from
+Q16050;Diekirch;туристический центр;1;1;from
+Q16050;Diekirch;категория на Викискладе;1;1;from
+Q16050;Diekirch;произношение (звуковой файл);1;3;from
+Q16050;Diekirch;участник организации или клуба;1;1;from
+Q16050;Diekirch;географические координаты;1;1;from
+Q16050;Diekirch;код Freebase;1;1;from
+Q16050;Diekirch;Who's on First ID;1;1;from
+Q16050;Diekirch;официальный сайт;1;1;from
+Q16050;Diekirch;юрисдикция распространяется на;1;1;to
+Q16050;Diekirch;основная категория по теме;1;1;from
+Q16050;Diekirch;баннер Викигида;1;1;from
+Q16050;Diekirch;место рождения;1;38;to
+Q16050;Diekirch;расположение штаб-квартиры;1;3;to
+Q16050;Diekirch;состоит из;1;3;to
+Q16050;Diekirch;место смерти;1;4;to
+Q16050;Diekirch;пункт назначения;1;13;to
+Q16050;Diekirch;местонахождение;1;2;to
+Q24454;Troisvierges;идентификатор местоположения ArchINFORM;1;1;from
+Q24454;Troisvierges;наивысшая точка;1;1;from
+Q24454;Troisvierges;географические координаты;1;1;from
+Q145727;Ell;основная категория по теме;1;1;from
+Q145727;Ell;площадь;1;1;from
+Q145727;Ell;категория на Викискладе;1;1;from
+Q145727;Ell;произношение (звуковой файл);1;1;from
+Q145727;Ell;географические координаты;1;1;from
+Q145727;Ell;код Freebase;1;1;from
+Q145727;Ell;Who's on First ID;1;1;from
+Q145727;Ell;LAU;1;1;from
+Q145727;Ell;официальный сайт;1;1;from
+Q145727;Ell;место рождения;1;1;to
+Q145727;Ell;код GeoNames;1;1;from
+Q145727;Ell;административно-территориальная единица;1;5;to
+Q145727;Ell;категория объединяет темы;1;1;to
+Q145727;Ell;начало пути;1;1;to
+Q145727;Ell;общая тема категории;1;1;to
+Q166320;Wahl;административно-территориальная единица;1;4;to
+Q166320;Wahl;государство;1;1;from
+Q166320;Wahl;изображение;1;1;from
+Q166320;Wahl;код VIAF;1;1;from
+Q145727;Ell;высота над уровнем моря;1;1;from
+Q145727;Ell;категория для людей, родившихся здесь;1;1;from
+Q24454;Troisvierges;код Freebase;1;1;from
+Q24454;Troisvierges;место активности;1;1;to
+Q24454;Troisvierges;Who's on First ID;1;1;from
+Q24454;Troisvierges;LAU;1;1;from
+Q24454;Troisvierges;официальный сайт;1;1;from
+Q24454;Troisvierges;основная категория по теме;1;1;from
+Q24454;Troisvierges;баннер Викигида;1;1;from
+Q24454;Troisvierges;состоит из;1;3;to
+Q24454;Troisvierges;расположение конечной точки;1;3;to
+Q24454;Troisvierges;место рождения;1;7;to
+Q24454;Troisvierges;местонахождение;1;3;to
+Q145727;Ell;численность населения;1;53;from
+Q24454;Troisvierges;место смерти;1;1;to
+Q24454;Troisvierges;категория объединяет темы;1;2;to
+Q24454;Troisvierges;общая тема категории;1;1;to
+Q145727;Ell;государство;1;1;from
+Q145727;Ell;карта местонахождения;1;1;from
+Q145727;Ell;это частный случай понятия;1;1;from
+Q145727;Ell;имеет границы с;1;4;to
+Q145727;Ell;изображение герба;1;1;from
+Q284855;Mersch;код в Большой каталанской энциклопедии;1;1;from
+Q284855;Mersch;категория для людей, родившихся здесь;1;1;from
+Q832382;Bettendorf;код GND;1;1;from
+Q377847;Weiswampach;название на языке оригинала;1;3;from
+Q426998;Dippach;код GND;1;1;from
+Q426998;Dippach;карта местонахождения;1;1;from
+Q426998;Dippach;это частный случай понятия;1;1;from
+Q426998;Dippach;имеет границы с;1;3;to
+Q426998;Dippach;глава правительства;1;10;from
+Q426998;Dippach;изображение герба;1;1;from
+Q426998;Dippach;численность населения;1;53;from
+Q426998;Dippach;категория для людей, родившихся здесь;1;1;from
+Q426998;Dippach;код GeoNames;1;1;from
+Q426998;Dippach;категория для людей, связанных с местностью;1;1;from
+Q426998;Dippach;высота над уровнем моря;1;1;from
+Q426998;Dippach;площадь;1;2;from
+Q426998;Dippach;категория на Викискладе;1;1;from
+Q426998;Dippach;произношение (звуковой файл);1;1;from
+Q426998;Dippach;географические координаты;1;1;from
+Q426998;Dippach;код Freebase;1;1;from
+Q426998;Dippach;Who's on First ID;1;1;from
+Q426998;Dippach;LAU;1;1;from
+Q426998;Dippach;официальный сайт;1;1;from
+Q426998;Dippach;код VIAF;1;1;from
+Q426998;Dippach;изображение;1;8;from
+Q426998;Dippach;государство;1;1;from
+Q377847;Weiswampach;LAU;1;1;from
+Q377847;Weiswampach;высота над уровнем моря;1;1;from
+Q377847;Weiswampach;площадь;1;1;from
+Q377847;Weiswampach;категория на Викискладе;1;1;from
+Q377847;Weiswampach;ID отношения в OpenStreetMap;1;1;from
+Q377847;Weiswampach;произношение (звуковой файл);1;3;from
+Q377847;Weiswampach;географические координаты;1;1;from
+Q377847;Weiswampach;код Freebase;1;1;from
+Q377847;Weiswampach;Who's on First ID;1;1;from
+Q377847;Weiswampach;официальный сайт;1;1;from
+Q426998;Dippach;административно-территориальная единица;1;7;to
+Q377847;Weiswampach;основная категория по теме;1;1;from
+Q377847;Weiswampach;состоит из;1;2;to
+Q377847;Weiswampach;расположение штаб-квартиры;1;2;to
+Q377847;Weiswampach;местонахождение;1;1;to
+Q377847;Weiswampach;часть от;1;1;to
+Q377847;Weiswampach;место жительства;1;1;to
+Q377847;Weiswampach;общая тема категории;1;1;to
+Q377847;Weiswampach;категория объединяет темы;1;1;to
+Q426998;Dippach;основная категория по теме;1;1;from
+Q426998;Dippach;категория объединяет темы;1;2;to
+Q426998;Dippach;место рождения;1;3;to
+Q513740;Putscheid;это частный случай понятия;1;1;from
+Q432495;Kehlen;официальный сайт;1;1;from
+Q432495;Kehlen;основная категория по теме;1;1;from
+Q432495;Kehlen;место съёмок;1;1;to
+Q432495;Kehlen;местонахождение;1;1;to
+Q432495;Kehlen;общая тема категории;1;1;to
+Q513740;Putscheid;административно-территориальная единица;1;14;to
+Q513740;Putscheid;государство;1;1;from
+Q513740;Putscheid;код VIAF;1;1;from
+Q513740;Putscheid;имеет границы с;1;2;to
+Q432495;Kehlen;Who's on First ID;1;1;from
+Q513740;Putscheid;изображение герба;1;1;from
+Q513740;Putscheid;численность населения;1;53;from
+Q513740;Putscheid;код GeoNames;1;1;from
+Q513740;Putscheid;высота над уровнем моря;1;1;from
+Q513740;Putscheid;площадь;1;1;from
+Q513740;Putscheid;код SUDOC;1;1;from
+Q513740;Putscheid;категория на Викискладе;1;1;from
+Q513740;Putscheid;ID отношения в OpenStreetMap;1;1;from
+Q432495;Kehlen;LAU;1;1;from
+Q432495;Kehlen;код Freebase;1;1;from
+Q426998;Dippach;место смерти;1;1;to
+Q432495;Kehlen;это частный случай понятия;1;1;from
+Q426998;Dippach;общая тема категории;1;1;to
+Q426998;Dippach;исток водотока;1;1;to
+Q432495;Kehlen;административно-территориальная единица;1;11;to
+Q432495;Kehlen;государство;1;1;from
+Q432495;Kehlen;изображение;1;1;from
+Q432495;Kehlen;город-побратим;1;1;to
+Q432495;Kehlen;код GND;1;1;from
+Q432495;Kehlen;карта местонахождения;1;1;from
+Q432495;Kehlen;имеет границы с;1;6;to
+Q432495;Kehlen;географические координаты;1;1;from
+Q432495;Kehlen;изображение герба;1;1;from
+Q432495;Kehlen;численность населения;1;53;from
+Q432495;Kehlen;код GeoNames;1;1;from
+Q432495;Kehlen;высота над уровнем моря;1;1;from
+Q432495;Kehlen;площадь;1;1;from
+Q432495;Kehlen;категория на Викискладе;1;1;from
+Q432495;Kehlen;произношение (звуковой файл);1;1;from
+Q432495;Kehlen;участник организации или клуба;1;1;from
+Q377847;Weiswampach;категория для людей, связанных с местностью;1;1;from
+Q377847;Weiswampach;код GeoNames;1;1;from
+Q284855;Mersch;категория для людей, умерших здесь;1;1;from
+Q377847;Weiswampach;численность населения;1;53;from
+Q284855;Mersch;расположение штаб-квартиры;1;1;to
+Q284855;Mersch;расположение конечной точки;1;1;to
+Q284855;Mersch;юрисдикция распространяется на;1;1;to
+Q284855;Mersch;столица;1;2;to
+Q284855;Mersch;общая тема категории;1;1;to
+Q371757;Schieren;административно-территориальная единица;1;2;to
+Q371757;Schieren;государство;1;1;from
+Q371757;Schieren;код VIAF;1;1;from
+Q371757;Schieren;код GND;1;1;from
+Q371757;Schieren;карта местонахождения;1;1;from
+Q371757;Schieren;это частный случай понятия;1;1;from
+Q371757;Schieren;имеет границы с;1;1;to
+Q371757;Schieren;глава правительства;1;16;from
+Q371757;Schieren;изображение герба;1;1;from
+Q371757;Schieren;численность населения;1;53;from
+Q371757;Schieren;WOEID;1;1;from
+Q371757;Schieren;код GeoNames;1;1;from
+Q371757;Schieren;высота над уровнем моря;1;1;from
+Q371757;Schieren;площадь;1;1;from
+Q284855;Mersch;начало пути;1;9;to
+Q284855;Mersch;место жительства;1;2;to
+Q284855;Mersch;местонахождение;1;1;to
+Q284855;Mersch;код Freebase;1;1;from
+Q284855;Mersch;код GeoNames;1;1;from
+Q284855;Mersch;категория для людей, связанных с местностью;1;1;from
+Q284855;Mersch;высота над уровнем моря;1;1;from
+Q284855;Mersch;площадь;1;1;from
+Q284855;Mersch;категория на Викискладе;1;1;from
+Q284855;Mersch;произношение (звуковой файл);1;1;from
+Q284855;Mersch;участник организации или клуба;1;1;from
+Q284855;Mersch;географические координаты;1;1;from
+Q284855;Mersch;Who's on First ID;1;1;from
+Q284855;Mersch;пункт назначения;1;1;to
+Q284855;Mersch;LAU;1;1;from
+Q284855;Mersch;официальный сайт;1;1;from
+Q284855;Mersch;основная категория по теме;1;1;from
+Q284855;Mersch;баннер Викигида;1;1;from
+Q284855;Mersch;состоит из;1;4;to
+Q284855;Mersch;место смерти;1;3;to
+Q284855;Mersch;место рождения;1;10;to
+Q284855;Mersch;категория объединяет темы;1;3;to
+Q371757;Schieren;категория на Викискладе;1;1;from
+Q371757;Schieren;ID отношения в OpenStreetMap;1;1;from
+Q371757;Schieren;произношение (звуковой файл);1;1;from
+Q376454;Biwer;место рождения;1;2;to
+Q376454;Biwer;произношение (звуковой файл);1;1;from
+Q376454;Biwer;географические координаты;1;1;from
+Q376454;Biwer;код Freebase;1;1;from
+Q376454;Biwer;Who's on First ID;1;1;from
+Q376454;Biwer;LAU;1;1;from
+Q376454;Biwer;официальный сайт;1;1;from
+Q376454;Biwer;основная категория по теме;1;1;from
+Q376454;Biwer;административно-территориальная единица;1;9;to
+Q376454;Biwer;общая тема категории;1;1;to
+Q376454;Biwer;площадь;1;1;from
+Q377847;Weiswampach;административно-территориальная единица;1;18;to
+Q377847;Weiswampach;государство;1;1;from
+Q377847;Weiswampach;изображение;1;1;from
+Q377847;Weiswampach;код VIAF;1;1;from
+Q377847;Weiswampach;карта местонахождения;1;1;from
+Q377847;Weiswampach;это частный случай понятия;1;1;from
+Q377847;Weiswampach;имеет границы с;1;1;to
+Q377847;Weiswampach;изображение герба;1;1;from
+Q376454;Biwer;категория на Викискладе;1;1;from
+Q376454;Biwer;высота над уровнем моря;1;1;from
+Q371757;Schieren;географические координаты;1;1;from
+Q371757;Schieren;место жительства;1;2;to
+Q371757;Schieren;код Freebase;1;1;from
+Q371757;Schieren;Who's on First ID;1;1;from
+Q371757;Schieren;LAU;1;1;from
+Q371757;Schieren;официальный сайт;1;1;from
+Q371757;Schieren;основная категория по теме;1;1;from
+Q371757;Schieren;состоит из;1;1;to
+Q371757;Schieren;место рождения;1;2;to
+Q371757;Schieren;место смерти;1;1;to
+Q371757;Schieren;общая тема категории;1;1;to
+Q376454;Biwer;код GeoNames;1;1;from
+Q376454;Biwer;государство;1;1;from
+Q376454;Biwer;изображение;1;1;from
+Q376454;Biwer;код VIAF;1;1;from
+Q376454;Biwer;код GND;1;1;from
+Q376454;Biwer;это частный случай понятия;1;1;from
+Q376454;Biwer;имеет границы с;1;1;to
+Q376454;Biwer;изображение герба;1;1;from
+Q376454;Biwer;численность населения;1;53;from
+Q16050;Diekirch;площадь;1;1;from
+Q16050;Diekirch;код Цифрового атласа Римской империи;1;1;from
+Q16050;Diekirch;код GAMEO;1;1;from
+Q1143756;Septfontaines;географические координаты;1;1;from
+Q1313580;Vallée de l'Ernz;состоит из;1;3;to
+Q1313580;Vallée de l'Ernz;общая тема категории;1;1;to
+Q1313580;Vallée de l'Ernz;местонахождение;1;1;to
+Q1365356;Tandel;административно-территориальная единица;1;10;to
+Q1365356;Tandel;государство;1;1;from
+Q1365356;Tandel;это частный случай понятия;1;1;from
+Q1365356;Tandel;имеет границы с;1;2;to
+Q1365356;Tandel;глава правительства;1;2;from
+Q1365356;Tandel;изображение герба;1;1;from
+Q1365356;Tandel;численность населения;1;53;from
+Q1365356;Tandel;код GeoNames;1;1;from
+Q1365356;Tandel;высота над уровнем моря;1;1;from
+Q1365356;Tandel;площадь;1;1;from
+Q1365356;Tandel;категория на Викискладе;1;1;from
+Q1365356;Tandel;произношение (звуковой файл);1;1;from
+Q1365356;Tandel;участник организации или клуба;1;1;from
+Q1365356;Tandel;географические координаты;1;1;from
+Q1365356;Tandel;код Freebase;1;1;from
+Q1365356;Tandel;Who's on First ID;1;1;from
+Q1313580;Vallée de l'Ernz;основная категория по теме;1;1;from
+Q1313580;Vallée de l'Ernz;официальный сайт;1;1;from
+Q1313580;Vallée de l'Ernz;LAU;1;1;from
+Q1313580;Vallée de l'Ernz;государство;1;1;from
+Q1143756;Septfontaines;Who's on First ID;1;1;from
+Q1143756;Septfontaines;LAU;1;1;from
+Q1143756;Septfontaines;официальный сайт;1;1;from
+Q1143756;Septfontaines;основная категория по теме;1;1;from
+Q1143756;Septfontaines;является столицей;1;1;to
+Q1143756;Septfontaines;общая тема категории;1;1;to
+Q1143756;Septfontaines;заменил;1;1;to
+Q1313580;Vallée de l'Ernz;административно-территориальная единица;1;9;to
+Q1313580;Vallée de l'Ernz;карта местонахождения;1;1;from
+Q1313580;Vallée de l'Ernz;код Freebase;1;1;from
+Q1313580;Vallée de l'Ernz;это частный случай понятия;1;1;from
+Q1313580;Vallée de l'Ernz;имеет границы с;1;6;to
+Q1313580;Vallée de l'Ernz;численность населения;1;53;from
+Q1313580;Vallée de l'Ernz;код GeoNames;1;1;from
+Q1313580;Vallée de l'Ernz;высота над уровнем моря;1;1;from
+Q1313580;Vallée de l'Ernz;площадь;1;1;from
+Q1313580;Vallée de l'Ernz;категория на Викискладе;1;1;from
+Q1313580;Vallée de l'Ernz;географические координаты;1;1;from
+Q1365356;Tandel;LAU;1;1;from
+Q1365356;Tandel;официальный сайт;1;1;from
+Q1365356;Tandel;основная категория по теме;1;1;from
+Q1401963;Burmerange;географические координаты;1;1;from
+Q1401963;Burmerange;столица;1;1;from
+Q1401963;Burmerange;изображение герба;1;1;from
+Q1401963;Burmerange;код GeoNames;1;1;from
+Q1401963;Burmerange;название на языке оригинала;1;1;from
+Q1401963;Burmerange;высота над уровнем моря;1;1;from
+Q1401963;Burmerange;площадь;1;1;from
+Q1401963;Burmerange;категория на Викискладе;1;1;from
+Q1401963;Burmerange;произношение (звуковой файл);1;3;from
+Q1401963;Burmerange;код Freebase;1;1;from
+Q1401963;Burmerange;государство;1;1;from
+Q1401963;Burmerange;Who's on First ID;1;1;from
+Q1401963;Burmerange;официальный сайт;1;1;from
+Q1401963;Burmerange;является столицей;1;1;to
+Q1401990;Munshausen;административно-территориальная единица;1;3;to
+Q1401990;Munshausen;государство;1;1;from
+Q1401990;Munshausen;код VIAF;1;1;from
+Q1401990;Munshausen;код GND;1;1;from
+Q1401990;Munshausen;это частный случай понятия;1;1;from
+Q1401963;Burmerange;это частный случай понятия;1;1;from
+Q1401963;Burmerange;административно-территориальная единица;1;2;to
+Q1365356;Tandel;состоит из;1;4;to
+Q1398947;Wellenstein;код GeoNames;1;1;from
+Q1365356;Tandel;место жительства;1;1;to
+Q1365356;Tandel;общая тема категории;1;1;to
+Q1398947;Wellenstein;административно-территориальная единица;1;2;to
+Q1398947;Wellenstein;государство;1;1;from
+Q1398947;Wellenstein;код VIAF;1;1;from
+Q1398947;Wellenstein;код GND;1;1;from
+Q1398947;Wellenstein;это частный случай понятия;1;4;from
+Q1398947;Wellenstein;изображение герба;1;1;from
+Q1398947;Wellenstein;название на языке оригинала;1;1;from
+Q1398947;Wellenstein;местонахождение;1;1;to
+Q1398947;Wellenstein;не путать с;1;1;to
+Q1398947;Wellenstein;высота над уровнем моря;1;1;from
+Q1398947;Wellenstein;площадь;1;1;from
+Q1398947;Wellenstein;категория на Викискладе;1;1;from
+Q1398947;Wellenstein;произношение (звуковой файл);1;2;from
+Q1398947;Wellenstein;географические координаты;1;1;from
+Q1398947;Wellenstein;код Freebase;1;1;from
+Q1398947;Wellenstein;официальный сайт;1;1;from
+Q1143756;Septfontaines;код Freebase;1;1;from
+Q1143756;Septfontaines;произношение (звуковой файл);1;1;from
+Q16050;Diekirch;категория для людей, связанных с местностью;1;1;from
+Q1143756;Septfontaines;категория на Викискладе;1;1;from
+Q1143707;Feulen;код GND;1;1;from
+Q1143707;Feulen;карта местонахождения;1;1;from
+Q1143707;Feulen;это частный случай понятия;1;1;from
+Q1143707;Feulen;имеет границы с;1;2;to
+Q1143707;Feulen;изображение герба;1;1;from
+Q1143707;Feulen;численность населения;1;53;from
+Q1143707;Feulen;код GeoNames;1;1;from
+Q1143707;Feulen;высота над уровнем моря;1;1;from
+Q1143707;Feulen;площадь;1;1;from
+Q1143707;Feulen;категория на Викискладе;1;1;from
+Q1143707;Feulen;произношение (звуковой файл);1;1;from
+Q1143707;Feulen;участник организации или клуба;1;1;from
+Q1143707;Feulen;географические координаты;1;1;from
+Q1143707;Feulen;код Freebase;1;1;from
+Q1143707;Feulen;Who's on First ID;1;1;from
+Q1143707;Feulen;LAU;1;1;from
+Q1143707;Feulen;официальный сайт;1;1;from
+Q1143707;Feulen;основная категория по теме;1;1;from
+Q1143707;Feulen;административно-территориальная единица;1;11;to
+Q1143707;Feulen;код VIAF;1;1;from
+Q1143707;Feulen;государство;1;1;from
+Q1134542;Préizerdaul;общая тема категории;1;1;to
+Q1134542;Préizerdaul;площадь;1;1;from
+Q1134542;Préizerdaul;изображение;1;1;from
+Q1134542;Préizerdaul;карта местонахождения;1;1;from
+Q1134542;Préizerdaul;это частный случай понятия;1;1;from
+Q1134542;Préizerdaul;имеет границы с;1;6;to
+Q1134542;Préizerdaul;изображение герба;1;1;from
+Q1134542;Préizerdaul;численность населения;1;53;from
+Q1134542;Préizerdaul;код GeoNames;1;1;from
+Q1134542;Préizerdaul;высота над уровнем моря;1;1;from
+Q1134542;Préizerdaul;категория на Викискладе;1;1;from
+Q1134542;Préizerdaul;местонахождение;1;1;to
+Q1134542;Préizerdaul;произношение (звуковой файл);1;1;from
+Q1134542;Préizerdaul;географические координаты;1;1;from
+Q1134542;Préizerdaul;код Freebase;1;1;from
+Q1134542;Préizerdaul;LAU;1;1;from
+Q1134542;Préizerdaul;официальный сайт;1;1;from
+Q1134542;Préizerdaul;основная категория по теме;1;1;from
+Q1134542;Préizerdaul;состоит из;1;1;to
+Q1134542;Préizerdaul;место рождения;1;1;to
+Q1143707;Feulen;состоит из;1;2;to
+Q1143707;Feulen;общая тема категории;1;1;to
+Q1143742;Kiischpelt;административно-территориальная единица;1;11;to
+Q1143756;Septfontaines;это частный случай понятия;1;1;from
+Q1143742;Kiischpelt;место смерти;1;1;to
+Q1143742;Kiischpelt;общая тема категории;1;1;to
+Q1143756;Septfontaines;административно-территориальная единица;1;6;to
+Q1143756;Septfontaines;следующее по порядку;1;1;from
+Q1143756;Septfontaines;государство;1;1;from
+Q1143756;Septfontaines;изображение;1;1;from
+Q1143756;Septfontaines;код VIAF;1;1;from
+Q1143756;Septfontaines;код GND;1;1;from
+Q1143756;Septfontaines;столица;1;1;from
+Q1143742;Kiischpelt;состоит из;1;5;to
+Q1143756;Septfontaines;имеет границы с;1;2;to
+Q1143756;Septfontaines;изображение герба;1;1;from
+Q1143756;Septfontaines;численность населения;1;51;from
+Q1143756;Septfontaines;заменён на;1;1;from
+Q1143756;Septfontaines;код GeoNames;1;1;from
+Q1143756;Septfontaines;высота над уровнем моря;1;1;from
+Q1143756;Septfontaines;площадь;1;1;from
+Q1143756;Septfontaines;код BNF;1;1;from
+Q1143742;Kiischpelt;является столицей;1;1;to
+Q1143742;Kiischpelt;основная категория по теме;1;1;from
+Q1143742;Kiischpelt;предыдущее по порядку;1;2;from
+Q1143742;Kiischpelt;численность населения;1;53;from
+Q1143742;Kiischpelt;государство;1;1;from
+Q1143742;Kiischpelt;изображение;1;3;from
+Q1143742;Kiischpelt;код VIAF;1;1;from
+Q1143742;Kiischpelt;код GND;1;1;from
+Q1143742;Kiischpelt;это частный случай понятия;1;1;from
+Q1143742;Kiischpelt;столица;1;1;from
+Q1143742;Kiischpelt;имеет границы с;1;6;to
+Q1143742;Kiischpelt;изображение герба;1;1;from
+Q1143742;Kiischpelt;код GeoNames;1;1;from
+Q1143742;Kiischpelt;официальный сайт;1;1;from
+Q1143742;Kiischpelt;высота над уровнем моря;1;1;from
+Q1143742;Kiischpelt;площадь;1;1;from
+Q1143742;Kiischpelt;категория на Викискладе;1;1;from
+Q1143742;Kiischpelt;идентификатор местоположения ArchINFORM;1;1;from
+Q1143742;Kiischpelt;дата основания/создания/возникновения;1;1;from
+Q1143742;Kiischpelt;географические координаты;1;1;from
+Q1143742;Kiischpelt;код Freebase;1;1;from
+Q1143742;Kiischpelt;LAU;1;1;from
+Q1401990;Munshausen;изображение герба;1;1;from
+Q1401990;Munshausen;код GeoNames;1;1;from
+Q1401990;Munshausen;высота над уровнем моря;1;1;from
+Q1401990;Munshausen;площадь;1;1;from
+Q28501327;Eschweiler;изображение герба;1;1;from
+Q28501327;Eschweiler;код GeoNames;1;1;from
+Q28501327;Eschweiler;высота над уровнем моря;1;1;from
+Q28501327;Eschweiler;площадь;1;1;from
+Q28501327;Eschweiler;категория на Викискладе;1;1;from
+Q28501327;Eschweiler;произношение (звуковой файл);1;3;from
+Q28501327;Eschweiler;дата окончания;1;1;from
+Q28501327;Eschweiler;географические координаты;1;1;from
+Q28501327;Eschweiler;Who's on First ID;1;1;from
+Q28501327;Eschweiler;официальный сайт;1;1;from
+Q28501327;Eschweiler;административно-территориальная единица;1;1;to
+Q28501327;Eschweiler;является столицей;1;1;to
+Q31734921;Rosport-Mompach;административно-территориальная единица;1;9;to
+Q31734921;Rosport-Mompach;предыдущее по порядку;1;2;from
+Q31734921;Rosport-Mompach;государство;1;1;from
+Q31734921;Rosport-Mompach;изображение;1;1;from
+Q31734921;Rosport-Mompach;код VIAF;1;1;from
+Q31734921;Rosport-Mompach;код GND;1;1;from
+Q31734921;Rosport-Mompach;это частный случай понятия;1;1;from
+Q28501327;Eschweiler;имеет границы с;1;1;to
+Q28501327;Eschweiler;столица;1;1;from
+Q28501327;Eschweiler;это частный случай понятия;1;2;from
+Q25583657;Helperknapp;географические координаты;1;1;from
+Q25583657;Helperknapp;имеет границы с;1;2;to
+Q25583657;Helperknapp;глава правительства;1;3;from
+Q25583657;Helperknapp;численность населения;1;2;from
+Q25583657;Helperknapp;заменил;1;2;from
+Q25583657;Helperknapp;площадь;1;1;from
+Q25583657;Helperknapp;категория на Викискладе;1;1;from
+Q25583657;Helperknapp;произношение (звуковой файл);1;1;from
+Q25583657;Helperknapp;дата основания/создания/возникновения;1;1;from
+Q25583657;Helperknapp;официальный сайт;1;1;from
+Q28501327;Eschweiler;карта местонахождения;1;1;from
+Q25583657;Helperknapp;основная категория по теме;1;1;from
+Q25583657;Helperknapp;состоит из;1;2;to
+Q25583657;Helperknapp;местонахождение;1;1;to
+Q25583657;Helperknapp;является столицей;1;1;to
+Q25583657;Helperknapp;общая тема категории;1;1;to
+Q25583657;Helperknapp;заменён на;1;2;to
+Q28501327;Eschweiler;государство;1;1;from
+Q28501327;Eschweiler;код VIAF;1;1;from
+Q31734921;Rosport-Mompach;столица;1;1;from
+Q31734921;Rosport-Mompach;имеет границы с;1;2;to
+Q31734921;Rosport-Mompach;глава правительства;1;2;from
+Q16050;Diekirch;карта местонахождения;1;1;from
+Q61356726;Q61356726;государство;1;1;from
+Q61356726;Q61356726;это частный случай понятия;1;2;from
+Q16050;Diekirch;административно-территориальная единица;1;10;to
+Q16050;Diekirch;государство;1;1;from
+Q16050;Diekirch;изображение;1;1;from
+Q16050;Diekirch;город-побратим;1;5;to
+Q16050;Diekirch;код VIAF;1;1;from
+Q16050;Diekirch;код GND;1;1;from
+Q16050;Diekirch;это частный случай понятия;1;1;from
+Q31811629;Kautenbach;административно-территориальная единица;1;1;to
+Q16050;Diekirch;столица;1;3;to
+Q16050;Diekirch;имеет границы с;1;4;to
+Q16050;Diekirch;глава правительства;1;61;from
+Q16050;Diekirch;изображение герба;1;1;from
+Q16050;Diekirch;численность населения;1;53;from
+Q16050;Diekirch;является столицей;1;1;to
+Q16050;Diekirch;категория для людей, родившихся здесь;1;1;from
+Q16050;Diekirch;код GeoNames;1;1;from
+Q31811629;Kautenbach;является столицей;1;1;to
+Q31811629;Kautenbach;предыдущее по порядку;1;1;to
+Q31734921;Rosport-Mompach;численность населения;1;2;from
+Q31734921;Rosport-Mompach;местонахождение;1;1;to
+Q31734921;Rosport-Mompach;категория на Викискладе;1;1;from
+Q31734921;Rosport-Mompach;дата основания/создания/возникновения;1;1;from
+Q31734921;Rosport-Mompach;географические координаты;1;1;from
+Q31734921;Rosport-Mompach;официальный сайт;1;1;from
+Q31734921;Rosport-Mompach;основная категория по теме;1;1;from
+Q31734921;Rosport-Mompach;состоит из;1;2;to
+Q31734921;Rosport-Mompach;является столицей;1;1;to
+Q31734921;Rosport-Mompach;общая тема категории;1;1;to
+Q31811629;Kautenbach;государство;1;1;from
+Q31811629;Kautenbach;географические координаты;1;1;from
+Q31811629;Kautenbach;карта местонахождения;1;1;from
+Q31811629;Kautenbach;это частный случай понятия;1;2;from
+Q31811629;Kautenbach;столица;1;1;from
+Q31811629;Kautenbach;изображение герба;1;1;from
+Q31811629;Kautenbach;код GeoNames;1;1;from
+Q31811629;Kautenbach;высота над уровнем моря;1;1;from
+Q31811629;Kautenbach;категория на Викискладе;1;1;from
+Q31811629;Kautenbach;дата прекращения существования;1;1;from
+Q25583657;Helperknapp;столица;1;1;from
+Q25583657;Helperknapp;это частный случай понятия;1;3;from
+Q25583657;Helperknapp;карта местонахождения;1;1;from
+Q18693153;Beaufort;государство;1;1;from
+Q17496568;Bascharage;код GeoNames;1;1;from
+Q17496568;Bascharage;высота над уровнем моря;1;1;from
+Q17496568;Bascharage;произношение (звуковой файл);1;1;from
+Q17496568;Bascharage;географические координаты;1;1;from
+Q17496568;Bascharage;Who's on First ID;1;1;from
+Q17496568;Bascharage;административно-территориальная единица;1;1;to
+Q17496568;Bascharage;местонахождение;1;1;to
+Q17496568;Bascharage;юрисдикция распространяется на;1;1;to
+Q18693153;Beaufort;изображение;1;1;from
+Q17496568;Bascharage;государство;1;1;from
+Q18693153;Beaufort;код VIAF;1;1;from
+Q18693153;Beaufort;код GND;1;1;from
+Q18693153;Beaufort;код LCNAF;1;1;from
+Q18693153;Beaufort;это частный случай понятия;1;1;from
+Q18693153;Beaufort;имеет границы с;1;2;to
+Q18693153;Beaufort;глава правительства;1;5;from
+Q18693153;Beaufort;изображение герба;1;1;from
+Q18693153;Beaufort;численность населения;1;53;from
+Q17496568;Bascharage;это частный случай понятия;1;2;from
+Q16763715;Q16763715;произношение (звуковой файл);1;1;from
+Q18693153;Beaufort;высота над уровнем моря;1;1;from
+Q1401990;Munshausen;общая тема категории;1;1;to
+Q1401990;Munshausen;категория на Викискладе;1;1;from
+Q1401990;Munshausen;произношение (звуковой файл);1;1;from
+Q1401990;Munshausen;идентификатор местоположения ArchINFORM;1;1;from
+Q1401990;Munshausen;географические координаты;1;1;from
+Q1401990;Munshausen;код Freebase;1;1;from
+Q1401990;Munshausen;Who's on First ID;1;1;from
+Q1401990;Munshausen;официальный сайт;1;1;from
+Q1401990;Munshausen;основная категория по теме;1;1;from
+Q7361259;Rollingergrund;административно-территориальная единица;1;1;to
+Q16763715;Q16763715;это частный случай понятия;1;1;from
+Q7361259;Rollingergrund;государство;1;1;from
+Q7361259;Rollingergrund;изображение;1;1;from
+Q7361259;Rollingergrund;это частный случай понятия;1;3;from
+Q7361259;Rollingergrund;код GeoNames;1;1;from
+Q7361259;Rollingergrund;произношение (звуковой файл);1;1;from
+Q7361259;Rollingergrund;географические координаты;1;1;from
+Q7361259;Rollingergrund;Who's on First ID;1;1;from
+Q16763715;Q16763715;государство;1;1;from
+Q18693153;Beaufort;код GeoNames;1;1;from
+Q18693153;Beaufort;площадь;1;1;from
+Q25583657;Helperknapp;изображение;1;1;from
+Q20969792;Wilwerwiltz;дата окончания;1;1;from
+Q20969230;Esch-sur-Alzette;место смерти;1;1;to
+Q20969792;Wilwerwiltz;государство;1;1;from
+Q20969792;Wilwerwiltz;карта местонахождения;1;1;from
+Q20969792;Wilwerwiltz;это частный случай понятия;1;2;from
+Q20969792;Wilwerwiltz;столица;1;1;from
+Q20969792;Wilwerwiltz;изображение герба;1;1;from
+Q20969792;Wilwerwiltz;код GeoNames;1;1;from
+Q20969792;Wilwerwiltz;категория на Викискладе;1;1;from
+Q20969792;Wilwerwiltz;географические координаты;1;1;from
+Q20969230;Esch-sur-Alzette;географические координаты;1;1;from
+Q20969792;Wilwerwiltz;предыдущее по порядку;1;1;to
+Q20969792;Wilwerwiltz;является столицей;1;1;to
+Q25583424;Q25583424;государство;1;1;from
+Q25583424;Q25583424;это частный случай понятия;1;2;from
+Q25583424;Q25583424;место рождения;1;1;to
+Q25583657;Helperknapp;административно-территориальная единица;1;10;to
+Q25583657;Helperknapp;названо в честь;1;1;from
+Q25583657;Helperknapp;государство;1;1;from
+Q20969230;Esch-sur-Alzette;Who's on First ID;1;1;from
+Q20969230;Esch-sur-Alzette;предположительно одно и то же с;1;1;to
+Q18693153;Beaufort;категория на Викискладе;1;1;from
+Q18693153;Beaufort;баннер Викигида;1;1;from
+Q18693153;Beaufort;произношение (звуковой файл);1;1;from
+Q18693153;Beaufort;географические координаты;1;1;from
+Q18693153;Beaufort;код Freebase;1;1;from
+Q18693153;Beaufort;Who's on First ID;1;1;from
+Q18693153;Beaufort;находится в пределах природно-географического объекта;1;1;from
+Q18693153;Beaufort;LAU;1;1;from
+Q18693153;Beaufort;официальный сайт;1;1;from
+Q18693153;Beaufort;основная категория по теме;1;1;from
+Q18693153;Beaufort;административно-территориальная единица;1;9;to
+Q20969230;Esch-sur-Alzette;высота над уровнем моря;1;1;from
+Q18693153;Beaufort;состоит из;1;4;to
+Q18693153;Beaufort;местонахождение;1;1;to
+Q18693153;Beaufort;место смерти;1;1;to
+Q18693153;Beaufort;место рождения;1;1;to
+Q18693153;Beaufort;общая тема категории;1;1;to
+Q20969230;Esch-sur-Alzette;государство;1;1;from
+Q20969230;Esch-sur-Alzette;это частный случай понятия;1;1;from
+Q20969230;Esch-sur-Alzette;код GeoNames;1;1;from
+Q513740;Putscheid;произношение (звуковой файл);1;2;from
+Q513740;Putscheid;географические координаты;1;1;from
+Q513740;Putscheid;код Freebase;1;1;from
+Q774592;Neunhausen;административно-территориальная единица;1;1;from
+Q776642;Käerjeng;категория для людей, родившихся здесь;1;1;from
+Q776642;Käerjeng;код GeoNames;1;1;from
+Q776642;Käerjeng;высота над уровнем моря;1;1;from
+Q776642;Käerjeng;площадь;1;1;from
+Q776642;Käerjeng;категория на Викискладе;1;1;from
+Q776642;Käerjeng;участник организации или клуба;1;1;from
+Q776642;Käerjeng;географические координаты;1;1;from
+Q776642;Käerjeng;код Freebase;1;1;from
+Q776642;Käerjeng;LAU;1;1;from
+Q776642;Käerjeng;официальный сайт;1;1;from
+Q776642;Käerjeng;основная категория по теме;1;1;from
+Q776642;Käerjeng;место рождения;1;3;to
+Q776642;Käerjeng;местонахождение;1;2;to
+Q776642;Käerjeng;общая тема категории;1;1;to
+Q776642;Käerjeng;категория объединяет темы;1;1;to
+Q783026;Reckange-sur-Mess;государство;1;1;from
+Q783026;Reckange-sur-Mess;изображение;1;1;from
+Q783026;Reckange-sur-Mess;код VIAF;1;1;from
+Q783026;Reckange-sur-Mess;код GND;1;1;from
+Q776642;Käerjeng;численность населения;1;53;from
+Q776642;Käerjeng;изображение герба;1;1;from
+Q776642;Käerjeng;глава правительства;1;2;from
+Q774592;Neunhausen;географические координаты;1;1;from
+Q774592;Neunhausen;код VIAF;1;1;from
+Q774592;Neunhausen;это частный случай понятия;1;2;from
+Q774592;Neunhausen;изображение герба;1;1;from
+Q774592;Neunhausen;код GeoNames;1;2;from
+Q774592;Neunhausen;высота над уровнем моря;1;1;from
+Q774592;Neunhausen;площадь;1;1;from
+Q774592;Neunhausen;категория на Викискладе;1;1;from
+Q774592;Neunhausen;произношение (звуковой файл);1;3;from
+Q774592;Neunhausen;код Freebase;1;1;from
+Q776642;Käerjeng;имеет границы с;1;9;to
+Q774592;Neunhausen;Who's on First ID;1;1;from
+Q774592;Neunhausen;официальный сайт;1;1;from
+Q774592;Neunhausen;место рождения;1;1;to
+Q776642;Käerjeng;административно-территориальная единица;1;15;to
+Q776642;Käerjeng;государство;1;1;from
+Q776642;Käerjeng;изображение;1;1;from
+Q776642;Käerjeng;карта местонахождения;1;1;from
+Q776642;Käerjeng;это частный случай понятия;1;3;from
+Q783026;Reckange-sur-Mess;это частный случай понятия;1;1;from
+Q783026;Reckange-sur-Mess;имеет границы с;1;1;to
+Q783026;Reckange-sur-Mess;изображение герба;1;1;from
+Q798747;Mondorf-les-Bains;предположительно одно и то же с;1;1;to
+Q798747;Mondorf-les-Bains;численность населения;1;53;from
+Q798747;Mondorf-les-Bains;описывается в источниках;1;1;from
+Q798747;Mondorf-les-Bains;код GeoNames;1;1;from
+Q798747;Mondorf-les-Bains;категория для людей, связанных с местностью;1;1;from
+Q798747;Mondorf-les-Bains;высота над уровнем моря;1;1;from
+Q798747;Mondorf-les-Bains;площадь;1;1;from
+Q798747;Mondorf-les-Bains;категория на Викискладе;1;1;from
+Q798747;Mondorf-les-Bains;произношение (звуковой файл);1;1;from
+Q798747;Mondorf-les-Bains;географические координаты;1;1;from
+Q798747;Mondorf-les-Bains;имеет границы с;1;1;to
+Q798747;Mondorf-les-Bains;код Freebase;1;1;from
+Q798747;Mondorf-les-Bains;Who's on First ID;1;1;from
+Q798747;Mondorf-les-Bains;LAU;1;1;from
+Q798747;Mondorf-les-Bains;официальный сайт;1;1;from
+Q798747;Mondorf-les-Bains;основная категория по теме;1;1;from
+Q798747;Mondorf-les-Bains;баннер Викигида;1;1;from
+Q798747;Mondorf-les-Bains;расположение штаб-квартиры;1;1;to
+Q798747;Mondorf-les-Bains;место рождения;1;5;to
+Q798747;Mondorf-les-Bains;изображение герба;1;1;from
+Q798747;Mondorf-les-Bains;это частный случай понятия;1;2;from
+Q783026;Reckange-sur-Mess;численность населения;1;53;from
+Q783026;Reckange-sur-Mess;официальный сайт;1;1;from
+Q783026;Reckange-sur-Mess;код GeoNames;1;1;from
+Q783026;Reckange-sur-Mess;высота над уровнем моря;1;1;from
+Q783026;Reckange-sur-Mess;площадь;1;1;from
+Q783026;Reckange-sur-Mess;категория на Викискладе;1;1;from
+Q783026;Reckange-sur-Mess;географические координаты;1;1;from
+Q783026;Reckange-sur-Mess;код Freebase;1;1;from
+Q783026;Reckange-sur-Mess;Who's on First ID;1;1;from
+Q783026;Reckange-sur-Mess;LAU;1;1;from
+Q783026;Reckange-sur-Mess;основная категория по теме;1;1;from
+Q798747;Mondorf-les-Bains;карта местонахождения;1;1;from
+Q783026;Reckange-sur-Mess;административно-территориальная единица;1;7;to
+Q783026;Reckange-sur-Mess;наивысшая точка;1;1;to
+Q783026;Reckange-sur-Mess;общая тема категории;1;1;to
+Q798747;Mondorf-les-Bains;административно-территориальная единица;1;10;to
+Q798747;Mondorf-les-Bains;государство;1;1;from
+Q798747;Mondorf-les-Bains;город-побратим;1;5;to
+Q798747;Mondorf-les-Bains;код VIAF;1;1;from
+Q798747;Mondorf-les-Bains;код GND;1;1;from
+Q774592;Neunhausen;государство;1;1;from
+Q743393;Parc Hosingen;общая тема категории;1;1;to
+Q687100;Redange;столица;1;1;to
+Q743393;Parc Hosingen;местонахождение;1;1;to
+Q741589;Wiltz;Who's on First ID;1;1;from
+Q741589;Wiltz;LAU;1;1;from
+Q741589;Wiltz;официальный сайт;1;1;from
+Q741589;Wiltz;основная категория по теме;1;1;from
+Q741589;Wiltz;баннер Викигида;1;1;from
+Q741589;Wiltz;место рождения;1;21;to
+Q741589;Wiltz;место жительства;1;1;to
+Q741589;Wiltz;состоит из;1;4;to
+Q741589;Wiltz;основная тема;1;1;to
+Q741589;Wiltz;расположение штаб-квартиры;1;1;to
+Q741589;Wiltz;место смерти;1;5;to
+Q741589;Wiltz;местонахождение;1;1;to
+Q741589;Wiltz;часть от;1;1;to
+Q741589;Wiltz;начало пути;1;6;to
+Q741589;Wiltz;категория объединяет темы;1;2;to
+Q741589;Wiltz;столица;1;1;to
+Q741589;Wiltz;общая тема категории;1;1;to
+Q741589;Wiltz;юрисдикция распространяется на;1;1;to
+Q742927;Heffingen;административно-территориальная единица;1;3;to
+Q741589;Wiltz;код Freebase;1;1;from
+Q741589;Wiltz;географические координаты;1;1;from
+Q741589;Wiltz;идентификатор местоположения ArchINFORM;1;1;from
+Q741589;Wiltz;глава правительства;1;62;from
+Q741589;Wiltz;административно-территориальная единица;1;21;to
+Q741589;Wiltz;логотип;1;1;from
+Q741589;Wiltz;государство;1;1;from
+Q741589;Wiltz;изображение;1;1;from
+Q741589;Wiltz;код VIAF;1;1;from
+Q741589;Wiltz;код GND;1;1;from
+Q741589;Wiltz;это частный случай понятия;1;1;from
+Q741589;Wiltz;имеет границы с;1;3;to
+Q741589;Wiltz;изображение герба;1;1;from
+Q741589;Wiltz;произношение (звуковой файл);1;3;from
+Q741589;Wiltz;численность населения;1;53;from
+Q741589;Wiltz;является столицей;1;1;from
+Q741589;Wiltz;категория для людей, родившихся здесь;1;1;from
+Q741589;Wiltz;код GeoNames;1;1;from
+Q741589;Wiltz;категория для людей, связанных с местностью;1;1;from
+Q741589;Wiltz;высота над уровнем моря;1;1;from
+Q741589;Wiltz;площадь;1;1;from
+Q741589;Wiltz;категория на Викискладе;1;1;from
+Q742927;Heffingen;государство;1;1;from
+Q742927;Heffingen;изображение;1;1;from
+Q742927;Heffingen;код VIAF;1;1;from
+Q743393;Parc Hosingen;численность населения;1;53;from
+Q742927;Heffingen;место рождения;1;1;to
+Q742927;Heffingen;общая тема категории;1;1;to
+Q743393;Parc Hosingen;административно-территориальная единица;1;18;to
+Q743393;Parc Hosingen;государство;1;1;from
+Q743393;Parc Hosingen;карта местонахождения;1;1;from
+Q743393;Parc Hosingen;это частный случай понятия;1;1;from
+Q743393;Parc Hosingen;имеет границы с;1;10;to
+Q743393;Parc Hosingen;глава правительства;1;3;from
+Q743393;Parc Hosingen;код GeoNames;1;1;from
+Q742927;Heffingen;основная категория по теме;1;1;from
+Q743393;Parc Hosingen;площадь;1;1;from
+Q743393;Parc Hosingen;категория на Викискладе;1;1;from
+Q743393;Parc Hosingen;географические координаты;1;1;from
+Q743393;Parc Hosingen;код Freebase;1;1;from
+Q743393;Parc Hosingen;LAU;1;1;from
+Q743393;Parc Hosingen;официальный сайт;1;1;from
+Q743393;Parc Hosingen;основная категория по теме;1;1;from
+Q743393;Parc Hosingen;состоит из;1;3;to
+Q742927;Heffingen;является столицей;1;1;to
+Q742927;Heffingen;официальный сайт;1;1;from
+Q742927;Heffingen;код GND;1;1;from
+Q742927;Heffingen;список памятников;1;1;from
+Q742927;Heffingen;карта местонахождения;1;1;from
+Q742927;Heffingen;это частный случай понятия;1;1;from
+Q742927;Heffingen;столица;1;1;from
+Q742927;Heffingen;имеет границы с;1;3;to
+Q742927;Heffingen;изображение герба;1;1;from
+Q742927;Heffingen;численность населения;1;53;from
+Q742927;Heffingen;WOEID;1;1;from
+Q742927;Heffingen;включает населённый пункт;1;11;from
+Q742927;Heffingen;код GeoNames;1;1;from
+Q742927;Heffingen;LAU;1;1;from
+Q742927;Heffingen;название на языке оригинала;1;1;from
+Q742927;Heffingen;высота над уровнем моря;1;1;from
+Q742927;Heffingen;площадь;1;1;from
+Q742927;Heffingen;категория на Викискладе;1;1;from
+Q742927;Heffingen;произношение (звуковой файл);1;1;from
+Q742927;Heffingen;географические координаты;1;1;from
+Q742927;Heffingen;код Freebase;1;1;from
+Q742927;Heffingen;Who's on First ID;1;1;from
+Q798747;Mondorf-les-Bains;место создания;1;1;to
+Q798747;Mondorf-les-Bains;место смерти;1;5;to
+Q798747;Mondorf-les-Bains;состоит из;1;1;to
+Q798747;Mondorf-les-Bains;основная тема;1;1;to
+Q813727;Beckerich;общая тема категории;1;1;to
+Q818891;Berdorf;государство;1;1;from
+Q818891;Berdorf;изображение;1;1;from
+Q818891;Berdorf;код VIAF;1;1;from
+Q818891;Berdorf;это частный случай понятия;1;1;from
+Q818891;Berdorf;имеет границы с;1;4;to
+Q818891;Berdorf;изображение герба;1;1;from
+Q818891;Berdorf;численность населения;1;53;from
+Q818891;Berdorf;код GeoNames;1;1;from
+Q818891;Berdorf;высота над уровнем моря;1;1;from
+Q818891;Berdorf;площадь;1;1;from
+Q818891;Berdorf;категория на Викискладе;1;1;from
+Q818891;Berdorf;произношение (звуковой файл);1;3;from
+Q818891;Berdorf;географические координаты;1;1;from
+Q818891;Berdorf;код Freebase;1;1;from
+Q818891;Berdorf;Who's on First ID;1;1;from
+Q818891;Berdorf;LAU;1;1;from
+Q818891;Berdorf;официальный сайт;1;1;from
+Q818891;Berdorf;основная категория по теме;1;1;from
+Q813727;Beckerich;место рождения;1;1;to
+Q813727;Beckerich;является столицей;1;1;to
+Q813727;Beckerich;административно-территориальная единица;1;14;to
+Q813727;Beckerich;высота над уровнем моря;1;1;from
+Q813727;Beckerich;код VIAF;1;1;from
+Q813727;Beckerich;карта местонахождения;1;1;from
+Q813727;Beckerich;это частный случай понятия;1;1;from
+Q813727;Beckerich;столица;1;1;from
+Q813727;Beckerich;имеет границы с;1;7;to
+Q813727;Beckerich;изображение герба;1;1;from
+Q813727;Beckerich;численность населения;1;53;from
+Q813727;Beckerich;код GeoNames;1;1;from
+Q813727;Beckerich;площадь;1;1;from
+Q813727;Beckerich;основная категория по теме;1;1;from
+Q813727;Beckerich;категория на Викискладе;1;1;from
+Q813727;Beckerich;произношение (звуковой файл);1;1;from
+Q813727;Beckerich;участник организации или клуба;1;1;from
+Q813727;Beckerich;географические координаты;1;1;from
+Q813727;Beckerich;код Freebase;1;1;from
+Q813727;Beckerich;Who's on First ID;1;1;from
+Q813727;Beckerich;LAU;1;1;from
+Q813727;Beckerich;официальный сайт;1;1;from
+Q818891;Berdorf;административно-территориальная единица;1;10;to
+Q818891;Berdorf;состоит из;1;4;to
+Q818891;Berdorf;место рождения;1;2;to
+Q832342;Bettembourg;категория объединяет темы;1;1;to
+Q832342;Bettembourg;LAU;1;1;from
+Q832342;Bettembourg;официальный сайт;1;1;from
+Q832342;Bettembourg;основная категория по теме;1;1;from
+Q832342;Bettembourg;место активности;1;1;to
+Q832342;Bettembourg;место рождения;1;7;to
+Q832342;Bettembourg;место смерти;1;5;to
+Q832342;Bettembourg;местонахождение;1;3;to
+Q832342;Bettembourg;состоит из;1;1;to
+Q832342;Bettembourg;начало пути;1;3;to
+Q832342;Bettembourg;код Freebase;1;1;from
+Q832342;Bettembourg;пункт назначения;1;3;to
+Q832342;Bettembourg;расположение штаб-квартиры;1;2;to
+Q832342;Bettembourg;юрисдикция распространяется на;1;1;to
+Q832342;Bettembourg;общая тема категории;1;1;to
+Q832342;Bettembourg;место жительства;1;1;to
+Q832342;Bettembourg;город-побратим;1;1;to
+Q832382;Bettendorf;государство;1;1;from
+Q832382;Bettendorf;код VIAF;1;1;from
+Q832342;Bettembourg;Who's on First ID;1;1;from
+Q832342;Bettembourg;географические координаты;1;1;from
+Q818891;Berdorf;местонахождение;1;1;to
+Q832342;Bettembourg;имеет границы с;1;1;to
+Q818891;Berdorf;общая тема категории;1;1;to
+Q818891;Berdorf;место смерти;1;1;to
+Q832342;Bettembourg;административно-территориальная единица;1;17;to
+Q832342;Bettembourg;государство;1;1;from
+Q832342;Bettembourg;код VIAF;1;1;from
+Q832342;Bettembourg;код GND;1;1;from
+Q832342;Bettembourg;карта местонахождения;1;1;from
+Q832342;Bettembourg;это частный случай понятия;1;1;from
+Q832342;Bettembourg;изображение герба;1;1;from
+Q832342;Bettembourg;участник организации или клуба;1;1;from
+Q832342;Bettembourg;численность населения;1;53;from
+Q832342;Bettembourg;официальное название;1;3;from
+Q832342;Bettembourg;категория для людей, умерших здесь;1;1;from
+Q832342;Bettembourg;код GeoNames;1;1;from
+Q832342;Bettembourg;высота над уровнем моря;1;1;from
+Q832342;Bettembourg;площадь;1;1;from
+Q832342;Bettembourg;категория на Викискладе;1;1;from
+Q832342;Bettembourg;произношение (звуковой файл);1;1;from
+Q813727;Beckerich;изображение;1;1;from
+Q813727;Beckerich;государство;1;1;from
+Q813593;Bech;местонахождение;1;1;to
+Q809603;Bertrange;LAU;1;1;from
+Q809603;Bertrange;высота над уровнем моря;1;1;from
+Q809603;Bertrange;площадь;1;1;from
+Q809603;Bertrange;код SUDOC;1;1;from
+Q809603;Bertrange;категория на Викискладе;1;1;from
+Q809603;Bertrange;произношение (звуковой файл);1;1;from
+Q809603;Bertrange;географические координаты;1;1;from
+Q809603;Bertrange;код Freebase;1;1;from
+Q809603;Bertrange;Who's on First ID;1;1;from
+Q809603;Bertrange;официальный сайт;1;1;from
+Q809603;Bertrange;код GeoNames;1;1;from
+Q809603;Bertrange;основная категория по теме;1;1;from
+Q809603;Bertrange;местонахождение;1;1;to
+Q809603;Bertrange;место рождения;1;4;to
+Q809603;Bertrange;состоит из;1;1;to
+Q809603;Bertrange;категория объединяет темы;1;1;to
+Q809603;Bertrange;расположение штаб-квартиры;1;3;to
+Q809603;Bertrange;юрисдикция распространяется на;1;1;to
+Q809603;Bertrange;общая тема категории;1;1;to
+Q809603;Bertrange;название на языке оригинала;1;1;from
+Q809603;Bertrange;категория для людей, родившихся здесь;1;1;from
+Q811880;Boulaide;государство;1;1;from
+Q809603;Bertrange;государство;1;1;from
+Q798747;Mondorf-les-Bains;начало пути;1;1;to
+Q798747;Mondorf-les-Bains;пункт назначения;1;5;to
+Q798747;Mondorf-les-Bains;местонахождение;1;2;to
+Q798747;Mondorf-les-Bains;расположение конечной точки;1;2;to
+Q798747;Mondorf-les-Bains;место жительства;1;1;to
+Q798747;Mondorf-les-Bains;общая тема категории;1;1;to
+Q798747;Mondorf-les-Bains;категория объединяет темы;1;1;to
+Q809603;Bertrange;административно-территориальная единица;1;8;to
+Q809603;Bertrange;код VIAF;1;1;from
+Q809603;Bertrange;официальное название;1;3;from
+Q809603;Bertrange;код GND;1;1;from
+Q809603;Bertrange;код LCNAF;1;1;from
+Q809603;Bertrange;это частный случай понятия;1;1;from
+Q809603;Bertrange;имеет границы с;1;4;to
+Q809603;Bertrange;глава правительства;1;56;from
+Q809603;Bertrange;изображение герба;1;1;from
+Q809603;Bertrange;численность населения;1;53;from
+Q809603;Bertrange;WOEID;1;1;from
+Q809603;Bertrange;место смерти;1;1;to
+Q811880;Boulaide;код VIAF;1;1;from
+Q813593;Bech;общая тема категории;1;1;to
+Q813593;Bech;площадь;1;1;from
+Q813593;Bech;код VIAF;1;1;from
+Q813593;Bech;код GND;1;1;from
+Q813593;Bech;это частный случай понятия;1;1;from
+Q813593;Bech;имеет границы с;1;4;to
+Q813593;Bech;глава правительства;1;1;from
+Q813593;Bech;изображение герба;1;1;from
+Q813593;Bech;численность населения;1;53;from
+Q813593;Bech;код GeoNames;1;1;from
+Q813593;Bech;категория на Викискладе;1;1;from
+Q813593;Bech;административно-территориальная единица;1;8;to
+Q813593;Bech;произношение (звуковой файл);1;1;from
+Q813593;Bech;географические координаты;1;1;from
+Q813593;Bech;код Freebase;1;1;from
+Q813593;Bech;Who's on First ID;1;1;from
+Q813593;Bech;LAU;1;1;from
+Q813593;Bech;официальный сайт;1;1;from
+Q813593;Bech;основная категория по теме;1;1;from
+Q813593;Bech;состоит из;1;2;to
+Q813593;Bech;государство;1;1;from
+Q811880;Boulaide;общая тема категории;1;1;to
+Q811880;Boulaide;карта местонахождения;1;1;from
+Q811880;Boulaide;категория на Викискладе;1;1;from
+Q811880;Boulaide;это частный случай понятия;1;1;from
+Q811880;Boulaide;имеет границы с;1;5;to
+Q811880;Boulaide;изображение герба;1;1;from
+Q811880;Boulaide;численность населения;1;53;from
+Q811880;Boulaide;WOEID;1;1;from
+Q811880;Boulaide;код GeoNames;1;1;from
+Q811880;Boulaide;высота над уровнем моря;1;1;from
+Q811880;Boulaide;площадь;1;1;from
+Q811880;Boulaide;произношение (звуковой файл);1;1;from
+Q811880;Boulaide;местонахождение;1;1;to
+Q811880;Boulaide;географические координаты;1;1;from
+Q811880;Boulaide;код Freebase;1;1;from
+Q811880;Boulaide;Who's on First ID;1;1;from
+Q811880;Boulaide;LAU;1;1;from
+Q811880;Boulaide;официальный сайт;1;1;from
+Q811880;Boulaide;основная категория по теме;1;1;from
+Q811880;Boulaide;административно-территориальная единица;1;8;to
+Q811880;Boulaide;состоит из;1;3;to
+Q687100;Redange;категория объединяет темы;1;1;to
+Q687100;Redange;общая тема категории;1;1;to
+Q513740;Putscheid;Who's on First ID;1;1;from
+Q641381;Bourscheid;географические координаты;1;1;from
+Q659351;Ettelbruck;высота над уровнем моря;1;1;from
+Q659351;Ettelbruck;площадь;1;1;from
+Q659351;Ettelbruck;код темы Quora;1;1;from
+Q659351;Ettelbruck;категория на Викискладе;1;1;from
+Q659351;Ettelbruck;произношение (звуковой файл);1;1;from
+Q659351;Ettelbruck;участник организации или клуба;1;1;from
+Q659351;Ettelbruck;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q659351;Ettelbruck;географические координаты;1;2;from
+Q659351;Ettelbruck;код Freebase;1;1;from
+Q659351;Ettelbruck;Who's on First ID;1;1;from
+Q659351;Ettelbruck;LAU;1;1;from
+Q659351;Ettelbruck;официальный сайт;1;1;from
+Q659351;Ettelbruck;основная категория по теме;1;1;from
+Q659351;Ettelbruck;баннер Викигида;1;1;from
+Q659351;Ettelbruck;место в MusicBrainz;1;1;from
+Q659351;Ettelbruck;место рождения;1;42;to
+Q659351;Ettelbruck;место смерти;1;6;to
+Q659351;Ettelbruck;состоит из;1;4;to
+Q659351;Ettelbruck;категория объединяет темы;1;2;to
+Q659351;Ettelbruck;категория для людей, связанных с местностью;1;1;from
+Q659351;Ettelbruck;код GeoNames;1;1;from
+Q659351;Ettelbruck;категория для людей, родившихся здесь;1;1;from
+Q659351;Ettelbruck;изображение;1;1;from
+Q641381;Bourscheid;Who's on First ID;1;1;from
+Q641381;Bourscheid;LAU;1;1;from
+Q641381;Bourscheid;официальный сайт;1;1;from
+Q641381;Bourscheid;основная категория по теме;1;1;from
+Q641381;Bourscheid;состоит из;1;6;to
+Q641381;Bourscheid;общая тема категории;1;1;to
+Q659351;Ettelbruck;административно-территориальная единица;1;11;to
+Q659351;Ettelbruck;государство;1;1;from
+Q659351;Ettelbruck;код VIAF;1;1;from
+Q659351;Ettelbruck;код US National Archives;1;1;from
+Q659351;Ettelbruck;код GND;1;1;from
+Q659351;Ettelbruck;карта местонахождения;1;1;from
+Q659351;Ettelbruck;код LCNAF;1;1;from
+Q659351;Ettelbruck;это частный случай понятия;1;1;from
+Q659351;Ettelbruck;имеет границы с;1;3;to
+Q659351;Ettelbruck;глава правительства;1;2;from
+Q659351;Ettelbruck;изображение герба;1;1;from
+Q659351;Ettelbruck;численность населения;1;53;from
+Q659351;Ettelbruck;часть от;1;1;to
+Q659351;Ettelbruck;юрисдикция распространяется на;1;1;to
+Q659351;Ettelbruck;оператор;1;1;to
+Q669155;Schifflange;государство;1;1;from
+Q660217;Consdorf;основная категория по теме;1;1;from
+Q660217;Consdorf;баннер Викигида;1;1;from
+Q660217;Consdorf;место рождения;1;2;to
+Q660217;Consdorf;административно-территориальная единица;1;7;to
+Q660217;Consdorf;местонахождение;1;1;to
+Q660217;Consdorf;состоит из;1;3;to
+Q660217;Consdorf;общая тема категории;1;1;to
+Q669155;Schifflange;административно-территориальная единица;1;8;to
+Q669155;Schifflange;изображение;1;1;from
+Q660217;Consdorf;LAU;1;1;from
+Q669155;Schifflange;код VIAF;1;1;from
+Q669155;Schifflange;код GND;1;1;from
+Q669155;Schifflange;карта местонахождения;1;1;from
+Q669155;Schifflange;это частный случай понятия;1;1;from
+Q669155;Schifflange;имеет границы с;1;1;to
+Q669155;Schifflange;глава правительства;1;2;from
+Q669155;Schifflange;изображение герба;1;1;from
+Q669155;Schifflange;численность населения;1;53;from
+Q660217;Consdorf;официальный сайт;1;1;from
+Q660217;Consdorf;находится в пределах природно-географического объекта;1;3;from
+Q659351;Ettelbruck;место жительства;1;1;to
+Q660217;Consdorf;глава правительства;1;6;from
+Q659351;Ettelbruck;общая тема категории;1;1;to
+Q659351;Ettelbruck;расположение штаб-квартиры;1;2;to
+Q660217;Consdorf;государство;1;1;from
+Q660217;Consdorf;код VIAF;1;1;from
+Q660217;Consdorf;код GND;1;1;from
+Q660217;Consdorf;карта местонахождения;1;1;from
+Q660217;Consdorf;это частный случай понятия;1;1;from
+Q660217;Consdorf;имеет границы с;1;4;to
+Q660217;Consdorf;изображение герба;1;1;from
+Q660217;Consdorf;Who's on First ID;1;1;from
+Q660217;Consdorf;численность населения;1;53;from
+Q660217;Consdorf;код GeoNames;1;1;from
+Q660217;Consdorf;высота над уровнем моря;1;1;from
+Q660217;Consdorf;площадь;1;1;from
+Q660217;Consdorf;категория на Викискладе;1;1;from
+Q660217;Consdorf;произношение (звуковой файл);1;1;from
+Q660217;Consdorf;географические координаты;1;1;from
+Q660217;Consdorf;код Freebase;1;1;from
+Q641381;Bourscheid;код Freebase;1;1;from
+Q641381;Bourscheid;произношение (звуковой файл);1;3;from
+Q687100;Redange;начало пути;1;2;to
+Q641381;Bourscheid;ID отношения в OpenStreetMap;1;1;from
+Q596040;Contern;географические координаты;1;1;from
+Q596040;Contern;код Freebase;1;1;from
+Q596040;Contern;Who's on First ID;1;1;from
+Q596040;Contern;LAU;1;1;from
+Q596040;Contern;официальный сайт;1;1;from
+Q596040;Contern;основная категория по теме;1;1;from
+Q596040;Contern;расположение штаб-квартиры;1;2;to
+Q596040;Contern;административно-территориальная единица;1;5;to
+Q596040;Contern;часть от;1;1;to
+Q596040;Contern;является столицей;1;1;to
+Q596040;Contern;общая тема категории;1;1;to
+Q602441;Pétange;административно-территориальная единица;1;18;to
+Q602441;Pétange;государство;1;1;from
+Q602441;Pétange;изображение;1;1;from
+Q602441;Pétange;город-побратим;1;2;to
+Q602441;Pétange;код VIAF;1;1;from
+Q602441;Pétange;код GND;1;1;from
+Q602441;Pétange;это частный случай понятия;1;2;from
+Q602441;Pétange;имеет границы с;1;6;to
+Q596040;Contern;участник организации или клуба;1;1;from
+Q596040;Contern;произношение (звуковой файл);1;1;from
+Q596040;Contern;ID отношения в OpenStreetMap;1;1;from
+Q596040;Contern;код GND;1;1;from
+Q513740;Putscheid;LAU;1;1;from
+Q513740;Putscheid;официальный сайт;1;1;from
+Q513740;Putscheid;основная категория по теме;1;1;from
+Q513740;Putscheid;состоит из;1;3;to
+Q513740;Putscheid;общая тема категории;1;1;to
+Q596040;Contern;государство;1;1;from
+Q596040;Contern;изображение;1;1;from
+Q596040;Contern;код VIAF;1;1;from
+Q596040;Contern;это частный случай понятия;1;1;from
+Q596040;Contern;категория на Викискладе;1;1;from
+Q596040;Contern;столица;1;1;from
+Q596040;Contern;имеет границы с;1;4;to
+Q596040;Contern;изображение герба;1;1;from
+Q596040;Contern;численность населения;1;53;from
+Q596040;Contern;WOEID;1;1;from
+Q596040;Contern;код GeoNames;1;1;from
+Q596040;Contern;высота над уровнем моря;1;1;from
+Q596040;Contern;площадь;1;1;from
+Q602441;Pétange;изображение герба;1;1;from
+Q602441;Pétange;численность населения;1;53;from
+Q602441;Pétange;категория для людей, родившихся здесь;1;1;from
+Q641381;Bourscheid;это частный случай понятия;1;1;from
+Q602441;Pétange;общая тема категории;1;1;to
+Q641381;Bourscheid;административно-территориальная единица;1;16;to
+Q641381;Bourscheid;государство;1;1;from
+Q641381;Bourscheid;изображение;1;1;from
+Q641381;Bourscheid;город-побратим;1;1;to
+Q641381;Bourscheid;код VIAF;1;1;from
+Q641381;Bourscheid;код GND;1;1;from
+Q641381;Bourscheid;карта местонахождения;1;1;from
+Q641381;Bourscheid;имеет границы с;1;5;to
+Q602441;Pétange;часть от;1;1;to
+Q641381;Bourscheid;изображение герба;1;1;from
+Q641381;Bourscheid;численность населения;1;53;from
+Q641381;Bourscheid;код GeoNames;1;1;from
+Q641381;Bourscheid;название на языке оригинала;1;3;from
+Q641381;Bourscheid;высота над уровнем моря;1;1;from
+Q641381;Bourscheid;площадь;1;1;from
+Q641381;Bourscheid;код BNF;1;1;from
+Q641381;Bourscheid;категория на Викискладе;1;1;from
+Q602441;Pétange;юрисдикция распространяется на;1;1;to
+Q602441;Pétange;категория объединяет темы;1;3;to
+Q602441;Pétange;категория для людей, умерших здесь;1;1;from
+Q602441;Pétange;географические координаты;1;1;from
+Q602441;Pétange;код GeoNames;1;1;from
+Q602441;Pétange;категория для людей, связанных с местностью;1;1;from
+Q602441;Pétange;высота над уровнем моря;1;1;from
+Q602441;Pétange;площадь;1;1;from
+Q602441;Pétange;код темы Quora;1;1;from
+Q602441;Pétange;категория на Викискладе;1;1;from
+Q602441;Pétange;произношение (звуковой файл);1;1;from
+Q602441;Pétange;участник организации или клуба;1;1;from
+Q602441;Pétange;код Freebase;1;1;from
+Q602441;Pétange;состоит из;1;2;to
+Q602441;Pétange;Who's on First ID;1;1;from
+Q602441;Pétange;LAU;1;1;from
+Q602441;Pétange;официальный сайт;1;1;from
+Q602441;Pétange;основная категория по теме;1;1;from
+Q602441;Pétange;расположение штаб-квартиры;1;3;to
+Q602441;Pétange;место рождения;1;16;to
+Q602441;Pétange;местонахождение;1;7;to
+Q602441;Pétange;место смерти;1;6;to
+Q669155;Schifflange;WOEID;1;1;from
+Q669155;Schifflange;официальное название;1;3;from
+Q669155;Schifflange;категория для людей, родившихся здесь;1;1;from
+Q669155;Schifflange;код GeoNames;1;1;from
+Q683922;Roeser;Who's on First ID;1;1;from
+Q683922;Roeser;LAU;1;1;from
+Q683922;Roeser;официальный сайт;1;1;from
+Q683922;Roeser;основная категория по теме;1;1;from
+Q683922;Roeser;местонахождение;1;4;to
+Q683922;Roeser;состоит из;1;3;to
+Q683922;Roeser;место астрономического открытия;1;2;to
+Q683922;Roeser;общая тема категории;1;1;to
+Q685611;Mertzig;административно-территориальная единица;1;1;to
+Q685611;Mertzig;государство;1;1;from
+Q685611;Mertzig;изображение;1;1;from
+Q685611;Mertzig;код VIAF;1;1;from
+Q685611;Mertzig;карта местонахождения;1;1;from
+Q685611;Mertzig;это частный случай понятия;1;1;from
+Q685611;Mertzig;имеет границы с;1;1;to
+Q685611;Mertzig;изображение герба;1;1;from
+Q685611;Mertzig;численность населения;1;53;from
+Q685611;Mertzig;WOEID;1;1;from
+Q685611;Mertzig;код GeoNames;1;1;from
+Q683922;Roeser;код Freebase;1;1;from
+Q683922;Roeser;географические координаты;1;1;from
+Q683922;Roeser;участник организации или клуба;1;1;from
+Q683922;Roeser;код GND;1;1;from
+Q677804;Sanem;начало пути;1;1;to
+Q677804;Sanem;юрисдикция распространяется на;1;1;to
+Q677804;Sanem;общая тема категории;1;1;to
+Q677804;Sanem;категория объединяет темы;1;1;to
+Q683922;Roeser;административно-территориальная единица;1;13;to
+Q683922;Roeser;государство;1;1;from
+Q683922;Roeser;город-побратим;1;1;to
+Q683922;Roeser;код VIAF;1;1;from
+Q683922;Roeser;код LCNAF;1;1;from
+Q683922;Roeser;произношение (звуковой файл);1;1;from
+Q683922;Roeser;это частный случай понятия;1;1;from
+Q683922;Roeser;имеет границы с;1;1;from
+Q683922;Roeser;изображение герба;1;1;from
+Q683922;Roeser;численность населения;1;53;from
+Q683922;Roeser;код GeoNames;1;1;from
+Q683922;Roeser;высота над уровнем моря;1;1;from
+Q683922;Roeser;площадь;1;1;from
+Q683922;Roeser;категория на Викискладе;1;1;from
+Q685611;Mertzig;высота над уровнем моря;1;1;from
+Q685611;Mertzig;площадь;1;1;from
+Q685611;Mertzig;категория на Викискладе;1;1;from
+Q687100;Redange;Who's on First ID;1;1;from
+Q687100;Redange;является столицей;1;1;from
+Q687100;Redange;категория для людей, родившихся здесь;1;1;from
+Q687100;Redange;код GeoNames;1;1;from
+Q687100;Redange;высота над уровнем моря;1;1;from
+Q687100;Redange;площадь;1;1;from
+Q687100;Redange;категория на Викискладе;1;1;from
+Q687100;Redange;географические координаты;1;1;from
+Q687100;Redange;код Freebase;1;1;from
+Q687100;Redange;LAU;1;1;from
+Q687100;Redange;изображение герба;1;1;from
+Q687100;Redange;официальный сайт;1;1;from
+Q687100;Redange;основная категория по теме;1;1;from
+Q687100;Redange;состоит из;1;1;to
+Q687100;Redange;место рождения;1;4;to
+Q687100;Redange;местонахождение;1;1;to
+Q687100;Redange;часть от;1;1;to
+Q687100;Redange;место смерти;1;1;to
+Q687100;Redange;пункт назначения;1;2;to
+Q687100;Redange;численность населения;1;53;from
+Q687100;Redange;глава правительства;1;51;from
+Q685611;Mertzig;произношение (звуковой файл);1;1;from
+Q685611;Mertzig;место смерти;1;1;to
+Q685611;Mertzig;географические координаты;1;1;from
+Q685611;Mertzig;код Freebase;1;1;from
+Q685611;Mertzig;Who's on First ID;1;1;from
+Q685611;Mertzig;LAU;1;1;from
+Q685611;Mertzig;официальный сайт;1;1;from
+Q685611;Mertzig;основная категория по теме;1;1;from
+Q685611;Mertzig;состоит из;1;2;to
+Q685611;Mertzig;наивысшая точка;1;1;to
+Q685611;Mertzig;общая тема категории;1;1;to
+Q687100;Redange;имеет границы с;1;5;to
+Q685611;Mertzig;место рождения;1;1;to
+Q687100;Redange;административно-территориальная единица;1;11;to
+Q687100;Redange;государство;1;1;from
+Q687100;Redange;изображение;1;1;from
+Q687100;Redange;код VIAF;1;1;from
+Q687100;Redange;код GND;1;1;from
+Q687100;Redange;карта местонахождения;1;1;from
+Q687100;Redange;это частный случай понятия;1;1;from
+Q677804;Sanem;является столицей;1;1;to
+Q677804;Sanem;место рождения;1;1;to
+Q677804;Sanem;состоит из;1;1;to
+Q676957;Colmar-Berg;имеет границы с;1;4;to
+Q676957;Colmar-Berg;административно-территориальная единица;1;4;to
+Q676957;Colmar-Berg;государство;1;1;from
+Q676957;Colmar-Berg;город-побратим;1;1;to
+Q676957;Colmar-Berg;код VIAF;1;1;from
+Q676957;Colmar-Berg;код GND;1;1;from
+Q676957;Colmar-Berg;описание герба;1;1;from
+Q676957;Colmar-Berg;карта местонахождения;1;1;from
+Q676957;Colmar-Berg;это частный случай понятия;1;1;from
+Q676957;Colmar-Berg;изображение герба;1;1;from
+Q669155;Schifflange;юрисдикция распространяется на;1;1;to
+Q676957;Colmar-Berg;численность населения;1;53;from
+Q676957;Colmar-Berg;категория для людей, родившихся здесь;1;1;from
+Q676957;Colmar-Berg;категория для людей, умерших здесь;1;1;from
+Q676957;Colmar-Berg;код GeoNames;1;1;from
+Q676957;Colmar-Berg;название на языке оригинала;1;3;from
+Q676957;Colmar-Berg;категория для людей, связанных с местностью;1;1;from
+Q676957;Colmar-Berg;высота над уровнем моря;1;1;from
+Q676957;Colmar-Berg;площадь;1;1;from
+Q669155;Schifflange;общая тема категории;1;1;to
+Q669155;Schifflange;место жительства;1;1;to
+Q676957;Colmar-Berg;ID отношения в OpenStreetMap;1;1;from
+Q669155;Schifflange;Who's on First ID;1;1;from
+Q669155;Schifflange;категория для людей, связанных с местностью;1;1;from
+Q669155;Schifflange;высота над уровнем моря;1;1;from
+Q669155;Schifflange;площадь;1;1;from
+Q669155;Schifflange;категория на Викискладе;1;1;from
+Q669155;Schifflange;произношение (звуковой файл);1;1;from
+Q669155;Schifflange;участник организации или клуба;1;1;from
+Q669155;Schifflange;географические координаты;1;1;from
+Q669155;Schifflange;код Freebase;1;1;from
+Q669155;Schifflange;LAU;1;1;from
+Q669155;Schifflange;начало пути;1;5;to
+Q669155;Schifflange;официальный сайт;1;1;from
+Q669155;Schifflange;основная категория по теме;1;1;from
+Q669155;Schifflange;место рождения;1;16;to
+Q669155;Schifflange;категория объединяет темы;1;2;to
+Q669155;Schifflange;место смерти;1;3;to
+Q669155;Schifflange;местонахождение;1;3;to
+Q669155;Schifflange;состоит из;1;1;to
+Q669155;Schifflange;пункт назначения;1;3;to
+Q676957;Colmar-Berg;категория на Викискладе;1;1;from
+Q676957;Colmar-Berg;произношение (звуковой файл);1;1;from
+Q677804;Sanem;место смерти;1;1;to
+Q677804;Sanem;площадь;1;1;from
+Q677804;Sanem;имеет границы с;1;4;to
+Q677804;Sanem;глава правительства;1;11;from
+Q677804;Sanem;изображение герба;1;1;from
+Q677804;Sanem;численность населения;1;53;from
+Q677804;Sanem;код GeoNames;1;1;from
+Q677804;Sanem;название на языке оригинала;1;3;from
+Q677804;Sanem;категория для людей, связанных с местностью;1;1;from
+Q677804;Sanem;высота над уровнем моря;1;1;from
+Q677804;Sanem;категория на Викискладе;1;1;from
+Q677804;Sanem;это частный случай понятия;1;1;from
+Q677804;Sanem;произношение (звуковой файл);1;1;from
+Q677804;Sanem;участник организации или клуба;1;1;from
+Q677804;Sanem;географические координаты;1;1;from
+Q677804;Sanem;код Freebase;1;1;from
+Q677804;Sanem;Who's on First ID;1;1;from
+Q677804;Sanem;LAU;1;1;from
+Q677804;Sanem;официальный сайт;1;1;from
+Q677804;Sanem;основная категория по теме;1;1;from
+Q677804;Sanem;столица;1;1;from
+Q677804;Sanem;код GND;1;1;from
+Q676957;Colmar-Berg;географические координаты;1;1;from
+Q676957;Colmar-Berg;расположение конечной точки;1;1;to
+Q676957;Colmar-Berg;код Freebase;1;1;from
+Q676957;Colmar-Berg;Who's on First ID;1;1;from
+Q676957;Colmar-Berg;LAU;1;1;from
+Q676957;Colmar-Berg;официальный сайт;1;1;from
+Q676957;Colmar-Berg;основная категория по теме;1;1;from
+Q676957;Colmar-Berg;место рождения;1;11;to
+Q676957;Colmar-Berg;категория объединяет темы;1;3;to
+Q676957;Colmar-Berg;состоит из;1;1;to
+Q676957;Colmar-Berg;глубочайшая точка;1;1;to
+Q677804;Sanem;код VIAF;1;1;from
+Q676957;Colmar-Berg;юрисдикция распространяется на;1;1;to
+Q676957;Colmar-Berg;место смерти;1;1;to
+Q676957;Colmar-Berg;начало пути;1;1;to
+Q676957;Colmar-Berg;расположение штаб-квартиры;1;1;to
+Q676957;Colmar-Berg;общая тема категории;1;1;to
+Q677804;Sanem;административно-территориальная единица;1;13;to
+Q677804;Sanem;государство;1;1;from
+Q677804;Sanem;изображение;1;1;from
+Q1133688;Lac de la Haute-Sûre;общая тема категории;1;1;to

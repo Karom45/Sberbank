@@ -1,0 +1,795 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q530231;Espaillat Province;административно-территориальная единица;1;24;to
+Q1366119;San Pedro de Macorís;почтовый индекс;1;1;from
+Q1366119;San Pedro de Macorís;категория на Викискладе;1;1;from
+Q1366119;San Pedro de Macorís;ID отношения в OpenStreetMap;1;1;from
+Q1366119;San Pedro de Macorís;часовой пояс;1;1;from
+Q1366119;San Pedro de Macorís;местный телефонный код;1;3;from
+Q1366119;San Pedro de Macorís;дата основания/создания/возникновения;1;1;from
+Q1366119;San Pedro de Macorís;географические координаты;1;1;from
+Q1366119;San Pedro de Macorís;код Freebase;1;1;from
+Q1366119;San Pedro de Macorís;Who's on First ID;1;1;from
+Q1366119;San Pedro de Macorís;FIPS 10-4 (страны и регионы);1;1;from
+Q1366119;San Pedro de Macorís;основная категория по теме;1;1;from
+Q1366119;San Pedro de Macorís;место в MusicBrainz;1;1;from
+Q1366119;San Pedro de Macorís;место рождения;1;15;to
+Q1366119;San Pedro de Macorís;место смерти;1;1;to
+Q1366119;San Pedro de Macorís;является столицей;1;1;to
+Q1366119;San Pedro de Macorís;общая тема категории;1;1;to
+Q1366119;San Pedro de Macorís;категория объединяет темы;1;1;to
+Q1366119;San Pedro de Macorís;административно делится на;1;1;to
+Q1424391;San José de Ocoa Province;административно-территориальная единица;1;1;to
+Q1424391;San José de Ocoa Province;государство;1;1;from
+Q1424391;San José de Ocoa Province;карта местонахождения;1;1;from
+Q1424391;San José de Ocoa Province;это частный случай понятия;1;1;from
+Q1366119;San Pedro de Macorís;ISO 3166-2;1;1;from
+Q1366119;San Pedro de Macorís;площадь;1;1;from
+Q1424391;San José de Ocoa Province;изображение герба;1;1;from
+Q1366119;San Pedro de Macorís;высота над уровнем моря;1;1;from
+Q1366107;San Cristóbal Province;дата основания/создания/возникновения;1;1;from
+Q1366107;San Cristóbal Province;географические координаты;1;1;from
+Q1366107;San Cristóbal Province;код Freebase;1;1;from
+Q1366107;San Cristóbal Province;Who's on First ID;1;1;from
+Q1366107;San Cristóbal Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1366107;San Cristóbal Province;основная категория по теме;1;1;from
+Q1366107;San Cristóbal Province;место в MusicBrainz;1;1;from
+Q1366107;San Cristóbal Province;место рождения;1;16;to
+Q1366107;San Cristóbal Province;категория объединяет темы;1;2;to
+Q1366107;San Cristóbal Province;является столицей;1;1;to
+Q1366107;San Cristóbal Province;общая тема категории;1;1;to
+Q1366107;San Cristóbal Province;административно делится на;1;1;to
+Q1366119;San Pedro de Macorís;административно-территориальная единица;1;11;to
+Q1366119;San Pedro de Macorís;государство;1;1;from
+Q1366119;San Pedro de Macorís;это частный случай понятия;1;1;from
+Q1366119;San Pedro de Macorís;столица;1;1;from
+Q1366119;San Pedro de Macorís;изображение герба;1;1;from
+Q1366119;San Pedro de Macorís;категория для людей, родившихся здесь;1;1;from
+Q1366119;San Pedro de Macorís;код GeoNames;1;1;from
+Q1366119;San Pedro de Macorís;подробная карта;1;1;from
+Q1366119;San Pedro de Macorís;категория для людей, связанных с местностью;1;1;from
+Q1424391;San José de Ocoa Province;столица;1;1;from
+Q1424391;San José de Ocoa Province;категория для людей, родившихся здесь;1;1;from
+Q1772745;Monte Plata Province;ISO 3166-2;1;1;from
+Q1424401;Independencia;код GeoNames;1;1;from
+Q1424401;Independencia;код BabelNet;1;1;from
+Q1424401;Independencia;ISO 3166-2;1;1;from
+Q1424401;Independencia;категория на Викискладе;1;1;from
+Q1424401;Independencia;ID отношения в OpenStreetMap;1;1;from
+Q1424401;Independencia;дата основания/создания/возникновения;1;1;from
+Q1424401;Independencia;географические координаты;1;1;from
+Q1424401;Independencia;код Freebase;1;1;from
+Q1424401;Independencia;Who's on First ID;1;1;from
+Q1424401;Independencia;FIPS 10-4 (страны и регионы);1;1;from
+Q1424401;Independencia;основная категория по теме;1;1;from
+Q1424401;Independencia;является столицей;1;1;to
+Q1424401;Independencia;общая тема категории;1;1;to
+Q1424401;Independencia;административно делится на;1;1;to
+Q1772745;Monte Plata Province;административно-территориальная единица;1;49;to
+Q1772745;Monte Plata Province;государство;1;1;from
+Q1772745;Monte Plata Province;это частный случай понятия;1;1;from
+Q1772745;Monte Plata Province;столица;1;1;from
+Q1772745;Monte Plata Province;изображение герба;1;1;from
+Q1772745;Monte Plata Province;категория для людей, родившихся здесь;1;1;from
+Q1772745;Monte Plata Province;код GeoNames;1;1;from
+Q1772745;Monte Plata Province;категория для людей, связанных с местностью;1;1;from
+Q1424401;Independencia;высота над уровнем моря;1;1;from
+Q1424401;Independencia;код в Большой каталанской энциклопедии;1;1;from
+Q1424391;San José de Ocoa Province;код GeoNames;1;1;from
+Q1424401;Independencia;изображение герба;1;1;from
+Q1424391;San José de Ocoa Province;категория для людей, связанных с местностью;1;1;from
+Q1424391;San José de Ocoa Province;высота над уровнем моря;1;1;from
+Q1424391;San José de Ocoa Province;ISO 3166-2;1;1;from
+Q1424391;San José de Ocoa Province;категория на Викискладе;1;1;from
+Q1424391;San José de Ocoa Province;ID отношения в OpenStreetMap;1;1;from
+Q1424391;San José de Ocoa Province;дата основания/создания/возникновения;1;1;from
+Q1424391;San José de Ocoa Province;географические координаты;1;1;from
+Q1424391;San José de Ocoa Province;код Freebase;1;1;from
+Q1424391;San José de Ocoa Province;Who's on First ID;1;1;from
+Q1424391;San José de Ocoa Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1424391;San José de Ocoa Province;основная категория по теме;1;1;from
+Q1424391;San José de Ocoa Province;место рождения;1;3;to
+Q1424391;San José de Ocoa Province;является столицей;1;1;to
+Q1424391;San José de Ocoa Province;категория объединяет темы;1;2;to
+Q1424391;San José de Ocoa Province;общая тема категории;1;1;to
+Q1424391;San José de Ocoa Province;административно делится на;1;1;to
+Q1424401;Independencia;административно-территориальная единица;1;47;to
+Q1424401;Independencia;государство;1;1;from
+Q1424401;Independencia;карта местонахождения;1;1;from
+Q1424401;Independencia;это частный случай понятия;1;1;from
+Q1424401;Independencia;столица;1;1;from
+Q1366107;San Cristóbal Province;ID отношения в OpenStreetMap;1;1;from
+Q1366107;San Cristóbal Province;категория на Викискладе;1;1;from
+Q1366107;San Cristóbal Province;ISO 3166-2;1;1;from
+Q1331932;Peravia Province;изображение герба;1;1;from
+Q1331932;Peravia Province;категория для людей, родившихся здесь;1;1;from
+Q1331932;Peravia Province;код GeoNames;1;1;from
+Q1331932;Peravia Province;категория для людей, связанных с местностью;1;1;from
+Q1331932;Peravia Province;высота над уровнем моря;1;1;from
+Q1331932;Peravia Province;ISO 3166-2;1;1;from
+Q1331932;Peravia Province;категория на Викискладе;1;1;from
+Q1331932;Peravia Province;ID отношения в OpenStreetMap;1;1;from
+Q1331932;Peravia Province;дата основания/создания/возникновения;1;1;from
+Q1331932;Peravia Province;географические координаты;1;1;from
+Q1331932;Peravia Province;код Freebase;1;1;from
+Q1331932;Peravia Province;Who's on First ID;1;1;from
+Q1331932;Peravia Province;FIPS 10-4 (страны и регионы);1;2;from
+Q1331932;Peravia Province;основная категория по теме;1;1;from
+Q1331932;Peravia Province;общая тема категории;1;1;to
+Q1331932;Peravia Province;место рождения;1;3;to
+Q1331932;Peravia Province;является столицей;1;1;to
+Q1331932;Peravia Province;категория объединяет темы;1;2;to
+Q1331932;Peravia Province;административно делится на;1;1;to
+Q1352533;Pedernales Province;административно-территориальная единица;1;32;to
+Q1352533;Pedernales Province;государство;1;1;from
+Q1352533;Pedernales Province;это частный случай понятия;1;1;from
+Q1331932;Peravia Province;код в Большой каталанской энциклопедии;1;1;from
+Q1331932;Peravia Province;изображение флага;1;1;from
+Q1366107;San Cristóbal Province;высота над уровнем моря;1;1;from
+Q1331932;Peravia Province;столица;1;1;from
+Q1323353;La Altagracia Province;изображение герба;1;1;from
+Q1323353;La Altagracia Province;код в Большой каталанской энциклопедии;1;1;from
+Q1323353;La Altagracia Province;код GeoNames;1;1;from
+Q1323353;La Altagracia Province;высота над уровнем моря;1;1;from
+Q1323353;La Altagracia Province;ISO 3166-2;1;1;from
+Q1323353;La Altagracia Province;категория на Викискладе;1;1;from
+Q1323353;La Altagracia Province;ID отношения в OpenStreetMap;1;1;from
+Q1323353;La Altagracia Province;дата основания/создания/возникновения;1;1;from
+Q1323353;La Altagracia Province;географические координаты;1;1;from
+Q1323353;La Altagracia Province;код Freebase;1;1;from
+Q1323353;La Altagracia Province;Who's on First ID;1;1;from
+Q1323353;La Altagracia Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1323353;La Altagracia Province;основная категория по теме;1;1;from
+Q1323353;La Altagracia Province;является столицей;1;1;to
+Q1323353;La Altagracia Province;обслуживаемый город;1;1;to
+Q1323353;La Altagracia Province;общая тема категории;1;1;to
+Q1323353;La Altagracia Province;административно делится на;1;1;to
+Q1331932;Peravia Province;административно-территориальная единица;1;4;to
+Q1331932;Peravia Province;государство;1;1;from
+Q1331932;Peravia Province;карта местонахождения;1;1;from
+Q1331932;Peravia Province;это частный случай понятия;1;1;from
+Q1352533;Pedernales Province;столица;1;1;from
+Q1352533;Pedernales Province;изображение герба;1;1;from
+Q1352533;Pedernales Province;код GeoNames;1;1;from
+Q1352533;Pedernales Province;высота над уровнем моря;1;1;from
+Q1352536;Santo Domingo Province;ID отношения в OpenStreetMap;1;1;from
+Q1352536;Santo Domingo Province;дата основания/создания/возникновения;1;1;from
+Q1352536;Santo Domingo Province;географические координаты;1;1;from
+Q1352536;Santo Domingo Province;код Freebase;1;1;from
+Q1352536;Santo Domingo Province;Who's on First ID;1;1;from
+Q1352536;Santo Domingo Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1352536;Santo Domingo Province;основная категория по теме;1;1;from
+Q1352536;Santo Domingo Province;место в MusicBrainz;1;1;from
+Q1352536;Santo Domingo Province;место рождения;1;17;to
+Q1352536;Santo Domingo Province;место смерти;1;2;to
+Q1352536;Santo Domingo Province;категория объединяет темы;1;2;to
+Q1352536;Santo Domingo Province;общая тема категории;1;1;to
+Q1352536;Santo Domingo Province;административно делится на;1;1;to
+Q1366107;San Cristóbal Province;административно-территориальная единица;1;65;to
+Q1366107;San Cristóbal Province;государство;1;1;from
+Q1366107;San Cristóbal Province;это частный случай понятия;1;1;from
+Q1366107;San Cristóbal Province;столица;1;1;from
+Q1366107;San Cristóbal Province;изображение герба;1;1;from
+Q1366107;San Cristóbal Province;категория для людей, родившихся здесь;1;1;from
+Q1366107;San Cristóbal Province;код GeoNames;1;1;from
+Q1366107;San Cristóbal Province;категория для людей, связанных с местностью;1;1;from
+Q1352536;Santo Domingo Province;категория на Викискладе;1;1;from
+Q1352536;Santo Domingo Province;ISO 3166-2;1;1;from
+Q1352536;Santo Domingo Province;высота над уровнем моря;1;1;from
+Q1352533;Pedernales Province;является столицей;1;1;to
+Q1352533;Pedernales Province;ISO 3166-2;1;1;from
+Q1352533;Pedernales Province;категория на Викискладе;1;1;from
+Q1352533;Pedernales Province;ID отношения в OpenStreetMap;1;1;from
+Q1352533;Pedernales Province;дата основания/создания/возникновения;1;1;from
+Q1352533;Pedernales Province;географические координаты;1;1;from
+Q1352533;Pedernales Province;Who's on First ID;1;1;from
+Q1352533;Pedernales Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1352533;Pedernales Province;основная категория по теме;1;1;from
+Q1352533;Pedernales Province;общая тема категории;1;1;to
+Q1352533;Pedernales Province;является эндемиком в;1;1;to
+Q1352536;Santo Domingo Province;категория для людей, связанных с местностью;1;1;from
+Q1352533;Pedernales Province;административно делится на;1;1;to
+Q1352536;Santo Domingo Province;административно-территориальная единица;1;6;to
+Q1352536;Santo Domingo Province;государство;1;1;from
+Q1352536;Santo Domingo Province;город-побратим;1;1;to
+Q1352536;Santo Domingo Province;это частный случай понятия;1;1;from
+Q1352536;Santo Domingo Province;столица;1;1;from
+Q1352536;Santo Domingo Province;изображение герба;1;1;from
+Q1352536;Santo Domingo Province;категория для людей, родившихся здесь;1;1;from
+Q1352536;Santo Domingo Province;код GeoNames;1;1;from
+Q1772745;Monte Plata Province;высота над уровнем моря;1;1;from
+Q1772745;Monte Plata Province;категория на Викискладе;1;1;from
+Q530231;Espaillat Province;государство;1;1;from
+Q1949656;María Trinidad Sánchez Province;код GeoNames;1;1;from
+Q1949656;María Trinidad Sánchez Province;высота над уровнем моря;1;1;from
+Q1949656;María Trinidad Sánchez Province;ISO 3166-2;1;1;from
+Q1949656;María Trinidad Sánchez Province;категория на Викискладе;1;1;from
+Q1949656;María Trinidad Sánchez Province;ID отношения в OpenStreetMap;1;1;from
+Q1949656;María Trinidad Sánchez Province;дата основания/создания/возникновения;1;1;from
+Q1949656;María Trinidad Sánchez Province;географические координаты;1;1;from
+Q1949656;María Trinidad Sánchez Province;код Freebase;1;1;from
+Q1949656;María Trinidad Sánchez Province;Who's on First ID;1;1;from
+Q1949656;María Trinidad Sánchez Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1949656;María Trinidad Sánchez Province;основная категория по теме;1;1;from
+Q1949656;María Trinidad Sánchez Province;является столицей;1;1;to
+Q1949656;María Trinidad Sánchez Province;место рождения;1;5;to
+Q1949656;María Trinidad Sánchez Province;категория объединяет темы;1;2;to
+Q1949656;María Trinidad Sánchez Province;общая тема категории;1;1;to
+Q1949656;María Trinidad Sánchez Province;административно делится на;1;1;to
+Q2001793;San Juan Province;административно-территориальная единица;1;92;to
+Q2001793;San Juan Province;государство;1;1;from
+Q2001793;San Juan Province;карта местонахождения;1;1;from
+Q2001793;San Juan Province;это частный случай понятия;1;1;from
+Q2001793;San Juan Province;столица;1;1;from
+Q2001793;San Juan Province;изображение герба;1;1;from
+Q1949656;María Trinidad Sánchez Province;категория для людей, связанных с местностью;1;1;from
+Q1949656;María Trinidad Sánchez Province;категория для людей, родившихся здесь;1;1;from
+Q2001793;San Juan Province;категория для людей, родившихся здесь;1;1;from
+Q1949656;María Trinidad Sánchez Province;код в Большой каталанской энциклопедии;1;1;from
+Q1836903;Sánchez Ramírez Province;ISO 3166-2;1;1;from
+Q1836903;Sánchez Ramírez Province;категория на Викискладе;1;1;from
+Q1836903;Sánchez Ramírez Province;ID отношения в OpenStreetMap;1;1;from
+Q1836903;Sánchez Ramírez Province;дата основания/создания/возникновения;1;1;from
+Q1836903;Sánchez Ramírez Province;географические координаты;1;1;from
+Q1836903;Sánchez Ramírez Province;код Freebase;1;1;from
+Q1836903;Sánchez Ramírez Province;Who's on First ID;1;1;from
+Q1836903;Sánchez Ramírez Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1836903;Sánchez Ramírez Province;основная категория по теме;1;1;from
+Q1836903;Sánchez Ramírez Province;общая тема категории;1;1;to
+Q1836903;Sánchez Ramírez Province;место рождения;1;2;to
+Q1836903;Sánchez Ramírez Province;является столицей;1;1;to
+Q1836903;Sánchez Ramírez Province;обслуживаемый город;1;1;to
+Q1836903;Sánchez Ramírez Province;категория объединяет темы;1;2;to
+Q1836903;Sánchez Ramírez Province;административно делится на;1;1;to
+Q1949656;María Trinidad Sánchez Province;административно-территориальная единица;1;45;to
+Q1949656;María Trinidad Sánchez Province;названо в честь;1;1;from
+Q1949656;María Trinidad Sánchez Province;государство;1;1;from
+Q1949656;María Trinidad Sánchez Province;это частный случай понятия;1;1;from
+Q1949656;María Trinidad Sánchez Province;столица;1;1;from
+Q1949656;María Trinidad Sánchez Province;изображение герба;1;1;from
+Q2001793;San Juan Province;код в Большой каталанской энциклопедии;1;1;from
+Q2001793;San Juan Province;код GeoNames;1;1;from
+Q1772745;Monte Plata Province;ID отношения в OpenStreetMap;1;1;from
+Q2021942;Santiago Rodríguez Province;численность населения;1;1;from
+Q2021942;Santiago Rodríguez Province;категория для людей, родившихся здесь;1;1;from
+Q2021942;Santiago Rodríguez Province;код GeoNames;1;1;from
+Q2021942;Santiago Rodríguez Province;категория для людей, связанных с местностью;1;1;from
+Q2021942;Santiago Rodríguez Province;высота над уровнем моря;1;1;from
+Q2021942;Santiago Rodríguez Province;площадь;1;1;from
+Q2021942;Santiago Rodríguez Province;почтовый индекс;1;1;from
+Q2021942;Santiago Rodríguez Province;ISO 3166-2;1;1;from
+Q2021942;Santiago Rodríguez Province;категория на Викискладе;1;1;from
+Q2021942;Santiago Rodríguez Province;ID отношения в OpenStreetMap;1;1;from
+Q2021942;Santiago Rodríguez Province;часовой пояс;1;1;from
+Q2021942;Santiago Rodríguez Province;местный телефонный код;1;3;from
+Q2021942;Santiago Rodríguez Province;дата основания/создания/возникновения;1;1;from
+Q2021942;Santiago Rodríguez Province;географические координаты;1;1;from
+Q2021942;Santiago Rodríguez Province;код Freebase;1;1;from
+Q2021942;Santiago Rodríguez Province;Who's on First ID;1;1;from
+Q2021942;Santiago Rodríguez Province;FIPS 10-4 (страны и регионы);1;1;from
+Q2021942;Santiago Rodríguez Province;основная категория по теме;1;1;from
+Q2021942;Santiago Rodríguez Province;место рождения;1;3;to
+Q2021942;Santiago Rodríguez Province;является столицей;1;1;to
+Q2021942;Santiago Rodríguez Province;категория объединяет темы;1;2;to
+Q2021942;Santiago Rodríguez Province;общая тема категории;1;1;to
+Q2021942;Santiago Rodríguez Province;код в Большой каталанской энциклопедии;1;1;from
+Q2021942;Santiago Rodríguez Province;изображение герба;1;1;from
+Q2001793;San Juan Province;категория для людей, связанных с местностью;1;1;from
+Q2021942;Santiago Rodríguez Province;столица;1;1;from
+Q2001793;San Juan Province;высота над уровнем моря;1;1;from
+Q2001793;San Juan Province;почтовый индекс;1;1;from
+Q2001793;San Juan Province;ISO 3166-2;1;1;from
+Q2001793;San Juan Province;категория на Викискладе;1;1;from
+Q2001793;San Juan Province;ID отношения в OpenStreetMap;1;1;from
+Q2001793;San Juan Province;дата основания/создания/возникновения;1;1;from
+Q2001793;San Juan Province;географические координаты;1;1;from
+Q2001793;San Juan Province;код Freebase;1;1;from
+Q2001793;San Juan Province;Who's on First ID;1;1;from
+Q2001793;San Juan Province;FIPS 10-4 (страны и регионы);1;1;from
+Q2001793;San Juan Province;основная категория по теме;1;1;from
+Q2001793;San Juan Province;место в MusicBrainz;1;1;from
+Q2001793;San Juan Province;общая тема категории;1;1;to
+Q2001793;San Juan Province;место рождения;1;7;to
+Q2001793;San Juan Province;является столицей;1;1;to
+Q2001793;San Juan Province;категория объединяет темы;1;2;to
+Q2001793;San Juan Province;административно делится на;1;1;to
+Q2001793;San Juan Province;энтохороним от;1;1;to
+Q2021942;Santiago Rodríguez Province;административно-территориальная единица;1;15;to
+Q2021942;Santiago Rodríguez Province;государство;1;1;from
+Q2021942;Santiago Rodríguez Province;это частный случай понятия;1;1;from
+Q1836903;Sánchez Ramírez Province;код BabelNet;1;1;from
+Q1836903;Sánchez Ramírez Province;высота над уровнем моря;1;1;from
+Q1836903;Sánchez Ramírez Province;категория для людей, связанных с местностью;1;1;from
+Q1772983;Santiago Province;ID отношения в OpenStreetMap;1;1;from
+Q1772983;Santiago Province;географические координаты;1;1;from
+Q1772983;Santiago Province;код Freebase;1;1;from
+Q1772983;Santiago Province;Who's on First ID;1;1;from
+Q1772983;Santiago Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1772983;Santiago Province;основная категория по теме;1;1;from
+Q1772983;Santiago Province;место в MusicBrainz;1;1;from
+Q1772983;Santiago Province;место рождения;1;26;to
+Q1772983;Santiago Province;категория объединяет темы;1;2;to
+Q1772983;Santiago Province;место жительства;1;3;to
+Q1772983;Santiago Province;общая тема категории;1;1;to
+Q1772983;Santiago Province;административно делится на;1;1;to
+Q1772983;Santiago Province;энтохороним от;1;2;to
+Q1774831;El Seibo Province;административно-территориальная единица;1;70;to
+Q1774831;El Seibo Province;государство;1;1;from
+Q1774831;El Seibo Province;это частный случай понятия;1;1;from
+Q1774831;El Seibo Province;столица;1;1;from
+Q1774831;El Seibo Province;изображение герба;1;1;from
+Q1774831;El Seibo Province;категория для людей, родившихся здесь;1;1;from
+Q1774831;El Seibo Province;код GeoNames;1;1;from
+Q1774831;El Seibo Province;категория для людей, связанных с местностью;1;1;from
+Q1774831;El Seibo Province;высота над уровнем моря;1;1;from
+Q1772983;Santiago Province;дата основания/создания/возникновения;1;1;from
+Q1772983;Santiago Province;категория на Викискладе;1;1;from
+Q1836903;Sánchez Ramírez Province;код GeoNames;1;1;from
+Q1772983;Santiago Province;ISO 3166-2;1;1;from
+Q1772745;Monte Plata Province;дата основания/создания/возникновения;1;1;from
+Q1772745;Monte Plata Province;географические координаты;1;1;from
+Q1772745;Monte Plata Province;код Freebase;1;1;from
+Q1772745;Monte Plata Province;Who's on First ID;1;1;from
+Q1772745;Monte Plata Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1772745;Monte Plata Province;основная категория по теме;1;1;from
+Q1772745;Monte Plata Province;место рождения;1;2;to
+Q1772745;Monte Plata Province;категория объединяет темы;1;2;to
+Q1772745;Monte Plata Province;является столицей;1;1;to
+Q1772745;Monte Plata Province;общая тема категории;1;1;to
+Q1772745;Monte Plata Province;административно делится на;1;1;to
+Q1772983;Santiago Province;административно-территориальная единица;1;82;to
+Q1772983;Santiago Province;государство;1;1;from
+Q1772983;Santiago Province;изображение;1;1;from
+Q1772983;Santiago Province;это частный случай понятия;1;1;from
+Q1772983;Santiago Province;столица;1;1;from
+Q1772983;Santiago Province;изображение герба;1;1;from
+Q1772983;Santiago Province;категория для людей, родившихся здесь;1;1;from
+Q1772983;Santiago Province;код GeoNames;1;1;from
+Q1772983;Santiago Province;категория для людей, связанных с местностью;1;1;from
+Q1772983;Santiago Province;высота над уровнем моря;1;1;from
+Q1774831;El Seibo Province;площадь;1;1;from
+Q1774831;El Seibo Province;ISO 3166-2;1;1;from
+Q1774831;El Seibo Province;категория на Викискладе;1;1;from
+Q1774831;El Seibo Province;ID отношения в OpenStreetMap;1;1;from
+Q1774848;Valverde Province;категория на Викискладе;1;1;from
+Q1774848;Valverde Province;ID отношения в OpenStreetMap;1;1;from
+Q1774848;Valverde Province;дата основания/создания/возникновения;1;1;from
+Q1774848;Valverde Province;географические координаты;1;1;from
+Q1774848;Valverde Province;код Freebase;1;1;from
+Q1774848;Valverde Province;Who's on First ID;1;1;from
+Q1774848;Valverde Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1774848;Valverde Province;основная категория по теме;1;1;from
+Q1774848;Valverde Province;общая тема категории;1;1;to
+Q1774848;Valverde Province;место рождения;1;7;to
+Q1774848;Valverde Province;обслуживаемый город;1;1;to
+Q1774848;Valverde Province;категория объединяет темы;1;2;to
+Q1774848;Valverde Province;является столицей;1;1;to
+Q1774848;Valverde Province;административно делится на;1;1;to
+Q1836903;Sánchez Ramírez Province;административно-территориальная единица;1;42;to
+Q1836903;Sánchez Ramírez Province;государство;1;1;from
+Q1836903;Sánchez Ramírez Province;это частный случай понятия;1;1;from
+Q1836903;Sánchez Ramírez Province;столица;1;1;from
+Q1836903;Sánchez Ramírez Province;изображение герба;1;1;from
+Q1836903;Sánchez Ramírez Province;код в Большой каталанской энциклопедии;1;1;from
+Q1836903;Sánchez Ramírez Province;категория для людей, родившихся здесь;1;1;from
+Q1774848;Valverde Province;ISO 3166-2;1;1;from
+Q1774848;Valverde Province;высота над уровнем моря;1;1;from
+Q1774848;Valverde Province;категория для людей, связанных с местностью;1;1;from
+Q1774831;El Seibo Province;место смерти;1;1;to
+Q1774831;El Seibo Province;дата основания/создания/возникновения;1;1;from
+Q1774831;El Seibo Province;географические координаты;1;1;from
+Q1774831;El Seibo Province;код Freebase;1;1;from
+Q1774831;El Seibo Province;Who's on First ID;1;1;from
+Q1774831;El Seibo Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1774831;El Seibo Province;основная категория по теме;1;1;from
+Q1774831;El Seibo Province;место в MusicBrainz;1;1;from
+Q1774831;El Seibo Province;место рождения;1;11;to
+Q1774831;El Seibo Province;является столицей;1;1;to
+Q1774831;El Seibo Province;категория объединяет темы;1;2;to
+Q1774848;Valverde Province;код GeoNames;1;1;from
+Q1774831;El Seibo Province;общая тема категории;1;1;to
+Q1774831;El Seibo Province;административно делится на;1;1;to
+Q1774848;Valverde Province;административно-территориальная единица;1;6;to
+Q1774848;Valverde Province;государство;1;1;from
+Q1774848;Valverde Province;это частный случай понятия;1;1;from
+Q1774848;Valverde Province;столица;1;1;from
+Q1774848;Valverde Province;изображение герба;1;1;from
+Q1774848;Valverde Province;код в Большой каталанской энциклопедии;1;1;from
+Q1774848;Valverde Province;категория для людей, родившихся здесь;1;1;from
+Q1323353;La Altagracia Province;столица;1;1;from
+Q1323353;La Altagracia Province;это частный случай понятия;1;1;from
+Q1323353;La Altagracia Province;карта местонахождения;1;1;from
+Q693487;Puerto Plata Province;FIPS 10-4 (страны и регионы);1;1;from
+Q693487;Puerto Plata Province;место в MusicBrainz;1;1;from
+Q693487;Puerto Plata Province;место рождения;1;14;to
+Q693487;Puerto Plata Province;категория объединяет темы;1;2;to
+Q693487;Puerto Plata Province;общая тема категории;1;1;to
+Q693487;Puerto Plata Province;является столицей;1;1;to
+Q693487;Puerto Plata Province;административно делится на;1;1;to
+Q794239;Azua Province;административно-территориальная единица;1;86;to
+Q794239;Azua Province;государство;1;1;from
+Q794239;Azua Province;код LCNAF;1;1;from
+Q794239;Azua Province;это частный случай понятия;1;1;from
+Q794239;Azua Province;столица;1;1;from
+Q794239;Azua Province;код US National Archives;1;1;from
+Q794239;Azua Province;код в Большой каталанской энциклопедии;1;1;from
+Q794239;Azua Province;описывается в источниках;1;1;from
+Q794239;Azua Province;категория для людей, родившихся здесь;1;1;from
+Q794239;Azua Province;код GeoNames;1;1;from
+Q794239;Azua Province;категория для людей, связанных с местностью;1;1;from
+Q794239;Azua Province;высота над уровнем моря;1;1;from
+Q794239;Azua Province;площадь;1;1;from
+Q794239;Azua Province;почтовый индекс;1;1;from
+Q794239;Azua Province;ISO 3166-2;1;1;from
+Q693487;Puerto Plata Province;основная категория по теме;1;1;from
+Q693487;Puerto Plata Province;Who's on First ID;1;1;from
+Q794239;Azua Province;ID отношения в OpenStreetMap;1;1;from
+Q693487;Puerto Plata Province;код Freebase;1;1;from
+Q594405;La Vega Province;общая тема категории;1;1;to
+Q594405;La Vega Province;административно делится на;1;1;to
+Q693487;Puerto Plata Province;административно-территориальная единица;1;31;to
+Q693487;Puerto Plata Province;государство;1;1;from
+Q693487;Puerto Plata Province;это частный случай понятия;1;1;from
+Q693487;Puerto Plata Province;столица;1;1;from
+Q693487;Puerto Plata Province;изображение герба;1;1;from
+Q693487;Puerto Plata Province;численность населения;1;1;from
+Q693487;Puerto Plata Province;код US National Archives;1;1;from
+Q693487;Puerto Plata Province;код в Большой каталанской энциклопедии;1;1;from
+Q693487;Puerto Plata Province;прозвище;1;1;from
+Q693487;Puerto Plata Province;категория для людей, родившихся здесь;1;1;from
+Q693487;Puerto Plata Province;код GeoNames;1;1;from
+Q693487;Puerto Plata Province;категория для людей, связанных с местностью;1;1;from
+Q693487;Puerto Plata Province;высота над уровнем моря;1;1;from
+Q693487;Puerto Plata Province;площадь;1;1;from
+Q693487;Puerto Plata Province;ISO 3166-2;1;1;from
+Q693487;Puerto Plata Province;категория на Викискладе;1;1;from
+Q693487;Puerto Plata Province;ID отношения в OpenStreetMap;1;1;from
+Q693487;Puerto Plata Province;дата основания/создания/возникновения;1;1;from
+Q693487;Puerto Plata Province;географические координаты;1;1;from
+Q794239;Azua Province;категория на Викискладе;1;1;from
+Q794239;Azua Province;дата основания/создания/возникновения;1;1;from
+Q1323353;La Altagracia Province;государство;1;1;from
+Q807079;Baoruco Province;ISO 3166-2;1;1;from
+Q807079;Baoruco Province;ID отношения в OpenStreetMap;1;1;from
+Q807079;Baoruco Province;дата основания/создания/возникновения;1;1;from
+Q807079;Baoruco Province;географические координаты;1;1;from
+Q807079;Baoruco Province;код Freebase;1;1;from
+Q807079;Baoruco Province;Who's on First ID;1;1;from
+Q807079;Baoruco Province;FIPS 10-4 (страны и регионы);1;1;from
+Q807079;Baoruco Province;основная категория по теме;1;1;from
+Q807079;Baoruco Province;является столицей;1;1;to
+Q807079;Baoruco Province;категория объединяет темы;1;1;to
+Q807079;Baoruco Province;местонахождение;1;1;to
+Q807079;Baoruco Province;общая тема категории;1;1;to
+Q807079;Baoruco Province;административно делится на;1;1;to
+Q937217;Hato Mayor Province;административно-территориальная единица;1;35;to
+Q937217;Hato Mayor Province;государство;1;1;from
+Q937217;Hato Mayor Province;это частный случай понятия;1;2;to
+Q937217;Hato Mayor Province;столица;1;1;from
+Q937217;Hato Mayor Province;изображение герба;1;1;from
+Q937217;Hato Mayor Province;категория для людей, родившихся здесь;1;1;from
+Q937217;Hato Mayor Province;код GeoNames;1;1;from
+Q937217;Hato Mayor Province;категория для людей, связанных с местностью;1;1;from
+Q937217;Hato Mayor Province;высота над уровнем моря;1;1;from
+Q807079;Baoruco Province;категория на Викискладе;1;1;from
+Q807079;Baoruco Province;площадь;1;1;from
+Q794239;Azua Province;географические координаты;1;1;from
+Q807079;Baoruco Province;высота над уровнем моря;1;1;from
+Q794239;Azua Province;код Freebase;1;1;from
+Q794239;Azua Province;Who's on First ID;1;1;from
+Q794239;Azua Province;FIPS 10-4 (страны и регионы);1;1;from
+Q794239;Azua Province;основная категория по теме;1;1;from
+Q794239;Azua Province;место в MusicBrainz;1;1;from
+Q794239;Azua Province;место рождения;1;5;to
+Q794239;Azua Province;является столицей;1;1;to
+Q794239;Azua Province;основная тема;1;1;to
+Q794239;Azua Province;категория объединяет темы;1;2;to
+Q794239;Azua Province;общая тема категории;1;1;to
+Q794239;Azua Province;место смерти;1;1;to
+Q794239;Azua Province;административно делится на;1;1;to
+Q807079;Baoruco Province;административно-территориальная единица;1;72;to
+Q807079;Baoruco Province;государство;1;1;from
+Q807079;Baoruco Province;карта местонахождения;1;1;from
+Q807079;Baoruco Province;это частный случай понятия;1;1;from
+Q807079;Baoruco Province;столица;1;1;from
+Q807079;Baoruco Province;изображение герба;1;1;from
+Q807079;Baoruco Province;код в Большой каталанской энциклопедии;1;1;from
+Q807079;Baoruco Province;категория для людей, родившихся здесь;1;1;from
+Q807079;Baoruco Province;код GeoNames;1;1;from
+Q594405;La Vega Province;расположение штаб-квартиры;1;1;to
+Q594405;La Vega Province;является столицей;1;1;to
+Q594405;La Vega Province;категория объединяет темы;1;2;to
+Q530231;Espaillat Province;административно делится на;1;1;to
+Q549386;Hermanas Mirabal Province;государство;1;1;from
+Q549386;Hermanas Mirabal Province;это частный случай понятия;1;1;from
+Q549386;Hermanas Mirabal Province;столица;1;1;from
+Q549386;Hermanas Mirabal Province;изображение герба;1;1;from
+Q549386;Hermanas Mirabal Province;категория для людей, родившихся здесь;1;1;from
+Q549386;Hermanas Mirabal Province;код GeoNames;1;1;from
+Q549386;Hermanas Mirabal Province;категория для людей, связанных с местностью;1;1;from
+Q549386;Hermanas Mirabal Province;высота над уровнем моря;1;1;from
+Q549386;Hermanas Mirabal Province;ISO 3166-2;1;1;from
+Q549386;Hermanas Mirabal Province;категория на Викискладе;1;1;from
+Q549386;Hermanas Mirabal Province;ID отношения в OpenStreetMap;1;1;from
+Q549386;Hermanas Mirabal Province;дата основания/создания/возникновения;1;1;from
+Q549386;Hermanas Mirabal Province;географические координаты;1;1;from
+Q549386;Hermanas Mirabal Province;код Freebase;1;1;from
+Q549386;Hermanas Mirabal Province;Who's on First ID;1;1;from
+Q549386;Hermanas Mirabal Province;FIPS 10-4 (страны и регионы);1;1;from
+Q549386;Hermanas Mirabal Province;основная категория по теме;1;1;from
+Q549386;Hermanas Mirabal Province;место в MusicBrainz;1;1;from
+Q549386;Hermanas Mirabal Province;является столицей;1;1;to
+Q549386;Hermanas Mirabal Province;категория объединяет темы;1;2;to
+Q549386;Hermanas Mirabal Province;место рождения;1;5;to
+Q549386;Hermanas Mirabal Province;административно-территориальная единица;1;15;to
+Q530231;Espaillat Province;общая тема категории;1;1;to
+Q594405;La Vega Province;место смерти;1;4;to
+Q530231;Espaillat Province;категория объединяет темы;1;2;to
+Q530231;Espaillat Province;код VIAF;1;1;from
+Q530231;Espaillat Province;код GND;1;1;from
+Q530231;Espaillat Province;это частный случай понятия;1;1;from
+Q530231;Espaillat Province;столица;1;1;from
+Q530231;Espaillat Province;изображение герба;1;1;from
+Q530231;Espaillat Province;категория для людей, родившихся здесь;1;1;from
+Q530231;Espaillat Province;код GeoNames;1;1;from
+Q530231;Espaillat Province;категория для людей, связанных с местностью;1;1;from
+Q530231;Espaillat Province;высота над уровнем моря;1;1;from
+Q530231;Espaillat Province;код BNF;1;1;from
+Q530231;Espaillat Province;ISO 3166-2;1;1;from
+Q530231;Espaillat Province;категория на Викискладе;1;1;from
+Q530231;Espaillat Province;ID отношения в OpenStreetMap;1;1;from
+Q530231;Espaillat Province;дата основания/создания/возникновения;1;1;from
+Q530231;Espaillat Province;географические координаты;1;1;from
+Q530231;Espaillat Province;код Freebase;1;1;from
+Q530231;Espaillat Province;Who's on First ID;1;1;from
+Q530231;Espaillat Province;FIPS 10-4 (страны и регионы);1;1;from
+Q530231;Espaillat Province;основная категория по теме;1;1;from
+Q530231;Espaillat Province;является столицей;1;1;to
+Q530231;Espaillat Province;место рождения;1;8;to
+Q549386;Hermanas Mirabal Province;общая тема категории;1;1;to
+Q549386;Hermanas Mirabal Province;административно делится на;1;1;to
+Q592624;Monte Cristi Province;административно-территориальная единица;1;50;to
+Q592624;Monte Cristi Province;государство;1;1;from
+Q592624;Monte Cristi Province;административно делится на;1;1;to
+Q594405;La Vega Province;административно-территориальная единица;1;95;to
+Q594405;La Vega Province;государство;1;1;from
+Q594405;La Vega Province;это частный случай понятия;1;1;from
+Q594405;La Vega Province;столица;1;1;from
+Q594405;La Vega Province;изображение герба;1;1;from
+Q594405;La Vega Province;код в Большой каталанской энциклопедии;1;1;from
+Q594405;La Vega Province;категория для людей, родившихся здесь;1;1;from
+Q594405;La Vega Province;код GeoNames;1;1;from
+Q594405;La Vega Province;категория для людей, связанных с местностью;1;1;from
+Q594405;La Vega Province;высота над уровнем моря;1;1;from
+Q594405;La Vega Province;ISO 3166-2;1;1;from
+Q594405;La Vega Province;категория на Викискладе;1;1;from
+Q594405;La Vega Province;ID отношения в OpenStreetMap;1;1;from
+Q594405;La Vega Province;дата основания/создания/возникновения;1;1;from
+Q594405;La Vega Province;географические координаты;1;1;from
+Q594405;La Vega Province;код Freebase;1;1;from
+Q594405;La Vega Province;Who's on First ID;1;1;from
+Q594405;La Vega Province;FIPS 10-4 (страны и регионы);1;1;from
+Q594405;La Vega Province;основная категория по теме;1;1;from
+Q594405;La Vega Province;место рождения;1;17;to
+Q592624;Monte Cristi Province;общая тема категории;1;1;to
+Q592624;Monte Cristi Province;категория объединяет темы;1;2;to
+Q592624;Monte Cristi Province;является столицей;1;1;to
+Q592624;Monte Cristi Province;высота над уровнем моря;1;1;from
+Q592624;Monte Cristi Province;изображение;1;1;from
+Q592624;Monte Cristi Province;карта ареала вида;1;1;from
+Q592624;Monte Cristi Province;это частный случай понятия;1;1;from
+Q592624;Monte Cristi Province;столица;1;1;from
+Q592624;Monte Cristi Province;изображение герба;1;1;from
+Q592624;Monte Cristi Province;код в Большой каталанской энциклопедии;1;1;from
+Q592624;Monte Cristi Province;категория для людей, родившихся здесь;1;1;from
+Q592624;Monte Cristi Province;код GeoNames;1;1;from
+Q592624;Monte Cristi Province;категория для людей, связанных с местностью;1;1;from
+Q592624;Monte Cristi Province;ISO 3166-2;1;1;from
+Q592624;Monte Cristi Province;место рождения;1;18;to
+Q592624;Monte Cristi Province;категория на Викискладе;1;1;from
+Q592624;Monte Cristi Province;ID отношения в OpenStreetMap;1;1;from
+Q592624;Monte Cristi Province;дата основания/создания/возникновения;1;1;from
+Q592624;Monte Cristi Province;географические координаты;1;1;from
+Q592624;Monte Cristi Province;код Freebase;1;1;from
+Q592624;Monte Cristi Province;Who's on First ID;1;1;from
+Q592624;Monte Cristi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q592624;Monte Cristi Province;основная категория по теме;1;1;from
+Q592624;Monte Cristi Province;место в MusicBrainz;1;1;from
+Q937217;Hato Mayor Province;ISO 3166-2;1;1;from
+Q937217;Hato Mayor Province;категория на Викискладе;1;1;from
+Q937217;Hato Mayor Province;ID отношения в OpenStreetMap;1;1;from
+Q1145487;Samaná Province;название на языке оригинала;1;1;from
+Q1145487;Samaná Province;высота над уровнем моря;1;1;from
+Q1145487;Samaná Province;ISO 3166-2;1;1;from
+Q1145487;Samaná Province;категория на Викискладе;1;1;from
+Q1145487;Samaná Province;код автомобильного номера;1;1;from
+Q1145487;Samaná Province;ID отношения в OpenStreetMap;1;1;from
+Q1145487;Samaná Province;дата основания/создания/возникновения;1;1;from
+Q1145487;Samaná Province;географические координаты;1;1;from
+Q1145487;Samaná Province;код Freebase;1;1;from
+Q1145487;Samaná Province;Who's on First ID;1;1;from
+Q1145487;Samaná Province;официальный сайт;1;1;from
+Q1145487;Samaná Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1145487;Samaná Province;основная категория по теме;1;1;from
+Q1145487;Samaná Province;место в MusicBrainz;1;1;from
+Q1145487;Samaná Province;обслуживаемый город;1;2;to
+Q1145487;Samaná Province;место рождения;1;1;to
+Q1145487;Samaná Province;является столицей;1;1;to
+Q1145487;Samaná Province;категория объединяет темы;1;2;to
+Q1145487;Samaná Province;местонахождение;1;1;to
+Q1145487;Samaná Province;общая тема категории;1;1;to
+Q1145487;Samaná Province;административно делится на;1;1;to
+Q1262745;Duarte Province;административно-территориальная единица;1;43;to
+Q1145487;Samaná Province;категория для людей, связанных с местностью;1;1;from
+Q1145487;Samaná Province;код GeoNames;1;1;from
+Q1140742;La Romana Province;категория на Викискладе;1;1;from
+Q1145487;Samaná Province;категория для людей, родившихся здесь;1;1;from
+Q1140742;La Romana Province;код для сущности Wolfram Language;1;1;from
+Q1140742;La Romana Province;географические координаты;1;1;from
+Q1140742;La Romana Province;код Freebase;1;1;from
+Q1140742;La Romana Province;Who's on First ID;1;1;from
+Q1140742;La Romana Province;официальный сайт;1;1;from
+Q1140742;La Romana Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1140742;La Romana Province;основная категория по теме;1;1;from
+Q1140742;La Romana Province;место в MusicBrainz;1;1;from
+Q1140742;La Romana Province;место рождения;1;3;to
+Q1140742;La Romana Province;местонахождение;1;1;to
+Q1140742;La Romana Province;категория объединяет темы;1;2;to
+Q1140742;La Romana Province;общая тема категории;1;1;to
+Q1140742;La Romana Province;является столицей;1;1;to
+Q1140742;La Romana Province;административно делится на;1;1;to
+Q1145487;Samaná Province;административно-территориальная единица;1;36;to
+Q1145487;Samaná Province;государство;1;1;from
+Q1145487;Samaná Province;карта местонахождения;1;1;from
+Q1145487;Samaná Province;это частный случай понятия;1;1;from
+Q1145487;Samaná Province;столица;1;1;from
+Q1145487;Samaná Province;изображение герба;1;1;from
+Q1145487;Samaná Province;код US National Archives;1;1;from
+Q1262745;Duarte Province;государство;1;1;from
+Q1262745;Duarte Province;это частный случай понятия;1;1;from
+Q1262745;Duarte Province;столица;1;1;from
+Q1262745;Duarte Province;изображение герба;1;1;from
+Q1295496;Monseñor Nouel Province;изображение герба;1;1;from
+Q1295496;Monseñor Nouel Province;категория для людей, родившихся здесь;1;1;from
+Q1295496;Monseñor Nouel Province;код GeoNames;1;1;from
+Q1295496;Monseñor Nouel Province;категория для людей, связанных с местностью;1;1;from
+Q1295496;Monseñor Nouel Province;высота над уровнем моря;1;1;from
+Q1295496;Monseñor Nouel Province;ISO 3166-2;1;1;from
+Q1295496;Monseñor Nouel Province;категория на Викискладе;1;1;from
+Q1295496;Monseñor Nouel Province;ID отношения в OpenStreetMap;1;1;from
+Q1295496;Monseñor Nouel Province;дата основания/создания/возникновения;1;1;from
+Q1295496;Monseñor Nouel Province;географические координаты;1;1;from
+Q1295496;Monseñor Nouel Province;код Freebase;1;1;from
+Q1295496;Monseñor Nouel Province;Who's on First ID;1;1;from
+Q1295496;Monseñor Nouel Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1295496;Monseñor Nouel Province;основная категория по теме;1;1;from
+Q1295496;Monseñor Nouel Province;место в MusicBrainz;1;1;from
+Q1295496;Monseñor Nouel Province;категория объединяет темы;1;2;to
+Q1295496;Monseñor Nouel Province;место рождения;1;2;to
+Q1295496;Monseñor Nouel Province;является столицей;1;1;to
+Q1295496;Monseñor Nouel Province;общая тема категории;1;1;to
+Q1295496;Monseñor Nouel Province;административно делится на;1;1;to
+Q1323353;La Altagracia Province;административно-территориальная единица;1;59;to
+Q1295496;Monseñor Nouel Province;изображение флага;1;1;from
+Q1295496;Monseñor Nouel Province;столица;1;1;from
+Q1295496;Monseñor Nouel Province;это частный случай понятия;1;1;from
+Q1262745;Duarte Province;географические координаты;1;1;from
+Q1262745;Duarte Province;код в Большой каталанской энциклопедии;1;1;from
+Q1262745;Duarte Province;категория для людей, родившихся здесь;1;1;from
+Q1262745;Duarte Province;код GeoNames;1;1;from
+Q1262745;Duarte Province;категория для людей, связанных с местностью;1;1;from
+Q1262745;Duarte Province;высота над уровнем моря;1;1;from
+Q1262745;Duarte Province;ISO 3166-2;1;1;from
+Q1262745;Duarte Province;категория на Викискладе;1;1;from
+Q1262745;Duarte Province;ID отношения в OpenStreetMap;1;1;from
+Q1262745;Duarte Province;дата основания/создания/возникновения;1;1;from
+Q1262745;Duarte Province;код Freebase;1;1;from
+Q1295496;Monseñor Nouel Province;государство;1;1;from
+Q1262745;Duarte Province;Who's on First ID;1;1;from
+Q1262745;Duarte Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1262745;Duarte Province;основная категория по теме;1;1;from
+Q1262745;Duarte Province;место рождения;1;17;to
+Q1262745;Duarte Province;категория объединяет темы;1;2;to
+Q1262745;Duarte Province;является столицей;1;1;to
+Q1262745;Duarte Province;общая тема категории;1;1;to
+Q1262745;Duarte Province;административно делится на;1;1;to
+Q1295496;Monseñor Nouel Province;административно-территориальная единица;1;30;to
+Q1140742;La Romana Province;ID отношения в OpenStreetMap;1;1;from
+Q1140742;La Romana Province;ISO 3166-2;1;1;from
+Q937217;Hato Mayor Province;дата основания/создания/возникновения;1;1;from
+Q1137545;Elías Piña Province;категория на Викискладе;1;1;from
+Q1137545;Elías Piña Province;географические координаты;1;1;from
+Q1137545;Elías Piña Province;код Freebase;1;1;from
+Q1137545;Elías Piña Province;Who's on First ID;1;1;from
+Q1137545;Elías Piña Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1137545;Elías Piña Province;основная категория по теме;1;1;from
+Q1137545;Elías Piña Province;место рождения;1;6;to
+Q1137545;Elías Piña Province;является столицей;1;1;to
+Q1137545;Elías Piña Province;категория объединяет темы;1;2;to
+Q1137545;Elías Piña Province;общая тема категории;1;1;to
+Q1137545;Elías Piña Province;административно делится на;1;1;to
+Q1137551;Barahona Province;административно-территориальная единица;1;91;to
+Q1137551;Barahona Province;государство;1;1;from
+Q1137551;Barahona Province;карта местонахождения;1;1;from
+Q1137551;Barahona Province;это частный случай понятия;1;1;from
+Q1137551;Barahona Province;столица;1;1;from
+Q1137551;Barahona Province;изображение герба;1;1;from
+Q1137551;Barahona Province;код в Большой каталанской энциклопедии;1;1;from
+Q1137551;Barahona Province;категория для людей, родившихся здесь;1;1;from
+Q1137551;Barahona Province;код GeoNames;1;1;from
+Q1137551;Barahona Province;категория для людей, связанных с местностью;1;1;from
+Q1137551;Barahona Province;высота над уровнем моря;1;1;from
+Q1137545;Elías Piña Province;ID отношения в OpenStreetMap;1;1;from
+Q1137545;Elías Piña Province;ISO 3166-2;1;1;from
+Q1140742;La Romana Province;высота над уровнем моря;1;1;from
+Q1137545;Elías Piña Province;высота над уровнем моря;1;1;from
+Q937217;Hato Mayor Province;географические координаты;1;1;from
+Q937217;Hato Mayor Province;код Freebase;1;1;from
+Q937217;Hato Mayor Province;Who's on First ID;1;1;from
+Q937217;Hato Mayor Province;FIPS 10-4 (страны и регионы);1;1;from
+Q937217;Hato Mayor Province;основная категория по теме;1;1;from
+Q937217;Hato Mayor Province;место в MusicBrainz;1;1;from
+Q937217;Hato Mayor Province;категория объединяет темы;1;2;to
+Q937217;Hato Mayor Province;место рождения;1;10;to
+Q937217;Hato Mayor Province;является столицей;1;1;to
+Q937217;Hato Mayor Province;общая тема категории;1;1;to
+Q937217;Hato Mayor Province;административно делится на;1;1;to
+Q1137545;Elías Piña Province;административно-территориальная единица;1;27;to
+Q1137545;Elías Piña Province;государство;1;1;from
+Q1137545;Elías Piña Province;карта местонахождения;1;1;from
+Q1137545;Elías Piña Province;это частный случай понятия;1;1;from
+Q1137545;Elías Piña Province;столица;1;1;from
+Q1137545;Elías Piña Province;изображение герба;1;1;from
+Q1137545;Elías Piña Province;код в Большой каталанской энциклопедии;1;1;from
+Q1137545;Elías Piña Province;категория для людей, родившихся здесь;1;1;from
+Q1137545;Elías Piña Province;код GeoNames;1;1;from
+Q1137545;Elías Piña Province;категория для людей, связанных с местностью;1;1;from
+Q1137551;Barahona Province;ISO 3166-2;1;1;from
+Q1137551;Barahona Province;категория на Викискладе;1;1;from
+Q1137551;Barahona Province;ID отношения в OpenStreetMap;1;1;from
+Q1137551;Barahona Province;дата основания/создания/возникновения;1;1;from
+Q1138575;Dajabón Province;ID отношения в OpenStreetMap;1;1;from
+Q1138575;Dajabón Province;географические координаты;1;1;from
+Q1138575;Dajabón Province;код Freebase;1;1;from
+Q1138575;Dajabón Province;Who's on First ID;1;1;from
+Q1138575;Dajabón Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1138575;Dajabón Province;основная категория по теме;1;1;from
+Q1138575;Dajabón Province;место рождения;1;3;to
+Q1138575;Dajabón Province;является столицей;1;1;to
+Q1138575;Dajabón Province;категория объединяет темы;1;2;to
+Q1138575;Dajabón Province;общая тема категории;1;1;to
+Q1138575;Dajabón Province;административно делится на;1;1;to
+Q1140742;La Romana Province;административно-территориальная единица;1;8;to
+Q1140742;La Romana Province;государство;1;1;from
+Q1140742;La Romana Province;изображение;1;3;from
+Q1140742;La Romana Province;это частный случай понятия;1;1;from
+Q1140742;La Romana Province;столица;1;1;from
+Q1140742;La Romana Province;изображение герба;1;1;from
+Q1140742;La Romana Province;код US National Archives;1;1;from
+Q1140742;La Romana Province;категория для людей, родившихся здесь;1;1;from
+Q1140742;La Romana Province;код GeoNames;1;1;from
+Q1140742;La Romana Province;категория для людей, связанных с местностью;1;1;from
+Q1138575;Dajabón Province;категория на Викискладе;1;1;from
+Q1138575;Dajabón Province;код темы Quora;1;1;from
+Q1138575;Dajabón Province;ISO 3166-2;1;1;from
+Q1137551;Barahona Province;является столицей;1;1;to
+Q1137551;Barahona Province;географические координаты;1;1;from
+Q1137551;Barahona Province;код Freebase;1;1;from
+Q1137551;Barahona Province;Who's on First ID;1;1;from
+Q1137551;Barahona Province;FIPS 10-4 (страны и регионы);1;1;from
+Q1137551;Barahona Province;основная категория по теме;1;1;from
+Q1137551;Barahona Province;место в MusicBrainz;1;1;from
+Q1137551;Barahona Province;место рождения;1;2;to
+Q1137551;Barahona Province;категория объединяет темы;1;2;to
+Q1137551;Barahona Province;общая тема категории;1;1;to
+Q1137551;Barahona Province;административно делится на;1;1;to
+Q1138575;Dajabón Province;высота над уровнем моря;1;1;from
+Q1138575;Dajabón Province;административно-территориальная единица;1;16;to
+Q1138575;Dajabón Province;государство;1;1;from
+Q1138575;Dajabón Province;это частный случай понятия;1;1;from
+Q1138575;Dajabón Province;столица;1;1;from
+Q1138575;Dajabón Province;изображение герба;1;1;from
+Q1138575;Dajabón Province;код в Большой каталанской энциклопедии;1;1;from
+Q1138575;Dajabón Province;категория для людей, родившихся здесь;1;1;from
+Q1138575;Dajabón Province;код GeoNames;1;1;from
+Q1138575;Dajabón Province;категория для людей, связанных с местностью;1;1;from
+Q2021942;Santiago Rodríguez Province;административно делится на;1;1;to

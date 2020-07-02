@@ -1,0 +1,369 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q309469;Al Jazirah;административно-территориальная единица;1;5;to
+Q846331;West Darfur;основная категория по теме;1;1;from
+Q849297;River Nile;это частный случай понятия;1;1;from
+Q849297;River Nile;карта местонахождения;1;2;from
+Q849297;River Nile;изображение;1;1;from
+Q849297;River Nile;государство;1;1;from
+Q849297;River Nile;административно-территориальная единица;1;13;to
+Q846331;West Darfur;административно делится на;1;1;to
+Q846331;West Darfur;происходит из;1;6;to
+Q846331;West Darfur;общая тема категории;1;1;to
+Q846331;West Darfur;является столицей;1;1;to
+Q846331;West Darfur;FIPS 10-4 (страны и регионы);1;1;from
+Q309469;Al Jazirah;государство;1;1;from
+Q846331;West Darfur;Who's on First ID;1;1;from
+Q846331;West Darfur;код Freebase;1;1;from
+Q846331;West Darfur;географические координаты;1;1;from
+Q846331;West Darfur;ISO 3166-2;1;1;from
+Q846331;West Darfur;используемый язык;1;6;from
+Q846331;West Darfur;площадь;1;1;from
+Q846331;West Darfur;код TGN;1;1;from
+Q846331;West Darfur;код GeoNames;1;1;from
+Q846331;West Darfur;столица;1;1;from
+Q849297;River Nile;столица;1;1;from
+Q849297;River Nile;численность населения;1;2;from
+Q849297;River Nile;код GeoNames;1;1;from
+Q849297;River Nile;код TGN;1;1;from
+Q864093;North Kordofan;изображение флага;1;1;from
+Q864093;North Kordofan;столица;1;1;from
+Q864093;North Kordofan;это частный случай понятия;1;1;from
+Q864093;North Kordofan;карта местонахождения;1;1;from
+Q864093;North Kordofan;изображение;1;1;from
+Q864093;North Kordofan;государство;1;1;from
+Q864093;North Kordofan;административно-территориальная единица;1;2;to
+Q849297;River Nile;административно делится на;1;1;to
+Q849297;River Nile;общая тема категории;1;1;to
+Q849297;River Nile;является столицей;1;1;to
+Q849297;River Nile;происходит из;1;18;to
+Q849297;River Nile;основная категория по теме;1;1;from
+Q849297;River Nile;FIPS 10-4 (страны и регионы);1;1;from
+Q849297;River Nile;Who's on First ID;1;1;from
+Q849297;River Nile;код Freebase;1;1;from
+Q849297;River Nile;географические координаты;1;1;from
+Q849297;River Nile;ISO 3166-2;1;1;from
+Q849297;River Nile;используемый язык;1;18;from
+Q849297;River Nile;площадь;1;1;from
+Q846331;West Darfur;это частный случай понятия;1;1;from
+Q846331;West Darfur;код LCNAF;1;1;from
+Q846331;West Darfur;карта местонахождения;1;1;from
+Q688306;North Darfur;категория объединяет темы;1;1;to
+Q688306;North Darfur;является столицей;1;1;to
+Q688306;North Darfur;место рождения;1;2;to
+Q688306;North Darfur;основная категория по теме;1;1;from
+Q688306;North Darfur;FIPS 10-4 (страны и регионы);1;1;from
+Q688306;North Darfur;Who's on First ID;1;1;from
+Q688306;North Darfur;код Freebase;1;1;from
+Q688306;North Darfur;географические координаты;1;1;from
+Q688306;North Darfur;часовой пояс;1;1;from
+Q688306;North Darfur;ISO 3166-2;1;1;from
+Q688306;North Darfur;площадь;1;1;from
+Q688306;North Darfur;категория для людей, связанных с местностью;1;1;from
+Q688306;North Darfur;название на языке оригинала;1;1;from
+Q688306;North Darfur;код GeoNames;1;1;from
+Q688306;North Darfur;численность населения;1;1;from
+Q688306;North Darfur;столица;1;1;from
+Q688306;North Darfur;это частный случай понятия;1;1;from
+Q688306;North Darfur;карта местонахождения;1;1;from
+Q688306;North Darfur;изображение;1;1;from
+Q688306;North Darfur;государство;1;1;from
+Q688306;North Darfur;общая тема категории;1;1;to
+Q688306;North Darfur;административно делится на;1;1;to
+Q846331;West Darfur;государство;1;1;from
+Q838778;South Darfur;административно-территориальная единица;1;13;to
+Q846331;West Darfur;административно-территориальная единица;1;101;to
+Q838778;South Darfur;административно делится на;1;1;to
+Q838778;South Darfur;является столицей;1;1;to
+Q838778;South Darfur;общая тема категории;1;1;to
+Q838778;South Darfur;основная категория по теме;1;1;from
+Q838778;South Darfur;FIPS 10-4 (страны и регионы);1;1;from
+Q838778;South Darfur;официальный сайт;1;1;from
+Q838778;South Darfur;Who's on First ID;1;1;from
+Q838778;South Darfur;код Freebase;1;1;from
+Q838778;South Darfur;географические координаты;1;1;from
+Q838778;South Darfur;ISO 3166-2;1;1;from
+Q838778;South Darfur;площадь;1;1;from
+Q838778;South Darfur;код TGN;1;1;from
+Q838778;South Darfur;код GeoNames;1;1;from
+Q838778;South Darfur;столица;1;1;from
+Q838778;South Darfur;это частный случай понятия;1;1;from
+Q838778;South Darfur;карта местонахождения;1;1;from
+Q838778;South Darfur;изображение;1;1;from
+Q838778;South Darfur;государство;1;1;from
+Q864093;North Kordofan;код GeoNames;1;1;from
+Q864093;North Kordofan;категория для людей, связанных с местностью;1;1;from
+Q864093;North Kordofan;площадь;1;1;from
+Q3545641;East Darfur;код GNS;1;1;from
+Q3545641;East Darfur;столица;1;1;from
+Q3545641;East Darfur;это частный случай понятия;1;1;from
+Q3545641;East Darfur;карта местонахождения;1;1;from
+Q3545641;East Darfur;государство;1;1;from
+Q3545641;East Darfur;административно-территориальная единица;1;2;to
+Q954963;Kassala;происходит из;1;2;to
+Q954963;Kassala;административно делится на;1;1;to
+Q954963;Kassala;категория объединяет темы;1;1;to
+Q954963;Kassala;общая тема категории;1;1;to
+Q954963;Kassala;место рождения;1;1;to
+Q954963;Kassala;является столицей;1;1;to
+Q954963;Kassala;основная категория по теме;1;1;from
+Q954963;Kassala;FIPS 10-4 (страны и регионы);1;1;from
+Q954963;Kassala;Who's on First ID;1;1;from
+Q954963;Kassala;код Freebase;1;1;from
+Q954963;Kassala;географические координаты;1;1;from
+Q954963;Kassala;ISO 3166-2;1;1;from
+Q954963;Kassala;используемый язык;1;2;from
+Q954963;Kassala;площадь;1;1;from
+Q3545641;East Darfur;код GeoNames;1;1;from
+Q3545641;East Darfur;ISO 3166-2;1;1;from
+Q954963;Kassala;код TGN;1;1;from
+Q3545641;East Darfur;дата основания/создания/возникновения;1;1;from
+Q4116493;Central Darfur;административно-территориальная единица;1;134;to
+Q4116493;Central Darfur;общая тема категории;1;1;to
+Q4116493;Central Darfur;основная категория по теме;1;1;from
+Q4116493;Central Darfur;Who's on First ID;1;1;from
+Q4116493;Central Darfur;код Freebase;1;1;from
+Q4116493;Central Darfur;географические координаты;1;1;from
+Q4116493;Central Darfur;дата основания/создания/возникновения;1;1;from
+Q4116493;Central Darfur;ISO 3166-2;1;1;from
+Q4116493;Central Darfur;код TGN;1;1;from
+Q4116493;Central Darfur;код GeoNames;1;1;from
+Q4116493;Central Darfur;столица;1;1;from
+Q4116493;Central Darfur;это частный случай понятия;1;1;from
+Q4116493;Central Darfur;карта местонахождения;1;1;from
+Q4116493;Central Darfur;государство;1;1;from
+Q3545641;East Darfur;является столицей;1;1;to
+Q3545641;East Darfur;общая тема категории;1;1;to
+Q3545641;East Darfur;основная категория по теме;1;1;from
+Q3545641;East Darfur;код Freebase;1;1;from
+Q3545641;East Darfur;географические координаты;1;2;from
+Q954963;Kassala;категория для людей, связанных с местностью;1;1;from
+Q954963;Kassala;код GeoNames;1;1;from
+Q864093;North Kordofan;ISO 3166-2;1;1;from
+Q865534;Sennar;не путать с;1;1;to
+Q865534;Sennar;код GeoNames;1;1;from
+Q865534;Sennar;описывается в источниках;1;1;from
+Q865534;Sennar;столица;1;1;from
+Q865534;Sennar;это частный случай понятия;1;1;from
+Q865534;Sennar;карта местонахождения;1;1;from
+Q865534;Sennar;государство;1;1;from
+Q865534;Sennar;административно-территориальная единица;1;3;to
+Q864093;North Kordofan;административно делится на;1;1;to
+Q864093;North Kordofan;место смерти;1;1;to
+Q864093;North Kordofan;общая тема категории;1;1;to
+Q864093;North Kordofan;место рождения;1;1;to
+Q864093;North Kordofan;является столицей;1;1;to
+Q864093;North Kordofan;категория объединяет темы;1;1;to
+Q864093;North Kordofan;основная категория по теме;1;1;from
+Q864093;North Kordofan;FIPS 10-4 (страны и регионы);1;1;from
+Q864093;North Kordofan;Who's on First ID;1;1;from
+Q864093;North Kordofan;код Freebase;1;1;from
+Q864093;North Kordofan;географические координаты;1;1;from
+Q864093;North Kordofan;категория на Викискладе;1;1;from
+Q865534;Sennar;код TGN;1;1;from
+Q865534;Sennar;площадь;1;1;from
+Q954963;Kassala;код в энциклопедии «Британника онлайн»;1;1;from
+Q865534;Sennar;используемый язык;1;1;from
+Q954963;Kassala;столица;1;1;from
+Q954963;Kassala;это частный случай понятия;1;1;from
+Q954963;Kassala;карта местонахождения;1;1;from
+Q954963;Kassala;изображение;1;1;from
+Q954963;Kassala;государство;1;1;from
+Q954963;Kassala;административно-территориальная единица;1;1;to
+Q865534;Sennar;административно делится на;1;1;to
+Q865534;Sennar;общая тема категории;1;1;to
+Q865534;Sennar;является столицей;1;1;to
+Q865534;Sennar;основная тема;1;1;to
+Q865534;Sennar;происходит из;1;1;to
+Q865534;Sennar;основная категория по теме;1;1;from
+Q865534;Sennar;FIPS 10-4 (страны и регионы);1;1;from
+Q865534;Sennar;Who's on First ID;1;1;from
+Q865534;Sennar;код Freebase;1;1;from
+Q865534;Sennar;географические координаты;1;1;from
+Q865534;Sennar;часовой пояс;1;1;from
+Q865534;Sennar;категория на Викискладе;1;1;from
+Q865534;Sennar;ISO 3166-2;1;1;from
+Q688306;North Darfur;административно-территориальная единица;1;22;to
+Q536396;West Kordofan;общая тема категории;1;1;to
+Q536396;West Kordofan;административно-территориальная единица;1;1;to
+Q310118;Northern;государство;1;1;from
+Q309489;Blue Nile;административно делится на;1;1;to
+Q309489;Blue Nile;общая тема категории;1;1;to
+Q309489;Blue Nile;является столицей;1;1;to
+Q309489;Blue Nile;происходит из;1;1;to
+Q309489;Blue Nile;основная категория по теме;1;1;from
+Q309489;Blue Nile;FIPS 10-4 (страны и регионы);1;1;from
+Q309489;Blue Nile;Who's on First ID;1;1;from
+Q309489;Blue Nile;код Freebase;1;1;from
+Q309489;Blue Nile;географические координаты;1;1;from
+Q309489;Blue Nile;код темы Quora;1;1;from
+Q309489;Blue Nile;ISO 3166-2;1;1;from
+Q309489;Blue Nile;используемый язык;1;1;from
+Q309489;Blue Nile;код BabelNet;1;1;from
+Q309489;Blue Nile;площадь;1;1;from
+Q309489;Blue Nile;высота над уровнем моря;1;1;from
+Q309489;Blue Nile;код TGN;1;1;from
+Q309489;Blue Nile;код GeoNames;1;1;from
+Q309489;Blue Nile;столица;1;1;from
+Q309489;Blue Nile;это частный случай понятия;1;1;from
+Q310118;Northern;административно-территориальная единица;1;39;to
+Q310118;Northern;изображение;1;1;from
+Q309489;Blue Nile;изображение;1;1;from
+Q310118;Northern;карта местонахождения;1;1;from
+Q310120;Red Sea;государство;1;1;from
+Q310120;Red Sea;административно-территориальная единица;1;4;to
+Q310118;Northern;происходит из;1;1;to
+Q310118;Northern;административно делится на;1;1;to
+Q310118;Northern;общая тема категории;1;1;to
+Q310118;Northern;является столицей;1;1;to
+Q310118;Northern;место рождения;1;1;to
+Q310118;Northern;основная категория по теме;1;1;from
+Q310118;Northern;FIPS 10-4 (страны и регионы);1;1;from
+Q310118;Northern;Who's on First ID;1;1;from
+Q310118;Northern;код Freebase;1;1;from
+Q310118;Northern;географические координаты;1;1;from
+Q310118;Northern;ISO 3166-2;1;1;from
+Q310118;Northern;используемый язык;1;1;from
+Q310118;Northern;код BNF;1;1;from
+Q310118;Northern;площадь;1;1;from
+Q310118;Northern;код GeoNames;1;1;from
+Q310118;Northern;столица;1;1;from
+Q310118;Northern;это частный случай понятия;1;1;from
+Q309489;Blue Nile;карта местонахождения;1;2;from
+Q309489;Blue Nile;государство;1;1;from
+Q310120;Red Sea;карта местонахождения;1;1;from
+Q309469;Al Jazirah;административно делится на;1;1;to
+Q309469;Al Jazirah;общая тема категории;1;1;to
+Q309469;Al Jazirah;место рождения;1;1;to
+Q309469;Al Jazirah;основная категория по теме;1;1;from
+Q309469;Al Jazirah;FIPS 10-4 (страны и регионы);1;1;from
+Q309469;Al Jazirah;официальный сайт;1;1;from
+Q309469;Al Jazirah;Who's on First ID;1;1;from
+Q309469;Al Jazirah;код Freebase;1;1;from
+Q309469;Al Jazirah;географические координаты;1;1;from
+Q309469;Al Jazirah;ISO 3166-2;1;1;from
+Q309469;Al Jazirah;площадь;1;1;from
+Q309469;Al Jazirah;высота над уровнем моря;1;1;from
+Q309469;Al Jazirah;код TGN;1;1;from
+Q309469;Al Jazirah;код GeoNames;1;1;from
+Q309469;Al Jazirah;код в энциклопедии «Британника онлайн»;1;1;from
+Q309469;Al Jazirah;столица;1;1;from
+Q309469;Al Jazirah;это частный случай понятия;1;1;from
+Q309469;Al Jazirah;код LCNAF;1;1;from
+Q309469;Al Jazirah;карта местонахождения;1;1;from
+Q309469;Al Jazirah;изображение;1;1;from
+Q309469;Al Jazirah;является столицей;1;1;to
+Q309478;Al Qadarif;административно-территориальная единица;1;1;to
+Q309489;Blue Nile;административно-территориальная единица;1;4;to
+Q309478;Al Qadarif;государство;1;1;from
+Q309478;Al Qadarif;происходит из;1;2;to
+Q309478;Al Qadarif;административно делится на;1;1;to
+Q309478;Al Qadarif;общая тема категории;1;1;to
+Q309478;Al Qadarif;является столицей;1;1;to
+Q309478;Al Qadarif;место рождения;1;1;to
+Q309478;Al Qadarif;основная категория по теме;1;1;from
+Q309478;Al Qadarif;FIPS 10-4 (страны и регионы);1;1;from
+Q309478;Al Qadarif;Who's on First ID;1;1;from
+Q309478;Al Qadarif;код Freebase;1;1;from
+Q309478;Al Qadarif;географические координаты;1;1;from
+Q309478;Al Qadarif;ISO 3166-2;1;1;from
+Q309478;Al Qadarif;используемый язык;1;2;from
+Q309478;Al Qadarif;площадь;1;1;from
+Q309478;Al Qadarif;высота над уровнем моря;1;1;from
+Q309478;Al Qadarif;код TGN;1;1;from
+Q309478;Al Qadarif;код GeoNames;1;1;from
+Q309478;Al Qadarif;столица;1;1;from
+Q309478;Al Qadarif;это частный случай понятия;1;1;from
+Q309478;Al Qadarif;карта местонахождения;1;1;from
+Q310120;Red Sea;изображение;1;1;from
+Q310120;Red Sea;это частный случай понятия;1;1;from
+Q536396;West Kordofan;является столицей;1;1;to
+Q465490;South Kordofan;код Freebase;1;1;from
+Q465490;South Kordofan;категория на Викискладе;1;1;from
+Q465490;South Kordofan;ISO 3166-2;1;1;from
+Q465490;South Kordofan;площадь;1;1;from
+Q465490;South Kordofan;код TGN;1;1;from
+Q465490;South Kordofan;код GeoNames;1;1;from
+Q465490;South Kordofan;столица;1;1;from
+Q465490;South Kordofan;это частный случай понятия;1;1;from
+Q465490;South Kordofan;карта местонахождения;1;1;from
+Q465490;South Kordofan;государство;1;1;from
+Q465490;South Kordofan;административно-территориальная единица;1;5;to
+Q311371;White Nile;происходит из;1;3;to
+Q311371;White Nile;административно делится на;1;1;to
+Q311371;White Nile;общая тема категории;1;1;to
+Q311371;White Nile;является столицей;1;1;to
+Q311371;White Nile;основная категория по теме;1;1;from
+Q311371;White Nile;FIPS 10-4 (страны и регионы);1;1;from
+Q311371;White Nile;Who's on First ID;1;1;from
+Q311371;White Nile;код Freebase;1;1;from
+Q311371;White Nile;географические координаты;1;1;from
+Q465490;South Kordofan;географические координаты;1;1;from
+Q465490;South Kordofan;Who's on First ID;1;1;from
+Q311371;White Nile;ISO 3166-2;1;1;from
+Q465490;South Kordofan;FIPS 10-4 (страны и регионы);1;1;from
+Q536396;West Kordofan;основная категория по теме;1;1;from
+Q536396;West Kordofan;FIPS 10-4 (страны и регионы);1;1;from
+Q536396;West Kordofan;код Freebase;1;1;from
+Q536396;West Kordofan;географические координаты;1;1;from
+Q536396;West Kordofan;дата основания/создания/возникновения;1;1;from
+Q536396;West Kordofan;ISO 3166-2;1;1;from
+Q536396;West Kordofan;площадь;1;1;from
+Q536396;West Kordofan;код GeoNames;1;1;from
+Q536396;West Kordofan;столица;1;1;from
+Q536396;West Kordofan;это частный случай понятия;1;1;from
+Q536396;West Kordofan;карта местонахождения;1;1;from
+Q536396;West Kordofan;государство;1;1;from
+Q465490;South Kordofan;административно делится на;1;1;to
+Q465490;South Kordofan;общая тема категории;1;1;to
+Q465490;South Kordofan;место рождения;1;2;to
+Q465490;South Kordofan;местонахождение;1;2;to
+Q465490;South Kordofan;является столицей;1;1;to
+Q465490;South Kordofan;место в MusicBrainz;1;1;from
+Q465490;South Kordofan;основная категория по теме;1;1;from
+Q311371;White Nile;категория на Викискладе;1;1;from
+Q311371;White Nile;используемый язык;1;3;from
+Q310120;Red Sea;столица;1;1;from
+Q310385;Khartoum;код TGN;1;1;from
+Q310385;Khartoum;код в Большой каталанской энциклопедии;1;1;from
+Q310385;Khartoum;столица;1;1;from
+Q310385;Khartoum;это частный случай понятия;1;1;from
+Q310385;Khartoum;карта местонахождения;1;1;from
+Q310385;Khartoum;изображение;1;1;from
+Q310385;Khartoum;государство;1;1;from
+Q310385;Khartoum;административно-территориальная единица;1;7;to
+Q310120;Red Sea;административно делится на;1;1;to
+Q310120;Red Sea;общая тема категории;1;1;to
+Q310120;Red Sea;является столицей;1;1;to
+Q310120;Red Sea;основная категория по теме;1;1;from
+Q310120;Red Sea;FIPS 10-4 (страны и регионы);1;1;from
+Q310120;Red Sea;Who's on First ID;1;1;from
+Q310120;Red Sea;код Freebase;1;1;from
+Q310120;Red Sea;географические координаты;1;1;from
+Q310120;Red Sea;ISO 3166-2;1;1;from
+Q310120;Red Sea;площадь;1;1;from
+Q310120;Red Sea;код TGN;1;1;from
+Q310120;Red Sea;код GeoNames;1;1;from
+Q310385;Khartoum;код GeoNames;1;1;from
+Q310385;Khartoum;площадь;1;1;from
+Q311371;White Nile;площадь;1;1;from
+Q310385;Khartoum;используемый язык;1;2;from
+Q311371;White Nile;код TGN;1;1;from
+Q311371;White Nile;код GeoNames;1;1;from
+Q311371;White Nile;столица;1;1;from
+Q311371;White Nile;это частный случай понятия;1;1;from
+Q311371;White Nile;карта местонахождения;1;1;from
+Q311371;White Nile;государство;1;1;from
+Q311371;White Nile;административно-территориальная единица;1;2;to
+Q310385;Khartoum;происходит из;1;2;to
+Q310385;Khartoum;административно делится на;1;1;to
+Q310385;Khartoum;общая тема категории;1;1;to
+Q310385;Khartoum;место смерти;1;1;to
+Q310385;Khartoum;основная категория по теме;1;1;from
+Q310385;Khartoum;FIPS 10-4 (страны и регионы);1;1;from
+Q310385;Khartoum;Who's on First ID;1;1;from
+Q310385;Khartoum;код Freebase;1;1;from
+Q310385;Khartoum;географические координаты;1;1;from
+Q310385;Khartoum;часовой пояс;1;1;from
+Q310385;Khartoum;категория на Викискладе;1;1;from
+Q310385;Khartoum;ISO 3166-2;1;1;from
+Q4116493;Central Darfur;является столицей;1;1;to

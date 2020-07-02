@@ -1,0 +1,614 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q21;England;форма правления;1;1;from
+Q25;Wales;код Freebase;1;1;from
+Q25;Wales;дата начала;1;1;from
+Q25;Wales;код Comic Vine;1;1;from
+Q25;Wales;код NUTS;1;1;from
+Q25;Wales;наивысшая точка;1;1;from
+Q25;Wales;относится к вики-проекту;1;1;from
+Q25;Wales;географические координаты;1;1;from
+Q25;Wales;идентификатор Dizionario di Storia;1;1;from
+Q25;Wales;код статьи Klexikon;1;1;from
+Q25;Wales;код темы Quora;1;1;from
+Q25;Wales;Australian War Memorial ID;1;1;from
+Q25;Wales;код NKC;1;1;from
+Q25;Wales;iNaturalist place ID;1;1;from
+Q25;Wales;French Vikidia ID;1;1;from
+Q25;Wales;категория карт на Викискладе;1;1;from
+Q25;Wales;Analysis & Policy Observatory term ID;1;1;from
+Q25;Wales;код GSS (2011);1;1;from
+Q25;Wales;дата основания/создания/возникновения;1;1;from
+Q25;Wales;идентификатор местоположения ArchINFORM;1;1;from
+Q25;Wales;состоит из;1;1;to
+Q25;Wales;идентификатор Giant Bomb;1;1;from
+Q25;Wales;Vision of Britain place ID;1;1;from
+Q25;Wales;категория на Викискладе;1;1;from
+Q25;Wales;геоданные;1;1;from
+Q25;Wales;ID отношения в OpenStreetMap;1;1;from
+Q25;Wales;святой покровитель;1;1;from
+Q25;Wales;часовой пояс;1;2;from
+Q25;Wales;код тезауруса PACTOLS;1;1;from
+Q25;Wales;код GACS;1;1;from
+Q25;Wales;произношение (звуковой файл);1;2;from
+Q25;Wales;код EMLO location;1;1;from
+Q25;Wales;код LoC and MARC;1;1;from
+Q25;Wales;архивы хранятся в;1;1;from
+Q25;Wales;идентификатор MeSH;1;1;from
+Q25;Wales;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q25;Wales;обзорная статья Викимедиа;1;1;from
+Q25;Wales;основная категория по теме;1;1;from
+Q25;Wales;галерея на Викискладе;1;1;from
+Q25;Wales;баннер Викигида;1;1;from
+Q25;Wales;часть от;1;7;to
+Q25;Wales;место погребения;1;13;to
+Q25;Wales;находится в пределах природно-географического объекта;1;2;to
+Q25;Wales;основная тема;1;71;to
+Q25;Wales;подкласс от;1;1;to
+Q25;Wales;место публикации;1;81;to
+Q25;Wales;изображённый объект;1;16;to
+Q25;Wales;участник(и);1;2;to
+Q25;Wales;место активности;1;6;to
+Q25;Wales;происходит из;1;6;to
+Q25;Wales;категория содержит;1;1;to
+Q25;Wales;область святого или божества;1;1;to
+Q25;Wales;бассейн объекта в странах;1;2;to
+Q25;Wales;названо в честь;1;3;to
+Q25;Wales;этническая группа;1;4;to
+Q25;Wales;место изготовления;1;64;to
+Q25;Wales;расположение штаб-квартиры;1;32;to
+Q25;Wales;категория объединяет темы;1;960;to
+Q25;Wales;место в MusicBrainz;1;1;from
+Q25;Wales;история происходит в месте;1;104;to
+Q25;Wales;dmoz;1;1;from
+Q25;Wales;юрисдикция распространяется на;1;150;to
+Q25;Wales;гражданство;1;4165;to
+Q25;Wales;место жительства;1;16;to
+Q25;Wales;зона обслуживания;1;164;to
+Q25;Wales;представляет страну в спорте;1;1217;to
+Q25;Wales;административно-территориальная единица;1;853;to
+Q25;Wales;страна происхождения;1;6023;to
+Q25;Wales;место рождения;1;672;to
+Q25;Wales;местонахождение;1;104;to
+Q25;Wales;тематически относится к;1;315;to
+Q25;Wales;место смерти;1;75;to
+Q25;Wales;место создания;1;104;to
+Q25;Wales;место съёмок;1;13;to
+Q25;Wales;основная тема портала Викимедиа;1;1;to
+Q25;Wales;код NDL;1;1;from
+Q25;Wales;код Католической энциклопедии;1;1;from
+Q22;Scotland;место изготовления;1;42;to
+Q25;Wales;столица;1;1;from
+Q25;Wales;исполнительная власть;1;1;from
+Q25;Wales;код VIAF;1;1;from
+Q25;Wales;код GND;1;1;from
+Q25;Wales;карта местонахождения;1;3;from
+Q25;Wales;код LCNAF;1;1;from
+Q25;Wales;часть света;1;1;from
+Q25;Wales;это частный случай понятия;1;3;from
+Q25;Wales;официальный язык;1;2;from
+Q25;Wales;код NE.se;1;1;from
+Q25;Wales;денежная единица;1;1;from
+Q25;Wales;изображение флага;1;1;from
+Q25;Wales;имеет границы с;1;2;to
+Q25;Wales;глава правительства;1;7;from
+Q25;Wales;гимн;1;1;from
+Q25;Wales;изображение герба;1;2;from
+Q25;Wales;десятичная классификация Дьюи;1;1;from
+Q25;Wales;законодательный орган;1;1;from
+Q25;Wales;изображение;1;2;from
+Q25;Wales;государство;1;513;to
+Q25;Wales;описание флага;1;1;from
+Q22;Scotland;место погребения;1;12;to
+Q22;Scotland;основатель;1;2;to
+Q22;Scotland;место публикации;1;3;to
+Q22;Scotland;этническая группа;1;2;to
+Q22;Scotland;происходит из;1;5;to
+Q22;Scotland;источник материала;1;1;to
+Q22;Scotland;получил одобрение от;1;1;to
+Q22;Scotland;общая тема категории;1;1;to
+Q22;Scotland;занимает ту же территорию с;1;1;to
+Q22;Scotland;основная тема портала Викимедиа;1;1;to
+Q22;Scotland;является столицей;1;1;to
+Q22;Scotland;культура;1;2;to
+Q22;Scotland;элемент для смысла;1;1;to
+Q22;Scotland;энтохороним от;1;1;to
+Q25;Wales;административно делится на;1;2;to
+Q25;Wales;численность населения;1;56;from
+Q25;Wales;портал Викимедиа;1;1;from
+Q25;Wales;код US National Archives;1;1;from
+Q25;Wales;категория для людей, похороненных здесь;1;1;from
+Q25;Wales;площадь;1;1;from
+Q25;Wales;номинальный ВВП;1;3;from
+Q25;Wales;номинальный ВВП на душу населения;1;3;from
+Q25;Wales;код FAST;1;1;from
+Q25;Wales;история темы;1;1;from
+Q25;Wales;код YSO;1;1;from
+Q25;Wales;код BabelNet;1;1;from
+Q25;Wales;география темы;1;1;from
+Q25;Wales;код в Большой российской энциклопедии онлайн;1;1;from
+Q25;Wales;используемый язык;1;7;from
+Q25;Wales;постоянный дубликат;1;1;to
+Q25;Wales;ISO 3166-2;1;1;from
+Q25;Wales;код темы Guardian;1;1;from
+Q25;Wales;TOID;1;1;from
+Q25;Wales;код в Encyclopædia Universalis;1;1;from
+Q25;Wales;категория для людей, связанных с местностью;1;1;from
+Q25;Wales;категория фильмов, снятых в этом месте;1;1;from
+Q25;Wales;код в Большой каталанской энциклопедии;1;1;from
+Q25;Wales;код персоны/учреждения в Британском музее;1;1;from
+Q25;Wales;должность главы правительства;1;1;from
+Q25;Wales;самая северная точка;1;1;from
+Q25;Wales;самая южная точка;1;1;from
+Q25;Wales;самая восточная точка;1;1;from
+Q25;Wales;самая западная точка;1;1;from
+Q25;Wales;описывается в источниках;1;5;from
+Q25;Wales;код в энциклопедии «Британника онлайн»;1;1;from
+Q25;Wales;официальное название;1;2;from
+Q25;Wales;текст девиза;1;3;from
+Q25;Wales;категория для людей, родившихся здесь;1;1;from
+Q25;Wales;категория для людей, умерших здесь;1;1;from
+Q25;Wales;этнохороним;1;27;from
+Q25;Wales;обладает свойством;1;1;from
+Q25;Wales;код GeoNames;1;1;from
+Q25;Wales;название на языке оригинала;1;1;from
+Q25;Wales;предки из;1;1;to
+Q25;Wales;общая тема категории;1;1;to
+Q25;Wales;занимает ту же территорию с;1;1;to
+Q26;Northern Ireland;dmoz;1;1;from
+Q26;Northern Ireland;категория карт на Викискладе;1;1;from
+Q26;Northern Ireland;Analysis & Policy Observatory term ID;1;1;from
+Q26;Northern Ireland;код GSS (2011);1;1;from
+Q26;Northern Ireland;основная категория по теме;1;1;from
+Q26;Northern Ireland;галерея на Викискладе;1;1;from
+Q26;Northern Ireland;баннер Викигида;1;1;from
+Q26;Northern Ireland;место в MusicBrainz;1;1;from
+Q26;Northern Ireland;юрисдикция распространяется на;1;100;to
+Q25;Wales;является столицей;1;1;to
+Q26;Northern Ireland;категория объединяет темы;1;302;to
+Q26;Northern Ireland;местонахождение;1;23;to
+Q26;Northern Ireland;гражданство;1;291;to
+Q26;Northern Ireland;представляет страну в спорте;1;193;to
+Q26;Northern Ireland;место съёмок;1;3;to
+Q26;Northern Ireland;основная тема портала Викимедиа;1;1;to
+Q26;Northern Ireland;место рождения;1;164;to
+Q26;Northern Ireland;French Vikidia ID;1;1;from
+Q26;Northern Ireland;код The Top Tens;1;1;from
+Q26;Northern Ireland;находится в пределах природно-географического объекта;1;1;from
+Q26;Northern Ireland;код NKC;1;1;from
+Q26;Northern Ireland;код LoC and MARC;1;1;from
+Q26;Northern Ireland;идентификатор MeSH;1;1;from
+Q26;Northern Ireland;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q26;Northern Ireland;обзорная статья Викимедиа;1;1;from
+Q26;Northern Ireland;идентификатор Giant Bomb;1;1;from
+Q26;Northern Ireland;EuroVoc ID;1;1;from
+Q26;Northern Ireland;идентификатор местоположения ArchINFORM;1;1;from
+Q26;Northern Ireland;дата основания/создания/возникновения;1;1;from
+Q26;Northern Ireland;код Comic Vine;1;1;from
+Q26;Northern Ireland;код NUTS;1;1;from
+Q26;Northern Ireland;наивысшая точка;1;1;from
+Q26;Northern Ireland;географические координаты;1;1;from
+Q26;Northern Ireland;идентификатор Dizionario di Storia;1;1;from
+Q26;Northern Ireland;код Freebase;1;1;from
+Q26;Northern Ireland;код статьи Klexikon;1;1;from
+Q26;Northern Ireland;история происходит в месте;1;33;to
+Q26;Northern Ireland;бассейн объекта в странах;1;8;to
+Q26;Northern Ireland;страна происхождения;1;35;to
+Q26;Northern Ireland;энтохороним от;1;1;to
+Q57695350;Ireland;это частный случай понятия;1;2;from
+Q57695350;Ireland;столица;1;1;from
+Q57695350;Ireland;заменён на;1;2;from
+Q57695350;Ireland;дата основания/создания/возникновения;1;1;from
+Q57695350;Ireland;дата прекращения существования;1;1;from
+Q57695350;Ireland;находится в пределах природно-географического объекта;1;1;from
+Q57695350;Ireland;заменил;1;2;to
+Q57695350;Ireland;административно-территориальная единица;1;191;to
+Q57695350;Ireland;основная тема;1;1;to
+Q57695350;Ireland;юрисдикция распространяется на;1;1;to
+Q57695350;Ireland;гражданство;1;9;to
+Q57695350;Ireland;представляет страну в спорте;1;1;to
+Q57695350;Ireland;страна происхождения;1;1;to
+Q57695350;Ireland;место рождения;1;5;to
+Q57695350;Ireland;место жительства;1;2;to
+Q57695350;Ireland;государство;1;1;to
+Q26;Northern Ireland;происходит из;1;1;to
+Q26;Northern Ireland;состоит из;1;1;to
+Q26;Northern Ireland;является столицей;1;1;to
+Q26;Northern Ireland;тематически относится к;1;104;to
+Q26;Northern Ireland;зона обслуживания;1;11;to
+Q26;Northern Ireland;место создания;1;6;to
+Q26;Northern Ireland;место активности;1;1;to
+Q26;Northern Ireland;место погребения;1;2;to
+Q26;Northern Ireland;основная тема;1;6;to
+Q26;Northern Ireland;культура;1;1;to
+Q26;Northern Ireland;производитель;1;1;to
+Q26;Northern Ireland;место смерти;1;17;to
+Q26;Northern Ireland;расположение штаб-квартиры;1;8;to
+Q26;Northern Ireland;изображённый объект;1;1;to
+Q26;Northern Ireland;место жительства;1;4;to
+Q26;Northern Ireland;заменён на;1;1;to
+Q26;Northern Ireland;занимает ту же территорию с;1;1;to
+Q26;Northern Ireland;общая тема категории;1;1;to
+Q26;Northern Ireland;телефонный код страны;1;2;from
+Q26;Northern Ireland;код UK Parliament thesaurus;1;1;from
+Q26;Northern Ireland;код GACS;1;1;from
+Q26;Northern Ireland;столица;1;1;from
+Q26;Northern Ireland;денежная единица;1;1;from
+Q26;Northern Ireland;изображение флага;1;1;from
+Q26;Northern Ireland;имеет границы с;1;6;to
+Q26;Northern Ireland;изображение герба;1;1;from
+Q26;Northern Ireland;численность населения;1;6;from
+Q26;Northern Ireland;портал Викимедиа;1;1;from
+Q26;Northern Ireland;код US National Archives;1;1;from
+Q26;Northern Ireland;значение в OmegaWiki;1;1;from
+Q26;Northern Ireland;код в Большой каталанской энциклопедии;1;1;from
+Q26;Northern Ireland;должность главы правительства;1;2;from
+Q26;Northern Ireland;описывается в источниках;1;3;from
+Q26;Northern Ireland;заменил;1;1;from
+Q26;Northern Ireland;код в энциклопедии «Британника онлайн»;1;1;from
+Q26;Northern Ireland;официальное название;1;2;from
+Q26;Northern Ireland;категория для людей, родившихся здесь;1;1;from
+Q26;Northern Ireland;официальный язык;1;1;from
+Q26;Northern Ireland;это частный случай понятия;1;3;from
+Q26;Northern Ireland;этнохороним;1;12;from
+Q26;Northern Ireland;часть света;1;1;from
+Q25;Wales;культура;1;2;to
+Q25;Wales;энтохороним от;1;1;to
+Q25;Wales;элемент для смысла;1;1;to
+Q26;Northern Ireland;форма правления;1;2;from
+Q26;Northern Ireland;административно-территориальная единица;1;1367;to
+Q26;Northern Ireland;административно делится на;1;1;to
+Q26;Northern Ireland;государство;1;358;to
+Q26;Northern Ireland;изображение;1;2;from
+Q26;Northern Ireland;законодательный орган;1;1;from
+Q26;Northern Ireland;исполнительная власть;1;1;from
+Q26;Northern Ireland;код ISNI;1;1;from
+Q26;Northern Ireland;код VIAF;1;1;from
+Q26;Northern Ireland;код GND;1;1;from
+Q26;Northern Ireland;карта местонахождения;1;5;from
+Q26;Northern Ireland;код LCNAF;1;1;from
+Q26;Northern Ireland;категория для людей, умерших здесь;1;1;from
+Q26;Northern Ireland;код GeoNames;1;1;from
+Q26;Northern Ireland;код тезауруса PACTOLS;1;1;from
+Q26;Northern Ireland;код темы Guardian;1;1;from
+Q26;Northern Ireland;код темы NYT;1;1;from
+Q26;Northern Ireland;код NE.se;1;1;from
+Q26;Northern Ireland;код темы Quora;1;1;from
+Q26;Northern Ireland;код NDL;1;1;from
+Q26;Northern Ireland;Dagens Nyheter topic ID;1;1;from
+Q26;Northern Ireland;часть от;1;6;to
+Q26;Northern Ireland;идентификатор темы Le Monde diplomatique;1;1;from
+Q26;Northern Ireland;категория на Викискладе;1;1;from
+Q26;Northern Ireland;геоданные;1;1;from
+Q26;Northern Ireland;сабреддит;1;1;from
+Q26;Northern Ireland;ID отношения в OpenStreetMap;1;1;from
+Q26;Northern Ireland;код NLA;1;1;from
+Q26;Northern Ireland;святой покровитель;1;1;from
+Q26;Northern Ireland;описание печати/эмблемы;1;1;from
+Q26;Northern Ireland;часовой пояс;1;3;from
+Q26;Northern Ireland;код в Encyclopædia Universalis;1;1;from
+Q26;Northern Ireland;ISO 3166-2;1;1;from
+Q26;Northern Ireland;код TGN;1;1;from
+Q26;Northern Ireland;постоянный дубликат;1;1;to
+Q26;Northern Ireland;название на языке оригинала;1;2;from
+Q26;Northern Ireland;категория фильмов, снятых в этом месте;1;1;from
+Q26;Northern Ireland;категория для людей, похороненных здесь;1;1;from
+Q26;Northern Ireland;категория для людей, связанных с местностью;1;1;from
+Q26;Northern Ireland;код NALT;1;1;from
+Q26;Northern Ireland;площадь;1;1;from
+Q26;Northern Ireland;код FAST;1;1;from
+Q26;Northern Ireland;история темы;1;1;from
+Q26;Northern Ireland;код YSO;1;1;from
+Q26;Northern Ireland;код BabelNet;1;1;from
+Q26;Northern Ireland;география темы;1;1;from
+Q26;Northern Ireland;код BNF;1;1;from
+Q26;Northern Ireland;код SUDOC;1;1;from
+Q26;Northern Ireland;код в Большой российской энциклопедии онлайн;1;1;from
+Q26;Northern Ireland;используемый язык;1;1;from
+Q22;Scotland;названо в честь;1;13;to
+Q22;Scotland;в этом списке перечисляются;1;1;to
+Q21;England;административно-территориальная единица;1;2301;to
+Q21;England;English Vikidia ID;1;1;from
+Q21;England;DR topic ID;1;1;from
+Q21;England;код NKC;1;1;from
+Q21;England;код TDV İslam Ansiklopedisi;1;1;from
+Q21;England;iNaturalist place ID;1;1;from
+Q21;England;French Vikidia ID;1;1;from
+Q21;England;Italian Vikidia ID;1;1;from
+Q21;England;Spanish Vikidia ID;1;1;from
+Q21;England;категория карт на Викискладе;1;1;from
+Q21;England;ID отношения в OpenStreetMap;1;1;from
+Q21;England;Analysis & Policy Observatory term ID;1;1;from
+Q21;England;код GSS (2011);1;1;from
+Q21;England;официальный сайт;1;2;from
+Q21;England;основная категория по теме;1;1;from
+Q21;England;галерея на Викискладе;1;1;from
+Q21;England;баннер Викигида;1;1;from
+Q21;England;код NLI;1;1;from
+Q21;England;Who's on First ID;1;1;from
+Q21;England;код статьи Klexikon;1;1;from
+Q21;England;код Freebase;1;1;from
+Q21;England;статья в Викии;1;1;from
+Q21;England;часовой пояс;1;3;from
+Q21;England;код тезауруса PACTOLS;1;1;from
+Q21;England;код в Большой норвежской энциклопедии;1;1;from
+Q21;England;код GACS;1;1;from
+Q21;England;произношение (звуковой файл);1;2;from
+Q21;England;средний возраст;1;4;from
+Q21;England;код EMLO location;1;1;from
+Q21;England;код LoC and MARC;1;1;from
+Q21;England;идентификатор MeSH;1;1;from
+Q21;England;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q21;England;обзорная статья Викимедиа;1;1;from
+Q21;England;идентификатор Giant Bomb;1;1;from
+Q21;England;идентификатор местоположения ArchINFORM;1;1;from
+Q21;England;наивысшая точка;1;1;from
+Q21;England;географические координаты;1;1;from
+Q21;England;место в MusicBrainz;1;1;from
+Q21;England;аудиозапись прочитанного текста;1;1;from
+Q21;England;dmoz;1;1;from
+Q21;England;оператор;1;1;to
+Q21;England;состоит из;1;1;to
+Q21;England;место погребения;1;78;to
+Q21;England;тематически относится к;1;200;to
+Q21;England;основная тема;1;85;to
+Q21;England;этническая группа;1;20;to
+Q21;England;место активности;1;126;to
+Q21;England;принадлежность;1;19;to
+Q21;England;основная тема портала Викимедиа;1;1;to
+Q21;England;участник(и);1;5;to
+Q21;England;бассейн объекта в странах;1;24;to
+Q21;England;часть от;1;33;to
+Q21;England;место изготовления;1;4234;to
+Q21;England;основатель;1;1;to
+Q21;England;изображённый объект;1;13;to
+Q21;England;предки из;1;4;to
+Q21;England;находится в пределах природно-географического объекта;1;1;to
+Q21;England;названо в честь;1;37;to
+Q21;England;юрисдикция распространяется на;1;32;to
+Q21;England;расположение штаб-квартиры;1;53;to
+Q21;England;пример использования свойства;1;1;to
+Q21;England;дипломатические отношения;1;1;to
+Q21;England;является столицей;1;1;to
+Q21;England;страна происхождения;1;1608;to
+Q21;England;представляет страну в спорте;1;3126;to
+Q21;England;место создания;1;152;to
+Q21;England;место жительства;1;160;to
+Q21;England;категория объединяет темы;1;2520;to
+Q21;England;история происходит в месте;1;1796;to
+Q21;England;гражданство;1;2148;to
+Q21;England;местонахождение;1;99;to
+Q21;England;место рождения;1;3190;to
+Q21;England;зона обслуживания;1;549;to
+Q21;England;место съёмок;1;20;to
+Q21;England;место смерти;1;599;to
+Q21;England;святой покровитель;1;1;from
+Q21;England;геоданные;1;1;from
+Q22;Scotland;изображённый объект;1;7;to
+Q21;England;код в Большой каталанской энциклопедии;1;1;from
+Q21;England;гимн;1;3;from
+Q21;England;изображение герба;1;1;from
+Q21;England;численность населения;1;26;from
+Q21;England;портал Викимедиа;1;1;from
+Q21;England;код US National Archives;1;1;from
+Q21;England;значение в OmegaWiki;1;1;from
+Q21;England;WOEID;1;1;from
+Q21;England;изображается на;1;1;from
+Q21;England;категория на Викискладе;1;1;from
+Q21;England;должность главы правительства;1;1;from
+Q21;England;самая северная точка;1;1;from
+Q21;England;самая южная точка;1;1;from
+Q21;England;самая восточная точка;1;1;from
+Q21;England;самая западная точка;1;1;from
+Q21;England;описывается в источниках;1;6;from
+Q21;England;заменил;1;1;from
+Q21;England;глава правительства;1;1;from
+Q21;England;имеет границы с;1;2;to
+Q21;England;изображение флага;1;1;from
+Q21;England;официальный язык;1;1;from
+Q21;England;административно делится на;1;2;to
+Q21;England;описание флага;1;1;from
+Q21;England;государство;1;5;from
+Q21;England;изображение;1;1;from
+Q21;England;законодательный орган;1;1;from
+Q21;England;код ISNI;1;1;from
+Q21;England;код VIAF;1;1;from
+Q21;England;код GND;1;1;from
+Q21;England;описание герба;1;1;from
+Q21;England;карта местонахождения;1;1;from
+Q21;England;код LCNAF;1;1;from
+Q21;England;часть света;1;1;from
+Q21;England;это частный случай понятия;1;4;from
+Q21;England;глава государства;1;2;from
+Q21;England;столица;1;1;from
+Q21;England;код в энциклопедии «Британника онлайн»;1;1;from
+Q21;England;официальное название;1;1;from
+Q21;England;прозвище;1;1;from
+Q21;England;история темы;1;1;from
+Q21;England;код YSO;1;1;from
+Q21;England;код BabelNet;1;1;from
+Q21;England;география темы;1;1;from
+Q21;England;код BNF;1;1;from
+Q21;England;код SUDOC;1;1;from
+Q21;England;код автора BVMC;1;1;from
+Q21;England;код в Большой российской энциклопедии онлайн;1;1;from
+Q21;England;используемый язык;1;2;from
+Q21;England;постоянный дубликат;1;3;to
+Q21;England;ISO 3166-2;1;1;from
+Q21;England;TOID;1;1;from
+Q21;England;код TripAdvisor;1;1;from
+Q21;England;код NE.se;1;1;from
+Q21;England;код темы Quora;1;1;from
+Q21;England;Vision of Britain place ID;1;1;from
+Q21;England;официальный символ;1;1;from
+Q21;England;код FAST;1;1;from
+Q21;England;категория для людей, родившихся здесь;1;1;from
+Q21;England;номинальный ВВП на душу населения;1;1;from
+Q21;England;категория для людей, умерших здесь;1;1;from
+Q21;England;число домохозяйств;1;2;from
+Q21;England;этнохороним;1;32;from
+Q21;England;код GeoNames;1;1;from
+Q21;England;код TGN;1;1;from
+Q21;England;название на языке оригинала;1;1;from
+Q21;England;категория фильмов, снятых в этом месте;1;1;from
+Q21;England;категория для людей, похороненных здесь;1;1;from
+Q21;England;категория для людей, связанных с местностью;1;1;from
+Q21;England;не путать с;1;1;to
+Q21;England;должность главы государства;1;1;from
+Q21;England;позиционная карта;1;1;from
+Q21;England;рельефная позиционная карта;1;1;from
+Q21;England;площадь;1;1;from
+Q21;England;номинальный ВВП;1;1;from
+Q21;England;опубликовано в;1;1;to
+Q21;England;владельцем является;1;1;to
+Q21;England;организатор;1;1;to
+Q22;Scotland;код NUTS;1;1;from
+Q22;Scotland;идентификатор MeSH;1;1;from
+Q22;Scotland;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q22;Scotland;обзорная статья Викимедиа;1;1;from
+Q22;Scotland;код ASC Leiden Thesaurus;1;1;from
+Q22;Scotland;идентификатор Giant Bomb;1;1;from
+Q22;Scotland;идентификатор местоположения ArchINFORM;1;1;from
+Q22;Scotland;код Comic Vine;1;1;from
+Q22;Scotland;наивысшая точка;1;1;from
+Q21;England;происходит из;1;4;to
+Q22;Scotland;географические координаты;1;1;from
+Q22;Scotland;идентификатор Dizionario di Storia;1;1;from
+Q22;Scotland;код Freebase;1;1;from
+Q22;Scotland;код статьи Klexikon;1;1;from
+Q22;Scotland;код NKC;1;1;from
+Q22;Scotland;находится в пределах природно-географического объекта;1;2;to
+Q22;Scotland;GENUKI ID;1;1;from
+Q22;Scotland;код для сущности Wolfram Language;1;1;from
+Q22;Scotland;код LoC and MARC;1;1;from
+Q22;Scotland;код EMLO location;1;1;from
+Q22;Scotland;код GACS;1;1;from
+Q22;Scotland;TOID;1;1;from
+Q22;Scotland;код в Encyclopædia Universalis;1;1;from
+Q22;Scotland;код NE.se;1;1;from
+Q22;Scotland;код Католической энциклопедии;1;1;from
+Q22;Scotland;код темы Quora;1;1;from
+Q22;Scotland;код NDL;1;1;from
+Q22;Scotland;идентификатор темы Le Monde diplomatique;1;1;from
+Q22;Scotland;Vision of Britain place ID;1;1;from
+Q22;Scotland;категория на Викискладе;1;1;from
+Q22;Scotland;геоданные;1;1;from
+Q22;Scotland;ID отношения в OpenStreetMap;1;1;from
+Q22;Scotland;святой покровитель;1;1;from
+Q22;Scotland;описание печати/эмблемы;1;1;from
+Q22;Scotland;часовой пояс;1;2;from
+Q22;Scotland;код тезауруса PACTOLS;1;1;from
+Q22;Scotland;iNaturalist place ID;1;1;from
+Q22;Scotland;French Vikidia ID;1;1;from
+Q22;Scotland;Spanish Vikidia ID;1;1;from
+Q22;Scotland;страна происхождения;1;489;to
+Q22;Scotland;гражданство;1;1332;to
+Q22;Scotland;место смерти;1;188;to
+Q22;Scotland;место съёмок;1;11;to
+Q22;Scotland;частично совпадает с;1;1;to
+Q22;Scotland;бассейн объекта в странах;1;102;to
+Q22;Scotland;часть от;1;22;to
+Q22;Scotland;основная тема;1;70;to
+Q22;Scotland;зона обслуживания;1;31;to
+Q22;Scotland;расположение штаб-квартиры;1;25;to
+Q22;Scotland;место активности;1;33;to
+Q22;Scotland;место создания;1;24;to
+Q22;Scotland;принадлежность;1;3;to
+Q22;Scotland;является эндемиком в;1;1;to
+Q22;Scotland;владельцем является;1;2;to
+Q22;Scotland;тематически относится к;1;407;to
+Q22;Scotland;место жительства;1;42;to
+Q22;Scotland;местонахождение;1;122;to
+Q22;Scotland;English Vikidia ID;1;1;from
+Q22;Scotland;история происходит в месте;1;325;to
+Q22;Scotland;категория карт на Викискладе;1;1;from
+Q22;Scotland;Analysis & Policy Observatory term ID;1;1;from
+Q22;Scotland;код GSS (2011);1;1;from
+Q22;Scotland;официальный сайт;1;1;from
+Q22;Scotland;основная категория по теме;1;1;from
+Q22;Scotland;галерея на Викискладе;1;1;from
+Q22;Scotland;баннер Викигида;1;1;from
+Q22;Scotland;место в MusicBrainz;1;1;from
+Q22;Scotland;dmoz;1;1;from
+Q22;Scotland;юрисдикция распространяется на;1;304;to
+Q22;Scotland;пример использования свойства;1;1;to
+Q22;Scotland;представляет страну в спорте;1;2409;to
+Q22;Scotland;место рождения;1;1418;to
+Q22;Scotland;категория объединяет темы;1;1755;to
+Q22;Scotland;предки из;1;11;to
+Q22;Scotland;код темы Guardian;1;1;from
+Q22;Scotland;ISO 3166-2;1;1;from
+Q22;Scotland;возраст совершеннолетия;1;1;from
+Q22;Scotland;государство;1;1;from
+Q22;Scotland;законодательный орган;1;1;from
+Q22;Scotland;исполнительная власть;1;1;from
+Q22;Scotland;код VIAF;1;1;from
+Q22;Scotland;код GND;1;1;from
+Q22;Scotland;описание герба;1;1;from
+Q22;Scotland;карта местонахождения;1;1;from
+Q22;Scotland;код LCNAF;1;1;from
+Q22;Scotland;часть света;1;1;from
+Q22;Scotland;это частный случай понятия;1;3;from
+Q22;Scotland;глава государства;1;1;from
+Q22;Scotland;столица;1;1;from
+Q22;Scotland;официальный язык;1;1;from
+Q22;Scotland;денежная единица;1;1;from
+Q22;Scotland;изображение флага;1;1;from
+Q22;Scotland;имеет границы с;1;2;to
+Q22;Scotland;изображение;1;1;from
+Q22;Scotland;описание флага;1;1;from
+Q22;Scotland;интернет-домен верхнего уровня;1;1;from
+Q22;Scotland;административно делится на;1;2;to
+Q21;England;место публикации;1;18;to
+Q21;England;жанр;1;1;to
+Q21;England;общая тема категории;1;1;to
+Q21;England;в этом списке перечисляются;1;1;to
+Q21;England;создано на основе;1;1;to
+Q21;England;начало пути;1;2;to
+Q21;England;место первого исполнения;1;1;to
+Q21;England;разработчик;1;1;to
+Q21;England;производитель;1;1;to
+Q21;England;место астрономического открытия;1;1;to
+Q21;England;культура;1;2;to
+Q21;England;место обнаружения;1;1;to
+Q21;England;испытал влияние от;1;1;to
+Q21;England;энтохороним от;1;2;to
+Q22;Scotland;административно-территориальная единица;1;1090;to
+Q22;Scotland;глава правительства;1;1;from
+Q22;Scotland;гимн;1;1;from
+Q22;Scotland;постоянный дубликат;1;1;to
+Q22;Scotland;код персоны/учреждения в Британском музее;1;1;from
+Q22;Scotland;категория для людей, похороненных здесь;1;1;from
+Q22;Scotland;категория для людей, связанных с местностью;1;1;from
+Q22;Scotland;владеет;1;2;from
+Q22;Scotland;должность главы государства;1;1;from
+Q22;Scotland;площадь;1;1;from
+Q22;Scotland;номинальный ВВП;1;2;from
+Q22;Scotland;номинальный ВВП на душу населения;1;1;from
+Q22;Scotland;код FAST;1;1;from
+Q22;Scotland;история темы;1;1;from
+Q22;Scotland;код YSO;1;1;from
+Q22;Scotland;код BabelNet;1;1;from
+Q22;Scotland;география темы;1;1;from
+Q22;Scotland;код в Большой российской энциклопедии онлайн;1;1;from
+Q22;Scotland;используемый язык;1;4;from
+Q22;Scotland;Pleiades category identifier;1;1;from
+Q22;Scotland;категория фильмов, снятых в этом месте;1;1;from
+Q22;Scotland;название на языке оригинала;1;2;from
+Q22;Scotland;изображение герба;1;1;from
+Q22;Scotland;код TGN;1;1;from
+Q22;Scotland;десятичная классификация Дьюи;1;1;from
+Q22;Scotland;численность населения;1;4;from
+Q22;Scotland;портал Викимедиа;1;1;from
+Q22;Scotland;код US National Archives;1;1;from
+Q22;Scotland;значение в OmegaWiki;1;1;from
+Q22;Scotland;код в Большой каталанской энциклопедии;1;1;from
+Q22;Scotland;должность главы правительства;1;1;from
+Q22;Scotland;описывается в источниках;1;4;from
+Q22;Scotland;заменил;1;1;from
+Q22;Scotland;код в энциклопедии «Британника онлайн»;1;1;from
+Q22;Scotland;категория для людей, родившихся здесь;1;1;from
+Q22;Scotland;категория для людей, умерших здесь;1;1;from
+Q22;Scotland;описание девиза;1;1;from
+Q22;Scotland;этнохороним;1;24;from
+Q22;Scotland;код GeoNames;1;1;from
+Q57695350;Ireland;предыдущее по порядку;1;1;to

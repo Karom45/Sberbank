@@ -1,0 +1,74 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q429685;Central Region;административно-территориальная единица;1;35;to
+Q2559220;Eastern Region;государство;1;1;from
+Q2559686;Northern Region;изображение;1;1;from
+Q2559686;Northern Region;государство;1;1;from
+Q2559220;Eastern Region;общая тема категории;1;1;to
+Q2559220;Eastern Region;место рождения;1;2;to
+Q2559220;Eastern Region;баннер Викигида;1;1;from
+Q2559220;Eastern Region;основная категория по теме;1;1;from
+Q2559220;Eastern Region;географические координаты;1;1;from
+Q2559220;Eastern Region;ID отношения в OpenStreetMap;1;1;from
+Q2559220;Eastern Region;категория на Викискладе;1;1;from
+Q2559220;Eastern Region;ISO 3166-2;1;1;from
+Q2559220;Eastern Region;площадь;1;1;from
+Q2559220;Eastern Region;высота над уровнем моря;1;1;from
+Q2559220;Eastern Region;код GeoNames;1;1;from
+Q2559220;Eastern Region;столица;1;1;from
+Q2559220;Eastern Region;это частный случай понятия;1;1;from
+Q2559686;Northern Region;карта местонахождения;1;1;from
+Q2559686;Northern Region;это частный случай понятия;1;1;from
+Q2559686;Northern Region;столица;1;1;from
+Q2559686;Northern Region;баннер Викигида;1;1;from
+Q4986200;Bugisu sub-region;код GeoNames;1;1;from
+Q4986200;Bugisu sub-region;это частный случай понятия;1;1;from
+Q4986200;Bugisu sub-region;карта местонахождения;1;1;from
+Q4986200;Bugisu sub-region;государство;1;1;from
+Q2559686;Northern Region;общая тема категории;1;1;to
+Q2559686;Northern Region;административно-территориальная единица;1;52;to
+Q2559686;Northern Region;основная категория по теме;1;1;from
+Q2559686;Northern Region;код GeoNames;1;1;from
+Q2559686;Northern Region;географические координаты;1;1;from
+Q2559686;Northern Region;ID отношения в OpenStreetMap;1;1;from
+Q2559686;Northern Region;категория на Викискладе;1;1;from
+Q2559686;Northern Region;ISO 3166-2;1;1;from
+Q2559686;Northern Region;площадь;1;1;from
+Q2559686;Northern Region;высота над уровнем моря;1;1;from
+Q2559220;Eastern Region;карта местонахождения;1;1;from
+Q2559220;Eastern Region;административно-территориальная единица;1;41;to
+Q429685;Central Region;государство;1;1;from
+Q2559188;Western Region;общая тема категории;1;1;to
+Q429685;Central Region;место в MusicBrainz;1;1;from
+Q429685;Central Region;баннер Викигида;1;1;from
+Q429685;Central Region;основная категория по теме;1;1;from
+Q429685;Central Region;географические координаты;1;1;from
+Q429685;Central Region;ID отношения в OpenStreetMap;1;1;from
+Q429685;Central Region;ISO 3166-2;1;1;from
+Q429685;Central Region;площадь;1;1;from
+Q429685;Central Region;высота над уровнем моря;1;1;from
+Q429685;Central Region;код TGN;1;1;from
+Q429685;Central Region;код GeoNames;1;1;from
+Q429685;Central Region;код в Большой каталанской энциклопедии;1;1;from
+Q429685;Central Region;численность населения;1;1;from
+Q429685;Central Region;столица;1;1;from
+Q429685;Central Region;это частный случай понятия;1;1;from
+Q429685;Central Region;карта местонахождения;1;1;from
+Q429685;Central Region;место рождения;1;2;to
+Q429685;Central Region;избирательный округ;1;1;to
+Q429685;Central Region;общая тема категории;1;1;to
+Q2559188;Western Region;площадь;1;1;from
+Q2559188;Western Region;место рождения;1;4;to
+Q2559188;Western Region;баннер Викигида;1;1;from
+Q2559188;Western Region;основная категория по теме;1;1;from
+Q2559188;Western Region;географические координаты;1;1;from
+Q2559188;Western Region;ID отношения в OpenStreetMap;1;1;from
+Q2559188;Western Region;ISO 3166-2;1;1;from
+Q2559188;Western Region;высота над уровнем моря;1;1;from
+Q429685;Central Region;является столицей;1;1;to
+Q2559188;Western Region;код GeoNames;1;1;from
+Q2559188;Western Region;столица;1;1;from
+Q2559188;Western Region;это частный случай понятия;1;1;from
+Q2559188;Western Region;карта местонахождения;1;1;from
+Q2559188;Western Region;государство;1;1;from
+Q2559188;Western Region;административно-территориальная единица;1;53;to
+Q4986200;Bugisu sub-region;географические координаты;1;1;from

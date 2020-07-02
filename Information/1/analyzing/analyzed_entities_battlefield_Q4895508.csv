@@ -1,0 +1,934 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q958354;Coulée Grou;административно-территориальная единица;1;1;from
+Q19888219;Steele Narrows Provincial Park;административно-территориальная единица;1;1;from
+Q19593663;Battle of the Lake of Two Mountains National Historic Site;местонахождение;1;1;to
+Q19720569;Cane Hill Battlefield;административно-территориальная единица;1;1;from
+Q19720569;Cane Hill Battlefield;государство;1;1;from
+Q19720569;Cane Hill Battlefield;изображение;1;1;from
+Q19720569;Cane Hill Battlefield;это частный случай понятия;1;1;from
+Q19720569;Cane Hill Battlefield;статус наследия;1;4;from
+Q19720569;Cane Hill Battlefield;подробная карта;1;1;from
+Q19720569;Cane Hill Battlefield;площадь;1;1;from
+Q19720569;Cane Hill Battlefield;географические координаты;1;1;from
+Q19720569;Cane Hill Battlefield;код NRHP;1;1;from
+Q19720569;Cane Hill Battlefield;ключевое событие;1;1;from
+Q19720569;Cane Hill Battlefield;местонахождение;1;1;to
+Q19888219;Steele Narrows Provincial Park;государство;1;1;from
+Q19593649;Battle of Seven Oaks National Historic Site;идентификатор Historic Places;1;1;from
+Q19888219;Steele Narrows Provincial Park;это частный случай понятия;1;2;from
+Q19888219;Steele Narrows Provincial Park;статус наследия;1;2;from
+Q19888219;Steele Narrows Provincial Park;код GeoNames;1;1;from
+Q19888219;Steele Narrows Provincial Park;площадь;1;1;from
+Q19888219;Steele Narrows Provincial Park;код Национальной исторической достопримечательности Канады;1;1;from
+Q19888219;Steele Narrows Provincial Park;Canadian Environmental Sustainability Indicators ID (Protected areas);1;1;from
+Q19888219;Steele Narrows Provincial Park;идентификатор Historic Places;1;2;from
+Q19888219;Steele Narrows Provincial Park;дата основания/создания/возникновения;1;1;from
+Q19888219;Steele Narrows Provincial Park;географические координаты;1;1;from
+Q19888219;Steele Narrows Provincial Park;ключевое событие;1;1;from
+Q19888219;Steele Narrows Provincial Park;WDPA;1;1;from
+Q19888219;Steele Narrows Provincial Park;категория защищённых зон МСОП;1;1;from
+Q19593663;Battle of the Lake of Two Mountains National Historic Site;географические координаты;1;1;from
+Q19593663;Battle of the Lake of Two Mountains National Historic Site;идентификатор Historic Places;1;1;from
+Q19593663;Battle of the Lake of Two Mountains National Historic Site;категория на Викискладе;1;1;from
+Q19593663;Battle of the Lake of Two Mountains National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q19593649;Battle of Seven Oaks National Historic Site;ключевое событие;1;1;from
+Q19593649;Battle of Seven Oaks National Historic Site;местонахождение;1;1;to
+Q19593653;Ridgeway Battlefield;административно-территориальная единица;1;1;from
+Q19593653;Ridgeway Battlefield;государство;1;1;from
+Q19593653;Ridgeway Battlefield;изображение;1;1;from
+Q19593653;Ridgeway Battlefield;это частный случай понятия;1;1;from
+Q19593653;Ridgeway Battlefield;статус наследия;1;1;from
+Q19593653;Ridgeway Battlefield;код Национальной исторической достопримечательности Канады;1;1;from
+Q19593653;Ridgeway Battlefield;категория на Викискладе;1;1;from
+Q19593653;Ridgeway Battlefield;идентификатор Historic Places;1;1;from
+Q19593653;Ridgeway Battlefield;географические координаты;1;1;from
+Q19593653;Ridgeway Battlefield;местонахождение;1;1;to
+Q19593657;Frenchman's Creek;административно-территориальная единица;1;1;from
+Q19593657;Frenchman's Creek;государство;1;1;from
+Q19593657;Frenchman's Creek;это частный случай понятия;1;1;from
+Q19593657;Frenchman's Creek;статус наследия;1;1;from
+Q19593657;Frenchman's Creek;код Национальной исторической достопримечательности Канады;1;1;from
+Q19593657;Frenchman's Creek;идентификатор Historic Places;1;1;from
+Q19593657;Frenchman's Creek;географические координаты;1;1;from
+Q19593657;Frenchman's Creek;местонахождение;1;1;to
+Q19593663;Battle of the Lake of Two Mountains National Historic Site;административно-территориальная единица;1;1;from
+Q19593663;Battle of the Lake of Two Mountains National Historic Site;государство;1;1;from
+Q19593663;Battle of the Lake of Two Mountains National Historic Site;изображение;1;1;from
+Q19593663;Battle of the Lake of Two Mountains National Historic Site;это частный случай понятия;1;1;from
+Q19593663;Battle of the Lake of Two Mountains National Historic Site;статус наследия;1;1;from
+Q19888219;Steele Narrows Provincial Park;уникальный код CGNDB;1;1;from
+Q19888219;Steele Narrows Provincial Park;официальный сайт;1;1;from
+Q19888219;Steele Narrows Provincial Park;состоит из;1;1;to
+Q23303414;Second Battle of Laprairie National Historic Site;административно-территориальная единица;1;1;from
+Q23303414;Second Battle of Laprairie National Historic Site;это частный случай понятия;1;1;from
+Q23303414;Second Battle of Laprairie National Historic Site;статус наследия;1;1;from
+Q23303414;Second Battle of Laprairie National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q23303414;Second Battle of Laprairie National Historic Site;географические координаты;1;1;from
+Q23504916;Battlefield of Fort George;административно-территориальная единица;1;1;from
+Q23504916;Battlefield of Fort George;государство;1;1;from
+Q23504916;Battlefield of Fort George;изображение;1;1;from
+Q23504916;Battlefield of Fort George;это частный случай понятия;1;1;from
+Q23504916;Battlefield of Fort George;статус наследия;1;1;from
+Q23504916;Battlefield of Fort George;код Национальной исторической достопримечательности Канады;1;1;from
+Q23504916;Battlefield of Fort George;категория на Викискладе;1;1;from
+Q23504916;Battlefield of Fort George;идентификатор Historic Places;1;1;from
+Q23504916;Battlefield of Fort George;географические координаты;1;1;from
+Q23504961;Battle Hill;административно-территориальная единица;1;1;from
+Q23504961;Battle Hill;государство;1;1;from
+Q23504961;Battle Hill;изображение;1;1;from
+Q23504961;Battle Hill;это частный случай понятия;1;1;from
+Q23504961;Battle Hill;статус наследия;1;1;from
+Q23504961;Battle Hill;код Национальной исторической достопримечательности Канады;1;1;from
+Q23504961;Battle Hill;категория на Викискладе;1;1;from
+Q23504961;Battle Hill;идентификатор Historic Places;1;1;from
+Q23504961;Battle Hill;географические координаты;1;1;from
+Q23504961;Battle Hill;ключевое событие;1;1;from
+Q27958534;North Point State Battlefield;государство;1;1;from
+Q27958534;North Point State Battlefield;это частный случай понятия;1;2;from
+Q23303414;Second Battle of Laprairie National Historic Site;государство;1;1;from
+Q23303408;Battle of September 6th, 1775 National Historic Site;географические координаты;1;1;from
+Q19888219;Steele Narrows Provincial Park;местонахождение;1;1;to
+Q23303408;Battle of September 6th, 1775 National Historic Site;идентификатор Historic Places;1;1;from
+Q22666635;Cypress Hills massacre site;административно-территориальная единица;1;1;from
+Q22666635;Cypress Hills massacre site;государство;1;1;from
+Q22666635;Cypress Hills massacre site;изображение;1;1;from
+Q22666635;Cypress Hills massacre site;это частный случай понятия;1;1;from
+Q22666635;Cypress Hills massacre site;статус наследия;1;1;from
+Q22666635;Cypress Hills massacre site;код Национальной исторической достопримечательности Канады;1;1;from
+Q22666635;Cypress Hills massacre site;категория на Викискладе;1;1;from
+Q22666635;Cypress Hills massacre site;идентификатор Historic Places;1;1;from
+Q22666635;Cypress Hills massacre site;географические координаты;1;1;from
+Q22666635;Cypress Hills massacre site;ключевое событие;1;1;from
+Q22666635;Cypress Hills massacre site;местонахождение;1;1;to
+Q22984563;Bloody Creek;административно-территориальная единица;1;1;from
+Q22984563;Bloody Creek;государство;1;1;from
+Q22984563;Bloody Creek;изображение;1;1;from
+Q22984563;Bloody Creek;это частный случай понятия;1;1;from
+Q22984563;Bloody Creek;статус наследия;1;1;from
+Q22984563;Bloody Creek;код Национальной исторической достопримечательности Канады;1;1;from
+Q22984563;Bloody Creek;географические координаты;1;1;from
+Q22984563;Bloody Creek;ключевое событие;1;2;from
+Q22984563;Bloody Creek;местонахождение;1;2;to
+Q23303408;Battle of September 6th, 1775 National Historic Site;административно-территориальная единица;1;1;from
+Q23303408;Battle of September 6th, 1775 National Historic Site;государство;1;1;from
+Q23303408;Battle of September 6th, 1775 National Historic Site;это частный случай понятия;1;1;from
+Q23303408;Battle of September 6th, 1775 National Historic Site;статус наследия;1;1;from
+Q23303408;Battle of September 6th, 1775 National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q19593649;Battle of Seven Oaks National Historic Site;географические координаты;1;1;from
+Q19593649;Battle of Seven Oaks National Historic Site;категория на Викискладе;1;1;from
+Q18343138;Battle of Cut Knife Hill National Historic Site;административно-территориальная единица;1;1;from
+Q18538537;Battle of Duck Lake National Historic Site;это частный случай понятия;1;1;from
+Q18517359;Battle of Chippawa National Historic Site;административно-территориальная единица;1;1;from
+Q18517359;Battle of Chippawa National Historic Site;государство;1;1;from
+Q18517359;Battle of Chippawa National Historic Site;изображение;1;1;from
+Q18517359;Battle of Chippawa National Historic Site;это частный случай понятия;1;2;from
+Q18517359;Battle of Chippawa National Historic Site;статус наследия;1;1;from
+Q18517359;Battle of Chippawa National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18517359;Battle of Chippawa National Historic Site;категория на Викискладе;1;1;from
+Q18517359;Battle of Chippawa National Historic Site;идентификатор Historic Places;1;1;from
+Q18517359;Battle of Chippawa National Historic Site;географические координаты;1;1;from
+Q18517359;Battle of Chippawa National Historic Site;местонахождение;1;1;to
+Q18538537;Battle of Duck Lake National Historic Site;административно-территориальная единица;1;1;from
+Q18538537;Battle of Duck Lake National Historic Site;государство;1;1;from
+Q18538537;Battle of Duck Lake National Historic Site;статус наследия;1;2;from
+Q19593649;Battle of Seven Oaks National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18538537;Battle of Duck Lake National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18538537;Battle of Duck Lake National Historic Site;идентификатор Historic Places;1;1;from
+Q18538537;Battle of Duck Lake National Historic Site;географические координаты;1;1;from
+Q18538537;Battle of Duck Lake National Historic Site;местонахождение;1;1;to
+Q18571979;Battle of Lacolle National Historic Site;административно-территориальная единица;1;2;from
+Q18571979;Battle of Lacolle National Historic Site;названо в честь;1;1;from
+Q18571979;Battle of Lacolle National Historic Site;государство;1;1;from
+Q18571979;Battle of Lacolle National Historic Site;это частный случай понятия;1;1;from
+Q18571979;Battle of Lacolle National Historic Site;статус наследия;1;1;from
+Q18571979;Battle of Lacolle National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18571979;Battle of Lacolle National Historic Site;идентификатор Historic Places;1;1;from
+Q18571979;Battle of Lacolle National Historic Site;состоит из;1;1;from
+Q18510581;Battle of Eccles Hill National Historic Site;местонахождение;1;1;to
+Q18510581;Battle of Eccles Hill National Historic Site;географические координаты;1;1;from
+Q18510581;Battle of Eccles Hill National Historic Site;идентификатор Historic Places;1;1;from
+Q18510581;Battle of Eccles Hill National Historic Site;категория на Викискладе;1;1;from
+Q18343138;Battle of Cut Knife Hill National Historic Site;государство;1;1;from
+Q18343138;Battle of Cut Knife Hill National Historic Site;это частный случай понятия;1;1;from
+Q18343138;Battle of Cut Knife Hill National Historic Site;статус наследия;1;2;from
+Q18343138;Battle of Cut Knife Hill National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18343138;Battle of Cut Knife Hill National Historic Site;идентификатор Historic Places;1;1;from
+Q18343138;Battle of Cut Knife Hill National Historic Site;географические координаты;1;1;from
+Q18343138;Battle of Cut Knife Hill National Historic Site;местонахождение;1;1;to
+Q18510572;Battle of the Châteauguay National Historic Site;административно-территориальная единица;1;1;from
+Q18510572;Battle of the Châteauguay National Historic Site;государство;1;1;from
+Q18510572;Battle of the Châteauguay National Historic Site;изображение;1;1;from
+Q18510572;Battle of the Châteauguay National Historic Site;код VIAF;1;1;from
+Q18510572;Battle of the Châteauguay National Historic Site;это частный случай понятия;1;3;from
+Q18510572;Battle of the Châteauguay National Historic Site;статус наследия;1;1;from
+Q18510572;Battle of the Châteauguay National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18510572;Battle of the Châteauguay National Historic Site;категория на Викискладе;1;1;from
+Q18510572;Battle of the Châteauguay National Historic Site;идентификатор Historic Places;1;1;from
+Q18510572;Battle of the Châteauguay National Historic Site;зимнее изображение;1;1;from
+Q18510572;Battle of the Châteauguay National Historic Site;географические координаты;1;1;from
+Q18510572;Battle of the Châteauguay National Historic Site;местонахождение;1;1;to
+Q18510581;Battle of Eccles Hill National Historic Site;административно-территориальная единица;1;1;from
+Q18510581;Battle of Eccles Hill National Historic Site;государство;1;1;from
+Q18510581;Battle of Eccles Hill National Historic Site;изображение;1;1;from
+Q18510581;Battle of Eccles Hill National Historic Site;это частный случай понятия;1;1;from
+Q18510581;Battle of Eccles Hill National Historic Site;статус наследия;1;1;from
+Q18510581;Battle of Eccles Hill National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18571979;Battle of Lacolle National Historic Site;географические координаты;1;1;from
+Q18571979;Battle of Lacolle National Historic Site;местонахождение;1;1;to
+Q18571979;Battle of Lacolle National Historic Site;часть от;1;1;to
+Q18572031;Battle of Crysler's Farm National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18572031;Battle of Crysler's Farm National Historic Site;идентификатор Historic Places;1;1;from
+Q18572031;Battle of Crysler's Farm National Historic Site;географические координаты;1;1;from
+Q18572031;Battle of Crysler's Farm National Historic Site;местонахождение;1;1;to
+Q18572454;Battle of Beaver Dams National Historic Site;административно-территориальная единица;1;1;from
+Q18572454;Battle of Beaver Dams National Historic Site;государство;1;1;from
+Q18572454;Battle of Beaver Dams National Historic Site;это частный случай понятия;1;1;from
+Q18572454;Battle of Beaver Dams National Historic Site;статус наследия;1;1;from
+Q18572454;Battle of Beaver Dams National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18572454;Battle of Beaver Dams National Historic Site;идентификатор Historic Places;1;1;from
+Q18572454;Battle of Beaver Dams National Historic Site;географические координаты;1;1;from
+Q18572454;Battle of Beaver Dams National Historic Site;ключевое событие;1;1;from
+Q18572479;Battle of the Cedars National Historic Site;административно-территориальная единица;1;1;from
+Q18572479;Battle of the Cedars National Historic Site;названо в честь;1;1;from
+Q18572479;Battle of the Cedars National Historic Site;государство;1;1;from
+Q18572479;Battle of the Cedars National Historic Site;это частный случай понятия;1;1;from
+Q18572479;Battle of the Cedars National Historic Site;статус наследия;1;1;from
+Q18572479;Battle of the Cedars National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18572479;Battle of the Cedars National Historic Site;идентификатор Historic Places;1;1;from
+Q18572479;Battle of the Cedars National Historic Site;географические координаты;1;1;from
+Q18572479;Battle of the Cedars National Historic Site;местонахождение;1;1;to
+Q19593649;Battle of Seven Oaks National Historic Site;административно-территориальная единица;1;1;from
+Q19593649;Battle of Seven Oaks National Historic Site;государство;1;1;from
+Q19593649;Battle of Seven Oaks National Historic Site;изображение;1;1;from
+Q19593649;Battle of Seven Oaks National Historic Site;это частный случай понятия;1;1;from
+Q19593649;Battle of Seven Oaks National Historic Site;статус наследия;1;1;from
+Q18572031;Battle of Crysler's Farm National Historic Site;категория на Викискладе;1;1;from
+Q18572031;Battle of Crysler's Farm National Historic Site;статус наследия;1;1;from
+Q18571986;Battle of Stoney Creek National Historic Site;административно-территориальная единица;1;1;from
+Q18572031;Battle of Crysler's Farm National Historic Site;это частный случай понятия;1;2;from
+Q18571986;Battle of Stoney Creek National Historic Site;названо в честь;1;1;from
+Q18571986;Battle of Stoney Creek National Historic Site;государство;1;1;from
+Q18571986;Battle of Stoney Creek National Historic Site;изображение;1;1;from
+Q18571986;Battle of Stoney Creek National Historic Site;это частный случай понятия;1;2;from
+Q18571986;Battle of Stoney Creek National Historic Site;статус наследия;1;2;from
+Q18571986;Battle of Stoney Creek National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18571986;Battle of Stoney Creek National Historic Site;категория на Викискладе;1;1;from
+Q18571986;Battle of Stoney Creek National Historic Site;идентификатор Historic Places;1;1;from
+Q18571986;Battle of Stoney Creek National Historic Site;географические координаты;1;1;from
+Q18571986;Battle of Stoney Creek National Historic Site;местонахождение;1;2;to
+Q18572014;Battle of Lundy's Lane National Historic Site;административно-территориальная единица;1;1;from
+Q18572014;Battle of Lundy's Lane National Historic Site;названо в честь;1;1;from
+Q18572014;Battle of Lundy's Lane National Historic Site;государство;1;1;from
+Q18572014;Battle of Lundy's Lane National Historic Site;изображение;1;1;from
+Q18572014;Battle of Lundy's Lane National Historic Site;это частный случай понятия;1;1;from
+Q18572014;Battle of Lundy's Lane National Historic Site;статус наследия;1;2;from
+Q18572014;Battle of Lundy's Lane National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q18572014;Battle of Lundy's Lane National Historic Site;категория на Викискладе;1;1;from
+Q18572014;Battle of Lundy's Lane National Historic Site;идентификатор Historic Places;1;1;from
+Q18572014;Battle of Lundy's Lane National Historic Site;географические координаты;1;1;from
+Q18572014;Battle of Lundy's Lane National Historic Site;местонахождение;1;1;to
+Q18572031;Battle of Crysler's Farm National Historic Site;административно-территориальная единица;1;1;from
+Q18572031;Battle of Crysler's Farm National Historic Site;названо в честь;1;1;from
+Q18572031;Battle of Crysler's Farm National Historic Site;государство;1;1;from
+Q18572031;Battle of Crysler's Farm National Historic Site;изображение;1;1;from
+Q27958534;North Point State Battlefield;дата основания/создания/возникновения;1;1;from
+Q27958534;North Point State Battlefield;географические координаты;1;1;from
+Q30506422;Q30506422;административно-территориальная единица;1;1;from
+Q64776892;Battle Pass;расположен на улице;1;2;from
+Q64776892;Battle Pass;административно-территориальная единица;1;2;from
+Q64776892;Battle Pass;названо в честь;1;2;from
+Q64776892;Battle Pass;государство;1;1;from
+Q64776892;Battle Pass;изображение;1;1;from
+Q64776892;Battle Pass;это частный случай понятия;1;3;from
+Q64776892;Battle Pass;длина;1;1;from
+Q64776892;Battle Pass;состоит из представителей класса;1;1;from
+Q64776892;Battle Pass;местонахождение;1;2;to
+Q64776892;Battle Pass;значимый человек;1;2;from
+Q64776892;Battle Pass;категория на Викискладе;1;1;from
+Q64776892;Battle Pass;война/сражение;1;1;from
+Q64776892;Battle Pass;географические координаты;1;1;from
+Q64776892;Battle Pass;находится в пределах природно-географического объекта;1;1;from
+Q30506422;Q30506422;государство;1;1;from
+Q64776892;Battle Pass;ключевое событие;1;1;from
+Q64776892;Battle Pass;описан на сайте;1;1;from
+Q64776892;Battle Pass;в память о;1;1;to
+Q65094846;Sandö & Vestankärr;административно-территориальная единица;1;1;from
+Q65094846;Sandö & Vestankärr;государство;1;1;from
+Q65094846;Sandö & Vestankärr;это частный случай понятия;1;1;from
+Q65094846;Sandö & Vestankärr;статус наследия;1;2;from
+Q65094846;Sandö & Vestankärr;эра;1;1;from
+Q65094846;Sandö & Vestankärr;Finnish archaeological heritage ID;1;1;from
+Q65094846;Sandö & Vestankärr;географические координаты;1;1;from
+Q66758939;Q66758939;административно-территориальная единица;1;1;from
+Q66758939;Q66758939;государство;1;1;from
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;часть от;1;6;to
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;географические координаты;1;1;from
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;состоит из;1;6;from
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;код Mérimée;1;2;from
+Q61711109;Canadian National Vimy Memorial Park;ответственность несёт;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;владельцем является;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;административно-территориальная единица;1;3;from
+Q61711109;Canadian National Vimy Memorial Park;государство;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;изображение;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;это частный случай понятия;1;2;from
+Q61711109;Canadian National Vimy Memorial Park;статус наследия;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;официальное название;1;2;from
+Q61711109;Canadian National Vimy Memorial Park;площадь;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;категория на Викискладе;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;код Mérimée;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;основополагающий текст;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;состоит из;1;4;from
+Q61711109;Canadian National Vimy Memorial Park;дата основания/создания/возникновения;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;географические координаты;1;1;from
+Q61711109;Canadian National Vimy Memorial Park;местонахождение;1;3;to
+Q61711109;Canadian National Vimy Memorial Park;часть от;1;4;to
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;ответственность несёт;1;3;from
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;административно-территориальная единица;1;2;from
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;государство;1;1;from
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;изображение;1;1;from
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;это частный случай понятия;1;2;from
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;статус наследия;1;1;from
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;площадь;1;1;from
+Q63077309;Beaumont-Hamel Newfoundland Memorial Park;категория на Викискладе;1;1;from
+Q66758939;Q66758939;это частный случай понятия;1;1;from
+Q66758939;Q66758939;статус наследия;1;1;from
+Q66758939;Q66758939;Nchdb asset ID;1;1;from
+Q86539891;Kinston Battlefield;местонахождение;1;1;to
+Q86539895;Massacre Canyon Battlefield;это частный случай понятия;1;1;from
+Q86539895;Massacre Canyon Battlefield;статус наследия;1;1;from
+Q86539895;Massacre Canyon Battlefield;код NRHP;1;1;from
+Q86539895;Massacre Canyon Battlefield;местонахождение;1;1;to
+Q86539899;Point Pleasant Battleground;государство;1;1;from
+Q86539899;Point Pleasant Battleground;это частный случай понятия;1;1;from
+Q86539899;Point Pleasant Battleground;статус наследия;1;1;from
+Q86539899;Point Pleasant Battleground;код NRHP;1;1;from
+Q86539900;Camp Allegheny;административно-территориальная единица;1;1;from
+Q86539900;Camp Allegheny;государство;1;1;from
+Q86539900;Camp Allegheny;изображение;1;1;from
+Q86539900;Camp Allegheny;это частный случай понятия;1;1;from
+Q86539900;Camp Allegheny;статус наследия;1;6;from
+Q86539900;Camp Allegheny;географические координаты;1;1;from
+Q86539900;Camp Allegheny;код NRHP;1;1;from
+Q86539900;Camp Allegheny;ключевое событие;1;1;from
+Q86838659;Paoli Battlefield Site and Parade Grounds;административно-территориальная единица;1;1;from
+Q86838659;Paoli Battlefield Site and Parade Grounds;государство;1;1;from
+Q86838659;Paoli Battlefield Site and Parade Grounds;изображение;1;1;from
+Q86838659;Paoli Battlefield Site and Parade Grounds;это частный случай понятия;1;1;from
+Q86838659;Paoli Battlefield Site and Parade Grounds;статус наследия;1;4;from
+Q86838659;Paoli Battlefield Site and Parade Grounds;категория на Викискладе;1;1;from
+Q86838659;Paoli Battlefield Site and Parade Grounds;географические координаты;1;1;from
+Q86838659;Paoli Battlefield Site and Parade Grounds;код NRHP;1;1;from
+Q86838659;Paoli Battlefield Site and Parade Grounds;ключевое событие;1;1;from
+Q86539895;Massacre Canyon Battlefield;государство;1;1;from
+Q86539891;Kinston Battlefield;код NRHP;1;1;from
+Q66821514;batalla d’Asinara;государство;1;3;from
+Q86539891;Kinston Battlefield;статус наследия;1;1;from
+Q66821514;batalla d’Asinara;это частный случай понятия;1;2;from
+Q66821514;batalla d’Asinara;код в Большой каталанской энциклопедии;1;1;from
+Q66821514;batalla d’Asinara;местонахождение;1;1;from
+Q66821514;batalla d’Asinara;географические координаты;1;1;from
+Q81351860;Chief Joseph Battleground of the Bear's Paw;административно-территориальная единица;1;1;from
+Q81351860;Chief Joseph Battleground of the Bear's Paw;государство;1;1;from
+Q81351860;Chief Joseph Battleground of the Bear's Paw;изображение;1;1;from
+Q81351860;Chief Joseph Battleground of the Bear's Paw;это частный случай понятия;1;1;from
+Q81351860;Chief Joseph Battleground of the Bear's Paw;статус наследия;1;5;from
+Q81351860;Chief Joseph Battleground of the Bear's Paw;находится в охранной зоне;1;1;from
+Q81351860;Chief Joseph Battleground of the Bear's Paw;географические координаты;1;1;from
+Q81351860;Chief Joseph Battleground of the Bear's Paw;код NRHP;1;1;from
+Q81351860;Chief Joseph Battleground of the Bear's Paw;ключевое событие;1;1;from
+Q81351860;Chief Joseph Battleground of the Bear's Paw;местонахождение;1;1;to
+Q81352584;Pecatonica Battlefield;административно-территориальная единица;1;1;from
+Q81352584;Pecatonica Battlefield;государство;1;1;from
+Q81352584;Pecatonica Battlefield;изображение;1;1;from
+Q81352584;Pecatonica Battlefield;это частный случай понятия;1;1;from
+Q81352584;Pecatonica Battlefield;статус наследия;1;4;from
+Q81352584;Pecatonica Battlefield;географические координаты;1;1;from
+Q81352584;Pecatonica Battlefield;код NRHP;1;1;from
+Q81352584;Pecatonica Battlefield;ключевое событие;1;1;from
+Q81352584;Pecatonica Battlefield;местонахождение;1;1;to
+Q86539891;Kinston Battlefield;государство;1;1;from
+Q86539891;Kinston Battlefield;это частный случай понятия;1;1;from
+Q57310496;Honey Springs Battlefield;ключевое событие;1;1;from
+Q57310496;Honey Springs Battlefield;код NRHP;1;6;from
+Q57310496;Honey Springs Battlefield;географические координаты;1;1;from
+Q31028367;Q31028367;ключевое событие;1;1;from
+Q31028383;Q31028383;государство;1;1;from
+Q31028383;Q31028383;это частный случай понятия;1;1;from
+Q31028383;Q31028383;статус наследия;1;1;from
+Q31028383;Q31028383;Finnish archaeological heritage ID;1;1;from
+Q31028383;Q31028383;географические координаты;1;1;from
+Q31028383;Q31028383;ключевое событие;1;1;from
+Q31306343;Ajnadayn;государство;1;1;from
+Q31306343;Ajnadayn;это частный случай понятия;1;1;from
+Q31306343;Ajnadayn;местонахождение;1;1;to
+Q33212426;Blackfoot-Cree Indian Battle Site;административно-территориальная единица;1;1;from
+Q33212426;Blackfoot-Cree Indian Battle Site;государство;1;1;from
+Q33212426;Blackfoot-Cree Indian Battle Site;это частный случай понятия;1;1;from
+Q33212426;Blackfoot-Cree Indian Battle Site;статус наследия;1;1;from
+Q33212426;Blackfoot-Cree Indian Battle Site;местонахождение;1;1;from
+Q33212426;Blackfoot-Cree Indian Battle Site;географические координаты;1;1;from
+Q33212426;Blackfoot-Cree Indian Battle Site;идентификатор Alberta Register of Historic Places;1;1;from
+Q38528610;Massacre Butte;административно-территориальная единица;1;1;from
+Q38528610;Massacre Butte;государство;1;1;from
+Q38528610;Massacre Butte;это частный случай понятия;1;1;from
+Q38528610;Massacre Butte;статус наследия;1;1;from
+Q38528610;Massacre Butte;местонахождение;1;1;from
+Q38528610;Massacre Butte;географические координаты;1;1;from
+Q38528610;Massacre Butte;идентификатор Alberta Register of Historic Places;1;1;from
+Q49540726;Pease River Battlefield;административно-территориальная единица;1;1;from
+Q49540726;Pease River Battlefield;государство;1;1;from
+Q31028383;Q31028383;административно-территориальная единица;1;1;from
+Q31028367;Q31028367;географические координаты;1;1;from
+Q49540726;Pease River Battlefield;код GeoNames;1;1;from
+Q31028367;Q31028367;Finnish archaeological heritage ID;1;1;from
+Q30506422;Q30506422;это частный случай понятия;1;1;from
+Q30506422;Q30506422;статус наследия;1;1;from
+Q30506422;Q30506422;RKY national built heritage environment ID;1;1;from
+Q30506422;Q30506422;часть от;1;3;to
+Q30506426;Q30506426;административно-территориальная единица;1;3;from
+Q30506426;Q30506426;государство;1;1;from
+Q30506426;Q30506426;это частный случай понятия;1;1;from
+Q30506426;Q30506426;статус наследия;1;1;from
+Q30506426;Q30506426;RKY national built heritage environment ID;1;1;from
+Q30506426;Q30506426;часть от;1;1;to
+Q30506430;Q30506430;административно-территориальная единица;1;3;from
+Q30506430;Q30506430;государство;1;1;from
+Q30506430;Q30506430;это частный случай понятия;1;1;from
+Q30506430;Q30506430;статус наследия;1;1;from
+Q30506430;Q30506430;RKY national built heritage environment ID;1;1;from
+Q30690649;Q30690649;административно-территориальная единица;1;1;from
+Q30690649;Q30690649;государство;1;1;from
+Q30690649;Q30690649;это частный случай понятия;1;1;from
+Q30690649;Q30690649;статус наследия;1;1;from
+Q30690649;Q30690649;RKY national built heritage environment ID;1;1;from
+Q30690649;Q30690649;часть от;1;3;to
+Q31028367;Q31028367;административно-территориальная единица;1;1;from
+Q31028367;Q31028367;государство;1;1;from
+Q31028367;Q31028367;это частный случай понятия;1;1;from
+Q31028367;Q31028367;статус наследия;1;1;from
+Q49540726;Pease River Battlefield;это частный случай понятия;1;1;from
+Q49540726;Pease River Battlefield;код GNIS;1;1;from
+Q57310496;Honey Springs Battlefield;статус наследия;1;5;from
+Q54914900;Tebbs Bend battlefield;это частный случай понятия;1;1;from
+Q54914900;Tebbs Bend battlefield;местонахождение;1;1;to
+Q54914900;Tebbs Bend battlefield;война/сражение;1;1;from
+Q54914900;Tebbs Bend battlefield;географические координаты;1;1;from
+Q54914900;Tebbs Bend battlefield;код NRHP;1;1;from
+Q55876564;Bosworth Field site;административно-территориальная единица;1;5;from
+Q55876564;Bosworth Field site;государство;1;1;from
+Q55876564;Bosworth Field site;изображение;1;1;from
+Q55876564;Bosworth Field site;это частный случай понятия;1;1;from
+Q55876564;Bosworth Field site;номер в списке Английского наследия;1;1;from
+Q55876564;Bosworth Field site;статус наследия;1;1;from
+Q55876564;Bosworth Field site;категория на Викискладе;1;1;from
+Q55876564;Bosworth Field site;географические координаты;1;1;from
+Q55876564;Bosworth Field site;ключевое событие;1;1;from
+Q55876564;Bosworth Field site;местонахождение;1;1;to
+Q55979445;Q55979445;административно-территориальная единица;1;1;from
+Q55979445;Q55979445;государство;1;1;from
+Q55979445;Q55979445;изображение;1;1;from
+Q55979445;Q55979445;это частный случай понятия;1;1;from
+Q55979445;Q55979445;статус наследия;1;1;from
+Q55979445;Q55979445;категория на Викискладе;1;1;from
+Q57310496;Honey Springs Battlefield;административно-территориальная единица;1;2;from
+Q57310496;Honey Springs Battlefield;государство;1;1;from
+Q57310496;Honey Springs Battlefield;изображение;1;1;from
+Q57310496;Honey Springs Battlefield;код VIAF;1;1;from
+Q57310496;Honey Springs Battlefield;это частный случай понятия;1;1;from
+Q54914900;Tebbs Bend battlefield;статус наследия;1;4;from
+Q54914900;Tebbs Bend battlefield;изображение;1;1;from
+Q49540726;Pease River Battlefield;географические координаты;1;1;from
+Q54914900;Tebbs Bend battlefield;государство;1;1;from
+Q49540726;Pease River Battlefield;местонахождение;1;1;to
+Q54889318;Fort Mims;административно-территориальная единица;1;1;from
+Q54889318;Fort Mims;государство;1;1;from
+Q54889318;Fort Mims;это частный случай понятия;1;3;from
+Q54889318;Fort Mims;статус наследия;1;5;from
+Q54889318;Fort Mims;местонахождение;1;1;to
+Q54889318;Fort Mims;война/сражение;1;1;from
+Q54889318;Fort Mims;географические координаты;1;2;from
+Q54889318;Fort Mims;код NRHP;1;1;from
+Q54914156;Picacho Pass Stage Station;административно-территориальная единица;1;1;from
+Q54914156;Picacho Pass Stage Station;оператор;1;1;from
+Q54914156;Picacho Pass Stage Station;государство;1;1;from
+Q54914156;Picacho Pass Stage Station;изображение;1;1;from
+Q54914156;Picacho Pass Stage Station;это частный случай понятия;1;2;from
+Q54914156;Picacho Pass Stage Station;статус наследия;1;4;from
+Q54914156;Picacho Pass Stage Station;площадь;1;1;from
+Q54914156;Picacho Pass Stage Station;категория на Викискладе;1;1;from
+Q54914156;Picacho Pass Stage Station;война/сражение;1;1;from
+Q54914156;Picacho Pass Stage Station;географические координаты;1;1;from
+Q54914156;Picacho Pass Stage Station;код NRHP;1;1;from
+Q54914156;Picacho Pass Stage Station;находится в пределах природно-географического объекта;1;1;from
+Q54914156;Picacho Pass Stage Station;ключевое событие;1;1;from
+Q54914156;Picacho Pass Stage Station;местонахождение;1;1;to
+Q54914156;Picacho Pass Stage Station;основная тема;1;1;to
+Q54914900;Tebbs Bend battlefield;административно-территориальная единица;1;1;from
+Q18343138;Battle of Cut Knife Hill National Historic Site;названо в честь;1;1;from
+Q18158556;Sulphur Trestle Fort Site;код NRHP;1;1;from
+Q958354;Coulée Grou;государство;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;код GeoNames;1;1;from
+Q5926926;Hubbardton Battlefield;код GeoNames;1;1;from
+Q5926926;Hubbardton Battlefield;географические координаты;1;2;from
+Q5926926;Hubbardton Battlefield;код NRHP;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;административно-территориальная единица;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;государство;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;изображение;1;2;from
+Q6177554;Jenkins' Ferry Battleground State Park;находится на берегу водоёма;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;часть света;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;это частный случай понятия;1;2;from
+Q6177554;Jenkins' Ferry Battleground State Park;код US National Archives;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;статус наследия;1;7;from
+Q6177554;Jenkins' Ferry Battleground State Park;официальное название;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;страница учреждения на Викискладе;1;1;from
+Q5432259;Fallen Timbers Battlefield;статус наследия;1;5;from
+Q6177554;Jenkins' Ferry Battleground State Park;короткое название;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;высота над уровнем моря;1;2;from
+Q6177554;Jenkins' Ferry Battleground State Park;площадь;1;2;from
+Q6177554;Jenkins' Ferry Battleground State Park;код BabelNet;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;часть от;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;категория на Викискладе;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;в память о;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;дата основания/создания/возникновения;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;код GNIS;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;географические координаты;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;код NRHP;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;ключевое событие;1;1;from
+Q5926926;Hubbardton Battlefield;статус наследия;1;1;from
+Q5926926;Hubbardton Battlefield;это частный случай понятия;1;1;from
+Q5926926;Hubbardton Battlefield;государство;1;1;from
+Q5926926;Hubbardton Battlefield;административно-территориальная единица;1;1;from
+Q5432259;Fallen Timbers Battlefield;географические координаты;1;1;from
+Q5432259;Fallen Timbers Battlefield;код NRHP;1;1;from
+Q5432259;Fallen Timbers Battlefield;названо в честь;1;1;to
+Q5432259;Fallen Timbers Battlefield;состоит из;1;1;to
+Q5433972;Fannin Battleground State Historic Site;административно-территориальная единица;1;1;from
+Q5433972;Fannin Battleground State Historic Site;государство;1;1;from
+Q5433972;Fannin Battleground State Historic Site;изображение;1;1;from
+Q5433972;Fannin Battleground State Historic Site;код VIAF;1;1;from
+Q5433972;Fannin Battleground State Historic Site;это частный случай понятия;1;2;from
+Q5433972;Fannin Battleground State Historic Site;статус наследия;1;3;from
+Q5433972;Fannin Battleground State Historic Site;местонахождение;1;1;from
+Q5433972;Fannin Battleground State Historic Site;категория на Викискладе;1;1;from
+Q5433972;Fannin Battleground State Historic Site;географические координаты;1;1;from
+Q5433972;Fannin Battleground State Historic Site;код NRHP;1;1;from
+Q5433972;Fannin Battleground State Historic Site;ключевое событие;1;1;from
+Q5454500;Fish Creek;административно-территориальная единица;1;1;from
+Q5454500;Fish Creek;государство;1;1;from
+Q5454500;Fish Creek;это частный случай понятия;1;2;from
+Q5454500;Fish Creek;статус наследия;1;2;from
+Q5454500;Fish Creek;код GeoNames;1;1;from
+Q5454500;Fish Creek;высота над уровнем моря;1;1;from
+Q5454500;Fish Creek;код Национальной исторической достопримечательности Канады;1;1;from
+Q5454500;Fish Creek;идентификатор Historic Places;1;1;from
+Q5454500;Fish Creek;географические координаты;1;1;from
+Q5454500;Fish Creek;местонахождение;1;1;to
+Q6177554;Jenkins' Ferry Battleground State Park;руководящий орган;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;официальный сайт;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;основная категория по теме;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;официальный сайт;1;1;from
+Q7020686;Newtown Battlefield State Park;административно-территориальная единица;1;1;from
+Q7020686;Newtown Battlefield State Park;государство;1;1;from
+Q7020686;Newtown Battlefield State Park;изображение;1;1;from
+Q7020686;Newtown Battlefield State Park;код VIAF;1;1;from
+Q7020686;Newtown Battlefield State Park;код LCNAF;1;1;from
+Q7020686;Newtown Battlefield State Park;это частный случай понятия;1;2;from
+Q7020686;Newtown Battlefield State Park;статус наследия;1;2;from
+Q7020686;Newtown Battlefield State Park;код GeoNames;1;1;from
+Q7020686;Newtown Battlefield State Park;код GNIS;1;1;from
+Q7020686;Newtown Battlefield State Park;географические координаты;1;1;from
+Q7020686;Newtown Battlefield State Park;код NRHP;1;1;from
+Q7084977;Old Sitka;основатель;1;2;from
+Q7084977;Old Sitka;административно-территориальная единица;1;1;from
+Q7084977;Old Sitka;государство;1;1;from
+Q7084977;Old Sitka;изображение;1;1;from
+Q7084977;Old Sitka;это частный случай понятия;1;6;from
+Q7084977;Old Sitka;статус наследия;1;6;from
+Q7084977;Old Sitka;площадь;1;2;from
+Q7084977;Old Sitka;культура;1;2;from
+Q7084977;Old Sitka;дата основания/создания/возникновения;1;1;from
+Q7084977;Old Sitka;географические координаты;1;1;from
+Q7084977;Old Sitka;код NRHP;1;1;from
+Q7084977;Old Sitka;находится в пределах природно-географического объекта;1;1;from
+Q7084977;Old Sitka;основная тема;1;1;to
+Q7088870;Olustee Battlefield Historic State Park;административно-территориальная единица;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;состоит из;1;1;to
+Q6771371;Marks’ Mills Battleground State Park;ключевое событие;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;общая тема категории;1;1;to
+Q6771371;Marks’ Mills Battleground State Park;код NRHP;1;1;from
+Q6177554;Jenkins' Ferry Battleground State Park;состоит из;1;1;to
+Q6484589;"Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island";административно-территориальная единица;1;1;from
+Q6484589;"Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island";государство;1;1;from
+Q6484589;"Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island";изображение;1;1;from
+Q6484589;"Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island";это частный случай понятия;1;1;from
+Q6484589;"Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island";статус наследия;1;6;from
+Q6484589;"Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island";война/сражение;1;1;from
+Q6484589;"Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island";географические координаты;1;1;from
+Q6484589;"Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island";код NRHP;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;административно-территориальная единица;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;государство;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;изображение;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;часть света;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;это частный случай понятия;1;2;from
+Q6771371;Marks’ Mills Battleground State Park;код US National Archives;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;статус наследия;1;7;from
+Q6771371;Marks’ Mills Battleground State Park;официальное название;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;высота над уровнем моря;1;2;from
+Q6771371;Marks’ Mills Battleground State Park;код BabelNet;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;местонахождение;1;1;to
+Q6771371;Marks’ Mills Battleground State Park;часть от;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;категория на Викискладе;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;в память о;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;дата основания/создания/возникновения;1;1;from
+Q6771371;Marks’ Mills Battleground State Park;географические координаты;1;1;from
+Q5432259;Fallen Timbers Battlefield;находится в охранной зоне;1;1;from
+Q5432259;Fallen Timbers Battlefield;это частный случай понятия;1;1;from
+Q18158556;Sulphur Trestle Fort Site;географические координаты;1;1;from
+Q4872176;Battle of Rhode Island Site;государство;1;1;from
+Q4870665;Battle of Carthage State Historic Site;изображение;1;2;from
+Q4870665;Battle of Carthage State Historic Site;часть света;1;1;from
+Q4870665;Battle of Carthage State Historic Site;это частный случай понятия;1;2;from
+Q4870665;Battle of Carthage State Historic Site;официальное название;1;1;from
+Q4870665;Battle of Carthage State Historic Site;короткое название;1;1;from
+Q4870665;Battle of Carthage State Historic Site;в память о;1;1;from
+Q4870665;Battle of Carthage State Historic Site;дата основания/создания/возникновения;1;1;from
+Q4870665;Battle of Carthage State Historic Site;географические координаты;1;1;from
+Q4870665;Battle of Carthage State Historic Site;ключевое событие;1;1;from
+Q4870665;Battle of Carthage State Historic Site;руководящий орган;1;1;from
+Q4870665;Battle of Carthage State Historic Site;официальный сайт;1;1;from
+Q4872176;Battle of Rhode Island Site;административно-территориальная единица;1;1;from
+Q4872176;Battle of Rhode Island Site;изображение;1;1;from
+Q5432259;Fallen Timbers Battlefield;изображение;1;1;from
+Q4872176;Battle of Rhode Island Site;это частный случай понятия;1;1;from
+Q4872176;Battle of Rhode Island Site;статус наследия;1;5;from
+Q4872176;Battle of Rhode Island Site;категория на Викискладе;1;1;from
+Q4872176;Battle of Rhode Island Site;война/сражение;1;1;from
+Q4872176;Battle of Rhode Island Site;географические координаты;1;1;from
+Q4872176;Battle of Rhode Island Site;код NRHP;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;административно-территориальная единица;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;названо в честь;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;государство;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;изображение;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;код VIAF;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;это частный случай понятия;1;3;from
+Q4870665;Battle of Carthage State Historic Site;государство;1;1;from
+Q4870665;Battle of Carthage State Historic Site;административно-территориальная единица;1;1;from
+Q4868792;Bates Battlefield;код NRHP;1;1;from
+Q4868792;Bates Battlefield;географические координаты;1;1;from
+Q958354;Coulée Grou;изображение;1;1;from
+Q958354;Coulée Grou;это частный случай понятия;1;1;from
+Q958354;Coulée Grou;статус наследия;1;1;from
+Q958354;Coulée Grou;код GeoNames;1;1;from
+Q958354;Coulée Grou;высота над уровнем моря;1;1;from
+Q958354;Coulée Grou;код Национальной исторической достопримечательности Канады;1;1;from
+Q958354;Coulée Grou;категория на Викискладе;1;1;from
+Q958354;Coulée Grou;идентификатор Historic Places;1;1;from
+Q958354;Coulée Grou;географические координаты;1;1;from
+Q958354;Coulée Grou;находится в пределах природно-географического объекта;1;1;to
+Q4257679;Lexington Battle Green;административно-территориальная единица;1;1;from
+Q4257679;Lexington Battle Green;государство;1;1;from
+Q4257679;Lexington Battle Green;изображение;1;2;from
+Q4257679;Lexington Battle Green;это частный случай понятия;1;2;from
+Q4257679;Lexington Battle Green;статус наследия;1;6;from
+Q4257679;Lexington Battle Green;код GeoNames;1;1;from
+Q4257679;Lexington Battle Green;категория на Викискладе;1;1;from
+Q4257679;Lexington Battle Green;код GNIS;1;1;from
+Q4257679;Lexington Battle Green;война/сражение;1;1;from
+Q4257679;Lexington Battle Green;географические координаты;1;1;from
+Q4257679;Lexington Battle Green;код NRHP;1;1;from
+Q4868792;Bates Battlefield;административно-территориальная единица;1;1;from
+Q4868792;Bates Battlefield;государство;1;1;from
+Q4868792;Bates Battlefield;это частный случай понятия;1;1;from
+Q4868792;Bates Battlefield;статус наследия;1;4;from
+Q4873043;Battle of the Windmill National Historic Site;статус наследия;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;код Национальной исторической достопримечательности Канады;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;указания, как добраться;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;государство;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;это частный случай понятия;1;2;from
+Q5044056;Carnifex Ferry Battlefield State Park;статус наследия;1;4;from
+Q5044056;Carnifex Ferry Battlefield State Park;код GeoNames;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;высота над уровнем моря;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;площадь;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;категория на Викискладе;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;в память о;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;дата основания/создания/возникновения;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;географические координаты;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;код NRHP;1;1;from
+Q5364296;Elkin's Ferry Battlefield;административно-территориальная единица;1;2;from
+Q5364296;Elkin's Ferry Battlefield;государство;1;1;from
+Q5364296;Elkin's Ferry Battlefield;изображение;1;1;from
+Q5364296;Elkin's Ferry Battlefield;находится на берегу водоёма;1;1;from
+Q5364296;Elkin's Ferry Battlefield;это частный случай понятия;1;1;from
+Q5364296;Elkin's Ferry Battlefield;статус наследия;1;7;from
+Q5364296;Elkin's Ferry Battlefield;категория на Викискладе;1;1;from
+Q5364296;Elkin's Ferry Battlefield;в память о;1;1;from
+Q5364296;Elkin's Ferry Battlefield;дата основания/создания/возникновения;1;1;from
+Q5364296;Elkin's Ferry Battlefield;географические координаты;1;1;from
+Q5364296;Elkin's Ferry Battlefield;код NRHP;1;1;from
+Q5364296;Elkin's Ferry Battlefield;ключевое событие;1;1;from
+Q5364296;Elkin's Ferry Battlefield;состоит из;1;1;to
+Q5432259;Fallen Timbers Battlefield;административно-территориальная единица;1;1;from
+Q5432259;Fallen Timbers Battlefield;государство;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;изображение;1;1;from
+Q5044056;Carnifex Ferry Battlefield State Park;административно-территориальная единица;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;категория на Викискладе;1;1;from
+Q4957272;Brandywine Battlefield;часть от;1;1;to
+Q4873043;Battle of the Windmill National Historic Site;идентификатор Historic Places;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;географические координаты;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;адрес;1;1;from
+Q4873043;Battle of the Windmill National Historic Site;ключевое событие;1;2;from
+Q4873043;Battle of the Windmill National Historic Site;официальный сайт;1;2;from
+Q4873043;Battle of the Windmill National Historic Site;местонахождение;1;1;to
+Q4873043;Battle of the Windmill National Historic Site;часть от;1;1;to
+Q4915644;Birch Coulee Battlefield;административно-территориальная единица;1;1;from
+Q4915644;Birch Coulee Battlefield;государство;1;1;from
+Q4915644;Birch Coulee Battlefield;изображение;1;1;from
+Q4915644;Birch Coulee Battlefield;это частный случай понятия;1;1;from
+Q4915644;Birch Coulee Battlefield;статус наследия;1;1;from
+Q4915644;Birch Coulee Battlefield;категория на Викискладе;1;1;from
+Q4915644;Birch Coulee Battlefield;географические координаты;1;1;from
+Q4915644;Birch Coulee Battlefield;код NRHP;1;1;from
+Q4957272;Brandywine Battlefield;административно-территориальная единица;1;1;from
+Q4957272;Brandywine Battlefield;государство;1;1;from
+Q4957272;Brandywine Battlefield;изображение;1;1;from
+Q4957272;Brandywine Battlefield;это частный случай понятия;1;1;from
+Q4957272;Brandywine Battlefield;статус наследия;1;3;from
+Q4957272;Brandywine Battlefield;код GeoNames;1;1;from
+Q4957272;Brandywine Battlefield;код TGN;1;1;from
+Q4957272;Brandywine Battlefield;категория на Викискладе;1;1;from
+Q4957272;Brandywine Battlefield;географические координаты;1;1;from
+Q4957272;Brandywine Battlefield;код NRHP;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;государство;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;изображение;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;это частный случай понятия;1;2;from
+Q14686270;Natural Bridge Battlefield Historic State Park;государство;1;1;from
+Q8050327;Yauco Battle Site;государство;1;1;from
+Q8050327;Yauco Battle Site;изображение;1;1;from
+Q8050327;Yauco Battle Site;это частный случай понятия;1;1;from
+Q8050327;Yauco Battle Site;статус наследия;1;3;from
+Q8050327;Yauco Battle Site;война/сражение;1;1;from
+Q8050327;Yauco Battle Site;географические координаты;1;1;from
+Q8050327;Yauco Battle Site;код NRHP;1;1;from
+Q11477635;Old Battlefield of Kawanakajima;государство;1;1;from
+Q11477635;Old Battlefield of Kawanakajima;это частный случай понятия;1;1;from
+Q11477635;Old Battlefield of Kawanakajima;географические координаты;1;1;from
+Q11477635;Old Battlefield of Kawanakajima;местонахождение;1;1;to
+Q14686270;Natural Bridge Battlefield Historic State Park;административно-территориальная единица;1;1;from
+Q14686270;Natural Bridge Battlefield Historic State Park;изображение;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;статус наследия;1;4;from
+Q14686270;Natural Bridge Battlefield Historic State Park;код VIAF;1;1;from
+Q14686270;Natural Bridge Battlefield Historic State Park;это частный случай понятия;1;2;from
+Q14686270;Natural Bridge Battlefield Historic State Park;статус наследия;1;3;from
+Q14686270;Natural Bridge Battlefield Historic State Park;код GeoNames;1;1;from
+Q14686270;Natural Bridge Battlefield Historic State Park;местонахождение;1;1;from
+Q14686270;Natural Bridge Battlefield Historic State Park;категория на Викискладе;1;1;from
+Q14686270;Natural Bridge Battlefield Historic State Park;код GNIS;1;1;from
+Q14686270;Natural Bridge Battlefield Historic State Park;географические координаты;1;1;from
+Q14686270;Natural Bridge Battlefield Historic State Park;код NRHP;1;1;from
+Q14686270;Natural Bridge Battlefield Historic State Park;значимое место;1;1;from
+Q14705753;Monmouth Battlefield State Park;административно-территориальная единица;1;2;from
+Q14705753;Monmouth Battlefield State Park;оператор;1;1;from
+Q8050327;Yauco Battle Site;административно-территориальная единица;1;1;from
+Q8026008;Winstead Hill;код NRHP;1;1;from
+Q8026008;Winstead Hill;географические координаты;1;1;from
+Q8026008;Winstead Hill;война/сражение;1;1;from
+Q7531931;Sitka National Historical Park;код NLI;1;1;from
+Q7531931;Sitka National Historical Park;находится в охранной зоне;1;1;to
+Q7531931;Sitka National Historical Park;основная тема;1;1;to
+Q7611158;Steptoe Battlefield State Park;административно-территориальная единица;1;1;from
+Q7611158;Steptoe Battlefield State Park;государство;1;1;from
+Q7611158;Steptoe Battlefield State Park;изображение;1;1;from
+Q7611158;Steptoe Battlefield State Park;это частный случай понятия;1;2;from
+Q7611158;Steptoe Battlefield State Park;статус наследия;1;4;from
+Q7611158;Steptoe Battlefield State Park;код GeoNames;1;1;from
+Q7611158;Steptoe Battlefield State Park;площадь;1;1;from
+Q7611158;Steptoe Battlefield State Park;категория на Викискладе;1;1;from
+Q7611158;Steptoe Battlefield State Park;дата основания/создания/возникновения;1;1;from
+Q7611158;Steptoe Battlefield State Park;код GNIS;1;1;from
+Q7611158;Steptoe Battlefield State Park;географические координаты;1;1;from
+Q7611158;Steptoe Battlefield State Park;код NRHP;1;1;from
+Q7611158;Steptoe Battlefield State Park;ключевое событие;1;1;from
+Q8026008;Winstead Hill;административно-территориальная единица;1;1;from
+Q8026008;Winstead Hill;государство;1;1;from
+Q8026008;Winstead Hill;изображение;1;1;from
+Q8026008;Winstead Hill;это частный случай понятия;1;2;from
+Q8026008;Winstead Hill;статус наследия;1;6;from
+Q8026008;Winstead Hill;код GeoNames;1;1;from
+Q8026008;Winstead Hill;высота над уровнем моря;1;1;from
+Q8026008;Winstead Hill;местонахождение;1;2;from
+Q8026008;Winstead Hill;код GNIS;1;1;from
+Q14705753;Monmouth Battlefield State Park;государство;1;1;from
+Q14705753;Monmouth Battlefield State Park;изображение;1;1;from
+Q14705753;Monmouth Battlefield State Park;код VIAF;1;1;from
+Q16507442;Waterloo Battlefield;географические координаты;1;1;from
+Q16507442;Waterloo Battlefield;баннер Викигида;1;1;from
+Q16893294;Kettle Creek Battlefield;административно-территориальная единица;1;1;from
+Q16893294;Kettle Creek Battlefield;государство;1;1;from
+Q16893294;Kettle Creek Battlefield;изображение;1;1;from
+Q16893294;Kettle Creek Battlefield;это частный случай понятия;1;1;from
+Q16893294;Kettle Creek Battlefield;статус наследия;1;4;from
+Q16893294;Kettle Creek Battlefield;площадь;1;1;from
+Q16893294;Kettle Creek Battlefield;категория на Викискладе;1;1;from
+Q16893294;Kettle Creek Battlefield;географические координаты;1;1;from
+Q16893294;Kettle Creek Battlefield;код NRHP;1;1;from
+Q16893294;Kettle Creek Battlefield;ключевое событие;1;1;from
+Q16901611;Thoroughfare Gap Battlefield;административно-территориальная единица;1;1;from
+Q16901611;Thoroughfare Gap Battlefield;государство;1;1;from
+Q16901611;Thoroughfare Gap Battlefield;изображение;1;1;from
+Q16901611;Thoroughfare Gap Battlefield;это частный случай понятия;1;1;from
+Q16901611;Thoroughfare Gap Battlefield;статус наследия;1;3;from
+Q16901611;Thoroughfare Gap Battlefield;площадь;1;1;from
+Q16901611;Thoroughfare Gap Battlefield;местонахождение;1;1;from
+Q16901611;Thoroughfare Gap Battlefield;географические координаты;1;1;from
+Q16901611;Thoroughfare Gap Battlefield;код NRHP;1;1;from
+Q16901611;Thoroughfare Gap Battlefield;ключевое событие;1;1;from
+Q18158556;Sulphur Trestle Fort Site;государство;1;1;from
+Q18158556;Sulphur Trestle Fort Site;изображение;1;1;from
+Q18158556;Sulphur Trestle Fort Site;это частный случай понятия;1;1;from
+Q18158556;Sulphur Trestle Fort Site;статус наследия;1;1;from
+Q16507442;Waterloo Battlefield;значимое место;1;1;from
+Q16507442;Waterloo Battlefield;код в Предварительном списке Всемирного наследия;1;1;from
+Q14705753;Monmouth Battlefield State Park;код LCNAF;1;1;from
+Q16507442;Waterloo Battlefield;категория на Викискладе;1;1;from
+Q14705753;Monmouth Battlefield State Park;это частный случай понятия;1;3;from
+Q14705753;Monmouth Battlefield State Park;статус наследия;1;3;from
+Q14705753;Monmouth Battlefield State Park;код GeoNames;1;1;from
+Q14705753;Monmouth Battlefield State Park;площадь;1;1;from
+Q14705753;Monmouth Battlefield State Park;категория на Викискладе;1;1;from
+Q14705753;Monmouth Battlefield State Park;ID отношения в OpenStreetMap;1;1;from
+Q14705753;Monmouth Battlefield State Park;дата основания/создания/возникновения;1;1;from
+Q14705753;Monmouth Battlefield State Park;код GNIS;1;1;from
+Q14705753;Monmouth Battlefield State Park;географические координаты;1;1;from
+Q14705753;Monmouth Battlefield State Park;код NRHP;1;1;from
+Q14705753;Monmouth Battlefield State Park;ключевое событие;1;1;from
+Q14705753;Monmouth Battlefield State Park;официальный сайт;1;1;from
+Q15269226;Punchbowl, Korea;административно-территориальная единица;1;1;from
+Q15269226;Punchbowl, Korea;названо в честь;1;1;from
+Q15269226;Punchbowl, Korea;государство;1;1;from
+Q15269226;Punchbowl, Korea;изображение;1;1;from
+Q15269226;Punchbowl, Korea;это частный случай понятия;1;2;from
+Q15269226;Punchbowl, Korea;категория на Викискладе;1;1;from
+Q15269226;Punchbowl, Korea;географические координаты;1;1;from
+Q15269226;Punchbowl, Korea;местонахождение;1;1;to
+Q16507442;Waterloo Battlefield;государство;1;1;from
+Q16507442;Waterloo Battlefield;изображение;1;1;from
+Q16507442;Waterloo Battlefield;это частный случай понятия;1;1;from
+Q16507442;Waterloo Battlefield;статус наследия;1;2;from
+Q16507442;Waterloo Battlefield;критерий Всемирного наследия;1;3;from
+Q7531931;Sitka National Historical Park;официальный сайт;1;1;from
+Q7531931;Sitka National Historical Park;категория защищённых зон МСОП;1;1;from
+Q7531931;Sitka National Historical Park;WDPA;1;1;from
+Q7208461;Poison Springs Battleground State Park;официальный сайт;1;1;from
+Q7237848;Prairie D'Ane Battlefield;административно-территориальная единица;1;1;from
+Q7237848;Prairie D'Ane Battlefield;государство;1;1;from
+Q7237848;Prairie D'Ane Battlefield;изображение;1;1;from
+Q7237848;Prairie D'Ane Battlefield;это частный случай понятия;1;1;from
+Q7237848;Prairie D'Ane Battlefield;статус наследия;1;7;from
+Q7237848;Prairie D'Ane Battlefield;географические координаты;1;1;from
+Q7237848;Prairie D'Ane Battlefield;код NRHP;1;1;from
+Q7237848;Prairie D'Ane Battlefield;состоит из;1;1;to
+Q7244938;Princeton Battlefield;административно-территориальная единица;1;1;from
+Q7244938;Princeton Battlefield;государство;1;1;from
+Q7244938;Princeton Battlefield;изображение;1;1;from
+Q7244938;Princeton Battlefield;это частный случай понятия;1;1;from
+Q7244938;Princeton Battlefield;статус наследия;1;9;from
+Q7244938;Princeton Battlefield;площадь;1;1;from
+Q7244938;Princeton Battlefield;территория перекрывается с;1;1;to
+Q7244938;Princeton Battlefield;часть от;1;1;from
+Q7244938;Princeton Battlefield;категория на Викискладе;1;1;from
+Q7244938;Princeton Battlefield;дата основания/создания/возникновения;1;1;from
+Q7244938;Princeton Battlefield;National Trust for Historic Preservation ID;1;1;from
+Q7244938;Princeton Battlefield;война/сражение;1;2;from
+Q7244938;Princeton Battlefield;географические координаты;1;1;from
+Q7244938;Princeton Battlefield;код NRHP;1;1;from
+Q7244938;Princeton Battlefield;официальный сайт;1;1;from
+Q7244938;Princeton Battlefield;местонахождение;1;1;to
+Q7244938;Princeton Battlefield;состоит из;1;1;to
+Q7208461;Poison Springs Battleground State Park;состоит из;1;1;to
+Q7208461;Poison Springs Battleground State Park;ключевое событие;1;1;from
+Q7244938;Princeton Battlefield;основная тема;1;1;to
+Q7208461;Poison Springs Battleground State Park;код NRHP;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;код GeoNames;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;категория на Викискладе;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;в память о;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;дата основания/создания/возникновения;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;географические координаты;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;код NRHP;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;значимое место;1;1;from
+Q7088870;Olustee Battlefield Historic State Park;ключевое событие;1;1;from
+Q7208461;Poison Springs Battleground State Park;административно-территориальная единица;1;1;from
+Q7208461;Poison Springs Battleground State Park;государство;1;1;from
+Q7208461;Poison Springs Battleground State Park;изображение;1;1;from
+Q7208461;Poison Springs Battleground State Park;часть света;1;1;from
+Q7208461;Poison Springs Battleground State Park;это частный случай понятия;1;2;from
+Q7208461;Poison Springs Battleground State Park;код US National Archives;1;1;from
+Q7208461;Poison Springs Battleground State Park;статус наследия;1;7;from
+Q7208461;Poison Springs Battleground State Park;официальное название;1;1;from
+Q7208461;Poison Springs Battleground State Park;страница учреждения на Викискладе;1;1;from
+Q7208461;Poison Springs Battleground State Park;высота над уровнем моря;1;2;from
+Q7208461;Poison Springs Battleground State Park;код BabelNet;1;1;from
+Q7208461;Poison Springs Battleground State Park;местонахождение;1;1;from
+Q7208461;Poison Springs Battleground State Park;часть от;1;1;from
+Q7208461;Poison Springs Battleground State Park;категория на Викискладе;1;1;from
+Q7208461;Poison Springs Battleground State Park;в память о;1;1;from
+Q7208461;Poison Springs Battleground State Park;дата основания/создания/возникновения;1;1;from
+Q7208461;Poison Springs Battleground State Park;географические координаты;1;1;from
+Q7244938;Princeton Battlefield;названо в честь;1;1;to
+Q7271089;Queenston Heights;административно-территориальная единица;1;1;from
+Q7531931;Sitka National Historical Park;значимое место;1;1;from
+Q7531931;Sitka National Historical Park;код LCNAF;1;2;from
+Q7531931;Sitka National Historical Park;это частный случай понятия;1;3;from
+Q7531931;Sitka National Historical Park;код в энциклопедии «Британника онлайн»;1;1;from
+Q7531931;Sitka National Historical Park;статус наследия;1;5;from
+Q7531931;Sitka National Historical Park;код GeoNames;1;1;from
+Q7531931;Sitka National Historical Park;код TGN;1;1;from
+Q7531931;Sitka National Historical Park;название на языке оригинала;1;1;from
+Q7531931;Sitka National Historical Park;высота над уровнем моря;1;1;from
+Q7531931;Sitka National Historical Park;площадь;1;1;from
+Q7531931;Sitka National Historical Park;культура;1;3;from
+Q7531931;Sitka National Historical Park;код Национальной библиотеки Греции;1;1;from
+Q7531931;Sitka National Historical Park;NPCA ID;1;1;from
+Q7531931;Sitka National Historical Park;National Park Foundation ID;1;1;from
+Q7531931;Sitka National Historical Park;Recreation.gov gateway ID;1;1;from
+Q7531931;Sitka National Historical Park;категория на Викискладе;1;1;from
+Q7531931;Sitka National Historical Park;NPS unit ID;1;1;from
+Q7531931;Sitka National Historical Park;код для сущности Wolfram Language;1;2;from
+Q7531931;Sitka National Historical Park;eBird hotspot ID;1;1;from
+Q7531931;Sitka National Historical Park;состоит из;1;1;from
+Q7531931;Sitka National Historical Park;дата основания/создания/возникновения;1;1;from
+Q7531931;Sitka National Historical Park;код GNIS;1;1;from
+Q7531931;Sitka National Historical Park;Museum Universe Data File ID;1;1;from
+Q7531931;Sitka National Historical Park;война/сражение;1;1;from
+Q7531931;Sitka National Historical Park;географические координаты;1;1;from
+Q7531931;Sitka National Historical Park;код NRHP;1;1;from
+Q7531931;Sitka National Historical Park;PEPC park ID;1;1;from
+Q7531931;Sitka National Historical Park;часть света;1;1;from
+Q7531931;Sitka National Historical Park;код VIAF;1;1;from
+Q7271089;Queenston Heights;государство;1;1;from
+Q7531931;Sitka National Historical Park;изображение;1;1;from
+Q7271089;Queenston Heights;изображение;1;1;from
+Q7271089;Queenston Heights;это частный случай понятия;1;2;from
+Q7271089;Queenston Heights;статус наследия;1;2;from
+Q7271089;Queenston Heights;код GeoNames;1;1;from
+Q7271089;Queenston Heights;код Национальной исторической достопримечательности Канады;1;1;from
+Q7271089;Queenston Heights;категория на Викискладе;1;1;from
+Q7271089;Queenston Heights;идентификатор Historic Places;1;1;from
+Q7271089;Queenston Heights;географические координаты;1;1;from
+Q7271089;Queenston Heights;местонахождение;1;2;to
+Q7271089;Queenston Heights;война/сражение;1;1;to
+Q7271089;Queenston Heights;часть от;1;1;to
+Q7271089;Queenston Heights;место смерти;1;1;to
+Q7368095;Rosebud Battlefield State Park;административно-территориальная единица;1;1;from
+Q7368095;Rosebud Battlefield State Park;государство;1;1;from
+Q7368095;Rosebud Battlefield State Park;изображение;1;1;from
+Q7368095;Rosebud Battlefield State Park;это частный случай понятия;1;2;from
+Q7368095;Rosebud Battlefield State Park;статус наследия;1;2;from
+Q7368095;Rosebud Battlefield State Park;код GeoNames;1;1;from
+Q7368095;Rosebud Battlefield State Park;категория на Викискладе;1;1;from
+Q7368095;Rosebud Battlefield State Park;код GNIS;1;1;from
+Q7368095;Rosebud Battlefield State Park;географические координаты;1;1;from
+Q7368095;Rosebud Battlefield State Park;код NRHP;1;1;from
+Q7531931;Sitka National Historical Park;административно-территориальная единица;1;1;from
+Q7531931;Sitka National Historical Park;оператор;1;1;from
+Q7531931;Sitka National Historical Park;государство;1;1;from
+Q86838659;Paoli Battlefield Site and Parade Grounds;местонахождение;1;1;to

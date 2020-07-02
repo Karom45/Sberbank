@@ -1,0 +1,591 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q36156;East Kazakhstan Region;административно-территориальная единица;1;81;to
+Q485605;Kostanay Region;общая тема категории;1;1;to
+Q485605;Kostanay Region;дата основания/создания/возникновения;1;1;from
+Q485605;Kostanay Region;географические координаты;1;1;from
+Q485605;Kostanay Region;код Freebase;1;1;from
+Q485605;Kostanay Region;Who's on First ID;1;1;from
+Q485605;Kostanay Region;URL-ссылка на источник;1;1;from
+Q485605;Kostanay Region;официальный сайт;1;1;from
+Q485605;Kostanay Region;FIPS 10-4 (страны и регионы);1;1;from
+Q485605;Kostanay Region;основная категория по теме;1;1;from
+Q485605;Kostanay Region;место в MusicBrainz;1;1;from
+Q485605;Kostanay Region;административно делится на;1;1;to
+Q485605;Kostanay Region;категория объединяет темы;1;6;to
+Q485605;Kostanay Region;место рождения;1;49;to
+Q485605;Kostanay Region;место смерти;1;10;to
+Q485605;Kostanay Region;состоит из;1;1;to
+Q485605;Kostanay Region;место астрономического открытия;1;1;to
+Q485605;Kostanay Region;часовой пояс;1;1;from
+Q485605;Kostanay Region;ID отношения в OpenStreetMap;1;1;from
+Q485605;Kostanay Region;код автомобильного номера;1;3;from
+Q485605;Kostanay Region;код GeoNames;1;1;from
+Q485605;Kostanay Region;глава правительства;1;1;from
+Q485605;Kostanay Region;изображение герба;1;1;from
+Q485605;Kostanay Region;численность населения;1;1;from
+Q485605;Kostanay Region;официальное название;1;2;from
+Q485605;Kostanay Region;категория для людей, родившихся здесь;1;1;from
+Q485605;Kostanay Region;категория для людей, умерших здесь;1;1;from
+Q485605;Kostanay Region;название на языке оригинала;1;1;from
+Q485605;Kostanay Region;категория на Викискладе;1;1;from
+Q485605;Kostanay Region;категория для людей, связанных с местностью;1;1;from
+Q485605;Kostanay Region;площадь;1;1;from
+Q485605;Kostanay Region;код BabelNet;1;1;from
+Q485605;Kostanay Region;почтовый индекс;1;1;from
+Q485605;Kostanay Region;ISO 3166-2;1;1;from
+Q485605;Kostanay Region;код темы Quora;1;1;from
+Q485605;Kostanay Region;является столицей;1;1;to
+Q486007;West Kazakhstan Region;административно-территориальная единица;1;25;to
+Q485605;Kostanay Region;столица;1;1;from
+Q486007;West Kazakhstan Region;государство;1;2;from
+Q486007;West Kazakhstan Region;почтовый индекс;1;1;from
+Q486007;West Kazakhstan Region;ISO 3166-2;1;1;from
+Q486007;West Kazakhstan Region;категория на Викискладе;1;1;from
+Q486007;West Kazakhstan Region;код автомобильного номера;1;2;from
+Q486007;West Kazakhstan Region;ID отношения в OpenStreetMap;1;1;from
+Q486007;West Kazakhstan Region;часовой пояс;1;1;from
+Q486007;West Kazakhstan Region;местный телефонный код;1;1;from
+Q486007;West Kazakhstan Region;дата основания/создания/возникновения;1;1;from
+Q486007;West Kazakhstan Region;географические координаты;1;1;from
+Q486007;West Kazakhstan Region;код Freebase;1;1;from
+Q486007;West Kazakhstan Region;Who's on First ID;1;1;from
+Q486007;West Kazakhstan Region;официальный сайт;1;1;from
+Q486007;West Kazakhstan Region;FIPS 10-4 (страны и регионы);1;1;from
+Q486007;West Kazakhstan Region;основная категория по теме;1;1;from
+Q486007;West Kazakhstan Region;место в MusicBrainz;1;1;from
+Q486007;West Kazakhstan Region;код BabelNet;1;1;from
+Q486007;West Kazakhstan Region;площадь;1;1;from
+Q486007;West Kazakhstan Region;категория для людей, связанных с местностью;1;1;from
+Q486007;West Kazakhstan Region;глава правительства;1;1;from
+Q486007;West Kazakhstan Region;изображение;1;1;from
+Q486007;West Kazakhstan Region;карта местонахождения;1;1;from
+Q486007;West Kazakhstan Region;часть света;1;2;from
+Q486007;West Kazakhstan Region;это частный случай понятия;1;1;from
+Q486007;West Kazakhstan Region;столица;1;1;from
+Q486007;West Kazakhstan Region;имеет границы с;1;6;to
+Q486007;West Kazakhstan Region;изображение герба;1;1;from
+Q486007;West Kazakhstan Region;название на языке оригинала;1;1;from
+Q486007;West Kazakhstan Region;численность населения;1;1;from
+Q486007;West Kazakhstan Region;заменил;1;1;from
+Q486007;West Kazakhstan Region;официальное название;1;5;from
+Q486007;West Kazakhstan Region;категория для людей, родившихся здесь;1;1;from
+Q486007;West Kazakhstan Region;категория для людей, умерших здесь;1;1;from
+Q486007;West Kazakhstan Region;код GeoNames;1;1;from
+Q485605;Kostanay Region;имеет границы с;1;7;to
+Q485605;Kostanay Region;это частный случай понятия;1;1;from
+Q486007;West Kazakhstan Region;место рождения;1;69;to
+Q485437;Aktobe Region;имеет границы с;1;9;to
+Q485429;Karaganda Region;место в MusicBrainz;1;1;from
+Q485429;Karaganda Region;административно делится на;1;1;to
+Q485429;Karaganda Region;место смерти;1;11;to
+Q485429;Karaganda Region;место рождения;1;84;to
+Q485429;Karaganda Region;категория объединяет темы;1;6;to
+Q485429;Karaganda Region;расположение штаб-квартиры;1;2;to
+Q485429;Karaganda Region;типовая местность (геология);1;1;to
+Q485429;Karaganda Region;является столицей;1;1;to
+Q485429;Karaganda Region;общая тема категории;1;1;to
+Q485429;Karaganda Region;место посадки;1;1;to
+Q485437;Aktobe Region;административно-территориальная единица;1;51;to
+Q485437;Aktobe Region;государство;1;2;from
+Q485437;Aktobe Region;изображение;1;1;from
+Q485437;Aktobe Region;карта местонахождения;1;1;from
+Q485437;Aktobe Region;это частный случай понятия;1;1;from
+Q485429;Karaganda Region;основная категория по теме;1;1;from
+Q485429;Karaganda Region;FIPS 10-4 (страны и регионы);1;1;from
+Q485429;Karaganda Region;официальный сайт;1;1;from
+Q485429;Karaganda Region;почтовый индекс;1;1;from
+Q485429;Karaganda Region;описывается в источниках;1;2;from
+Q485429;Karaganda Region;категория для людей, родившихся здесь;1;1;from
+Q485429;Karaganda Region;категория для людей, умерших здесь;1;1;from
+Q485429;Karaganda Region;код GeoNames;1;1;from
+Q485429;Karaganda Region;категория для людей, связанных с местностью;1;1;from
+Q485429;Karaganda Region;площадь;1;1;from
+Q485429;Karaganda Region;ISO 3166-2;1;1;from
+Q485429;Karaganda Region;Who's on First ID;1;1;from
+Q485429;Karaganda Region;категория на Викискладе;1;1;from
+Q485429;Karaganda Region;ID отношения в OpenStreetMap;1;1;from
+Q485429;Karaganda Region;часовой пояс;1;1;from
+Q485429;Karaganda Region;дата основания/создания/возникновения;1;1;from
+Q485429;Karaganda Region;географические координаты;1;1;from
+Q485429;Karaganda Region;код Freebase;1;1;from
+Q485437;Aktobe Region;столица;1;1;from
+Q485437;Aktobe Region;глава правительства;1;1;from
+Q485605;Kostanay Region;карта местонахождения;1;1;from
+Q485437;Aktobe Region;изображение герба;1;1;from
+Q485437;Aktobe Region;официальный сайт;1;1;from
+Q485437;Aktobe Region;FIPS 10-4 (страны и регионы);1;1;from
+Q485437;Aktobe Region;основная категория по теме;1;1;from
+Q485437;Aktobe Region;место в MusicBrainz;1;1;from
+Q485437;Aktobe Region;административно делится на;1;1;to
+Q485437;Aktobe Region;место рождения;1;26;to
+Q485437;Aktobe Region;место смерти;1;5;to
+Q485437;Aktobe Region;категория объединяет темы;1;5;to
+Q485437;Aktobe Region;владельцем является;1;1;to
+Q485437;Aktobe Region;место астрономического открытия;1;1;to
+Q485437;Aktobe Region;является столицей;1;1;to
+Q485437;Aktobe Region;общая тема категории;1;1;to
+Q485605;Kostanay Region;административно-территориальная единица;1;29;to
+Q485605;Kostanay Region;государство;1;3;from
+Q485605;Kostanay Region;изображение;1;1;from
+Q485437;Aktobe Region;Who's on First ID;1;1;from
+Q485437;Aktobe Region;код Freebase;1;1;from
+Q485437;Aktobe Region;географические координаты;1;1;from
+Q485437;Aktobe Region;категория для людей, связанных с местностью;1;1;from
+Q485437;Aktobe Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q485437;Aktobe Region;категория для людей, родившихся здесь;1;1;from
+Q485437;Aktobe Region;категория для людей, умерших здесь;1;1;from
+Q485437;Aktobe Region;код GeoNames;1;1;from
+Q485437;Aktobe Region;подробная карта;1;1;from
+Q485437;Aktobe Region;название на языке оригинала;1;1;from
+Q485437;Aktobe Region;площадь;1;1;from
+Q485437;Aktobe Region;дата основания/создания/возникновения;1;1;from
+Q485437;Aktobe Region;почтовый индекс;1;1;from
+Q485437;Aktobe Region;ISO 3166-2;1;1;from
+Q485437;Aktobe Region;категория на Викискладе;1;1;from
+Q485437;Aktobe Region;ID отношения в OpenStreetMap;1;1;from
+Q485437;Aktobe Region;часовой пояс;1;1;from
+Q485437;Aktobe Region;состоит из;1;13;from
+Q486007;West Kazakhstan Region;административно делится на;1;1;to
+Q486007;West Kazakhstan Region;место смерти;1;5;to
+Q36156;East Kazakhstan Region;государство;1;3;from
+Q815330;Turkestan Region;площадь;1;1;from
+Q815330;Turkestan Region;код VIAF;1;1;from
+Q815330;Turkestan Region;код GND;1;1;from
+Q815330;Turkestan Region;карта местонахождения;1;1;from
+Q815330;Turkestan Region;это частный случай понятия;1;1;from
+Q815330;Turkestan Region;столица;1;2;from
+Q815330;Turkestan Region;имеет границы с;1;2;to
+Q815330;Turkestan Region;глава правительства;1;1;from
+Q815330;Turkestan Region;изображение герба;1;1;from
+Q815330;Turkestan Region;численность населения;1;1;from
+Q815330;Turkestan Region;официальное название;1;19;from
+Q815330;Turkestan Region;категория для людей, родившихся здесь;1;1;from
+Q815330;Turkestan Region;категория для людей, умерших здесь;1;1;from
+Q815330;Turkestan Region;код GeoNames;1;1;from
+Q815330;Turkestan Region;название на языке оригинала;1;1;from
+Q815330;Turkestan Region;категория для людей, связанных с местностью;1;1;from
+Q815330;Turkestan Region;изображение;1;1;from
+Q815330;Turkestan Region;государство;1;3;from
+Q815330;Turkestan Region;административно-территориальная единица;1;41;to
+Q486657;Jambyl Region;основная категория по теме;1;1;from
+Q486657;Jambyl Region;дата основания/создания/возникновения;1;1;from
+Q486657;Jambyl Region;географические координаты;1;1;from
+Q486657;Jambyl Region;код Freebase;1;1;from
+Q486657;Jambyl Region;Who's on First ID;1;1;from
+Q486657;Jambyl Region;официальный сайт;1;1;from
+Q486657;Jambyl Region;FIPS 10-4 (страны и регионы);1;1;from
+Q486657;Jambyl Region;административно делится на;1;1;to
+Q486657;Jambyl Region;происходит из;1;1;to
+Q486657;Jambyl Region;место рождения;1;87;to
+Q486657;Jambyl Region;место смерти;1;7;to
+Q486657;Jambyl Region;место жительства;1;1;to
+Q486657;Jambyl Region;категория объединяет темы;1;4;to
+Q486657;Jambyl Region;является столицей;1;1;to
+Q486657;Jambyl Region;общая тема категории;1;1;to
+Q815330;Turkestan Region;не путать с;1;1;to
+Q815330;Turkestan Region;почтовый индекс;1;1;from
+Q486657;Jambyl Region;часовой пояс;1;1;from
+Q815330;Turkestan Region;ISO 3166-2;1;1;from
+Q815330;Turkestan Region;общая тема категории;1;1;to
+Q1586591;Turgay Oblast;административно-территориальная единица;1;1;to
+Q1586591;Turgay Oblast;государство;1;2;from
+Q1586591;Turgay Oblast;это частный случай понятия;1;1;from
+Q1586591;Turgay Oblast;столица;1;1;from
+Q1586591;Turgay Oblast;численность населения;1;1;from
+Q1586591;Turgay Oblast;код в энциклопедии «Британника онлайн»;1;1;from
+Q1586591;Turgay Oblast;категория для людей, связанных с местностью;1;1;from
+Q1586591;Turgay Oblast;площадь;1;1;from
+Q1586591;Turgay Oblast;код в Башкирской энциклопедии (русская версия);1;1;from
+Q1586591;Turgay Oblast;дата основания/создания/возникновения;1;1;from
+Q1586591;Turgay Oblast;географические координаты;1;1;from
+Q1586591;Turgay Oblast;код Freebase;1;1;from
+Q1586591;Turgay Oblast;место рождения;1;2;to
+Q1586591;Turgay Oblast;категория объединяет темы;1;1;to
+Q815330;Turkestan Region;является столицей;1;2;to
+Q815330;Turkestan Region;категория объединяет темы;1;6;to
+Q815330;Turkestan Region;место смерти;1;9;to
+Q815330;Turkestan Region;географические координаты;1;1;from
+Q815330;Turkestan Region;категория на Викискладе;1;1;from
+Q815330;Turkestan Region;код автомобильного номера;1;2;from
+Q815330;Turkestan Region;ID отношения в OpenStreetMap;1;1;from
+Q815330;Turkestan Region;часовой пояс;1;1;from
+Q815330;Turkestan Region;местный телефонный код;1;1;from
+Q815330;Turkestan Region;дата основания/создания/возникновения;1;1;from
+Q815330;Turkestan Region;код Freebase;1;1;from
+Q815330;Turkestan Region;место рождения;1;128;to
+Q815330;Turkestan Region;Who's on First ID;1;1;from
+Q815330;Turkestan Region;находится в пределах природно-географического объекта;1;1;from
+Q815330;Turkestan Region;официальный сайт;1;1;from
+Q815330;Turkestan Region;FIPS 10-4 (страны и регионы);1;1;from
+Q815330;Turkestan Region;основная категория по теме;1;1;from
+Q815330;Turkestan Region;административно делится на;1;1;to
+Q486657;Jambyl Region;местный телефонный код;1;1;from
+Q486657;Jambyl Region;ID отношения в OpenStreetMap;1;1;from
+Q486007;West Kazakhstan Region;часть от;1;1;to
+Q486144;Pavlodar Region;географические координаты;1;1;from
+Q486144;Pavlodar Region;официальное название;1;1;from
+Q486144;Pavlodar Region;категория для людей, родившихся здесь;1;1;from
+Q486144;Pavlodar Region;категория для людей, умерших здесь;1;1;from
+Q486144;Pavlodar Region;код GeoNames;1;1;from
+Q486144;Pavlodar Region;название на языке оригинала;1;1;from
+Q486144;Pavlodar Region;категория для людей, связанных с местностью;1;1;from
+Q486144;Pavlodar Region;площадь;1;1;from
+Q486144;Pavlodar Region;почтовый индекс;1;1;from
+Q486144;Pavlodar Region;ISO 3166-2;1;1;from
+Q486144;Pavlodar Region;код темы Quora;1;1;from
+Q486144;Pavlodar Region;категория на Викискладе;1;1;from
+Q486144;Pavlodar Region;код автомобильного номера;1;2;from
+Q486144;Pavlodar Region;ID отношения в OpenStreetMap;1;1;from
+Q486144;Pavlodar Region;часовой пояс;1;1;from
+Q486144;Pavlodar Region;местный телефонный код;1;1;from
+Q486144;Pavlodar Region;код в Большой каталанской энциклопедии;1;1;from
+Q486144;Pavlodar Region;изображение герба;1;1;from
+Q486144;Pavlodar Region;глава правительства;1;1;from
+Q486144;Pavlodar Region;названо в честь;1;1;from
+Q486007;West Kazakhstan Region;расположение штаб-квартиры;1;1;to
+Q486007;West Kazakhstan Region;категория объединяет темы;1;5;to
+Q486007;West Kazakhstan Region;заменён на;1;1;to
+Q486007;West Kazakhstan Region;является столицей;1;1;to
+Q486007;West Kazakhstan Region;общая тема категории;1;1;to
+Q486144;Pavlodar Region;административно-территориальная единица;1;29;to
+Q486144;Pavlodar Region;государство;1;3;from
+Q486144;Pavlodar Region;имеет границы с;1;7;to
+Q486144;Pavlodar Region;изображение;1;1;from
+Q486144;Pavlodar Region;код VIAF;1;1;from
+Q486144;Pavlodar Region;код GND;1;1;from
+Q486144;Pavlodar Region;карта местонахождения;1;1;from
+Q486144;Pavlodar Region;это частный случай понятия;1;1;from
+Q486144;Pavlodar Region;столица;1;1;from
+Q486144;Pavlodar Region;дата основания/создания/возникновения;1;1;from
+Q486144;Pavlodar Region;код Freebase;1;1;from
+Q486657;Jambyl Region;код автомобильного номера;1;2;from
+Q486144;Pavlodar Region;Who's on First ID;1;1;from
+Q486657;Jambyl Region;глава правительства;1;1;from
+Q486657;Jambyl Region;изображение герба;1;1;from
+Q486657;Jambyl Region;десятичная классификация Дьюи;1;1;from
+Q486657;Jambyl Region;численность населения;1;1;from
+Q486657;Jambyl Region;официальное название;1;4;from
+Q486657;Jambyl Region;категория для людей, родившихся здесь;1;1;from
+Q486657;Jambyl Region;категория для людей, умерших здесь;1;1;from
+Q486657;Jambyl Region;код GeoNames;1;1;from
+Q486657;Jambyl Region;название на языке оригинала;1;1;from
+Q486657;Jambyl Region;категория для людей, связанных с местностью;1;1;from
+Q486657;Jambyl Region;площадь;1;1;from
+Q486657;Jambyl Region;почтовый индекс;1;1;from
+Q486657;Jambyl Region;используемый язык;1;1;from
+Q486657;Jambyl Region;ISO 3166-2;1;1;from
+Q486657;Jambyl Region;категория на Викискладе;1;1;from
+Q486657;Jambyl Region;имеет границы с;1;3;to
+Q486657;Jambyl Region;столица;1;1;from
+Q486657;Jambyl Region;это частный случай понятия;1;1;from
+Q486144;Pavlodar Region;место смерти;1;6;to
+Q486144;Pavlodar Region;официальный сайт;1;1;from
+Q486144;Pavlodar Region;FIPS 10-4 (страны и регионы);1;1;from
+Q486144;Pavlodar Region;основная категория по теме;1;1;from
+Q486144;Pavlodar Region;место в MusicBrainz;1;1;from
+Q486144;Pavlodar Region;административно делится на;1;1;to
+Q486144;Pavlodar Region;место рождения;1;51;to
+Q486144;Pavlodar Region;категория объединяет темы;1;5;to
+Q486657;Jambyl Region;карта местонахождения;1;1;from
+Q486144;Pavlodar Region;состоит из;1;1;to
+Q486144;Pavlodar Region;является столицей;1;1;to
+Q486144;Pavlodar Region;общая тема категории;1;1;to
+Q486657;Jambyl Region;административно-территориальная единица;1;25;to
+Q486657;Jambyl Region;государство;1;1;from
+Q486657;Jambyl Region;изображение;1;1;from
+Q485429;Karaganda Region;численность населения;1;1;from
+Q485429;Karaganda Region;изображение герба;1;1;from
+Q485429;Karaganda Region;имеет границы с;1;9;to
+Q238931;Mangystau Region;код Freebase;1;1;from
+Q238931;Mangystau Region;численность населения;1;1;from
+Q238931;Mangystau Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q238931;Mangystau Region;категория для людей, родившихся здесь;1;1;from
+Q238931;Mangystau Region;категория для людей, умерших здесь;1;1;from
+Q238931;Mangystau Region;код GeoNames;1;1;from
+Q238931;Mangystau Region;категория для людей, связанных с местностью;1;1;from
+Q238931;Mangystau Region;площадь;1;1;from
+Q238931;Mangystau Region;почтовый индекс;1;1;from
+Q238931;Mangystau Region;ISO 3166-2;1;1;from
+Q238931;Mangystau Region;категория на Викискладе;1;1;from
+Q238931;Mangystau Region;код автомобильного номера;1;2;from
+Q238931;Mangystau Region;ID отношения в OpenStreetMap;1;1;from
+Q238931;Mangystau Region;часовой пояс;1;1;from
+Q238931;Mangystau Region;местный телефонный код;1;1;from
+Q238931;Mangystau Region;дата основания/создания/возникновения;1;1;from
+Q238931;Mangystau Region;изображение герба;1;1;from
+Q238931;Mangystau Region;глава правительства;1;1;from
+Q238931;Mangystau Region;имеет границы с;1;4;to
+Q186466;Almaty Region;основная тема;1;1;to
+Q186466;Almaty Region;место рождения;1;123;to
+Q186466;Almaty Region;место смерти;1;6;to
+Q186466;Almaty Region;место погребения;1;3;to
+Q186466;Almaty Region;категория объединяет темы;1;8;to
+Q186466;Almaty Region;находится в границах современной административной единицы;1;1;to
+Q186466;Almaty Region;является столицей;1;2;to
+Q186466;Almaty Region;общая тема категории;1;1;to
+Q238931;Mangystau Region;столица;1;1;from
+Q186466;Almaty Region;анклав в;1;1;to
+Q238931;Mangystau Region;административно-территориальная единица;1;37;to
+Q238931;Mangystau Region;государство;1;1;from
+Q238931;Mangystau Region;изображение;1;1;from
+Q238931;Mangystau Region;карта местонахождения;1;1;from
+Q238931;Mangystau Region;это частный случай понятия;1;1;from
+Q238931;Mangystau Region;географические координаты;1;1;from
+Q238931;Mangystau Region;Who's on First ID;1;1;from
+Q186466;Almaty Region;баннер Викигида;1;1;from
+Q238931;Mangystau Region;код NKC;1;1;from
+Q427658;Atyrau Region;имеет границы с;1;4;to
+Q427658;Atyrau Region;глава правительства;1;1;from
+Q427658;Atyrau Region;изображение герба;1;1;from
+Q427658;Atyrau Region;численность населения;1;1;from
+Q427658;Atyrau Region;официальное название;1;4;from
+Q427658;Atyrau Region;категория для людей, родившихся здесь;1;1;from
+Q427658;Atyrau Region;категория для людей, умерших здесь;1;1;from
+Q427658;Atyrau Region;код GeoNames;1;1;from
+Q427658;Atyrau Region;название на языке оригинала;1;1;from
+Q427658;Atyrau Region;категория для людей, связанных с местностью;1;1;from
+Q427658;Atyrau Region;площадь;1;1;from
+Q427658;Atyrau Region;почтовый индекс;1;1;from
+Q427658;Atyrau Region;ISO 3166-2;1;1;from
+Q427658;Atyrau Region;категория на Викискладе;1;1;from
+Q427658;Atyrau Region;код автомобильного номера;1;1;from
+Q427658;Atyrau Region;столица;1;1;from
+Q427658;Atyrau Region;это частный случай понятия;1;1;from
+Q427658;Atyrau Region;карта местонахождения;1;1;from
+Q238931;Mangystau Region;место смерти;1;9;to
+Q238931;Mangystau Region;официальный сайт;1;1;from
+Q238931;Mangystau Region;FIPS 10-4 (страны и регионы);1;1;from
+Q238931;Mangystau Region;основная категория по теме;1;1;from
+Q238931;Mangystau Region;административно делится на;1;1;to
+Q238931;Mangystau Region;категория объединяет темы;1;4;to
+Q238931;Mangystau Region;место рождения;1;20;to
+Q238931;Mangystau Region;является столицей;1;1;to
+Q427658;Atyrau Region;код GND;1;1;from
+Q238931;Mangystau Region;юрисдикция распространяется на;1;1;to
+Q238931;Mangystau Region;общая тема категории;1;1;to
+Q427658;Atyrau Region;административно-территориальная единица;1;24;to
+Q427658;Atyrau Region;государство;1;1;from
+Q427658;Atyrau Region;изображение;1;1;from
+Q427658;Atyrau Region;код VIAF;1;1;from
+Q186466;Almaty Region;административно делится на;1;1;to
+Q186466;Almaty Region;основная категория по теме;1;1;from
+Q485429;Karaganda Region;столица;1;1;from
+Q36156;East Kazakhstan Region;является столицей;1;1;to
+Q36156;East Kazakhstan Region;категория на Викискладе;1;1;from
+Q36156;East Kazakhstan Region;ID отношения в OpenStreetMap;1;1;from
+Q36156;East Kazakhstan Region;часовой пояс;1;1;from
+Q36156;East Kazakhstan Region;дата основания/создания/возникновения;1;1;from
+Q36156;East Kazakhstan Region;географические координаты;1;1;from
+Q36156;East Kazakhstan Region;код Freebase;1;1;from
+Q36156;East Kazakhstan Region;Who's on First ID;1;1;from
+Q36156;East Kazakhstan Region;официальный сайт;1;1;from
+Q36156;East Kazakhstan Region;FIPS 10-4 (страны и регионы);1;1;from
+Q36156;East Kazakhstan Region;основная категория по теме;1;1;from
+Q36156;East Kazakhstan Region;баннер Викигида;1;1;from
+Q36156;East Kazakhstan Region;место в MusicBrainz;1;1;from
+Q36156;East Kazakhstan Region;административно делится на;1;1;to
+Q36156;East Kazakhstan Region;место рождения;1;71;to
+Q36156;East Kazakhstan Region;место смерти;1;7;to
+Q36156;East Kazakhstan Region;ISO 3166-2;1;1;from
+Q36156;East Kazakhstan Region;почтовый индекс;1;1;from
+Q36156;East Kazakhstan Region;площадь;1;1;from
+Q36156;East Kazakhstan Region;изображение герба;1;1;from
+Q36156;East Kazakhstan Region;изображение;1;1;from
+Q36156;East Kazakhstan Region;карта местонахождения;1;1;from
+Q36156;East Kazakhstan Region;это частный случай понятия;1;1;from
+Q36156;East Kazakhstan Region;столица;1;1;from
+Q36156;East Kazakhstan Region;имеет границы с;1;4;to
+Q36156;East Kazakhstan Region;глава правительства;1;1;from
+Q36156;East Kazakhstan Region;численность населения;1;1;from
+Q36156;East Kazakhstan Region;высота над уровнем моря;1;1;from
+Q36156;East Kazakhstan Region;категория для людей, родившихся здесь;1;1;from
+Q36156;East Kazakhstan Region;категория для людей, умерших здесь;1;1;from
+Q36156;East Kazakhstan Region;код GeoNames;1;1;from
+Q36156;East Kazakhstan Region;код TGN;1;1;from
+Q36156;East Kazakhstan Region;название на языке оригинала;1;1;from
+Q36156;East Kazakhstan Region;категория для людей, связанных с местностью;1;1;from
+Q36156;East Kazakhstan Region;категория объединяет темы;1;7;to
+Q36156;East Kazakhstan Region;типовая местность (геология);1;1;to
+Q186466;Almaty Region;FIPS 10-4 (страны и регионы);1;1;from
+Q36156;East Kazakhstan Region;находится в границах современной административной единицы;1;1;to
+Q186466;Almaty Region;категория для людей, связанных с местностью;1;1;from
+Q186466;Almaty Region;высота над уровнем моря;1;1;from
+Q186466;Almaty Region;площадь;1;1;from
+Q186466;Almaty Region;почтовый индекс;1;1;from
+Q186466;Almaty Region;ISO 3166-2;1;1;from
+Q186466;Almaty Region;категория на Викискладе;1;1;from
+Q186466;Almaty Region;код автомобильного номера;1;3;from
+Q186466;Almaty Region;ID отношения в OpenStreetMap;1;1;from
+Q186466;Almaty Region;часовой пояс;1;1;from
+Q186466;Almaty Region;местный телефонный код;1;2;from
+Q186466;Almaty Region;дата основания/создания/возникновения;1;1;from
+Q186466;Almaty Region;географические координаты;1;1;from
+Q186466;Almaty Region;код Freebase;1;1;from
+Q186466;Almaty Region;Who's on First ID;1;1;from
+Q186466;Almaty Region;официальный сайт;1;1;from
+Q186466;Almaty Region;категория для людей, похороненных здесь;1;1;from
+Q186466;Almaty Region;название на языке оригинала;1;1;from
+Q186466;Almaty Region;код GeoNames;1;1;from
+Q186466;Almaty Region;столица;1;2;from
+Q36156;East Kazakhstan Region;общая тема категории;1;1;to
+Q186466;Almaty Region;административно-территориальная единица;1;107;to
+Q186466;Almaty Region;государство;1;3;from
+Q186466;Almaty Region;изображение;1;1;from
+Q186466;Almaty Region;карта местонахождения;1;1;from
+Q186466;Almaty Region;это частный случай понятия;1;1;from
+Q186466;Almaty Region;имеет границы с;1;3;to
+Q186466;Almaty Region;категория для людей, умерших здесь;1;1;from
+Q186466;Almaty Region;глава правительства;1;1;from
+Q186466;Almaty Region;изображение герба;1;1;from
+Q186466;Almaty Region;численность населения;1;1;from
+Q186466;Almaty Region;код в Большой каталанской энциклопедии;1;1;from
+Q186466;Almaty Region;официальное название;1;3;from
+Q186466;Almaty Region;категория для людей, родившихся здесь;1;1;from
+Q427658;Atyrau Region;ID отношения в OpenStreetMap;1;1;from
+Q427658;Atyrau Region;часовой пояс;1;1;from
+Q427658;Atyrau Region;дата основания/создания/возникновения;1;1;from
+Q485322;Kyzylorda Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q485088;North Kazakhstan Region;является столицей;1;1;to
+Q485088;North Kazakhstan Region;общая тема категории;1;1;to
+Q485322;Kyzylorda Region;административно-территориальная единица;1;20;to
+Q485322;Kyzylorda Region;полученные награды;1;1;from
+Q485322;Kyzylorda Region;государство;1;1;from
+Q485322;Kyzylorda Region;изображение;1;1;from
+Q485322;Kyzylorda Region;код VIAF;1;1;from
+Q485322;Kyzylorda Region;код GND;1;1;from
+Q485322;Kyzylorda Region;карта местонахождения;1;1;from
+Q485322;Kyzylorda Region;это частный случай понятия;1;1;from
+Q485322;Kyzylorda Region;столица;1;1;from
+Q485322;Kyzylorda Region;имеет границы с;1;2;to
+Q485322;Kyzylorda Region;глава правительства;1;1;from
+Q485322;Kyzylorda Region;изображение герба;1;1;from
+Q485322;Kyzylorda Region;численность населения;1;1;from
+Q485088;North Kazakhstan Region;состоит из;1;1;to
+Q485088;North Kazakhstan Region;категория объединяет темы;1;6;to
+Q485088;North Kazakhstan Region;место смерти;1;6;to
+Q485088;North Kazakhstan Region;дата основания/создания/возникновения;1;1;from
+Q485088;North Kazakhstan Region;ISO 3166-2;1;1;from
+Q485088;North Kazakhstan Region;категория на Викискладе;1;1;from
+Q485088;North Kazakhstan Region;код автомобильного номера;1;2;from
+Q485088;North Kazakhstan Region;ID отношения в OpenStreetMap;1;1;from
+Q485088;North Kazakhstan Region;часовой пояс;1;1;from
+Q485088;North Kazakhstan Region;местный телефонный код;1;1;from
+Q485088;North Kazakhstan Region;географические координаты;1;1;from
+Q485088;North Kazakhstan Region;место рождения;1;38;to
+Q485088;North Kazakhstan Region;код Freebase;1;1;from
+Q485088;North Kazakhstan Region;Who's on First ID;1;1;from
+Q485088;North Kazakhstan Region;официальный сайт;1;1;from
+Q485088;North Kazakhstan Region;FIPS 10-4 (страны и регионы);1;1;from
+Q485088;North Kazakhstan Region;основная категория по теме;1;1;from
+Q485088;North Kazakhstan Region;административно делится на;1;1;to
+Q485322;Kyzylorda Region;описывается в источниках;1;2;from
+Q485322;Kyzylorda Region;официальное название;1;2;from
+Q427658;Atyrau Region;географические координаты;1;1;from
+Q485322;Kyzylorda Region;категория для людей, родившихся здесь;1;1;from
+Q485322;Kyzylorda Region;административно делится на;1;1;to
+Q485322;Kyzylorda Region;место рождения;1;92;to
+Q485322;Kyzylorda Region;место смерти;1;4;to
+Q485322;Kyzylorda Region;категория объединяет темы;1;5;to
+Q485322;Kyzylorda Region;анклав в;1;1;to
+Q485322;Kyzylorda Region;является столицей;1;1;to
+Q485322;Kyzylorda Region;общая тема категории;1;1;to
+Q485322;Kyzylorda Region;основная тема;1;1;to
+Q485429;Karaganda Region;административно-территориальная единица;1;74;to
+Q485429;Karaganda Region;государство;1;1;to
+Q485429;Karaganda Region;изображение;1;1;from
+Q485429;Karaganda Region;код VIAF;1;1;from
+Q485429;Karaganda Region;код GND;1;1;from
+Q485429;Karaganda Region;карта местонахождения;1;1;from
+Q485429;Karaganda Region;это частный случай понятия;1;1;from
+Q485322;Kyzylorda Region;место в MusicBrainz;1;1;from
+Q485322;Kyzylorda Region;основная категория по теме;1;1;from
+Q485322;Kyzylorda Region;FIPS 10-4 (страны и регионы);1;1;from
+Q485322;Kyzylorda Region;категория на Викискладе;1;1;from
+Q485322;Kyzylorda Region;категория для людей, умерших здесь;1;1;from
+Q485322;Kyzylorda Region;код GeoNames;1;1;from
+Q485322;Kyzylorda Region;категория для людей, связанных с местностью;1;1;from
+Q485322;Kyzylorda Region;площадь;1;1;from
+Q485322;Kyzylorda Region;почтовый индекс;1;1;from
+Q485322;Kyzylorda Region;ISO 3166-2;1;1;from
+Q485322;Kyzylorda Region;код автомобильного номера;1;1;from
+Q485322;Kyzylorda Region;официальный сайт;1;1;from
+Q485322;Kyzylorda Region;ID отношения в OpenStreetMap;1;1;from
+Q485322;Kyzylorda Region;часовой пояс;1;1;from
+Q485322;Kyzylorda Region;дата основания/создания/возникновения;1;1;from
+Q485322;Kyzylorda Region;географические координаты;1;1;from
+Q485322;Kyzylorda Region;код Freebase;1;1;from
+Q485322;Kyzylorda Region;Who's on First ID;1;1;from
+Q485088;North Kazakhstan Region;почтовый индекс;1;1;from
+Q485088;North Kazakhstan Region;площадь;1;1;from
+Q485088;North Kazakhstan Region;категория для людей, связанных с местностью;1;1;from
+Q485088;North Kazakhstan Region;название на языке оригинала;1;1;from
+Q485056;Akmola Region;имеет границы с;1;6;to
+Q485056;Akmola Region;глава правительства;1;5;from
+Q485056;Akmola Region;изображение герба;1;1;from
+Q485056;Akmola Region;численность населения;1;1;from
+Q485056;Akmola Region;код в Большой каталанской энциклопедии;1;1;from
+Q485056;Akmola Region;описывается в источниках;1;3;from
+Q485056;Akmola Region;официальное название;1;5;from
+Q485056;Akmola Region;категория для людей, родившихся здесь;1;1;from
+Q485056;Akmola Region;категория для людей, умерших здесь;1;1;from
+Q485056;Akmola Region;код GeoNames;1;1;from
+Q485056;Akmola Region;подробная карта;1;1;from
+Q485056;Akmola Region;название на языке оригинала;1;1;from
+Q485056;Akmola Region;категория для людей, связанных с местностью;1;1;from
+Q485056;Akmola Region;код GAMEO;1;1;from
+Q485056;Akmola Region;площадь;1;1;from
+Q485056;Akmola Region;столица;1;2;from
+Q485056;Akmola Region;это частный случай понятия;1;1;from
+Q485056;Akmola Region;карта местонахождения;1;1;from
+Q427658;Atyrau Region;административно делится на;1;1;to
+Q427658;Atyrau Region;код Freebase;1;1;from
+Q427658;Atyrau Region;Who's on First ID;1;1;from
+Q427658;Atyrau Region;официальный сайт;1;1;from
+Q427658;Atyrau Region;FIPS 10-4 (страны и регионы);1;1;from
+Q427658;Atyrau Region;основная категория по теме;1;1;from
+Q427658;Atyrau Region;место в MusicBrainz;1;1;from
+Q427658;Atyrau Region;место смерти;1;21;to
+Q485056;Akmola Region;изображение;1;1;from
+Q427658;Atyrau Region;место рождения;1;97;to
+Q427658;Atyrau Region;категория объединяет темы;1;6;to
+Q427658;Atyrau Region;является столицей;1;1;to
+Q427658;Atyrau Region;общая тема категории;1;1;to
+Q485056;Akmola Region;административно-территориальная единица;1;45;to
+Q485056;Akmola Region;государство;1;3;from
+Q485056;Akmola Region;почтовый индекс;1;1;from
+Q485056;Akmola Region;ISO 3166-2;1;1;from
+Q485056;Akmola Region;категория на Викискладе;1;1;from
+Q485088;North Kazakhstan Region;имеет границы с;1;6;to
+Q485088;North Kazakhstan Region;административно-территориальная единица;1;28;to
+Q485088;North Kazakhstan Region;государство;1;3;from
+Q485088;North Kazakhstan Region;изображение;1;1;from
+Q485088;North Kazakhstan Region;карта местонахождения;1;1;from
+Q485088;North Kazakhstan Region;это частный случай понятия;1;1;from
+Q485088;North Kazakhstan Region;столица;1;1;from
+Q485088;North Kazakhstan Region;глава правительства;1;1;from
+Q485056;Akmola Region;общая тема категории;1;1;to
+Q485088;North Kazakhstan Region;изображение герба;1;1;from
+Q485088;North Kazakhstan Region;численность населения;1;1;from
+Q485088;North Kazakhstan Region;официальное название;1;1;from
+Q485088;North Kazakhstan Region;категория для людей, родившихся здесь;1;1;from
+Q485088;North Kazakhstan Region;категория для людей, умерших здесь;1;1;from
+Q485088;North Kazakhstan Region;код GeoNames;1;1;from
+Q485056;Akmola Region;анклав в;1;1;to
+Q485056;Akmola Region;является столицей;1;2;to
+Q485056;Akmola Region;код автомобильного номера;1;3;from
+Q485056;Akmola Region;Who's on First ID;1;1;from
+Q485056;Akmola Region;ID отношения в OpenStreetMap;1;1;from
+Q485056;Akmola Region;часовой пояс;1;1;from
+Q485056;Akmola Region;местный телефонный код;1;1;from
+Q485056;Akmola Region;дата основания/создания/возникновения;1;1;from
+Q485056;Akmola Region;географические координаты;1;1;from
+Q485056;Akmola Region;код Freebase;1;1;from
+Q485056;Akmola Region;официальный сайт;1;1;from
+Q485056;Akmola Region;категория объединяет темы;1;6;to
+Q485056;Akmola Region;FIPS 10-4 (страны и регионы);1;1;from
+Q485056;Akmola Region;основная категория по теме;1;1;from
+Q485056;Akmola Region;место в MusicBrainz;1;1;from
+Q485056;Akmola Region;административно делится на;1;1;to
+Q485056;Akmola Region;место рождения;1;64;to
+Q485056;Akmola Region;место смерти;1;6;to
+Q1586591;Turgay Oblast;является столицей;1;1;to

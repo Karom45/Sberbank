@@ -1,0 +1,3919 @@
+﻿entity;label
+Q10909;Interchange Chemnitz
+Q10913;Schkeuditzer Kreuz
+Q64596;Q64596
+Q115514;Kumano-Odomari interchange
+Q115526;Kumano-Atashika interchange
+Q138482;Croix de Gasperich
+Q154259;Kreuz Frankenthal
+Q154261;Kreuz Feuchtwangen/Crailsheim
+Q166958;Aga interchange
+Q166962;Shimominaga-Fukumoto interchange
+Q166969;Kurose interchange
+Q166988;Kamiminaga interchange
+Q166994;Umaki interchange
+Q167025;Gohara interchange
+Q167034;Tetteh Quarshie Interchange
+Q168428;interchange Hockenheim
+Q176520;Q176520
+Q179203;Q179203
+Q181355;Fukuda exit
+Q181706;Q181706
+Q181833;Q181833
+Q195574;Q195574
+Q203931;Kreuz Bliesheim
+Q212012;Q212012
+Q217693;Q217693
+Q217701;Q217701
+Q217754;Tenno-higashi interchange
+Q217757;Q217757
+Q217758;Saka-kita interchange
+Q217890;Q217890
+Q217965;Q217965
+Q217971;Kure interchange
+Q218133;Tenno-nishi interchange
+Q218144;Saka-minami interchange
+Q218145;Q218145
+Q273308;Loncin Interchange
+Q273313;Tournai Interchange
+Q276986;Q276986
+Q277774;Q277774
+Q328561;Bremer Kreuz
+Q328569;Q328569
+Q328576;interchange Walsrode
+Q336742;Q336742
+Q336748;Q336748
+Q369020;Kreuz Osnabrück-Süd
+Q377299;Neufahrner Kreuz
+Q404272;Q404272
+Q454093;Kamener Kreuz
+Q472826;Kreuz Bonn/Siegburg
+Q476176;Wiesbadener Kreuz
+Q499686;Q499686
+Q499693;Autobahnkreuz München-Süd
+Q514490;Q514490
+Q545000;Q545000
+Q569360;Q569360
+Q569361;Q569361
+Q581855;Q581855
+Q598820;Leonberg highway triangle
+Q613899;Central Motorway Junction
+Q653245;Maebara interchange
+Q655796;Frankfurter Kreuz
+Q658712;Croix de Cessange
+Q659507;Q659507
+Q673838;Q673838
+Q746349;Autobahnkreuz Bielefeld
+Q785490;Dreieck Ahlhorner Heide
+Q785493;Dreieck Bad Dürrheim
+Q785499;Dreieck Bayerisches Vogtland
+Q785501;Dreieck Bottrop
+Q785505;Dreieck Bunde
+Q785536;Dreieck Hochfranken
+Q785540;Q785540
+Q785553;Dreieck Karlsruhe
+Q785559;interchange Kreuz Uckermark
+Q785562;Q785562
+Q785568;Q785568
+Q785570;Q785570
+Q785579;Interchange Nonnweiler
+Q785585;Autobahndreieck Nürnberg/Feucht
+Q785600;Q785600
+Q785602;Q785602
+Q785608;Autobahnkreuz Schwerin
+Q785612;Autobahndreieck Spreeau
+Q785618;Dreieck Stuhr
+Q785624;Interchange Vulkaneifel
+Q785641;Q785641
+Q785654;Q785654
+Q785672;Q785672
+Q785676;Q785676
+Q785683;interchange Aachen
+Q785687;Łódź Północ motorway interchange
+Q785689;Q785689
+Q785693;Q785693
+Q785695;Q785695
+Q785705;Kreuz Biebelried
+Q785723;Kreuz Bochum/Witten
+Q785725;Kreuz Bochum
+Q785738;Kreuz Castrop-Rauxel-Ost
+Q785739;Interchange Breitscheid
+Q785742;Kreuz Dortmund/Unna
+Q785748;interchange Dortmund-Nordwest
+Q785749;Kreuz Dortmund-West
+Q785752;Interchange Dortmund/Witten
+Q785754;Kreuz Erfurt
+Q785758;Q785758
+Q785766;Kreuz Hannover-Ost
+Q785768;Kreuz Heidelberg
+Q785769;Kreuz Hegau
+Q785774;Kreuz Herne
+Q785781;Kreuz Hilden
+Q785785;Kreuz Kassel-Mitte
+Q785787;Kreuz Kaiserberg
+Q785789;Q785789
+Q785792;Kreuz Koblenz
+Q785797;Q785797
+Q785799;Q785799
+Q785803;Q785803
+Q785804;Q785804
+Q785809;Q785809
+Q785814;Autobahnkreuz Leverkusen-West
+Q785818;Q785818
+Q785819;Kreuz Leverkusen
+Q785820;Q785820
+Q785825;Q785825
+Q785830;Interchange Mainz-Süd
+Q785831;Q785831
+Q785832;Q785832
+Q785836;Q785836
+Q785839;Interchange Memmingen
+Q785846;Q785846
+Q785852;Q785852
+Q785855;Q785855
+Q785859;Kreuz Nürnberg
+Q785861;Kreuz Neunkirchen
+Q785867;Interchange Oberhausen
+Q785872;Q785872
+Q785873;Q785873
+Q785874;Q785874
+Q785884;Q785884
+Q785887;Autobahnkreuz Ratingen-Ost
+Q785889;Q785889
+Q785892;Q785892
+Q785900;Kreuz Rostock
+Q785904;Interchange Schweinfurt/Werneck
+Q785906;Q785906
+Q785911;Autobahnkreuz Schöneberg
+Q785921;Kreuz Stuttgart
+Q785922;Q785922
+Q785926;Q785926
+Q785929;Kreuz Werl
+Q785938;Autobahnkreuz Wilmersdorf
+Q785940;Autobahnkreuz Wismar
+Q785942;Wetzlarer Kreuz
+Q785944;Kreuz Wittlich
+Q785946;Q785946
+Q785950;Q785950
+Q785953;Q785953
+Q785955;Q785955
+Q798713;Q798713
+Q805985;Alemany Maze
+Q805989;East Los Angeles Interchange
+Q805990;El Toro Y
+Q805998;Four Level Interchange
+Q806002;Hollywood Split
+Q806003;Judge Harry Pregerson Interchange
+Q806018;Kellogg Interchange
+Q806044;Los Alamitos Circle
+Q806051;Newhall Pass interchange
+Q806055;Orange Crush interchange
+Q806056;West Bakersfield Interchange
+Q806057;Wheeler Ridge Interchange
+Q807888;Mini Stack
+Q807899;The Stack
+Q807911;SuperRedTan Interchange
+Q839127;Marquette Interchange
+Q841636;Zoo Interchange
+Q861767;Q861767
+Q861826;Q861826
+Q862164;Q862164
+Q862171;Q862171
+Q862182;Q862182
+Q867637;Newark Airport Interchange
+Q872999;Q872999
+Q888160;Ogori interchange
+Q888163;Q888163
+Q888167;Hatsukaichi interchange
+Q888177;Q888177
+Q888322;Sue interchange
+Q888331;Obara interchange
+Q888451;Q888451
+Q888855;Hiroshima-seifushinto interchange
+Q888864;Kagawa interchange
+Q888870;Natajima interchange
+Q888873;Harajo interchange
+Q888874;Otake interchange
+Q888875;Hiroshima-kita interchange
+Q892693;Spaghetti Bowl
+Q938313;Gouy Interchange
+Q1033300;Q1033300
+Q1034851;Circle Interchange
+Q1092570;Hamada interchange
+Q1092861;Okanotsuji interchange
+Q1092869;Edo interchange
+Q1092882;Ryutsu center interchange
+Q1092891;Mizuho interchange
+Q1092894;Akiyoshidai interchange
+Q1092900;Ōda Interchange
+Q1092913;Katakura interchange
+Q1092922;Ajisu interchange
+Q1093257;Yura interchange
+Q1093261;Oasa interchange
+Q1093268;Jumonji interchange
+Q1093288;Asada interchange
+Q1093297;Ube-minami interchange
+Q1093307;Asahi interchange
+Q1093317;Nagatani interchange
+Q1093325;Ube-higashi interchange
+Q1104146;Suwon Interchange
+Q1151435;Higashiizumo interchange
+Q1151444;Daiei-Tohaku interchange
+Q1151451;Chikuya interchange
+Q1151459;Hawai interchange
+Q1151467;Kotoura-Senjosan interchange
+Q1151470;Daisen interchange
+Q1151475;Yonago-higashi interchange
+Q1151483;Yodoe interchange
+Q1151488;Hamamura-Kano Onsen interchange
+Q1151630;Akasaki-Nakayama interchange
+Q1151632;Hinogawa-higashi interchange
+Q1151638;Nawa interchange
+Q1151647;Yada interchange
+Q1151660;Yonago-minami interchange
+Q1151672;Mizuho-Takaragi interchange
+Q1151678;Kotoura-higashi interchange
+Q1151681;Tottori-nishi interchange
+Q1151690;Matsue-chuo interchange
+Q1151698;Matsue-higashi interchange
+Q1151703;Yonago-nishi interchange
+Q1151707;Hojo interchange
+Q1151713;Yoshioka-onsen interchange
+Q1151720;Yasugi interchange
+Q1151962;Tomari-Togo interchange
+Q1151966;Aoya interchange
+Q1165668;Antwerp-North Interchange
+Q1166479;Darmstädter Kreuz
+Q1186621;Tota interchange
+Q1186648;Hagi-Iwami airport interchange
+Q1186657;Izumo interchange
+Q1186667;Sanmi interchange
+Q1186672;Shinji interchange
+Q1186686;Akeishi interchange
+Q1186705;Gotsu interchange
+Q1186725;Aioi interchange
+Q1186731;Hamada-higashi interchange
+Q1186737;Gotsu-nishi interchange
+Q1186752;Suko interchange
+Q1186758;Takatsu interchange
+Q1186764;Hikawa interchange
+Q1186779;Harai interchange
+Q1186788;Takezako interchange
+Q1186792;Kushiro interchange
+Q1186799;Matsue-Tamatsukuri interchange
+Q1186812;Hamadako interchange
+Q1186823;Matsue-nishi interchange
+Q1186832;Misumi interchange
+Q1187110;Hagi interchange
+Q1281147;Echterdinger Ei
+Q1418081;Knoten Steinhäusl
+Q1443578;Q1443578
+Q1492876;Gambacher Kreuz
+Q1523477;Q1523477
+Q1574865;Shinmoji interchange
+Q1575395;Kurate interchange
+Q1575451;Mojiko interchange
+Q1575719;Moji interchange
+Q1575734;Dazaifu interchange
+Q1575744;Kokura-minami interchange
+Q1575759;Fukuoka interchange
+Q1575782;Wakamiya interchange
+Q1575803;Chikushino interchange
+Q1576892;Kokura-higashi interchange
+Q1577981;Koga interchange
+Q1577995;Yahata interchange
+Q1588984;Q1588984
+Q1613664;Hermsdorfer Kreuz
+Q1616484;Q1616484
+Q1646115;Interchanges in Pennsylvania
+Q1654369;Kagoshima interchange
+Q1654376;Satsuma-Yoshida interchange
+Q1654393;Yame interchange
+Q1654414;Ueki interchange
+Q1654760;Yatsushiro interchange
+Q1655039;Mifune interchange
+Q1655087;Kumamoto interchange
+Q1655196;Miyama-Yanagawa interchange
+Q1655216;Nankan interchange
+Q1655248;Mashiki-kumamotokuko interchange
+Q1655255;Hirokawa interchange
+Q1655265;Kikusui interchange
+Q1655273;Aira interchange
+Q1655282;Kurino interchange
+Q1655290;Mizobe-Kagoshimakuko interchange
+Q1655302;Yokogawa interchange
+Q1655312;Kurume interchange
+Q1655737;Kagoshima-kita interchange
+Q1656444;Hitoyoshi interchange
+Q1656856;Matsuhashi interchange
+Q1777460;Knoten St. Pölten
+Q1788118;Q1788118
+Q1798931;Sonnborner Kreuz
+Q1807288;Q1807288
+Q1814087;Q1814087
+Q1815755;Ville-sur-Haine Interchange
+Q1817153;Klaverpolder interchange
+Q1819035;Thiméon Interchange
+Q1827136;Q1827136
+Q1828981;De Poel interchange
+Q1835729;Croix de Bettembourg
+Q1840820;Q1840820
+Q1841567;Q1841567
+Q1842916;Deil interchange
+Q1863217;Q1863217
+Q1864986;De Baars interchange
+Q1874519;Q1874519
+Q1884187;Heverlee Interchange
+Q1885232;Kleinpolderplein
+Q1885666;Q1885666
+Q1893222;Antwerp-South Interchange
+Q1898130;Q1898130
+Q1899026;Q1899026
+Q1907645;Poznań Krzesiny motorway interchange
+Q1911510;Q1911510
+Q1916676;Oud-Dijk interchange
+Q1920280;Nørresundby Centrum interchange
+Q1920598;Strombeek-Bever Interchange
+Q1926020;Vught interchange
+Q1941509;Avedøre interchange
+Q1944090;Heerenveen interchange
+Q1947664;Q1947664
+Q1948197;Vendsyssel interchange
+Q1949332;Offenbacher Kreuz
+Q1955146;Prins Clausplein
+Q1955786;Q1955786
+Q1955905;Q1955905
+Q1955938;Q1955938
+Q1956015;Kongō exit
+Q1956042;Q1956042
+Q1956059;Q1956059
+Q1956075;Dairi exit
+Q1956097;Adachi interchange
+Q1956489;Q1956489
+Q1958348;Haruhi exit
+Q1960738;Århus Nord interchange
+Q1961511;Kongens Lyngby interchange
+Q1963856;Highway junction Hanover south
+Q1964239;Eemnes interchange
+Q1968255;Q1968255
+Q1972767;Sabina interchange
+Q1973393;Q1973393
+Q1976601;Q1976601
+Q1977600;Kruez Braunschweig-Süd
+Q1988368;IJmuiden interchange
+Q1994825;Wilhelmshavener Kreuz
+Q1998886;Århus Vest interchange
+Q2001599;Valburg interchange
+Q2004877;Zoomland interchange
+Q2016145;Q2016145
+Q2018854;Heppignies Interchange
+Q2023819;Azelo Interchange
+Q2041437;Holendrecht interchange
+Q2049966;Ten Esschen interchange
+Q2050670;Rottepolderplein
+Q2052208;Q2052208
+Q2059157;Leenderheide interchange
+Q2060971;Beaufays interchange
+Q2067538;Hattemerbroek interchange
+Q2069017;Kolding Vest interchange
+Q2081674;Ypenburg interchange
+Q2083277;Merelbeke Interchange
+Q2085401;De Knoop
+Q2085563;Antwerp-East Interchange
+Q2089842;Q2089842
+Q2092158;Hoogeveen interchange
+Q2096832;Ishøj interchange
+Q2098852;Q2098852
+Q2107099;Noorderhoogebrug interchange
+Q2110070;Bois-d'Haine Interchange
+Q2111414;Q2111414
+Q2117395;Oudenrijn interchange
+Q2120487;Q2120487
+Q2121601;Kreuz Bonn-Nord
+Q2124122;Q2124122
+Q2131608;Dreieck Bonn-Nordost
+Q2133480;Galder interchange
+Q2134455;Q2134455
+Q2139109;Q2139109
+Q2142468;Grijsoord interchange
+Q2144424;Rødovre interchange
+Q2150782;Q2150782
+Q2156294;Groot-Bijgaarden Interchange
+Q2156860;Fredericia interchange
+Q2159663;Burgerveen interchange
+Q2170582;Q2170582
+Q2172092;Empel interchange
+Q2177336;Kethelplein
+Q2178135;Q2178135
+Q2179633;Knooppunt De Nieuwe Meer
+Q2179884;Q2179884
+Q2182219;Wilrijk-Valaar Interchange
+Q2185727;Poznań-Zachód motorway intersection
+Q2187072;Q2187072
+Q2188173;Sint-Stevens-Woluwe Interchange
+Q2192574;Europaplein junction
+Q2194266;Brøndby interchange
+Q2195157;Hoevelaken interchange
+Q2195771;Ewijk interchange
+Q2198083;Q2198083
+Q2198755;Vottem Interchange
+Q2199640;Q2199640
+Q2201439;Q2201439
+Q2201897;Q2201897
+Q2202030;Ghent-Centre Interchange
+Q2203849;Marcinelle Interchange
+Q2206294;Emmeloord interchange
+Q2216302;Q2216302
+Q2216777;Q2216777
+Q2223298;Benelux Interchange
+Q2234828;Q2234828
+Q2250967;Big I
+Q2251561;Odense interchange
+Q2257062;Q2257062
+Q2258095;Q2258095
+Q2258134;Q2258134
+Q2258144;Q2258144
+Q2258189;Wangan-Narashino interchange
+Q2258206;Q2258206
+Q2258218;Q2258218
+Q2258230;Q2258230
+Q2259021;Q2259021
+Q2259037;Yokoshiro exit
+Q2259049;Q2259049
+Q2259057;Interchange Schönefeld
+Q2259093;Q2259093
+Q2260018;Nagano exit
+Q2260037;Q2260037
+Q2260463;Kreuz Bamberg
+Q2265255;Q2265255
+Q2270486;Aalborg Syd interchange
+Q2272533;Lummen Interchange
+Q2272569;Grâce-Hollogne Interchange
+Q2278230;Vaanplein
+Q2279632;Cerexhe interchange
+Q2280687;Q2280687
+Q2292451;Bocholtz junction
+Q2293193;Buren interchange
+Q2298326;Kreuz Hagen
+Q2300168;Watergraafsmeer interchange
+Q2303492;Jemappes Interchange
+Q2307825;De Stok interchange
+Q2307918;Destelbergen Interchange
+Q2308780;Q2308780
+Q2310811;Charleroi-South Interchange
+Q2312471;Kreuz Hannover/Kirchhorst
+Q2319047;Aalborg Nord interchange
+Q2323261;Q2323261
+Q2324323;Lunetten interchange
+Q2329882;Zaarderheiken interchange
+Q2329889;Q2329889
+Q2335911;Hautrage Interchange
+Q2342889;Q2342889
+Q2353262;Q2353262
+Q2356146;Q2356146
+Q2357795;Velsen interchange
+Q2361137;Coenplein
+Q2367146;Q2367146
+Q2368784;Usa interchange
+Q2368798;Innai interchange
+Q2368803;Miyako-Toyotsu interchange
+Q2368813;Kanda-Kitakyushukuko interchange
+Q2368827;Buzen interchange
+Q2369691;Tsuiki interchange
+Q2369719;Shiida-minami interchange
+Q2369745;Yukuhashi interchange
+Q2369759;Nakatsu interchange
+Q2370369;Shiida interchange
+Q2372758;Herning interchange
+Q2378276;Krzyżowa motorway interchange
+Q2384071;Charleroi-North Interchange
+Q2384652;Kortrijk-West Interchange
+Q2389738;Q2389738
+Q2391694;Q2391694
+Q2393887;Q2393887
+Q2396630;Aalborg Centrum interchange
+Q2406010;Interchange Duisburg-Süd
+Q2408738;Harnasch interchange
+Q2409836;Beekbergen interchange
+Q2411846;Hintham interhange
+Q2416873;Herning Syd interchange
+Q2421353;Taastrup interchange
+Q2425521;Q2425521
+Q2429367;Q2429367
+Q2430428;Waterberg interchange
+Q2438409;Maanderbroek interchange
+Q2446617;Diemen interchange
+Q2453429;Kolding interchange
+Q2455030;Springfield Interchange
+Q2458972;Kleine bareel
+Q2465779;Q2465779
+Q2465938;Hooipolder interchange
+Q2466108;Sint-Annabosch interchange
+Q2469575;Moorsele Interchange
+Q2470034;Ekkersweijer interchange
+Q2475700;Q2475700
+Q2476262;Werpsterhoek interchange
+Q2478863;Middelburg-Oost junction
+Q2479854;Kreuz Hamburg-Ost
+Q2481168;Dreieck Hannover-Nord
+Q2486751;Zonzeel interchange
+Q2489365;Vallensbæk interchange
+Q2489403;Zwijnaarde Interchange
+Q2493460;Oita interchange
+Q2493463;Kamae-Hatozu interchange
+Q2493494;Oita-mera interchange
+Q2493496;Kitaura interchange
+Q2493503;Oita-mitsuyoshi interchange
+Q2493509;Ajimu interchange
+Q2493518;Kitagawa interchange
+Q2493522;Saiki-Katata interchange
+Q2493528;Hayami interchange
+Q2493548;Nobeoka interchange
+Q2493550;Sumie interchange
+Q2493573;Nobeoka-minami interchange
+Q2493595;Tsukumi interchange
+Q2494054;Oita-nogyo-bunka-koen interchange
+Q2494066;Saiki interchange
+Q2494079;Oita-Miyagawauchi interchange
+Q2494089;Usuki interchange
+Q2494100;Kamae interchange
+Q2498593;Amstel Interchange
+Q2504328;High Five Interchange
+Q2504470;Gorinchem interchange
+Q2511013;Q2511013
+Q2514240;Q2514240
+Q2514325;Jabbeke Interchange
+Q2536024;De Hoek interchange
+Q2547296;Q2547296
+Q2565417;Westkreuz Frankfurt
+Q2566794;Q2566794
+Q2577985;Q2577985
+Q2580975;Brugge Interchange
+Q2591900;Badhoevedorp Interchange
+Q2597208;Everdingen interchange
+Q2600826;Velperbroek interchange
+Q2603671;Dreieck Hamburg-Nordwest
+Q2605823;Antwerpen-Haven interchange
+Q2615707;Houdeng-Gœgnies Interchange
+Q2615942;De Hogt interchange
+Q2622149;Kreuz Hannover-Buchholz
+Q2623929;Muiderberg interchange
+Q2625235;Neerbosch interchange
+Q2637011;Q2637011
+Q2638061;Paalgraven interchange
+Q2641052;Neufchâteau Interchange
+Q2644947;Q2644947
+Q2645916;Machelen Interchange
+Q2647828;Sueyoshi-Takarabe Interchange
+Q2647839;Kajiki interchange
+Q2647886;Takanabe interchange
+Q2647919;Kokubu interchange
+Q2647935;Hayato-higashi interchange
+Q2647946;Nogata interchange
+Q2647956;Kadogawa interchange
+Q2647987;Soo-Yagoro interchange
+Q2648010;Ichihara-Tsurumai interchange
+Q2648021;Nichinan-togo interchange
+Q2648334;Tsuno interchange
+Q2648357;Ōsaki interchange
+Q2648382;Kiyotake interchange
+Q2648388;Miyazaki-nishi interchange
+Q2648500;Shibushi interchange
+Q2648510;Hayato-nishi interchange
+Q2648529;Kiyotake-minami interchange
+Q2648539;Nichinan-kitago interchange
+Q2648562;Saito interchange
+Q2648935;Hyuga interchange
+Q2650314;Julianaplein
+Q2651517;Q2651517
+Q2656918;Q2656918
+Q2659404;Holsloot interchange
+Q2661014;Ridderkerk interchange
+Q2667729;Leonard Intersection
+Q2678075;Gouwe interchange
+Q2679387;Q2679387
+Q2679606;Skærup interchange
+Q2680721;Q2680721
+Q2682908;Westerlee interchange
+Q2683423;Rijnsweerd interchange
+Q2683756;Kreuz Oldenburg-Ost
+Q2691855;Q2691855
+Q2692587;Zurich interchange
+Q2695333;Q2695333
+Q2701434;Princeville interchange
+Q2720507;Marquain Interchange
+Q2728011;Daussoulx Interchange
+Q2743414;Q2743414
+Q2743419;Sadanomi interchange
+Q2743462;Q2743462
+Q2743478;Idoda interchange
+Q2743550;Mobara-kita interchange
+Q2743576;Yokkaichi interchange
+Q2743622;Inumaru interchange
+Q2743632;Q2743632
+Q2743641;Togane interchange
+Q2743728;Kisarazu-higashi interchange
+Q2743730;Mobara-Chonan interchange
+Q2751892;Haut-Ittre Interchange
+Q2771849;Hauts-Sarts Interchange
+Q2779096;Hellegatsplein
+Q2779555;Ngauranga Interchange
+Q2783440;Q2783440
+Q2783654;Q2783654
+Q2783665;Beppu interchange
+Q2783825;Aki interchange
+Q2785618;Q2785618
+Q2786809;Kruisdonk interchange
+Q2793091;Lindenholt junction
+Q2798681;Dreieck Hamburg-Südost
+Q2800756;Cheratte Interchange
+Q2834366;Noordhoek interchange
+Q2834846;Oshima-minami interchange
+Q2849927;Aalbeke Interchange
+Q2864267;Beveren Interchange
+Q2872933;Antwerp-West Interchange
+Q2902084;Q2902084
+Q2902087;Q2902087
+Q2915633;Ressen interchange
+Q2916244;Q2916244
+Q2920800;Dreieck Oldenburg-West
+Q2924611;Q2924611
+Q2925693;Tiglia interchange
+Q2940199;Q2940199
+Q2946311;Zaventem Interchange
+Q2954587;Rijkevoort interchange
+Q2964343;Markiezaat interchange
+Q2992683;Q2992683
+Q3078837;Ikawa-Ikeda interchange
+Q3118785;Q3118785
+Q3126290;Ei van Kortrijk
+Q3155467;Ouderkerk aan de Amstel interchange
+Q3195379;Battice Interchange
+Q3197676;Euvelgunne interchange
+Q3205426;Q3205426
+Q3262793;Q3262793
+Q3270458;Kinomoto interchange
+Q3270568;Nagahama interchange
+Q3297023;Q3297023
+Q3315971;Århus Syd interchange
+Q3386364;Familleureux Interchange
+Q3399120;Q3399120
+Q3415689;Almere Interchange
+Q3424533;Bankhoef interchange
+Q3538691;Q3538691
+Q3577382;Turcot Interchange
+Q3577383;Antwerp-Centre Interchange
+Q3577385;Q3577385
+Q3577386;Q3577386
+Q3577388;Q3577388
+Q3577389;Q3577389
+Q3577390;Q3577390
+Q3577391;Q3577391
+Q3577392;Q3577392
+Q3577393;Q3577393
+Q3577394;Q3577394
+Q3577395;Q3577395
+Q3656107;Q3656107
+Q3656113;Q3656113
+Q3658624;Q3658624
+Q3659418;Kasuya exit
+Q3866935;Q3866935
+Q3866937;Q3866937
+Q3866939;Q3866939
+Q3866942;Q3866942
+Q3866949;Q3866949
+Q3866958;Q3866958
+Q3916668;Q3916668
+Q3916721;Q3916721
+Q3916724;Q3916724
+Q3916727;Q3916727
+Q3922860;Q3922860
+Q4023983;Raasdorp interchange
+Q4281357;Q4281357
+Q4283280;Q4283280
+Q4284749;Q4284749
+Q4288212;Q4288212
+Q4290515;Q4290515
+Q4293577;Ekkersrijt junction
+Q4296004;Q4296004
+Q4297119;Q4297119
+Q4303099;Q4303099
+Q4304650;Batadorp interchange
+Q4309150;Q4309150
+Q4311058;Q4311058
+Q4316325;Q4316325
+Q4316913;Q4316913
+Q4326065;Q4326065
+Q4328350;Q4328350
+Q4329909;Q4329909
+Q4330035;Q4330035
+Q4337181;Q4337181
+Q4342093;Q4342093
+Q4343033;Q4343033
+Q4347420;Q4347420
+Q4348002;Q4348002
+Q4352646;Q4352646
+Q4358825;Q4358825
+Q4358851;Q4358851
+Q4358858;Q4358858
+Q4358881;Q4358881
+Q4364751;Q4364751
+Q4369648;Q4369648
+Q4372278;Q4372278
+Q4375968;Q4375968
+Q4379314;Q4379314
+Q4387557;Ranst Interchange
+Q4388161;Q4388161
+Q4388340;Uwajima-Sakashizu interchange
+Q4392824;Q4392824
+Q4402848;Q4402848
+Q4405309;Q4405309
+Q4426910;Q4426910
+Q4432143;Q4432143
+Q4433533;Q4433533
+Q4446954;Q4446954
+Q4453590;Q4453590
+Q4457886;Q4457886
+Q4467613;Q4467613
+Q4467769;Q4467769
+Q4472254;Q4472254
+Q4485246;Q4485246
+Q4488513;Q4488513
+Q4488980;Q4488980
+Q4503821;Q4503821
+Q4522979;Q4522979
+Q4534205;Q4534205
+Q4555769;Q4555769
+Q4560485;Q4560485
+Q4591861;Q4591861
+Q4604617;Q4604617
+Q4616246;Q4616246
+Q4636482;Q4636482
+Q4675369;Nopo IC
+Q4680177;Køge Vest interchange
+Q4693898;Q4693898
+Q4701480;Ako Adjei Interchange
+Q4707815;South Bay Interchange
+Q4713077;Q4713077
+Q4738532;Q4738532
+Q4742909;Q4742909
+Q4742919;Q4742919
+Q4742936;Q4742936
+Q4742944;Q4742944
+Q4742950;Q4742950
+Q4742958;Q4742958
+Q4777424;Q4777424
+Q4779345;Apenkwa Interchange
+Q4803311;Asafo Interchange
+Q4807574;Asokwa Interchange
+Q4845297;Q4845297
+Q4847120;Q4847120
+Q4847367;Q4847367
+Q4861064;Gladsaxe interchange
+Q4878771;Q4878771
+Q4918397;Bispelokket
+Q4943479;Dreieck Hannover-West
+Q4951537;Q4951537
+Q4993866;Europaplein
+Q4997719;Q4997719
+Q5029138;Can of Worms
+Q5104484;Q5104484
+Q5138752;Cobb Cloverleaf
+Q5181575;Q5181575
+Q5231670;Q5231670
+Q5277787;Dimples Interchange
+Q5285828;Q5285828
+Q5306809;Q5306809
+Q5310282;Kliplev interchange
+Q5322602;EB Cloete Interchange
+Q5361672;Q5361672
+Q5367465;Kasumigaseki Ramp
+Q5368183;Otsu Interchange
+Q5368785;Q5368785
+Q5391282;Mishima-Kawanoe interchange
+Q5431405;Fajr Interchange
+Q5443344;Q5443344
+Q5445527;Q5445527
+Q5521915;Fexhe-Slins Interchange
+Q5529039;Q5529039
+Q5568583;Glenloch Interchange
+Q5579488;Golden Glades Interchange
+Q5613395;Q5613395
+Q5658800;Ozu-Konan interchange
+Q5799875;Iyokomatsu-kita interchange
+Q5817040;Terbregseplein
+Q6130777;Hiroshima interchange
+Q6397897;Kew Gardens Interchange
+Q6422328;Miyoshi-higashi junction
+Q6449994;Kwai Tsing Interchange
+Q6535287;Leverett Circle
+Q6560692;Q6560692
+Q6568642;Q6568642
+Q6569896;Q6569896
+Q6574513;Q6574513
+Q6585193;Yoseftal interchange
+Q6596767;Ben-Gurion Interchange
+Q6654084;Liuliqiao Bridge
+Q6687638;Harel interchange
+Q6690716;Motza Interchange
+Q6729640;Magallanes Interchange
+Q6744054;Mallam Interchange
+Q6786919;Mather's Cross
+Q6791198;Joure interchange
+Q6958291;Yagur Interchange
+Q6996247;Nerima Interchange
+Q7057326;North West Tsing Yi Interchange
+Q7071093;Nygårdstangen
+Q7074616;Obama Nishi Interchange
+Q7284650;Rainbow Interchange
+Q7464568;Guseo Interchange
+Q7471303;Kerensheide interchange
+Q7471404;Lankhorst interchange
+Q7471546;Beverwijk interchange
+Q7471798;Drachten A7 junction
+Q7471837;Zaandam interchange
+Q7471858;Kunderberg interchange
+Q7471881;Het Vonderen interchange
+Q7472128;Ballerup interchange
+Q7525040;Sinsen Interchange
+Q7553788;Sofo Line Interchange
+Q7582430;Sredanci interchange
+Q7816932;Tom Moreland Interchange
+Q8033485;Woodsville Interchange
+Q8190457;Shingu interchange
+Q8190525;Doi interchange
+Q8190532;Niihama interchange
+Q8192871;Iyo-Komatsu junction
+Q8192915;Matsuyama interchange
+Q8192932;Iyo interchange
+Q8382337;Sakai interchange
+Q8512152;Matsukawado interchange
+Q8786060;Aogaki interchange
+Q8788390;Rumoi-Ōwada interchange
+Q8790540;Sanda-Nishi interchange
+Q8792448;Namiki interchange
+Q8803032;Komagane interchange
+Q8865761;Q8865761
+Q8866213;Shigaraki interchange
+Q8867899;Katsuragi interchange
+Q8982456;Q8982456
+Q9008883;Imabari interchange
+Q9008887;Imabari-yunoura interchange
+Q9008892;Kawauchi interchange
+Q9008895;Seiyo-Uwa interchange
+Q9008898;Toyo-tanbara interchange
+Q9008901;Uchiko-Ikazaki interchange
+Q9008904;Uwajima-Asahi interchange
+Q9008912;Uwajima-kita interchange
+Q9008916;Uwajima-minami interchange
+Q9008920;Ozu interchange
+Q9008921;Ozu-kita interchange
+Q9008924;Ozu-minami interchange
+Q9008927;Ozu-Tomisu interchange
+Q9381471;Q9381471
+Q9381472;Poznań Komorniki motorway interchange
+Q9381473;Poznań-Wschód motorway interchange
+Q10412444;Annelundsmotet
+Q10540519;Johanneslöt
+Q10549252;Kristinebergsmotet
+Q10577921;Q10577921
+Q10609375;Olskroksmotet
+Q10615705;Pampas interchange
+Q10655521;Ringömotet
+Q10701034;Adolfsberg interchange
+Q10701035;Djurhagshus interchange
+Q10701036;Aspholmen/Bista interchange
+Q10701037;Frösunda interchange
+Q10701039;Haga norra interchange
+Q10701040;Kropp interchange
+Q10701041;Linköping Norra interchange
+Q10701044;Ljungarum interchange
+Q10712415;Valnäsmotet
+Q10750424;Uwajima-Betto interchange
+Q10750454;Oshima-kita interchange
+Q10750461;Ozu-kitatada interchange
+Q10750652;Iyo-Saijo interchange
+Q10750673;Imabari-kita interchange
+Q10750683;Hakatajima interchange
+Q10750705;Omishima interchange
+Q10856402;Takaido interchange
+Q10863798;Q10863798
+Q10863891;Ichinomiya interchange
+Q10863894;Q10863894
+Q10863895;Ichinomiya-minami exit
+Q10863896;Ichinomiya-Misaka interchange
+Q10863897;Ichinomiya-Kisogawa interchange
+Q10863898;Ichinomiya-higashi exit
+Q10863899;Ichinomiya-nishi interchange
+Q10863900;Q10863900
+Q10863930;Ichishi-Ureshino interchange
+Q10863936;Ichinohe interchange
+Q10863961;Ipponmatsu interchange
+Q10863983;Q10863983
+Q10864102;Ichinoseki interchange
+Q10864587;Nanao interchange
+Q10864588;Nanao-Joyama interchange
+Q10864832;Nanae interchange
+Q10865387;Mitoya-kisuki interchange
+Q10865448;Mihara-Kui interchange
+Q10865745;Miyake interchange
+Q10865750;Q10865750
+Q10865833;Q10865833
+Q10865940;Mishima-Kamo interchange
+Q10865941;Mishima-Tsukahara interchange
+Q10865942;Mishima-hagi interchange
+Q10865959;Mikawa interchange
+Q10866074;Wakasa-Mikata interchange
+Q10866078;Mikkabi interchange
+Q10866140;Miki-Ono interchange
+Q10866141;Miki-higashi interchange
+Q10866144;Mikisato interchange
+Q10866197;Sanjo-Tsubame interchange
+Q10866429;Q10866429
+Q10866446;Mitsuzawa exit
+Q10866448;Sanze interchange
+Q10866568;Mikasa interchange
+Q10866602;Q10866602
+Q10866908;Mitoyo-Tossaka interchange
+Q10866922;Q10866922
+Q10867000;Misato interchange
+Q10867003;Misato-minami interchange
+Q10867041;Mie-Kawagoe interchange
+Q10867042;Mie-Asahi interchange
+Q10867062;Mima interchange
+Q10867066;Mitsuseki interchange
+Q10867173;Wakasa-kaminaka interchange
+Q10867179;Kaminogo interchange
+Q10867360;Kamitonda interchange
+Q10867377;Kaminoyama-Onsen interchange
+Q10867392;Q10867392
+Q10867394;Q10867394
+Q10867395;Kamikawa-Sounkyo interchange
+Q10867514;Kamitsuge interchange
+Q10867527;Uwadanayada interchange
+Q10868176;Ueda-Sugadaira interchange
+Q10868184;Kamiyabe interchange
+Q10868192;Kamiyashiro interchange
+Q10868194;Kamiyashiro-minami interchange
+Q10868267;Joetsu interchange
+Q10868271;Joetsu-takada interchange
+Q10868295;Ueno interchange
+Q10868297;Q10868297
+Q10868298;Uenohara interchange
+Q10868299;Ueno-higashi interchange
+Q10868361;Q10868361
+Q10868394;Shimonita interchange
+Q10868512;Q10868512
+Q10868566;Shimotsuge interchange
+Q10868612;Shimotsu interchange
+Q10868679;Shimofusa interchange
+Q10868751;Shimonoseki interchange
+Q10869198;Sera interchange
+Q10871659;Q10871659
+Q10871661;Q10871661
+Q10871662;Nakanoshima-mitsuke interchange
+Q10872634;Q10872634
+Q10874478;Chugoku-Suita interchange
+Q10874652;Chugoku-Ikeda interchange
+Q10874756;Chugoku-Toyonaka interchange
+Q10874849;Nakatosa interchange
+Q10874851;Q10874851
+Q10875435;Nakajima interchange
+Q10875667;Nakasatsunai interchange
+Q10875714;Nakajo interchange
+Q10875793;Nakatsugawa interchange
+Q10875847;Nakase interchange
+Q10875923;Nakamachi interchange
+Q10876730;Nakago interchange
+Q10876743;Nakano interchange
+Q10876744;Q10876744
+Q10876748;Q10876748
+Q10877239;Q10877239
+Q10877240;Marunouchi Exit
+Q10877241;Q10877241
+Q10877244;Maruoka inerchange
+Q10877246;Maruseppu interchange
+Q10877269;Tannan-Sasayamaguchi interchange
+Q10877353;Tanba interchange
+Q10877365;Q10877365
+Q10877674;Kuki interchange
+Q10877681;Hisai interchange
+Q10877682;Kumiyama interchange
+Q10877684;Kumiyama-minami interchange
+Q10877686;Kumiyama-Yodo interchange
+Q10877688;Kuga interchange
+Q10878857;Kunohe interchange
+Q10878901;Q10878901
+Q10880024;Futatsui-Shirakami interchange
+Q10880156;Ninomiya interchange
+Q10880221;Nihonmatsu interchange
+Q10881569;Q10881569
+Q10881646;Gojome-Hachirogata interchange
+Q10881830;Itsukaichi interchange
+Q10881879;Satsukibashi interchange
+Q10881915;Gojo interchange
+Q10881916;Gojo-kita interchange
+Q10881921;Gojo-nishi interchange
+Q10881996;Wujia interchange
+Q10882024;Gosha interchange
+Q10882066;Gokayama interchange
+Q10882192;Gokadani interchange
+Q10882325;Goka interchange
+Q10882510;Watari interchange
+Q10883041;Katano-kita interchange
+Q10883042;Katano-minami interchange
+Q10883108;Kyotanba-Wachi interchange
+Q10883193;Kyobashi interchange
+Q10883195;Kyobashi interchange
+Q10883212;Keihin Kawasaki Interchange
+Q10883217;Kyotanabe-Matsui interchange
+Q10883246;Kyoto-minami interchange
+Q10883259;Kyoto-higashi interchange
+Q10883890;Nikaho interchange
+Q10883945;Imai Interchange
+Q10883975;Imaichi interchange
+Q10883977;Imajo interchange
+Q10884002;Imabari-Asakura interchange
+Q10884003;Imaizumi Interchange
+Q10884005;Imahama interchange
+Q10884193;Sendai-minami interchange
+Q10884197;Sendai-Miyagi interchange
+Q10884199;Sendai-higashi interchange
+Q10884200;Sendai airport interchange
+Q10884201;Sendaiko interchange
+Q10884202;Sendaiko-kita interchange
+Q10884391;Yoyogi interchange
+Q10884857;Ise interchange
+Q10884860;Isehara interchange
+Q10884861;Isesaki interchange
+Q10884865;Ise-nishi itnerchange
+Q10884866;Ise-Seki interchange
+Q10884868;Ihoku interchange
+Q10884968;Q10884968
+Q10884971;Ikawadani junction
+Q10885127;Iga interchange
+Q10885129;Iga-Ichinomiya interchange
+Q10885138;Date interchange
+Q10885155;Ina interchange
+Q10885164;Ino interchange
+Q10885267;Fushiko interchange
+Q10885327;Fushimi interchange
+Q10885868;Q10885868
+Q10885871;Q10885871
+Q10885882;Saku interchange
+Q10885883;Saku-Nakasato interchange
+Q10885884;Saku-kita interchange
+Q10885885;Saku-minami interchange
+Q10885912;Sakura interchange
+Q10885913;Sahara interchange
+Q10885916;Sawara-Katori interchange
+Q10885947;Sayo-Hirafuku interchange
+Q10885980;Sano-Tanuma interchange
+Q10885981;Sano-Fujioka interchange
+Q10886848;Sakuto interchange
+Q10887568;Hodogaya Interchange
+Q10887991;Shinshu-nakano interchange
+Q10888023;Shinanobashi interchange
+Q10888024;Shinanomachi interchange
+Q10888155;Kurashiki interchange
+Q10889247;Bizen interchange
+Q10889552;Q10889552
+Q10891086;Kojima interchange
+Q10891235;Q10891235
+Q10891237;Iruma interchange
+Q10891348;Uchinada interchange
+Q10891810;Ryozenji temporary interchange
+Q10892140;Yao interchange
+Q10892158;Yawata-higashi interchange
+Q10892184;Hachinohe interchange
+Q10892210;Yokaichi interchange
+Q10892211;Q10892211
+Q10892221;Yagi-naka interchange
+Q10892222;Yagi-higashi interchange
+Q10892223;Yagi-nishi interchange
+Q10892290;Yashio exit and entrance
+Q10892291;Yashio-minami exit and entrance
+Q10892296;Hachioji interchange
+Q10892300;Hachioji-nishi interchange
+Q10892475;Q10892475
+Q10892529;Yakumo interchange
+Q10892551;Yoka-Hyonosen interchange
+Q10892557;Hachiryu interchange
+Q10892969;Q10892969
+Q10893292;Muikaichi interchange
+Q10893294;Muikamachi interchange
+Q10893363;Q10893363
+Q10893370;Q10893370
+Q10893371;Q10893371
+Q10894506;Hyogo-Tojo interchange
+Q10895095;Nongzhan Bridge
+Q10895436;Hikami interchange
+Q10895488;Himi interchange
+Q10895489;Himi-kita interchange
+Q10896630;Q10896630
+Q10896645;Q10896645
+Q10896906;Fenzhongsi Bridge
+Q10898202;Q10898202
+Q10898203;Q10898203
+Q10898266;Bessho interchange
+Q10898268;Q10898268
+Q10898340;Rifu-naka interchange
+Q10898342;Rifu-Shirakashidai interchange
+Q10898343;Rifu-Shiogama interchange
+Q10898915;Maebashi interchange
+Q10898916;Maebashi-minami interchange
+Q10899084;Q10899084
+Q10900747;Kakogawa-kita interchange
+Q10900748;Q10900748
+Q10900749;Q10900749
+Q10900750;Q10900750
+Q10900752;Q10900752
+Q10900772;Kashima exit
+Q10900786;Kahei exit and entrance
+Q10900911;Kasai interchange
+Q10900917;Kaga interchange
+Q10900918;Q10900918
+Q10900948;Kazo interchange
+Q10901000;Sukematsu junction
+Q10901002;Q10901002
+Q10901032;Jinsong Bridge
+Q10901390;Q10901390
+Q10901391;Kachigawa interchange
+Q10901397;Katsunuma interchange
+Q10901454;Seiwa-Taki interchange
+Q10901957;Kitakami-Ezuriko interchange
+Q10901958;Kitakami-nishi interchange
+Q10901960;Kitakami-Kanegasaki interchange
+Q10901977;Q10901977
+Q10902545;Q10902545
+Q10902957;Kitahiroshima interchange
+Q10902984;Hokubo interchange
+Q10903192;Q10903192
+Q10903251;Q10903251
+Q10903263;Q10903263
+Q10903701;Q10903701
+Q10903737;Q10903737
+Q10903894;Kitaibaraki interchange
+Q10904026;Kitago interchange
+Q10904541;Tokachi-shimizu interchange
+Q10904543;Towada interchange
+Q10904630;Jumonji interchange
+Q10904789;Chiyo interchange
+Q10904792;Chiyokawa interchange
+Q10904793;Chiyoda interchange
+Q10904797;Chiyoda-Ishioka interchange
+Q10904799;Senjushinbashi Interchange
+Q10904927;Chitose interchange
+Q10904930;Chitose-higashi interchange
+Q10904972;Chiba-kita interchange
+Q10904977;Chiba-higashi interchange
+Q10904997;Chirihama interchange
+Q10905028;Sennonji exit
+Q10905029;Chidorichō exit
+Q10905247;Handa interchange
+Q10905248;Handa-chuo interchange
+Q10905663;Huawei Bridge
+Q10906142;Kyowa interchange
+Q10907162;Nankoku interchange
+Q10907166;Minamizaike interchange
+Q10907892;Nantou Interchange
+Q10908136;Q10908136
+Q10908205;Minamimorimachi interchange
+Q10908499;Q10908499
+Q10908501;Q10908501
+Q10908502;Q10908502
+Q10908775;Minamisoma interchange
+Q10908777;Minamichita interchange
+Q10908824;Nanki-Tanabe interchange
+Q10908970;Q10908970
+Q10909135;Minabe interchange
+Q10909148;Nango interchange
+Q10909149;Nango interchange
+Q10909264;Minami-alps interchange
+Q10909279;Nanyo-takahata interchange
+Q10909668;Shimukappu interchange
+Q10910310;Inami interchange
+Q10910772;Maki-Katahigashi interchange
+Q10911044;Atsugi interchange
+Q10911046;Atsugi-nishi interchange
+Q10911085;Atsuma interchange
+Q10911299;Baraki interchange
+Q10911698;Tomono interchange
+Q10911739;Tomobe interchange
+Q10911766;Shuangjing Bridge
+Q10912975;Kuchiwa interchange
+Q10913280;Furukawa interchange
+Q10913297;Ko interchange
+Q10913745;Kani-Mitake interchange
+Q10914413;Q10914413
+Q10914462;Q10914462
+Q10917006;Yoshii interchange
+Q10917052;Yoshiwa interchange
+Q10917123;Yokawa interchange
+Q10917316;Yoshida interchange
+Q10917317;Unnan-yoshida interchange
+Q10917322;Yoshida-kakeya interchange
+Q10917365;Kisa interchange
+Q10917741;Natori interchange
+Q10917743;Nagoya interchange
+Q10917744;Nagoya-minami interchange
+Q10917752;Nagoya-nishi interchange
+Q10917787;Meiko-chuo interchange
+Q10917788;Meiko-Shiomi interchange
+Q10917791;Nadachi-tanihama interchange
+Q10917800;Myodani interchange
+Q10917808;Mingjian Interchange
+Q10918064;Mukai interchange
+Q10918114;Mukaishima interchange
+Q10918115;Q10918115
+Q10918929;Gofukubashi interchange
+Q10919797;Q10919797
+Q10919800;Q10919800
+Q10919804;Suita junction
+Q10920229;Susami interchange
+Q10920230;Q10920230
+Q10921286;Q10921286
+Q10921358;Wakura interchange
+Q10921360;Wako interchange
+Q10921361;Wako-kita interchange
+Q10921378;Q10921378
+Q10921405;Wo Yi Hop Interchange
+Q10921410;Wassamu interchange
+Q10921583;Wakayama interchange
+Q10921585;Wakayama-kita interchange
+Q10921593;Wake interchange
+Q10921611;Wadayama interchange
+Q10922866;Q10922866
+Q10922867;Q10922867
+Q10922869;Karato-higashi interchange
+Q10922870;Karato-nishi interchange
+Q10923476;Zentsuji interchange
+Q10923650;Q10923650
+Q10925071;Yokkaichi interchange
+Q10925074;Yokkaichi-higashi interchange
+Q10925095;Q10925095
+Q10925131;Q10925131
+Q10925301;Shimantocho-chuo interchange
+Q10925303;Shimantocho-higashi interchange
+Q10925304;Shimantocho-nishi interchange
+Q10925317;Yotsukaido interchange
+Q10925350;Q10925350
+Q10925598;Innoshima-kita interchange
+Q10925599;Innoshima-minami interchange
+Q10926208;Guomao Bridge
+Q10926738;Ken-o-Atsugi interchange
+Q10927054;Kunitachi-Fuchu interchange
+Q10927293;Kunnui interchange
+Q10927306;Kunimi interchange
+Q10927469;Sonohara interchange
+Q10927474;Sonobe interchange
+Q10927484;Yuanshan IC.
+Q10927607;Tosa interchange
+Q10927609;Q10927609
+Q10927750;Tokiminami-Tajimi interchange
+Q10927770;Donari interchange
+Q10927816;Q10927816
+Q10927824;Tsuchiura-kita interchange
+Q10927836;Dosawa interchange
+Q10928481;Sakaide interchange
+Q10928484;Sakaide-kita interchange
+Q10928488;Sakaki interchange
+Q10928492;Sakado interchange
+Q10929567;Q10929567
+Q10929622;Q10929622
+Q10929623;Q10929623
+Q10930114;Joyo interchange
+Q10930207;Habu interchange
+Q10930477;Q10930477
+Q10930480;Horinouchi interchange
+Q10930482;Horinouchi exit
+Q10930487;Horiguchi-Nokendai interchange
+Q10930501;Q10930501
+Q10930515;Q10930515
+Q10930613;Q10930613
+Q10930670;Q10930670
+Q10931087;Q10931087
+Q10931179;Sakai-Koga interchange
+Q10931253;Masuho interchange
+Q10931480;Shibetsu-Kenbuchi interchange
+Q10931537;MIbu interchange
+Q10931627;Ichibu interchange
+Q10932247;Yubari interchange
+Q10932249;Q10932249
+Q10932362;Nakada interchange
+Q10932375;Gaikan Misato-nishi interchange
+Q10932377;Gaikan Urawa interchange
+Q10932385;Q10932385
+Q10932788;Tajimi interchange
+Q10933153;Tagajo interchange
+Q10933414;Q10933414
+Q10933461;Oi interchange
+Q10933465;Q10933465
+Q10933466;Oi-minami interchange
+Q10933470;Oi-Matsuda interchange
+Q10933603;Ouchi interchange
+Q10933854;Ohara interchange
+Q10933856;Oharano interchange
+Q10934247;Taiwa interchange
+Q10934264;Q10934264
+Q10934266;Q10934266
+Q10934269;Q10934269
+Q10934533;Ogaki interchange
+Q10934535;Ogaki-nishi interchange
+Q10934621;Ōbori exit
+Q10934833;Daian interchange
+Q10934920;Omiya interchange
+Q10934923;Omiya-Odai interchange
+Q10935101;Dashan Interchange
+Q10935107;Oyamazaki interchange
+Q10935269;Q10935269
+Q10935384;Obu interchange
+Q10935387;Obu-Tokai interchange
+Q10935388;Obu-nishi interchange
+Q10935675;Omagari interchange
+Q10935681;Otsuki junction
+Q10935707;Q10935707
+Q10935759;Daito Tsurumi interchange
+Q10936010;Omori interchange
+Q10936048;Taiei interchange
+Q10936097;Q10936097
+Q10936309;Oharu-kita interchange
+Q10936310;Oharu-minami interchange
+Q10936313;Onumakoen interchange
+Q10936631;Ozo interchange
+Q10936632;Osawa interchange
+Q10936644;Q10936644
+Q10937131;Oiso interchange
+Q10937234;Fukushima-Ozaso interchange
+Q10937803;Q10937803
+Q10937916;Q10937916
+Q10937948;Ohira interchange
+Q10938043;Oyachi interchange
+Q10938048;Otoyo interchange
+Q10938257;Ono interchange
+Q10938261;Onohara Interchange
+Q10938271;Ōno-goudo interchange
+Q10938363;Q10938363
+Q10938560;Oi-Takahama interchange
+Q10938596;Ōtaka exit
+Q10938610;Owani-Hirosaki interchange
+Q10938661;Oshio-Bessho ramp
+Q10938705;Q10938705
+Q10940451;Q10940451
+Q10940460;Q10940460
+Q10940464;Tenri interchange
+Q10940471;Tenri-higashi interchange
+Q10940600;Tendo interchange
+Q10940960;Tenryukyo interchange
+Q10941148;Q10941148
+Q10941166;Q10941166
+Q10941179;Q10941179
+Q10941629;Ota-Kiryu interchange
+Q10941632;Ota-Yabuzuka interchange
+Q10941838;Asama-higashi interchange
+Q10942250;Naie-Sunagawa interchange
+Q10942263;Q10942263
+Q10942265;Q10942265
+Q10942646;Okushirataki interchange
+Q10943053;Q10943053
+Q10943071;Myokokogen interchange
+Q10943641;Q10943641
+Q10943666;Q10943666
+Q10943667;Q10943667
+Q10943668;Q10943668
+Q10944092;Q10944092
+Q10945735;Q10945735
+Q10946232;Uji-higashi interchange
+Q10946234;Uji-nishi interchange
+Q10946246;Ube interchange
+Q10946251;Utsunomiya interchange
+Q10946253;Utsunomiya-Kaminokawa interchange
+Q10946264;Moriguchi exit
+Q10946269;Q10946269
+Q10946376;Ashiro interchange
+Q10946597;Q10946597
+Q10946950;Q10946950
+Q10947000;Yasuda interchange
+Q10947191;Q10947191
+Q10950314;Muroran interchange
+Q10950591;Miyagi-kawasaki interchange
+Q10950696;Miyazu-Amanohashidate interchange
+Q10953976;Tomika-Seki interchange
+Q10954012;Fuji interchange
+Q10954014;Fuji-yoshida interchange
+Q10954143;Toyama interchange
+Q10954161;Toyama-nishi interchange
+Q10954443;Futtsu-Kanaya interchange
+Q10954445;Tomiura interchange
+Q10954696;Q10954696
+Q10954850;Tomisato interchange
+Q10955007;Samukawa-kita interchange
+Q10955009;Samukawa-minami interchange
+Q10955027;Sagae interchange
+Q10955402;Neyagawa-kita interchange
+Q10955403;Neyagawa-minami interchange
+Q10956076;Takarazuka interchange
+Q10956315;Q10956315
+Q10957772;Ogura interchange
+Q10957776;Q10957776
+Q10957846;Koide interchange
+Q10957871;Rikubetsu-Shotoshibetsu interchange
+Q10957932;Ojiya interchange
+Q10958471;Kosaka interchange
+Q10958895;Obata interchange
+Q10959056;Takaosan interchange
+Q10959070;Ozuki interchange
+Q10959088;Kosugi interchange
+Q10959113;Komatsu interchange
+Q10959115;Komatsugawa interchange
+Q10959350;Otaru interchange
+Q10959541;Kobuchisawa interchange
+Q10959614;Obama interchange
+Q10959619;Oze toll booth
+Q10959648;Komaki interchange
+Q10959650;Q10959650
+Q10959651;Komaki-higashi interchange
+Q10959732;Odawara-higashi interchange
+Q10959851;Oyabe interchange
+Q10959853;Oyabe-higashi interchange
+Q10960402;Q10960402
+Q11023028;Q11023028
+Q11034713;Komoro interchange
+Q11034922;Ogori interchange
+Q11034940;Ono interchange
+Q11040921;Amagasaki-Suehiro interchange
+Q11040929;Q11040929
+Q11040936;Amagasaki-Wangan interchange
+Q11040945;Q11040945
+Q11041950;Obanazawa-kita interchange
+Q11042010;Bisai interchange
+Q11042022;Onomichi interchange
+Q11042049;Onomichi-ohashi interchange
+Q11042059;Q11042059
+Q11042073;Owase-kita interchange
+Q11042080;Owase-minami interchange
+Q11043865;Q11043865
+Q11044438;Yamanakako interchange
+Q11044713;Yamaguchi interchange
+Q11044731;Yamaguchi-minami interchange
+Q11045234;Yamazaki interchange
+Q11045373;Yamagata-Kaminoyama interchange
+Q11045379;Yamagata-chuo interchange
+Q11045386;Yamagata-kita interchange
+Q11045407;Yamagata-zao interchange
+Q11045633;Santo interchange
+Q11045768;Q11045768
+Q11046173;Yamazoe interchange
+Q11046317;Q11046317
+Q11046375;Yamada interchange
+Q11046379;Yamada interchange
+Q11046409;Yamadagawa interchange
+Q11046418;Yamada-higashi interchange
+Q11046459;Yamada-nishi interchange
+Q11046578;Q11046578
+Q11047551;Sanyo interchange
+Q11047556;Sanyohimeji-higashi interchange
+Q11047565;SanyoHimeji-nishi interchange
+Q11048034;Q11048034
+Q11048046;Gifu-Kakamigahara interchange
+Q11048049;Gifu-Yamato interchange
+Q11048058;Gifu-Hashima interchange
+Q11048772;Okaya interchange
+Q11048785;Q11048785
+Q11048819;Okayama-Soja interchange
+Q11048843;Okazaki interchange
+Q11048904;Okaya interchange
+Q11049036;Iwade-Negoro interchange
+Q11049165;Iwaki interchange
+Q11049357;Tsushima-Iwamatsu interchange
+Q11049398;Iwatsuki interchange
+Q11049420;Iwanuma interchange
+Q11049808;Iwamizawa interchange
+Q11049828;Iwama Interchange
+Q11049908;Iwakurojima interchange
+Q11051110;Q11051110
+Q11051113;Q11051113
+Q11051119;Kishiwada-Izumi interchange
+Q11052292;Q11052292
+Q11052293;Q11052293
+Q11054465;Ranzan-Ogawa interchange
+Q11054868;Kawakami interchange
+Q11055034;Kawarago interchange
+Q11055204;Kawajima interchange
+Q11055729;Kawanishi interchange
+Q11055787;Q11055787
+Q11055949;Kawagoe interchange
+Q11055985;Kawabe interchange
+Q11057708;Ogura interchange
+Q11057716;Oguraike interchange
+Q11059457;Keiyo-Ichikawa interchange
+Q11059461;Ichikawa-kita interchange
+Q11059462;Ichikawa-kita ramp
+Q11059463;Q11059463
+Q11059464;Ichikawa-chuo interchange
+Q11059465;Ichikawa-minami ramp
+Q11059623;Fusehata junction
+Q11059625;Q11059625
+Q11059626;Q11059626
+Q11060247;Obihiro-Kawanishi interchange
+Q11060440;Tokoname interchange
+Q11060455;Joban-tomioka interchange
+Q11060457;Tokiwa-bashi deiriguchi
+Q11060499;Hitachi Kaihin-koen interchange
+Q11060500;Hitachinaka interchange
+Q11060501;Hitachinakako interchange
+Q11060550;Makuhari Interchange
+Q11060556;Q11060556
+Q11060653;Q11060653
+Q11060760;Q11060760
+Q11060807;Hiratsuka interchange
+Q11060909;Q11060909
+Q11061101;Hiraizumi-Maesawa interchange
+Q11061203;Hirata interchange
+Q11061204;Hirata interchange
+Q11061211;Hirata-nishi interchange
+Q11061331;Q11061331
+Q11061464;Satte interchange
+Q11061466;Q11061466
+Q11061469;Kofuku interchange
+Q11061501;Q11061501
+Q11061954;Guanganmen Bridge
+Q11062605;Shonai-asahi interchange
+Q11062607;Shonai Airport interchange
+Q11062608;Q11062608
+Q11062610;Shobara interchange
+Q11064583;Hiroshima-higashi interchange
+Q11064602;Hirogawa interchange
+Q11064604;Hirogawa-minami interchange
+Q11064880;Hirono itnerchange
+Q11065856;Q11065856
+Q11066275;Hikiyama interchange
+Q11066281;Hiketa interchange
+Q11069410;Yatomi interchange
+Q11069411;Yatomi-Kisomisaki interchange
+Q11069550;Hikone interchange
+Q11069613;Choi Hung Interchange
+Q11071139;Midai interchange
+Q11071157;Gobo interchange
+Q11071184;Gose interchange
+Q11071185;Gose-minami interchange
+Q11071583;Tokuji interchange
+Q11071625;Tokuyama-higashi interchange
+Q11071627;Tokuyama-nishi interchange
+Q11071632;Tokushima interchange
+Q11071738;Tokujiro interchange
+Q11071777;Tokuda-Otsu Interchange
+Q11072224;Shiwa interchange
+Q11072229;Shido interchange
+Q11072343;Churui interchange
+Q11073394;Eniwa interchange
+Q11073412;Q11073412
+Q11073477;Ena interchange
+Q11073674;Aibetsu interchange
+Q11073715;Aibetsu-kamikawa interchange
+Q11074594;Narita interchange
+Q11075409;Q11075409
+Q11075413;Totsuka terminus
+Q11075417;Togochi interchange
+Q11075421;Toda exit
+Q11075423;Q11075423
+Q11075425;Toda-higashi interchange
+Q11075426;Toda-nishi interchange
+Q11075429;Q11075429
+Q11075527;Tokorozawa interchange
+Q11075696;Ogiohashi Interchange
+Q11075704;Q11075704
+Q11075751;Teine interchange
+Q11075946;Kinokawa interchange
+Q11077609;Kuroshiokobushinokawa interchange
+Q11078070;Kakegawa interchange
+Q11078481;Q11078481
+Q11078586;Harima-Shingu interchange
+Q11078807;Settsu-kita interchange
+Q11078808;Settsu-minami interchange
+Q11079382;Tsuruga interchange
+Q11079510;Q11079510
+Q11081047;Araijuku exit
+Q11081056;Q11081056
+Q11081089;Shin-Hodogaya interchange
+Q11081154;Xinxing Bridge
+Q11081548;New Chitose Airport interchange
+Q11081904;Shinshiro interchange
+Q11082293;Shingu-minami interchange
+Q11082297;Q11082297
+Q11082300;Shin-Fuji interchange
+Q11082370;Q11082370
+Q11082384;Shinkawa interchange
+Q11082592;Shinjo interchange
+Q11082599;Shinjo-kita interchange
+Q11082907;Q11082907
+Q11082959;Q11082959
+Q11083033;Q11083033
+Q11083036;Narita Airport interchange
+Q11083175;Niitsu interchange
+Q11083231;Shin-Shimizu interchange
+Q11083313;Niigata-chuo interchange
+Q11083315;Niigata airport interchange
+Q11083317;Niigata-nishi interchange
+Q11083319;Niigata-kameda interchange
+Q11083345;Centrair-Higashi interchange
+Q11083970;Q11083970
+Q11084045;Hsinchu System Interchange
+Q11084336;Niimi interchange
+Q11084407;Q11084407
+Q11084409;Q11084409
+Q11084421;Q11084421
+Q11084529;Shin-Shizuoka interchange
+Q11086045;Hinode interchange
+Q11086054;Nikko interchange
+Q11086848;Hitachi-chuo interchange
+Q11086852;Hitachi-kita interchange
+Q11086854;Hitachi-minami Ota interchange
+Q11086856;Hikigawa interchange
+Q11086879;Hino interchange
+Q11086891;Hidaka-Tomikawa interchange
+Q11086897;Hidaka-Mombetsu interchange
+Q11087030;Hayashima interchange
+Q11087056;Q11087056
+Q11087088;Asahikawa-kita interchange
+Q11087094;Asahikawa Takasu interchange
+Q11088161;Akashi-nishi interchange
+Q11088220;Q11088220
+Q11088481;Q11088481
+Q11088482;Hoshikawa interchange
+Q11088785;Q11088785
+Q11088794;Kasuga interchange
+Q11088796;Kasugai interchange
+Q11088798;Kasuga interchange
+Q11088926;Showa interchange
+Q11088936;Showa Ogahanto interchange
+Q11090205;Q11090205
+Q11090293;Chizu interchange
+Q11090294;Chizu-minami interchange
+Q11090854;Sarabetsu interchange
+Q11090859;Koshoku interchange
+Q11091814;Aizubange interchange
+Q11091818;Aizuwakamatsu interchange
+Q11091913;Tsukiyono interchange
+Q11091924;Gassan interchange
+Q11092038;Q11092038
+Q11092106;Q11092106
+Q11092121;Arimatsu interchange
+Q11092155;Ukan interchange
+Q11092163;Arida interchange
+Q11092164;Arida-minami interchange
+Q11092234;Arimaguchi interchange
+Q11092504;Asago interchange
+Q11092535;Asahi interchange
+Q11092536;Asahi-Mahoroba interchange
+Q11092537;Asahi-Miomote interchange
+Q11092557;Asahina interchange
+Q11092563;Asama interchange
+Q11092575;Asari interchange
+Q11092692;Q11092692
+Q11092914;Q11092914
+Q11092999;Kisarazu-Kaneda interchange
+Q11093073;Kizu interchange
+Q11093329;Honbetsu interchange
+Q11093362;Motomiya interchange
+Q11093381;Honjo-Kodama interchange
+Q11093396;Q11093396
+Q11093434;Q11093434
+Q11093442;Q11093442
+Q11093446;Q11093446
+Q11093448;Q11093448
+Q11093459;Honjo interchange
+Q11093464;Hongo interchange
+Q11093466;Hongo interchange
+Q11093477;Sapporo interchange
+Q11093481;Sapporo-kita interchange
+Q11093484;Sapporo-minami interchange
+Q11093490;Sapporo-nishi interchange
+Q11095187;Q11095187
+Q11098617;Murakami-Senami interchange
+Q11098654;Q11098654
+Q11098685;Murata interchange
+Q11102820;Inashiki-higashi interchange
+Q11102915;Tokyo interchange
+Q11103072;Q11103072
+Q11103073;Q11103073
+Q11103155;Tomei-Miyoshi interchange
+Q11256967;Odate-Noshiro Airport interchange
+Q11257027;Akiruno interchange
+Q11257743;Atsumionsen interchange
+Q11260054;Iragawa interchange
+Q11260119;Iwaki-miwa interchange
+Q11260123;Iwaki-chuo interchange
+Q11260130;Iwaki-nakoso interchange
+Q11261052;Ebino interchange
+Q11263809;Q11263809
+Q11268070;Q11268070
+Q11268167;Sanuki-Miki interchange
+Q11268203;Sanuki-Toyonaka interchange
+Q11270102;Seto-Shinano interchange
+Q11270105;Seto-Akazu interchange
+Q11272242;Tsukuba-chuo interchange
+Q11272279;Tsukuba-Ushiku interchange
+Q11272361;Q11272361
+Q11274679;Q11274679
+Q11281483;Rinku interchange
+Q11281634;Q11281634
+Q11313284;Smart interchange
+Q11321403;Tomamu interchange
+Q11345694;Q11345694
+Q11352730;Q11352730
+Q11352774;Ipponmatsu interchange
+Q11353480;Nanao-Otomari interchange
+Q11353740;Nanae-Okawa interchange
+Q11353741;Nanae-Honcho Interchange
+Q11353744;Nanae-Fujishiro interchange
+Q11353777;Q11353777
+Q11354372;Q11354372
+Q11354984;Miyake interchange
+Q11355265;Mishima-Tamazawa interchange
+Q11355741;Q11355741
+Q11356044;Miyoshi interchange
+Q11356135;Q11356135
+Q11356146;Misawa-Towada-Shimoda interchange
+Q11358252;Sanriku interchange
+Q11358910;Q11358910
+Q11359022;Kamishihi interchange
+Q11359456;Q11359456
+Q11359542;Q11359542
+Q11359980;Q11359980
+Q11360842;Q11360842
+Q11360866;Q11360866
+Q11361212;Shimoda-Momoishi interchage
+Q11361906;Yoshima interchange
+Q11361933;Yoza-Amanohashidate interchange
+Q11361961;Q11361961
+Q11362804;Nakanoyu interchange
+Q11362880;Q11362880
+Q11364001;Nakayashiki interchange
+Q11364021;Nakayama Interchange
+Q11364022;Chuzan interchange
+Q11366300;Q11366300
+Q11367139;Q11367139
+Q11367832;Q11367832
+Q11367884;Kushikino interchange
+Q11368896;Kuse interchange
+Q11369046;Q11369046
+Q11369322;Kuji interchange
+Q11369328;Kuji-kita interchange
+Q11370453;Kokonoe interchange
+Q11371020;Kameishitoge interchange
+Q11371034;Kamegai interchange
+Q11371237;Q11371237
+Q11371265;Nijo-Shikaka interchange
+Q11371289;Niida-Manaka interchange
+Q11371578;Q11371578
+Q11372193;Gojiccho interchange
+Q11372387;Goshogawara interchange
+Q11372388;Goshogawara-kita interchange
+Q11372399;Goshogawara-higashi interchange
+Q11372720;Q11372720
+Q11373583;Q11373583
+Q11375928;Q11375928
+Q11376552;Q11376552
+Q11376581;Q11376581
+Q11376875;Imajuku interchange
+Q11377287;Q11377287
+Q11377346;Imamachi interchange
+Q11377348;Imamachi interchange
+Q11378248;Daikanchō Ramp
+Q11378462;Q11378462
+Q11378581;Q11378581
+Q11378953;Q11378953
+Q11379695;Q11379695
+Q11380611;Q11380611
+Q11380946;Ijuin interchange
+Q11381231;Yukawa-minami interchange
+Q11382005;Saza interchange
+Q11382044;Q11382044
+Q11382502;Sasebo-minato interchange
+Q11382508;Sasebo-Mikawachi interchange
+Q11382510;Sasebo-chuo interchange
+Q11382526;Sasebo-Daito interchange
+Q11382624;Sakuho interchange
+Q11382774;Saeki interchange
+Q11383269;Satsu interchange
+Q11383332;Sayo interchange
+Q11385266;Yoichi interchange
+Q11385294;Amarube interchange
+Q11385680;Q11385680
+Q11386306;Shuzenji interchange
+Q11386552;Q11386552
+Q11386590;Q11386590
+Q11387229;Kenro interchange
+Q11387316;Bizen interchange
+Q11390507;Yatsushiro-minami interchange
+Q11390663;Yachiho heights interchange
+Q11390910;Yawata interchange
+Q11391029;Q11391029
+Q11391141;Hachinohe-kita interchange
+Q11391143;Hachinohe-minami interchange
+Q11391196;Hachinohe-Korekawa interchange
+Q11391481;Q11391481
+Q11391732;Yakusa Interchange
+Q11391737;Yakusa-higashi Interchange
+Q11392261;Rokkasho interchange
+Q11392579;Rokugo interchange
+Q11392670;Q11392670
+Q11394036;Q11394036
+Q11394099;Q11394099
+Q11395326;Q11395326
+Q11395669;Izumi interchange
+Q11395673;Q11395673
+Q11395923;Kannami-Tsukamoto interchange
+Q11395934;Hakodate interchange
+Q11396655;Kushiro-Beppo interchange
+Q11396859;Q11396859
+Q11397378;Q11397378
+Q11398413;Chikaraishi Interchange
+Q11398593;Kake Interchange
+Q11398738;Kano Interchange
+Q11400215;Shoo interchange
+Q11400228;Katsuyama interchange
+Q11400229;Katsuyama interchange
+Q11400888;Kitanakagusuku interchange
+Q11401425;Q11401425
+Q11401556;Q11401556
+Q11401770;Hokuto-chuo interchange
+Q11401779;Hokuto-Tomigawa interchange
+Q11401789;Hokuto-Moheji interchange
+Q11401792;Hokuto-Oiwake interchange
+Q11401809;Kitakata interchange
+Q11402241;Q11402241
+Q11402242;Q11402242
+Q11402347;Kitahata interchange
+Q11403744;Hokudan interchange
+Q11403918;Hokuryu-himawari interchange
+Q11404037;Kitami-higashi interchange
+Q11404055;Kitami-nishi interchange
+Q11404516;Q11404516
+Q11405251;Q11405251
+Q11405258;Q11405258
+Q11405626;Chitose interchange
+Q11406836;Q11406836
+Q11407130;Q11407130
+Q11407387;Q11407387
+Q11407420;Q11407420
+Q11407421;Minamikyushu-Kawanabedam interchange
+Q11407432;Minamikyushu-kodono interchange
+Q11407442;Q11407442
+Q11408488;Nanbu interchange
+Q11408774;Haebaru-kita interchange
+Q11408775;Haebaru-minami interchange
+Q11408982;Q11408982
+Q11409249;Atsugi-minami interchange
+Q11409743;Q11409743
+Q11411089;Q11411089
+Q11411481;Q11411481
+Q11411659;Q11411659
+Q11411943;Q11411943
+Q11412490;Q11412490
+Q11412571;Yoshii interchange
+Q11412743;Yoshiwa interchange
+Q11412769;Q11412769
+Q11415362;Nayoro interchange
+Q11415368;Nayoro-kita interchange
+Q11415830;Q11415830
+Q11416380;Kimitsu interchange
+Q11416381;Kimitsu interchange
+Q11416772;Q11416772
+Q11416934;Suzenji interchange
+Q11417187;Q11417187
+Q11418218;Wani interchange
+Q11418565;Karakuwa-koharagi interchange
+Q11418567;Karakuwa-minami interchange
+Q11418617;Karatsu interchange
+Q11418623;Karatsu-Chichikayamada interchange
+Q11419147;Q11419147
+Q11419311;Takagi interchange
+Q11419394;Q11419394
+Q11419426;Q11419426
+Q11419585;Shimanto interchange
+Q11420878;Kozu interchange
+Q11421169;Q11421169
+Q11421438;Q11421438
+Q11422768;Ken-o-Tsurugashima interchange
+Q11422881;Q11422881
+Q11103159;Tomei-Kawasaki interchange
+Q11103172;Towa interchange
+Q11103176;Toin interchange
+Q11103191;Tojo interchange
+Q11103230;Higashiosaka-kita interchange
+Q11103231;Higashiosaka-minami interchange
+Q11103234;Q11103234
+Q11103370;Higashi-ōgishima IC
+Q11103377;Q11103377
+Q11103379;Q11103379
+Q11103558;Higashimatsuyama interchange
+Q11103562;Higashine interchange
+Q11103592;Q11103592
+Q11103648;Higashiura interchange
+Q11103651;Higashiura-Chita interchange
+Q11103655;Tokai interchange
+Q11103677;Q11103677
+Q11103849;Q11103849
+Q11103918;Q11103918
+Q11103940;Higashisemba JCT
+Q11104080;Q11104080
+Q11104151;Q11104151
+Q11104199;Matsugaoka interchange
+Q11104202;Matsuida-Myogi interchange
+Q11104248;Matsubara interchange
+Q11104356;Matsuo-hachimantai interchange
+Q11104362;Matsuo-Yokoshiba interchange
+Q11104422;Matsushima-kita interchange
+Q11104423;Matsushima-Osato interchange
+Q11104426;Matsushimakaigan interchange
+Q11104433;Matsugasaki-Kameda interchange
+Q11104466;Matsudo interchange
+Q11104486;Matsumoto interchange
+Q11104913;Matsusaka interchange
+Q11104988;Itaya interchange
+Q11105197;Itano interchange
+Q11107294;Hirakata-Gakken interchange
+Q11107295;Hirakata-higashi interchange
+Q11107455;Q11107455
+Q11108018;Kashiwa interchange
+Q11108036;Kashiwara interchange
+Q11108132;Kashiwazaki interchange
+Q11109394;Q11109394
+Q11109997;Yanaida interchange
+Q11110052;Q11110052
+Q11110314;Tochigi interchange
+Q11110683;Ritto interchange
+Q11110685;Ritto-Konan interchange
+Q11111340;Q11111340
+Q11112429;Monou-Tsuyama interchange
+Q11112431;Monou-Toyosato interchange
+Q11112866;Kuwana interchange
+Q11112871;Kuwana-higashi interchange
+Q11113616;Okegawa-Kano interchange
+Q11113623;Okegawa-kitamoto interchange
+Q11115069;Q11115069
+Q11117010;Mori interchange
+Q11117028;Q11117028
+Q11117059;Q11117059
+Q11117112;Mori-Kakegawa interchange
+Q11117423;Ueda interchange
+Q11119937;Kusunoki interchange
+Q11119944;Kusunoki exit
+Q11119992;Kusube interchange
+Q11121889;Hashimoto interchange
+Q11121890;Hashimoto-higashi interchange
+Q11122106;Q11122106
+Q11122135;Q11122135
+Q11122269;Yokote interchange
+Q11122290;Yokohama Park Ramp
+Q11122293;Yokohama-Machida interchange
+Q11122294;Q11122294
+Q11122295;Q11122295
+Q11122297;Yokohama-Aoba interchange
+Q11122310;Yokota interchange
+Q11122322;Q11122322
+Q11122334;Yokosuka interchange
+Q11122351;Kashihara-kita interchange
+Q11122352;Kashihara-Takada interchange
+Q11122458;Hitsuishi interchange
+Q11122489;Sakura-Tsuchiura interchange
+Q11122492;Sakuragawa-Chikusei interchange
+Q11124217;Mukogawa exit
+Q11124799;Takefu interchange
+Q11124821;Takeishi interchange
+Q11124930;Taketoyo interchange
+Q11125847;Q11125847
+Q11126090;Pippu-kita interchange
+Q11129404;Minakami interchange
+Q11129865;Mizushima interchange
+Q11129909;Mito interchange
+Q11129912;Mito-minami interchange
+Q11129913;Mito-Oarai interchange
+Q11130195;Joso interchange
+Q11130285;Mizusawa interchange
+Q11130626;Q11130626
+Q11132503;Q11132503
+Q11132589;Q11132589
+Q11133448;Q11133448
+Q11133471;Q11133471
+Q11133474;Q11133474
+Q11133667;Ebetsu-higashi interchange
+Q11133668;Ebetsu-nishi interchange
+Q11134408;Kofu interchange
+Q11135696;Q11135696
+Q11135802;Ikeda interchange
+Q11135812;Q11135812
+Q11135819;Q11135819
+Q11135824;Q11135824
+Q11141246;Kochi interchange
+Q11141267;Kahoku interchange
+Q11141767;Kawahara interchange
+Q11141818;Kawaguchiko interchange
+Q11142538;Aburasaka-toge interchange
+Q11142799;Hatta interchange
+Q11142809;Numanohata-higashi interchange
+Q11142812;Numanohata-nishi interchange
+Q11142842;Numazu interchange
+Q11142844;Numazu-Okanomiya interchange
+Q11142871;Numata interchange
+Q11143029;Izumi interchange
+Q11143046;Izumisano interchange
+Q11143057;Q11143057
+Q11143059;Sennan interchange
+Q11143103;Q11143103
+Q11143489;Q11143489
+Q11143751;Horyuji interchange
+Q11144589;Q11144589
+Q11146426;Tsu interchange
+Q11146432;Tsuyama interchange
+Q11146435;Tsuna-Ichinomiya interchange
+Q11146441;Tsugawa interchange
+Q11146479;Tsuda-Sangawa interchange
+Q11146485;Tsuda-higashi interchange
+Q11147477;Sumoto interchange
+Q11147734;Nagareyama interchange
+Q11149029;Q11149029
+Q11149032;Q11149032
+Q11149054;Q11149054
+Q11149064;Urahoro interchange
+Q11149095;Uraga interchange
+Q11149236;Namioka interchange
+Q11149392;Ukishima interchange
+Q11149395;Ukishima interchange
+Q11149748;Kainan interchange
+Q11149954;Kainan-higashi interchange
+Q11151240;Ebina interchange
+Q11151249;Q11151249
+Q11152466;Awajishima-minami interchange
+Q11152580;Joboji interchange
+Q11153215;Fukagawa interchange
+Q11153287;Q11153287
+Q11153289;Q11153289
+Q11153672;Q11153672
+Q11172475;Q11172475
+Q11172476;Q11172476
+Q11172487;Uozu interchange
+Q11172747;Sabae interchange
+Q11173661;Tottori interchange
+Q11173662;Tottori-minami interchange
+Q11173687;Toba-minami Shiraki interchange
+Q11173690;Torimichō exit
+Q11173706;Hōraikai interchange
+Q11173852;Q11173852
+Q11173853;Narumi interchange
+Q11173858;Naruse-Okumatsushima interchange
+Q11173861;Naruto interchange
+Q11173891;Kamogawa Higashi interchange
+Q11173892;Q11173892
+Q11173894;Kamogata interchange
+Q11173990;Mukawa interchange
+Q11173992;Mukawa-Hobetsu interchange
+Q11174019;Tsuruoka interchange
+Q11174028;Tsuruoka-nishi interchange
+Q11174029;Tsurugashima interchange
+Q11174895;Shiojiri interchange
+Q11174898;Shiojiri-kita interchange
+Q11174935;Q11174935
+Q11175027;Kanuma interchange
+Q11175055;Q11175055
+Q11175084;Kazuno-Hachimantai interchange
+Q11175131;Kano interchange
+Q11175814;Q11175814
+Q11175839;Omi interchange
+Q11176895;Q11176895
+Q11179053;Kurokawa Interchange
+Q11179136;Kuromatsunai interchange
+Q11179138;Kuromatsunai-minami interchange
+Q11179352;Kuroishi interchange
+Q11179372;Kuroiso-itamuro interchange
+Q11179605;Kurobe interchange
+Q11180552;Tatsue interchange
+Q11180575;Longtan Interchange
+Q11180595;Ryuo interchange
+Q11180697;Tatsuno interchange
+Q11180698;Tatsuno-nishi interchange
+Q11181985;Kameyama interchange
+Q11181996;Kameoka interchange
+Q11250312;Q11250312
+Q11250320;Q11250320
+Q11423352;Toki interchange
+Q11425229;Q11425229
+Q11425809;Tarumi interchange
+Q11426092;Q11426092
+Q11426155;Q11426155
+Q11426181;Q11426181
+Q11427971;Q11427971
+Q11428721;Q11428721
+Q11428770;Shiozawa-Ishiuchi interchange
+Q11429520;Mibuno interchange
+Q11430597;Taku interchange
+Q11430668;Q11430668
+Q11432289;Q11432289
+Q11432290;Q11432290
+Q11433416;Q11433416
+Q11433418;Q11433418
+Q11433869;Daiba-Kannami interchange
+Q11434181;Q11434181
+Q11435175;Q11435175
+Q11435200;Q11435200
+Q11435259;Ohira interchange
+Q11435260;Odaira interchange
+Q11435287;Q11435287
+Q11435965;Omura interchange
+Q11436276;Q11436276
+Q11437151;Oizumi interchange
+Q11437760;Q11437760
+Q11437767;Q11437767
+Q11438302;Oiso-higashi interchange
+Q11438305;Oisoko interchange
+Q11438307;Oiso-nishi
+Q11438621;Ofunato interchange
+Q11438627;Ofunato-kita interchange
+Q11438637;Ofunato-Goishikaigan interchange
+Q11439484;Q11439484
+Q11439486;Ono interchange
+Q11439654;Q11439654
+Q11439817;Q11439817
+Q11439856;Q11439856
+Q11441909;Odate-Kita interchange
+Q11441911;Odate-minami interchange
+Q11441944;Odaka interchange
+Q11442463;Tsukigase interchange
+Q11442473;Q11442473
+Q11442864;Amagase-Takatsuka interchange
+Q11443861;Taishi interchange
+Q11444074;Ōta Interchange
+Q11446259;Q11446259
+Q11446494;Q11446494
+Q11446512;Memanbetsu Airport interchange
+Q11447191;Q11447191
+Q11447267;Anesaki-Sodegaura interchange
+Q11447336;Q11447336
+Q11447360;Q11447360
+Q11447791;Ureshino interchange
+Q11448163;Q11448163
+Q11449508;Q11449508
+Q11450501;Q11450501
+Q11450772;Azumino interchange
+Q11451223;Q11451223
+Q11451641;Q11451641
+Q11452291;Ginoza interchange
+Q11452573;Horai interchange
+Q11453357;Q11453357
+Q11453457;Miyako-chuo interchange
+Q11453461;Miyako-minami interchange
+Q11454048;Miyamori interchange
+Q11454155;Miyazaki interchange
+Q11455052;Q11455052
+Q11455628;Q11455628
+Q11455687;Q11455687
+Q11455693;Q11455693
+Q11456872;Q11456872
+Q11456874;Tomioka interchange
+Q11457095;Tomizawa interchange
+Q11457111;Futtsu-chuo interchange
+Q11457117;Futtsu-Takeoka interchange
+Q11457348;Tomio Interchange
+Q11457488;Q11457488
+Q11457886;Teramoto Interchange
+Q11458860;Q11458860
+Q11460818;Q11460818
+Q11460962;Q11460962
+Q11461086;Q11461086
+Q11461316;Kobayashi interchange
+Q11462172;Otaru-shioya interchange
+Q11462463;Q11462463
+Q11462636;Q11462636
+Q11462944;Q11462944
+Q11463003;Odawara-nishi interchange
+Q11463837;Q11463837
+Q11463894;Kono interchange
+Q11464180;Onoda interchange
+Q11464934;Amagasaki interchange
+Q11465120;Q11465120
+Q11465407;Obanazawa interchange
+Q11465462;Onomichi-kita interchange
+Q11465609;Igumi interchange
+Q11465667;Yaka interchange
+Q11466285;Q11466285
+Q11466303;Yamamoto interchange
+Q11467931;Yamasaki interchange
+Q11469962;Sanmu-Naruto interchange
+Q11470096;Yamada interchange
+Q11470097;Yamada interchange
+Q11470124;Q11470124
+Q11470234;Yamada-minami interchange
+Q11471270;Q11471270
+Q11472036;Okayama interchange
+Q11473966;Q11473966
+Q11474252;Iwakuni interchange
+Q11474370;Q11474370
+Q11475862;Q11475862
+Q11476133;Mineoka interchange
+Q11476218;Q11476218
+Q11476227;Q11476227
+Q11476230;Q11476230
+Q11477001;Shimada-Kanaya interchange
+Q11477932;Kawaguchi-chuo interchange
+Q11478020;Kawaguchi-higashi interchange
+Q11478064;Kawaguchi-nishi interchange
+Q11478330;Q11478330
+Q11478639;Q11478639
+Q11478887;Kawazu interchange
+Q11479286;Kawanabe interchange
+Q11480018;Ichihara interchange
+Q11480531;Ichiki interchange
+Q11481767;Q11481767
+Q11482129;Q11482129
+Q11482325;Hiratsuka interchange
+Q11483225;Hirayu interchange
+Q11483275;Hirata interchange
+Q11485721;Q11485721
+Q11485786;Q11485786
+Q11485892;Q11485892
+Q11486847;Tatebe interchange
+Q11486902;Q11486902
+Q11488879;Gobo-minami interchange
+Q11488947;Q11488947
+Q11489092;Q11489092
+Q11489840;Q11489840
+Q11490399;Q11490399
+Q11490438;Tokumasu interchange
+Q11491087;Shizugawa interchange
+Q11491143;Q11491143
+Q11492334;Q11492334
+Q11493825;Q11493825
+Q11496575;Q11496575
+Q11497261;Q11497261
+Q11497482;Q11497482
+Q11497540;Q11497540
+Q11497877;Jurokucho interchange
+Q11497914;Q11497914
+Q11501380;Q11501380
+Q11501530;Shinchi interchange
+Q11501892;Q11501892
+Q11502270;Q11502270
+Q11502583;Q11502583
+Q11503821;Q11503821
+Q11504140;Q11504140
+Q11504220;Q11504220
+Q11504654;Q11504654
+Q11504809;Q11504809
+Q11505183;Hiwasa interchange
+Q11505235;Hinagu interchange
+Q11509899;Hita interchange
+Q11510510;Q11510510
+Q11511101;Q11511101
+Q11514197;Q11514197
+Q11514198;Q11514198
+Q11514379;Q11514379
+Q11514777;Chiebun-minami interchange
+Q11514778;Chiebun interchange
+Q11515257;Q11515257
+Q11516245;Q11516245
+Q11516427;Ariake-kita interchange
+Q11517266;Asakura Interchange
+Q11517269;Asakura interchange
+Q11517358;Asaji interchange
+Q11518260;Q11518260
+Q11518503;Kisarazu-kita Interchange
+Q11518505;Kisarazu-minami interchange
+Q11519203;Kitsu interchange
+Q11519643;Sueyoshi Interchange
+Q11522777;Murakami-Saberi interchange
+Q11523788;Higashisonogi interchange
+Q11526620;Q11526620
+Q11526682;Q11526682
+Q11527379;Higashine-kita interchange
+Q11527730;Higashihama interchange
+Q11527998;Q11527998
+Q11528200;Higashisefuri interchange
+Q11528484;Tobu-yunomaru interchange
+Q11528645;Q11528645
+Q11528743;Q11528743
+Q11528846;Haki interchange
+Q11529230;Q11529230
+Q11529253;Q11529253
+Q11529271;Matsumoto interchange
+Q11529742;Matsuyama interchange
+Q11529954;Matsuoka interchange
+Q11530262;Matsukawa interchange
+Q11532467;Q11532467
+Q11532671;Itabashi-honcho interchange
+Q11533515;Shidare Interchange
+Q11533530;Q11533530
+Q11533788;Kashiwagi interchange
+Q11534013;Q11534013
+Q11534301;Q11534301
+Q11534997;Kakizaki interchange
+Q11535808;Q11535808
+Q11537615;Q11537615
+Q11537761;Q11537761
+Q11538070;Q11538070
+Q11538391;Q11538391
+Q11538397;Umekita interchange
+Q11538593;Q11538593
+Q11541860;Q11541860
+Q11543504;Yokosuka interchange
+Q11544172;Q11544172
+Q11545467;Q11545467
+Q11545624;Q11545624
+Q11546628;Takeo-kitagata interchange
+Q11546630;Takeo-minami interchange
+Q11547228;Q11547228
+Q11548269;Minamata interchange
+Q11548420;Q11548420
+Q11549063;Q11549063
+Q11550070;Eiheiji interchange
+Q11550071;Eiheiji-Sando interchange
+Q11550424;Q11550424
+Q11550599;Egami interchange
+Q11550661;Esashi-Tase interchange
+Q11551377;Q11551377
+Q11551669;Ikeda interchange
+Q11552441;Kutsukake interchange
+Q11552659;Okinawa-kita interchange
+Q11552662;Okinawa-minami interchange
+Q11553216;Q11553216
+Q11554556;Numata interchange
+Q11554565;Q11554565
+Q11554717;Q11554717
+Q11554878;Q11554878
+Q11554980;Satsuma-tomarino interchange
+Q11555432;Hasami-Arita interchange
+Q11555524;Q11555524
+Q11555981;Tsunagi interchange
+Q11555988;Q11555988
+Q11556065;Q11556065
+Q11556086;Tsushima-Takata interchange
+Q11556237;Tsuda interchange
+Q11557635;Q11557635
+Q11557682;Q11557682
+Q11557734;Hamamatsu-Inasa interchange
+Q11557735;Hamamatsu-inasa Kita interchange
+Q11557740;Hamamatsu interchange
+Q11557869;Hamamatsu-Hamakita interchange
+Q11557882;Hamamatsu-nishi interchange
+Q11557909;Hamatama interchange
+Q11558032;Q11558032
+Q11558144;Urawa interchange
+Q11558157;Urawa Minami exit
+Q11558240;Q11558240
+Q11558425;Namie interchange
+Q11558868;Miyama interchange
+Q11559078;Q11559078
+Q11559115;Q11559115
+Q11559559;Q11559559
+Q11559713;Q11559713
+Q11559795;Awaji interchange
+Q11560023;Fukagawa-nishi interchange
+Q11560281;Hinokage-fukasumi interchange
+Q11560652;Q11560652
+Q11560709;Shimizu-Ihara interchange
+Q11560740;Q11560740
+Q11560741;Shimizu interchange
+Q11561267;Kiyosu-Higashi interchange
+Q11561269;Kiyosubashi Exit
+Q11561275;Kiyosu-nishi interchange
+Q11561302;Kiyotaki interchange
+Q11561459;Q11561459
+Q11561555;Shibukawa-Ikaho interchange
+Q11561563;Shibukawa-terano interchange
+Q11561687;Q11561687
+Q11563028;Kohoku interchange
+Q11563063;Konandai interchange
+Q11563109;Q11563109
+Q11563149;Q11563149
+Q11563179;Q11563179
+Q11563477;Yubara interchange
+Q11563534;Q11563534
+Q11563558;Yufuin interchange
+Q11563606;Yudonosan interchange
+Q11563621;Yuzawa interchange
+Q11563622;Yuzawa interchange
+Q11563678;Yuasa interchange
+Q11563747;Yuda interchange
+Q11563796;Yunogo-onsen interchange
+Q11563814;Wangan-Chiba interchange
+Q11563817;Wangan-Ichikawa interchange
+Q11563818;Wangan-Yatomi interchange
+Q11563820;Wangan-Kuwana interchange
+Q11563821;Q11563821
+Q11563828;Wangan-Nagashima interchange
+Q11564437;Mizokuchi interchange
+Q11565007;Namerikawa interchange
+Q11565126;Takikawa interchange
+Q11565204;Takizawa interchange
+Q11565295;Rokando interchange
+Q11565313;Q11565313
+Q11565320;Takino-Yashiro interchange
+Q11565707;Itako interchange
+Q11566095;Q11566095
+Q11566537;Q11566537
+Q11566724;Seta-higashi interchange
+Q11566727;Seta-nishi interchange
+Q11566811;Nadaura interchange
+Q11567256;Q11567256
+Q11567651;Yaizu interchange
+Q11567862;Q11567862
+Q11567877;Kumayama interchange
+Q11568636;Kumage interchange
+Q11569081;Q11569081
+Q11569513;Q11569513
+Q11569550;Q11569550
+Q11569620;Katayamazu interchange
+Q11570063;Ushiku-Ami interchange
+Q11570193;Q11570193
+Q11571199;Q11571199
+Q11571269;Q11571269
+Q11571423;Kariba Interchange
+Q11571498;Karugano Interchange
+Q11571740;Sayama-Hidaka interchange
+Q11571944;Inawashiro Bandaikogen interchange
+Q11572100;Bando interchange
+Q11572107;Sanage Interchange
+Q11572110;Sanage-higashi Interchange
+Q11572276;Q11572276
+Q11572367;Q11572367
+Q11572407;Q11572407
+Q11572465;Tamaki interchange
+Q11572522;Tamashima interchange
+Q11572545;Tamagawa interchange
+Q11572547;Tamagawa interchange
+Q11572699;Q11572699
+Q11572734;Q11572734
+Q11572736;Q11572736
+Q11572737;Q11572737
+Q11572980;Oji-kita interchange
+Q11572982;Q11572982
+Q11573259;Kuga interchange
+Q11573263;Kusu interchange
+Q11573734;Kotooka-Moritake interchange
+Q11573904;Mizunami interchange
+Q11573927;Kyotanba-Mizuho interchange
+Q11574268;Amagi interchange
+Q11574322;Jimokuji-kita interchange
+Q11574324;Jimokuji-minami interchange
+Q11574435;Ikuchijima-kita interchange
+Q11574437;Ikuchijima-minami interchange
+Q11574778;Q11574778
+Q11574863;Ikuno ramp
+Q11574866;Ikuno-kita No.1 ramp
+Q11574867;Ikuno-kita No.2 ramp
+Q11574898;Ikoma interchange
+Q11574899;Q11574899
+Q11574952;Q11574952
+Q11575091;Mochigase interchange
+Q11575118;Tagami interchange
+Q11576267;Q11576267
+Q11576522;Q11576522
+Q11576523;Q11576523
+Q11577098;Tanoura interchange
+Q11577311;Tanabe-kita interchange
+Q11577397;Tanabe-nishi interchange
+Q11577465;Tano interchange
+Q11577525;Tatsuruhama interchange
+Q11577576;Yuki interchange
+Q11577679;Q11577679
+Q11577680;Konan interchange
+Q11577702;Konu interchange
+Q11577715;Q11577715
+Q11577782;Kofu-minami interchange
+Q11577817;Kofu-Showa interchange
+Q11577841;Q11577841
+Q11577989;Koka-Tsuchiyama Interchange
+Q11578553;Q11578553
+Q11578563;Rumoi-Horonuka interchange
+Q11579111;Noboribetsu-Muroran interchange
+Q11579121;Noboribetsu-higashi interchange
+Q11579159;Tome interchange
+Q11579164;Tome-Towa interchange
+Q11579530;Shiroo interchange
+Q11579532;Q11579532
+Q11579534;Q11579534
+Q11579542;Hakusan interchange
+Q11579627;Shiraoka-Shobu interchange
+Q11579705;Shirakawa Interchange
+Q11579708;Q11579708
+Q11579727;Q11579727
+Q11579752;Shirakawago interchange
+Q11579846;Shirane interchange
+Q11579879;Shirakashi itnerchange
+Q11579947;Shirakawa interchange
+Q11580004;Nanki-Shirahama interchange
+Q11580044;Shirataki interchange
+Q11580127;Shiroishi interchange
+Q11580286;Shiranuka interchange
+Q11580314;Shiraoi interchange
+Q11580446;Q11580446
+Q11580527;Shirotori interchange
+Q11580555;Shirotori-Ochi Interchange
+Q11580604;Shirotori-nishi interchange
+Q11580991;Q11580991
+Q11581003;Q11581003
+Q11581337;Morioka interchange
+Q11581357;Morioka-minami interchange
+Q11581625;Q11581625
+Q11581815;Tadatsu interchange
+Q11581899;Q11581899
+Q11582090;Sagamihara interchange
+Q11582166;Sagamiko interchange
+Q11582171;Sagamiko-higashi interchange
+Q11582228;Ainoura-Nakazato interchange
+Q11582372;Sagara-Makinohara interchange
+Q11582466;Soma interchange
+Q11582704;Kenritsu-Kangodai interchange
+Q11582918;Q11582918
+Q11583076;Nozoki interchange
+Q11583101;Mooka interchange
+Q11583559;Q11583559
+Q11584003;Yabuki interchange
+Q11584007;Yabuki-chuo interchange
+Q11584133;Yamoto interchange
+Q11584145;Yaita interchange
+Q11584515;Q11584515
+Q11584655;Chiran interchange
+Q11584787;Q11584787
+Q11585514;Ishiyama interchange
+Q11585569;Ishioka-Omitama smart interchange
+Q11585641;Ishikawa interchange
+Q11585883;Ishikawa-bohata interchange
+Q11585916;Q11585916
+Q11586457;Ishinomaki-Onagawa interchange
+Q11586482;Ishinomaki Kanan interchange
+Q11586483;Ishinomakiko interchange
+Q11586627;Q11586627
+Q11586777;Q11586777
+Q11587559;Tohori ramp
+Q11587636;Tonami interchange
+Q11587715;Ikarigaseki interchange
+Q11587753;Usui-Karuizawa interchange
+Q11587890;Bandai-Kawahigashi interchange
+Q11587892;Bandai-atami interchange
+Q11587900;Iwata interchange
+Q11587958;Q11587958
+Q11589619;Kozaki interchange
+Q11589627;Kanzaki-kita ramp
+Q11589629;Kanzaki-minami ramp
+Q11589790;Kobe-Sanda interchange
+Q11589814;Kobe-kita interchange
+Q11590215;Kobe-nishi interchange
+Q11590235;Q11590235
+Q11590346;Q11590346
+Q11590350;Q11590350
+Q11590351;Q11590351
+Q11590360;Kamihayashi-Iwafuneko interchange
+Q11590560;Q11590560
+Q11590622;Kandabashi interchange
+Q11590846;Q11590846
+Q11590960;Konoguchi interchange
+Q11591232;Fukui interchange
+Q11591263;Fukui-kita junction interchange
+Q11591783;Fukusumi interchange
+Q11591787;Q11591787
+Q11591807;Fukumitsu interchange
+Q11592078;Fukuyama-higashi interchange
+Q11592102;Fukuyama-nishi interchange
+Q11592128;Fukuoka interchange
+Q11593029;Q11593029
+Q11593703;Fukushima Airport interchange
+Q11593735;Fukushima-nishi interchange
+Q11593769;Fukushima-Iizaka interchange
+Q11593778;Fukusaki interchange
+Q11593780;Fukusaki-kita ramp
+Q11593781;Fukusaki-minami ramp
+Q11593976;Q11593976
+Q11594062;Q11594062
+Q11594317;Fukuchiyama interchange
+Q11594453;Q11594453
+Q11594454;Q11594454
+Q11595231;Akita-chuo interchange
+Q11595266;Akita-kita interchange
+Q11595273;Akita-minami interchange
+Q11595736;Akita Airport interchange
+Q11596082;Hadano-Nakai interchange
+Q11596111;Chippubetsu interchange
+Q11596255;Hodono interchange
+Q11596396;Tanesashikaigan-Hashikamidake interchange
+Q11596543;Inagi interchange
+Q11596627;Inashiki interchange
+Q11597058;Q11597058
+Q11597061;Q11597061
+Q11597230;Anagawa interchange
+Q11597233;Anamizu interchange
+Q11597484;Q11597484
+Q11597825;Tateyama interchange
+Q11597996;Q11597996
+Q11598303;Q11598303
+Q11598611;Q11598611
+Q11599068;Q11599068
+Q11599301;Takeda interchange
+Q11599854;Kasatori interchange
+Q11599860;Q11599860
+Q11599868;Kasaoka interchange
+Q11599999;Kasama-nishi interchange
+Q11602260;Daini-keihan-Kadoma interchange
+Q11602657;Sasaya interchange
+Q11602807;Chikugo-Ogori interchange
+Q11602906;Q11602906
+Q11603147;Minotani interchange
+Q11603172;Minoo-Todoromi interchange
+Q11603319;Q11603319
+Q11603330;Q11603330
+Q11603361;Q11603361
+Q11603368;Hakone-tōge Interchange
+Q11603469;Q11603469
+Q11603519;Tsukidate interchange
+Q11603528;Shino interchange
+Q11603721;Shinozaki interchange
+Q11603772;Q11603772
+Q11603952;Q11603952
+Q11604018;Komedashi interchange
+Q11604024;Maihara interchange
+Q11604065;Yonago interchange
+Q11604134;Yoneyama interchange
+Q11604248;Yonezawa-Manbara interchange
+Q11604254;Yonezawa-kita interchange
+Q11604461;Kinokawa-higashi interchange
+Q11604592;Q11604592
+Q11604607;Q11604607
+Q11604711;Seika-Shimokoma interchange
+Q11604718;Seika-Gakken interchange
+Q11604818;Q11604818
+Q11604862;Q11604862
+Q11604872;Itoigawa interchange
+Q11604968;Kii-Nagashima interchange
+Q11604985;Kisei-Ōuchiyama Interchange
+Q11604991;Kihoku-Katsuragi interchange
+Q11605727;Shiwa interchange
+Q11605737;Q11605737
+Q11607368;Ayabe interchange
+Q11607377;Ayabe-Ankokuji interchange
+Q11608724;Minami Interchange
+Q11608739;Mimasaka interchange
+Q11608788;Mihara interchange
+Q11608791;Mihara-minami interchange
+Q11608792;Mihara-kita interchange
+Q11608800;Mihara-higashi interchange
+Q11608871;Bibai interchange
+Q11609032;Miyama interchange
+Q11609058;Mikawa interchange
+Q11609072;Q11609072
+Q11609084;Bihoro Takano interchange
+Q11609168;Wakasa-Mihama interchange
+Q11609169;Mihama interchange
+Q11609182;Bifuka interchange
+Q11609185;Bifuka-kita interchange
+Q11609192;Mino interchange
+Q11609200;Minokamo interchange
+Q11609305;Mine interchange
+Q11609311;Mine-nishi interchange
+Q11609440;Mima interchange
+Q11610054;Q11610054
+Q11610167;Habikino interchange
+Q11610186;Habikino-higashi interchange
+Q11610242;Hazawa interchange
+Q11610249;Hanyu interchange
+Q11610291;Haneda interchange
+Q11611107;Q11611107
+Q11611108;Seiro-Shibata interchange
+Q11611879;Noshiro-Minami interchange
+Q11611893;Noshiro-Higashi interchange
+Q11611986;Q11611986
+Q11611995;Nou interchange
+Q11612042;noto-satoyama kuko interchange
+Q11612171;Wakimachi interchange
+Q11612544;Q11612544
+Q11613302;Saku-usuda interchange
+Q11613645;Q11613645
+Q11613663;Maino interchange
+Q11613694;Maizuru-Oe interchange
+Q11613717;Maizuru-higashi interchange
+Q11613732;Maizuru-nishi interchange
+Q11613766;Funagata interchange
+Q11613778;Q11613778
+Q11614008;Q11614008
+Q11614037;Q11614037
+Q11614066;Funehiki-miharu interchange
+Q11614116;Funabashi interchange
+Q11614264;Funatsu ramp
+Q11614323;Funami Interchange
+Q11614607;Q11614607
+Q11614647;Shibasaki interchange
+Q11614680;Q11614680
+Q11614757;Q11614757
+Q11614768;Q11614768
+Q11614783;Ashikita interchange
+Q11614790;Q11614790
+Q11614819;Q11614819
+Q11615107;Q11615107
+Q11615194;Hanazono interchange
+Q11615358;Hanamaki interchange
+Q11615365;Hanamaki-minami interchange
+Q11615381;Hanamaki Airport interchange
+Q11615559;Hanada interchange
+Q11615687;Hanawa interchange
+Q11615907;Geino interchange
+Q11615998;Q11615998
+Q11615999;Geisei-nishi interchange
+Q11616056;Memuro interchange
+Q11616057;Memuro-Obihiro interchange
+Q11616262;Q11616262
+Q11616542;Wakayanagi-Kannari interchange
+Q11616616;Q11616616
+Q11616702;Q11616702
+Q11616795;Q11616795
+Q11616814;Q11616814
+Q11616827;Tomakomai-higashi interchange
+Q11616836;Tomakomai-nishi interchange
+Q11616842;Tomato-chuo interchange
+Q11616863;Q11616863
+Q11617150;Q11617150
+Q11617170;Q11617170
+Q11617174;Q11617174
+Q11617210;Q11617210
+Q11617322;Ibarakimachi-nishi interchange
+Q11617323;Ibarakimachi-higashi interchange
+Q11617823;Ibarakikuko-kita interchange
+Q11617842;Ibaraki Interchange
+Q11617850;Ibaraki-Sendaiji interchange
+Q11617965;Q11617965
+Q11618012;Q11618012
+Q11618084;Soka interchange
+Q11618169;Q11618169
+Q11618190;Kusatsu-Tanakami interchange
+Q11618303;Q11618303
+Q11618431;Arao Interchange
+Q11618618;Arakawa-Tainai interchange
+Q11618915;Shokawa interchange
+Q11619009;Ogikubo interchange
+Q11619632;Kikugawa interchange
+Q11620156;Komono interchange
+Q11620442;Q11620442
+Q11620555;Ochiai interchange
+Q11620694;Otoshibe interchange
+Q11620982;Kasai interchange
+Q11621253;Hiruzen interchange
+Q11621640;Q11621640
+Q11621771;Q11621771
+Q11621975;Q11621975
+Q11622319;Satsumasendai-Mizuhiki interchange
+Q11622320;Satsumasendai-Miyako interchange
+Q11622322;Satsumasendai-Tkae interchange
+Q11622552;Aizumi interchange
+Q11622608;Q11622608
+Q11622753;Fujiidera interchange
+Q11622966;Q11622966
+Q11623857;Fujioka interchange
+Q11624078;Q11624078
+Q11624347;Fujieda-Okabe interchange
+Q11624477;Q11624477
+Q11625194;Soga interchange
+Q11625382;Q11625382
+Q11625476;Abuta-Toyako interchange
+Q11625477;Q11625477
+Q11625868;Kanie interchange
+Q11626389;Kinugasa interchange
+Q11626520;Q11626520
+Q11626525;Fukuroi interchange
+Q11626560;Sodegaura interchange
+Q11626956;Susono interchange
+Q11627103;Q11627103
+Q11627122;Q11627122
+Q11627198;Q11627198
+Q11627209;Nishiaizu interchange
+Q11627336;Nishihara interchange
+Q11627414;Q11627414
+Q11627553;Q11627553
+Q11627605;Nishinomiya interchange
+Q11627614;Q11627614
+Q11627615;Nishinomiya-kita interchange
+Q11627623;Nishinomiya-Yamaguchi-minami interchange
+Q11627624;Nishinomiya-Yamaguchi-higashi interchange
+Q11627662;Q11627662
+Q11627710;Nishio interchange
+Q11627746;Q11627746
+Q11627796;Nishiyama interchange
+Q11627797;Nishiyama interchange
+Q11628045;Nishikawa interchange
+Q11628233;Nishihirose Interchange
+Q11628439;Q11628439
+Q11628449;Q11628449
+Q11628700;Saijo interchange
+Q11628782;Nishine interchange
+Q11628972;Q11628972
+Q11629105;Q11629105
+Q11629106;Seidan-Mihara interchange
+Q11629118;Seisho-Ninomiya interchange
+Q11629157;Nishiseto-Onomichi interchange
+Q11629331;Nishiishikiri interchange
+Q11629342;Q11629342
+Q11629375;Nishiawakura interchange
+Q11629385;Q11629385
+Q11629481;Nishifuji interchange
+Q11629575;Nishinasuno-shiobara interchange
+Q11629941;Q11629941
+Q11630376;Oyashirazu interchange
+Q11631072;Kunneppu interchange
+Q11631219;Kyoda interchange
+Q11631733;Chofu interchange
+Q11631823;Suwa interchange
+Q11631842;Suwa-minami interchange
+Q11631858;Kanemidake interchange
+Q11631999;Isahaya interchange
+Q11632503;Q11632503
+Q11632777;Yawara interchange
+Q11632804;Taniyama interchange
+Q11633025;Yatsu-Funabashi interchange
+Q11633057;Yatabe interchange
+Q11633078;Q11633078
+Q11633187;Toyooka interchange
+Q11633192;Toyonaka interchange
+Q11633198;Q11633198
+Q11633387;Q11633387
+Q11633392;Toyotomi ramp
+Q11633394;Q11633394
+Q11633397;Q11633397
+Q11633409;Q11633409
+Q11633411;Toyoyama-minami exit
+Q11633566;Q11633566
+Q11633591;Toyokawa interchange
+Q11633728;Toyoake interchange
+Q11633750;Q11633750
+Q11633757;Toyosaka-Niigatahigashiko interchange
+Q11633915;Q11633915
+Q11633936;Toyoura interchange
+Q11633975;Toyota interchange
+Q11633999;Toyota-Kanpachi interchange
+Q11634002;Toyota-minami interchange
+Q11634118;Toyota-higashi interchange
+Q11634123;Toyota-Matsudaira interchange
+Q11634147;Toyota-Fujioka interchange
+Q11634171;Toyota-Iiyama interchange
+Q11634238;Tomigusuku interchange
+Q11634240;Tomigusuku-Nakachi interchange
+Q11634433;Kaizuka interchange
+Q11634435;Kaizuka interchange
+Q11634439;Q11634439
+Q11634918;Kata interchange
+Q11634958;Kayo interchange
+Q11635394;Q11635394
+Q11635447;Akagi interchange
+Q11635871;Ako interchange
+Q11636365;Koshinohara interchange
+Q11636509;Echigo-kawaguchi interchange
+Q11636746;Ashikaga interchange
+Q11636867;Ashoro interchange
+Q11636928;Q11636928
+Q11637220;Shimobeonsen-Hayakawa interchange
+Q11637224;Q11637224
+Q11637601;Karumai interchange
+Q11637739;Q11637739
+Q11638292;Q11638292
+Q11639235;Oiwakecho interchange
+Q11639488;Zushi interchange
+Q11639573;Kayooka interchange
+Q11639828;Q11639828
+Q11640162;Q11640162
+Q11641861;Q11641861
+Q11642420;Tono-Sumita interchange
+Q11642460;tozaka ramp
+Q11642705;Q11642705
+Q11642735;Nachikatsuura interchange
+Q11642762;Naka interchange
+Q11642808;Naha interchange
+Q11642849;Q11642849
+Q11642889;Nasu interchange
+Q11643076;Gujo-hachiman interchange
+Q11643133;Koriyama interchange
+Q11643135;Koriyama interchange
+Q11643155;Koriyama-minami interchange
+Q11643156;Koriyama-minami interchange
+Q11643186;Koriyama-higashi interchange
+Q11643374;Q11643374
+Q11643524;Miyakonojo interchange
+Q11643572;Q11643572
+Q11643744;Tsuru interchange
+Q11643778;Tsuzuki interchange
+Q11643822;Tsuga interchange
+Q11643981;Shisui interchange
+Q11644293;Sakou interchange
+Q11644338;Sakata interchange
+Q11644339;Sakataminato interchange
+Q11645098;Notomo interchange
+Q11645270;Q11645270
+Q11645304;Q11645304
+Q11645430;Q11645430
+Q11645930;Noda interchange
+Q11646100;Q11646100
+Q11646135;Noheji interchange
+Q11646137;Noheji-half interchange
+Q11646141;Noheji-kita interchange
+Q11646143;Noheji-Kimyo interchange
+Q11646233;Nogurosawa interchange
+Q11646264;Q11646264
+Q11646959;Kaneyama Kita interchange
+Q11647319;Kin interchange
+Q11647484;Kanazawa-higashi interchange
+Q11647490;Kanazawa-Morimoto interchange
+Q11647527;Kanazawa-Shizenkoen interchange
+Q11647532;Kanazawa-nishi interchange
+Q11647564;Kanazu interchange
+Q11647576;Konoura interchange
+Q11648116;Kamaishi-Ryoishi interchange
+Q11648117;Kamaishi-kita interchange
+Q11648134;Kamaishi-sennintoge interchange
+Q11648148;Hari interchange
+Q11648160;Q11648160
+Q11648251;Kushiro-nishi interchange
+Q11648294;Kushiro-higashi interchange
+Q11648346;Q11648346
+Q11649456;Q11649456
+Q11649468;Suzuka interchange
+Q11649892;Hokota interchange
+Q11649996;Q11649996
+Q11650251;Zenibako interchange
+Q11650316;Kyonan-Hota interchange
+Q11650318;Kyonan-Tomiyama interchange
+Q11650454;Q11650454
+Q11650458;Geumgang IC
+Q11650540;Q11650540
+Q11650576;Suzuyama interchange
+Q11651025;Q11651025
+Q11651173;Q11651173
+Q11651359;Q11651359
+Q11651390;Oshamambe interchange
+Q11651397;Q11651397
+Q11651427;Nagakute interchange
+Q11651553;Nagahara interchange
+Q11651602;Nagasaka interchange
+Q11651603;Q11651603
+Q11651640;Q11651640
+Q11651749;Q11651749
+Q11651983;Nagaoka interchange
+Q11651994;Nagaokakyo interchange
+Q11652017;Q11652017
+Q11652213;Nagashima interchange
+Q11652318;Nagasaki interchange
+Q11652431;Nagasaki-tarami interchange
+Q11652882;Nagasaki-susukizuka interchange
+Q11653081;Q11653081
+Q11653099;Q11653099
+Q11653231;Nagaizumi interchange
+Q11653238;Nagaizumi-Numazu interchange
+Q11653328;Nagaura Interchange
+Q11653407;Q11653407
+Q11653431;Q11653431
+Q11653509;Nagamachi interchange
+Q11654109;Nagano interchange
+Q11655050;Kadoma interchange
+Q11655363;Ma interchange
+Q11655365;Q11655365
+Q11655501;Seki interchange
+Q11655503;Seki interchange
+Q11655530;Sekigahara interchange
+Q11655782;Seki-Hiromi interchange
+Q11656115;Sekizawa interchange
+Q11656621;Hannan interchange
+Q11656842;Q11656842
+Q11657010;Hofu-higashi interchange
+Q11657013;Hofu-nishi interchange
+Q11657143;Akune interchange
+Q11657144;Akune-kita itnerchange
+Q11657160;Agui interchange
+Q11657252;Q11657252
+Q11657280;Q11657280
+Q11657376;Akan interchange
+Q11657448;Q11657448
+Q11657541;Q11657541
+Q11657673;Ami-higashi interchange
+Q11658129;Innosho interchange
+Q11658168;Q11658168
+Q11658554;Q11658554
+Q11658563;Rikuzentakata interchange
+Q11658926;Hashikami interchange
+Q11659153;Kariki interchange
+Q11659186;Ogachi-komachi interchange
+Q11660064;Q11660064
+Q11661975;Ome interchange
+Q11662017;Aomori interchange
+Q11662033;Aomori-Chuo interchange
+Q11662154;Aomori-higashi interchange
+Q11662901;Shizuoka interchange
+Q11664102;Nirayamatoge Interchange
+Q11664106;Nirasaki interchange
+Q11664197;Otofuke-Obihiro interchange
+Q11664343;Otowa-Gamagori interchange
+Q11664528;Suzaka Nagano-higashi interchange
+Q11664544;Susaki-chuo interchange
+Q11664552;Susaki-higashi interchange
+Q11664555;Susaki-nishi interchange
+Q11664560;Sukawa interchange
+Q11664609;Sutama interchange
+Q11664668;Suma interchange
+Q11664791;sukagawa interchange
+Q11664834;Subashiri interchange
+Q11664844;Q11664844
+Q11664964;Ei interchange
+Q11665002;Q11665002
+Q11665062;Okazaki-higashi interchange
+Q11665761;Tobishima interchange
+Q11665907;Hida-Kiyomi interchange
+Q11666118;Iikura ramp
+Q11666459;Iida interchange
+Q11666460;Q11666460
+Q11666515;Iida-Yamamoto interchange
+Q11666551;Iida-kamihisakata Takagi-tomida interchange
+Q11666554;Q11666554
+Q11666845;Yabu interchange
+Q11666869;Yoro interchange
+Q11666955;Tatebayashi interchange
+Q11667134;Kasumi interchange
+Q11667147;Kōnan-kagami interchange
+Q11667148;Kōnan-yasu interchange
+Q11667149;Kōnan-noichi interchange
+Q11667720;Kashiba interchange
+Q11667840;Maborikaigan interchange
+Q11667957;Q11667957
+Q11668346;Q11668346
+Q11668353;Komagata interchange
+Q11668356;Q11668356
+Q11668653;Q11668653
+Q11668713;Q11668713
+Q11668873;Q11668873
+Q11668901;Takaharu interchange
+Q11669083;Q11669083
+Q11669190;Takatomi interchange
+Q11669262;Q11669262
+Q11669263;Takaono-kita interchange
+Q11669269;Takaya junction
+Q11669304;Takayama interchange
+Q11669305;Q11669305
+Q11669435;Takayama-nishi interchange
+Q11669465;Takaoka interchange
+Q11669484;Takaoka-kita interchange
+Q11669640;Q11669640
+Q11669710;Takasaki interchange
+Q11670265;Takamatsu interchange
+Q11670276;Takamatsu-chuo interchange
+Q11670286;Q11670286
+Q11670433;Takamatsu-higashi interchange
+Q11670442;Takamatsu-Danshi interchange
+Q11670499;Takamatsu-nishi interchange
+Q11670860;Takagicho Entrance
+Q11671785;Q11671785
+Q11672019;Takata interchange
+Q11672020;Takada interchange
+Q11672021;Takata interchange
+Q11672022;Takata interchange
+Q11672315;Kochi interchange
+Q11672326;Q11672326
+Q11672336;Kōchi-minami interchange
+Q11672385;Nankoku-minami interchange
+Q11672543;Kochi-Ryoma Airport interchange
+Q11672573;Q11672573
+Q11672601;Q11672601
+Q11672644;Q11672644
+Q11672766;Takahagi interchange
+Q11672845;Ichikawa-minami interchange
+Q11672887;Q11672887
+Q11672991;Takano interchange
+Q11673024;Koyaguchi interchange
+Q11673170;Takabari exit
+Q11673255;Takasu interchange
+Q11673303;Takasu interchange
+Q11673308;Q11673308
+Q11675420;Naruto-kita interchange
+Q11675690;Q11675690
+Q11675734;Q11675734
+Q11675736;Q11675736
+Q11676048;Q11676048
+Q11676121;Tsurumachi interchange
+Q11676357;Takanosu interchange
+Q11676996;Kagoshima-nishi interchange
+Q11678061;Kurosaki interchange
+Q11678162;Q11678162
+Q11678168;Q11678168
+Q11986663;Q11986663
+Q12358192;Q12358192
+Q13427746;Q13427746
+Q13427747;Q13427747
+Q13427748;Q13427748
+Q13427749;Q13427749
+Q13427750;Q13427750
+Q13427753;Q13427753
+Q13427755;Q13427755
+Q13427757;Q13427757
+Q13427758;Q13427758
+Q13427760;Q13427760
+Q13427762;Q13427762
+Q13427764;Q13427764
+Q13427766;Q13427766
+Q13427768;Q13427768
+Q13427769;Q13427769
+Q13427771;Q13427771
+Q13427773;Q13427773
+Q13427775;Q13427775
+Q13427776;Q13427776
+Q13427777;Q13427777
+Q13427779;Q13427779
+Q13427780;Q13427780
+Q13427781;Q13427781
+Q13427782;Q13427782
+Q13427784;Q13427784
+Q13427785;Q13427785
+Q13427786;Q13427786
+Q13427788;Q13427788
+Q13427789;Q13427789
+Q13427790;Q13427790
+Q13427791;Q13427791
+Q13427792;Köln-Bickendorf Junction
+Q13427793;Q13427793
+Q13427794;Q13427794
+Q13427795;Q13427795
+Q13427797;Q13427797
+Q13427798;Q13427798
+Q13427799;Q13427799
+Q13427800;Q13427800
+Q13427801;Q13427801
+Q13427803;Q13427803
+Q13427804;Q13427804
+Q13427805;Q13427805
+Q13427806;Q13427806
+Q13427807;Q13427807
+Q13427808;Q13427808
+Q13427809;Q13427809
+Q13427810;Q13427810
+Q13427811;Q13427811
+Q13427812;Q13427812
+Q13427813;Q13427813
+Q13427815;Q13427815
+Q13427817;Q13427817
+Q13427818;Q13427818
+Q13427820;Q13427820
+Q13427822;Q13427822
+Q13427824;Q13427824
+Q13427825;Q13427825
+Q13427827;Q13427827
+Q13427829;Q13427829
+Q13427831;Q13427831
+Q13427833;Q13427833
+Q13427835;Q13427835
+Q13427837;Q13427837
+Q13427839;Q13427839
+Q13427841;Q13427841
+Q13427842;Q13427842
+Q13427843;Q13427843
+Q13427844;Q13427844
+Q13427845;Q13427845
+Q13427846;Q13427846
+Q13427847;Q13427847
+Q13427848;Q13427848
+Q13427849;Q13427849
+Q13427850;Q13427850
+Q13427851;Q13427851
+Q13427853;Q13427853
+Q13427854;Q13427854
+Q13427856;Q13427856
+Q13427857;Q13427857
+Q13427859;Q13427859
+Q13427860;Q13427860
+Q13427862;Q13427862
+Q13427863;Q13427863
+Q13427864;Q13427864
+Q13427865;Q13427865
+Q13427866;Q13427866
+Q13427867;Q13427867
+Q13427868;Q13427868
+Q13427869;Q13427869
+Q13427870;Q13427870
+Q13427871;Q13427871
+Q13427872;Q13427872
+Q13427873;Q13427873
+Q13427874;Q13427874
+Q13427875;Q13427875
+Q13427876;Q13427876
+Q13427877;Q13427877
+Q13427878;Q13427878
+Q13427879;Q13427879
+Q13427881;Q13427881
+Q13427882;Q13427882
+Q13427883;Q13427883
+Q13427885;Q13427885
+Q13427886;Q13427886
+Q13427887;Q13427887
+Q13427888;Q13427888
+Q13485749;Q13485749
+Q13485759;Q13485759
+Q13485760;Q13485760
+Q13485764;Q13485764
+Q13485768;aansluiting Bingen-Mitte
+Q13485771;Q13485771
+Q13485772;Q13485772
+Q13485776;Q13485776
+Q13485777;Q13485777
+Q13485779;Q13485779
+Q13485780;Q13485780
+Q13485787;Q13485787
+Q13485791;Q13485791
+Q13485795;Q13485795
+Q13485799;Q13485799
+Q13485803;Q13485803
+Q13485804;Q13485804
+Q13485807;Q13485807
+Q13485809;Q13485809
+Q13485811;Q13485811
+Q13485815;Q13485815
+Q13485817;Q13485817
+Q13485818;Q13485818
+Q13485819;Q13485819
+Q13485820;Q13485820
+Q13485822;Q13485822
+Q13485823;Q13485823
+Q13485824;Q13485824
+Q13485825;Q13485825
+Q13485826;Q13485826
+Q13567032;Q13567032
+Q13567054;Q13567054
+Q13567055;Q13567055
+Q13567056;Q13567056
+Q13567057;Q13567057
+Q13567059;Q13567059
+Q13567061;Q13567061
+Q13567062;Q13567062
+Q13567063;Q13567063
+Q13567065;Q13567065
+Q13567066;Q13567066
+Q13567067;Q13567067
+Q13567070;Q13567070
+Q13567074;Q13567074
+Q13567076;Q13567076
+Q13567077;Q13567077
+Q13567079;Q13567079
+Q13567080;Q13567080
+Q13567082;Q13567082
+Q13567084;Q13567084
+Q13567085;Q13567085
+Q13567086;Q13567086
+Q13567087;Q13567087
+Q13567089;Q13567089
+Q13567090;Q13567090
+Q13567092;Q13567092
+Q13567093;Q13567093
+Q13567094;Q13567094
+Q13567096;Q13567096
+Q13567097;Q13567097
+Q13567098;Q13567098
+Q13567101;Q13567101
+Q13567102;Q13567102
+Q13567103;Q13567103
+Q13567107;Q13567107
+Q13567111;Q13567111
+Q13567112;Q13567112
+Q13567113;Q13567113
+Q13567114;Q13567114
+Q13567115;Q13567115
+Q13574896;Iwaki-yotsukura interchange
+Q13574898;Iwaki-yumoto interchange
+Q13745789;Q13745789
+Q14513610;Kooimeer interchange
+Q14584832;Q14584832
+Q14584854;Q14584854
+Q14584867;Q14584867
+Q14584873;Q14584873
+Q14584880;Q14584880
+Q14584888;Q14584888
+Q14584896;Q14584896
+Q14584903;Q14584903
+Q14584910;Q14584910
+Q14584918;Q14584918
+Q14584925;Q14584925
+Q14584932;Q14584932
+Q14584947;Q14584947
+Q14584956;Q14584956
+Q14584964;Q14584964
+Q14584972;Q14584972
+Q14584979;Q14584979
+Q14584995;Q14584995
+Q14585002;Q14585002
+Q14585009;Q14585009
+Q14585018;Q14585018
+Q14585026;Q14585026
+Q14585032;Q14585032
+Q14585041;Q14585041
+Q14585056;Q14585056
+Q14585063;Q14585063
+Q14585070;highway exit Leonberg east
+Q14585079;Q14585079
+Q14585086;Q14585086
+Q14585095;Q14585095
+Q14585102;Q14585102
+Q14585110;Q14585110
+Q14585134;Q14585134
+Q14585150;Q14585150
+Q14585156;Q14585156
+Q14585163;Q14585163
+Q14585171;Q14585171
+Q14585179;Q14585179
+Q14585187;Q14585187
+Q14585200;Q14585200
+Q14585208;Q14585208
+Q14585218;Q14585218
+Q14585225;Q14585225
+Q14585233;Q14585233
+Q14585238;Q14585238
+Q14585247;Q14585247
+Q14585254;Q14585254
+Q14585262;Q14585262
+Q14585269;Q14585269
+Q14585278;Q14585278
+Q14585285;Q14585285
+Q14585293;Q14585293
+Q14585301;Q14585301
+Q14585312;Q14585312
+Q14585319;Q14585319
+Q14934999;Sir Roden Cutler VC Memorial Interchange
+Q14938651;Sagamihara-Aikawa interchange
+Q15106664;Q15106664
+Q15106993;Q15106993
+Q15107011;Q15107011
+Q15241832;Latrun Interchange
+Q15279950;Tongdosa Hipass IC
+Q15411338;Takada interchange
+Q15613933;Chupungnyeong IC
+Q15631991;Gotemba Interchange
+Q15638005;Oudbroeken interchange
+Q15857159;Q15857159
+Q15868782;Q15868782
+Q15868957;Q15868957
+Q15869130;Q15869130
+Q15869132;Q15869132
+Q15875674;Q15875674
+Q15875676;Q15875676
+Q15902109;Lianhua Bridge
+Q15925742;Q15925742
+Q15930826;Q15930826
+Q15931973;Q15931973
+Q15933149;Jiadong Interchange
+Q15933619;Q15933619
+Q15933840;Q15933840
+Q15941041;Kansai International Airport interchange
+Q15943217;Q15943217
+Q15954679;Q15954679
+Q16093158;Gamgok Interchange
+Q16093386;Q16093386
+Q16093933;Gyeongju IC
+Q16094500;Q16094500
+Q16095126;Q16095126
+Q16095490;Daejeon Interchange
+Q16096808;Q16096808
+Q16097383;W.Ulsan IC
+Q16098100;Sintanjin IC
+Q16098105;Q16098105
+Q16098110;Q16098110
+Q16098115;Q16098115
+Q16098120;Q16098120
+Q16098135;Yeongdong IC
+Q16098336;Q16098336
+Q16098377;Daegwallyeong interchange
+Q16098403;Chilgok Logistics IC
+Q16144881;Tomiya interchange
+Q16466046;Q16466046
+Q16466066;Q16466066
+Q16699019;Q16699019
+Q16733745;Kwame Nkrumah Interchange
+Q16740283;Q16740283
+Q16740284;Q16740284
+Q16740310;Q16740310
+Q16830527;Q16830527
+Q16890389;Circumferential Road 5–Ortigas Avenue Interchange
+Q16896233;Ortigas Interchange
+Q16917872;N25 Carrigtwohill-Cobh Interchange
+Q16922486;Tsuen Tsing Interchange
+Q16928854;Zizhu Bridge
+Q16928887;Huayuan Bridge
+Q16928905;Jimen Bridge
+Q16929009;Changhong Bridge
+Q16929140;Baihe interchange
+Q16929491;Kaohsiung Terminus
+Q16987760;Bow Interchange
+Q17023816;Q17023816
+Q17031261;Q17031261
+Q17033906;Q17033906
+Q17122710;Q17122710
+Q17122711;Q17122711
+Q17153528;Q17153528
+Q17153745;Q17153745
+Q17193737;Iwami-Fukumitsu interchange
+Q17211337;Kitami-chuo interchange
+Q17213531;Nima-Iwamiginzan interchange
+Q17214409;Churui-Taiki interchange
+Q17215126;Miyake-nishi interchange
+Q17218431;Q17218431
+Q17220576;Engaru-Setose interchange
+Q17220608;Mirasaka interchange
+Q17220617;Yawata-Kyotanabe interchange
+Q17220975;Kosaka-kita interchange
+Q17222332;Toba interchange
+Q17223022;Q17223022
+Q17224705;Katsuragi-nishi interchange
+Q17224935;Saga-Yamato interchange
+Q17225560;Q17225560
+Q17225746;Yusato interchange
+Q17225940;Yunotsu interchange
+Q17226132;Q17226132
+Q17226446;Q17226446
+Q17226463;Nakayama interchange
+Q17226895;Q17226895
+Q17227872;Oike-Takayama interchange
+Q17228209;Q17228209
+Q17228410;Q17228410
+Q17230445;Q17230445
+Q17230591;Q17230591
+Q17310410;Q17310410
+Q17332685;Q17332685
+Q17381215;Q17381215
+Q17487970;Q17487970
+Q17487974;Q17487974
+Q17487975;Q17487975
+Q17487987;Q17487987
+Q17500823;Q17500823
+Q17521428;Q17521428
+Q17988980;Q17988980
+Q18005386;Q18005386
+Q18088649;Zuidbroek interchange
+Q18192156;KKL Interchange
+Q18214611;Q18214611
+Q18214612;Q18214612
+Q18214613;Q18214613
+Q18214614;Q18214614
+Q18214615;Q18214615
+Q18214616;Q18214616
+Q18214617;Q18214617
+Q18337080;Shoro interchange
+Q18338639;Tsugaru-kashiwa interchange
+Q18338787;Q18338787
+Q18347746;Circumferential Road 5–Kalayaan Avenue Interchange
+Q18380016;Q18380016
+Q18380017;Q18380017
+Q18380018;Q18380018
+Q18380019;Q18380019
+Q18380020;Q18380020
+Q18380021;Q18380021
+Q18380022;Q18380022
+Q18380190;Q18380190
+Q18459608;Kurata crossing
+Q18515586;Q18515586
+Q18515587;Q18515587
+Q18589869;Q18589869
+Q18611197;Q18611197
+Q18611198;Q18611198
+Q18611199;Q18611199
+Q18660450;Lakalaiva interchange
+Q18700681;Iwami interchange
+Q18700839;Otani interchange
+Q18785539;Q18785539
+Q19406916;Q19406916
+Q19406917;Q19406917
+Q19406918;Q19406918
+Q19720079;Assen interchange
+Q19758040;Q19758040
+Q19760489;Q19760489
+Q19760491;Q19760491
+Q19760495;Q19760495
+Q19832595;Interchange Bonn-Ost
+Q19832596;Q19832596
+Q19877019;Mitchell Interchange
+Q19885888;Q19885888
+Q19945029;Q19945029
+Q20042896;Akagawa interchange
+Q20044003;Kushiro-chuo interchange
+Q20044023;Fukube interchange
+Q20045109;Susami-minami interchnage
+Q20088968;Kasoa Interchange
+Q20669757;Q20669757
+Q21007084;Distribuidor La Bandera
+Q21041576;Q21041576
+Q21041584;Q21041584
+Q21041592;Q21041592
+Q21041596;Q21041596
+Q21041628;Wuqi Interchange
+Q21041631;Q21041631
+Q21041634;Q21041634
+Q21041638;Yangchuo Interchange
+Q21041648;Wanggong Interchange
+Q21041709;Q21041709
+Q21158502;Bodegraven interchange
+Q21449317;Q21449317
+Q21449380;Q21449380
+Q21449445;Q21449445
+Q21449553;Q21449553
+Q21584313;Бусиновская развязка
+Q21704067;KIsakata interchange
+Q22098534;Q22098534
+Q22099179;Q22099179
+Q22123146;Q22123146
+Q22125786;Imafuku interchange
+Q22127843;Mitakido interchange
+Q22129058;Sakata-chuo interchange
+Q22129420;Nishimura interchange
+Q22130236;Tono interchange
+Q22130748;Minamihata-Taniguchi interchange
+Q23670883;Q23670883
+Q23787249;Q23787249
+Q23788163;Q23788163
+Q23978216;Q23978216
+Q24037967;Q24037967
+Q24037970;Q24037970
+Q24037972;Q24037972
+Q24037973;Q24037973
+Q24192008;Q24192008
+Q24859386;Q24859386
+Q24864572;Q24864572
+Q24867864;Yoshihama interchange
+Q24868334;Himi-minami interchange
+Q24868600;Uradome interchange
+Q24894873;Nakatomi interchange
+Q24896115;Yamashiro-Kubara interchange
+Q24899074;Q24899074
+Q24901512;Kitami-Kitagami interchange
+Q24901524;Kitami-kawahigashi interchange
+Q25005328;Joe Colla Interchange
+Q25110843;Neelah Dullah Interchange
+Q25110847;Kallar Kahar Interchange
+Q25345067;Peshawar Morr Interchange
+Q26257924;Q26257924
+Q27062339;Q27062339
+Q27489425;Q27489425
+Q27768259;Q27768259
+Q27768260;Q27768260
+Q27924781;Gooimeer Interchange
+Q28005710;Engaru interchange
+Q28040423;Q28040423
+Q28040431;Q28040431
+Q28040434;Q28040434
+Q28095334;Kyotango-Omiya interchange
+Q28114521;junction Bobenheim
+Q28121219;junction Hannover-Flughafen
+Q28121220;junction Mutterstadt-Süd
+Q28121222;junction Vilsbiburg Südost
+Q28121223;junction Rosenheim
+Q28121226;junction Kolbermoor
+Q28121228;junction Dresden-Hellerau
+Q28121229;junction Bamberg-Hafen
+Q28121460;junction Freiburg
+Q28134824;junction Koblenz-Saalplatz
+Q28134826;junction Koblenz-Zentrum
+Q28147787;Ouchi interchange
+Q28382697;Tosu interchange
+Q28445677;Togane interchange
+Q28501435;Q28501435
+Q28598853;Yonago-naka interchange
+Q28659109;junction Ingelheim-West
+Q28675850;Iwami-Misumi interchange
+Q28682290;Kirara interchange
+Q28685164;Q28685164
+Q28685168;Q28685168
+Q28685181;Hidaka atsuga interchange
+Q28685183;Q28685183
+Q28685184;Q28685184
+Q28685197;Q28685197
+Q28685199;Q28685199
+Q28685200;Q28685200
+Q28685204;Q28685204
+Q28685207;Q28685207
+Q28685213;Q28685213
+Q28685214;Q28685214
+Q28685215;Q28685215
+Q28685217;Q28685217
+Q28689452;Q28689452
+Q28689477;Yonezawa-chuo interchange
+Q28689511;Oishida-Murayama interchange
+Q28691158;Teppou interchange
+Q29155506;junction Raisdorf
+Q29644031;Hidaka-Kannabekogen interchange
+Q29873536;Hanazono interchange
+Q30052436;motorway junction Vienenburg
+Q30242133;junction Mühlhausen im Täle
+Q30924952;Q30924952
+Q12409020;Q12409020
+Q12409024;Tel kashish interchange
+Q12582309;Garak Interchange
+Q12582364;Gasan Interchange
+Q12582465;Gajo Interchange
+Q12582477;Gajwa Interchange
+Q12583073;Gangil Interchange
+Q12583352;Geochang Interchange
+Q12583681;Gyeongsan IC
+Q12584010;Q12584010
+Q12586532;Geumwang Kkotdongne Interchange
+Q12588953;Gimcheon IC
+Q12589763;S.Gumi IC
+Q12589925;S.Yangsan IC
+Q12593123;Q12593123
+Q12593255;E.Gimcheon IC
+Q12593275;E.Daegu IC
+Q12595919;Mulgeum IC
+Q12598573;Q12598573
+Q12599012;Q12599012
+Q12599050;N.Daegu IC
+Q12601006;Q12601006
+Q12601423;Q12601423
+Q12602103;Seongju IC
+Q12603202;Suseong IC
+Q12607348;Yeongnak IC
+Q12607530;Yeongcheon IC
+Q12607892;Q12607892
+Q12608208;Okcheon IC
+Q12608511;Waegwan Interchange
+Q12615503;Q12615503
+Q12619222;S.Cheongju IC
+Q12621216;Tongdosa IC
+Q12621561;Palgongsan IC
+Q12625756;Hwanggan IC
+Q13409239;Q13409239
+Q13427675;Q13427675
+Q13427676;Q13427676
+Q13427677;Q13427677
+Q13427679;Q13427679
+Q13427680;Q13427680
+Q13427681;Q13427681
+Q13427682;Q13427682
+Q13427683;Q13427683
+Q13427685;Q13427685
+Q13427686;Q13427686
+Q13427687;Q13427687
+Q13427688;Q13427688
+Q13427689;Q13427689
+Q13427690;Q13427690
+Q13427691;Q13427691
+Q13427692;Q13427692
+Q13427694;Q13427694
+Q13427695;Q13427695
+Q13427696;Q13427696
+Q13427697;Q13427697
+Q13427698;Q13427698
+Q13427700;Q13427700
+Q13427701;Q13427701
+Q13427702;Q13427702
+Q13427703;Q13427703
+Q13427705;Q13427705
+Q13427706;Q13427706
+Q13427707;Q13427707
+Q13427708;Q13427708
+Q13427709;Q13427709
+Q13427710;Q13427710
+Q13427711;Q13427711
+Q13427713;Q13427713
+Q13427714;Q13427714
+Q13427715;Q13427715
+Q13427716;Q13427716
+Q13427717;Q13427717
+Q13427718;Q13427718
+Q13427719;Q13427719
+Q13427720;Q13427720
+Q13427721;Q13427721
+Q13427722;Q13427722
+Q13427723;Q13427723
+Q13427724;Aansluiting Durlach Mord
+Q13427725;Q13427725
+Q13427726;Q13427726
+Q13427727;Q13427727
+Q13427728;Q13427728
+Q13427729;Q13427729
+Q13427730;Q13427730
+Q13427731;Q13427731
+Q13427732;Q13427732
+Q13427733;Q13427733
+Q13427734;Q13427734
+Q13427735;Q13427735
+Q13427736;Q13427736
+Q13427737;Q13427737
+Q13427738;Q13427738
+Q13427739;Q13427739
+Q13427740;Q13427740
+Q13427742;Q13427742
+Q13427743;Q13427743
+Q13427744;Q13427744
+Q13427745;Q13427745
+Q30925066;Minamisanrikukaigan interchange
+Q30927105;Q30927105
+Q30927112;Otada interchange
+Q30927126;Q30927126
+Q30927660;Soma-Yamakami interchange
+Q30927661;Soma-Tamano interchange
+Q30931671;Q30931671
+Q30931763;Q30931763
+Q30931959;Q30931959
+Q30940617;Q30940617
+Q30941001;Q30941001
+Q30941004;Q30941004
+Q30941009;Q30941009
+Q30941011;Q30941011
+Q30941012;Q30941012
+Q30941015;Q30941015
+Q30941016;Q30941016
+Q30941024;Q30941024
+Q30941026;Q30941026
+Q30941031;Q30941031
+Q30941038;Q30941038
+Q30941044;Q30941044
+Q30941470;Q30941470
+Q30947663;Q30947663
+Q30947665;Q30947665
+Q30947668;Shalun interchange
+Q30947671;Q30947671
+Q30947673;Q30947673
+Q30947674;Q30947674
+Q30947676;Q30947676
+Q30947678;Q30947678
+Q30947679;Q30947679
+Q30947683;Q30947683
+Q30947686;Q30947686
+Q30947687;Q30947687
+Q30947690;Q30947690
+Q30947692;Q30947692
+Q30947698;Q30947698
+Q30947702;Xinpu Interchange
+Q30947705;Q30947705
+Q30947711;Q30947711
+Q30947712;Q30947712
+Q30947718;Q30947718
+Q30947720;Fangyuan Interchange
+Q30947721;Q30947721
+Q30947727;Q30947727
+Q30947738;Q30947738
+Q30948886;Q30948886
+Q30949647;Q30949647
+Q30950465;Q30950465
+Q30950885;Q30950885
+Q30950887;Q30950887
+Q30950890;Q30950890
+Q32142417;Q32142417
+Q34574193;Shmaryahu East Interchange
+Q37985540;Q37985540
+Q38066681;Petlja Butila
+Q38276713;Imari-tohufumaneki interchange
+Q38278441;Q38278441
+Q38278443;Q38278443
+Q41176732;Q41176732
+Q42173517;junction Eutin
+Q42173518;junction Ergolding-Mitte
+Q43215720;Rinku interchange
+Q43371408;Yamada-kita interchange
+Q44155274;Tsukinokawa interchange
+Q45086594;Utatsu interchange
+Q48746675;Tera interchange
+Q48749574;Shin'onsen-Hamasaka interchange
+Q48749577;Kuto interchange
+Q48749713;Q48749713
+Q48749718;Q48749718
+Q48749722;Q48749722
+Q48752693;Oda-Asayama interchange
+Q48752797;Oda-chuo Sanbesan interchange
+Q48754602;Hakka interchange
+Q48754612;Noda interchange
+Q48755359;Q48755359
+Q48755361;Q48755361
+Q48758801;Q48758801
+Q48759009;Isakida interchange
+Q48759010;Ariake-higashi interchange
+Q48761214;Urakawa interchange
+Q48761674;Izumo-Taki interchange
+Q48762164;Taro-kita interchange
+Q48762952;Toro-Masakikaigan interchange
+Q48763167;Kesennumachuo interchange
+Q48763579;Ryozen-Iitate interchange
+Q48763590;Ryozen interchange
+Q48764000;Oya Kaigan interchange
+Q48764014;iwaisaki interchange
+Q48764491;Q48764491
+Q48764522;Q48764522
+Q48764527;Q48764527
+Q48881442;Jiuru Interchange
+Q50194384;De Punt Interchange
+Q50409316;Iwaizumi-Ryusendo interchange
+Q50409329;Unosu-Dangai interchange
+Q50821759;Iwaizumi-minami interchange
+Q54369035;Nudo de la Paloma, Madrid
+Q65272036;Kesennumako interchange
+Q65272618;Q65272618
+Q67135666;Q67135666
+Q67212006;Q67212006
+Q67591570;Q67591570
+Q69274725;Kitanomine interchange
+Q69275347;Furano interchange
+Q69275961;Nunobe interchange
+Q69287205;Q69287205
+Q69831514;Q69831514
+Q69831539;Q69831539
+Q70738318;Q70738318
+Q71496120;Monden-shinden interchange
+Q78114725;Nahal Amud Interchange
+Q79554134;Mutsu Shirizaki interchange
+Q79554281;Q79554281
+Q83813633;Q83813633
+Q85884527;Q85884527
+Q85884583;Baba interchange
+Q54401127;Yokohama-Fukkoshi interchange
+Q54666745;Misato-Chuo interchange
+Q55521377;Kamikita interchange
+Q55521378;Rokunohe-Misawa interchange
+Q55523048;Fudai interchange
+Q55525200;Q55525200
+Q55532431;Utatsu-kita interchange
+Q55532533;Koizumikaigan interchange
+Q55532589;Misumi interchange
+Q55532596;Q55532596
+Q55532868;Motoyoshi-Tsuya interchange
+Q55533595;Ōkuma interchange
+Q55534998;Q55534998
+Q55648655;Q55648655
+Q55743629;Sha'ar Ha'amakim Interchange
+Q55780426;Satalice Interchange
+Q55829712;Horní Počernice interchange
+Q55830289;Q55830289
+Q55861429;Sedlice interchange
+Q55865998;Vyškov-východ Interchange
+Q55936897;Modletice interchange
+Q55991258;Saronno interchange
+Q55991345;Fino Mornasco interchange
+Q56000611;Vizzolo Predabissi interchange
+Q56014750;Brno-jih Interchange
+Q56024994;Bělotín Interchange
+Q56033750;Q56033750
+Q56035555;Třebonice interchange
+Q56249305;Q56249305
+Q56346361;Rikuzentakata-Osabe interchange
+Q56346366;Kamaishi-minami interchange
+Q56346370;Kamaishi-Toni interchange
+Q56347355;Ueno-Yoshimuta interchange
+Q56347364;Kitanakashima interchange
+Q56347667;Kamaishi-chuo interchange
+Q56348110;Otsuchi interchange
+Q56348191;Q56348191
+Q56348199;Q56348199
+Q56348469;Q56348469
+Q56348470;Samuraihama Minami interchange
+Q56348474;Q56348474
+Q56348475;Q56348475
+Q56348476;Q56348476
+Q56348542;Matsuura interchange
+Q56354504;Sakuma Kawai interchange
+Q56518840;Q56518840
+Q56523453;Osem/Yoqneam interchange
+Q56523454;Q56523454
+Q56810500;Q56810500
+Q56875342;Q56875342
+Q56879189;A1–A11 Interchange
+Q56879248;Prato est Interchange
+Q56879280;Prato ovest Interchange
+Q56879347;A11–A12 Interchange
+Q56879372;A12–A11/A12 Interchange
+Q56879506;Takatsuki interchange
+Q56923533;A4–A22 Interchange
+Q57268812;A8–A50 Interchange (Italy)
+Q57268974;A4–A21 Interchange
+Q57269189;A4–A52 Interchange
+Q57269229;A4–A52 Interchange
+Q57269318;A27–A57 Interchange
+Q57269449;A7–A50 Interchange (Italy)
+Q57269593;A1–A50 Interchange
+Q57269666;A1–A58 Interchange (Italy)
+Q57315190;A4–A23 Interchange
+Q57315201;Spinea Interchange
+Q57315266;A4–A27 Interchange
+Q57315346;Asti Est Interchange
+Q57315358;A6–A33 Interchange in Cherasco
+Q57315375;A6–A33 Interchange in Carrù
+Q57699500;Tōei interchange
+Q57734892;Yamato-Nakajimanishi interchange
+Q59152417;Sakurai interchange
+Q59909817;Crabe Interchange
+Q60024003;Ponts-Jumeaux Interchange
+Q60539179;Q60539179
+Q60539295;Q60539295
+Q60570923;מחלף ראש העין מזרח
+Q60594446;Q60594446
+Q60611664;Q60611664
+Q60611685;Q60611685
+Q60611699;Q60611699
+Q60632908;מחלף ציפורית
+Q60787783;Kaplan Interchange
+Q60991153;Taguchi interchange
+Q61082131;Q61082131
+Q61126857;Q61126857
+Q61663891;Tōhoku Interchange
+Q61663896;Shichinohe Interchange
+Q62075326;Ajigasawa interchange
+Q62075327;Minamiukita interchange
+Q63302121;Mike Ellis Memorial Interchange
+Q63357191;Kotonoura interchange
+Q64148202;Q64148202
+Q64148218;Q64148218
+Q64425737;Q64425737
+Q64846027;Nagato yumoto onsen interchange
+Q64846028;Tawarayama Kita interchange
+Q65163953;Geva'ot Alonim interchange

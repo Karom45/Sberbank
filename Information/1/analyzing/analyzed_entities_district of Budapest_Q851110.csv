@@ -1,0 +1,703 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q228445;Zugló;административно-территориальная единица;1;89;to
+Q851057;Pesterzsébet;код KSH;1;1;from
+Q851057;Pesterzsébet;дата основания/создания/возникновения;1;1;from
+Q851057;Pesterzsébet;official number of town quarter;1;1;from
+Q851057;Pesterzsébet;географические координаты;1;1;from
+Q851057;Pesterzsébet;код Freebase;1;1;from
+Q851057;Pesterzsébet;Who's on First ID;1;1;from
+Q851057;Pesterzsébet;категория карт на Викискладе;1;1;from
+Q851057;Pesterzsébet;официальный сайт;1;1;from
+Q851057;Pesterzsébet;основная категория по теме;1;1;from
+Q851057;Pesterzsébet;место рождения;1;5;to
+Q851057;Pesterzsébet;категория на Викискладе;1;1;from
+Q851057;Pesterzsébet;расположение штаб-квартиры;1;1;to
+Q851057;Pesterzsébet;столица;1;3;to
+Q851057;Pesterzsébet;место смерти;1;2;to
+Q851057;Pesterzsébet;категория объединяет темы;1;1;to
+Q851057;Pesterzsébet;общая тема категории;1;1;to
+Q851062;Budapest District XXIII;административно-территориальная единица;1;12;to
+Q851062;Budapest District XXIII;государство;1;1;from
+Q851062;Budapest District XXIII;город-побратим;1;4;to
+Q851057;Pesterzsébet;идентификатор местоположения ArchINFORM;1;1;from
+Q851057;Pesterzsébet;площадь;1;1;from
+Q851062;Budapest District XXIII;это частный случай понятия;1;1;from
+Q851057;Pesterzsébet;административно-территориальная единица;1;15;to
+Q851045;Budapest XVII. kerülete;официальный сайт;1;1;from
+Q851045;Budapest XVII. kerülete;основная категория по теме;1;1;from
+Q851045;Budapest XVII. kerülete;код KSH;1;1;from
+Q851045;Budapest XVII. kerülete;столица;1;2;to
+Q851045;Budapest XVII. kerülete;основная тема шаблона;1;1;to
+Q851045;Budapest XVII. kerülete;расположение штаб-квартиры;1;1;to
+Q851045;Budapest XVII. kerülete;категория объединяет темы;1;1;to
+Q851045;Budapest XVII. kerülete;общая тема категории;1;1;to
+Q851057;Pesterzsébet;государство;1;1;from
+Q851057;Pesterzsébet;код TGN;1;1;from
+Q851057;Pesterzsébet;карта местонахождения;1;1;from
+Q851057;Pesterzsébet;это частный случай понятия;1;1;from
+Q851057;Pesterzsébet;изображение флага;1;1;from
+Q851057;Pesterzsébet;глава правительства;1;1;from
+Q851057;Pesterzsébet;десятичная классификация Дьюи;1;1;from
+Q851057;Pesterzsébet;численность населения;1;12;from
+Q851057;Pesterzsébet;является столицей;1;3;from
+Q851057;Pesterzsébet;код GeoNames;1;2;from
+Q851062;Budapest District XXIII;карта местонахождения;1;1;from
+Q851062;Budapest District XXIII;изображение флага;1;1;from
+Q851045;Budapest XVII. kerülete;Who's on First ID;1;1;from
+Q857943;19th district of Budapest;площадь;1;1;from
+Q857943;19th district of Budapest;это частный случай понятия;1;1;from
+Q857943;19th district of Budapest;глава правительства;1;2;from
+Q857943;19th district of Budapest;десятичная классификация Дьюи;1;1;from
+Q857943;19th district of Budapest;численность населения;1;6;from
+Q857943;19th district of Budapest;заменил;1;1;from
+Q857943;19th district of Budapest;является столицей;1;1;from
+Q857943;19th district of Budapest;код GeoNames;1;2;from
+Q857943;19th district of Budapest;код места в Facebook;1;1;from
+Q857943;19th district of Budapest;категория на Викискладе;1;1;from
+Q857943;19th district of Budapest;код GND;1;1;from
+Q857943;19th district of Budapest;official number of town quarter;1;1;from
+Q857943;19th district of Budapest;географические координаты;1;1;from
+Q857943;19th district of Budapest;Who's on First ID;1;1;from
+Q857943;19th district of Budapest;официальный сайт;1;1;from
+Q857943;19th district of Budapest;основная категория по теме;1;1;from
+Q857943;19th district of Budapest;код KSH;1;1;from
+Q857943;19th district of Budapest;место рождения;1;14;to
+Q857943;19th district of Budapest;столица;1;1;to
+Q857943;19th district of Budapest;карта местонахождения;1;1;from
+Q857943;19th district of Budapest;город-побратим;1;1;to
+Q851062;Budapest District XXIII;глава правительства;1;2;from
+Q851062;Budapest District XXIII;географические координаты;1;1;from
+Q851062;Budapest District XXIII;десятичная классификация Дьюи;1;1;from
+Q851062;Budapest District XXIII;численность населения;1;12;from
+Q851062;Budapest District XXIII;код GeoNames;1;1;from
+Q851062;Budapest District XXIII;площадь;1;1;from
+Q851062;Budapest District XXIII;категория на Викискладе;1;1;from
+Q851062;Budapest District XXIII;предположительно одно и то же с;1;1;to
+Q851062;Budapest District XXIII;идентификатор местоположения ArchINFORM;1;1;from
+Q851062;Budapest District XXIII;official number of town quarter;1;1;from
+Q851062;Budapest District XXIII;Who's on First ID;1;1;from
+Q857943;19th district of Budapest;государство;1;1;from
+Q851062;Budapest District XXIII;категория карт на Викискладе;1;1;from
+Q851062;Budapest District XXIII;официальный сайт;1;1;from
+Q851062;Budapest District XXIII;основная категория по теме;1;1;from
+Q851062;Budapest District XXIII;код KSH;1;1;from
+Q851062;Budapest District XXIII;место рождения;1;7;to
+Q851062;Budapest District XXIII;категория объединяет темы;1;1;to
+Q851062;Budapest District XXIII;общая тема категории;1;1;to
+Q857943;19th district of Budapest;административно-территориальная единица;1;6;to
+Q851045;Budapest XVII. kerülete;категория карт на Викискладе;1;1;from
+Q851045;Budapest XVII. kerülete;код Freebase;1;1;from
+Q857943;19th district of Budapest;заменён на;1;1;to
+Q851023;13th district of Budapest;категория объединяет темы;1;1;to
+Q851023;13th district of Budapest;Who's on First ID;1;1;from
+Q851023;13th district of Budapest;категория карт на Викискладе;1;1;from
+Q851023;13th district of Budapest;официальный сайт;1;1;from
+Q851023;13th district of Budapest;основная категория по теме;1;1;from
+Q851023;13th district of Budapest;код KSH;1;1;from
+Q851023;13th district of Budapest;расположение штаб-квартиры;1;2;to
+Q851023;13th district of Budapest;столица;1;3;to
+Q851023;13th district of Budapest;тематически относится к;1;1;to
+Q851023;13th district of Budapest;общая тема категории;1;1;to
+Q851023;13th district of Budapest;географические координаты;1;1;from
+Q851040;Budapest XVI. District;административно-территориальная единица;1;25;to
+Q851040;Budapest XVI. District;государство;1;1;from
+Q851040;Budapest XVI. District;изображение;1;1;from
+Q851040;Budapest XVI. District;город-побратим;1;8;to
+Q851040;Budapest XVI. District;карта местонахождения;1;1;from
+Q851040;Budapest XVI. District;это частный случай понятия;1;1;from
+Q851040;Budapest XVI. District;изображение флага;1;1;from
+Q851040;Budapest XVI. District;глава правительства;1;2;from
+Q851023;13th district of Budapest;код Freebase;1;1;from
+Q851023;13th district of Budapest;official number of town quarter;1;1;from
+Q851040;Budapest XVI. District;десятичная классификация Дьюи;1;1;from
+Q851023;13th district of Budapest;это частный случай понятия;1;1;from
+Q697679;Budapest District VI;местонахождение;1;1;to
+Q697679;Budapest District VI;столица;1;1;to
+Q697679;Budapest District VI;категория объединяет темы;1;1;to
+Q697679;Budapest District VI;общая тема категории;1;1;to
+Q851023;13th district of Budapest;административно-территориальная единица;1;48;to
+Q851023;13th district of Budapest;государство;1;1;from
+Q851023;13th district of Budapest;город-побратим;1;2;to
+Q851023;13th district of Budapest;карта местонахождения;1;1;from
+Q851023;13th district of Budapest;глава правительства;1;1;from
+Q851023;13th district of Budapest;идентификатор местоположения ArchINFORM;1;1;from
+Q851023;13th district of Budapest;десятичная классификация Дьюи;1;1;from
+Q851023;13th district of Budapest;численность населения;1;12;from
+Q851023;13th district of Budapest;является столицей;1;3;from
+Q851023;13th district of Budapest;код GeoNames;1;1;from
+Q851023;13th district of Budapest;не путать с;1;1;to
+Q851023;13th district of Budapest;площадь;1;1;from
+Q851023;13th district of Budapest;категория на Викискладе;1;1;from
+Q851023;13th district of Budapest;состоит из;1;5;from
+Q851040;Budapest XVI. District;изображение герба;1;1;from
+Q851040;Budapest XVI. District;численность населения;1;12;from
+Q851045;Budapest XVII. kerülete;географические координаты;1;1;from
+Q851045;Budapest XVII. kerülete;является столицей;1;2;from
+Q851045;Budapest XVII. kerülete;город-побратим;1;4;to
+Q851045;Budapest XVII. kerülete;карта местонахождения;1;1;from
+Q851045;Budapest XVII. kerülete;это частный случай понятия;1;1;from
+Q851045;Budapest XVII. kerülete;изображение флага;1;1;from
+Q851045;Budapest XVII. kerülete;глава правительства;1;1;from
+Q851045;Budapest XVII. kerülete;изображение герба;1;1;from
+Q851045;Budapest XVII. kerülete;десятичная классификация Дьюи;1;1;from
+Q851045;Budapest XVII. kerülete;численность населения;1;12;from
+Q851045;Budapest XVII. kerülete;основной шаблон по теме;1;1;from
+Q851045;Budapest XVII. kerülete;государство;1;1;from
+Q851045;Budapest XVII. kerülete;код GeoNames;1;1;from
+Q851045;Budapest XVII. kerülete;не путать с;1;1;to
+Q851045;Budapest XVII. kerülete;площадь;1;1;from
+Q851045;Budapest XVII. kerülete;категория на Викискладе;1;1;from
+Q851045;Budapest XVII. kerülete;состоит из;1;4;from
+Q851045;Budapest XVII. kerülete;идентификатор местоположения ArchINFORM;1;1;from
+Q851045;Budapest XVII. kerülete;дата основания/создания/возникновения;1;1;from
+Q851045;Budapest XVII. kerülete;official number of town quarter;1;1;from
+Q851045;Budapest XVII. kerülete;изображение;1;1;from
+Q851045;Budapest XVII. kerülete;административно-территориальная единица;1;37;to
+Q851040;Budapest XVI. District;является столицей;1;2;from
+Q851040;Budapest XVI. District;географические координаты;1;1;from
+Q851040;Budapest XVI. District;код GeoNames;1;1;from
+Q851040;Budapest XVI. District;учётная запись Facebook;1;1;from
+Q851040;Budapest XVI. District;высота над уровнем моря;1;1;from
+Q851040;Budapest XVI. District;площадь;1;1;from
+Q851040;Budapest XVI. District;категория на Викискладе;1;1;from
+Q851040;Budapest XVI. District;идентификатор местоположения ArchINFORM;1;1;from
+Q851040;Budapest XVI. District;дата основания/создания/возникновения;1;1;from
+Q851040;Budapest XVI. District;official number of town quarter;1;1;from
+Q851040;Budapest XVI. District;Who's on First ID;1;1;from
+Q851040;Budapest XVI. District;категория объединяет темы;1;1;to
+Q851040;Budapest XVI. District;категория карт на Викискладе;1;1;from
+Q851040;Budapest XVI. District;официальный сайт;1;2;from
+Q851040;Budapest XVI. District;основная категория по теме;1;1;from
+Q851040;Budapest XVI. District;код KSH;1;1;from
+Q851040;Budapest XVI. District;столица;1;2;to
+Q851040;Budapest XVI. District;место смерти;1;1;to
+Q851040;Budapest XVI. District;владельцем является;1;1;to
+Q851040;Budapest XVI. District;общая тема категории;1;1;to
+Q857943;19th district of Budapest;следующее по порядку;1;1;to
+Q857943;19th district of Budapest;состоит из;1;1;to
+Q228445;Zugló;государство;1;1;from
+Q1094308;Budapest I. District;глава правительства;1;4;from
+Q1094308;Budapest I. District;административно-территориальная единица;1;86;to
+Q1094308;Budapest I. District;названо в честь;1;1;from
+Q1094308;Budapest I. District;государство;1;1;from
+Q1094308;Budapest I. District;изображение;1;1;from
+Q1094308;Budapest I. District;город-побратим;1;1;to
+Q1094308;Budapest I. District;карта местонахождения;1;1;from
+Q1094308;Budapest I. District;это частный случай понятия;1;1;from
+Q1094308;Budapest I. District;изображение флага;1;1;from
+Q1094308;Budapest I. District;изображение герба;1;1;from
+Q1068701;Budapest II. District;категория объединяет темы;1;1;to
+Q1094308;Budapest I. District;десятичная классификация Дьюи;1;1;from
+Q1094308;Budapest I. District;численность населения;1;9;from
+Q1094308;Budapest I. District;является столицей;1;1;from
+Q1094308;Budapest I. District;включает населённый пункт;1;5;from
+Q1094308;Budapest I. District;код GeoNames;1;1;from
+Q1094308;Budapest I. District;площадь;1;1;from
+Q1094308;Budapest I. District;категория на Викискладе;1;1;from
+Q1094308;Budapest I. District;ID отношения в OpenStreetMap;1;1;from
+Q1068701;Budapest II. District;общая тема категории;1;1;to
+Q1068701;Budapest II. District;столица;1;2;to
+Q1094308;Budapest I. District;дата основания/создания/возникновения;1;1;from
+Q1068701;Budapest II. District;ID отношения в OpenStreetMap;1;1;from
+Q1068701;Budapest II. District;глава правительства;1;4;from
+Q1068701;Budapest II. District;изображение герба;1;1;from
+Q1068701;Budapest II. District;десятичная классификация Дьюи;1;1;from
+Q1068701;Budapest II. District;численность населения;1;12;from
+Q1068701;Budapest II. District;является столицей;1;2;from
+Q1068701;Budapest II. District;код GeoNames;1;1;from
+Q1068701;Budapest II. District;площадь;1;1;from
+Q1068701;Budapest II. District;категория на Викискладе;1;1;from
+Q1068701;Budapest II. District;идентификатор местоположения ArchINFORM;1;1;from
+Q1068701;Budapest II. District;место смерти;1;5;to
+Q1068701;Budapest II. District;official number of town quarter;1;1;from
+Q1068701;Budapest II. District;географические координаты;1;1;from
+Q1068701;Budapest II. District;код Freebase;1;1;from
+Q1068701;Budapest II. District;Who's on First ID;1;1;from
+Q1068701;Budapest II. District;категория карт на Викискладе;1;1;from
+Q1068701;Budapest II. District;официальный сайт;1;1;from
+Q1068701;Budapest II. District;основная категория по теме;1;1;from
+Q1068701;Budapest II. District;код KSH;1;1;from
+Q1094308;Budapest I. District;идентификатор местоположения ArchINFORM;1;1;from
+Q1094308;Budapest I. District;official number of town quarter;1;1;from
+Q1068701;Budapest II. District;это частный случай понятия;1;1;from
+Q11384977;18th district of Budapest;код Freebase;1;1;from
+Q11384977;18th district of Budapest;является столицей;1;3;from
+Q11384977;18th district of Budapest;код GeoNames;1;2;from
+Q11384977;18th district of Budapest;площадь;1;1;from
+Q11384977;18th district of Budapest;категория на Викискладе;1;1;from
+Q11384977;18th district of Budapest;часовой пояс;1;1;from
+Q11384977;18th district of Budapest;идентификатор местоположения ArchINFORM;1;1;from
+Q11384977;18th district of Budapest;official number of town quarter;1;1;from
+Q11384977;18th district of Budapest;географические координаты;1;1;from
+Q11384977;18th district of Budapest;Who's on First ID;1;1;from
+Q11384977;18th district of Budapest;десятичная классификация Дьюи;1;1;from
+Q11384977;18th district of Budapest;категория карт на Викискладе;1;1;from
+Q11384977;18th district of Budapest;официальный сайт;1;1;from
+Q11384977;18th district of Budapest;основная категория по теме;1;1;from
+Q11384977;18th district of Budapest;код KSH;1;1;from
+Q11384977;18th district of Budapest;место смерти;1;2;to
+Q11384977;18th district of Budapest;столица;1;3;to
+Q11384977;18th district of Budapest;место рождения;1;1;to
+Q11384977;18th district of Budapest;категория объединяет темы;1;1;to
+Q11384977;18th district of Budapest;численность населения;1;12;from
+Q11384977;18th district of Budapest;глава правительства;1;4;from
+Q1094308;Budapest I. District;географические координаты;1;1;from
+Q1094308;Budapest I. District;расположение штаб-квартиры;1;3;to
+Q1094308;Budapest I. District;Who's on First ID;1;1;from
+Q1094308;Budapest I. District;категория карт на Викискладе;1;1;from
+Q1094308;Budapest I. District;официальный сайт;1;1;from
+Q1094308;Budapest I. District;основная категория по теме;1;1;from
+Q1094308;Budapest I. District;код KSH;1;1;from
+Q1094308;Budapest I. District;баннер Викигида;1;1;from
+Q1094308;Budapest I. District;пример использования свойства;1;1;to
+Q1094308;Budapest I. District;юрисдикция распространяется на;1;1;to
+Q1094308;Budapest I. District;столица;1;1;to
+Q11384977;18th district of Budapest;это частный случай понятия;1;1;from
+Q1094308;Budapest I. District;общая тема категории;1;1;to
+Q1094308;Budapest I. District;категория объединяет темы;1;1;to
+Q1094308;Budapest I. District;место рождения;1;1;to
+Q11384977;18th district of Budapest;административно-территориальная единица;1;33;to
+Q11384977;18th district of Budapest;государство;1;1;from
+Q11384977;18th district of Budapest;изображение;1;1;from
+Q11384977;18th district of Budapest;город-побратим;1;8;to
+Q11384977;18th district of Budapest;карта местонахождения;1;1;from
+Q1068701;Budapest II. District;изображение флага;1;1;from
+Q1068701;Budapest II. District;карта местонахождения;1;1;from
+Q857943;19th district of Budapest;общая тема категории;1;1;to
+Q974038;Hegyvidék;изображение флага;1;1;from
+Q858351;Budapest XV. District;столица;1;2;to
+Q858351;Budapest XV. District;общая тема категории;1;1;to
+Q858351;Budapest XV. District;категория объединяет темы;1;1;to
+Q974038;Hegyvidék;административно-территориальная единица;1;66;to
+Q974038;Hegyvidék;государство;1;1;from
+Q974038;Hegyvidék;изображение;1;1;from
+Q974038;Hegyvidék;карта местонахождения;1;1;from
+Q974038;Hegyvidék;это частный случай понятия;1;1;from
+Q974038;Hegyvidék;глава правительства;1;2;from
+Q858351;Budapest XV. District;основная категория по теме;1;1;from
+Q974038;Hegyvidék;изображение герба;1;1;from
+Q974038;Hegyvidék;десятичная классификация Дьюи;1;1;from
+Q974038;Hegyvidék;численность населения;1;12;from
+Q974038;Hegyvidék;является столицей;1;2;from
+Q974038;Hegyvidék;основной шаблон по теме;1;1;from
+Q974038;Hegyvidék;код GeoNames;1;1;from
+Q974038;Hegyvidék;площадь;1;1;from
+Q974038;Hegyvidék;категория на Викискладе;1;1;from
+Q858351;Budapest XV. District;код KSH;1;1;from
+Q858351;Budapest XV. District;официальный сайт;1;1;from
+Q974038;Hegyvidék;идентификатор местоположения ArchINFORM;1;1;from
+Q858351;Budapest XV. District;десятичная классификация Дьюи;1;1;from
+Q858351;Budapest XV. District;административно-территориальная единица;1;32;to
+Q858351;Budapest XV. District;государство;1;1;from
+Q858351;Budapest XV. District;город-побратим;1;8;to
+Q858351;Budapest XV. District;карта местонахождения;1;1;from
+Q858351;Budapest XV. District;это частный случай понятия;1;1;from
+Q858351;Budapest XV. District;изображение флага;1;1;from
+Q858351;Budapest XV. District;глава правительства;1;2;from
+Q858351;Budapest XV. District;изображение герба;1;1;from
+Q858351;Budapest XV. District;численность населения;1;12;from
+Q858351;Budapest XV. District;категория карт на Викискладе;1;1;from
+Q858351;Budapest XV. District;является столицей;1;2;from
+Q858351;Budapest XV. District;код GeoNames;1;1;from
+Q858351;Budapest XV. District;площадь;1;1;from
+Q858351;Budapest XV. District;категория на Викискладе;1;1;from
+Q858351;Budapest XV. District;идентификатор местоположения ArchINFORM;1;1;from
+Q858351;Budapest XV. District;official number of town quarter;1;1;from
+Q858351;Budapest XV. District;географические координаты;1;1;from
+Q858351;Budapest XV. District;Who's on First ID;1;1;from
+Q974038;Hegyvidék;ID отношения в OpenStreetMap;1;1;from
+Q974038;Hegyvidék;official number of town quarter;1;1;from
+Q1068701;Budapest II. District;изображение;1;1;from
+Q1042732;Budapest V. District;official number of town quarter;1;1;from
+Q1042732;Budapest V. District;десятичная классификация Дьюи;1;1;from
+Q1042732;Budapest V. District;численность населения;1;12;from
+Q1042732;Budapest V. District;является столицей;1;2;from
+Q1042732;Budapest V. District;код GeoNames;1;1;from
+Q1042732;Budapest V. District;площадь;1;1;from
+Q1042732;Budapest V. District;категория на Викискладе;1;1;from
+Q1042732;Budapest V. District;идентификатор местоположения ArchINFORM;1;1;from
+Q1042732;Budapest V. District;дата основания/создания/возникновения;1;1;from
+Q1042732;Budapest V. District;географические координаты;1;1;from
+Q1042732;Budapest V. District;глава правительства;1;2;from
+Q1042732;Budapest V. District;Who's on First ID;1;1;from
+Q1042732;Budapest V. District;официальный сайт;1;1;from
+Q1042732;Budapest V. District;код KSH;1;1;from
+Q1042732;Budapest V. District;расположение штаб-квартиры;1;4;to
+Q1042732;Budapest V. District;столица;1;2;to
+Q1042732;Budapest V. District;место смерти;1;1;to
+Q1068701;Budapest II. District;административно-территориальная единица;1;102;to
+Q1068701;Budapest II. District;государство;1;1;from
+Q1042732;Budapest V. District;изображение герба;1;1;from
+Q1042732;Budapest V. District;изображение флага;1;1;from
+Q974038;Hegyvidék;географические координаты;1;1;from
+Q974038;Hegyvidék;столица;1;2;to
+Q974038;Hegyvidék;код Freebase;1;1;from
+Q974038;Hegyvidék;Who's on First ID;1;1;from
+Q974038;Hegyvidék;категория карт на Викискладе;1;1;from
+Q974038;Hegyvidék;официальный сайт;1;1;from
+Q974038;Hegyvidék;основная категория по теме;1;1;from
+Q974038;Hegyvidék;код KSH;1;1;from
+Q974038;Hegyvidék;баннер Викигида;1;1;from
+Q974038;Hegyvidék;расположение штаб-квартиры;1;3;to
+Q974038;Hegyvidék;основная тема шаблона;1;1;to
+Q1042732;Budapest V. District;это частный случай понятия;1;1;from
+Q974038;Hegyvidék;категория объединяет темы;1;1;to
+Q974038;Hegyvidék;общая тема категории;1;1;to
+Q974038;Hegyvidék;место смерти;1;1;to
+Q1042732;Budapest V. District;административно-территориальная единица;1;144;to
+Q1042732;Budapest V. District;государство;1;1;from
+Q1042732;Budapest V. District;изображение;1;1;from
+Q1042732;Budapest V. District;город-побратим;1;8;to
+Q1042732;Budapest V. District;карта местонахождения;1;1;from
+Q697679;Budapest District VI;место смерти;1;4;to
+Q697679;Budapest District VI;история происходит в месте;1;1;to
+Q697679;Budapest District VI;расположение штаб-квартиры;1;3;to
+Q301411;Ferencváros;категория карт на Викискладе;1;1;from
+Q301411;Ferencváros;категория на Викискладе;1;1;from
+Q301411;Ferencváros;часовой пояс;1;2;from
+Q301411;Ferencváros;идентификатор местоположения ArchINFORM;1;1;from
+Q301411;Ferencváros;official number of town quarter;1;1;from
+Q301411;Ferencváros;географические координаты;1;1;from
+Q301411;Ferencváros;код Freebase;1;1;from
+Q301411;Ferencváros;Who's on First ID;1;1;from
+Q301411;Ferencváros;код NKC;1;1;from
+Q301411;Ferencváros;официальный сайт;1;1;from
+Q301411;Ferencváros;код GeoNames;1;1;from
+Q301411;Ferencváros;основная категория по теме;1;1;from
+Q301411;Ferencváros;код KSH;1;1;from
+Q301411;Ferencváros;баннер Викигида;1;1;from
+Q301411;Ferencváros;место смерти;1;2;to
+Q301411;Ferencváros;место рождения;1;5;to
+Q301411;Ferencváros;столица;1;1;to
+Q301411;Ferencváros;расположение штаб-квартиры;1;2;to
+Q301411;Ferencváros;категория объединяет темы;1;1;to
+Q301411;Ferencváros;площадь;1;1;from
+Q301411;Ferencváros;является столицей;1;1;from
+Q330026;Újbuda;административно-территориальная единица;1;71;to
+Q301411;Ferencváros;названо в честь;1;1;from
+Q284541;Erzsébetváros;место смерти;1;3;to
+Q284541;Erzsébetváros;столица;1;2;to
+Q284541;Erzsébetváros;место рождения;1;1;to
+Q284541;Erzsébetváros;местонахождение;1;4;to
+Q284541;Erzsébetváros;расположение штаб-квартиры;1;1;to
+Q284541;Erzsébetváros;категория объединяет темы;1;1;to
+Q284541;Erzsébetváros;общая тема категории;1;1;to
+Q301411;Ferencváros;административно-территориальная единица;1;60;to
+Q301411;Ferencváros;логотип;1;1;from
+Q301411;Ferencváros;численность населения;1;12;from
+Q301411;Ferencváros;государство;1;1;from
+Q301411;Ferencváros;изображение;1;1;from
+Q301411;Ferencváros;город-побратим;1;3;to
+Q301411;Ferencváros;карта местонахождения;1;1;from
+Q301411;Ferencváros;это частный случай понятия;1;1;from
+Q301411;Ferencváros;изображение флага;1;3;from
+Q301411;Ferencváros;глава правительства;1;3;from
+Q301411;Ferencváros;изображение герба;1;1;from
+Q301411;Ferencváros;общая тема категории;1;1;to
+Q330026;Újbuda;государство;1;1;from
+Q284541;Erzsébetváros;основная категория по теме;1;1;from
+Q330195;Újpest;государство;1;1;from
+Q330026;Újbuda;код KSH;1;1;from
+Q330026;Újbuda;расположение штаб-квартиры;1;2;to
+Q330026;Újbuda;столица;1;4;to
+Q330026;Újbuda;местонахождение;1;1;to
+Q330026;Újbuda;место рождения;1;1;to
+Q330026;Újbuda;общая тема категории;1;1;to
+Q330026;Újbuda;категория объединяет темы;1;1;to
+Q330195;Újpest;административно-территориальная единица;1;31;to
+Q330195;Újpest;изображение;1;1;from
+Q330026;Újbuda;официальный сайт;1;1;from
+Q330195;Újpest;город-побратим;1;1;to
+Q330195;Újpest;карта местонахождения;1;1;from
+Q330195;Újpest;это частный случай понятия;1;1;from
+Q330195;Újpest;изображение флага;1;1;from
+Q330195;Újpest;глава правительства;1;5;from
+Q330195;Újpest;изображение герба;1;1;from
+Q330195;Újpest;десятичная классификация Дьюи;1;1;from
+Q330195;Újpest;численность населения;1;12;from
+Q330026;Újbuda;основная категория по теме;1;1;from
+Q330026;Újbuda;категория карт на Викискладе;1;1;from
+Q330026;Újbuda;изображение;1;1;from
+Q330026;Újbuda;является столицей;1;4;from
+Q330026;Újbuda;город-побратим;1;8;to
+Q330026;Újbuda;карта местонахождения;1;1;from
+Q330026;Újbuda;это частный случай понятия;1;1;from
+Q330026;Újbuda;изображение флага;1;1;from
+Q330026;Újbuda;глава правительства;1;5;from
+Q330026;Újbuda;изображение герба;1;1;from
+Q330026;Újbuda;десятичная классификация Дьюи;1;1;from
+Q330026;Újbuda;численность населения;1;12;from
+Q330026;Újbuda;код GeoNames;1;1;from
+Q330026;Újbuda;Who's on First ID;1;1;from
+Q330026;Újbuda;площадь;1;1;from
+Q330026;Újbuda;код темы Quora;1;1;from
+Q330026;Újbuda;категория на Викискладе;1;1;from
+Q330026;Újbuda;часовой пояс;1;2;from
+Q330026;Újbuda;идентификатор местоположения ArchINFORM;1;1;from
+Q330026;Újbuda;official number of town quarter;1;1;from
+Q330026;Újbuda;географические координаты;1;2;from
+Q330026;Újbuda;код Freebase;1;1;from
+Q284541;Erzsébetváros;код KSH;1;1;from
+Q284541;Erzsébetváros;официальный сайт;1;1;from
+Q697679;Budapest District VI;место рождения;1;4;to
+Q249498;Kőbánya;государство;1;1;from
+Q228445;Zugló;код KSH;1;1;from
+Q228445;Zugló;баннер Викигида;1;1;from
+Q228445;Zugló;местонахождение;1;3;to
+Q228445;Zugló;столица;1;3;to
+Q228445;Zugló;расположение штаб-квартиры;1;1;to
+Q228445;Zugló;категория объединяет темы;1;2;to
+Q228445;Zugló;общая тема категории;1;1;to
+Q249498;Kőbánya;административно-территориальная единица;1;42;to
+Q249498;Kőbánya;изображение;1;1;from
+Q228445;Zugló;официальный сайт;1;1;from
+Q249498;Kőbánya;карта местонахождения;1;1;from
+Q249498;Kőbánya;это частный случай понятия;1;1;from
+Q249498;Kőbánya;изображение флага;1;1;from
+Q249498;Kőbánya;глава правительства;1;2;from
+Q249498;Kőbánya;изображение герба;1;1;from
+Q249498;Kőbánya;десятичная классификация Дьюи;1;1;from
+Q249498;Kőbánya;численность населения;1;12;from
+Q249498;Kőbánya;является столицей;1;2;from
+Q228445;Zugló;основная категория по теме;1;1;from
+Q228445;Zugló;категория карт на Викискладе;1;1;from
+Q249498;Kőbánya;владеет;1;1;from
+Q228445;Zugló;численность населения;1;12;from
+Q228445;Zugló;изображение;1;1;from
+Q228445;Zugló;город-побратим;1;6;to
+Q228445;Zugló;карта местонахождения;1;1;from
+Q228445;Zugló;это частный случай понятия;1;1;from
+Q228445;Zugló;изображение флага;1;1;from
+Q228445;Zugló;глава правительства;1;5;from
+Q228445;Zugló;изображение герба;1;1;from
+Q228445;Zugló;десятичная классификация Дьюи;1;1;from
+Q228445;Zugló;является столицей;1;3;from
+Q228445;Zugló;Who's on First ID;1;1;from
+Q228445;Zugló;код GeoNames;1;1;from
+Q228445;Zugló;площадь;1;1;from
+Q228445;Zugló;категория на Викискладе;1;1;from
+Q228445;Zugló;часовой пояс;1;2;from
+Q228445;Zugló;идентификатор местоположения ArchINFORM;1;1;from
+Q228445;Zugló;official number of town quarter;1;1;from
+Q228445;Zugló;географические координаты;1;2;from
+Q228445;Zugló;код Freebase;1;1;from
+Q249498;Kőbánya;код GeoNames;1;2;from
+Q249498;Kőbánya;площадь;1;1;from
+Q284541;Erzsébetváros;категория карт на Викискладе;1;1;from
+Q284541;Erzsébetváros;код GeoNames;1;1;from
+Q284541;Erzsébetváros;карта местонахождения;1;1;from
+Q284541;Erzsébetváros;это частный случай понятия;1;1;from
+Q284541;Erzsébetváros;изображение флага;1;1;from
+Q284541;Erzsébetváros;глава правительства;1;2;from
+Q284541;Erzsébetváros;изображение герба;1;2;from
+Q284541;Erzsébetváros;десятичная классификация Дьюи;1;1;from
+Q284541;Erzsébetváros;численность населения;1;12;from
+Q284541;Erzsébetváros;является столицей;1;2;from
+Q284541;Erzsébetváros;площадь;1;1;from
+Q284541;Erzsébetváros;изображение;1;1;from
+Q284541;Erzsébetváros;категория на Викискладе;1;1;from
+Q284541;Erzsébetváros;часовой пояс;1;2;from
+Q284541;Erzsébetváros;идентификатор местоположения ArchINFORM;1;1;from
+Q284541;Erzsébetváros;дата основания/создания/возникновения;1;1;from
+Q284541;Erzsébetváros;official number of town quarter;1;1;from
+Q284541;Erzsébetváros;географические координаты;1;1;from
+Q284541;Erzsébetváros;код Freebase;1;1;from
+Q284541;Erzsébetváros;Who's on First ID;1;1;from
+Q284541;Erzsébetváros;город-побратим;1;3;to
+Q284541;Erzsébetváros;государство;1;1;from
+Q249498;Kőbánya;категория на Викискладе;1;1;from
+Q249498;Kőbánya;официальный сайт;1;1;from
+Q249498;Kőbánya;часовой пояс;1;2;from
+Q249498;Kőbánya;идентификатор местоположения ArchINFORM;1;1;from
+Q249498;Kőbánya;дата основания/создания/возникновения;1;1;from
+Q249498;Kőbánya;official number of town quarter;1;1;from
+Q249498;Kőbánya;географические координаты;1;1;from
+Q249498;Kőbánya;код Freebase;1;1;from
+Q249498;Kőbánya;Who's on First ID;1;1;from
+Q249498;Kőbánya;категория карт на Викискладе;1;1;from
+Q249498;Kőbánya;основная категория по теме;1;1;from
+Q284541;Erzsébetváros;административно-территориальная единица;1;120;to
+Q249498;Kőbánya;код KSH;1;1;from
+Q249498;Kőbánya;владельцем является;1;1;to
+Q249498;Kőbánya;место рождения;1;2;to
+Q249498;Kőbánya;столица;1;2;to
+Q249498;Kőbánya;названо в честь;1;2;to
+Q249498;Kőbánya;город-побратим;1;1;to
+Q249498;Kőbánya;категория объединяет темы;1;1;to
+Q249498;Kőbánya;общая тема категории;1;1;to
+Q330195;Újpest;код в Большой каталанской энциклопедии;1;1;from
+Q330195;Újpest;является столицей;1;3;from
+Q330195;Újpest;основной шаблон по теме;1;1;from
+Q613220;Csepel;изображение;1;1;from
+Q597182;Budapest VIII. District;место смерти;1;8;to
+Q597182;Budapest VIII. District;расположение штаб-квартиры;1;4;to
+Q597182;Budapest VIII. District;местонахождение;1;1;to
+Q597182;Budapest VIII. District;место рождения;1;1;to
+Q597182;Budapest VIII. District;категория объединяет темы;1;1;to
+Q597182;Budapest VIII. District;общая тема категории;1;1;to
+Q613220;Csepel;административно-территориальная единица;1;30;to
+Q613220;Csepel;государство;1;1;from
+Q613220;Csepel;город-побратим;1;1;to
+Q597182;Budapest VIII. District;код KSH;1;1;from
+Q613220;Csepel;карта местонахождения;1;1;from
+Q613220;Csepel;это частный случай понятия;1;1;from
+Q613220;Csepel;изображение флага;1;1;from
+Q613220;Csepel;глава правительства;1;2;from
+Q613220;Csepel;изображение герба;1;1;from
+Q613220;Csepel;десятичная классификация Дьюи;1;1;from
+Q613220;Csepel;численность населения;1;12;from
+Q613220;Csepel;является столицей;1;3;from
+Q597182;Budapest VIII. District;столица;1;3;to
+Q597182;Budapest VIII. District;основная категория по теме;1;1;from
+Q613220;Csepel;площадь;1;1;from
+Q597182;Budapest VIII. District;код GeoNames;1;1;from
+Q597182;Budapest VIII. District;карта местонахождения;1;1;from
+Q597182;Budapest VIII. District;это частный случай понятия;1;1;from
+Q597182;Budapest VIII. District;изображение флага;1;3;from
+Q597182;Budapest VIII. District;глава правительства;1;5;from
+Q597182;Budapest VIII. District;изображение герба;1;3;from
+Q597182;Budapest VIII. District;десятичная классификация Дьюи;1;1;from
+Q597182;Budapest VIII. District;численность населения;1;12;from
+Q597182;Budapest VIII. District;является столицей;1;3;from
+Q597182;Budapest VIII. District;площадь;1;1;from
+Q597182;Budapest VIII. District;официальный сайт;1;1;from
+Q597182;Budapest VIII. District;категория на Викискладе;1;1;from
+Q597182;Budapest VIII. District;часовой пояс;1;2;from
+Q597182;Budapest VIII. District;идентификатор местоположения ArchINFORM;1;1;from
+Q597182;Budapest VIII. District;official number of town quarter;1;1;from
+Q597182;Budapest VIII. District;географические координаты;1;2;from
+Q597182;Budapest VIII. District;код Freebase;1;1;from
+Q597182;Budapest VIII. District;Who's on First ID;1;1;from
+Q597182;Budapest VIII. District;категория карт на Викискладе;1;1;from
+Q613220;Csepel;код GeoNames;1;2;from
+Q613220;Csepel;категория на Викискладе;1;1;from
+Q330195;Újpest;код GeoNames;1;2;from
+Q697679;Budapest District VI;категория на Викискладе;1;1;from
+Q697679;Budapest District VI;изображение флага;1;1;from
+Q697679;Budapest District VI;глава правительства;1;2;from
+Q697679;Budapest District VI;изображение герба;1;1;from
+Q697679;Budapest District VI;десятичная классификация Дьюи;1;1;from
+Q697679;Budapest District VI;численность населения;1;12;from
+Q697679;Budapest District VI;является столицей;1;1;from
+Q697679;Budapest District VI;код GeoNames;1;1;from
+Q697679;Budapest District VI;площадь;1;1;from
+Q697679;Budapest District VI;часовой пояс;1;2;from
+Q697679;Budapest District VI;карта местонахождения;1;1;from
+Q697679;Budapest District VI;идентификатор местоположения ArchINFORM;1;1;from
+Q697679;Budapest District VI;official number of town quarter;1;1;from
+Q697679;Budapest District VI;географические координаты;1;2;from
+Q697679;Budapest District VI;Who's on First ID;1;1;from
+Q697679;Budapest District VI;категория карт на Викискладе;1;1;from
+Q697679;Budapest District VI;официальный сайт;1;1;from
+Q697679;Budapest District VI;основная категория по теме;1;1;from
+Q697679;Budapest District VI;код KSH;1;1;from
+Q697679;Budapest District VI;это частный случай понятия;1;1;from
+Q697679;Budapest District VI;город-побратим;1;1;to
+Q613220;Csepel;часовой пояс;1;2;from
+Q613220;Csepel;основная категория по теме;1;1;from
+Q613220;Csepel;идентификатор местоположения ArchINFORM;1;1;from
+Q613220;Csepel;дата основания/создания/возникновения;1;1;from
+Q613220;Csepel;official number of town quarter;1;1;from
+Q613220;Csepel;географические координаты;1;1;from
+Q613220;Csepel;код Freebase;1;1;from
+Q613220;Csepel;Who's on First ID;1;1;from
+Q613220;Csepel;категория карт на Викискладе;1;1;from
+Q613220;Csepel;официальный сайт;1;1;from
+Q613220;Csepel;код KSH;1;1;from
+Q697679;Budapest District VI;изображение;1;1;from
+Q613220;Csepel;баннер Викигида;1;1;from
+Q613220;Csepel;место рождения;1;7;to
+Q613220;Csepel;столица;1;3;to
+Q613220;Csepel;категория объединяет темы;1;1;to
+Q613220;Csepel;общая тема категории;1;1;to
+Q697679;Budapest District VI;административно-территориальная единица;1;120;to
+Q697679;Budapest District VI;логотип;1;1;from
+Q697679;Budapest District VI;государство;1;1;from
+Q597182;Budapest VIII. District;изображение;1;1;from
+Q597182;Budapest VIII. District;государство;1;1;from
+Q597182;Budapest VIII. District;административно-территориальная единица;1;232;to
+Q370152;Budapest, XXII. District;численность населения;1;12;from
+Q370152;Budapest, XXII. District;административно-территориальная единица;1;28;to
+Q370152;Budapest, XXII. District;государство;1;1;from
+Q370152;Budapest, XXII. District;изображение;1;1;from
+Q370152;Budapest, XXII. District;карта местонахождения;1;1;from
+Q370152;Budapest, XXII. District;это частный случай понятия;1;1;from
+Q370152;Budapest, XXII. District;изображение флага;1;1;from
+Q370152;Budapest, XXII. District;глава правительства;1;2;from
+Q370152;Budapest, XXII. District;десятичная классификация Дьюи;1;1;from
+Q370152;Budapest, XXII. District;является столицей;1;2;from
+Q330195;Újpest;общая тема категории;1;1;to
+Q370152;Budapest, XXII. District;код GeoNames;1;1;from
+Q370152;Budapest, XXII. District;площадь;1;1;from
+Q370152;Budapest, XXII. District;категория на Викискладе;1;1;from
+Q370152;Budapest, XXII. District;часовой пояс;1;2;from
+Q370152;Budapest, XXII. District;идентификатор местоположения ArchINFORM;1;1;from
+Q370152;Budapest, XXII. District;official number of town quarter;1;1;from
+Q370152;Budapest, XXII. District;географические координаты;1;1;from
+Q370152;Budapest, XXII. District;Who's on First ID;1;1;from
+Q330195;Újpest;расположение штаб-квартиры;1;2;to
+Q330195;Újpest;тематически относится к;1;1;to
+Q580770;Óbuda-Békásmegyer;местонахождение;1;1;to
+Q330195;Újpest;код Freebase;1;1;from
+Q330195;Újpest;площадь;1;1;from
+Q330195;Újpest;код темы Quora;1;1;from
+Q330195;Újpest;категория на Викискладе;1;1;from
+Q330195;Újpest;часовой пояс;1;2;from
+Q330195;Újpest;идентификатор местоположения ArchINFORM;1;1;from
+Q330195;Újpest;дата основания/создания/возникновения;1;1;from
+Q330195;Újpest;official number of town quarter;1;1;from
+Q330195;Újpest;географические координаты;1;1;from
+Q330195;Újpest;Who's on First ID;1;1;from
+Q330195;Újpest;категория объединяет темы;1;2;to
+Q330195;Újpest;категория карт на Викискладе;1;1;from
+Q330195;Újpest;официальный сайт;1;1;from
+Q330195;Újpest;основная категория по теме;1;1;from
+Q330195;Újpest;код KSH;1;1;from
+Q330195;Újpest;место рождения;1;17;to
+Q330195;Újpest;столица;1;3;to
+Q330195;Újpest;место смерти;1;3;to
+Q330195;Újpest;основная тема шаблона;1;1;to
+Q370152;Budapest, XXII. District;категория карт на Викискладе;1;1;from
+Q370152;Budapest, XXII. District;официальный сайт;1;1;from
+Q370152;Budapest, XXII. District;основная категория по теме;1;1;from
+Q580770;Óbuda-Békásmegyer;основная категория по теме;1;1;from
+Q580770;Óbuda-Békásmegyer;часовой пояс;1;2;from
+Q580770;Óbuda-Békásmegyer;идентификатор местоположения ArchINFORM;1;1;from
+Q580770;Óbuda-Békásmegyer;дата основания/создания/возникновения;1;1;from
+Q580770;Óbuda-Békásmegyer;official number of town quarter;1;1;from
+Q580770;Óbuda-Békásmegyer;географические координаты;1;1;from
+Q580770;Óbuda-Békásmegyer;Who's on First ID;1;1;from
+Q580770;Óbuda-Békásmegyer;категория карт на Викискладе;1;1;from
+Q580770;Óbuda-Békásmegyer;официальный сайт;1;1;from
+Q580770;Óbuda-Békásmegyer;код KSH;1;1;from
+Q370152;Budapest, XXII. District;код KSH;1;1;from
+Q580770;Óbuda-Békásmegyer;расположение штаб-квартиры;1;3;to
+Q580770;Óbuda-Békásmegyer;место съёмок;1;1;to
+Q580770;Óbuda-Békásmegyer;столица;1;3;to
+Q580770;Óbuda-Békásmegyer;место рождения;1;2;to
+Q580770;Óbuda-Békásmegyer;тематически относится к;1;1;to
+Q580770;Óbuda-Békásmegyer;названо в честь;1;1;to
+Q580770;Óbuda-Békásmegyer;общая тема категории;1;1;to
+Q580770;Óbuda-Békásmegyer;категория объединяет темы;1;1;to
+Q580770;Óbuda-Békásmegyer;категория на Викискладе;1;1;from
+Q580770;Óbuda-Békásmegyer;площадь;1;1;from
+Q580770;Óbuda-Békásmegyer;код GeoNames;1;1;from
+Q580770;Óbuda-Békásmegyer;является столицей;1;3;from
+Q370152;Budapest, XXII. District;столица;1;2;to
+Q370152;Budapest, XXII. District;основная тема;1;1;to
+Q370152;Budapest, XXII. District;место рождения;1;2;to
+Q370152;Budapest, XXII. District;расположение штаб-квартиры;1;1;to
+Q370152;Budapest, XXII. District;место погребения;1;1;to
+Q370152;Budapest, XXII. District;категория объединяет темы;1;1;to
+Q370152;Budapest, XXII. District;общая тема категории;1;1;to
+Q580770;Óbuda-Békásmegyer;административно-территориальная единица;1;79;to
+Q580770;Óbuda-Békásmegyer;государство;1;1;from
+Q580770;Óbuda-Békásmegyer;город-побратим;1;1;to
+Q580770;Óbuda-Békásmegyer;карта местонахождения;1;1;from
+Q580770;Óbuda-Békásmegyer;это частный случай понятия;1;1;from
+Q580770;Óbuda-Békásmegyer;изображение флага;1;1;from
+Q580770;Óbuda-Békásmegyer;глава правительства;1;6;from
+Q580770;Óbuda-Békásmegyer;изображение герба;1;1;from
+Q580770;Óbuda-Békásmegyer;десятичная классификация Дьюи;1;1;from
+Q580770;Óbuda-Békásmegyer;численность населения;1;12;from
+Q11384977;18th district of Budapest;общая тема категории;1;1;to

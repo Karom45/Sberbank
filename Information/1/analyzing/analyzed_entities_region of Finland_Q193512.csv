@@ -1,0 +1,844 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q5689;Åland Islands;административно-территориальная единица;1;108;to
+Q5703;North Karelia;код Freebase;1;1;from
+Q5703;North Karelia;карта местонахождения;1;1;from
+Q5703;North Karelia;это частный случай понятия;1;1;from
+Q5703;North Karelia;столица;1;1;from
+Q5703;North Karelia;изображение флага;1;1;from
+Q5703;North Karelia;имеет границы с;1;5;to
+Q5703;North Karelia;изображение герба;1;1;from
+Q5703;North Karelia;десятичная классификация Дьюи;1;1;from
+Q5703;North Karelia;численность населения;1;1;from
+Q5703;North Karelia;официальное название;1;2;from
+Q5703;North Karelia;категория для людей, родившихся здесь;1;1;from
+Q5703;North Karelia;код GeoNames;1;1;from
+Q5703;North Karelia;название на языке оригинала;1;2;from
+Q5703;North Karelia;площадь;1;1;from
+Q5703;North Karelia;код YSO;1;1;from
+Q5703;North Karelia;код BNF;1;1;from
+Q5703;North Karelia;ISO 3166-2;1;1;from
+Q5703;North Karelia;категория на Викискладе;1;1;from
+Q5703;North Karelia;геоданные;1;1;from
+Q5703;North Karelia;ID отношения в OpenStreetMap;1;1;from
+Q5703;North Karelia;часовой пояс;1;1;from
+Q5703;North Karelia;идентификатор местоположения ArchINFORM;1;1;from
+Q5703;North Karelia;дата основания/создания/возникновения;1;1;from
+Q5703;North Karelia;код NUTS;1;1;from
+Q5703;North Karelia;код GND;1;1;from
+Q5703;North Karelia;код VIAF;1;1;from
+Q5703;North Karelia;государство;1;1;from
+Q5702;Ostrobothnia;официальный сайт;1;1;from
+Q5702;Ostrobothnia;ISO 3166-2;1;1;from
+Q5702;Ostrobothnia;категория на Викискладе;1;1;from
+Q5702;Ostrobothnia;геоданные;1;1;from
+Q5702;Ostrobothnia;ID отношения в OpenStreetMap;1;1;from
+Q5702;Ostrobothnia;идентификатор местоположения ArchINFORM;1;1;from
+Q5702;Ostrobothnia;дата основания/создания/возникновения;1;1;from
+Q5702;Ostrobothnia;код NUTS;1;1;from
+Q5702;Ostrobothnia;географические координаты;1;1;from
+Q5702;Ostrobothnia;код Freebase;1;1;from
+Q5702;Ostrobothnia;Who's on First ID;1;1;from
+Q5702;Ostrobothnia;основная категория по теме;1;1;from
+Q5703;North Karelia;административно-территориальная единица;1;2345;to
+Q5702;Ostrobothnia;баннер Викигида;1;1;from
+Q5702;Ostrobothnia;место в MusicBrainz;1;1;from
+Q5702;Ostrobothnia;административно делится на;1;1;to
+Q5702;Ostrobothnia;категория объединяет темы;1;4;to
+Q5702;Ostrobothnia;является столицей;1;1;to
+Q5702;Ostrobothnia;место рождения;1;3;to
+Q5702;Ostrobothnia;зона обслуживания;1;2;to
+Q5702;Ostrobothnia;происходит из;1;2;to
+Q5702;Ostrobothnia;общая тема категории;1;1;to
+Q5702;Ostrobothnia;энтохороним от;1;1;to
+Q5703;North Karelia;географические координаты;1;1;from
+Q5703;North Karelia;Who's on First ID;1;1;from
+Q5704;Northern Ostrobothnia;категория объединяет темы;1;9;to
+Q5703;North Karelia;официальный сайт;1;1;from
+Q5704;Northern Ostrobothnia;категория для людей, родившихся здесь;1;1;from
+Q5704;Northern Ostrobothnia;код GeoNames;1;1;from
+Q5704;Northern Ostrobothnia;название на языке оригинала;1;2;from
+Q5704;Northern Ostrobothnia;категория для людей, связанных с местностью;1;1;from
+Q5704;Northern Ostrobothnia;не путать с;1;1;to
+Q5704;Northern Ostrobothnia;площадь;1;1;from
+Q5704;Northern Ostrobothnia;код YSO;1;1;from
+Q5704;Northern Ostrobothnia;используемый язык;1;2;from
+Q5704;Northern Ostrobothnia;ISO 3166-2;1;1;from
+Q5704;Northern Ostrobothnia;категория на Викискладе;1;1;from
+Q5704;Northern Ostrobothnia;геоданные;1;1;from
+Q5704;Northern Ostrobothnia;ID отношения в OpenStreetMap;1;1;from
+Q5704;Northern Ostrobothnia;Uppslagsverket Finland ID;1;1;from
+Q5704;Northern Ostrobothnia;идентификатор местоположения ArchINFORM;1;1;from
+Q5704;Northern Ostrobothnia;дата основания/создания/возникновения;1;1;from
+Q5704;Northern Ostrobothnia;код NUTS;1;1;from
+Q5704;Northern Ostrobothnia;географические координаты;1;1;from
+Q5704;Northern Ostrobothnia;код Freebase;1;1;from
+Q5704;Northern Ostrobothnia;Who's on First ID;1;1;from
+Q5704;Northern Ostrobothnia;категория карт на Викискладе;1;1;from
+Q5704;Northern Ostrobothnia;официальный сайт;1;1;from
+Q5704;Northern Ostrobothnia;основная категория по теме;1;1;from
+Q5704;Northern Ostrobothnia;код NLI;1;1;from
+Q5704;Northern Ostrobothnia;десятичная классификация Дьюи;1;1;from
+Q5704;Northern Ostrobothnia;изображение герба;1;1;from
+Q5704;Northern Ostrobothnia;имеет границы с;1;6;to
+Q5703;North Karelia;местонахождение;1;1;to
+Q5703;North Karelia;основная категория по теме;1;1;from
+Q5703;North Karelia;баннер Викигида;1;1;from
+Q5703;North Karelia;код NLI;1;1;from
+Q5703;North Karelia;место в MusicBrainz;1;1;from
+Q5703;North Karelia;административно делится на;1;1;to
+Q5703;North Karelia;категория объединяет темы;1;5;to
+Q5703;North Karelia;история происходит в месте;1;1;to
+Q5703;North Karelia;место рождения;1;1;to
+Q5703;North Karelia;является столицей;1;1;to
+Q5703;North Karelia;место съёмок;1;1;to
+Q5703;North Karelia;часть от;1;1;to
+Q5704;Northern Ostrobothnia;столица;1;1;from
+Q5703;North Karelia;зона обслуживания;1;1;to
+Q5703;North Karelia;общая тема категории;1;1;to
+Q5703;North Karelia;происходит из;1;1;to
+Q5704;Northern Ostrobothnia;административно-территориальная единица;1;1802;to
+Q5704;Northern Ostrobothnia;административно делится на;1;1;to
+Q5704;Northern Ostrobothnia;государство;1;1;from
+Q5704;Northern Ostrobothnia;изображение;1;1;from
+Q5704;Northern Ostrobothnia;код VIAF;1;1;from
+Q5704;Northern Ostrobothnia;карта местонахождения;1;1;from
+Q5704;Northern Ostrobothnia;это частный случай понятия;1;1;from
+Q5702;Ostrobothnia;используемый язык;1;3;from
+Q5702;Ostrobothnia;код YSO;1;1;from
+Q5702;Ostrobothnia;площадь;1;1;from
+Q5702;Ostrobothnia;не путать с;1;4;to
+Q5700;Lapland;код статьи Klexikon;1;1;from
+Q5700;Lapland;Who's on First ID;1;1;from
+Q5700;Lapland;код NKC;1;1;from
+Q5700;Lapland;находится в пределах природно-географического объекта;1;1;to
+Q5700;Lapland;категория карт на Викискладе;1;1;from
+Q5700;Lapland;официальный сайт;1;2;from
+Q5700;Lapland;FIPS 10-4 (страны и регионы);1;1;from
+Q5700;Lapland;основная категория по теме;1;1;from
+Q5700;Lapland;баннер Викигида;1;1;from
+Q5700;Lapland;код NLI;1;1;from
+Q5700;Lapland;место в MusicBrainz;1;1;from
+Q5700;Lapland;категория объединяет темы;1;6;to
+Q5700;Lapland;является столицей;1;1;to
+Q5700;Lapland;зона обслуживания;1;2;to
+Q5700;Lapland;названо в честь;1;1;to
+Q5700;Lapland;местонахождение;1;2;to
+Q5700;Lapland;место съёмок;1;1;to
+Q5700;Lapland;изображённый объект;1;2;to
+Q5700;Lapland;основная тема;1;4;to
+Q5700;Lapland;история происходит в месте;1;2;to
+Q5700;Lapland;место изготовления;1;9;to
+Q5700;Lapland;общая тема категории;1;1;to
+Q5700;Lapland;происходит из;1;4;to
+Q5700;Lapland;код Freebase;1;1;from
+Q5700;Lapland;географические координаты;1;1;from
+Q5700;Lapland;код NUTS;1;1;from
+Q5700;Lapland;код BNF;1;1;from
+Q5700;Lapland;изображение герба;1;1;from
+Q5700;Lapland;десятичная классификация Дьюи;1;1;from
+Q5700;Lapland;численность населения;1;1;from
+Q5700;Lapland;официальное название;1;1;from
+Q5700;Lapland;категория для людей, родившихся здесь;1;1;from
+Q5700;Lapland;код GeoNames;1;1;from
+Q5700;Lapland;название на языке оригинала;1;1;from
+Q5700;Lapland;не путать с;1;1;to
+Q5700;Lapland;площадь;1;1;from
+Q5700;Lapland;код YSO;1;1;from
+Q5700;Lapland;используемый язык;1;4;from
+Q5700;Lapland;дата основания/создания/возникновения;1;1;from
+Q5700;Lapland;ISO 3166-2;1;1;from
+Q5700;Lapland;код NE.se;1;1;from
+Q5700;Lapland;код темы Quora;1;1;from
+Q5700;Lapland;часть от;1;3;to
+Q5700;Lapland;категория на Викискладе;1;1;from
+Q5700;Lapland;геоданные;1;1;from
+Q5700;Lapland;ID отношения в OpenStreetMap;1;1;from
+Q5700;Lapland;часовой пояс;1;3;from
+Q5700;Lapland;код для сущности Wolfram Language;1;1;from
+Q5700;Lapland;идентификатор местоположения ArchINFORM;1;1;from
+Q5701;Pirkanmaa;административно-территориальная единица;1;2421;to
+Q5701;Pirkanmaa;государство;1;4;from
+Q5701;Pirkanmaa;код VIAF;1;1;from
+Q5702;Ostrobothnia;код GND;1;1;from
+Q5701;Pirkanmaa;код NLI;1;1;from
+Q5701;Pirkanmaa;место в MusicBrainz;1;1;from
+Q5701;Pirkanmaa;административно делится на;1;1;to
+Q5701;Pirkanmaa;категория объединяет темы;1;5;to
+Q5701;Pirkanmaa;место рождения;1;1;to
+Q5701;Pirkanmaa;зона обслуживания;1;2;to
+Q5701;Pirkanmaa;общая тема категории;1;1;to
+Q5701;Pirkanmaa;является столицей;1;1;to
+Q5702;Ostrobothnia;административно-территориальная единица;1;33;to
+Q5702;Ostrobothnia;государство;1;1;from
+Q5702;Ostrobothnia;карта местонахождения;1;1;from
+Q5701;Pirkanmaa;основная категория по теме;1;1;from
+Q5702;Ostrobothnia;это частный случай понятия;1;1;from
+Q5702;Ostrobothnia;столица;1;1;from
+Q5702;Ostrobothnia;имеет границы с;1;3;to
+Q5702;Ostrobothnia;изображение герба;1;1;from
+Q5702;Ostrobothnia;десятичная классификация Дьюи;1;1;from
+Q5702;Ostrobothnia;код в энциклопедии «Британника онлайн»;1;1;from
+Q5702;Ostrobothnia;категория для людей, родившихся здесь;1;1;from
+Q5702;Ostrobothnia;код GeoNames;1;1;from
+Q5702;Ostrobothnia;название на языке оригинала;1;2;from
+Q5702;Ostrobothnia;категория для людей, связанных с местностью;1;1;from
+Q5701;Pirkanmaa;баннер Викигида;1;2;from
+Q5701;Pirkanmaa;официальный сайт;1;1;from
+Q5701;Pirkanmaa;код GND;1;1;from
+Q5701;Pirkanmaa;код YSO;1;1;from
+Q5701;Pirkanmaa;карта местонахождения;1;1;from
+Q5701;Pirkanmaa;это частный случай понятия;1;1;from
+Q5701;Pirkanmaa;столица;1;1;from
+Q5701;Pirkanmaa;имеет границы с;1;6;to
+Q5701;Pirkanmaa;изображение герба;1;1;from
+Q5701;Pirkanmaa;десятичная классификация Дьюи;1;1;from
+Q5701;Pirkanmaa;категория для людей, родившихся здесь;1;1;from
+Q5701;Pirkanmaa;код GeoNames;1;1;from
+Q5701;Pirkanmaa;название на языке оригинала;1;2;from
+Q5701;Pirkanmaa;площадь;1;1;from
+Q5701;Pirkanmaa;ISO 3166-2;1;1;from
+Q5701;Pirkanmaa;код NKC;1;1;from
+Q5701;Pirkanmaa;категория на Викискладе;1;1;from
+Q5701;Pirkanmaa;геоданные;1;1;from
+Q5701;Pirkanmaa;ID отношения в OpenStreetMap;1;1;from
+Q5701;Pirkanmaa;часовой пояс;1;1;from
+Q5701;Pirkanmaa;Uppslagsverket Finland ID;1;1;from
+Q5701;Pirkanmaa;идентификатор местоположения ArchINFORM;1;1;from
+Q5701;Pirkanmaa;код NUTS;1;1;from
+Q5701;Pirkanmaa;географические координаты;1;1;from
+Q5701;Pirkanmaa;код Freebase;1;1;from
+Q5701;Pirkanmaa;Who's on First ID;1;1;from
+Q5704;Northern Ostrobothnia;место в MusicBrainz;1;1;from
+Q5704;Northern Ostrobothnia;зона обслуживания;1;2;to
+Q5700;Lapland;столица;1;1;from
+Q5711;Uusimaa;история происходит в месте;1;1;to
+Q5711;Uusimaa;площадь;1;1;from
+Q5711;Uusimaa;код YSO;1;1;from
+Q5711;Uusimaa;ISO 3166-2;1;1;from
+Q5711;Uusimaa;код темы Quora;1;1;from
+Q5711;Uusimaa;категория на Викискладе;1;1;from
+Q5711;Uusimaa;геоданные;1;1;from
+Q5711;Uusimaa;ID отношения в OpenStreetMap;1;1;from
+Q5711;Uusimaa;часовой пояс;1;3;from
+Q5711;Uusimaa;Uppslagsverket Finland ID;1;1;from
+Q5711;Uusimaa;идентификатор местоположения ArchINFORM;1;1;from
+Q5711;Uusimaa;код NUTS;1;3;from
+Q5711;Uusimaa;географические координаты;1;1;from
+Q5711;Uusimaa;код Freebase;1;1;from
+Q5711;Uusimaa;Who's on First ID;1;1;from
+Q5711;Uusimaa;категория карт на Викискладе;1;1;from
+Q5711;Uusimaa;руководящий орган;1;1;from
+Q5711;Uusimaa;официальный сайт;1;1;from
+Q5711;Uusimaa;основная категория по теме;1;1;from
+Q5711;Uusimaa;баннер Викигида;1;1;from
+Q5711;Uusimaa;место в MusicBrainz;1;1;from
+Q5711;Uusimaa;место съёмок;1;2;to
+Q5711;Uusimaa;место рождения;1;4;to
+Q5711;Uusimaa;категория объединяет темы;1;7;to
+Q5711;Uusimaa;категория для людей, связанных с местностью;1;1;from
+Q5711;Uusimaa;название на языке оригинала;1;1;from
+Q5711;Uusimaa;код TGN;1;1;from
+Q5711;Uusimaa;код GND;1;1;from
+Q5709;Satakunta;административно делится на;1;1;to
+Q5709;Satakunta;категория объединяет темы;1;6;to
+Q5709;Satakunta;является столицей;1;1;to
+Q5709;Satakunta;зона обслуживания;1;1;to
+Q5709;Satakunta;место рождения;1;1;to
+Q5709;Satakunta;общая тема категории;1;1;to
+Q5711;Uusimaa;административно-территориальная единица;1;155;to
+Q5711;Uusimaa;административно делится на;1;1;to
+Q5711;Uusimaa;государство;1;3;from
+Q5711;Uusimaa;код VIAF;1;1;from
+Q5711;Uusimaa;карта местонахождения;1;1;from
+Q5711;Uusimaa;код GeoNames;1;1;from
+Q5711;Uusimaa;это частный случай понятия;1;1;from
+Q5711;Uusimaa;столица;1;1;from
+Q5711;Uusimaa;изображение флага;1;1;from
+Q5711;Uusimaa;имеет границы с;1;5;to
+Q5711;Uusimaa;изображение герба;1;1;from
+Q5711;Uusimaa;десятичная классификация Дьюи;1;1;from
+Q5711;Uusimaa;численность населения;1;1;from
+Q5711;Uusimaa;описывается в источниках;1;1;from
+Q5711;Uusimaa;категория для людей, родившихся здесь;1;1;from
+Q5711;Uusimaa;категория для людей, умерших здесь;1;1;from
+Q5711;Uusimaa;место смерти;1;3;to
+Q5711;Uusimaa;основная тема;1;1;to
+Q5704;Northern Ostrobothnia;место рождения;1;2;to
+Q5711;Uusimaa;место создания;1;1;to
+Q5712;Finland Proper;геоданные;1;1;from
+Q5712;Finland Proper;ID отношения в OpenStreetMap;1;1;from
+Q5712;Finland Proper;часовой пояс;1;3;from
+Q5712;Finland Proper;идентификатор местоположения ArchINFORM;1;1;from
+Q5712;Finland Proper;код NUTS;1;1;from
+Q5712;Finland Proper;географические координаты;1;1;from
+Q5712;Finland Proper;Swedish Anbytarforum;1;1;from
+Q5712;Finland Proper;код Freebase;1;1;from
+Q5712;Finland Proper;Who's on First ID;1;1;from
+Q5712;Finland Proper;официальный сайт;1;1;from
+Q5712;Finland Proper;основная категория по теме;1;1;from
+Q5712;Finland Proper;баннер Викигида;1;1;from
+Q5712;Finland Proper;код NLI;1;1;from
+Q5712;Finland Proper;место в MusicBrainz;1;1;from
+Q5712;Finland Proper;административно делится на;1;1;to
+Q5712;Finland Proper;расположение штаб-квартиры;1;2;to
+Q5712;Finland Proper;история происходит в месте;1;1;to
+Q5712;Finland Proper;место рождения;1;3;to
+Q5712;Finland Proper;категория объединяет темы;1;5;to
+Q5712;Finland Proper;зона обслуживания;1;1;to
+Q5712;Finland Proper;местонахождение;1;1;to
+Q5712;Finland Proper;место активности;1;1;to
+Q5712;Finland Proper;общая тема категории;1;1;to
+Q5712;Finland Proper;категория на Викискладе;1;1;from
+Q5712;Finland Proper;код NE.se;1;1;from
+Q5712;Finland Proper;ISO 3166-2;1;1;from
+Q5712;Finland Proper;это частный случай понятия;1;1;from
+Q5711;Uusimaa;зона обслуживания;1;2;to
+Q5711;Uusimaa;общая тема категории;1;1;to
+Q5711;Uusimaa;энтохороним от;1;1;to
+Q5712;Finland Proper;административно-территориальная единица;1;484;to
+Q5712;Finland Proper;государство;1;4;from
+Q5712;Finland Proper;изображение;1;1;from
+Q5712;Finland Proper;код VIAF;1;1;from
+Q5712;Finland Proper;код GND;1;1;from
+Q5712;Finland Proper;карта местонахождения;1;1;from
+Q5712;Finland Proper;код LCNAF;1;1;from
+Q5712;Finland Proper;столица;1;1;from
+Q5712;Finland Proper;код YSO;1;1;from
+Q5712;Finland Proper;имеет границы с;1;5;to
+Q5712;Finland Proper;изображение герба;1;1;from
+Q5712;Finland Proper;десятичная классификация Дьюи;1;1;from
+Q5712;Finland Proper;численность населения;1;1;from
+Q5712;Finland Proper;категория для людей, родившихся здесь;1;1;from
+Q5712;Finland Proper;код GeoNames;1;1;from
+Q5712;Finland Proper;название на языке оригинала;1;2;from
+Q5712;Finland Proper;категория для людей, связанных с местностью;1;1;from
+Q5712;Finland Proper;не путать с;1;1;to
+Q5712;Finland Proper;площадь;1;1;from
+Q5709;Satakunta;место в MusicBrainz;1;1;from
+Q5709;Satakunta;код NLI;1;1;from
+Q5709;Satakunta;баннер Викигида;1;1;from
+Q5709;Satakunta;основная категория по теме;1;1;from
+Q5706;Northern Savonia;официальный сайт;1;1;from
+Q5706;Northern Savonia;основная категория по теме;1;1;from
+Q5706;Northern Savonia;баннер Викигида;1;1;from
+Q5706;Northern Savonia;место в MusicBrainz;1;1;from
+Q5706;Northern Savonia;административно делится на;1;1;to
+Q5706;Northern Savonia;категория объединяет темы;1;4;to
+Q5706;Northern Savonia;является столицей;1;1;to
+Q5706;Northern Savonia;зона обслуживания;1;1;to
+Q5706;Northern Savonia;общая тема категории;1;1;to
+Q5708;Päijänne Tavastia;административно-территориальная единица;1;1045;to
+Q5708;Päijänne Tavastia;названо в честь;1;1;from
+Q5708;Päijänne Tavastia;государство;1;1;from
+Q5708;Päijänne Tavastia;код VIAF;1;1;from
+Q5708;Päijänne Tavastia;код GND;1;1;from
+Q5708;Päijänne Tavastia;карта местонахождения;1;1;from
+Q5708;Päijänne Tavastia;это частный случай понятия;1;1;from
+Q5708;Päijänne Tavastia;столица;1;1;from
+Q5708;Päijänne Tavastia;изображение флага;1;1;from
+Q5708;Päijänne Tavastia;имеет границы с;1;7;to
+Q5708;Päijänne Tavastia;изображение герба;1;1;from
+Q5708;Päijänne Tavastia;десятичная классификация Дьюи;1;1;from
+Q5708;Päijänne Tavastia;категория для людей, родившихся здесь;1;1;from
+Q5708;Päijänne Tavastia;код GeoNames;1;1;from
+Q5706;Northern Savonia;Who's on First ID;1;1;from
+Q5706;Northern Savonia;код Freebase;1;1;from
+Q5706;Northern Savonia;географические координаты;1;1;from
+Q5706;Northern Savonia;изображение герба;1;1;from
+Q5704;Northern Ostrobothnia;происходит из;1;1;to
+Q5704;Northern Ostrobothnia;общая тема категории;1;1;to
+Q5704;Northern Ostrobothnia;является столицей;1;1;to
+Q5706;Northern Savonia;административно-территориальная единица;1;3012;to
+Q5706;Northern Savonia;государство;1;1;from
+Q5706;Northern Savonia;карта местонахождения;1;1;from
+Q5706;Northern Savonia;это частный случай понятия;1;1;from
+Q5706;Northern Savonia;столица;1;1;from
+Q5706;Northern Savonia;изображение флага;1;1;from
+Q5706;Northern Savonia;имеет границы с;1;5;to
+Q5706;Northern Savonia;десятичная классификация Дьюи;1;1;from
+Q5706;Northern Savonia;код NUTS;1;1;from
+Q5706;Northern Savonia;категория для людей, родившихся здесь;1;1;from
+Q5706;Northern Savonia;код GeoNames;1;1;from
+Q5706;Northern Savonia;название на языке оригинала;1;2;from
+Q5706;Northern Savonia;площадь;1;1;from
+Q5706;Northern Savonia;код YSO;1;1;from
+Q5706;Northern Savonia;ISO 3166-2;1;1;from
+Q5706;Northern Savonia;категория на Викискладе;1;1;from
+Q5706;Northern Savonia;геоданные;1;1;from
+Q5706;Northern Savonia;ID отношения в OpenStreetMap;1;1;from
+Q5706;Northern Savonia;идентификатор местоположения ArchINFORM;1;1;from
+Q5708;Päijänne Tavastia;название на языке оригинала;1;2;from
+Q5708;Päijänne Tavastia;площадь;1;1;from
+Q5708;Päijänne Tavastia;код YSO;1;1;from
+Q5709;Satakunta;код YSO;1;1;from
+Q5709;Satakunta;столица;1;1;from
+Q5709;Satakunta;изображение флага;1;1;from
+Q5709;Satakunta;имеет границы с;1;4;to
+Q5709;Satakunta;изображение герба;1;1;from
+Q5709;Satakunta;десятичная классификация Дьюи;1;1;from
+Q5709;Satakunta;категория для людей, родившихся здесь;1;1;from
+Q5709;Satakunta;код GeoNames;1;1;from
+Q5709;Satakunta;название на языке оригинала;1;1;from
+Q5709;Satakunta;не путать с;1;1;to
+Q5709;Satakunta;площадь;1;1;from
+Q5709;Satakunta;ISO 3166-2;1;1;from
+Q5709;Satakunta;код LCNAF;1;1;from
+Q5709;Satakunta;категория на Викискладе;1;1;from
+Q5709;Satakunta;геоданные;1;1;from
+Q5709;Satakunta;ID отношения в OpenStreetMap;1;1;from
+Q5709;Satakunta;идентификатор местоположения ArchINFORM;1;1;from
+Q5709;Satakunta;код NUTS;1;1;from
+Q5709;Satakunta;географические координаты;1;1;from
+Q5709;Satakunta;код Freebase;1;1;from
+Q5709;Satakunta;Who's on First ID;1;1;from
+Q5709;Satakunta;категория карт на Викискладе;1;1;from
+Q5709;Satakunta;официальный сайт;1;1;from
+Q5709;Satakunta;это частный случай понятия;1;1;from
+Q5709;Satakunta;карта местонахождения;1;1;from
+Q5708;Päijänne Tavastia;ISO 3166-2;1;1;from
+Q5708;Päijänne Tavastia;официальный сайт;1;1;from
+Q5708;Päijänne Tavastia;категория на Викискладе;1;1;from
+Q5708;Päijänne Tavastia;геоданные;1;1;from
+Q5708;Päijänne Tavastia;ID отношения в OpenStreetMap;1;1;from
+Q5708;Päijänne Tavastia;Uppslagsverket Finland ID;1;1;from
+Q5708;Päijänne Tavastia;идентификатор местоположения ArchINFORM;1;1;from
+Q5708;Päijänne Tavastia;код NUTS;1;1;from
+Q5708;Päijänne Tavastia;географические координаты;1;1;from
+Q5708;Päijänne Tavastia;код Freebase;1;1;from
+Q5708;Päijänne Tavastia;Who's on First ID;1;1;from
+Q5708;Päijänne Tavastia;руководящий орган;1;1;from
+Q5708;Päijänne Tavastia;основная категория по теме;1;1;from
+Q5709;Satakunta;код GND;1;1;from
+Q5708;Päijänne Tavastia;баннер Викигида;1;1;from
+Q5708;Päijänne Tavastia;место в MusicBrainz;1;1;from
+Q5708;Päijänne Tavastia;административно делится на;1;1;to
+Q5708;Päijänne Tavastia;категория объединяет темы;1;5;to
+Q5708;Päijänne Tavastia;зона обслуживания;1;2;to
+Q5708;Päijänne Tavastia;общая тема категории;1;1;to
+Q5708;Päijänne Tavastia;является столицей;1;1;to
+Q5709;Satakunta;административно-территориальная единица;1;1289;to
+Q5709;Satakunta;государство;1;1;from
+Q5709;Satakunta;код VIAF;1;1;from
+Q5700;Lapland;имеет границы с;1;7;to
+Q5700;Lapland;это частный случай понятия;1;1;from
+Q5689;Åland Islands;административно делится на;1;1;to
+Q5692;Southern Ostrobothnia;код GeoNames;1;1;from
+Q5691;South Karelia;место в MusicBrainz;1;1;from
+Q5691;South Karelia;административно делится на;1;1;to
+Q5691;South Karelia;лицензия на вещание в;1;1;to
+Q5691;South Karelia;зона обслуживания;1;2;to
+Q5691;South Karelia;является столицей;1;1;to
+Q5691;South Karelia;юрисдикция распространяется на;1;1;to
+Q5691;South Karelia;категория объединяет темы;1;3;to
+Q5691;South Karelia;владельцем является;1;1;to
+Q5691;South Karelia;общая тема категории;1;1;to
+Q5691;South Karelia;происходит из;1;1;to
+Q5692;Southern Ostrobothnia;административно-территориальная единица;1;146;to
+Q5692;Southern Ostrobothnia;административно делится на;1;1;to
+Q5692;Southern Ostrobothnia;государство;1;1;from
+Q5692;Southern Ostrobothnia;код VIAF;1;1;from
+Q5692;Southern Ostrobothnia;код GND;1;1;from
+Q5692;Southern Ostrobothnia;карта местонахождения;1;1;from
+Q5692;Southern Ostrobothnia;это частный случай понятия;1;1;from
+Q5692;Southern Ostrobothnia;столица;1;1;from
+Q5692;Southern Ostrobothnia;изображение флага;1;1;from
+Q5692;Southern Ostrobothnia;имеет границы с;1;5;to
+Q5692;Southern Ostrobothnia;изображение герба;1;1;from
+Q5692;Southern Ostrobothnia;десятичная классификация Дьюи;1;1;from
+Q5692;Southern Ostrobothnia;официальное название;1;2;from
+Q5691;South Karelia;баннер Викигида;1;1;from
+Q5691;South Karelia;основная категория по теме;1;1;from
+Q5691;South Karelia;официальный сайт;1;1;from
+Q5691;South Karelia;название на языке оригинала;1;2;from
+Q5691;South Karelia;государство;1;1;from
+Q5691;South Karelia;код VIAF;1;1;from
+Q5691;South Karelia;код GND;1;1;from
+Q5691;South Karelia;карта местонахождения;1;1;from
+Q5691;South Karelia;это частный случай понятия;1;1;from
+Q5691;South Karelia;столица;1;1;from
+Q5691;South Karelia;имеет границы с;1;5;to
+Q5691;South Karelia;изображение герба;1;1;from
+Q5691;South Karelia;десятичная классификация Дьюи;1;1;from
+Q5691;South Karelia;код GeoNames;1;1;from
+Q5691;South Karelia;владеет;1;1;from
+Q5691;South Karelia;Who's on First ID;1;1;from
+Q5691;South Karelia;площадь;1;1;from
+Q5691;South Karelia;код YSO;1;1;from
+Q5691;South Karelia;ISO 3166-2;1;1;from
+Q5691;South Karelia;категория на Викискладе;1;1;from
+Q5691;South Karelia;геоданные;1;1;from
+Q5691;South Karelia;ID отношения в OpenStreetMap;1;1;from
+Q5691;South Karelia;идентификатор местоположения ArchINFORM;1;1;from
+Q5691;South Karelia;код NUTS;1;1;from
+Q5691;South Karelia;географические координаты;1;1;from
+Q5691;South Karelia;код Freebase;1;1;from
+Q5692;Southern Ostrobothnia;категория для людей, родившихся здесь;1;1;from
+Q5692;Southern Ostrobothnia;название на языке оригинала;1;2;from
+Q5693;Southern Savonia;место рождения;1;1;to
+Q5692;Southern Ostrobothnia;категория для людей, связанных с местностью;1;1;from
+Q5693;Southern Savonia;это частный случай понятия;1;1;from
+Q5693;Southern Savonia;столица;1;1;from
+Q5693;Southern Savonia;имеет границы с;1;6;to
+Q5693;Southern Savonia;изображение герба;1;1;from
+Q5693;Southern Savonia;десятичная классификация Дьюи;1;1;from
+Q5693;Southern Savonia;категория для людей, родившихся здесь;1;1;from
+Q5693;Southern Savonia;код GeoNames;1;1;from
+Q5693;Southern Savonia;название на языке оригинала;1;2;from
+Q5693;Southern Savonia;площадь;1;1;from
+Q5693;Southern Savonia;код YSO;1;1;from
+Q5693;Southern Savonia;ISO 3166-2;1;1;from
+Q5693;Southern Savonia;категория на Викискладе;1;1;from
+Q5693;Southern Savonia;геоданные;1;1;from
+Q5693;Southern Savonia;ID отношения в OpenStreetMap;1;1;from
+Q5693;Southern Savonia;идентификатор местоположения ArchINFORM;1;1;from
+Q5693;Southern Savonia;код NUTS;1;1;from
+Q5693;Southern Savonia;географические координаты;1;1;from
+Q5693;Southern Savonia;код Freebase;1;1;from
+Q5693;Southern Savonia;Who's on First ID;1;1;from
+Q5693;Southern Savonia;официальный сайт;1;1;from
+Q5693;Southern Savonia;основная категория по теме;1;1;from
+Q5693;Southern Savonia;баннер Викигида;1;1;from
+Q5693;Southern Savonia;место в MusicBrainz;1;1;from
+Q5693;Southern Savonia;карта местонахождения;1;1;from
+Q5693;Southern Savonia;государство;1;1;from
+Q5693;Southern Savonia;административно-территориальная единица;1;2685;to
+Q5692;Southern Ostrobothnia;код NUTS;1;1;from
+Q5692;Southern Ostrobothnia;не путать с;1;1;to
+Q5692;Southern Ostrobothnia;площадь;1;1;from
+Q5692;Southern Ostrobothnia;код YSO;1;1;from
+Q5692;Southern Ostrobothnia;ISO 3166-2;1;1;from
+Q5692;Southern Ostrobothnia;категория на Викискладе;1;1;from
+Q5692;Southern Ostrobothnia;геоданные;1;1;from
+Q5692;Southern Ostrobothnia;ID отношения в OpenStreetMap;1;1;from
+Q5692;Southern Ostrobothnia;часовой пояс;1;3;from
+Q5692;Southern Ostrobothnia;Uppslagsverket Finland ID;1;1;from
+Q5692;Southern Ostrobothnia;идентификатор местоположения ArchINFORM;1;1;from
+Q5692;Southern Ostrobothnia;географические координаты;1;1;from
+Q5692;Southern Ostrobothnia;является столицей;1;1;to
+Q5692;Southern Ostrobothnia;код Freebase;1;1;from
+Q5692;Southern Ostrobothnia;Who's on First ID;1;1;from
+Q5692;Southern Ostrobothnia;основная категория по теме;1;1;from
+Q5692;Southern Ostrobothnia;баннер Викигида;1;1;from
+Q5692;Southern Ostrobothnia;код NLI;1;1;from
+Q5692;Southern Ostrobothnia;место в MusicBrainz;1;1;from
+Q5692;Southern Ostrobothnia;место создания;1;1;to
+Q5692;Southern Ostrobothnia;зона обслуживания;1;1;to
+Q5692;Southern Ostrobothnia;категория объединяет темы;1;6;to
+Q5692;Southern Ostrobothnia;общая тема категории;1;1;to
+Q5691;South Karelia;административно-территориальная единица;1;894;to
+Q5689;Åland Islands;энтохороним от;1;1;to
+Q5689;Åland Islands;является столицей;1;1;to
+Q5689;Åland Islands;находится в пределах природно-географического объекта;1;1;to
+Q5689;Åland Islands;этнохороним;1;5;from
+Q5689;Åland Islands;код GeoNames;1;1;from
+Q5689;Åland Islands;код TGN;1;1;from
+Q5689;Åland Islands;категория для людей, связанных с местностью;1;1;from
+Q5689;Åland Islands;короткое название;1;1;from
+Q5689;Åland Islands;высота над уровнем моря;1;1;from
+Q5689;Åland Islands;площадь;1;1;from
+Q5689;Åland Islands;история темы;1;1;from
+Q5689;Åland Islands;код YSO;1;1;from
+Q5689;Åland Islands;география темы;1;1;from
+Q5689;Åland Islands;код BNF;1;1;from
+Q5689;Åland Islands;номер телефона экстренной службы;1;1;from
+Q5689;Åland Islands;код в Большой российской энциклопедии онлайн;1;1;from
+Q5689;Åland Islands;используемый язык;1;1;from
+Q5689;Åland Islands;ISO 3166-1 alpha-2;1;1;from
+Q5689;Åland Islands;ISO 3166-1 alpha-3;1;1;from
+Q5689;Åland Islands;ISO 3166-1 цифровой;1;1;from
+Q5689;Åland Islands;ISO 3166-2;1;1;from
+Q5689;Åland Islands;код Statoids;1;1;from
+Q5689;Åland Islands;код в Encyclopædia Universalis;1;1;from
+Q5689;Åland Islands;код NE.se;1;2;from
+Q5689;Åland Islands;код темы Quora;1;1;from
+Q5689;Åland Islands;категория на Викискладе;1;1;from
+Q5689;Åland Islands;категория для людей, родившихся здесь;1;1;from
+Q5689;Åland Islands;официальное название;1;1;from
+Q5689;Åland Islands;описывается в источниках;1;6;from
+Q5689;Åland Islands;часть света;1;1;from
+Q5689;Åland Islands;описание флага;1;1;from
+Q5689;Åland Islands;государство;1;2;to
+Q5689;Åland Islands;законодательный орган;1;1;from
+Q5689;Åland Islands;находится на берегу водоёма;1;1;from
+Q5689;Åland Islands;код ISNI;1;1;from
+Q5689;Åland Islands;код VIAF;1;1;from
+Q5689;Åland Islands;код GND;1;1;from
+Q5689;Åland Islands;описание герба;1;1;from
+Q5689;Åland Islands;карта местонахождения;1;1;from
+Q5689;Åland Islands;код LCNAF;1;1;from
+Q5689;Åland Islands;это частный случай понятия;1;4;from
+Q5689;Åland Islands;численность населения;1;42;from
+Q5689;Åland Islands;столица;1;1;from
+Q5689;Åland Islands;официальный язык;1;1;from
+Q5689;Åland Islands;денежная единица;1;2;from
+Q5689;Åland Islands;изображение флага;1;1;from
+Q5689;Åland Islands;имеет границы с;1;3;to
+Q5689;Åland Islands;глава правительства;1;1;from
+Q5689;Åland Islands;интернет-домен верхнего уровня;1;1;from
+Q5689;Åland Islands;гимн;1;1;from
+Q5689;Åland Islands;изображение герба;1;1;from
+Q5689;Åland Islands;десятичная классификация Дьюи;1;1;from
+Q5689;Åland Islands;геоданные;1;1;from
+Q5689;Åland Islands;код автомобильного номера;1;1;from
+Q5689;Åland Islands;ID отношения в OpenStreetMap;1;1;from
+Q5689;Åland Islands;место создания;1;1;to
+Q5689;Åland Islands;код NLI;1;1;from
+Q5689;Åland Islands;место в MusicBrainz;1;1;from
+Q5689;Åland Islands;dmoz;1;1;from
+Q5689;Åland Islands;история происходит в месте;1;1;to
+Q5689;Åland Islands;местонахождение;1;5;to
+Q5689;Åland Islands;место публикации;1;1;to
+Q5689;Åland Islands;юрисдикция распространяется на;1;26;to
+Q5689;Åland Islands;тематически относится к;1;5;to
+Q5689;Åland Islands;зона обслуживания;1;12;to
+Q5689;Åland Islands;основная тема портала Викимедиа;1;1;to
+Q5689;Åland Islands;место рождения;1;7;to
+Q5689;Åland Islands;галерея на Викискладе;1;1;from
+Q5689;Åland Islands;названо в честь;1;2;to
+Q5689;Åland Islands;представляет страну в спорте;1;1;to
+Q5689;Åland Islands;часть от;1;3;to
+Q5689;Åland Islands;категория объединяет темы;1;13;to
+Q5689;Åland Islands;основная тема;1;5;to
+Q5689;Åland Islands;расположение штаб-квартиры;1;7;to
+Q5689;Åland Islands;гражданство;1;1;to
+Q5689;Åland Islands;изображённый объект;1;1;to
+Q5689;Åland Islands;место смерти;1;2;to
+Q5689;Åland Islands;общая тема категории;1;1;to
+Q5689;Åland Islands;баннер Викигида;1;1;from
+Q5689;Åland Islands;основная категория по теме;1;1;from
+Q5689;Åland Islands;код места в Instagram;1;1;from
+Q5689;Åland Islands;дата основания/создания/возникновения;1;1;from
+Q5689;Åland Islands;часовой пояс;1;3;from
+Q5689;Åland Islands;код UK Parliament thesaurus;1;1;from
+Q5689;Åland Islands;участник организации или клуба;1;1;from
+Q5689;Åland Islands;местный телефонный код;1;1;from
+Q5689;Åland Islands;Uppslagsverket Finland ID;1;1;from
+Q5689;Åland Islands;символ Юникода;1;1;from
+Q5689;Åland Islands;обзорная статья Викимедиа;1;1;from
+Q5689;Åland Islands;код IAB;1;1;from
+Q5689;Åland Islands;состоит из;1;3;to
+Q5689;Åland Islands;идентификатор местоположения ArchINFORM;1;1;from
+Q5689;Åland Islands;код NUTS;1;3;from
+Q5689;Åland Islands;FIPS 10-4 (страны и регионы);1;1;from
+Q5689;Åland Islands;наивысшая точка;1;1;from
+Q5689;Åland Islands;географические координаты;1;1;from
+Q5689;Åland Islands;Swedish Anbytarforum;1;1;from
+Q5689;Åland Islands;код Freebase;1;1;from
+Q5689;Åland Islands;Who's on First ID;1;1;from
+Q5689;Åland Islands;код NKC;1;1;from
+Q5689;Åland Islands;French Vikidia ID;1;1;from
+Q5689;Åland Islands;категория карт на Викискладе;1;1;from
+Q5689;Åland Islands;ключевое событие;1;6;from
+Q5689;Åland Islands;официальный сайт;1;1;from
+Q5693;Southern Savonia;административно делится на;1;1;to
+Q5693;Southern Savonia;юрисдикция распространяется на;1;1;to
+Q5700;Lapland;код LCNAF;1;1;from
+Q5697;Central Finland;является столицей;1;1;to
+Q5697;Central Finland;численность населения;1;1;from
+Q5697;Central Finland;категория для людей, родившихся здесь;1;1;from
+Q5697;Central Finland;код GeoNames;1;1;from
+Q5697;Central Finland;название на языке оригинала;1;2;from
+Q5697;Central Finland;категория для людей, связанных с местностью;1;1;from
+Q5697;Central Finland;площадь;1;1;from
+Q5697;Central Finland;код YSO;1;1;from
+Q5697;Central Finland;ISO 3166-2;1;1;from
+Q5697;Central Finland;категория на Викискладе;1;1;from
+Q5697;Central Finland;геоданные;1;1;from
+Q5697;Central Finland;ID отношения в OpenStreetMap;1;1;from
+Q5697;Central Finland;Uppslagsverket Finland ID;1;1;from
+Q5697;Central Finland;идентификатор местоположения ArchINFORM;1;1;from
+Q5697;Central Finland;код NUTS;1;1;from
+Q5697;Central Finland;географические координаты;1;1;from
+Q5697;Central Finland;код Freebase;1;1;from
+Q5697;Central Finland;Who's on First ID;1;1;from
+Q5697;Central Finland;официальный сайт;1;1;from
+Q5697;Central Finland;основная категория по теме;1;1;from
+Q5697;Central Finland;баннер Викигида;1;1;from
+Q5697;Central Finland;код NLI;1;1;from
+Q5697;Central Finland;место в MusicBrainz;1;1;from
+Q5697;Central Finland;административно делится на;1;1;to
+Q5697;Central Finland;десятичная классификация Дьюи;1;1;from
+Q5697;Central Finland;изображение герба;1;1;from
+Q5697;Central Finland;имеет границы с;1;7;to
+Q5696;Central Ostrobothnia;зона обслуживания;1;1;to
+Q5696;Central Ostrobothnia;код NUTS;1;1;from
+Q5696;Central Ostrobothnia;географические координаты;1;1;from
+Q5696;Central Ostrobothnia;код Freebase;1;1;from
+Q5696;Central Ostrobothnia;Who's on First ID;1;1;from
+Q5696;Central Ostrobothnia;официальный сайт;1;1;from
+Q5696;Central Ostrobothnia;основная категория по теме;1;1;from
+Q5696;Central Ostrobothnia;баннер Викигида;1;1;from
+Q5696;Central Ostrobothnia;место в MusicBrainz;1;1;from
+Q5696;Central Ostrobothnia;административно делится на;1;1;to
+Q5696;Central Ostrobothnia;категория объединяет темы;1;6;to
+Q5696;Central Ostrobothnia;является столицей;1;1;to
+Q5697;Central Finland;изображение флага;1;1;from
+Q5696;Central Ostrobothnia;местонахождение;1;1;to
+Q5696;Central Ostrobothnia;общая тема категории;1;1;to
+Q5697;Central Finland;административно-территориальная единица;1;2036;to
+Q5697;Central Finland;государство;1;1;from
+Q5697;Central Finland;код VIAF;1;1;from
+Q5697;Central Finland;код GND;1;1;from
+Q5697;Central Finland;карта местонахождения;1;1;from
+Q5697;Central Finland;код LCNAF;1;1;from
+Q5697;Central Finland;это частный случай понятия;1;1;from
+Q5697;Central Finland;столица;1;1;from
+Q5697;Central Finland;категория объединяет темы;1;6;to
+Q5697;Central Finland;место рождения;1;2;to
+Q5693;Southern Savonia;является столицей;1;1;to
+Q5697;Central Finland;место жительства;1;1;to
+Q5698;Kymenlaakso;код Freebase;1;1;from
+Q5698;Kymenlaakso;Who's on First ID;1;1;from
+Q5698;Kymenlaakso;руководящий орган;1;1;from
+Q5698;Kymenlaakso;официальный сайт;1;1;from
+Q5698;Kymenlaakso;основная категория по теме;1;1;from
+Q5698;Kymenlaakso;баннер Викигида;1;1;from
+Q5698;Kymenlaakso;код NLI;1;1;from
+Q5698;Kymenlaakso;место в MusicBrainz;1;1;from
+Q5698;Kymenlaakso;административно делится на;1;1;to
+Q5698;Kymenlaakso;категория объединяет темы;1;5;to
+Q5698;Kymenlaakso;место съёмок;1;1;to
+Q5698;Kymenlaakso;юрисдикция распространяется на;1;1;to
+Q5698;Kymenlaakso;место создания;1;1;to
+Q5698;Kymenlaakso;зона обслуживания;1;1;to
+Q5698;Kymenlaakso;общая тема категории;1;1;to
+Q5698;Kymenlaakso;происходит из;1;1;to
+Q5700;Lapland;административно-территориальная единица;1;2268;to
+Q5700;Lapland;административно делится на;1;1;to
+Q5700;Lapland;государство;1;1;from
+Q5700;Lapland;изображение;1;1;from
+Q5700;Lapland;код VIAF;1;1;from
+Q5700;Lapland;код GND;1;1;from
+Q5700;Lapland;карта местонахождения;1;1;from
+Q5698;Kymenlaakso;географические координаты;1;1;from
+Q5698;Kymenlaakso;код NUTS;1;1;from
+Q5698;Kymenlaakso;идентификатор местоположения ArchINFORM;1;1;from
+Q5698;Kymenlaakso;имеет границы с;1;6;to
+Q5697;Central Finland;зона обслуживания;1;1;to
+Q5697;Central Finland;общая тема категории;1;1;to
+Q5698;Kymenlaakso;административно-территориальная единица;1;486;to
+Q5698;Kymenlaakso;названо в честь;1;1;from
+Q5698;Kymenlaakso;государство;1;1;from
+Q5698;Kymenlaakso;код VIAF;1;1;from
+Q5698;Kymenlaakso;код GND;1;1;from
+Q5698;Kymenlaakso;карта местонахождения;1;1;from
+Q5698;Kymenlaakso;это частный случай понятия;1;1;from
+Q5698;Kymenlaakso;столица;1;1;from
+Q5698;Kymenlaakso;изображение герба;1;1;from
+Q5698;Kymenlaakso;ID отношения в OpenStreetMap;1;1;from
+Q5698;Kymenlaakso;десятичная классификация Дьюи;1;1;from
+Q5698;Kymenlaakso;категория для людей, родившихся здесь;1;1;from
+Q5698;Kymenlaakso;код GeoNames;1;1;from
+Q5698;Kymenlaakso;название на языке оригинала;1;2;from
+Q5698;Kymenlaakso;площадь;1;1;from
+Q5698;Kymenlaakso;код YSO;1;1;from
+Q5698;Kymenlaakso;используемый язык;1;1;from
+Q5698;Kymenlaakso;ISO 3166-2;1;1;from
+Q5698;Kymenlaakso;категория на Викискладе;1;1;from
+Q5698;Kymenlaakso;геоданные;1;1;from
+Q5696;Central Ostrobothnia;дата основания/создания/возникновения;1;1;from
+Q5696;Central Ostrobothnia;идентификатор местоположения ArchINFORM;1;1;from
+Q5696;Central Ostrobothnia;Uppslagsverket Finland ID;1;1;from
+Q5696;Central Ostrobothnia;ID отношения в OpenStreetMap;1;1;from
+Q5694;Kainuu;ID отношения в OpenStreetMap;1;1;from
+Q5694;Kainuu;идентификатор местоположения ArchINFORM;1;1;from
+Q5694;Kainuu;дата основания/создания/возникновения;1;1;from
+Q5694;Kainuu;код NUTS;1;1;from
+Q5694;Kainuu;географические координаты;1;1;from
+Q5694;Kainuu;код Freebase;1;1;from
+Q5694;Kainuu;Who's on First ID;1;1;from
+Q5694;Kainuu;категория карт на Викискладе;1;1;from
+Q5694;Kainuu;официальный сайт;1;1;from
+Q5694;Kainuu;основная категория по теме;1;1;from
+Q5694;Kainuu;код NLI;1;1;from
+Q5694;Kainuu;место в MusicBrainz;1;1;from
+Q5694;Kainuu;административно делится на;1;1;to
+Q5694;Kainuu;место жительства;1;1;to
+Q5694;Kainuu;местонахождение;1;1;to
+Q5694;Kainuu;является столицей;1;1;to
+Q5694;Kainuu;место съёмок;1;1;to
+Q5694;Kainuu;категория объединяет темы;1;6;to
+Q5694;Kainuu;история происходит в месте;1;1;to
+Q5694;Kainuu;зона обслуживания;1;1;to
+Q5694;Kainuu;общая тема категории;1;1;to
+Q5695;Tavastia Proper;административно-территориальная единица;1;130;to
+Q5695;Tavastia Proper;государство;1;1;from
+Q5694;Kainuu;геоданные;1;1;from
+Q5694;Kainuu;категория на Викискладе;1;1;from
+Q5694;Kainuu;идентификатор Ringgold;1;1;from
+Q5694;Kainuu;столица;1;1;from
+Q5693;Southern Savonia;категория объединяет темы;1;5;to
+Q5693;Southern Savonia;зона обслуживания;1;1;to
+Q5693;Southern Savonia;общая тема категории;1;1;to
+Q5694;Kainuu;административно-территориальная единица;1;210;to
+Q5694;Kainuu;государство;1;1;from
+Q5694;Kainuu;код ISNI;1;1;from
+Q5694;Kainuu;код VIAF;1;1;from
+Q5694;Kainuu;код GND;1;1;from
+Q5694;Kainuu;карта местонахождения;1;1;from
+Q5694;Kainuu;это частный случай понятия;1;1;from
+Q5694;Kainuu;изображение флага;1;1;from
+Q5694;Kainuu;код темы Quora;1;1;from
+Q5694;Kainuu;имеет границы с;1;4;to
+Q5694;Kainuu;изображение герба;1;1;from
+Q5694;Kainuu;десятичная классификация Дьюи;1;1;from
+Q5694;Kainuu;категория для людей, родившихся здесь;1;1;from
+Q5694;Kainuu;код GeoNames;1;1;from
+Q5694;Kainuu;название на языке оригинала;1;1;from
+Q5694;Kainuu;категория для людей, связанных с местностью;1;1;from
+Q5694;Kainuu;площадь;1;1;from
+Q5694;Kainuu;код YSO;1;1;from
+Q5694;Kainuu;ISO 3166-2;1;1;from
+Q5695;Tavastia Proper;карта местонахождения;1;1;from
+Q5695;Tavastia Proper;это частный случай понятия;1;1;from
+Q5695;Tavastia Proper;столица;1;1;from
+Q5696;Central Ostrobothnia;десятичная классификация Дьюи;1;1;from
+Q5695;Tavastia Proper;зона обслуживания;1;1;to
+Q5695;Tavastia Proper;общая тема категории;1;1;to
+Q5696;Central Ostrobothnia;административно-территориальная единица;1;145;to
+Q5696;Central Ostrobothnia;государство;1;1;from
+Q5696;Central Ostrobothnia;карта местонахождения;1;1;from
+Q5696;Central Ostrobothnia;это частный случай понятия;1;1;from
+Q5696;Central Ostrobothnia;столица;1;1;from
+Q5696;Central Ostrobothnia;изображение флага;1;1;from
+Q5696;Central Ostrobothnia;имеет границы с;1;4;to
+Q5696;Central Ostrobothnia;изображение герба;1;1;from
+Q5696;Central Ostrobothnia;категория для людей, родившихся здесь;1;1;from
+Q5695;Tavastia Proper;категория объединяет темы;1;5;to
+Q5696;Central Ostrobothnia;код GeoNames;1;1;from
+Q5696;Central Ostrobothnia;название на языке оригинала;1;2;from
+Q5696;Central Ostrobothnia;категория для людей, связанных с местностью;1;1;from
+Q5696;Central Ostrobothnia;не путать с;1;1;to
+Q5696;Central Ostrobothnia;площадь;1;1;from
+Q5696;Central Ostrobothnia;код YSO;1;1;from
+Q5696;Central Ostrobothnia;ISO 3166-2;1;1;from
+Q5696;Central Ostrobothnia;код NE.se;1;1;from
+Q5696;Central Ostrobothnia;категория на Викискладе;1;1;from
+Q5696;Central Ostrobothnia;геоданные;1;1;from
+Q5695;Tavastia Proper;история происходит в месте;1;1;to
+Q5695;Tavastia Proper;административно делится на;1;1;to
+Q5695;Tavastia Proper;изображение флага;1;1;from
+Q5695;Tavastia Proper;категория на Викискладе;1;1;from
+Q5695;Tavastia Proper;имеет границы с;1;4;to
+Q5695;Tavastia Proper;изображение герба;1;1;from
+Q5695;Tavastia Proper;десятичная классификация Дьюи;1;1;from
+Q5695;Tavastia Proper;категория для людей, родившихся здесь;1;1;from
+Q5695;Tavastia Proper;код GeoNames;1;1;from
+Q5695;Tavastia Proper;название на языке оригинала;1;2;from
+Q5695;Tavastia Proper;площадь;1;1;from
+Q5695;Tavastia Proper;код YSO;1;1;from
+Q5695;Tavastia Proper;код BNF;1;1;from
+Q5695;Tavastia Proper;ISO 3166-2;1;1;from
+Q5695;Tavastia Proper;геоданные;1;1;from
+Q5695;Tavastia Proper;место в MusicBrainz;1;1;from
+Q5695;Tavastia Proper;ID отношения в OpenStreetMap;1;1;from
+Q5695;Tavastia Proper;идентификатор местоположения ArchINFORM;1;1;from
+Q5695;Tavastia Proper;код NUTS;1;1;from
+Q5695;Tavastia Proper;географические координаты;1;1;from
+Q5695;Tavastia Proper;код Freebase;1;1;from
+Q5695;Tavastia Proper;Who's on First ID;1;1;from
+Q5695;Tavastia Proper;руководящий орган;1;1;from
+Q5695;Tavastia Proper;официальный сайт;1;1;from
+Q5695;Tavastia Proper;основная категория по теме;1;1;from
+Q5695;Tavastia Proper;баннер Викигида;1;1;from
+Q5712;Finland Proper;является столицей;1;1;to

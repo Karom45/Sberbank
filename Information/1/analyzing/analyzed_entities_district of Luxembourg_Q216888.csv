@@ -1,0 +1,85 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q2032;Luxembourg District;административно-территориальная единица;1;1;to
+Q208747;Diekirch District;численность населения;1;48;from
+Q208747;Diekirch District;дата основания/создания/возникновения;1;1;from
+Q208747;Diekirch District;произношение (звуковой файл);1;3;from
+Q208747;Diekirch District;часовой пояс;1;1;from
+Q208747;Diekirch District;геоданные;1;1;from
+Q208747;Diekirch District;категория на Викискладе;1;1;from
+Q208747;Diekirch District;ISO 3166-2;1;1;from
+Q208747;Diekirch District;площадь;1;1;from
+Q208747;Diekirch District;код GeoNames;1;1;from
+Q208747;Diekirch District;имеет границы с;1;3;from
+Q2032;Luxembourg District;государство;1;1;from
+Q208747;Diekirch District;столица;1;1;from
+Q208747;Diekirch District;это частный случай понятия;1;1;from
+Q208747;Diekirch District;карта местонахождения;1;1;from
+Q208747;Diekirch District;государство;1;1;from
+Q208747;Diekirch District;административно-территориальная единица;1;6;to
+Q208284;Grevenmacher District;общая тема категории;1;1;to
+Q208284;Grevenmacher District;административно делится на;1;1;to
+Q208284;Grevenmacher District;баннер Викигида;1;1;from
+Q208747;Diekirch District;дата прекращения существования;1;1;from
+Q208747;Diekirch District;дата окончания;1;1;from
+Q208747;Diekirch District;наивысшая точка;1;1;from
+Q208747;Diekirch District;географические координаты;1;1;from
+Q6820532;Mersch District;общая тема категории;1;1;to
+Q6820532;Mersch District;основная категория по теме;1;1;from
+Q6820532;Mersch District;географические координаты;1;1;from
+Q6820532;Mersch District;дата окончания;1;1;from
+Q6820532;Mersch District;дата основания/создания/возникновения;1;1;from
+Q6820532;Mersch District;столица;1;1;from
+Q6820532;Mersch District;это частный случай понятия;1;2;from
+Q6820532;Mersch District;карта местонахождения;1;1;from
+Q6820532;Mersch District;государство;1;1;from
+Q208747;Diekirch District;является столицей;1;1;to
+Q208747;Diekirch District;общая тема категории;1;1;to
+Q208747;Diekirch District;административно делится на;1;1;to
+Q208747;Diekirch District;баннер Викигида;1;1;from
+Q208747;Diekirch District;основная категория по теме;1;1;from
+Q208747;Diekirch District;FIPS 10-4 (страны и регионы);1;1;from
+Q208747;Diekirch District;Who's on First ID;1;1;from
+Q208747;Diekirch District;код Freebase;1;1;from
+Q208284;Grevenmacher District;основная категория по теме;1;1;from
+Q208284;Grevenmacher District;FIPS 10-4 (страны и регионы);1;1;from
+Q208284;Grevenmacher District;Who's on First ID;1;1;from
+Q2032;Luxembourg District;основная категория по теме;1;1;from
+Q2032;Luxembourg District;Who's on First ID;1;1;from
+Q2032;Luxembourg District;код Freebase;1;1;from
+Q2032;Luxembourg District;географические координаты;1;1;from
+Q2032;Luxembourg District;дата окончания;1;1;from
+Q2032;Luxembourg District;дата основания/создания/возникновения;1;1;from
+Q2032;Luxembourg District;категория на Викискладе;1;1;from
+Q2032;Luxembourg District;ISO 3166-2;1;1;from
+Q2032;Luxembourg District;код BabelNet;1;1;from
+Q2032;Luxembourg District;площадь;1;1;from
+Q2032;Luxembourg District;код TGN;1;1;from
+Q2032;Luxembourg District;код GeoNames;1;1;from
+Q2032;Luxembourg District;категория для людей, родившихся здесь;1;1;from
+Q2032;Luxembourg District;численность населения;1;48;from
+Q2032;Luxembourg District;имеет границы с;1;3;from
+Q2032;Luxembourg District;столица;1;1;from
+Q2032;Luxembourg District;это частный случай понятия;1;1;from
+Q2032;Luxembourg District;карта местонахождения;1;1;from
+Q2032;Luxembourg District;FIPS 10-4 (страны и регионы);1;1;from
+Q2032;Luxembourg District;баннер Викигида;1;1;from
+Q208284;Grevenmacher District;код Freebase;1;1;from
+Q2032;Luxembourg District;место в MusicBrainz;1;1;from
+Q208284;Grevenmacher District;географические координаты;1;1;from
+Q208284;Grevenmacher District;дата окончания;1;1;from
+Q208284;Grevenmacher District;дата основания/создания/возникновения;1;1;from
+Q208284;Grevenmacher District;часовой пояс;1;1;from
+Q208284;Grevenmacher District;геоданные;1;1;from
+Q208284;Grevenmacher District;категория на Викискладе;1;1;from
+Q208284;Grevenmacher District;ISO 3166-2;1;1;from
+Q208284;Grevenmacher District;площадь;1;1;from
+Q208284;Grevenmacher District;код GeoNames;1;1;from
+Q208284;Grevenmacher District;численность населения;1;48;from
+Q208284;Grevenmacher District;это частный случай понятия;1;1;from
+Q208284;Grevenmacher District;карта местонахождения;1;1;from
+Q208284;Grevenmacher District;государство;1;1;from
+Q208284;Grevenmacher District;административно-территориальная единица;1;2;to
+Q2032;Luxembourg District;общая тема категории;1;1;to
+Q2032;Luxembourg District;категория объединяет темы;1;1;to
+Q2032;Luxembourg District;административно делится на;1;1;to
+Q6820532;Mersch District;является столицей;1;1;to

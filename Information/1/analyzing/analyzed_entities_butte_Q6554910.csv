@@ -1,0 +1,415 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q642172;Badacsony;административно-территориальная единица;1;1;from
+Q24061613;Turtle Butte;административно-территориальная единица;1;1;from
+Q24061636;Black Horse Butte;это частный случай понятия;1;1;from
+Q24061636;Black Horse Butte;код LCNAF;1;1;from
+Q24061636;Black Horse Butte;код VIAF;1;1;from
+Q24061636;Black Horse Butte;государство;1;1;from
+Q24061636;Black Horse Butte;административно-территориальная единица;1;1;from
+Q24061613;Turtle Butte;географические координаты;1;1;from
+Q24061613;Turtle Butte;код GNIS;1;1;from
+Q24061613;Turtle Butte;код GeoNames;1;1;from
+Q24061613;Turtle Butte;это частный случай понятия;1;1;from
+Q24061613;Turtle Butte;государство;1;1;from
+Q24061517;Grindstone Butte;географические координаты;1;1;from
+Q24061636;Black Horse Butte;код GNIS;1;1;from
+Q24061517;Grindstone Butte;код GNIS;1;1;from
+Q24061517;Grindstone Butte;код GeoNames;1;1;from
+Q24061517;Grindstone Butte;это частный случай понятия;1;1;from
+Q24061517;Grindstone Butte;государство;1;1;from
+Q24061517;Grindstone Butte;административно-территориальная единица;1;1;from
+Q24061498;Castle Rock Butte;географические координаты;1;1;from
+Q24061498;Castle Rock Butte;код GNIS;1;1;from
+Q24061498;Castle Rock Butte;код GeoNames;1;1;from
+Q24061498;Castle Rock Butte;это частный случай понятия;1;1;from
+Q24061498;Castle Rock Butte;государство;1;1;from
+Q24061636;Black Horse Butte;код GeoNames;1;1;from
+Q24061636;Black Horse Butte;географические координаты;1;1;from
+Q22997284;Q22997284;географические координаты;1;1;from
+Q24061707;Hump Butte;географические координаты;1;1;from
+Q28456746;Dellenbaugh Butte;административно-территориальная единица;1;1;from
+Q26203270;Q26203270;местонахождение;1;1;to
+Q26203270;Q26203270;код Chemins de mémoire;1;1;from
+Q26203270;Q26203270;это частный случай понятия;1;1;from
+Q25204317;White Butte;географические координаты;1;1;from
+Q25204317;White Butte;код GNIS;1;1;from
+Q25204317;White Butte;код GeoNames;1;1;from
+Q25204317;White Butte;это частный случай понятия;1;1;from
+Q25204317;White Butte;государство;1;1;from
+Q25204317;White Butte;административно-территориальная единица;1;1;from
+Q24061707;Hump Butte;код GNIS;1;1;from
+Q24061636;Black Horse Butte;названо в честь;1;1;to
+Q24061707;Hump Butte;код GeoNames;1;1;from
+Q24061707;Hump Butte;это частный случай понятия;1;1;from
+Q24061707;Hump Butte;государство;1;1;from
+Q24061707;Hump Butte;административно-территориальная единица;1;1;from
+Q24061663;Deers Ears Butte;географические координаты;1;1;from
+Q24061663;Deers Ears Butte;код GNIS;1;1;from
+Q24061663;Deers Ears Butte;код GeoNames;1;1;from
+Q24061663;Deers Ears Butte;это частный случай понятия;1;1;from
+Q24061663;Deers Ears Butte;государство;1;1;from
+Q24061663;Deers Ears Butte;административно-территориальная единица;1;1;from
+Q24061498;Castle Rock Butte;административно-территориальная единица;1;1;from
+Q22997284;Q22997284;код Mérimée;1;1;from
+Q28456746;Dellenbaugh Butte;это частный случай понятия;1;1;from
+Q21196349;Bare Butte;это частный случай понятия;1;1;from
+Q22072820;Lolah Butte;административно-территориальная единица;1;1;from
+Q22060724;Rocking Chair Butte;географические координаты;1;1;from
+Q22060724;Rocking Chair Butte;код GeoNames;1;1;from
+Q22060724;Rocking Chair Butte;это частный случай понятия;1;1;from
+Q22060724;Rocking Chair Butte;государство;1;1;from
+Q22060724;Rocking Chair Butte;административно-территориальная единица;1;1;from
+Q21196349;Bare Butte;географические координаты;1;1;from
+Q21196349;Bare Butte;код GNIS;1;1;from
+Q21196349;Bare Butte;высота над уровнем моря;1;1;from
+Q21196349;Bare Butte;код GeoNames;1;1;from
+Q21196349;Bare Butte;государство;1;1;from
+Q22072820;Lolah Butte;это частный случай понятия;1;1;from
+Q21196349;Bare Butte;административно-территориальная единица;1;1;from
+Q20712516;Tittie Butte;географические координаты;1;2;from
+Q20712516;Tittie Butte;код GNIS;1;1;from
+Q20712516;Tittie Butte;код GeoNames;1;1;from
+Q20712516;Tittie Butte;это частный случай понятия;1;1;from
+Q20712516;Tittie Butte;государство;1;1;from
+Q20712516;Tittie Butte;административно-территориальная единица;1;1;from
+Q20708688;Hosta Butte;географические координаты;1;1;from
+Q20708688;Hosta Butte;находится в охранной зоне;1;1;from
+Q20708688;Hosta Butte;код GeoNames;1;1;from
+Q22072820;Lolah Butte;государство;1;1;from
+Q22072820;Lolah Butte;код GeoNames;1;1;from
+Q22997284;Q22997284;статус наследия;1;1;from
+Q22073367;Steele Butte;код GNIS;1;1;from
+Q22997284;Q22997284;это частный случай понятия;1;1;from
+Q22997284;Q22997284;государство;1;1;from
+Q22997284;Q22997284;административно-территориальная единица;1;1;from
+Q22361418;Butte Qarqakallaguluk;географические координаты;1;1;from
+Q22361418;Butte Qarqakallaguluk;код топонима в Квебеке;1;1;from
+Q22361418;Butte Qarqakallaguluk;код GeoNames;1;1;from
+Q22361418;Butte Qarqakallaguluk;это частный случай понятия;1;1;from
+Q22361418;Butte Qarqakallaguluk;государство;1;1;from
+Q22361418;Butte Qarqakallaguluk;административно-территориальная единица;1;1;from
+Q22073367;Steele Butte;географические координаты;1;2;from
+Q22073367;Steele Butte;код GeoNames;1;1;from
+Q22072820;Lolah Butte;код GNIS;1;1;from
+Q22073367;Steele Butte;это частный случай понятия;1;1;from
+Q22073367;Steele Butte;государство;1;1;from
+Q22073367;Steele Butte;административно-территориальная единица;1;1;from
+Q22072829;Lolo Butte;географические координаты;1;1;from
+Q22072829;Lolo Butte;код GNIS;1;1;from
+Q22072829;Lolo Butte;код GeoNames;1;1;from
+Q22072829;Lolo Butte;это частный случай понятия;1;1;from
+Q22072829;Lolo Butte;государство;1;1;from
+Q22072829;Lolo Butte;административно-территориальная единица;1;1;from
+Q22072820;Lolah Butte;географические координаты;1;2;from
+Q28456746;Dellenbaugh Butte;государство;1;1;from
+Q28456746;Dellenbaugh Butte;код GeoNames;1;1;from
+Q642172;Badacsony;государство;1;1;from
+Q57574137;Q57574137;административно-территориальная единица;1;1;from
+Q58459842;Serpentinithügel St. Nikolaus bei Floß;государство;1;1;from
+Q58459842;Serpentinithügel St. Nikolaus bei Floß;административно-территориальная единица;1;1;from
+Q57574137;Q57574137;официальный сайт;1;1;from
+Q57574137;Q57574137;географические координаты;1;1;from
+Q57574137;Q57574137;Bavarian geotope ID;1;1;from
+Q57574137;Q57574137;категория на Викискладе;1;1;from
+Q57574137;Q57574137;это частный случай понятия;1;5;from
+Q57574137;Q57574137;изображение;1;1;from
+Q57574137;Q57574137;государство;1;1;from
+Q57574137;Q57574137;полученные награды;1;1;from
+Q49033814;Gregory Butte;географические координаты;1;1;from
+Q58459842;Serpentinithügel St. Nikolaus bei Floß;это частный случай понятия;1;2;from
+Q49033814;Gregory Butte;код GNIS;1;1;from
+Q49033814;Gregory Butte;категория на Викискладе;1;1;from
+Q49033814;Gregory Butte;находится в охранной зоне;1;1;from
+Q49033814;Gregory Butte;местонахождение;1;1;from
+Q49033814;Gregory Butte;высота над уровнем моря;1;1;from
+Q49033814;Gregory Butte;не путать с;1;1;to
+Q49033814;Gregory Butte;код GeoNames;1;1;from
+Q49033814;Gregory Butte;это частный случай понятия;1;1;from
+Q49033814;Gregory Butte;государство;1;1;from
+Q49033814;Gregory Butte;административно-территориальная единица;1;1;from
+Q58459842;Serpentinithügel St. Nikolaus bei Floß;изображение;1;1;from
+Q58459842;Serpentinithügel St. Nikolaus bei Floß;категория на Викискладе;1;1;from
+Q49033812;Gregory Butte;географические координаты;1;1;from
+Q58459977;Langer Köchel im Murnauer Moos;изображение;1;1;from
+Q58462591;Burgberg Falkenstein;Bavarian geotope ID;1;1;from
+Q58462591;Burgberg Falkenstein;категория на Викискладе;1;1;from
+Q58462591;Burgberg Falkenstein;это частный случай понятия;1;4;from
+Q58462591;Burgberg Falkenstein;изображение;1;1;from
+Q58462591;Burgberg Falkenstein;государство;1;1;from
+Q58462591;Burgberg Falkenstein;административно-территориальная единица;1;1;from
+Q58459977;Langer Köchel im Murnauer Moos;географические координаты;1;1;from
+Q58459977;Langer Köchel im Murnauer Moos;Bavarian geotope ID;1;1;from
+Q58459977;Langer Köchel im Murnauer Moos;категория на Викискладе;1;1;from
+Q58459977;Langer Köchel im Murnauer Moos;это частный случай понятия;1;2;from
+Q58459977;Langer Köchel im Murnauer Moos;государство;1;1;from
+Q58459842;Serpentinithügel St. Nikolaus bei Floß;Bavarian geotope ID;1;1;from
+Q58459977;Langer Köchel im Murnauer Moos;административно-территориальная единица;1;1;from
+Q58459890;Sandheidehügel WNW von Obernzenn;географические координаты;1;1;from
+Q58459890;Sandheidehügel WNW von Obernzenn;Bavarian geotope ID;1;1;from
+Q58459890;Sandheidehügel WNW von Obernzenn;категория на Викискладе;1;1;from
+Q58459890;Sandheidehügel WNW von Obernzenn;статус наследия;1;1;from
+Q58459890;Sandheidehügel WNW von Obernzenn;это частный случай понятия;1;2;from
+Q58459890;Sandheidehügel WNW von Obernzenn;изображение;1;1;from
+Q58459890;Sandheidehügel WNW von Obernzenn;государство;1;1;from
+Q58459890;Sandheidehügel WNW von Obernzenn;административно-территориальная единица;1;1;from
+Q58459842;Serpentinithügel St. Nikolaus bei Floß;географические координаты;1;1;from
+Q49033812;Gregory Butte;местонахождение;1;1;to
+Q49033812;Gregory Butte;код GNIS;1;1;from
+Q28456746;Dellenbaugh Butte;код GNIS;1;1;from
+Q28912667;Bitsihuitsos Butte;административно-территориальная единица;1;1;from
+Q37029747;Dog Butte;код TGN;1;1;from
+Q37029747;Dog Butte;код GeoNames;1;1;from
+Q37029747;Dog Butte;это частный случай понятия;1;1;from
+Q37029747;Dog Butte;государство;1;1;from
+Q37029747;Dog Butte;административно-территориальная единица;1;1;from
+Q28912667;Bitsihuitsos Butte;географические координаты;1;1;from
+Q28912667;Bitsihuitsos Butte;код GNIS;1;1;from
+Q28912667;Bitsihuitsos Butte;код GeoNames;1;1;from
+Q28912667;Bitsihuitsos Butte;это частный случай понятия;1;1;from
+Q28912667;Bitsihuitsos Butte;государство;1;1;from
+Q28912631;Dawson Butte;названо в честь;1;1;to
+Q37029747;Dog Butte;географические координаты;1;1;from
+Q28912631;Dawson Butte;географические координаты;1;2;from
+Q28912631;Dawson Butte;код GNIS;1;1;from
+Q28912631;Dawson Butte;код Peakbagger;1;1;from
+Q28912631;Dawson Butte;высота над уровнем моря;1;1;from
+Q28912631;Dawson Butte;код GeoNames;1;1;from
+Q28912631;Dawson Butte;это частный случай понятия;1;1;from
+Q28912631;Dawson Butte;изображение;1;1;from
+Q28912631;Dawson Butte;государство;1;1;from
+Q28912631;Dawson Butte;административно-территориальная единица;1;1;from
+Q28456746;Dellenbaugh Butte;географические координаты;1;1;from
+Q37029747;Dog Butte;код GNIS;1;1;from
+Q49017258;Butte Saint Paul;административно-территориальная единица;1;1;from
+Q49033812;Gregory Butte;категория на Викискладе;1;1;from
+Q49031526;Gilson Butte;код GNIS;1;1;from
+Q49033812;Gregory Butte;находится в охранной зоне;1;1;from
+Q49033812;Gregory Butte;высота над уровнем моря;1;1;from
+Q49033812;Gregory Butte;не путать с;1;1;to
+Q49033812;Gregory Butte;код GeoNames;1;1;from
+Q49033812;Gregory Butte;это частный случай понятия;1;1;from
+Q49033812;Gregory Butte;находится на берегу водоёма;1;1;from
+Q49033812;Gregory Butte;изображение;1;1;from
+Q49033812;Gregory Butte;государство;1;1;from
+Q49033812;Gregory Butte;административно-территориальная единица;1;1;from
+Q49031526;Gilson Butte;географические координаты;1;1;from
+Q49031526;Gilson Butte;код GeoNames;1;1;from
+Q49017258;Butte Saint Paul;государство;1;1;from
+Q49031526;Gilson Butte;это частный случай понятия;1;1;from
+Q49031526;Gilson Butte;государство;1;1;from
+Q49031526;Gilson Butte;административно-территориальная единица;1;1;from
+Q49017258;Butte Saint Paul;названо в честь;1;1;to
+Q49017258;Butte Saint Paul;географические координаты;1;1;from
+Q49017258;Butte Saint Paul;код GNIS;1;1;from
+Q49017258;Butte Saint Paul;находится в охранной зоне;1;1;from
+Q49017258;Butte Saint Paul;высота над уровнем моря;1;1;from
+Q49017258;Butte Saint Paul;код GeoNames;1;1;from
+Q49017258;Butte Saint Paul;это частный случай понятия;1;1;from
+Q20708688;Hosta Butte;это частный случай понятия;1;1;from
+Q20708688;Hosta Butte;государство;1;1;from
+Q19963730;Kallmünzerfeld am Steinberg bei Rinnenbrunn;географические координаты;1;1;from
+Q5178508;Courthouse Butte;административно-территориальная единица;1;1;from
+Q5431375;Fajada Butte;административно-территориальная единица;1;1;from
+Q5178508;Courthouse Butte;географические координаты;1;2;from
+Q5178508;Courthouse Butte;код GNIS;1;1;from
+Q5178508;Courthouse Butte;категория на Викискладе;1;1;from
+Q5178508;Courthouse Butte;код Peakbagger;1;1;from
+Q5178508;Courthouse Butte;высота над уровнем моря;1;1;from
+Q5178508;Courthouse Butte;код GeoNames;1;1;from
+Q5178508;Courthouse Butte;это частный случай понятия;1;1;from
+Q5178508;Courthouse Butte;изображение;1;1;from
+Q5178508;Courthouse Butte;государство;1;1;from
+Q3526050;Thunder Butte;географические координаты;1;1;from
+Q5431375;Fajada Butte;изображение;1;1;from
+Q3526050;Thunder Butte;код GNIS;1;1;from
+Q3526050;Thunder Butte;LoJ peak ID;1;1;from
+Q3526050;Thunder Butte;U.S. National Geodetic Survey ID;1;1;from
+Q3526050;Thunder Butte;код Peakbagger;1;1;from
+Q3526050;Thunder Butte;высота над уровнем моря;1;1;from
+Q3526050;Thunder Butte;код TGN;1;1;from
+Q3526050;Thunder Butte;код GeoNames;1;1;from
+Q3526050;Thunder Butte;это частный случай понятия;1;1;from
+Q3526050;Thunder Butte;изображение;1;1;from
+Q3526050;Thunder Butte;государство;1;1;from
+Q5431375;Fajada Butte;государство;1;1;from
+Q5431375;Fajada Butte;это частный случай понятия;1;1;from
+Q2928964;Q2928964;географические координаты;1;1;from
+Q7083059;Olallie Butte;код Peakbagger;1;1;from
+Q7155534;Pavant Butte;код GeoNames;1;1;from
+Q7155534;Pavant Butte;это частный случай понятия;1;1;from
+Q7155534;Pavant Butte;государство;1;1;from
+Q7155534;Pavant Butte;административно-территориальная единица;1;1;from
+Q7083059;Olallie Butte;исток водотока;1;1;to
+Q7083059;Olallie Butte;географические координаты;1;1;from
+Q7083059;Olallie Butte;код GNIS;1;1;from
+Q7083059;Olallie Butte;горный хребет;1;1;from
+Q7083059;Olallie Butte;категория на Викискладе;1;1;from
+Q7083059;Olallie Butte;код Peakware;1;1;from
+Q7083059;Olallie Butte;относительная высота;1;1;from
+Q5431375;Fajada Butte;код GeoNames;1;1;from
+Q7083059;Olallie Butte;высота над уровнем моря;1;1;from
+Q7083059;Olallie Butte;код GeoNames;1;1;from
+Q7083059;Olallie Butte;это частный случай понятия;1;1;from
+Q7083059;Olallie Butte;изображение;1;1;from
+Q7083059;Olallie Butte;государство;1;1;from
+Q7083059;Olallie Butte;административно-территориальная единица;1;1;from
+Q5431375;Fajada Butte;находится в пределах природно-географического объекта;1;1;to
+Q5431375;Fajada Butte;географические координаты;1;1;from
+Q5431375;Fajada Butte;категория на Викискладе;1;1;from
+Q5431375;Fajada Butte;высота над уровнем моря;1;1;from
+Q3526050;Thunder Butte;административно-территориальная единица;1;1;from
+Q2928964;Q2928964;это частный случай понятия;1;1;from
+Q19963730;Kallmünzerfeld am Steinberg bei Rinnenbrunn;Bavarian geotope ID;1;1;from
+Q642172;Badacsony;код Freebase;1;1;from
+Q2892841;Bear Butte;это частный случай понятия;1;1;from
+Q2892841;Bear Butte;код LCNAF;1;1;from
+Q2892841;Bear Butte;код GND;1;1;from
+Q2892841;Bear Butte;код VIAF;1;1;from
+Q2892841;Bear Butte;изображение;1;1;from
+Q2892841;Bear Butte;государство;1;1;from
+Q2892841;Bear Butte;административно-территориальная единица;1;1;from
+Q642172;Badacsony;место смерти;1;1;to
+Q642172;Badacsony;названо в честь;1;1;to
+Q642172;Badacsony;Who's on First ID;1;1;from
+Q642172;Badacsony;географические координаты;1;1;from
+Q2892841;Bear Butte;код GeoNames;1;1;from
+Q642172;Badacsony;горный хребет;1;1;from
+Q642172;Badacsony;код BabelNet;1;1;from
+Q642172;Badacsony;высота над уровнем моря;1;1;from
+Q642172;Badacsony;код GeoNames;1;1;from
+Q642172;Badacsony;код в энциклопедии «Британника онлайн»;1;1;from
+Q642172;Badacsony;WOEID;1;1;from
+Q642172;Badacsony;это частный случай понятия;1;1;from
+Q642172;Badacsony;код LCNAF;1;1;from
+Q642172;Badacsony;код VIAF;1;1;from
+Q642172;Badacsony;изображение;1;1;from
+Q2892841;Bear Butte;статус наследия;1;4;from
+Q2892841;Bear Butte;код TGN;1;1;from
+Q2928964;Q2928964;изображение;1;1;from
+Q2892841;Bear Butte;географические координаты;1;2;from
+Q2928964;Q2928964;государство;1;1;from
+Q2928964;Q2928964;названо в честь;1;1;from
+Q2928964;Q2928964;административно-территориальная единица;1;1;from
+Q2892841;Bear Butte;место смерти;1;1;to
+Q2892841;Bear Butte;наивысшая точка;1;1;to
+Q2892841;Bear Butte;названо в честь;1;2;to
+Q2892841;Bear Butte;находится в пределах природно-географического объекта;1;1;to
+Q2892841;Bear Butte;категория защищённых зон МСОП;1;1;from
+Q2892841;Bear Butte;climbing route;1;1;from
+Q2892841;Bear Butte;код NRHP;1;1;from
+Q2892841;Bear Butte;код GNIS;1;1;from
+Q2892841;Bear Butte;высота над уровнем моря;1;1;from
+Q2892841;Bear Butte;National Trust for Historic Preservation ID;1;1;from
+Q2892841;Bear Butte;часовой пояс;1;1;from
+Q2892841;Bear Butte;National Natural Landmarks site ID;1;1;from
+Q2892841;Bear Butte;LoJ peak ID;1;1;from
+Q2892841;Bear Butte;категория на Викискладе;1;1;from
+Q2892841;Bear Butte;U.S. National Geodetic Survey ID;1;1;from
+Q2892841;Bear Butte;код Peakware;1;1;from
+Q2892841;Bear Butte;Bivouac.com mountain ID;1;1;from
+Q2892841;Bear Butte;код SummitPost;1;1;from
+Q2892841;Bear Butte;код Peakbagger;1;1;from
+Q7155534;Pavant Butte;категория на Викискладе;1;1;from
+Q7155534;Pavant Butte;географические координаты;1;1;from
+Q8536581;Newton Butte;административно-территориальная единица;1;1;from
+Q18378029;Muffin Butte;географические координаты;1;1;from
+Q19865866;Condon Butte;код GeoNames;1;1;from
+Q19865866;Condon Butte;это частный случай понятия;1;1;from
+Q19865866;Condon Butte;государство;1;1;from
+Q19865866;Condon Butte;административно-территориальная единица;1;1;from
+Q18394750;Tongue Butte;географические координаты;1;1;from
+Q18394750;Tongue Butte;код GNIS;1;1;from
+Q18394750;Tongue Butte;код GeoNames;1;1;from
+Q18394750;Tongue Butte;это частный случай понятия;1;1;from
+Q18394750;Tongue Butte;государство;1;1;from
+Q18394750;Tongue Butte;административно-территориальная единица;1;1;from
+Q18378029;Muffin Butte;код GNIS;1;1;from
+Q19865866;Condon Butte;код GNIS;1;1;from
+Q18378029;Muffin Butte;код BabelNet;1;1;from
+Q18378029;Muffin Butte;высота над уровнем моря;1;1;from
+Q18378029;Muffin Butte;код GeoNames;1;1;from
+Q18378029;Muffin Butte;это частный случай понятия;1;1;from
+Q18378029;Muffin Butte;государство;1;1;from
+Q18378029;Muffin Butte;административно-территориальная единица;1;1;from
+Q18157934;Negro Butte;географические координаты;1;2;from
+Q18157934;Negro Butte;код GNIS;1;1;from
+Q18157934;Negro Butte;код GeoNames;1;1;from
+Q18157934;Negro Butte;это частный случай понятия;1;1;from
+Q19865866;Condon Butte;высота над уровнем моря;1;1;from
+Q19865866;Condon Butte;географические координаты;1;2;from
+Q8536581;Newton Butte;государство;1;1;from
+Q19866300;Bears Ears;высота над уровнем моря;1;1;from
+Q19963730;Kallmünzerfeld am Steinberg bei Rinnenbrunn;категория на Викискладе;1;1;from
+Q19963730;Kallmünzerfeld am Steinberg bei Rinnenbrunn;это частный случай понятия;1;4;from
+Q19963730;Kallmünzerfeld am Steinberg bei Rinnenbrunn;изображение;1;1;from
+Q19963730;Kallmünzerfeld am Steinberg bei Rinnenbrunn;государство;1;1;from
+Q19963730;Kallmünzerfeld am Steinberg bei Rinnenbrunn;административно-территориальная единица;1;1;from
+Q19866300;Bears Ears;названо в честь;1;1;to
+Q19866300;Bears Ears;географические координаты;1;1;from
+Q19866300;Bears Ears;код GNIS;1;1;from
+Q19866300;Bears Ears;категория на Викискладе;1;1;from
+Q19866300;Bears Ears;находится в охранной зоне;1;1;from
+Q19866300;Bears Ears;код TGN;1;1;from
+Q19866063;Cookie Jar Butte;государство;1;1;from
+Q19866300;Bears Ears;код GeoNames;1;1;from
+Q19866300;Bears Ears;это частный случай понятия;1;1;from
+Q19866300;Bears Ears;изображение;1;1;from
+Q19866300;Bears Ears;государство;1;1;from
+Q19866300;Bears Ears;административно-территориальная единица;1;1;from
+Q19866063;Cookie Jar Butte;географические координаты;1;1;from
+Q19866063;Cookie Jar Butte;код GNIS;1;1;from
+Q19866063;Cookie Jar Butte;высота над уровнем моря;1;1;from
+Q19866063;Cookie Jar Butte;код GeoNames;1;1;from
+Q19866063;Cookie Jar Butte;это частный случай понятия;1;1;from
+Q18157934;Negro Butte;государство;1;1;from
+Q18150588;Fairmont Butte;географические координаты;1;1;from
+Q18150588;Fairmont Butte;код GNIS;1;1;from
+Q14126231;Hegyestű;категория на Викискладе;1;1;from
+Q16534556;Q16534556;административно-территориальная единица;1;2;from
+Q15431045;Q15431045;географические координаты;1;1;from
+Q15431045;Q15431045;Bavarian geotope ID;1;1;from
+Q15431045;Q15431045;категория на Викискладе;1;1;from
+Q15431045;Q15431045;это частный случай понятия;1;4;from
+Q15431045;Q15431045;код GND;1;1;from
+Q15431045;Q15431045;изображение;1;1;from
+Q15431045;Q15431045;государство;1;1;from
+Q15431045;Q15431045;административно-территориальная единица;1;1;from
+Q14126231;Hegyestű;географические координаты;1;1;from
+Q14126231;Hegyestű;часть от;1;1;from
+Q18150588;Fairmont Butte;находится в охранной зоне;1;1;from
+Q14126231;Hegyestű;это частный случай понятия;1;2;from
+Q14126231;Hegyestű;часть света;1;1;from
+Q14126231;Hegyestű;изображение;1;1;from
+Q14126231;Hegyestű;государство;1;1;from
+Q8536581;Newton Butte;географические координаты;1;1;from
+Q8536581;Newton Butte;категория на Викискладе;1;1;from
+Q8536581;Newton Butte;находится в охранной зоне;1;1;from
+Q8536581;Newton Butte;код GeoNames;1;1;from
+Q8536581;Newton Butte;это частный случай понятия;1;1;from
+Q8536581;Newton Butte;изображение;1;1;from
+Q16534556;Q16534556;государство;1;1;from
+Q16534556;Q16534556;это частный случай понятия;1;1;from
+Q16534556;Q16534556;охранный статус;1;1;from
+Q16740196;East Gros Ventre Butte;государство;1;1;from
+Q18150588;Fairmont Butte;высота над уровнем моря;1;1;from
+Q18150588;Fairmont Butte;код GeoNames;1;1;from
+Q18150588;Fairmont Butte;это частный случай понятия;1;1;from
+Q18150588;Fairmont Butte;изображение;1;1;from
+Q18150588;Fairmont Butte;государство;1;1;from
+Q18150588;Fairmont Butte;административно-территориальная единица;1;1;from
+Q16984685;Boars Tusk;географические координаты;1;1;from
+Q16984685;Boars Tusk;код GNIS;1;1;from
+Q16984685;Boars Tusk;категория на Викискладе;1;1;from
+Q16984685;Boars Tusk;код Peakbagger;1;1;from
+Q16984685;Boars Tusk;высота над уровнем моря;1;1;from
+Q16984685;Boars Tusk;код GeoNames;1;1;from
+Q16984685;Boars Tusk;это частный случай понятия;1;1;from
+Q16984685;Boars Tusk;изображение;1;1;from
+Q16984685;Boars Tusk;государство;1;1;from
+Q16984685;Boars Tusk;административно-территориальная единица;1;1;from
+Q16740196;East Gros Ventre Butte;географические координаты;1;2;from
+Q16740196;East Gros Ventre Butte;код GNIS;1;1;from
+Q16740196;East Gros Ventre Butte;высота над уровнем моря;1;1;from
+Q16740196;East Gros Ventre Butte;код GeoNames;1;1;from
+Q16740196;East Gros Ventre Butte;это частный случай понятия;1;1;from
+Q58462591;Burgberg Falkenstein;географические координаты;1;1;from

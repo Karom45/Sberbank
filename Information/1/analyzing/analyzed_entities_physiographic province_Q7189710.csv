@@ -1,0 +1,212 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q106652;Scottish Highlands;административно-территориальная единица;1;1;from
+Q60138951;Ouachita;часть от;1;1;from
+Q59928523;New England;это частный случай понятия;1;1;from
+Q59928523;New England;не путать с;1;1;to
+Q59928523;New England;часть от;1;1;from
+Q59928523;New England;состоит из;1;1;to
+Q59928525;Adirondack;государство;1;1;from
+Q59928525;Adirondack;карта местонахождения;1;1;from
+Q59928525;Adirondack;это частный случай понятия;1;1;from
+Q59928525;Adirondack;часть от;1;1;from
+Q59928525;Adirondack;состоит из;1;1;to
+Q60138948;Great Plains;государство;1;1;from
+Q60138948;Great Plains;карта местонахождения;1;1;from
+Q60138948;Great Plains;это частный случай понятия;1;1;from
+Q60138948;Great Plains;частично совпадает с;1;1;to
+Q60138948;Great Plains;часть от;1;1;from
+Q60138948;Great Plains;состоит из;1;1;to
+Q60138950;Ozark Plateaus;государство;1;1;from
+Q60138950;Ozark Plateaus;карта местонахождения;1;1;from
+Q60138950;Ozark Plateaus;это частный случай понятия;1;1;from
+Q60138950;Ozark Plateaus;код в энциклопедии «Британника онлайн»;1;1;from
+Q60138950;Ozark Plateaus;часть от;1;1;from
+Q60138950;Ozark Plateaus;состоит из;1;1;to
+Q60138951;Ouachita;государство;1;1;from
+Q60138951;Ouachita;карта местонахождения;1;1;from
+Q59928523;New England;карта местонахождения;1;1;from
+Q59928523;New England;государство;1;1;from
+Q59928109;St. Lawrence Valley;состоит из;1;1;to
+Q59773606;Valley and Ridge;карта местонахождения;1;1;from
+Q59773599;Superior Upland;код в энциклопедии «Британника онлайн»;1;1;from
+Q59773599;Superior Upland;часть от;1;1;from
+Q59773599;Superior Upland;состоит из;1;1;to
+Q59773603;Coastal Plain;государство;1;1;from
+Q59773603;Coastal Plain;карта местонахождения;1;1;from
+Q59773603;Coastal Plain;это частный случай понятия;1;1;from
+Q59773603;Coastal Plain;часть от;1;1;from
+Q59773603;Coastal Plain;geomorphological unit;1;1;from
+Q59773603;Coastal Plain;состоит из;1;1;to
+Q59773606;Valley and Ridge;государство;1;1;from
+Q59773606;Valley and Ridge;это частный случай понятия;1;1;from
+Q59928109;St. Lawrence Valley;часть от;1;1;from
+Q59773606;Valley and Ridge;часть от;1;1;from
+Q59773606;Valley and Ridge;состоит из;1;1;to
+Q59877965;Basin and Range Province;государство;1;1;from
+Q59877965;Basin and Range Province;карта местонахождения;1;1;from
+Q59877965;Basin and Range Province;это частный случай понятия;1;1;from
+Q59877965;Basin and Range Province;не путать с;1;2;to
+Q59877965;Basin and Range Province;часть от;1;1;from
+Q59877965;Basin and Range Province;состоит из;1;1;to
+Q59928109;St. Lawrence Valley;карта местонахождения;1;1;from
+Q59928109;St. Lawrence Valley;это частный случай понятия;1;1;from
+Q60138951;Ouachita;это частный случай понятия;1;1;from
+Q60138951;Ouachita;состоит из;1;1;to
+Q59773599;Superior Upland;карта местонахождения;1;1;from
+Q60138963;Central Lowland;государство;1;1;from
+Q60140385;Colorado Plateaus;частично совпадает с;1;2;to
+Q60140385;Colorado Plateaus;часть от;1;1;from
+Q60140385;Colorado Plateaus;состоит из;1;1;to
+Q60141099;Cascade-Sierra Mountains;государство;1;1;from
+Q60141099;Cascade-Sierra Mountains;карта местонахождения;1;1;from
+Q60141099;Cascade-Sierra Mountains;это частный случай понятия;1;1;from
+Q60141099;Cascade-Sierra Mountains;часть от;1;1;from
+Q60141099;Cascade-Sierra Mountains;состоит из;1;1;to
+Q60141105;Lower Californian;государство;1;1;from
+Q60141105;Lower Californian;карта местонахождения;1;1;from
+Q60141105;Lower Californian;это частный случай понятия;1;1;from
+Q60141105;Lower Californian;частично совпадает с;1;1;to
+Q60141105;Lower Californian;часть от;1;1;from
+Q60141105;Lower Californian;состоит из;1;1;to
+Q60141323;Blue Ridge;государство;1;1;from
+Q60141323;Blue Ridge;карта местонахождения;1;1;from
+Q60141323;Blue Ridge;это частный случай понятия;1;1;from
+Q60141323;Blue Ridge;часть от;1;1;from
+Q60141323;Blue Ridge;состоит из;1;1;to
+Q60141369;Northern Rocky Mountains;государство;1;1;from
+Q60141369;Northern Rocky Mountains;карта местонахождения;1;1;from
+Q60141369;Northern Rocky Mountains;это частный случай понятия;1;1;from
+Q60141369;Northern Rocky Mountains;часть от;1;1;from
+Q60140385;Colorado Plateaus;это частный случай понятия;1;1;from
+Q60140385;Colorado Plateaus;карта местонахождения;1;1;from
+Q60140385;Colorado Plateaus;государство;1;1;from
+Q60139655;Southern Rocky Mountains;состоит из;1;1;to
+Q60138963;Central Lowland;карта местонахождения;1;1;from
+Q60138963;Central Lowland;это частный случай понятия;1;1;from
+Q60138963;Central Lowland;код в энциклопедии «Британника онлайн»;1;2;from
+Q60138963;Central Lowland;часть от;1;1;from
+Q60138963;Central Lowland;состоит из;1;1;to
+Q60139655;Southern Rocky Mountains;государство;1;1;from
+Q60139655;Southern Rocky Mountains;карта местонахождения;1;1;from
+Q60139655;Southern Rocky Mountains;это частный случай понятия;1;1;from
+Q60139655;Southern Rocky Mountains;частично совпадает с;1;1;to
+Q60139655;Southern Rocky Mountains;часть от;1;1;from
+Q60139802;Middle Rocky Mountains;государство;1;1;from
+Q60140149;Columbia Plateau;состоит из;1;1;to
+Q60139802;Middle Rocky Mountains;карта местонахождения;1;1;from
+Q60139802;Middle Rocky Mountains;это частный случай понятия;1;1;from
+Q60139802;Middle Rocky Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q60139802;Middle Rocky Mountains;часть от;1;1;from
+Q60139802;Middle Rocky Mountains;состоит из;1;1;to
+Q60140149;Columbia Plateau;государство;1;1;from
+Q60140149;Columbia Plateau;карта местонахождения;1;1;from
+Q60140149;Columbia Plateau;это частный случай понятия;1;1;from
+Q60140149;Columbia Plateau;частично совпадает с;1;2;to
+Q60140149;Columbia Plateau;часть от;1;1;from
+Q59773599;Superior Upland;это частный случай понятия;1;1;from
+Q59773599;Superior Upland;государство;1;1;from
+Q106652;Scottish Highlands;государство;1;1;from
+Q426977;Piedmont;код NKC;1;1;from
+Q106652;Scottish Highlands;изображённый объект;1;1;to
+Q106652;Scottish Highlands;названо в честь;1;1;to
+Q106652;Scottish Highlands;место съёмок;1;1;to
+Q106652;Scottish Highlands;история происходит в месте;1;4;to
+Q106652;Scottish Highlands;основная тема;1;3;to
+Q106652;Scottish Highlands;зона обслуживания;1;1;to
+Q106652;Scottish Highlands;место жительства;1;2;to
+Q106652;Scottish Highlands;открывает вид на;1;1;to
+Q106652;Scottish Highlands;место смерти;1;1;to
+Q106652;Scottish Highlands;категория объединяет темы;1;1;to
+Q106652;Scottish Highlands;исток водотока;1;1;to
+Q426977;Piedmont;административно-территориальная единица;1;1;from
+Q426977;Piedmont;государство;1;1;from
+Q426977;Piedmont;изображение;1;1;from
+Q426977;Piedmont;карта местонахождения;1;1;from
+Q426977;Piedmont;код LCNAF;1;1;from
+Q426977;Piedmont;это частный случай понятия;1;2;from
+Q426977;Piedmont;код в Большой каталанской энциклопедии;1;1;from
+Q426977;Piedmont;код в энциклопедии «Британника онлайн»;1;1;from
+Q426977;Piedmont;код в Большой российской энциклопедии онлайн;1;1;from
+Q426977;Piedmont;часть от;1;1;from
+Q426977;Piedmont;категория на Викискладе;1;1;from
+Q426977;Piedmont;географические координаты;1;1;from
+Q106652;Scottish Highlands;общая тема категории;1;1;to
+Q106652;Scottish Highlands;место рождения;1;8;to
+Q106652;Scottish Highlands;часть от;1;2;to
+Q106652;Scottish Highlands;высота над уровнем моря;1;1;from
+Q106652;Scottish Highlands;изображение;1;1;from
+Q106652;Scottish Highlands;код GND;1;1;from
+Q106652;Scottish Highlands;карта местонахождения;1;1;from
+Q106652;Scottish Highlands;код LCNAF;1;1;from
+Q106652;Scottish Highlands;это частный случай понятия;1;3;from
+Q106652;Scottish Highlands;изображение флага;1;1;from
+Q106652;Scottish Highlands;десятичная классификация Дьюи;1;1;from
+Q106652;Scottish Highlands;код в Большой каталанской энциклопедии;1;1;from
+Q106652;Scottish Highlands;код в энциклопедии «Британника онлайн»;1;1;from
+Q106652;Scottish Highlands;код GeoNames;1;1;from
+Q106652;Scottish Highlands;эра;1;1;from
+Q106652;Scottish Highlands;горный хребет;1;23;to
+Q106652;Scottish Highlands;код BabelNet;1;1;from
+Q106652;Scottish Highlands;код в Encyclopædia Universalis;1;1;from
+Q106652;Scottish Highlands;категория на Викискладе;1;1;from
+Q106652;Scottish Highlands;наивысшая точка;1;1;to
+Q106652;Scottish Highlands;географические координаты;1;1;from
+Q106652;Scottish Highlands;код Freebase;1;1;from
+Q106652;Scottish Highlands;находится в пределах природно-географического объекта;1;3;to
+Q106652;Scottish Highlands;основная категория по теме;1;1;from
+Q106652;Scottish Highlands;баннер Викигида;1;1;from
+Q106652;Scottish Highlands;местонахождение;1;7;to
+Q426977;Piedmont;код Freebase;1;1;from
+Q426977;Piedmont;состоит из;1;1;to
+Q59746760;Laurentian Upland;состоит из;1;1;to
+Q620627;Appalachian Plateau;административно-территориальная единица;1;9;from
+Q7007445;New England province;государство;1;1;from
+Q7007445;New England province;это частный случай понятия;1;2;from
+Q7007445;New England province;тематически относится к;1;1;from
+Q7007445;New England province;состоит из;1;4;from
+Q7122318;Pacific Border;государство;1;1;from
+Q7122318;Pacific Border;карта местонахождения;1;1;from
+Q7122318;Pacific Border;это частный случай понятия;1;1;from
+Q7122318;Pacific Border;часть от;1;1;from
+Q7122318;Pacific Border;географические координаты;1;1;from
+Q7122318;Pacific Border;состоит из;1;1;to
+Q16999574;Interior Low Plateaus;государство;1;1;from
+Q16999574;Interior Low Plateaus;карта местонахождения;1;1;from
+Q16999574;Interior Low Plateaus;это частный случай понятия;1;1;from
+Q16999574;Interior Low Plateaus;код в энциклопедии «Британника онлайн»;1;1;from
+Q16999574;Interior Low Plateaus;часть от;1;1;from
+Q16999574;Interior Low Plateaus;состоит из;1;1;to
+Q16999574;Interior Low Plateaus;находится в пределах природно-географического объекта;1;1;to
+Q17014708;Musgrave Block;государство;1;1;from
+Q17014708;Musgrave Block;это частный случай понятия;1;1;from
+Q17014708;Musgrave Block;код Австралийской базы данных геологических провинций;1;1;from
+Q59746760;Laurentian Upland;государство;1;1;from
+Q59746760;Laurentian Upland;это частный случай понятия;1;1;from
+Q59746760;Laurentian Upland;часть от;1;2;from
+Q2595744;Wyoming Basin;состоит из;1;1;to
+Q2595744;Wyoming Basin;географические координаты;1;1;from
+Q2595744;Wyoming Basin;часть от;1;1;from
+Q620627;Appalachian Plateau;состоит из;1;1;from
+Q620627;Appalachian Plateau;государство;1;1;from
+Q620627;Appalachian Plateau;изображение;1;1;from
+Q620627;Appalachian Plateau;карта местонахождения;1;1;from
+Q620627;Appalachian Plateau;код LCNAF;1;1;from
+Q620627;Appalachian Plateau;это частный случай понятия;1;2;from
+Q620627;Appalachian Plateau;местонахождение;1;1;from
+Q620627;Appalachian Plateau;код в Большой российской энциклопедии онлайн;1;1;from
+Q620627;Appalachian Plateau;код темы Quora;1;1;from
+Q620627;Appalachian Plateau;часть от;1;2;to
+Q620627;Appalachian Plateau;New Georgia Encyclopedia ID;1;1;from
+Q620627;Appalachian Plateau;географические координаты;1;1;from
+Q2595744;Wyoming Basin;код в энциклопедии «Британника онлайн»;1;1;from
+Q620627;Appalachian Plateau;код Freebase;1;1;from
+Q1754861;Kazan Region;административно-территориальная единица;1;1;from
+Q1754861;Kazan Region;государство;1;1;from
+Q1754861;Kazan Region;это частный случай понятия;1;1;from
+Q1754861;Kazan Region;географические координаты;1;1;from
+Q2595744;Wyoming Basin;административно-территориальная единица;1;2;from
+Q2595744;Wyoming Basin;государство;1;1;from
+Q2595744;Wyoming Basin;изображение;1;1;from
+Q2595744;Wyoming Basin;карта местонахождения;1;1;from
+Q2595744;Wyoming Basin;это частный случай понятия;1;1;from
+Q60141369;Northern Rocky Mountains;состоит из;1;1;to

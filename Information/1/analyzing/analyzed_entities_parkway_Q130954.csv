@@ -1,0 +1,154 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q167984;Nahant Beach Boulevard;административно-территориальная единица;1;2;from
+Q5148102;Colonel By Drive;файл KML;1;1;from
+Q4744843;American River Parkway;географические координаты;1;1;from
+Q4744843;American River Parkway;Who's on First ID;1;1;from
+Q5148102;Colonel By Drive;административно-территориальная единица;1;1;from
+Q5148102;Colonel By Drive;государство;1;1;from
+Q5148102;Colonel By Drive;изображение;1;1;from
+Q5148102;Colonel By Drive;это частный случай понятия;1;1;from
+Q5148102;Colonel By Drive;длина;1;1;from
+Q5148102;Colonel By Drive;проходит над/под;1;1;to
+Q2484254;Alewife Brook Parkway;дата основания/создания/возникновения;1;1;from
+Q6995312;Neponset Valley Parkway;административно-территориальная единица;1;1;from
+Q6995312;Neponset Valley Parkway;государство;1;1;from
+Q6995312;Neponset Valley Parkway;изображение;1;1;from
+Q6995312;Neponset Valley Parkway;это частный случай понятия;1;1;from
+Q6995312;Neponset Valley Parkway;статус наследия;1;1;from
+Q6995312;Neponset Valley Parkway;географические координаты;1;1;from
+Q6995312;Neponset Valley Parkway;код NRHP;1;1;from
+Q4744843;American River Parkway;код GeoNames;1;1;from
+Q4744843;American River Parkway;это частный случай понятия;1;1;from
+Q4744843;American River Parkway;код LCNAF;1;1;from
+Q4744843;American River Parkway;государство;1;1;from
+Q2484254;Alewife Brook Parkway;код NRHP;1;1;from
+Q2488389;Eastern Parkway;административно-территориальная единица;1;1;to
+Q2488389;Eastern Parkway;государство;1;1;from
+Q2488389;Eastern Parkway;изображение;1;1;from
+Q2488389;Eastern Parkway;код LCNAF;1;1;from
+Q2488389;Eastern Parkway;это частный случай понятия;1;2;from
+Q2488389;Eastern Parkway;статус наследия;1;1;from
+Q2488389;Eastern Parkway;файл KML;1;1;from
+Q2488389;Eastern Parkway;категория на Викискладе;1;1;from
+Q2488389;Eastern Parkway;archINFORM project ID;1;1;from
+Q2488389;Eastern Parkway;географические координаты;1;1;from
+Q2488389;Eastern Parkway;код NRHP;1;1;from
+Q2488389;Eastern Parkway;расположение штаб-квартиры;1;2;to
+Q2488389;Eastern Parkway;расположен на улице;1;4;to
+Q4744843;American River Parkway;административно-территориальная единица;1;1;from
+Q6995312;Neponset Valley Parkway;несёт на себе;1;1;to
+Q7270321;Queen Elizabeth Driveway;ответственность несёт;1;1;from
+Q7270321;Queen Elizabeth Driveway;владельцем является;1;1;from
+Q7540501;Sligo Creek Parkway;длина;1;1;from
+Q7540501;Sligo Creek Parkway;файл KML;1;1;from
+Q7540501;Sligo Creek Parkway;конечная;1;5;from
+Q7540501;Sligo Creek Parkway;расположение конечной точки;1;2;from
+Q7540501;Sligo Creek Parkway;проходит над/под;1;1;to
+Q16918386;Paxtang Parkway;это частный случай понятия;1;1;from
+Q17108972;Long Sault Parkway;административно-территориальная единица;1;1;from
+Q17108972;Long Sault Parkway;названо в честь;1;1;from
+Q17108972;Long Sault Parkway;государство;1;1;from
+Q17108972;Long Sault Parkway;это частный случай понятия;1;1;from
+Q17108972;Long Sault Parkway;географические координаты;1;1;from
+Q48743217;Rahway River Parkway;административно-территориальная единица;1;1;from
+Q48743217;Rahway River Parkway;государство;1;1;from
+Q48743217;Rahway River Parkway;изображение;1;1;from
+Q48743217;Rahway River Parkway;это частный случай понятия;1;1;from
+Q48743217;Rahway River Parkway;код GeoNames;1;1;from
+Q7540501;Sligo Creek Parkway;соединяется с;1;2;to
+Q7540501;Sligo Creek Parkway;название на языке оригинала;1;1;from
+Q7270321;Queen Elizabeth Driveway;административно-территориальная единица;1;1;from
+Q7540501;Sligo Creek Parkway;официальное название;1;1;from
+Q7270321;Queen Elizabeth Driveway;названо в честь;1;1;from
+Q7270321;Queen Elizabeth Driveway;государство;1;1;from
+Q7270321;Queen Elizabeth Driveway;изображение;1;1;from
+Q7270321;Queen Elizabeth Driveway;это частный случай понятия;1;1;from
+Q7270321;Queen Elizabeth Driveway;ограничение скорости;1;1;from
+Q7270321;Queen Elizabeth Driveway;файл KML;1;1;from
+Q7270321;Queen Elizabeth Driveway;расположен на улице;1;1;to
+Q7270321;Queen Elizabeth Driveway;проходит над/под;1;1;to
+Q7540501;Sligo Creek Parkway;ответственность несёт;1;1;from
+Q7540501;Sligo Creek Parkway;административно-территориальная единица;1;1;from
+Q7540501;Sligo Creek Parkway;карта этой дороги;1;1;from
+Q7540501;Sligo Creek Parkway;система автомагистралей;1;1;from
+Q7540501;Sligo Creek Parkway;государство;1;1;from
+Q7540501;Sligo Creek Parkway;находится на берегу водоёма;1;1;from
+Q7540501;Sligo Creek Parkway;это частный случай понятия;1;2;from
+Q2484254;Alewife Brook Parkway;географические координаты;1;1;from
+Q2484254;Alewife Brook Parkway;категория на Викискладе;1;1;from
+Q167984;Nahant Beach Boulevard;государство;1;1;from
+Q453188;Baltimore–Washington Parkway;ID отношения в OpenStreetMap;1;1;from
+Q453188;Baltimore–Washington Parkway;код GeoNames;1;2;from
+Q453188;Baltimore–Washington Parkway;номер дороги;1;1;from
+Q453188;Baltimore–Washington Parkway;длина;1;2;from
+Q453188;Baltimore–Washington Parkway;высота над уровнем моря;1;2;from
+Q453188;Baltimore–Washington Parkway;файл KML;1;1;from
+Q453188;Baltimore–Washington Parkway;категория на Викискладе;1;1;from
+Q453188;Baltimore–Washington Parkway;Open Library subject ID;1;1;from
+Q453188;Baltimore–Washington Parkway;код для сущности Wolfram Language;1;1;from
+Q2484254;Alewife Brook Parkway;файл KML;1;1;from
+Q453188;Baltimore–Washington Parkway;конечная;1;9;from
+Q453188;Baltimore–Washington Parkway;дата основания/создания/возникновения;1;1;from
+Q453188;Baltimore–Washington Parkway;расположение конечной точки;1;2;from
+Q453188;Baltimore–Washington Parkway;географические координаты;1;2;from
+Q453188;Baltimore–Washington Parkway;официальный сайт;1;1;from
+Q453188;Baltimore–Washington Parkway;код NLI;1;1;from
+Q453188;Baltimore–Washington Parkway;владеет;1;1;to
+Q453188;Baltimore–Washington Parkway;частично совпадает с;1;1;to
+Q453188;Baltimore–Washington Parkway;это частный случай понятия;1;2;from
+Q453188;Baltimore–Washington Parkway;код LCNAF;1;1;from
+Q453188;Baltimore–Washington Parkway;код VIAF;1;1;from
+Q167984;Nahant Beach Boulevard;изображение;1;1;from
+Q167984;Nahant Beach Boulevard;это частный случай понятия;1;2;from
+Q167984;Nahant Beach Boulevard;статус наследия;1;6;from
+Q167984;Nahant Beach Boulevard;часть от;1;1;from
+Q167984;Nahant Beach Boulevard;географические координаты;1;1;from
+Q167984;Nahant Beach Boulevard;код NRHP;1;1;from
+Q453188;Baltimore–Washington Parkway;ответственность несёт;1;2;from
+Q453188;Baltimore–Washington Parkway;владельцем является;1;2;from
+Q453188;Baltimore–Washington Parkway;административно-территориальная единица;1;4;from
+Q453188;Baltimore–Washington Parkway;оператор;1;1;from
+Q453188;Baltimore–Washington Parkway;знак автотрассы;1;2;from
+Q453188;Baltimore–Washington Parkway;карта этой дороги;1;1;from
+Q453188;Baltimore–Washington Parkway;система автомагистралей;1;1;from
+Q453188;Baltimore–Washington Parkway;государство;1;1;from
+Q453188;Baltimore–Washington Parkway;изображение;1;1;from
+Q630564;Arborway;административно-территориальная единица;1;1;from
+Q630564;Arborway;государство;1;1;from
+Q630564;Arborway;изображение;1;1;from
+Q1193015;West Roxbury Parkway;географические координаты;1;1;from
+Q1956931;Mystic Valley Parkway;административно-территориальная единица;1;1;from
+Q1956931;Mystic Valley Parkway;государство;1;1;from
+Q1956931;Mystic Valley Parkway;изображение;1;2;from
+Q1956931;Mystic Valley Parkway;это частный случай понятия;1;1;from
+Q1956931;Mystic Valley Parkway;архитектор;1;1;from
+Q1956931;Mystic Valley Parkway;статус наследия;1;1;from
+Q1956931;Mystic Valley Parkway;категория на Викискладе;1;1;from
+Q1956931;Mystic Valley Parkway;географические координаты;1;1;from
+Q1956931;Mystic Valley Parkway;код NRHP;1;1;from
+Q2484254;Alewife Brook Parkway;административно-территориальная единица;1;1;from
+Q2484254;Alewife Brook Parkway;государство;1;1;from
+Q2484254;Alewife Brook Parkway;изображение;1;1;from
+Q2484254;Alewife Brook Parkway;это частный случай понятия;1;2;from
+Q2484254;Alewife Brook Parkway;статус наследия;1;1;from
+Q2484254;Alewife Brook Parkway;длина;1;1;from
+Q1193015;West Roxbury Parkway;код NRHP;1;1;from
+Q1193015;West Roxbury Parkway;статус наследия;1;1;from
+Q630564;Arborway;это частный случай понятия;1;1;from
+Q1193015;West Roxbury Parkway;это частный случай понятия;1;1;from
+Q630564;Arborway;код BabelNet;1;1;from
+Q630564;Arborway;файл KML;1;1;from
+Q630564;Arborway;категория на Викискладе;1;1;from
+Q630564;Arborway;географические координаты;1;1;from
+Q1156354;Truman Parkway;административно-территориальная единица;1;1;from
+Q1156354;Truman Parkway;государство;1;1;from
+Q1156354;Truman Parkway;изображение;1;1;from
+Q1156354;Truman Parkway;это частный случай понятия;1;1;from
+Q1156354;Truman Parkway;статус наследия;1;1;from
+Q1156354;Truman Parkway;дата основания/создания/возникновения;1;1;from
+Q1156354;Truman Parkway;географические координаты;1;1;from
+Q1156354;Truman Parkway;код NRHP;1;1;from
+Q1193015;West Roxbury Parkway;административно-территориальная единица;1;1;from
+Q1193015;West Roxbury Parkway;государство;1;1;from
+Q1193015;West Roxbury Parkway;изображение;1;1;from
+Q48743217;Rahway River Parkway;географические координаты;1;1;from

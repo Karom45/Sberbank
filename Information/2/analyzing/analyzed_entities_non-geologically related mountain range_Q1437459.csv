@@ -1,0 +1,1668 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q1262;Graian Alps;административно-территориальная единица;1;1;from
+Q4999944;Burniston Range;административно-территориальная единица;1;1;from
+Q3005437;Q3005437;наивысшая точка;1;1;from
+Q3005437;Q3005437;высота над уровнем моря;1;1;from
+Q3005437;Q3005437;это частный случай понятия;1;1;from
+Q2667865;Saylyugem Mountains;код Freebase;1;1;from
+Q2667865;Saylyugem Mountains;географические координаты;1;1;from
+Q2667865;Saylyugem Mountains;горный хребет;1;1;to
+Q2667865;Saylyugem Mountains;часть от;1;1;from
+Q2667865;Saylyugem Mountains;высота над уровнем моря;1;1;from
+Q2667865;Saylyugem Mountains;длина;1;1;from
+Q2667865;Saylyugem Mountains;это частный случай понятия;1;2;from
+Q2667865;Saylyugem Mountains;часть света;1;1;from
+Q2667865;Saylyugem Mountains;государство;1;2;from
+Q2655719;Mongolian Altai;исток водотока;1;1;to
+Q2655719;Mongolian Altai;географические координаты;1;1;from
+Q2655719;Mongolian Altai;горный хребет;1;3;to
+Q2655719;Mongolian Altai;код в Большой российской энциклопедии онлайн;1;1;from
+Q2655719;Mongolian Altai;ширина;1;1;from
+Q2655719;Mongolian Altai;высота над уровнем моря;1;1;from
+Q2655719;Mongolian Altai;длина;1;1;from
+Q2655719;Mongolian Altai;описывается в источниках;1;1;from
+Q2655719;Mongolian Altai;это частный случай понятия;1;1;from
+Q2655719;Mongolian Altai;сделано из;1;1;from
+Q2655719;Mongolian Altai;изображение;1;1;from
+Q3005437;Q3005437;горный хребет;1;5;to
+Q3297613;Ardenne;государство;1;3;from
+Q3297613;Ardenne;изображение;1;1;from
+Q3323158;monts du Vivarais;код VIAF;1;1;from
+Q3360096;Queen Fabiola Mountains;код VIAF;1;1;from
+Q3360096;Queen Fabiola Mountains;названо в честь;1;1;from
+Q3360096;Queen Fabiola Mountains;административно-территориальная единица;1;1;from
+Q3323158;monts du Vivarais;географические координаты;1;1;from
+Q3323158;monts du Vivarais;наивысшая точка;1;1;from
+Q3323158;monts du Vivarais;горный хребет;1;15;to
+Q3323158;monts du Vivarais;код GNS;1;1;from
+Q3323158;monts du Vivarais;высота над уровнем моря;1;2;from
+Q3323158;monts du Vivarais;код GeoNames;1;1;from
+Q3323158;monts du Vivarais;это частный случай понятия;1;1;from
+Q3323158;monts du Vivarais;государство;1;1;from
+Q3297613;Ardenne;сделано из;1;1;from
+Q3323158;monts du Vivarais;названо в честь;1;1;from
+Q3323158;monts du Vivarais;административно-территориальная единица;1;2;from
+Q3297613;Ardenne;место создания;1;1;to
+Q3297613;Ardenne;часть от;1;1;to
+Q3297613;Ardenne;географические координаты;1;1;from
+Q3297613;Ardenne;наивысшая точка;1;1;from
+Q3297613;Ardenne;горный хребет;1;10;to
+Q3297613;Ardenne;высота над уровнем моря;1;1;from
+Q3297613;Ardenne;это частный случай понятия;1;1;to
+Q3297613;Ardenne;карта местонахождения;1;1;from
+Q2655719;Mongolian Altai;государство;1;1;from
+Q2577955;Western Sakhalin Mountains;часть от;1;1;to
+Q2577955;Western Sakhalin Mountains;горный хребет;1;4;to
+Q2367275;Safēd Kōh;ключевое событие;1;1;from
+Q2496769;Chuya Alps;код Freebase;1;1;from
+Q2496769;Chuya Alps;географические координаты;1;1;from
+Q2496769;Chuya Alps;горный хребет;1;2;to
+Q2496769;Chuya Alps;код BabelNet;1;1;from
+Q2496769;Chuya Alps;высота над уровнем моря;1;1;from
+Q2496769;Chuya Alps;это частный случай понятия;1;1;from
+Q2496769;Chuya Alps;изображение;1;1;from
+Q2496769;Chuya Alps;государство;1;2;from
+Q2367275;Safēd Kōh;местонахождение;1;1;to
+Q2367275;Safēd Kōh;горный хребет;1;4;to
+Q2367275;Safēd Kōh;код Freebase;1;1;from
+Q2504871;Cordillera Penibética;государство;1;1;from
+Q2367275;Safēd Kōh;географические координаты;1;1;from
+Q2367275;Safēd Kōh;наивысшая точка;1;1;from
+Q2367275;Safēd Kōh;категория на Викискладе;1;1;from
+Q2367275;Safēd Kōh;часть от;1;1;from
+Q2367275;Safēd Kōh;высота над уровнем моря;1;1;from
+Q2367275;Safēd Kōh;код GeoNames;1;1;from
+Q2367275;Safēd Kōh;код в энциклопедии «Британника онлайн»;1;1;from
+Q2367275;Safēd Kōh;это частный случай понятия;1;1;from
+Q2367275;Safēd Kōh;изображение;1;1;from
+Q2367275;Safēd Kōh;государство;1;2;from
+Q2504871;Cordillera Penibética;административно-территориальная единица;1;6;from
+Q2504871;Cordillera Penibética;изображение;1;1;from
+Q2577955;Western Sakhalin Mountains;находится в пределах природно-географического объекта;1;1;from
+Q2504871;Cordillera Penibética;географические координаты;1;1;from
+Q2577955;Western Sakhalin Mountains;географические координаты;1;1;from
+Q2577955;Western Sakhalin Mountains;это частный случай понятия;1;1;from
+Q2577955;Western Sakhalin Mountains;государство;1;1;from
+Q2577955;Western Sakhalin Mountains;административно-территориальная единица;1;1;from
+Q2504871;Cordillera Penibética;общая тема категории;1;1;to
+Q2504871;Cordillera Penibética;часть от;1;1;to
+Q2504871;Cordillera Penibética;находится в пределах природно-географического объекта;1;2;to
+Q2504871;Cordillera Penibética;местонахождение;1;1;to
+Q2504871;Cordillera Penibética;основная категория по теме;1;1;from
+Q2504871;Cordillera Penibética;код Freebase;1;1;from
+Q2504871;Cordillera Penibética;наивысшая точка;1;1;from
+Q2504871;Cordillera Penibética;код VIAF;1;1;from
+Q2504871;Cordillera Penibética;состоит из;1;1;to
+Q2504871;Cordillera Penibética;горный хребет;1;41;to
+Q2504871;Cordillera Penibética;категория на Викискладе;1;1;from
+Q2504871;Cordillera Penibética;ширина;1;1;from
+Q2504871;Cordillera Penibética;высота над уровнем моря;1;1;from
+Q2504871;Cordillera Penibética;длина;1;1;from
+Q2504871;Cordillera Penibética;код GeoNames;1;1;from
+Q2504871;Cordillera Penibética;код в Большой каталанской энциклопедии;1;1;from
+Q2504871;Cordillera Penibética;имеет границы с;1;5;to
+Q2504871;Cordillera Penibética;это частный случай понятия;1;1;from
+Q3360096;Queen Fabiola Mountains;код GND;1;1;from
+Q3360096;Queen Fabiola Mountains;код LCNAF;1;1;from
+Q3360096;Queen Fabiola Mountains;часть света;1;1;from
+Q4830396;Axelgold Range;код GeoNames;1;1;from
+Q4876074;Beady Range;площадь;1;1;from
+Q4876074;Beady Range;высота над уровнем моря;1;1;from
+Q4876074;Beady Range;код GeoNames;1;1;from
+Q4876074;Beady Range;это частный случай понятия;1;1;from
+Q4876074;Beady Range;государство;1;1;from
+Q4876074;Beady Range;административно-территориальная единица;1;1;from
+Q4830396;Axelgold Range;географические координаты;1;1;from
+Q4830396;Axelgold Range;код топонима в Канаде;1;1;from
+Q4830396;Axelgold Range;площадь;1;1;from
+Q4830396;Axelgold Range;высота над уровнем моря;1;1;from
+Q4830396;Axelgold Range;это частный случай понятия;1;1;from
+Q4876074;Beady Range;горный хребет;1;1;from
+Q4830396;Axelgold Range;государство;1;1;from
+Q4830396;Axelgold Range;административно-территориальная единица;1;1;from
+Q4680103;Adamant Range;географические координаты;1;1;from
+Q4680103;Adamant Range;горный хребет;1;1;from
+Q4680103;Adamant Range;код топонима в Канаде;1;1;from
+Q4680103;Adamant Range;высота над уровнем моря;1;1;from
+Q4680103;Adamant Range;код GeoNames;1;1;from
+Q4680103;Adamant Range;это частный случай понятия;1;1;from
+Q4680103;Adamant Range;государство;1;1;from
+Q4680103;Adamant Range;административно-территориальная единица;1;1;from
+Q4876074;Beady Range;код топонима в Канаде;1;1;from
+Q4876074;Beady Range;географические координаты;1;1;from
+Q4101391;Bei Shan;основная тема;1;1;to
+Q4984088;Budawang Range;код GeoNames;1;1;from
+Q4999597;Burnaby Range;код топонима в Канаде;1;1;from
+Q4999597;Burnaby Range;площадь;1;1;from
+Q4999597;Burnaby Range;код GeoNames;1;1;from
+Q4999597;Burnaby Range;это частный случай понятия;1;1;from
+Q4999597;Burnaby Range;государство;1;1;from
+Q4999597;Burnaby Range;административно-территориальная единица;1;1;from
+Q4984088;Budawang Range;географические координаты;1;1;from
+Q4984088;Budawang Range;горный хребет;1;1;to
+Q4984088;Budawang Range;высота над уровнем моря;1;1;from
+Q4984088;Budawang Range;длина;1;1;from
+Q4984088;Budawang Range;это частный случай понятия;1;1;from
+Q4946141;Bornite Range;административно-территориальная единица;1;1;from
+Q4984088;Budawang Range;код LCNAF;1;1;from
+Q4984088;Budawang Range;код VIAF;1;1;from
+Q4984088;Budawang Range;изображение;1;1;from
+Q4984088;Budawang Range;государство;1;1;from
+Q4984088;Budawang Range;административно-территориальная единица;1;1;from
+Q4946141;Bornite Range;географические координаты;1;1;from
+Q4946141;Bornite Range;код топонима в Канаде;1;1;from
+Q4946141;Bornite Range;код GeoNames;1;1;from
+Q4946141;Bornite Range;это частный случай понятия;1;1;from
+Q4946141;Bornite Range;государство;1;1;from
+Q4101391;Bei Shan;горный хребет;1;1;to
+Q4101391;Bei Shan;географические координаты;1;1;from
+Q3360096;Queen Fabiola Mountains;это частный случай понятия;1;1;from
+Q3531488;Knuckles Mountain Range;изображение;1;1;from
+Q3531488;Knuckles Mountain Range;баннер Викигида;1;1;from
+Q3531488;Knuckles Mountain Range;код Всемирного наследия ЮНЕСКО;1;1;from
+Q3531488;Knuckles Mountain Range;значимое место;1;1;from
+Q3531488;Knuckles Mountain Range;географические координаты;1;1;from
+Q3531488;Knuckles Mountain Range;категория на Викискладе;1;1;from
+Q3531488;Knuckles Mountain Range;часть от;1;1;from
+Q3531488;Knuckles Mountain Range;площадь;1;2;from
+Q3531488;Knuckles Mountain Range;статус наследия;1;3;from
+Q3531488;Knuckles Mountain Range;код в энциклопедии «Британника онлайн»;1;1;from
+Q3531488;Knuckles Mountain Range;это частный случай понятия;1;2;from
+Q3531488;Knuckles Mountain Range;государство;1;1;from
+Q3576627;King Leopold Ranges;административно-территориальная единица;1;2;from
+Q3360096;Queen Fabiola Mountains;общая тема категории;1;1;to
+Q3360096;Queen Fabiola Mountains;горный хребет;1;21;to
+Q3360096;Queen Fabiola Mountains;основная категория по теме;1;1;from
+Q3360096;Queen Fabiola Mountains;антарктический код GNIS;1;1;from
+Q3360096;Queen Fabiola Mountains;код Freebase;1;1;from
+Q3360096;Queen Fabiola Mountains;географические координаты;1;1;from
+Q3360096;Queen Fabiola Mountains;Norwegian Polar Institute place name ID;1;1;from
+Q3360096;Queen Fabiola Mountains;SCAR Composite Gazetteer place ID;1;1;from
+Q3360096;Queen Fabiola Mountains;код TGN;1;1;from
+Q3360096;Queen Fabiola Mountains;код GeoNames;1;1;from
+Q3531488;Knuckles Mountain Range;состоит из;1;1;to
+Q3576627;King Leopold Ranges;государство;1;1;from
+Q4101391;Bei Shan;код в Большой российской энциклопедии онлайн;1;1;from
+Q3576627;King Leopold Ranges;географические координаты;1;1;from
+Q4101391;Bei Shan;описывается в источниках;1;1;from
+Q4101391;Bei Shan;это частный случай понятия;1;1;from
+Q4101391;Bei Shan;государство;1;1;from
+Q3663438;Kanin;часть от;1;1;to
+Q3663438;Kanin;географические координаты;1;1;from
+Q3663438;Kanin;наивысшая точка;1;1;from
+Q3663438;Kanin;горный хребет;1;2;to
+Q3663438;Kanin;это частный случай понятия;1;1;from
+Q3663438;Kanin;государство;1;2;from
+Q3576627;King Leopold Ranges;горный хребет;1;1;to
+Q3576627;King Leopold Ranges;Australian Statistical Geography 2016 ID;1;1;from
+Q3576627;King Leopold Ranges;изображение;1;1;from
+Q3576627;King Leopold Ranges;Australian Statistical Geography 2011 ID;1;1;from
+Q3576627;King Leopold Ranges;высота над уровнем моря;1;1;from
+Q3576627;King Leopold Ranges;код TGN;1;1;from
+Q3576627;King Leopold Ranges;код GeoNames;1;1;from
+Q3576627;King Leopold Ranges;мужское население;1;3;from
+Q3576627;King Leopold Ranges;женское население;1;3;from
+Q3576627;King Leopold Ranges;код в энциклопедии «Британника онлайн»;1;1;from
+Q3576627;King Leopold Ranges;численность населения;1;3;from
+Q3576627;King Leopold Ranges;это частный случай понятия;1;1;from
+Q3576627;King Leopold Ranges;код VIAF;1;1;from
+Q2204331;Sinai mountain range;горный хребет;1;2;to
+Q2204331;Sinai mountain range;находится в пределах природно-географического объекта;1;1;from
+Q2204331;Sinai mountain range;это частный случай понятия;1;1;from
+Q1089367;Chugach Mountains;код VIAF;1;1;from
+Q1089367;Chugach Mountains;площадь;1;1;from
+Q1089367;Chugach Mountains;высота над уровнем моря;1;1;from
+Q1089367;Chugach Mountains;длина;1;1;from
+Q1089367;Chugach Mountains;код TGN;1;1;from
+Q1089367;Chugach Mountains;код GeoNames;1;1;from
+Q1089367;Chugach Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q1089367;Chugach Mountains;код в Большой каталанской энциклопедии;1;1;from
+Q1089367;Chugach Mountains;код US National Archives;1;1;from
+Q1089367;Chugach Mountains;это частный случай понятия;1;2;from
+Q1089367;Chugach Mountains;код LCNAF;1;1;from
+Q1089367;Chugach Mountains;изображение;1;1;from
+Q1089367;Chugach Mountains;код BabelNet;1;1;from
+Q1089367;Chugach Mountains;государство;1;1;from
+Q1089367;Chugach Mountains;административно-территориальная единица;1;1;from
+Q1072536;Chigmit Mountains;код Freebase;1;1;from
+Q1072536;Chigmit Mountains;географические координаты;1;1;from
+Q1072536;Chigmit Mountains;наивысшая точка;1;1;from
+Q1072536;Chigmit Mountains;код GNIS;1;1;from
+Q1072536;Chigmit Mountains;горный хребет;1;3;to
+Q1072536;Chigmit Mountains;категория на Викискладе;1;1;from
+Q1072536;Chigmit Mountains;высота над уровнем моря;1;1;from
+Q1072536;Chigmit Mountains;код GeoNames;1;1;from
+Q1089367;Chugach Mountains;ширина;1;1;from
+Q1089367;Chugach Mountains;код SummitPost;1;1;from
+Q1072536;Chigmit Mountains;изображение;1;1;from
+Q1110181;Q1110181;подкласс от;1;1;from
+Q1195285;Nanling Mountains;географические координаты;1;1;from
+Q1195285;Nanling Mountains;наивысшая точка;1;1;from
+Q1195285;Nanling Mountains;ширина;1;1;from
+Q1195285;Nanling Mountains;высота над уровнем моря;1;1;from
+Q1195285;Nanling Mountains;длина;1;1;from
+Q1195285;Nanling Mountains;код в энциклопедии «Британника онлайн»;1;2;from
+Q1195285;Nanling Mountains;это частный случай понятия;1;2;from
+Q1195285;Nanling Mountains;код VIAF;1;1;from
+Q1195285;Nanling Mountains;изображение;1;1;from
+Q1195285;Nanling Mountains;государство;1;1;from
+Q1110181;Q1110181;это частный случай понятия;1;1;from
+Q1089367;Chugach Mountains;Peakbagger area ID;1;1;from
+Q1110181;Q1110181;код GND;1;1;from
+Q1110181;Q1110181;код VIAF;1;1;from
+Q1089367;Chugach Mountains;общая тема категории;1;1;to
+Q1089367;Chugach Mountains;основная категория по теме;1;1;from
+Q1089367;Chugach Mountains;код Freebase;1;1;from
+Q1089367;Chugach Mountains;географические координаты;1;2;from
+Q1089367;Chugach Mountains;наивысшая точка;1;1;from
+Q1089367;Chugach Mountains;код GNIS;1;1;from
+Q1089367;Chugach Mountains;горный хребет;1;38;to
+Q1089367;Chugach Mountains;категория на Викискладе;1;1;from
+Q1072536;Chigmit Mountains;это частный случай понятия;1;1;from
+Q1072536;Chigmit Mountains;государство;1;1;from
+Q1256114;Pioneer Heights;административно-территориальная единица;1;1;from
+Q917429;Matobo Hills;место погребения;1;2;to
+Q920070;Coast Mountains;высота над уровнем моря;1;1;from
+Q920070;Coast Mountains;длина;1;1;from
+Q920070;Coast Mountains;код GeoNames;1;1;from
+Q920070;Coast Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q920070;Coast Mountains;это частный случай понятия;1;3;from
+Q920070;Coast Mountains;код LCNAF;1;1;from
+Q920070;Coast Mountains;изображение;1;1;from
+Q920070;Coast Mountains;государство;1;1;from
+Q920070;Coast Mountains;административно-территориальная единица;1;3;from
+Q917429;Matobo Hills;горный хребет;1;1;to
+Q917429;Matobo Hills;код Всемирного наследия ЮНЕСКО;1;1;from
+Q920070;Coast Mountains;ширина;1;1;from
+Q917429;Matobo Hills;код Freebase;1;1;from
+Q917429;Matobo Hills;географические координаты;1;1;from
+Q917429;Matobo Hills;состоит из;1;1;from
+Q917429;Matobo Hills;категория на Викискладе;1;1;from
+Q917429;Matobo Hills;критерий Всемирного наследия;1;3;from
+Q917429;Matobo Hills;ширина;1;1;from
+Q917429;Matobo Hills;площадь;1;3;from
+Q917429;Matobo Hills;длина;1;1;from
+Q917429;Matobo Hills;статус наследия;1;12;from
+Q917429;Matobo Hills;код в энциклопедии «Британника онлайн»;1;1;from
+Q920070;Coast Mountains;площадь;1;1;from
+Q920070;Coast Mountains;код BabelNet;1;1;from
+Q1072536;Chigmit Mountains;административно-территориальная единица;1;2;from
+Q958383;Espinhaço Mountains;код VIAF;1;1;from
+Q958383;Espinhaço Mountains;горный хребет;1;2;to
+Q958383;Espinhaço Mountains;код Freebase;1;1;from
+Q958383;Espinhaço Mountains;географические координаты;1;1;from
+Q958383;Espinhaço Mountains;категория на Викискладе;1;1;from
+Q958383;Espinhaço Mountains;ширина;1;1;from
+Q958383;Espinhaço Mountains;высота над уровнем моря;1;1;from
+Q958383;Espinhaço Mountains;длина;1;1;from
+Q958383;Espinhaço Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q958383;Espinhaço Mountains;это частный случай понятия;1;1;from
+Q958383;Espinhaço Mountains;часть света;1;1;from
+Q958383;Espinhaço Mountains;изображение;1;1;from
+Q920070;Coast Mountains;код в Большой российской энциклопедии онлайн;1;1;from
+Q958383;Espinhaço Mountains;государство;1;1;from
+Q920070;Coast Mountains;общая тема категории;1;1;to
+Q920070;Coast Mountains;исток водотока;1;1;to
+Q920070;Coast Mountains;изображённый объект;1;1;to
+Q920070;Coast Mountains;основная категория по теме;1;1;from
+Q920070;Coast Mountains;код Freebase;1;1;from
+Q920070;Coast Mountains;географические координаты;1;1;from
+Q920070;Coast Mountains;наивысшая точка;1;1;from
+Q920070;Coast Mountains;горный хребет;1;20;to
+Q920070;Coast Mountains;категория на Викискладе;1;1;from
+Q1195285;Nanling Mountains;код Freebase;1;1;from
+Q1256114;Pioneer Heights;часть света;1;1;from
+Q2204331;Sinai mountain range;изображение;1;1;from
+Q1577859;Snowy Mountains;баннер Викигида;1;1;from
+Q1980627;Armorican Massif;это частный случай понятия;1;2;from
+Q1980627;Armorican Massif;код LCNAF;1;1;from
+Q1980627;Armorican Massif;код VIAF;1;1;from
+Q1980627;Armorican Massif;изображение;1;1;from
+Q1980627;Armorican Massif;государство;1;1;from
+Q1980627;Armorican Massif;административно-территориальная единица;1;2;from
+Q1577859;Snowy Mountains;названо в честь;1;1;to
+Q1577859;Snowy Mountains;общая тема категории;1;1;to
+Q1577859;Snowy Mountains;местонахождение;1;2;to
+Q1577859;Snowy Mountains;часть от;1;4;to
+Q1577859;Snowy Mountains;основная категория по теме;1;1;from
+Q1980627;Armorican Massif;код в энциклопедии «Британника онлайн»;1;1;from
+Q1577859;Snowy Mountains;код Freebase;1;1;from
+Q1577859;Snowy Mountains;географические координаты;1;2;from
+Q1577859;Snowy Mountains;наивысшая точка;1;1;from
+Q1577859;Snowy Mountains;горный хребет;1;34;to
+Q1577859;Snowy Mountains;Australian Statistical Geography 2011 ID;1;1;from
+Q1577859;Snowy Mountains;категория на Викискладе;1;1;from
+Q1577859;Snowy Mountains;код темы Quora;1;1;from
+Q1577859;Snowy Mountains;код BabelNet;1;1;from
+Q1577859;Snowy Mountains;высота над уровнем моря;1;1;from
+Q1577859;Snowy Mountains;код GeoNames;1;1;from
+Q1980627;Armorican Massif;код в Большой каталанской энциклопедии;1;1;from
+Q1980627;Armorican Massif;код GeoNames;1;1;from
+Q1577859;Snowy Mountains;это частный случай понятия;1;1;from
+Q1980627;Armorican Massif;горный хребет;1;25;to
+Q2204331;Sinai mountain range;государство;1;1;from
+Q2118899;Purog Kangri;географические координаты;1;1;from
+Q2118899;Purog Kangri;код Peakbagger;1;1;from
+Q2118899;Purog Kangri;высота над уровнем моря;1;1;from
+Q2118899;Purog Kangri;код GeoNames;1;1;from
+Q2118899;Purog Kangri;это частный случай понятия;1;1;from
+Q2118899;Purog Kangri;государство;1;1;from
+Q1980627;Armorican Massif;состоит из;1;1;to
+Q1980627;Armorican Massif;категория объединяет темы;1;1;to
+Q1980627;Armorican Massif;общая тема категории;1;1;to
+Q1980627;Armorican Massif;основная категория по теме;1;1;from
+Q1980627;Armorican Massif;высота над уровнем моря;1;1;from
+Q1980627;Armorican Massif;French Vikidia ID;1;1;from
+Q1980627;Armorican Massif;код Freebase;1;1;from
+Q1980627;Armorican Massif;географические координаты;1;2;from
+Q1980627;Armorican Massif;наивысшая точка;1;1;from
+Q1980627;Armorican Massif;код в Ларуссе;1;1;from
+Q1980627;Armorican Massif;код тезауруса PACTOLS;1;1;from
+Q1980627;Armorican Massif;часть от;1;1;from
+Q1980627;Armorican Massif;эра;1;1;from
+Q1980627;Armorican Massif;код GNS;1;1;from
+Q1980627;Armorican Massif;площадь;1;1;from
+Q1577859;Snowy Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q1577859;Snowy Mountains;код LCNAF;1;1;from
+Q1256114;Pioneer Heights;это частный случай понятия;1;1;from
+Q1441442;Jebel Uweinat;государство;1;3;from
+Q1441442;Jebel Uweinat;горный хребет;1;1;to
+Q1441442;Jebel Uweinat;категория на Викискладе;1;1;from
+Q1441442;Jebel Uweinat;код Peakware;1;1;from
+Q1441442;Jebel Uweinat;код BabelNet;1;1;from
+Q1441442;Jebel Uweinat;высота над уровнем моря;1;1;from
+Q1441442;Jebel Uweinat;код GeoNames;1;1;from
+Q1441442;Jebel Uweinat;это частный случай понятия;1;2;from
+Q1441442;Jebel Uweinat;код VIAF;1;1;from
+Q1441442;Jebel Uweinat;сделано из;1;1;from
+Q1441442;Jebel Uweinat;изображение;1;1;from
+Q1272442;Limestone Alps;общая тема категории;1;1;to
+Q1441442;Jebel Uweinat;код Freebase;1;1;from
+Q1272442;Limestone Alps;основная категория по теме;1;1;from
+Q1272442;Limestone Alps;код Freebase;1;1;from
+Q1272442;Limestone Alps;это частный случай понятия;1;1;from
+Q1272442;Limestone Alps;код GND;1;1;from
+Q1272442;Limestone Alps;код VIAF;1;1;from
+Q1256114;Pioneer Heights;антарктический код GNIS;1;1;from
+Q1256114;Pioneer Heights;географические координаты;1;1;from
+Q1256114;Pioneer Heights;горный хребет;1;4;to
+Q1256114;Pioneer Heights;SCAR Composite Gazetteer place ID;1;1;from
+Q1256114;Pioneer Heights;код GeoNames;1;1;from
+Q1441442;Jebel Uweinat;географические координаты;1;1;from
+Q1441442;Jebel Uweinat;состоит из;1;1;to
+Q1577859;Snowy Mountains;код VIAF;1;1;from
+Q1514701;Kenai Mountains;категория на Викискладе;1;1;from
+Q1577859;Snowy Mountains;изображение;1;2;from
+Q1577859;Snowy Mountains;государство;1;1;from
+Q1577859;Snowy Mountains;административно-территориальная единица;1;1;from
+Q1514701;Kenai Mountains;общая тема категории;1;1;to
+Q1514701;Kenai Mountains;основная категория по теме;1;1;from
+Q1514701;Kenai Mountains;код Freebase;1;1;from
+Q1514701;Kenai Mountains;географические координаты;1;1;from
+Q1514701;Kenai Mountains;наивысшая точка;1;1;from
+Q1514701;Kenai Mountains;код GNIS;1;1;from
+Q1514701;Kenai Mountains;горный хребет;1;9;to
+Q1514701;Kenai Mountains;Peakbagger area ID;1;1;from
+Q1514701;Kenai Mountains;административно-территориальная единица;1;1;from
+Q1514701;Kenai Mountains;код BabelNet;1;1;from
+Q1514701;Kenai Mountains;ширина;1;1;from
+Q1514701;Kenai Mountains;высота над уровнем моря;1;1;from
+Q1514701;Kenai Mountains;длина;1;1;from
+Q1514701;Kenai Mountains;код TGN;1;1;from
+Q1514701;Kenai Mountains;код GeoNames;1;1;from
+Q1514701;Kenai Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q1514701;Kenai Mountains;это частный случай понятия;1;2;from
+Q1514701;Kenai Mountains;изображение;1;1;from
+Q1514701;Kenai Mountains;государство;1;1;from
+Q4999597;Burnaby Range;географические координаты;1;1;from
+Q4999944;Burniston Range;государство;1;1;from
+Q917429;Matobo Hills;код VIAF;1;1;from
+Q4999944;Burniston Range;это частный случай понятия;1;1;from
+Q16163461;Q16163461;государство;1;1;from
+Q15950675;Mengshan Mountains;географические координаты;1;1;from
+Q15950675;Mengshan Mountains;это частный случай понятия;1;1;from
+Q15950675;Mengshan Mountains;государство;1;1;from
+Q15901376;Q15901376;это частный случай понятия;1;1;from
+Q15901376;Q15901376;государство;1;1;from
+Q15898954;Q15898954;Who's on First ID;1;1;from
+Q15898954;Q15898954;географические координаты;1;1;from
+Q15898954;Q15898954;код GeoNames;1;1;from
+Q15898954;Q15898954;это частный случай понятия;1;1;from
+Q15898954;Q15898954;государство;1;1;from
+Q15894765;Q15894765;это частный случай понятия;1;1;from
+Q15894765;Q15894765;государство;1;1;from
+Q15894619;Mengzhu Mountains;горный хребет;1;1;to
+Q15894619;Mengzhu Mountains;это частный случай понятия;1;1;from
+Q15894619;Mengzhu Mountains;государство;1;1;from
+Q15894398;Q15894398;это частный случай понятия;1;1;from
+Q15894398;Q15894398;государство;1;1;from
+Q14875809;Blackwelder Mountains;географические координаты;1;1;from
+Q14875809;Blackwelder Mountains;горный хребет;1;1;from
+Q14875809;Blackwelder Mountains;код GeoNames;1;1;from
+Q14875809;Blackwelder Mountains;это частный случай понятия;1;1;from
+Q14875809;Blackwelder Mountains;государство;1;1;from
+Q16163461;Q16163461;это частный случай понятия;1;1;from
+Q16163461;Q16163461;основная категория по теме;1;1;from
+Q16163461;Q16163461;общая тема категории;1;1;to
+Q17164193;Yingé Ling;высота над уровнем моря;1;1;from
+Q18630638;Schwyz Alps;изображение;1;1;from
+Q18630638;Schwyz Alps;государство;1;1;from
+Q18088753;Q18088753;это частный случай понятия;1;1;from
+Q17498516;Q17498516;это частный случай понятия;1;1;from
+Q17498516;Q17498516;государство;1;1;from
+Q17266521;Sierra de las Cabras;горный хребет;1;1;to
+Q17266521;Sierra de las Cabras;это частный случай понятия;1;2;from
+Q17266521;Sierra de las Cabras;государство;1;1;from
+Q17266521;Sierra de las Cabras;административно-территориальная единица;1;1;from
+Q17164193;Yingé Ling;географические координаты;1;1;from
+Q17164193;Yingé Ling;код GeoNames;1;1;from
+Q16847510;Broughton Peaks;административно-территориальная единица;1;1;from
+Q17164193;Yingé Ling;это частный случай понятия;1;2;from
+Q17164193;Yingé Ling;государство;1;1;from
+Q16926222;Q16926222;это частный случай понятия;1;1;from
+Q16926222;Q16926222;изображение;1;1;from
+Q16926222;Q16926222;государство;1;1;from
+Q16926222;Q16926222;административно-территориальная единица;1;1;from
+Q16847510;Broughton Peaks;географические координаты;1;1;from
+Q16847510;Broughton Peaks;код GeoNames;1;1;from
+Q16847510;Broughton Peaks;это частный случай понятия;1;1;from
+Q16847510;Broughton Peaks;государство;1;1;from
+Q14875809;Blackwelder Mountains;административно-территориальная единица;1;1;from
+Q13408442;Jizhen Mountain;географические координаты;1;1;from
+Q13408442;Jizhen Mountain;высота над уровнем моря;1;1;from
+Q10957905;Q10957905;государство;1;1;from
+Q11114261;Q11114261;географические координаты;1;1;from
+Q11114261;Q11114261;это частный случай понятия;1;1;from
+Q11114261;Q11114261;государство;1;1;from
+Q11112706;Q11112706;это частный случай понятия;1;1;from
+Q11112706;Q11112706;государство;1;1;from
+Q11087950;Q11087950;это частный случай понятия;1;1;from
+Q11087950;Q11087950;государство;1;1;from
+Q11076827;Q11076827;это частный случай понятия;1;1;from
+Q11076827;Q11076827;государство;1;1;from
+Q10957905;Q10957905;это частный случай понятия;1;1;from
+Q10938707;Q10938707;географические координаты;1;1;from
+Q11149375;Q11149375;это частный случай понятия;1;1;from
+Q10938707;Q10938707;это частный случай понятия;1;1;from
+Q10938707;Q10938707;государство;1;1;from
+Q10934783;Q10934783;географические координаты;1;1;from
+Q10934783;Q10934783;это частный случай понятия;1;1;from
+Q10934783;Q10934783;государство;1;1;from
+Q10933802;Q10933802;это частный случай понятия;1;1;from
+Q10933802;Q10933802;государство;1;1;from
+Q10925571;Q10925571;это частный случай понятия;1;1;from
+Q10925571;Q10925571;государство;1;1;from
+Q10917213;Q10917213;это частный случай понятия;1;1;from
+Q11149375;Q11149375;государство;1;1;from
+Q11181165;Q11181165;государство;1;1;from
+Q13408442;Jizhen Mountain;это частный случай понятия;1;1;from
+Q12277118;Golešnica;географические координаты;1;1;from
+Q13408442;Jizhen Mountain;изображение;1;1;from
+Q13408442;Jizhen Mountain;государство;1;1;from
+Q13375066;Tiantang Peak;географические координаты;1;1;from
+Q13375066;Tiantang Peak;высота над уровнем моря;1;1;from
+Q13375066;Tiantang Peak;это частный случай понятия;1;1;from
+Q13375066;Tiantang Peak;изображение;1;1;from
+Q13375066;Tiantang Peak;государство;1;1;from
+Q12277118;Golešnica;общая тема категории;1;1;to
+Q12277118;Golešnica;исток водотока;1;2;to
+Q12277118;Golešnica;основная категория по теме;1;1;from
+Q12277118;Golešnica;категория на Викискладе;1;1;from
+Q11181165;Q11181165;это частный случай понятия;1;1;from
+Q12277118;Golešnica;высота над уровнем моря;1;1;from
+Q12277118;Golešnica;это частный случай понятия;1;2;from
+Q12277118;Golešnica;изображение;1;1;from
+Q12277118;Golešnica;государство;1;1;from
+Q11751363;Kuruktag;географические координаты;1;1;from
+Q11751363;Kuruktag;горный хребет;1;1;from
+Q11751363;Kuruktag;высота над уровнем моря;1;1;from
+Q11751363;Kuruktag;код GeoNames;1;1;from
+Q11751363;Kuruktag;это частный случай понятия;1;1;from
+Q11751363;Kuruktag;государство;1;1;from
+Q18630638;Schwyz Alps;код VIAF;1;1;from
+Q18630638;Schwyz Alps;это частный случай понятия;1;1;from
+Q18630638;Schwyz Alps;высота над уровнем моря;1;1;from
+Q21901500;Rocky Mountains;высота над уровнем моря;1;1;from
+Q22594224;Hanegretji;относительная высота;1;1;from
+Q22594224;Hanegretji;топографическая изоляция;1;1;from
+Q22594224;Hanegretji;высота над уровнем моря;1;1;from
+Q22594224;Hanegretji;код GeoNames;1;1;from
+Q22594224;Hanegretji;это частный случай понятия;1;2;from
+Q22594224;Hanegretji;изображение;1;1;from
+Q22594224;Hanegretji;государство;1;1;from
+Q22594224;Hanegretji;административно-территориальная единица;1;1;from
+Q21901500;Rocky Mountains;географические координаты;1;1;from
+Q21901500;Rocky Mountains;код GNS;1;1;from
+Q21901500;Rocky Mountains;код GeoNames;1;1;from
+Q22594224;Hanegretji;панорамный вид;1;1;from
+Q21901500;Rocky Mountains;это частный случай понятия;1;1;from
+Q21901500;Rocky Mountains;государство;1;1;from
+Q21901500;Rocky Mountains;административно-территориальная единица;1;1;from
+Q20898307;Topo La Laguna;географические координаты;1;1;from
+Q20898307;Topo La Laguna;это частный случай понятия;1;2;from
+Q20898307;Topo La Laguna;часть света;1;1;from
+Q20898307;Topo La Laguna;государство;1;1;from
+Q20898307;Topo La Laguna;административно-территориальная единица;1;1;from
+Q20536520;Zirabulak mountains;местонахождение;1;1;to
+Q20536520;Zirabulak mountains;высота над уровнем моря;1;1;from
+Q22594224;Hanegretji;категория на Викискладе;1;1;from
+Q22594224;Hanegretji;горный хребет;1;1;from
+Q20536520;Zirabulak mountains;государство;1;1;from
+Q28408636;Q28408636;географические координаты;1;1;from
+Q64848883;Предальпы;код в Большой российской энциклопедии онлайн;1;1;from
+Q64848883;Предальпы;это частный случай понятия;1;2;from
+Q47472190;Brownsberg Mountains;названо в честь;1;1;to
+Q47472190;Brownsberg Mountains;географические координаты;1;1;from
+Q47472190;Brownsberg Mountains;горный хребет;1;1;to
+Q47472190;Brownsberg Mountains;находится в охранной зоне;1;1;from
+Q47472190;Brownsberg Mountains;высота над уровнем моря;1;1;from
+Q47472190;Brownsberg Mountains;это частный случай понятия;1;1;from
+Q47472190;Brownsberg Mountains;государство;1;1;from
+Q47472190;Brownsberg Mountains;административно-территориальная единица;1;1;from
+Q28408636;Q28408636;это частный случай понятия;1;1;from
+Q22594224;Hanegretji;географические координаты;1;1;from
+Q28408636;Q28408636;государство;1;1;from
+Q24818699;Prinsesse Elisabeth Alper;географические координаты;1;2;from
+Q24818699;Prinsesse Elisabeth Alper;часть от;1;1;from
+Q24818699;Prinsesse Elisabeth Alper;находится в охранной зоне;1;1;from
+Q24818699;Prinsesse Elisabeth Alper;код GNS;1;1;from
+Q24818699;Prinsesse Elisabeth Alper;код GeoNames;1;1;from
+Q24818699;Prinsesse Elisabeth Alper;это частный случай понятия;1;2;from
+Q24818699;Prinsesse Elisabeth Alper;государство;1;1;from
+Q24818699;Prinsesse Elisabeth Alper;названо в честь;1;1;from
+Q24818699;Prinsesse Elisabeth Alper;административно-территориальная единица;1;1;from
+Q20536520;Zirabulak mountains;это частный случай понятия;1;1;from
+Q20019224;Nassau Mountains;названо в честь;1;1;to
+Q18630638;Schwyz Alps;категория на Викискладе;1;1;from
+Q19385688;Prinsesse Caroline-Mathilde Alper;административно-территориальная единица;1;1;from
+Q19600141;Amatusuk Hills;это частный случай понятия;1;2;from
+Q19600141;Amatusuk Hills;государство;1;1;from
+Q19600141;Amatusuk Hills;административно-территориальная единица;1;1;from
+Q19385688;Prinsesse Caroline-Mathilde Alper;географические координаты;1;2;from
+Q19385688;Prinsesse Caroline-Mathilde Alper;часть от;1;1;from
+Q19385688;Prinsesse Caroline-Mathilde Alper;находится в охранной зоне;1;1;from
+Q19385688;Prinsesse Caroline-Mathilde Alper;код GNS;1;1;from
+Q19385688;Prinsesse Caroline-Mathilde Alper;код GeoNames;1;1;from
+Q19385688;Prinsesse Caroline-Mathilde Alper;это частный случай понятия;1;2;from
+Q19385688;Prinsesse Caroline-Mathilde Alper;государство;1;1;from
+Q18654288;Haiyang Mountains;это частный случай понятия;1;1;from
+Q19600141;Amatusuk Hills;код GNIS;1;1;from
+Q18654288;Haiyang Mountains;государство;1;1;from
+Q18652371;Q18652371;это частный случай понятия;1;1;from
+Q18652371;Q18652371;государство;1;1;from
+Q18630638;Schwyz Alps;находится в пределах природно-географического объекта;1;3;to
+Q18630638;Schwyz Alps;общая тема категории;1;1;to
+Q18630638;Schwyz Alps;часть от;1;4;to
+Q18630638;Schwyz Alps;основная категория по теме;1;1;from
+Q18630638;Schwyz Alps;географические координаты;1;1;from
+Q18630638;Schwyz Alps;наивысшая точка;1;1;from
+Q18630638;Schwyz Alps;горный хребет;1;45;to
+Q19600141;Amatusuk Hills;код GeoNames;1;1;from
+Q19600141;Amatusuk Hills;географические координаты;1;2;from
+Q20019224;Nassau Mountains;географические координаты;1;2;from
+Q20019202;Lely range;высота над уровнем моря;1;2;from
+Q20019224;Nassau Mountains;горный хребет;1;1;from
+Q20019224;Nassau Mountains;код GNS;1;1;from
+Q20019224;Nassau Mountains;высота над уровнем моря;1;2;from
+Q20019224;Nassau Mountains;код GeoNames;1;1;from
+Q20019224;Nassau Mountains;это частный случай понятия;1;2;from
+Q20019224;Nassau Mountains;государство;1;1;from
+Q20019224;Nassau Mountains;административно-территориальная единица;1;1;from
+Q20019202;Lely range;географические координаты;1;2;from
+Q20019202;Lely range;горный хребет;1;1;from
+Q20019202;Lely range;код GNS;1;1;from
+Q20019202;Lely range;код GeoNames;1;1;from
+Q19829545;Ida;административно-территориальная единица;1;1;from
+Q20019202;Lely range;это частный случай понятия;1;2;from
+Q20019202;Lely range;государство;1;1;from
+Q20019202;Lely range;административно-территориальная единица;1;1;to
+Q19947234;Sierra Caral;это частный случай понятия;1;1;from
+Q19947234;Sierra Caral;государство;1;1;from
+Q19829545;Ida;географические координаты;1;1;from
+Q19829545;Ida;не путать с;1;1;to
+Q19829545;Ida;это частный случай понятия;1;1;from
+Q19829545;Ida;изображение;1;1;from
+Q19829545;Ida;государство;1;1;from
+Q10917213;Q10917213;государство;1;1;from
+Q10896104;Q10896104;это частный случай понятия;1;1;from
+Q10896104;Q10896104;государство;1;1;from
+Q5533090;Genevieve Range;горный хребет;1;1;from
+Q5642225;Halifax Range;государство;1;1;from
+Q5642225;Halifax Range;административно-территориальная единица;1;1;from
+Q5639115;Haihte Range;географические координаты;1;1;from
+Q5639115;Haihte Range;горный хребет;1;1;to
+Q5639115;Haihte Range;площадь;1;1;from
+Q5639115;Haihte Range;код GeoNames;1;1;from
+Q5639115;Haihte Range;это частный случай понятия;1;1;from
+Q5639115;Haihte Range;государство;1;1;from
+Q5639115;Haihte Range;административно-территориальная единица;1;1;from
+Q5533090;Genevieve Range;географические координаты;1;1;from
+Q5533090;Genevieve Range;код топонима в Канаде;1;1;from
+Q5642225;Halifax Range;код GeoNames;1;1;from
+Q5533090;Genevieve Range;площадь;1;1;from
+Q5533090;Genevieve Range;код GeoNames;1;1;from
+Q5533090;Genevieve Range;это частный случай понятия;1;1;from
+Q5533090;Genevieve Range;государство;1;1;from
+Q5533090;Genevieve Range;административно-территориальная единица;1;1;from
+Q5526693;Gastineau Range;географические координаты;1;1;from
+Q5526693;Gastineau Range;горный хребет;1;1;from
+Q5526693;Gastineau Range;код топонима в Канаде;1;1;from
+Q5526693;Gastineau Range;код GeoNames;1;1;from
+Q5526693;Gastineau Range;это частный случай понятия;1;1;from
+Q5642225;Halifax Range;это частный случай понятия;1;1;from
+Q5642225;Halifax Range;площадь;1;1;from
+Q5526693;Gastineau Range;административно-территориальная единица;1;1;from
+Q6032207;Ingenika Range;государство;1;1;from
+Q6832845;Dayu Mountains;государство;1;1;from
+Q6832590;Q6832590;это частный случай понятия;1;1;from
+Q6832590;Q6832590;государство;1;1;from
+Q6032207;Ingenika Range;географические координаты;1;1;from
+Q6032207;Ingenika Range;горный хребет;1;1;from
+Q6032207;Ingenika Range;код топонима в Канаде;1;1;from
+Q6032207;Ingenika Range;площадь;1;1;from
+Q6032207;Ingenika Range;высота над уровнем моря;1;1;from
+Q6032207;Ingenika Range;код GeoNames;1;1;from
+Q6032207;Ingenika Range;это частный случай понятия;1;1;from
+Q6032207;Ingenika Range;административно-территориальная единица;1;1;from
+Q5642225;Halifax Range;горный хребет;1;1;from
+Q5922596;Howson Range;горный хребет;1;1;to
+Q5922596;Howson Range;географические координаты;1;1;from
+Q5922596;Howson Range;код топонима в Канаде;1;1;from
+Q5922596;Howson Range;высота над уровнем моря;1;1;from
+Q5922596;Howson Range;код GeoNames;1;1;from
+Q5922596;Howson Range;это частный случай понятия;1;1;from
+Q5922596;Howson Range;изображение;1;1;from
+Q5922596;Howson Range;государство;1;1;from
+Q5922596;Howson Range;административно-территориальная единица;1;1;from
+Q5642225;Halifax Range;географические координаты;1;1;from
+Q5526693;Gastineau Range;государство;1;1;from
+Q5450547;Finlay Ranges;географические координаты;1;1;from
+Q6832845;Dayu Mountains;географические координаты;1;1;from
+Q5002638;Butler Range;код топонима в Канаде;1;1;from
+Q5161754;Connelly Range;это частный случай понятия;1;1;from
+Q5161754;Connelly Range;государство;1;1;from
+Q5161754;Connelly Range;административно-территориальная единица;1;1;from
+Q5016644;Cadwallader Range;географические координаты;1;1;from
+Q5016644;Cadwallader Range;код GeoNames;1;1;from
+Q5016644;Cadwallader Range;это частный случай понятия;1;1;from
+Q5016644;Cadwallader Range;государство;1;1;from
+Q5016644;Cadwallader Range;административно-территориальная единица;1;1;from
+Q5002638;Butler Range;географические координаты;1;1;from
+Q5002638;Butler Range;горный хребет;1;1;from
+Q5002638;Butler Range;площадь;1;1;from
+Q5161754;Connelly Range;высота над уровнем моря;1;1;from
+Q5002638;Butler Range;не путать с;1;1;to
+Q5002638;Butler Range;код GeoNames;1;1;from
+Q5002638;Butler Range;это частный случай понятия;1;1;from
+Q5002638;Butler Range;государство;1;1;from
+Q5002638;Butler Range;административно-территориальная единица;1;1;from
+Q4999944;Burniston Range;географические координаты;1;1;from
+Q4999944;Burniston Range;горный хребет;1;1;from
+Q4999944;Burniston Range;код топонима в Канаде;1;1;from
+Q4999944;Burniston Range;высота над уровнем моря;1;1;from
+Q4999944;Burniston Range;код GeoNames;1;1;from
+Q5161754;Connelly Range;код GeoNames;1;1;from
+Q5161754;Connelly Range;площадь;1;1;from
+Q5450547;Finlay Ranges;горный хребет;1;2;to
+Q5346121;Edwards Range;государство;1;1;from
+Q5450547;Finlay Ranges;код топонима в Канаде;1;1;from
+Q5450547;Finlay Ranges;код GeoNames;1;1;from
+Q5450547;Finlay Ranges;это частный случай понятия;1;1;from
+Q5450547;Finlay Ranges;государство;1;1;from
+Q5450547;Finlay Ranges;административно-территориальная единица;1;1;from
+Q5346121;Edwards Range;географические координаты;1;1;from
+Q5346121;Edwards Range;горный хребет;1;1;from
+Q5346121;Edwards Range;код топонима в Канаде;1;1;from
+Q5346121;Edwards Range;код GeoNames;1;1;from
+Q5346121;Edwards Range;это частный случай понятия;1;1;from
+Q5346121;Edwards Range;административно-территориальная единица;1;1;from
+Q5161754;Connelly Range;код топонима в Канаде;1;1;from
+Q5177085;Countess of Dufferin Range;горный хребет;1;1;to
+Q5177085;Countess of Dufferin Range;географические координаты;1;1;from
+Q5177085;Countess of Dufferin Range;код топонима в Канаде;1;1;from
+Q5177085;Countess of Dufferin Range;площадь;1;1;from
+Q5177085;Countess of Dufferin Range;код GeoNames;1;1;from
+Q5177085;Countess of Dufferin Range;это частный случай понятия;1;1;from
+Q5177085;Countess of Dufferin Range;государство;1;1;from
+Q5177085;Countess of Dufferin Range;административно-территориальная единица;1;1;from
+Q5161754;Connelly Range;горный хребет;1;1;to
+Q5161754;Connelly Range;географические координаты;1;1;from
+Q6832845;Dayu Mountains;это частный случай понятия;1;1;from
+Q6835495;Q6835495;государство;1;1;from
+Q10885137;Q10885137;категория на Викискладе;1;1;from
+Q8044311;Xiaoxiangling;географические координаты;1;2;from
+Q10508461;Q10508461;государство;1;1;from
+Q10396703;Q10396703;это частный случай понятия;1;1;from
+Q10396703;Q10396703;государство;1;1;from
+Q9378825;Q9378825;это частный случай понятия;1;1;from
+Q9378825;Q9378825;государство;1;1;from
+Q8060838;Yukon Ranges;часть от;1;1;to
+Q8060838;Yukon Ranges;горный хребет;1;4;to
+Q8060838;Yukon Ranges;это частный случай понятия;1;1;from
+Q8060838;Yukon Ranges;государство;1;1;from
+Q8060838;Yukon Ranges;административно-территориальная единица;1;2;from
+Q8044311;Xiaoxiangling;высота над уровнем моря;1;1;from
+Q10510439;Q10510439;государство;1;1;from
+Q8044311;Xiaoxiangling;это частный случай понятия;1;2;from
+Q8044311;Xiaoxiangling;государство;1;1;from
+Q7988085;Western Mountains;географические координаты;1;1;from
+Q7988085;Western Mountains;категория на Викискладе;1;1;from
+Q7988085;Western Mountains;высота над уровнем моря;1;1;from
+Q7988085;Western Mountains;это частный случай понятия;1;2;from
+Q7988085;Western Mountains;изображение;1;1;from
+Q7988085;Western Mountains;государство;1;1;from
+Q7988085;Western Mountains;административно-территориальная единица;1;1;from
+Q7878579;Tmolus;основная тема;1;2;to
+Q10508461;Q10508461;это частный случай понятия;1;1;from
+Q10510439;Q10510439;это частный случай понятия;1;1;from
+Q7878579;Tmolus;код Freebase;1;1;from
+Q10881223;Q10881223;код GeoNames;1;1;from
+Q10885137;Q10885137;это частный случай понятия;1;1;from
+Q10885137;Q10885137;государство;1;1;from
+Q10881907;Q10881907;общая тема категории;1;1;to
+Q10881907;Q10881907;основная категория по теме;1;1;from
+Q10881907;Q10881907;Who's on First ID;1;1;from
+Q10881907;Q10881907;географические координаты;1;1;from
+Q10881907;Q10881907;код GeoNames;1;1;from
+Q10881907;Q10881907;это частный случай понятия;1;1;from
+Q10881907;Q10881907;государство;1;1;from
+Q10881223;Q10881223;географические координаты;1;1;from
+Q10881223;Q10881223;это частный случай понятия;1;1;from
+Q10782299;Bloods Range;административно-территориальная единица;1;1;from
+Q10881223;Q10881223;код LCNAF;1;1;from
+Q10881223;Q10881223;код VIAF;1;1;from
+Q10881223;Q10881223;государство;1;1;from
+Q10879023;Jiulianshan;это частный случай понятия;1;1;from
+Q10879023;Jiulianshan;государство;1;1;from
+Q10782299;Bloods Range;географические координаты;1;1;from
+Q10782299;Bloods Range;высота над уровнем моря;1;1;from
+Q10782299;Bloods Range;код GeoNames;1;1;from
+Q10782299;Bloods Range;это частный случай понятия;1;1;from
+Q10782299;Bloods Range;государство;1;1;from
+Q7878579;Tmolus;область святого или божества;1;1;to
+Q7878579;Tmolus;географические координаты;1;2;from
+Q6835495;Q6835495;это частный случай понятия;1;1;from
+Q7106798;Osilinka Ranges;государство;1;1;from
+Q7653625;Swannell Ranges;это частный случай понятия;1;1;from
+Q7653625;Swannell Ranges;государство;1;1;from
+Q7653625;Swannell Ranges;административно-территориальная единица;1;1;from
+Q7106798;Osilinka Ranges;географические координаты;1;1;from
+Q7106798;Osilinka Ranges;горный хребет;1;1;from
+Q7106798;Osilinka Ranges;код топонима в Канаде;1;1;from
+Q7106798;Osilinka Ranges;площадь;1;1;from
+Q7106798;Osilinka Ranges;высота над уровнем моря;1;1;from
+Q7106798;Osilinka Ranges;код GeoNames;1;1;from
+Q7106798;Osilinka Ranges;это частный случай понятия;1;1;from
+Q7106798;Osilinka Ranges;административно-территориальная единица;1;1;from
+Q7653625;Swannell Ranges;высота над уровнем моря;1;1;from
+Q7037714;Nimmel Range;горный хребет;1;1;to
+Q7037714;Nimmel Range;географические координаты;1;1;from
+Q7037714;Nimmel Range;высота над уровнем моря;1;1;from
+Q7037714;Nimmel Range;код GeoNames;1;1;from
+Q7037714;Nimmel Range;это частный случай понятия;1;1;from
+Q7037714;Nimmel Range;государство;1;1;from
+Q7037714;Nimmel Range;административно-территориальная единица;1;1;from
+Q6851340;Q6851340;это частный случай понятия;1;1;from
+Q6851340;Q6851340;государство;1;1;from
+Q6835495;Q6835495;географические координаты;1;1;from
+Q7653625;Swannell Ranges;код GeoNames;1;1;from
+Q7653625;Swannell Ranges;площадь;1;1;from
+Q7878579;Tmolus;категория на Викискладе;1;1;from
+Q7675677;Tahtsa Ranges;горный хребет;1;5;to
+Q7878579;Tmolus;код GNS;1;1;from
+Q7878579;Tmolus;высота над уровнем моря;1;2;from
+Q7878579;Tmolus;код Pleiades;1;1;from
+Q7878579;Tmolus;код GeoNames;1;1;from
+Q7878579;Tmolus;описывается в источниках;1;2;from
+Q7878579;Tmolus;это частный случай понятия;1;3;from
+Q7878579;Tmolus;изображение;1;1;from
+Q7878579;Tmolus;государство;1;1;from
+Q7878579;Tmolus;административно-территориальная единица;1;2;from
+Q7675677;Tahtsa Ranges;географические координаты;1;1;from
+Q7675677;Tahtsa Ranges;код топонима в Канаде;1;1;from
+Q7653625;Swannell Ranges;код топонима в Канаде;1;1;from
+Q7675677;Tahtsa Ranges;площадь;1;1;from
+Q7675677;Tahtsa Ranges;высота над уровнем моря;1;1;from
+Q7675677;Tahtsa Ranges;код GeoNames;1;1;from
+Q7675677;Tahtsa Ranges;это частный случай понятия;1;1;from
+Q7675677;Tahtsa Ranges;государство;1;1;from
+Q7675677;Tahtsa Ranges;административно-территориальная единица;1;1;from
+Q7653625;Swannell Ranges;общая тема категории;1;1;to
+Q7653625;Swannell Ranges;основная категория по теме;1;1;from
+Q7653625;Swannell Ranges;географические координаты;1;1;from
+Q7653625;Swannell Ranges;горный хребет;1;14;to
+Q917429;Matobo Hills;это частный случай понятия;1;2;from
+Q917429;Matobo Hills;сделано из;1;1;from
+Q1262;Graian Alps;государство;1;2;from
+Q178611;Jura Mountains;часть от;1;6;to
+Q5955;Altai Mountains;исток водотока;1;5;to
+Q5955;Altai Mountains;горный хребет;1;57;to
+Q5955;Altai Mountains;названо в честь;1;4;to
+Q5955;Altai Mountains;код NLI;1;1;from
+Q5955;Altai Mountains;баннер Викигида;1;1;from
+Q5955;Altai Mountains;галерея на Викискладе;1;1;from
+Q5955;Altai Mountains;основная категория по теме;1;1;from
+Q5955;Altai Mountains;находится в пределах природно-географического объекта;1;2;to
+Q5955;Altai Mountains;код Freebase;1;1;from
+Q5955;Altai Mountains;географические координаты;1;1;from
+Q5955;Altai Mountains;наивысшая точка;1;1;from
+Q5955;Altai Mountains;код для сущности Wolfram Language;1;1;from
+Q5955;Altai Mountains;категория на Викискладе;1;1;from
+Q5955;Altai Mountains;код в Большой российской энциклопедии онлайн;1;1;from
+Q5955;Altai Mountains;код BabelNet;1;1;from
+Q5955;Altai Mountains;эра;1;1;from
+Q5955;Altai Mountains;код YSO;1;1;from
+Q5955;Altai Mountains;ширина;1;1;from
+Q5955;Altai Mountains;высота над уровнем моря;1;1;from
+Q5955;Altai Mountains;длина;1;1;from
+Q5955;Altai Mountains;код GeoNames;1;1;from
+Q5955;Altai Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q5955;Altai Mountains;описывается в источниках;1;5;from
+Q5955;Altai Mountains;место смерти;1;3;to
+Q5955;Altai Mountains;работодатель;1;1;to
+Q5955;Altai Mountains;место рождения;1;3;to
+Q8439;Monts du Lyonnais;это частный случай понятия;1;1;from
+Q25220;Swiss Alps;государство;1;1;from
+Q8439;Monts du Lyonnais;официальный сайт;1;1;from
+Q8439;Monts du Lyonnais;географические координаты;1;1;from
+Q8439;Monts du Lyonnais;наивысшая точка;1;1;from
+Q8439;Monts du Lyonnais;горный хребет;1;7;to
+Q8439;Monts du Lyonnais;категория на Викискладе;1;1;from
+Q8439;Monts du Lyonnais;код BNF;1;1;from
+Q8439;Monts du Lyonnais;код BabelNet;1;1;from
+Q8439;Monts du Lyonnais;высота над уровнем моря;1;1;from
+Q8439;Monts du Lyonnais;код GeoNames;1;1;from
+Q8439;Monts du Lyonnais;код VIAF;1;1;from
+Q5955;Altai Mountains;основная тема;1;6;to
+Q8439;Monts du Lyonnais;сделано из;1;1;from
+Q8439;Monts du Lyonnais;изображение;1;1;from
+Q8439;Monts du Lyonnais;государство;1;1;from
+Q8439;Monts du Lyonnais;административно-территориальная единица;1;1;from
+Q5955;Altai Mountains;общая тема категории;1;1;to
+Q5955;Altai Mountains;место посадки;1;1;to
+Q5955;Altai Mountains;происходит из;1;1;to
+Q5955;Altai Mountains;место активности;1;1;to
+Q5955;Altai Mountains;страна происхождения;1;1;to
+Q5955;Altai Mountains;часть от;1;6;to
+Q5955;Altai Mountains;код в Большой каталанской энциклопедии;1;1;from
+Q5955;Altai Mountains;это частный случай понятия;1;1;from
+Q5955;Altai Mountains;код GND;1;1;from
+Q5463;Rocky Mountains;код STW Thesaurus for Economics;1;1;from
+Q5463;Rocky Mountains;код статьи Klexikon;1;1;from
+Q5463;Rocky Mountains;код Freebase;1;1;from
+Q5463;Rocky Mountains;идентификатор Dizionario di Storia;1;1;from
+Q5463;Rocky Mountains;географические координаты;1;1;from
+Q5463;Rocky Mountains;наивысшая точка;1;1;from
+Q5463;Rocky Mountains;код Comic Vine;1;1;from
+Q5463;Rocky Mountains;код GNIS;1;1;from
+Q5463;Rocky Mountains;идентификатор статьи в Канадской энциклопедии;1;1;from
+Q5463;Rocky Mountains;рабочий список проекта Викимедиа;1;1;from
+Q5463;Rocky Mountains;горный хребет;1;140;to
+Q5463;Rocky Mountains;категория на Викискладе;1;1;from
+Q5463;Rocky Mountains;French Vikidia ID;1;1;from
+Q5463;Rocky Mountains;Peakbagger area ID;1;1;from
+Q5463;Rocky Mountains;часть от;1;7;to
+Q5463;Rocky Mountains;код NDL;1;1;from
+Q5463;Rocky Mountains;код темы Quora;1;1;from
+Q5463;Rocky Mountains;код в Encyclopædia Universalis;1;1;from
+Q5463;Rocky Mountains;код BabelNet;1;1;from
+Q5463;Rocky Mountains;эра;1;2;from
+Q5463;Rocky Mountains;код YSO;1;1;from
+Q5463;Rocky Mountains;код FAST;1;1;from
+Q5463;Rocky Mountains;код топонима в Канаде;1;1;from
+Q5463;Rocky Mountains;код NKC;1;1;from
+Q5463;Rocky Mountains;уникальный код CGNDB;1;2;from
+Q5955;Altai Mountains;код VIAF;1;1;from
+Q5463;Rocky Mountains;место рождения;1;1;to
+Q5955;Altai Mountains;сделано из;1;1;from
+Q5955;Altai Mountains;изображение;1;1;from
+Q5955;Altai Mountains;государство;1;4;from
+Q5463;Rocky Mountains;общая тема категории;1;1;to
+Q5463;Rocky Mountains;основная тема;1;1;to
+Q5463;Rocky Mountains;место жительства;1;1;to
+Q5463;Rocky Mountains;находится в пределах природно-географического объекта;1;2;to
+Q5463;Rocky Mountains;открывает вид на;1;2;to
+Q5463;Rocky Mountains;названо в честь;1;6;to
+Q5463;Rocky Mountains;история происходит в месте;1;1;to
+Q5463;Rocky Mountains;состоит из;1;1;to
+Q5463;Rocky Mountains;код SELIBR;1;1;from
+Q5463;Rocky Mountains;продукция;1;1;to
+Q5463;Rocky Mountains;изображённый объект;1;17;to
+Q5463;Rocky Mountains;исток водотока;1;7;to
+Q5463;Rocky Mountains;место смерти;1;1;to
+Q5463;Rocky Mountains;место съёмок;1;1;to
+Q5463;Rocky Mountains;код BNE;1;1;from
+Q5463;Rocky Mountains;код NLI;1;1;from
+Q5463;Rocky Mountains;баннер Викигида;1;1;from
+Q5463;Rocky Mountains;галерея на Викискладе;1;1;from
+Q5463;Rocky Mountains;основная категория по теме;1;1;from
+Q25220;Swiss Alps;изображение;1;2;from
+Q25220;Swiss Alps;код VIAF;1;1;from
+Q25220;Swiss Alps;код GND;1;1;from
+Q156684;Alaska Range;длина;1;1;from
+Q156684;Alaska Range;горный хребет;1;65;to
+Q156684;Alaska Range;категория на Викискладе;1;1;from
+Q156684;Alaska Range;Peakbagger area ID;1;1;from
+Q156684;Alaska Range;часть от;1;1;from
+Q156684;Alaska Range;код SummitPost;1;1;from
+Q156684;Alaska Range;код NE.se;1;1;from
+Q156684;Alaska Range;код в Большой российской энциклопедии онлайн;1;1;from
+Q156684;Alaska Range;код BabelNet;1;1;from
+Q156684;Alaska Range;ширина;1;1;from
+Q156684;Alaska Range;площадь;1;1;from
+Q156684;Alaska Range;код TGN;1;1;from
+Q156684;Alaska Range;код GNIS;1;1;from
+Q156684;Alaska Range;код GeoNames;1;1;from
+Q156684;Alaska Range;код в энциклопедии «Британника онлайн»;1;2;from
+Q156684;Alaska Range;код в Большой каталанской энциклопедии;1;1;from
+Q156684;Alaska Range;это частный случай понятия;1;1;from
+Q156684;Alaska Range;код LCNAF;1;1;from
+Q156684;Alaska Range;код GND;1;1;from
+Q156684;Alaska Range;код VIAF;1;1;from
+Q156684;Alaska Range;изображение;1;1;from
+Q156684;Alaska Range;государство;1;1;from
+Q156684;Alaska Range;административно-территориальная единица;1;1;from
+Q156684;Alaska Range;состоит из;1;1;to
+Q156684;Alaska Range;наивысшая точка;1;1;from
+Q26955;Sierra Nevada;основная тема;1;1;to
+Q178611;Jura Mountains;код LCNAF;1;1;from
+Q178611;Jura Mountains;код BabelNet;1;1;from
+Q178611;Jura Mountains;эра;1;1;from
+Q178611;Jura Mountains;код FAST;1;1;from
+Q178611;Jura Mountains;ширина;1;1;from
+Q178611;Jura Mountains;площадь;1;1;from
+Q178611;Jura Mountains;длина;1;1;from
+Q178611;Jura Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q178611;Jura Mountains;описывается в источниках;1;4;from
+Q178611;Jura Mountains;код в Большой каталанской энциклопедии;1;1;from
+Q178611;Jura Mountains;это частный случай понятия;1;1;from
+Q178611;Jura Mountains;код GND;1;1;from
+Q156684;Alaska Range;географические координаты;1;1;from
+Q178611;Jura Mountains;код VIAF;1;1;from
+Q178611;Jura Mountains;сделано из;1;1;from
+Q178611;Jura Mountains;изображение;1;1;from
+Q178611;Jura Mountains;государство;1;2;from
+Q178611;Jura Mountains;административно-территориальная единица;1;9;from
+Q156684;Alaska Range;категория объединяет темы;1;1;to
+Q156684;Alaska Range;общая тема категории;1;1;to
+Q156684;Alaska Range;основная категория по теме;1;1;from
+Q156684;Alaska Range;категория карт на Викискладе;1;1;from
+Q156684;Alaska Range;код Freebase;1;1;from
+Q26955;Sierra Nevada;общая тема категории;1;1;to
+Q26955;Sierra Nevada;находится в пределах природно-географического объекта;1;1;to
+Q25220;Swiss Alps;код LCNAF;1;1;from
+Q25220;Swiss Alps;баннер Викигида;1;1;from
+Q26955;Sierra Nevada;изображение;1;1;from
+Q26955;Sierra Nevada;государство;1;1;from
+Q26955;Sierra Nevada;административно-территориальная единица;1;2;from
+Q25220;Swiss Alps;основная тема;1;8;to
+Q25220;Swiss Alps;часть от;1;16;to
+Q25220;Swiss Alps;место смерти;1;3;to
+Q25220;Swiss Alps;история происходит в месте;1;5;to
+Q25220;Swiss Alps;общая тема категории;1;1;to
+Q25220;Swiss Alps;местонахождение;1;1;to
+Q25220;Swiss Alps;находится в пределах природно-географического объекта;1;18;to
+Q25220;Swiss Alps;основная категория по теме;1;1;from
+Q26955;Sierra Nevada;это частный случай понятия;1;3;from
+Q25220;Swiss Alps;идентификатор HDS;1;1;from
+Q25220;Swiss Alps;код NKC;1;1;from
+Q25220;Swiss Alps;код Freebase;1;1;from
+Q25220;Swiss Alps;географические координаты;1;1;from
+Q25220;Swiss Alps;горный хребет;1;10;to
+Q25220;Swiss Alps;произношение (звуковой файл);1;1;from
+Q25220;Swiss Alps;категория на Викискладе;1;1;from
+Q25220;Swiss Alps;код TripAdvisor;1;1;from
+Q25220;Swiss Alps;код BabelNet;1;1;from
+Q25220;Swiss Alps;это частный случай понятия;1;2;from
+Q26955;Sierra Nevada;карта местонахождения;1;2;from
+Q26955;Sierra Nevada;код в Большой каталанской энциклопедии;1;1;from
+Q26955;Sierra Nevada;состоит из;1;1;to
+Q26955;Sierra Nevada;горный хребет;1;10;to
+Q26955;Sierra Nevada;часть от;1;1;to
+Q26955;Sierra Nevada;местонахождение;1;2;to
+Q26955;Sierra Nevada;исток водотока;1;3;to
+Q26955;Sierra Nevada;пример использования свойства;1;1;to
+Q26955;Sierra Nevada;баннер Викигида;1;1;from
+Q26955;Sierra Nevada;основная категория по теме;1;1;from
+Q26955;Sierra Nevada;код NKC;1;1;from
+Q26955;Sierra Nevada;код Freebase;1;1;from
+Q26955;Sierra Nevada;географические координаты;1;1;from
+Q26955;Sierra Nevada;наивысшая точка;1;1;from
+Q26955;Sierra Nevada;категория на Викискладе;1;1;from
+Q26955;Sierra Nevada;код в энциклопедии «Британника онлайн»;1;1;from
+Q26955;Sierra Nevada;Peakbagger area ID;1;1;from
+Q26955;Sierra Nevada;код SummitPost;1;1;from
+Q26955;Sierra Nevada;находится в охранной зоне;1;1;from
+Q26955;Sierra Nevada;классификация климата Кёппена;1;1;from
+Q26955;Sierra Nevada;эра;1;1;from
+Q26955;Sierra Nevada;ширина;1;1;from
+Q26955;Sierra Nevada;высота над уровнем моря;1;1;from
+Q26955;Sierra Nevada;длина;1;1;from
+Q26955;Sierra Nevada;код TGN;1;1;from
+Q26955;Sierra Nevada;код GeoNames;1;1;from
+Q5463;Rocky Mountains;ширина;1;1;from
+Q5463;Rocky Mountains;длина;1;1;from
+Q5463;Rocky Mountains;название на языке оригинала;1;1;from
+Q1288;Carpathian Mountains;место погребения;1;1;to
+Q4219;Rothaargebirge;код VIAF;1;1;from
+Q4219;Rothaargebirge;изображение;1;1;from
+Q4219;Rothaargebirge;государство;1;1;from
+Q4219;Rothaargebirge;административно-территориальная единица;1;2;from
+Q1288;Carpathian Mountains;общая тема категории;1;1;to
+Q1288;Carpathian Mountains;административно-территориальная единица;1;1;to
+Q1288;Carpathian Mountains;является эндемиком в;1;1;to
+Q1288;Carpathian Mountains;место изготовления;1;1;to
+Q1288;Carpathian Mountains;место съёмок;1;2;to
+Q1288;Carpathian Mountains;тематически относится к;1;1;to
+Q1288;Carpathian Mountains;место рождения;1;1;to
+Q4219;Rothaargebirge;код LCNAF;1;1;from
+Q1288;Carpathian Mountains;исток водотока;1;6;to
+Q1288;Carpathian Mountains;основная тема портала Викимедиа;1;1;to
+Q1288;Carpathian Mountains;место смерти;1;7;to
+Q1288;Carpathian Mountains;основная тема;1;4;to
+Q1288;Carpathian Mountains;история происходит в месте;1;5;to
+Q1288;Carpathian Mountains;названо в честь;1;12;to
+Q1288;Carpathian Mountains;местонахождение;1;3;to
+Q1288;Carpathian Mountains;горный хребет;1;217;to
+Q1288;Carpathian Mountains;код NLI;1;1;from
+Q1288;Carpathian Mountains;баннер Викигида;1;1;from
+Q4219;Rothaargebirge;код GND;1;1;from
+Q4219;Rothaargebirge;это частный случай понятия;1;2;from
+Q1288;Carpathian Mountains;Basque Vikidia ID;1;1;from
+Q4219;Rothaargebirge;NWBib ID;1;1;from
+Q4236;Siebengebirge;государство;1;1;from
+Q4236;Siebengebirge;полученные награды;1;1;from
+Q4236;Siebengebirge;административно-территориальная единица;1;1;from
+Q4219;Rothaargebirge;общая тема категории;1;1;to
+Q4219;Rothaargebirge;категория объединяет темы;1;1;to
+Q4219;Rothaargebirge;местонахождение;1;1;to
+Q4219;Rothaargebirge;названо в честь;1;6;to
+Q4219;Rothaargebirge;основная категория по теме;1;1;from
+Q4219;Rothaargebirge;категория карт на Викискладе;1;1;from
+Q4219;Rothaargebirge;код NKC;1;1;from
+Q4219;Rothaargebirge;код Freebase;1;1;from
+Q4219;Rothaargebirge;код в Большой каталанской энциклопедии;1;1;from
+Q4219;Rothaargebirge;географические координаты;1;1;from
+Q4219;Rothaargebirge;наивысшая точка;1;1;from
+Q4219;Rothaargebirge;горный хребет;1;142;to
+Q4219;Rothaargebirge;категория на Викискладе;1;1;from
+Q4219;Rothaargebirge;код BabelNet;1;1;from
+Q4219;Rothaargebirge;код GNS;1;1;from
+Q4219;Rothaargebirge;площадь;1;1;from
+Q4219;Rothaargebirge;высота над уровнем моря;1;1;from
+Q4219;Rothaargebirge;код TGN;1;1;from
+Q4219;Rothaargebirge;код GeoNames;1;1;from
+Q1288;Carpathian Mountains;основная категория по теме;1;1;from
+Q1288;Carpathian Mountains;French Vikidia ID;1;1;from
+Q4236;Siebengebirge;код VIAF;1;1;from
+Q1262;Graian Alps;категория на Викискладе;1;1;from
+Q1288;Carpathian Mountains;государство;1;8;from
+Q1262;Graian Alps;общая тема категории;1;1;to
+Q1262;Graian Alps;состоит из;1;1;to
+Q1262;Graian Alps;находится в пределах природно-географического объекта;1;9;to
+Q1262;Graian Alps;основная категория по теме;1;1;from
+Q1262;Graian Alps;код Freebase;1;1;from
+Q1262;Graian Alps;географические координаты;1;1;from
+Q1262;Graian Alps;наивысшая точка;1;1;from
+Q1262;Graian Alps;горный хребет;1;110;to
+Q1262;Graian Alps;код тезауруса PACTOLS;1;1;from
+Q1262;Graian Alps;часть от;1;1;to
+Q1288;Carpathian Mountains;код VIAF;1;1;from
+Q1262;Graian Alps;код в Большой российской энциклопедии онлайн;1;1;from
+Q1262;Graian Alps;код BabelNet;1;1;from
+Q1262;Graian Alps;высота над уровнем моря;1;1;from
+Q1262;Graian Alps;код GeoNames;1;1;from
+Q1262;Graian Alps;код в энциклопедии «Британника онлайн»;1;1;from
+Q1262;Graian Alps;это частный случай понятия;1;2;from
+Q1262;Graian Alps;код GND;1;1;from
+Q1262;Graian Alps;код VIAF;1;1;from
+Q1262;Graian Alps;сделано из;1;1;from
+Q1262;Graian Alps;изображение;1;1;from
+Q1288;Carpathian Mountains;изображение;1;1;from
+Q1288;Carpathian Mountains;код GND;1;1;from
+Q1288;Carpathian Mountains;код NKC;1;1;from
+Q1288;Carpathian Mountains;код в Encyclopædia Universalis;1;1;from
+Q1288;Carpathian Mountains;код статьи Klexikon;1;1;from
+Q1288;Carpathian Mountains;код Freebase;1;1;from
+Q1288;Carpathian Mountains;географические координаты;1;1;from
+Q1288;Carpathian Mountains;наивысшая точка;1;1;from
+Q1288;Carpathian Mountains;код Comic Vine;1;1;from
+Q1288;Carpathian Mountains;состоит из;1;1;to
+Q1288;Carpathian Mountains;код тезауруса PACTOLS;1;1;from
+Q1288;Carpathian Mountains;категория на Викискладе;1;1;from
+Q1288;Carpathian Mountains;часть от;1;3;to
+Q1288;Carpathian Mountains;код темы Quora;1;1;from
+Q1288;Carpathian Mountains;код в Большой российской энциклопедии онлайн;1;1;from
+Q1288;Carpathian Mountains;карта местонахождения;1;1;from
+Q1288;Carpathian Mountains;код BNF;1;1;from
+Q1288;Carpathian Mountains;код BabelNet;1;1;from
+Q1288;Carpathian Mountains;код YSO;1;1;from
+Q1288;Carpathian Mountains;длина;1;1;from
+Q1288;Carpathian Mountains;код GeoNames;1;1;from
+Q1288;Carpathian Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q1288;Carpathian Mountains;описывается в источниках;1;1;from
+Q1288;Carpathian Mountains;код в Большой каталанской энциклопедии;1;1;from
+Q1288;Carpathian Mountains;портал Викимедиа;1;1;from
+Q1288;Carpathian Mountains;это частный случай понятия;1;1;from
+Q4236;Siebengebirge;изображение;1;1;from
+Q4236;Siebengebirge;код GND;1;1;from
+Q5463;Rocky Mountains;код TGN;1;1;from
+Q5456;Andes;Italian Vikidia ID;1;1;from
+Q5456;Andes;в ролях;1;1;to
+Q5456;Andes;часть от;1;545;to
+Q5456;Andes;местонахождение;1;47;to
+Q5456;Andes;баннер Викигида;1;1;from
+Q5456;Andes;галерея на Викискладе;1;1;from
+Q5456;Andes;основная категория по теме;1;1;from
+Q5456;Andes;ключевое событие;1;1;from
+Q5456;Andes;Basque Vikidia ID;1;1;from
+Q5456;Andes;English Vikidia ID;1;1;from
+Q5456;Andes;Spanish Vikidia ID;1;1;from
+Q5456;Andes;French Vikidia ID;1;1;from
+Q5456;Andes;история происходит в месте;1;2;to
+Q5456;Andes;находится в пределах природно-географического объекта;1;58;to
+Q5456;Andes;код NKC;1;1;from
+Q5456;Andes;код статьи Klexikon;1;1;from
+Q5456;Andes;код Freebase;1;1;from
+Q5456;Andes;идентификатор Dizionario di Storia;1;1;from
+Q5456;Andes;географические координаты;1;1;from
+Q5456;Andes;наивысшая точка;1;1;from
+Q5456;Andes;код Comic Vine;1;1;from
+Q5456;Andes;рабочий список проекта Викимедиа;1;1;from
+Q5456;Andes;горный хребет;1;2823;to
+Q5456;Andes;исток водотока;1;96;to
+Q5456;Andes;основная тема;1;11;to
+Q5456;Andes;код STW Thesaurus for Economics;1;1;from
+Q5463;Rocky Mountains;код GND;1;1;from
+Q5463;Rocky Mountains;код GeoNames;1;1;from
+Q5463;Rocky Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q5463;Rocky Mountains;частично совпадает с;1;1;to
+Q5463;Rocky Mountains;код NSK;1;1;from
+Q5463;Rocky Mountains;описывается в источниках;1;1;from
+Q5463;Rocky Mountains;код в Большой каталанской энциклопедии;1;1;from
+Q5463;Rocky Mountains;значение в OmegaWiki;1;1;from
+Q5463;Rocky Mountains;код US National Archives;1;1;from
+Q5463;Rocky Mountains;это частный случай понятия;1;1;from
+Q5463;Rocky Mountains;карта местонахождения;1;1;from
+Q5463;Rocky Mountains;код VIAF;1;1;from
+Q5456;Andes;изображённый объект;1;3;to
+Q5463;Rocky Mountains;сделано из;1;3;from
+Q5463;Rocky Mountains;изображение;1;2;from
+Q5463;Rocky Mountains;государство;1;2;from
+Q5463;Rocky Mountains;административно-территориальная единица;1;8;from
+Q5456;Andes;энтохороним от;1;1;to
+Q5456;Andes;общая тема категории;1;1;to
+Q5456;Andes;состоит из;1;1;to
+Q5456;Andes;место рождения;1;3;to
+Q5456;Andes;место смерти;1;2;to
+Q5456;Andes;место активности;1;1;to
+Q5456;Andes;код GACS;1;1;from
+Q5456;Andes;категория на Викискладе;1;1;from
+Q4236;Siebengebirge;код LCNAF;1;1;from
+Q4236;Siebengebirge;код NE.se;1;1;from
+Q4236;Siebengebirge;галерея на Викискладе;1;1;from
+Q4236;Siebengebirge;основная категория по теме;1;1;from
+Q4236;Siebengebirge;официальный сайт;1;1;from
+Q4236;Siebengebirge;NWBib ID;1;1;from
+Q4236;Siebengebirge;код Freebase;1;1;from
+Q4236;Siebengebirge;географические координаты;1;1;from
+Q4236;Siebengebirge;наивысшая точка;1;1;from
+Q4236;Siebengebirge;горный хребет;1;46;to
+Q4236;Siebengebirge;ID отношения в OpenStreetMap;1;1;from
+Q4236;Siebengebirge;категория на Викискладе;1;1;from
+Q4236;Siebengebirge;находится в охранной зоне;1;4;from
+Q4236;Siebengebirge;место смерти;1;1;to
+Q4236;Siebengebirge;код BNF;1;1;from
+Q4236;Siebengebirge;код BabelNet;1;1;from
+Q4236;Siebengebirge;код GNS;1;1;from
+Q4236;Siebengebirge;высота над уровнем моря;1;1;from
+Q4236;Siebengebirge;не путать с;1;1;to
+Q4236;Siebengebirge;код TGN;1;1;from
+Q4236;Siebengebirge;код GeoNames;1;1;from
+Q4236;Siebengebirge;код в энциклопедии «Британника онлайн»;1;1;from
+Q4236;Siebengebirge;код в Большой каталанской энциклопедии;1;1;from
+Q4236;Siebengebirge;это частный случай понятия;1;3;from
+Q4236;Siebengebirge;код NLI;1;1;from
+Q4236;Siebengebirge;названо в честь;1;11;to
+Q5456;Andes;Peakbagger area ID;1;1;from
+Q5456;Andes;описывается в источниках;1;8;from
+Q5456;Andes;код NDL;1;1;from
+Q5456;Andes;код в Encyclopædia Universalis;1;2;from
+Q5456;Andes;код BabelNet;1;1;from
+Q5456;Andes;эра;1;1;from
+Q5456;Andes;код YSO;1;1;from
+Q5456;Andes;ширина;1;1;from
+Q5456;Andes;площадь;1;1;from
+Q5456;Andes;высота над уровнем моря;1;1;from
+Q5456;Andes;длина;1;1;from
+Q5456;Andes;название на языке оригинала;1;1;from
+Q5456;Andes;код в Большой каталанской энциклопедии;1;1;from
+Q4236;Siebengebirge;исток водотока;1;2;to
+Q5456;Andes;значение в OmegaWiki;1;1;from
+Q5456;Andes;код US National Archives;1;1;from
+Q5456;Andes;это частный случай понятия;1;1;from
+Q5456;Andes;карта местонахождения;1;1;from
+Q5456;Andes;код GND;1;1;from
+Q5456;Andes;код VIAF;1;1;from
+Q5456;Andes;государство;1;7;from
+Q4236;Siebengebirge;общая тема категории;1;1;to
+Q4236;Siebengebirge;история происходит в месте;1;1;to
+Q4236;Siebengebirge;находится в пределах природно-географического объекта;1;2;to
+Q178611;Jura Mountains;код в Encyclopædia Universalis;1;1;from
+Q178611;Jura Mountains;категория на Викискладе;1;1;from
+Q917429;Matobo Hills;изображение;1;1;from
+Q178611;Jura Mountains;код тезауруса PACTOLS;1;1;from
+Q669883;Franconian Jura;код NE.se;1;1;from
+Q669883;Franconian Jura;код BabelNet;1;1;from
+Q669883;Franconian Jura;эра;1;1;from
+Q669883;Franconian Jura;высота над уровнем моря;1;1;from
+Q669883;Franconian Jura;код GeoNames;1;1;from
+Q669883;Franconian Jura;код в Большой каталанской энциклопедии;1;1;from
+Q669883;Franconian Jura;десятичная классификация Дьюи;1;1;from
+Q669883;Franconian Jura;это частный случай понятия;1;2;from
+Q669883;Franconian Jura;код LCNAF;1;1;from
+Q669883;Franconian Jura;код GND;1;1;from
+Q669883;Franconian Jura;код VIAF;1;1;from
+Q669883;Franconian Jura;сделано из;1;1;from
+Q669883;Franconian Jura;изображение;1;1;from
+Q669883;Franconian Jura;государство;1;1;from
+Q669883;Franconian Jura;административно-территориальная единица;1;1;from
+Q575665;Tatun Volcano Group;горный хребет;1;2;to
+Q575665;Tatun Volcano Group;код Freebase;1;1;from
+Q575665;Tatun Volcano Group;географические координаты;1;1;from
+Q575665;Tatun Volcano Group;VOGRIPA ID;1;1;from
+Q575665;Tatun Volcano Group;категория на Викискладе;1;1;from
+Q575665;Tatun Volcano Group;код вулкана в Smithsonian;1;1;from
+Q575665;Tatun Volcano Group;это частный случай понятия;1;2;from
+Q575665;Tatun Volcano Group;код LCNAF;1;1;from
+Q669883;Franconian Jura;часть от;1;1;from
+Q669883;Franconian Jura;категория на Викискладе;1;1;from
+Q669883;Franconian Jura;ID отношения в OpenStreetMap;1;1;from
+Q710305;Central Mountain Range;код в энциклопедии «Британника онлайн»;1;1;from
+Q710305;Central Mountain Range;баннер Викигида;1;1;from
+Q710305;Central Mountain Range;основная категория по теме;1;1;from
+Q710305;Central Mountain Range;код Freebase;1;1;from
+Q710305;Central Mountain Range;географические координаты;1;1;from
+Q710305;Central Mountain Range;наивысшая точка;1;1;from
+Q710305;Central Mountain Range;категория на Викискладе;1;1;from
+Q710305;Central Mountain Range;код BabelNet;1;1;from
+Q710305;Central Mountain Range;высота над уровнем моря;1;1;from
+Q710305;Central Mountain Range;длина;1;1;from
+Q710305;Central Mountain Range;код GeoNames;1;1;from
+Q710305;Central Mountain Range;код в Большой каталанской энциклопедии;1;1;from
+Q669883;Franconian Jura;код тезауруса PACTOLS;1;1;from
+Q710305;Central Mountain Range;это частный случай понятия;1;1;from
+Q710305;Central Mountain Range;изображение;1;1;from
+Q710305;Central Mountain Range;государство;1;1;from
+Q710305;Central Mountain Range;административно-территориальная единица;1;7;from
+Q669883;Franconian Jura;общая тема категории;1;1;to
+Q669883;Franconian Jura;основная категория по теме;1;1;from
+Q669883;Franconian Jura;код Freebase;1;1;from
+Q669883;Franconian Jura;географические координаты;1;2;from
+Q669883;Franconian Jura;наивысшая точка;1;1;from
+Q669883;Franconian Jura;горный хребет;1;83;to
+Q575665;Tatun Volcano Group;изображение;1;1;from
+Q575665;Tatun Volcano Group;государство;1;1;from
+Q559784;Serra do Mar;местонахождение;1;1;to
+Q284639;Hudson Highlands;код BabelNet;1;1;from
+Q327434;Austrian Alps;горный хребет;1;1;from
+Q327434;Austrian Alps;это частный случай понятия;1;2;from
+Q327434;Austrian Alps;изображение;1;3;from
+Q327434;Austrian Alps;государство;1;1;from
+Q284639;Hudson Highlands;общая тема категории;1;1;to
+Q284639;Hudson Highlands;изображённый объект;1;1;to
+Q284639;Hudson Highlands;основная категория по теме;1;1;from
+Q284639;Hudson Highlands;наивысшая точка;1;1;from
+Q284639;Hudson Highlands;горный хребет;1;11;to
+Q284639;Hudson Highlands;категория на Викискладе;1;1;from
+Q284639;Hudson Highlands;высота над уровнем моря;1;1;from
+Q327434;Austrian Alps;история происходит в месте;1;5;to
+Q284639;Hudson Highlands;это частный случай понятия;1;1;from
+Q284639;Hudson Highlands;государство;1;1;from
+Q284639;Hudson Highlands;административно-территориальная единица;1;1;from
+Q208076;Cantabrian Mountains;исток водотока;1;2;to
+Q208076;Cantabrian Mountains;общая тема категории;1;1;to
+Q208076;Cantabrian Mountains;место обнаружения;1;1;to
+Q208076;Cantabrian Mountains;горный хребет;1;95;to
+Q208076;Cantabrian Mountains;основная категория по теме;1;1;from
+Q208076;Cantabrian Mountains;находится в пределах природно-географического объекта;1;1;to
+Q208076;Cantabrian Mountains;код NKC;1;1;from
+Q327434;Austrian Alps;код NKC;1;1;from
+Q327434;Austrian Alps;место съёмок;1;1;to
+Q559784;Serra do Mar;основная тема;1;5;to
+Q559784;Serra do Mar;эра;1;1;from
+Q559784;Serra do Mar;изображённый объект;1;6;to
+Q559784;Serra do Mar;общая тема категории;1;1;to
+Q559784;Serra do Mar;исток водотока;1;2;to
+Q559784;Serra do Mar;горный хребет;1;18;to
+Q559784;Serra do Mar;основная категория по теме;1;1;from
+Q559784;Serra do Mar;код Freebase;1;1;from
+Q559784;Serra do Mar;географические координаты;1;2;from
+Q559784;Serra do Mar;наивысшая точка;1;1;from
+Q559784;Serra do Mar;CONDEPHAAT ID;1;1;from
+Q559784;Serra do Mar;категория на Викискладе;1;1;from
+Q559784;Serra do Mar;высота над уровнем моря;1;1;from
+Q559784;Serra do Mar;административно-территориальная единица;1;4;from
+Q559784;Serra do Mar;длина;1;1;from
+Q559784;Serra do Mar;код GeoNames;1;1;from
+Q559784;Serra do Mar;статус наследия;1;2;from
+Q559784;Serra do Mar;код в энциклопедии «Британника онлайн»;1;1;from
+Q559784;Serra do Mar;код в Большой каталанской энциклопедии;1;1;from
+Q559784;Serra do Mar;это частный случай понятия;1;2;from
+Q559784;Serra do Mar;часть света;1;1;from
+Q559784;Serra do Mar;код VIAF;1;1;from
+Q559784;Serra do Mar;изображение;1;1;from
+Q559784;Serra do Mar;государство;1;1;from
+Q710305;Central Mountain Range;горный хребет;1;30;to
+Q710305;Central Mountain Range;проходит над/под;1;11;to
+Q710305;Central Mountain Range;часть от;1;2;to
+Q831469;Baetic System;горный хребет;1;82;to
+Q845183;Kuskokwim Mountains;код GeoNames;1;1;from
+Q845183;Kuskokwim Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q845183;Kuskokwim Mountains;код в Большой каталанской энциклопедии;1;1;from
+Q845183;Kuskokwim Mountains;это частный случай понятия;1;2;from
+Q845183;Kuskokwim Mountains;код LCNAF;1;1;from
+Q845183;Kuskokwim Mountains;код VIAF;1;1;from
+Q845183;Kuskokwim Mountains;изображение;1;1;from
+Q845183;Kuskokwim Mountains;государство;1;1;from
+Q845183;Kuskokwim Mountains;административно-территориальная единица;1;1;from
+Q831469;Baetic System;общая тема категории;1;1;to
+Q831469;Baetic System;основная категория по теме;1;1;from
+Q845183;Kuskokwim Mountains;высота над уровнем моря;1;1;from
+Q831469;Baetic System;находится в пределах природно-географического объекта;1;3;to
+Q831469;Baetic System;географические координаты;1;1;from
+Q831469;Baetic System;наивысшая точка;1;1;from
+Q831469;Baetic System;состоит из;1;2;to
+Q831469;Baetic System;категория на Викискладе;1;1;from
+Q831469;Baetic System;часть от;1;1;from
+Q831469;Baetic System;код в Большой российской энциклопедии онлайн;1;1;from
+Q831469;Baetic System;код BabelNet;1;1;from
+Q831469;Baetic System;эра;1;1;from
+Q831469;Baetic System;высота над уровнем моря;1;1;from
+Q845183;Kuskokwim Mountains;длина;1;1;from
+Q845183;Kuskokwim Mountains;ширина;1;1;from
+Q831469;Baetic System;код в Большой каталанской энциклопедии;1;1;from
+Q895152;Boundary Ranges;площадь;1;1;from
+Q917429;Matobo Hills;государство;1;1;from
+Q895152;Boundary Ranges;общая тема категории;1;1;to
+Q895152;Boundary Ranges;основная категория по теме;1;1;from
+Q895152;Boundary Ranges;код Freebase;1;1;from
+Q895152;Boundary Ranges;географические координаты;1;1;from
+Q895152;Boundary Ranges;код GNIS;1;1;from
+Q895152;Boundary Ranges;горный хребет;1;50;to
+Q895152;Boundary Ranges;категория на Викискладе;1;1;from
+Q895152;Boundary Ranges;код BabelNet;1;1;from
+Q895152;Boundary Ranges;код топонима в Канаде;1;1;from
+Q895152;Boundary Ranges;высота над уровнем моря;1;1;from
+Q845183;Kuskokwim Mountains;категория на Викискладе;1;1;from
+Q895152;Boundary Ranges;код GeoNames;1;1;from
+Q895152;Boundary Ranges;код в энциклопедии «Британника онлайн»;1;1;from
+Q895152;Boundary Ranges;это частный случай понятия;1;3;from
+Q895152;Boundary Ranges;изображение;1;1;from
+Q895152;Boundary Ranges;государство;1;2;from
+Q895152;Boundary Ranges;административно-территориальная единица;1;2;from
+Q845183;Kuskokwim Mountains;горный хребет;1;2;to
+Q845183;Kuskokwim Mountains;код Freebase;1;1;from
+Q845183;Kuskokwim Mountains;географические координаты;1;1;from
+Q845183;Kuskokwim Mountains;код GNIS;1;1;from
+Q831469;Baetic System;описывается в источниках;1;2;from
+Q831469;Baetic System;имеет границы с;1;2;to
+Q710305;Central Mountain Range;общая тема категории;1;1;to
+Q713776;Xueshan Range;горный хребет;1;15;to
+Q783415;Talkeetna Mountains;ширина;1;1;from
+Q783415;Talkeetna Mountains;высота над уровнем моря;1;1;from
+Q783415;Talkeetna Mountains;длина;1;1;from
+Q783415;Talkeetna Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q783415;Talkeetna Mountains;это частный случай понятия;1;2;from
+Q783415;Talkeetna Mountains;код LCNAF;1;1;from
+Q783415;Talkeetna Mountains;изображение;1;1;from
+Q783415;Talkeetna Mountains;государство;1;1;from
+Q783415;Talkeetna Mountains;административно-территориальная единица;1;1;from
+Q713776;Xueshan Range;общая тема категории;1;1;to
+Q713776;Xueshan Range;основная категория по теме;1;1;from
+Q783415;Talkeetna Mountains;горный хребет;1;4;to
+Q713776;Xueshan Range;код Freebase;1;1;from
+Q713776;Xueshan Range;географические координаты;1;1;from
+Q713776;Xueshan Range;категория на Викискладе;1;1;from
+Q713776;Xueshan Range;высота над уровнем моря;1;1;from
+Q713776;Xueshan Range;длина;1;1;from
+Q713776;Xueshan Range;код в энциклопедии «Британника онлайн»;1;1;from
+Q713776;Xueshan Range;это частный случай понятия;1;1;from
+Q713776;Xueshan Range;изображение;1;1;from
+Q713776;Xueshan Range;государство;1;1;from
+Q713776;Xueshan Range;административно-территориальная единица;1;5;from
+Q783415;Talkeetna Mountains;категория на Викискладе;1;1;from
+Q783415;Talkeetna Mountains;код GNIS;1;1;from
+Q831469;Baetic System;это частный случай понятия;1;2;from
+Q828541;Tordrillo Mountains;код SummitPost;1;1;from
+Q831469;Baetic System;код GND;1;1;from
+Q831469;Baetic System;код VIAF;1;1;from
+Q831469;Baetic System;изображение;1;1;from
+Q831469;Baetic System;государство;1;1;from
+Q828541;Tordrillo Mountains;код Freebase;1;1;from
+Q828541;Tordrillo Mountains;географические координаты;1;2;from
+Q828541;Tordrillo Mountains;наивысшая точка;1;1;from
+Q828541;Tordrillo Mountains;код GNIS;1;1;from
+Q828541;Tordrillo Mountains;горный хребет;1;9;to
+Q828541;Tordrillo Mountains;Peakbagger area ID;1;1;from
+Q828541;Tordrillo Mountains;ширина;1;1;from
+Q783415;Talkeetna Mountains;географические координаты;1;1;from
+Q828541;Tordrillo Mountains;площадь;1;1;from
+Q828541;Tordrillo Mountains;высота над уровнем моря;1;1;from
+Q828541;Tordrillo Mountains;длина;1;1;from
+Q828541;Tordrillo Mountains;код GeoNames;1;1;from
+Q828541;Tordrillo Mountains;это частный случай понятия;1;2;from
+Q828541;Tordrillo Mountains;код LCNAF;1;1;from
+Q828541;Tordrillo Mountains;код VIAF;1;1;from
+Q828541;Tordrillo Mountains;изображение;1;1;from
+Q828541;Tordrillo Mountains;государство;1;1;from
+Q828541;Tordrillo Mountains;административно-территориальная единица;1;1;from
+Q208076;Cantabrian Mountains;код Freebase;1;1;from
+Q208076;Cantabrian Mountains;географические координаты;1;1;from
+Q208076;Cantabrian Mountains;наивысшая точка;1;1;from
+Q186547;Scandinavian Mountains;часть от;1;6;to
+Q187843;Vosges Mountains;код в Большой каталанской энциклопедии;1;1;from
+Q187843;Vosges Mountains;значение в OmegaWiki;1;1;from
+Q187843;Vosges Mountains;это частный случай понятия;1;1;from
+Q187843;Vosges Mountains;код LCNAF;1;1;from
+Q187843;Vosges Mountains;код GND;1;1;from
+Q187843;Vosges Mountains;код VIAF;1;1;from
+Q187843;Vosges Mountains;изображение;1;1;from
+Q187843;Vosges Mountains;государство;1;1;from
+Q187843;Vosges Mountains;административно-территориальная единица;1;1;from
+Q186547;Scandinavian Mountains;общая тема категории;1;1;to
+Q186547;Scandinavian Mountains;история происходит в месте;1;1;to
+Q187843;Vosges Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q186547;Scandinavian Mountains;исток водотока;1;4;to
+Q186547;Scandinavian Mountains;горный хребет;1;222;to
+Q186547;Scandinavian Mountains;основная категория по теме;1;1;from
+Q186547;Scandinavian Mountains;находится в пределах природно-географического объекта;1;1;to
+Q186547;Scandinavian Mountains;код Freebase;1;1;from
+Q186547;Scandinavian Mountains;географические координаты;1;1;from
+Q186547;Scandinavian Mountains;наивысшая точка;1;1;from
+Q186547;Scandinavian Mountains;состоит из;1;3;from
+Q186547;Scandinavian Mountains;код в Большой норвежской энциклопедии;1;1;from
+Q186547;Scandinavian Mountains;категория на Викискладе;1;1;from
+Q187843;Vosges Mountains;описывается в источниках;1;2;from
+Q187843;Vosges Mountains;код GeoNames;1;1;from
+Q186547;Scandinavian Mountains;код BabelNet;1;1;from
+Q187843;Vosges Mountains;код Freebase;1;1;from
+Q187843;Vosges Mountains;названо в честь;1;2;to
+Q187843;Vosges Mountains;место изготовления;1;1;to
+Q187843;Vosges Mountains;местонахождение;1;3;to
+Q187843;Vosges Mountains;место смерти;1;3;to
+Q187843;Vosges Mountains;исток водотока;1;1;to
+Q187843;Vosges Mountains;горный хребет;1;227;to
+Q187843;Vosges Mountains;галерея на Викискладе;1;1;from
+Q187843;Vosges Mountains;основная категория по теме;1;1;from
+Q187843;Vosges Mountains;French Vikidia ID;1;1;from
+Q187843;Vosges Mountains;код NKC;1;1;from
+Q187843;Vosges Mountains;географические координаты;1;1;from
+Q187843;Vosges Mountains;код Цифрового атласа Римской империи;1;1;from
+Q187843;Vosges Mountains;наивысшая точка;1;1;from
+Q187843;Vosges Mountains;код в Ларуссе;1;1;from
+Q187843;Vosges Mountains;код тезауруса PACTOLS;1;1;from
+Q187843;Vosges Mountains;категория на Викискладе;1;1;from
+Q187843;Vosges Mountains;код BNF;1;1;from
+Q187843;Vosges Mountains;код BabelNet;1;1;from
+Q187843;Vosges Mountains;эра;1;1;from
+Q187843;Vosges Mountains;площадь;1;1;from
+Q187843;Vosges Mountains;высота над уровнем моря;1;1;from
+Q187843;Vosges Mountains;длина;1;1;from
+Q186547;Scandinavian Mountains;код в Большой российской энциклопедии онлайн;1;1;from
+Q186547;Scandinavian Mountains;эра;1;1;from
+Q187843;Vosges Mountains;часть от;1;1;to
+Q178611;Jura Mountains;горный хребет;1;292;to
+Q181311;Bregenz Forest Mountains;государство;1;1;from
+Q181311;Bregenz Forest Mountains;административно-территориальная единица;1;1;from
+Q178611;Jura Mountains;категория объединяет темы;1;2;to
+Q178611;Jura Mountains;проходит над/под;1;1;to
+Q178611;Jura Mountains;названо в честь;1;5;to
+Q178611;Jura Mountains;происходит из;1;2;to
+Q178611;Jura Mountains;место рождения;1;2;to
+Q178611;Jura Mountains;изображённый объект;1;1;to
+Q178611;Jura Mountains;основная тема;1;5;to
+Q178611;Jura Mountains;общая тема категории;1;2;to
+Q178611;Jura Mountains;код NLI;1;1;from
+Q181311;Bregenz Forest Mountains;сделано из;1;1;from
+Q178611;Jura Mountains;основная категория по теме;1;2;from
+Q178611;Jura Mountains;идентификатор HDS;1;1;from
+Q178611;Jura Mountains;категория карт на Викискладе;1;1;from
+Q178611;Jura Mountains;French Vikidia ID;1;1;from
+Q178611;Jura Mountains;код статьи Klexikon;1;1;from
+Q178611;Jura Mountains;код Freebase;1;1;from
+Q178611;Jura Mountains;географические координаты;1;1;from
+Q178611;Jura Mountains;наивысшая точка;1;1;from
+Q178611;Jura Mountains;код в Ларуссе;1;1;from
+Q178611;Jura Mountains;произношение (звуковой файл);1;1;from
+Q181311;Bregenz Forest Mountains;изображение;1;1;from
+Q181311;Bregenz Forest Mountains;код GND;1;1;from
+Q186547;Scandinavian Mountains;код YSO;1;1;from
+Q181311;Bregenz Forest Mountains;основная категория по теме;1;1;from
+Q186547;Scandinavian Mountains;высота над уровнем моря;1;1;from
+Q186547;Scandinavian Mountains;длина;1;1;from
+Q186547;Scandinavian Mountains;код GeoNames;1;1;from
+Q186547;Scandinavian Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q186547;Scandinavian Mountains;описывается в источниках;1;1;from
+Q186547;Scandinavian Mountains;это частный случай понятия;1;1;from
+Q186547;Scandinavian Mountains;код LCNAF;1;1;from
+Q186547;Scandinavian Mountains;изображение;1;1;from
+Q186547;Scandinavian Mountains;государство;1;3;from
+Q181311;Bregenz Forest Mountains;общая тема категории;1;1;to
+Q181311;Bregenz Forest Mountains;код NKC;1;1;from
+Q181311;Bregenz Forest Mountains;карта местонахождения;1;1;from
+Q181311;Bregenz Forest Mountains;код Freebase;1;1;from
+Q181311;Bregenz Forest Mountains;географические координаты;1;1;from
+Q181311;Bregenz Forest Mountains;наивысшая точка;1;1;from
+Q181311;Bregenz Forest Mountains;горный хребет;1;48;to
+Q181311;Bregenz Forest Mountains;ID отношения в OpenStreetMap;1;1;from
+Q181311;Bregenz Forest Mountains;категория на Викискладе;1;1;from
+Q181311;Bregenz Forest Mountains;часть от;1;1;from
+Q181311;Bregenz Forest Mountains;код BabelNet;1;1;from
+Q181311;Bregenz Forest Mountains;высота над уровнем моря;1;1;from
+Q181311;Bregenz Forest Mountains;это частный случай понятия;1;1;from
+Q187843;Vosges Mountains;место рождения;1;1;to
+Q187843;Vosges Mountains;происходит из;1;1;to
+Q208076;Cantabrian Mountains;состоит из;1;1;to
+Q207313;Mid-Atlantic Ridge;это частный случай понятия;1;2;from
+Q207313;Mid-Atlantic Ridge;географические координаты;1;1;from
+Q207313;Mid-Atlantic Ridge;код в Предварительном списке Всемирного наследия;1;1;from
+Q207313;Mid-Atlantic Ridge;категория на Викискладе;1;1;from
+Q207313;Mid-Atlantic Ridge;Peakbagger area ID;1;1;from
+Q207313;Mid-Atlantic Ridge;код NE.se;1;2;from
+Q207313;Mid-Atlantic Ridge;код в Большой российской энциклопедии онлайн;1;1;from
+Q207313;Mid-Atlantic Ridge;критерий Всемирного наследия;1;4;from
+Q207313;Mid-Atlantic Ridge;код BabelNet;1;1;from
+Q207313;Mid-Atlantic Ridge;статус наследия;1;2;from
+Q207313;Mid-Atlantic Ridge;код в энциклопедии «Британника онлайн»;1;1;from
+Q207313;Mid-Atlantic Ridge;код GND;1;1;from
+Q207313;Mid-Atlantic Ridge;код Freebase;1;1;from
+Q207313;Mid-Atlantic Ridge;код VIAF;1;1;from
+Q207313;Mid-Atlantic Ridge;находится на берегу водоёма;1;1;from
+Q207313;Mid-Atlantic Ridge;изображение;1;1;from
+Q207313;Mid-Atlantic Ridge;государство;1;1;from
+Q200635;Mantiqueira Mountains;горный хребет;1;7;to
+Q200635;Mantiqueira Mountains;исток водотока;1;1;to
+Q200635;Mantiqueira Mountains;проходит над/под;1;1;to
+Q200635;Mantiqueira Mountains;баннер Викигида;1;1;from
+Q200635;Mantiqueira Mountains;код Freebase;1;1;from
+Q200635;Mantiqueira Mountains;географические координаты;1;1;from
+Q207313;Mid-Atlantic Ridge;Microsoft Academic ID;1;1;from
+Q207313;Mid-Atlantic Ridge;код NLI;1;1;from
+Q200635;Mantiqueira Mountains;категория на Викискладе;1;1;from
+Q208076;Cantabrian Mountains;имеет границы с;1;1;to
+Q208076;Cantabrian Mountains;категория на Викискладе;1;1;from
+Q208076;Cantabrian Mountains;часть от;1;1;from
+Q208076;Cantabrian Mountains;код BabelNet;1;1;from
+Q208076;Cantabrian Mountains;ширина;1;2;from
+Q208076;Cantabrian Mountains;высота над уровнем моря;1;1;from
+Q208076;Cantabrian Mountains;длина;1;1;from
+Q208076;Cantabrian Mountains;код GeoNames;1;1;from
+Q208076;Cantabrian Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q208076;Cantabrian Mountains;описывается в источниках;1;1;from
+Q208076;Cantabrian Mountains;код в Большой каталанской энциклопедии;1;1;from
+Q208076;Cantabrian Mountains;это частный случай понятия;1;2;from
+Q207313;Mid-Atlantic Ridge;горный хребет;1;14;to
+Q208076;Cantabrian Mountains;код LCNAF;1;1;from
+Q208076;Cantabrian Mountains;код VIAF;1;1;from
+Q208076;Cantabrian Mountains;изображение;1;1;from
+Q208076;Cantabrian Mountains;государство;1;1;from
+Q208076;Cantabrian Mountains;названо в честь;1;1;from
+Q208076;Cantabrian Mountains;административно-территориальная единица;1;7;from
+Q207313;Mid-Atlantic Ridge;основная тема;1;1;to
+Q207313;Mid-Atlantic Ridge;общая тема категории;1;1;to
+Q207313;Mid-Atlantic Ridge;находится в пределах природно-географического объекта;1;1;to
+Q207313;Mid-Atlantic Ridge;часть от;1;4;to
+Q200635;Mantiqueira Mountains;наивысшая точка;1;1;from
+Q200635;Mantiqueira Mountains;код GNS;1;1;from
+Q187843;Vosges Mountains;место жительства;1;1;to
+Q190695;Central Massive;код в энциклопедии «Британника онлайн»;1;1;from
+Q190695;Central Massive;код в Ларуссе;1;1;from
+Q190695;Central Massive;категория на Викискладе;1;1;from
+Q190695;Central Massive;часть от;1;2;to
+Q190695;Central Massive;код в Encyclopædia Universalis;1;1;from
+Q190695;Central Massive;код BabelNet;1;1;from
+Q190695;Central Massive;эра;1;1;from
+Q190695;Central Massive;код GNS;1;1;from
+Q190695;Central Massive;площадь;1;1;from
+Q190695;Central Massive;высота над уровнем моря;1;1;from
+Q190695;Central Massive;код GeoNames;1;1;from
+Q190695;Central Massive;описывается в источниках;1;2;from
+Q190695;Central Massive;географические координаты;1;2;from
+Q190695;Central Massive;значение в OmegaWiki;1;1;from
+Q190695;Central Massive;это частный случай понятия;1;2;from
+Q190695;Central Massive;код LCNAF;1;1;from
+Q190695;Central Massive;код VIAF;1;1;from
+Q190695;Central Massive;изображение;1;1;from
+Q190695;Central Massive;государство;1;1;from
+Q190695;Central Massive;административно-территориальная единица;1;2;to
+Q187843;Vosges Mountains;проходит над/под;1;1;to
+Q187843;Vosges Mountains;общая тема категории;1;1;to
+Q187843;Vosges Mountains;открывает вид на;1;1;to
+Q190695;Central Massive;наивысшая точка;1;1;from
+Q190695;Central Massive;код Freebase;1;1;from
+Q200635;Mantiqueira Mountains;высота над уровнем моря;1;1;from
+Q200635;Mantiqueira Mountains;административно-территориальная единица;1;1;from
+Q200635;Mantiqueira Mountains;длина;1;1;from
+Q200635;Mantiqueira Mountains;код GeoNames;1;1;from
+Q200635;Mantiqueira Mountains;код в энциклопедии «Британника онлайн»;1;1;from
+Q200635;Mantiqueira Mountains;код в Большой каталанской энциклопедии;1;1;from
+Q200635;Mantiqueira Mountains;это частный случай понятия;1;2;from
+Q200635;Mantiqueira Mountains;часть света;1;1;from
+Q200635;Mantiqueira Mountains;код GND;1;1;from
+Q200635;Mantiqueira Mountains;код VIAF;1;1;from
+Q200635;Mantiqueira Mountains;изображение;1;1;from
+Q200635;Mantiqueira Mountains;государство;1;1;from
+Q190695;Central Massive;общая тема категории;1;1;to
+Q190695;Central Massive;код NKC;1;1;from
+Q190695;Central Massive;категория объединяет темы;1;2;to
+Q190695;Central Massive;состоит из;1;1;to
+Q190695;Central Massive;исток водотока;1;1;to
+Q190695;Central Massive;названо в честь;1;1;to
+Q190695;Central Massive;изображённый объект;1;1;to
+Q190695;Central Massive;горный хребет;1;136;to
+Q190695;Central Massive;галерея на Викискладе;1;1;from
+Q190695;Central Massive;основная категория по теме;1;1;from
+Q190695;Central Massive;категория карт на Викискладе;1;1;from
+Q190695;Central Massive;French Vikidia ID;1;1;from
+Q64848883;Предальпы;горный хребет;1;1;to

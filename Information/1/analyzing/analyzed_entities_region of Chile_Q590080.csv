@@ -1,0 +1,693 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q2109;Arica y Parinacota Region;административно-территориальная единица;1;503;to
+Q2177;Los Ríos Region;код GeoNames;1;1;from
+Q2177;Los Ríos Region;столица;1;1;from
+Q2177;Los Ríos Region;изображение флага;1;1;from
+Q2177;Los Ríos Region;имеет границы с;1;3;to
+Q2177;Los Ríos Region;изображение герба;1;1;from
+Q2177;Los Ríos Region;десятичная классификация Дьюи;1;1;from
+Q2177;Los Ríos Region;численность населения;1;6;from
+Q2177;Los Ríos Region;должность главы правительства;1;1;from
+Q2177;Los Ríos Region;категория для людей, родившихся здесь;1;1;from
+Q2177;Los Ríos Region;высота над уровнем моря;1;1;from
+Q2177;Los Ríos Region;карта местонахождения;1;1;from
+Q2177;Los Ríos Region;площадь;1;1;from
+Q2177;Los Ríos Region;используемый язык;1;2;from
+Q2177;Los Ríos Region;ISO 3166-2;1;1;from
+Q2177;Los Ríos Region;категория на Викискладе;1;1;from
+Q2177;Los Ríos Region;ID отношения в OpenStreetMap;1;1;from
+Q2177;Los Ríos Region;часовой пояс;1;1;from
+Q2177;Los Ríos Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2177;Los Ríos Region;дата основания/создания/возникновения;1;1;from
+Q2177;Los Ríos Region;это частный случай понятия;1;1;from
+Q2177;Los Ríos Region;законодательный орган;1;1;from
+Q2176;Araucanía Region;Who's on First ID;1;1;from
+Q2176;Araucanía Region;юрисдикция распространяется на;1;5;to
+Q2176;Araucanía Region;официальный сайт;1;1;from
+Q2176;Araucanía Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2176;Araucanía Region;основная категория по теме;1;1;from
+Q2176;Araucanía Region;галерея на Викискладе;1;1;from
+Q2176;Araucanía Region;баннер Викигида;1;1;from
+Q2176;Araucanía Region;место в MusicBrainz;1;1;from
+Q2176;Araucanía Region;категория объединяет темы;1;4;to
+Q2176;Araucanía Region;местонахождение;1;3;to
+Q2176;Araucanía Region;расположение штаб-квартиры;1;1;to
+Q2177;Los Ríos Region;изображение;1;1;from
+Q2176;Araucanía Region;место рождения;1;3;to
+Q2176;Araucanía Region;является столицей;1;1;to
+Q2176;Araucanía Region;общая тема категории;1;1;to
+Q2176;Araucanía Region;происходит из;1;1;to
+Q2177;Los Ríos Region;административно-территориальная единица;1;287;to
+Q2177;Los Ríos Region;административно делится на;1;1;to
+Q2177;Los Ríos Region;описание флага;1;1;from
+Q2177;Los Ríos Region;государство;1;1;from
+Q2177;Los Ríos Region;географические координаты;1;1;from
+Q2177;Los Ríos Region;код Freebase;1;1;from
+Q2177;Los Ríos Region;Who's on First ID;1;1;from
+Q2178;Los Lagos Region;код GeoNames;1;1;from
+Q2178;Los Lagos Region;имеет границы с;1;5;to
+Q2178;Los Lagos Region;изображение герба;1;1;from
+Q2178;Los Lagos Region;десятичная классификация Дьюи;1;1;from
+Q2178;Los Lagos Region;численность населения;1;6;from
+Q2178;Los Lagos Region;должность главы правительства;1;1;from
+Q2178;Los Lagos Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q2178;Los Lagos Region;категория для людей, родившихся здесь;1;1;from
+Q2178;Los Lagos Region;этнохороним;1;1;from
+Q2178;Los Lagos Region;площадь;1;1;from
+Q2177;Los Ríos Region;CUT code;1;1;from
+Q2178;Los Lagos Region;код BabelNet;1;1;from
+Q2178;Los Lagos Region;используемый язык;1;2;from
+Q2178;Los Lagos Region;ISO 3166-2;1;1;from
+Q2178;Los Lagos Region;категория на Викискладе;1;1;from
+Q2178;Los Lagos Region;ID отношения в OpenStreetMap;1;1;from
+Q2178;Los Lagos Region;часовой пояс;1;1;from
+Q2178;Los Lagos Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2178;Los Lagos Region;географические координаты;1;1;from
+Q2178;Los Lagos Region;изображение флага;1;1;from
+Q2178;Los Lagos Region;столица;1;1;from
+Q2178;Los Lagos Region;это частный случай понятия;1;1;from
+Q2178;Los Lagos Region;карта местонахождения;1;1;from
+Q2177;Los Ríos Region;категория карт на Викискладе;1;1;from
+Q2177;Los Ríos Region;официальный сайт;1;1;from
+Q2177;Los Ríos Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2177;Los Ríos Region;основная категория по теме;1;1;from
+Q2177;Los Ríos Region;галерея на Викискладе;1;1;from
+Q2177;Los Ríos Region;баннер Викигида;1;1;from
+Q2177;Los Ríos Region;место в MusicBrainz;1;1;from
+Q2177;Los Ríos Region;является столицей;1;1;to
+Q2177;Los Ríos Region;категория объединяет темы;1;5;to
+Q2177;Los Ríos Region;юрисдикция распространяется на;1;5;to
+Q2177;Los Ríos Region;общая тема категории;1;1;to
+Q2177;Los Ríos Region;происходит из;1;2;to
+Q2178;Los Lagos Region;административно-территориальная единица;1;1930;to
+Q2178;Los Lagos Region;административно делится на;1;1;to
+Q2178;Los Lagos Region;государство;1;1;from
+Q2178;Los Lagos Region;изображение;1;1;from
+Q2178;Los Lagos Region;законодательный орган;1;1;from
+Q2176;Araucanía Region;CUT code;1;1;from
+Q2176;Araucanía Region;код Freebase;1;1;from
+Q2109;Arica y Parinacota Region;административно делится на;1;1;to
+Q2170;Biobío Region;ISO 3166-2;1;1;from
+Q2170;Biobío Region;должность главы правительства;1;1;from
+Q2170;Biobío Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q2170;Biobío Region;категория для людей, родившихся здесь;1;1;from
+Q2170;Biobío Region;этнохороним;1;1;from
+Q2170;Biobío Region;код GeoNames;1;1;from
+Q2170;Biobío Region;категория для людей, связанных с местностью;1;1;from
+Q2170;Biobío Region;высота над уровнем моря;1;1;from
+Q2170;Biobío Region;площадь;1;1;from
+Q2170;Biobío Region;категория на Викискладе;1;1;from
+Q2170;Biobío Region;численность населения;1;8;from
+Q2170;Biobío Region;ID отношения в OpenStreetMap;1;1;from
+Q2170;Biobío Region;часовой пояс;1;1;from
+Q2170;Biobío Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2170;Biobío Region;географические координаты;1;1;from
+Q2170;Biobío Region;код Freebase;1;1;from
+Q2170;Biobío Region;Who's on First ID;1;1;from
+Q2170;Biobío Region;CUT code;1;1;from
+Q2170;Biobío Region;официальный сайт;1;1;from
+Q2170;Biobío Region;код в Большой каталанской энциклопедии;1;1;from
+Q2170;Biobío Region;десятичная классификация Дьюи;1;1;from
+Q2176;Araucanía Region;географические координаты;1;1;from
+Q2170;Biobío Region;административно делится на;1;1;to
+Q2166;Maule Region;юрисдикция распространяется на;1;5;to
+Q2166;Maule Region;категория объединяет темы;1;4;to
+Q2166;Maule Region;место рождения;1;2;to
+Q2166;Maule Region;место смерти;1;1;to
+Q2166;Maule Region;находится в пределах природно-географического объекта;1;1;to
+Q2166;Maule Region;общая тема категории;1;1;to
+Q2166;Maule Region;является столицей;1;1;to
+Q2170;Biobío Region;административно-территориальная единица;1;1101;to
+Q2170;Biobío Region;государство;1;1;from
+Q2170;Biobío Region;изображение герба;1;1;from
+Q2170;Biobío Region;изображение;1;1;from
+Q2170;Biobío Region;законодательный орган;1;1;from
+Q2170;Biobío Region;карта местонахождения;1;1;from
+Q2170;Biobío Region;код LCNAF;1;1;from
+Q2170;Biobío Region;это частный случай понятия;1;1;from
+Q2170;Biobío Region;столица;1;1;from
+Q2170;Biobío Region;изображение флага;1;1;from
+Q2170;Biobío Region;имеет границы с;1;4;to
+Q2170;Biobío Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2170;Biobío Region;основная категория по теме;1;1;from
+Q2170;Biobío Region;галерея на Викискладе;1;1;from
+Q2176;Araucanía Region;площадь;1;1;from
+Q2176;Araucanía Region;десятичная классификация Дьюи;1;1;from
+Q2176;Araucanía Region;численность населения;1;8;from
+Q2176;Araucanía Region;код в Большой каталанской энциклопедии;1;1;from
+Q2176;Araucanía Region;должность главы правительства;1;1;from
+Q2176;Araucanía Region;категория для людей, родившихся здесь;1;1;from
+Q2176;Araucanía Region;код GeoNames;1;1;from
+Q2176;Araucanía Region;категория для людей, связанных с местностью;1;1;from
+Q2176;Araucanía Region;высота над уровнем моря;1;1;from
+Q2176;Araucanía Region;код BabelNet;1;1;from
+Q2170;Biobío Region;баннер Викигида;1;1;from
+Q2176;Araucanía Region;используемый язык;1;1;from
+Q2176;Araucanía Region;ISO 3166-2;1;1;from
+Q2176;Araucanía Region;код в Encyclopædia Universalis;1;1;from
+Q2176;Araucanía Region;категория на Викискладе;1;1;from
+Q2176;Araucanía Region;ID отношения в OpenStreetMap;1;1;from
+Q2176;Araucanía Region;часовой пояс;1;1;from
+Q2176;Araucanía Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2176;Araucanía Region;наивысшая точка;1;1;from
+Q2176;Araucanía Region;изображение герба;1;1;from
+Q2176;Araucanía Region;имеет границы с;1;3;to
+Q2176;Araucanía Region;изображение флага;1;1;from
+Q2176;Araucanía Region;официальный язык;1;2;from
+Q2170;Biobío Region;место в MusicBrainz;1;1;from
+Q2170;Biobío Region;местонахождение;1;2;to
+Q2170;Biobío Region;место рождения;1;2;to
+Q2170;Biobío Region;юрисдикция распространяется на;1;5;to
+Q2170;Biobío Region;категория объединяет темы;1;4;to
+Q2170;Biobío Region;часть от;1;1;to
+Q2170;Biobío Region;общая тема категории;1;1;to
+Q2170;Biobío Region;является столицей;1;1;to
+Q2170;Biobío Region;названо в честь;1;1;to
+Q2176;Araucanía Region;административно-территориальная единица;1;968;to
+Q2176;Araucanía Region;административно делится на;1;1;to
+Q2176;Araucanía Region;государство;1;1;from
+Q2176;Araucanía Region;изображение;1;1;from
+Q2176;Araucanía Region;законодательный орган;1;1;from
+Q2176;Araucanía Region;карта местонахождения;1;1;from
+Q2176;Araucanía Region;это частный случай понятия;1;1;from
+Q2176;Araucanía Region;столица;1;1;from
+Q2178;Los Lagos Region;код Freebase;1;1;from
+Q2178;Los Lagos Region;Who's on First ID;1;1;from
+Q2178;Los Lagos Region;CUT code;1;1;from
+Q219458;Valparaíso Region;высота над уровнем моря;1;1;from
+Q219458;Valparaíso Region;десятичная классификация Дьюи;1;1;from
+Q219458;Valparaíso Region;численность населения;1;8;from
+Q219458;Valparaíso Region;должность главы правительства;1;1;from
+Q219458;Valparaíso Region;список памятников;1;1;from
+Q219458;Valparaíso Region;категория для людей, родившихся здесь;1;1;from
+Q219458;Valparaíso Region;этнохороним;1;1;from
+Q219458;Valparaíso Region;код GeoNames;1;1;from
+Q219458;Valparaíso Region;категория для людей, связанных с местностью;1;1;from
+Q219458;Valparaíso Region;площадь;1;1;from
+Q219458;Valparaíso Region;имеет границы с;1;5;to
+Q219458;Valparaíso Region;используемый язык;1;1;from
+Q219458;Valparaíso Region;ISO 3166-2;1;1;from
+Q219458;Valparaíso Region;категория на Викискладе;1;1;from
+Q219458;Valparaíso Region;ID отношения в OpenStreetMap;1;1;from
+Q219458;Valparaíso Region;часовой пояс;1;1;from
+Q219458;Valparaíso Region;идентификатор местоположения ArchINFORM;1;1;from
+Q219458;Valparaíso Region;географические координаты;1;1;from
+Q219458;Valparaíso Region;код Freebase;1;1;from
+Q219458;Valparaíso Region;изображение герба;1;1;from
+Q219458;Valparaíso Region;изображение флага;1;1;from
+Q2178;Los Lagos Region;категория карт на Викискладе;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;находится в пределах природно-географического объекта;1;1;to
+Q2189;Magellan and the Chilean Antarctic Region;основная категория по теме;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;галерея на Викискладе;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;юрисдикция распространяется на;1;5;to
+Q2189;Magellan and the Chilean Antarctic Region;исток водотока;1;1;to
+Q2189;Magellan and the Chilean Antarctic Region;категория объединяет темы;1;2;to
+Q2189;Magellan and the Chilean Antarctic Region;является эндемиком в;1;1;to
+Q2189;Magellan and the Chilean Antarctic Region;происходит из;1;2;to
+Q2189;Magellan and the Chilean Antarctic Region;место рождения;1;1;to
+Q2189;Magellan and the Chilean Antarctic Region;общая тема категории;1;1;to
+Q219458;Valparaíso Region;столица;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;является столицей;1;1;to
+Q219458;Valparaíso Region;административно-территориальная единица;1;1650;to
+Q219458;Valparaíso Region;административно делится на;1;1;to
+Q219458;Valparaíso Region;государство;1;1;from
+Q219458;Valparaíso Region;изображение;1;1;from
+Q219458;Valparaíso Region;законодательный орган;1;1;from
+Q219458;Valparaíso Region;карта местонахождения;1;1;from
+Q219458;Valparaíso Region;это частный случай понятия;1;1;from
+Q219458;Valparaíso Region;Who's on First ID;1;1;from
+Q219458;Valparaíso Region;CUT code;1;1;from
+Q219458;Valparaíso Region;официальный сайт;1;1;from
+Q24076693;Ñuble Region;часовой пояс;1;1;from
+Q24076693;Ñuble Region;десятичная классификация Дьюи;1;1;from
+Q24076693;Ñuble Region;численность населения;1;6;from
+Q24076693;Ñuble Region;должность главы правительства;1;1;from
+Q24076693;Ñuble Region;этнохороним;1;1;from
+Q24076693;Ñuble Region;код в Google Knowledge Graph;1;1;from
+Q24076693;Ñuble Region;ISO 3166-2;1;1;from
+Q24076693;Ñuble Region;категория на Викискладе;1;1;from
+Q24076693;Ñuble Region;ID отношения в OpenStreetMap;1;1;from
+Q24076693;Ñuble Region;дата основания/создания/возникновения;1;1;from
+Q219458;Valparaíso Region;FIPS 10-4 (страны и регионы);1;1;from
+Q24076693;Ñuble Region;географические координаты;1;1;from
+Q24076693;Ñuble Region;CUT code;1;1;from
+Q24076693;Ñuble Region;официальный сайт;1;1;from
+Q24076693;Ñuble Region;основная категория по теме;1;1;from
+Q24076693;Ñuble Region;общая тема категории;1;1;to
+Q24076693;Ñuble Region;юрисдикция распространяется на;1;3;to
+Q24076693;Ñuble Region;находится в границах современной административной единицы;1;1;to
+Q24076693;Ñuble Region;заменён на;1;1;to
+Q24076693;Ñuble Region;изображение герба;1;1;from
+Q24076693;Ñuble Region;имеет границы с;1;3;to
+Q24076693;Ñuble Region;изображение флага;1;1;from
+Q24076693;Ñuble Region;столица;1;1;from
+Q219458;Valparaíso Region;основная категория по теме;1;1;from
+Q219458;Valparaíso Region;галерея на Викискладе;1;1;from
+Q219458;Valparaíso Region;место в MusicBrainz;1;1;from
+Q219458;Valparaíso Region;местонахождение;1;1;to
+Q219458;Valparaíso Region;место активности;1;1;to
+Q219458;Valparaíso Region;юрисдикция распространяется на;1;5;to
+Q219458;Valparaíso Region;категория объединяет темы;1;4;to
+Q219458;Valparaíso Region;место рождения;1;6;to
+Q219458;Valparaíso Region;типовая местность (геология);1;1;to
+Q219458;Valparaíso Region;общая тема категории;1;1;to
+Q219458;Valparaíso Region;является столицей;1;1;to
+Q219458;Valparaíso Region;происходит из;1;1;to
+Q24076693;Ñuble Region;административно-территориальная единица;1;19;to
+Q24076693;Ñuble Region;административно делится на;1;1;to
+Q24076693;Ñuble Region;государство;1;1;from
+Q24076693;Ñuble Region;карта местонахождения;1;1;from
+Q24076693;Ñuble Region;это частный случай понятия;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;официальный сайт;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;CUT code;1;1;from
+Q2181;Aysén Region;категория для людей, родившихся здесь;1;1;from
+Q2181;Aysén Region;изображение флага;1;1;from
+Q2181;Aysén Region;имеет границы с;1;4;to
+Q2181;Aysén Region;изображение герба;1;1;from
+Q2181;Aysén Region;десятичная классификация Дьюи;1;1;from
+Q2181;Aysén Region;численность населения;1;8;from
+Q2181;Aysén Region;код в Большой каталанской энциклопедии;1;1;from
+Q2181;Aysén Region;должность главы правительства;1;1;from
+Q2181;Aysén Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q2181;Aysén Region;этнохороним;1;1;from
+Q2181;Aysén Region;код Freebase;1;1;from
+Q2181;Aysén Region;код GeoNames;1;1;from
+Q2181;Aysén Region;высота над уровнем моря;1;1;from
+Q2181;Aysén Region;площадь;1;1;from
+Q2181;Aysén Region;ISO 3166-2;1;1;from
+Q2181;Aysén Region;категория на Викискладе;1;1;from
+Q2181;Aysén Region;ID отношения в OpenStreetMap;1;1;from
+Q2181;Aysén Region;часовой пояс;1;1;from
+Q2181;Aysén Region;местный телефонный код;1;1;from
+Q2181;Aysén Region;столица;1;1;from
+Q2181;Aysén Region;это частный случай понятия;1;1;from
+Q2181;Aysén Region;карта местонахождения;1;1;from
+Q2181;Aysén Region;законодательный орган;1;1;from
+Q2178;Los Lagos Region;официальный сайт;1;1;from
+Q2178;Los Lagos Region;FIPS 10-4 (страны и регионы);1;2;from
+Q2178;Los Lagos Region;основная категория по теме;1;1;from
+Q2178;Los Lagos Region;галерея на Викискладе;1;1;from
+Q2178;Los Lagos Region;баннер Викигида;1;1;from
+Q2178;Los Lagos Region;место в MusicBrainz;1;1;from
+Q2178;Los Lagos Region;категория объединяет темы;1;4;to
+Q2178;Los Lagos Region;юрисдикция распространяется на;1;5;to
+Q2178;Los Lagos Region;место рождения;1;2;to
+Q2178;Los Lagos Region;место жительства;1;1;to
+Q2178;Los Lagos Region;общая тема категории;1;1;to
+Q2178;Los Lagos Region;происходит из;1;2;to
+Q2178;Los Lagos Region;является столицей;1;1;to
+Q2181;Aysén Region;административно-территориальная единица;1;2021;to
+Q2181;Aysén Region;административно делится на;1;1;to
+Q2181;Aysén Region;государство;1;1;from
+Q2181;Aysén Region;изображение;1;1;from
+Q2181;Aysén Region;географические координаты;1;1;from
+Q2181;Aysén Region;Who's on First ID;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;Who's on First ID;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;высота над уровнем моря;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;имеет границы с;1;3;to
+Q2189;Magellan and the Chilean Antarctic Region;изображение герба;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;десятичная классификация Дьюи;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;численность населения;1;8;from
+Q2189;Magellan and the Chilean Antarctic Region;должность главы правительства;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;категория для людей, родившихся здесь;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;код GeoNames;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;код TGN;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;площадь;1;1;from
+Q2181;Aysén Region;CUT code;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;используемый язык;1;2;from
+Q2189;Magellan and the Chilean Antarctic Region;ISO 3166-2;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;категория на Викискладе;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;ID отношения в OpenStreetMap;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;часовой пояс;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;географические координаты;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;код Freebase;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;изображение флага;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;столица;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;это частный случай понятия;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;код LCNAF;1;1;from
+Q2181;Aysén Region;официальный сайт;1;1;from
+Q2181;Aysén Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2181;Aysén Region;основная категория по теме;1;1;from
+Q2181;Aysén Region;галерея на Викискладе;1;1;from
+Q2181;Aysén Region;место в MusicBrainz;1;1;from
+Q2181;Aysén Region;категория объединяет темы;1;3;to
+Q2181;Aysén Region;юрисдикция распространяется на;1;5;to
+Q2181;Aysén Region;место смерти;1;1;to
+Q2181;Aysén Region;общая тема категории;1;1;to
+Q2181;Aysén Region;является столицей;1;1;to
+Q2189;Magellan and the Chilean Antarctic Region;административно-территориальная единица;1;4103;to
+Q2189;Magellan and the Chilean Antarctic Region;административно делится на;1;1;to
+Q2189;Magellan and the Chilean Antarctic Region;описание флага;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;государство;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;изображение;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;законодательный орган;1;1;from
+Q2189;Magellan and the Chilean Antarctic Region;карта местонахождения;1;1;from
+Q2166;Maule Region;галерея на Викискладе;1;1;from
+Q2166;Maule Region;основная категория по теме;1;1;from
+Q2166;Maule Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2118;Antofagasta Region;ISO 3166-2;1;1;from
+Q2118;Antofagasta Region;мужское население;1;2;from
+Q2118;Antofagasta Region;этнохороним;1;1;from
+Q2118;Antofagasta Region;код GeoNames;1;1;from
+Q2118;Antofagasta Region;категория для людей, связанных с местностью;1;1;from
+Q2118;Antofagasta Region;высота над уровнем моря;1;1;from
+Q2118;Antofagasta Region;площадь;1;1;from
+Q2118;Antofagasta Region;код BNF;1;1;from
+Q2118;Antofagasta Region;используемый язык;1;2;from
+Q2118;Antofagasta Region;категория на Викискладе;1;1;from
+Q2118;Antofagasta Region;категория для людей, родившихся здесь;1;1;from
+Q2118;Antofagasta Region;ID отношения в OpenStreetMap;1;1;from
+Q2118;Antofagasta Region;часовой пояс;1;1;from
+Q2118;Antofagasta Region;код для сущности Wolfram Language;1;1;from
+Q2118;Antofagasta Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2118;Antofagasta Region;географические координаты;1;1;from
+Q2118;Antofagasta Region;код Freebase;1;1;from
+Q2118;Antofagasta Region;Who's on First ID;1;1;from
+Q2118;Antofagasta Region;CUT code;1;1;from
+Q2118;Antofagasta Region;женское население;1;2;from
+Q2118;Antofagasta Region;должность главы правительства;1;1;from
+Q2120;Atacama Region;основная категория по теме;1;1;from
+Q2118;Antofagasta Region;законодательный орган;1;1;from
+Q2114;Tarapacá Region;типовая местность (геология);1;1;to
+Q2114;Tarapacá Region;заменён на;1;1;to
+Q2114;Tarapacá Region;общая тема категории;1;1;to
+Q2114;Tarapacá Region;является столицей;1;1;to
+Q2118;Antofagasta Region;административно-территориальная единица;1;1732;to
+Q2118;Antofagasta Region;административно делится на;1;1;to
+Q2118;Antofagasta Region;государство;1;1;from
+Q2118;Antofagasta Region;изображение;1;1;from
+Q2118;Antofagasta Region;карта местонахождения;1;1;from
+Q2118;Antofagasta Region;код в Большой каталанской энциклопедии;1;1;from
+Q2118;Antofagasta Region;это частный случай понятия;1;1;from
+Q2118;Antofagasta Region;столица;1;1;from
+Q2118;Antofagasta Region;изображение флага;1;1;from
+Q2118;Antofagasta Region;имеет границы с;1;6;to
+Q2118;Antofagasta Region;изображение герба;1;1;from
+Q2118;Antofagasta Region;десятичная классификация Дьюи;1;1;from
+Q2118;Antofagasta Region;численность населения;1;8;from
+Q2118;Antofagasta Region;значение в OmegaWiki;1;1;from
+Q2118;Antofagasta Region;официальный сайт;1;1;from
+Q2118;Antofagasta Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2118;Antofagasta Region;основная категория по теме;1;1;from
+Q2120;Atacama Region;код темы Quora;1;1;from
+Q2120;Atacama Region;должность главы правительства;1;1;from
+Q2120;Atacama Region;категория для людей, родившихся здесь;1;1;from
+Q2120;Atacama Region;этнохороним;1;1;from
+Q2120;Atacama Region;код GeoNames;1;1;from
+Q2120;Atacama Region;высота над уровнем моря;1;1;from
+Q2120;Atacama Region;площадь;1;1;from
+Q2120;Atacama Region;используемый язык;1;1;from
+Q2120;Atacama Region;ISO 3166-2;1;1;from
+Q2120;Atacama Region;категория на Викискладе;1;1;from
+Q2118;Antofagasta Region;галерея на Викискладе;1;1;from
+Q2120;Atacama Region;ID отношения в OpenStreetMap;1;1;from
+Q2120;Atacama Region;часовой пояс;1;1;from
+Q2120;Atacama Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2120;Atacama Region;географические координаты;1;1;from
+Q2120;Atacama Region;код Freebase;1;1;from
+Q2120;Atacama Region;Who's on First ID;1;1;from
+Q2120;Atacama Region;CUT code;1;1;from
+Q2120;Atacama Region;официальный сайт;1;1;from
+Q2120;Atacama Region;код в Большой каталанской энциклопедии;1;1;from
+Q2120;Atacama Region;численность населения;1;8;from
+Q2120;Atacama Region;десятичная классификация Дьюи;1;1;from
+Q2120;Atacama Region;изображение герба;1;1;from
+Q2118;Antofagasta Region;место в MusicBrainz;1;1;from
+Q2118;Antofagasta Region;юрисдикция распространяется на;1;5;to
+Q2118;Antofagasta Region;место рождения;1;4;to
+Q2118;Antofagasta Region;категория объединяет темы;1;4;to
+Q2118;Antofagasta Region;происходит из;1;2;to
+Q2118;Antofagasta Region;общая тема категории;1;1;to
+Q2118;Antofagasta Region;является столицей;1;1;to
+Q2120;Atacama Region;административно-территориальная единица;1;2639;to
+Q2120;Atacama Region;административно делится на;1;1;to
+Q2120;Atacama Region;государство;1;1;from
+Q2120;Atacama Region;изображение;1;1;from
+Q2120;Atacama Region;законодательный орган;1;1;from
+Q2120;Atacama Region;карта местонахождения;1;1;from
+Q2120;Atacama Region;это частный случай понятия;1;1;from
+Q2120;Atacama Region;столица;1;1;from
+Q2120;Atacama Region;изображение флага;1;1;from
+Q2120;Atacama Region;имеет границы с;1;5;to
+Q2114;Tarapacá Region;происходит из;1;1;to
+Q2114;Tarapacá Region;категория объединяет темы;1;3;to
+Q2114;Tarapacá Region;юрисдикция распространяется на;1;5;to
+Q2109;Arica y Parinacota Region;географические координаты;1;1;from
+Q2109;Arica y Parinacota Region;категория для людей, связанных с местностью;1;1;from
+Q2109;Arica y Parinacota Region;высота над уровнем моря;1;1;from
+Q2109;Arica y Parinacota Region;площадь;1;1;from
+Q2109;Arica y Parinacota Region;ISO 3166-2;1;1;from
+Q2109;Arica y Parinacota Region;категория на Викискладе;1;1;from
+Q2109;Arica y Parinacota Region;ID отношения в OpenStreetMap;1;1;from
+Q2109;Arica y Parinacota Region;часовой пояс;1;1;from
+Q2109;Arica y Parinacota Region;дата основания/создания/возникновения;1;1;from
+Q2109;Arica y Parinacota Region;код Freebase;1;1;from
+Q2109;Arica y Parinacota Region;общая тема категории;1;1;to
+Q2109;Arica y Parinacota Region;Who's on First ID;1;1;from
+Q2109;Arica y Parinacota Region;CUT code;1;1;from
+Q2109;Arica y Parinacota Region;официальный сайт;1;1;from
+Q2109;Arica y Parinacota Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2109;Arica y Parinacota Region;основная категория по теме;1;1;from
+Q2109;Arica y Parinacota Region;галерея на Викискладе;1;1;from
+Q2109;Arica y Parinacota Region;место в MusicBrainz;1;1;from
+Q2109;Arica y Parinacota Region;юрисдикция распространяется на;1;5;to
+Q2109;Arica y Parinacota Region;код TGN;1;1;from
+Q2109;Arica y Parinacota Region;код GeoNames;1;1;from
+Q2109;Arica y Parinacota Region;этнохороним;1;1;from
+Q2109;Arica y Parinacota Region;мужское население;1;2;from
+Q2109;Arica y Parinacota Region;государство;1;1;from
+Q2109;Arica y Parinacota Region;изображение;1;1;from
+Q2109;Arica y Parinacota Region;законодательный орган;1;1;from
+Q2109;Arica y Parinacota Region;код VIAF;1;1;from
+Q2109;Arica y Parinacota Region;код GND;1;1;from
+Q2109;Arica y Parinacota Region;карта местонахождения;1;1;from
+Q2109;Arica y Parinacota Region;это частный случай понятия;1;1;from
+Q2109;Arica y Parinacota Region;столица;1;1;from
+Q2109;Arica y Parinacota Region;изображение флага;1;1;from
+Q2109;Arica y Parinacota Region;имеет границы с;1;4;to
+Q2109;Arica y Parinacota Region;изображение герба;1;1;from
+Q2109;Arica y Parinacota Region;десятичная классификация Дьюи;1;1;from
+Q2109;Arica y Parinacota Region;численность населения;1;8;from
+Q2109;Arica y Parinacota Region;должность главы правительства;1;1;from
+Q2109;Arica y Parinacota Region;официальное название;1;1;from
+Q2109;Arica y Parinacota Region;категория для людей, родившихся здесь;1;1;from
+Q2109;Arica y Parinacota Region;женское население;1;2;from
+Q2109;Arica y Parinacota Region;категория объединяет темы;1;3;to
+Q2109;Arica y Parinacota Region;является столицей;1;1;to
+Q2114;Tarapacá Region;место рождения;1;5;to
+Q2114;Tarapacá Region;географические координаты;1;1;from
+Q2114;Tarapacá Region;площадь;1;1;from
+Q2114;Tarapacá Region;используемый язык;1;1;from
+Q2114;Tarapacá Region;ISO 3166-2;1;1;from
+Q2114;Tarapacá Region;категория на Викискладе;1;1;from
+Q2114;Tarapacá Region;ID отношения в OpenStreetMap;1;1;from
+Q2114;Tarapacá Region;часовой пояс;1;1;from
+Q2114;Tarapacá Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2114;Tarapacá Region;дата основания/создания/возникновения;1;1;from
+Q2114;Tarapacá Region;код Freebase;1;1;from
+Q2114;Tarapacá Region;административно-территориальная единица;1;961;to
+Q2114;Tarapacá Region;Who's on First ID;1;1;from
+Q2114;Tarapacá Region;CUT code;1;1;from
+Q2114;Tarapacá Region;официальный сайт;1;1;from
+Q2114;Tarapacá Region;FIPS 10-4 (страны и регионы);1;2;from
+Q2114;Tarapacá Region;основная категория по теме;1;1;from
+Q2114;Tarapacá Region;галерея на Викискладе;1;1;from
+Q2114;Tarapacá Region;место в MusicBrainz;1;1;from
+Q2114;Tarapacá Region;пример использования свойства;1;1;to
+Q2114;Tarapacá Region;высота над уровнем моря;1;1;from
+Q2114;Tarapacá Region;код GeoNames;1;1;from
+Q2114;Tarapacá Region;этнохороним;1;1;from
+Q2114;Tarapacá Region;мужское население;1;2;from
+Q2114;Tarapacá Region;административно делится на;1;1;to
+Q2114;Tarapacá Region;государство;1;1;from
+Q2114;Tarapacá Region;изображение;1;1;from
+Q2114;Tarapacá Region;законодательный орган;1;1;from
+Q2114;Tarapacá Region;карта местонахождения;1;1;from
+Q2114;Tarapacá Region;это частный случай понятия;1;1;from
+Q2114;Tarapacá Region;столица;1;1;from
+Q2114;Tarapacá Region;изображение флага;1;1;from
+Q2114;Tarapacá Region;имеет границы с;1;4;to
+Q2114;Tarapacá Region;изображение герба;1;1;from
+Q2114;Tarapacá Region;десятичная классификация Дьюи;1;1;from
+Q2114;Tarapacá Region;численность населения;1;8;from
+Q2114;Tarapacá Region;код в Большой каталанской энциклопедии;1;1;from
+Q2114;Tarapacá Region;должность главы правительства;1;1;from
+Q2114;Tarapacá Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q2114;Tarapacá Region;категория для людей, родившихся здесь;1;1;from
+Q2114;Tarapacá Region;женское население;1;2;from
+Q2120;Atacama Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2120;Atacama Region;галерея на Викискладе;1;1;from
+Q2166;Maule Region;официальный сайт;1;1;from
+Q2133;O'Higgins Region;высота над уровнем моря;1;1;from
+Q2133;O'Higgins Region;десятичная классификация Дьюи;1;1;from
+Q2133;O'Higgins Region;численность населения;1;8;from
+Q2133;O'Higgins Region;код в Большой каталанской энциклопедии;1;1;from
+Q2133;O'Higgins Region;должность главы правительства;1;1;from
+Q2133;O'Higgins Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q2133;O'Higgins Region;категория для людей, родившихся здесь;1;1;from
+Q2133;O'Higgins Region;код GeoNames;1;1;from
+Q2133;O'Higgins Region;код TGN;1;1;from
+Q2133;O'Higgins Region;площадь;1;1;from
+Q2133;O'Higgins Region;имеет границы с;1;4;to
+Q2133;O'Higgins Region;ISO 3166-2;1;1;from
+Q2133;O'Higgins Region;категория на Викискладе;1;1;from
+Q2133;O'Higgins Region;ID отношения в OpenStreetMap;1;1;from
+Q2133;O'Higgins Region;часовой пояс;1;1;from
+Q2133;O'Higgins Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2133;O'Higgins Region;географические координаты;1;1;from
+Q2133;O'Higgins Region;код Freebase;1;1;from
+Q2133;O'Higgins Region;Who's on First ID;1;1;from
+Q2133;O'Higgins Region;изображение герба;1;1;from
+Q2133;O'Higgins Region;изображение флага;1;1;from
+Q2120;Atacama Region;категория объединяет темы;1;4;to
+Q2131;Santiago Metropolitan Region;общая тема категории;1;1;to
+Q2131;Santiago Metropolitan Region;основная категория по теме;1;1;from
+Q2131;Santiago Metropolitan Region;галерея на Викискладе;1;1;from
+Q2131;Santiago Metropolitan Region;место в MusicBrainz;1;1;from
+Q2131;Santiago Metropolitan Region;местонахождение;1;1;to
+Q2131;Santiago Metropolitan Region;юрисдикция распространяется на;1;5;to
+Q2131;Santiago Metropolitan Region;место рождения;1;1;to
+Q2131;Santiago Metropolitan Region;категория объединяет темы;1;4;to
+Q2131;Santiago Metropolitan Region;является эндемиком в;1;2;to
+Q2131;Santiago Metropolitan Region;является столицей;1;1;to
+Q2133;O'Higgins Region;столица;1;1;from
+Q2133;O'Higgins Region;административно-территориальная единица;1;1383;to
+Q2133;O'Higgins Region;административно делится на;1;1;to
+Q2133;O'Higgins Region;государство;1;1;from
+Q2133;O'Higgins Region;законодательный орган;1;1;from
+Q2133;O'Higgins Region;код GND;1;1;from
+Q2133;O'Higgins Region;карта местонахождения;1;1;from
+Q2133;O'Higgins Region;код LCNAF;1;1;from
+Q2133;O'Higgins Region;это частный случай понятия;1;1;from
+Q2133;O'Higgins Region;CUT code;1;1;from
+Q2133;O'Higgins Region;официальный сайт;1;1;from
+Q2133;O'Higgins Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2166;Maule Region;площадь;1;1;from
+Q2166;Maule Region;должность главы правительства;1;1;from
+Q2166;Maule Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q2166;Maule Region;категория для людей, родившихся здесь;1;1;from
+Q2166;Maule Region;этнохороним;1;1;from
+Q2166;Maule Region;код GeoNames;1;1;from
+Q2166;Maule Region;категория для людей, связанных с местностью;1;1;from
+Q2166;Maule Region;не путать с;1;1;to
+Q2166;Maule Region;высота над уровнем моря;1;1;from
+Q2166;Maule Region;ISO 3166-2;1;1;from
+Q2133;O'Higgins Region;основная категория по теме;1;1;from
+Q2166;Maule Region;категория на Викискладе;1;1;from
+Q2166;Maule Region;ID отношения в OpenStreetMap;1;1;from
+Q2166;Maule Region;часовой пояс;1;1;from
+Q2166;Maule Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2166;Maule Region;географические координаты;1;1;from
+Q2166;Maule Region;код Freebase;1;1;from
+Q2166;Maule Region;Who's on First ID;1;1;from
+Q2166;Maule Region;CUT code;1;1;from
+Q2166;Maule Region;код в Большой каталанской энциклопедии;1;1;from
+Q2166;Maule Region;численность населения;1;8;from
+Q2166;Maule Region;десятичная классификация Дьюи;1;1;from
+Q2166;Maule Region;изображение герба;1;1;from
+Q2133;O'Higgins Region;галерея на Викискладе;1;1;from
+Q2133;O'Higgins Region;местонахождение;1;1;to
+Q2133;O'Higgins Region;юрисдикция распространяется на;1;6;to
+Q2133;O'Higgins Region;категория объединяет темы;1;3;to
+Q2133;O'Higgins Region;общая тема категории;1;1;to
+Q2133;O'Higgins Region;является столицей;1;1;to
+Q2166;Maule Region;административно-территориальная единица;1;832;to
+Q2166;Maule Region;административно делится на;1;1;to
+Q2166;Maule Region;государство;1;1;from
+Q2166;Maule Region;изображение;1;1;from
+Q2166;Maule Region;законодательный орган;1;1;from
+Q2166;Maule Region;карта местонахождения;1;1;from
+Q2166;Maule Region;код LCNAF;1;1;from
+Q2166;Maule Region;это частный случай понятия;1;1;from
+Q2166;Maule Region;столица;1;1;from
+Q2166;Maule Region;изображение флага;1;1;from
+Q2166;Maule Region;имеет границы с;1;5;to
+Q2131;Santiago Metropolitan Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2131;Santiago Metropolitan Region;официальный сайт;1;1;from
+Q2131;Santiago Metropolitan Region;CUT code;1;1;from
+Q2121;Coquimbo Region;ISO 3166-2;1;1;from
+Q2121;Coquimbo Region;должность главы правительства;1;1;from
+Q2121;Coquimbo Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q2121;Coquimbo Region;категория для людей, родившихся здесь;1;1;from
+Q2121;Coquimbo Region;этнохороним;1;1;from
+Q2121;Coquimbo Region;код GeoNames;1;1;from
+Q2121;Coquimbo Region;название на языке оригинала;1;1;from
+Q2121;Coquimbo Region;высота над уровнем моря;1;1;from
+Q2121;Coquimbo Region;площадь;1;1;from
+Q2121;Coquimbo Region;код темы Quora;1;1;from
+Q2121;Coquimbo Region;FIPS 10-4 (страны и регионы);1;1;from
+Q2121;Coquimbo Region;категория на Викискладе;1;1;from
+Q2121;Coquimbo Region;ID отношения в OpenStreetMap;1;1;from
+Q2121;Coquimbo Region;часовой пояс;1;1;from
+Q2121;Coquimbo Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2121;Coquimbo Region;географические координаты;1;1;from
+Q2121;Coquimbo Region;код Freebase;1;1;from
+Q2121;Coquimbo Region;Who's on First ID;1;1;from
+Q2121;Coquimbo Region;CUT code;1;1;from
+Q2121;Coquimbo Region;код в Большой каталанской энциклопедии;1;2;from
+Q2121;Coquimbo Region;код US National Archives;1;1;from
+Q2121;Coquimbo Region;численность населения;1;8;from
+Q2121;Coquimbo Region;десятичная классификация Дьюи;1;1;from
+Q2120;Atacama Region;юрисдикция распространяется на;1;5;to
+Q2120;Atacama Region;происходит из;1;1;to
+Q2120;Atacama Region;место обнаружения;1;1;to
+Q2120;Atacama Region;типовая местность (геология);1;1;to
+Q2120;Atacama Region;общая тема категории;1;1;to
+Q2120;Atacama Region;является столицей;1;1;to
+Q2121;Coquimbo Region;административно-территориальная единица;1;1451;to
+Q2121;Coquimbo Region;административно делится на;1;1;to
+Q2121;Coquimbo Region;государство;1;1;from
+Q2121;Coquimbo Region;изображение;1;1;from
+Q2121;Coquimbo Region;законодательный орган;1;1;from
+Q2121;Coquimbo Region;карта местонахождения;1;1;from
+Q2121;Coquimbo Region;это частный случай понятия;1;1;from
+Q2121;Coquimbo Region;столица;1;1;from
+Q2121;Coquimbo Region;изображение флага;1;1;from
+Q2121;Coquimbo Region;имеет границы с;1;3;to
+Q2121;Coquimbo Region;изображение герба;1;1;from
+Q2121;Coquimbo Region;официальный сайт;1;1;from
+Q2121;Coquimbo Region;основная категория по теме;1;1;from
+Q2131;Santiago Metropolitan Region;Who's on First ID;1;1;from
+Q2131;Santiago Metropolitan Region;высота над уровнем моря;1;1;from
+Q2131;Santiago Metropolitan Region;численность населения;1;8;from
+Q2131;Santiago Metropolitan Region;код в Большой каталанской энциклопедии;1;2;from
+Q2131;Santiago Metropolitan Region;должность главы правительства;1;1;from
+Q2131;Santiago Metropolitan Region;категория для людей, родившихся здесь;1;1;from
+Q2131;Santiago Metropolitan Region;этнохороним;1;1;from
+Q2131;Santiago Metropolitan Region;код GeoNames;1;1;from
+Q2131;Santiago Metropolitan Region;код TGN;1;1;from
+Q2131;Santiago Metropolitan Region;категория для людей, связанных с местностью;1;1;from
+Q2131;Santiago Metropolitan Region;площадь;1;1;from
+Q2121;Coquimbo Region;галерея на Викискладе;1;1;from
+Q2131;Santiago Metropolitan Region;ISO 3166-2;1;1;from
+Q2131;Santiago Metropolitan Region;категория на Викискладе;1;1;from
+Q2131;Santiago Metropolitan Region;ID отношения в OpenStreetMap;1;1;from
+Q2131;Santiago Metropolitan Region;часовой пояс;1;1;from
+Q2131;Santiago Metropolitan Region;местный телефонный код;1;1;from
+Q2131;Santiago Metropolitan Region;идентификатор местоположения ArchINFORM;1;1;from
+Q2131;Santiago Metropolitan Region;географические координаты;1;1;from
+Q2131;Santiago Metropolitan Region;код Freebase;1;1;from
+Q2131;Santiago Metropolitan Region;десятичная классификация Дьюи;1;1;from
+Q2131;Santiago Metropolitan Region;изображение герба;1;1;from
+Q2131;Santiago Metropolitan Region;имеет границы с;1;3;to
+Q2131;Santiago Metropolitan Region;изображение флага;1;1;from
+Q2121;Coquimbo Region;место в MusicBrainz;1;1;from
+Q2121;Coquimbo Region;юрисдикция распространяется на;1;5;to
+Q2121;Coquimbo Region;категория объединяет темы;1;3;to
+Q2121;Coquimbo Region;местонахождение;1;3;to
+Q2121;Coquimbo Region;названо в честь;1;1;to
+Q2121;Coquimbo Region;место рождения;1;2;to
+Q2121;Coquimbo Region;общая тема категории;1;1;to
+Q2121;Coquimbo Region;место смерти;1;1;to
+Q2121;Coquimbo Region;является столицей;1;1;to
+Q2131;Santiago Metropolitan Region;административно-территориальная единица;1;1511;to
+Q2131;Santiago Metropolitan Region;административно делится на;1;1;to
+Q2131;Santiago Metropolitan Region;государство;1;1;from
+Q2131;Santiago Metropolitan Region;изображение;1;1;from
+Q2131;Santiago Metropolitan Region;законодательный орган;1;1;from
+Q2131;Santiago Metropolitan Region;карта местонахождения;1;1;from
+Q2131;Santiago Metropolitan Region;это частный случай понятия;1;1;from
+Q2131;Santiago Metropolitan Region;столица;1;1;from
+Q24076693;Ñuble Region;является столицей;1;1;to

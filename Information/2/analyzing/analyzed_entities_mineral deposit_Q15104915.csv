@@ -1,0 +1,461 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q86296612;Douglashall;административно-территориальная единица;1;1;from
+Q21210360;Q21210360;административно-территориальная единица;1;1;from
+Q21199044;Q21199044;это частный случай понятия;1;1;from
+Q21199044;Q21199044;государство;1;1;from
+Q21199044;Q21199044;административно-территориальная единица;1;1;from
+Q20484036;Q20484036;это частный случай понятия;1;1;from
+Q19908953;Прогноз;географические координаты;1;1;from
+Q19908953;Прогноз;продукция;1;1;from
+Q19908953;Прогноз;это частный случай понятия;1;1;from
+Q19908953;Прогноз;государство;1;1;from
+Q19908953;Прогноз;административно-территориальная единица;1;1;from
+Q17093966;Buštranje oil shale deposit;продукция;1;1;from
+Q17093966;Buštranje oil shale deposit;это частный случай понятия;1;1;from
+Q17093966;Buštranje oil shale deposit;государство;1;1;from
+Q17093907;Vlase oil shale deposit;продукция;1;1;from
+Q17093907;Vlase oil shale deposit;это частный случай понятия;1;1;from
+Q17093907;Vlase oil shale deposit;государство;1;1;from
+Q17093749;Drežnica oil shale deposit;продукция;1;1;from
+Q17093749;Drežnica oil shale deposit;это частный случай понятия;1;1;from
+Q17093749;Drežnica oil shale deposit;государство;1;1;from
+Q17093702;Klašnić oil shale deposit;продукция;1;1;from
+Q17093702;Klašnić oil shale deposit;это частный случай понятия;1;1;from
+Q17093702;Klašnić oil shale deposit;государство;1;1;from
+Q17093289;Goč oil shale deposit;продукция;1;1;from
+Q17093289;Goč oil shale deposit;это частный случай понятия;1;1;from
+Q17093289;Goč oil shale deposit;государство;1;1;from
+Q17093277;Stance oil shale deposit;продукция;1;1;from
+Q21199044;Q21199044;описывается в источниках;1;1;from
+Q21210360;Q21210360;государство;1;1;from
+Q17093277;Stance oil shale deposit;государство;1;1;from
+Q21210360;Q21210360;это частный случай понятия;1;1;from
+Q21696532;Q21696532;описывается в источниках;1;2;from
+Q21696532;Q21696532;это частный случай понятия;1;1;from
+Q21696532;Q21696532;государство;1;1;from
+Q21696532;Q21696532;административно-территориальная единица;1;1;from
+Q21696337;Q21696337;находится в пределах природно-географического объекта;1;1;from
+Q21696337;Q21696337;описывается в источниках;1;2;from
+Q21696337;Q21696337;это частный случай понятия;1;1;from
+Q21696337;Q21696337;государство;1;1;from
+Q21696305;Q21696305;находится в пределах природно-географического объекта;1;1;from
+Q21696305;Q21696305;описывается в источниках;1;2;from
+Q21696305;Q21696305;это частный случай понятия;1;1;from
+Q21696305;Q21696305;государство;1;1;from
+Q21696305;Q21696305;административно-территориальная единица;1;1;from
+Q21696168;Q21696168;описывается в источниках;1;2;from
+Q21696168;Q21696168;это частный случай понятия;1;1;from
+Q21696168;Q21696168;государство;1;1;from
+Q21635790;Байгузинское месторождение глауконитовых песков;это частный случай понятия;1;1;from
+Q21635787;Байгузинское месторождение бурых углей;это частный случай понятия;1;1;from
+Q21531973;Q21531973;описывается в источниках;1;2;from
+Q21531973;Q21531973;это частный случай понятия;1;1;from
+Q21531973;Q21531973;государство;1;1;from
+Q21531973;Q21531973;административно-территориальная единица;1;1;from
+Q21210360;Q21210360;горный хребет;1;1;from
+Q21210360;Q21210360;описывается в источниках;1;2;from
+Q21210360;Q21210360;продукция;1;1;from
+Q17093277;Stance oil shale deposit;это частный случай понятия;1;1;from
+Q17093225;Vina oil shale deposit;продукция;1;1;from
+Q86296612;Douglashall;государство;1;1;from
+Q17077876;Kaludra oil shale deposit;государство;1;1;from
+Q17062674;Timahdit oil shale deposit;это частный случай понятия;1;1;from
+Q17062674;Timahdit oil shale deposit;государство;1;1;from
+Q16977682;Karakul mine;продукция;1;1;from
+Q16977682;Karakul mine;это частный случай понятия;1;1;from
+Q16977682;Karakul mine;государство;1;1;from
+Q16977682;Karakul mine;административно-территориальная единица;1;1;from
+Q16976564;Tubas-Tumas mine;это частный случай понятия;1;1;from
+Q16976564;Tubas-Tumas mine;государство;1;1;from
+Q16969480;Falémé mine;продукция;1;1;from
+Q16969480;Falémé mine;это частный случай понятия;1;2;from
+Q16969480;Falémé mine;изображение;1;1;from
+Q16969480;Falémé mine;государство;1;1;from
+Q16635657;Galsky moss;категория на Викискладе;1;1;from
+Q16635657;Galsky moss;это частный случай понятия;1;1;from
+Q16635657;Galsky moss;государство;1;1;from
+Q16509612;Paragominas mine;владеет;1;1;to
+Q16509612;Paragominas mine;географические координаты;1;1;from
+Q16509612;Paragominas mine;дата основания/создания/возникновения;1;1;from
+Q16509612;Paragominas mine;отрасль;1;1;from
+Q16509612;Paragominas mine;часть от;1;1;from
+Q16509612;Paragominas mine;не путать с;1;1;from
+Q16509612;Paragominas mine;продукция;1;1;from
+Q16509612;Paragominas mine;это частный случай понятия;1;2;from
+Q16509612;Paragominas mine;часть света;1;1;from
+Q16509612;Paragominas mine;государство;1;1;from
+Q17062674;Timahdit oil shale deposit;продукция;1;1;from
+Q17077876;Kaludra oil shale deposit;это частный случай понятия;1;1;from
+Q17093225;Vina oil shale deposit;это частный случай понятия;1;1;from
+Q17077876;Kaludra oil shale deposit;продукция;1;1;from
+Q17093225;Vina oil shale deposit;государство;1;1;from
+Q17093108;Rača oil shale deposit;продукция;1;1;from
+Q17093108;Rača oil shale deposit;это частный случай понятия;1;1;from
+Q17093108;Rača oil shale deposit;государство;1;1;from
+Q17091255;Prugovac oil shale deposit;продукция;1;1;from
+Q17091255;Prugovac oil shale deposit;это частный случай понятия;1;1;from
+Q17091255;Prugovac oil shale deposit;государство;1;1;from
+Q17090777;Odžaci oil shale deposit;продукция;1;1;from
+Q17090777;Odžaci oil shale deposit;это частный случай понятия;1;1;from
+Q17090777;Odžaci oil shale deposit;государство;1;1;from
+Q17089468;Paljina oil shale deposit;продукция;1;1;from
+Q17089468;Paljina oil shale deposit;это частный случай понятия;1;1;from
+Q17089468;Paljina oil shale deposit;государство;1;1;from
+Q17088527;Klenike oil shale deposit;продукция;1;1;from
+Q17088527;Klenike oil shale deposit;это частный случай понятия;1;1;from
+Q17088527;Klenike oil shale deposit;государство;1;1;from
+Q17086559;Raljin oil shale deposit;продукция;1;1;from
+Q17086559;Raljin oil shale deposit;это частный случай понятия;1;1;from
+Q17086559;Raljin oil shale deposit;государство;1;1;from
+Q17084742;Lazac oil shale deposit;продукция;1;1;from
+Q17084742;Lazac oil shale deposit;это частный случай понятия;1;1;from
+Q17084742;Lazac oil shale deposit;государство;1;1;from
+Q17082338;Orlja oil shale deposit;продукция;1;1;from
+Q17082338;Orlja oil shale deposit;это частный случай понятия;1;1;from
+Q17082338;Orlja oil shale deposit;государство;1;1;from
+Q21696677;Q21696677;государство;1;1;from
+Q21696677;Q21696677;это частный случай понятия;1;1;from
+Q21696677;Q21696677;описывается в источниках;1;2;from
+Q76770775;Jedová hora deposit;типовая местность (геология);1;1;to
+Q76770775;Jedová hora deposit;это частный случай понятия;1;1;from
+Q76770775;Jedová hora deposit;государство;1;1;from
+Q76770775;Jedová hora deposit;административно-территориальная единица;1;1;from
+Q72117141;Karasug REE-Sr-Ba-Fe-fluorite deposit;типовая местность (геология);1;2;to
+Q72117141;Karasug REE-Sr-Ba-Fe-fluorite deposit;находится в пределах природно-географического объекта;1;1;from
+Q72117141;Karasug REE-Sr-Ba-Fe-fluorite deposit;это частный случай понятия;1;1;from
+Q72117141;Karasug REE-Sr-Ba-Fe-fluorite deposit;государство;1;1;from
+Q72117141;Karasug REE-Sr-Ba-Fe-fluorite deposit;административно-территориальная единица;1;1;from
+Q68768898;Monchetundra ore field;названо в честь;1;1;to
+Q68768898;Monchetundra ore field;типовая местность (геология);1;3;to
+Q68768898;Monchetundra ore field;находится в пределах природно-географического объекта;1;1;from
+Q68768898;Monchetundra ore field;это частный случай понятия;1;1;from
+Q68768898;Monchetundra ore field;государство;1;1;from
+Q68768898;Monchetundra ore field;административно-территориальная единица;1;1;from
+Q68768162;Maletoyvayam ore field;названо в честь;1;1;to
+Q68768162;Maletoyvayam ore field;типовая местность (геология);1;1;to
+Q68768162;Maletoyvayam ore field;находится в пределах природно-географического объекта;1;1;from
+Q68768162;Maletoyvayam ore field;это частный случай понятия;1;1;from
+Q68768162;Maletoyvayam ore field;государство;1;1;from
+Q68768162;Maletoyvayam ore field;административно-территориальная единица;1;1;from
+Q68676489;Taiping town deposit;названо в честь;1;1;to
+Q68676489;Taiping town deposit;типовая местность (геология);1;1;to
+Q68676489;Taiping town deposit;географические координаты;1;1;from
+Q68676489;Taiping town deposit;это частный случай понятия;1;1;from
+Q68676489;Taiping town deposit;государство;1;1;from
+Q76770775;Jedová hora deposit;географические координаты;1;1;from
+Q76770924;Rožňava deposit;административно-территориальная единица;1;1;from
+Q21696692;Q21696692;административно-территориальная единица;1;1;from
+Q76770924;Rožňava deposit;государство;1;1;from
+Q84168134;Q84168134;это частный случай понятия;1;1;from
+Q84168134;Q84168134;государство;1;1;from
+Q84168134;Q84168134;административно-территориальная единица;1;1;from
+Q80273380;Lichtenberg open pit;типовая местность (геология);1;2;to
+Q80273380;Lichtenberg open pit;географические координаты;1;1;from
+Q80273380;Lichtenberg open pit;это частный случай понятия;1;1;from
+Q80273380;Lichtenberg open pit;государство;1;1;from
+Q80273380;Lichtenberg open pit;административно-территориальная единица;1;1;from
+Q80184421;Scortico Mn ore deposit;типовая местность (геология);1;2;to
+Q80184421;Scortico Mn ore deposit;географические координаты;1;1;from
+Q80184421;Scortico Mn ore deposit;это частный случай понятия;1;1;from
+Q80184421;Scortico Mn ore deposit;государство;1;1;from
+Q80184421;Scortico Mn ore deposit;административно-территориальная единица;1;1;from
+Q76847473;Pein Pyit area;типовая местность (геология);1;1;to
+Q76847473;Pein Pyit area;географические координаты;1;1;from
+Q76847473;Pein Pyit area;это частный случай понятия;1;1;from
+Q76847473;Pein Pyit area;государство;1;1;from
+Q76847473;Pein Pyit area;административно-территориальная единица;1;1;from
+Q76771415;Mochalin Log REE deposit;типовая местность (геология);1;8;to
+Q76771415;Mochalin Log REE deposit;географические координаты;1;1;from
+Q76771415;Mochalin Log REE deposit;это частный случай понятия;1;1;from
+Q76771415;Mochalin Log REE deposit;государство;1;1;from
+Q76771415;Mochalin Log REE deposit;административно-территориальная единица;1;1;from
+Q76770924;Rožňava deposit;типовая местность (геология);1;1;to
+Q76770924;Rožňava deposit;это частный случай понятия;1;1;from
+Q68676489;Taiping town deposit;административно-территориальная единица;1;1;from
+Q66486417;Darby kimberlite field;типовая местность (геология);1;1;to
+Q66486417;Darby kimberlite field;географические координаты;1;1;from
+Q66486417;Darby kimberlite field;это частный случай понятия;1;1;from
+Q28125552;Kurumsak vanadium deposit;содержит;1;1;from
+Q28125552;Kurumsak vanadium deposit;это частный случай понятия;1;2;from
+Q28125552;Kurumsak vanadium deposit;государство;1;1;from
+Q28125552;Kurumsak vanadium deposit;административно-территориальная единица;1;2;from
+Q25570654;Bailadila;находится в пределах природно-географического объекта;1;1;from
+Q25570654;Bailadila;код в Большой российской энциклопедии онлайн;1;1;from
+Q25570654;Bailadila;это частный случай понятия;1;1;from
+Q21955402;Mintabie Opal Fields;географические координаты;1;1;from
+Q21955402;Mintabie Opal Fields;высота над уровнем моря;1;1;from
+Q21955402;Mintabie Opal Fields;код GeoNames;1;1;from
+Q21955402;Mintabie Opal Fields;это частный случай понятия;1;1;from
+Q21955402;Mintabie Opal Fields;государство;1;1;from
+Q21955402;Mintabie Opal Fields;административно-территориальная единица;1;1;from
+Q21697228;Q21697228;находится в пределах природно-географического объекта;1;1;from
+Q21697228;Q21697228;описывается в источниках;1;2;from
+Q21697228;Q21697228;это частный случай понятия;1;2;from
+Q21697228;Q21697228;государство;1;1;from
+Q21697228;Q21697228;административно-территориальная единица;1;1;from
+Q21696807;Q21696807;описывается в источниках;1;2;from
+Q21696807;Q21696807;это частный случай понятия;1;1;from
+Q21696807;Q21696807;государство;1;1;from
+Q21696807;Q21696807;административно-территориальная единица;1;1;from
+Q21696692;Q21696692;описывается в источниках;1;2;from
+Q21696692;Q21696692;это частный случай понятия;1;1;from
+Q21696692;Q21696692;государство;1;1;from
+Q28125552;Kurumsak vanadium deposit;географические координаты;1;1;from
+Q28125552;Kurumsak vanadium deposit;типовая местность (геология);1;6;to
+Q28751057;Balasauskandyk vanadium deposit;административно-территориальная единица;1;2;from
+Q53561610;Q53561610;это частный случай понятия;1;2;from
+Q66486417;Darby kimberlite field;государство;1;1;from
+Q66486417;Darby kimberlite field;административно-территориальная единица;1;1;from
+Q66479719;Daba-Siwaqa complex;типовая местность (геология);1;3;to
+Q66479719;Daba-Siwaqa complex;это частный случай понятия;1;1;from
+Q66479719;Daba-Siwaqa complex;государство;1;1;from
+Q62603581;Birness (Ellon);названо в честь;1;1;to
+Q62603581;Birness (Ellon);типовая местность (геология);1;1;to
+Q62603581;Birness (Ellon);местонахождение;1;1;from
+Q62603581;Birness (Ellon);это частный случай понятия;1;1;from
+Q62603581;Birness (Ellon);государство;1;1;from
+Q53561610;Q53561610;местонахождение;1;1;from
+Q53561610;Q53561610;государство;1;1;from
+Q28751057;Balasauskandyk vanadium deposit;государство;1;1;from
+Q49486036;Can Súria (quarry);географические координаты;1;1;from
+Q49486036;Can Súria (quarry);категория на Викискладе;1;1;from
+Q49486036;Can Súria (quarry);это частный случай понятия;1;2;from
+Q49486036;Can Súria (quarry);изображение;1;1;from
+Q49486036;Can Súria (quarry);государство;1;1;from
+Q49486036;Can Súria (quarry);административно-территориальная единица;1;1;from
+Q28751057;Balasauskandyk vanadium deposit;типовая местность (геология);1;7;to
+Q28751057;Balasauskandyk vanadium deposit;географические координаты;1;1;from
+Q28751057;Balasauskandyk vanadium deposit;горный хребет;1;1;from
+Q28751057;Balasauskandyk vanadium deposit;содержит;1;1;from
+Q28751057;Balasauskandyk vanadium deposit;это частный случай понятия;1;2;from
+Q16509612;Paragominas mine;оператор;1;1;from
+Q16509612;Paragominas mine;административно-территориальная единица;1;1;from
+Q16509612;Paragominas mine;владельцем является;1;1;from
+Q4440099;Starobin deposit;часть света;1;1;from
+Q4440099;Starobin deposit;изображение;1;1;from
+Q4440099;Starobin deposit;государство;1;1;from
+Q4440099;Starobin deposit;оператор;1;1;from
+Q4440099;Starobin deposit;административно-территориальная единица;1;1;from
+Q4426549;Совиное (месторождение);географические координаты;1;1;from
+Q4426549;Совиное (месторождение);это частный случай понятия;1;1;from
+Q4401704;Рывеем (месторождение);географические координаты;1;1;from
+Q4401704;Рывеем (месторождение);это частный случай понятия;1;1;from
+Q4362847;Пильхинкууль (месторождение);географические координаты;1;1;from
+Q4362847;Пильхинкууль (месторождение);это частный случай понятия;1;1;from
+Q4360075;Песчаноозерское нефтяное месторождение;географические координаты;1;1;from
+Q4360075;Песчаноозерское нефтяное месторождение;это частный случай понятия;1;1;from
+Q4360075;Песчаноозерское нефтяное месторождение;государство;1;1;from
+Q4360075;Песчаноозерское нефтяное месторождение;административно-территориальная единица;1;1;to
+Q4309374;Мыльджинское газоконденсатное месторождение;географические координаты;1;1;from
+Q4309374;Мыльджинское газоконденсатное месторождение;это частный случай понятия;1;1;from
+Q4309374;Мыльджинское газоконденсатное месторождение;государство;1;1;from
+Q4291408;Witwatersrand Basin;местонахождение;1;1;to
+Q4291408;Witwatersrand Basin;географические координаты;1;1;from
+Q4291408;Witwatersrand Basin;код в Большой российской энциклопедии онлайн;1;1;from
+Q4291408;Witwatersrand Basin;код в энциклопедии «Британника онлайн»;1;1;from
+Q4291408;Witwatersrand Basin;это частный случай понятия;1;1;from
+Q4291408;Witwatersrand Basin;государство;1;1;from
+Q4291407;Месторождение Кекура;географические координаты;1;1;from
+Q4291407;Месторождение Кекура;это частный случай понятия;1;1;from
+Q4440099;Starobin deposit;сделано из;1;1;from
+Q4440099;Starobin deposit;это частный случай понятия;1;1;from
+Q5618737;Gunflint Range;это частный случай понятия;1;1;from
+Q4440099;Starobin deposit;описывается в источниках;1;2;from
+Q5618737;Gunflint Range;административно-территориальная единица;1;2;from
+Q4894272;Bernic Lake;типовая местность (геология);1;1;to
+Q4894272;Bernic Lake;находится в пределах природно-географического объекта;1;1;to
+Q4894272;Bernic Lake;географические координаты;1;1;from
+Q4894272;Bernic Lake;код в Большой российской энциклопедии онлайн;1;1;from
+Q4894272;Bernic Lake;высота над уровнем моря;1;1;from
+Q4894272;Bernic Lake;код GeoNames;1;1;from
+Q4894272;Bernic Lake;это частный случай понятия;1;1;from
+Q4894272;Bernic Lake;бассейн объекта в странах;1;1;from
+Q4894272;Bernic Lake;государство;1;1;from
+Q4894272;Bernic Lake;административно-территориальная единица;1;1;from
+Q4531474;Elginsky coal mine;географические координаты;1;1;from
+Q4531474;Elginsky coal mine;продукция;1;1;from
+Q4531474;Elginsky coal mine;это частный случай понятия;1;2;from
+Q4531474;Elginsky coal mine;государство;1;1;from
+Q4447269;Sukhoi Log mine;географические координаты;1;1;from
+Q4447269;Sukhoi Log mine;код в Большой российской энциклопедии онлайн;1;1;from
+Q4447269;Sukhoi Log mine;продукция;1;1;from
+Q4447269;Sukhoi Log mine;это частный случай понятия;1;2;from
+Q4447269;Sukhoi Log mine;государство;1;1;from
+Q4440099;Starobin deposit;дата открытия;1;1;from
+Q4440099;Starobin deposit;дата основания/создания/возникновения;1;1;from
+Q4440099;Starobin deposit;часть от;1;1;from
+Q4440099;Starobin deposit;площадь;1;1;from
+Q4440099;Starobin deposit;название на языке оригинала;1;1;from
+Q4279355;Malysheva mine;бизнес-подразделения;1;1;to
+Q4279355;Malysheva mine;названо в честь;1;1;to
+Q4279355;Malysheva mine;типовая местность (геология);1;2;to
+Q4279355;Malysheva mine;материнская компания (организация, учреждение);1;1;from
+Q2433544;Azeri–Chirag–Guneshli;государство;1;1;from
+Q2433544;Azeri–Chirag–Guneshli;оператор;1;1;from
+Q2433544;Azeri–Chirag–Guneshli;административно-территориальная единица;1;1;from
+Q1801464;Lambina opal field;географические координаты;1;1;from
+Q1801464;Lambina opal field;это частный случай понятия;1;1;from
+Q1801464;Lambina opal field;государство;1;1;from
+Q1801464;Lambina opal field;административно-территориальная единица;1;1;from
+Q1710079;Kupferschiefer;основная тема;1;1;to
+Q1710079;Kupferschiefer;код в энциклопедии «Британника онлайн»;1;1;from
+Q1710079;Kupferschiefer;это частный случай понятия;1;2;from
+Q1710079;Kupferschiefer;код GND;1;1;from
+Q1710079;Kupferschiefer;сделано из;1;1;from
+Q1710079;Kupferschiefer;государство;1;3;from
+Q1248582;Allchar deposit;названо в честь;1;1;to
+Q1248582;Allchar deposit;типовая местность (геология);1;10;to
+Q1248582;Allchar deposit;код NKC;1;1;from
+Q1248582;Allchar deposit;географические координаты;1;1;from
+Q1248582;Allchar deposit;код GeoNames;1;1;from
+Q1248582;Allchar deposit;это частный случай понятия;1;3;from
+Q1248582;Allchar deposit;изображение;1;1;from
+Q1248582;Allchar deposit;государство;1;1;from
+Q1248582;Allchar deposit;административно-территориальная единица;1;1;from
+Q86296612;Douglashall;типовая местность (геология);1;1;to
+Q86296612;Douglashall;названо в честь;1;1;to
+Q86296612;Douglashall;это частный случай понятия;1;1;from
+Q2433544;Azeri–Chirag–Guneshli;изображение;1;1;from
+Q2433544;Azeri–Chirag–Guneshli;это частный случай понятия;1;1;from
+Q2433544;Azeri–Chirag–Guneshli;категория на Викискладе;1;1;from
+Q4205602;Ishimbai oil deposit;административно-территориальная единица;1;2;from
+Q4279355;Malysheva mine;категория на Викискладе;1;1;from
+Q4279355;Malysheva mine;это частный случай понятия;1;2;from
+Q4279355;Malysheva mine;изображение;1;1;from
+Q4279355;Malysheva mine;государство;1;1;from
+Q4279355;Malysheva mine;административно-территориальная единица;1;1;from
+Q4213959;Каральвеемское месторождение;географические координаты;1;1;from
+Q4213959;Каральвеемское месторождение;это частный случай понятия;1;1;from
+Q4205602;Ishimbai oil deposit;географические координаты;1;1;from
+Q4205602;Ishimbai oil deposit;это частный случай понятия;1;1;from
+Q4205602;Ishimbai oil deposit;государство;1;1;from
+Q4205602;Ishimbai oil deposit;оператор;1;1;from
+Q4179771;Жетыбай (месторождение);географические координаты;1;1;from
+Q2433544;Azeri–Chirag–Guneshli;географические координаты;1;1;from
+Q4179771;Жетыбай (месторождение);это частный случай понятия;1;1;from
+Q4179771;Жетыбай (месторождение);государство;1;1;from
+Q4103020;Валунистое (месторождение);географические координаты;1;1;from
+Q4103020;Валунистое (месторождение);это частный случай понятия;1;1;from
+Q4058381;Азнаевское нефтяное месторождение;географические координаты;1;1;from
+Q4058381;Азнаевское нефтяное месторождение;это частный случай понятия;1;1;from
+Q4058381;Азнаевское нефтяное месторождение;государство;1;1;from
+Q4055148;Абу-Сафа;это частный случай понятия;1;1;from
+Q4054316;Абанское угольное месторождение;географические координаты;1;1;from
+Q4054316;Абанское угольное месторождение;это частный случай понятия;1;1;from
+Q2433544;Azeri–Chirag–Guneshli;код Freebase;1;1;from
+Q5618737;Gunflint Range;государство;1;2;from
+Q5618737;Gunflint Range;продукция;1;1;from
+Q16412960;Q16412960;это частный случай понятия;1;1;from
+Q12547275;Индерское месторождение;административно-территориальная единица;1;1;from
+Q12535092;Берёзовское месторождение полиметаллических руд;это частный случай понятия;1;1;from
+Q12168716;Jinchuan Nickel Deposit;официальный сайт;1;1;from
+Q12168716;Jinchuan Nickel Deposit;ID компании в LinkedIn;1;2;from
+Q12168716;Jinchuan Nickel Deposit;объём;1;1;from
+Q12168716;Jinchuan Nickel Deposit;не путать с;1;1;from
+Q12168716;Jinchuan Nickel Deposit;название на языке оригинала;1;1;from
+Q12168716;Jinchuan Nickel Deposit;описывается в источниках;1;2;from
+Q12168716;Jinchuan Nickel Deposit;продукция;1;1;from
+Q12168716;Jinchuan Nickel Deposit;это частный случай понятия;1;2;from
+Q12168716;Jinchuan Nickel Deposit;часть света;1;1;from
+Q12168716;Jinchuan Nickel Deposit;государство;1;1;from
+Q12168716;Jinchuan Nickel Deposit;названо в честь;1;1;from
+Q12168716;Jinchuan Nickel Deposit;оператор;1;1;from
+Q12168716;Jinchuan Nickel Deposit;административно-территориальная единица;1;1;from
+Q12152421;Cerro de Pasco deposit;часть от;1;1;from
+Q12152421;Cerro de Pasco deposit;объём;1;1;from
+Q12152421;Cerro de Pasco deposit;не путать с;1;1;to
+Q12152421;Cerro de Pasco deposit;продукция;1;1;from
+Q12152421;Cerro de Pasco deposit;это частный случай понятия;1;2;from
+Q12152421;Cerro de Pasco deposit;часть света;1;1;from
+Q12152421;Cerro de Pasco deposit;государство;1;1;from
+Q12152421;Cerro de Pasco deposit;названо в честь;1;1;from
+Q12152421;Cerro de Pasco deposit;оператор;1;1;from
+Q12152421;Cerro de Pasco deposit;административно-территориальная единица;1;1;from
+Q12152420;Cerro Colorado;это частный случай понятия;1;1;from
+Q12537774;Васильевское золоторудное месторождение;это частный случай понятия;1;1;from
+Q12547275;Индерское месторождение;государство;1;2;from
+Q5618737;Gunflint Range;не путать с;1;1;to
+Q12547275;Индерское месторождение;изображение;1;1;from
+Q16412960;Q16412960;государство;1;1;from
+Q15640398;Yermakov beryllium ore field;географические координаты;1;1;from
+Q15640398;Yermakov beryllium ore field;дата окончания;1;1;from
+Q15640398;Yermakov beryllium ore field;дата начала;1;1;from
+Q15640398;Yermakov beryllium ore field;дата основания/создания/возникновения;1;1;from
+Q15640398;Yermakov beryllium ore field;продукция;1;1;from
+Q15640398;Yermakov beryllium ore field;это частный случай понятия;1;3;from
+Q15640398;Yermakov beryllium ore field;сделано из;1;3;from
+Q15640398;Yermakov beryllium ore field;государство;1;1;from
+Q15640398;Yermakov beryllium ore field;административно-территориальная единица;1;1;from
+Q14545196;seam;категория на Викискладе;1;1;from
+Q14545196;seam;не путать с;1;1;to
+Q14545196;seam;код PSH;1;1;from
+Q14545196;seam;это частный случай понятия;1;1;to
+Q14545196;seam;код GND;1;1;from
+Q13668181;Дальнее (угольное месторождение);географические координаты;1;1;from
+Q13668181;Дальнее (угольное месторождение);это частный случай понятия;1;1;from
+Q13668181;Дальнее (угольное месторождение);государство;1;1;from
+Q13668179;Анадырское месторождение;географические координаты;1;1;from
+Q13668179;Анадырское месторождение;это частный случай понятия;1;1;from
+Q13668179;Анадырское месторождение;государство;1;1;from
+Q13668177;Месторождение Клён;географические координаты;1;1;from
+Q13668177;Месторождение Клён;это частный случай понятия;1;1;from
+Q13668177;Месторождение Клён;государство;1;1;from
+Q12547275;Индерское месторождение;это частный случай понятия;1;1;from
+Q12152420;Cerro Colorado;государство;1;1;from
+Q12151659;Q12151659;часть от;1;1;from
+Q12151659;Q12151659;не путать с;1;2;from
+Q12151659;Q12151659;описывается в источниках;1;3;from
+Q12103143;Diamantine diamond field;административно-территориальная единица;1;1;from
+Q12098936;Hill phosphorite deposit;часть от;1;1;from
+Q12098936;Hill phosphorite deposit;объём;1;1;from
+Q12098936;Hill phosphorite deposit;название на языке оригинала;1;1;from
+Q12098936;Hill phosphorite deposit;описывается в источниках;1;1;from
+Q12098936;Hill phosphorite deposit;продукция;1;1;from
+Q12098936;Hill phosphorite deposit;это частный случай понятия;1;2;from
+Q12098936;Hill phosphorite deposit;часть света;1;1;from
+Q12098936;Hill phosphorite deposit;государство;1;1;from
+Q12098936;Hill phosphorite deposit;оператор;1;1;from
+Q12098936;Hill phosphorite deposit;административно-территориальная единица;1;1;from
+Q12091026;coal deposit;категория объединяет темы;1;1;to
+Q12091026;coal deposit;это частный случай понятия;1;1;to
+Q12091026;coal deposit;общая тема категории;1;1;to
+Q12091026;coal deposit;основная категория по теме;1;1;from
+Q12091026;coal deposit;подкласс от;1;2;to
+Q12091026;coal deposit;описывается в источниках;1;1;from
+Q12084126;Боркут;это частный случай понятия;1;1;from
+Q12084126;Боркут;государство;1;1;from
+Q12083150;Bogala;объём;1;1;from
+Q12083150;Bogala;описывается в источниках;1;1;from
+Q12083150;Bogala;продукция;1;1;from
+Q12083150;Bogala;это частный случай понятия;1;1;from
+Q12083150;Bogala;государство;1;1;from
+Q5618737;Gunflint Range;географические координаты;1;1;from
+Q12103143;Diamantine diamond field;названо в честь;1;1;from
+Q12103143;Diamantine diamond field;государство;1;1;from
+Q12103143;Diamantine diamond field;часть света;1;1;from
+Q12107868;Q12107868;это частный случай понятия;1;1;from
+Q12151659;Q12151659;продукция;1;2;from
+Q12151659;Q12151659;это частный случай понятия;1;1;from
+Q12151659;Q12151659;часть света;1;1;from
+Q12151659;Q12151659;государство;1;1;from
+Q12107868;Q12107868;находится в пределах природно-географического объекта;1;1;from
+Q12107868;Q12107868;дата основания/создания/возникновения;1;1;from
+Q12107868;Q12107868;код в Энциклопедии современной Украины;1;1;from
+Q12107868;Q12107868;площадь;1;1;from
+Q12107868;Q12107868;название на языке оригинала;1;1;from
+Q12107868;Q12107868;описывается в источниках;1;10;from
+Q12107868;Q12107868;продукция;1;3;from
+Q12107868;Q12107868;государство;1;1;from
+Q12103143;Diamantine diamond field;это частный случай понятия;1;2;from
+Q12107868;Q12107868;названо в честь;1;1;from
+Q12107868;Q12107868;административно-территориальная единица;1;1;from
+Q12103143;Diamantine diamond field;дата основания/создания/возникновения;1;1;from
+Q12103143;Diamantine diamond field;ширина;1;1;from
+Q12103143;Diamantine diamond field;длина;1;1;from
+Q12103143;Diamantine diamond field;не путать с;1;1;from
+Q12103143;Diamantine diamond field;обладает свойством;1;2;from
+Q12103143;Diamantine diamond field;включает населённый пункт;1;1;from
+Q12103143;Diamantine diamond field;описывается в источниках;1;3;from
+Q12103143;Diamantine diamond field;тематически относится к;1;2;from
+Q12103143;Diamantine diamond field;продукция;1;1;from
+Q84168134;Q84168134;продукция;1;1;from

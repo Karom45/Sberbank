@@ -1,0 +1,891 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q200938;Loreto;административно-территориальная единица;1;800;to
+Q208186;Ica;общая тема категории;1;1;to
+Q208186;Ica;географические координаты;1;1;from
+Q208186;Ica;код Freebase;1;1;from
+Q208186;Ica;Who's on First ID;1;1;from
+Q208186;Ica;код UBIGEO;1;1;from
+Q208186;Ica;официальный сайт;1;1;from
+Q208186;Ica;FIPS 10-4 (страны и регионы);1;1;from
+Q208186;Ica;основная категория по теме;1;1;from
+Q208186;Ica;происходит из;1;6;to
+Q208186;Ica;место рождения;1;3;to
+Q208186;Ica;местонахождение;1;1;to
+Q208186;Ica;является столицей;1;1;to
+Q208186;Ica;энтохороним от;1;1;to
+Q208186;Ica;ID отношения в OpenStreetMap;1;1;from
+Q209597;Tumbes;административно-территориальная единица;1;413;to
+Q209597;Tumbes;административно делится на;1;1;to
+Q209597;Tumbes;государство;1;1;from
+Q209597;Tumbes;карта местонахождения;1;1;from
+Q209597;Tumbes;это частный случай понятия;1;1;from
+Q209597;Tumbes;столица;1;1;from
+Q209597;Tumbes;изображение флага;1;1;from
+Q209597;Tumbes;имеет границы с;1;3;to
+Q209597;Tumbes;глава правительства;1;1;from
+Q209597;Tumbes;изображение герба;1;1;from
+Q209597;Tumbes;десятичная классификация Дьюи;1;1;from
+Q208186;Ica;часовой пояс;1;1;from
+Q208186;Ica;категория на Викискладе;1;1;from
+Q209597;Tumbes;код в Большой каталанской энциклопедии;1;1;from
+Q208186;Ica;это частный случай понятия;1;1;from
+Q208185;Apurímac;происходит из;1;5;to
+Q208185;Apurímac;место рождения;1;8;to
+Q208185;Apurímac;является столицей;1;1;to
+Q208185;Apurímac;категория объединяет темы;1;1;to
+Q208185;Apurímac;общая тема категории;1;1;to
+Q208185;Apurímac;энтохороним от;1;1;to
+Q208186;Ica;административно-территориальная единица;1;1100;to
+Q208186;Ica;административно делится на;1;1;to
+Q208186;Ica;государство;1;1;from
+Q208186;Ica;изображение;1;1;from
+Q208186;Ica;карта местонахождения;1;1;from
+Q208186;Ica;столица;1;1;from
+Q208186;Ica;ISO 3166-2;1;1;from
+Q208186;Ica;изображение флага;1;1;from
+Q208186;Ica;имеет границы с;1;4;to
+Q208186;Ica;глава правительства;1;1;from
+Q208186;Ica;изображение герба;1;1;from
+Q208186;Ica;десятичная классификация Дьюи;1;1;from
+Q208186;Ica;численность населения;1;10;from
+Q208186;Ica;код в Большой каталанской энциклопедии;1;1;from
+Q208186;Ica;код GeoNames;1;1;from
+Q208186;Ica;код TGN;1;1;from
+Q208186;Ica;площадь;1;1;from
+Q208186;Ica;используемый язык;1;6;from
+Q209597;Tumbes;численность населения;1;10;from
+Q209597;Tumbes;код GeoNames;1;1;from
+Q210896;Madre de Dios;изображение;1;1;from
+Q210061;Lambayeque;официальный сайт;1;1;from
+Q210061;Lambayeque;код TGN;1;1;from
+Q210061;Lambayeque;площадь;1;1;from
+Q210061;Lambayeque;используемый язык;1;1;from
+Q210061;Lambayeque;ISO 3166-2;1;1;from
+Q210061;Lambayeque;категория на Викискладе;1;1;from
+Q210061;Lambayeque;ID отношения в OpenStreetMap;1;1;from
+Q210061;Lambayeque;часовой пояс;1;1;from
+Q210061;Lambayeque;географические координаты;1;1;from
+Q210061;Lambayeque;код Freebase;1;1;from
+Q210061;Lambayeque;Who's on First ID;1;1;from
+Q210061;Lambayeque;код UBIGEO;1;1;from
+Q210061;Lambayeque;FIPS 10-4 (страны и регионы);1;1;from
+Q210061;Lambayeque;численность населения;1;10;from
+Q210061;Lambayeque;основная категория по теме;1;1;from
+Q210061;Lambayeque;галерея на Викискладе;1;1;from
+Q210061;Lambayeque;место в MusicBrainz;1;1;from
+Q210061;Lambayeque;место жительства;1;1;to
+Q210061;Lambayeque;является столицей;1;1;to
+Q210061;Lambayeque;место рождения;1;2;to
+Q210061;Lambayeque;общая тема категории;1;1;to
+Q210061;Lambayeque;происходит из;1;1;to
+Q210061;Lambayeque;энтохороним от;1;1;to
+Q210896;Madre de Dios;административно-территориальная единица;1;141;to
+Q210896;Madre de Dios;административно делится на;1;2;to
+Q210061;Lambayeque;код GeoNames;1;1;from
+Q210061;Lambayeque;десятичная классификация Дьюи;1;1;from
+Q209597;Tumbes;площадь;1;1;from
+Q209597;Tumbes;место рождения;1;1;to
+Q209597;Tumbes;ISO 3166-2;1;1;from
+Q209597;Tumbes;категория на Викискладе;1;1;from
+Q209597;Tumbes;ID отношения в OpenStreetMap;1;1;from
+Q209597;Tumbes;часовой пояс;1;1;from
+Q209597;Tumbes;географические координаты;1;1;from
+Q209597;Tumbes;код Freebase;1;1;from
+Q209597;Tumbes;Who's on First ID;1;1;from
+Q209597;Tumbes;код UBIGEO;1;1;from
+Q209597;Tumbes;официальный сайт;1;1;from
+Q209597;Tumbes;FIPS 10-4 (страны и регионы);1;1;from
+Q209597;Tumbes;основная категория по теме;1;1;from
+Q209597;Tumbes;является столицей;1;1;to
+Q210061;Lambayeque;изображение герба;1;1;from
+Q209597;Tumbes;общая тема категории;1;1;to
+Q209597;Tumbes;энтохороним от;1;1;to
+Q210061;Lambayeque;административно-территориальная единица;1;604;to
+Q210061;Lambayeque;административно делится на;1;1;to
+Q210061;Lambayeque;государство;1;1;from
+Q210061;Lambayeque;карта местонахождения;1;1;from
+Q210061;Lambayeque;это частный случай понятия;1;1;from
+Q210061;Lambayeque;столица;1;1;from
+Q210061;Lambayeque;изображение флага;1;1;from
+Q210061;Lambayeque;имеет границы с;1;3;to
+Q210061;Lambayeque;глава правительства;1;1;from
+Q208185;Apurímac;место в MusicBrainz;1;1;from
+Q208185;Apurímac;основная категория по теме;1;1;from
+Q208185;Apurímac;FIPS 10-4 (страны и регионы);1;1;from
+Q208182;Moquegua;юрисдикция распространяется на;1;1;to
+Q208182;Moquegua;местный телефонный код;1;1;from
+Q208182;Moquegua;идентификатор местоположения ArchINFORM;1;1;from
+Q208182;Moquegua;географические координаты;1;1;from
+Q208182;Moquegua;код Freebase;1;1;from
+Q208182;Moquegua;Who's on First ID;1;1;from
+Q208182;Moquegua;код UBIGEO;1;1;from
+Q208182;Moquegua;официальный сайт;1;1;from
+Q208182;Moquegua;FIPS 10-4 (страны и регионы);1;1;from
+Q208182;Moquegua;основная категория по теме;1;1;from
+Q208182;Moquegua;является столицей;1;1;to
+Q208182;Moquegua;управляемая организация;1;1;to
+Q208182;Moquegua;место рождения;1;1;to
+Q208182;Moquegua;ID отношения в OpenStreetMap;1;1;from
+Q208182;Moquegua;местонахождение;1;2;to
+Q208182;Moquegua;происходит из;1;2;to
+Q208182;Moquegua;общая тема категории;1;1;to
+Q208182;Moquegua;энтохороним от;1;1;to
+Q208183;Piura;административно-территориальная единица;1;1940;to
+Q208183;Piura;административно делится на;1;1;to
+Q208183;Piura;государство;1;1;from
+Q208183;Piura;изображение;1;1;from
+Q208183;Piura;карта местонахождения;1;1;from
+Q208183;Piura;это частный случай понятия;1;1;from
+Q208183;Piura;столица;1;1;from
+Q208182;Moquegua;часовой пояс;1;1;from
+Q208182;Moquegua;категория на Викискладе;1;1;from
+Q208185;Apurímac;официальный сайт;1;1;from
+Q208182;Moquegua;карта местонахождения;1;1;from
+Q207973;Junín;место рождения;1;3;to
+Q207973;Junín;происходит из;1;9;to
+Q207973;Junín;местонахождение;1;2;to
+Q207973;Junín;является столицей;1;1;to
+Q207973;Junín;общая тема категории;1;1;to
+Q207973;Junín;категория объединяет темы;1;1;to
+Q207973;Junín;энтохороним от;1;1;to
+Q208182;Moquegua;административно-территориальная единица;1;697;to
+Q208182;Moquegua;административно делится на;1;1;to
+Q208182;Moquegua;государство;1;1;from
+Q208182;Moquegua;изображение;1;1;from
+Q208182;Moquegua;это частный случай понятия;1;1;from
+Q208182;Moquegua;ISO 3166-2;1;1;from
+Q208182;Moquegua;столица;1;1;from
+Q208182;Moquegua;изображение флага;1;1;from
+Q208182;Moquegua;имеет границы с;1;3;to
+Q208182;Moquegua;изображение герба;1;1;from
+Q208182;Moquegua;десятичная классификация Дьюи;1;1;from
+Q208182;Moquegua;численность населения;1;10;from
+Q208182;Moquegua;код в Большой каталанской энциклопедии;1;1;from
+Q208182;Moquegua;код GeoNames;1;1;from
+Q208182;Moquegua;код TGN;1;1;from
+Q208182;Moquegua;площадь;1;1;from
+Q208182;Moquegua;используемый язык;1;3;from
+Q208183;Piura;изображение флага;1;1;from
+Q208183;Piura;имеет границы с;1;5;to
+Q208183;Piura;глава правительства;1;1;from
+Q208185;Apurímac;категория для людей, родившихся здесь;1;1;from
+Q208185;Apurímac;изображение;1;1;from
+Q208185;Apurímac;карта местонахождения;1;1;from
+Q208185;Apurímac;это частный случай понятия;1;1;from
+Q208185;Apurímac;столица;1;1;from
+Q208185;Apurímac;изображение флага;1;1;from
+Q208185;Apurímac;имеет границы с;1;3;to
+Q208185;Apurímac;глава правительства;1;1;from
+Q208185;Apurímac;изображение герба;1;1;from
+Q208185;Apurímac;десятичная классификация Дьюи;1;1;from
+Q208185;Apurímac;численность населения;1;10;from
+Q208185;Apurímac;код в Большой каталанской энциклопедии;1;1;from
+Q208185;Apurímac;код GeoNames;1;1;from
+Q208183;Piura;изображение герба;1;1;from
+Q208185;Apurímac;код TGN;1;1;from
+Q208185;Apurímac;площадь;1;1;from
+Q208185;Apurímac;используемый язык;1;5;from
+Q208185;Apurímac;ISO 3166-2;1;1;from
+Q208185;Apurímac;категория на Викискладе;1;1;from
+Q208185;Apurímac;ID отношения в OpenStreetMap;1;1;from
+Q208185;Apurímac;часовой пояс;1;1;from
+Q208185;Apurímac;географические координаты;1;1;from
+Q208185;Apurímac;код Freebase;1;1;from
+Q208185;Apurímac;Who's on First ID;1;1;from
+Q208185;Apurímac;код UBIGEO;1;1;from
+Q208185;Apurímac;государство;1;1;from
+Q208185;Apurímac;административно делится на;1;1;to
+Q208185;Apurímac;административно-территориальная единица;1;1535;to
+Q208183;Piura;энтохороним от;1;1;to
+Q208183;Piura;десятичная классификация Дьюи;1;1;from
+Q208183;Piura;численность населения;1;10;from
+Q208183;Piura;код в Большой каталанской энциклопедии;1;1;from
+Q208183;Piura;код GeoNames;1;1;from
+Q208183;Piura;код TGN;1;1;from
+Q208183;Piura;площадь;1;1;from
+Q208183;Piura;используемый язык;1;1;from
+Q208183;Piura;ISO 3166-2;1;1;from
+Q208183;Piura;категория на Викискладе;1;1;from
+Q208183;Piura;ID отношения в OpenStreetMap;1;1;from
+Q208183;Piura;часовой пояс;1;1;from
+Q208183;Piura;географические координаты;1;1;from
+Q208183;Piura;код Freebase;1;1;from
+Q208183;Piura;Who's on First ID;1;1;from
+Q208183;Piura;код UBIGEO;1;1;from
+Q208183;Piura;официальный сайт;1;1;from
+Q208183;Piura;FIPS 10-4 (страны и регионы);1;1;from
+Q208183;Piura;основная категория по теме;1;1;from
+Q208183;Piura;место в MusicBrainz;1;1;from
+Q208183;Piura;место рождения;1;11;to
+Q208183;Piura;является столицей;1;1;to
+Q208183;Piura;общая тема категории;1;1;to
+Q208183;Piura;происходит из;1;1;to
+Q210896;Madre de Dios;государство;1;1;from
+Q210896;Madre de Dios;карта местонахождения;1;1;from
+Q200938;Loreto;административно делится на;1;1;to
+Q215221;Huanuco;используемый язык;1;14;from
+Q215221;Huanuco;столица;1;1;from
+Q215221;Huanuco;изображение флага;1;1;from
+Q215221;Huanuco;имеет границы с;1;7;to
+Q215221;Huanuco;глава правительства;1;1;from
+Q215221;Huanuco;изображение герба;1;1;from
+Q215221;Huanuco;десятичная классификация Дьюи;1;1;from
+Q215221;Huanuco;численность населения;1;10;from
+Q215221;Huanuco;код в Большой каталанской энциклопедии;1;1;from
+Q215221;Huanuco;код GeoNames;1;1;from
+Q215221;Huanuco;код TGN;1;1;from
+Q215221;Huanuco;площадь;1;1;from
+Q215221;Huanuco;ISO 3166-2;1;1;from
+Q215221;Huanuco;карта местонахождения;1;1;from
+Q215221;Huanuco;категория на Викискладе;1;1;from
+Q215221;Huanuco;ID отношения в OpenStreetMap;1;1;from
+Q215221;Huanuco;часовой пояс;1;1;from
+Q215221;Huanuco;местный телефонный код;1;1;from
+Q215221;Huanuco;географические координаты;1;1;from
+Q215221;Huanuco;код Freebase;1;1;from
+Q215221;Huanuco;Who's on First ID;1;1;from
+Q215221;Huanuco;код UBIGEO;1;1;from
+Q215221;Huanuco;официальный сайт;1;1;from
+Q215221;Huanuco;FIPS 10-4 (страны и регионы);1;1;from
+Q215221;Huanuco;основная категория по теме;1;1;from
+Q215221;Huanuco;это частный случай понятия;1;1;from
+Q215221;Huanuco;изображение;1;1;from
+Q215221;Huanuco;происходит из;1;14;to
+Q211795;Lima;FIPS 10-4 (страны и регионы);1;1;from
+Q211795;Lima;площадь;1;1;from
+Q211795;Lima;используемый язык;1;10;from
+Q211795;Lima;ISO 3166-2;1;1;from
+Q211795;Lima;категория на Викискладе;1;1;from
+Q211795;Lima;ID отношения в OpenStreetMap;1;1;from
+Q211795;Lima;часовой пояс;1;1;from
+Q211795;Lima;географические координаты;1;1;from
+Q211795;Lima;код Freebase;1;1;from
+Q211795;Lima;Who's on First ID;1;1;from
+Q211795;Lima;код UBIGEO;1;1;from
+Q211795;Lima;официальный сайт;1;1;from
+Q211795;Lima;основная категория по теме;1;1;from
+Q215221;Huanuco;государство;1;1;from
+Q211795;Lima;место в MusicBrainz;1;1;from
+Q211795;Lima;является столицей;1;2;to
+Q211795;Lima;происходит из;1;10;to
+Q211795;Lima;место рождения;1;9;to
+Q211795;Lima;расположение штаб-квартиры;1;2;to
+Q211795;Lima;место смерти;1;2;to
+Q211795;Lima;является эндемиком в;1;1;to
+Q211795;Lima;общая тема категории;1;1;to
+Q211795;Lima;энтохороним от;1;1;to
+Q215221;Huanuco;административно-территориальная единица;1;1882;to
+Q215221;Huanuco;административно делится на;1;1;to
+Q215221;Huanuco;место в MusicBrainz;1;1;from
+Q215221;Huanuco;местонахождение;1;4;to
+Q210896;Madre de Dios;это частный случай понятия;1;1;from
+Q2071352;Goverment regional of Callao;государство;1;1;from
+Q505220;Huancavelica;официальный сайт;1;1;from
+Q505220;Huancavelica;FIPS 10-4 (страны и регионы);1;1;from
+Q505220;Huancavelica;основная категория по теме;1;1;from
+Q505220;Huancavelica;является столицей;1;1;to
+Q505220;Huancavelica;место рождения;1;3;to
+Q505220;Huancavelica;местонахождение;1;4;to
+Q505220;Huancavelica;происходит из;1;4;to
+Q505220;Huancavelica;место смерти;1;1;to
+Q505220;Huancavelica;общая тема категории;1;1;to
+Q505220;Huancavelica;энтохороним от;1;1;to
+Q2071352;Goverment regional of Callao;расположение штаб-квартиры;1;1;from
+Q2071352;Goverment regional of Callao;это частный случай понятия;1;2;from
+Q505220;Huancavelica;Who's on First ID;1;1;from
+Q2071352;Goverment regional of Callao;глава правительства;1;1;from
+Q2071352;Goverment regional of Callao;код GeoNames;1;1;from
+Q2071352;Goverment regional of Callao;ISO 3166-2;1;1;from
+Q2071352;Goverment regional of Callao;категория на Викискладе;1;1;from
+Q2071352;Goverment regional of Callao;дата основания/создания/возникновения;1;1;from
+Q2071352;Goverment regional of Callao;Who's on First ID;1;1;from
+Q2071352;Goverment regional of Callao;официальный сайт;1;1;from
+Q2071352;Goverment regional of Callao;основная категория по теме;1;1;from
+Q2071352;Goverment regional of Callao;владельцем является;1;1;to
+Q2071352;Goverment regional of Callao;имеет границы с;1;1;to
+Q2071352;Goverment regional of Callao;место смерти;1;1;to
+Q505220;Huancavelica;код UBIGEO;1;1;from
+Q505220;Huancavelica;код Freebase;1;1;from
+Q215221;Huanuco;место рождения;1;3;to
+Q505220;Huancavelica;имеет границы с;1;4;to
+Q215221;Huanuco;является столицей;1;1;to
+Q215221;Huanuco;общая тема категории;1;1;to
+Q215221;Huanuco;энтохороним от;1;1;to
+Q505220;Huancavelica;административно-территориальная единица;1;1979;to
+Q505220;Huancavelica;административно делится на;1;1;to
+Q505220;Huancavelica;государство;1;1;from
+Q505220;Huancavelica;изображение;1;1;from
+Q505220;Huancavelica;карта местонахождения;1;1;from
+Q505220;Huancavelica;это частный случай понятия;1;1;from
+Q505220;Huancavelica;столица;1;1;from
+Q505220;Huancavelica;изображение флага;1;1;from
+Q505220;Huancavelica;глава правительства;1;1;from
+Q505220;Huancavelica;географические координаты;1;1;from
+Q505220;Huancavelica;изображение герба;1;1;from
+Q505220;Huancavelica;численность населения;1;10;from
+Q505220;Huancavelica;код в Большой каталанской энциклопедии;1;1;from
+Q505220;Huancavelica;код GeoNames;1;1;from
+Q505220;Huancavelica;код TGN;1;1;from
+Q505220;Huancavelica;площадь;1;1;from
+Q505220;Huancavelica;используемый язык;1;4;from
+Q505220;Huancavelica;ISO 3166-2;1;1;from
+Q505220;Huancavelica;категория на Викискладе;1;1;from
+Q505220;Huancavelica;ID отношения в OpenStreetMap;1;1;from
+Q505220;Huancavelica;часовой пояс;1;1;from
+Q211795;Lima;код TGN;1;1;from
+Q211795;Lima;код GeoNames;1;1;from
+Q211795;Lima;численность населения;1;10;from
+Q211208;Pasco;изображение герба;1;1;from
+Q210896;Madre de Dios;энтохороним от;1;1;to
+Q211208;Pasco;административно-территориальная единица;1;722;to
+Q211208;Pasco;административно делится на;1;1;to
+Q211208;Pasco;государство;1;1;from
+Q211208;Pasco;изображение;1;1;from
+Q211208;Pasco;карта местонахождения;1;1;from
+Q211208;Pasco;это частный случай понятия;1;1;from
+Q211208;Pasco;столица;1;1;from
+Q211208;Pasco;изображение флага;1;1;from
+Q211208;Pasco;имеет границы с;1;4;to
+Q211208;Pasco;глава правительства;1;1;from
+Q211208;Pasco;десятичная классификация Дьюи;1;1;from
+Q210896;Madre de Dios;место смерти;1;1;to
+Q211208;Pasco;численность населения;1;10;from
+Q211208;Pasco;код в Большой каталанской энциклопедии;1;1;from
+Q211208;Pasco;код GeoNames;1;1;from
+Q211208;Pasco;код TGN;1;1;from
+Q211208;Pasco;площадь;1;1;from
+Q211208;Pasco;используемый язык;1;9;from
+Q211208;Pasco;ISO 3166-2;1;1;from
+Q211208;Pasco;категория на Викискладе;1;1;from
+Q211208;Pasco;ID отношения в OpenStreetMap;1;1;from
+Q211208;Pasco;часовой пояс;1;1;from
+Q211208;Pasco;местный телефонный код;1;1;from
+Q210896;Madre de Dios;общая тема категории;1;1;to
+Q210896;Madre de Dios;является столицей;1;1;to
+Q211795;Lima;изображение герба;1;1;from
+Q210896;Madre de Dios;используемый язык;1;12;from
+Q210896;Madre de Dios;столица;1;1;from
+Q210896;Madre de Dios;изображение флага;1;1;from
+Q210896;Madre de Dios;имеет границы с;1;6;to
+Q210896;Madre de Dios;глава правительства;1;1;from
+Q210896;Madre de Dios;изображение герба;1;1;from
+Q210896;Madre de Dios;десятичная классификация Дьюи;1;1;from
+Q210896;Madre de Dios;численность населения;1;10;from
+Q210896;Madre de Dios;код в Большой каталанской энциклопедии;1;1;from
+Q210896;Madre de Dios;код GeoNames;1;1;from
+Q210896;Madre de Dios;код TGN;1;1;from
+Q210896;Madre de Dios;площадь;1;1;from
+Q210896;Madre de Dios;ISO 3166-2;1;1;from
+Q210896;Madre de Dios;происходит из;1;12;to
+Q210896;Madre de Dios;категория на Викискладе;1;1;from
+Q210896;Madre de Dios;ID отношения в OpenStreetMap;1;1;from
+Q210896;Madre de Dios;часовой пояс;1;1;from
+Q210896;Madre de Dios;географические координаты;1;1;from
+Q210896;Madre de Dios;код Freebase;1;1;from
+Q210896;Madre de Dios;Who's on First ID;1;1;from
+Q210896;Madre de Dios;код UBIGEO;1;1;from
+Q210896;Madre de Dios;официальный сайт;1;1;from
+Q210896;Madre de Dios;FIPS 10-4 (страны и регионы);1;1;from
+Q210896;Madre de Dios;основная категория по теме;1;1;from
+Q210896;Madre de Dios;баннер Викигида;1;1;from
+Q211208;Pasco;географические координаты;1;1;from
+Q211208;Pasco;код Freebase;1;1;from
+Q211208;Pasco;Who's on First ID;1;1;from
+Q211793;San Martín;происходит из;1;5;to
+Q211793;San Martín;часовой пояс;1;1;from
+Q211793;San Martín;географические координаты;1;1;from
+Q211793;San Martín;код Freebase;1;1;from
+Q211793;San Martín;Who's on First ID;1;1;from
+Q211793;San Martín;код UBIGEO;1;1;from
+Q211793;San Martín;официальный сайт;1;1;from
+Q211793;San Martín;FIPS 10-4 (страны и регионы);1;1;from
+Q211793;San Martín;основная категория по теме;1;1;from
+Q211793;San Martín;баннер Викигида;1;1;from
+Q211793;San Martín;место в MusicBrainz;1;1;from
+Q211793;San Martín;место рождения;1;4;to
+Q211793;San Martín;является столицей;1;1;to
+Q211208;Pasco;код UBIGEO;1;1;from
+Q211793;San Martín;общая тема категории;1;1;to
+Q211793;San Martín;энтохороним от;1;1;to
+Q211795;Lima;административно-территориальная единица;1;4160;to
+Q211795;Lima;административно делится на;1;1;to
+Q211795;Lima;государство;1;1;from
+Q211795;Lima;карта местонахождения;1;1;from
+Q211795;Lima;это частный случай понятия;1;1;from
+Q211795;Lima;столица;1;1;from
+Q211795;Lima;изображение флага;1;1;from
+Q211795;Lima;имеет границы с;1;6;to
+Q211795;Lima;глава правительства;1;1;from
+Q211793;San Martín;ID отношения в OpenStreetMap;1;1;from
+Q211793;San Martín;категория на Викискладе;1;1;from
+Q211793;San Martín;ISO 3166-2;1;1;from
+Q211793;San Martín;используемый язык;1;5;from
+Q211208;Pasco;официальный сайт;1;1;from
+Q211208;Pasco;FIPS 10-4 (страны и регионы);1;1;from
+Q211208;Pasco;основная категория по теме;1;1;from
+Q211208;Pasco;происходит из;1;9;to
+Q211208;Pasco;местонахождение;1;2;to
+Q211208;Pasco;место рождения;1;1;to
+Q211208;Pasco;является столицей;1;1;to
+Q211208;Pasco;общая тема категории;1;1;to
+Q211208;Pasco;энтохороним от;1;1;to
+Q211793;San Martín;административно-территориальная единица;1;247;to
+Q211793;San Martín;административно делится на;1;1;to
+Q211793;San Martín;государство;1;1;from
+Q211793;San Martín;карта местонахождения;1;1;from
+Q211793;San Martín;это частный случай понятия;1;1;from
+Q211793;San Martín;столица;1;1;from
+Q211793;San Martín;имеет границы с;1;4;to
+Q211793;San Martín;глава правительства;1;1;from
+Q211793;San Martín;десятичная классификация Дьюи;1;1;from
+Q211793;San Martín;численность населения;1;10;from
+Q211793;San Martín;код в Большой каталанской энциклопедии;1;1;from
+Q211793;San Martín;код GeoNames;1;1;from
+Q211793;San Martín;код TGN;1;1;from
+Q211793;San Martín;площадь;1;1;from
+Q207973;Junín;место в MusicBrainz;1;1;from
+Q207973;Junín;основная категория по теме;1;1;from
+Q207973;Junín;FIPS 10-4 (страны и регионы);1;1;from
+Q205068;Arequipa;общая тема категории;1;2;to
+Q205068;Arequipa;код Freebase;1;1;from
+Q205068;Arequipa;Who's on First ID;1;1;from
+Q205068;Arequipa;код UBIGEO;1;1;from
+Q205068;Arequipa;официальный сайт;1;1;from
+Q205068;Arequipa;FIPS 10-4 (страны и регионы);1;1;from
+Q205068;Arequipa;основная категория по теме;1;1;from
+Q205068;Arequipa;галерея на Викискладе;1;1;from
+Q205068;Arequipa;место рождения;1;12;to
+Q205068;Arequipa;происходит из;1;5;to
+Q205068;Arequipa;является столицей;1;1;to
+Q205068;Arequipa;место смерти;1;1;to
+Q205068;Arequipa;энтохороним от;1;1;to
+Q205068;Arequipa;идентификатор местоположения ArchINFORM;1;1;from
+Q205078;Cajamarca;административно-территориальная единица;1;1167;to
+Q205078;Cajamarca;административно делится на;1;1;to
+Q205078;Cajamarca;государство;1;1;from
+Q205078;Cajamarca;карта местонахождения;1;1;from
+Q205078;Cajamarca;это частный случай понятия;1;1;from
+Q205078;Cajamarca;столица;1;1;from
+Q205078;Cajamarca;изображение флага;1;1;from
+Q205078;Cajamarca;имеет границы с;1;5;to
+Q205078;Cajamarca;глава правительства;1;1;from
+Q205078;Cajamarca;изображение герба;1;1;from
+Q205078;Cajamarca;десятичная классификация Дьюи;1;1;from
+Q205068;Arequipa;географические координаты;1;1;from
+Q205068;Arequipa;часовой пояс;1;1;from
+Q205078;Cajamarca;код в Большой каталанской энциклопедии;1;1;from
+Q205068;Arequipa;имеет границы с;1;6;to
+Q205057;Cusco;юрисдикция распространяется на;1;3;to
+Q205057;Cusco;общая тема категории;1;1;to
+Q205057;Cusco;энтохороним от;1;1;to
+Q205068;Arequipa;административно-территориальная единица;1;4338;to
+Q205068;Arequipa;административно делится на;1;1;to
+Q205068;Arequipa;государство;1;1;from
+Q205068;Arequipa;изображение;1;1;from
+Q205068;Arequipa;карта местонахождения;1;1;from
+Q205068;Arequipa;это частный случай понятия;1;1;from
+Q205068;Arequipa;столица;1;1;from
+Q205068;Arequipa;изображение флага;1;1;from
+Q205068;Arequipa;глава правительства;1;1;from
+Q205068;Arequipa;ID отношения в OpenStreetMap;1;1;from
+Q205068;Arequipa;изображение герба;1;1;from
+Q205068;Arequipa;десятичная классификация Дьюи;1;1;from
+Q205068;Arequipa;численность населения;1;10;from
+Q205068;Arequipa;значение в OmegaWiki;1;1;from
+Q205068;Arequipa;код в Большой каталанской энциклопедии;1;1;from
+Q205068;Arequipa;код GeoNames;1;1;from
+Q205068;Arequipa;код TGN;1;1;from
+Q205068;Arequipa;площадь;1;1;from
+Q205068;Arequipa;используемый язык;1;5;from
+Q205068;Arequipa;ISO 3166-2;1;1;from
+Q205068;Arequipa;категория на Викискладе;1;1;from
+Q205078;Cajamarca;численность населения;1;10;from
+Q205078;Cajamarca;код в энциклопедии «Британника онлайн»;1;1;from
+Q207973;Junín;официальный сайт;1;1;from
+Q205089;Áncash;код в Большой каталанской энциклопедии;1;1;from
+Q205089;Áncash;код VIAF;1;1;from
+Q205089;Áncash;код GND;1;1;from
+Q205089;Áncash;карта местонахождения;1;1;from
+Q205089;Áncash;это частный случай понятия;1;1;from
+Q205089;Áncash;столица;1;1;from
+Q205089;Áncash;изображение флага;1;1;from
+Q205089;Áncash;имеет границы с;1;3;to
+Q205089;Áncash;глава правительства;1;1;from
+Q205089;Áncash;изображение герба;1;1;from
+Q205089;Áncash;десятичная классификация Дьюи;1;1;from
+Q205089;Áncash;численность населения;1;10;from
+Q205089;Áncash;код GeoNames;1;1;from
+Q205089;Áncash;государство;1;1;from
+Q205089;Áncash;код TGN;1;1;from
+Q205089;Áncash;площадь;1;1;from
+Q205089;Áncash;код BNF;1;1;from
+Q205089;Áncash;используемый язык;1;7;from
+Q205089;Áncash;ISO 3166-2;1;1;from
+Q205089;Áncash;категория на Викискладе;1;1;from
+Q205089;Áncash;ID отношения в OpenStreetMap;1;1;from
+Q205089;Áncash;часовой пояс;1;1;from
+Q205089;Áncash;идентификатор местоположения ArchINFORM;1;1;from
+Q205089;Áncash;географические координаты;1;1;from
+Q205089;Áncash;код Freebase;1;1;from
+Q205089;Áncash;изображение;1;1;from
+Q205089;Áncash;административно делится на;1;1;to
+Q205078;Cajamarca;код GeoNames;1;1;from
+Q205078;Cajamarca;код Freebase;1;1;from
+Q205078;Cajamarca;код TGN;1;1;from
+Q205078;Cajamarca;позиционная карта;1;1;from
+Q205078;Cajamarca;площадь;1;1;from
+Q205078;Cajamarca;используемый язык;1;3;from
+Q205078;Cajamarca;ISO 3166-2;1;1;from
+Q205078;Cajamarca;код темы Quora;1;1;from
+Q205078;Cajamarca;категория на Викискладе;1;1;from
+Q205078;Cajamarca;ID отношения в OpenStreetMap;1;1;from
+Q205078;Cajamarca;часовой пояс;1;1;from
+Q205078;Cajamarca;идентификатор местоположения ArchINFORM;1;1;from
+Q205078;Cajamarca;географические координаты;1;1;from
+Q205078;Cajamarca;Who's on First ID;1;1;from
+Q205089;Áncash;административно-территориальная единица;1;1863;to
+Q205078;Cajamarca;код UBIGEO;1;1;from
+Q205078;Cajamarca;официальный сайт;1;1;from
+Q205078;Cajamarca;FIPS 10-4 (страны и регионы);1;1;from
+Q205078;Cajamarca;основная категория по теме;1;1;from
+Q205078;Cajamarca;место в MusicBrainz;1;1;from
+Q205078;Cajamarca;происходит из;1;3;to
+Q205078;Cajamarca;местонахождение;1;2;to
+Q205078;Cajamarca;является столицей;1;1;to
+Q205078;Cajamarca;место рождения;1;3;to
+Q205078;Cajamarca;общая тема категории;1;2;to
+Q205078;Cajamarca;энтохороним от;1;1;to
+Q205057;Cusco;является столицей;1;1;to
+Q205057;Cusco;место активности;1;2;to
+Q205057;Cusco;место рождения;1;11;to
+Q201162;Amazonas;столица;1;1;from
+Q200938;Loreto;происходит из;1;41;to
+Q200938;Loreto;является столицей;1;1;to
+Q200938;Loreto;место рождения;1;2;to
+Q200938;Loreto;общая тема категории;1;1;to
+Q200938;Loreto;энтохороним от;1;1;to
+Q201162;Amazonas;административно-территориальная единица;1;766;to
+Q201162;Amazonas;административно делится на;1;1;to
+Q201162;Amazonas;государство;1;1;from
+Q201162;Amazonas;изображение;1;1;from
+Q201162;Amazonas;карта местонахождения;1;1;from
+Q201162;Amazonas;это частный случай понятия;1;1;from
+Q201162;Amazonas;изображение флага;1;1;from
+Q200938;Loreto;основная категория по теме;1;1;from
+Q201162;Amazonas;имеет границы с;1;5;to
+Q201162;Amazonas;глава правительства;1;1;from
+Q201162;Amazonas;изображение герба;1;1;from
+Q201162;Amazonas;десятичная классификация Дьюи;1;1;from
+Q201162;Amazonas;численность населения;1;10;from
+Q201162;Amazonas;код в Большой каталанской энциклопедии;1;1;from
+Q201162;Amazonas;код GeoNames;1;1;from
+Q201162;Amazonas;код TGN;1;1;from
+Q201162;Amazonas;позиционная карта;1;1;from
+Q201162;Amazonas;площадь;1;1;from
+Q201162;Amazonas;используемый язык;1;5;from
+Q200938;Loreto;место в MusicBrainz;1;1;from
+Q200938;Loreto;FIPS 10-4 (страны и регионы);1;1;from
+Q205057;Cusco;место смерти;1;2;to
+Q200938;Loreto;код в Большой каталанской энциклопедии;1;1;from
+Q200938;Loreto;государство;1;1;from
+Q200938;Loreto;изображение;1;1;from
+Q200938;Loreto;карта местонахождения;1;3;from
+Q200938;Loreto;это частный случай понятия;1;1;from
+Q200938;Loreto;столица;1;1;from
+Q200938;Loreto;изображение флага;1;1;from
+Q200938;Loreto;имеет границы с;1;12;to
+Q200938;Loreto;глава правительства;1;1;from
+Q200938;Loreto;изображение герба;1;1;from
+Q200938;Loreto;десятичная классификация Дьюи;1;1;from
+Q200938;Loreto;численность населения;1;10;from
+Q200938;Loreto;код GeoNames;1;1;from
+Q200938;Loreto;официальный сайт;1;1;from
+Q200938;Loreto;код TGN;1;1;from
+Q200938;Loreto;площадь;1;1;from
+Q200938;Loreto;используемый язык;1;42;from
+Q200938;Loreto;ISO 3166-2;1;1;from
+Q200938;Loreto;категория на Викискладе;1;1;from
+Q200938;Loreto;ID отношения в OpenStreetMap;1;1;from
+Q200938;Loreto;часовой пояс;1;1;from
+Q200938;Loreto;географические координаты;1;1;from
+Q200938;Loreto;код Freebase;1;1;from
+Q200938;Loreto;Who's on First ID;1;1;from
+Q200938;Loreto;код UBIGEO;1;1;from
+Q201162;Amazonas;ISO 3166-2;1;1;from
+Q201162;Amazonas;категория на Викискладе;1;1;from
+Q201162;Amazonas;ID отношения в OpenStreetMap;1;1;from
+Q205057;Cusco;идентификатор местоположения ArchINFORM;1;1;from
+Q205057;Cusco;код в Большой каталанской энциклопедии;1;1;from
+Q205057;Cusco;код GeoNames;1;1;from
+Q205057;Cusco;код TGN;1;1;from
+Q205057;Cusco;площадь;1;1;from
+Q205057;Cusco;используемый язык;1;11;from
+Q205057;Cusco;ISO 3166-2;1;1;from
+Q205057;Cusco;код темы Quora;1;1;from
+Q205057;Cusco;категория на Викискладе;1;1;from
+Q205057;Cusco;ID отношения в OpenStreetMap;1;1;from
+Q205057;Cusco;часовой пояс;1;1;from
+Q205057;Cusco;местный телефонный код;1;1;from
+Q205057;Cusco;наивысшая точка;1;1;from
+Q201162;Amazonas;часовой пояс;1;1;from
+Q205057;Cusco;географические координаты;1;1;from
+Q205057;Cusco;код Freebase;1;1;from
+Q205057;Cusco;Who's on First ID;1;1;from
+Q205057;Cusco;код UBIGEO;1;1;from
+Q205057;Cusco;официальный сайт;1;1;from
+Q205057;Cusco;FIPS 10-4 (страны и регионы);1;1;from
+Q205057;Cusco;основная категория по теме;1;1;from
+Q205057;Cusco;место в MusicBrainz;1;1;from
+Q205057;Cusco;пример использования свойства;1;1;to
+Q205057;Cusco;происходит из;1;11;to
+Q205057;Cusco;местонахождение;1;18;to
+Q205057;Cusco;численность населения;1;10;from
+Q205057;Cusco;десятичная классификация Дьюи;1;1;from
+Q205057;Cusco;изображение герба;1;1;from
+Q205057;Cusco;глава правительства;1;1;from
+Q201162;Amazonas;географические координаты;1;1;from
+Q201162;Amazonas;код Freebase;1;1;from
+Q201162;Amazonas;Who's on First ID;1;1;from
+Q201162;Amazonas;код UBIGEO;1;1;from
+Q201162;Amazonas;официальный сайт;1;1;from
+Q201162;Amazonas;FIPS 10-4 (страны и регионы);1;1;from
+Q201162;Amazonas;основная категория по теме;1;1;from
+Q201162;Amazonas;место в MusicBrainz;1;1;from
+Q201162;Amazonas;место рождения;1;4;to
+Q201162;Amazonas;происходит из;1;4;to
+Q201162;Amazonas;является столицей;1;1;to
+Q201162;Amazonas;общая тема категории;1;1;to
+Q201162;Amazonas;местонахождение;1;1;to
+Q201162;Amazonas;энтохороним от;1;1;to
+Q205057;Cusco;административно-территориальная единица;1;2372;to
+Q205057;Cusco;административно делится на;1;1;to
+Q205057;Cusco;государство;1;1;from
+Q205057;Cusco;изображение;1;1;from
+Q205057;Cusco;карта местонахождения;1;2;from
+Q205057;Cusco;это частный случай понятия;1;1;from
+Q205057;Cusco;столица;1;1;from
+Q205057;Cusco;изображение флага;1;1;from
+Q205057;Cusco;имеет границы с;1;7;to
+Q205089;Áncash;Who's on First ID;1;1;from
+Q205089;Áncash;код UBIGEO;1;1;from
+Q205089;Áncash;официальный сайт;1;1;from
+Q207413;Tacna;основная категория по теме;1;1;from
+Q207413;Tacna;ISO 3166-2;1;1;from
+Q207413;Tacna;категория на Викискладе;1;1;from
+Q207413;Tacna;ID отношения в OpenStreetMap;1;1;from
+Q207413;Tacna;часовой пояс;1;1;from
+Q207413;Tacna;географические координаты;1;1;from
+Q207413;Tacna;код Freebase;1;1;from
+Q207413;Tacna;Who's on First ID;1;1;from
+Q207413;Tacna;категория карт на Викискладе;1;1;from
+Q207413;Tacna;код UBIGEO;1;1;from
+Q207413;Tacna;официальный сайт;1;1;from
+Q207413;Tacna;FIPS 10-4 (страны и регионы);1;1;from
+Q207413;Tacna;место в MusicBrainz;1;1;from
+Q207413;Tacna;площадь;1;1;from
+Q207413;Tacna;является столицей;1;1;to
+Q207413;Tacna;место рождения;1;6;to
+Q207413;Tacna;названо в честь;1;1;to
+Q207413;Tacna;место смерти;1;1;to
+Q207413;Tacna;категория объединяет темы;1;1;to
+Q207413;Tacna;общая тема категории;1;1;to
+Q207413;Tacna;энтохороним от;1;1;to
+Q207424;Ucayali;административно-территориальная единица;1;307;to
+Q207424;Ucayali;административно делится на;1;1;to
+Q207424;Ucayali;государство;1;1;from
+Q207424;Ucayali;карта местонахождения;1;1;from
+Q207413;Tacna;используемый язык;1;1;from
+Q207413;Tacna;код TGN;1;1;from
+Q205126;La Libertad;официальный сайт;1;1;from
+Q207413;Tacna;административно делится на;1;1;to
+Q205126;La Libertad;основная категория по теме;1;1;from
+Q205126;La Libertad;место в MusicBrainz;1;1;from
+Q205126;La Libertad;является столицей;1;1;to
+Q205126;La Libertad;расположение штаб-квартиры;1;1;to
+Q205126;La Libertad;место рождения;1;4;to
+Q205126;La Libertad;местонахождение;1;1;to
+Q205126;La Libertad;категория объединяет темы;1;1;to
+Q205126;La Libertad;общая тема категории;1;1;to
+Q205126;La Libertad;происходит из;1;1;to
+Q205126;La Libertad;энтохороним от;1;1;to
+Q207413;Tacna;административно-территориальная единица;1;1030;to
+Q207413;Tacna;государство;1;1;from
+Q207413;Tacna;код GeoNames;1;1;from
+Q207413;Tacna;карта местонахождения;1;1;from
+Q207413;Tacna;это частный случай понятия;1;1;from
+Q207413;Tacna;столица;1;1;from
+Q207413;Tacna;изображение флага;1;1;from
+Q207413;Tacna;имеет границы с;1;4;to
+Q207413;Tacna;глава правительства;1;1;from
+Q207413;Tacna;изображение герба;1;1;from
+Q207413;Tacna;десятичная классификация Дьюи;1;1;from
+Q207413;Tacna;численность населения;1;10;from
+Q207413;Tacna;код в Большой каталанской энциклопедии;1;1;from
+Q207413;Tacna;код в энциклопедии «Британника онлайн»;1;1;from
+Q207424;Ucayali;это частный случай понятия;1;1;from
+Q207424;Ucayali;столица;1;1;from
+Q207424;Ucayali;изображение флага;1;1;from
+Q207973;Junín;код TGN;1;1;from
+Q207973;Junín;государство;1;1;from
+Q207973;Junín;изображение;1;1;from
+Q207973;Junín;карта местонахождения;1;1;from
+Q207973;Junín;это частный случай понятия;1;1;from
+Q207973;Junín;столица;1;1;from
+Q207973;Junín;имеет границы с;1;6;to
+Q207973;Junín;глава правительства;1;1;from
+Q207973;Junín;изображение герба;1;1;from
+Q207973;Junín;десятичная классификация Дьюи;1;1;from
+Q207973;Junín;численность населения;1;10;from
+Q207973;Junín;код GeoNames;1;1;from
+Q207973;Junín;площадь;1;1;from
+Q207424;Ucayali;имеет границы с;1;7;to
+Q207973;Junín;код BabelNet;1;1;from
+Q207973;Junín;используемый язык;1;11;from
+Q207973;Junín;ISO 3166-2;1;1;from
+Q207973;Junín;код темы Quora;1;1;from
+Q207973;Junín;категория на Викискладе;1;1;from
+Q207973;Junín;ID отношения в OpenStreetMap;1;1;from
+Q207973;Junín;часовой пояс;1;1;from
+Q207973;Junín;географические координаты;1;1;from
+Q207973;Junín;код Freebase;1;1;from
+Q207973;Junín;Who's on First ID;1;1;from
+Q207973;Junín;код UBIGEO;1;1;from
+Q207973;Junín;административно делится на;1;1;to
+Q207973;Junín;административно-территориальная единица;1;2892;to
+Q207424;Ucayali;энтохороним от;1;1;to
+Q207424;Ucayali;общая тема категории;1;1;to
+Q207424;Ucayali;глава правительства;1;1;from
+Q207424;Ucayali;изображение герба;1;1;from
+Q207424;Ucayali;десятичная классификация Дьюи;1;1;from
+Q207424;Ucayali;численность населения;1;10;from
+Q207424;Ucayali;код в Большой каталанской энциклопедии;1;1;from
+Q207424;Ucayali;код GeoNames;1;1;from
+Q207424;Ucayali;площадь;1;1;from
+Q207424;Ucayali;используемый язык;1;24;from
+Q207424;Ucayali;ISO 3166-2;1;1;from
+Q207424;Ucayali;категория на Викискладе;1;1;from
+Q207424;Ucayali;ID отношения в OpenStreetMap;1;1;from
+Q207424;Ucayali;часовой пояс;1;1;from
+Q207424;Ucayali;географические координаты;1;1;from
+Q207424;Ucayali;код Freebase;1;1;from
+Q207424;Ucayali;Who's on First ID;1;1;from
+Q207424;Ucayali;код UBIGEO;1;1;from
+Q207424;Ucayali;официальный сайт;1;1;from
+Q207424;Ucayali;FIPS 10-4 (страны и регионы);1;1;from
+Q207424;Ucayali;основная категория по теме;1;1;from
+Q207424;Ucayali;место в MusicBrainz;1;1;from
+Q207424;Ucayali;происходит из;1;24;to
+Q207424;Ucayali;является столицей;1;1;to
+Q207424;Ucayali;место рождения;1;2;to
+Q205126;La Libertad;FIPS 10-4 (страны и регионы);1;1;from
+Q205126;La Libertad;код UBIGEO;1;1;from
+Q205089;Áncash;FIPS 10-4 (страны и регионы);1;1;from
+Q205104;Puno;юрисдикция распространяется на;1;1;to
+Q205104;Puno;ID отношения в OpenStreetMap;1;1;from
+Q205104;Puno;часовой пояс;1;1;from
+Q205104;Puno;географические координаты;1;1;from
+Q205104;Puno;код Freebase;1;1;from
+Q205104;Puno;код UBIGEO;1;1;from
+Q205104;Puno;официальный сайт;1;1;from
+Q205104;Puno;FIPS 10-4 (страны и регионы);1;1;from
+Q205104;Puno;основная категория по теме;1;1;from
+Q205104;Puno;место в MusicBrainz;1;1;from
+Q205104;Puno;является столицей;1;1;to
+Q205104;Puno;место рождения;1;5;to
+Q205104;Puno;происходит из;1;2;to
+Q205104;Puno;ISO 3166-2;1;1;from
+Q205104;Puno;общая тема категории;1;1;to
+Q205104;Puno;энтохороним от;1;1;to
+Q205112;Ayacucho;административно-территориальная единица;1;2688;to
+Q205112;Ayacucho;административно делится на;1;1;to
+Q205112;Ayacucho;государство;1;1;from
+Q205112;Ayacucho;изображение;1;1;from
+Q205112;Ayacucho;карта местонахождения;1;1;from
+Q205112;Ayacucho;это частный случай понятия;1;1;from
+Q205112;Ayacucho;столица;1;1;from
+Q205112;Ayacucho;изображение флага;1;1;from
+Q205112;Ayacucho;имеет границы с;1;6;to
+Q205104;Puno;категория на Викискладе;1;1;from
+Q205104;Puno;используемый язык;1;3;from
+Q205126;La Libertad;категория карт на Викискладе;1;1;from
+Q205104;Puno;государство;1;1;from
+Q205089;Áncash;основная категория по теме;1;1;from
+Q205089;Áncash;место в MusicBrainz;1;1;from
+Q205089;Áncash;происходит из;1;6;to
+Q205089;Áncash;местонахождение;1;2;to
+Q205089;Áncash;является столицей;1;2;to
+Q205089;Áncash;место рождения;1;8;to
+Q205089;Áncash;заменён на;1;1;to
+Q205089;Áncash;общая тема категории;1;1;to
+Q205089;Áncash;энтохороним от;1;1;to
+Q205104;Puno;административно-территориальная единица;1;1364;to
+Q205104;Puno;административно делится на;1;1;to
+Q205104;Puno;изображение;1;1;from
+Q205104;Puno;площадь;1;1;from
+Q205104;Puno;карта местонахождения;1;1;from
+Q205104;Puno;это частный случай понятия;1;1;from
+Q205104;Puno;столица;1;1;from
+Q205104;Puno;изображение флага;1;1;from
+Q205104;Puno;имеет границы с;1;6;to
+Q205104;Puno;глава правительства;1;1;from
+Q205104;Puno;изображение герба;1;1;from
+Q205104;Puno;десятичная классификация Дьюи;1;1;from
+Q205104;Puno;численность населения;1;10;from
+Q205104;Puno;код GeoNames;1;1;from
+Q205104;Puno;код TGN;1;1;from
+Q205112;Ayacucho;глава правительства;1;1;from
+Q205112;Ayacucho;изображение герба;1;1;from
+Q205112;Ayacucho;десятичная классификация Дьюи;1;1;from
+Q205126;La Libertad;код TGN;1;1;from
+Q205126;La Libertad;карта местонахождения;1;1;from
+Q205126;La Libertad;это частный случай понятия;1;1;from
+Q205126;La Libertad;столица;1;1;from
+Q205126;La Libertad;изображение флага;1;1;from
+Q205126;La Libertad;имеет границы с;1;6;to
+Q205126;La Libertad;глава правительства;1;1;from
+Q205126;La Libertad;изображение герба;1;1;from
+Q205126;La Libertad;десятичная классификация Дьюи;1;1;from
+Q205126;La Libertad;численность населения;1;10;from
+Q205126;La Libertad;код в Большой каталанской энциклопедии;1;1;from
+Q205126;La Libertad;код GeoNames;1;1;from
+Q205126;La Libertad;площадь;1;1;from
+Q205112;Ayacucho;численность населения;1;10;from
+Q205126;La Libertad;код BNF;1;1;from
+Q205126;La Libertad;используемый язык;1;1;from
+Q205126;La Libertad;ISO 3166-2;1;1;from
+Q205126;La Libertad;категория на Викискладе;1;1;from
+Q205126;La Libertad;ID отношения в OpenStreetMap;1;1;from
+Q205126;La Libertad;часовой пояс;1;1;from
+Q205126;La Libertad;идентификатор местоположения ArchINFORM;1;1;from
+Q205126;La Libertad;географические координаты;1;1;from
+Q205126;La Libertad;код Freebase;1;1;from
+Q205126;La Libertad;Who's on First ID;1;1;from
+Q205126;La Libertad;код NKC;1;1;from
+Q205126;La Libertad;государство;1;1;from
+Q205126;La Libertad;административно делится на;1;1;to
+Q205126;La Libertad;административно-территориальная единица;1;1074;to
+Q205112;Ayacucho;энтохороним от;1;1;to
+Q205112;Ayacucho;код в Большой каталанской энциклопедии;1;1;from
+Q205112;Ayacucho;код GeoNames;1;1;from
+Q205112;Ayacucho;код TGN;1;1;from
+Q205112;Ayacucho;высота над уровнем моря;1;1;from
+Q205112;Ayacucho;площадь;1;1;from
+Q205112;Ayacucho;используемый язык;1;4;from
+Q205112;Ayacucho;ISO 3166-2;1;1;from
+Q205112;Ayacucho;категория на Викискладе;1;1;from
+Q205112;Ayacucho;ID отношения в OpenStreetMap;1;1;from
+Q205112;Ayacucho;часовой пояс;1;1;from
+Q205112;Ayacucho;географические координаты;1;1;from
+Q205112;Ayacucho;код Freebase;1;1;from
+Q205112;Ayacucho;Who's on First ID;1;1;from
+Q205112;Ayacucho;код UBIGEO;1;1;from
+Q205112;Ayacucho;официальный сайт;1;1;from
+Q205112;Ayacucho;FIPS 10-4 (страны и регионы);1;1;from
+Q205112;Ayacucho;основная категория по теме;1;1;from
+Q205112;Ayacucho;место в MusicBrainz;1;1;from
+Q205112;Ayacucho;место рождения;1;4;to
+Q205112;Ayacucho;происходит из;1;4;to
+Q205112;Ayacucho;местонахождение;1;3;to
+Q205112;Ayacucho;является столицей;1;1;to
+Q205112;Ayacucho;общая тема категории;1;1;to
+Q2071352;Goverment regional of Callao;общая тема категории;1;1;to

@@ -1,0 +1,190 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q616523;Cisplatina Province;государство;1;4;from
+Q17378260;Minas Gerais Province;государство;1;2;from
+Q17378257;Mato Grosso Province;столица;1;1;from
+Q17378257;Mato Grosso Province;заменил;1;1;to
+Q17378257;Mato Grosso Province;заменён на;1;1;from
+Q17378257;Mato Grosso Province;дата основания/создания/возникновения;1;1;from
+Q17378257;Mato Grosso Province;дата прекращения существования;1;1;from
+Q17378257;Mato Grosso Province;географические координаты;1;1;from
+Q17378257;Mato Grosso Province;местонахождение;1;1;to
+Q17378257;Mato Grosso Province;изображённый объект;1;5;to
+Q17378260;Minas Gerais Province;административно-территориальная единица;1;1;to
+Q17378260;Minas Gerais Province;это частный случай понятия;1;1;from
+Q17378257;Mato Grosso Province;изображение;1;1;from
+Q17378260;Minas Gerais Province;столица;1;1;from
+Q17378260;Minas Gerais Province;заменил;1;1;to
+Q17378260;Minas Gerais Province;заменён на;1;1;from
+Q17378260;Minas Gerais Province;дата основания/создания/возникновения;1;1;from
+Q17378260;Minas Gerais Province;дата прекращения существования;1;1;from
+Q17378260;Minas Gerais Province;место рождения;1;1;to
+Q17378260;Minas Gerais Province;является столицей;1;1;to
+Q17378261;Paraíba Province;государство;1;1;from
+Q17378261;Paraíba Province;это частный случай понятия;1;1;from
+Q17378257;Mato Grosso Province;это частный случай понятия;1;1;from
+Q17378257;Mato Grosso Province;государство;1;2;from
+Q17351607;Pernambuco Province;это частный случай понятия;1;1;from
+Q17351634;Rio Grande do Norte Province;заменил;1;1;from
+Q17351607;Pernambuco Province;заменил;1;1;to
+Q17351607;Pernambuco Province;заменён на;1;1;from
+Q17351607;Pernambuco Province;дата основания/создания/возникновения;1;1;from
+Q17351607;Pernambuco Province;дата прекращения существования;1;1;from
+Q17351607;Pernambuco Province;изображённый объект;1;1;to
+Q17351607;Pernambuco Province;является столицей;1;1;to
+Q17351634;Rio Grande do Norte Province;государство;1;1;from
+Q17351634;Rio Grande do Norte Province;это частный случай понятия;1;1;from
+Q17351634;Rio Grande do Norte Province;столица;1;1;from
+Q17351634;Rio Grande do Norte Province;заменён на;1;1;from
+Q17362492;Alagoas Province;дата прекращения существования;1;1;from
+Q17351634;Rio Grande do Norte Province;дата основания/создания/возникновения;1;1;from
+Q17351634;Rio Grande do Norte Province;дата прекращения существования;1;1;from
+Q17362492;Alagoas Province;государство;1;1;from
+Q17362492;Alagoas Province;карта местонахождения;1;1;from
+Q17362492;Alagoas Province;это частный случай понятия;1;1;from
+Q17362492;Alagoas Province;столица;1;1;from
+Q17362492;Alagoas Province;заменил;1;1;to
+Q17362492;Alagoas Province;заменён на;1;1;to
+Q17362492;Alagoas Province;дата основания/создания/возникновения;1;1;from
+Q17378261;Paraíba Province;столица;1;1;from
+Q17378261;Paraíba Province;заменил;1;1;to
+Q17378261;Paraíba Province;заменён на;1;1;from
+Q17378391;Santa Catarina Province;заменён на;1;1;to
+Q17378381;Bahia Province;дата основания/создания/возникновения;1;1;from
+Q17378381;Bahia Province;дата прекращения существования;1;1;from
+Q17378381;Bahia Province;является столицей;1;1;to
+Q17378381;Bahia Province;предыдущее по порядку;1;1;to
+Q17378391;Santa Catarina Province;названо в честь;1;1;from
+Q17378391;Santa Catarina Province;государство;1;1;from
+Q17378391;Santa Catarina Province;это частный случай понятия;1;1;from
+Q17378391;Santa Catarina Province;столица;1;1;from
+Q17378391;Santa Catarina Province;заменил;1;1;to
+Q17378391;Santa Catarina Province;дата основания/создания/возникновения;1;1;from
+Q17378261;Paraíba Province;дата основания/создания/возникновения;1;1;from
+Q17378391;Santa Catarina Province;дата прекращения существования;1;1;from
+Q17378391;Santa Catarina Province;юрисдикция распространяется на;1;3;to
+Q27494556;São João das Duas Barras;государство;1;1;from
+Q27494556;São João das Duas Barras;это частный случай понятия;1;1;from
+Q27494556;São João das Duas Barras;столица;1;1;from
+Q27494556;São João das Duas Barras;заменил;1;1;from
+Q27494556;São João das Duas Barras;заменён на;1;1;from
+Q27494556;São João das Duas Barras;дата основания/создания/возникновения;1;1;from
+Q27494556;São João das Duas Barras;дата прекращения существования;1;1;from
+Q17378381;Bahia Province;заменён на;1;1;from
+Q17378381;Bahia Province;заменил;1;1;to
+Q17378381;Bahia Province;столица;1;1;from
+Q17378381;Bahia Province;это частный случай понятия;1;1;from
+Q17378261;Paraíba Province;дата прекращения существования;1;1;from
+Q17378262;Rio de Janeiro Province;государство;1;4;from
+Q17378262;Rio de Janeiro Province;это частный случай понятия;1;1;from
+Q17378262;Rio de Janeiro Province;столица;1;1;from
+Q17378262;Rio de Janeiro Province;заменил;1;1;to
+Q17378262;Rio de Janeiro Province;заменён на;1;1;from
+Q17378262;Rio de Janeiro Province;дата основания/создания/возникновения;1;1;from
+Q17378262;Rio de Janeiro Province;дата прекращения существования;1;1;from
+Q17378262;Rio de Janeiro Province;место смерти;1;1;to
+Q17378262;Rio de Janeiro Province;является столицей;1;1;to
+Q17378298;Maranhão Province;государство;1;1;from
+Q17378298;Maranhão Province;это частный случай понятия;1;1;from
+Q17378298;Maranhão Province;столица;1;1;from
+Q17378298;Maranhão Province;заменил;1;1;to
+Q17378298;Maranhão Province;заменён на;1;1;from
+Q17378298;Maranhão Province;дата основания/создания/возникновения;1;1;from
+Q17378298;Maranhão Province;дата прекращения существования;1;1;from
+Q17378381;Bahia Province;следующее по порядку;1;1;from
+Q17378381;Bahia Province;государство;1;1;from
+Q17351607;Pernambuco Province;столица;1;4;from
+Q17351607;Pernambuco Province;государство;1;1;from
+Q616523;Cisplatina Province;это частный случай понятия;1;1;from
+Q10354757;São Paulo Province;изображённый объект;1;1;to
+Q7141441;Pará Province;государство;1;1;from
+Q7141441;Pará Province;это частный случай понятия;1;1;from
+Q10354757;São Paulo Province;государство;1;2;from
+Q10354757;São Paulo Province;это частный случай понятия;1;1;from
+Q10354757;São Paulo Province;столица;1;1;from
+Q10354757;São Paulo Province;заменил;1;2;to
+Q10354757;São Paulo Province;заменён на;1;1;from
+Q10354757;São Paulo Province;дата основания/создания/возникновения;1;2;from
+Q10354757;São Paulo Province;дата прекращения существования;1;1;from
+Q10354759;Grão-Pará Province;государство;1;1;from
+Q7135581;Paraná Province;дата основания/создания/возникновения;1;1;from
+Q10354759;Grão-Pará Province;это частный случай понятия;1;1;from
+Q10354759;Grão-Pará Province;столица;1;1;from
+Q10354759;Grão-Pará Province;заменил;1;2;to
+Q10354759;Grão-Pará Province;заменён на;1;1;to
+Q10354759;Grão-Pará Province;дата основания/создания/возникновения;1;1;from
+Q10354759;Grão-Pará Province;дата прекращения существования;1;1;from
+Q10375978;São Pedro do Rio Grande do Sul Province;государство;1;2;from
+Q10375978;São Pedro do Rio Grande do Sul Province;это частный случай понятия;1;1;from
+Q10375978;São Pedro do Rio Grande do Sul Province;столица;1;1;from
+Q7135581;Paraná Province;дата прекращения существования;1;1;from
+Q7135581;Paraná Province;заменён на;1;1;from
+Q17351564;Sergipe Province;является столицей;1;1;to
+Q616523;Cisplatina Province;общая тема категории;1;1;to
+Q616523;Cisplatina Province;столица;1;1;from
+Q616523;Cisplatina Province;официальный язык;1;1;from
+Q616523;Cisplatina Province;изображение флага;1;1;from
+Q616523;Cisplatina Province;заменён на;1;1;from
+Q616523;Cisplatina Province;категория на Викискладе;1;1;from
+Q616523;Cisplatina Province;дата основания/создания/возникновения;1;1;from
+Q616523;Cisplatina Province;дата прекращения существования;1;1;from
+Q616523;Cisplatina Province;код Freebase;1;1;from
+Q616523;Cisplatina Province;основная категория по теме;1;1;from
+Q4740881;Amazonas Province;государство;1;2;from
+Q7135581;Paraná Province;заменил;1;1;to
+Q4740881;Amazonas Province;это частный случай понятия;1;1;from
+Q4740881;Amazonas Province;столица;1;1;from
+Q4740881;Amazonas Province;заменил;1;1;to
+Q4740881;Amazonas Province;заменён на;1;1;from
+Q4740881;Amazonas Province;дата основания/создания/возникновения;1;1;from
+Q4740881;Amazonas Province;дата прекращения существования;1;1;from
+Q7135581;Paraná Province;государство;1;2;from
+Q7135581;Paraná Province;это частный случай понятия;1;1;from
+Q7135581;Paraná Province;столица;1;1;from
+Q10375978;São Pedro do Rio Grande do Sul Province;заменил;1;1;to
+Q10375978;São Pedro do Rio Grande do Sul Province;заменён на;1;1;from
+Q10375978;São Pedro do Rio Grande do Sul Province;дата основания/создания/возникновения;1;1;from
+Q16622604;Ceará Province;заменён на;1;1;from
+Q15392899;Goiás Province;дата основания/создания/возникновения;1;1;from
+Q15392899;Goiás Province;дата прекращения существования;1;1;from
+Q15392899;Goiás Province;географические координаты;1;1;from
+Q15392899;Goiás Province;является столицей;1;1;to
+Q15392899;Goiás Province;изображённый объект;1;1;to
+Q16622604;Ceará Province;государство;1;1;from
+Q16622604;Ceará Province;это частный случай понятия;1;1;from
+Q16622604;Ceará Province;столица;1;1;from
+Q16622604;Ceará Province;заменил;1;1;to
+Q16622604;Ceará Province;дата основания/создания/возникновения;1;1;from
+Q10375978;São Pedro do Rio Grande do Sul Province;дата прекращения существования;1;1;from
+Q16622604;Ceará Province;дата прекращения существования;1;1;from
+Q16622604;Ceará Province;административно-территориальная единица;1;1;to
+Q17351564;Sergipe Province;государство;1;1;from
+Q17351564;Sergipe Province;это частный случай понятия;1;1;from
+Q17351564;Sergipe Province;столица;1;4;from
+Q17351564;Sergipe Province;заменил;1;1;to
+Q17351564;Sergipe Province;заменён на;1;1;from
+Q17351564;Sergipe Province;дата основания/создания/возникновения;1;1;from
+Q17351564;Sergipe Province;дата прекращения существования;1;1;from
+Q15392899;Goiás Province;заменён на;1;1;from
+Q15392899;Goiás Province;заменил;1;1;to
+Q15392899;Goiás Province;столица;1;1;from
+Q15392899;Goiás Province;это частный случай понятия;1;1;from
+Q10375978;São Pedro do Rio Grande do Sul Province;юрисдикция распространяется на;1;1;to
+Q10375978;São Pedro do Rio Grande do Sul Province;место рождения;1;2;to
+Q15392495;Piauí Province;государство;1;1;from
+Q15392495;Piauí Province;это частный случай понятия;1;1;from
+Q15392495;Piauí Province;столица;1;4;from
+Q15392495;Piauí Province;заменил;1;1;to
+Q15392495;Piauí Province;заменён на;1;1;from
+Q15392495;Piauí Province;дата основания/создания/возникновения;1;1;from
+Q15392495;Piauí Province;дата прекращения существования;1;1;from
+Q15392495;Piauí Province;является столицей;1;1;to
+Q15392767;Espírito Santo Province;административно-территориальная единица;1;1;from
+Q15392767;Espírito Santo Province;государство;1;2;from
+Q15392767;Espírito Santo Province;это частный случай понятия;1;1;from
+Q15392767;Espírito Santo Province;столица;1;1;from
+Q15392767;Espírito Santo Province;заменил;1;1;to
+Q15392767;Espírito Santo Province;заменён на;1;1;from
+Q15392767;Espírito Santo Province;дата основания/создания/возникновения;1;1;from
+Q15392767;Espírito Santo Province;дата прекращения существования;1;1;from
+Q15392899;Goiás Province;государство;1;1;from
+Q27494556;São João das Duas Barras;является столицей;1;1;to

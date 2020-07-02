@@ -1,0 +1,348 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q816312;Belziger Landschaftswiesen;административно-территориальная единица;1;1;from
+Q49596736;Lucky Flats;географические координаты;1;1;from
+Q49599589;Ouray Park;часть от;1;1;from
+Q49599589;Ouray Park;местонахождение;1;1;from
+Q49599589;Ouray Park;высота над уровнем моря;1;1;from
+Q49599589;Ouray Park;код GeoNames;1;1;from
+Q49599589;Ouray Park;это частный случай понятия;1;1;from
+Q49599589;Ouray Park;государство;1;1;from
+Q49599589;Ouray Park;административно-территориальная единица;1;1;from
+Q49596736;Lucky Flats;местонахождение;1;1;to
+Q49596736;Lucky Flats;код GNIS;1;1;from
+Q49599589;Ouray Park;код GNIS;1;1;from
+Q49596736;Lucky Flats;высота над уровнем моря;1;1;from
+Q49596736;Lucky Flats;код GeoNames;1;1;from
+Q49596736;Lucky Flats;это частный случай понятия;1;1;from
+Q49596736;Lucky Flats;находится на берегу водоёма;1;1;from
+Q49596736;Lucky Flats;государство;1;1;from
+Q49596736;Lucky Flats;административно-территориальная единица;1;1;from
+Q49594756;Klondike Flat;находится в пределах природно-географического объекта;1;1;to
+Q49594756;Klondike Flat;географические координаты;1;1;from
+Q49599589;Ouray Park;категория на Викискладе;1;1;from
+Q49599589;Ouray Park;географические координаты;1;1;from
+Q49604085;Q49604085;код GNIS;1;1;from
+Q49604042;Pine Valley Hardpan;это частный случай понятия;1;1;from
+Q49604085;Q49604085;это частный случай понятия;1;1;from
+Q49604085;Q49604085;государство;1;1;from
+Q49604085;Q49604085;административно-территориальная единица;1;1;from
+Q49604042;Pine Valley Hardpan;географические координаты;1;1;from
+Q49604042;Pine Valley Hardpan;код GNIS;1;1;from
+Q49604042;Pine Valley Hardpan;часть от;1;1;from
+Q49604042;Pine Valley Hardpan;высота над уровнем моря;1;1;from
+Q49604042;Pine Valley Hardpan;код GeoNames;1;1;from
+Q49604042;Pine Valley Hardpan;государство;1;1;from
+Q49603309;Parleys Park;административно-территориальная единица;1;1;from
+Q49604042;Pine Valley Hardpan;административно-территориальная единица;1;1;from
+Q49603309;Parleys Park;географические координаты;1;1;from
+Q49603309;Parleys Park;код GNIS;1;1;from
+Q49603309;Parleys Park;категория на Викискладе;1;1;from
+Q49603309;Parleys Park;высота над уровнем моря;1;1;from
+Q49603309;Parleys Park;код GeoNames;1;1;from
+Q49603309;Parleys Park;это частный случай понятия;1;1;from
+Q49603309;Parleys Park;государство;1;1;from
+Q49594756;Klondike Flat;код GNIS;1;1;from
+Q49594756;Klondike Flat;категория на Викискладе;1;1;from
+Q49594756;Klondike Flat;высота над уровнем моря;1;1;from
+Q49590134;Elgin Park;административно-территориальная единица;1;1;from
+Q49590293;Emma Park;находится на берегу водоёма;1;1;from
+Q49590293;Emma Park;изображение;1;1;from
+Q49590293;Emma Park;государство;1;1;from
+Q49590293;Emma Park;административно-территориальная единица;1;3;from
+Q49590134;Elgin Park;географические координаты;1;1;from
+Q49590134;Elgin Park;код GeoNames;1;1;from
+Q49590134;Elgin Park;это частный случай понятия;1;1;from
+Q49590134;Elgin Park;государство;1;1;from
+Q49589355;Desert Lake;географические координаты;1;1;from
+Q49594756;Klondike Flat;код GeoNames;1;1;from
+Q49589355;Desert Lake;код GNIS;1;1;from
+Q49589355;Desert Lake;высота над уровнем моря;1;1;from
+Q49589355;Desert Lake;код GeoNames;1;1;from
+Q49589355;Desert Lake;это частный случай понятия;1;1;from
+Q49589355;Desert Lake;государство;1;1;from
+Q49589355;Desert Lake;административно-территориальная единица;1;1;from
+Q49589224;Deer Flat;географические координаты;1;1;from
+Q49589224;Deer Flat;код GeoNames;1;1;from
+Q49590293;Emma Park;это частный случай понятия;1;1;from
+Q49590293;Emma Park;код GeoNames;1;1;from
+Q49590293;Emma Park;не путать с;1;1;to
+Q49590293;Emma Park;высота над уровнем моря;1;1;from
+Q49594756;Klondike Flat;это частный случай понятия;1;1;from
+Q49594756;Klondike Flat;государство;1;1;from
+Q49594756;Klondike Flat;административно-территориальная единица;1;1;from
+Q49592810;Hop Flat;географические координаты;1;1;from
+Q49592810;Hop Flat;код GeoNames;1;1;from
+Q49592810;Hop Flat;это частный случай понятия;1;1;from
+Q49592810;Hop Flat;государство;1;1;from
+Q49591444;Graneros Flats;географические координаты;1;1;from
+Q49591444;Graneros Flats;код GeoNames;1;1;from
+Q49591444;Graneros Flats;это частный случай понятия;1;1;from
+Q49591444;Graneros Flats;государство;1;1;from
+Q49591444;Graneros Flats;административно-территориальная единица;1;1;from
+Q49590293;Emma Park;расположение конечной точки;1;1;to
+Q49590293;Emma Park;местонахождение;1;3;to
+Q49590293;Emma Park;географические координаты;1;1;from
+Q49590293;Emma Park;код GNIS;1;1;from
+Q49590293;Emma Park;категория на Викискладе;1;1;from
+Q49604085;Q49604085;код GeoNames;1;1;from
+Q49604085;Q49604085;географические координаты;1;1;from
+Q49589224;Deer Flat;государство;1;1;from
+Q49612435;Willow Park;это частный случай понятия;1;1;from
+Q49612439;Willow Park;административно-территориальная единица;1;1;from
+Q49612437;Willow Park;географические координаты;1;1;from
+Q49612437;Willow Park;код GeoNames;1;1;from
+Q49612437;Willow Park;это частный случай понятия;1;1;from
+Q49612437;Willow Park;государство;1;1;from
+Q49612437;Willow Park;административно-территориальная единица;1;1;from
+Q49612435;Willow Park;географические координаты;1;1;from
+Q49612435;Willow Park;код GeoNames;1;1;from
+Q49612435;Willow Park;государство;1;1;from
+Q49612439;Willow Park;это частный случай понятия;1;1;from
+Q49612435;Willow Park;административно-территориальная единица;1;1;from
+Q49612434;Willow Park;географические координаты;1;1;from
+Q49612434;Willow Park;код GeoNames;1;1;from
+Q49612434;Willow Park;это частный случай понятия;1;1;from
+Q49612434;Willow Park;государство;1;1;from
+Q49612434;Willow Park;административно-территориальная единица;1;1;from
+Q49612431;Willow Park;географические координаты;1;1;from
+Q49612431;Willow Park;код GeoNames;1;1;from
+Q49612439;Willow Park;государство;1;1;from
+Q49612439;Willow Park;код GeoNames;1;1;from
+Q49607306;Q49607306;административно-территориальная единица;1;1;from
+Q49612444;Willow Park;административно-территориальная единица;1;1;from
+Q49612820;Yellowstone Lake;код GeoNames;1;1;from
+Q49612820;Yellowstone Lake;это частный случай понятия;1;1;from
+Q49612820;Yellowstone Lake;государство;1;1;from
+Q49612820;Yellowstone Lake;административно-территориальная единица;1;1;from
+Q49612444;Willow Park;географические координаты;1;1;from
+Q49612444;Willow Park;код GeoNames;1;1;from
+Q49612444;Willow Park;это частный случай понятия;1;1;from
+Q49612444;Willow Park;государство;1;1;from
+Q49612443;Willow Park;географические координаты;1;1;from
+Q49612439;Willow Park;географические координаты;1;1;from
+Q49612443;Willow Park;код GeoNames;1;1;from
+Q49612443;Willow Park;это частный случай понятия;1;1;from
+Q49612443;Willow Park;государство;1;1;from
+Q49612440;Willow Park;географические координаты;1;1;from
+Q49612440;Willow Park;код GeoNames;1;1;from
+Q49612440;Willow Park;это частный случай понятия;1;1;from
+Q49612440;Willow Park;государство;1;1;from
+Q49612440;Willow Park;административно-территориальная единица;1;1;from
+Q49612431;Willow Park;это частный случай понятия;1;1;from
+Q49612431;Willow Park;государство;1;1;from
+Q49612431;Willow Park;административно-территориальная единица;1;1;from
+Q49608802;Q49608802;код GNIS;1;1;from
+Q49612177;Whitmore Park;код GNIS;1;1;from
+Q49612177;Whitmore Park;высота над уровнем моря;1;1;from
+Q49612177;Whitmore Park;не путать с;1;1;to
+Q49612177;Whitmore Park;код GeoNames;1;1;from
+Q49612177;Whitmore Park;это частный случай понятия;1;1;from
+Q49612177;Whitmore Park;государство;1;1;from
+Q49612177;Whitmore Park;административно-территориальная единица;1;1;from
+Q49608802;Q49608802;географические координаты;1;1;from
+Q49608802;Q49608802;код GeoNames;1;1;from
+Q49612430;Willow Park;географические координаты;1;1;from
+Q49608802;Q49608802;это частный случай понятия;1;1;from
+Q49608802;Q49608802;государство;1;1;from
+Q49608802;Q49608802;административно-территориальная единица;1;1;from
+Q49607306;Q49607306;географические координаты;1;1;from
+Q49607306;Q49607306;код GNIS;1;1;from
+Q49607306;Q49607306;код GeoNames;1;1;from
+Q49607306;Q49607306;это частный случай понятия;1;1;from
+Q49607306;Q49607306;государство;1;1;from
+Q49612177;Whitmore Park;географические координаты;1;1;from
+Q49612177;Whitmore Park;местонахождение;1;2;to
+Q49612354;Willow Creek Park;административно-территориальная единица;1;1;from
+Q49612354;Willow Creek Park;государство;1;1;from
+Q49612430;Willow Park;код GeoNames;1;1;from
+Q49612430;Willow Park;это частный случай понятия;1;1;from
+Q49612430;Willow Park;государство;1;1;from
+Q49612430;Willow Park;административно-территориальная единица;1;1;from
+Q49612427;Willow Park;географические координаты;1;1;from
+Q49612427;Willow Park;код GeoNames;1;1;from
+Q49612427;Willow Park;это частный случай понятия;1;1;from
+Q49612427;Willow Park;государство;1;1;from
+Q49612427;Willow Park;административно-территориальная единица;1;1;from
+Q49612355;Willow Creek Park;географические координаты;1;1;from
+Q49612355;Willow Creek Park;код GeoNames;1;1;from
+Q49612355;Willow Creek Park;это частный случай понятия;1;1;from
+Q49612355;Willow Creek Park;государство;1;1;from
+Q49612355;Willow Creek Park;административно-территориальная единица;1;1;from
+Q49612354;Willow Creek Park;географические координаты;1;1;from
+Q49612354;Willow Creek Park;код GeoNames;1;1;from
+Q49612354;Willow Creek Park;это частный случай понятия;1;1;from
+Q49589224;Deer Flat;это частный случай понятия;1;1;from
+Q49587965;Cibbets Flat;названо в честь;1;1;to
+Q816312;Belziger Landschaftswiesen;государство;1;1;from
+Q7968238;Wapato Lake;государство;1;1;from
+Q8060164;Yucca Flat;государство;1;1;from
+Q8060164;Yucca Flat;административно-территориальная единица;1;1;from
+Q7968238;Wapato Lake;официальный сайт;1;1;from
+Q7968238;Wapato Lake;значимое место;1;1;from
+Q7968238;Wapato Lake;географические координаты;1;1;from
+Q7968238;Wapato Lake;код GNIS;1;1;from
+Q7968238;Wapato Lake;это частный случай понятия;1;1;from
+Q7968238;Wapato Lake;изображение;1;1;from
+Q7968238;Wapato Lake;административно-территориальная единица;1;1;from
+Q8060164;Yucca Flat;код LCNAF;1;1;from
+Q7415311;San Sevaine Flats;географические координаты;1;1;from
+Q7415311;San Sevaine Flats;горный хребет;1;1;from
+Q7415311;San Sevaine Flats;находится в охранной зоне;1;1;from
+Q7415311;San Sevaine Flats;высота над уровнем моря;1;1;from
+Q7415311;San Sevaine Flats;код GeoNames;1;1;from
+Q7415311;San Sevaine Flats;это частный случай понятия;1;1;from
+Q7415311;San Sevaine Flats;государство;1;1;from
+Q7415311;San Sevaine Flats;административно-территориальная единица;1;1;from
+Q8060164;Yucca Flat;изображение;1;1;from
+Q8060164;Yucca Flat;это частный случай понятия;1;1;from
+Q25248040;Spanish Valley;государство;1;1;from
+Q16889098;South Park (Saguache County, Colorado);код GNIS;1;1;from
+Q22058574;Alchesay Flat;географические координаты;1;2;from
+Q22058574;Alchesay Flat;код GNIS;1;1;from
+Q22058574;Alchesay Flat;высота над уровнем моря;1;1;from
+Q22058574;Alchesay Flat;код GeoNames;1;1;from
+Q22058574;Alchesay Flat;это частный случай понятия;1;1;from
+Q22058574;Alchesay Flat;государство;1;1;from
+Q22058574;Alchesay Flat;административно-территориальная единица;1;1;from
+Q16889098;South Park (Saguache County, Colorado);географические координаты;1;1;from
+Q16889098;South Park (Saguache County, Colorado);это частный случай понятия;1;1;from
+Q8060164;Yucca Flat;категория на Викискладе;1;1;from
+Q16889098;South Park (Saguache County, Colorado);государство;1;1;from
+Q16889098;South Park (Saguache County, Colorado);административно-территориальная единица;1;1;from
+Q16827418;Allen Flat;географические координаты;1;2;from
+Q16827418;Allen Flat;код GeoNames;1;1;from
+Q16827418;Allen Flat;это частный случай понятия;1;1;from
+Q16827418;Allen Flat;государство;1;1;from
+Q16827418;Allen Flat;административно-территориальная единица;1;1;from
+Q8060164;Yucca Flat;географические координаты;1;1;from
+Q6116081;Jackass Flats;географические координаты;1;1;from
+Q6116081;Jackass Flats;код GNIS;1;1;from
+Q6116081;Jackass Flats;категория на Викискладе;1;1;from
+Q816312;Belziger Landschaftswiesen;названо в честь;1;1;to
+Q3434915;Frenchman Flat;административно-территориальная единица;1;1;from
+Q2814788;Chimaera Flats;антарктический код GNIS;1;1;from
+Q2814788;Chimaera Flats;географические координаты;1;1;from
+Q2814788;Chimaera Flats;код GeoNames;1;1;from
+Q2814788;Chimaera Flats;это частный случай понятия;1;1;from
+Q2814788;Chimaera Flats;находится на берегу водоёма;1;1;from
+Q2814788;Chimaera Flats;государство;1;1;from
+Q2814788;Chimaera Flats;административно-территориальная единица;1;1;from
+Q816312;Belziger Landschaftswiesen;галерея на Викискладе;1;1;from
+Q6116081;Jackass Flats;местонахождение;1;1;from
+Q816312;Belziger Landschaftswiesen;географические координаты;1;1;from
+Q816312;Belziger Landschaftswiesen;категория на Викискладе;1;1;from
+Q816312;Belziger Landschaftswiesen;находится в охранной зоне;1;1;from
+Q816312;Belziger Landschaftswiesen;высота над уровнем моря;1;1;from
+Q816312;Belziger Landschaftswiesen;код TGN;1;1;from
+Q816312;Belziger Landschaftswiesen;код GeoNames;1;1;from
+Q816312;Belziger Landschaftswiesen;это частный случай понятия;1;1;from
+Q816312;Belziger Landschaftswiesen;изображение;1;1;from
+Q3434915;Frenchman Flat;государство;1;1;from
+Q3434915;Frenchman Flat;это частный случай понятия;1;1;from
+Q3434915;Frenchman Flat;код GeoNames;1;1;from
+Q3434915;Frenchman Flat;местонахождение;1;1;from
+Q6116081;Jackass Flats;высота над уровнем моря;1;1;from
+Q6116081;Jackass Flats;это частный случай понятия;1;1;from
+Q6116081;Jackass Flats;государство;1;1;from
+Q6116081;Jackass Flats;административно-территориальная единица;1;1;from
+Q5182618;Crater Flat;находится в пределах природно-географического объекта;1;1;from
+Q5182618;Crater Flat;географические координаты;1;1;from
+Q5182618;Crater Flat;код GNIS;1;1;from
+Q5182618;Crater Flat;высота над уровнем моря;1;1;from
+Q5182618;Crater Flat;код GeoNames;1;1;from
+Q5182618;Crater Flat;это частный случай понятия;1;1;from
+Q5182618;Crater Flat;государство;1;1;from
+Q5182618;Crater Flat;административно-территориальная единица;1;1;from
+Q3434915;Frenchman Flat;пример использования свойства;1;1;to
+Q3434915;Frenchman Flat;Online Nevada Encyclopedia ID;1;1;from
+Q3434915;Frenchman Flat;код Freebase;1;1;from
+Q3434915;Frenchman Flat;географические координаты;1;1;from
+Q3434915;Frenchman Flat;категория на Викискладе;1;1;from
+Q25248040;Spanish Valley;административно-территориальная единица;1;2;from
+Q25248040;Spanish Valley;это частный случай понятия;1;1;from
+Q49587965;Cibbets Flat;географические координаты;1;1;from
+Q49585955;Big Willow Park;географические координаты;1;1;from
+Q49587114;Button Flat;конечная;1;1;to
+Q49587114;Button Flat;географические координаты;1;1;from
+Q49587114;Button Flat;код GNIS;1;1;from
+Q49587114;Button Flat;высота над уровнем моря;1;1;from
+Q49587114;Button Flat;код GeoNames;1;1;from
+Q49587114;Button Flat;это частный случай понятия;1;1;from
+Q49587114;Button Flat;государство;1;1;from
+Q49587114;Button Flat;административно-территориальная единица;1;1;from
+Q49585955;Big Willow Park;код GeoNames;1;1;from
+Q49587255;Camas Prairie;государство;1;1;from
+Q49585955;Big Willow Park;это частный случай понятия;1;1;from
+Q49585955;Big Willow Park;государство;1;1;from
+Q49585955;Big Willow Park;административно-территориальная единица;1;1;from
+Q49584474;Albion Flat;географические координаты;1;1;from
+Q49584474;Albion Flat;код GeoNames;1;1;from
+Q49584474;Albion Flat;это частный случай понятия;1;1;from
+Q49584474;Albion Flat;государство;1;1;from
+Q32236496;Kerin Forks Flat;географические координаты;1;1;from
+Q49587255;Camas Prairie;административно-территориальная единица;1;2;from
+Q49587255;Camas Prairie;код LCNAF;1;1;from
+Q25248040;Spanish Valley;код GeoNames;1;1;from
+Q49587622;Chaiyahi Flat;высота над уровнем моря;1;1;from
+Q49587965;Cibbets Flat;код GeoNames;1;1;from
+Q49587965;Cibbets Flat;это частный случай понятия;1;1;from
+Q49587965;Cibbets Flat;государство;1;1;from
+Q49587965;Cibbets Flat;административно-территориальная единица;1;1;from
+Q49587622;Chaiyahi Flat;исток водотока;1;1;to
+Q49587622;Chaiyahi Flat;географические координаты;1;1;from
+Q49587622;Chaiyahi Flat;код GNIS;1;1;from
+Q49587622;Chaiyahi Flat;местонахождение;1;1;from
+Q49587622;Chaiyahi Flat;код GeoNames;1;1;from
+Q49587255;Camas Prairie;это частный случай понятия;1;1;from
+Q49587622;Chaiyahi Flat;это частный случай понятия;1;1;from
+Q49587622;Chaiyahi Flat;государство;1;1;from
+Q49587622;Chaiyahi Flat;административно-территориальная единица;1;1;from
+Q49587255;Camas Prairie;географические координаты;1;1;from
+Q49587255;Camas Prairie;код GNIS;1;1;from
+Q49587255;Camas Prairie;категория на Викискладе;1;1;from
+Q49587255;Camas Prairie;высота над уровнем моря;1;1;from
+Q49587255;Camas Prairie;код GeoNames;1;1;from
+Q32236496;Kerin Forks Flat;высота над уровнем моря;1;1;from
+Q32236496;Kerin Forks Flat;код GeoNames;1;1;from
+Q32236496;Kerin Forks Flat;это частный случай понятия;1;1;from
+Q27987130;Horseshoe Park;категория на Викискладе;1;1;from
+Q28455472;Vandeventer Flat;код GNIS;1;1;from
+Q28455472;Vandeventer Flat;код GeoNames;1;1;from
+Q28455472;Vandeventer Flat;это частный случай понятия;1;1;from
+Q28455472;Vandeventer Flat;государство;1;1;from
+Q28455472;Vandeventer Flat;административно-территориальная единица;1;1;from
+Q27987130;Horseshoe Park;географические координаты;1;1;from
+Q27987130;Horseshoe Park;код GNIS;1;1;from
+Q27987130;Horseshoe Park;часовой пояс;1;1;from
+Q27987130;Horseshoe Park;высота над уровнем моря;1;1;from
+Q32236496;Kerin Forks Flat;изображение;1;1;from
+Q27987130;Horseshoe Park;это частный случай понятия;1;1;from
+Q27987130;Horseshoe Park;государство;1;1;from
+Q27987130;Horseshoe Park;административно-территориальная единица;1;1;from
+Q25248040;Spanish Valley;местонахождение;1;1;to
+Q25248040;Spanish Valley;географические координаты;1;1;from
+Q25248040;Spanish Valley;код GNIS;1;1;from
+Q25248040;Spanish Valley;категория на Викискладе;1;1;from
+Q25248040;Spanish Valley;высота над уровнем моря;1;1;from
+Q28455472;Vandeventer Flat;географические координаты;1;1;from
+Q32118849;Apple Tree Flat;административно-территориальная единица;1;1;from
+Q32118849;Apple Tree Flat;государство;1;1;from
+Q32118849;Apple Tree Flat;это частный случай понятия;1;1;from
+Q32236496;Kerin Forks Flat;государство;1;1;from
+Q32167990;Courtneys Flat;географические координаты;1;1;from
+Q32167990;Courtneys Flat;категория на Викискладе;1;1;from
+Q32167990;Courtneys Flat;высота над уровнем моря;1;1;from
+Q32167990;Courtneys Flat;код GeoNames;1;1;from
+Q32167990;Courtneys Flat;это частный случай понятия;1;1;from
+Q32167990;Courtneys Flat;изображение;1;1;from
+Q32167990;Courtneys Flat;государство;1;1;from
+Q32165173;Commissioners Flat;географические координаты;1;1;from
+Q32165173;Commissioners Flat;высота над уровнем моря;1;1;from
+Q32165173;Commissioners Flat;код GeoNames;1;1;from
+Q32165173;Commissioners Flat;это частный случай понятия;1;1;from
+Q32165173;Commissioners Flat;государство;1;1;from
+Q32118849;Apple Tree Flat;географические координаты;1;1;from
+Q32118849;Apple Tree Flat;New Zealand Gazetteer place ID;1;1;from
+Q32118849;Apple Tree Flat;высота над уровнем моря;1;1;from
+Q32118849;Apple Tree Flat;код GeoNames;1;1;from
+Q49612820;Yellowstone Lake;географические координаты;1;1;from

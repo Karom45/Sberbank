@@ -1,0 +1,901 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q7137896;Park Michigan;административно-территориальная единица;1;1;from
+Q3533187;Tour Signal;код по Skyscraper Center;1;1;from
+Q3748520;Fort Benghisa;изображение;1;1;from
+Q3748520;Fort Benghisa;это частный случай понятия;1;2;from
+Q3748520;Fort Benghisa;код GeoNames;1;1;from
+Q3748520;Fort Benghisa;категория на Викискладе;1;1;from
+Q3748520;Fort Benghisa;дата основания/создания/возникновения;1;1;from
+Q3748520;Fort Benghisa;географические координаты;1;1;from
+Q3775869;Helicoidal Skyscraper;административно-территориальная единица;1;1;from
+Q3775869;Helicoidal Skyscraper;государство;1;1;from
+Q3775869;Helicoidal Skyscraper;это частный случай понятия;1;2;from
+Q3775869;Helicoidal Skyscraper;архитектор;1;1;from
+Q3775869;Helicoidal Skyscraper;географические координаты;1;1;from
+Q3775869;Helicoidal Skyscraper;инженер-строитель;1;1;from
+Q3850068;Temple Lot;административно-территориальная единица;1;1;from
+Q3850068;Temple Lot;государство;1;1;from
+Q3850068;Temple Lot;изображение;1;1;from
+Q3850068;Temple Lot;это частный случай понятия;1;2;from
+Q3850068;Temple Lot;статус наследия;1;1;from
+Q3850068;Temple Lot;категория на Викискладе;1;1;from
+Q3850068;Temple Lot;географические координаты;1;1;from
+Q3850068;Temple Lot;код NRHP;1;1;from
+Q3850068;Temple Lot;официальный сайт;1;1;from
+Q3850068;Temple Lot;основная категория по теме;1;1;from
+Q3850068;Temple Lot;общая тема категории;1;1;to
+Q4059407;Аквадром;административно-территориальная единица;1;1;from
+Q4059407;Аквадром;государство;1;1;from
+Q3748520;Fort Benghisa;государство;1;1;from
+Q3748520;Fort Benghisa;административно-территориальная единица;1;1;from
+Q3748520;Fort Benghisa;владельцем является;1;1;from
+Q3678603;CityLife;изображение;1;1;from
+Q3533187;Tour Signal;географические координаты;1;1;from
+Q3533866;Tour Sans Fins;административно-территориальная единица;1;1;from
+Q3533866;Tour Sans Fins;государство;1;1;from
+Q3533866;Tour Sans Fins;это частный случай понятия;1;1;from
+Q3533866;Tour Sans Fins;архитектор;1;1;from
+Q3533866;Tour Sans Fins;количество этажей;1;1;from
+Q3533866;Tour Sans Fins;код по Skyscraper Center;1;1;from
+Q3533866;Tour Sans Fins;географические координаты;1;1;from
+Q3678603;CityLife;административно-территориальная единица;1;1;from
+Q3678603;CityLife;логотип;1;1;from
+Q3678603;CityLife;государство;1;1;from
+Q3678603;CityLife;это частный случай понятия;1;2;from
+Q3678603;CityLife;общая тема категории;1;1;to
+Q3678603;CityLife;архитектор;1;3;from
+Q3678603;CityLife;количество этажей;1;1;from
+Q3678603;CityLife;дата официального открытия;1;1;from
+Q3678603;CityLife;категория на Викискладе;1;1;from
+Q3678603;CityLife;состоит из;1;7;from
+Q3678603;CityLife;archINFORM project ID;1;1;from
+Q3678603;CityLife;географические координаты;1;1;from
+Q3678603;CityLife;официальный сайт;1;1;from
+Q3678603;CityLife;основная категория по теме;1;1;from
+Q3678603;CityLife;выдающееся произведение;1;2;to
+Q3678603;CityLife;часть от;1;4;to
+Q4059407;Аквадром;изображение;1;1;from
+Q4059407;Аквадром;это частный случай понятия;1;4;from
+Q4059407;Аквадром;архитектор;1;1;from
+Q4856211;Bank of the Southwest Tower;географические координаты;1;1;from
+Q4595997;1 New York Place;географические координаты;1;1;from
+Q4709308;Albany Crown Tower;государство;1;1;from
+Q4709308;Albany Crown Tower;это частный случай понятия;1;2;from
+Q4709308;Albany Crown Tower;архитектор;1;1;from
+Q4709308;Albany Crown Tower;количество этажей;1;1;from
+Q4709308;Albany Crown Tower;географические координаты;1;1;from
+Q4711793;Alberta Police and Peace Officer Training Center;государство;1;1;from
+Q4711793;Alberta Police and Peace Officer Training Center;это частный случай понятия;1;1;from
+Q4856211;Bank of the Southwest Tower;государство;1;1;from
+Q4856211;Bank of the Southwest Tower;это частный случай понятия;1;2;from
+Q4856211;Bank of the Southwest Tower;количество этажей;1;1;from
+Q4869885;Battery Tower, New York City;административно-территориальная единица;1;1;from
+Q4595997;1 New York Place;количество этажей;1;1;from
+Q4869885;Battery Tower, New York City;государство;1;1;from
+Q4869885;Battery Tower, New York City;это частный случай понятия;1;1;from
+Q4874062;Bay Pointe;административно-территориальная единица;1;1;from
+Q4874062;Bay Pointe;государство;1;1;from
+Q4874062;Bay Pointe;это частный случай понятия;1;1;from
+Q4874062;Bay Pointe;архитектор;1;1;from
+Q4885211;Ben Ali Apartments;это частный случай понятия;1;1;from
+Q4891489;Bergen Ballpark;владельцем является;1;1;from
+Q4891489;Bergen Ballpark;административно-территориальная единица;1;1;from
+Q4891489;Bergen Ballpark;государство;1;1;from
+Q4891489;Bergen Ballpark;это частный случай понятия;1;2;from
+Q4595997;1 New York Place;код по Skyscraper Center;1;1;from
+Q4595997;1 New York Place;это частный случай понятия;1;1;from
+Q4059407;Аквадром;категория на Викискладе;1;1;from
+Q4191389;Zenith International Business Center;географические координаты;1;1;from
+Q4059407;Аквадром;дата прекращения существования;1;1;from
+Q4059407;Аквадром;географические координаты;1;1;from
+Q4080254;Vortex Tower;административно-территориальная единица;1;1;from
+Q4080254;Vortex Tower;государство;1;1;from
+Q4080254;Vortex Tower;это частный случай понятия;1;3;from
+Q4191389;Zenith International Business Center;административно-территориальная единица;1;1;from
+Q4191389;Zenith International Business Center;государство;1;1;from
+Q4191389;Zenith International Business Center;изображение;1;1;from
+Q4191389;Zenith International Business Center;это частный случай понятия;1;2;from
+Q4191389;Zenith International Business Center;архитектор;1;1;from
+Q4191389;Zenith International Business Center;категория на Викискладе;1;1;from
+Q4498649;Hovrinskaya Hospital;административно-территориальная единица;1;2;from
+Q4595997;1 New York Place;изображение;1;1;from
+Q4498649;Hovrinskaya Hospital;архитектурный стиль;1;1;from
+Q4498649;Hovrinskaya Hospital;государство;1;2;from
+Q4498649;Hovrinskaya Hospital;изображение;1;1;from
+Q4498649;Hovrinskaya Hospital;это частный случай понятия;1;4;from
+Q4498649;Hovrinskaya Hospital;первое письменное упоминание;1;1;from
+Q4498649;Hovrinskaya Hospital;категория на Викискладе;1;1;from
+Q4498649;Hovrinskaya Hospital;3D-модель;1;1;from
+Q4498649;Hovrinskaya Hospital;дата прекращения существования;1;1;from
+Q4498649;Hovrinskaya Hospital;географические координаты;1;1;from
+Q4595997;1 New York Place;административно-территориальная единица;1;1;from
+Q4595997;1 New York Place;государство;1;1;from
+Q3533187;Tour Signal;дата официального открытия;1;1;from
+Q3533187;Tour Signal;количество этажей;1;1;from
+Q7137896;Park Michigan;государство;1;1;from
+Q3533187;Tour Signal;архитектор;1;1;from
+Q2381000;Southern Mazghuna pyramid;категория на Викискладе;1;1;from
+Q2381000;Southern Mazghuna pyramid;географические координаты;1;1;from
+Q2593778;55 Hudson Yards;административно-территориальная единица;1;1;from
+Q2593778;55 Hudson Yards;архитектурный стиль;1;1;from
+Q2593778;55 Hudson Yards;государство;1;1;from
+Q2593778;55 Hudson Yards;изображение;1;1;from
+Q2593778;55 Hudson Yards;это частный случай понятия;1;1;from
+Q2593778;55 Hudson Yards;архитектор;1;1;from
+Q2593778;55 Hudson Yards;количество этажей;1;1;from
+Q2593778;55 Hudson Yards;число подземных этажей;1;1;from
+Q2593778;55 Hudson Yards;код по Skyscraper Center;1;1;from
+Q2593778;55 Hudson Yards;дата официального открытия;1;1;from
+Q2593778;55 Hudson Yards;высота/рост;1;1;from
+Q2593778;55 Hudson Yards;категория на Викискладе;1;1;from
+Q2593778;55 Hudson Yards;дата основания/создания/возникновения;1;1;from
+Q2593778;55 Hudson Yards;географические координаты;1;2;from
+Q2593778;55 Hudson Yards;инженер-строитель;1;1;from
+Q2593778;55 Hudson Yards;официальный сайт;1;1;from
+Q2938036;Cardiff Bay Opera House;административно-территориальная единица;1;1;from
+Q2938036;Cardiff Bay Opera House;расположение штаб-квартиры;1;1;from
+Q2938036;Cardiff Bay Opera House;государство;1;1;from
+Q2938036;Cardiff Bay Opera House;код VIAF;1;1;from
+Q2938036;Cardiff Bay Opera House;это частный случай понятия;1;2;from
+Q2938036;Cardiff Bay Opera House;archINFORM project ID;1;1;from
+Q2938036;Cardiff Bay Opera House;географические координаты;1;1;from
+Q2381000;Southern Mazghuna pyramid;это частный случай понятия;1;2;from
+Q2381000;Southern Mazghuna pyramid;изображение;1;1;from
+Q2381000;Southern Mazghuna pyramid;государство;1;1;from
+Q1739505;Żarnowiec Nuclear Power Plant;категория на Викискладе;1;1;from
+Q1739419;Краснодарская АЭС;это частный случай понятия;1;3;from
+Q1739419;Краснодарская АЭС;выходная мощность;1;1;from
+Q1739419;Краснодарская АЭС;категория на Викискладе;1;1;from
+Q1739419;Краснодарская АЭС;географические координаты;1;1;from
+Q1739419;Краснодарская АЭС;ключевое событие;1;1;from
+Q1739505;Żarnowiec Nuclear Power Plant;административно-территориальная единица;1;2;from
+Q1739505;Żarnowiec Nuclear Power Plant;названо в честь;1;1;from
+Q1739505;Żarnowiec Nuclear Power Plant;государство;1;1;from
+Q1739505;Żarnowiec Nuclear Power Plant;изображение;1;1;from
+Q1739505;Żarnowiec Nuclear Power Plant;это частный случай понятия;1;2;from
+Q1739505;Żarnowiec Nuclear Power Plant;выходная мощность;1;1;from
+Q1739505;Żarnowiec Nuclear Power Plant;географические координаты;1;1;from
+Q2285170;Signature Tower;географические координаты;1;1;from
+Q1739505;Żarnowiec Nuclear Power Plant;код Freebase;1;1;from
+Q1739505;Żarnowiec Nuclear Power Plant;ключевое событие;1;2;from
+Q1934760;7 South Dearborn;административно-территориальная единица;1;1;from
+Q1934760;7 South Dearborn;государство;1;1;from
+Q1934760;7 South Dearborn;это частный случай понятия;1;1;from
+Q1934760;7 South Dearborn;код по Skyscraper Center;1;1;from
+Q2285170;Signature Tower;административно-территориальная единица;1;1;from
+Q2285170;Signature Tower;государство;1;1;from
+Q2285170;Signature Tower;основная строительная организация;1;1;from
+Q2285170;Signature Tower;это частный случай понятия;1;1;from
+Q2285170;Signature Tower;описывается в источниках;1;1;from
+Q2938036;Cardiff Bay Opera House;код Freebase;1;1;from
+Q2944616;Троицкая АЭС;административно-территориальная единица;1;1;from
+Q2944616;Троицкая АЭС;государство;1;2;from
+Q3418573;Rampart Dam;это частный случай понятия;1;1;from
+Q3362496;Pantheon, Moscow;государство;1;1;from
+Q3362496;Pantheon, Moscow;это частный случай понятия;1;2;from
+Q3407275;Radiant City;создатель;1;1;from
+Q3407275;Radiant City;это частный случай понятия;1;1;from
+Q3407275;Radiant City;выдающееся произведение;1;1;to
+Q3418573;Rampart Dam;административно-территориальная единица;1;1;from
+Q3418573;Rampart Dam;оператор;1;1;from
+Q3418573;Rampart Dam;названо в честь;1;1;from
+Q3418573;Rampart Dam;государство;1;1;from
+Q3418573;Rampart Dam;изображение;1;1;from
+Q3418573;Rampart Dam;карта местонахождения;1;1;from
+Q3418573;Rampart Dam;архитектор;1;1;from
+Q3328426;Louisville Museum Plaza;выдающееся произведение;1;1;to
+Q3418573;Rampart Dam;длина;1;1;from
+Q3418573;Rampart Dam;площадь;1;1;from
+Q3418573;Rampart Dam;высота/рост;1;1;from
+Q3418573;Rampart Dam;площадь бассейна;1;1;from
+Q3418573;Rampart Dam;выходная мощность;1;1;from
+Q3418573;Rampart Dam;стоимость;1;1;from
+Q3418573;Rampart Dam;категория на Викискладе;1;1;from
+Q3418573;Rampart Dam;географические координаты;1;1;from
+Q3533187;Tour Signal;административно-территориальная единица;1;1;from
+Q3533187;Tour Signal;государство;1;1;from
+Q3533187;Tour Signal;это частный случай понятия;1;2;from
+Q3362496;Pantheon, Moscow;административно-территориальная единица;1;1;from
+Q3328426;Louisville Museum Plaza;инженер-строитель;1;1;from
+Q2944616;Троицкая АЭС;это частный случай понятия;1;3;from
+Q2974321;Cisco Field;географические координаты;1;1;from
+Q2944616;Троицкая АЭС;географические координаты;1;1;from
+Q2944616;Троицкая АЭС;ключевое событие;1;1;from
+Q2974321;Cisco Field;владельцем является;1;1;from
+Q2974321;Cisco Field;административно-территориальная единица;1;1;from
+Q2974321;Cisco Field;оператор;1;1;from
+Q2974321;Cisco Field;государство;1;1;from
+Q2974321;Cisco Field;это частный случай понятия;1;2;from
+Q2974321;Cisco Field;архитектор;1;1;from
+Q2974321;Cisco Field;вместимость;1;1;from
+Q2974321;Cisco Field;дата официального открытия;1;1;from
+Q2974321;Cisco Field;обитатель;1;1;from
+Q2974321;Cisco Field;вид спорта;1;1;from
+Q3328426;Louisville Museum Plaza;географические координаты;1;1;from
+Q2974321;Cisco Field;владеет;1;1;to
+Q3238997;White Line;государство;1;1;from
+Q3238997;White Line;это частный случай понятия;1;2;from
+Q3238997;White Line;длина;1;1;from
+Q3238997;White Line;часть от;1;1;from
+Q3328426;Louisville Museum Plaza;административно-территориальная единица;1;1;from
+Q3328426;Louisville Museum Plaza;государство;1;1;from
+Q3328426;Louisville Museum Plaza;это частный случай понятия;1;2;from
+Q3328426;Louisville Museum Plaza;архитектор;1;1;from
+Q3328426;Louisville Museum Plaza;количество этажей;1;1;from
+Q3328426;Louisville Museum Plaza;код по Skyscraper Center;1;1;from
+Q4891489;Bergen Ballpark;вместимость;1;1;from
+Q4891489;Bergen Ballpark;обитатель;1;1;from
+Q4891489;Bergen Ballpark;географические координаты;1;1;from
+Q4891660;Hotel Attraction;административно-территориальная единица;1;1;from
+Q5585885;Gordon Strong Automobile Objective;это частный случай понятия;1;1;from
+Q5585885;Gordon Strong Automobile Objective;архитектор;1;1;from
+Q5585885;Gordon Strong Automobile Objective;archINFORM project ID;1;1;from
+Q5585885;Gordon Strong Automobile Objective;географические координаты;1;1;from
+Q5596559;Grant USA Tower;административно-территориальная единица;1;1;from
+Q5596559;Grant USA Tower;государство;1;1;from
+Q5596559;Grant USA Tower;это частный случай понятия;1;1;from
+Q5596559;Grant USA Tower;код по Skyscraper Center;1;1;from
+Q5596559;Grant USA Tower;географические координаты;1;1;from
+Q5599527;Great Mall of Las Vegas;это частный случай понятия;1;1;from
+Q5600123;Great Victorian Way;это частный случай понятия;1;1;from
+Q5713887;Hendrik Hudson Hotel;административно-территориальная единица;1;1;from
+Q5713887;Hendrik Hudson Hotel;государство;1;1;from
+Q5713887;Hendrik Hudson Hotel;это частный случай понятия;1;1;from
+Q5713887;Hendrik Hudson Hotel;географические координаты;1;1;from
+Q5916616;Houston Intermodal Transit Center;владельцем является;1;1;from
+Q5916616;Houston Intermodal Transit Center;государство;1;1;from
+Q5916616;Houston Intermodal Transit Center;это частный случай понятия;1;2;from
+Q5916616;Houston Intermodal Transit Center;географические координаты;1;1;from
+Q5971909;iLoo;это частный случай понятия;1;1;from
+Q6045474;Interama;это частный случай понятия;1;1;from
+Q6411629;King George Tower;административно-территориальная единица;1;1;from
+Q6411629;King George Tower;государство;1;1;from
+Q6411629;King George Tower;это частный случай понятия;1;1;from
+Q6411629;King George Tower;архитектор;1;1;from
+Q5585885;Gordon Strong Automobile Objective;государство;1;1;from
+Q5585885;Gordon Strong Automobile Objective;административно-территориальная единица;1;1;from
+Q5476104;Fourth Grace;географические координаты;1;1;from
+Q5367291;Elphinstone Place;количество этажей;1;1;from
+Q5282406;Disney's Venetian Resort;географические координаты;1;1;from
+Q5331307;Eaton's / John Maryon Tower;административно-территориальная единица;1;1;from
+Q5331307;Eaton's / John Maryon Tower;государство;1;1;from
+Q5331307;Eaton's / John Maryon Tower;изображение;1;1;from
+Q5331307;Eaton's / John Maryon Tower;это частный случай понятия;1;2;from
+Q5331307;Eaton's / John Maryon Tower;количество этажей;1;1;from
+Q5331307;Eaton's / John Maryon Tower;код по Skyscraper Center;1;1;from
+Q5331307;Eaton's / John Maryon Tower;идентификатор Emporis;1;1;from
+Q5367291;Elphinstone Place;административно-территориальная единица;1;1;from
+Q5367291;Elphinstone Place;государство;1;1;from
+Q5367291;Elphinstone Place;это частный случай понятия;1;2;from
+Q5367291;Elphinstone Place;местонахождение;1;1;from
+Q5476104;Fourth Grace;это частный случай понятия;1;1;from
+Q5367291;Elphinstone Place;географические координаты;1;1;from
+Q5453876;First Tennessee Field;оператор;1;1;from
+Q5453876;First Tennessee Field;государство;1;1;from
+Q5453876;First Tennessee Field;изображение;1;1;from
+Q5453876;First Tennessee Field;это частный случай понятия;1;2;from
+Q5453876;First Tennessee Field;архитектор;1;1;from
+Q5453876;First Tennessee Field;обитатель;1;1;from
+Q5453876;First Tennessee Field;географические координаты;1;1;from
+Q5472325;Fort Wilderness Junction;государство;1;1;from
+Q5472325;Fort Wilderness Junction;это частный случай понятия;1;2;from
+Q5476104;Fourth Grace;государство;1;1;from
+Q6411629;King George Tower;количество этажей;1;1;from
+Q6411629;King George Tower;код по Skyscraper Center;1;1;from
+Q6411629;King George Tower;географические координаты;1;1;from
+Q6970346;National American Indian Memorial;изображение;1;1;from
+Q6747849;Mandarin Oriental, Chicago;государство;1;1;from
+Q6747849;Mandarin Oriental, Chicago;это частный случай понятия;1;2;from
+Q6747849;Mandarin Oriental, Chicago;количество этажей;1;1;from
+Q6747849;Mandarin Oriental, Chicago;географические координаты;1;1;from
+Q6858957;Millennium Tower;государство;1;1;from
+Q6858957;Millennium Tower;это частный случай понятия;1;1;from
+Q6858957;Millennium Tower;архитектор;1;1;from
+Q6858957;Millennium Tower;количество этажей;1;1;from
+Q6858957;Millennium Tower;географические координаты;1;1;from
+Q6970346;National American Indian Memorial;административно-территориальная единица;1;1;from
+Q6970346;National American Indian Memorial;государство;1;1;from
+Q6970346;National American Indian Memorial;это частный случай понятия;1;1;from
+Q6715741;MGM Grand Atlantic City;это частный случай понятия;1;2;from
+Q6970346;National American Indian Memorial;географические координаты;1;1;from
+Q6978651;National Sports Hall of Fame;государство;1;1;from
+Q6978651;National Sports Hall of Fame;это частный случай понятия;1;2;from
+Q7095204;Onyx on the Bay;государство;1;1;from
+Q7095204;Onyx on the Bay;это частный случай понятия;1;2;from
+Q7118074;PAETEC Headquarters;государство;1;1;from
+Q7118074;PAETEC Headquarters;это частный случай понятия;1;1;from
+Q7137730;Park Fifth Towers;административно-территориальная единица;1;1;from
+Q7137730;Park Fifth Towers;государство;1;1;from
+Q7137730;Park Fifth Towers;это частный случай понятия;1;1;from
+Q7137730;Park Fifth Towers;географические координаты;1;1;from
+Q6715741;MGM Grand Atlantic City;географические координаты;1;1;from
+Q6715741;MGM Grand Atlantic City;государство;1;1;from
+Q6433452;Kostabi World Trade Center;административно-территориальная единица;1;1;from
+Q6492428;Las Ramblas Resort;географические координаты;1;1;from
+Q6433452;Kostabi World Trade Center;государство;1;1;from
+Q6433452;Kostabi World Trade Center;это частный случай понятия;1;1;from
+Q6433452;Kostabi World Trade Center;количество этажей;1;1;from
+Q6433452;Kostabi World Trade Center;код по Skyscraper Center;1;1;from
+Q6489605;Larkin Building;административно-территориальная единица;1;1;from
+Q6489605;Larkin Building;государство;1;1;from
+Q6489605;Larkin Building;это частный случай понятия;1;1;from
+Q6489605;Larkin Building;географические координаты;1;1;from
+Q6492428;Las Ramblas Resort;административно-территориальная единица;1;1;from
+Q6492428;Las Ramblas Resort;государство;1;1;from
+Q6492428;Las Ramblas Resort;это частный случай понятия;1;1;from
+Q6546347;Lighthouse Landing;административно-территориальная единица;1;1;from
+Q6715741;MGM Grand Atlantic City;административно-территориальная единица;1;1;from
+Q6546347;Lighthouse Landing;государство;1;1;from
+Q6546347;Lighthouse Landing;это частный случай понятия;1;2;from
+Q6546347;Lighthouse Landing;дата официального открытия;1;1;from
+Q6546347;Lighthouse Landing;географические координаты;1;1;from
+Q6682340;Los Angeles Stadium;владельцем является;1;1;from
+Q6682340;Los Angeles Stadium;административно-территориальная единица;1;1;from
+Q6682340;Los Angeles Stadium;государство;1;1;from
+Q6682340;Los Angeles Stadium;это частный случай понятия;1;1;from
+Q6682340;Los Angeles Stadium;архитектор;1;1;from
+Q6682340;Los Angeles Stadium;вместимость;1;1;from
+Q6682340;Los Angeles Stadium;географические координаты;1;1;from
+Q5282406;Disney's Venetian Resort;это частный случай понятия;1;2;from
+Q5282406;Disney's Venetian Resort;государство;1;1;from
+Q5282406;Disney's Venetian Resort;административно-территориальная единица;1;1;from
+Q4985697;Buffalo City Tower;архитектор;1;1;from
+Q4974814;Proposed domed Brooklyn Dodgers stadium;оператор;1;1;from
+Q4974814;Proposed domed Brooklyn Dodgers stadium;государство;1;1;from
+Q4974814;Proposed domed Brooklyn Dodgers stadium;это частный случай понятия;1;1;from
+Q4974814;Proposed domed Brooklyn Dodgers stadium;архитектор;1;1;from
+Q4974814;Proposed domed Brooklyn Dodgers stadium;вместимость;1;1;from
+Q4974814;Proposed domed Brooklyn Dodgers stadium;дата официального открытия;1;1;from
+Q4974814;Proposed domed Brooklyn Dodgers stadium;обитатель;1;1;from
+Q4974814;Proposed domed Brooklyn Dodgers stadium;географические координаты;1;1;from
+Q4974814;Proposed domed Brooklyn Dodgers stadium;владеет;1;1;to
+Q4985697;Buffalo City Tower;государство;1;1;from
+Q4985697;Buffalo City Tower;это частный случай понятия;1;2;from
+Q4985697;Buffalo City Tower;код по Skyscraper Center;1;1;from
+Q4965973;Brickell City Centre;официальный сайт;1;1;from
+Q4985697;Buffalo City Tower;географические координаты;1;1;from
+Q5059280;Center City Tower;административно-территориальная единица;1;1;from
+Q5059280;Center City Tower;государство;1;1;from
+Q5059280;Center City Tower;это частный случай понятия;1;2;from
+Q5059280;Center City Tower;количество этажей;1;1;from
+Q5059280;Center City Tower;код по Skyscraper Center;1;1;from
+Q5087543;Chateau Qu'Appelle;административно-территориальная единица;1;1;from
+Q5087543;Chateau Qu'Appelle;архитектурный стиль;1;1;from
+Q5087543;Chateau Qu'Appelle;государство;1;1;from
+Q5087543;Chateau Qu'Appelle;это частный случай понятия;1;2;from
+Q5087543;Chateau Qu'Appelle;географические координаты;1;1;from
+Q4974814;Proposed domed Brooklyn Dodgers stadium;владельцем является;1;1;from
+Q4965973;Brickell City Centre;дата основания/создания/возникновения;1;1;from
+Q5122974;CityPlace at Buckhead;это частный случай понятия;1;1;from
+Q4915315;Biota!;государство;1;1;from
+Q4891660;Hotel Attraction;архитектурный стиль;1;1;from
+Q4891660;Hotel Attraction;государство;1;1;from
+Q4891660;Hotel Attraction;изображение;1;1;from
+Q4891660;Hotel Attraction;это частный случай понятия;1;2;from
+Q4891660;Hotel Attraction;архитектор;1;1;from
+Q4891660;Hotel Attraction;количество этажей;1;1;from
+Q4891660;Hotel Attraction;число подземных этажей;1;1;from
+Q4891660;Hotel Attraction;высота/рост;1;1;from
+Q4891660;Hotel Attraction;категория на Викискладе;1;1;from
+Q4891660;Hotel Attraction;географические координаты;1;1;from
+Q4891660;Hotel Attraction;код Freebase;1;1;from
+Q4915315;Biota!;код VIAF;1;1;from
+Q4965973;Brickell City Centre;категория на Викискладе;1;1;from
+Q4915315;Biota!;код LCNAF;1;1;from
+Q4915315;Biota!;это частный случай понятия;1;2;from
+Q4915315;Biota!;географические координаты;1;1;from
+Q4915315;Biota!;код Freebase;1;1;from
+Q4915315;Biota!;официальный сайт;1;3;from
+Q4948113;Boston Sports Megaplex;государство;1;1;from
+Q4948113;Boston Sports Megaplex;это частный случай понятия;1;1;from
+Q4965973;Brickell City Centre;административно-территориальная единица;1;1;from
+Q4965973;Brickell City Centre;государство;1;1;from
+Q4965973;Brickell City Centre;изображение;1;1;from
+Q4965973;Brickell City Centre;это частный случай понятия;1;1;from
+Q5122974;CityPlace at Buckhead;государство;1;1;from
+Q5122974;CityPlace at Buckhead;географические координаты;1;1;from
+Q5282398;Disney's Persian Resort;географические координаты;1;1;from
+Q5221213;Danteum;это частный случай понятия;1;1;from
+Q5189403;Crown Las Vegas;количество этажей;1;1;from
+Q5189403;Crown Las Vegas;код по Skyscraper Center;1;1;from
+Q5189403;Crown Las Vegas;географические координаты;1;1;from
+Q5189403;Crown Las Vegas;владеет;1;1;to
+Q5191207;Crystal Heights;административно-территориальная единица;1;1;from
+Q5191207;Crystal Heights;государство;1;1;from
+Q5191207;Crystal Heights;это частный случай понятия;1;1;from
+Q5191207;Crystal Heights;архитектор;1;1;from
+Q5191207;Crystal Heights;archINFORM project ID;1;1;from
+Q5221213;Danteum;государство;1;1;from
+Q5221213;Danteum;код VIAF;1;1;from
+Q5221213;Danteum;WorldCat Identities ID;1;1;from
+Q5189403;Crown Las Vegas;это частный случай понятия;1;1;from
+Q5282374;Disney's Asian Resort;административно-территориальная единица;1;1;from
+Q5282374;Disney's Asian Resort;государство;1;1;from
+Q5282374;Disney's Asian Resort;это частный случай понятия;1;2;from
+Q5282374;Disney's Asian Resort;географические координаты;1;1;from
+Q5282393;Disney's Mediterranean Resort;административно-территориальная единица;1;1;from
+Q5282393;Disney's Mediterranean Resort;государство;1;1;from
+Q5282393;Disney's Mediterranean Resort;это частный случай понятия;1;2;from
+Q5282393;Disney's Mediterranean Resort;географические координаты;1;1;from
+Q5282398;Disney's Persian Resort;административно-территориальная единица;1;1;from
+Q5282398;Disney's Persian Resort;государство;1;1;from
+Q5282398;Disney's Persian Resort;это частный случай понятия;1;2;from
+Q5189403;Crown Las Vegas;архитектор;1;1;from
+Q5189403;Crown Las Vegas;государство;1;1;from
+Q5124070;Citygate Ecotower;административно-территориальная единица;1;1;from
+Q5147466;Collinsville Soccer Complex;географические координаты;1;1;from
+Q5124070;Citygate Ecotower;государство;1;1;from
+Q5124070;Citygate Ecotower;это частный случай понятия;1;2;from
+Q5124070;Citygate Ecotower;код по Skyscraper Center;1;1;from
+Q5147466;Collinsville Soccer Complex;владельцем является;1;1;from
+Q5147466;Collinsville Soccer Complex;административно-территориальная единица;1;1;from
+Q5147466;Collinsville Soccer Complex;государство;1;1;from
+Q5147466;Collinsville Soccer Complex;это частный случай понятия;1;1;from
+Q5147466;Collinsville Soccer Complex;вместимость;1;1;from
+Q5147466;Collinsville Soccer Complex;квалифицирован для;1;1;from
+Q5147466;Collinsville Soccer Complex;местонахождение;1;1;from
+Q5147466;Collinsville Soccer Complex;обитатель;1;1;from
+Q5147466;Collinsville Soccer Complex;вид спорта;1;1;from
+Q5189403;Crown Las Vegas;административно-территориальная единица;1;1;from
+Q5147466;Collinsville Soccer Complex;владеет;1;1;to
+Q5186562;Criterion Place;административно-территориальная единица;1;1;from
+Q5186562;Criterion Place;государство;1;1;from
+Q5186562;Criterion Place;изображение;1;1;from
+Q5186562;Criterion Place;это частный случай понятия;1;2;from
+Q5186562;Criterion Place;архитектор;1;1;from
+Q5186562;Criterion Place;количество этажей;1;1;from
+Q5186562;Criterion Place;категория на Викискладе;1;1;from
+Q5186562;Criterion Place;географические координаты;1;1;from
+Q5186562;Criterion Place;код Freebase;1;1;from
+Q5189403;Crown Las Vegas;владельцем является;1;1;from
+Q1739419;Краснодарская АЭС;государство;1;2;from
+Q1739419;Краснодарская АЭС;административно-территориальная единица;1;1;from
+Q1739357;Belene Nuclear Power Plant;ключевое событие;1;2;from
+Q21585415;The Grove tube station;государство;1;1;from
+Q15217385;Farmers Field;географические координаты;1;1;from
+Q15217385;Farmers Field;владеет;1;1;to
+Q16253653;Lost Liberty Hotel;государство;1;1;from
+Q16253653;Lost Liberty Hotel;это частный случай понятия;1;2;from
+Q16632774;Delta Dome;административно-территориальная единица;1;1;from
+Q16632774;Delta Dome;государство;1;1;from
+Q16632774;Delta Dome;изображение;1;1;from
+Q16632774;Delta Dome;это частный случай понятия;1;2;from
+Q16632774;Delta Dome;вместимость;1;1;from
+Q16632774;Delta Dome;дата официального открытия;1;1;from
+Q16820645;Deep Underground Command Center;это частный случай понятия;1;1;from
+Q16890094;Camelot Hotel/Casino;государство;1;1;from
+Q16890094;Camelot Hotel/Casino;это частный случай понятия;1;2;from
+Q16890094;Camelot Hotel/Casino;географические координаты;1;1;from
+Q16974258;Dunes Hotel and Casino;государство;1;1;from
+Q16974258;Dunes Hotel and Casino;код VIAF;1;1;from
+Q16974258;Dunes Hotel and Casino;это частный случай понятия;1;2;from
+Q16974258;Dunes Hotel and Casino;географические координаты;1;1;from
+Q16974258;Dunes Hotel and Casino;WorldCat Identities ID;1;1;from
+Q16974258;Dunes Hotel and Casino;история происходит в месте;1;1;to
+Q16974640;Eliel Saarinen's Tribune Tower design;государство;1;2;from
+Q16974640;Eliel Saarinen's Tribune Tower design;изображение;1;1;from
+Q16974640;Eliel Saarinen's Tribune Tower design;это частный случай понятия;1;2;from
+Q16974640;Eliel Saarinen's Tribune Tower design;архитектор;1;1;from
+Q16974640;Eliel Saarinen's Tribune Tower design;количество этажей;1;1;from
+Q15217385;Farmers Field;вместимость;1;1;from
+Q15217385;Farmers Field;архитектор;1;1;from
+Q15217385;Farmers Field;это частный случай понятия;1;2;from
+Q13101619;Remerschen nuclear power station;это частный случай понятия;1;2;from
+Q7961605;Waldorf-Astoria Hotel and Residence Tower;географические координаты;1;1;from
+Q7986524;West Side Stadium;владельцем является;1;1;from
+Q7986524;West Side Stadium;государство;1;1;from
+Q7986524;West Side Stadium;это частный случай понятия;1;1;from
+Q7986524;West Side Stadium;дата официального открытия;1;1;from
+Q7986524;West Side Stadium;местонахождение;1;1;from
+Q7986524;West Side Stadium;обитатель;1;1;from
+Q7986524;West Side Stadium;географические координаты;1;1;from
+Q7986524;West Side Stadium;владеет;1;1;to
+Q13101619;Remerschen nuclear power station;названо в честь;1;1;from
+Q13101619;Remerschen nuclear power station;государство;1;1;from
+Q13101619;Remerschen nuclear power station;географические координаты;1;1;from
+Q15217385;Farmers Field;государство;1;1;from
+Q14706324;Harrison New York Temple;административно-территориальная единица;1;1;from
+Q14706324;Harrison New York Temple;государство;1;1;from
+Q14706324;Harrison New York Temple;это частный случай понятия;1;1;from
+Q14706324;Harrison New York Temple;географические координаты;1;1;from
+Q14996962;Imperial Monumental Halls and Tower;административно-территориальная единица;1;1;from
+Q14996962;Imperial Monumental Halls and Tower;государство;1;1;from
+Q14996962;Imperial Monumental Halls and Tower;изображение;1;1;from
+Q14996962;Imperial Monumental Halls and Tower;это частный случай понятия;1;1;from
+Q14996962;Imperial Monumental Halls and Tower;географические координаты;1;1;from
+Q15217385;Farmers Field;владельцем является;1;1;from
+Q15217385;Farmers Field;административно-территориальная единица;1;1;from
+Q16974640;Eliel Saarinen's Tribune Tower design;число лифтов;1;1;from
+Q16974640;Eliel Saarinen's Tribune Tower design;категория на Викискладе;1;1;from
+Q16974640;Eliel Saarinen's Tribune Tower design;archINFORM project ID;1;1;from
+Q19877714;Carson Stadium;географические координаты;1;1;from
+Q18192319;Twin Towers 2;количество этажей;1;1;from
+Q18192319;Twin Towers 2;высота/рост;1;1;from
+Q18192319;Twin Towers 2;охранный статус;1;1;from
+Q18192319;Twin Towers 2;официальный сайт;1;1;from
+Q18389005;London's third airport;государство;1;1;from
+Q18389005;London's third airport;это частный случай понятия;1;1;from
+Q18748918;Alexander Graham Bell tower;государство;1;1;from
+Q18748918;Alexander Graham Bell tower;это частный случай понятия;1;1;from
+Q18748918;Alexander Graham Bell tower;географические координаты;1;1;from
+Q19877714;Carson Stadium;государство;1;1;from
+Q19877714;Carson Stadium;это частный случай понятия;1;1;from
+Q20026751;cenotaph to Newton;административно-территориальная единица;1;1;from
+Q18192319;Twin Towers 2;это частный случай понятия;1;1;from
+Q20026751;cenotaph to Newton;государство;1;1;from
+Q20026751;cenotaph to Newton;изображение;1;1;from
+Q20026751;cenotaph to Newton;это частный случай понятия;1;4;from
+Q20026751;cenotaph to Newton;архитектор;1;1;from
+Q20026751;cenotaph to Newton;название;1;1;from
+Q20026751;cenotaph to Newton;код BNF;1;1;from
+Q20026751;cenotaph to Newton;категория на Викискладе;1;1;from
+Q20026751;cenotaph to Newton;archINFORM project ID;1;1;from
+Q20026751;cenotaph to Newton;в память о;1;1;from
+Q20026751;cenotaph to Newton;посвящено;1;1;from
+Q20713098;Metropolitan Sepulchre;это частный случай понятия;1;1;from
+Q18192319;Twin Towers 2;архитектор;1;1;from
+Q18192319;Twin Towers 2;изображение;1;1;from
+Q16981119;Laurence Harbor;владельцем является;1;1;from
+Q17027105;Sahara Boardwalk Hotel and Casino;государство;1;1;from
+Q16981119;Laurence Harbor;государство;1;1;from
+Q16981119;Laurence Harbor;это частный случай понятия;1;2;from
+Q16981119;Laurence Harbor;географические координаты;1;1;from
+Q16981119;Laurence Harbor;владеет;1;1;to
+Q17017749;SkyCycle français;это частный случай понятия;1;1;from
+Q17021989;Millennium Tower;административно-территориальная единица;1;1;from
+Q17021989;Millennium Tower;государство;1;1;from
+Q17021989;Millennium Tower;это частный случай понятия;1;1;from
+Q17021989;Millennium Tower;архитектор;1;1;from
+Q17021989;Millennium Tower;количество этажей;1;1;from
+Q17021989;Millennium Tower;код по Skyscraper Center;1;1;from
+Q17027105;Sahara Boardwalk Hotel and Casino;это частный случай понятия;1;2;from
+Q18192319;Twin Towers 2;государство;1;1;from
+Q17027105;Sahara Boardwalk Hotel and Casino;географические координаты;1;1;from
+Q17036602;Trump International Hotel & Residence;административно-территориальная единица;1;1;from
+Q17036602;Trump International Hotel & Residence;государство;1;1;from
+Q17036602;Trump International Hotel & Residence;это частный случай понятия;1;2;from
+Q17036602;Trump International Hotel & Residence;географические координаты;1;1;from
+Q17151858;Hall of Remembrance;государство;1;1;from
+Q17151858;Hall of Remembrance;код VIAF;1;1;from
+Q17151858;Hall of Remembrance;это частный случай понятия;1;2;from
+Q17151858;Hall of Remembrance;архитектор;1;1;from
+Q17151858;Hall of Remembrance;WorldCat Identities ID;1;1;from
+Q18192319;Twin Towers 2;административно-территориальная единица;1;1;from
+Q7961605;Waldorf-Astoria Hotel and Residence Tower;категория на Викискладе;1;1;from
+Q7961605;Waldorf-Astoria Hotel and Residence Tower;количество этажей;1;1;from
+Q7961605;Waldorf-Astoria Hotel and Residence Tower;это частный случай понятия;1;2;from
+Q7567222;South Ferry Plaza;государство;1;1;from
+Q7421067;Sapphire Tower;государство;1;1;from
+Q7421067;Sapphire Tower;разработчик;1;1;from
+Q7421067;Sapphire Tower;это частный случай понятия;1;2;from
+Q7421067;Sapphire Tower;идентификатор Emporis;1;1;from
+Q7421067;Sapphire Tower;географические координаты;1;1;from
+Q7457764;Seventh at Westlake Tower;административно-территориальная единица;1;1;from
+Q7457764;Seventh at Westlake Tower;государство;1;1;from
+Q7457764;Seventh at Westlake Tower;это частный случай понятия;1;1;from
+Q7457764;Seventh at Westlake Tower;количество этажей;1;1;from
+Q7457764;Seventh at Westlake Tower;географические координаты;1;1;from
+Q7567222;South Ferry Plaza;административно-территориальная единица;1;1;from
+Q7567222;South Ferry Plaza;это частный случай понятия;1;2;from
+Q7299370;Rays Ballpark;географические координаты;1;1;from
+Q7567222;South Ferry Plaza;архитектор;1;1;from
+Q7567222;South Ferry Plaza;количество этажей;1;1;from
+Q7567222;South Ferry Plaza;код по Skyscraper Center;1;2;from
+Q7567222;South Ferry Plaza;идентификатор Emporis;1;1;from
+Q7567222;South Ferry Plaza;географические координаты;1;1;from
+Q7672536;TWELVE Midtown;административно-территориальная единица;1;1;from
+Q7672536;TWELVE Midtown;государство;1;1;from
+Q7672536;TWELVE Midtown;это частный случай понятия;1;2;from
+Q7672536;TWELVE Midtown;количество этажей;1;1;from
+Q7672536;TWELVE Midtown;код по Skyscraper Center;1;1;from
+Q7747313;The Lighthouse Project;административно-территориальная единица;1;1;from
+Q7421067;Sapphire Tower;административно-территориальная единица;1;1;from
+Q7299370;Rays Ballpark;обитатель;1;1;from
+Q7747313;The Lighthouse Project;это частный случай понятия;1;2;from
+Q7208106;Point Park Civic Center;государство;1;1;from
+Q7137896;Park Michigan;это частный случай понятия;1;2;from
+Q7137896;Park Michigan;количество этажей;1;1;from
+Q7137896;Park Michigan;код по Skyscraper Center;1;1;from
+Q7137896;Park Michigan;географические координаты;1;1;from
+Q7165159;Penthouse Boardwalk Hotel and Casino;государство;1;1;from
+Q7165159;Penthouse Boardwalk Hotel and Casino;это частный случай понятия;1;2;from
+Q7196281;Pinnacle Atlantic City;административно-территориальная единица;1;1;from
+Q7196281;Pinnacle Atlantic City;государство;1;1;from
+Q7196281;Pinnacle Atlantic City;это частный случай понятия;1;2;from
+Q7196281;Pinnacle Atlantic City;географические координаты;1;1;from
+Q7208106;Point Park Civic Center;административно-территориальная единица;1;1;from
+Q7208106;Point Park Civic Center;это частный случай понятия;1;2;from
+Q7299370;Rays Ballpark;архитектор;1;1;from
+Q7208106;Point Park Civic Center;архитектор;1;1;from
+Q7208106;Point Park Civic Center;географические координаты;1;1;from
+Q7231878;Portland Beavers Ballpark;административно-территориальная единица;1;1;from
+Q7231878;Portland Beavers Ballpark;государство;1;1;from
+Q7231878;Portland Beavers Ballpark;это частный случай понятия;1;2;from
+Q7231878;Portland Beavers Ballpark;вместимость;1;1;from
+Q7231878;Portland Beavers Ballpark;дата официального открытия;1;1;from
+Q7231878;Portland Beavers Ballpark;местонахождение;1;1;from
+Q7231878;Portland Beavers Ballpark;обитатель;1;1;from
+Q7299370;Rays Ballpark;государство;1;1;from
+Q7299370;Rays Ballpark;это частный случай понятия;1;1;from
+Q7747313;The Lighthouse Project;государство;1;1;from
+Q7747313;The Lighthouse Project;категория на Викискладе;1;1;from
+Q7961605;Waldorf-Astoria Hotel and Residence Tower;государство;1;1;from
+Q7934129;Virginia Beach Arena;административно-территориальная единица;1;1;from
+Q7847783;Trump Tower;число лифтов;1;1;from
+Q7847783;Trump Tower;категория на Викискладе;1;1;from
+Q7847783;Trump Tower;географические координаты;1;1;from
+Q7927562;Victory Tower;административно-территориальная единица;1;1;from
+Q7927562;Victory Tower;государство;1;1;from
+Q7927562;Victory Tower;это частный случай понятия;1;2;from
+Q7927562;Victory Tower;архитектор;1;1;from
+Q7927562;Victory Tower;количество этажей;1;1;from
+Q7927562;Victory Tower;дата официального открытия;1;1;from
+Q7927562;Victory Tower;географические координаты;1;1;from
+Q7934129;Virginia Beach Arena;владельцем является;1;1;from
+Q7934129;Virginia Beach Arena;оператор;1;1;from
+Q7847783;Trump Tower;это частный случай понятия;1;1;from
+Q7934129;Virginia Beach Arena;государство;1;1;from
+Q7934129;Virginia Beach Arena;это частный случай понятия;1;1;from
+Q7934129;Virginia Beach Arena;вместимость;1;1;from
+Q7934129;Virginia Beach Arena;обитатель;1;1;from
+Q7934129;Virginia Beach Arena;географические координаты;1;1;from
+Q7934129;Virginia Beach Arena;владеет;1;1;to
+Q7958493;W Las Vegas;административно-территориальная единица;1;1;from
+Q7958493;W Las Vegas;государство;1;1;from
+Q7958493;W Las Vegas;это частный случай понятия;1;1;from
+Q7958493;W Las Vegas;количество этажей;1;1;from
+Q7961605;Waldorf-Astoria Hotel and Residence Tower;административно-территориальная единица;1;1;from
+Q7847783;Trump Tower;количество этажей;1;1;from
+Q7847783;Trump Tower;изображение;1;1;from
+Q7749780;The Mall at Oyster Bay;административно-территориальная единица;1;1;from
+Q7833683;Trans National Place;административно-территориальная единица;1;1;from
+Q7749780;The Mall at Oyster Bay;государство;1;1;from
+Q7749780;The Mall at Oyster Bay;это частный случай понятия;1;1;from
+Q7749780;The Mall at Oyster Bay;географические координаты;1;1;from
+Q7816915;Tom Monaghan's Leaning Tower of Pizza;владельцем является;1;1;from
+Q7816915;Tom Monaghan's Leaning Tower of Pizza;административно-территориальная единица;1;1;from
+Q7816915;Tom Monaghan's Leaning Tower of Pizza;государство;1;1;from
+Q7816915;Tom Monaghan's Leaning Tower of Pizza;это частный случай понятия;1;2;from
+Q7816915;Tom Monaghan's Leaning Tower of Pizza;архитектор;1;1;from
+Q7816915;Tom Monaghan's Leaning Tower of Pizza;количество этажей;1;1;from
+Q7816915;Tom Monaghan's Leaning Tower of Pizza;географические координаты;1;1;from
+Q7816915;Tom Monaghan's Leaning Tower of Pizza;владеет;1;1;to
+Q7833683;Trans National Place;государство;1;1;from
+Q7847783;Trump Tower;государство;1;1;from
+Q7833683;Trans National Place;это частный случай понятия;1;1;from
+Q7833683;Trans National Place;архитектор;1;1;from
+Q7833683;Trans National Place;код по Skyscraper Center;1;1;from
+Q7833683;Trans National Place;географические координаты;1;1;from
+Q7847769;Trump International Hotel and Tower;государство;1;1;from
+Q7847769;Trump International Hotel and Tower;изображение;1;1;from
+Q7847769;Trump International Hotel and Tower;это частный случай понятия;1;2;from
+Q7847769;Trump International Hotel and Tower;используется как/для/в;1;1;from
+Q7847769;Trump International Hotel and Tower;категория на Викискладе;1;1;from
+Q7847769;Trump International Hotel and Tower;географические координаты;1;1;from
+Q7847783;Trump Tower;административно-территориальная единица;1;1;from
+Q21585415;The Grove tube station;административно-территориальная единица;1;1;from
+Q21585415;The Grove tube station;это частный случай понятия;1;1;from
+Q1739357;Belene Nuclear Power Plant;код Freebase;1;1;from
+Q23787696;Q23787696;административно-территориальная единица;1;1;from
+Q617824;Highgate tube station;место рождения;1;1;to
+Q672984;80 South Street;владельцем является;1;1;from
+Q672984;80 South Street;административно-территориальная единица;1;1;from
+Q672984;80 South Street;государство;1;1;from
+Q672984;80 South Street;это частный случай понятия;1;2;from
+Q672984;80 South Street;архитектор;1;1;from
+Q672984;80 South Street;количество этажей;1;1;from
+Q672984;80 South Street;код по Skyscraper Center;1;1;from
+Q672984;80 South Street;код здания на SkyscraperPage;1;1;from
+Q672984;80 South Street;высота/рост;1;1;from
+Q672984;80 South Street;идентификатор Emporis;1;1;from
+Q672984;80 South Street;географические координаты;1;1;from
+Q672984;80 South Street;код Freebase;1;1;from
+Q767873;Russia Tower;административно-территориальная единица;1;1;from
+Q767873;Russia Tower;государство;1;1;from
+Q767873;Russia Tower;изображение;1;2;from
+Q767873;Russia Tower;основная строительная организация;1;1;from
+Q767873;Russia Tower;это частный случай понятия;1;1;from
+Q767873;Russia Tower;архитектор;1;1;from
+Q767873;Russia Tower;количество этажей;1;1;from
+Q767873;Russia Tower;число лифтов;1;1;from
+Q767873;Russia Tower;код по Skyscraper Center;1;1;from
+Q767873;Russia Tower;высота/рост;1;1;from
+Q767873;Russia Tower;дата основания/создания/возникновения;1;1;from
+Q767873;Russia Tower;географические координаты;1;1;from
+Q617824;Highgate tube station;код Freebase;1;1;from
+Q617824;Highgate tube station;географические координаты;1;1;from
+Q617824;Highgate tube station;категория на Викискладе;1;1;from
+Q585060;Palace of the Soviets;владеет;1;1;to
+Q585060;Palace of the Soviets;количество этажей;1;1;from
+Q585060;Palace of the Soviets;код по Skyscraper Center;1;1;from
+Q585060;Palace of the Soviets;построено на месте;1;1;from
+Q585060;Palace of the Soviets;высота/рост;1;1;from
+Q585060;Palace of the Soviets;код SUDOC;1;1;from
+Q585060;Palace of the Soviets;категория на Викискладе;1;1;from
+Q585060;Palace of the Soviets;идентификатор Emporis;1;1;from
+Q585060;Palace of the Soviets;archINFORM project ID;1;1;from
+Q585060;Palace of the Soviets;географические координаты;1;1;from
+Q585060;Palace of the Soviets;код Freebase;1;1;from
+Q585060;Palace of the Soviets;часть от;1;1;to
+Q585060;Palace of the Soviets;выдающееся произведение;1;1;to
+Q617824;Highgate tube station;тарифная зона;1;1;from
+Q617824;Highgate tube station;административно-территориальная единица;1;1;from
+Q617824;Highgate tube station;названо в честь;1;1;from
+Q617824;Highgate tube station;архитектурный стиль;1;1;from
+Q617824;Highgate tube station;государство;1;1;from
+Q617824;Highgate tube station;изображение;1;1;from
+Q617824;Highgate tube station;следующий остановочный пункт;1;2;to
+Q617824;Highgate tube station;это частный случай понятия;1;3;from
+Q617824;Highgate tube station;железнодорожная линия;1;1;from
+Q617824;Highgate tube station;архитектор;1;1;from
+Q617824;Highgate tube station;дата официального открытия;1;1;from
+Q617824;Highgate tube station;код BabelNet;1;1;from
+Q767873;Russia Tower;код Freebase;1;1;from
+Q767873;Russia Tower;официальный сайт;1;1;from
+Q936894;Echelon Place;административно-территориальная единица;1;1;from
+Q1520114;Juragua Nuclear Power Plant;выходная мощность;1;1;from
+Q1421279;Watkin's Tower;категория на Викискладе;1;1;from
+Q1421279;Watkin's Tower;идентификатор Emporis;1;1;from
+Q1421279;Watkin's Tower;дата основания/создания/возникновения;1;1;from
+Q1421279;Watkin's Tower;дата прекращения существования;1;1;from
+Q1421279;Watkin's Tower;географические координаты;1;1;from
+Q1421279;Watkin's Tower;код Freebase;1;1;from
+Q1520114;Juragua Nuclear Power Plant;административно-территориальная единица;1;1;from
+Q1520114;Juragua Nuclear Power Plant;государство;1;1;from
+Q1520114;Juragua Nuclear Power Plant;изображение;1;1;from
+Q1520114;Juragua Nuclear Power Plant;код VIAF;1;1;from
+Q1520114;Juragua Nuclear Power Plant;это частный случай понятия;1;3;from
+Q1520114;Juragua Nuclear Power Plant;категория на Викискладе;1;1;from
+Q1421279;Watkin's Tower;код здания на SkyscraperPage;1;1;from
+Q1520114;Juragua Nuclear Power Plant;географические координаты;1;1;from
+Q1520114;Juragua Nuclear Power Plant;код Freebase;1;1;from
+Q1520114;Juragua Nuclear Power Plant;дата вывода из эксплуатации;1;1;from
+Q1520114;Juragua Nuclear Power Plant;ключевое событие;1;2;from
+Q1739357;Belene Nuclear Power Plant;владельцем является;1;1;from
+Q1739357;Belene Nuclear Power Plant;административно-территориальная единица;1;1;from
+Q1739357;Belene Nuclear Power Plant;оператор;1;1;from
+Q1739357;Belene Nuclear Power Plant;государство;1;1;from
+Q1739357;Belene Nuclear Power Plant;это частный случай понятия;1;2;from
+Q1739357;Belene Nuclear Power Plant;заменил;1;1;from
+Q1739357;Belene Nuclear Power Plant;географические координаты;1;1;from
+Q1421279;Watkin's Tower;название на языке оригинала;1;1;from
+Q1421279;Watkin's Tower;код GeoNames;1;1;from
+Q936894;Echelon Place;государство;1;1;from
+Q1055987;Houston Tower;это частный случай понятия;1;2;from
+Q936894;Echelon Place;изображение;1;1;from
+Q936894;Echelon Place;это частный случай понятия;1;1;from
+Q936894;Echelon Place;категория на Викискладе;1;1;from
+Q936894;Echelon Place;географические координаты;1;1;from
+Q936894;Echelon Place;код Freebase;1;1;from
+Q1028034;Great Orlando Wheel;административно-территориальная единица;1;1;from
+Q1028034;Great Orlando Wheel;государство;1;1;from
+Q1028034;Great Orlando Wheel;это частный случай понятия;1;1;from
+Q1028034;Great Orlando Wheel;географические координаты;1;1;from
+Q1055987;Houston Tower;административно-территориальная единица;1;1;from
+Q1055987;Houston Tower;государство;1;1;from
+Q1055987;Houston Tower;код по Skyscraper Center;1;1;from
+Q1421279;Watkin's Tower;архитектор;1;1;from
+Q1055987;Houston Tower;географические координаты;1;1;from
+Q1229877;Northwest Scientific-Industrial Center for Atomic Energy;административно-территориальная единица;1;1;from
+Q1229877;Northwest Scientific-Industrial Center for Atomic Energy;государство;1;1;from
+Q1229877;Northwest Scientific-Industrial Center for Atomic Energy;это частный случай понятия;1;2;from
+Q1229877;Northwest Scientific-Industrial Center for Atomic Energy;выходная мощность;1;1;from
+Q1229877;Northwest Scientific-Industrial Center for Atomic Energy;географические координаты;1;1;from
+Q1229877;Northwest Scientific-Industrial Center for Atomic Energy;ключевое событие;1;2;from
+Q1421279;Watkin's Tower;административно-территориальная единица;1;1;from
+Q1421279;Watkin's Tower;государство;1;1;from
+Q1421279;Watkin's Tower;изображение;1;1;from
+Q1421279;Watkin's Tower;это частный случай понятия;1;3;from
+Q585060;Palace of the Soviets;архитектор;1;3;from
+Q585060;Palace of the Soviets;это частный случай понятия;1;3;from
+Q585060;Palace of the Soviets;код VIAF;1;1;from
+Q61819270;Igreja de Bom Jesus de Matozinhos;ID отношения в OpenStreetMap;1;1;from
+Q52776407;Centro de Creación de las Artes de Alcorcón;изображение;1;1;from
+Q52776407;Centro de Creación de las Artes de Alcorcón;это частный случай понятия;1;1;from
+Q52776407;Centro de Creación de las Artes de Alcorcón;архитектор;1;2;from
+Q52776407;Centro de Creación de las Artes de Alcorcón;категория на Викискладе;1;1;from
+Q52776407;Centro de Creación de las Artes de Alcorcón;географические координаты;1;1;from
+Q61819270;Igreja de Bom Jesus de Matozinhos;административно-территориальная единица;1;1;from
+Q61819270;Igreja de Bom Jesus de Matozinhos;государство;1;1;from
+Q61819270;Igreja de Bom Jesus de Matozinhos;изображение;1;1;from
+Q61819270;Igreja de Bom Jesus de Matozinhos;это частный случай понятия;1;3;from
+Q61819270;Igreja de Bom Jesus de Matozinhos;статус наследия;1;1;from
+Q61819270;Igreja de Bom Jesus de Matozinhos;категория на Викискладе;1;1;from
+Q61819270;Igreja de Bom Jesus de Matozinhos;географические координаты;1;1;from
+Q52776407;Centro de Creación de las Artes de Alcorcón;административно-территориальная единица;1;1;from
+Q62915972;Alai Minar;изображение;1;1;from
+Q62915972;Alai Minar;это частный случай понятия;1;1;from
+Q62915972;Alai Minar;категория на Викискладе;1;1;from
+Q84751473;Łapalice Castle;это частный случай понятия;1;1;from
+Q84751473;Łapalice Castle;категория на Викискладе;1;1;from
+Q119942;X-Seed 4000;административно-территориальная единица;1;1;from
+Q119942;X-Seed 4000;государство;1;1;from
+Q119942;X-Seed 4000;изображение;1;1;from
+Q119942;X-Seed 4000;это частный случай понятия;1;2;from
+Q119942;X-Seed 4000;код по Skyscraper Center;1;1;from
+Q119942;X-Seed 4000;высота/рост;1;1;from
+Q52776407;Centro de Creación de las Artes de Alcorcón;государство;1;1;from
+Q47335855;Proposed Los Angeles NFL Stadiums;местонахождение;1;1;from
+Q119942;X-Seed 4000;идентификатор Emporis;1;1;from
+Q24704699;Douglas Tower;категория на Викискладе;1;1;from
+Q23787696;Q23787696;государство;1;1;from
+Q23787696;Q23787696;это частный случай понятия;1;2;from
+Q23787696;Q23787696;категория на Викискладе;1;1;from
+Q23787696;Q23787696;географические координаты;1;1;from
+Q24035877;Two World Trade Center;это частный случай понятия;1;1;from
+Q24035877;Two World Trade Center;архитектор;1;1;from
+Q24035877;Two World Trade Center;код по Skyscraper Center;1;1;from
+Q24704699;Douglas Tower;административно-территориальная единица;1;1;from
+Q24704699;Douglas Tower;государство;1;1;from
+Q24704699;Douglas Tower;изображение;1;1;from
+Q24704699;Douglas Tower;это частный случай понятия;1;1;from
+Q24704699;Douglas Tower;дата основания/создания/возникновения;1;1;from
+Q47335855;Proposed Los Angeles NFL Stadiums;архитектор;1;1;from
+Q24704699;Douglas Tower;географические координаты;1;1;from
+Q26308703;Museum of Modern Art in Caracas;государство;1;1;from
+Q26308703;Museum of Modern Art in Caracas;изображение;1;1;from
+Q26308703;Museum of Modern Art in Caracas;это частный случай понятия;1;2;from
+Q26308703;Museum of Modern Art in Caracas;архитектор;1;1;from
+Q26308703;Museum of Modern Art in Caracas;количество этажей;1;1;from
+Q26308703;Museum of Modern Art in Caracas;географические координаты;1;1;from
+Q47335855;Proposed Los Angeles NFL Stadiums;владельцем является;1;1;from
+Q47335855;Proposed Los Angeles NFL Stadiums;административно-территориальная единица;1;1;from
+Q47335855;Proposed Los Angeles NFL Stadiums;государство;1;1;from
+Q47335855;Proposed Los Angeles NFL Stadiums;это частный случай понятия;1;2;from
+Q119942;X-Seed 4000;проектировщик;1;1;from
+Q119942;X-Seed 4000;код Freebase;1;1;from
+Q585060;Palace of the Soviets;изображение;1;1;from
+Q543826;Stendal Nuclear Power Plant;государство;1;1;from
+Q390212;Lepsius-L Pyramid;это частный случай понятия;1;2;from
+Q390212;Lepsius-L Pyramid;географические координаты;1;1;from
+Q435539;Q435539;административно-территориальная единица;1;2;from
+Q435539;Q435539;государство;1;1;from
+Q435539;Q435539;изображение;1;1;from
+Q435539;Q435539;это частный случай понятия;1;1;from
+Q435539;Q435539;статус наследия;1;1;from
+Q435539;Q435539;категория на Викискладе;1;1;from
+Q435539;Q435539;географические координаты;1;1;from
+Q543826;Stendal Nuclear Power Plant;административно-территориальная единица;1;2;from
+Q543826;Stendal Nuclear Power Plant;названо в честь;1;1;from
+Q543826;Stendal Nuclear Power Plant;изображение;1;1;from
+Q261975;Ultima Tower;код по Skyscraper Center;1;1;from
+Q543826;Stendal Nuclear Power Plant;код VIAF;1;1;from
+Q543826;Stendal Nuclear Power Plant;код GND;1;1;from
+Q543826;Stendal Nuclear Power Plant;это частный случай понятия;1;2;from
+Q543826;Stendal Nuclear Power Plant;категория на Викискладе;1;1;from
+Q543826;Stendal Nuclear Power Plant;географические координаты;1;1;from
+Q543826;Stendal Nuclear Power Plant;код Freebase;1;1;from
+Q543826;Stendal Nuclear Power Plant;находится в пределах природно-географического объекта;1;1;from
+Q543826;Stendal Nuclear Power Plant;ключевое событие;1;2;from
+Q585060;Palace of the Soviets;владельцем является;1;1;from
+Q585060;Palace of the Soviets;административно-территориальная единица;1;1;from
+Q585060;Palace of the Soviets;государство;1;2;from
+Q390212;Lepsius-L Pyramid;государство;1;1;from
+Q261975;Ultima Tower;архитектор;1;1;from
+Q135318;Buried Pyramid;государство;1;1;from
+Q202477;Seoul Lite;архитектор;1;2;from
+Q135318;Buried Pyramid;изображение;1;1;from
+Q135318;Buried Pyramid;это частный случай понятия;1;2;from
+Q135318;Buried Pyramid;код Pleiades;1;1;from
+Q135318;Buried Pyramid;категория на Викискладе;1;1;from
+Q135318;Buried Pyramid;географические координаты;1;1;from
+Q135318;Buried Pyramid;код Freebase;1;1;from
+Q202477;Seoul Lite;административно-территориальная единица;1;1;from
+Q202477;Seoul Lite;государство;1;1;from
+Q202477;Seoul Lite;изображение;1;1;from
+Q202477;Seoul Lite;основная строительная организация;1;1;from
+Q202477;Seoul Lite;это частный случай понятия;1;2;from
+Q202477;Seoul Lite;количество этажей;1;1;from
+Q261975;Ultima Tower;это частный случай понятия;1;1;from
+Q202477;Seoul Lite;число лифтов;1;1;from
+Q202477;Seoul Lite;код по Skyscraper Center;1;1;from
+Q202477;Seoul Lite;пиктограмма;1;1;from
+Q202477;Seoul Lite;идентификатор Emporis;1;1;from
+Q202477;Seoul Lite;географические координаты;1;1;from
+Q202477;Seoul Lite;инженер-строитель;1;1;from
+Q202477;Seoul Lite;код Freebase;1;1;from
+Q202477;Seoul Lite;ключевое событие;1;2;from
+Q261975;Ultima Tower;административно-территориальная единица;1;1;from
+Q261975;Ultima Tower;государство;1;1;from
+Q261975;Ultima Tower;изображение;1;1;from
+Q7137730;Park Fifth Towers;позднее здесь было построено;1;1;to

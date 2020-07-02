@@ -1,0 +1,502 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q25172061;Loch Dochard;административно-территориальная единица;1;1;from
+Q3257691;Q3257691;административно-территориальная единица;1;1;from
+Q3257708;Loch Nevis;государство;1;1;from
+Q3257708;Loch Nevis;административно-территориальная единица;1;1;from
+Q3257703;Loch Hourn;Gazetteer for Scotland place ID;1;2;from
+Q3257703;Loch Hourn;географические координаты;1;1;from
+Q3257703;Loch Hourn;категория на Викискладе;1;1;from
+Q3257703;Loch Hourn;код GeoNames;1;1;from
+Q3257703;Loch Hourn;это частный случай понятия;1;1;from
+Q3257703;Loch Hourn;код VIAF;1;1;from
+Q3257703;Loch Hourn;государство;1;1;from
+Q3257703;Loch Hourn;административно-территориальная единица;1;1;from
+Q3257691;Q3257691;географические координаты;1;1;from
+Q3257691;Q3257691;это частный случай понятия;1;1;from
+Q3257691;Q3257691;государство;1;1;from
+Q2770104;Loch Nedd;географические координаты;1;1;from
+Q2682750;Loch Carron;Gazetteer for Scotland place ID;1;2;from
+Q2770104;Loch Nedd;категория на Викискладе;1;1;from
+Q2770104;Loch Nedd;местонахождение;1;2;from
+Q2770104;Loch Nedd;это частный случай понятия;1;1;from
+Q2770104;Loch Nedd;государство;1;1;from
+Q2770104;Loch Nedd;административно-территориальная единица;1;1;from
+Q2750704;Loch Goil;основная тема;1;1;to
+Q2750704;Loch Goil;изображённый объект;1;1;to
+Q2750704;Loch Goil;Gazetteer for Scotland place ID;1;2;from
+Q2750704;Loch Goil;географические координаты;1;1;from
+Q2750704;Loch Goil;категория на Викискладе;1;1;from
+Q2750704;Loch Goil;код GeoNames;1;1;from
+Q2750704;Loch Goil;это частный случай понятия;1;1;from
+Q2750704;Loch Goil;государство;1;1;from
+Q3257708;Loch Nevis;это частный случай понятия;1;1;from
+Q3257708;Loch Nevis;код GeoNames;1;1;from
+Q3257708;Loch Nevis;категория на Викискладе;1;1;from
+Q3257708;Loch Nevis;географические координаты;1;1;from
+Q3777117;Portmore Lough;UK Lakes Portal ID;1;1;from
+Q3777117;Portmore Lough;географические координаты;1;1;from
+Q3777117;Portmore Lough;это частный случай понятия;1;1;from
+Q3777117;Portmore Lough;государство;1;1;from
+Q3676049;Loch Lubnaig;UK Lakes Portal ID;1;1;from
+Q3676049;Loch Lubnaig;Gazetteer for Scotland place ID;1;2;from
+Q3676049;Loch Lubnaig;географические координаты;1;1;from
+Q3676049;Loch Lubnaig;категория на Викискладе;1;1;from
+Q3676049;Loch Lubnaig;длина;1;1;from
+Q3676049;Loch Lubnaig;код GeoNames;1;1;from
+Q3676049;Loch Lubnaig;это частный случай понятия;1;1;from
+Q3676049;Loch Lubnaig;бассейн объекта в странах;1;1;from
+Q3676049;Loch Lubnaig;впадающие в озеро реки;1;1;from
+Q3676049;Loch Lubnaig;изображение;1;2;from
+Q3676049;Loch Lubnaig;государство;1;1;from
+Q3676049;Loch Lubnaig;административно-территориальная единица;1;1;from
+Q3257715;Loch an Sgoltaire;Gazetteer for Scotland place ID;1;2;from
+Q3257715;Loch an Sgoltaire;географические координаты;1;1;from
+Q3257715;Loch an Sgoltaire;категория на Викискладе;1;1;from
+Q3257715;Loch an Sgoltaire;код GeoNames;1;1;from
+Q3257715;Loch an Sgoltaire;это частный случай понятия;1;2;from
+Q3257715;Loch an Sgoltaire;бассейн объекта в странах;1;1;from
+Q3257715;Loch an Sgoltaire;изображение;1;1;from
+Q3257715;Loch an Sgoltaire;государство;1;1;from
+Q3257715;Loch an Sgoltaire;административно-территориальная единица;1;1;from
+Q3257708;Loch Nevis;названо в честь;1;2;to
+Q3257708;Loch Nevis;Gazetteer for Scotland place ID;1;2;from
+Q2750704;Loch Goil;административно-территориальная единица;1;1;from
+Q2682750;Loch Carron;код Freebase;1;1;from
+Q1967626;Loch Morlich;бассейн объекта в странах;1;1;from
+Q2138660;Loch Achtriochtan;Gazetteer for Scotland place ID;1;2;from
+Q2369538;Carlingford Lough;код в энциклопедии «Британника онлайн»;1;1;from
+Q2369538;Carlingford Lough;на территорию претендует;1;2;from
+Q2369538;Carlingford Lough;это частный случай понятия;1;3;from
+Q2369538;Carlingford Lough;код VIAF;1;1;from
+Q2369538;Carlingford Lough;изображение;1;1;from
+Q2369538;Carlingford Lough;государство;1;2;from
+Q2329039;Loch Inver;Gazetteer for Scotland place ID;1;2;from
+Q2329039;Loch Inver;географические координаты;1;1;from
+Q2329039;Loch Inver;местонахождение;1;1;from
+Q2329039;Loch Inver;код GeoNames;1;1;from
+Q2329039;Loch Inver;это частный случай понятия;1;1;from
+Q2329039;Loch Inver;государство;1;1;from
+Q2329039;Loch Inver;административно-территориальная единица;1;1;from
+Q2138660;Loch Achtriochtan;находится в пределах природно-географического объекта;1;1;from
+Q2682750;Loch Carron;географические координаты;1;1;from
+Q2138660;Loch Achtriochtan;географические координаты;1;1;from
+Q2138660;Loch Achtriochtan;категория на Викискладе;1;1;from
+Q2138660;Loch Achtriochtan;местонахождение;1;1;from
+Q2138660;Loch Achtriochtan;код GeoNames;1;1;from
+Q2138660;Loch Achtriochtan;это частный случай понятия;1;1;from
+Q2138660;Loch Achtriochtan;изображение;1;1;from
+Q2138660;Loch Achtriochtan;государство;1;1;from
+Q2138660;Loch Achtriochtan;административно-территориальная единица;1;1;from
+Q1967626;Loch Morlich;UK Lakes Portal ID;1;1;from
+Q1967626;Loch Morlich;Gazetteer for Scotland place ID;1;2;from
+Q1967626;Loch Morlich;географические координаты;1;1;from
+Q1967626;Loch Morlich;категория на Викискладе;1;1;from
+Q1967626;Loch Morlich;код GeoNames;1;1;from
+Q2369538;Carlingford Lough;код GeoNames;1;1;from
+Q2369538;Carlingford Lough;код Ramsar Sites Information Service;1;1;from
+Q2369538;Carlingford Lough;категория на Викискладе;1;1;from
+Q2369538;Carlingford Lough;Logainm ID;1;1;from
+Q2682750;Loch Carron;категория на Викискладе;1;1;from
+Q2682750;Loch Carron;код GeoNames;1;1;from
+Q2682750;Loch Carron;это частный случай понятия;1;1;from
+Q2682750;Loch Carron;государство;1;1;from
+Q2682750;Loch Carron;административно-территориальная единица;1;1;from
+Q2500126;Loch Bracadale;находится на берегу водоёма;1;1;to
+Q2500126;Loch Bracadale;Gazetteer for Scotland place ID;1;2;from
+Q2500126;Loch Bracadale;географические координаты;1;1;from
+Q2500126;Loch Bracadale;категория на Викискладе;1;1;from
+Q2500126;Loch Bracadale;код GeoNames;1;1;from
+Q2500126;Loch Bracadale;это частный случай понятия;1;1;from
+Q2500126;Loch Bracadale;государство;1;1;from
+Q2500126;Loch Bracadale;административно-территориальная единица;1;1;from
+Q2373664;Loch Tollaidh;UK Lakes Portal ID;1;1;from
+Q2373664;Loch Tollaidh;географические координаты;1;1;from
+Q2373664;Loch Tollaidh;категория на Викискладе;1;1;from
+Q2373664;Loch Tollaidh;это частный случай понятия;1;1;from
+Q2373664;Loch Tollaidh;изображение;1;1;from
+Q2373664;Loch Tollaidh;государство;1;1;from
+Q2373664;Loch Tollaidh;административно-территориальная единица;1;1;from
+Q2369538;Carlingford Lough;впадает в;1;1;to
+Q2369538;Carlingford Lough;общая тема категории;1;1;to
+Q2369538;Carlingford Lough;находится на берегу водоёма;1;1;to
+Q2369538;Carlingford Lough;приток;1;1;from
+Q2369538;Carlingford Lough;основная категория по теме;1;1;from
+Q2369538;Carlingford Lough;код Freebase;1;1;from
+Q2369538;Carlingford Lough;географические координаты;1;1;from
+Q3835988;Loch Ryan;административно-территориальная единица;1;1;from
+Q3835988;Loch Ryan;государство;1;1;from
+Q3835988;Loch Ryan;изображение;1;1;from
+Q15242593;Loch of Swannay;изображение;1;1;from
+Q18737000;Loch Ardinning;географические координаты;1;1;from
+Q18737000;Loch Ardinning;это частный случай понятия;1;1;from
+Q18737000;Loch Ardinning;бассейн объекта в странах;1;1;from
+Q18737000;Loch Ardinning;государство;1;1;from
+Q18737000;Loch Ardinning;административно-территориальная единица;1;1;from
+Q15242593;Loch of Swannay;UK Lakes Portal ID;1;1;from
+Q15242593;Loch of Swannay;Gazetteer for Scotland place ID;1;2;from
+Q15242593;Loch of Swannay;географические координаты;1;1;from
+Q15242593;Loch of Swannay;ID отношения в OpenStreetMap;1;1;from
+Q15242593;Loch of Swannay;категория на Викискладе;1;1;from
+Q15242593;Loch of Swannay;код GeoNames;1;1;from
+Q15242593;Loch of Swannay;это частный случай понятия;1;1;from
+Q15242593;Loch of Swannay;бассейн объекта в странах;1;1;from
+Q15242593;Loch of Swannay;государство;1;1;from
+Q3835988;Loch Ryan;бассейн объекта в странах;1;1;from
+Q15242593;Loch of Swannay;административно-территориальная единица;1;1;from
+Q15242588;Loch of Craiglush;UK Lakes Portal ID;1;1;from
+Q15242588;Loch of Craiglush;Gazetteer for Scotland place ID;1;2;from
+Q15242588;Loch of Craiglush;географические координаты;1;1;from
+Q15242588;Loch of Craiglush;код GeoNames;1;1;from
+Q15242588;Loch of Craiglush;это частный случай понятия;1;1;from
+Q15242588;Loch of Craiglush;бассейн объекта в странах;1;1;from
+Q15242588;Loch of Craiglush;государство;1;1;from
+Q15242588;Loch of Craiglush;административно-территориальная единица;1;1;from
+Q6665030;Loch of Huxter;Gazetteer for Scotland place ID;1;2;from
+Q6665030;Loch of Huxter;географические координаты;1;1;from
+Q6665030;Loch of Huxter;категория на Викискладе;1;1;from
+Q6665030;Loch of Huxter;это частный случай понятия;1;1;from
+Q18737000;Loch Ardinning;Gazetteer for Scotland place ID;1;2;from
+Q21003931;Mochrum Loch;административно-территориальная единица;1;1;from
+Q21003931;Mochrum Loch;государство;1;1;from
+Q21003931;Mochrum Loch;изображение;1;1;from
+Q24643998;Greenan Loch;географические координаты;1;1;from
+Q24643998;Greenan Loch;код GNS;1;1;from
+Q24643998;Greenan Loch;высота над уровнем моря;1;1;from
+Q24643998;Greenan Loch;код GeoNames;1;1;from
+Q24643998;Greenan Loch;это частный случай понятия;1;1;from
+Q24643998;Greenan Loch;государство;1;1;from
+Q24643998;Greenan Loch;административно-территориальная единица;1;1;from
+Q24196679;Errit Lough;географические координаты;1;2;from
+Q24196679;Errit Lough;код GNS;1;1;from
+Q24196679;Errit Lough;код GeoNames;1;1;from
+Q24196679;Errit Lough;это частный случай понятия;1;1;from
+Q24196679;Errit Lough;государство;1;1;from
+Q24196679;Errit Lough;административно-территориальная единица;1;1;from
+Q24196571;Glenbeg Lough;географические координаты;1;1;from
+Q24196571;Glenbeg Lough;код GNS;1;1;from
+Q24196571;Glenbeg Lough;площадь;1;1;from
+Q24196571;Glenbeg Lough;код GeoNames;1;1;from
+Q24196571;Glenbeg Lough;это частный случай понятия;1;1;from
+Q24196571;Glenbeg Lough;бассейн объекта в странах;1;1;from
+Q24196571;Glenbeg Lough;изображение;1;1;from
+Q24196571;Glenbeg Lough;государство;1;1;from
+Q21003931;Mochrum Loch;находится на берегу водоёма;1;4;to
+Q21003931;Mochrum Loch;UK Lakes Portal ID;1;1;from
+Q21003931;Mochrum Loch;Gazetteer for Scotland place ID;1;2;from
+Q21003931;Mochrum Loch;географические координаты;1;1;from
+Q21003931;Mochrum Loch;код GeoNames;1;1;from
+Q21003931;Mochrum Loch;это частный случай понятия;1;1;from
+Q6665030;Loch of Huxter;государство;1;1;from
+Q6665030;Loch of Huxter;административно-территориальная единица;1;1;from
+Q6665023;Loch Treig;UK Lakes Portal ID;1;1;from
+Q5328854;East Loch of Skaw;это частный случай понятия;1;1;from
+Q5328854;East Loch of Skaw;административно-территориальная единица;1;1;from
+Q4909030;Loch Glendhu;Gazetteer for Scotland place ID;1;2;from
+Q4909030;Loch Glendhu;географические координаты;1;1;from
+Q4909030;Loch Glendhu;категория на Викискладе;1;1;from
+Q4909030;Loch Glendhu;код GeoNames;1;1;from
+Q4909030;Loch Glendhu;это частный случай понятия;1;1;from
+Q4909030;Loch Glendhu;государство;1;1;from
+Q4909030;Loch Glendhu;административно-территориальная единица;1;1;from
+Q3850249;Loch of Strathbeg;UK Lakes Portal ID;1;1;from
+Q3850249;Loch of Strathbeg;Gazetteer for Scotland place ID;1;2;from
+Q3850249;Loch of Strathbeg;географические координаты;1;1;from
+Q3850249;Loch of Strathbeg;категория на Викискладе;1;1;from
+Q3850249;Loch of Strathbeg;код Ramsar Sites Information Service;1;1;from
+Q3850249;Loch of Strathbeg;код GeoNames;1;1;from
+Q3850249;Loch of Strathbeg;это частный случай понятия;1;1;from
+Q3850249;Loch of Strathbeg;бассейн объекта в странах;1;1;from
+Q3850249;Loch of Strathbeg;изображение;1;1;from
+Q3850249;Loch of Strathbeg;государство;1;1;from
+Q3850249;Loch of Strathbeg;административно-территориальная единица;1;1;from
+Q3835988;Loch Ryan;находится в пределах природно-географического объекта;1;1;to
+Q3835988;Loch Ryan;Gazetteer for Scotland place ID;1;2;from
+Q3835988;Loch Ryan;географические координаты;1;1;from
+Q3835988;Loch Ryan;дата основания/создания/возникновения;1;1;from
+Q3835988;Loch Ryan;категория на Викискладе;1;1;from
+Q3835988;Loch Ryan;Vision of Britain place ID;1;1;from
+Q3835988;Loch Ryan;код GeoNames;1;1;from
+Q3835988;Loch Ryan;это частный случай понятия;1;1;from
+Q5328854;East Loch of Skaw;государство;1;1;from
+Q5328854;East Loch of Skaw;местонахождение;1;1;from
+Q6665023;Loch Treig;Gazetteer for Scotland place ID;1;2;from
+Q5328854;East Loch of Skaw;географические координаты;1;1;from
+Q6665023;Loch Treig;географические координаты;1;1;from
+Q6665023;Loch Treig;категория на Викискладе;1;1;from
+Q6665023;Loch Treig;код GeoNames;1;1;from
+Q6665023;Loch Treig;код в энциклопедии «Британника онлайн»;1;1;from
+Q6665023;Loch Treig;это частный случай понятия;1;1;from
+Q6665023;Loch Treig;бассейн объекта в странах;1;1;from
+Q6665023;Loch Treig;изображение;1;1;from
+Q6665023;Loch Treig;государство;1;1;from
+Q6665023;Loch Treig;административно-территориальная единица;1;1;from
+Q6665019;Loch Sween;находится на берегу водоёма;1;1;to
+Q6665019;Loch Sween;Gazetteer for Scotland place ID;1;2;from
+Q6665019;Loch Sween;географические координаты;1;1;from
+Q6665019;Loch Sween;код GeoNames;1;1;from
+Q6665019;Loch Sween;это частный случай понятия;1;1;from
+Q6665019;Loch Sween;государство;1;1;from
+Q6665019;Loch Sween;административно-территориальная единица;1;1;from
+Q6664980;Loch Mullardoch;UK Lakes Portal ID;1;1;from
+Q6664980;Loch Mullardoch;Gazetteer for Scotland place ID;1;2;from
+Q6664980;Loch Mullardoch;географические координаты;1;1;from
+Q6664980;Loch Mullardoch;категория на Викискладе;1;1;from
+Q6664980;Loch Mullardoch;ширина;1;1;from
+Q6664980;Loch Mullardoch;длина;1;1;from
+Q6664980;Loch Mullardoch;код GeoNames;1;1;from
+Q6664980;Loch Mullardoch;это частный случай понятия;1;2;from
+Q6664980;Loch Mullardoch;изображение;1;2;from
+Q6664980;Loch Mullardoch;государство;1;1;from
+Q6664980;Loch Mullardoch;административно-территориальная единица;1;1;from
+Q1967626;Loch Morlich;это частный случай понятия;1;1;from
+Q1967626;Loch Morlich;изображение;1;1;from
+Q25172061;Loch Dochard;государство;1;1;from
+Q943839;Loch Rannoch;впадает в;1;1;to
+Q952227;Loch Ard;изображение;1;1;from
+Q952227;Loch Ard;государство;1;1;from
+Q952227;Loch Ard;административно-территориальная единица;1;1;from
+Q944707;Loch Duich;находится на берегу водоёма;1;1;to
+Q944707;Loch Duich;Gazetteer for Scotland place ID;1;2;from
+Q944707;Loch Duich;код Freebase;1;1;from
+Q944707;Loch Duich;географические координаты;1;1;from
+Q944707;Loch Duich;категория на Викискладе;1;1;from
+Q944707;Loch Duich;код GeoNames;1;1;from
+Q944707;Loch Duich;это частный случай понятия;1;1;from
+Q944707;Loch Duich;изображение;1;1;from
+Q944707;Loch Duich;государство;1;1;from
+Q944707;Loch Duich;административно-территориальная единица;1;1;from
+Q943839;Loch Rannoch;приток;1;1;from
+Q943839;Loch Rannoch;государство;1;1;from
+Q943839;Loch Rannoch;UK Lakes Portal ID;1;1;from
+Q943839;Loch Rannoch;Gazetteer for Scotland place ID;1;2;from
+Q943839;Loch Rannoch;код Freebase;1;1;from
+Q943839;Loch Rannoch;географические координаты;1;1;from
+Q943839;Loch Rannoch;вертикальная глубина;1;1;from
+Q943839;Loch Rannoch;категория на Викискладе;1;1;from
+Q943839;Loch Rannoch;ширина;1;1;from
+Q943839;Loch Rannoch;площадь;1;1;from
+Q943839;Loch Rannoch;длина;1;1;from
+Q943839;Loch Rannoch;код GeoNames;1;1;from
+Q943839;Loch Rannoch;это частный случай понятия;1;1;from
+Q943839;Loch Rannoch;вытекающие из озера реки;1;1;from
+Q943839;Loch Rannoch;впадающие в озеро реки;1;1;from
+Q952227;Loch Ard;бассейн объекта в странах;1;1;from
+Q952227;Loch Ard;это частный случай понятия;1;1;from
+Q952227;Loch Ard;код GeoNames;1;1;from
+Q952227;Loch Ard;длина;1;1;from
+Q1096259;Clatteringshaws Loch;категория на Викискладе;1;1;from
+Q1096259;Clatteringshaws Loch;ширина;1;1;from
+Q1096259;Clatteringshaws Loch;длина;1;1;from
+Q1096259;Clatteringshaws Loch;это частный случай понятия;1;2;from
+Q1096259;Clatteringshaws Loch;бассейн объекта в странах;1;1;from
+Q1096259;Clatteringshaws Loch;вытекающие из озера реки;1;1;from
+Q1096259;Clatteringshaws Loch;впадающие в озеро реки;1;1;from
+Q1096259;Clatteringshaws Loch;изображение;1;1;from
+Q1096259;Clatteringshaws Loch;государство;1;1;from
+Q1096259;Clatteringshaws Loch;административно-территориальная единица;1;1;from
+Q1030654;Campbeltown Loch;находится на берегу водоёма;1;1;to
+Q1030654;Campbeltown Loch;Gazetteer for Scotland place ID;1;2;from
+Q1030654;Campbeltown Loch;географические координаты;1;1;from
+Q1030654;Campbeltown Loch;часовой пояс;1;1;from
+Q1030654;Campbeltown Loch;категория на Викискладе;1;1;from
+Q1030654;Campbeltown Loch;код GeoNames;1;1;from
+Q1030654;Campbeltown Loch;это частный случай понятия;1;1;from
+Q1030654;Campbeltown Loch;изображение;1;1;from
+Q1030654;Campbeltown Loch;государство;1;1;from
+Q1030654;Campbeltown Loch;административно-территориальная единица;1;1;from
+Q952227;Loch Ard;UK Lakes Portal ID;1;1;from
+Q952227;Loch Ard;Gazetteer for Scotland place ID;1;2;from
+Q952227;Loch Ard;географические координаты;1;1;from
+Q952227;Loch Ard;категория на Викискладе;1;1;from
+Q952227;Loch Ard;находится в охранной зоне;1;1;from
+Q952227;Loch Ard;ширина;1;1;from
+Q952227;Loch Ard;высота над уровнем моря;1;1;from
+Q943839;Loch Rannoch;изображение;1;1;from
+Q943839;Loch Rannoch;административно-территориальная единица;1;1;from
+Q1967626;Loch Morlich;государство;1;1;from
+Q68776706;Loch of Girlsta;государство;1;1;from
+Q430478;Loch Shin;бассейн объекта в странах;1;1;from
+Q430478;Loch Shin;вытекающие из озера реки;1;1;from
+Q430478;Loch Shin;изображение;1;1;from
+Q430478;Loch Shin;государство;1;1;from
+Q430478;Loch Shin;административно-территориальная единица;1;2;from
+Q70987576;Monk Myre;это частный случай понятия;1;1;from
+Q70987576;Monk Myre;государство;1;1;from
+Q70987576;Monk Myre;административно-территориальная единица;1;1;from
+Q68776706;Loch of Girlsta;UK Lakes Portal ID;1;1;from
+Q68776706;Loch of Girlsta;географические координаты;1;1;from
+Q68776706;Loch of Girlsta;категория на Викискладе;1;1;from
+Q68776706;Loch of Girlsta;это частный случай понятия;1;1;from
+Q68776706;Loch of Girlsta;изображение;1;1;from
+Q65040320;Loch of Drumellie;находится на берегу водоёма;1;1;to
+Q684231;Loch Lochy;находится на берегу водоёма;1;1;to
+Q65040320;Loch of Drumellie;это частный случай понятия;1;1;from
+Q65040320;Loch of Drumellie;государство;1;1;from
+Q65040320;Loch of Drumellie;административно-территориальная единица;1;1;from
+Q54869807;Loch Achilty;UK Lakes Portal ID;1;1;from
+Q54869807;Loch Achilty;Gazetteer for Scotland place ID;1;2;from
+Q54869807;Loch Achilty;географические координаты;1;1;from
+Q54869807;Loch Achilty;это частный случай понятия;1;1;from
+Q54869807;Loch Achilty;государство;1;1;from
+Q54869807;Loch Achilty;административно-территориальная единица;1;1;from
+Q25172061;Loch Dochard;UK Lakes Portal ID;1;1;from
+Q25172061;Loch Dochard;Gazetteer for Scotland place ID;1;2;from
+Q25172061;Loch Dochard;географические координаты;1;1;from
+Q25172061;Loch Dochard;это частный случай понятия;1;1;from
+Q430478;Loch Shin;это частный случай понятия;1;2;from
+Q430478;Loch Shin;код GeoNames;1;1;from
+Q430478;Loch Shin;длина;1;1;from
+Q430478;Loch Shin;площадь;1;1;from
+Q684231;Loch Lochy;UK Lakes Portal ID;1;1;from
+Q684231;Loch Lochy;Gazetteer for Scotland place ID;1;2;from
+Q684231;Loch Lochy;код Freebase;1;1;from
+Q684231;Loch Lochy;географические координаты;1;1;from
+Q684231;Loch Lochy;вертикальная глубина;1;1;from
+Q684231;Loch Lochy;категория на Викискладе;1;1;from
+Q684231;Loch Lochy;часть от;1;1;from
+Q684231;Loch Lochy;объём;1;1;from
+Q684231;Loch Lochy;ширина;1;1;from
+Q684231;Loch Lochy;площадь;1;1;from
+Q684231;Loch Lochy;высота над уровнем моря;1;1;from
+Q684231;Loch Lochy;длина;1;1;from
+Q684231;Loch Lochy;код GeoNames;1;1;from
+Q684231;Loch Lochy;это частный случай понятия;1;1;from
+Q684231;Loch Lochy;бассейн объекта в странах;1;1;from
+Q684231;Loch Lochy;впадающие в озеро реки;1;1;from
+Q684231;Loch Lochy;изображение;1;1;from
+Q684231;Loch Lochy;государство;1;1;from
+Q684231;Loch Lochy;административно-территориальная единица;1;1;from
+Q430478;Loch Shin;UK Lakes Portal ID;1;1;from
+Q430478;Loch Shin;Gazetteer for Scotland place ID;1;2;from
+Q430478;Loch Shin;код Freebase;1;1;from
+Q430478;Loch Shin;географические координаты;1;1;from
+Q430478;Loch Shin;вертикальная глубина;1;1;from
+Q430478;Loch Shin;категория на Викискладе;1;1;from
+Q430478;Loch Shin;Vision of Britain place ID;1;1;from
+Q430478;Loch Shin;объём;1;1;from
+Q1096259;Clatteringshaws Loch;географические координаты;1;1;from
+Q1096259;Clatteringshaws Loch;код Freebase;1;1;from
+Q1096259;Clatteringshaws Loch;Gazetteer for Scotland place ID;1;2;from
+Q1867288;Loch of Harray;бассейн объекта в странах;1;1;from
+Q1867298;Loch Shiel;это частный случай понятия;1;1;from
+Q1867298;Loch Shiel;бассейн объекта в странах;1;1;from
+Q1867298;Loch Shiel;изображение;1;1;from
+Q1867298;Loch Shiel;государство;1;1;from
+Q1867298;Loch Shiel;административно-территориальная единица;1;3;from
+Q1867288;Loch of Harray;UK Lakes Portal ID;1;1;from
+Q1867288;Loch of Harray;Gazetteer for Scotland place ID;1;2;from
+Q1867288;Loch of Harray;географические координаты;1;2;from
+Q1867288;Loch of Harray;ID отношения в OpenStreetMap;1;1;from
+Q1867288;Loch of Harray;категория на Викискладе;1;1;from
+Q1867288;Loch of Harray;код GeoNames;1;1;from
+Q1867288;Loch of Harray;статус наследия;1;1;from
+Q1867288;Loch of Harray;это частный случай понятия;1;2;from
+Q1867288;Loch of Harray;изображение;1;1;from
+Q1096259;Clatteringshaws Loch;UK Lakes Portal ID;1;1;from
+Q1867288;Loch of Harray;государство;1;1;from
+Q1867288;Loch of Harray;административно-территориальная единица;1;1;from
+Q1867253;Loch Fyne;основная тема;1;1;to
+Q1867253;Loch Fyne;находится на берегу водоёма;1;1;to
+Q1867253;Loch Fyne;код Freebase;1;1;from
+Q1867253;Loch Fyne;географические координаты;1;1;from
+Q1867253;Loch Fyne;категория на Викискладе;1;1;from
+Q1867253;Loch Fyne;Vision of Britain place ID;1;1;from
+Q1867253;Loch Fyne;это частный случай понятия;1;1;from
+Q1867253;Loch Fyne;государство;1;1;from
+Q1867253;Loch Fyne;административно-территориальная единица;1;1;from
+Q1630900;Loch Gruinart;Gazetteer for Scotland place ID;1;2;from
+Q1630900;Loch Gruinart;находится в пределах природно-географического объекта;1;1;from
+Q1867298;Loch Shiel;код в энциклопедии «Британника онлайн»;1;1;from
+Q1867298;Loch Shiel;код GeoNames;1;1;from
+Q1867298;Loch Shiel;длина;1;1;from
+Q1867298;Loch Shiel;высота над уровнем моря;1;1;from
+Q1967626;Loch Morlich;административно-территориальная единица;1;1;from
+Q1908082;Loch Etive;впадает в;1;1;to
+Q1908082;Loch Etive;проходит над/под;1;1;to
+Q1908082;Loch Etive;находится на берегу водоёма;1;1;to
+Q1908082;Loch Etive;место жительства;1;1;to
+Q1908082;Loch Etive;приток;1;1;from
+Q1908082;Loch Etive;Gazetteer for Scotland place ID;1;2;from
+Q1908082;Loch Etive;географические координаты;1;1;from
+Q1908082;Loch Etive;категория на Викискладе;1;1;from
+Q1908082;Loch Etive;код GeoNames;1;1;from
+Q1908082;Loch Etive;это частный случай понятия;1;1;from
+Q1908082;Loch Etive;изображение;1;2;from
+Q1908082;Loch Etive;государство;1;1;from
+Q1908082;Loch Etive;административно-территориальная единица;1;1;from
+Q1867298;Loch Shiel;впадает в;1;1;to
+Q1867298;Loch Shiel;приток;1;1;from
+Q1867298;Loch Shiel;UK Lakes Portal ID;1;1;from
+Q1867298;Loch Shiel;Gazetteer for Scotland place ID;1;2;from
+Q1867298;Loch Shiel;код Freebase;1;1;from
+Q1867298;Loch Shiel;географические координаты;1;1;from
+Q1867298;Loch Shiel;вертикальная глубина;1;1;from
+Q1867298;Loch Shiel;категория на Викискладе;1;1;from
+Q1867298;Loch Shiel;Vision of Britain place ID;1;1;from
+Q1867298;Loch Shiel;период обновления воды;1;1;from
+Q1867298;Loch Shiel;объём;1;1;from
+Q1867298;Loch Shiel;ширина;1;1;from
+Q1867298;Loch Shiel;площадь;1;1;from
+Q1630900;Loch Gruinart;географические координаты;1;1;from
+Q1630900;Loch Gruinart;категория на Викискладе;1;1;from
+Q1630900;Loch Gruinart;код GeoNames;1;1;from
+Q1444234;Loch Torridon;код в энциклопедии «Британника онлайн»;1;1;from
+Q1444234;Loch Torridon;изображение;1;1;from
+Q1444234;Loch Torridon;государство;1;1;from
+Q1444234;Loch Torridon;административно-территориальная единица;1;1;from
+Q1377930;Loch Indaal;находится на берегу водоёма;1;1;to
+Q1377930;Loch Indaal;Gazetteer for Scotland place ID;1;2;from
+Q1377930;Loch Indaal;находится в пределах природно-географического объекта;1;1;from
+Q1377930;Loch Indaal;код Freebase;1;1;from
+Q1377930;Loch Indaal;географические координаты;1;1;from
+Q1377930;Loch Indaal;категория на Викискладе;1;1;from
+Q1377930;Loch Indaal;код GeoNames;1;1;from
+Q1377930;Loch Indaal;это частный случай понятия;1;1;from
+Q1377930;Loch Indaal;изображение;1;1;from
+Q1377930;Loch Indaal;государство;1;1;from
+Q1377930;Loch Indaal;административно-территориальная единица;1;1;from
+Q1246011;Dornoch Firth;местонахождение;1;2;to
+Q1246011;Dornoch Firth;проходит над/под;1;1;to
+Q1246011;Dornoch Firth;Gazetteer for Scotland place ID;1;2;from
+Q1246011;Dornoch Firth;код Freebase;1;1;from
+Q1246011;Dornoch Firth;географические координаты;1;1;from
+Q1246011;Dornoch Firth;категория на Викискладе;1;1;from
+Q1246011;Dornoch Firth;код GeoNames;1;1;from
+Q1246011;Dornoch Firth;статус наследия;1;1;from
+Q1246011;Dornoch Firth;это частный случай понятия;1;2;from
+Q1246011;Dornoch Firth;код VIAF;1;1;from
+Q1246011;Dornoch Firth;изображение;1;1;from
+Q1246011;Dornoch Firth;государство;1;1;from
+Q1246011;Dornoch Firth;административно-территориальная единица;1;1;from
+Q1444234;Loch Torridon;это частный случай понятия;1;1;from
+Q1444234;Loch Torridon;код GeoNames;1;1;from
+Q1630900;Loch Gruinart;это частный случай понятия;1;1;from
+Q1444234;Loch Torridon;категория на Викискладе;1;1;from
+Q1630900;Loch Gruinart;изображение;1;1;from
+Q1630900;Loch Gruinart;государство;1;1;from
+Q1630900;Loch Gruinart;административно-территориальная единица;1;1;from
+Q1625344;Holy Loch;впадает в;1;1;to
+Q1625344;Holy Loch;Gazetteer for Scotland place ID;1;2;from
+Q1625344;Holy Loch;код Freebase;1;1;from
+Q1625344;Holy Loch;географические координаты;1;1;from
+Q1625344;Holy Loch;категория на Викискладе;1;1;from
+Q1625344;Holy Loch;код GeoNames;1;1;from
+Q1625344;Holy Loch;код US National Archives;1;1;from
+Q1625344;Holy Loch;это частный случай понятия;1;1;from
+Q1625344;Holy Loch;государство;1;1;from
+Q1625344;Holy Loch;административно-территориальная единица;1;1;from
+Q1444742;Firth of Lorn;находится на берегу водоёма;1;23;to
+Q1444742;Firth of Lorn;Gazetteer for Scotland place ID;1;2;from
+Q1444742;Firth of Lorn;код Freebase;1;1;from
+Q1444742;Firth of Lorn;географические координаты;1;1;from
+Q1444742;Firth of Lorn;категория на Викискладе;1;1;from
+Q1444742;Firth of Lorn;код GeoNames;1;1;from
+Q1444742;Firth of Lorn;это частный случай понятия;1;1;from
+Q1444742;Firth of Lorn;код VIAF;1;1;from
+Q1444742;Firth of Lorn;изображение;1;1;from
+Q1444742;Firth of Lorn;государство;1;1;from
+Q1444742;Firth of Lorn;административно-территориальная единица;1;1;from
+Q1444234;Loch Torridon;Gazetteer for Scotland place ID;1;2;from
+Q1444234;Loch Torridon;географические координаты;1;1;from
+Q1444234;Loch Torridon;географический код Великобритании;1;1;from
+Q24643998;Greenan Loch;Gazetteer for Scotland place ID;1;2;from

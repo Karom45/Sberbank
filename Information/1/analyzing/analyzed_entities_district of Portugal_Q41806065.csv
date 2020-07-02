@@ -1,0 +1,733 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q207199;Lisbon District;административно-территориальная единица;1;179;to
+Q321455;Beja District;код LCNAF;1;1;from
+Q321455;Beja District;столица;1;1;from
+Q321455;Beja District;имеет границы с;1;7;to
+Q321455;Beja District;десятичная классификация Дьюи;1;1;from
+Q321455;Beja District;значение в OmegaWiki;1;1;from
+Q321455;Beja District;код в Большой каталанской энциклопедии;1;1;from
+Q321455;Beja District;категория для людей, родившихся здесь;1;1;from
+Q321455;Beja District;категория для людей, умерших здесь;1;1;from
+Q321455;Beja District;код GeoNames;1;1;from
+Q321455;Beja District;код TGN;1;1;from
+Q321455;Beja District;категория фильмов, снятых в этом месте;1;1;from
+Q321455;Beja District;категория для людей, связанных с местностью;1;1;from
+Q321455;Beja District;код BNF;1;1;from
+Q321455;Beja District;ISO 3166-2;1;1;from
+Q321455;Beja District;категория на Викискладе;1;1;from
+Q321455;Beja District;геоданные;1;1;from
+Q321455;Beja District;ID отношения в OpenStreetMap;1;1;from
+Q321455;Beja District;часовой пояс;1;1;from
+Q321455;Beja District;идентификатор местоположения ArchINFORM;1;1;from
+Q321455;Beja District;географические координаты;1;1;from
+Q321455;Beja District;это частный случай понятия;1;1;from
+Q321455;Beja District;карта местонахождения;1;1;from
+Q321455;Beja District;код Freebase;1;1;from
+Q321455;Beja District;код GND;1;1;from
+Q274118;Évora District;географические координаты;1;1;from
+Q274118;Évora District;INE ID (Portugal);1;1;from
+Q274118;Évora District;код Freebase;1;1;from
+Q274118;Évora District;Who's on First ID;1;1;from
+Q274118;Évora District;French Vikidia ID;1;1;from
+Q274118;Évora District;категория карт на Викискладе;1;1;from
+Q274118;Évora District;официальный сайт;1;1;from
+Q274118;Évora District;FIPS 10-4 (страны и регионы);1;1;from
+Q274118;Évora District;основная категория по теме;1;1;from
+Q274118;Évora District;место в MusicBrainz;1;1;from
+Q274118;Évora District;категория объединяет темы;1;5;to
+Q274118;Évora District;является столицей;1;1;to
+Q274118;Évora District;место смерти;1;1;to
+Q274118;Évora District;местонахождение;1;6;to
+Q274118;Évora District;общая тема категории;1;1;to
+Q321455;Beja District;административно-территориальная единица;1;553;to
+Q321455;Beja District;государство;1;1;from
+Q321455;Beja District;находится на берегу водоёма;1;1;from
+Q321455;Beja District;код VIAF;1;1;from
+Q321455;Beja District;INE ID (Portugal);1;1;from
+Q321455;Beja District;Who's on First ID;1;1;from
+Q274118;Évora District;часовой пояс;1;1;from
+Q322792;Porto District;десятичная классификация Дьюи;1;1;from
+Q322792;Porto District;код в Большой каталанской энциклопедии;1;1;from
+Q322792;Porto District;категория для людей, родившихся здесь;1;1;from
+Q322792;Porto District;категория для людей, умерших здесь;1;1;from
+Q322792;Porto District;код GeoNames;1;1;from
+Q322792;Porto District;категория фильмов, снятых в этом месте;1;1;from
+Q322792;Porto District;категория для людей, связанных с местностью;1;1;from
+Q322792;Porto District;площадь;1;1;from
+Q322792;Porto District;используемый язык;1;1;from
+Q322792;Porto District;ISO 3166-2;1;1;from
+Q322792;Porto District;категория на Викискладе;1;1;from
+Q322792;Porto District;геоданные;1;1;from
+Q322792;Porto District;ID отношения в OpenStreetMap;1;1;from
+Q322792;Porto District;часовой пояс;1;1;from
+Q322792;Porto District;идентификатор местоположения ArchINFORM;1;1;from
+Q322792;Porto District;географические координаты;1;1;from
+Q322792;Porto District;INE ID (Portugal);1;1;from
+Q322792;Porto District;код Freebase;1;1;from
+Q322792;Porto District;Who's on First ID;1;1;from
+Q322792;Porto District;категория карт на Викискладе;1;1;from
+Q322792;Porto District;значение в OmegaWiki;1;1;from
+Q322792;Porto District;имеет границы с;1;4;to
+Q321455;Beja District;French Vikidia ID;1;1;from
+Q322792;Porto District;столица;1;2;from
+Q321455;Beja District;категория карт на Викискладе;1;1;from
+Q321455;Beja District;официальный сайт;1;1;from
+Q321455;Beja District;FIPS 10-4 (страны и регионы);1;1;from
+Q321455;Beja District;основная категория по теме;1;1;from
+Q321455;Beja District;место в MusicBrainz;1;1;from
+Q321455;Beja District;административно делится на;1;1;to
+Q321455;Beja District;категория объединяет темы;1;5;to
+Q321455;Beja District;местонахождение;1;12;to
+Q321455;Beja District;является столицей;1;1;to
+Q321455;Beja District;место рождения;1;2;to
+Q321455;Beja District;общая тема категории;1;1;to
+Q322792;Porto District;административно-территориальная единица;1;98;to
+Q322792;Porto District;административно делится на;1;1;to
+Q322792;Porto District;государство;1;1;from
+Q322792;Porto District;код VIAF;1;1;from
+Q322792;Porto District;код GND;1;1;from
+Q322792;Porto District;карта местонахождения;1;2;from
+Q322792;Porto District;код LCNAF;1;1;from
+Q322792;Porto District;это частный случай понятия;1;1;from
+Q274118;Évora District;идентификатор местоположения ArchINFORM;1;1;from
+Q274118;Évora District;ID отношения в OpenStreetMap;1;1;from
+Q207199;Lisbon District;административно делится на;1;1;to
+Q273533;Guarda District;категория объединяет темы;1;4;to
+Q273533;Guarda District;местонахождение;1;5;to
+Q273533;Guarda District;является столицей;1;1;to
+Q273533;Guarda District;общая тема категории;1;1;to
+Q274109;Setúbal District;административно-территориальная единица;1;153;to
+Q274109;Setúbal District;административно делится на;1;1;to
+Q274109;Setúbal District;государство;1;1;from
+Q274109;Setúbal District;находится на берегу водоёма;1;1;from
+Q274109;Setúbal District;код VIAF;1;1;from
+Q274109;Setúbal District;код GND;1;1;from
+Q274109;Setúbal District;карта местонахождения;1;1;from
+Q274109;Setúbal District;код LCNAF;1;1;from
+Q274109;Setúbal District;это частный случай понятия;1;1;from
+Q274109;Setúbal District;столица;1;1;from
+Q274109;Setúbal District;имеет границы с;1;4;to
+Q274109;Setúbal District;десятичная классификация Дьюи;1;1;from
+Q274109;Setúbal District;численность населения;1;1;from
+Q274109;Setúbal District;код в Большой каталанской энциклопедии;1;1;from
+Q274109;Setúbal District;категория для людей, родившихся здесь;1;1;from
+Q274109;Setúbal District;код GeoNames;1;1;from
+Q273533;Guarda District;место рождения;1;3;to
+Q273533;Guarda District;административно делится на;1;1;to
+Q274109;Setúbal District;категория для людей, связанных с местностью;1;1;from
+Q273533;Guarda District;баннер Викигида;1;1;from
+Q273533;Guarda District;код GeoNames;1;1;from
+Q273533;Guarda District;категория фильмов, снятых в этом месте;1;1;from
+Q273533;Guarda District;категория для людей, связанных с местностью;1;1;from
+Q273533;Guarda District;код BNF;1;1;from
+Q273533;Guarda District;ISO 3166-2;1;1;from
+Q273533;Guarda District;категория на Викискладе;1;1;from
+Q273533;Guarda District;геоданные;1;1;from
+Q273533;Guarda District;ID отношения в OpenStreetMap;1;1;from
+Q273533;Guarda District;часовой пояс;1;1;from
+Q273533;Guarda District;идентификатор местоположения ArchINFORM;1;1;from
+Q273533;Guarda District;географические координаты;1;1;from
+Q273533;Guarda District;INE ID (Portugal);1;1;from
+Q273533;Guarda District;код Freebase;1;1;from
+Q273533;Guarda District;Who's on First ID;1;1;from
+Q273533;Guarda District;French Vikidia ID;1;1;from
+Q273533;Guarda District;категория карт на Викискладе;1;1;from
+Q273533;Guarda District;официальный сайт;1;1;from
+Q273533;Guarda District;FIPS 10-4 (страны и регионы);1;1;from
+Q273533;Guarda District;основная категория по теме;1;1;from
+Q274109;Setúbal District;категория фильмов, снятых в этом месте;1;1;from
+Q274109;Setúbal District;площадь;1;1;from
+Q274118;Évora District;геоданные;1;1;from
+Q274118;Évora District;административно-территориальная единица;1;78;to
+Q274118;Évora District;государство;1;1;from
+Q274118;Évora District;код VIAF;1;1;from
+Q274118;Évora District;код GND;1;1;from
+Q274118;Évora District;карта местонахождения;1;1;from
+Q274118;Évora District;код LCNAF;1;1;from
+Q274118;Évora District;это частный случай понятия;1;1;from
+Q274118;Évora District;столица;1;1;from
+Q274118;Évora District;имеет границы с;1;6;to
+Q274118;Évora District;десятичная классификация Дьюи;1;1;from
+Q274118;Évora District;значение в OmegaWiki;1;1;from
+Q274118;Évora District;код в Большой каталанской энциклопедии;1;1;from
+Q274118;Évora District;категория для людей, родившихся здесь;1;1;from
+Q274118;Évora District;код GeoNames;1;1;from
+Q274118;Évora District;категория фильмов, снятых в этом месте;1;1;from
+Q274118;Évora District;категория для людей, связанных с местностью;1;1;from
+Q274118;Évora District;код BNF;1;1;from
+Q274118;Évora District;ISO 3166-2;1;1;from
+Q274118;Évora District;часть от;1;1;from
+Q274118;Évora District;категория на Викискладе;1;1;from
+Q274118;Évora District;административно делится на;1;1;to
+Q274109;Setúbal District;зона обслуживания;1;1;to
+Q274109;Setúbal District;код BNF;1;1;from
+Q274109;Setúbal District;общая тема категории;1;1;to
+Q274109;Setúbal District;ISO 3166-2;1;1;from
+Q274109;Setúbal District;категория на Викискладе;1;1;from
+Q274109;Setúbal District;геоданные;1;1;from
+Q274109;Setúbal District;ID отношения в OpenStreetMap;1;1;from
+Q274109;Setúbal District;часовой пояс;1;1;from
+Q274109;Setúbal District;код тезауруса PACTOLS;1;1;from
+Q274109;Setúbal District;идентификатор местоположения ArchINFORM;1;1;from
+Q274109;Setúbal District;географические координаты;1;1;from
+Q274109;Setúbal District;INE ID (Portugal);1;1;from
+Q274109;Setúbal District;код Freebase;1;1;from
+Q274109;Setúbal District;Who's on First ID;1;1;from
+Q274109;Setúbal District;категория карт на Викискладе;1;1;from
+Q274109;Setúbal District;FIPS 10-4 (страны и регионы);1;1;from
+Q274109;Setúbal District;основная категория по теме;1;1;from
+Q274109;Setúbal District;место в MusicBrainz;1;1;from
+Q274109;Setúbal District;категория объединяет темы;1;5;to
+Q274109;Setúbal District;место съёмок;1;10;to
+Q274109;Setúbal District;местонахождение;1;20;to
+Q274109;Setúbal District;место рождения;1;1;to
+Q322792;Porto District;официальный сайт;1;1;from
+Q322792;Porto District;FIPS 10-4 (страны и регионы);1;1;from
+Q322792;Porto District;основная категория по теме;1;1;from
+Q373528;Bragança District;идентификатор местоположения ArchINFORM;1;1;from
+Q373528;Bragança District;INE ID (Portugal);1;1;from
+Q373528;Bragança District;код Freebase;1;1;from
+Q373528;Bragança District;Who's on First ID;1;1;from
+Q373528;Bragança District;French Vikidia ID;1;1;from
+Q373528;Bragança District;категория карт на Викискладе;1;1;from
+Q373528;Bragança District;официальный сайт;1;1;from
+Q373528;Bragança District;FIPS 10-4 (страны и регионы);1;1;from
+Q373528;Bragança District;основная категория по теме;1;1;from
+Q373528;Bragança District;категория объединяет темы;1;4;to
+Q373528;Bragança District;местонахождение;1;7;to
+Q373528;Bragança District;место рождения;1;4;to
+Q373528;Bragança District;является столицей;1;1;to
+Q373528;Bragança District;общая тема категории;1;1;to
+Q373528;Bragança District;происходит из;1;2;to
+Q379372;Vila Real District;административно-территориальная единица;1;122;to
+Q379372;Vila Real District;государство;1;1;from
+Q379372;Vila Real District;код VIAF;1;1;from
+Q379372;Vila Real District;код GND;1;1;from
+Q379372;Vila Real District;карта местонахождения;1;1;from
+Q373528;Bragança District;географические координаты;1;1;from
+Q373528;Bragança District;часовой пояс;1;1;from
+Q379372;Vila Real District;столица;1;1;from
+Q373528;Bragança District;ID отношения в OpenStreetMap;1;1;from
+Q373528;Bragança District;код GND;1;1;from
+Q373528;Bragança District;карта местонахождения;1;1;from
+Q373528;Bragança District;код LCNAF;1;1;from
+Q373528;Bragança District;это частный случай понятия;1;1;from
+Q373528;Bragança District;столица;1;1;from
+Q373528;Bragança District;имеет границы с;1;7;to
+Q373528;Bragança District;десятичная классификация Дьюи;1;1;from
+Q373528;Bragança District;код в Большой каталанской энциклопедии;1;1;from
+Q373528;Bragança District;категория для людей, родившихся здесь;1;1;from
+Q373528;Bragança District;код GeoNames;1;1;from
+Q373528;Bragança District;название на языке оригинала;1;1;from
+Q373528;Bragança District;категория фильмов, снятых в этом месте;1;1;from
+Q373528;Bragança District;категория для людей, связанных с местностью;1;1;from
+Q373528;Bragança District;код BabelNet;1;1;from
+Q373528;Bragança District;код BNF;1;1;from
+Q373528;Bragança District;используемый язык;1;2;from
+Q373528;Bragança District;ISO 3166-2;1;1;from
+Q373528;Bragança District;категория на Викискладе;1;1;from
+Q373528;Bragança District;геоданные;1;1;from
+Q379372;Vila Real District;это частный случай понятия;1;1;from
+Q379372;Vila Real District;имеет границы с;1;5;to
+Q322792;Porto District;место в MusicBrainz;1;1;from
+Q379372;Vila Real District;административно делится на;1;1;to
+Q379372;Vila Real District;местонахождение;1;3;to
+Q379372;Vila Real District;является столицей;1;1;to
+Q379372;Vila Real District;место рождения;1;1;to
+Q379372;Vila Real District;общая тема категории;1;1;to
+Q4348932;Ponta Delgada;государство;1;1;from
+Q4348932;Ponta Delgada;изображение;1;1;from
+Q4348932;Ponta Delgada;это частный случай понятия;1;1;from
+Q4348932;Ponta Delgada;географические координаты;1;1;from
+Q4348932;Ponta Delgada;код Freebase;1;1;from
+Q4412409;Horta;государство;1;1;from
+Q4412409;Horta;изображение;1;1;from
+Q4412409;Horta;это частный случай понятия;1;2;from
+Q4412409;Horta;географические координаты;1;1;from
+Q10267294;Angra do Heroísmo;государство;1;1;from
+Q10267294;Angra do Heroísmo;это частный случай понятия;1;2;from
+Q10267294;Angra do Heroísmo;площадь;1;1;from
+Q10267300;Lamego;государство;1;1;from
+Q10267300;Lamego;это частный случай понятия;1;2;from
+Q10267318;Funchal;государство;1;1;from
+Q379372;Vila Real District;категория объединяет темы;1;5;to
+Q379372;Vila Real District;место в MusicBrainz;1;1;from
+Q379372;Vila Real District;десятичная классификация Дьюи;1;1;from
+Q379372;Vila Real District;основная категория по теме;1;1;from
+Q379372;Vila Real District;значение в OmegaWiki;1;1;from
+Q379372;Vila Real District;категория для людей, родившихся здесь;1;1;from
+Q379372;Vila Real District;код GeoNames;1;1;from
+Q379372;Vila Real District;название на языке оригинала;1;1;from
+Q379372;Vila Real District;категория фильмов, снятых в этом месте;1;1;from
+Q379372;Vila Real District;категория для людей, связанных с местностью;1;1;from
+Q379372;Vila Real District;площадь;1;1;from
+Q379372;Vila Real District;ISO 3166-2;1;1;from
+Q379372;Vila Real District;категория на Викискладе;1;1;from
+Q379372;Vila Real District;геоданные;1;1;from
+Q379372;Vila Real District;ID отношения в OpenStreetMap;1;1;from
+Q379372;Vila Real District;часовой пояс;1;1;from
+Q379372;Vila Real District;идентификатор местоположения ArchINFORM;1;1;from
+Q379372;Vila Real District;географические координаты;1;1;from
+Q379372;Vila Real District;INE ID (Portugal);1;1;from
+Q379372;Vila Real District;код Freebase;1;1;from
+Q379372;Vila Real District;Who's on First ID;1;1;from
+Q379372;Vila Real District;категория карт на Викискладе;1;1;from
+Q379372;Vila Real District;FIPS 10-4 (страны и регионы);1;1;from
+Q373528;Bragança District;код VIAF;1;1;from
+Q373528;Bragança District;изображение;1;1;from
+Q373528;Bragança District;государство;1;1;from
+Q326203;Braga District;код в Большой каталанской энциклопедии;1;1;from
+Q326203;Braga District;категория для людей, умерших здесь;1;1;from
+Q326203;Braga District;код GeoNames;1;1;from
+Q326203;Braga District;название на языке оригинала;1;1;from
+Q326203;Braga District;категория фильмов, снятых в этом месте;1;1;from
+Q326203;Braga District;категория для людей, связанных с местностью;1;1;from
+Q326203;Braga District;код BabelNet;1;1;from
+Q326203;Braga District;код BNF;1;1;from
+Q326203;Braga District;категория на Викискладе;1;1;from
+Q326203;Braga District;геоданные;1;1;from
+Q326203;Braga District;ID отношения в OpenStreetMap;1;1;from
+Q326203;Braga District;часовой пояс;1;1;from
+Q326203;Braga District;идентификатор местоположения ArchINFORM;1;1;from
+Q326203;Braga District;географические координаты;1;1;from
+Q326203;Braga District;код Freebase;1;1;from
+Q326203;Braga District;Who's on First ID;1;1;from
+Q326203;Braga District;French Vikidia ID;1;1;from
+Q326203;Braga District;категория карт на Викискладе;1;1;from
+Q326203;Braga District;FIPS 10-4 (страны и регионы);1;1;from
+Q326203;Braga District;основная категория по теме;1;1;from
+Q326203;Braga District;категория для людей, родившихся здесь;1;1;from
+Q326203;Braga District;десятичная классификация Дьюи;1;1;from
+Q373528;Bragança District;административно делится на;1;1;to
+Q326203;Braga District;имеет границы с;1;4;to
+Q322792;Porto District;категория объединяет темы;1;5;to
+Q322792;Porto District;местонахождение;1;2;to
+Q322792;Porto District;место смерти;1;1;to
+Q322792;Porto District;место публикации;1;2;to
+Q322792;Porto District;место рождения;1;3;to
+Q322792;Porto District;является столицей;1;2;to
+Q322792;Porto District;происходит из;1;1;to
+Q322792;Porto District;общая тема категории;1;1;to
+Q326203;Braga District;административно-территориальная единица;1;96;to
+Q326203;Braga District;административно делится на;1;1;to
+Q326203;Braga District;государство;1;1;from
+Q326203;Braga District;изображение;1;1;from
+Q326203;Braga District;находится на берегу водоёма;1;1;from
+Q326203;Braga District;код VIAF;1;1;from
+Q326203;Braga District;код GND;1;1;from
+Q326203;Braga District;карта местонахождения;1;1;from
+Q326203;Braga District;код LCNAF;1;1;from
+Q326203;Braga District;это частный случай понятия;1;1;from
+Q326203;Braga District;столица;1;1;from
+Q326203;Braga District;место в MusicBrainz;1;1;from
+Q326203;Braga District;категория объединяет темы;1;6;to
+Q326203;Braga District;местонахождение;1;2;to
+Q326203;Braga District;место рождения;1;1;to
+Q326214;Viana do Castelo District;категория на Викискладе;1;1;from
+Q326214;Viana do Castelo District;геоданные;1;1;from
+Q326214;Viana do Castelo District;ID отношения в OpenStreetMap;1;1;from
+Q326214;Viana do Castelo District;идентификатор местоположения ArchINFORM;1;1;from
+Q326214;Viana do Castelo District;географические координаты;1;1;from
+Q326214;Viana do Castelo District;INE ID (Portugal);1;1;from
+Q326214;Viana do Castelo District;код Freebase;1;1;from
+Q326214;Viana do Castelo District;Who's on First ID;1;1;from
+Q326214;Viana do Castelo District;категория карт на Викискладе;1;1;from
+Q326214;Viana do Castelo District;официальный сайт;1;1;from
+Q326214;Viana do Castelo District;FIPS 10-4 (страны и регионы);1;1;from
+Q326214;Viana do Castelo District;основная категория по теме;1;1;from
+Q326214;Viana do Castelo District;место в MusicBrainz;1;1;from
+Q326214;Viana do Castelo District;административно делится на;1;1;to
+Q326214;Viana do Castelo District;категория объединяет темы;1;5;to
+Q326214;Viana do Castelo District;место рождения;1;1;to
+Q326214;Viana do Castelo District;местонахождение;1;11;to
+Q326214;Viana do Castelo District;общая тема категории;1;1;to
+Q373528;Bragança District;административно-территориальная единица;1;138;to
+Q326214;Viana do Castelo District;ISO 3166-2;1;1;from
+Q326214;Viana do Castelo District;код BNF;1;1;from
+Q326214;Viana do Castelo District;категория для людей, связанных с местностью;1;1;from
+Q326214;Viana do Castelo District;код LCNAF;1;1;from
+Q326203;Braga District;общая тема категории;1;1;to
+Q326203;Braga District;является столицей;1;1;to
+Q326214;Viana do Castelo District;административно-территориальная единица;1;55;to
+Q326214;Viana do Castelo District;государство;1;1;from
+Q326214;Viana do Castelo District;находится на берегу водоёма;1;1;from
+Q326214;Viana do Castelo District;код VIAF;1;1;from
+Q326214;Viana do Castelo District;код GND;1;1;from
+Q326214;Viana do Castelo District;карта местонахождения;1;1;from
+Q326214;Viana do Castelo District;это частный случай понятия;1;1;from
+Q326214;Viana do Castelo District;категория фильмов, снятых в этом месте;1;1;from
+Q326214;Viana do Castelo District;столица;1;1;from
+Q326214;Viana do Castelo District;имеет границы с;1;3;to
+Q326214;Viana do Castelo District;десятичная классификация Дьюи;1;1;from
+Q326214;Viana do Castelo District;код в Большой каталанской энциклопедии;1;1;from
+Q326214;Viana do Castelo District;является столицей;1;1;to
+Q326214;Viana do Castelo District;категория для людей, родившихся здесь;1;1;from
+Q326214;Viana do Castelo District;категория для людей, умерших здесь;1;1;from
+Q326214;Viana do Castelo District;код GeoNames;1;1;from
+Q273533;Guarda District;категория для людей, родившихся здесь;1;1;from
+Q273533;Guarda District;код в Большой каталанской энциклопедии;1;1;from
+Q273533;Guarda District;десятичная классификация Дьюи;1;1;from
+Q225189;Portalegre District;административно делится на;1;1;to
+Q225189;Portalegre District;названо в честь;1;1;to
+Q225189;Portalegre District;местонахождение;1;10;to
+Q225189;Portalegre District;место рождения;1;2;to
+Q225189;Portalegre District;является столицей;1;1;to
+Q225189;Portalegre District;общая тема категории;1;1;to
+Q244510;Santarém District;административно-территориальная единица;1;115;to
+Q244510;Santarém District;государство;1;1;from
+Q244510;Santarém District;код VIAF;1;1;from
+Q244510;Santarém District;код GND;1;1;from
+Q244510;Santarém District;карта местонахождения;1;1;from
+Q244510;Santarém District;код LCNAF;1;1;from
+Q244510;Santarém District;это частный случай понятия;1;1;from
+Q244510;Santarém District;столица;1;1;from
+Q244510;Santarém District;имеет границы с;1;6;to
+Q244510;Santarém District;десятичная классификация Дьюи;1;1;from
+Q244510;Santarém District;код в Большой каталанской энциклопедии;1;1;from
+Q244510;Santarém District;категория для людей, родившихся здесь;1;1;from
+Q244510;Santarém District;код GeoNames;1;1;from
+Q244510;Santarém District;категория фильмов, снятых в этом месте;1;1;from
+Q225189;Portalegre District;категория объединяет темы;1;4;to
+Q225189;Portalegre District;основная категория по теме;1;1;from
+Q244510;Santarém District;категория для людей, связанных с местностью;1;1;from
+Q225189;Portalegre District;FIPS 10-4 (страны и регионы);1;1;from
+Q225189;Portalegre District;десятичная классификация Дьюи;1;1;from
+Q225189;Portalegre District;код в Большой каталанской энциклопедии;1;1;from
+Q225189;Portalegre District;категория для людей, родившихся здесь;1;1;from
+Q225189;Portalegre District;код GeoNames;1;1;from
+Q225189;Portalegre District;категория фильмов, снятых в этом месте;1;1;from
+Q225189;Portalegre District;категория для людей, связанных с местностью;1;1;from
+Q225189;Portalegre District;площадь;1;1;from
+Q225189;Portalegre District;ISO 3166-2;1;1;from
+Q225189;Portalegre District;категория на Викискладе;1;1;from
+Q225189;Portalegre District;геоданные;1;1;from
+Q225189;Portalegre District;ID отношения в OpenStreetMap;1;1;from
+Q225189;Portalegre District;идентификатор местоположения ArchINFORM;1;1;from
+Q225189;Portalegre District;географические координаты;1;1;from
+Q225189;Portalegre District;INE ID (Portugal);1;1;from
+Q225189;Portalegre District;код Freebase;1;1;from
+Q225189;Portalegre District;Who's on First ID;1;1;from
+Q225189;Portalegre District;French Vikidia ID;1;1;from
+Q225189;Portalegre District;категория карт на Викискладе;1;1;from
+Q225189;Portalegre District;официальный сайт;1;1;from
+Q244510;Santarém District;категория для людей, похороненных здесь;1;1;from
+Q244510;Santarém District;площадь;1;1;from
+Q244512;Leiria District;категория на Викискладе;1;1;from
+Q244510;Santarém District;место смерти;1;1;to
+Q244510;Santarém District;общая тема категории;1;1;to
+Q244510;Santarém District;происходит из;1;1;to
+Q244512;Leiria District;административно-территориальная единица;1;126;to
+Q244512;Leiria District;государство;1;1;from
+Q244512;Leiria District;находится на берегу водоёма;1;1;from
+Q244512;Leiria District;код VIAF;1;1;from
+Q244512;Leiria District;код GND;1;1;from
+Q244512;Leiria District;карта местонахождения;1;1;from
+Q244512;Leiria District;это частный случай понятия;1;1;from
+Q244512;Leiria District;столица;1;1;from
+Q244512;Leiria District;имеет границы с;1;4;to
+Q244512;Leiria District;десятичная классификация Дьюи;1;1;from
+Q244512;Leiria District;код в Большой каталанской энциклопедии;1;1;from
+Q244512;Leiria District;категория для людей, родившихся здесь;1;1;from
+Q244512;Leiria District;код GeoNames;1;1;from
+Q244512;Leiria District;категория фильмов, снятых в этом месте;1;1;from
+Q244512;Leiria District;категория для людей, связанных с местностью;1;1;from
+Q244512;Leiria District;код BNF;1;1;from
+Q244512;Leiria District;используемый язык;1;1;from
+Q244510;Santarém District;является столицей;1;1;to
+Q244510;Santarém District;местонахождение;1;9;to
+Q244510;Santarém District;используемый язык;1;1;from
+Q244510;Santarém District;место рождения;1;3;to
+Q244510;Santarém District;ISO 3166-2;1;1;from
+Q244510;Santarém District;категория на Викискладе;1;1;from
+Q244510;Santarém District;геоданные;1;1;from
+Q244510;Santarém District;ID отношения в OpenStreetMap;1;1;from
+Q244510;Santarém District;часовой пояс;1;1;from
+Q244510;Santarém District;код тезауруса PACTOLS;1;1;from
+Q244510;Santarém District;идентификатор местоположения ArchINFORM;1;1;from
+Q244510;Santarém District;географические координаты;1;1;from
+Q244510;Santarém District;INE ID (Portugal);1;1;from
+Q244510;Santarém District;код Freebase;1;1;from
+Q244510;Santarém District;Who's on First ID;1;1;from
+Q244510;Santarém District;код NKC;1;1;from
+Q244510;Santarém District;категория карт на Викискладе;1;1;from
+Q244510;Santarém District;официальный сайт;1;1;from
+Q244510;Santarém District;FIPS 10-4 (страны и регионы);1;1;from
+Q244510;Santarém District;основная категория по теме;1;1;from
+Q244510;Santarém District;место в MusicBrainz;1;1;from
+Q244510;Santarém District;административно делится на;1;1;to
+Q244510;Santarém District;категория объединяет темы;1;6;to
+Q225189;Portalegre District;имеет границы с;1;6;to
+Q225189;Portalegre District;столица;1;1;from
+Q225189;Portalegre District;это частный случай понятия;1;1;from
+Q207199;Lisbon District;категория на Викискладе;1;1;from
+Q207199;Lisbon District;ID отношения в OpenStreetMap;1;1;from
+Q207199;Lisbon District;часовой пояс;1;1;from
+Q207199;Lisbon District;идентификатор местоположения ArchINFORM;1;1;from
+Q207199;Lisbon District;географические координаты;1;1;from
+Q207199;Lisbon District;INE ID (Portugal);1;1;from
+Q207199;Lisbon District;код Freebase;1;1;from
+Q207199;Lisbon District;Who's on First ID;1;1;from
+Q207199;Lisbon District;French Vikidia ID;1;1;from
+Q207199;Lisbon District;категория карт на Викискладе;1;1;from
+Q207199;Lisbon District;FIPS 10-4 (страны и регионы);1;1;from
+Q207199;Lisbon District;основная категория по теме;1;1;from
+Q207199;Lisbon District;место в MusicBrainz;1;1;from
+Q207199;Lisbon District;категория объединяет темы;1;6;to
+Q207199;Lisbon District;место погребения;1;1;to
+Q207199;Lisbon District;местонахождение;1;5;to
+Q207199;Lisbon District;общая тема категории;1;1;to
+Q207199;Lisbon District;является столицей;1;1;to
+Q210527;Aveiro District;административно-территориальная единица;1;94;to
+Q210527;Aveiro District;государство;1;1;from
+Q207199;Lisbon District;геоданные;1;1;from
+Q207199;Lisbon District;занимает ту же территорию с;1;1;to
+Q225189;Portalegre District;код LCNAF;1;1;from
+Q207199;Lisbon District;ISO 3166-2;1;1;from
+Q207199;Lisbon District;государство;1;1;from
+Q207199;Lisbon District;код VIAF;1;1;from
+Q207199;Lisbon District;код GND;1;1;from
+Q207199;Lisbon District;карта местонахождения;1;1;from
+Q207199;Lisbon District;это частный случай понятия;1;1;from
+Q207199;Lisbon District;столица;1;1;from
+Q207199;Lisbon District;имеет границы с;1;3;to
+Q207199;Lisbon District;десятичная классификация Дьюи;1;1;from
+Q207199;Lisbon District;численность населения;1;1;from
+Q207199;Lisbon District;код в Большой каталанской энциклопедии;1;1;from
+Q207199;Lisbon District;категория для людей, родившихся здесь;1;1;from
+Q207199;Lisbon District;категория для людей, умерших здесь;1;1;from
+Q207199;Lisbon District;код GeoNames;1;1;from
+Q207199;Lisbon District;код TGN;1;1;from
+Q207199;Lisbon District;категория фильмов, снятых в этом месте;1;1;from
+Q207199;Lisbon District;категория для людей, похороненных здесь;1;1;from
+Q207199;Lisbon District;категория для людей, связанных с местностью;1;1;from
+Q207199;Lisbon District;площадь;1;1;from
+Q207199;Lisbon District;код BNF;1;1;from
+Q210527;Aveiro District;находится на берегу водоёма;1;1;from
+Q210527;Aveiro District;код VIAF;1;1;from
+Q210527;Aveiro District;код GND;1;1;from
+Q210527;Aveiro District;карта местонахождения;1;1;from
+Q210527;Aveiro District;Who's on First ID;1;1;from
+Q210527;Aveiro District;French Vikidia ID;1;1;from
+Q210527;Aveiro District;категория карт на Викискладе;1;1;from
+Q210527;Aveiro District;официальный сайт;1;1;from
+Q210527;Aveiro District;FIPS 10-4 (страны и регионы);1;1;from
+Q210527;Aveiro District;основная категория по теме;1;1;from
+Q210527;Aveiro District;место в MusicBrainz;1;1;from
+Q210527;Aveiro District;пример использования свойства;1;1;to
+Q210527;Aveiro District;административно делится на;1;1;to
+Q210527;Aveiro District;категория объединяет темы;1;6;to
+Q210527;Aveiro District;место рождения;1;1;to
+Q210527;Aveiro District;местонахождение;1;13;to
+Q210527;Aveiro District;является столицей;1;1;to
+Q210527;Aveiro District;общая тема категории;1;1;to
+Q225189;Portalegre District;административно-территориальная единица;1;82;to
+Q225189;Portalegre District;государство;1;1;from
+Q225189;Portalegre District;код VIAF;1;1;from
+Q225189;Portalegre District;код GND;1;1;from
+Q225189;Portalegre District;карта местонахождения;1;1;from
+Q210527;Aveiro District;код Freebase;1;1;from
+Q210527;Aveiro District;INE ID (Portugal);1;1;from
+Q210527;Aveiro District;географические координаты;1;1;from
+Q210527;Aveiro District;категория для людей, умерших здесь;1;1;from
+Q210527;Aveiro District;код LCNAF;1;1;from
+Q210527;Aveiro District;это частный случай понятия;1;1;from
+Q210527;Aveiro District;столица;1;1;from
+Q210527;Aveiro District;имеет границы с;1;3;to
+Q210527;Aveiro District;десятичная классификация Дьюи;1;1;from
+Q210527;Aveiro District;значение в OmegaWiki;1;1;from
+Q210527;Aveiro District;код в Большой каталанской энциклопедии;1;1;from
+Q210527;Aveiro District;категория для людей, родившихся здесь;1;1;from
+Q210527;Aveiro District;код GeoNames;1;1;from
+Q210527;Aveiro District;идентификатор местоположения ArchINFORM;1;1;from
+Q210527;Aveiro District;категория фильмов, снятых в этом месте;1;1;from
+Q210527;Aveiro District;категория для людей, связанных с местностью;1;1;from
+Q210527;Aveiro District;код BNF;1;1;from
+Q210527;Aveiro District;ISO 3166-2;1;1;from
+Q210527;Aveiro District;категория на Викискладе;1;1;from
+Q210527;Aveiro District;геоданные;1;1;from
+Q210527;Aveiro District;ID отношения в OpenStreetMap;1;1;from
+Q210527;Aveiro District;часовой пояс;1;1;from
+Q244512;Leiria District;ISO 3166-2;1;1;from
+Q244512;Leiria District;геоданные;1;1;from
+Q273533;Guarda District;имеет границы с;1;5;to
+Q273525;Viseu District;ISO 3166-2;1;1;from
+Q273525;Viseu District;геоданные;1;1;from
+Q273525;Viseu District;ID отношения в OpenStreetMap;1;1;from
+Q273525;Viseu District;часовой пояс;1;1;from
+Q273525;Viseu District;идентификатор местоположения ArchINFORM;1;1;from
+Q273525;Viseu District;географические координаты;1;1;from
+Q273525;Viseu District;INE ID (Portugal);1;1;from
+Q273525;Viseu District;код Freebase;1;1;from
+Q273525;Viseu District;Who's on First ID;1;1;from
+Q273525;Viseu District;French Vikidia ID;1;1;from
+Q273525;Viseu District;категория карт на Викискладе;1;1;from
+Q273525;Viseu District;FIPS 10-4 (страны и регионы);1;1;from
+Q273525;Viseu District;основная категория по теме;1;1;from
+Q273525;Viseu District;место в MusicBrainz;1;1;from
+Q273525;Viseu District;административно делится на;1;1;to
+Q273525;Viseu District;категория объединяет темы;1;5;to
+Q273525;Viseu District;местонахождение;1;5;to
+Q273525;Viseu District;место рождения;1;2;to
+Q273525;Viseu District;общая тема категории;1;1;to
+Q273525;Viseu District;обслуживаемый город;1;1;to
+Q273525;Viseu District;категория на Викискладе;1;1;from
+Q273525;Viseu District;код BNF;1;1;from
+Q273529;Castelo Branco District;государство;1;1;from
+Q273525;Viseu District;категория для людей, связанных с местностью;1;1;from
+Q244521;Faro District;категория объединяет темы;1;5;to
+Q244521;Faro District;местонахождение;1;25;to
+Q244521;Faro District;изображённый объект;1;1;to
+Q244521;Faro District;общая тема категории;1;1;to
+Q273525;Viseu District;административно-территориальная единица;1;88;to
+Q273525;Viseu District;государство;1;1;from
+Q273525;Viseu District;код VIAF;1;1;from
+Q273525;Viseu District;код GND;1;1;from
+Q273525;Viseu District;карта местонахождения;1;1;from
+Q273525;Viseu District;код LCNAF;1;1;from
+Q273525;Viseu District;это частный случай понятия;1;1;from
+Q273525;Viseu District;столица;1;1;from
+Q273525;Viseu District;имеет границы с;1;6;to
+Q273525;Viseu District;десятичная классификация Дьюи;1;1;from
+Q273525;Viseu District;значение в OmegaWiki;1;1;from
+Q273525;Viseu District;код в Большой каталанской энциклопедии;1;1;from
+Q273525;Viseu District;категория для людей, родившихся здесь;1;1;from
+Q273525;Viseu District;код GeoNames;1;1;from
+Q273525;Viseu District;категория фильмов, снятых в этом месте;1;1;from
+Q273529;Castelo Branco District;административно-территориальная единица;1;95;to
+Q273529;Castelo Branco District;код VIAF;1;1;from
+Q244512;Leiria District;ID отношения в OpenStreetMap;1;1;from
+Q273529;Castelo Branco District;Who's on First ID;1;1;from
+Q273529;Castelo Branco District;категория карт на Викискладе;1;1;from
+Q273529;Castelo Branco District;официальный сайт;1;1;from
+Q273529;Castelo Branco District;FIPS 10-4 (страны и регионы);1;1;from
+Q273529;Castelo Branco District;основная категория по теме;1;1;from
+Q273529;Castelo Branco District;место в MusicBrainz;1;1;from
+Q273529;Castelo Branco District;административно делится на;1;1;to
+Q273529;Castelo Branco District;категория объединяет темы;1;4;to
+Q273529;Castelo Branco District;место рождения;1;2;to
+Q273529;Castelo Branco District;местонахождение;1;5;to
+Q273529;Castelo Branco District;является столицей;1;1;to
+Q273529;Castelo Branco District;общая тема категории;1;1;to
+Q273533;Guarda District;административно-территориальная единица;1;63;to
+Q273533;Guarda District;государство;1;1;from
+Q273533;Guarda District;код VIAF;1;1;from
+Q273533;Guarda District;код GND;1;1;from
+Q273533;Guarda District;карта местонахождения;1;1;from
+Q273533;Guarda District;код LCNAF;1;1;from
+Q273533;Guarda District;это частный случай понятия;1;1;from
+Q273533;Guarda District;столица;1;1;from
+Q273529;Castelo Branco District;French Vikidia ID;1;1;from
+Q273529;Castelo Branco District;код Freebase;1;1;from
+Q273529;Castelo Branco District;код GND;1;1;from
+Q273529;Castelo Branco District;INE ID (Portugal);1;1;from
+Q273529;Castelo Branco District;карта местонахождения;1;1;from
+Q273529;Castelo Branco District;код LCNAF;1;1;from
+Q273529;Castelo Branco District;это частный случай понятия;1;1;from
+Q273529;Castelo Branco District;столица;1;1;from
+Q273529;Castelo Branco District;имеет границы с;1;6;to
+Q273529;Castelo Branco District;десятичная классификация Дьюи;1;1;from
+Q273529;Castelo Branco District;код в Большой каталанской энциклопедии;1;1;from
+Q273529;Castelo Branco District;категория для людей, родившихся здесь;1;1;from
+Q273529;Castelo Branco District;код GeoNames;1;1;from
+Q273529;Castelo Branco District;категория фильмов, снятых в этом месте;1;1;from
+Q273529;Castelo Branco District;категория для людей, связанных с местностью;1;1;from
+Q273529;Castelo Branco District;код BNF;1;1;from
+Q273529;Castelo Branco District;ISO 3166-2;1;1;from
+Q273529;Castelo Branco District;категория на Викискладе;1;1;from
+Q273529;Castelo Branco District;геоданные;1;1;from
+Q273529;Castelo Branco District;ID отношения в OpenStreetMap;1;1;from
+Q273529;Castelo Branco District;часовой пояс;1;1;from
+Q273529;Castelo Branco District;идентификатор местоположения ArchINFORM;1;1;from
+Q273529;Castelo Branco District;географические координаты;1;1;from
+Q244521;Faro District;административно делится на;1;1;to
+Q244521;Faro District;место в MusicBrainz;1;1;from
+Q244521;Faro District;основная категория по теме;1;1;from
+Q244517;Coimbra District;изображение;1;1;from
+Q244517;Coimbra District;код VIAF;1;1;from
+Q244517;Coimbra District;карта местонахождения;1;1;from
+Q244517;Coimbra District;код LCNAF;1;1;from
+Q244517;Coimbra District;это частный случай понятия;1;1;from
+Q244517;Coimbra District;столица;1;1;from
+Q244517;Coimbra District;имеет границы с;1;5;to
+Q244517;Coimbra District;десятичная классификация Дьюи;1;1;from
+Q244517;Coimbra District;код в Большой каталанской энциклопедии;1;1;from
+Q244517;Coimbra District;категория для людей, родившихся здесь;1;1;from
+Q244517;Coimbra District;код GeoNames;1;1;from
+Q244517;Coimbra District;категория фильмов, снятых в этом месте;1;1;from
+Q244517;Coimbra District;категория для людей, связанных с местностью;1;1;from
+Q244517;Coimbra District;площадь;1;1;from
+Q244517;Coimbra District;ISO 3166-2;1;1;from
+Q244517;Coimbra District;категория на Викискладе;1;1;from
+Q244517;Coimbra District;геоданные;1;1;from
+Q244517;Coimbra District;ID отношения в OpenStreetMap;1;1;from
+Q244517;Coimbra District;часовой пояс;1;1;from
+Q244517;Coimbra District;идентификатор местоположения ArchINFORM;1;1;from
+Q244517;Coimbra District;находится на берегу водоёма;1;1;from
+Q244517;Coimbra District;государство;1;1;from
+Q244521;Faro District;FIPS 10-4 (страны и регионы);1;1;from
+Q244517;Coimbra District;административно-территориальная единица;1;104;to
+Q244512;Leiria District;часовой пояс;1;1;from
+Q244512;Leiria District;идентификатор местоположения ArchINFORM;1;1;from
+Q244512;Leiria District;географические координаты;1;1;from
+Q244512;Leiria District;INE ID (Portugal);1;1;from
+Q244512;Leiria District;код Freebase;1;1;from
+Q244512;Leiria District;Who's on First ID;1;1;from
+Q244512;Leiria District;код NKC;1;1;from
+Q244512;Leiria District;French Vikidia ID;1;1;from
+Q244512;Leiria District;категория карт на Викискладе;1;1;from
+Q244512;Leiria District;FIPS 10-4 (страны и регионы);1;1;from
+Q244512;Leiria District;основная категория по теме;1;1;from
+Q244512;Leiria District;место в MusicBrainz;1;1;from
+Q244512;Leiria District;административно делится на;1;1;to
+Q244512;Leiria District;категория объединяет темы;1;5;to
+Q244512;Leiria District;местонахождение;1;13;to
+Q244512;Leiria District;является столицей;1;1;to
+Q244512;Leiria District;место рождения;1;2;to
+Q244512;Leiria District;происходит из;1;1;to
+Q244512;Leiria District;общая тема категории;1;1;to
+Q244517;Coimbra District;географические координаты;1;1;from
+Q244517;Coimbra District;INE ID (Portugal);1;1;from
+Q244517;Coimbra District;код Freebase;1;1;from
+Q244517;Coimbra District;Who's on First ID;1;1;from
+Q244521;Faro District;категория для людей, родившихся здесь;1;1;from
+Q244521;Faro District;код GeoNames;1;1;from
+Q244521;Faro District;категория фильмов, снятых в этом месте;1;1;from
+Q244521;Faro District;категория для людей, связанных с местностью;1;1;from
+Q244521;Faro District;код BNF;1;1;from
+Q244521;Faro District;ISO 3166-2;1;1;from
+Q244521;Faro District;категория на Викискладе;1;1;from
+Q244521;Faro District;геоданные;1;1;from
+Q244521;Faro District;ID отношения в OpenStreetMap;1;1;from
+Q244521;Faro District;часовой пояс;1;1;from
+Q244521;Faro District;предположительно одно и то же с;1;2;to
+Q244521;Faro District;идентификатор местоположения ArchINFORM;1;1;from
+Q244521;Faro District;географические координаты;1;1;from
+Q244521;Faro District;INE ID (Portugal);1;1;from
+Q244521;Faro District;код Freebase;1;1;from
+Q244521;Faro District;Who's on First ID;1;1;from
+Q244521;Faro District;French Vikidia ID;1;1;from
+Q244521;Faro District;категория карт на Викискладе;1;1;from
+Q244521;Faro District;официальный сайт;1;1;from
+Q244521;Faro District;код в Большой каталанской энциклопедии;1;1;from
+Q244521;Faro District;десятичная классификация Дьюи;1;1;from
+Q244521;Faro District;имеет границы с;1;2;to
+Q244517;Coimbra District;место рождения;1;1;to
+Q244517;Coimbra District;French Vikidia ID;1;1;from
+Q244517;Coimbra District;категория карт на Викискладе;1;1;from
+Q244517;Coimbra District;FIPS 10-4 (страны и регионы);1;1;from
+Q244517;Coimbra District;основная категория по теме;1;1;from
+Q244517;Coimbra District;место в MusicBrainz;1;1;from
+Q244517;Coimbra District;административно делится на;1;1;to
+Q244517;Coimbra District;категория объединяет темы;1;5;to
+Q244517;Coimbra District;местонахождение;1;11;to
+Q244517;Coimbra District;общая тема категории;1;1;to
+Q244521;Faro District;столица;1;1;from
+Q244517;Coimbra District;является столицей;1;1;to
+Q244521;Faro District;административно-территориальная единица;1;497;to
+Q244521;Faro District;государство;1;1;from
+Q244521;Faro District;код VIAF;1;1;from
+Q244521;Faro District;код GND;1;1;from
+Q244521;Faro District;карта местонахождения;1;1;from
+Q244521;Faro District;код LCNAF;1;1;from
+Q244521;Faro District;это частный случай понятия;1;1;from
+Q10267318;Funchal;это частный случай понятия;1;2;from

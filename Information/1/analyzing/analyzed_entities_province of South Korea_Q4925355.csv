@@ -1,0 +1,419 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q20937;Gyeonggi Province;административно-территориальная единица;1;1200;to
+Q41157;North Jeolla Province;площадь;1;1;from
+Q41154;North Gyeongsang Province;расположение штаб-квартиры;1;1;to
+Q41154;North Gyeongsang Province;место рождения;1;34;to
+Q41154;North Gyeongsang Province;юрисдикция распространяется на;1;8;to
+Q41154;North Gyeongsang Province;dmoz;1;1;from
+Q41154;North Gyeongsang Province;место в MusicBrainz;1;1;from
+Q41154;North Gyeongsang Province;баннер Викигида;1;1;from
+Q41154;North Gyeongsang Province;галерея на Викискладе;1;1;from
+Q41154;North Gyeongsang Province;основная категория по теме;1;1;from
+Q41154;North Gyeongsang Province;FIPS 10-4 (страны и регионы);1;1;from
+Q41154;North Gyeongsang Province;официальный сайт;1;1;from
+Q41154;North Gyeongsang Province;категория карт на Викискладе;1;1;from
+Q41154;North Gyeongsang Province;French Vikidia ID;1;1;from
+Q41154;North Gyeongsang Province;Who's on First ID;1;1;from
+Q41154;North Gyeongsang Province;код Freebase;1;1;from
+Q41154;North Gyeongsang Province;географические координаты;1;1;from
+Q41154;North Gyeongsang Province;идентификатор местоположения ArchINFORM;1;1;from
+Q41154;North Gyeongsang Province;часовой пояс;1;1;from
+Q41154;North Gyeongsang Province;ID отношения в OpenStreetMap;1;1;from
+Q41154;North Gyeongsang Province;категория на Викискладе;1;1;from
+Q41154;North Gyeongsang Province;код NDL;1;1;from
+Q41154;North Gyeongsang Province;ISO 3166-2;1;1;from
+Q41154;North Gyeongsang Province;площадь;1;1;from
+Q41154;North Gyeongsang Province;категория для людей, связанных с местностью;1;1;from
+Q41154;North Gyeongsang Province;место съёмок;1;1;to
+Q41154;North Gyeongsang Province;местонахождение;1;2;to
+Q41154;North Gyeongsang Province;названо в честь;1;1;to
+Q41157;North Jeolla Province;это частный случай понятия;1;1;from
+Q41157;North Jeolla Province;учётная запись в Instagram;1;1;from
+Q41157;North Jeolla Province;учётная запись в Твиттере;1;1;from
+Q41157;North Jeolla Province;категория для людей, связанных с местностью;1;1;from
+Q41157;North Jeolla Province;официальный блог;1;1;from
+Q41157;North Jeolla Province;код GeoNames;1;1;from
+Q41157;North Jeolla Province;категория для людей, родившихся здесь;1;1;from
+Q41157;North Jeolla Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q41157;North Jeolla Province;должность главы правительства;1;1;from
+Q41157;North Jeolla Province;код в Большой каталанской энциклопедии;1;1;from
+Q41157;North Jeolla Province;столица;1;1;from
+Q41157;North Jeolla Province;карта местонахождения;1;2;from
+Q41154;North Gyeongsang Province;общая тема категории;1;1;to
+Q41157;North Jeolla Province;код ISNI;1;1;from
+Q41157;North Jeolla Province;исполнительная власть;1;1;from
+Q41157;North Jeolla Province;законодательный орган;1;1;from
+Q41157;North Jeolla Province;город-побратим;1;2;to
+Q41157;North Jeolla Province;государство;1;1;from
+Q41157;North Jeolla Province;административно-территориальная единица;1;486;to
+Q41154;North Gyeongsang Province;административно делится на;1;1;to
+Q41154;North Gyeongsang Province;является столицей;1;1;to
+Q41154;North Gyeongsang Province;часть от;1;2;to
+Q41154;North Gyeongsang Province;категория объединяет темы;1;4;to
+Q41154;North Gyeongsang Province;код TGN;1;1;from
+Q41154;North Gyeongsang Province;код GeoNames;1;1;from
+Q41154;North Gyeongsang Province;категория для людей, родившихся здесь;1;1;from
+Q41151;South Gyeongsang Province;часть от;1;4;to
+Q41151;South Gyeongsang Province;официальный сайт;1;4;from
+Q41151;South Gyeongsang Province;категория карт на Викискладе;1;1;from
+Q41151;South Gyeongsang Province;French Vikidia ID;1;1;from
+Q41151;South Gyeongsang Province;Who's on First ID;1;1;from
+Q41151;South Gyeongsang Province;код Freebase;1;1;from
+Q41151;South Gyeongsang Province;географические координаты;1;1;from
+Q41151;South Gyeongsang Province;идентификатор местоположения ArchINFORM;1;1;from
+Q41151;South Gyeongsang Province;часовой пояс;1;1;from
+Q41151;South Gyeongsang Province;ID отношения в OpenStreetMap;1;1;from
+Q41151;South Gyeongsang Province;категория на Викискладе;1;1;from
+Q41151;South Gyeongsang Province;код NDL;1;1;from
+Q41151;South Gyeongsang Province;основная категория по теме;1;1;from
+Q41151;South Gyeongsang Province;ISO 3166-2;1;1;from
+Q41151;South Gyeongsang Province;площадь;1;1;from
+Q41151;South Gyeongsang Province;категория для людей, связанных с местностью;1;1;from
+Q41151;South Gyeongsang Province;код GeoNames;1;1;from
+Q41151;South Gyeongsang Province;категория для людей, родившихся здесь;1;1;from
+Q41151;South Gyeongsang Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q41151;South Gyeongsang Province;должность главы правительства;1;1;from
+Q41151;South Gyeongsang Province;глава правительства;1;1;from
+Q41151;South Gyeongsang Province;столица;1;1;from
+Q41151;South Gyeongsang Province;это частный случай понятия;1;1;from
+Q41151;South Gyeongsang Province;FIPS 10-4 (страны и регионы);1;2;from
+Q41151;South Gyeongsang Province;галерея на Викискладе;1;1;from
+Q41154;North Gyeongsang Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q41151;South Gyeongsang Province;категория объединяет темы;1;5;to
+Q41154;North Gyeongsang Province;должность главы правительства;1;1;from
+Q41154;North Gyeongsang Province;имеет границы с;1;1;to
+Q41154;North Gyeongsang Province;столица;1;1;from
+Q41154;North Gyeongsang Province;это частный случай понятия;1;1;from
+Q41154;North Gyeongsang Province;карта местонахождения;1;2;from
+Q41154;North Gyeongsang Province;исполнительная власть;1;1;from
+Q41154;North Gyeongsang Province;законодательный орган;1;1;from
+Q41154;North Gyeongsang Province;город-побратим;1;1;to
+Q41154;North Gyeongsang Province;государство;1;1;from
+Q41154;North Gyeongsang Province;административно-территориальная единица;1;1037;to
+Q41151;South Gyeongsang Province;общая тема категории;1;1;to
+Q41151;South Gyeongsang Province;баннер Викигида;1;1;from
+Q41151;South Gyeongsang Province;место смерти;1;2;to
+Q41151;South Gyeongsang Province;владельцем является;1;1;to
+Q41151;South Gyeongsang Province;место съёмок;1;1;to
+Q41151;South Gyeongsang Province;является столицей;1;1;to
+Q41151;South Gyeongsang Province;названо в честь;1;1;to
+Q41151;South Gyeongsang Province;расположение штаб-квартиры;1;4;to
+Q41151;South Gyeongsang Province;место рождения;1;18;to
+Q41151;South Gyeongsang Province;юрисдикция распространяется на;1;8;to
+Q41151;South Gyeongsang Province;dmoz;1;1;from
+Q41151;South Gyeongsang Province;место в MusicBrainz;1;1;from
+Q41157;North Jeolla Province;учётная запись Facebook;1;1;from
+Q41157;North Jeolla Province;код канала YouTube;1;1;from
+Q20937;Gyeonggi Province;административно делится на;1;1;to
+Q41157;North Jeolla Province;ISO 3166-2;1;1;from
+Q2949547;Hwanghae Province;площадь;1;1;from
+Q2949547;Hwanghae Province;должность главы правительства;1;1;from
+Q2949547;Hwanghae Province;имеет границы с;1;2;from
+Q2949547;Hwanghae Province;изображение флага;1;1;from
+Q2949547;Hwanghae Province;столица;1;1;from
+Q2949547;Hwanghae Province;это частный случай понятия;1;1;from
+Q2949547;Hwanghae Province;карта местонахождения;1;1;from
+Q2949547;Hwanghae Province;государство;1;1;from
+Q41161;South Jeolla Province;административно делится на;1;1;to
+Q41161;South Jeolla Province;является столицей;1;1;to
+Q41161;South Jeolla Province;анклав в;1;1;to
+Q41161;South Jeolla Province;общая тема категории;1;1;to
+Q41161;South Jeolla Province;местонахождение;1;1;to
+Q41161;South Jeolla Province;расположение штаб-квартиры;1;1;to
+Q41161;South Jeolla Province;обслуживаемый город;1;1;to
+Q41161;South Jeolla Province;категория объединяет темы;1;5;to
+Q41161;South Jeolla Province;юрисдикция распространяется на;1;10;to
+Q41161;South Jeolla Province;место рождения;1;31;to
+Q41161;South Jeolla Province;dmoz;1;1;from
+Q41161;South Jeolla Province;место в MusicBrainz;1;1;from
+Q41161;South Jeolla Province;баннер Викигида;1;1;from
+Q41161;South Jeolla Province;основная категория по теме;1;1;from
+Q41161;South Jeolla Province;FIPS 10-4 (страны и регионы);1;1;from
+Q2949547;Hwanghae Province;официальный сайт;1;1;from
+Q2949547;Hwanghae Province;место рождения;1;1;to
+Q2949550;South Pyeongan Province;государство;1;1;from
+Q2949557;North Hamgyeong Province;место рождения;1;1;to
+Q7567410;South Hamgyeong Province;изображение флага;1;1;from
+Q7567410;South Hamgyeong Province;это частный случай понятия;1;1;from
+Q7567410;South Hamgyeong Province;карта местонахождения;1;1;from
+Q7567410;South Hamgyeong Province;государство;1;1;from
+Q2949560;North Pyeongan Province;код Freebase;1;1;from
+Q2949560;North Pyeongan Province;площадь;1;1;from
+Q2949560;North Pyeongan Province;изображение флага;1;1;from
+Q2949560;North Pyeongan Province;это частный случай понятия;1;1;from
+Q2949560;North Pyeongan Province;карта местонахождения;1;1;from
+Q2949560;North Pyeongan Province;государство;1;1;from
+Q2949557;North Hamgyeong Province;площадь;1;1;from
+Q2949550;South Pyeongan Province;карта местонахождения;1;1;from
+Q2949557;North Hamgyeong Province;изображение флага;1;1;from
+Q2949557;North Hamgyeong Province;это частный случай понятия;1;1;from
+Q2949557;North Hamgyeong Province;карта местонахождения;1;1;from
+Q2949557;North Hamgyeong Province;государство;1;1;from
+Q2949550;South Pyeongan Province;имеет границы с;1;1;to
+Q2949550;South Pyeongan Province;официальный сайт;1;1;from
+Q2949550;South Pyeongan Province;площадь;1;1;from
+Q2949550;South Pyeongan Province;изображение флага;1;1;from
+Q2949550;South Pyeongan Province;столица;1;1;from
+Q2949550;South Pyeongan Province;это частный случай понятия;1;1;from
+Q41161;South Jeolla Province;официальный сайт;1;1;from
+Q41161;South Jeolla Province;категория карт на Викискладе;1;1;from
+Q41161;South Jeolla Province;French Vikidia ID;1;1;from
+Q41157;North Jeolla Province;FIPS 10-4 (страны и регионы);1;1;from
+Q41157;North Jeolla Province;категория объединяет темы;1;5;to
+Q41157;North Jeolla Province;общая тема категории;1;1;to
+Q41157;North Jeolla Province;расположение штаб-квартиры;1;1;to
+Q41157;North Jeolla Province;местонахождение;1;1;to
+Q41157;North Jeolla Province;юрисдикция распространяется на;1;13;to
+Q41157;North Jeolla Province;место рождения;1;27;to
+Q41157;North Jeolla Province;dmoz;1;1;from
+Q41157;North Jeolla Province;место в MusicBrainz;1;1;from
+Q41157;North Jeolla Province;баннер Викигида;1;1;from
+Q41157;North Jeolla Province;основная категория по теме;1;1;from
+Q41157;North Jeolla Province;официальный сайт;1;1;from
+Q41157;North Jeolla Province;является столицей;1;1;to
+Q41157;North Jeolla Province;категория карт на Викискладе;1;1;from
+Q41157;North Jeolla Province;French Vikidia ID;1;1;from
+Q41157;North Jeolla Province;Who's on First ID;1;1;from
+Q41157;North Jeolla Province;код Freebase;1;1;from
+Q41157;North Jeolla Province;географические координаты;1;1;from
+Q41157;North Jeolla Province;часовой пояс;1;1;from
+Q41157;North Jeolla Province;ID отношения в OpenStreetMap;1;1;from
+Q41157;North Jeolla Province;категория на Викискладе;1;1;from
+Q41157;North Jeolla Province;идентификатор Ringgold;1;1;from
+Q41157;North Jeolla Province;код NDL;1;1;from
+Q41157;North Jeolla Province;часть от;1;1;to
+Q41157;North Jeolla Province;административно делится на;1;1;to
+Q41161;South Jeolla Province;Who's on First ID;1;1;from
+Q41161;South Jeolla Province;категория для людей, родившихся здесь;1;1;from
+Q41161;South Jeolla Province;код Freebase;1;1;from
+Q41161;South Jeolla Province;географические координаты;1;1;from
+Q41161;South Jeolla Province;часовой пояс;1;1;from
+Q41161;South Jeolla Province;ID отношения в OpenStreetMap;1;1;from
+Q41161;South Jeolla Province;категория на Викискладе;1;1;from
+Q41161;South Jeolla Province;код NDL;1;1;from
+Q41161;South Jeolla Province;ISO 3166-2;1;1;from
+Q41161;South Jeolla Province;площадь;1;1;from
+Q41161;South Jeolla Province;категория для людей, связанных с местностью;1;1;from
+Q41161;South Jeolla Province;код GeoNames;1;1;from
+Q41161;South Jeolla Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q41161;South Jeolla Province;административно-территориальная единица;1;1629;to
+Q41161;South Jeolla Province;должность главы правительства;1;1;from
+Q41161;South Jeolla Province;код в Большой каталанской энциклопедии;1;1;from
+Q41161;South Jeolla Province;столица;1;1;from
+Q41161;South Jeolla Province;это частный случай понятия;1;1;from
+Q41161;South Jeolla Province;карта местонахождения;1;2;from
+Q41161;South Jeolla Province;исполнительная власть;1;1;from
+Q41161;South Jeolla Province;законодательный орган;1;1;from
+Q41161;South Jeolla Province;город-побратим;1;2;to
+Q41161;South Jeolla Province;изображение;1;1;from
+Q41161;South Jeolla Province;государство;1;1;from
+Q41151;South Gyeongsang Province;карта местонахождения;1;2;from
+Q41151;South Gyeongsang Province;исполнительная власть;1;1;from
+Q41151;South Gyeongsang Province;законодательный орган;1;1;from
+Q41151;South Gyeongsang Province;город-побратим;1;3;to
+Q41066;North Chungcheong Province;имеет границы с;1;2;to
+Q41066;North Chungcheong Province;столица;1;1;from
+Q41066;North Chungcheong Province;это частный случай понятия;1;2;from
+Q41066;North Chungcheong Province;код LCNAF;1;1;from
+Q41066;North Chungcheong Province;карта местонахождения;1;2;from
+Q41066;North Chungcheong Province;код VIAF;1;1;from
+Q41066;North Chungcheong Province;исполнительная власть;1;1;from
+Q41066;North Chungcheong Province;законодательный орган;1;1;from
+Q41066;North Chungcheong Province;город-побратим;1;1;to
+Q41066;North Chungcheong Province;государство;1;1;from
+Q41066;North Chungcheong Province;административно-территориальная единица;1;2312;to
+Q20937;Gyeonggi Province;является столицей;1;1;to
+Q20937;Gyeonggi Province;история происходит в месте;1;1;to
+Q20937;Gyeonggi Province;общая тема категории;1;1;to
+Q20937;Gyeonggi Province;владельцем является;1;1;to
+Q20937;Gyeonggi Province;место жительства;1;1;to
+Q20937;Gyeonggi Province;местонахождение;1;3;to
+Q20937;Gyeonggi Province;категория объединяет темы;1;7;to
+Q20937;Gyeonggi Province;тематически относится к;1;1;to
+Q20937;Gyeonggi Province;названо в честь;1;1;to
+Q20937;Gyeonggi Province;место смерти;1;1;to
+Q20937;Gyeonggi Province;расположение штаб-квартиры;1;7;to
+Q20937;Gyeonggi Province;место рождения;1;71;to
+Q41066;North Chungcheong Province;код в Большой каталанской энциклопедии;1;1;from
+Q41066;North Chungcheong Province;должность главы правительства;1;1;from
+Q41066;North Chungcheong Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q41066;North Chungcheong Province;категория карт на Викискладе;1;1;from
+Q41066;North Chungcheong Province;общая тема категории;1;1;to
+Q41066;North Chungcheong Province;расположение штаб-квартиры;1;1;to
+Q41066;North Chungcheong Province;место рождения;1;18;to
+Q41066;North Chungcheong Province;юрисдикция распространяется на;1;10;to
+Q41066;North Chungcheong Province;dmoz;1;1;from
+Q41066;North Chungcheong Province;место в MusicBrainz;1;1;from
+Q41066;North Chungcheong Province;баннер Викигида;1;1;from
+Q41066;North Chungcheong Province;основная категория по теме;1;1;from
+Q41066;North Chungcheong Province;FIPS 10-4 (страны и регионы);1;1;from
+Q41066;North Chungcheong Province;официальный сайт;1;1;from
+Q41066;North Chungcheong Province;French Vikidia ID;1;1;from
+Q41066;North Chungcheong Province;категория для людей, родившихся здесь;1;1;from
+Q41066;North Chungcheong Province;Who's on First ID;1;1;from
+Q41066;North Chungcheong Province;код Freebase;1;1;from
+Q41066;North Chungcheong Province;географические координаты;1;1;from
+Q41066;North Chungcheong Province;ID отношения в OpenStreetMap;1;1;from
+Q41066;North Chungcheong Province;категория на Викискладе;1;1;from
+Q41066;North Chungcheong Province;код NDL;1;1;from
+Q41066;North Chungcheong Province;ISO 3166-2;1;1;from
+Q41066;North Chungcheong Province;площадь;1;1;from
+Q41066;North Chungcheong Province;категория для людей, связанных с местностью;1;1;from
+Q41066;North Chungcheong Province;код GeoNames;1;1;from
+Q20937;Gyeonggi Province;территория перекрывается с;1;1;to
+Q20937;Gyeonggi Province;юрисдикция распространяется на;1;13;to
+Q20937;Gyeonggi Province;dmoz;1;1;from
+Q20937;Gyeonggi Province;глава правительства;1;2;from
+Q20937;Gyeonggi Province;владеет;1;1;from
+Q20937;Gyeonggi Province;категория для людей, связанных с местностью;1;1;from
+Q20937;Gyeonggi Province;код TGN;1;1;from
+Q20937;Gyeonggi Province;официальный блог;1;1;from
+Q20937;Gyeonggi Province;код GeoNames;1;1;from
+Q20937;Gyeonggi Province;категория для людей, умерших здесь;1;1;from
+Q20937;Gyeonggi Province;категория для людей, родившихся здесь;1;1;from
+Q20937;Gyeonggi Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q20937;Gyeonggi Province;должность главы правительства;1;1;from
+Q20937;Gyeonggi Province;URL канала;1;1;from
+Q20937;Gyeonggi Province;имеет границы с;1;6;to
+Q20937;Gyeonggi Province;код места в Facebook;1;1;from
+Q20937;Gyeonggi Province;столица;1;1;from
+Q20937;Gyeonggi Province;это частный случай понятия;1;1;from
+Q20937;Gyeonggi Province;код LCNAF;1;1;from
+Q20937;Gyeonggi Province;карта местонахождения;1;2;from
+Q20937;Gyeonggi Province;код GND;1;1;from
+Q20937;Gyeonggi Province;код VIAF;1;2;from
+Q20937;Gyeonggi Province;исполнительная власть;1;1;from
+Q20937;Gyeonggi Province;законодательный орган;1;1;from
+Q20937;Gyeonggi Province;город-побратим;1;2;to
+Q20937;Gyeonggi Province;государство;1;1;from
+Q20937;Gyeonggi Province;не путать с;1;1;to
+Q20937;Gyeonggi Province;учётная запись в Твиттере;1;3;from
+Q20937;Gyeonggi Province;место в MusicBrainz;1;1;from
+Q20937;Gyeonggi Province;Australian War Memorial ID;1;1;from
+Q20937;Gyeonggi Province;код NLI;1;1;from
+Q20937;Gyeonggi Province;баннер Викигида;1;1;from
+Q20937;Gyeonggi Province;галерея на Викискладе;1;1;from
+Q20937;Gyeonggi Province;основная категория по теме;1;1;from
+Q20937;Gyeonggi Province;FIPS 10-4 (страны и регионы);1;1;from
+Q20937;Gyeonggi Province;официальный сайт;1;1;from
+Q20937;Gyeonggi Province;категория карт на Викискладе;1;1;from
+Q20937;Gyeonggi Province;French Vikidia ID;1;1;from
+Q20937;Gyeonggi Province;код NKC;1;1;from
+Q20937;Gyeonggi Province;Who's on First ID;1;1;from
+Q20937;Gyeonggi Province;код Freebase;1;1;from
+Q20937;Gyeonggi Province;учётная запись Facebook;1;1;from
+Q20937;Gyeonggi Province;географические координаты;1;1;from
+Q20937;Gyeonggi Province;идентификатор местоположения ArchINFORM;1;1;from
+Q20937;Gyeonggi Province;состоит из;1;1;to
+Q20937;Gyeonggi Province;часовой пояс;1;1;from
+Q20937;Gyeonggi Province;ID отношения в OpenStreetMap;1;1;from
+Q20937;Gyeonggi Province;категория на Викискладе;1;1;from
+Q20937;Gyeonggi Province;часть от;1;3;to
+Q20937;Gyeonggi Province;код NDL;1;1;from
+Q20937;Gyeonggi Province;ISO 3166-2;1;1;from
+Q20937;Gyeonggi Province;площадь;1;1;from
+Q41066;North Chungcheong Province;категория объединяет темы;1;4;to
+Q41066;North Chungcheong Province;место смерти;1;1;to
+Q41066;North Chungcheong Province;место жительства;1;1;to
+Q41071;Gangwon Province;учётная запись Facebook;1;1;from
+Q41071;Gangwon Province;Who's on First ID;1;1;from
+Q41071;Gangwon Province;код Freebase;1;1;from
+Q41071;Gangwon Province;географические координаты;1;1;from
+Q41071;Gangwon Province;часовой пояс;1;2;from
+Q41071;Gangwon Province;ID отношения в OpenStreetMap;1;1;from
+Q41071;Gangwon Province;категория на Викискладе;1;1;from
+Q41071;Gangwon Province;ISO 3166-2;1;1;from
+Q41071;Gangwon Province;учётная запись Google+;1;1;from
+Q41071;Gangwon Province;код канала YouTube;1;1;from
+Q41071;Gangwon Province;площадь;1;1;from
+Q41071;Gangwon Province;учётная запись в Твиттере;1;1;from
+Q41071;Gangwon Province;официальный сайт;1;1;from
+Q41071;Gangwon Province;категория для людей, связанных с местностью;1;1;from
+Q41071;Gangwon Province;код GeoNames;1;1;from
+Q41071;Gangwon Province;категория для людей, умерших здесь;1;1;from
+Q41071;Gangwon Province;категория для людей, родившихся здесь;1;1;from
+Q41071;Gangwon Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q41071;Gangwon Province;должность главы правительства;1;1;from
+Q41071;Gangwon Province;код US National Archives;1;1;from
+Q41071;Gangwon Province;глава правительства;1;1;from
+Q41071;Gangwon Province;имеет границы с;1;4;to
+Q41071;Gangwon Province;изображение флага;1;1;from
+Q41071;Gangwon Province;French Vikidia ID;1;1;from
+Q41071;Gangwon Province;FIPS 10-4 (страны и регионы);1;1;from
+Q41071;Gangwon Province;это частный случай понятия;1;1;from
+Q41071;Gangwon Province;категория объединяет темы;1;5;to
+Q41151;South Gyeongsang Province;изображение;1;1;from
+Q41151;South Gyeongsang Province;государство;1;1;from
+Q41151;South Gyeongsang Province;административно делится на;1;1;to
+Q41151;South Gyeongsang Province;административно-территориальная единица;1;1007;to
+Q41071;Gangwon Province;административно делится на;1;1;to
+Q41071;Gangwon Province;является столицей;1;1;to
+Q41071;Gangwon Province;общая тема категории;1;1;to
+Q41071;Gangwon Province;местонахождение;1;1;to
+Q41071;Gangwon Province;владельцем является;1;1;to
+Q41071;Gangwon Province;названо в честь;1;1;to
+Q41071;Gangwon Province;место смерти;1;3;to
+Q41071;Gangwon Province;основная категория по теме;1;1;from
+Q41071;Gangwon Province;расположение штаб-квартиры;1;4;to
+Q41071;Gangwon Province;город-побратим;1;1;to
+Q41071;Gangwon Province;место жительства;1;2;to
+Q41071;Gangwon Province;место рождения;1;35;to
+Q41071;Gangwon Province;юрисдикция распространяется на;1;12;to
+Q41071;Gangwon Province;dmoz;1;1;from
+Q41071;Gangwon Province;место в MusicBrainz;1;1;from
+Q41071;Gangwon Province;код NLI;1;1;from
+Q41071;Gangwon Province;баннер Викигида;1;1;from
+Q41071;Gangwon Province;галерея на Викискладе;1;1;from
+Q41071;Gangwon Province;столица;1;1;from
+Q41071;Gangwon Province;код LCNAF;1;1;from
+Q41066;North Chungcheong Province;часть от;1;1;to
+Q41070;South Chungcheong Province;имеет границы с;1;1;to
+Q41070;South Chungcheong Province;категория на Викискладе;1;1;from
+Q41070;South Chungcheong Province;код NDL;1;1;from
+Q41070;South Chungcheong Province;ISO 3166-2;1;1;from
+Q41070;South Chungcheong Province;площадь;1;1;from
+Q41070;South Chungcheong Province;категория для людей, связанных с местностью;1;1;from
+Q41070;South Chungcheong Province;название на языке оригинала;1;1;from
+Q41070;South Chungcheong Province;код GeoNames;1;1;from
+Q41070;South Chungcheong Province;категория для людей, родившихся здесь;1;1;from
+Q41070;South Chungcheong Province;должность главы правительства;1;1;from
+Q41070;South Chungcheong Province;код в Большой каталанской энциклопедии;1;1;from
+Q41070;South Chungcheong Province;столица;1;1;from
+Q41070;South Chungcheong Province;географические координаты;1;1;from
+Q41070;South Chungcheong Province;это частный случай понятия;1;1;from
+Q41070;South Chungcheong Province;карта местонахождения;1;2;from
+Q41070;South Chungcheong Province;исполнительная власть;1;1;from
+Q41070;South Chungcheong Province;законодательный орган;1;1;from
+Q41070;South Chungcheong Province;город-побратим;1;3;to
+Q41070;South Chungcheong Province;изображение;1;1;from
+Q41070;South Chungcheong Province;государство;1;1;from
+Q41070;South Chungcheong Province;административно-территориальная единица;1;1081;to
+Q41066;North Chungcheong Province;административно делится на;1;1;to
+Q41066;North Chungcheong Province;является столицей;1;1;to
+Q41070;South Chungcheong Province;ID отношения в OpenStreetMap;1;1;from
+Q41070;South Chungcheong Province;код Freebase;1;1;from
+Q41071;Gangwon Province;карта местонахождения;1;1;from
+Q41070;South Chungcheong Province;расположение штаб-квартиры;1;1;to
+Q41071;Gangwon Province;код VIAF;1;1;from
+Q41071;Gangwon Province;исполнительная власть;1;1;from
+Q41071;Gangwon Province;законодательный орган;1;1;from
+Q41071;Gangwon Province;изображение;1;1;from
+Q41071;Gangwon Province;государство;1;1;from
+Q41071;Gangwon Province;административно-территориальная единица;1;2105;to
+Q41070;South Chungcheong Province;административно делится на;1;1;to
+Q41070;South Chungcheong Province;является столицей;1;1;to
+Q41070;South Chungcheong Province;общая тема категории;1;1;to
+Q41070;South Chungcheong Province;категория объединяет темы;1;5;to
+Q41070;South Chungcheong Province;юрисдикция распространяется на;1;12;to
+Q41070;South Chungcheong Province;Who's on First ID;1;1;from
+Q41070;South Chungcheong Province;место смерти;1;1;to
+Q41070;South Chungcheong Province;место рождения;1;27;to
+Q41070;South Chungcheong Province;dmoz;1;1;from
+Q41070;South Chungcheong Province;место в MusicBrainz;1;1;from
+Q41070;South Chungcheong Province;баннер Викигида;1;1;from
+Q41070;South Chungcheong Province;основная категория по теме;1;1;from
+Q41070;South Chungcheong Province;FIPS 10-4 (страны и регионы);1;1;from
+Q41070;South Chungcheong Province;официальный сайт;1;1;from
+Q41070;South Chungcheong Province;категория карт на Викискладе;1;1;from
+Q41070;South Chungcheong Province;French Vikidia ID;1;1;from
+Q7567410;South Hamgyeong Province;площадь;1;1;from

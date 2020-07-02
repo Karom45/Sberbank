@@ -1,0 +1,459 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q167514;Logone Oriental Region;административно-территориальная единица;1;137;to
+Q893861;Borkou-Ennedi-Tibesti Region;FIPS 10-4 (страны и регионы);1;1;from
+Q893861;Borkou-Ennedi-Tibesti Region;дата прекращения существования;1;1;from
+Q893861;Borkou-Ennedi-Tibesti Region;площадь;1;1;from
+Q893861;Borkou-Ennedi-Tibesti Region;код TGN;1;1;from
+Q893861;Borkou-Ennedi-Tibesti Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q893861;Borkou-Ennedi-Tibesti Region;заменён на;1;3;from
+Q893861;Borkou-Ennedi-Tibesti Region;это частный случай понятия;1;1;from
+Q893861;Borkou-Ennedi-Tibesti Region;государство;1;1;from
+Q867869;Lac Region;является столицей;1;1;to
+Q867869;Lac Region;общая тема категории;1;1;to
+Q867869;Lac Region;происходит из;1;13;to
+Q867869;Lac Region;основная категория по теме;1;1;from
+Q867869;Lac Region;FIPS 10-4 (страны и регионы);1;1;from
+Q867869;Lac Region;Who's on First ID;1;1;from
+Q867869;Lac Region;код Freebase;1;1;from
+Q867869;Lac Region;географические координаты;1;1;from
+Q867869;Lac Region;ISO 3166-2;1;1;from
+Q867869;Lac Region;используемый язык;1;13;from
+Q867869;Lac Region;код BNF;1;1;from
+Q867869;Lac Region;код GeoNames;1;1;from
+Q867869;Lac Region;столица;1;1;from
+Q867869;Lac Region;это частный случай понятия;1;1;from
+Q867869;Lac Region;карта местонахождения;1;1;from
+Q867869;Lac Region;изображение;1;1;from
+Q867869;Lac Region;государство;1;1;from
+Q867869;Lac Region;административно делится на;1;1;to
+Q893861;Borkou-Ennedi-Tibesti Region;географические координаты;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;административно-территориальная единица;1;41;to
+Q911421;Mayo-Kebbi Est Region;код BNF;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;административно делится на;1;1;to
+Q911421;Mayo-Kebbi Est Region;столица;1;1;from
+Q911421;Mayo-Kebbi Est Region;это частный случай понятия;1;1;from
+Q911421;Mayo-Kebbi Est Region;карта местонахождения;1;1;from
+Q911421;Mayo-Kebbi Est Region;государство;1;1;from
+Q911421;Mayo-Kebbi Est Region;административно делится на;1;1;to
+Q911421;Mayo-Kebbi Est Region;административно-территориальная единица;1;31;to
+Q910393;Mayo-Kebbi Ouest Region;общая тема категории;1;1;to
+Q910393;Mayo-Kebbi Ouest Region;происходит из;1;9;to
+Q910393;Mayo-Kebbi Ouest Region;является столицей;1;1;to
+Q910393;Mayo-Kebbi Ouest Region;основная категория по теме;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;FIPS 10-4 (страны и регионы);1;1;from
+Q910393;Mayo-Kebbi Ouest Region;Who's on First ID;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;код Freebase;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;географические координаты;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;часовой пояс;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;ISO 3166-2;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;используемый язык;1;9;from
+Q910393;Mayo-Kebbi Ouest Region;площадь;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;код TGN;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;код GeoNames;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;численность населения;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;столица;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;это частный случай понятия;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;карта местонахождения;1;1;from
+Q910393;Mayo-Kebbi Ouest Region;государство;1;1;from
+Q867869;Lac Region;административно-территориальная единица;1;594;to
+Q867856;Tandjilé Region;общая тема категории;1;1;to
+Q867856;Tandjilé Region;является столицей;1;1;to
+Q867856;Tandjilé Region;происходит из;1;19;to
+Q860813;Wadi Fira Region;ISO 3166-2;1;1;from
+Q860813;Wadi Fira Region;используемый язык;1;6;from
+Q860813;Wadi Fira Region;площадь;1;1;from
+Q860813;Wadi Fira Region;код TGN;1;1;from
+Q860813;Wadi Fira Region;код GeoNames;1;1;from
+Q860813;Wadi Fira Region;код в Большой каталанской энциклопедии;1;1;from
+Q860813;Wadi Fira Region;численность населения;1;1;from
+Q860813;Wadi Fira Region;столица;1;1;from
+Q860813;Wadi Fira Region;это частный случай понятия;1;1;from
+Q860813;Wadi Fira Region;карта местонахождения;1;1;from
+Q860813;Wadi Fira Region;государство;1;1;from
+Q860813;Wadi Fira Region;административно делится на;1;1;to
+Q860813;Wadi Fira Region;административно-территориальная единица;1;359;to
+Q849841;Kanem Region;происходит из;1;3;to
+Q849841;Kanem Region;общая тема категории;1;1;to
+Q849841;Kanem Region;является столицей;1;1;to
+Q849841;Kanem Region;основная категория по теме;1;1;from
+Q849841;Kanem Region;FIPS 10-4 (страны и регионы);1;1;from
+Q849841;Kanem Region;код NKC;1;1;from
+Q849841;Kanem Region;Who's on First ID;1;1;from
+Q849841;Kanem Region;код Freebase;1;1;from
+Q849841;Kanem Region;географические координаты;1;1;from
+Q849841;Kanem Region;категория на Викискладе;1;1;from
+Q849841;Kanem Region;ISO 3166-2;1;1;from
+Q849841;Kanem Region;используемый язык;1;3;from
+Q860813;Wadi Fira Region;дата основания/создания/возникновения;1;1;from
+Q860813;Wadi Fira Region;географические координаты;1;1;from
+Q860813;Wadi Fira Region;код Freebase;1;1;from
+Q867856;Tandjilé Region;численность населения;1;1;from
+Q867856;Tandjilé Region;основная категория по теме;1;1;from
+Q867856;Tandjilé Region;FIPS 10-4 (страны и регионы);1;1;from
+Q867856;Tandjilé Region;Who's on First ID;1;1;from
+Q867856;Tandjilé Region;код Freebase;1;1;from
+Q867856;Tandjilé Region;географические координаты;1;1;from
+Q867856;Tandjilé Region;ISO 3166-2;1;1;from
+Q867856;Tandjilé Region;используемый язык;1;19;from
+Q867856;Tandjilé Region;управляемая организация;1;1;from
+Q867856;Tandjilé Region;должность руководителя организации;1;1;from
+Q867856;Tandjilé Region;площадь;1;1;from
+Q867856;Tandjilé Region;код GeoNames;1;1;from
+Q867856;Tandjilé Region;столица;1;1;from
+Q860813;Wadi Fira Region;Who's on First ID;1;1;from
+Q867856;Tandjilé Region;это частный случай понятия;1;1;from
+Q867856;Tandjilé Region;карта местонахождения;1;1;from
+Q867856;Tandjilé Region;государство;1;1;from
+Q867856;Tandjilé Region;административно делится на;1;1;to
+Q867856;Tandjilé Region;административно-территориальная единица;1;33;to
+Q860813;Wadi Fira Region;происходит из;1;6;to
+Q860813;Wadi Fira Region;общая тема категории;1;1;to
+Q860813;Wadi Fira Region;место рождения;1;1;to
+Q860813;Wadi Fira Region;является столицей;1;1;to
+Q860813;Wadi Fira Region;основная категория по теме;1;1;from
+Q860813;Wadi Fira Region;FIPS 10-4 (страны и регионы);1;1;from
+Q911421;Mayo-Kebbi Est Region;код GeoNames;1;1;from
+Q911421;Mayo-Kebbi Est Region;используемый язык;1;16;from
+Q167514;Logone Oriental Region;административно делится на;1;1;to
+Q1149611;Sila Region;основная категория по теме;1;1;from
+Q1149611;Sila Region;географические координаты;1;1;from
+Q1149611;Sila Region;дата основания/создания/возникновения;1;1;from
+Q1149611;Sila Region;часовой пояс;1;1;from
+Q1149611;Sila Region;ISO 3166-2;1;1;from
+Q1149611;Sila Region;используемый язык;1;12;from
+Q1149611;Sila Region;площадь;1;1;from
+Q1149611;Sila Region;код GeoNames;1;1;from
+Q1149611;Sila Region;численность населения;1;1;from
+Q1149611;Sila Region;столица;1;1;from
+Q1149611;Sila Region;это частный случай понятия;1;1;from
+Q1149611;Sila Region;карта местонахождения;1;1;from
+Q1149611;Sila Region;государство;1;1;from
+Q1149611;Sila Region;административно делится на;1;1;to
+Q1149611;Sila Region;административно-территориальная единица;1;47;to
+Q1139666;Borkou;происходит из;1;2;to
+Q1139666;Borkou;заменён на;1;1;to
+Q1139666;Borkou;общая тема категории;1;1;to
+Q1139666;Borkou;является столицей;1;1;to
+Q1139666;Borkou;основная категория по теме;1;1;from
+Q1139666;Borkou;код Freebase;1;1;from
+Q1139666;Borkou;географические координаты;1;1;from
+Q1139666;Borkou;дата основания/создания/возникновения;1;1;from
+Q1139666;Borkou;код тезауруса PACTOLS;1;1;from
+Q1139666;Borkou;ISO 3166-2;1;1;from
+Q1139666;Borkou;используемый язык;1;2;from
+Q1149611;Sila Region;код Freebase;1;1;from
+Q1149611;Sila Region;является столицей;1;1;to
+Q911421;Mayo-Kebbi Est Region;ISO 3166-2;1;1;from
+Q1149611;Sila Region;происходит из;1;12;to
+Q16632172;Ennedi-Ouest;общая тема категории;1;1;to
+Q16632172;Ennedi-Ouest;основная категория по теме;1;1;from
+Q16632172;Ennedi-Ouest;географические координаты;1;1;from
+Q16632172;Ennedi-Ouest;дата основания/создания/возникновения;1;1;from
+Q16632172;Ennedi-Ouest;часовой пояс;1;1;from
+Q16632172;Ennedi-Ouest;ISO 3166-2;1;1;from
+Q16632172;Ennedi-Ouest;код GeoNames;1;1;from
+Q16632172;Ennedi-Ouest;столица;1;1;from
+Q16632172;Ennedi-Ouest;это частный случай понятия;1;2;from
+Q16632172;Ennedi-Ouest;карта местонахождения;1;1;from
+Q16632172;Ennedi-Ouest;изображение;1;1;from
+Q16632172;Ennedi-Ouest;государство;1;1;from
+Q16632172;Ennedi-Ouest;административно-территориальная единица;1;171;to
+Q16632169;Ennedi-Est;общая тема категории;1;1;to
+Q16632169;Ennedi-Est;основная категория по теме;1;1;from
+Q16632169;Ennedi-Est;географические координаты;1;1;from
+Q16632169;Ennedi-Est;дата основания/создания/возникновения;1;1;from
+Q16632169;Ennedi-Est;ISO 3166-2;1;1;from
+Q16632169;Ennedi-Est;код GeoNames;1;1;from
+Q16632169;Ennedi-Est;это частный случай понятия;1;1;from
+Q16632169;Ennedi-Est;карта местонахождения;1;1;from
+Q16632169;Ennedi-Est;изображение;1;1;from
+Q16632169;Ennedi-Est;государство;1;1;from
+Q16632169;Ennedi-Est;административно-территориальная единица;1;52;to
+Q1149611;Sila Region;общая тема категории;1;1;to
+Q1139666;Borkou;высота над уровнем моря;1;1;from
+Q1139666;Borkou;код GeoNames;1;1;from
+Q1139666;Borkou;код в энциклопедии «Британника онлайн»;1;1;from
+Q1139666;Borkou;код в Большой каталанской энциклопедии;1;1;from
+Q1042437;Hadjer-Lamis;основная категория по теме;1;1;from
+Q1042437;Hadjer-Lamis;FIPS 10-4 (страны и регионы);1;1;from
+Q1042437;Hadjer-Lamis;Who's on First ID;1;1;from
+Q1042437;Hadjer-Lamis;код Freebase;1;1;from
+Q1042437;Hadjer-Lamis;географические координаты;1;1;from
+Q1042437;Hadjer-Lamis;ISO 3166-2;1;1;from
+Q1042437;Hadjer-Lamis;используемый язык;1;8;from
+Q1042437;Hadjer-Lamis;площадь;1;1;from
+Q1042437;Hadjer-Lamis;код GeoNames;1;1;from
+Q1042437;Hadjer-Lamis;численность населения;1;1;from
+Q1042437;Hadjer-Lamis;столица;1;1;from
+Q1042437;Hadjer-Lamis;это частный случай понятия;1;1;from
+Q1042437;Hadjer-Lamis;карта местонахождения;1;2;from
+Q1042437;Hadjer-Lamis;государство;1;1;from
+Q1042437;Hadjer-Lamis;административно делится на;1;1;to
+Q1042437;Hadjer-Lamis;административно-территориальная единица;1;138;to
+Q911421;Mayo-Kebbi Est Region;является столицей;1;1;to
+Q911421;Mayo-Kebbi Est Region;общая тема категории;1;1;to
+Q911421;Mayo-Kebbi Est Region;происходит из;1;15;to
+Q911421;Mayo-Kebbi Est Region;основная категория по теме;1;1;from
+Q911421;Mayo-Kebbi Est Region;FIPS 10-4 (страны и регионы);1;1;from
+Q911421;Mayo-Kebbi Est Region;Who's on First ID;1;1;from
+Q911421;Mayo-Kebbi Est Region;код Freebase;1;1;from
+Q911421;Mayo-Kebbi Est Region;географические координаты;1;1;from
+Q911421;Mayo-Kebbi Est Region;часовой пояс;1;1;from
+Q1042437;Hadjer-Lamis;происходит из;1;7;to
+Q1042437;Hadjer-Lamis;является столицей;1;1;to
+Q1042437;Hadjer-Lamis;общая тема категории;1;1;to
+Q1050621;Bahr el Gazel;код Freebase;1;1;from
+Q1139666;Borkou;столица;1;1;from
+Q1139666;Borkou;это частный случай понятия;1;1;from
+Q1139666;Borkou;карта местонахождения;1;1;from
+Q1139666;Borkou;изображение;1;1;from
+Q1139666;Borkou;государство;1;1;from
+Q1139666;Borkou;административно делится на;1;1;to
+Q1139666;Borkou;административно-территориальная единица;1;129;to
+Q1050621;Bahr el Gazel;общая тема категории;1;1;to
+Q1050621;Bahr el Gazel;происходит из;1;3;to
+Q1050621;Bahr el Gazel;является столицей;1;1;to
+Q1050621;Bahr el Gazel;основная категория по теме;1;1;from
+Q1050621;Bahr el Gazel;географические координаты;1;1;from
+Q1050621;Bahr el Gazel;административно-территориальная единица;1;16;to
+Q1050621;Bahr el Gazel;дата основания/создания/возникновения;1;1;from
+Q1050621;Bahr el Gazel;ISO 3166-2;1;1;from
+Q1050621;Bahr el Gazel;используемый язык;1;3;from
+Q1050621;Bahr el Gazel;высота над уровнем моря;1;1;from
+Q1050621;Bahr el Gazel;код GeoNames;1;1;from
+Q1050621;Bahr el Gazel;столица;1;1;from
+Q1050621;Bahr el Gazel;это частный случай понятия;1;1;from
+Q1050621;Bahr el Gazel;карта местонахождения;1;1;from
+Q1050621;Bahr el Gazel;изображение;1;1;from
+Q1050621;Bahr el Gazel;государство;1;1;from
+Q1050621;Bahr el Gazel;административно делится на;1;1;to
+Q849841;Kanem Region;код BNF;1;1;from
+Q849841;Kanem Region;код GeoNames;1;1;from
+Q849841;Kanem Region;код в Большой каталанской энциклопедии;1;1;from
+Q305257;Logone Occidental Region;столица;1;1;from
+Q305257;Logone Occidental Region;карта местонахождения;1;1;from
+Q305257;Logone Occidental Region;изображение;1;1;from
+Q305257;Logone Occidental Region;государство;1;1;from
+Q305257;Logone Occidental Region;административно делится на;1;1;to
+Q305257;Logone Occidental Region;административно-территориальная единица;1;36;to
+Q180414;Batha Region;общая тема категории;1;1;to
+Q180414;Batha Region;является столицей;1;1;to
+Q180414;Batha Region;происходит из;1;11;to
+Q180414;Batha Region;значимое место;1;1;to
+Q180414;Batha Region;основная категория по теме;1;1;from
+Q180414;Batha Region;FIPS 10-4 (страны и регионы);1;1;from
+Q180414;Batha Region;Who's on First ID;1;1;from
+Q180414;Batha Region;код Freebase;1;1;from
+Q180414;Batha Region;географические координаты;1;1;from
+Q180414;Batha Region;ISO 3166-2;1;1;from
+Q180414;Batha Region;используемый язык;1;11;from
+Q180414;Batha Region;код GNS;1;1;from
+Q180414;Batha Region;площадь;1;1;from
+Q180414;Batha Region;высота над уровнем моря;1;1;from
+Q180414;Batha Region;код GeoNames;1;1;from
+Q180414;Batha Region;официальное название;1;1;from
+Q180414;Batha Region;численность населения;1;1;from
+Q180414;Batha Region;столица;1;1;from
+Q180414;Batha Region;это частный случай понятия;1;1;from
+Q180414;Batha Region;карта местонахождения;1;1;from
+Q305257;Logone Occidental Region;это частный случай понятия;1;1;from
+Q305257;Logone Occidental Region;код в Большой каталанской энциклопедии;1;1;from
+Q849841;Kanem Region;столица;1;1;from
+Q305257;Logone Occidental Region;код GeoNames;1;1;from
+Q385584;Salamat Region;основная категория по теме;1;1;from
+Q385584;Salamat Region;FIPS 10-4 (страны и регионы);1;1;from
+Q385584;Salamat Region;Who's on First ID;1;1;from
+Q385584;Salamat Region;код Freebase;1;1;from
+Q385584;Salamat Region;географические координаты;1;1;from
+Q385584;Salamat Region;ISO 3166-2;1;1;from
+Q385584;Salamat Region;используемый язык;1;8;from
+Q385584;Salamat Region;код GeoNames;1;1;from
+Q385584;Salamat Region;столица;1;1;from
+Q385584;Salamat Region;это частный случай понятия;1;1;from
+Q385584;Salamat Region;карта местонахождения;1;2;from
+Q385584;Salamat Region;изображение;1;1;from
+Q385584;Salamat Region;государство;1;1;from
+Q385584;Salamat Region;административно делится на;1;1;to
+Q385584;Salamat Region;административно-территориальная единица;1;155;to
+Q305257;Logone Occidental Region;общая тема категории;1;1;to
+Q305257;Logone Occidental Region;является столицей;1;1;to
+Q305257;Logone Occidental Region;происходит из;1;2;to
+Q305257;Logone Occidental Region;основная категория по теме;1;1;from
+Q305257;Logone Occidental Region;FIPS 10-4 (страны и регионы);1;1;from
+Q305257;Logone Occidental Region;Who's on First ID;1;1;from
+Q305257;Logone Occidental Region;код Freebase;1;1;from
+Q305257;Logone Occidental Region;географические координаты;1;1;from
+Q305257;Logone Occidental Region;ISO 3166-2;1;1;from
+Q305257;Logone Occidental Region;используемый язык;1;2;from
+Q180414;Batha Region;государство;1;1;from
+Q180414;Batha Region;административно делится на;1;1;to
+Q180414;Batha Region;административно-территориальная единица;1;239;to
+Q177799;Moyen-Chari Region;общая тема категории;1;1;to
+Q175706;Guéra Region;это частный случай понятия;1;1;from
+Q175706;Guéra Region;карта местонахождения;1;1;from
+Q175706;Guéra Region;изображение;1;1;from
+Q175706;Guéra Region;государство;1;1;from
+Q175706;Guéra Region;административно делится на;1;1;to
+Q175706;Guéra Region;административно-территориальная единица;1;456;to
+Q167514;Logone Oriental Region;является столицей;1;1;to
+Q167514;Logone Oriental Region;общая тема категории;1;1;to
+Q167514;Logone Oriental Region;происходит из;1;10;to
+Q167514;Logone Oriental Region;основная категория по теме;1;1;from
+Q167514;Logone Oriental Region;FIPS 10-4 (страны и регионы);1;1;from
+Q167514;Logone Oriental Region;Who's on First ID;1;1;from
+Q167514;Logone Oriental Region;код Freebase;1;1;from
+Q167514;Logone Oriental Region;географические координаты;1;1;from
+Q167514;Logone Oriental Region;часовой пояс;1;1;from
+Q167514;Logone Oriental Region;ISO 3166-2;1;1;from
+Q167514;Logone Oriental Region;используемый язык;1;10;from
+Q167514;Logone Oriental Region;код BabelNet;1;1;from
+Q167514;Logone Oriental Region;площадь;1;1;from
+Q167514;Logone Oriental Region;код GeoNames;1;1;from
+Q167514;Logone Oriental Region;код в Большой каталанской энциклопедии;1;1;from
+Q167514;Logone Oriental Region;столица;1;1;from
+Q167514;Logone Oriental Region;это частный случай понятия;1;1;from
+Q167514;Logone Oriental Region;карта местонахождения;1;1;from
+Q167514;Logone Oriental Region;государство;1;1;from
+Q175706;Guéra Region;столица;1;1;from
+Q175706;Guéra Region;код GeoNames;1;1;from
+Q175706;Guéra Region;код BNF;1;1;from
+Q177799;Moyen-Chari Region;карта местонахождения;1;2;from
+Q177799;Moyen-Chari Region;происходит из;1;19;to
+Q177799;Moyen-Chari Region;является столицей;1;1;to
+Q177799;Moyen-Chari Region;основная категория по теме;1;1;from
+Q177799;Moyen-Chari Region;FIPS 10-4 (страны и регионы);1;2;from
+Q177799;Moyen-Chari Region;код Freebase;1;1;from
+Q177799;Moyen-Chari Region;географические координаты;1;1;from
+Q177799;Moyen-Chari Region;ISO 3166-2;1;1;from
+Q177799;Moyen-Chari Region;используемый язык;1;20;from
+Q177799;Moyen-Chari Region;код GeoNames;1;1;from
+Q177799;Moyen-Chari Region;столица;1;1;from
+Q177799;Moyen-Chari Region;это частный случай понятия;1;1;from
+Q177799;Moyen-Chari Region;государство;1;1;from
+Q175706;Guéra Region;используемый язык;1;30;from
+Q177799;Moyen-Chari Region;административно делится на;1;1;to
+Q177799;Moyen-Chari Region;административно-территориальная единица;1;59;to
+Q175706;Guéra Region;общая тема категории;1;1;to
+Q175706;Guéra Region;является столицей;1;1;to
+Q175706;Guéra Region;происходит из;1;30;to
+Q175706;Guéra Region;основная категория по теме;1;1;from
+Q175706;Guéra Region;FIPS 10-4 (страны и регионы);1;1;from
+Q175706;Guéra Region;Who's on First ID;1;1;from
+Q175706;Guéra Region;код Freebase;1;1;from
+Q175706;Guéra Region;географические координаты;1;1;from
+Q175706;Guéra Region;ISO 3166-2;1;1;from
+Q385584;Salamat Region;место рождения;1;2;to
+Q385584;Salamat Region;происходит из;1;8;to
+Q385584;Salamat Region;является столицей;1;1;to
+Q748093;Ennedi Region;административно-территориальная единица;1;8;to
+Q843975;Chari-Baguirmi Region;административно-территориальная единица;1;86;to
+Q841338;Ouaddaï Region;общая тема категории;1;1;to
+Q841338;Ouaddaï Region;происходит из;1;18;to
+Q841338;Ouaddaï Region;основная категория по теме;1;1;from
+Q841338;Ouaddaï Region;FIPS 10-4 (страны и регионы);1;1;from
+Q841338;Ouaddaï Region;Who's on First ID;1;1;from
+Q841338;Ouaddaï Region;код Freebase;1;1;from
+Q841338;Ouaddaï Region;географические координаты;1;1;from
+Q841338;Ouaddaï Region;код в Encyclopædia Universalis;1;1;from
+Q841338;Ouaddaï Region;ISO 3166-2;1;1;from
+Q841338;Ouaddaï Region;используемый язык;1;18;from
+Q841338;Ouaddaï Region;код BNF;1;1;from
+Q841338;Ouaddaï Region;код GeoNames;1;1;from
+Q841338;Ouaddaï Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q841338;Ouaddaï Region;код в Большой каталанской энциклопедии;1;1;from
+Q841338;Ouaddaï Region;столица;1;1;from
+Q841338;Ouaddaï Region;это частный случай понятия;1;1;from
+Q841338;Ouaddaï Region;карта местонахождения;1;1;from
+Q841338;Ouaddaï Region;изображение;1;1;from
+Q841338;Ouaddaï Region;государство;1;1;from
+Q841338;Ouaddaï Region;административно делится на;1;1;to
+Q841338;Ouaddaï Region;административно-территориальная единица;1;89;to
+Q748093;Ennedi Region;происходит из;1;1;to
+Q748093;Ennedi Region;является столицей;1;1;to
+Q748093;Ennedi Region;заменён на;1;1;to
+Q843975;Chari-Baguirmi Region;административно делится на;1;1;to
+Q843975;Chari-Baguirmi Region;государство;1;1;from
+Q843975;Chari-Baguirmi Region;изображение;1;1;from
+Q843975;Chari-Baguirmi Region;основная категория по теме;1;1;from
+Q849841;Kanem Region;это частный случай понятия;1;1;from
+Q849841;Kanem Region;код LCNAF;1;1;from
+Q849841;Kanem Region;карта местонахождения;1;1;from
+Q849841;Kanem Region;изображение;1;1;from
+Q849841;Kanem Region;государство;1;1;from
+Q849841;Kanem Region;административно делится на;1;1;to
+Q849841;Kanem Region;названо в честь;1;1;from
+Q849841;Kanem Region;административно-территориальная единица;1;91;to
+Q843975;Chari-Baguirmi Region;общая тема категории;1;1;to
+Q843975;Chari-Baguirmi Region;является столицей;1;1;to
+Q843975;Chari-Baguirmi Region;происходит из;1;15;to
+Q843975;Chari-Baguirmi Region;FIPS 10-4 (страны и регионы);1;2;from
+Q843975;Chari-Baguirmi Region;карта местонахождения;1;1;from
+Q843975;Chari-Baguirmi Region;Who's on First ID;1;1;from
+Q843975;Chari-Baguirmi Region;код Freebase;1;1;from
+Q843975;Chari-Baguirmi Region;географические координаты;1;2;from
+Q843975;Chari-Baguirmi Region;ISO 3166-2;1;1;from
+Q843975;Chari-Baguirmi Region;используемый язык;1;16;from
+Q843975;Chari-Baguirmi Region;код BNF;1;1;from
+Q843975;Chari-Baguirmi Region;площадь;1;1;from
+Q843975;Chari-Baguirmi Region;код GeoNames;1;1;from
+Q843975;Chari-Baguirmi Region;численность населения;1;1;from
+Q843975;Chari-Baguirmi Region;столица;1;1;from
+Q843975;Chari-Baguirmi Region;это частный случай понятия;1;1;from
+Q748093;Ennedi Region;общая тема категории;1;1;to
+Q748093;Ennedi Region;место рождения;1;1;to
+Q385584;Salamat Region;общая тема категории;1;1;to
+Q748093;Ennedi Region;основная категория по теме;1;1;from
+Q737711;Tibesti Region;государство;1;1;from
+Q737711;Tibesti Region;административно делится на;1;1;to
+Q737711;Tibesti Region;административно-территориальная единица;1;157;to
+Q597410;Mandoul Region;общая тема категории;1;1;to
+Q597410;Mandoul Region;место рождения;1;1;to
+Q597410;Mandoul Region;происходит из;1;11;to
+Q597410;Mandoul Region;является столицей;1;1;to
+Q597410;Mandoul Region;основная категория по теме;1;1;from
+Q597410;Mandoul Region;FIPS 10-4 (страны и регионы);1;1;from
+Q597410;Mandoul Region;Who's on First ID;1;1;from
+Q597410;Mandoul Region;код Freebase;1;1;from
+Q597410;Mandoul Region;географические координаты;1;1;from
+Q597410;Mandoul Region;часовой пояс;1;1;from
+Q597410;Mandoul Region;ISO 3166-2;1;1;from
+Q597410;Mandoul Region;используемый язык;1;12;from
+Q597410;Mandoul Region;площадь;1;1;from
+Q597410;Mandoul Region;название на языке оригинала;1;2;from
+Q597410;Mandoul Region;код GeoNames;1;1;from
+Q597410;Mandoul Region;официальное название;1;2;from
+Q597410;Mandoul Region;столица;1;1;from
+Q597410;Mandoul Region;это частный случай понятия;1;1;from
+Q597410;Mandoul Region;карта местонахождения;1;1;from
+Q597410;Mandoul Region;государство;1;1;from
+Q597410;Mandoul Region;административно делится на;1;1;to
+Q597410;Mandoul Region;административно-территориальная единица;1;17;to
+Q737711;Tibesti Region;изображение;1;1;from
+Q737711;Tibesti Region;карта местонахождения;1;1;from
+Q737711;Tibesti Region;это частный случай понятия;1;1;from
+Q748093;Ennedi Region;изображение;1;1;from
+Q748093;Ennedi Region;Who's on First ID;1;1;from
+Q748093;Ennedi Region;код Freebase;1;1;from
+Q748093;Ennedi Region;географические координаты;1;1;from
+Q748093;Ennedi Region;дата основания/создания/возникновения;1;1;from
+Q748093;Ennedi Region;ISO 3166-2;1;1;from
+Q748093;Ennedi Region;используемый язык;1;1;from
+Q748093;Ennedi Region;код GeoNames;1;1;from
+Q748093;Ennedi Region;код в Большой каталанской энциклопедии;1;1;from
+Q748093;Ennedi Region;столица;1;1;from
+Q748093;Ennedi Region;это частный случай понятия;1;1;from
+Q748093;Ennedi Region;карта местонахождения;1;1;from
+Q748093;Ennedi Region;государство;1;1;from
+Q737711;Tibesti Region;код GeoNames;1;1;from
+Q748093;Ennedi Region;административно делится на;1;1;to
+Q737711;Tibesti Region;происходит из;1;1;to
+Q737711;Tibesti Region;заменён на;1;1;to
+Q737711;Tibesti Region;общая тема категории;1;1;to
+Q737711;Tibesti Region;основная категория по теме;1;1;from
+Q737711;Tibesti Region;Who's on First ID;1;1;from
+Q737711;Tibesti Region;код Freebase;1;1;from
+Q737711;Tibesti Region;географические координаты;1;1;from
+Q737711;Tibesti Region;дата основания/создания/возникновения;1;1;from
+Q737711;Tibesti Region;ISO 3166-2;1;1;from
+Q737711;Tibesti Region;используемый язык;1;1;from
+Q16632172;Ennedi-Ouest;является столицей;1;1;to

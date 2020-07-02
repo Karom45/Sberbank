@@ -1,0 +1,343 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q189426;Koror;административно-территориальная единица;1;21;to
+Q1070185;Ngarchelong;код GNIS;1;1;from
+Q1070185;Ngarchelong;административно делится на;1;1;to
+Q1070185;Ngarchelong;общая тема категории;1;1;to
+Q1070185;Ngarchelong;основная категория по теме;1;1;from
+Q1070185;Ngarchelong;FIPS 10-4 (страны и регионы);1;1;from
+Q1070185;Ngarchelong;FIPS 6-4 (код округа в США);1;1;from
+Q1070185;Ngarchelong;Who's on First ID;1;1;from
+Q1070185;Ngarchelong;код Freebase;1;1;from
+Q1070185;Ngarchelong;географические координаты;1;1;from
+Q1070185;Ngarchelong;ISO 3166-2;1;1;from
+Q1070180;Ngchesar;административно делится на;1;1;to
+Q1070185;Ngarchelong;площадь;1;1;from
+Q1070185;Ngarchelong;код TGN;1;1;from
+Q1070185;Ngarchelong;код GeoNames;1;1;from
+Q1070185;Ngarchelong;изображение флага;1;1;from
+Q1070185;Ngarchelong;это частный случай понятия;1;1;from
+Q1070185;Ngarchelong;карта местонахождения;1;1;from
+Q1070185;Ngarchelong;код GND;1;1;from
+Q1070185;Ngarchelong;государство;1;1;from
+Q1144496;Ngardmau;административно-территориальная единица;1;1;to
+Q1144496;Ngardmau;государство;1;1;from
+Q1144496;Ngardmau;карта местонахождения;1;1;from
+Q1144496;Ngardmau;это частный случай понятия;1;1;from
+Q1154101;Ngiwal;код GND;1;1;from
+Q1154101;Ngiwal;государство;1;1;from
+Q1154101;Ngiwal;административно-территориальная единица;1;1;from
+Q1144496;Ngardmau;административно делится на;1;1;to
+Q1144496;Ngardmau;общая тема категории;1;1;to
+Q1144496;Ngardmau;основная категория по теме;1;1;from
+Q1144496;Ngardmau;FIPS 10-4 (страны и регионы);1;1;from
+Q1144496;Ngardmau;FIPS 6-4 (код округа в США);1;1;from
+Q1144496;Ngardmau;Who's on First ID;1;1;from
+Q1144496;Ngardmau;код Freebase;1;1;from
+Q1144496;Ngardmau;географические координаты;1;1;from
+Q1144496;Ngardmau;код GNIS;1;1;from
+Q1144496;Ngardmau;ISO 3166-2;1;1;from
+Q1144496;Ngardmau;площадь;1;1;from
+Q1144496;Ngardmau;код TGN;1;1;from
+Q1144496;Ngardmau;код GeoNames;1;1;from
+Q1144496;Ngardmau;изображение флага;1;1;from
+Q1070185;Ngarchelong;административно-территориальная единица;1;2;to
+Q1070180;Ngchesar;общая тема категории;1;1;to
+Q1154101;Ngiwal;это частный случай понятия;1;1;from
+Q975076;Ngeremlengui;изображение флага;1;1;from
+Q975076;Ngeremlengui;Who's on First ID;1;1;from
+Q975076;Ngeremlengui;код Freebase;1;1;from
+Q975076;Ngeremlengui;географические координаты;1;1;from
+Q975076;Ngeremlengui;код GNIS;1;1;from
+Q975076;Ngeremlengui;ISO 3166-2;1;1;from
+Q975076;Ngeremlengui;площадь;1;1;from
+Q975076;Ngeremlengui;код TGN;1;1;from
+Q975076;Ngeremlengui;код GeoNames;1;1;from
+Q975076;Ngeremlengui;это частный случай понятия;1;1;from
+Q1070180;Ngchesar;место рождения;1;1;to
+Q975076;Ngeremlengui;карта местонахождения;1;1;from
+Q975076;Ngeremlengui;код GND;1;1;from
+Q975076;Ngeremlengui;государство;1;1;from
+Q975076;Ngeremlengui;административно-территориальная единица;1;2;to
+Q871222;Kayangel;административно делится на;1;1;to
+Q871222;Kayangel;общая тема категории;1;1;to
+Q871222;Kayangel;основная категория по теме;1;1;from
+Q871222;Kayangel;FIPS 10-4 (страны и регионы);1;1;from
+Q975076;Ngeremlengui;FIPS 6-4 (код округа в США);1;1;from
+Q975076;Ngeremlengui;FIPS 10-4 (страны и регионы);1;1;from
+Q975076;Ngeremlengui;основная категория по теме;1;1;from
+Q975076;Ngeremlengui;общая тема категории;1;1;to
+Q1070180;Ngchesar;основная категория по теме;1;1;from
+Q1070180;Ngchesar;FIPS 10-4 (страны и регионы);1;1;from
+Q1070180;Ngchesar;FIPS 6-4 (код округа в США);1;1;from
+Q1070180;Ngchesar;Who's on First ID;1;1;from
+Q1070180;Ngchesar;код Freebase;1;1;from
+Q1070180;Ngchesar;географические координаты;1;1;from
+Q1070180;Ngchesar;код GNIS;1;1;from
+Q1070180;Ngchesar;ISO 3166-2;1;1;from
+Q1070180;Ngchesar;площадь;1;1;from
+Q1070180;Ngchesar;код TGN;1;1;from
+Q1070180;Ngchesar;код GeoNames;1;1;from
+Q1070180;Ngchesar;изображение флага;1;1;from
+Q1070180;Ngchesar;это частный случай понятия;1;1;from
+Q1070180;Ngchesar;карта местонахождения;1;1;from
+Q1070180;Ngchesar;государство;1;1;from
+Q1070180;Ngchesar;административно-территориальная единица;1;1;from
+Q975076;Ngeremlengui;административно делится на;1;1;to
+Q1154101;Ngiwal;карта местонахождения;1;1;from
+Q1154101;Ngiwal;изображение флага;1;1;from
+Q189426;Koror;государство;1;1;from
+Q3516752;Hatohobei;общая тема категории;1;1;to
+Q12898552;Melekeok;карта местонахождения;1;1;from
+Q12898552;Melekeok;код GND;1;1;from
+Q12898552;Melekeok;код VIAF;1;1;from
+Q12898552;Melekeok;изображение;1;1;from
+Q12898552;Melekeok;государство;1;1;from
+Q12898552;Melekeok;административно-территориальная единица;1;2;to
+Q3516752;Hatohobei;административно делится на;1;1;to
+Q3516752;Hatohobei;происходит из;1;1;to
+Q3516752;Hatohobei;столица;1;1;to
+Q3516752;Hatohobei;площадь;1;1;from
+Q3516752;Hatohobei;основная категория по теме;1;1;from
+Q3516752;Hatohobei;FIPS 10-4 (страны и регионы);1;1;from
+Q3516752;Hatohobei;FIPS 6-4 (код округа в США);1;1;from
+Q3516752;Hatohobei;Who's on First ID;1;1;from
+Q3516752;Hatohobei;код Freebase;1;1;from
+Q3516752;Hatohobei;географические координаты;1;1;from
+Q3516752;Hatohobei;код GNIS;1;1;from
+Q3516752;Hatohobei;ISO 3166-2;1;1;from
+Q12898552;Melekeok;код LCNAF;1;1;from
+Q12898552;Melekeok;это частный случай понятия;1;1;from
+Q12898552;Melekeok;столица;1;1;from
+Q12898552;Melekeok;изображение флага;1;1;from
+Q12898552;Melekeok;является столицей;1;1;to
+Q12898552;Melekeok;основная категория по теме;1;1;from
+Q12898552;Melekeok;FIPS 10-4 (страны и регионы);1;1;from
+Q12898552;Melekeok;FIPS 6-4 (код округа в США);1;1;from
+Q12898552;Melekeok;официальный сайт;1;1;from
+Q12898552;Melekeok;Who's on First ID;1;1;from
+Q12898552;Melekeok;географические координаты;1;1;from
+Q12898552;Melekeok;код GNIS;1;1;from
+Q12898552;Melekeok;идентификатор местоположения ArchINFORM;1;1;from
+Q12898552;Melekeok;категория на Викискладе;1;1;from
+Q12898552;Melekeok;ISO 3166-2;1;1;from
+Q12898552;Melekeok;почтовый индекс;1;1;from
+Q12898552;Melekeok;площадь;1;1;from
+Q12898552;Melekeok;код TGN;1;1;from
+Q12898552;Melekeok;код GeoNames;1;1;from
+Q12898552;Melekeok;код в энциклопедии «Британника онлайн»;1;1;from
+Q12898552;Melekeok;численность населения;1;1;from
+Q3516752;Hatohobei;используемый язык;1;1;from
+Q3516752;Hatohobei;код TGN;1;1;from
+Q1154101;Ngiwal;код GeoNames;1;1;from
+Q1154101;Ngiwal;основная категория по теме;1;1;from
+Q1154127;Ngaraard;изображение флага;1;1;from
+Q1154127;Ngaraard;это частный случай понятия;1;1;from
+Q1154127;Ngaraard;карта местонахождения;1;1;from
+Q1154127;Ngaraard;код GND;1;1;from
+Q1154127;Ngaraard;государство;1;1;from
+Q1154127;Ngaraard;административно-территориальная единица;1;1;to
+Q1154101;Ngiwal;административно делится на;1;1;to
+Q1154101;Ngiwal;общая тема категории;1;1;to
+Q1154101;Ngiwal;FIPS 10-4 (страны и регионы);1;1;from
+Q3516752;Hatohobei;код GeoNames;1;1;from
+Q1154101;Ngiwal;FIPS 6-4 (код округа в США);1;1;from
+Q1154101;Ngiwal;Who's on First ID;1;1;from
+Q1154101;Ngiwal;код Freebase;1;1;from
+Q1154101;Ngiwal;географические координаты;1;1;from
+Q1154101;Ngiwal;код GNIS;1;1;from
+Q1154101;Ngiwal;ISO 3166-2;1;1;from
+Q1154101;Ngiwal;площадь;1;1;from
+Q1154101;Ngiwal;код TGN;1;1;from
+Q1154127;Ngaraard;код GeoNames;1;1;from
+Q1154127;Ngaraard;код TGN;1;1;from
+Q1154127;Ngaraard;площадь;1;1;from
+Q1154127;Ngaraard;код BabelNet;1;1;from
+Q3516752;Hatohobei;является столицей;1;1;from
+Q3516752;Hatohobei;численность населения;1;1;from
+Q3516752;Hatohobei;изображение флага;1;1;from
+Q3516752;Hatohobei;это частный случай понятия;1;1;from
+Q3516752;Hatohobei;карта местонахождения;1;1;from
+Q3516752;Hatohobei;государство;1;1;from
+Q3516752;Hatohobei;административно-территориальная единица;1;3;to
+Q1154127;Ngaraard;административно делится на;1;1;to
+Q1154127;Ngaraard;общая тема категории;1;1;to
+Q1154127;Ngaraard;основная категория по теме;1;1;from
+Q1154127;Ngaraard;FIPS 10-4 (страны и регионы);1;1;from
+Q1154127;Ngaraard;FIPS 6-4 (код округа в США);1;1;from
+Q1154127;Ngaraard;Who's on First ID;1;1;from
+Q1154127;Ngaraard;код Freebase;1;1;from
+Q1154127;Ngaraard;географические координаты;1;1;from
+Q1154127;Ngaraard;код GNIS;1;1;from
+Q1154127;Ngaraard;ISO 3166-2;1;1;from
+Q871222;Kayangel;FIPS 6-4 (код округа в США);1;1;from
+Q871222;Kayangel;Who's on First ID;1;1;from
+Q871222;Kayangel;код Freebase;1;1;from
+Q407967;Airai;карта местонахождения;1;1;from
+Q407967;Airai;идентификатор местоположения ArchINFORM;1;1;from
+Q407967;Airai;ISO 3166-2;1;1;from
+Q407967;Airai;площадь;1;1;from
+Q407967;Airai;код TGN;1;1;from
+Q407967;Airai;код GeoNames;1;1;from
+Q407967;Airai;изображение флага;1;1;from
+Q407967;Airai;столица;1;1;from
+Q407967;Airai;это частный случай понятия;1;1;from
+Q407967;Airai;государство;1;1;from
+Q405589;Aimeliik;географические координаты;1;1;from
+Q407967;Airai;административно-территориальная единица;1;4;to
+Q405589;Aimeliik;административно делится на;1;1;to
+Q405589;Aimeliik;место рождения;1;1;to
+Q405589;Aimeliik;общая тема категории;1;1;to
+Q405589;Aimeliik;основная категория по теме;1;1;from
+Q405589;Aimeliik;FIPS 10-4 (страны и регионы);1;1;from
+Q405589;Aimeliik;FIPS 6-4 (код округа в США);1;1;from
+Q405589;Aimeliik;Who's on First ID;1;1;from
+Q407967;Airai;код GNIS;1;1;from
+Q407967;Airai;географические координаты;1;1;from
+Q407967;Airai;код Freebase;1;1;from
+Q407967;Airai;Who's on First ID;1;1;from
+Q430385;Ngatpang;ISO 3166-2;1;1;from
+Q430385;Ngatpang;площадь;1;1;from
+Q430385;Ngatpang;код TGN;1;1;from
+Q430385;Ngatpang;код GeoNames;1;1;from
+Q430385;Ngatpang;изображение флага;1;1;from
+Q430385;Ngatpang;это частный случай понятия;1;1;from
+Q430385;Ngatpang;карта местонахождения;1;1;from
+Q430385;Ngatpang;код GND;1;1;from
+Q430385;Ngatpang;государство;1;1;from
+Q430385;Ngatpang;административно-территориальная единица;1;2;to
+Q407967;Airai;административно делится на;1;1;to
+Q407967;Airai;место рождения;1;1;to
+Q407967;Airai;общая тема категории;1;1;to
+Q407967;Airai;является столицей;1;1;to
+Q407967;Airai;основная категория по теме;1;1;from
+Q407967;Airai;FIPS 10-4 (страны и регионы);1;1;from
+Q407967;Airai;FIPS 6-4 (код округа в США);1;1;from
+Q405589;Aimeliik;код Freebase;1;1;from
+Q405589;Aimeliik;код GNIS;1;1;from
+Q871222;Kayangel;географические координаты;1;1;from
+Q189426;Koror;площадь;1;1;from
+Q189426;Koror;Who's on First ID;1;1;from
+Q189426;Koror;код Freebase;1;1;from
+Q189426;Koror;географические координаты;1;1;from
+Q189426;Koror;код GNIS;1;1;from
+Q189426;Koror;идентификатор местоположения ArchINFORM;1;1;from
+Q189426;Koror;категория на Викискладе;1;1;from
+Q189426;Koror;код темы Quora;1;1;from
+Q189426;Koror;ISO 3166-2;1;1;from
+Q189426;Koror;код TGN;1;1;from
+Q405589;Aimeliik;идентификатор местоположения ArchINFORM;1;1;from
+Q189426;Koror;код GeoNames;1;1;from
+Q189426;Koror;код US National Archives;1;1;from
+Q189426;Koror;изображение флага;1;1;from
+Q189426;Koror;столица;1;1;from
+Q189426;Koror;это частный случай понятия;1;1;from
+Q189426;Koror;карта местонахождения;1;1;from
+Q189426;Koror;код VIAF;1;1;from
+Q189426;Koror;изображение;1;1;from
+Q189426;Koror;WorldCat Identities ID;1;1;from
+Q189426;Koror;FIPS 6-4 (код округа в США);1;1;from
+Q189426;Koror;FIPS 10-4 (страны и регионы);1;1;from
+Q189426;Koror;основная категория по теме;1;1;from
+Q405589;Aimeliik;ISO 3166-2;1;1;from
+Q405589;Aimeliik;площадь;1;1;from
+Q405589;Aimeliik;код TGN;1;1;from
+Q405589;Aimeliik;код GeoNames;1;1;from
+Q405589;Aimeliik;изображение флага;1;1;from
+Q405589;Aimeliik;это частный случай понятия;1;1;from
+Q405589;Aimeliik;карта местонахождения;1;1;from
+Q405589;Aimeliik;код GND;1;1;from
+Q405589;Aimeliik;государство;1;1;from
+Q405589;Aimeliik;административно-территориальная единица;1;1;to
+Q189426;Koror;юрисдикция распространяется на;1;1;to
+Q189426;Koror;общая тема категории;1;1;to
+Q189426;Koror;местонахождение;1;1;to
+Q189426;Koror;место рождения;1;9;to
+Q189426;Koror;место смерти;1;4;to
+Q189426;Koror;расположение штаб-квартиры;1;4;to
+Q189426;Koror;галерея на Викискладе;1;1;from
+Q430385;Ngatpang;код GNIS;1;1;from
+Q430385;Ngatpang;географические координаты;1;1;from
+Q430385;Ngatpang;код Freebase;1;1;from
+Q530813;Angaur;код TGN;1;2;from
+Q530813;Angaur;географические координаты;1;1;from
+Q530813;Angaur;код GNIS;1;1;from
+Q530813;Angaur;часовой пояс;1;1;from
+Q530813;Angaur;категория на Викискладе;1;1;from
+Q530813;Angaur;ISO 3166-2;1;1;from
+Q530813;Angaur;площадь;1;1;from
+Q530813;Angaur;высота над уровнем моря;1;1;from
+Q530813;Angaur;не путать с;1;1;to
+Q530813;Angaur;код GeoNames;1;1;from
+Q430385;Ngatpang;Who's on First ID;1;1;from
+Q530813;Angaur;код в энциклопедии «Британника онлайн»;1;1;from
+Q530813;Angaur;код US National Archives;1;1;from
+Q530813;Angaur;численность населения;1;1;from
+Q530813;Angaur;изображение флага;1;1;from
+Q530813;Angaur;официальный язык;1;3;from
+Q530813;Angaur;столица;1;1;from
+Q530813;Angaur;это частный случай понятия;1;1;from
+Q530813;Angaur;карта местонахождения;1;1;from
+Q530813;Angaur;код Freebase;1;1;from
+Q530813;Angaur;Who's on First ID;1;1;from
+Q530813;Angaur;FIPS 6-4 (код округа в США);1;1;from
+Q530813;Angaur;FIPS 10-4 (страны и регионы);1;1;from
+Q871222;Kayangel;код GNIS;1;1;from
+Q871222;Kayangel;ISO 3166-2;1;1;from
+Q871222;Kayangel;площадь;1;1;from
+Q871222;Kayangel;код TGN;1;1;from
+Q871222;Kayangel;код GeoNames;1;1;from
+Q871222;Kayangel;изображение флага;1;1;from
+Q871222;Kayangel;это частный случай понятия;1;1;from
+Q871222;Kayangel;карта местонахождения;1;1;from
+Q871222;Kayangel;государство;1;1;from
+Q871222;Kayangel;административно-территориальная единица;1;2;to
+Q530813;Angaur;административно делится на;1;1;to
+Q530813;Angaur;место рождения;1;1;to
+Q530813;Angaur;общая тема категории;1;1;to
+Q530813;Angaur;происходит из;1;1;to
+Q530813;Angaur;является столицей;1;1;to
+Q530813;Angaur;местонахождение;1;1;to
+Q530813;Angaur;основная категория по теме;1;1;from
+Q530813;Angaur;код GND;1;1;from
+Q530813;Angaur;код VIAF;1;1;from
+Q530813;Angaur;находится на берегу водоёма;1;1;from
+Q497981;Peleliu;ISO 3166-2;1;1;from
+Q497981;Peleliu;позиционная карта;1;1;from
+Q497981;Peleliu;код TGN;1;1;from
+Q497981;Peleliu;код GeoNames;1;1;from
+Q497981;Peleliu;код US National Archives;1;1;from
+Q497981;Peleliu;изображение флага;1;1;from
+Q497981;Peleliu;столица;1;1;from
+Q497981;Peleliu;это частный случай понятия;1;1;from
+Q497981;Peleliu;код LCNAF;1;1;from
+Q497981;Peleliu;карта местонахождения;1;1;from
+Q497981;Peleliu;код VIAF;1;1;from
+Q497981;Peleliu;государство;1;1;from
+Q497981;Peleliu;административно-территориальная единица;1;19;to
+Q430385;Ngatpang;административно делится на;1;1;to
+Q430385;Ngatpang;общая тема категории;1;1;to
+Q430385;Ngatpang;основная категория по теме;1;1;from
+Q430385;Ngatpang;FIPS 10-4 (страны и регионы);1;1;from
+Q430385;Ngatpang;FIPS 6-4 (код округа в США);1;1;from
+Q497981;Peleliu;площадь;1;1;from
+Q497981;Peleliu;код NDL;1;1;from
+Q530813;Angaur;государство;1;1;from
+Q497981;Peleliu;категория на Викискладе;1;1;from
+Q530813;Angaur;административно-территориальная единица;1;3;to
+Q497981;Peleliu;административно делится на;1;1;to
+Q497981;Peleliu;общая тема категории;1;1;to
+Q497981;Peleliu;местонахождение;1;1;to
+Q497981;Peleliu;место рождения;1;6;to
+Q497981;Peleliu;является столицей;1;1;to
+Q497981;Peleliu;место смерти;1;8;to
+Q497981;Peleliu;основная категория по теме;1;1;from
+Q497981;Peleliu;FIPS 10-4 (страны и регионы);1;1;from
+Q497981;Peleliu;FIPS 6-4 (код округа в США);1;1;from
+Q497981;Peleliu;код NKC;1;1;from
+Q497981;Peleliu;Who's on First ID;1;1;from
+Q497981;Peleliu;код Freebase;1;1;from
+Q497981;Peleliu;географические координаты;1;1;from
+Q497981;Peleliu;код GNIS;1;1;from
+Q497981;Peleliu;идентификатор местоположения ArchINFORM;1;1;from
+Q497981;Peleliu;часовой пояс;1;1;from
+Q12898552;Melekeok;общая тема категории;1;1;to

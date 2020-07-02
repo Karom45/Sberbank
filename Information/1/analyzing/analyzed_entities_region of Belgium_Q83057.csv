@@ -1,0 +1,326 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q231;Wallonia;административно-территориальная единица;1;32;to
+Q240;Brussels-Capital Region;владеет;1;3;from
+Q240;Brussels-Capital Region;геоданные;1;1;from
+Q240;Brussels-Capital Region;категория на Викискладе;1;1;from
+Q240;Brussels-Capital Region;код автора на Babelio;1;1;from
+Q240;Brussels-Capital Region;часть от;1;2;from
+Q240;Brussels-Capital Region;идентификатор Ringgold;1;1;from
+Q240;Brussels-Capital Region;код темы Quora;1;1;from
+Q240;Brussels-Capital Region;код Католической энциклопедии;1;1;from
+Q240;Brussels-Capital Region;ISO 3166-2;1;1;from
+Q240;Brussels-Capital Region;используемый язык;1;2;from
+Q240;Brussels-Capital Region;туристический центр;1;1;from
+Q240;Brussels-Capital Region;коллаж;1;1;from
+Q240;Brussels-Capital Region;код SUDOC;1;1;from
+Q240;Brussels-Capital Region;код BNF;1;2;from
+Q240;Brussels-Capital Region;код BabelNet;1;1;from
+Q240;Brussels-Capital Region;площадь;1;1;from
+Q240;Brussels-Capital Region;высота над уровнем моря;1;2;from
+Q240;Brussels-Capital Region;код места в Facebook;1;1;from
+Q240;Brussels-Capital Region;сабреддит;1;1;from
+Q240;Brussels-Capital Region;ID отношения в OpenStreetMap;1;1;from
+Q240;Brussels-Capital Region;часовой пояс;1;1;from
+Q240;Brussels-Capital Region;Who's on First ID;1;1;from
+Q240;Brussels-Capital Region;баннер Викигида;1;1;from
+Q240;Brussels-Capital Region;галерея на Викискладе;1;1;from
+Q240;Brussels-Capital Region;основная категория по теме;1;1;from
+Q240;Brussels-Capital Region;FIPS 10-4 (страны и регионы);1;1;from
+Q240;Brussels-Capital Region;официальный сайт;1;1;from
+Q240;Brussels-Capital Region;категория карт на Викискладе;1;1;from
+Q240;Brussels-Capital Region;French Vikidia ID;1;1;from
+Q240;Brussels-Capital Region;код Freebase;1;1;from
+Q240;Brussels-Capital Region;местный телефонный код;1;1;from
+Q240;Brussels-Capital Region;географические координаты;1;1;from
+Q240;Brussels-Capital Region;код NUTS;1;1;from
+Q240;Brussels-Capital Region;ежегодное количество свадеб;1;1;from
+Q240;Brussels-Capital Region;дата основания/создания/возникновения;1;1;from
+Q240;Brussels-Capital Region;идентификатор местоположения ArchINFORM;1;1;from
+Q240;Brussels-Capital Region;анклав в;1;2;from
+Q240;Brussels-Capital Region;рабочий список проекта Викимедиа;1;1;from
+Q240;Brussels-Capital Region;не путать с;1;2;to
+Q240;Brussels-Capital Region;категория для людей, связанных с местностью;1;1;from
+Q240;Brussels-Capital Region;административно-территориальная единица;1;169;to
+Q240;Brussels-Capital Region;категория для людей, похороненных здесь;1;1;from
+Q240;Brussels-Capital Region;имеет границы с;1;3;to
+Q240;Brussels-Capital Region;изображение флага;1;1;from
+Q240;Brussels-Capital Region;официальный язык;1;2;from
+Q240;Brussels-Capital Region;столица;1;3;to
+Q240;Brussels-Capital Region;это частный случай понятия;1;1;from
+Q240;Brussels-Capital Region;часть света;1;1;from
+Q240;Brussels-Capital Region;код LCNAF;1;1;from
+Q240;Brussels-Capital Region;карта местонахождения;1;1;from
+Q240;Brussels-Capital Region;код GND;1;1;from
+Q240;Brussels-Capital Region;код VIAF;1;1;from
+Q240;Brussels-Capital Region;код ISNI;1;1;from
+Q240;Brussels-Capital Region;законодательный орган;1;1;from
+Q240;Brussels-Capital Region;город-побратим;1;4;to
+Q240;Brussels-Capital Region;изображение;1;1;from
+Q240;Brussels-Capital Region;государство;1;1;from
+Q240;Brussels-Capital Region;описание флага;1;1;from
+Q240;Brussels-Capital Region;предыдущее по порядку;1;1;from
+Q240;Brussels-Capital Region;глава правительства;1;1;from
+Q240;Brussels-Capital Region;изображение герба;1;1;from
+Q240;Brussels-Capital Region;десятичная классификация Дьюи;1;1;from
+Q240;Brussels-Capital Region;категория для людей, родившихся здесь;1;1;from
+Q240;Brussels-Capital Region;категория фильмов, снятых в этом месте;1;1;from
+Q240;Brussels-Capital Region;название на языке оригинала;1;2;from
+Q240;Brussels-Capital Region;код TGN;1;1;from
+Q240;Brussels-Capital Region;код NIS/INS;1;1;from
+Q240;Brussels-Capital Region;код GeoNames;1;1;from
+Q240;Brussels-Capital Region;этнохороним;1;2;from
+Q240;Brussels-Capital Region;категория для людей, умерших здесь;1;1;from
+Q240;Brussels-Capital Region;список памятников;1;1;from
+Q240;Brussels-Capital Region;численность населения;1;4;from
+Q240;Brussels-Capital Region;официальное название;1;1;from
+Q240;Brussels-Capital Region;основной шаблон по теме;1;1;from
+Q240;Brussels-Capital Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q240;Brussels-Capital Region;является столицей;1;1;to
+Q240;Brussels-Capital Region;описывается в источниках;1;2;from
+Q240;Brussels-Capital Region;должность главы правительства;1;1;from
+Q240;Brussels-Capital Region;значение в OmegaWiki;1;1;from
+Q240;Brussels-Capital Region;место в MusicBrainz;1;1;from
+Q240;Brussels-Capital Region;юрисдикция распространяется на;1;22;to
+Q240;Brussels-Capital Region;происходит из;1;2;to
+Q240;Brussels-Capital Region;место создания;1;9;to
+Q9337;Flemish Region;географические координаты;1;1;from
+Q9337;Flemish Region;код NUTS;1;1;from
+Q9337;Flemish Region;ежегодное количество свадеб;1;1;from
+Q9337;Flemish Region;дата основания/создания/возникновения;1;1;from
+Q9337;Flemish Region;код EMLO location;1;1;from
+Q9337;Flemish Region;предположительно одно и то же с;1;1;to
+Q9337;Flemish Region;ID отношения в OpenStreetMap;1;1;from
+Q9337;Flemish Region;категория на Викискладе;1;1;from
+Q9337;Flemish Region;код NE.se;1;1;from
+Q9337;Flemish Region;ISO 3166-2;1;1;from
+Q9337;Flemish Region;используемый язык;1;1;from
+Q9337;Flemish Region;площадь;1;1;from
+Q9337;Flemish Region;владеет;1;8;from
+Q9337;Flemish Region;короткое название;1;1;from
+Q9337;Flemish Region;категория для людей, связанных с местностью;1;1;from
+Q9337;Flemish Region;название на языке оригинала;1;1;from
+Q9337;Flemish Region;код TGN;1;1;from
+Q9337;Flemish Region;находится в пределах природно-географического объекта;1;1;from
+Q9337;Flemish Region;French Vikidia ID;1;1;from
+Q9337;Flemish Region;официальный сайт;1;2;from
+Q9337;Flemish Region;гражданство;1;4;to
+Q9337;Flemish Region;общая тема категории;1;1;to
+Q9337;Flemish Region;категория объединяет темы;1;4;to
+Q9337;Flemish Region;местонахождение;1;1;to
+Q9337;Flemish Region;эксклав от;1;1;to
+Q9337;Flemish Region;место смерти;1;2;to
+Q9337;Flemish Region;юрисдикция распространяется на;1;11;to
+Q9337;Flemish Region;страна происхождения;1;2;to
+Q9337;Flemish Region;состоит из;1;2;to
+Q9337;Flemish Region;основная категория по теме;1;1;from
+Q9337;Flemish Region;основная тема портала Викимедиа;1;1;to
+Q9337;Flemish Region;основная тема;1;1;to
+Q9337;Flemish Region;часть от;1;1;to
+Q9337;Flemish Region;владельцем является;1;8;to
+Q9337;Flemish Region;место рождения;1;18;to
+Q9337;Flemish Region;анклав в;1;1;to
+Q9337;Flemish Region;место в MusicBrainz;1;1;from
+Q9337;Flemish Region;код GeoNames;1;1;from
+Q9337;Flemish Region;категория для людей, умерших здесь;1;1;from
+Q9337;Flemish Region;категория для людей, родившихся здесь;1;1;from
+Q240;Brussels-Capital Region;названо в честь;1;1;to
+Q240;Brussels-Capital Region;владельцем является;1;3;to
+Q240;Brussels-Capital Region;лицензия на вещание в;1;1;to
+Q240;Brussels-Capital Region;основная тема;1;3;to
+Q240;Brussels-Capital Region;зона обслуживания;1;2;to
+Q240;Brussels-Capital Region;место погребения;1;2;to
+Q240;Brussels-Capital Region;изображённый объект;1;3;to
+Q240;Brussels-Capital Region;состоит из;1;4;to
+Q240;Brussels-Capital Region;тематически относится к;1;1;to
+Q240;Brussels-Capital Region;обслуживаемый город;1;2;to
+Q240;Brussels-Capital Region;местонахождение;1;36;to
+Q240;Brussels-Capital Region;место жительства;1;29;to
+Q240;Brussels-Capital Region;основная тема портала Викимедиа;1;1;to
+Q240;Brussels-Capital Region;место смерти;1;153;to
+Q240;Brussels-Capital Region;место рождения;1;229;to
+Q240;Brussels-Capital Region;расположение штаб-квартиры;1;152;to
+Q240;Brussels-Capital Region;категория объединяет темы;1;8;to
+Q240;Brussels-Capital Region;основная тема шаблона;1;1;to
+Q240;Brussels-Capital Region;в этом списке перечисляются;1;1;to
+Q9337;Flemish Region;официальное название;1;1;from
+Q9337;Flemish Region;официальный язык;1;1;from
+Q9337;Flemish Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q9337;Flemish Region;портал Викимедиа;1;1;from
+Q9337;Flemish Region;численность населения;1;1;from
+Q9337;Flemish Region;изображение герба;1;1;from
+Q9337;Flemish Region;глава правительства;1;1;from
+Q9337;Flemish Region;имеет границы с;1;2;to
+Q9337;Flemish Region;изображение флага;1;1;from
+Q9337;Flemish Region;столица;1;1;from
+Q240;Brussels-Capital Region;место изготовления;1;1;to
+Q9337;Flemish Region;это частный случай понятия;1;1;from
+Q9337;Flemish Region;карта местонахождения;1;2;from
+Q9337;Flemish Region;государство;1;1;from
+Q9337;Flemish Region;административно делится на;1;1;to
+Q9337;Flemish Region;административно-территориальная единица;1;8;to
+Q240;Brussels-Capital Region;общая тема категории;1;1;to
+Q240;Brussels-Capital Region;следующее по порядку;1;1;to
+Q240;Brussels-Capital Region;административно делится на;1;1;to
+Q234;Flanders;находится в пределах природно-географического объекта;1;1;to
+Q231;Wallonia;административно делится на;1;1;to
+Q231;Wallonia;категория на Викискладе;1;1;from
+Q231;Wallonia;место в MusicBrainz;1;1;from
+Q231;Wallonia;баннер Викигида;1;1;from
+Q231;Wallonia;галерея на Викискладе;1;1;from
+Q231;Wallonia;основная категория по теме;1;1;from
+Q231;Wallonia;официальный сайт;1;1;from
+Q231;Wallonia;категория карт на Викискладе;1;1;from
+Q231;Wallonia;French Vikidia ID;1;1;from
+Q231;Wallonia;код Freebase;1;1;from
+Q231;Wallonia;географические координаты;1;1;from
+Q231;Wallonia;наивысшая точка;1;1;from
+Q231;Wallonia;код NUTS;1;1;from
+Q231;Wallonia;ежегодное количество свадеб;1;1;from
+Q231;Wallonia;дата основания/создания/возникновения;1;1;from
+Q231;Wallonia;идентификатор местоположения ArchINFORM;1;1;from
+Q231;Wallonia;код онлайн-версии Энциклопедии Брокгауз;1;1;from
+Q231;Wallonia;произношение (звуковой файл);1;1;from
+Q231;Wallonia;часовой пояс;1;1;from
+Q231;Wallonia;юрисдикция распространяется на;1;15;to
+Q231;Wallonia;владельцем является;1;8;to
+Q231;Wallonia;категория объединяет темы;1;8;to
+Q231;Wallonia;источник материала;1;1;to
+Q231;Wallonia;общая тема категории;1;1;to
+Q231;Wallonia;эксклав от;1;1;to
+Q231;Wallonia;названо в честь;1;2;to
+Q231;Wallonia;история происходит в месте;1;1;to
+Q231;Wallonia;зона обслуживания;1;1;to
+Q231;Wallonia;анклав в;1;1;to
+Q231;Wallonia;место смерти;1;2;to
+Q231;Wallonia;представляет;1;1;to
+Q231;Wallonia;является столицей;1;1;to
+Q231;Wallonia;происходит из;1;2;to
+Q231;Wallonia;место жительства;1;1;to
+Q231;Wallonia;местонахождение;1;5;to
+Q231;Wallonia;место рождения;1;8;to
+Q231;Wallonia;состоит из;1;1;to
+Q231;Wallonia;основная тема портала Викимедиа;1;1;to
+Q231;Wallonia;основная тема;1;4;to
+Q231;Wallonia;ID отношения в OpenStreetMap;1;1;from
+Q231;Wallonia;код темы Quora;1;1;from
+Q234;Flanders;производящая компания;1;1;to
+Q231;Wallonia;ISO 3166-2;1;1;from
+Q231;Wallonia;портал Викимедиа;1;1;from
+Q231;Wallonia;численность населения;1;1;from
+Q231;Wallonia;изображение герба;1;1;from
+Q231;Wallonia;глава правительства;1;1;from
+Q231;Wallonia;имеет границы с;1;7;to
+Q231;Wallonia;изображение флага;1;1;from
+Q231;Wallonia;официальный язык;1;2;from
+Q231;Wallonia;столица;1;1;from
+Q231;Wallonia;это частный случай понятия;1;1;from
+Q231;Wallonia;часть света;1;1;from
+Q231;Wallonia;карта местонахождения;1;1;from
+Q231;Wallonia;код GND;1;1;from
+Q231;Wallonia;код VIAF;1;1;from
+Q231;Wallonia;законодательный орган;1;1;from
+Q231;Wallonia;изображение;1;1;from
+Q231;Wallonia;государство;1;1;from
+Q231;Wallonia;описание флага;1;1;from
+Q231;Wallonia;значение в OmegaWiki;1;1;from
+Q231;Wallonia;код в Большой каталанской энциклопедии;1;1;from
+Q231;Wallonia;должность главы правительства;1;1;from
+Q231;Wallonia;владеет;1;6;from
+Q231;Wallonia;используемый язык;1;1;from
+Q231;Wallonia;код BNF;1;1;from
+Q231;Wallonia;код BabelNet;1;1;from
+Q231;Wallonia;площадь;1;1;from
+Q231;Wallonia;высота над уровнем моря;1;1;from
+Q231;Wallonia;позиционная карта;1;1;from
+Q231;Wallonia;не путать с;1;1;to
+Q231;Wallonia;категория для людей, похороненных здесь;1;1;from
+Q231;Wallonia;описывается в источниках;1;1;from
+Q231;Wallonia;код TGN;1;1;from
+Q231;Wallonia;код NIS/INS;1;1;from
+Q231;Wallonia;код GeoNames;1;1;from
+Q231;Wallonia;этнохороним;1;1;from
+Q231;Wallonia;категория для людей, умерших здесь;1;1;from
+Q231;Wallonia;категория для людей, родившихся здесь;1;1;from
+Q231;Wallonia;код в энциклопедии «Британника онлайн»;1;1;from
+Q231;Wallonia;часть от;1;3;to
+Q231;Wallonia;место погребения;1;1;to
+Q234;Flanders;административно-территориальная единица;1;24;to
+Q234;Flanders;административно делится на;1;1;from
+Q234;Flanders;происходит из;1;3;to
+Q234;Flanders;состоит из;1;1;to
+Q234;Flanders;является столицей;1;1;to
+Q234;Flanders;юрисдикция распространяется на;1;15;to
+Q234;Flanders;dmoz;1;1;from
+Q234;Flanders;баннер Викигида;1;1;from
+Q234;Flanders;основная категория по теме;1;1;from
+Q234;Flanders;официальный сайт;1;1;from
+Q234;Flanders;категория карт на Викискладе;1;1;from
+Q234;Flanders;код Freebase;1;1;from
+Q234;Flanders;идентификатор Dizionario di Storia;1;1;from
+Q234;Flanders;географические координаты;1;1;from
+Q234;Flanders;дата основания/создания/возникновения;1;1;from
+Q234;Flanders;идентификатор местоположения ArchINFORM;1;1;from
+Q234;Flanders;ID отношения в OpenStreetMap;1;1;from
+Q234;Flanders;категория на Викискладе;1;1;from
+Q234;Flanders;часть от;1;2;to
+Q234;Flanders;место изготовления;1;6;to
+Q234;Flanders;местонахождение;1;18;to
+Q234;Flanders;место рождения;1;49;to
+Q234;Flanders;категория объединяет темы;1;9;to
+Q234;Flanders;общая тема категории;1;1;to
+Q234;Flanders;владельцем является;1;1;to
+Q234;Flanders;место создания;1;2;to
+Q234;Flanders;зона обслуживания;1;4;to
+Q234;Flanders;основная тема;1;7;to
+Q234;Flanders;в этом списке перечисляются;1;1;to
+Q234;Flanders;состоит из представителей класса;1;1;to
+Q234;Flanders;гражданство;1;28;to
+Q234;Flanders;названо в честь;1;8;to
+Q234;Flanders;находится в пользовании у;1;1;to
+Q234;Flanders;тематически относится к;1;1;to
+Q234;Flanders;место активности;1;3;to
+Q234;Flanders;место смерти;1;26;to
+Q234;Flanders;страна происхождения;1;4;to
+Q234;Flanders;лицензия на вещание в;1;1;to
+Q234;Flanders;история происходит в месте;1;4;to
+Q234;Flanders;код Католической энциклопедии;1;1;from
+Q234;Flanders;ISO 3166-2;1;1;from
+Q234;Flanders;используемый язык;1;2;from
+Q234;Flanders;карта местонахождения;1;1;from
+Q234;Flanders;глава правительства;1;2;from
+Q234;Flanders;имеет границы с;1;2;to
+Q234;Flanders;изображение флага;1;1;from
+Q234;Flanders;официальный язык;1;1;from
+Q234;Flanders;столица;1;1;from
+Q234;Flanders;это частный случай понятия;1;2;from
+Q234;Flanders;часть света;1;1;from
+Q234;Flanders;описание герба;1;1;from
+Q234;Flanders;изображение герба;1;1;from
+Q234;Flanders;код GND;1;1;from
+Q234;Flanders;код VIAF;1;1;from
+Q234;Flanders;исполнительная власть;1;1;from
+Q234;Flanders;законодательный орган;1;1;from
+Q234;Flanders;изображение;1;1;from
+Q234;Flanders;государство;1;1;from
+Q234;Flanders;описание флага;1;1;from
+Q234;Flanders;гимн;1;1;from
+Q234;Flanders;десятичная классификация Дьюи;1;1;from
+Q234;Flanders;код BNF;1;1;from
+Q234;Flanders;код NIS/INS;1;1;from
+Q234;Flanders;код BabelNet;1;1;from
+Q234;Flanders;код YSO;1;1;from
+Q234;Flanders;площадь;1;1;from
+Q234;Flanders;код GAMEO;1;1;from
+Q234;Flanders;владеет;1;1;from
+Q234;Flanders;категория для людей, похороненных здесь;1;1;from
+Q234;Flanders;название на языке оригинала;1;1;from
+Q234;Flanders;код GeoNames;1;1;from
+Q234;Flanders;численность населения;1;1;from
+Q234;Flanders;этнохороним;1;9;from
+Q234;Flanders;категория для людей, умерших здесь;1;1;from
+Q234;Flanders;официальное название;1;1;from
+Q234;Flanders;код в энциклопедии «Британника онлайн»;1;2;from
+Q234;Flanders;описывается в источниках;1;2;from
+Q234;Flanders;должность главы правительства;1;1;from
+Q234;Flanders;код в Большой каталанской энциклопедии;1;1;from
+Q9337;Flemish Region;происходит из;1;1;to

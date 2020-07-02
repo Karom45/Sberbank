@@ -1,0 +1,54 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q197877;South Central China;государство;1;1;from
+Q1062525;East China;баннер Викигида;1;1;from
+Q1062525;East China;местонахождение;1;2;to
+Q1062525;East China;категория объединяет темы;1;1;to
+Q1062525;East China;часть от;1;1;to
+Q1153001;Northwest China;государство;1;1;from
+Q1153001;Northwest China;код VIAF;1;1;from
+Q1153001;Northwest China;это частный случай понятия;1;1;from
+Q1153001;Northwest China;географические координаты;1;1;from
+Q1153001;Northwest China;код Freebase;1;1;from
+Q1153001;Northwest China;основная категория по теме;1;1;from
+Q1153001;Northwest China;баннер Викигида;1;1;from
+Q1153001;Northwest China;общая тема категории;1;1;to
+Q1153001;Northwest China;основная тема;1;1;to
+Q1153001;Northwest China;часть от;1;2;to
+Q1190484;Southwest China;административно-территориальная единица;1;1;from
+Q1190484;Southwest China;государство;1;1;from
+Q1190484;Southwest China;код VIAF;1;1;from
+Q1190484;Southwest China;это частный случай понятия;1;1;from
+Q1190484;Southwest China;код Freebase;1;1;from
+Q1190484;Southwest China;основная категория по теме;1;1;from
+Q1190484;Southwest China;баннер Викигида;1;1;from
+Q1190484;Southwest China;основная тема;1;4;to
+Q1190484;Southwest China;местонахождение;1;1;to
+Q1190484;Southwest China;общая тема категории;1;1;to
+Q1062525;East China;общая тема категории;1;1;to
+Q1062525;East China;основная категория по теме;1;1;from
+Q197877;South Central China;это частный случай понятия;1;1;from
+Q1062525;East China;код Freebase;1;1;from
+Q197877;South Central China;часть от;1;2;to
+Q197877;South Central China;категория на Викискладе;1;1;from
+Q197877;South Central China;код Freebase;1;1;from
+Q197877;South Central China;основная категория по теме;1;1;from
+Q197877;South Central China;баннер Викигида;1;1;from
+Q197877;South Central China;общая тема категории;1;1;to
+Q1046848;North China;государство;1;1;from
+Q1046848;North China;карта местонахождения;1;1;from
+Q1046848;North China;это частный случай понятия;1;1;from
+Q1046848;North China;код в энциклопедии «Британника онлайн»;1;1;from
+Q1046848;North China;площадь;1;1;from
+Q1046848;North China;состоит из;1;1;from
+Q1046848;North China;код Freebase;1;1;from
+Q1046848;North China;баннер Викигида;1;1;from
+Q1046848;North China;местонахождение;1;10;to
+Q1046848;North China;находится в пределах природно-географического объекта;1;1;to
+Q1046848;North China;место жительства;1;1;to
+Q1046848;North China;основная тема;1;2;to
+Q1046848;North China;часть от;1;3;to
+Q1062525;East China;государство;1;1;from
+Q1062525;East China;карта местонахождения;1;1;from
+Q1062525;East China;это частный случай понятия;1;2;from
+Q1062525;East China;географические координаты;1;1;from
+Q1190484;Southwest China;находится в пределах природно-географического объекта;1;1;to

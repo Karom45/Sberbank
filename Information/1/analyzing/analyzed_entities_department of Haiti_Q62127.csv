@@ -1,0 +1,221 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q125232;Nippes;административно-территориальная единица;1;90;to
+Q936704;Sud;основная категория по теме;1;1;from
+Q936704;Sud;десятичная классификация Дьюи;1;1;from
+Q936704;Sud;код GeoNames;1;1;from
+Q936704;Sud;код TGN;1;1;from
+Q936704;Sud;площадь;1;1;from
+Q936704;Sud;ISO 3166-2;1;1;from
+Q936704;Sud;категория на Викискладе;1;1;from
+Q936704;Sud;ID отношения в OpenStreetMap;1;1;from
+Q936704;Sud;географические координаты;1;1;from
+Q936704;Sud;код Freebase;1;1;from
+Q936704;Sud;Who's on First ID;1;1;from
+Q936704;Sud;FIPS 10-4 (страны и регионы);1;1;from
+Q936704;Sud;место в MusicBrainz;1;1;from
+Q936704;Sud;столица;1;1;from
+Q936704;Sud;общая тема категории;1;1;to
+Q936704;Sud;административно делится на;1;1;to
+Q936717;Sud-Est;административно-территориальная единица;1;257;to
+Q936717;Sud-Est;государство;1;1;from
+Q936717;Sud-Est;карта местонахождения;1;1;from
+Q936717;Sud-Est;это частный случай понятия;1;1;from
+Q936717;Sud-Est;столица;1;1;from
+Q936717;Sud-Est;десятичная классификация Дьюи;1;1;from
+Q936717;Sud-Est;код GeoNames;1;1;from
+Q936717;Sud-Est;код TGN;1;1;from
+Q936717;Sud-Est;площадь;1;1;from
+Q936704;Sud;имеет границы с;1;1;to
+Q936704;Sud;это частный случай понятия;1;1;from
+Q125232;Nippes;административно делится на;1;1;to
+Q928694;Nord-Est;площадь;1;1;from
+Q913231;Grand'Anse;является столицей;1;1;to
+Q928694;Nord-Est;административно-территориальная единица;1;171;to
+Q928694;Nord-Est;административно делится на;1;1;to
+Q928694;Nord-Est;государство;1;1;from
+Q928694;Nord-Est;карта местонахождения;1;1;from
+Q928694;Nord-Est;это частный случай понятия;1;1;from
+Q928694;Nord-Est;столица;1;1;from
+Q928694;Nord-Est;код в Большой каталанской энциклопедии;1;1;from
+Q928694;Nord-Est;код ihsi;1;1;from
+Q928694;Nord-Est;код GeoNames;1;1;from
+Q928694;Nord-Est;код TGN;1;1;from
+Q928694;Nord-Est;ISO 3166-2;1;1;from
+Q936704;Sud;карта местонахождения;1;1;from
+Q928694;Nord-Est;категория на Викискладе;1;1;from
+Q928694;Nord-Est;ID отношения в OpenStreetMap;1;1;from
+Q928694;Nord-Est;географические координаты;1;1;from
+Q928694;Nord-Est;код Freebase;1;1;from
+Q928694;Nord-Est;Who's on First ID;1;1;from
+Q928694;Nord-Est;FIPS 10-4 (страны и регионы);1;1;from
+Q928694;Nord-Est;основная категория по теме;1;1;from
+Q928694;Nord-Est;общая тема категории;1;1;to
+Q928694;Nord-Est;является столицей;1;1;to
+Q936704;Sud;административно-территориальная единица;1;254;to
+Q936704;Sud;государство;1;1;from
+Q936717;Sud-Est;ISO 3166-2;1;1;from
+Q936717;Sud-Est;категория на Викискладе;1;1;from
+Q936717;Sud-Est;ID отношения в OpenStreetMap;1;1;from
+Q1434621;Ouest;высота над уровнем моря;1;1;from
+Q943932;Nord;административно делится на;1;1;to
+Q1434621;Ouest;административно-территориальная единица;1;382;to
+Q1434621;Ouest;административно делится на;1;1;to
+Q1434621;Ouest;государство;1;1;from
+Q1434621;Ouest;карта местонахождения;1;1;from
+Q1434621;Ouest;это частный случай понятия;1;1;from
+Q1434621;Ouest;столица;1;1;from
+Q1434621;Ouest;десятичная классификация Дьюи;1;1;from
+Q1434621;Ouest;код ihsi;1;1;from
+Q1434621;Ouest;код GeoNames;1;1;from
+Q1434621;Ouest;код TGN;1;1;from
+Q1434621;Ouest;площадь;1;1;from
+Q936717;Sud-Est;географические координаты;1;1;from
+Q1434621;Ouest;код BabelNet;1;1;from
+Q1434621;Ouest;ISO 3166-2;1;1;from
+Q1434621;Ouest;категория на Викискладе;1;1;from
+Q1434621;Ouest;ID отношения в OpenStreetMap;1;1;from
+Q1434621;Ouest;географические координаты;1;2;from
+Q1434621;Ouest;код Freebase;1;1;from
+Q1434621;Ouest;Who's on First ID;1;1;from
+Q1434621;Ouest;FIPS 10-4 (страны и регионы);1;1;from
+Q1434621;Ouest;основная категория по теме;1;1;from
+Q1434621;Ouest;место в MusicBrainz;1;1;from
+Q1434621;Ouest;общая тема категории;1;1;to
+Q943932;Nord;общая тема категории;1;1;to
+Q943932;Nord;местонахождение;1;1;to
+Q943932;Nord;место в MusicBrainz;1;1;from
+Q943932;Nord;основная категория по теме;1;1;from
+Q936717;Sud-Est;код Freebase;1;1;from
+Q936717;Sud-Est;Who's on First ID;1;1;from
+Q936717;Sud-Est;FIPS 10-4 (страны и регионы);1;1;from
+Q936717;Sud-Est;основная категория по теме;1;1;from
+Q936717;Sud-Est;общая тема категории;1;1;to
+Q936717;Sud-Est;является столицей;1;1;to
+Q936717;Sud-Est;административно делится на;1;1;to
+Q943932;Nord;административно-территориальная единица;1;356;to
+Q943932;Nord;государство;1;1;from
+Q943932;Nord;карта местонахождения;1;1;from
+Q943932;Nord;это частный случай понятия;1;1;from
+Q943932;Nord;столица;1;1;from
+Q943932;Nord;код в Большой каталанской энциклопедии;1;1;from
+Q943932;Nord;код GeoNames;1;1;from
+Q943932;Nord;код TGN;1;1;from
+Q943932;Nord;площадь;1;1;from
+Q943932;Nord;код BabelNet;1;1;from
+Q943932;Nord;ISO 3166-2;1;1;from
+Q943932;Nord;ID отношения в OpenStreetMap;1;1;from
+Q943932;Nord;географические координаты;1;1;from
+Q943932;Nord;код Freebase;1;1;from
+Q943932;Nord;Who's on First ID;1;1;from
+Q943932;Nord;FIPS 10-4 (страны и регионы);1;1;from
+Q913231;Grand'Anse;общая тема категории;1;1;to
+Q913231;Grand'Anse;место рождения;1;1;to
+Q913231;Grand'Anse;основная категория по теме;1;1;from
+Q608361;Nord-Ouest;основная категория по теме;1;1;from
+Q608361;Nord-Ouest;код ihsi;1;1;from
+Q608361;Nord-Ouest;код GeoNames;1;1;from
+Q608361;Nord-Ouest;код TGN;1;1;from
+Q608361;Nord-Ouest;площадь;1;1;from
+Q608361;Nord-Ouest;ISO 3166-2;1;1;from
+Q608361;Nord-Ouest;категория на Викискладе;1;1;from
+Q608361;Nord-Ouest;ID отношения в OpenStreetMap;1;1;from
+Q608361;Nord-Ouest;географические координаты;1;1;from
+Q608361;Nord-Ouest;код Freebase;1;1;from
+Q608361;Nord-Ouest;Who's on First ID;1;1;from
+Q608361;Nord-Ouest;FIPS 10-4 (страны и регионы);1;1;from
+Q608361;Nord-Ouest;общая тема категории;1;1;to
+Q844024;Artibonite;площадь;1;1;from
+Q608361;Nord-Ouest;является столицей;1;1;to
+Q844024;Artibonite;административно-территориальная единица;1;414;to
+Q844024;Artibonite;административно делится на;1;1;to
+Q844024;Artibonite;государство;1;1;from
+Q844024;Artibonite;карта местонахождения;1;1;from
+Q844024;Artibonite;это частный случай понятия;1;1;from
+Q844024;Artibonite;столица;1;1;from
+Q844024;Artibonite;десятичная классификация Дьюи;1;1;from
+Q844024;Artibonite;код в Большой каталанской энциклопедии;1;1;from
+Q844024;Artibonite;код ihsi;1;1;from
+Q844024;Artibonite;код GeoNames;1;1;from
+Q608361;Nord-Ouest;столица;1;1;from
+Q608361;Nord-Ouest;это частный случай понятия;1;1;from
+Q608361;Nord-Ouest;карта местонахождения;1;1;from
+Q608361;Nord-Ouest;государство;1;1;from
+Q125232;Nippes;государство;1;1;from
+Q125232;Nippes;карта местонахождения;1;1;from
+Q125232;Nippes;это частный случай понятия;1;1;from
+Q125232;Nippes;столица;1;1;from
+Q125232;Nippes;имеет границы с;1;1;to
+Q125232;Nippes;код ihsi;1;1;from
+Q125232;Nippes;код GeoNames;1;1;from
+Q125232;Nippes;код TGN;1;1;from
+Q125232;Nippes;площадь;1;1;from
+Q125232;Nippes;ISO 3166-2;1;1;from
+Q125232;Nippes;категория на Викискладе;1;1;from
+Q125232;Nippes;код автомобильного номера;1;1;from
+Q125232;Nippes;ID отношения в OpenStreetMap;1;1;from
+Q125232;Nippes;дата основания/создания/возникновения;1;1;from
+Q125232;Nippes;географические координаты;1;1;from
+Q125232;Nippes;код Freebase;1;1;from
+Q125232;Nippes;Who's on First ID;1;1;from
+Q125232;Nippes;FIPS 10-4 (страны и регионы);1;1;from
+Q125232;Nippes;основная категория по теме;1;1;from
+Q125232;Nippes;является столицей;1;1;to
+Q125232;Nippes;общая тема категории;1;1;to
+Q608361;Nord-Ouest;административно-территориальная единица;1;177;to
+Q608361;Nord-Ouest;административно делится на;1;1;to
+Q844024;Artibonite;код TGN;1;1;from
+Q844024;Artibonite;ISO 3166-2;1;1;from
+Q913231;Grand'Anse;FIPS 10-4 (страны и регионы);1;2;from
+Q913231;Grand'Anse;столица;1;1;from
+Q844528;Centre;FIPS 10-4 (страны и регионы);1;1;from
+Q844528;Centre;основная категория по теме;1;1;from
+Q844528;Centre;баннер Викигида;1;1;from
+Q844528;Centre;находится в пределах природно-географического объекта;1;2;to
+Q844528;Centre;общая тема категории;1;1;to
+Q844528;Centre;является столицей;1;1;to
+Q913231;Grand'Anse;административно-территориальная единица;1;133;to
+Q913231;Grand'Anse;административно делится на;1;1;to
+Q913231;Grand'Anse;государство;1;1;from
+Q913231;Grand'Anse;карта местонахождения;1;1;from
+Q913231;Grand'Anse;это частный случай понятия;1;1;from
+Q913231;Grand'Anse;имеет границы с;1;2;to
+Q844024;Artibonite;категория на Викискладе;1;1;from
+Q913231;Grand'Anse;десятичная классификация Дьюи;1;1;from
+Q913231;Grand'Anse;код в Большой каталанской энциклопедии;1;1;from
+Q913231;Grand'Anse;код GeoNames;1;1;from
+Q913231;Grand'Anse;код TGN;1;1;from
+Q913231;Grand'Anse;площадь;1;1;from
+Q913231;Grand'Anse;ISO 3166-2;1;1;from
+Q913231;Grand'Anse;категория на Викискладе;1;1;from
+Q913231;Grand'Anse;ID отношения в OpenStreetMap;1;1;from
+Q913231;Grand'Anse;географические координаты;1;1;from
+Q913231;Grand'Anse;код Freebase;1;1;from
+Q913231;Grand'Anse;Who's on First ID;1;1;from
+Q844528;Centre;Who's on First ID;1;1;from
+Q844528;Centre;код Freebase;1;1;from
+Q844528;Centre;географические координаты;1;2;from
+Q844528;Centre;ID отношения в OpenStreetMap;1;1;from
+Q844024;Artibonite;ID отношения в OpenStreetMap;1;1;from
+Q844024;Artibonite;географические координаты;1;1;from
+Q844024;Artibonite;код Freebase;1;1;from
+Q844024;Artibonite;Who's on First ID;1;1;from
+Q844024;Artibonite;FIPS 10-4 (страны и регионы);1;1;from
+Q844024;Artibonite;основная категория по теме;1;1;from
+Q844024;Artibonite;место в MusicBrainz;1;1;from
+Q844024;Artibonite;местонахождение;1;1;to
+Q844024;Artibonite;общая тема категории;1;1;to
+Q844024;Artibonite;является столицей;1;1;to
+Q844528;Centre;административно-территориальная единица;1;226;to
+Q844528;Centre;административно делится на;1;1;to
+Q844528;Centre;государство;1;1;from
+Q844528;Centre;карта местонахождения;1;1;from
+Q844528;Centre;это частный случай понятия;1;1;from
+Q844528;Centre;столица;1;1;from
+Q844528;Centre;десятичная классификация Дьюи;1;1;from
+Q844528;Centre;код GeoNames;1;1;from
+Q844528;Centre;код TGN;1;1;from
+Q844528;Centre;высота над уровнем моря;1;1;from
+Q844528;Centre;площадь;1;1;from
+Q844528;Centre;ISO 3166-2;1;1;from
+Q844528;Centre;категория на Викискладе;1;1;from
+Q1434621;Ouest;является столицей;1;1;to

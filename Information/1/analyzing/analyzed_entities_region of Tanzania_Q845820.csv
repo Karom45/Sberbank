@@ -1,0 +1,723 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q115318;Ruvuma Region;административно-территориальная единица;1;106;to
+Q458406;Mara Region;административно делится на;1;1;to
+Q458412;Pwani Region;государство;1;1;from
+Q458412;Pwani Region;изображение;1;1;from
+Q458412;Pwani Region;карта местонахождения;1;1;from
+Q458412;Pwani Region;это частный случай понятия;1;1;from
+Q458412;Pwani Region;столица;1;1;from
+Q458412;Pwani Region;десятичная классификация Дьюи;1;1;from
+Q458412;Pwani Region;код GeoNames;1;1;from
+Q458412;Pwani Region;площадь;1;1;from
+Q458412;Pwani Region;используемый язык;1;12;from
+Q458412;Pwani Region;ISO 3166-2;1;1;from
+Q458412;Pwani Region;категория на Викискладе;1;1;from
+Q458412;Pwani Region;географические координаты;1;1;from
+Q458412;Pwani Region;код Freebase;1;1;from
+Q458412;Pwani Region;Who's on First ID;1;1;from
+Q458412;Pwani Region;руководящий орган;1;1;from
+Q458412;Pwani Region;официальный сайт;1;1;from
+Q458412;Pwani Region;FIPS 10-4 (страны и регионы);1;1;from
+Q458412;Pwani Region;основная категория по теме;1;1;from
+Q458412;Pwani Region;место в MusicBrainz;1;1;from
+Q458412;Pwani Region;административно-территориальная единица;1;103;to
+Q458406;Mara Region;общая тема категории;1;1;to
+Q499465;Mtwara Region;названо в честь;1;1;from
+Q458406;Mara Region;является столицей;1;1;to
+Q458406;Mara Region;изображение;1;1;from
+Q458406;Mara Region;карта местонахождения;1;1;from
+Q458406;Mara Region;это частный случай понятия;1;1;from
+Q458406;Mara Region;столица;1;1;from
+Q458406;Mara Region;код в Большой каталанской энциклопедии;1;1;from
+Q458406;Mara Region;код GeoNames;1;1;from
+Q458406;Mara Region;площадь;1;1;from
+Q458406;Mara Region;код BNF;1;1;from
+Q458406;Mara Region;используемый язык;1;15;from
+Q458406;Mara Region;ISO 3166-2;1;1;from
+Q458406;Mara Region;категория на Викискладе;1;1;from
+Q458406;Mara Region;географические координаты;1;1;from
+Q458406;Mara Region;код Freebase;1;1;from
+Q458406;Mara Region;Who's on First ID;1;1;from
+Q458406;Mara Region;официальный сайт;1;1;from
+Q458406;Mara Region;FIPS 10-4 (страны и регионы);1;1;from
+Q458406;Mara Region;основная категория по теме;1;1;from
+Q458406;Mara Region;происходит из;1;15;to
+Q458406;Mara Region;место рождения;1;2;to
+Q458412;Pwani Region;является столицей;1;1;to
+Q458412;Pwani Region;происходит из;1;12;to
+Q458412;Pwani Region;местонахождение;1;1;to
+Q458412;Pwani Region;общая тема категории;1;1;to
+Q498073;North Pemba Region;государство;1;1;from
+Q498073;North Pemba Region;изображение;1;1;from
+Q498073;North Pemba Region;карта местонахождения;1;1;from
+Q498073;North Pemba Region;это частный случай понятия;1;1;from
+Q498073;North Pemba Region;столица;1;1;from
+Q498073;North Pemba Region;код GeoNames;1;1;from
+Q498073;North Pemba Region;площадь;1;1;from
+Q498073;North Pemba Region;ISO 3166-2;1;1;from
+Q498073;North Pemba Region;категория на Викискладе;1;1;from
+Q498073;North Pemba Region;ID отношения в OpenStreetMap;1;1;from
+Q498073;North Pemba Region;географические координаты;1;1;from
+Q498073;North Pemba Region;код Freebase;1;1;from
+Q498073;North Pemba Region;Who's on First ID;1;1;from
+Q498073;North Pemba Region;официальный сайт;1;1;from
+Q498073;North Pemba Region;FIPS 10-4 (страны и регионы);1;1;from
+Q498073;North Pemba Region;основная категория по теме;1;1;from
+Q498073;North Pemba Region;является столицей;1;1;to
+Q498073;North Pemba Region;общая тема категории;1;1;to
+Q498073;North Pemba Region;административно делится на;1;1;to
+Q498073;North Pemba Region;административно-территориальная единица;1;95;to
+Q498067;South Pemba Region;административно делится на;1;1;to
+Q498067;South Pemba Region;общая тема категории;1;1;to
+Q498067;South Pemba Region;площадь;1;1;from
+Q458412;Pwani Region;административно делится на;1;1;to
+Q498067;South Pemba Region;административно-территориальная единица;1;92;to
+Q498067;South Pemba Region;государство;1;1;from
+Q498067;South Pemba Region;изображение;1;1;from
+Q498067;South Pemba Region;карта местонахождения;1;1;from
+Q498067;South Pemba Region;это частный случай понятия;1;1;from
+Q498067;South Pemba Region;столица;1;1;from
+Q498067;South Pemba Region;код GeoNames;1;1;from
+Q498067;South Pemba Region;ISO 3166-2;1;1;from
+Q498067;South Pemba Region;является столицей;1;1;to
+Q498067;South Pemba Region;категория на Викискладе;1;1;from
+Q498067;South Pemba Region;ID отношения в OpenStreetMap;1;1;from
+Q498067;South Pemba Region;географические координаты;1;1;from
+Q498067;South Pemba Region;код Freebase;1;1;from
+Q498067;South Pemba Region;Who's on First ID;1;1;from
+Q498067;South Pemba Region;официальный сайт;1;1;from
+Q498067;South Pemba Region;FIPS 10-4 (страны и регионы);1;1;from
+Q498067;South Pemba Region;основная категория по теме;1;1;from
+Q458406;Mara Region;государство;1;1;from
+Q458406;Mara Region;названо в честь;1;1;from
+Q458406;Mara Region;административно-территориальная единица;1;184;to
+Q458382;Mbeya Region;код в Большой каталанской энциклопедии;1;1;from
+Q389737;Tanga Region;географические координаты;1;1;from
+Q389737;Tanga Region;код Freebase;1;1;from
+Q389737;Tanga Region;Who's on First ID;1;1;from
+Q389737;Tanga Region;официальный сайт;1;1;from
+Q389737;Tanga Region;FIPS 10-4 (страны и регионы);1;1;from
+Q389737;Tanga Region;основная категория по теме;1;1;from
+Q389737;Tanga Region;происходит из;1;16;to
+Q389737;Tanga Region;является столицей;1;1;to
+Q389737;Tanga Region;место погребения;1;1;to
+Q389737;Tanga Region;место активности;1;2;to
+Q389737;Tanga Region;общая тема категории;1;1;to
+Q389737;Tanga Region;место рождения;1;1;to
+Q389737;Tanga Region;административно делится на;1;1;to
+Q458382;Mbeya Region;административно-территориальная единица;1;70;to
+Q458382;Mbeya Region;названо в честь;1;1;from
+Q458382;Mbeya Region;государство;1;1;from
+Q458382;Mbeya Region;изображение;1;1;from
+Q458382;Mbeya Region;карта местонахождения;1;1;from
+Q458382;Mbeya Region;это частный случай понятия;1;1;from
+Q389737;Tanga Region;категория на Викискладе;1;1;from
+Q389737;Tanga Region;ISO 3166-2;1;1;from
+Q389737;Tanga Region;используемый язык;1;16;from
+Q389737;Tanga Region;названо в честь;1;1;from
+Q331153;Mwanza Region;является столицей;1;1;to
+Q331153;Mwanza Region;происходит из;1;6;to
+Q331153;Mwanza Region;место рождения;1;1;to
+Q331153;Mwanza Region;место смерти;1;2;to
+Q331153;Mwanza Region;категория объединяет темы;1;1;to
+Q331153;Mwanza Region;общая тема категории;1;1;to
+Q331153;Mwanza Region;административно делится на;1;1;to
+Q389737;Tanga Region;административно-территориальная единица;1;101;to
+Q389737;Tanga Region;государство;1;1;from
+Q389737;Tanga Region;код BNF;1;1;from
+Q389737;Tanga Region;изображение;1;1;from
+Q389737;Tanga Region;карта местонахождения;1;1;from
+Q389737;Tanga Region;код LCNAF;1;1;from
+Q389737;Tanga Region;это частный случай понятия;1;1;from
+Q389737;Tanga Region;столица;1;1;from
+Q389737;Tanga Region;десятичная классификация Дьюи;1;1;from
+Q389737;Tanga Region;код GeoNames;1;1;from
+Q389737;Tanga Region;площадь;1;1;from
+Q458382;Mbeya Region;столица;1;1;from
+Q458382;Mbeya Region;код GeoNames;1;1;from
+Q458388;Morogoro Region;административно делится на;1;1;to
+Q458382;Mbeya Region;площадь;1;1;from
+Q458388;Morogoro Region;это частный случай понятия;1;1;from
+Q458388;Morogoro Region;столица;1;1;from
+Q458388;Morogoro Region;код в Большой каталанской энциклопедии;1;1;from
+Q458388;Morogoro Region;код GeoNames;1;1;from
+Q458388;Morogoro Region;площадь;1;1;from
+Q458388;Morogoro Region;используемый язык;1;17;from
+Q458388;Morogoro Region;ISO 3166-2;1;1;from
+Q458388;Morogoro Region;категория на Викискладе;1;1;from
+Q458388;Morogoro Region;географические координаты;1;1;from
+Q458388;Morogoro Region;код Freebase;1;1;from
+Q458388;Morogoro Region;Who's on First ID;1;1;from
+Q458388;Morogoro Region;официальный сайт;1;1;from
+Q458388;Morogoro Region;FIPS 10-4 (страны и регионы);1;1;from
+Q458388;Morogoro Region;основная категория по теме;1;1;from
+Q458388;Morogoro Region;происходит из;1;17;to
+Q458388;Morogoro Region;является столицей;1;1;to
+Q458388;Morogoro Region;место рождения;1;1;to
+Q458388;Morogoro Region;основная тема;1;2;to
+Q458388;Morogoro Region;общая тема категории;1;1;to
+Q458388;Morogoro Region;карта местонахождения;1;1;from
+Q458388;Morogoro Region;изображение;1;1;from
+Q458388;Morogoro Region;государство;1;1;from
+Q458382;Mbeya Region;FIPS 10-4 (страны и регионы);1;1;from
+Q458382;Mbeya Region;код BNF;1;1;from
+Q458382;Mbeya Region;используемый язык;1;14;from
+Q458382;Mbeya Region;ISO 3166-2;1;1;from
+Q458382;Mbeya Region;категория на Викискладе;1;1;from
+Q458382;Mbeya Region;географические координаты;1;1;from
+Q458382;Mbeya Region;код Freebase;1;1;from
+Q458382;Mbeya Region;Who's on First ID;1;1;from
+Q458382;Mbeya Region;официальный сайт;1;1;from
+Q458382;Mbeya Region;основная категория по теме;1;1;from
+Q458388;Morogoro Region;названо в честь;1;1;from
+Q458382;Mbeya Region;место в MusicBrainz;1;1;from
+Q458382;Mbeya Region;происходит из;1;14;to
+Q458382;Mbeya Region;является столицей;1;1;to
+Q458382;Mbeya Region;место рождения;1;1;to
+Q458382;Mbeya Region;место смерти;1;1;to
+Q458382;Mbeya Region;общая тема категории;1;1;to
+Q458382;Mbeya Region;административно делится на;1;1;to
+Q458388;Morogoro Region;административно-территориальная единица;1;112;to
+Q499465;Mtwara Region;административно-территориальная единица;1;75;to
+Q499465;Mtwara Region;государство;1;1;from
+Q115318;Ruvuma Region;названо в честь;1;1;to
+Q1848521;Geita Region;является столицей;1;1;to
+Q2086273;Njombe Region;административно-территориальная единица;1;14;to
+Q2086273;Njombe Region;названо в честь;1;1;from
+Q2086273;Njombe Region;государство;1;1;from
+Q2086273;Njombe Region;изображение;1;1;from
+Q2086273;Njombe Region;карта местонахождения;1;1;from
+Q2086273;Njombe Region;это частный случай понятия;1;1;from
+Q2086273;Njombe Region;столица;1;1;from
+Q2086273;Njombe Region;код GeoNames;1;1;from
+Q2086273;Njombe Region;площадь;1;1;from
+Q2086273;Njombe Region;используемый язык;1;2;from
+Q2086273;Njombe Region;ISO 3166-2;1;1;from
+Q2086273;Njombe Region;категория на Викискладе;1;1;from
+Q2086273;Njombe Region;дата основания/создания/возникновения;1;1;from
+Q2086273;Njombe Region;географические координаты;1;1;from
+Q2086273;Njombe Region;код Freebase;1;1;from
+Q2086273;Njombe Region;основная категория по теме;1;1;from
+Q2086273;Njombe Region;происходит из;1;2;to
+Q2086273;Njombe Region;общая тема категории;1;1;to
+Q2682731;Katavi Region;административно-территориальная единица;1;68;to
+Q1848521;Geita Region;общая тема категории;1;1;to
+Q1848521;Geita Region;происходит из;1;2;to
+Q499465;Mtwara Region;изображение;1;1;from
+Q1848521;Geita Region;основная категория по теме;1;1;from
+Q747943;Kigoma Region;общая тема категории;1;1;to
+Q747943;Kigoma Region;административно делится на;1;1;to
+Q1848521;Geita Region;административно-территориальная единица;1;34;to
+Q1848521;Geita Region;названо в честь;1;1;from
+Q1848521;Geita Region;государство;1;1;from
+Q1848521;Geita Region;изображение;1;1;from
+Q1848521;Geita Region;карта местонахождения;1;1;from
+Q1848521;Geita Region;это частный случай понятия;1;1;from
+Q1848521;Geita Region;столица;1;1;from
+Q1848521;Geita Region;код GeoNames;1;1;from
+Q1848521;Geita Region;высота над уровнем моря;1;1;from
+Q1848521;Geita Region;площадь;1;1;from
+Q1848521;Geita Region;используемый язык;1;2;from
+Q1848521;Geita Region;ISO 3166-2;1;1;from
+Q1848521;Geita Region;код темы Quora;1;1;from
+Q1848521;Geita Region;категория на Викискладе;1;1;from
+Q1848521;Geita Region;дата основания/создания/возникновения;1;1;from
+Q1848521;Geita Region;географические координаты;1;1;from
+Q1848521;Geita Region;код Freebase;1;1;from
+Q2682731;Katavi Region;государство;1;1;from
+Q2682731;Katavi Region;изображение;1;1;from
+Q2682731;Katavi Region;карта местонахождения;1;1;from
+Q2682731;Katavi Region;это частный случай понятия;1;1;from
+Q2787568;Simiyu Region;категория на Викискладе;1;1;from
+Q2787568;Simiyu Region;дата основания/создания/возникновения;1;1;from
+Q2787568;Simiyu Region;географические координаты;1;1;from
+Q2787568;Simiyu Region;основная категория по теме;1;1;from
+Q2787568;Simiyu Region;происходит из;1;5;to
+Q2787568;Simiyu Region;является столицей;1;1;to
+Q2787568;Simiyu Region;общая тема категории;1;1;to
+Q25618976;Songwe Region;названо в честь;1;1;from
+Q25618976;Songwe Region;государство;1;1;from
+Q25618976;Songwe Region;карта местонахождения;1;1;from
+Q25618976;Songwe Region;это частный случай понятия;1;1;from
+Q25618976;Songwe Region;столица;1;1;from
+Q25618976;Songwe Region;площадь;1;1;from
+Q25618976;Songwe Region;дата основания/создания/возникновения;1;1;from
+Q25618976;Songwe Region;географические координаты;1;1;from
+Q25618976;Songwe Region;официальный сайт;1;1;from
+Q25618976;Songwe Region;основная категория по теме;1;1;from
+Q25618976;Songwe Region;является столицей;1;1;to
+Q25618976;Songwe Region;общая тема категории;1;1;to
+Q2787568;Simiyu Region;ISO 3166-2;1;1;from
+Q2787568;Simiyu Region;используемый язык;1;5;from
+Q2787568;Simiyu Region;площадь;1;1;from
+Q2682731;Katavi Region;основная категория по теме;1;1;from
+Q2682731;Katavi Region;столица;1;1;from
+Q2682731;Katavi Region;код GeoNames;1;1;from
+Q2682731;Katavi Region;высота над уровнем моря;1;1;from
+Q2682731;Katavi Region;площадь;1;1;from
+Q2682731;Katavi Region;ISO 3166-2;1;1;from
+Q2682731;Katavi Region;категория на Викискладе;1;1;from
+Q2682731;Katavi Region;дата основания/создания/возникновения;1;1;from
+Q2682731;Katavi Region;географические координаты;1;1;from
+Q2682731;Katavi Region;является столицей;1;1;to
+Q2787568;Simiyu Region;высота над уровнем моря;1;1;from
+Q2682731;Katavi Region;общая тема категории;1;1;to
+Q2787568;Simiyu Region;административно-территориальная единица;1;14;to
+Q2787568;Simiyu Region;названо в честь;1;1;from
+Q2787568;Simiyu Region;государство;1;1;from
+Q2787568;Simiyu Region;карта местонахождения;1;1;from
+Q2787568;Simiyu Region;это частный случай понятия;1;1;from
+Q2787568;Simiyu Region;столица;1;1;from
+Q2787568;Simiyu Region;код GeoNames;1;1;from
+Q747943;Kigoma Region;является столицей;1;1;to
+Q747943;Kigoma Region;происходит из;1;8;to
+Q747943;Kigoma Region;место в MusicBrainz;1;1;from
+Q557539;Dar es Salaam Region;происходит из;1;4;to
+Q557539;Dar es Salaam Region;государство;1;1;from
+Q557539;Dar es Salaam Region;изображение;1;1;from
+Q557539;Dar es Salaam Region;карта местонахождения;1;1;from
+Q557539;Dar es Salaam Region;это частный случай понятия;1;1;from
+Q557539;Dar es Salaam Region;столица;1;1;from
+Q557539;Dar es Salaam Region;десятичная классификация Дьюи;1;1;from
+Q557539;Dar es Salaam Region;численность населения;1;1;from
+Q557539;Dar es Salaam Region;код в Большой каталанской энциклопедии;1;1;from
+Q557539;Dar es Salaam Region;код GeoNames;1;1;from
+Q557539;Dar es Salaam Region;площадь;1;1;from
+Q557539;Dar es Salaam Region;код BNF;1;1;from
+Q557539;Dar es Salaam Region;используемый язык;1;4;from
+Q557539;Dar es Salaam Region;ISO 3166-2;1;1;from
+Q557539;Dar es Salaam Region;категория на Викискладе;1;1;from
+Q557539;Dar es Salaam Region;географические координаты;1;1;from
+Q557539;Dar es Salaam Region;код Freebase;1;1;from
+Q557539;Dar es Salaam Region;Who's on First ID;1;1;from
+Q557539;Dar es Salaam Region;FIPS 10-4 (страны и регионы);1;1;from
+Q557539;Dar es Salaam Region;основная категория по теме;1;1;from
+Q557539;Dar es Salaam Region;названо в честь;1;1;from
+Q557539;Dar es Salaam Region;административно-территориальная единица;1;50;to
+Q499465;Mtwara Region;административно делится на;1;1;to
+Q499465;Mtwara Region;ISO 3166-2;1;1;from
+Q499465;Mtwara Region;карта местонахождения;1;1;from
+Q499465;Mtwara Region;это частный случай понятия;1;1;from
+Q499465;Mtwara Region;столица;1;1;from
+Q499465;Mtwara Region;десятичная классификация Дьюи;1;1;from
+Q499465;Mtwara Region;код в Большой каталанской энциклопедии;1;1;from
+Q499465;Mtwara Region;код GeoNames;1;1;from
+Q499465;Mtwara Region;площадь;1;1;from
+Q499465;Mtwara Region;используемый язык;1;4;from
+Q499465;Mtwara Region;категория на Викискладе;1;1;from
+Q499465;Mtwara Region;общая тема категории;1;1;to
+Q499465;Mtwara Region;географические координаты;1;1;from
+Q499465;Mtwara Region;код Freebase;1;1;from
+Q499465;Mtwara Region;Who's on First ID;1;1;from
+Q499465;Mtwara Region;FIPS 10-4 (страны и регионы);1;1;from
+Q499465;Mtwara Region;основная категория по теме;1;1;from
+Q499465;Mtwara Region;место рождения;1;1;to
+Q499465;Mtwara Region;является столицей;1;1;to
+Q499465;Mtwara Region;происходит из;1;4;to
+Q557539;Dar es Salaam Region;место в MusicBrainz;1;1;from
+Q557539;Dar es Salaam Region;основная тема;1;1;to
+Q747943;Kigoma Region;основная категория по теме;1;1;from
+Q557539;Dar es Salaam Region;место рождения;1;1;to
+Q643120;Zanzibar Central/South Region;административно делится на;1;1;to
+Q747943;Kigoma Region;административно-территориальная единица;1;212;to
+Q747943;Kigoma Region;названо в честь;1;1;from
+Q747943;Kigoma Region;государство;1;1;from
+Q747943;Kigoma Region;изображение;1;1;from
+Q747943;Kigoma Region;карта местонахождения;1;1;from
+Q747943;Kigoma Region;это частный случай понятия;1;1;from
+Q747943;Kigoma Region;столица;1;1;from
+Q747943;Kigoma Region;код в Большой каталанской энциклопедии;1;1;from
+Q747943;Kigoma Region;код GeoNames;1;1;from
+Q747943;Kigoma Region;площадь;1;1;from
+Q747943;Kigoma Region;код BNF;1;1;from
+Q747943;Kigoma Region;используемый язык;1;8;from
+Q747943;Kigoma Region;ISO 3166-2;1;1;from
+Q747943;Kigoma Region;категория на Викискладе;1;1;from
+Q747943;Kigoma Region;географические координаты;1;1;from
+Q747943;Kigoma Region;код Freebase;1;1;from
+Q747943;Kigoma Region;Who's on First ID;1;1;from
+Q747943;Kigoma Region;FIPS 10-4 (страны и регионы);1;1;from
+Q643120;Zanzibar Central/South Region;общая тема категории;1;1;to
+Q643120;Zanzibar Central/South Region;является столицей;1;1;to
+Q643120;Zanzibar Central/South Region;баннер Викигида;1;1;from
+Q643120;Zanzibar Central/South Region;столица;1;1;from
+Q557539;Dar es Salaam Region;общая тема категории;1;1;to
+Q557539;Dar es Salaam Region;является столицей;1;1;to
+Q557539;Dar es Salaam Region;административно делится на;1;1;to
+Q643120;Zanzibar Central/South Region;административно-территориальная единица;1;73;to
+Q643120;Zanzibar Central/South Region;государство;1;1;from
+Q643120;Zanzibar Central/South Region;изображение;1;1;from
+Q643120;Zanzibar Central/South Region;карта местонахождения;1;1;from
+Q643120;Zanzibar Central/South Region;это частный случай понятия;1;1;from
+Q643120;Zanzibar Central/South Region;код GeoNames;1;1;from
+Q643120;Zanzibar Central/South Region;основная категория по теме;1;1;from
+Q643120;Zanzibar Central/South Region;площадь;1;1;from
+Q643120;Zanzibar Central/South Region;ISO 3166-2;1;1;from
+Q643120;Zanzibar Central/South Region;категория на Викискладе;1;1;from
+Q643120;Zanzibar Central/South Region;ID отношения в OpenStreetMap;1;1;from
+Q643120;Zanzibar Central/South Region;географические координаты;1;1;from
+Q643120;Zanzibar Central/South Region;код Freebase;1;1;from
+Q643120;Zanzibar Central/South Region;Who's on First ID;1;1;from
+Q643120;Zanzibar Central/South Region;FIPS 10-4 (страны и регионы);1;1;from
+Q331153;Mwanza Region;место в MusicBrainz;1;1;from
+Q331153;Mwanza Region;основная категория по теме;1;1;from
+Q331153;Mwanza Region;FIPS 10-4 (страны и регионы);1;1;from
+Q153335;Tabora Region;является столицей;1;1;to
+Q153335;Tabora Region;административно делится на;1;1;to
+Q153339;Shinyanga Region;административно-территориальная единица;1;45;to
+Q153339;Shinyanga Region;названо в честь;1;1;from
+Q153339;Shinyanga Region;государство;1;1;from
+Q153339;Shinyanga Region;изображение;1;1;from
+Q153339;Shinyanga Region;карта местонахождения;1;1;from
+Q153339;Shinyanga Region;это частный случай понятия;1;1;from
+Q153339;Shinyanga Region;столица;1;1;from
+Q153339;Shinyanga Region;код GeoNames;1;1;from
+Q153339;Shinyanga Region;площадь;1;1;from
+Q153339;Shinyanga Region;используемый язык;1;4;from
+Q153339;Shinyanga Region;ISO 3166-2;1;1;from
+Q153339;Shinyanga Region;код темы Quora;1;1;from
+Q153339;Shinyanga Region;категория на Викискладе;1;1;from
+Q153339;Shinyanga Region;географические координаты;1;1;from
+Q153339;Shinyanga Region;код Freebase;1;1;from
+Q153339;Shinyanga Region;Who's on First ID;1;1;from
+Q153339;Shinyanga Region;официальный сайт;1;1;from
+Q153339;Shinyanga Region;FIPS 10-4 (страны и регионы);1;1;from
+Q153335;Tabora Region;общая тема категории;1;1;to
+Q153335;Tabora Region;происходит из;1;8;to
+Q331153;Mwanza Region;официальный сайт;1;1;from
+Q153335;Tabora Region;основная категория по теме;1;1;from
+Q153335;Tabora Region;административно-территориальная единица;1;71;to
+Q153335;Tabora Region;названо в честь;1;1;from
+Q153335;Tabora Region;государство;1;1;from
+Q153335;Tabora Region;изображение;1;1;from
+Q153335;Tabora Region;карта местонахождения;1;1;from
+Q153335;Tabora Region;это частный случай понятия;1;1;from
+Q153335;Tabora Region;столица;1;1;from
+Q153335;Tabora Region;код в Большой каталанской энциклопедии;1;1;from
+Q153335;Tabora Region;код GeoNames;1;1;from
+Q153335;Tabora Region;площадь;1;1;from
+Q153335;Tabora Region;код BNF;1;1;from
+Q153335;Tabora Region;используемый язык;1;8;from
+Q153335;Tabora Region;ISO 3166-2;1;1;from
+Q153335;Tabora Region;код темы Quora;1;1;from
+Q153335;Tabora Region;категория на Викискладе;1;1;from
+Q153335;Tabora Region;географические координаты;1;1;from
+Q153335;Tabora Region;код Freebase;1;1;from
+Q153335;Tabora Region;Who's on First ID;1;1;from
+Q153335;Tabora Region;FIPS 10-4 (страны и регионы);1;1;from
+Q153339;Shinyanga Region;основная категория по теме;1;1;from
+Q153339;Shinyanga Region;происходит из;1;4;to
+Q153339;Shinyanga Region;место смерти;1;1;to
+Q153339;Shinyanga Region;является столицей;1;1;to
+Q213268;Dodoma Region;административно-территориальная единица;1;70;to
+Q213268;Dodoma Region;названо в честь;1;1;from
+Q213268;Dodoma Region;государство;1;1;from
+Q213268;Dodoma Region;изображение;1;1;from
+Q213268;Dodoma Region;карта местонахождения;1;1;from
+Q213268;Dodoma Region;это частный случай понятия;1;1;from
+Q213268;Dodoma Region;столица;1;1;from
+Q213268;Dodoma Region;код в Большой каталанской энциклопедии;1;1;from
+Q213268;Dodoma Region;код GeoNames;1;1;from
+Q213268;Dodoma Region;категория для людей, связанных с местностью;1;1;from
+Q213268;Dodoma Region;площадь;1;1;from
+Q213268;Dodoma Region;код BNF;1;1;from
+Q213268;Dodoma Region;используемый язык;1;15;from
+Q213268;Dodoma Region;ISO 3166-2;1;1;from
+Q213268;Dodoma Region;EU VAT number;1;1;from
+Q213268;Dodoma Region;категория на Викискладе;1;1;from
+Q213268;Dodoma Region;EU Research participant ID;1;1;from
+Q213268;Dodoma Region;географические координаты;1;1;from
+Q213268;Dodoma Region;код Freebase;1;1;from
+Q180822;Zanzibar Urban/West Region;административно делится на;1;1;to
+Q180822;Zanzibar Urban/West Region;общая тема категории;1;1;to
+Q180822;Zanzibar Urban/West Region;является столицей;1;1;to
+Q180822;Zanzibar Urban/West Region;код GeoNames;1;1;from
+Q153339;Shinyanga Region;общая тема категории;1;1;to
+Q153339;Shinyanga Region;административно делится на;1;1;to
+Q180822;Zanzibar Urban/West Region;административно-территориальная единица;1;67;to
+Q180822;Zanzibar Urban/West Region;государство;1;1;from
+Q180822;Zanzibar Urban/West Region;изображение;1;1;from
+Q180822;Zanzibar Urban/West Region;карта местонахождения;1;1;from
+Q180822;Zanzibar Urban/West Region;это частный случай понятия;1;1;from
+Q180822;Zanzibar Urban/West Region;столица;1;1;from
+Q180822;Zanzibar Urban/West Region;площадь;1;1;from
+Q180822;Zanzibar Urban/West Region;место в MusicBrainz;1;1;from
+Q180822;Zanzibar Urban/West Region;ISO 3166-2;1;1;from
+Q180822;Zanzibar Urban/West Region;категория на Викискладе;1;1;from
+Q180822;Zanzibar Urban/West Region;ID отношения в OpenStreetMap;1;1;from
+Q180822;Zanzibar Urban/West Region;географические координаты;1;1;from
+Q180822;Zanzibar Urban/West Region;код Freebase;1;1;from
+Q180822;Zanzibar Urban/West Region;Who's on First ID;1;1;from
+Q180822;Zanzibar Urban/West Region;FIPS 10-4 (страны и регионы);1;1;from
+Q180822;Zanzibar Urban/West Region;основная категория по теме;1;1;from
+Q153329;Rukwa Region;административно делится на;1;1;to
+Q153329;Rukwa Region;общая тема категории;1;1;to
+Q153329;Rukwa Region;является столицей;1;1;to
+Q147116;Zanzibar North Region;административно делится на;1;1;to
+Q147116;Zanzibar North Region;административно-территориальная единица;1;28;to
+Q147116;Zanzibar North Region;государство;1;1;from
+Q147116;Zanzibar North Region;изображение;1;1;from
+Q147116;Zanzibar North Region;карта местонахождения;1;1;from
+Q147116;Zanzibar North Region;это частный случай понятия;1;1;from
+Q147116;Zanzibar North Region;столица;1;1;from
+Q147116;Zanzibar North Region;код GeoNames;1;1;from
+Q147116;Zanzibar North Region;площадь;1;1;from
+Q147116;Zanzibar North Region;ISO 3166-2;1;1;from
+Q147116;Zanzibar North Region;категория на Викискладе;1;1;from
+Q147116;Zanzibar North Region;ID отношения в OpenStreetMap;1;1;from
+Q147116;Zanzibar North Region;географические координаты;1;1;from
+Q147116;Zanzibar North Region;код Freebase;1;1;from
+Q147116;Zanzibar North Region;Who's on First ID;1;1;from
+Q147116;Zanzibar North Region;FIPS 10-4 (страны и регионы);1;1;from
+Q147116;Zanzibar North Region;основная категория по теме;1;1;from
+Q147116;Zanzibar North Region;баннер Викигида;1;1;from
+Q147116;Zanzibar North Region;является столицей;1;1;to
+Q147116;Zanzibar North Region;общая тема категории;1;1;to
+Q115318;Ruvuma Region;административно делится на;1;1;to
+Q115318;Ruvuma Region;общая тема категории;1;1;to
+Q115318;Ruvuma Region;является столицей;1;1;to
+Q115318;Ruvuma Region;код BNF;1;1;from
+Q115318;Ruvuma Region;государство;1;1;from
+Q115318;Ruvuma Region;изображение;1;1;from
+Q115318;Ruvuma Region;карта местонахождения;1;1;from
+Q115318;Ruvuma Region;это частный случай понятия;1;1;from
+Q115318;Ruvuma Region;столица;1;1;from
+Q115318;Ruvuma Region;код в Большой каталанской энциклопедии;1;1;from
+Q115318;Ruvuma Region;код GeoNames;1;1;from
+Q115318;Ruvuma Region;площадь;1;1;from
+Q115318;Ruvuma Region;используемый язык;1;9;from
+Q115318;Ruvuma Region;происходит из;1;9;to
+Q115318;Ruvuma Region;ISO 3166-2;1;1;from
+Q115318;Ruvuma Region;категория на Викискладе;1;1;from
+Q115318;Ruvuma Region;географические координаты;1;1;from
+Q115318;Ruvuma Region;код Freebase;1;1;from
+Q115318;Ruvuma Region;Who's on First ID;1;1;from
+Q115318;Ruvuma Region;официальный сайт;1;1;from
+Q115318;Ruvuma Region;FIPS 10-4 (страны и регионы);1;1;from
+Q115318;Ruvuma Region;основная категория по теме;1;1;from
+Q147116;Zanzibar North Region;гражданство;1;1;to
+Q153326;Singida Region;административно-территориальная единица;1;31;to
+Q153329;Rukwa Region;происходит из;1;14;to
+Q153326;Singida Region;названо в честь;1;1;from
+Q153326;Singida Region;общая тема категории;1;1;to
+Q153326;Singida Region;административно делится на;1;1;to
+Q153329;Rukwa Region;административно-территориальная единица;1;99;to
+Q153329;Rukwa Region;названо в честь;1;1;to
+Q153329;Rukwa Region;государство;1;1;from
+Q153329;Rukwa Region;изображение;1;1;from
+Q153329;Rukwa Region;карта местонахождения;1;1;from
+Q153329;Rukwa Region;это частный случай понятия;1;1;from
+Q153329;Rukwa Region;столица;1;1;from
+Q153329;Rukwa Region;код GeoNames;1;1;from
+Q153329;Rukwa Region;площадь;1;1;from
+Q153329;Rukwa Region;используемый язык;1;14;from
+Q153329;Rukwa Region;ISO 3166-2;1;1;from
+Q153329;Rukwa Region;категория на Викискладе;1;1;from
+Q153329;Rukwa Region;географические координаты;1;1;from
+Q153329;Rukwa Region;код Freebase;1;1;from
+Q153329;Rukwa Region;Who's on First ID;1;1;from
+Q153329;Rukwa Region;FIPS 10-4 (страны и регионы);1;1;from
+Q153329;Rukwa Region;основная категория по теме;1;1;from
+Q153326;Singida Region;место смерти;1;1;to
+Q153326;Singida Region;место рождения;1;2;to
+Q153326;Singida Region;является столицей;1;1;to
+Q153326;Singida Region;площадь;1;1;from
+Q153326;Singida Region;государство;1;1;from
+Q153326;Singida Region;код VIAF;1;1;from
+Q153326;Singida Region;карта местонахождения;1;1;from
+Q153326;Singida Region;код LCNAF;1;1;from
+Q153326;Singida Region;это частный случай понятия;1;2;from
+Q153326;Singida Region;столица;1;1;from
+Q153326;Singida Region;код в Большой каталанской энциклопедии;1;1;from
+Q153326;Singida Region;код GeoNames;1;1;from
+Q153326;Singida Region;используемый язык;1;11;from
+Q153326;Singida Region;происходит из;1;11;to
+Q153326;Singida Region;ISO 3166-2;1;1;from
+Q153326;Singida Region;категория на Викискладе;1;1;from
+Q153326;Singida Region;географические координаты;1;1;from
+Q153326;Singida Region;код Freebase;1;1;from
+Q153326;Singida Region;Who's on First ID;1;1;from
+Q153326;Singida Region;официальный сайт;1;1;from
+Q153326;Singida Region;FIPS 10-4 (страны и регионы);1;1;from
+Q153326;Singida Region;основная категория по теме;1;1;from
+Q213268;Dodoma Region;Who's on First ID;1;1;from
+Q213268;Dodoma Region;FIPS 10-4 (страны и регионы);1;1;from
+Q213268;Dodoma Region;основная категория по теме;1;1;from
+Q329261;Arusha Region;общая тема категории;1;1;to
+Q329261;Arusha Region;это частный случай понятия;1;1;from
+Q329261;Arusha Region;столица;1;1;from
+Q329261;Arusha Region;код в Большой каталанской энциклопедии;1;1;from
+Q329261;Arusha Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q329261;Arusha Region;код GeoNames;1;1;from
+Q329261;Arusha Region;категория для людей, связанных с местностью;1;1;from
+Q329261;Arusha Region;площадь;1;1;from
+Q329261;Arusha Region;код BNF;1;1;from
+Q329261;Arusha Region;используемый язык;1;8;from
+Q329261;Arusha Region;ISO 3166-2;1;1;from
+Q329261;Arusha Region;категория на Викискладе;1;1;from
+Q329261;Arusha Region;географические координаты;1;1;from
+Q329261;Arusha Region;код Freebase;1;1;from
+Q329261;Arusha Region;Who's on First ID;1;1;from
+Q329261;Arusha Region;категория карт на Викискладе;1;1;from
+Q329261;Arusha Region;официальный сайт;1;1;from
+Q329261;Arusha Region;FIPS 10-4 (страны и регионы);1;2;from
+Q329261;Arusha Region;основная категория по теме;1;1;from
+Q329261;Arusha Region;происходит из;1;8;to
+Q329261;Arusha Region;карта местонахождения;1;1;from
+Q329261;Arusha Region;изображение;1;1;from
+Q329261;Arusha Region;государство;1;1;from
+Q328922;Kilimanjaro Region;FIPS 10-4 (страны и регионы);1;1;from
+Q328922;Kilimanjaro Region;код BabelNet;1;1;from
+Q328922;Kilimanjaro Region;код BNF;1;1;from
+Q328922;Kilimanjaro Region;используемый язык;1;10;from
+Q328922;Kilimanjaro Region;ISO 3166-2;1;1;from
+Q328922;Kilimanjaro Region;категория на Викискладе;1;1;from
+Q328922;Kilimanjaro Region;географические координаты;1;1;from
+Q328922;Kilimanjaro Region;код Freebase;1;1;from
+Q328922;Kilimanjaro Region;Who's on First ID;1;1;from
+Q328922;Kilimanjaro Region;основная категория по теме;1;1;from
+Q329261;Arusha Region;названо в честь;1;1;from
+Q328922;Kilimanjaro Region;место в MusicBrainz;1;1;from
+Q328922;Kilimanjaro Region;происходит из;1;10;to
+Q328922;Kilimanjaro Region;место рождения;1;6;to
+Q328922;Kilimanjaro Region;является столицей;1;1;to
+Q328922;Kilimanjaro Region;основная тема;1;32;to
+Q328922;Kilimanjaro Region;общая тема категории;1;1;to
+Q328922;Kilimanjaro Region;административно делится на;1;1;to
+Q329261;Arusha Region;административно-территориальная единица;1;78;to
+Q329261;Arusha Region;категория объединяет темы;1;2;to
+Q329261;Arusha Region;является столицей;1;1;to
+Q328922;Kilimanjaro Region;код GeoNames;1;1;from
+Q329261;Arusha Region;административно делится на;1;1;to
+Q331117;Manyara Region;административно делится на;1;1;to
+Q331153;Mwanza Region;административно-территориальная единица;1;124;to
+Q331153;Mwanza Region;названо в честь;1;1;from
+Q331153;Mwanza Region;государство;1;1;from
+Q331153;Mwanza Region;изображение;1;1;from
+Q331153;Mwanza Region;карта местонахождения;1;1;from
+Q331153;Mwanza Region;это частный случай понятия;1;1;from
+Q331153;Mwanza Region;столица;1;1;from
+Q331153;Mwanza Region;код в Большой каталанской энциклопедии;1;1;from
+Q331153;Mwanza Region;код GeoNames;1;1;from
+Q331153;Mwanza Region;категория для людей, связанных с местностью;1;1;from
+Q331153;Mwanza Region;площадь;1;1;from
+Q331153;Mwanza Region;код BNF;1;1;from
+Q331153;Mwanza Region;используемый язык;1;6;from
+Q331153;Mwanza Region;ISO 3166-2;1;1;from
+Q331153;Mwanza Region;категория на Викискладе;1;1;from
+Q331153;Mwanza Region;географические координаты;1;1;from
+Q331153;Mwanza Region;код Freebase;1;1;from
+Q331153;Mwanza Region;Who's on First ID;1;1;from
+Q331117;Manyara Region;общая тема категории;1;1;to
+Q331117;Manyara Region;является столицей;1;1;to
+Q331117;Manyara Region;происходит из;1;20;to
+Q331117;Manyara Region;площадь;1;1;from
+Q331117;Manyara Region;административно-территориальная единица;1;70;to
+Q331117;Manyara Region;названо в честь;1;1;from
+Q331117;Manyara Region;государство;1;1;from
+Q331117;Manyara Region;изображение;1;1;from
+Q331117;Manyara Region;карта местонахождения;1;1;from
+Q331117;Manyara Region;это частный случай понятия;1;1;from
+Q331117;Manyara Region;столица;1;1;from
+Q331117;Manyara Region;код GeoNames;1;1;from
+Q331117;Manyara Region;используемый язык;1;20;from
+Q331117;Manyara Region;основная категория по теме;1;1;from
+Q331117;Manyara Region;ISO 3166-2;1;1;from
+Q331117;Manyara Region;категория на Викискладе;1;1;from
+Q331117;Manyara Region;дата основания/создания/возникновения;1;1;from
+Q331117;Manyara Region;географические координаты;1;1;from
+Q331117;Manyara Region;код Freebase;1;1;from
+Q331117;Manyara Region;Who's on First ID;1;1;from
+Q331117;Manyara Region;официальный сайт;1;1;from
+Q331117;Manyara Region;FIPS 10-4 (страны и регионы);1;1;from
+Q328922;Kilimanjaro Region;площадь;1;1;from
+Q328922;Kilimanjaro Region;код в Большой каталанской энциклопедии;1;1;from
+Q213268;Dodoma Region;происходит из;1;15;to
+Q309339;Lindi Region;используемый язык;1;8;from
+Q309190;Kagera Region;официальный сайт;1;1;from
+Q309190;Kagera Region;FIPS 10-4 (страны и регионы);1;1;from
+Q309190;Kagera Region;основная категория по теме;1;1;from
+Q309190;Kagera Region;происходит из;1;8;to
+Q309190;Kagera Region;является столицей;1;1;to
+Q309190;Kagera Region;общая тема категории;1;1;to
+Q309190;Kagera Region;административно делится на;1;1;to
+Q309339;Lindi Region;административно-территориальная единица;1;126;to
+Q309339;Lindi Region;названо в честь;1;1;from
+Q309339;Lindi Region;государство;1;1;from
+Q309339;Lindi Region;изображение;1;1;from
+Q309339;Lindi Region;карта местонахождения;1;1;from
+Q309339;Lindi Region;это частный случай понятия;1;1;from
+Q309339;Lindi Region;столица;1;1;from
+Q309339;Lindi Region;десятичная классификация Дьюи;1;1;from
+Q309339;Lindi Region;код в Большой каталанской энциклопедии;1;1;from
+Q309339;Lindi Region;код GeoNames;1;1;from
+Q309339;Lindi Region;площадь;1;1;from
+Q309339;Lindi Region;код BabelNet;1;1;from
+Q309190;Kagera Region;Who's on First ID;1;1;from
+Q309190;Kagera Region;код Freebase;1;1;from
+Q309190;Kagera Region;географические координаты;1;1;from
+Q309190;Kagera Region;изображение;1;1;from
+Q213268;Dodoma Region;место рождения;1;2;to
+Q213268;Dodoma Region;общая тема категории;1;1;to
+Q213268;Dodoma Region;категория объединяет темы;1;1;to
+Q213268;Dodoma Region;является столицей;1;1;to
+Q213268;Dodoma Region;административно делится на;1;1;to
+Q309190;Kagera Region;административно-территориальная единица;1;279;to
+Q309190;Kagera Region;названо в честь;1;1;from
+Q309190;Kagera Region;государство;1;1;from
+Q309190;Kagera Region;карта местонахождения;1;1;from
+Q309190;Kagera Region;категория на Викискладе;1;1;from
+Q309190;Kagera Region;это частный случай понятия;1;1;from
+Q309190;Kagera Region;столица;1;1;from
+Q309190;Kagera Region;код в Большой каталанской энциклопедии;1;1;from
+Q309190;Kagera Region;код GeoNames;1;1;from
+Q309190;Kagera Region;площадь;1;1;from
+Q309190;Kagera Region;код BNF;1;1;from
+Q309190;Kagera Region;используемый язык;1;8;from
+Q309190;Kagera Region;ISO 3166-2;1;1;from
+Q309339;Lindi Region;код BNF;1;1;from
+Q309339;Lindi Region;ISO 3166-2;1;1;from
+Q328922;Kilimanjaro Region;столица;1;1;from
+Q309339;Lindi Region;категория на Викискладе;1;1;from
+Q309352;Iringa Region;используемый язык;1;15;from
+Q309352;Iringa Region;ISO 3166-2;1;1;from
+Q309352;Iringa Region;категория на Викискладе;1;1;from
+Q309352;Iringa Region;географические координаты;1;1;from
+Q309352;Iringa Region;код Freebase;1;1;from
+Q309352;Iringa Region;Who's on First ID;1;1;from
+Q309352;Iringa Region;FIPS 10-4 (страны и регионы);1;1;from
+Q309352;Iringa Region;основная категория по теме;1;1;from
+Q309352;Iringa Region;происходит из;1;15;to
+Q309352;Iringa Region;место рождения;1;1;to
+Q309352;Iringa Region;является столицей;1;1;to
+Q309352;Iringa Region;общая тема категории;1;1;to
+Q309352;Iringa Region;административно делится на;1;1;to
+Q328922;Kilimanjaro Region;административно-территориальная единица;1;65;to
+Q328922;Kilimanjaro Region;названо в честь;1;1;from
+Q328922;Kilimanjaro Region;государство;1;1;from
+Q328922;Kilimanjaro Region;изображение;1;1;from
+Q328922;Kilimanjaro Region;карта местонахождения;1;1;from
+Q328922;Kilimanjaro Region;это частный случай понятия;1;1;from
+Q309352;Iringa Region;код BabelNet;1;1;from
+Q309352;Iringa Region;площадь;1;1;from
+Q309352;Iringa Region;код GeoNames;1;1;from
+Q309339;Lindi Region;место смерти;1;1;to
+Q309339;Lindi Region;географические координаты;1;1;from
+Q309339;Lindi Region;код Freebase;1;1;from
+Q309339;Lindi Region;Who's on First ID;1;1;from
+Q309339;Lindi Region;FIPS 10-4 (страны и регионы);1;1;from
+Q309339;Lindi Region;основная категория по теме;1;1;from
+Q309339;Lindi Region;происходит из;1;8;to
+Q309339;Lindi Region;расположение штаб-квартиры;1;1;to
+Q309339;Lindi Region;место активности;1;1;to
+Q309339;Lindi Region;является столицей;1;1;to
+Q309352;Iringa Region;столица;1;1;from
+Q309339;Lindi Region;общая тема категории;1;1;to
+Q309339;Lindi Region;административно делится на;1;1;to
+Q309352;Iringa Region;административно-территориальная единица;1;85;to
+Q309352;Iringa Region;названо в честь;1;1;from
+Q309352;Iringa Region;государство;1;1;from
+Q309352;Iringa Region;изображение;1;1;from
+Q309352;Iringa Region;карта местонахождения;1;1;from
+Q309352;Iringa Region;это частный случай понятия;1;1;from
+Q25618976;Songwe Region;административно-территориальная единица;1;3;to

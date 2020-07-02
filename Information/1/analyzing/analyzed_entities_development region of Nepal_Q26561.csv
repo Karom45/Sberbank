@@ -1,0 +1,77 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q28235;Far-Western Development Region;административно-территориальная единица;1;2;to
+Q28576;Eastern Development Region;имеет границы с;1;1;to
+Q28576;Eastern Development Region;географические координаты;1;1;from
+Q28576;Eastern Development Region;дата основания/создания/возникновения;1;1;from
+Q28576;Eastern Development Region;ID отношения в OpenStreetMap;1;1;from
+Q28576;Eastern Development Region;категория на Викискладе;1;1;from
+Q28576;Eastern Development Region;ISO 3166-2;1;1;from
+Q28576;Eastern Development Region;площадь;1;1;from
+Q28576;Eastern Development Region;код GeoNames;1;1;from
+Q28576;Eastern Development Region;столица;1;1;from
+Q28235;Far-Western Development Region;государство;1;1;from
+Q28576;Eastern Development Region;это частный случай понятия;1;1;from
+Q28576;Eastern Development Region;карта местонахождения;1;1;from
+Q28576;Eastern Development Region;государство;1;1;from
+Q28576;Eastern Development Region;административно-территориальная единица;1;27;to
+Q28576;Eastern Development Region;основатель;1;1;from
+Q28464;Mid-Western Region;код Freebase;1;1;from
+Q28464;Mid-Western Region;географические координаты;1;1;from
+Q28576;Eastern Development Region;код Freebase;1;1;from
+Q28576;Eastern Development Region;место в MusicBrainz;1;1;from
+Q28576;Eastern Development Region;является столицей;1;1;to
+Q28579;Central Region;административно-территориальная единица;1;21;to
+Q28579;Central Region;место смерти;1;1;to
+Q28579;Central Region;место рождения;1;1;to
+Q28579;Central Region;место в MusicBrainz;1;1;from
+Q28579;Central Region;код Freebase;1;1;from
+Q28579;Central Region;географические координаты;1;1;from
+Q28579;Central Region;ID отношения в OpenStreetMap;1;1;from
+Q28579;Central Region;категория на Викискладе;1;1;from
+Q28579;Central Region;ISO 3166-2;1;1;from
+Q28579;Central Region;площадь;1;1;from
+Q28579;Central Region;код GeoNames;1;1;from
+Q28579;Central Region;имеет границы с;1;1;to
+Q28579;Central Region;столица;1;1;from
+Q28579;Central Region;это частный случай понятия;1;1;from
+Q28579;Central Region;карта местонахождения;1;1;from
+Q28579;Central Region;государство;1;1;from
+Q28464;Mid-Western Region;ID отношения в OpenStreetMap;1;1;from
+Q28464;Mid-Western Region;категория на Викискладе;1;1;from
+Q28464;Mid-Western Region;ISO 3166-2;1;1;from
+Q28462;Western Region;это частный случай понятия;1;1;from
+Q28462;Western Region;государство;1;1;from
+Q28462;Western Region;административно-территориальная единица;1;12;to
+Q28235;Far-Western Development Region;место активности;1;1;to
+Q28235;Far-Western Development Region;код Freebase;1;1;from
+Q28235;Far-Western Development Region;географические координаты;1;1;from
+Q28235;Far-Western Development Region;часовой пояс;1;1;from
+Q28235;Far-Western Development Region;ID отношения в OpenStreetMap;1;1;from
+Q28235;Far-Western Development Region;категория на Викискладе;1;1;from
+Q28235;Far-Western Development Region;ISO 3166-2;1;1;from
+Q28235;Far-Western Development Region;площадь;1;1;from
+Q28235;Far-Western Development Region;код GeoNames;1;1;from
+Q28235;Far-Western Development Region;численность населения;1;1;from
+Q28235;Far-Western Development Region;имеет границы с;1;1;to
+Q28235;Far-Western Development Region;это частный случай понятия;1;1;from
+Q28235;Far-Western Development Region;карта местонахождения;1;1;from
+Q28462;Western Region;карта местонахождения;1;1;from
+Q28462;Western Region;столица;1;1;from
+Q28464;Mid-Western Region;площадь;1;1;from
+Q28462;Western Region;имеет границы с;1;1;to
+Q28464;Mid-Western Region;код GeoNames;1;1;from
+Q28464;Mid-Western Region;имеет границы с;1;1;to
+Q28464;Mid-Western Region;столица;1;1;from
+Q28464;Mid-Western Region;это частный случай понятия;1;1;from
+Q28464;Mid-Western Region;карта местонахождения;1;1;from
+Q28464;Mid-Western Region;государство;1;1;from
+Q28464;Mid-Western Region;административно-территориальная единица;1;4;to
+Q28462;Western Region;код Freebase;1;1;from
+Q28462;Western Region;географические координаты;1;1;from
+Q28462;Western Region;ID отношения в OpenStreetMap;1;1;from
+Q28462;Western Region;категория на Викискладе;1;1;from
+Q28462;Western Region;код темы Quora;1;1;from
+Q28462;Western Region;ISO 3166-2;1;1;from
+Q28462;Western Region;площадь;1;1;from
+Q28462;Western Region;код GeoNames;1;1;from
+Q28579;Central Region;является столицей;1;1;to

@@ -1,0 +1,1289 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q6904;Alt Empordà;административно-территориальная единица;1;146;to
+Q15352;Anoia;ID отношения в OpenStreetMap;1;1;from
+Q15351;Baix Llobregat;юрисдикция распространяется на;1;4;to
+Q15351;Baix Llobregat;место создания;1;2;to
+Q15351;Baix Llobregat;категория объединяет темы;1;2;to
+Q15351;Baix Llobregat;код BNE;1;1;from
+Q15351;Baix Llobregat;код NLI;1;1;from
+Q15351;Baix Llobregat;основная категория по теме;1;1;from
+Q15351;Baix Llobregat;категория карт на Викискладе;1;1;from
+Q15351;Baix Llobregat;Who's on First ID;1;1;from
+Q15351;Baix Llobregat;код Freebase;1;1;from
+Q15351;Baix Llobregat;географические координаты;1;1;from
+Q15351;Baix Llobregat;IDESCAT territorial code in Catalonia;1;1;from
+Q15351;Baix Llobregat;ID отношения в OpenStreetMap;1;1;from
+Q15351;Baix Llobregat;категория на Викискладе;1;1;from
+Q15351;Baix Llobregat;код SUDOC;1;1;from
+Q15351;Baix Llobregat;код BNF;1;1;from
+Q15351;Baix Llobregat;код FAST;1;1;from
+Q15351;Baix Llobregat;номинальный ВВП на душу населения;1;4;from
+Q15351;Baix Llobregat;общая тема категории;1;1;to
+Q15351;Baix Llobregat;является столицей;1;1;to
+Q15352;Anoia;административно-территориальная единица;1;45;to
+Q15352;Anoia;изображение герба;1;2;from
+Q15352;Anoia;номинальный ВВП на душу населения;1;4;from
+Q15352;Anoia;номинальный ВВП;1;4;from
+Q15352;Anoia;площадь;1;1;from
+Q15352;Anoia;категория для людей, связанных с местностью;1;1;from
+Q15352;Anoia;должность главы правительства;1;1;from
+Q15352;Anoia;код в Большой каталанской энциклопедии;1;1;from
+Q15352;Anoia;численность населения;1;44;from
+Q15352;Anoia;имеет границы с;1;7;to
+Q15352;Anoia;административно делится на;1;1;to
+Q15352;Anoia;изображение флага;1;1;from
+Q15352;Anoia;столица;1;1;from
+Q15352;Anoia;это частный случай понятия;1;1;from
+Q15352;Anoia;код LCNAF;1;1;from
+Q15352;Anoia;карта местонахождения;1;1;from
+Q15352;Anoia;описание герба;1;1;from
+Q15352;Anoia;государство;1;1;from
+Q15351;Baix Llobregat;номинальный ВВП;1;4;from
+Q15351;Baix Llobregat;площадь;1;1;from
+Q15351;Baix Llobregat;код GeoNames;1;1;from
+Q15348;Barcelonès;ID отношения в OpenStreetMap;1;1;from
+Q15348;Barcelonès;местонахождение;1;1;to
+Q15348;Barcelonès;основная категория по теме;1;1;from
+Q15348;Barcelonès;категория карт на Викискладе;1;1;from
+Q15348;Barcelonès;код Freebase;1;1;from
+Q15348;Barcelonès;географические координаты;1;1;from
+Q15348;Barcelonès;IDESCAT territorial code in Catalonia;1;1;from
+Q15348;Barcelonès;код тезауруса PACTOLS;1;1;from
+Q15348;Barcelonès;категория на Викискладе;1;1;from
+Q15348;Barcelonès;часть от;1;1;to
+Q15348;Barcelonès;номинальный ВВП на душу населения;1;4;from
+Q15348;Barcelonès;номинальный ВВП;1;4;from
+Q15348;Barcelonès;площадь;1;1;from
+Q15348;Barcelonès;категория для людей, связанных с местностью;1;1;from
+Q15348;Barcelonès;этнохороним;1;2;from
+Q15348;Barcelonès;категория для людей, родившихся здесь;1;1;from
+Q15348;Barcelonès;должность главы правительства;1;1;from
+Q15348;Barcelonès;категория объединяет темы;1;5;to
+Q15348;Barcelonès;юрисдикция распространяется на;1;4;to
+Q15351;Baix Llobregat;должность главы правительства;1;1;from
+Q15351;Baix Llobregat;код GND;1;1;from
+Q15351;Baix Llobregat;код в Большой каталанской энциклопедии;1;1;from
+Q15351;Baix Llobregat;численность населения;1;44;from
+Q15351;Baix Llobregat;имеет границы с;1;6;to
+Q15351;Baix Llobregat;столица;1;1;from
+Q15351;Baix Llobregat;это частный случай понятия;1;1;from
+Q15351;Baix Llobregat;код LCNAF;1;1;from
+Q15351;Baix Llobregat;карта местонахождения;1;1;from
+Q15351;Baix Llobregat;код VIAF;1;1;from
+Q15348;Barcelonès;место рождения;1;1;to
+Q15351;Baix Llobregat;находится на берегу водоёма;1;1;from
+Q15351;Baix Llobregat;государство;1;1;from
+Q15351;Baix Llobregat;административно делится на;1;1;to
+Q15351;Baix Llobregat;административно-территориальная единица;1;48;to
+Q15348;Barcelonès;является столицей;1;1;to
+Q15348;Barcelonès;общая тема категории;1;1;to
+Q15348;Barcelonès;место смерти;1;1;to
+Q15352;Anoia;категория на Викискладе;1;1;from
+Q15352;Anoia;IDESCAT territorial code in Catalonia;1;1;from
+Q6904;Alt Empordà;названо в честь;1;1;from
+Q15352;Anoia;географические координаты;1;1;from
+Q15355;Alt Penedès;ID отношения в OpenStreetMap;1;1;from
+Q15355;Alt Penedès;категория на Викискладе;1;1;from
+Q15355;Alt Penedès;код FAST;1;1;from
+Q15355;Alt Penedès;номинальный ВВП на душу населения;1;4;from
+Q15355;Alt Penedès;номинальный ВВП;1;4;from
+Q15355;Alt Penedès;площадь;1;1;from
+Q15355;Alt Penedès;категория для людей, связанных с местностью;1;1;from
+Q15355;Alt Penedès;должность главы правительства;1;1;from
+Q15355;Alt Penedès;код в Большой каталанской энциклопедии;1;1;from
+Q15355;Alt Penedès;численность населения;1;2;from
+Q15355;Alt Penedès;имеет границы с;1;5;to
+Q15355;Alt Penedès;столица;1;1;from
+Q15355;Alt Penedès;это частный случай понятия;1;1;from
+Q15355;Alt Penedès;код LCNAF;1;1;from
+Q15355;Alt Penedès;карта местонахождения;1;1;from
+Q15355;Alt Penedès;код GND;1;1;from
+Q15355;Alt Penedès;код VIAF;1;1;from
+Q15355;Alt Penedès;код тезауруса PACTOLS;1;1;from
+Q15355;Alt Penedès;IDESCAT territorial code in Catalonia;1;1;from
+Q15355;Alt Penedès;географические координаты;1;1;from
+Q15355;Alt Penedès;является столицей;1;1;to
+Q15360;Tarragonès;имеет границы с;1;3;to
+Q15360;Tarragonès;столица;1;1;from
+Q15360;Tarragonès;это частный случай понятия;1;1;from
+Q15360;Tarragonès;карта местонахождения;1;1;from
+Q15360;Tarragonès;государство;1;1;from
+Q15360;Tarragonès;административно делится на;1;1;to
+Q15360;Tarragonès;административно-территориальная единица;1;28;to
+Q15355;Alt Penedès;общая тема категории;1;1;to
+Q15355;Alt Penedès;код Freebase;1;1;from
+Q15355;Alt Penedès;юрисдикция распространяется на;1;4;to
+Q15355;Alt Penedès;часть от;1;1;to
+Q15355;Alt Penedès;категория объединяет темы;1;4;to
+Q15355;Alt Penedès;код BNE;1;1;from
+Q15355;Alt Penedès;основная категория по теме;1;1;from
+Q15355;Alt Penedès;официальный сайт;1;1;from
+Q15355;Alt Penedès;категория карт на Викискладе;1;1;from
+Q15355;Alt Penedès;изображение;1;1;from
+Q15355;Alt Penedès;государство;1;1;from
+Q15355;Alt Penedès;административно делится на;1;1;to
+Q15354;Garraf;административно делится на;1;1;to
+Q15354;Garraf;численность населения;1;44;from
+Q15354;Garraf;имеет границы с;1;3;to
+Q15354;Garraf;столица;1;1;from
+Q15354;Garraf;это частный случай понятия;1;1;from
+Q15354;Garraf;карта местонахождения;1;1;from
+Q15354;Garraf;изображение;1;1;from
+Q15354;Garraf;государство;1;1;from
+Q15354;Garraf;административно-территориальная единица;1;11;to
+Q15354;Garraf;должность главы правительства;1;1;from
+Q15352;Anoia;является столицей;1;1;to
+Q15352;Anoia;общая тема категории;1;1;to
+Q15352;Anoia;юрисдикция распространяется на;1;5;to
+Q15352;Anoia;категория объединяет темы;1;3;to
+Q15352;Anoia;основная категория по теме;1;1;from
+Q15352;Anoia;категория карт на Викискладе;1;1;from
+Q15352;Anoia;код Freebase;1;1;from
+Q15354;Garraf;код в Большой каталанской энциклопедии;1;1;from
+Q15354;Garraf;площадь;1;1;from
+Q15355;Alt Penedès;административно-территориальная единица;1;34;to
+Q15354;Garraf;галерея на Викискладе;1;1;from
+Q15354;Garraf;является столицей;1;1;to
+Q15354;Garraf;общая тема категории;1;1;to
+Q15354;Garraf;категория объединяет темы;1;1;to
+Q15354;Garraf;зона обслуживания;1;1;to
+Q15354;Garraf;юрисдикция распространяется на;1;4;to
+Q15354;Garraf;место смерти;1;4;to
+Q15354;Garraf;изображённый объект;1;1;to
+Q15354;Garraf;основная категория по теме;1;1;from
+Q15354;Garraf;номинальный ВВП;1;4;from
+Q15354;Garraf;категория карт на Викискладе;1;1;from
+Q15354;Garraf;код Freebase;1;1;from
+Q15354;Garraf;географические координаты;1;1;from
+Q15354;Garraf;IDESCAT territorial code in Catalonia;1;1;from
+Q15354;Garraf;ID отношения в OpenStreetMap;1;1;from
+Q15354;Garraf;категория на Викискладе;1;1;from
+Q15354;Garraf;номинальный ВВП на душу населения;1;4;from
+Q15348;Barcelonès;код в Большой каталанской энциклопедии;1;1;from
+Q15348;Barcelonès;численность населения;1;44;from
+Q15348;Barcelonès;имеет границы с;1;4;to
+Q15348;Barcelonès;столица;1;1;from
+Q14303;Vallès Oriental;административно-территориальная единица;1;60;to
+Q13948;Vallès Occidental;является столицей;1;2;to
+Q13948;Vallès Occidental;общая тема категории;1;1;to
+Q13948;Vallès Occidental;зона обслуживания;1;1;to
+Q13948;Vallès Occidental;юрисдикция распространяется на;1;4;to
+Q13948;Vallès Occidental;категория объединяет темы;1;3;to
+Q13948;Vallès Occidental;место создания;1;2;to
+Q13948;Vallès Occidental;галерея на Викискладе;1;1;from
+Q13948;Vallès Occidental;основная категория по теме;1;1;from
+Q13948;Vallès Occidental;категория карт на Викискладе;1;1;from
+Q13948;Vallès Occidental;код Freebase;1;1;from
+Q13948;Vallès Occidental;географические координаты;1;1;from
+Q13948;Vallès Occidental;IDESCAT territorial code in Catalonia;1;1;from
+Q13948;Vallès Occidental;код тезауруса PACTOLS;1;1;from
+Q13948;Vallès Occidental;ID отношения в OpenStreetMap;1;1;from
+Q13948;Vallès Occidental;категория на Викискладе;1;1;from
+Q13948;Vallès Occidental;номинальный ВВП на душу населения;1;4;from
+Q14303;Vallès Oriental;административно делится на;1;2;to
+Q14303;Vallès Oriental;государство;1;1;from
+Q14303;Vallès Oriental;карта местонахождения;1;1;from
+Q14303;Vallès Oriental;категория на Викискладе;1;1;from
+Q14303;Vallès Oriental;основная категория по теме;1;1;from
+Q14303;Vallès Oriental;категория карт на Викискладе;1;1;from
+Q14303;Vallès Oriental;код Freebase;1;1;from
+Q14303;Vallès Oriental;географические координаты;1;1;from
+Q14303;Vallès Oriental;IDESCAT territorial code in Catalonia;1;1;from
+Q14303;Vallès Oriental;код тезауруса PACTOLS;1;1;from
+Q14303;Vallès Oriental;ID отношения в OpenStreetMap;1;1;from
+Q14303;Vallès Oriental;номинальный ВВП на душу населения;1;4;from
+Q14303;Vallès Oriental;это частный случай понятия;1;1;from
+Q14303;Vallès Oriental;номинальный ВВП;1;4;from
+Q14303;Vallès Oriental;площадь;1;2;from
+Q14303;Vallès Oriental;должность главы правительства;1;1;from
+Q14303;Vallès Oriental;код в Большой каталанской энциклопедии;1;1;from
+Q14303;Vallès Oriental;численность населения;1;44;from
+Q14303;Vallès Oriental;имеет границы с;1;6;to
+Q14303;Vallès Oriental;столица;1;1;from
+Q13948;Vallès Occidental;номинальный ВВП;1;4;from
+Q13948;Vallès Occidental;площадь;1;1;from
+Q13948;Vallès Occidental;категория для людей, связанных с местностью;1;1;from
+Q12793;Osona;категория на Викискладе;1;1;from
+Q12793;Osona;основная категория по теме;1;1;from
+Q12793;Osona;официальный сайт;1;1;from
+Q12793;Osona;категория карт на Викискладе;1;1;from
+Q12793;Osona;код Freebase;1;1;from
+Q12793;Osona;географические координаты;1;1;from
+Q12793;Osona;IDESCAT territorial code in Catalonia;1;1;from
+Q12793;Osona;ID отношения в OpenStreetMap;1;1;from
+Q12793;Osona;номинальный ВВП на душу населения;1;4;from
+Q12793;Osona;место создания;1;1;to
+Q12793;Osona;номинальный ВВП;1;4;from
+Q12793;Osona;площадь;1;2;from
+Q12793;Osona;должность главы правительства;1;1;from
+Q12793;Osona;код в Большой каталанской энциклопедии;1;1;from
+Q12793;Osona;численность населения;1;38;from
+Q12793;Osona;изображение герба;1;1;from
+Q12793;Osona;имеет границы с;1;7;to
+Q12793;Osona;галерея на Викискладе;1;1;from
+Q12793;Osona;юрисдикция распространяется на;1;6;to
+Q13948;Vallès Occidental;название на языке оригинала;1;1;from
+Q13948;Vallès Occidental;код GND;1;1;from
+Q13948;Vallès Occidental;должность главы правительства;1;1;from
+Q13948;Vallès Occidental;код в Большой каталанской энциклопедии;1;1;from
+Q13948;Vallès Occidental;численность населения;1;44;from
+Q13948;Vallès Occidental;имеет границы с;1;5;to
+Q13948;Vallès Occidental;столица;1;2;from
+Q13948;Vallès Occidental;это частный случай понятия;1;1;from
+Q13948;Vallès Occidental;карта местонахождения;1;1;from
+Q13948;Vallès Occidental;код VIAF;1;1;from
+Q12793;Osona;категория объединяет темы;1;2;to
+Q13948;Vallès Occidental;государство;1;1;from
+Q13948;Vallès Occidental;административно делится на;1;2;to
+Q13948;Vallès Occidental;административно-территориальная единица;1;40;to
+Q12793;Osona;является столицей;1;1;to
+Q12793;Osona;общая тема категории;1;2;to
+Q12793;Osona;место рождения;1;1;to
+Q12793;Osona;место смерти;1;1;to
+Q14303;Vallès Oriental;галерея на Викискладе;1;1;from
+Q14303;Vallès Oriental;местонахождение;1;1;to
+Q14303;Vallès Oriental;категория объединяет темы;1;2;to
+Q15346;Bages;имеет границы с;1;7;to
+Q15346;Bages;категория на Викискладе;1;1;from
+Q15346;Bages;номинальный ВВП на душу населения;1;4;from
+Q15346;Bages;номинальный ВВП;1;4;from
+Q15346;Bages;площадь;1;2;from
+Q15346;Bages;должность главы правительства;1;1;from
+Q15346;Bages;код в Большой каталанской энциклопедии;1;1;from
+Q15346;Bages;численность населения;1;2;from
+Q15346;Bages;столица;1;1;from
+Q15346;Bages;IDESCAT territorial code in Catalonia;1;1;from
+Q15346;Bages;это частный случай понятия;1;1;from
+Q15346;Bages;карта местонахождения;1;1;from
+Q15346;Bages;код GND;1;1;from
+Q15346;Bages;код VIAF;1;1;from
+Q15346;Bages;государство;1;1;from
+Q15346;Bages;административно делится на;1;1;to
+Q15346;Bages;административно-территориальная единица;1;45;to
+Q15346;Bages;ID отношения в OpenStreetMap;1;1;from
+Q15346;Bages;географические координаты;1;1;from
+Q15345;Berguedà;общая тема категории;1;1;to
+Q15346;Bages;общая тема категории;1;1;to
+Q15348;Barcelonès;это частный случай понятия;1;1;from
+Q15348;Barcelonès;карта местонахождения;1;1;from
+Q15348;Barcelonès;изображение;1;1;from
+Q15348;Barcelonès;государство;1;1;from
+Q15348;Barcelonès;административно делится на;1;1;to
+Q15348;Barcelonès;административно-территориальная единица;1;13;to
+Q15346;Bages;является столицей;1;1;to
+Q15346;Bages;место изготовления;1;1;to
+Q15346;Bages;код Freebase;1;1;from
+Q15346;Bages;место смерти;1;1;to
+Q15346;Bages;юрисдикция распространяется на;1;4;to
+Q15346;Bages;категория объединяет темы;1;2;to
+Q15346;Bages;код BNE;1;1;from
+Q15346;Bages;основная категория по теме;1;1;from
+Q15346;Bages;официальный сайт;1;1;from
+Q15346;Bages;категория карт на Викискладе;1;1;from
+Q15345;Berguedà;является столицей;1;1;to
+Q15345;Berguedà;зона обслуживания;1;1;to
+Q14303;Vallès Oriental;место создания;1;1;to
+Q15345;Berguedà;код VIAF;1;1;from
+Q15345;Berguedà;имеет границы с;1;6;to
+Q15345;Berguedà;изображение флага;1;1;from
+Q15345;Berguedà;столица;1;1;from
+Q15345;Berguedà;это частный случай понятия;1;1;from
+Q15345;Berguedà;карта местонахождения;1;1;from
+Q15345;Berguedà;описание герба;1;1;from
+Q15345;Berguedà;код GND;1;1;from
+Q15345;Berguedà;изображение;1;1;from
+Q15345;Berguedà;численность населения;1;44;from
+Q15345;Berguedà;государство;1;1;from
+Q15345;Berguedà;описание флага;1;1;from
+Q15345;Berguedà;административно делится на;1;1;to
+Q15345;Berguedà;административно-территориальная единица;1;64;to
+Q14303;Vallès Oriental;является столицей;1;1;to
+Q14303;Vallès Oriental;общая тема категории;1;1;to
+Q14303;Vallès Oriental;юрисдикция распространяется на;1;4;to
+Q15345;Berguedà;изображение герба;1;1;from
+Q15345;Berguedà;код в Большой каталанской энциклопедии;1;1;from
+Q15345;Berguedà;место создания;1;1;to
+Q15345;Berguedà;код Freebase;1;1;from
+Q15345;Berguedà;категория объединяет темы;1;2;to
+Q15345;Berguedà;место рождения;1;1;to
+Q15345;Berguedà;юрисдикция распространяется на;1;11;to
+Q15345;Berguedà;код BNE;1;1;from
+Q15345;Berguedà;основная категория по теме;1;1;from
+Q15345;Berguedà;официальный сайт;1;1;from
+Q15345;Berguedà;категория карт на Викискладе;1;1;from
+Q15345;Berguedà;географические координаты;1;1;from
+Q15345;Berguedà;должность главы правительства;1;1;from
+Q15345;Berguedà;IDESCAT territorial code in Catalonia;1;1;from
+Q15345;Berguedà;код тезауруса PACTOLS;1;1;from
+Q15345;Berguedà;ID отношения в OpenStreetMap;1;1;from
+Q15345;Berguedà;категория на Викискладе;1;1;from
+Q15345;Berguedà;номинальный ВВП на душу населения;1;4;from
+Q15345;Berguedà;номинальный ВВП;1;4;from
+Q15345;Berguedà;площадь;1;1;from
+Q15360;Tarragonès;численность населения;1;44;from
+Q15360;Tarragonès;код в Большой каталанской энциклопедии;1;1;from
+Q15360;Tarragonès;должность главы правительства;1;1;from
+Q15367;Montsià;географические координаты;1;1;from
+Q15374;Ribera d'Ebre;должность главы правительства;1;1;from
+Q15374;Ribera d'Ebre;код в Большой каталанской энциклопедии;1;1;from
+Q15374;Ribera d'Ebre;численность населения;1;44;from
+Q15374;Ribera d'Ebre;изображение герба;1;1;from
+Q15374;Ribera d'Ebre;имеет границы с;1;7;to
+Q15374;Ribera d'Ebre;столица;1;1;from
+Q15374;Ribera d'Ebre;это частный случай понятия;1;1;from
+Q15374;Ribera d'Ebre;карта местонахождения;1;1;from
+Q15374;Ribera d'Ebre;описание герба;1;1;from
+Q15374;Ribera d'Ebre;государство;1;1;from
+Q15374;Ribera d'Ebre;административно делится на;1;1;to
+Q15374;Ribera d'Ebre;административно-территориальная единица;1;19;to
+Q15368;Conca de Barberà;общая тема категории;1;1;to
+Q15368;Conca de Barberà;является столицей;1;1;to
+Q15368;Conca de Barberà;юрисдикция распространяется на;1;5;to
+Q15368;Conca de Barberà;категория объединяет темы;1;2;to
+Q15368;Conca de Barberà;код BNE;1;1;from
+Q15374;Ribera d'Ebre;площадь;1;1;from
+Q15374;Ribera d'Ebre;номинальный ВВП;1;4;from
+Q15374;Ribera d'Ebre;номинальный ВВП на душу населения;1;4;from
+Q15374;Ribera d'Ebre;состоит из;1;1;to
+Q15376;Terra Alta;изображение;1;1;from
+Q15376;Terra Alta;государство;1;1;from
+Q15376;Terra Alta;административно делится на;1;1;to
+Q15376;Terra Alta;административно-территориальная единица;1;18;to
+Q15374;Ribera d'Ebre;является столицей;1;1;to
+Q15374;Ribera d'Ebre;категория объединяет темы;1;1;to
+Q15374;Ribera d'Ebre;общая тема категории;1;2;to
+Q15374;Ribera d'Ebre;юрисдикция распространяется на;1;5;to
+Q15374;Ribera d'Ebre;категория на Викискладе;1;1;from
+Q15374;Ribera d'Ebre;основная категория по теме;1;1;from
+Q15374;Ribera d'Ebre;категория карт на Викискладе;1;1;from
+Q15374;Ribera d'Ebre;код Freebase;1;1;from
+Q15374;Ribera d'Ebre;географические координаты;1;1;from
+Q15374;Ribera d'Ebre;IDESCAT territorial code in Catalonia;1;1;from
+Q15374;Ribera d'Ebre;код тезауруса PACTOLS;1;1;from
+Q15374;Ribera d'Ebre;ID отношения в OpenStreetMap;1;1;from
+Q15368;Conca de Barberà;основная категория по теме;1;1;from
+Q15368;Conca de Barberà;категория карт на Викискладе;1;1;from
+Q15368;Conca de Barberà;код Freebase;1;1;from
+Q15367;Montsià;часть от;1;1;to
+Q15368;Conca de Barberà;код VIAF;1;1;from
+Q15368;Conca de Barberà;изображение;1;1;from
+Q15368;Conca de Barberà;государство;1;1;from
+Q15368;Conca de Barberà;административно делится на;1;1;to
+Q15368;Conca de Barberà;названо в честь;1;2;from
+Q15368;Conca de Barberà;административно-территориальная единица;1;34;to
+Q15367;Montsià;является столицей;1;1;to
+Q15367;Montsià;юрисдикция распространяется на;1;5;to
+Q15368;Conca de Barberà;описание герба;1;1;from
+Q15367;Montsià;место рождения;1;1;to
+Q15367;Montsià;местонахождение;1;1;to
+Q15367;Montsià;категория объединяет темы;1;3;to
+Q15367;Montsià;общая тема категории;1;1;to
+Q15367;Montsià;баннер Викигида;1;1;from
+Q15367;Montsià;основная категория по теме;1;1;from
+Q15367;Montsià;категория карт на Викискладе;1;1;from
+Q15368;Conca de Barberà;код GND;1;1;from
+Q15368;Conca de Barberà;карта местонахождения;1;1;from
+Q15368;Conca de Barberà;географические координаты;1;1;from
+Q15368;Conca de Barberà;площадь;1;1;from
+Q15368;Conca de Barberà;IDESCAT territorial code in Catalonia;1;1;from
+Q15368;Conca de Barberà;ID отношения в OpenStreetMap;1;1;from
+Q15368;Conca de Barberà;категория на Викискладе;1;1;from
+Q15368;Conca de Barberà;код SUDOC;1;1;from
+Q15368;Conca de Barberà;код BNF;1;1;from
+Q15368;Conca de Barberà;номинальный ВВП на душу населения;1;4;from
+Q15368;Conca de Barberà;номинальный ВВП;1;4;from
+Q15368;Conca de Barberà;категория для людей, связанных с местностью;1;1;from
+Q15368;Conca de Barberà;это частный случай понятия;1;1;from
+Q15368;Conca de Barberà;должность главы правительства;1;1;from
+Q15368;Conca de Barberà;код в Большой каталанской энциклопедии;1;1;from
+Q15368;Conca de Barberà;численность населения;1;44;from
+Q15368;Conca de Barberà;изображение герба;1;1;from
+Q15368;Conca de Barberà;имеет границы с;1;7;to
+Q15368;Conca de Barberà;изображение флага;1;1;from
+Q15368;Conca de Barberà;столица;1;1;from
+Q15376;Terra Alta;карта местонахождения;1;1;from
+Q15376;Terra Alta;код LCNAF;1;1;from
+Q15376;Terra Alta;это частный случай понятия;1;1;from
+Q15377;Priorat;юрисдикция распространяется на;1;5;to
+Q9035550;Moianès;государство;1;1;from
+Q9035550;Moianès;административно делится на;1;1;to
+Q9035550;Moianès;названо в честь;1;1;from
+Q9035550;Moianès;административно-территориальная единица;1;35;to
+Q15377;Priorat;общая тема категории;1;1;to
+Q15377;Priorat;категория объединяет темы;1;1;to
+Q15377;Priorat;является столицей;1;1;to
+Q15377;Priorat;основная категория по теме;1;1;from
+Q9035550;Moianès;карта местонахождения;1;1;from
+Q15377;Priorat;официальный сайт;1;1;from
+Q15377;Priorat;категория карт на Викискладе;1;1;from
+Q15377;Priorat;код Freebase;1;1;from
+Q15377;Priorat;географические координаты;1;1;from
+Q15377;Priorat;IDESCAT territorial code in Catalonia;1;1;from
+Q15377;Priorat;код тезауруса PACTOLS;1;1;from
+Q15377;Priorat;ID отношения в OpenStreetMap;1;1;from
+Q9035550;Moianès;изображение;1;1;from
+Q9035550;Moianès;это частный случай понятия;1;1;from
+Q15377;Priorat;номинальный ВВП на душу населения;1;4;from
+Q9035550;Moianès;IDESCAT territorial code in Catalonia;1;1;from
+Q9035550;Moianès;юрисдикция распространяется на;1;4;to
+Q9035550;Moianès;общая тема категории;1;1;to
+Q9035550;Moianès;категория объединяет темы;1;2;to
+Q9035550;Moianès;основная категория по теме;1;1;from
+Q9035550;Moianès;официальный сайт;1;1;from
+Q9035550;Moianès;категория карт на Викискладе;1;1;from
+Q9035550;Moianès;географические координаты;1;1;from
+Q9035550;Moianès;категория на Викискладе;1;1;from
+Q9035550;Moianès;столица;1;1;from
+Q9035550;Moianès;номинальный ВВП на душу населения;1;4;from
+Q9035550;Moianès;номинальный ВВП;1;4;from
+Q9035550;Moianès;площадь;1;1;from
+Q9035550;Moianès;должность главы правительства;1;1;from
+Q9035550;Moianès;код в Большой каталанской энциклопедии;1;1;from
+Q9035550;Moianès;численность населения;1;10;from
+Q9035550;Moianès;имеет границы с;1;4;to
+Q15377;Priorat;категория на Викискладе;1;1;from
+Q15377;Priorat;номинальный ВВП;1;4;from
+Q15376;Terra Alta;столица;1;1;from
+Q15376;Terra Alta;номинальный ВВП на душу населения;1;6;from
+Q15376;Terra Alta;категория карт на Викискладе;1;1;from
+Q15376;Terra Alta;код Freebase;1;1;from
+Q15376;Terra Alta;географические координаты;1;1;from
+Q15376;Terra Alta;IDESCAT territorial code in Catalonia;1;1;from
+Q15376;Terra Alta;код тезауруса PACTOLS;1;1;from
+Q15376;Terra Alta;ID отношения в OpenStreetMap;1;1;from
+Q15376;Terra Alta;категория на Викискладе;1;1;from
+Q15376;Terra Alta;номинальный ВВП;1;6;from
+Q15376;Terra Alta;находится в пределах природно-географического объекта;1;1;to
+Q15376;Terra Alta;площадь;1;1;from
+Q15376;Terra Alta;категория для людей, связанных с местностью;1;1;from
+Q15376;Terra Alta;должность главы правительства;1;1;from
+Q15376;Terra Alta;код в Большой каталанской энциклопедии;1;1;from
+Q15376;Terra Alta;численность населения;1;44;from
+Q15376;Terra Alta;изображение герба;1;1;from
+Q15376;Terra Alta;имеет границы с;1;3;to
+Q15376;Terra Alta;основная категория по теме;1;1;from
+Q15376;Terra Alta;место рождения;1;2;to
+Q15377;Priorat;площадь;1;1;from
+Q15377;Priorat;код LCNAF;1;1;from
+Q15377;Priorat;должность главы правительства;1;1;from
+Q15377;Priorat;код в Большой каталанской энциклопедии;1;1;from
+Q15377;Priorat;численность населения;1;44;from
+Q15377;Priorat;изображение герба;1;1;from
+Q15377;Priorat;имеет границы с;1;4;to
+Q15377;Priorat;столица;1;1;from
+Q15377;Priorat;это частный случай понятия;1;1;from
+Q15377;Priorat;карта местонахождения;1;1;from
+Q15376;Terra Alta;юрисдикция распространяется на;1;4;to
+Q15377;Priorat;описание герба;1;1;from
+Q15377;Priorat;государство;1;1;from
+Q15377;Priorat;административно делится на;1;1;to
+Q15377;Priorat;административно-территориальная единица;1;30;to
+Q15376;Terra Alta;категория объединяет темы;1;2;to
+Q15376;Terra Alta;является столицей;1;1;to
+Q15376;Terra Alta;общая тема категории;1;2;to
+Q15367;Montsià;код Freebase;1;1;from
+Q15367;Montsià;IDESCAT territorial code in Catalonia;1;1;from
+Q15360;Tarragonès;код GeoNames;1;1;from
+Q15367;Montsià;код тезауруса PACTOLS;1;1;from
+Q15362;Baix Penedès;численность населения;1;44;from
+Q15362;Baix Penedès;имеет границы с;1;4;to
+Q15362;Baix Penedès;столица;1;1;from
+Q15362;Baix Penedès;это частный случай понятия;1;1;from
+Q15362;Baix Penedès;код LCNAF;1;1;from
+Q15362;Baix Penedès;карта местонахождения;1;1;from
+Q15362;Baix Penedès;государство;1;1;from
+Q15362;Baix Penedès;административно делится на;1;1;to
+Q15362;Baix Penedès;административно-территориальная единица;1;20;to
+Q15361;Baix Camp;место рождения;1;1;to
+Q15361;Baix Camp;категория объединяет темы;1;1;to
+Q15361;Baix Camp;общая тема категории;1;1;to
+Q15361;Baix Camp;является столицей;1;1;to
+Q15361;Baix Camp;юрисдикция распространяется на;1;6;to
+Q15361;Baix Camp;зона обслуживания;1;2;to
+Q15361;Baix Camp;основная категория по теме;1;1;from
+Q15361;Baix Camp;категория карт на Викискладе;1;1;from
+Q15362;Baix Penedès;код в Большой каталанской энциклопедии;1;1;from
+Q15362;Baix Penedès;должность главы правительства;1;1;from
+Q15362;Baix Penedès;код GeoNames;1;1;from
+Q15362;Baix Penedès;код Freebase;1;1;from
+Q15362;Baix Penedès;общая тема категории;1;1;to
+Q15362;Baix Penedès;является столицей;1;1;to
+Q15362;Baix Penedès;категория объединяет темы;1;1;to
+Q15362;Baix Penedès;юрисдикция распространяется на;1;4;to
+Q15362;Baix Penedès;место создания;1;1;to
+Q15362;Baix Penedès;основная категория по теме;1;1;from
+Q15362;Baix Penedès;категория карт на Викискладе;1;1;from
+Q15362;Baix Penedès;географические координаты;1;1;from
+Q15362;Baix Penedès;площадь;1;1;from
+Q15362;Baix Penedès;IDESCAT territorial code in Catalonia;1;1;from
+Q15362;Baix Penedès;код тезауруса PACTOLS;1;1;from
+Q15362;Baix Penedès;ID отношения в OpenStreetMap;1;1;from
+Q15362;Baix Penedès;категория на Викискладе;1;1;from
+Q15362;Baix Penedès;код темы Quora;1;1;from
+Q15362;Baix Penedès;номинальный ВВП на душу населения;1;4;from
+Q15362;Baix Penedès;номинальный ВВП;1;4;from
+Q15361;Baix Camp;код Freebase;1;1;from
+Q15361;Baix Camp;географические координаты;1;1;from
+Q15361;Baix Camp;IDESCAT territorial code in Catalonia;1;1;from
+Q15360;Tarragonès;географические координаты;1;1;from
+Q15360;Tarragonès;общая тема категории;1;1;to
+Q15360;Tarragonès;категория объединяет темы;1;2;to
+Q15360;Tarragonès;юрисдикция распространяется на;1;4;to
+Q15360;Tarragonès;основная категория по теме;1;1;from
+Q15360;Tarragonès;категория карт на Викискладе;1;1;from
+Q15360;Tarragonès;Who's on First ID;1;1;from
+Q15360;Tarragonès;код Freebase;1;1;from
+Q15360;Tarragonès;IDESCAT territorial code in Catalonia;1;1;from
+Q15361;Baix Camp;административно-территориальная единица;1;37;to
+Q15360;Tarragonès;код тезауруса PACTOLS;1;1;from
+Q15360;Tarragonès;ID отношения в OpenStreetMap;1;1;from
+Q15360;Tarragonès;категория на Викискладе;1;1;from
+Q15360;Tarragonès;номинальный ВВП на душу населения;1;4;from
+Q15360;Tarragonès;номинальный ВВП;1;4;from
+Q15360;Tarragonès;площадь;1;1;from
+Q15360;Tarragonès;категория для людей, связанных с местностью;1;1;from
+Q15360;Tarragonès;является столицей;1;1;to
+Q15361;Baix Camp;административно делится на;1;1;to
+Q15361;Baix Camp;код тезауруса PACTOLS;1;1;from
+Q15361;Baix Camp;численность населения;1;44;from
+Q15361;Baix Camp;ID отношения в OpenStreetMap;1;1;from
+Q15361;Baix Camp;категория на Викискладе;1;1;from
+Q15361;Baix Camp;номинальный ВВП на душу населения;1;4;from
+Q15361;Baix Camp;номинальный ВВП;1;4;from
+Q15361;Baix Camp;площадь;1;1;from
+Q15361;Baix Camp;должность главы правительства;1;1;from
+Q15361;Baix Camp;код в Большой каталанской энциклопедии;1;1;from
+Q15361;Baix Camp;изображение герба;1;1;from
+Q15361;Baix Camp;описание флага;1;1;from
+Q15361;Baix Camp;имеет границы с;1;6;to
+Q15361;Baix Camp;изображение флага;1;1;from
+Q15361;Baix Camp;столица;1;1;from
+Q15361;Baix Camp;это частный случай понятия;1;1;from
+Q15361;Baix Camp;карта местонахождения;1;1;from
+Q15361;Baix Camp;описание герба;1;1;from
+Q15361;Baix Camp;государство;1;1;from
+Q15364;Baix Ebre;административно-территориальная единица;1;21;to
+Q15364;Baix Ebre;административно делится на;1;1;to
+Q15364;Baix Ebre;государство;1;1;from
+Q15365;Alt Camp;IDESCAT territorial code in Catalonia;1;1;from
+Q15365;Alt Camp;место рождения;1;1;to
+Q15365;Alt Camp;юрисдикция распространяется на;1;3;to
+Q15365;Alt Camp;категория объединяет темы;1;2;to
+Q15365;Alt Camp;основная категория по теме;1;1;from
+Q15365;Alt Camp;категория карт на Викискладе;1;1;from
+Q15365;Alt Camp;код Freebase;1;1;from
+Q15365;Alt Camp;географические координаты;1;1;from
+Q15365;Alt Camp;код тезауруса PACTOLS;1;1;from
+Q15365;Alt Camp;является столицей;1;1;to
+Q15365;Alt Camp;ID отношения в OpenStreetMap;1;1;from
+Q15365;Alt Camp;категория на Викискладе;1;1;from
+Q15365;Alt Camp;номинальный ВВП на душу населения;1;4;from
+Q15365;Alt Camp;номинальный ВВП;1;4;from
+Q15365;Alt Camp;площадь;1;1;from
+Q15365;Alt Camp;позиционная карта;1;1;from
+Q15365;Alt Camp;должность главы правительства;1;1;from
+Q15365;Alt Camp;общая тема категории;1;1;to
+Q15367;Montsià;административно-территориальная единица;1;17;to
+Q15365;Alt Camp;численность населения;1;44;from
+Q15367;Montsià;численность населения;1;44;from
+Q15367;Montsià;категория на Викискладе;1;1;from
+Q15367;Montsià;номинальный ВВП на душу населения;1;4;from
+Q15367;Montsià;номинальный ВВП;1;4;from
+Q15367;Montsià;площадь;1;1;from
+Q15367;Montsià;категория для людей, связанных с местностью;1;1;from
+Q15367;Montsià;должность главы правительства;1;1;from
+Q15367;Montsià;код в Большой каталанской энциклопедии;1;1;from
+Q15367;Montsià;изображение герба;1;1;from
+Q15367;Montsià;административно делится на;1;1;to
+Q15367;Montsià;имеет границы с;1;3;to
+Q15367;Montsià;столица;1;1;from
+Q15367;Montsià;это частный случай понятия;1;1;from
+Q15367;Montsià;карта местонахождения;1;1;from
+Q15367;Montsià;описание герба;1;1;from
+Q15367;Montsià;изображение;1;1;from
+Q15367;Montsià;государство;1;1;from
+Q15365;Alt Camp;код в Большой каталанской энциклопедии;1;1;from
+Q15365;Alt Camp;изображение герба;1;1;from
+Q15364;Baix Ebre;карта местонахождения;1;1;from
+Q15364;Baix Ebre;этнохороним;1;1;from
+Q15364;Baix Ebre;код тезауруса PACTOLS;1;1;from
+Q15364;Baix Ebre;ID отношения в OpenStreetMap;1;1;from
+Q15364;Baix Ebre;категория на Викискладе;1;1;from
+Q15364;Baix Ebre;номинальный ВВП на душу населения;1;4;from
+Q15364;Baix Ebre;номинальный ВВП;1;4;from
+Q15364;Baix Ebre;площадь;1;1;from
+Q15364;Baix Ebre;высота над уровнем моря;1;1;from
+Q15364;Baix Ebre;должность главы правительства;1;1;from
+Q15364;Baix Ebre;географические координаты;1;1;from
+Q15364;Baix Ebre;код в Большой каталанской энциклопедии;1;1;from
+Q15364;Baix Ebre;численность населения;1;44;from
+Q15364;Baix Ebre;изображение герба;1;1;from
+Q15364;Baix Ebre;имеет границы с;1;5;to
+Q15364;Baix Ebre;изображение флага;1;1;from
+Q15364;Baix Ebre;столица;1;1;from
+Q15364;Baix Ebre;это частный случай понятия;1;1;from
+Q15364;Baix Ebre;IDESCAT territorial code in Catalonia;1;1;from
+Q15364;Baix Ebre;код Freebase;1;1;from
+Q15365;Alt Camp;имеет границы с;1;6;to
+Q15365;Alt Camp;государство;1;1;from
+Q15365;Alt Camp;столица;1;1;from
+Q15365;Alt Camp;это частный случай понятия;1;1;from
+Q15365;Alt Camp;код LCNAF;1;1;from
+Q15365;Alt Camp;карта местонахождения;1;1;from
+Q15365;Alt Camp;код GND;1;1;from
+Q15365;Alt Camp;код VIAF;1;1;from
+Q15365;Alt Camp;изображение;1;1;from
+Q15365;Alt Camp;административно делится на;1;1;to
+Q15364;Baix Ebre;категория карт на Викискладе;1;1;from
+Q15365;Alt Camp;административно-территориальная единица;1;29;to
+Q15364;Baix Ebre;является столицей;1;1;to
+Q15364;Baix Ebre;категория объединяет темы;1;1;to
+Q15364;Baix Ebre;общая тема категории;1;1;to
+Q15364;Baix Ebre;юрисдикция распространяется на;1;5;to
+Q15364;Baix Ebre;местонахождение;1;1;to
+Q15364;Baix Ebre;основная категория по теме;1;1;from
+Q12793;Osona;изображение флага;1;1;from
+Q12793;Osona;столица;1;1;from
+Q12793;Osona;это частный случай понятия;1;1;from
+Q12704;Alta Ribagorça;категория объединяет темы;1;1;to
+Q12720;Alt Urgell;категория на Викискладе;1;1;from
+Q12720;Alt Urgell;номинальный ВВП на душу населения;1;4;from
+Q12720;Alt Urgell;номинальный ВВП;1;4;from
+Q12720;Alt Urgell;площадь;1;1;from
+Q12720;Alt Urgell;категория для людей, связанных с местностью;1;1;from
+Q12720;Alt Urgell;этнохороним;1;4;from
+Q12720;Alt Urgell;должность главы правительства;1;1;from
+Q12720;Alt Urgell;код в Большой каталанской энциклопедии;1;1;from
+Q12720;Alt Urgell;численность населения;1;44;from
+Q12720;Alt Urgell;изображение герба;1;1;from
+Q12720;Alt Urgell;глава правительства;1;1;from
+Q12720;Alt Urgell;имеет границы с;1;6;to
+Q12720;Alt Urgell;столица;1;1;from
+Q12720;Alt Urgell;это частный случай понятия;1;1;from
+Q12720;Alt Urgell;код LCNAF;1;1;from
+Q12720;Alt Urgell;карта местонахождения;1;1;from
+Q12720;Alt Urgell;описание герба;1;1;from
+Q12720;Alt Urgell;ID отношения в OpenStreetMap;1;1;from
+Q12720;Alt Urgell;код тезауруса PACTOLS;1;1;from
+Q12720;Alt Urgell;IDESCAT territorial code in Catalonia;1;1;from
+Q12720;Alt Urgell;место рождения;1;1;to
+Q12723;Pallars Jussà;карта местонахождения;1;1;from
+Q12723;Pallars Jussà;изображение;1;1;from
+Q12723;Pallars Jussà;государство;1;1;from
+Q12723;Pallars Jussà;административно делится на;1;1;to
+Q12723;Pallars Jussà;административно-территориальная единица;1;72;to
+Q12720;Alt Urgell;общая тема категории;1;1;to
+Q12720;Alt Urgell;является столицей;1;1;to
+Q12720;Alt Urgell;место активности;1;1;to
+Q12720;Alt Urgell;географические координаты;1;1;from
+Q12720;Alt Urgell;юрисдикция распространяется на;1;8;to
+Q12720;Alt Urgell;местонахождение;1;1;to
+Q12720;Alt Urgell;категория объединяет темы;1;3;to
+Q12720;Alt Urgell;основная категория по теме;1;1;from
+Q12720;Alt Urgell;официальный сайт;1;1;from
+Q12720;Alt Urgell;категория карт на Викискладе;1;1;from
+Q12720;Alt Urgell;код Freebase;1;1;from
+Q12720;Alt Urgell;изображение;1;1;from
+Q12720;Alt Urgell;государство;1;1;from
+Q12720;Alt Urgell;административно делится на;1;1;to
+Q12719;Pallars Sobirà;карта местонахождения;1;1;from
+Q12719;Pallars Sobirà;код в Большой каталанской энциклопедии;1;1;from
+Q12719;Pallars Sobirà;численность населения;1;44;from
+Q12719;Pallars Sobirà;изображение герба;1;1;from
+Q12719;Pallars Sobirà;имеет границы с;1;4;to
+Q12719;Pallars Sobirà;изображение флага;1;1;from
+Q12719;Pallars Sobirà;столица;1;1;from
+Q12719;Pallars Sobirà;это частный случай понятия;1;1;from
+Q12719;Pallars Sobirà;описание герба;1;1;from
+Q12719;Pallars Sobirà;код GeoNames;1;1;from
+Q12719;Pallars Sobirà;код GND;1;1;from
+Q12719;Pallars Sobirà;код VIAF;1;1;from
+Q12719;Pallars Sobirà;изображение;1;1;from
+Q12719;Pallars Sobirà;государство;1;1;from
+Q12719;Pallars Sobirà;описание флага;1;1;from
+Q12719;Pallars Sobirà;административно делится на;1;1;to
+Q12719;Pallars Sobirà;административно-территориальная единица;1;28;to
+Q12719;Pallars Sobirà;должность главы правительства;1;1;from
+Q12719;Pallars Sobirà;площадь;1;1;from
+Q12720;Alt Urgell;административно-территориальная единица;1;48;to
+Q12719;Pallars Sobirà;местонахождение;1;1;to
+Q12719;Pallars Sobirà;проходит над/под;1;1;to
+Q12719;Pallars Sobirà;является столицей;1;1;to
+Q12719;Pallars Sobirà;общая тема категории;1;1;to
+Q12719;Pallars Sobirà;обслуживаемый город;1;1;to
+Q12719;Pallars Sobirà;находится в пределах природно-географического объекта;1;1;to
+Q12719;Pallars Sobirà;зона обслуживания;1;1;to
+Q12719;Pallars Sobirà;категория объединяет темы;1;2;to
+Q12719;Pallars Sobirà;юрисдикция распространяется на;1;9;to
+Q12719;Pallars Sobirà;номинальный ВВП;1;4;from
+Q12719;Pallars Sobirà;основная категория по теме;1;1;from
+Q12719;Pallars Sobirà;категория карт на Викискладе;1;1;from
+Q12719;Pallars Sobirà;код Freebase;1;1;from
+Q12719;Pallars Sobirà;географические координаты;1;1;from
+Q12719;Pallars Sobirà;IDESCAT territorial code in Catalonia;1;1;from
+Q12719;Pallars Sobirà;категория на Викискладе;1;1;from
+Q12719;Pallars Sobirà;номинальный ВВП на душу населения;1;4;from
+Q12723;Pallars Jussà;это частный случай понятия;1;1;from
+Q12723;Pallars Jussà;столица;1;1;from
+Q12723;Pallars Jussà;имеет границы с;1;5;to
+Q12726;Noguera;основная категория по теме;1;1;from
+Q12727;Segrià;административно-территориальная единица;1;50;to
+Q12726;Noguera;проходит над/под;1;1;to
+Q12726;Noguera;общая тема категории;1;1;to
+Q12726;Noguera;категория объединяет темы;1;1;to
+Q12726;Noguera;является столицей;1;1;to
+Q12726;Noguera;местонахождение;1;1;to
+Q12726;Noguera;юрисдикция распространяется на;1;6;to
+Q12726;Noguera;категория карт на Викискладе;1;1;from
+Q12727;Segrià;административно делится на;1;1;to
+Q12726;Noguera;код Freebase;1;1;from
+Q12726;Noguera;географические координаты;1;1;from
+Q12726;Noguera;IDESCAT territorial code in Catalonia;1;1;from
+Q12726;Noguera;ID отношения в OpenStreetMap;1;1;from
+Q12726;Noguera;категория на Викискладе;1;1;from
+Q12726;Noguera;номинальный ВВП на душу населения;1;4;from
+Q12726;Noguera;номинальный ВВП;1;4;from
+Q12727;Segrià;названо в честь;1;1;from
+Q12727;Segrià;описание флага;1;1;from
+Q12726;Noguera;должность главы правительства;1;1;from
+Q12727;Segrià;код в Большой каталанской энциклопедии;1;1;from
+Q12727;Segrià;код тезауруса PACTOLS;1;1;from
+Q12727;Segrià;ID отношения в OpenStreetMap;1;1;from
+Q12727;Segrià;категория на Викискладе;1;1;from
+Q12727;Segrià;номинальный ВВП на душу населения;1;4;from
+Q12727;Segrià;номинальный ВВП;1;4;from
+Q12727;Segrià;площадь;1;1;from
+Q12727;Segrià;должность главы правительства;1;1;from
+Q12727;Segrià;численность населения;1;44;from
+Q12727;Segrià;государство;1;1;from
+Q12727;Segrià;изображение герба;1;1;from
+Q12727;Segrià;имеет границы с;1;6;to
+Q12727;Segrià;изображение флага;1;1;from
+Q12727;Segrià;столица;1;1;from
+Q12727;Segrià;это частный случай понятия;1;1;from
+Q12727;Segrià;карта местонахождения;1;1;from
+Q12727;Segrià;описание герба;1;1;from
+Q12726;Noguera;площадь;1;1;from
+Q12726;Noguera;код в Большой каталанской энциклопедии;1;2;from
+Q12723;Pallars Jussà;изображение герба;1;1;from
+Q12723;Pallars Jussà;ID отношения в OpenStreetMap;1;1;from
+Q12723;Pallars Jussà;местонахождение;1;1;to
+Q12723;Pallars Jussà;основная категория по теме;1;1;from
+Q12723;Pallars Jussà;категория карт на Викискладе;1;1;from
+Q12723;Pallars Jussà;Great Encyclopedia of Navarre ID;1;1;from
+Q12723;Pallars Jussà;код Freebase;1;1;from
+Q12723;Pallars Jussà;географические координаты;1;1;from
+Q12723;Pallars Jussà;IDESCAT territorial code in Catalonia;1;1;from
+Q12723;Pallars Jussà;категория на Викискладе;1;1;from
+Q12723;Pallars Jussà;юрисдикция распространяется на;1;7;to
+Q12723;Pallars Jussà;номинальный ВВП на душу населения;1;4;from
+Q12723;Pallars Jussà;номинальный ВВП;1;4;from
+Q12723;Pallars Jussà;площадь;1;1;from
+Q12723;Pallars Jussà;заменил;1;1;from
+Q12723;Pallars Jussà;должность главы правительства;1;1;from
+Q12723;Pallars Jussà;код в Большой каталанской энциклопедии;1;1;from
+Q12723;Pallars Jussà;численность населения;1;44;from
+Q12723;Pallars Jussà;категория объединяет темы;1;2;to
+Q12723;Pallars Jussà;зона обслуживания;1;1;to
+Q12726;Noguera;численность населения;1;44;from
+Q12726;Noguera;изображение;1;1;from
+Q12726;Noguera;изображение герба;1;1;from
+Q12726;Noguera;имеет границы с;1;9;to
+Q12726;Noguera;изображение флага;1;1;from
+Q12726;Noguera;столица;1;1;from
+Q12726;Noguera;это частный случай понятия;1;1;from
+Q12726;Noguera;карта местонахождения;1;1;from
+Q12726;Noguera;описание герба;1;1;from
+Q12726;Noguera;государство;1;1;from
+Q12723;Pallars Jussà;место рождения;1;1;to
+Q12726;Noguera;описание флага;1;1;from
+Q12726;Noguera;административно делится на;1;1;to
+Q12726;Noguera;административно-территориальная единица;1;51;to
+Q12723;Pallars Jussà;проходит над/под;1;1;to
+Q12723;Pallars Jussà;является столицей;1;1;to
+Q12723;Pallars Jussà;общая тема категории;1;1;to
+Q12723;Pallars Jussà;заменён на;1;1;to
+Q12704;Alta Ribagorça;является столицей;1;1;to
+Q12704;Alta Ribagorça;общая тема категории;1;1;to
+Q12727;Segrià;географические координаты;1;1;from
+Q12704;Alta Ribagorça;зона обслуживания;1;1;to
+Q10930;Ripollès;код тезауруса PACTOLS;1;1;from
+Q10930;Ripollès;ID отношения в OpenStreetMap;1;1;from
+Q10930;Ripollès;категория на Викискладе;1;1;from
+Q10930;Ripollès;номинальный ВВП на душу населения;1;4;from
+Q10930;Ripollès;номинальный ВВП;1;4;from
+Q10930;Ripollès;площадь;1;1;from
+Q10930;Ripollès;этнохороним;1;2;from
+Q10930;Ripollès;должность главы правительства;1;1;from
+Q10930;Ripollès;код в Большой каталанской энциклопедии;1;1;from
+Q10930;Ripollès;численность населения;1;44;from
+Q10930;Ripollès;глава правительства;1;1;from
+Q10930;Ripollès;имеет границы с;1;7;to
+Q10930;Ripollès;столица;1;1;from
+Q10930;Ripollès;это частный случай понятия;1;1;from
+Q10930;Ripollès;код LCNAF;1;1;from
+Q10930;Ripollès;карта местонахождения;1;1;from
+Q10930;Ripollès;код GND;1;1;from
+Q10930;Ripollès;IDESCAT territorial code in Catalonia;1;1;from
+Q10930;Ripollès;географические координаты;1;1;from
+Q10930;Ripollès;код Freebase;1;1;from
+Q10932;Garrotxa;административно делится на;1;2;to
+Q10932;Garrotxa;имеет границы с;1;7;to
+Q10932;Garrotxa;столица;1;1;from
+Q10932;Garrotxa;это частный случай понятия;1;1;from
+Q10932;Garrotxa;код LCNAF;1;1;from
+Q10932;Garrotxa;карта местонахождения;1;1;from
+Q10932;Garrotxa;изображение;1;1;from
+Q10932;Garrotxa;государство;1;1;from
+Q10932;Garrotxa;административно-территориальная единица;1;33;to
+Q10930;Ripollès;категория карт на Викискладе;1;1;from
+Q10930;Ripollès;является столицей;1;1;to
+Q10930;Ripollès;общая тема категории;1;1;to
+Q10930;Ripollès;юрисдикция распространяется на;1;8;to
+Q10930;Ripollès;вторая фамилия в испанском имени;1;1;to
+Q10930;Ripollès;категория объединяет темы;1;2;to
+Q10930;Ripollès;основная категория по теме;1;1;from
+Q10930;Ripollès;официальный сайт;1;1;from
+Q10930;Ripollès;код VIAF;1;1;from
+Q10930;Ripollès;город-побратим;1;1;from
+Q10930;Ripollès;изображение;1;1;from
+Q6904;Alt Empordà;имеет границы с;1;6;to
+Q6904;Alt Empordà;номинальный ВВП;1;4;from
+Q6904;Alt Empordà;площадь;1;1;from
+Q6904;Alt Empordà;этнохороним;1;2;from
+Q6904;Alt Empordà;должность главы правительства;1;1;from
+Q6904;Alt Empordà;код в Большой каталанской энциклопедии;1;1;from
+Q6904;Alt Empordà;численность населения;1;43;from
+Q6904;Alt Empordà;изображение герба;1;1;from
+Q6904;Alt Empordà;изображение флага;1;1;from
+Q6904;Alt Empordà;категория на Викискладе;1;1;from
+Q6904;Alt Empordà;столица;1;1;from
+Q6904;Alt Empordà;это частный случай понятия;1;1;from
+Q6904;Alt Empordà;карта местонахождения;1;1;from
+Q6904;Alt Empordà;описание герба;1;1;from
+Q6904;Alt Empordà;изображение;1;1;from
+Q6904;Alt Empordà;государство;1;1;from
+Q6904;Alt Empordà;административно делится на;1;2;to
+Q6904;Alt Empordà;номинальный ВВП на душу населения;1;4;from
+Q6904;Alt Empordà;ID отношения в OpenStreetMap;1;1;from
+Q10930;Ripollès;государство;1;1;from
+Q6904;Alt Empordà;категория объединяет темы;1;2;to
+Q10930;Ripollès;административно делится на;1;2;to
+Q10930;Ripollès;названо в честь;1;1;from
+Q10930;Ripollès;административно-территориальная единица;1;37;to
+Q6904;Alt Empordà;является столицей;1;1;to
+Q6904;Alt Empordà;общая тема категории;1;2;to
+Q6904;Alt Empordà;основная тема;1;1;to
+Q6904;Alt Empordà;место создания;1;1;to
+Q6904;Alt Empordà;юрисдикция распространяется на;1;6;to
+Q6904;Alt Empordà;IDESCAT territorial code in Catalonia;1;1;from
+Q6904;Alt Empordà;местонахождение;1;3;to
+Q6904;Alt Empordà;пример использования свойства;1;1;to
+Q6904;Alt Empordà;основная категория по теме;1;1;from
+Q6904;Alt Empordà;официальный сайт;1;1;from
+Q6904;Alt Empordà;категория карт на Викискладе;1;1;from
+Q6904;Alt Empordà;код Freebase;1;1;from
+Q6904;Alt Empordà;географические координаты;1;1;from
+Q10932;Garrotxa;глава правительства;1;5;from
+Q10932;Garrotxa;численность населения;1;44;from
+Q10932;Garrotxa;код в Большой каталанской энциклопедии;1;1;from
+Q12600;Maresme;юрисдикция распространяется на;1;5;to
+Q12704;Alta Ribagorça;административно делится на;1;1;to
+Q12704;Alta Ribagorça;административно-территориальная единица;1;14;to
+Q12600;Maresme;является столицей;1;1;to
+Q12600;Maresme;общая тема категории;1;1;to
+Q12600;Maresme;категория объединяет темы;1;1;to
+Q12600;Maresme;местонахождение;1;1;to
+Q12600;Maresme;находится в пределах природно-географического объекта;1;1;to
+Q12600;Maresme;основная категория по теме;1;1;from
+Q12704;Alta Ribagorça;карта местонахождения;1;1;from
+Q12600;Maresme;категория карт на Викискладе;1;1;from
+Q12600;Maresme;код Freebase;1;1;from
+Q12600;Maresme;географические координаты;1;1;from
+Q12600;Maresme;IDESCAT territorial code in Catalonia;1;1;from
+Q12600;Maresme;ID отношения в OpenStreetMap;1;1;from
+Q12600;Maresme;категория на Викискладе;1;1;from
+Q12600;Maresme;код BNF;1;1;from
+Q12704;Alta Ribagorça;государство;1;1;from
+Q12704;Alta Ribagorça;код LCNAF;1;1;from
+Q12600;Maresme;номинальный ВВП;1;4;from
+Q12704;Alta Ribagorça;категория на Викискладе;1;1;from
+Q12704;Alta Ribagorça;юрисдикция распространяется на;1;4;to
+Q12704;Alta Ribagorça;основная категория по теме;1;1;from
+Q12704;Alta Ribagorça;категория карт на Викискладе;1;1;from
+Q12704;Alta Ribagorça;код Freebase;1;1;from
+Q12704;Alta Ribagorça;географические координаты;1;1;from
+Q12704;Alta Ribagorça;IDESCAT territorial code in Catalonia;1;1;from
+Q12704;Alta Ribagorça;ID отношения в OpenStreetMap;1;1;from
+Q12704;Alta Ribagorça;номинальный ВВП на душу населения;1;4;from
+Q12704;Alta Ribagorça;это частный случай понятия;1;1;from
+Q12704;Alta Ribagorça;номинальный ВВП;1;4;from
+Q12704;Alta Ribagorça;площадь;1;1;from
+Q12704;Alta Ribagorça;должность главы правительства;1;1;from
+Q12704;Alta Ribagorça;код в Большой каталанской энциклопедии;1;1;from
+Q12704;Alta Ribagorça;численность населения;1;44;from
+Q12704;Alta Ribagorça;имеет границы с;1;4;to
+Q12704;Alta Ribagorça;столица;1;1;from
+Q12600;Maresme;номинальный ВВП на душу населения;1;4;from
+Q12600;Maresme;площадь;1;1;from
+Q10932;Garrotxa;должность главы правительства;1;1;from
+Q10932;Garrotxa;IDESCAT territorial code in Catalonia;1;1;from
+Q10932;Garrotxa;названо в честь;1;1;to
+Q10932;Garrotxa;место активности;1;1;to
+Q10932;Garrotxa;основная категория по теме;1;1;from
+Q10932;Garrotxa;официальный сайт;1;1;from
+Q10932;Garrotxa;категория карт на Викискладе;1;1;from
+Q10932;Garrotxa;код Freebase;1;1;from
+Q10932;Garrotxa;географические координаты;1;1;from
+Q10932;Garrotxa;код тезауруса PACTOLS;1;1;from
+Q10932;Garrotxa;юрисдикция распространяется на;1;7;to
+Q10932;Garrotxa;часовой пояс;1;1;from
+Q10932;Garrotxa;ID отношения в OpenStreetMap;1;1;from
+Q10932;Garrotxa;категория на Викискладе;1;1;from
+Q10932;Garrotxa;номинальный ВВП на душу населения;1;4;from
+Q10932;Garrotxa;номинальный ВВП;1;4;from
+Q10932;Garrotxa;площадь;1;1;from
+Q10932;Garrotxa;список памятников;1;1;from
+Q10932;Garrotxa;категория объединяет темы;1;2;to
+Q10932;Garrotxa;место изготовления;1;1;to
+Q12600;Maresme;код GeoNames;1;1;from
+Q12600;Maresme;карта местонахождения;1;1;from
+Q12600;Maresme;должность главы правительства;1;1;from
+Q12600;Maresme;код в Большой каталанской энциклопедии;1;1;from
+Q12600;Maresme;численность населения;1;44;from
+Q12600;Maresme;изображение герба;1;1;from
+Q12600;Maresme;имеет границы с;1;3;to
+Q12600;Maresme;столица;1;1;from
+Q12600;Maresme;это частный случай понятия;1;1;from
+Q12600;Maresme;описание герба;1;1;from
+Q10932;Garrotxa;находится в пределах природно-географического объекта;1;1;to
+Q12600;Maresme;изображение;1;1;from
+Q12600;Maresme;государство;1;1;from
+Q12600;Maresme;административно делится на;1;1;to
+Q12600;Maresme;административно-территориальная единица;1;92;to
+Q10932;Garrotxa;является столицей;1;1;to
+Q10932;Garrotxa;общая тема категории;1;1;to
+Q10932;Garrotxa;зона обслуживания;1;1;to
+Q12727;Segrià;IDESCAT territorial code in Catalonia;1;1;from
+Q12727;Segrià;код Freebase;1;1;from
+Q12793;Osona;карта местонахождения;1;1;from
+Q12734;Solsonès;категория объединяет темы;1;2;to
+Q12762;Pla de l’Estany;юрисдикция распространяется на;1;4;to
+Q12762;Pla de l’Estany;основная категория по теме;1;1;from
+Q12762;Pla de l’Estany;категория карт на Викискладе;1;1;from
+Q12762;Pla de l’Estany;код Freebase;1;1;from
+Q12762;Pla de l’Estany;географические координаты;1;1;from
+Q12762;Pla de l’Estany;IDESCAT territorial code in Catalonia;1;1;from
+Q12762;Pla de l’Estany;ID отношения в OpenStreetMap;1;1;from
+Q12762;Pla de l’Estany;категория на Викискладе;1;1;from
+Q12762;Pla de l’Estany;номинальный ВВП на душу населения;1;4;from
+Q12762;Pla de l’Estany;номинальный ВВП;1;4;from
+Q12762;Pla de l’Estany;площадь;1;1;from
+Q12762;Pla de l’Estany;код GeoNames;1;1;from
+Q12762;Pla de l’Estany;должность главы правительства;1;1;from
+Q12762;Pla de l’Estany;код в Большой каталанской энциклопедии;1;1;from
+Q12762;Pla de l’Estany;численность населения;1;44;from
+Q12762;Pla de l’Estany;глава правительства;1;1;from
+Q12762;Pla de l’Estany;имеет границы с;1;3;to
+Q12762;Pla de l’Estany;место рождения;1;1;to
+Q12762;Pla de l’Estany;категория объединяет темы;1;2;to
+Q12762;Pla de l’Estany;общая тема категории;1;1;to
+Q12768;Baix Empordà;это частный случай понятия;1;1;from
+Q12768;Baix Empordà;этнохороним;1;4;from
+Q12768;Baix Empordà;список памятников;1;1;from
+Q12768;Baix Empordà;должность главы правительства;1;1;from
+Q12768;Baix Empordà;численность населения;1;44;from
+Q12768;Baix Empordà;глава правительства;1;1;from
+Q12768;Baix Empordà;имеет границы с;1;3;to
+Q12768;Baix Empordà;столица;1;1;from
+Q12768;Baix Empordà;карта местонахождения;1;1;from
+Q12762;Pla de l’Estany;является столицей;1;1;to
+Q12768;Baix Empordà;код GND;1;1;from
+Q12768;Baix Empordà;код VIAF;1;1;from
+Q12768;Baix Empordà;изображение;1;1;from
+Q12768;Baix Empordà;государство;1;1;from
+Q12768;Baix Empordà;административно делится на;1;2;to
+Q12768;Baix Empordà;названо в честь;1;1;from
+Q12768;Baix Empordà;административно-территориальная единица;1;44;to
+Q12762;Pla de l’Estany;столица;1;1;from
+Q12762;Pla de l’Estany;это частный случай понятия;1;1;from
+Q12762;Pla de l’Estany;код LCNAF;1;1;from
+Q12752;Gironès;карта местонахождения;1;1;from
+Q12752;Gironès;площадь;1;1;from
+Q12752;Gironès;должность главы правительства;1;1;from
+Q12752;Gironès;код в Большой каталанской энциклопедии;1;1;from
+Q12752;Gironès;численность населения;1;44;from
+Q12752;Gironès;имеет границы с;1;5;to
+Q12752;Gironès;столица;1;1;from
+Q12752;Gironès;это частный случай понятия;1;1;from
+Q12752;Gironès;код GND;1;1;from
+Q12752;Gironès;номинальный ВВП на душу населения;1;4;from
+Q12752;Gironès;код VIAF;1;1;from
+Q12752;Gironès;государство;1;1;from
+Q12752;Gironès;административно делится на;1;2;to
+Q12752;Gironès;административно-территориальная единица;1;108;to
+Q12734;Solsonès;общая тема категории;1;2;to
+Q12734;Solsonès;зона обслуживания;1;2;to
+Q12734;Solsonès;является столицей;1;1;to
+Q12752;Gironès;номинальный ВВП;1;4;from
+Q12752;Gironès;категория на Викискладе;1;1;from
+Q12762;Pla de l’Estany;карта местонахождения;1;1;from
+Q12752;Gironès;юрисдикция распространяется на;1;4;to
+Q12762;Pla de l’Estany;государство;1;1;from
+Q12762;Pla de l’Estany;административно делится на;1;2;to
+Q12762;Pla de l’Estany;административно-территориальная единица;1;16;to
+Q12752;Gironès;является столицей;1;1;to
+Q12752;Gironès;общая тема категории;1;1;to
+Q12752;Gironès;местонахождение;1;1;to
+Q12752;Gironès;основная тема;1;1;to
+Q12752;Gironès;категория объединяет темы;1;2;to
+Q12752;Gironès;ID отношения в OpenStreetMap;1;1;from
+Q12752;Gironès;код BNE;1;1;from
+Q12752;Gironès;основная категория по теме;1;1;from
+Q12752;Gironès;категория карт на Викискладе;1;1;from
+Q12752;Gironès;код Freebase;1;1;from
+Q12752;Gironès;географические координаты;1;1;from
+Q12752;Gironès;IDESCAT territorial code in Catalonia;1;1;from
+Q12752;Gironès;код тезауруса PACTOLS;1;1;from
+Q12768;Baix Empordà;категория для людей, связанных с местностью;1;1;from
+Q12768;Baix Empordà;площадь;1;1;from
+Q12768;Baix Empordà;номинальный ВВП;1;4;from
+Q12787;Cerdanya;карта местонахождения;1;1;from
+Q12787;Cerdanya;площадь;1;1;from
+Q12787;Cerdanya;должность главы правительства;1;1;from
+Q12787;Cerdanya;код в Большой каталанской энциклопедии;1;1;from
+Q12787;Cerdanya;численность населения;1;44;from
+Q12787;Cerdanya;имеет границы с;1;4;to
+Q12787;Cerdanya;столица;1;1;from
+Q12787;Cerdanya;это частный случай понятия;1;1;from
+Q12787;Cerdanya;государство;1;1;from
+Q12787;Cerdanya;номинальный ВВП на душу населения;1;4;from
+Q12787;Cerdanya;административно делится на;1;2;to
+Q12787;Cerdanya;административно-территориальная единица;1;53;to
+Q12778;Selva;является столицей;1;1;to
+Q12778;Selva;общая тема категории;1;1;to
+Q12778;Selva;категория объединяет темы;1;2;to
+Q12778;Selva;юрисдикция распространяется на;1;4;to
+Q12778;Selva;галерея на Викискладе;1;1;from
+Q12787;Cerdanya;номинальный ВВП;1;4;from
+Q12787;Cerdanya;часть от;1;1;to
+Q12778;Selva;официальный сайт;1;1;from
+Q12787;Cerdanya;место активности;1;1;to
+Q12793;Osona;описание герба;1;1;from
+Q12793;Osona;государство;1;1;from
+Q12793;Osona;описание флага;1;1;from
+Q12793;Osona;административно делится на;1;1;to
+Q12793;Osona;административно-территориальная единица;1;61;to
+Q12787;Cerdanya;состоит из;1;1;to
+Q12787;Cerdanya;является столицей;1;1;to
+Q12787;Cerdanya;категория объединяет темы;1;1;to
+Q12787;Cerdanya;категория на Викискладе;1;1;from
+Q12787;Cerdanya;общая тема категории;1;1;to
+Q12787;Cerdanya;юрисдикция распространяется на;1;6;to
+Q12787;Cerdanya;основная категория по теме;1;1;from
+Q12787;Cerdanya;категория карт на Викискладе;1;1;from
+Q12787;Cerdanya;код Freebase;1;1;from
+Q12787;Cerdanya;географические координаты;1;1;from
+Q12787;Cerdanya;IDESCAT territorial code in Catalonia;1;1;from
+Q12778;Selva;основная категория по теме;1;1;from
+Q12778;Selva;категория карт на Викискладе;1;1;from
+Q12768;Baix Empordà;номинальный ВВП на душу населения;1;4;from
+Q12768;Baix Empordà;официальный сайт;1;1;from
+Q12778;Selva;административно-территориальная единица;1;38;to
+Q12768;Baix Empordà;является столицей;1;1;to
+Q12768;Baix Empordà;категория объединяет темы;1;2;to
+Q12768;Baix Empordà;общая тема категории;1;1;to
+Q12768;Baix Empordà;зона обслуживания;1;2;to
+Q12768;Baix Empordà;юрисдикция распространяется на;1;8;to
+Q12768;Baix Empordà;основная категория по теме;1;1;from
+Q12768;Baix Empordà;категория карт на Викискладе;1;1;from
+Q12778;Selva;государство;1;1;from
+Q12768;Baix Empordà;код Freebase;1;1;from
+Q12768;Baix Empordà;географические координаты;1;1;from
+Q12768;Baix Empordà;идентификатор местоположения ArchINFORM;1;1;from
+Q12768;Baix Empordà;IDESCAT territorial code in Catalonia;1;1;from
+Q12768;Baix Empordà;код места в Instagram;1;1;from
+Q12768;Baix Empordà;ID отношения в OpenStreetMap;1;1;from
+Q12768;Baix Empordà;категория на Викискладе;1;1;from
+Q12778;Selva;административно делится на;1;2;to
+Q12778;Selva;код VIAF;1;1;from
+Q12778;Selva;код Freebase;1;1;from
+Q12778;Selva;площадь;1;1;from
+Q12778;Selva;географические координаты;1;1;from
+Q12778;Selva;IDESCAT territorial code in Catalonia;1;1;from
+Q12778;Selva;код тезауруса PACTOLS;1;1;from
+Q12778;Selva;ID отношения в OpenStreetMap;1;1;from
+Q12778;Selva;категория на Викискладе;1;1;from
+Q12778;Selva;номинальный ВВП на душу населения;1;4;from
+Q12778;Selva;номинальный ВВП;1;4;from
+Q12778;Selva;категория для людей, связанных с местностью;1;1;from
+Q12778;Selva;код GND;1;1;from
+Q12778;Selva;должность главы правительства;1;1;from
+Q12778;Selva;код в Большой каталанской энциклопедии;1;1;from
+Q12778;Selva;численность населения;1;44;from
+Q12778;Selva;имеет границы с;1;6;to
+Q12778;Selva;столица;1;1;from
+Q12778;Selva;это частный случай понятия;1;1;from
+Q12778;Selva;карта местонахождения;1;1;from
+Q12734;Solsonès;юрисдикция распространяется на;1;7;to
+Q12734;Solsonès;основная категория по теме;1;1;from
+Q12727;Segrià;категория карт на Викискладе;1;1;from
+Q12734;Solsonès;официальный сайт;1;1;from
+Q12729;Urgell;номинальный ВВП на душу населения;1;4;from
+Q12729;Urgell;номинальный ВВП;1;4;from
+Q12729;Urgell;площадь;1;1;from
+Q12729;Urgell;категория для людей, связанных с местностью;1;1;from
+Q12729;Urgell;должность главы правительства;1;1;from
+Q12729;Urgell;код в Большой каталанской энциклопедии;1;1;from
+Q12729;Urgell;численность населения;1;44;from
+Q12729;Urgell;изображение герба;1;1;from
+Q12729;Urgell;имеет границы с;1;5;to
+Q12729;Urgell;изображение флага;1;1;from
+Q12729;Urgell;столица;1;1;from
+Q12729;Urgell;это частный случай понятия;1;1;from
+Q12729;Urgell;код LCNAF;1;1;from
+Q12729;Urgell;карта местонахождения;1;1;from
+Q12729;Urgell;государство;1;1;from
+Q12729;Urgell;административно делится на;1;1;to
+Q12729;Urgell;административно-территориальная единица;1;32;to
+Q12729;Urgell;категория на Викискладе;1;1;from
+Q12729;Urgell;ID отношения в OpenStreetMap;1;1;from
+Q12729;Urgell;код тезауруса PACTOLS;1;1;from
+Q12729;Urgell;место жительства;1;1;to
+Q12732;Garrigues;код GND;1;1;from
+Q12732;Garrigues;государство;1;1;from
+Q12732;Garrigues;описание флага;1;1;from
+Q12732;Garrigues;административно делится на;1;1;to
+Q12732;Garrigues;административно-территориальная единица;1;34;to
+Q12729;Urgell;категория объединяет темы;1;2;to
+Q12729;Urgell;является столицей;1;1;to
+Q12729;Urgell;юрисдикция распространяется на;1;4;to
+Q12729;Urgell;IDESCAT territorial code in Catalonia;1;1;from
+Q12729;Urgell;место смерти;1;4;to
+Q12729;Urgell;место рождения;1;2;to
+Q12729;Urgell;общая тема категории;1;1;to
+Q12729;Urgell;основная категория по теме;1;1;from
+Q12729;Urgell;категория карт на Викискладе;1;1;from
+Q12729;Urgell;код Freebase;1;1;from
+Q12729;Urgell;географические координаты;1;1;from
+Q12728;Pla d'Urgell;общая тема категории;1;1;to
+Q12728;Pla d'Urgell;является столицей;1;1;to
+Q12728;Pla d'Urgell;категория объединяет темы;1;2;to
+Q12728;Pla d'Urgell;государство;1;1;from
+Q12728;Pla d'Urgell;это частный случай понятия;1;1;from
+Q12728;Pla d'Urgell;код LCNAF;1;1;from
+Q12728;Pla d'Urgell;карта местонахождения;1;1;from
+Q12728;Pla d'Urgell;описание герба;1;1;from
+Q12728;Pla d'Urgell;код GND;1;1;from
+Q12728;Pla d'Urgell;код VIAF;1;1;from
+Q12728;Pla d'Urgell;изображение;1;1;from
+Q12728;Pla d'Urgell;административно делится на;1;1;to
+Q12728;Pla d'Urgell;изображение флага;1;1;from
+Q12728;Pla d'Urgell;административно-территориальная единица;1;20;to
+Q12727;Segrià;является столицей;1;1;to
+Q12727;Segrià;общая тема категории;1;1;to
+Q12727;Segrià;категория объединяет темы;1;2;to
+Q12727;Segrià;место рождения;1;1;to
+Q12727;Segrià;юрисдикция распространяется на;1;6;to
+Q12727;Segrià;основная категория по теме;1;1;from
+Q12728;Pla d'Urgell;столица;1;1;from
+Q12728;Pla d'Urgell;имеет границы с;1;4;to
+Q12728;Pla d'Urgell;юрисдикция распространяется на;1;5;to
+Q12728;Pla d'Urgell;ID отношения в OpenStreetMap;1;1;from
+Q12728;Pla d'Urgell;код BNE;1;1;from
+Q12728;Pla d'Urgell;код NLI;1;1;from
+Q12728;Pla d'Urgell;основная категория по теме;1;1;from
+Q12728;Pla d'Urgell;категория карт на Викискладе;1;1;from
+Q12728;Pla d'Urgell;код Freebase;1;1;from
+Q12728;Pla d'Urgell;географические координаты;1;1;from
+Q12728;Pla d'Urgell;IDESCAT territorial code in Catalonia;1;1;from
+Q12728;Pla d'Urgell;категория на Викискладе;1;1;from
+Q12728;Pla d'Urgell;изображение герба;1;1;from
+Q12728;Pla d'Urgell;код FAST;1;1;from
+Q12728;Pla d'Urgell;номинальный ВВП на душу населения;1;4;from
+Q12728;Pla d'Urgell;номинальный ВВП;1;4;from
+Q12728;Pla d'Urgell;площадь;1;1;from
+Q12728;Pla d'Urgell;должность главы правительства;1;1;from
+Q12728;Pla d'Urgell;код в Большой каталанской энциклопедии;1;1;from
+Q12728;Pla d'Urgell;численность населения;1;44;from
+Q12732;Garrigues;описание герба;1;1;from
+Q12732;Garrigues;карта местонахождения;1;1;from
+Q12732;Garrigues;это частный случай понятия;1;1;from
+Q12733;Segarra;категория объединяет темы;1;3;to
+Q12734;Solsonès;государство;1;1;from
+Q12734;Solsonès;административно делится на;1;1;to
+Q12734;Solsonès;административно-территориальная единица;1;37;to
+Q12733;Segarra;общая тема категории;1;1;to
+Q12733;Segarra;является столицей;1;1;to
+Q12733;Segarra;основная тема портала Викимедиа;1;1;to
+Q12733;Segarra;названо в честь;1;1;to
+Q12733;Segarra;юрисдикция распространяется на;1;6;to
+Q12734;Solsonès;это частный случай понятия;1;1;from
+Q12733;Segarra;основная категория по теме;1;1;from
+Q12733;Segarra;категория карт на Викискладе;1;1;from
+Q12733;Segarra;код Freebase;1;1;from
+Q12733;Segarra;географические координаты;1;1;from
+Q12733;Segarra;IDESCAT territorial code in Catalonia;1;1;from
+Q12733;Segarra;код тезауруса PACTOLS;1;1;from
+Q12733;Segarra;ID отношения в OpenStreetMap;1;1;from
+Q12734;Solsonès;карта местонахождения;1;1;from
+Q12734;Solsonès;столица;1;1;from
+Q12733;Segarra;номинальный ВВП на душу населения;1;4;from
+Q12734;Solsonès;номинальный ВВП на душу населения;1;4;from
+Q12734;Solsonès;категория карт на Викискладе;1;1;from
+Q12734;Solsonès;код Freebase;1;1;from
+Q12734;Solsonès;географические координаты;1;1;from
+Q12734;Solsonès;IDESCAT territorial code in Catalonia;1;1;from
+Q12734;Solsonès;код тезауруса PACTOLS;1;1;from
+Q12734;Solsonès;ID отношения в OpenStreetMap;1;1;from
+Q12734;Solsonès;категория на Викискладе;1;1;from
+Q12734;Solsonès;номинальный ВВП;1;4;from
+Q12734;Solsonès;имеет границы с;1;6;to
+Q12734;Solsonès;площадь;1;1;from
+Q12734;Solsonès;код TGN;1;1;from
+Q12734;Solsonès;код GeoNames;1;1;from
+Q12734;Solsonès;должность главы правительства;1;1;from
+Q12734;Solsonès;код в Большой каталанской энциклопедии;1;1;from
+Q12734;Solsonès;численность населения;1;44;from
+Q12734;Solsonès;глава правительства;1;1;from
+Q12733;Segarra;категория на Викискладе;1;1;from
+Q12733;Segarra;номинальный ВВП;1;4;from
+Q12732;Garrigues;столица;1;1;from
+Q12732;Garrigues;номинальный ВВП на душу населения;1;4;from
+Q12732;Garrigues;категория карт на Викискладе;1;1;from
+Q12732;Garrigues;код Freebase;1;1;from
+Q12732;Garrigues;географические координаты;1;1;from
+Q12732;Garrigues;IDESCAT territorial code in Catalonia;1;1;from
+Q12732;Garrigues;ID отношения в OpenStreetMap;1;1;from
+Q12732;Garrigues;категория на Викискладе;1;1;from
+Q12732;Garrigues;код темы Quora;1;1;from
+Q12732;Garrigues;номинальный ВВП;1;4;from
+Q12732;Garrigues;юрисдикция распространяется на;1;6;to
+Q12732;Garrigues;площадь;1;1;from
+Q12732;Garrigues;должность главы правительства;1;1;from
+Q12732;Garrigues;код в Большой каталанской энциклопедии;1;1;from
+Q12732;Garrigues;численность населения;1;44;from
+Q12732;Garrigues;изображение герба;1;1;from
+Q12732;Garrigues;имеет границы с;1;6;to
+Q12732;Garrigues;изображение флага;1;1;from
+Q12732;Garrigues;основная категория по теме;1;1;from
+Q12732;Garrigues;категория объединяет темы;1;1;to
+Q12733;Segarra;площадь;1;1;from
+Q12733;Segarra;столица;1;1;from
+Q12733;Segarra;категория для людей, связанных с местностью;1;1;from
+Q12733;Segarra;список памятников;1;1;from
+Q12733;Segarra;должность главы правительства;1;1;from
+Q12733;Segarra;код в Большой каталанской энциклопедии;1;1;from
+Q12733;Segarra;численность населения;1;44;from
+Q12733;Segarra;изображение герба;1;1;from
+Q12733;Segarra;имеет границы с;1;5;to
+Q12733;Segarra;это частный случай понятия;1;1;from
+Q12732;Garrigues;общая тема категории;1;1;to
+Q12733;Segarra;код LCNAF;1;1;from
+Q12733;Segarra;карта местонахождения;1;1;from
+Q12733;Segarra;описание герба;1;1;from
+Q12733;Segarra;государство;1;1;from
+Q12733;Segarra;административно делится на;1;1;to
+Q12733;Segarra;административно-территориальная единица;1;31;to
+Q12732;Garrigues;является столицей;1;1;to
+Q9035550;Moianès;является столицей;1;1;to

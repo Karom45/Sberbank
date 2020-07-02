@@ -1,0 +1,518 @@
+﻿entity;label
+Q1551;Altstadt (Hamburg)
+Q1591;Altona-Altstadt
+Q2907;Toroca, Potosi Bolivia
+Q3005;Altstadt-Nord
+Q3007;Altstadt-Süd
+Q8885;Altstadt (Dresden)
+Q8922;Innere Altstadt
+Q12586;Besalú
+Q24142;Linhares (Celorico da Beira)
+Q161006;Q161006
+Q213274;Old City of Jerusalem
+Q250880;Innere Stadt
+Q256950;Essen-Stadtkern
+Q263701;Altstadt (Salzburg)
+Q317314;Duisburg-Mitte
+Q321674;Alt-Berlin
+Q344569;Old City of Baku
+Q432982;Alt-Saarbrücken
+Q440026;Q440026
+Q445469;Altstadt (Biel)
+Q445473;Altstadt (Braunschweig)
+Q445474;Altstadt (Büdingen)
+Q445482;Altstadt (Emden)
+Q445486;Altstadt (Düsseldorf)
+Q445488;Altstadt (Euskirchen)
+Q445500;Altstadt (Halle)
+Q445502;Altstadt (Freiburg)
+Q445504;Altstadt (Herford)
+Q445506;Altstadt
+Q445517;Altstadt (Meißen)
+Q445520;Magdeburg-Altstadt
+Q445524;Münchner Altstadt
+Q445526;Altstadt (Königsberg)
+Q445531;Altstadt (Passau)
+Q445533;Altstadt (Pirna)
+Q445539;Altstadt (Schwerin)
+Q445547;Altstadt (Weißenburg)
+Q445559;Altstadt
+Q445579;Altstadt I
+Q445584;Q445584
+Q445586;Old Town Jonava
+Q445600;Altstadt Spandau
+Q445649;Vilnius Old Town
+Q449266;Altstadt (Frankfurt/Main)
+Q523026;Old Rome
+Q591133;Old Town (Edinburgh)
+Q602939;French Quarter
+Q612394;El Mallol
+Q618394;Old Town of Lijiang
+Q629210;Garrison Historic Area
+Q637683;Q637683
+Q652634;Kraków Old Town
+Q687973;Old City of Bern
+Q688877;Mitte
+Q726803;Tallinn old town
+Q727750;Stuttgart-Mitte
+Q760525;Altstadt (Augsburg)
+Q799888;Conjunt de Castell d'Aro
+Q828417;Old Rauma
+Q852427;Palaces and Parks of Potsdam and Berlin
+Q876685;Medieval City of Rhodes
+Q880555;Mainz-Altstadt
+Q883803;Hanover-Mitte
+Q886344;Blumlage/Altstadt
+Q892677;Bonn-Zentrum
+Q941385;Ciutat Vella
+Q995601;Cornudella de Montsant
+Q1022932;Peratallada
+Q1024355;Castelo Novo
+Q1026415;Vecrīga
+Q1069566;Chemnitz-Zentrum
+Q1075681;Historic Centre of Sighișoara
+Q1106404;Sant Martí d'Empúries
+Q1124159;Stadtmitte
+Q1136674;Old San Juan Historic District
+Q1139084;Warsaw Old Town
+Q1165324;Old Town
+Q1165566;Old Havana
+Q1233391;Pesthidegkút-Ófalu
+Q1246833;Old town of Regensburg with Stadtamhof
+Q1250599;City
+Q1251180;Altstadt (Meiningen)
+Q1323337;Innere Stadt
+Q1341728;Q1341728
+Q1350165;Altstadt (Erfurt)
+Q1364330;Vanhakaupunki
+Q1367180;Q1367180
+Q1374163;Q1374163
+Q1402836;Feldstadt
+Q1471624;Ófalu
+Q1493178;Gamle Oslo
+Q1499800;Gelsenkirchen-Altstadt
+Q1529351;Old Montreal
+Q1530065;Ingolstadt Mitte
+Q1568056;Altstadt (Stolberg)
+Q1594011;Heidelberger Altstadt
+Q1621046;Historic Centre of the City of Salzburg
+Q1643223;Q1643223
+Q1652080;Q1652080
+Q1663937;Innenstadt (Göttingen)
+Q1663940;Innenstadt
+Q1668684;Lübeck's Old City
+Q1686796;Q1686796
+Q1715951;Mitte
+Q1777934;Koblenz-Altstadt
+Q1778266;Episcopal City of Albi
+Q1902128;Guimerà
+Q1939961;Q1939961
+Q1966656;Ville Haute
+Q2018520;Old Town
+Q2114279;Old Quebec
+Q2121848;Quadratestadt
+Q2146288;Historic downtown of Mexico City
+Q2147036;Historic Inner City of Paramaribo
+Q2249113;port of the Moon
+Q2251532;Grutti
+Q2350404;Sassi di Matera
+Q2470834;Ciudad Colonial
+Q2592613;Old Town of Lviv
+Q2601433;Historic Centre of Macau
+Q2707802;Historic Centre of Florence
+Q2718694;Altstadt (Görlitz)
+Q2799134;Q2799134
+Q2835203;Q2835203
+Q2918837;Q2918837
+Q2944776;Centre-ville of Nantes
+Q2945646;Historic Centre of the City of Pienza
+Q2945649;Historic Centre of Guimarães
+Q2945651;Casco Viejo
+Q2945656;Centro Histórico de Angra do Heroísmo
+Q3320442;Historic Centre of Lima
+Q3664897;historical center of Salerno
+Q3664901;historic center of Vicenza
+Q3678421;Q3678421
+Q3678596;Ancient City of Damascus
+Q3678597;Old City of Zamość
+Q3845692;Historic Town of Ouro Preto
+Q3848089;Historic Centre of Morelia
+Q3848116;Historic centre of Zacatecas
+Q3848141;Historic Monuments Zone of Querétaro
+Q3848157;Historic Centre of Porto
+Q3848455;Historic Centre of Puebla
+Q3920531;Els Hostalets d'en Bas
+Q3920538;S'Agaró
+Q4115349;Ancient City of Aleppo
+Q4299509;Duderhof
+Q5762117;Historic Centre of Brugge
+Q5762131;Historic Fortified Town of Campeche
+Q5762147;Conjunto histórico-artístico (Villena)
+Q6047565;Q6047565
+Q6601837;La Colònia Güell
+Q7083678;Old City
+Q7083845;Old Dhaka
+Q7084389;Old Longueuil
+Q7085136;Old Strathcona
+Q8343756;Historic Centre of Arequipa
+Q8343758;Historic Centre of Cienfuegos
+Q8343759;Historic Centre of Santa Ana de los Ríos de Cuenca
+Q8343760;Historic Centre of the Town of Diamantina
+Q8343761;Historic Centre of the Town of Goiás
+Q8343763;Historic centre of Oaxaca
+Q8343764;Historic Centre of the Town of Olinda
+Q8343766;Historic Center of Quito
+Q8343767;Historic Centre of Santa Cruz de Mompox
+Q8343768;Historic Centre of São Luís
+Q8343770;Centro Histórico de Évora
+Q9390606;Medieval Town of Toruń
+Q9724748;Historic Centre of Bukhara
+Q9724840;Historic Centre of San Gimignano
+Q9757828;old town of Cáceres
+Q10749904;Historic centre of Córdoba
+Q11288310;Historic Centre of Vienna
+Q11678068;Kurokabe square
+Q11912908;Nucli antic de Cardona
+Q11913501;Centre històric de Montbrió del Camp
+Q11940882;Peramea
+Q11945757;Riudabella
+Q11954734;Nucli antic d'Altafulla
+Q11954736;Vila de Gerri
+Q12156034;historic center of Baeza
+Q12156631;Old City of Salamanca
+Q12662003;Kedainiai Old Town
+Q13528134;Vieux-Trois-Rivières
+Q14565195;historic center of Minsk
+Q14712189;Clifton Historic District
+Q15041608;historical city centre of Odesa
+Q15229957;Universidade de Coimbra – Alta e Sofia
+Q15241016;Historic Centre of Avignon
+Q15310264;Altstadt (Goslar)
+Q15715108;Altstadt (Duisburg)
+Q15727412;Ancient City of Bosra
+Q15782820;Altstadt (Schweinfurt)
+Q15813909;Hanseatic City of Lübeck
+Q15830652;Old Town of Galle and its Fortifications
+Q15965460;Historic Walled Town of Cuenca
+Q16333721;Historic Quarter of the Seaport City of Valparaíso
+Q16743949;Q16743949
+Q16890269;Chesterfield Center Historic District
+Q16912647;Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity
+Q16913016;Historic Quarter of the City of Colonia del Sacramento
+Q16965350;historical center of Venice
+Q17126216;Old City of Dubrovnik
+Q17163308;Historic Centre of Urbino
+Q17163322;Historic Centre of Siena
+Q17164860;Medina of Rabat
+Q17255635;Historic City of Toledo
+Q17300833;Dòrria
+Q17609515;Q17609515
+Q17634781;Bardejov Town Conservation Reserve
+Q18003302;Barri del Pedró
+Q18003894;Centre històric de Godall
+Q18005150;Nucli antic de Barbens
+Q18005152;Nucli antic de Palau-sator
+Q18005153;Nucli central de Valls
+Q18008827;Vila Vella de Santa Pau
+Q18008828;Vila Vella de Sitges
+Q18145742;Q18145742
+Q18483899;Q18483899
+Q18483902;Q18483902
+Q18483905;Q18483905
+Q18483907;Q18483907
+Q18483908;Centro Histórico
+Q18483912;Historic center of Natal
+Q18483915;Q18483915
+Q18597464;Fort Macleod Provincial Historic Area
+Q18817711;North Hatley Heritage Site
+Q19256361;Centre històric de Reus
+Q19257157;Nucli antic de Tavertet
+Q19362734;Q19362734
+Q19362820;Q19362820
+Q19368122;Q19368122
+Q19369340;Old Town of Jonava
+Q19593974;Barri Vell de Girona
+Q19831032;Nucli antic de Rubí
+Q19850321;Q19850321
+Q19944822;Visby
+Q20056244;Q20056244
+Q20644172;Speicherstadt and Kontorhaus District with Chilehaus
+Q20871083;Q20871083
+Q20875701;Centre històric d'Ascó
+Q20895424;Nucli antic d'Horta de Sant Joan
+Q20901142;Centre històric d'Ulldecona
+Q20901143;Centre històric de la Secuita
+Q20963674;Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mur
+Q20985621;Centre històric de Riba-roja d'Ebre
+Q20985623;Centre històric de Vinebre
+Q20985635;Conjunt històric de Móra la Nova
+Q20986049;Nucli antic de Flix
+Q20986050;Nucli antic de Móra d'Ebre
+Q20986051;Nucli històric de Ginestar
+Q20986054;Nucli històric de la Palma d'Ebre
+Q21077214;Nucli històric d'Arnes
+Q21091428;Q21091428
+Q21530336;Centre històric de Vilalba dels Arcs
+Q21568899;Centre històric de les Borges del Camp
+Q21693815;Centre històric de Linyola
+Q21707456;Nucli de Santa Coloma de Queralt
+Q21730708;Centre històric de Cabacés
+Q21849445;Nucli històric de Tortosa
+Q21856348;Centre històric de Calafell
+Q22073331;Rockingham Village Historic District
+Q22073914;Upton Center Historic District
+Q22078849;Tongkor Ancient Town
+Q22683130;Conjunt històric de Montblanc
+Q23001467;Old Town (Basque Country, Gipuzkoa, Azpeitia)
+Q24185724;Q24185724
+Q24185725;Q24185725
+Q24199776;Centro
+Q27166284;Q27166284
+Q27348558;Q27348558
+Q27348596;site du patrimoine du Village-de-Beaumont
+Q27509347;Q27509347
+Q27509348;Q27509348
+Q28153353;Strafford Village Historic District
+Q28337267;St. Andrews Historic District
+Q28381801;Nucli antic de Bordils
+Q28677841;Original Nucleus of the Parish of Ó
+Q28680830;Q28680830
+Q28833066;Old Town Lunenburg
+Q30091970;Q30091970
+Q30226014;Q30226014
+Q30228502;Q30228502
+Q30229337;Q30229337
+Q30688371;Old Muscat
+Q30931027;Q30931027
+Q31074509;Nucli antic de Cervera
+Q31815313;Cheshire Historic District
+Q31819127;Old Lyme Historic District
+Q34918170;Central City Historic District
+Q37012963;Q37012963
+Q37175858;Zona Histórica do Porto
+Q38234549;Q38234549
+Q38298558;historic centre of Aguascalientes
+Q38433215;Centro histórico de Veracruz
+Q40431617;historical center of El Salvador
+Q41373692;Altstadt (Roth)
+Q41774114;Q41774114
+Q42755142;Foz Velha
+Q42803264;Q42803264
+Q43160522;Meadowvale Village Heritage Conservation District
+Q43167413;Q43167413
+Q43167509;Conjunt històric de Tarragona
+Q43168392;Conjunto Histórico de Brihuega
+Q43168556;Q43168556
+Q43168592;Nucli antic de Breda
+Q43168620;Q43168620
+Q43169316;Plaça de sa Font de Santa Margalida
+Q43169843;Q43169843
+Q43170116;Q43170116
+Q43172264;Conjunt històric d'Estellencs
+Q44371310;Conjunt històric de Cadaqués
+Q47800464;Historic Centre of Agadez
+Q48353358;Q48353358
+Q48655390;Birni
+Q48867105;Q48867105
+Q48956739;Historic centre of Nizhny Novgorod
+Q53953046;Architectural and Landscape Set of Lençóis
+Q55099089;Q55099089
+Q55264662;Medina of Essaouira
+Q55264688;Cultural heritage monuments in Alcântara
+Q55582548;Hebron/Al-Khalil Old Town
+Q55739710;Núcleo urbano da cidade de Miranda do Douro
+Q56037283;Walled city of Jajce
+Q56230990;historic center of Solothurn
+Q56258325;Q56258325
+Q56258326;Q56258326
+Q56258327;Q56258327
+Q56258338;Q56258338
+Q56258339;Q56258339
+Q56258340;Q56258340
+Q56259009;Historic centre of Massa
+Q56279122;Q56279122
+Q56279601;Q56279601
+Q56280323;Q56280323
+Q56280831;Q56280831
+Q56281566;Q56281566
+Q56283246;Q56283246
+Q56289507;Q56289507
+Q56400329;Nucli antic de Móra d'Ebre
+Q56403362;Nucli històric d'Aiguamúrcia
+Q56403475;Centre històric de Figuerola
+Q56403488;Nucli de Mont-ral
+Q56403489;Centre històric de Farena
+Q56403506;Nucli antic de Puigpelat
+Q56403509;Centre històric de Querol
+Q56408851;Centre històric de Poboleda
+Q56417492;Q56417492
+Q56512293;Crevalcore Old Town
+Q56513647;Q56513647
+Q56529912;Q56529912
+Q56557765;Q56557765
+Q56571205;Q56571205
+Q56612216;Q56612216
+Q56641031;Historic center of São João del-Rei
+Q56641170;Historic centre of Cuiabá
+Q56676161;Q56676161
+Q56704399;Q56704399
+Q56716472;medieval settlement of Palazzolo Acreide
+Q56716479;Q56716479
+Q56760312;Q56760312
+Q57179792;Q57179792
+Q57673415;Q57673415
+Q57911339;historical centre of Szentendre
+Q58330896;Medina of Taza
+Q58331501;Altstadt in Hersbruck
+Q58331581;Altstadt in Lauf an der Pegnitz
+Q58452237;Centre històric d'Alforja
+Q58461638;Centre històric de Colldejou
+Q58461639;Centre històric de la Selva del Camp
+Q58461640;Centre històric de Riudoms
+Q58461641;Centre històric de Vilaplana
+Q58461746;Nucli de Capafonts
+Q58463390;Centre històric d'Arbolí
+Q59223386;Arvida Heritage Site
+Q59341098;Annapolis Royal Historic District
+Q60845971;Fes el Bali
+Q61086745;Darb as-Sindadiyya
+Q61120924;old town of Levoča
+Q61743478;Nucli de Vimbodí
+Q61750142;Nucli antic de Corçà
+Q61990538;Q61990538
+Q62478100;Aachen Altstadt
+Q63344938;Centro Histórico de Itaparica
+Q63806441;Q63806441
+Q64006627;Historical city centre
+Q64147980;Old Town of Zadar
+Q64176391;Historic Area of Willemstad, Inner City and Harbour, Curaçao
+Q64416517;Kuldīga Old Town in the Primeval Valley of the River Venta
+Q64418433;historic center of Berat
+Q64418451;historic center of Gjirokastra
+Q64432680;The historic urban site of Počitelj
+Q64432886;Sarajevo - unique symbol of universal multiculture - continual open city
+Q64446612;Tbilisi Historic District
+Q66943946;Núcleo urbano da vila de Pampilhosa da Serra
+Q66943965;Núcleo urbano da vila de Lorvão
+Q66944009;Núcleo urbano da vila de Penacova
+Q66944113;Núcleo urbano da vila de Penela
+Q66944164;Núcleo urbano da vila de Soure
+Q66944257;Núcleo urbano da vila de Tábua
+Q66944278;Núcleo urbano de vila Nova de Poiares
+Q66998912;Q66998912
+Q67034704;Q67034704
+Q67130826;Q67130826
+Q67877250;Q67877250
+Q67877252;Q67877252
+Q73024257;Q73024257
+Q73381315;Núcleo urbano da vila de Óbidos
+Q73761804;Núcleo urbano da cidade de Torres Vedras
+Q73768376;Núcleo urbano da cidade da Guarda
+Q73768974;Núcleo urbano da cidade de Aveiro
+Q73769124;Núcleo urbano da cidade de Beja
+Q73770659;Núcleo urbano da vila de Aljezur
+Q73783891;Q73783891
+Q75736185;Q75736185
+Q76953531;Núcleo urbano da cidade de Vila Nova de Gaia
+Q80917623;Q80917623
+Q81216537;Q81216537
+Q83109191;Center Shaftsbury Historic District
+Q86897744;Q86897744
+Q64462328;Kaunas 1919-1939: The Capital Inspired by the Modern Movement
+Q64470047;Cetinje Historic Core
+Q64471014;Ulcinj Old town
+Q64485181;Almadén Old Town
+Q64485226;Idrija Old Town
+Q64504530;Old Town of Varaždin
+Q64569322;historic quarter of Balatonfüred
+Q64577499;Historic Town of Alba Iulia
+Q64577569;Historic Centre of Sibiu and its Ensemble of Squares
+Q64577576;The old villages of Hollókő and Rimetea and their surroundings
+Q64617320;Ancient City of Nessebar
+Q64636277;historic centre of Český Krumlov
+Q64640311;Historic Centre of Telč
+Q64644149;historic center of Kutná Hora
+Q64685199;Ghent historic centre
+Q64685207;Historisch Centrum
+Q64688007;historic centre of Elvas
+Q64698526;Gdansk - Town of Memory and Freedom
+Q64736483;Old Town of Corfu
+Q64758537;historic centre of Saint Petersburg
+Q64758789;historic centre of Kronstadt
+Q64760000;historical centre of Pavlovsk
+Q64769594;historic center of Veliky Novgorod
+Q64800603;Irkutsk historical center
+Q64800626;Yeniseysk historic center
+Q64807293;Gorokhovets Historic Center
+Q64816567;St. George's historic town
+Q64822235;Old and new towns of Quedlinburg
+Q64822259;historic center of Stralsund
+Q64822260;historic center of Wismar
+Q64842535;Sarlat historic center
+Q64845931;Q64845931
+Q64957051;historic center of Úbeda
+Q64958288;old town of Santiago de Compostela
+Q65010252;historical centre of Naples
+Q65028620;historic centre of Pavia
+Q65028651;Historic Centre of Lucca
+Q65028748;historic centre of Parma
+Q65032881;Old Town
+Q65034943;Likiep Village Historic District
+Q65040654;Zona Velha do Funchal
+Q65122084;old town of Trinidad
+Q65122987;Historic Centre of Camagüey
+Q65123142;Historical Centre of Puerto Plata
+Q65129186;St. George Historic District
+Q65129351;St. George Fortified System
+Q65205172;Q65205172
+Q65205798;Nucli històric de Falset
+Q65205800;Nucli històric de Ripoll
+Q65209190;Nucli d'Albinyana
+Q65313035;Jacmel historic center
+Q65492907;historic centre of San Juan del Río
+Q65497402;historic centre of Sombrerete
+Q65498175;historic centre of Durango
+Q65500293;historic centre of Alamos
+Q65500522;historic centre of San Sebastián del Oeste
+Q65616866;Georgetown's Plantation Structure and Historic Buildings
+Q65617103;City of Cuzco - Main Square and Historic Centre
+Q65620504;historic center of Trujillo
+Q65621027;historic center of Cajamarca
+Q65767083;Q65767083
+Q65920395;Historic Georgetown
+Q65965421;Historic Centre of Macao - Zone 1 (Between Mount Hill and Barra Hill)
+Q65965423;Historic Centre of Macao - Zone 2 (Guia Hill)
+Q66023271;old town of Jakarta
+Q66057637;Paraty Historic Center
+Q66058013;old city of Mosul
+Q66210484;medieval Timurid Samarkand
+Q66323198;Q66323198
+Q66743786;Q66743786
+Q66761847;Q66761847
+Q66771615;Q66771615
+Q66771672;Q66771672
+Q66772619;Q66772619
+Q66813151;Núcleo intramuros da Vila de Serpa
+Q66813548;Centro histórico de Caria
+Q66813574;Centro histórico da Covilhã
+Q66813600;Centro histórico de Alpedrinha
+Q66814021;Sítio arqueológico medieval dos Sapateiros
+Q66814162;Conjunto monumental urbano e enquadramento paisagístico da Nazaré
+Q66814358;Paço do Lumiar
+Q66814608;Núcleo intramuros de Marvão
+Q66814662;Núcleo urbano da cidade de Amarante
+Q66814949;Antiga Vila de Ourém
+Q66814976;Centro histórico de Santarém
+Q66815141;Centro histórico de Caminha
+Q66815181;Zona antiga de Ponte de Lima
+Q66816393;Aldeia Velha de Monsanto
+Q66818909;Q66818909
+Q66822887;Q66822887
+Q66907767;Q66907767
+Q66941952;Núcleo urbano da vila de Arganil
+Q66942127;Núcleo urbano da cidade de Cantanhede
+Q66942245;Núcleo urbano da cidade de Coimbra
+Q66943421;Núcleo urbano da cidade da Figueira da Foz
+Q66943475;Núcleo urbano da vila de Góis
+Q66943732;Núcleo urbano da vila de Miranda do Corvo
+Q66943770;Núcleo urbano da vila de Montemor-o-Velho

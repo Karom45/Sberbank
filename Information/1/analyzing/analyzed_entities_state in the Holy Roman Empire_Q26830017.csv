@@ -1,0 +1,1619 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q22880;Electoral Palatinate;административно-территориальная единица;1;4;to
+Q699964;Archduchy of Austria;дата прекращения существования;1;1;from
+Q699964;Archduchy of Austria;основная тема;1;1;to
+Q699964;Archduchy of Austria;общая тема категории;1;1;to
+Q699964;Archduchy of Austria;участник(и);1;4;to
+Q699964;Archduchy of Austria;место рождения;1;1;to
+Q699964;Archduchy of Austria;предыдущее по порядку;1;1;to
+Q699964;Archduchy of Austria;история происходит в месте;1;8;to
+Q699964;Archduchy of Austria;гражданство;1;35;to
+Q699964;Archduchy of Austria;основная категория по теме;1;1;from
+Q699964;Archduchy of Austria;код Freebase;1;1;from
+Q699964;Archduchy of Austria;географические координаты;1;1;from
+Q699964;Archduchy of Austria;дата основания/создания/возникновения;1;1;from
+Q699964;Archduchy of Austria;отношение к религии;1;1;from
+Q699964;Archduchy of Austria;часть от;1;1;from
+Q699964;Archduchy of Austria;описывается в источниках;1;2;from
+Q699964;Archduchy of Austria;код BAV;1;1;from
+Q699964;Archduchy of Austria;изображение флага;1;1;from
+Q699964;Archduchy of Austria;столица;1;1;from
+Q699964;Archduchy of Austria;это частный случай понятия;1;4;from
+Q699964;Archduchy of Austria;часть света;1;1;from
+Q699964;Archduchy of Austria;код GND;1;1;from
+Q699964;Archduchy of Austria;код VIAF;1;2;from
+Q699964;Archduchy of Austria;государство;1;7;to
+Q699964;Archduchy of Austria;место смерти;1;1;to
+Q699964;Archduchy of Austria;изображённый объект;1;1;to
+Q699964;Archduchy of Austria;принадлежность;1;1;to
+Q699964;Archduchy of Austria;является столицей;1;1;to
+Q700283;Austrian Netherlands;изображение флага;1;1;from
+Q700283;Austrian Netherlands;денежная единица;1;1;from
+Q700283;Austrian Netherlands;столица;1;1;from
+Q700283;Austrian Netherlands;это частный случай понятия;1;1;from
+Q700283;Austrian Netherlands;часть света;1;1;from
+Q700283;Austrian Netherlands;карта местонахождения;1;1;from
+Q700283;Austrian Netherlands;код GND;1;1;from
+Q700283;Austrian Netherlands;код VIAF;1;1;from
+Q700283;Austrian Netherlands;государство;1;3;to
+Q700283;Austrian Netherlands;отношение к религии;1;1;from
+Q700283;Austrian Netherlands;форма правления;1;1;from
+Q700247;Saxe-Weissenfels;является столицей;1;1;to
+Q700247;Saxe-Weissenfels;общая тема категории;1;1;to
+Q700247;Saxe-Weissenfels;код Freebase;1;1;from
+Q700247;Saxe-Weissenfels;дата прекращения существования;1;1;from
+Q700247;Saxe-Weissenfels;дата основания/создания/возникновения;1;1;from
+Q700247;Saxe-Weissenfels;изображение флага;1;1;from
+Q700247;Saxe-Weissenfels;столица;1;1;from
+Q700247;Saxe-Weissenfels;это частный случай понятия;1;1;from
+Q700247;Saxe-Weissenfels;административно-территориальная единица;1;1;from
+Q699964;Archduchy of Austria;страна происхождения;1;1;to
+Q699964;Archduchy of Austria;следующее по порядку;1;1;from
+Q698089;Grand Duchy of Würzburg;имеет границы с;1;1;to
+Q762943;County of Holland;географические координаты;1;1;from
+Q696640;Duchy of Pomerania;общая тема категории;1;1;to
+Q696651;Saxe-Eisenach;дата основания/создания/возникновения;1;1;from
+Q696651;Saxe-Eisenach;участник организации или клуба;1;1;from
+Q696651;Saxe-Eisenach;изображение герба;1;1;from
+Q696651;Saxe-Eisenach;изображение флага;1;1;from
+Q696651;Saxe-Eisenach;столица;1;1;from
+Q696651;Saxe-Eisenach;это частный случай понятия;1;3;from
+Q696651;Saxe-Eisenach;карта местонахождения;1;1;from
+Q696651;Saxe-Eisenach;код GND;1;1;from
+Q696651;Saxe-Eisenach;форма правления;1;1;from
+Q696640;Duchy of Pomerania;является столицей;1;1;to
+Q696640;Duchy of Pomerania;государство;1;1;to
+Q698089;Grand Duchy of Würzburg;государство;1;1;to
+Q696640;Duchy of Pomerania;участник(и);1;2;to
+Q696640;Duchy of Pomerania;основная категория по теме;1;1;from
+Q696640;Duchy of Pomerania;код Freebase;1;1;from
+Q696640;Duchy of Pomerania;дата прекращения существования;1;1;from
+Q696640;Duchy of Pomerania;дата основания/создания/возникновения;1;1;from
+Q696640;Duchy of Pomerania;изображение герба;1;1;from
+Q696640;Duchy of Pomerania;официальный язык;1;1;from
+Q696640;Duchy of Pomerania;столица;1;1;from
+Q696640;Duchy of Pomerania;это частный случай понятия;1;2;to
+Q696640;Duchy of Pomerania;карта местонахождения;1;1;from
+Q696651;Saxe-Eisenach;дата прекращения существования;1;1;from
+Q696651;Saxe-Eisenach;код Freebase;1;1;from
+Q696651;Saxe-Eisenach;основная категория по теме;1;1;from
+Q696651;Saxe-Eisenach;заменил;1;1;to
+Q698089;Grand Duchy of Würzburg;состоит из;1;1;to
+Q698089;Grand Duchy of Würzburg;код Freebase;1;1;from
+Q698089;Grand Duchy of Würzburg;дата прекращения существования;1;1;from
+Q698089;Grand Duchy of Würzburg;дата основания/создания/возникновения;1;1;from
+Q698089;Grand Duchy of Würzburg;участник организации или клуба;1;1;from
+Q698089;Grand Duchy of Würzburg;изображение герба;1;1;from
+Q698089;Grand Duchy of Würzburg;изображение флага;1;1;from
+Q698089;Grand Duchy of Würzburg;официальный язык;1;1;from
+Q698089;Grand Duchy of Würzburg;столица;1;1;from
+Q698089;Grand Duchy of Würzburg;это частный случай понятия;1;4;from
+Q698089;Grand Duchy of Würzburg;часть света;1;1;from
+Q698089;Grand Duchy of Würzburg;карта местонахождения;1;1;from
+Q698089;Grand Duchy of Würzburg;код GND;1;1;from
+Q698089;Grand Duchy of Würzburg;код VIAF;1;2;from
+Q698089;Grand Duchy of Würzburg;отношение к религии;1;1;from
+Q698089;Grand Duchy of Würzburg;форма правления;1;1;from
+Q696651;Saxe-Eisenach;является столицей;1;1;to
+Q696651;Saxe-Eisenach;гражданство;1;1;to
+Q696651;Saxe-Eisenach;общая тема категории;1;1;to
+Q696651;Saxe-Eisenach;страна происхождения;1;1;to
+Q696651;Saxe-Eisenach;государство;1;1;to
+Q700283;Austrian Netherlands;изображение герба;1;1;from
+Q700283;Austrian Netherlands;код в Большой каталанской энциклопедии;1;1;from
+Q700283;Austrian Netherlands;заменил;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;место смерти;1;1;to
+Q736029;Nassau-Siegen;это частный случай понятия;1;2;from
+Q736029;Nassau-Siegen;часть света;1;1;from
+Q736029;Nassau-Siegen;код GND;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;является столицей;1;1;to
+Q706018;Electorate of Brunswick-Lüneburg;общая тема категории;1;1;to
+Q706018;Electorate of Brunswick-Lüneburg;юрисдикция распространяется на;1;1;to
+Q706018;Electorate of Brunswick-Lüneburg;государство;1;1;to
+Q706018;Electorate of Brunswick-Lüneburg;названо в честь;1;1;to
+Q706018;Electorate of Brunswick-Lüneburg;имеет границы с;1;1;to
+Q706018;Electorate of Brunswick-Lüneburg;принадлежность;1;1;to
+Q706018;Electorate of Brunswick-Lüneburg;место рождения;1;1;to
+Q700283;Austrian Netherlands;категория для людей, связанных с местностью;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;административно-территориальная единица;1;2;to
+Q706018;Electorate of Brunswick-Lüneburg;заменил;1;1;to
+Q706018;Electorate of Brunswick-Lüneburg;местонахождение;1;1;to
+Q706018;Electorate of Brunswick-Lüneburg;участник(и);1;3;to
+Q706018;Electorate of Brunswick-Lüneburg;гражданство;1;56;to
+Q706018;Electorate of Brunswick-Lüneburg;основная категория по теме;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;код Freebase;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;дата прекращения существования;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;дата основания/создания/возникновения;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;участник организации или клуба;1;1;from
+Q736029;Nassau-Siegen;дата основания/создания/возникновения;1;1;from
+Q736029;Nassau-Siegen;дата прекращения существования;1;1;from
+Q736029;Nassau-Siegen;код Freebase;1;1;from
+Q736029;Nassau-Siegen;NWBib ID;1;1;from
+Q762943;County of Holland;дата основания/создания/возникновения;1;1;from
+Q762943;County of Holland;код в Итальянской энциклопедии;1;1;from
+Q762943;County of Holland;категория на Викискладе;1;1;from
+Q762943;County of Holland;код в Культурном словаре;1;1;from
+Q762943;County of Holland;код в Большой российской энциклопедии онлайн;1;1;from
+Q762943;County of Holland;изображение герба;1;1;from
+Q762943;County of Holland;изображение флага;1;1;from
+Q762943;County of Holland;официальный язык;1;2;from
+Q762943;County of Holland;столица;1;2;from
+Q762943;County of Holland;это частный случай понятия;1;2;from
+Q762943;County of Holland;часть света;1;1;from
+Q762943;County of Holland;карта местонахождения;1;1;from
+Q762943;County of Holland;государство;1;2;to
+Q762943;County of Holland;следующее по порядку;1;1;to
+Q762943;County of Holland;предыдущее по порядку;1;1;to
+Q762943;County of Holland;отношение к религии;1;1;from
+Q762943;County of Holland;административно-территориальная единица;1;1;to
+Q736029;Nassau-Siegen;общая тема категории;1;1;to
+Q736029;Nassau-Siegen;названо в честь;1;1;to
+Q736029;Nassau-Siegen;гражданство;1;1;to
+Q736029;Nassau-Siegen;основная категория по теме;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;категория на Викискладе;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;заменён на;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;описывается в источниках;1;1;from
+Q704288;Duchy of Holstein;столица;1;1;from
+Q704288;Duchy of Holstein;часть света;1;1;from
+Q704288;Duchy of Holstein;следующее по порядку;1;2;to
+Q704288;Duchy of Holstein;предыдущее по порядку;1;1;to
+Q704288;Duchy of Holstein;административно-территориальная единица;1;3;from
+Q700283;Austrian Netherlands;местонахождение;1;1;to
+Q700283;Austrian Netherlands;общая тема категории;1;1;to
+Q700283;Austrian Netherlands;заменён на;1;1;to
+Q700283;Austrian Netherlands;место рождения;1;1;to
+Q700283;Austrian Netherlands;страна происхождения;1;1;to
+Q700283;Austrian Netherlands;категория объединяет темы;1;7;to
+Q700283;Austrian Netherlands;гражданство;1;32;to
+Q700283;Austrian Netherlands;является столицей;1;1;to
+Q700283;Austrian Netherlands;основная категория по теме;1;1;from
+Q700283;Austrian Netherlands;находится в пределах природно-географического объекта;1;1;from
+Q700283;Austrian Netherlands;код NKC;1;1;from
+Q700283;Austrian Netherlands;код Freebase;1;1;from
+Q700283;Austrian Netherlands;дата прекращения существования;1;1;from
+Q700283;Austrian Netherlands;дата основания/создания/возникновения;1;1;from
+Q700283;Austrian Netherlands;находится в границах современной административной единицы;1;1;from
+Q700283;Austrian Netherlands;категория на Викискладе;1;1;from
+Q700283;Austrian Netherlands;используемый язык;1;1;from
+Q704288;Duchy of Holstein;это частный случай понятия;1;2;from
+Q704288;Duchy of Holstein;изображение флага;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;изображение герба;1;1;from
+Q704288;Duchy of Holstein;имеет границы с;1;1;to
+Q706018;Electorate of Brunswick-Lüneburg;изображение флага;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;столица;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;это частный случай понятия;1;2;from
+Q706018;Electorate of Brunswick-Lüneburg;карта местонахождения;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;код VIAF;1;1;from
+Q706018;Electorate of Brunswick-Lüneburg;следующее по порядку;1;1;from
+Q704288;Duchy of Holstein;категория объединяет темы;1;1;to
+Q704288;Duchy of Holstein;место рождения;1;1;to
+Q704288;Duchy of Holstein;заменил;1;1;to
+Q704288;Duchy of Holstein;административно делится на;1;1;to
+Q704288;Duchy of Holstein;государство;1;1;to
+Q704288;Duchy of Holstein;состоит из;1;2;to
+Q704288;Duchy of Holstein;гражданство;1;5;to
+Q704288;Duchy of Holstein;находится в пределах природно-географического объекта;1;1;from
+Q704288;Duchy of Holstein;дата прекращения существования;1;1;from
+Q704288;Duchy of Holstein;дата основания/создания/возникновения;1;1;from
+Q704288;Duchy of Holstein;часть от;1;1;to
+Q704288;Duchy of Holstein;код BabelNet;1;1;from
+Q704288;Duchy of Holstein;код GAMEO;1;1;from
+Q704288;Duchy of Holstein;категория для людей, связанных с местностью;1;1;from
+Q704288;Duchy of Holstein;заменён на;1;1;from
+Q696640;Duchy of Pomerania;код VIAF;1;1;from
+Q696640;Duchy of Pomerania;административно-территориальная единица;1;2;to
+Q696640;Duchy of Pomerania;форма правления;1;1;from
+Q641138;Duchy of Cleves;общая тема категории;1;1;to
+Q650370;Margraviate of Baden-Durlach;код в энциклопедии «Британника онлайн»;1;1;from
+Q650370;Margraviate of Baden-Durlach;заменён на;1;1;from
+Q650370;Margraviate of Baden-Durlach;глава государства;1;22;from
+Q650370;Margraviate of Baden-Durlach;это частный случай понятия;1;3;from
+Q650370;Margraviate of Baden-Durlach;карта местонахождения;1;1;from
+Q650370;Margraviate of Baden-Durlach;код VIAF;1;1;from
+Q641138;Duchy of Cleves;государство;1;1;to
+Q641138;Duchy of Cleves;место рождения;1;2;to
+Q641138;Duchy of Cleves;следующее по порядку;1;1;to
+Q641138;Duchy of Cleves;категория объединяет темы;1;1;to
+Q641138;Duchy of Cleves;заменил;1;2;to
+Q650489;Margraviate of Baden;основная категория по теме;1;1;from
+Q641138;Duchy of Cleves;административно-территориальная единица;1;6;to
+Q641138;Duchy of Cleves;основная категория по теме;1;1;from
+Q641138;Duchy of Cleves;NWBib ID;1;1;from
+Q641138;Duchy of Cleves;код Freebase;1;1;from
+Q641138;Duchy of Cleves;географические координаты;1;1;from
+Q641138;Duchy of Cleves;дата прекращения существования;1;1;from
+Q641138;Duchy of Cleves;дата основания/создания/возникновения;1;1;from
+Q641138;Duchy of Cleves;категория на Викискладе;1;1;from
+Q641138;Duchy of Cleves;категория для людей, связанных с местностью;1;1;from
+Q641138;Duchy of Cleves;заменён на;1;2;from
+Q650370;Margraviate of Baden-Durlach;часть от;1;1;from
+Q650370;Margraviate of Baden-Durlach;категория на Викискладе;1;1;from
+Q650370;Margraviate of Baden-Durlach;дата начала;1;1;from
+Q650370;Margraviate of Baden-Durlach;дата окончания;1;1;from
+Q650489;Margraviate of Baden;код Freebase;1;1;from
+Q650489;Margraviate of Baden;дата прекращения существования;1;1;from
+Q650489;Margraviate of Baden;дата основания/создания/возникновения;1;1;from
+Q650489;Margraviate of Baden;состоит из;1;4;from
+Q650489;Margraviate of Baden;категория на Викискладе;1;1;from
+Q650489;Margraviate of Baden;заменён на;1;1;to
+Q650489;Margraviate of Baden;изображение герба;1;1;from
+Q650489;Margraviate of Baden;изображение флага;1;1;from
+Q650489;Margraviate of Baden;официальный язык;1;1;from
+Q650489;Margraviate of Baden;столица;1;2;from
+Q650489;Margraviate of Baden;это частный случай понятия;1;3;from
+Q650489;Margraviate of Baden;часть света;1;1;from
+Q650489;Margraviate of Baden;карта местонахождения;1;1;from
+Q650489;Margraviate of Baden;код VIAF;1;1;from
+Q650489;Margraviate of Baden;административно-территориальная единица;1;1;to
+Q650489;Margraviate of Baden;форма правления;1;1;from
+Q650370;Margraviate of Baden-Durlach;общая тема категории;1;1;to
+Q650370;Margraviate of Baden-Durlach;участник(и);1;1;to
+Q650370;Margraviate of Baden-Durlach;состоит из;1;1;to
+Q650370;Margraviate of Baden-Durlach;гражданство;1;2;to
+Q650370;Margraviate of Baden-Durlach;находится в пределах природно-географического объекта;1;1;from
+Q641138;Duchy of Cleves;изображение герба;1;1;from
+Q641138;Duchy of Cleves;официальный язык;1;2;from
+Q641138;Duchy of Cleves;столица;1;1;from
+Q637238;Electorate of Baden;изображение флага;1;1;from
+Q637238;Electorate of Baden;столица;1;1;from
+Q637238;Electorate of Baden;это частный случай понятия;1;3;from
+Q637238;Electorate of Baden;часть света;1;1;from
+Q637238;Electorate of Baden;карта местонахождения;1;1;from
+Q637238;Electorate of Baden;код VIAF;1;1;from
+Q637238;Electorate of Baden;государство;1;1;from
+Q637238;Electorate of Baden;административно-территориальная единица;1;1;to
+Q637238;Electorate of Baden;форма правления;1;1;from
+Q636389;Archbishopric of Magdeburg;гражданство;1;1;to
+Q636389;Archbishopric of Magdeburg;является столицей;1;1;to
+Q636389;Archbishopric of Magdeburg;место рождения;1;1;to
+Q636389;Archbishopric of Magdeburg;код Freebase;1;1;from
+Q636389;Archbishopric of Magdeburg;географические координаты;1;1;from
+Q636389;Archbishopric of Magdeburg;дата прекращения существования;1;1;from
+Q636389;Archbishopric of Magdeburg;дата основания/создания/возникновения;1;1;from
+Q636389;Archbishopric of Magdeburg;категория на Викискладе;1;1;from
+Q636389;Archbishopric of Magdeburg;изображение герба;1;1;from
+Q636389;Archbishopric of Magdeburg;столица;1;1;from
+Q636389;Archbishopric of Magdeburg;это частный случай понятия;1;3;from
+Q636389;Archbishopric of Magdeburg;часть света;1;1;from
+Q636389;Archbishopric of Magdeburg;карта местонахождения;1;1;from
+Q637238;Electorate of Baden;официальный язык;1;1;from
+Q637238;Electorate of Baden;изображение герба;1;1;from
+Q641138;Duchy of Cleves;глава государства;1;12;from
+Q637238;Electorate of Baden;заменил;1;1;to
+Q641138;Duchy of Cleves;это частный случай понятия;1;4;from
+Q641138;Duchy of Cleves;часть света;1;1;from
+Q641138;Duchy of Cleves;код LCNAF;1;1;from
+Q641138;Duchy of Cleves;карта местонахождения;1;1;from
+Q641138;Duchy of Cleves;код VIAF;1;1;from
+Q641138;Duchy of Cleves;расположение штаб-квартиры;1;2;from
+Q641138;Duchy of Cleves;предыдущее по порядку;1;1;from
+Q641138;Duchy of Cleves;административно делится на;1;6;from
+Q641138;Duchy of Cleves;отношение к религии;1;1;from
+Q641138;Duchy of Cleves;форма правления;1;2;from
+Q640700;Saxe-Coburg-Eisenach;код Freebase;1;1;from
+Q640700;Saxe-Coburg-Eisenach;дата прекращения существования;1;1;from
+Q640700;Saxe-Coburg-Eisenach;дата основания/создания/возникновения;1;1;from
+Q640700;Saxe-Coburg-Eisenach;это частный случай понятия;1;1;from
+Q637238;Electorate of Baden;гражданство;1;2;to
+Q637238;Electorate of Baden;страна происхождения;1;2;to
+Q637238;Electorate of Baden;находится в пределах природно-географического объекта;1;1;from
+Q637238;Electorate of Baden;код Freebase;1;1;from
+Q637238;Electorate of Baden;дата прекращения существования;1;1;from
+Q637238;Electorate of Baden;дата основания/создания/возникновения;1;1;from
+Q637238;Electorate of Baden;заменён на;1;1;to
+Q650489;Margraviate of Baden;находится в пределах природно-географического объекта;1;1;from
+Q650489;Margraviate of Baden;место рождения;1;2;to
+Q694594;ducat de Bremen;является столицей;1;1;to
+Q693562;Duchy of Saxe-Wittenberg;следующее по порядку;1;1;to
+Q694594;ducat de Bremen;административно-территориальная единица;1;3;to
+Q694594;ducat de Bremen;форма правления;1;1;from
+Q693562;Duchy of Saxe-Wittenberg;код Freebase;1;1;from
+Q693562;Duchy of Saxe-Wittenberg;дата прекращения существования;1;1;from
+Q693562;Duchy of Saxe-Wittenberg;дата основания/создания/возникновения;1;1;from
+Q693562;Duchy of Saxe-Wittenberg;используемый язык;1;1;from
+Q693562;Duchy of Saxe-Wittenberg;код в энциклопедии «Британника онлайн»;1;1;from
+Q693562;Duchy of Saxe-Wittenberg;официальный язык;1;1;from
+Q693562;Duchy of Saxe-Wittenberg;это частный случай понятия;1;2;from
+Q693562;Duchy of Saxe-Wittenberg;код VIAF;1;1;from
+Q693562;Duchy of Saxe-Wittenberg;предыдущее по порядку;1;1;to
+Q650489;Margraviate of Baden;часть от;1;1;to
+Q693551;Landgraviate of Hesse-Darmstadt;общая тема категории;1;1;to
+Q693551;Landgraviate of Hesse-Darmstadt;предыдущее по порядку;1;1;to
+Q693551;Landgraviate of Hesse-Darmstadt;состоит из;1;1;to
+Q693551;Landgraviate of Hesse-Darmstadt;место рождения;1;2;to
+Q693551;Landgraviate of Hesse-Darmstadt;гражданство;1;4;to
+Q693551;Landgraviate of Hesse-Darmstadt;род;1;19;to
+Q693551;Landgraviate of Hesse-Darmstadt;основная категория по теме;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;код Freebase;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;дата прекращения существования;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;дата основания/создания/возникновения;1;1;from
+Q694594;ducat de Bremen;отношение к религии;1;1;from
+Q694594;ducat de Bremen;предыдущее по порядку;1;1;from
+Q694594;ducat de Bremen;государство;1;1;from
+Q694594;ducat de Bremen;законодательный орган;1;1;from
+Q694594;ducat de Bremen;гражданство;1;1;to
+Q694594;ducat de Bremen;местонахождение;1;2;to
+Q694594;ducat de Bremen;следующее по порядку;1;1;to
+Q694594;ducat de Bremen;общая тема категории;1;1;to
+Q694594;ducat de Bremen;место активности;1;1;to
+Q694594;ducat de Bremen;основная категория по теме;1;1;from
+Q694594;ducat de Bremen;код Freebase;1;1;from
+Q694594;ducat de Bremen;географические координаты;1;1;from
+Q694594;ducat de Bremen;дата прекращения существования;1;1;from
+Q694594;ducat de Bremen;дата основания/создания/возникновения;1;1;from
+Q694594;ducat de Bremen;категория на Викискладе;1;1;from
+Q694594;ducat de Bremen;код в Большой каталанской энциклопедии;1;1;from
+Q694594;ducat de Bremen;изображение герба;1;1;from
+Q694594;ducat de Bremen;изображение флага;1;1;from
+Q694594;ducat de Bremen;денежная единица;1;1;from
+Q694594;ducat de Bremen;столица;1;1;from
+Q694594;ducat de Bremen;это частный случай понятия;1;3;from
+Q694594;ducat de Bremen;часть света;1;1;from
+Q694594;ducat de Bremen;карта местонахождения;1;1;from
+Q694594;ducat de Bremen;код GND;1;1;from
+Q694594;ducat de Bremen;код VIAF;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;категория на Викискладе;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;официальная религия;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;описывается в источниках;1;1;from
+Q660393;Lower Lorraine;предыдущее по порядку;1;1;to
+Q660393;Lower Lorraine;гражданство;1;1;to
+Q660393;Lower Lorraine;участник(и);1;2;to
+Q660393;Lower Lorraine;государство;1;2;to
+Q660393;Lower Lorraine;код Freebase;1;1;from
+Q660393;Lower Lorraine;код в энциклопедии «Британника онлайн»;1;1;from
+Q660393;Lower Lorraine;это частный случай понятия;1;3;from
+Q657241;Duchy of Westphalia;общая тема категории;1;1;to
+Q657241;Duchy of Westphalia;государство;1;1;to
+Q657241;Duchy of Westphalia;гражданство;1;1;to
+Q657241;Duchy of Westphalia;основная категория по теме;1;1;from
+Q657241;Duchy of Westphalia;NWBib ID;1;1;from
+Q657241;Duchy of Westphalia;код Freebase;1;1;from
+Q657241;Duchy of Westphalia;географические координаты;1;1;from
+Q657241;Duchy of Westphalia;дата прекращения существования;1;1;from
+Q657241;Duchy of Westphalia;дата основания/создания/возникновения;1;1;from
+Q657241;Duchy of Westphalia;категория на Викискладе;1;1;from
+Q657241;Duchy of Westphalia;это частный случай понятия;1;1;from
+Q650489;Margraviate of Baden;является столицей;1;1;to
+Q650489;Margraviate of Baden;заменил;1;1;to
+Q650489;Margraviate of Baden;государство;1;1;to
+Q650489;Margraviate of Baden;общая тема категории;1;1;to
+Q660393;Lower Lorraine;место рождения;1;2;to
+Q675363;County of Geneva;государство;1;5;to
+Q693551;Landgraviate of Hesse-Darmstadt;изображение герба;1;1;from
+Q675363;County of Geneva;это частный случай понятия;1;3;from
+Q693551;Landgraviate of Hesse-Darmstadt;изображение флага;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;официальный язык;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;столица;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;это частный случай понятия;1;2;from
+Q693551;Landgraviate of Hesse-Darmstadt;часть света;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;код LCNAF;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;карта местонахождения;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;код GND;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;код VIAF;1;1;from
+Q693551;Landgraviate of Hesse-Darmstadt;государство;1;1;to
+Q693551;Landgraviate of Hesse-Darmstadt;форма правления;1;1;from
+Q675363;County of Geneva;категория объединяет темы;1;1;to
+Q675363;County of Geneva;страна происхождения;1;1;to
+Q675363;County of Geneva;общая тема категории;1;1;to
+Q675363;County of Geneva;юрисдикция распространяется на;1;2;to
+Q675363;County of Geneva;место смерти;1;1;to
+Q675363;County of Geneva;место рождения;1;14;to
+Q675363;County of Geneva;основная категория по теме;1;1;from
+Q675363;County of Geneva;код Freebase;1;1;from
+Q675363;County of Geneva;дата прекращения существования;1;1;from
+Q675363;County of Geneva;категория на Викискладе;1;1;from
+Q762943;County of Holland;дата прекращения существования;1;1;from
+Q762943;County of Holland;код Freebase;1;1;from
+Q22880;Electoral Palatinate;отношение к религии;1;2;from
+Q3845763;Margravate of Mantua;код LCNAF;1;1;from
+Q3845763;Margravate of Mantua;принадлежность;1;1;to
+Q3845763;Margravate of Mantua;гражданство;1;5;to
+Q3845763;Margravate of Mantua;участник(и);1;1;to
+Q3845763;Margravate of Mantua;дата прекращения существования;1;1;from
+Q3845763;Margravate of Mantua;дата основания/создания/возникновения;1;1;from
+Q3845763;Margravate of Mantua;изображение герба;1;1;from
+Q3845763;Margravate of Mantua;изображение флага;1;1;from
+Q3845763;Margravate of Mantua;официальный язык;1;2;from
+Q3845763;Margravate of Mantua;столица;1;1;from
+Q3845763;Margravate of Mantua;это частный случай понятия;1;3;from
+Q3845763;Margravate of Mantua;код VIAF;1;1;from
+Q3624335;Duchy of Austria;является столицей;1;1;to
+Q3845763;Margravate of Mantua;государство;1;1;from
+Q3845763;Margravate of Mantua;следующее по порядку;1;1;from
+Q3833225;Lippe-Alverdissen;это частный случай понятия;1;1;from
+Q3802443;Isenburg-Wächtersbach;является столицей;1;1;to
+Q3802443;Isenburg-Wächtersbach;дата основания/создания/возникновения;1;1;from
+Q3802443;Isenburg-Wächtersbach;категория на Викискладе;1;1;from
+Q3802443;Isenburg-Wächtersbach;столица;1;1;from
+Q3802443;Isenburg-Wächtersbach;это частный случай понятия;1;2;from
+Q3802443;Isenburg-Wächtersbach;часть света;1;1;from
+Q3802443;Isenburg-Wächtersbach;государство;1;1;from
+Q5177890;County of Luxembourg;форма правления;1;1;from
+Q5177890;County of Luxembourg;предыдущее по порядку;1;1;to
+Q5177890;County of Luxembourg;следующее по порядку;1;1;from
+Q5177890;County of Luxembourg;карта местонахождения;1;1;from
+Q7904317;Electorate of Cologne;карта местонахождения;1;1;from
+Q7904317;Electorate of Cologne;код GND;1;1;from
+Q7904317;Electorate of Cologne;код VIAF;1;1;from
+Q7904317;Electorate of Cologne;государство;1;1;from
+Q7904317;Electorate of Cologne;административно-территориальная единица;1;1;to
+Q5177890;County of Luxembourg;гражданство;1;1;to
+Q5177890;County of Luxembourg;место рождения;1;1;to
+Q5177890;County of Luxembourg;является столицей;1;1;to
+Q5177890;County of Luxembourg;общая тема категории;1;1;to
+Q5177890;County of Luxembourg;основная тема;1;1;to
+Q5177890;County of Luxembourg;государство;1;2;to
+Q5177890;County of Luxembourg;дата прекращения существования;1;1;from
+Q5177890;County of Luxembourg;дата основания/создания/возникновения;1;1;from
+Q5177890;County of Luxembourg;территория перекрывается с;1;1;from
+Q5177890;County of Luxembourg;официальная религия;1;1;from
+Q5177890;County of Luxembourg;этнохороним;1;2;from
+Q5177890;County of Luxembourg;описывается в источниках;1;1;from
+Q5177890;County of Luxembourg;изображение герба;1;1;from
+Q5177890;County of Luxembourg;столица;1;1;from
+Q5177890;County of Luxembourg;это частный случай понятия;1;3;from
+Q5177890;County of Luxembourg;часть света;1;1;from
+Q3802443;Isenburg-Wächtersbach;административно-территориальная единица;1;1;from
+Q3624335;Duchy of Austria;местонахождение;1;1;to
+Q762943;County of Holland;переход на грегорианский календарь;1;1;from
+Q2719360;Duchy of Luxembourg;следующее по порядку;1;2;to
+Q2719360;Duchy of Luxembourg;категория на Викискладе;1;1;from
+Q2719360;Duchy of Luxembourg;код в Итальянской энциклопедии онлайн;1;1;from
+Q2719360;Duchy of Luxembourg;этнохороним;1;2;from
+Q2719360;Duchy of Luxembourg;заменён на;1;1;from
+Q2719360;Duchy of Luxembourg;изображение флага;1;1;from
+Q2719360;Duchy of Luxembourg;столица;1;1;from
+Q2719360;Duchy of Luxembourg;это частный случай понятия;1;3;from
+Q2719360;Duchy of Luxembourg;часть света;1;1;from
+Q2719360;Duchy of Luxembourg;код VIAF;1;1;from
+Q2719360;Duchy of Luxembourg;государство;1;1;from
+Q2719360;Duchy of Luxembourg;предыдущее по порядку;1;2;from
+Q3624335;Duchy of Austria;общая тема категории;1;2;to
+Q2670751;Margraviate of Moravia;является столицей;1;2;to
+Q2670751;Margraviate of Moravia;административно делится на;1;1;to
+Q2670751;Margraviate of Moravia;участник(и);1;1;to
+Q2670751;Margraviate of Moravia;гражданство;1;5;to
+Q2670751;Margraviate of Moravia;место рождения;1;3;to
+Q2670751;Margraviate of Moravia;оператор;1;1;to
+Q2670751;Margraviate of Moravia;код NKC;1;1;from
+Q2670751;Margraviate of Moravia;код Freebase;1;1;from
+Q2670751;Margraviate of Moravia;дата прекращения существования;1;1;from
+Q2670751;Margraviate of Moravia;дата основания/создания/возникновения;1;1;from
+Q2719360;Duchy of Luxembourg;дата основания/создания/возникновения;1;1;from
+Q2719360;Duchy of Luxembourg;дата прекращения существования;1;1;from
+Q2719360;Duchy of Luxembourg;географические координаты;1;1;from
+Q2719360;Duchy of Luxembourg;код Freebase;1;1;from
+Q3624335;Duchy of Austria;место смерти;1;1;to
+Q3624335;Duchy of Austria;гражданство;1;3;to
+Q3624335;Duchy of Austria;основная категория по теме;1;1;from
+Q3624335;Duchy of Austria;код Freebase;1;1;from
+Q3624335;Duchy of Austria;RegiowikiAT ID;1;1;from
+Q3624335;Duchy of Austria;дата прекращения существования;1;1;from
+Q3624335;Duchy of Austria;дата основания/создания/возникновения;1;1;from
+Q3624335;Duchy of Austria;категория на Викискладе;1;1;from
+Q3624335;Duchy of Austria;изображение герба;1;1;from
+Q3624335;Duchy of Austria;изображение флага;1;1;from
+Q3624335;Duchy of Austria;официальный язык;1;1;from
+Q3624335;Duchy of Austria;столица;1;1;from
+Q3624335;Duchy of Austria;это частный случай понятия;1;3;from
+Q3624335;Duchy of Austria;часть света;1;1;from
+Q2719360;Duchy of Luxembourg;заменил;1;1;to
+Q2719360;Duchy of Luxembourg;является столицей;1;1;to
+Q2719360;Duchy of Luxembourg;названо в честь;1;1;to
+Q2719360;Duchy of Luxembourg;общая тема категории;1;1;to
+Q2719360;Duchy of Luxembourg;место рождения;1;3;to
+Q2719360;Duchy of Luxembourg;гражданство;1;7;to
+Q2719360;Duchy of Luxembourg;основная категория по теме;1;1;from
+Q7904317;Electorate of Cologne;часть света;1;1;from
+Q7904317;Electorate of Cologne;это частный случай понятия;1;3;from
+Q7904317;Electorate of Cologne;столица;1;2;from
+Q19831559;Oldenburg;код LCNAF;1;1;from
+Q19831559;Oldenburg;WorldCat Identities ID;1;1;from
+Q19831559;Oldenburg;дата прекращения существования;1;1;from
+Q19831559;Oldenburg;категория на Викискладе;1;1;from
+Q19831559;Oldenburg;не путать с;1;1;to
+Q19831559;Oldenburg;код в энциклопедии «Британника онлайн»;1;1;from
+Q19831559;Oldenburg;описывается в источниках;1;2;from
+Q19831559;Oldenburg;изображение герба;1;1;from
+Q19831559;Oldenburg;изображение флага;1;1;from
+Q19831559;Oldenburg;столица;1;1;from
+Q19831559;Oldenburg;это частный случай понятия;1;3;from
+Q19831559;Oldenburg;код GND;1;1;from
+Q7904317;Electorate of Cologne;официальный язык;1;1;from
+Q19831559;Oldenburg;код VIAF;1;2;from
+Q19831559;Oldenburg;государство;1;1;to
+Q15130492;Stift Corvey;NWBib ID;1;1;from
+Q15130492;Stift Corvey;географические координаты;1;1;from
+Q15130492;Stift Corvey;это частный случай понятия;1;1;from
+Q15130492;Stift Corvey;код LCNAF;1;1;from
+Q15130492;Stift Corvey;код GND;1;1;from
+Q15130492;Stift Corvey;код VIAF;1;1;from
+Q15130492;Stift Corvey;государство;1;1;from
+Q15130492;Stift Corvey;административно-территориальная единица;1;1;from
+Q19831559;Oldenburg;место рождения;1;1;to
+Q19831559;Oldenburg;основная тема;1;2;to
+Q19831559;Oldenburg;местонахождение;1;1;to
+Q19831559;Oldenburg;является столицей;1;1;to
+Q58942549;Lower Alsace;не путать с;1;1;to
+Q58942549;Lower Alsace;это частный случай понятия;1;1;from
+Q58941796;Upper Alsace;географические координаты;1;1;from
+Q58941796;Upper Alsace;не путать с;1;1;to
+Q58941796;Upper Alsace;это частный случай понятия;1;1;from
+Q58941796;Upper Alsace;государство;1;1;from
+Q47443308;Q47443308;NWBib ID;1;1;from
+Q47443308;Q47443308;географические координаты;1;1;from
+Q47443308;Q47443308;дата прекращения существования;1;1;from
+Q47443308;Q47443308;дата основания/создания/возникновения;1;1;from
+Q47443308;Q47443308;заменён на;1;1;from
+Q47443308;Q47443308;это частный случай понятия;1;1;from
+Q47443308;Q47443308;код VIAF;1;1;from
+Q26837570;Lordship, later County, of Diepholz;это частный случай понятия;1;1;from
+Q21077045;Upper Alsace;общая тема категории;1;1;to
+Q21077045;Upper Alsace;основная категория по теме;1;1;from
+Q21077045;Upper Alsace;дата прекращения существования;1;1;from
+Q21077045;Upper Alsace;это частный случай понятия;1;2;from
+Q21077045;Upper Alsace;государство;1;1;from
+Q19902345;Lordship of Hanau;это частный случай понятия;1;1;from
+Q19831559;Oldenburg;гражданство;1;1;to
+Q14631246;Duchy of Saxony (1180–1296);дата прекращения существования;1;1;from
+Q14631246;Duchy of Saxony (1180–1296);это частный случай понятия;1;2;from
+Q14631246;Duchy of Saxony (1180–1296);государство;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;административно-территориальная единица;1;2;from
+Q7904317;Electorate of Cologne;категория объединяет темы;1;1;to
+Q7904317;Electorate of Cologne;общая тема категории;1;1;to
+Q7904317;Electorate of Cologne;состоит из;1;1;to
+Q7904317;Electorate of Cologne;место рождения;1;1;to
+Q7904317;Electorate of Cologne;местонахождение;1;2;to
+Q7904317;Electorate of Cologne;гражданство;1;1;to
+Q7904317;Electorate of Cologne;названо в честь;1;1;to
+Q7904317;Electorate of Cologne;основная категория по теме;1;1;from
+Q7904317;Electorate of Cologne;NWBib ID;1;1;from
+Q7904317;Electorate of Cologne;географические координаты;1;1;from
+Q7904317;Electorate of Cologne;дата прекращения существования;1;1;from
+Q7904317;Electorate of Cologne;дата основания/создания/возникновения;1;1;from
+Q7904317;Electorate of Cologne;категория на Викискладе;1;1;from
+Q7904317;Electorate of Cologne;часть от;1;1;to
+Q7904317;Electorate of Cologne;код в Encyclopædia Universalis;1;1;from
+Q7904317;Electorate of Cologne;код BabelNet;1;1;from
+Q7904317;Electorate of Cologne;должность главы государства;1;1;from
+Q7904317;Electorate of Cologne;категория для людей, связанных с местностью;1;1;from
+Q7904317;Electorate of Cologne;код в Большой каталанской энциклопедии;1;1;from
+Q7904317;Electorate of Cologne;изображение герба;1;1;from
+Q7904317;Electorate of Cologne;изображение флага;1;1;from
+Q7904317;Electorate of Cologne;является столицей;1;1;to
+Q11024667;Duchy of Mecklenburg-Schwerin;код VIAF;1;1;from
+Q12817455;County of Nassau;тематически относится к;1;1;to
+Q11024667;Duchy of Mecklenburg-Schwerin;карта местонахождения;1;1;from
+Q12817455;County of Nassau;часть от;1;2;to
+Q12817455;County of Nassau;является столицей;1;1;to
+Q12817455;County of Nassau;дата прекращения существования;1;1;from
+Q12817455;County of Nassau;дата основания/создания/возникновения;1;1;from
+Q12817455;County of Nassau;изображение герба;1;1;from
+Q12817455;County of Nassau;столица;1;1;from
+Q12817455;County of Nassau;это частный случай понятия;1;1;from
+Q12817455;County of Nassau;часть света;1;1;from
+Q12817455;County of Nassau;карта местонахождения;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;следующее по порядку;1;1;to
+Q11024667;Duchy of Mecklenburg-Schwerin;гражданство;1;1;to
+Q11024667;Duchy of Mecklenburg-Schwerin;заменил;1;1;to
+Q11024667;Duchy of Mecklenburg-Schwerin;дата прекращения существования;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;дата основания/создания/возникновения;1;2;from
+Q11024667;Duchy of Mecklenburg-Schwerin;участник организации или клуба;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;категория на Викискладе;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;заменён на;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;изображение герба;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;изображение флага;1;1;from
+Q11024667;Duchy of Mecklenburg-Schwerin;это частный случай понятия;1;3;from
+Q11024667;Duchy of Mecklenburg-Schwerin;часть света;1;1;from
+Q2670751;Margraviate of Moravia;категория на Викискладе;1;1;from
+Q2670751;Margraviate of Moravia;изображение герба;1;1;from
+Q2670751;Margraviate of Moravia;изображение флага;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;код Freebase;1;1;from
+Q885304;Margraviate of Baden-Hachberg;это частный случай понятия;1;3;from
+Q885304;Margraviate of Baden-Hachberg;государство;1;1;from
+Q885304;Margraviate of Baden-Hachberg;форма правления;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;участник(и);1;2;to
+Q830084;Principality of Brunswick-Wolfenbüttel;является столицей;1;2;to
+Q830084;Principality of Brunswick-Wolfenbüttel;общая тема категории;1;1;to
+Q830084;Principality of Brunswick-Wolfenbüttel;гражданство;1;2;to
+Q830084;Principality of Brunswick-Wolfenbüttel;административно-территориальная единица;1;6;to
+Q830084;Principality of Brunswick-Wolfenbüttel;место рождения;1;1;to
+Q830084;Principality of Brunswick-Wolfenbüttel;основная категория по теме;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;дата прекращения существования;1;1;from
+Q1794352;Electorate of Trier;состоит из;1;1;to
+Q830084;Principality of Brunswick-Wolfenbüttel;дата основания/создания/возникновения;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;код для сущности Wolfram Language;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;категория на Викискладе;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;изображение герба;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;официальный язык;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;столица;1;2;from
+Q830084;Principality of Brunswick-Wolfenbüttel;это частный случай понятия;1;2;from
+Q830084;Principality of Brunswick-Wolfenbüttel;часть света;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;код LCNAF;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;код GND;1;1;from
+Q885304;Margraviate of Baden-Hachberg;столица;1;1;from
+Q885304;Margraviate of Baden-Hachberg;изображение герба;1;1;from
+Q885304;Margraviate of Baden-Hachberg;подробная карта;1;1;from
+Q885304;Margraviate of Baden-Hachberg;часть от;1;1;from
+Q1794352;Electorate of Trier;общая тема категории;1;1;to
+Q1794352;Electorate of Trier;епархия;1;14;to
+Q1794352;Electorate of Trier;основная категория по теме;1;1;from
+Q1794352;Electorate of Trier;географические координаты;1;1;from
+Q1794352;Electorate of Trier;дата прекращения существования;1;1;from
+Q1794352;Electorate of Trier;дата основания/создания/возникновения;1;1;from
+Q1794352;Electorate of Trier;категория на Викискладе;1;1;from
+Q1794352;Electorate of Trier;код в Encyclopædia Universalis;1;1;from
+Q1794352;Electorate of Trier;изображение герба;1;1;from
+Q1794352;Electorate of Trier;изображение флага;1;1;from
+Q1794352;Electorate of Trier;официальный язык;1;1;from
+Q1794352;Electorate of Trier;столица;1;1;from
+Q1794352;Electorate of Trier;это частный случай понятия;1;3;from
+Q1794352;Electorate of Trier;часть света;1;1;from
+Q1794352;Electorate of Trier;карта местонахождения;1;1;from
+Q1794352;Electorate of Trier;государство;1;1;from
+Q885304;Margraviate of Baden-Hachberg;общая тема категории;1;1;to
+Q885304;Margraviate of Baden-Hachberg;является столицей;1;1;to
+Q885304;Margraviate of Baden-Hachberg;предыдущее по порядку;1;1;to
+Q885304;Margraviate of Baden-Hachberg;дата начала;1;1;from
+Q885304;Margraviate of Baden-Hachberg;дата прекращения существования;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;код VIAF;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;изображение;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;государство;1;2;to
+Q766501;Duchy of Mantua;код Freebase;1;1;from
+Q766501;Duchy of Mantua;дата прекращения существования;1;1;from
+Q766501;Duchy of Mantua;дата основания/создания/возникновения;1;1;from
+Q766501;Duchy of Mantua;категория на Викискладе;1;1;from
+Q766501;Duchy of Mantua;участвовал в;1;1;from
+Q766501;Duchy of Mantua;изображение герба;1;1;from
+Q766501;Duchy of Mantua;изображение флага;1;1;from
+Q766501;Duchy of Mantua;официальный язык;1;1;from
+Q766501;Duchy of Mantua;столица;1;1;from
+Q766501;Duchy of Mantua;это частный случай понятия;1;2;from
+Q766501;Duchy of Mantua;часть света;1;1;from
+Q766501;Duchy of Mantua;карта местонахождения;1;1;from
+Q766501;Duchy of Mantua;код GND;1;1;from
+Q762943;County of Holland;общая тема категории;1;1;to
+Q762943;County of Holland;юрисдикция распространяется на;1;1;to
+Q762943;County of Holland;место смерти;1;1;to
+Q762943;County of Holland;страна происхождения;1;1;to
+Q762943;County of Holland;местонахождение;1;2;to
+Q762943;County of Holland;названо в честь;1;1;to
+Q762943;County of Holland;гражданство;1;13;to
+Q762943;County of Holland;аудиозапись прочитанного текста;1;1;from
+Q762943;County of Holland;основная категория по теме;1;1;from
+Q766501;Duchy of Mantua;географические координаты;1;1;from
+Q766501;Duchy of Mantua;основная категория по теме;1;1;from
+Q830084;Principality of Brunswick-Wolfenbüttel;административно делится на;1;5;from
+Q766501;Duchy of Mantua;гражданство;1;14;to
+Q829700;Saxe-Jena;код Freebase;1;1;from
+Q829700;Saxe-Jena;дата прекращения существования;1;1;from
+Q829700;Saxe-Jena;дата основания/создания/возникновения;1;1;from
+Q829700;Saxe-Jena;это частный случай понятия;1;2;from
+Q825489;Пирмонт;NWBib ID;1;1;from
+Q825489;Пирмонт;географические координаты;1;1;from
+Q825489;Пирмонт;дата прекращения существования;1;1;from
+Q825489;Пирмонт;дата основания/создания/возникновения;1;1;from
+Q825489;Пирмонт;изображение герба;1;1;from
+Q825489;Пирмонт;это частный случай понятия;1;2;from
+Q825489;Пирмонт;код GND;1;1;from
+Q825489;Пирмонт;код VIAF;1;1;from
+Q825489;Пирмонт;изображение;1;1;from
+Q825489;Пирмонт;государство;1;3;from
+Q825489;Пирмонт;административно-территориальная единица;1;3;from
+Q766501;Duchy of Mantua;является столицей;1;1;to
+Q766501;Duchy of Mantua;общая тема категории;1;1;to
+Q766501;Duchy of Mantua;государство;1;1;to
+Q766501;Duchy of Mantua;следующее по порядку;1;1;to
+Q766501;Duchy of Mantua;принадлежность;1;1;to
+Q766501;Duchy of Mantua;участник(и);1;7;to
+Q1794352;Electorate of Trier;гражданство;1;2;to
+Q1867844;March of Tuscany;государство;1;1;from
+Q2670751;Margraviate of Moravia;столица;1;2;from
+Q2227570;Duchy of Württemberg;официальный язык;1;1;from
+Q2227570;Duchy of Württemberg;находится в пределах природно-географического объекта;1;1;from
+Q2227570;Duchy of Württemberg;код Freebase;1;1;from
+Q2227570;Duchy of Württemberg;дата прекращения существования;1;1;from
+Q2227570;Duchy of Württemberg;дата основания/создания/возникновения;1;1;from
+Q2227570;Duchy of Württemberg;категория на Викискладе;1;1;from
+Q2227570;Duchy of Württemberg;заменён на;1;1;to
+Q2227570;Duchy of Württemberg;заменил;1;1;to
+Q2227570;Duchy of Württemberg;описывается в источниках;1;1;from
+Q2227570;Duchy of Württemberg;изображение герба;1;1;from
+Q2227570;Duchy of Württemberg;изображение флага;1;1;from
+Q2227570;Duchy of Württemberg;это частный случай понятия;1;4;from
+Q1867844;March of Tuscany;часть света;1;1;from
+Q2227570;Duchy of Württemberg;часть света;1;1;from
+Q2227570;Duchy of Württemberg;карта местонахождения;1;1;from
+Q2227570;Duchy of Württemberg;государство;1;2;to
+Q2227570;Duchy of Württemberg;отношение к религии;1;1;from
+Q2227570;Duchy of Württemberg;административно-территориальная единица;1;1;from
+Q2172530;Electorate of Württemberg;гражданство;1;2;to
+Q2172530;Electorate of Württemberg;код Freebase;1;1;from
+Q2172530;Electorate of Württemberg;дата прекращения существования;1;1;from
+Q2172530;Electorate of Württemberg;дата основания/создания/возникновения;1;1;from
+Q2172530;Electorate of Württemberg;изображение флага;1;1;from
+Q2227570;Duchy of Württemberg;основная категория по теме;1;1;from
+Q2227570;Duchy of Württemberg;гражданство;1;66;to
+Q2227570;Duchy of Württemberg;участник(и);1;1;to
+Q2227570;Duchy of Württemberg;основная тема;1;1;to
+Q2670751;Margraviate of Moravia;это частный случай понятия;1;6;from
+Q2670751;Margraviate of Moravia;часть света;1;1;from
+Q2670751;Margraviate of Moravia;государство;1;6;to
+Q2670751;Margraviate of Moravia;административно-территориальная единица;1;1;to
+Q2458532;Terra Mariana;названо в честь;1;1;to
+Q2458532;Terra Mariana;участник(и);1;2;to
+Q2458532;Terra Mariana;следующее по порядку;1;1;to
+Q2458532;Terra Mariana;код Freebase;1;1;from
+Q2458532;Terra Mariana;географические координаты;1;1;from
+Q2458532;Terra Mariana;дата прекращения существования;1;1;from
+Q2458532;Terra Mariana;дата основания/создания/возникновения;1;1;from
+Q2458532;Terra Mariana;рабочий список проекта Викимедиа;1;1;from
+Q2458532;Terra Mariana;код для сущности Wolfram Language;1;1;from
+Q2458532;Terra Mariana;изображение герба;1;1;from
+Q2458532;Terra Mariana;это частный случай понятия;1;3;from
+Q2458532;Terra Mariana;карта местонахождения;1;1;from
+Q2458532;Terra Mariana;государство;1;1;to
+Q2458532;Terra Mariana;предыдущее по порядку;1;1;from
+Q2227570;Duchy of Württemberg;место активности;1;1;to
+Q2227570;Duchy of Württemberg;место рождения;1;2;to
+Q2227570;Duchy of Württemberg;общая тема категории;1;1;to
+Q2172530;Electorate of Württemberg;официальный язык;1;1;from
+Q2172530;Electorate of Württemberg;это частный случай понятия;1;2;from
+Q2172530;Electorate of Württemberg;часть света;1;1;from
+Q1945565;County of Zeeland;общая тема категории;1;1;to
+Q1945565;County of Zeeland;гражданство;1;2;to
+Q1945565;County of Zeeland;часть от;1;2;to
+Q1945565;County of Zeeland;названо в честь;1;1;to
+Q1945565;County of Zeeland;основная категория по теме;1;1;from
+Q1945565;County of Zeeland;код Freebase;1;1;from
+Q1945565;County of Zeeland;географические координаты;1;1;from
+Q1945565;County of Zeeland;дата прекращения существования;1;1;from
+Q1945565;County of Zeeland;дата основания/создания/возникновения;1;1;from
+Q1945565;County of Zeeland;состоит из;1;2;from
+Q1945565;County of Zeeland;категория на Викискладе;1;1;from
+Q1945565;County of Zeeland;изображение герба;1;1;from
+Q1945565;County of Zeeland;столица;1;1;from
+Q1945565;County of Zeeland;это частный случай понятия;1;2;from
+Q1945565;County of Zeeland;карта местонахождения;1;1;from
+Q1867844;March of Tuscany;заменил;1;1;to
+Q1867844;March of Tuscany;код Freebase;1;1;from
+Q1867844;March of Tuscany;географические координаты;1;1;from
+Q1867844;March of Tuscany;дата прекращения существования;1;1;from
+Q1867844;March of Tuscany;заменён на;1;1;from
+Q1867844;March of Tuscany;столица;1;1;from
+Q1867844;March of Tuscany;это частный случай понятия;1;1;from
+Q1945565;County of Zeeland;административно-территориальная единица;1;1;to
+Q2162698;Duchy of Bohemia;форма правления;1;1;from
+Q2162698;Duchy of Bohemia;заменил;1;1;to
+Q2162698;Duchy of Bohemia;карта местонахождения;1;2;from
+Q2162698;Duchy of Bohemia;гражданство;1;1;to
+Q2162698;Duchy of Bohemia;государство;1;2;to
+Q2162698;Duchy of Bohemia;общая тема категории;1;1;to
+Q2162698;Duchy of Bohemia;место смерти;1;1;to
+Q2162698;Duchy of Bohemia;место рождения;1;1;to
+Q2162698;Duchy of Bohemia;участник(и);1;2;to
+Q2162698;Duchy of Bohemia;страна происхождения;1;1;to
+Q2162698;Duchy of Bohemia;основная категория по теме;1;1;from
+Q2162698;Duchy of Bohemia;код NKC;1;1;from
+Q2162698;Duchy of Bohemia;дата прекращения существования;1;1;from
+Q2162698;Duchy of Bohemia;дата основания/создания/возникновения;1;1;from
+Q2162698;Duchy of Bohemia;категория на Викискладе;1;1;from
+Q2162698;Duchy of Bohemia;официальная религия;1;1;from
+Q2162698;Duchy of Bohemia;используемый язык;1;1;from
+Q2162698;Duchy of Bohemia;название на языке оригинала;1;3;from
+Q2162698;Duchy of Bohemia;заменён на;1;1;from
+Q2162698;Duchy of Bohemia;изображение герба;1;1;from
+Q2162698;Duchy of Bohemia;изображение флага;1;1;from
+Q2162698;Duchy of Bohemia;столица;1;1;from
+Q2162698;Duchy of Bohemia;это частный случай понятия;1;3;from
+Q2162698;Duchy of Bohemia;часть света;1;1;from
+Q636389;Archbishopric of Magdeburg;код VIAF;1;1;from
+Q636389;Archbishopric of Magdeburg;государство;1;1;from
+Q636389;Archbishopric of Magdeburg;административно-территориальная единица;1;1;from
+Q153529;Duchy of Milan;должность главы государства;1;1;from
+Q153529;Duchy of Milan;участник(и);1;11;to
+Q153529;Duchy of Milan;гражданство;1;127;to
+Q153529;Duchy of Milan;основная категория по теме;1;1;from
+Q153529;Duchy of Milan;идентификатор HDS;1;1;from
+Q153529;Duchy of Milan;код Freebase;1;1;from
+Q153529;Duchy of Milan;географические координаты;1;1;from
+Q153529;Duchy of Milan;дата прекращения существования;1;1;from
+Q153529;Duchy of Milan;дата основания/создания/возникновения;1;1;from
+Q153529;Duchy of Milan;категория на Викискладе;1;1;from
+Q153529;Duchy of Milan;официальная религия;1;1;from
+Q153529;Duchy of Milan;код в энциклопедии «Британника онлайн»;1;1;from
+Q153529;Duchy of Milan;следующее по порядку;1;1;to
+Q153529;Duchy of Milan;код в Большой каталанской энциклопедии;1;1;from
+Q153529;Duchy of Milan;изображение герба;1;1;from
+Q153529;Duchy of Milan;изображение флага;1;1;from
+Q153529;Duchy of Milan;денежная единица;1;2;from
+Q153529;Duchy of Milan;столица;1;1;from
+Q153529;Duchy of Milan;глава государства;1;14;from
+Q153529;Duchy of Milan;это частный случай понятия;1;3;from
+Q153529;Duchy of Milan;карта местонахождения;1;3;from
+Q153529;Duchy of Milan;код GND;1;1;from
+Q153529;Duchy of Milan;код VIAF;1;1;from
+Q153529;Duchy of Milan;подписавшийся;1;1;to
+Q153529;Duchy of Milan;место рождения;1;2;to
+Q153529;Duchy of Milan;юрисдикция распространяется на;1;2;to
+Q153529;Duchy of Milan;названо в честь;1;1;to
+Q154849;Grand Duchy of Tuscany;изображение флага;1;1;from
+Q154849;Grand Duchy of Tuscany;денежная единица;1;2;from
+Q154849;Grand Duchy of Tuscany;официальный язык;1;1;from
+Q154849;Grand Duchy of Tuscany;столица;1;1;from
+Q154849;Grand Duchy of Tuscany;это частный случай понятия;1;5;from
+Q154849;Grand Duchy of Tuscany;часть света;1;1;from
+Q154849;Grand Duchy of Tuscany;код LCNAF;1;1;from
+Q154849;Grand Duchy of Tuscany;карта местонахождения;1;1;from
+Q154849;Grand Duchy of Tuscany;код GND;1;1;from
+Q154849;Grand Duchy of Tuscany;код VIAF;1;1;from
+Q154849;Grand Duchy of Tuscany;код ISNI;1;1;from
+Q154849;Grand Duchy of Tuscany;изображение;1;1;from
+Q154849;Grand Duchy of Tuscany;государство;1;22;to
+Q154849;Grand Duchy of Tuscany;форма правления;1;1;from
+Q153529;Duchy of Milan;общая тема категории;1;2;to
+Q153529;Duchy of Milan;часть от;1;1;to
+Q153529;Duchy of Milan;место смерти;1;2;to
+Q153529;Duchy of Milan;принадлежность;1;2;to
+Q153529;Duchy of Milan;состоит из;1;2;to
+Q153529;Duchy of Milan;государство;1;14;to
+Q153529;Duchy of Milan;страна происхождения;1;5;to
+Q153529;Duchy of Milan;законодательный орган;1;1;from
+Q153529;Duchy of Milan;предыдущее по порядку;1;3;to
+Q622783;Spanish Netherlands;общая тема категории;1;1;to
+Q152420;Guelders;место смерти;1;1;to
+Q153136;Habsburg Monarchy;изображение флага;1;1;from
+Q153136;Habsburg Monarchy;столица;1;1;from
+Q153136;Habsburg Monarchy;это частный случай понятия;1;3;from
+Q153136;Habsburg Monarchy;часть света;1;1;from
+Q153136;Habsburg Monarchy;карта местонахождения;1;1;from
+Q153136;Habsburg Monarchy;государство;1;69;to
+Q153136;Habsburg Monarchy;отношение к религии;1;1;from
+Q153136;Habsburg Monarchy;форма правления;1;1;from
+Q152420;Guelders;является столицей;1;1;to
+Q152420;Guelders;общая тема категории;1;1;to
+Q152420;Guelders;административно-территориальная единица;1;2;to
+Q153529;Duchy of Milan;отношение к религии;1;1;from
+Q152420;Guelders;место рождения;1;3;to
+Q152420;Guelders;основная тема;1;2;to
+Q152420;Guelders;государство;1;4;to
+Q152420;Guelders;названо в честь;1;3;to
+Q152420;Guelders;местонахождение;1;3;to
+Q152420;Guelders;основная категория по теме;1;1;from
+Q152420;Guelders;NWBib ID;1;1;from
+Q152420;Guelders;код Freebase;1;1;from
+Q152420;Guelders;идентификатор Dizionario di Storia;1;1;from
+Q152420;Guelders;дата прекращения существования;1;1;from
+Q153136;Habsburg Monarchy;гимн;1;1;from
+Q153136;Habsburg Monarchy;изображение герба;1;1;from
+Q153136;Habsburg Monarchy;категория на Викискладе;1;1;from
+Q153136;Habsburg Monarchy;дата основания/создания/возникновения;1;1;from
+Q153529;Duchy of Milan;основатель;1;1;from
+Q153136;Habsburg Monarchy;является столицей;1;1;to
+Q153136;Habsburg Monarchy;тематически относится к;1;1;to
+Q153136;Habsburg Monarchy;место жительства;1;1;to
+Q153136;Habsburg Monarchy;часть от;1;2;to
+Q153136;Habsburg Monarchy;категория объединяет темы;1;188;to
+Q153136;Habsburg Monarchy;эра;1;1;to
+Q153136;Habsburg Monarchy;основная тема;1;1;to
+Q153136;Habsburg Monarchy;подписавшийся;1;5;to
+Q153136;Habsburg Monarchy;страна происхождения;1;5;to
+Q153136;Habsburg Monarchy;место рождения;1;6;to
+Q153136;Habsburg Monarchy;место смерти;1;5;to
+Q153136;Habsburg Monarchy;гражданство;1;173;to
+Q153136;Habsburg Monarchy;основатель;1;1;to
+Q153136;Habsburg Monarchy;общая тема категории;1;2;to
+Q153136;Habsburg Monarchy;участник(и);1;24;to
+Q153136;Habsburg Monarchy;принадлежность;1;42;to
+Q153136;Habsburg Monarchy;основная категория по теме;1;1;from
+Q153136;Habsburg Monarchy;код Freebase;1;1;from
+Q153136;Habsburg Monarchy;географические координаты;1;1;from
+Q153136;Habsburg Monarchy;дата прекращения существования;1;1;from
+Q154849;Grand Duchy of Tuscany;имеет границы с;1;2;to
+Q154849;Grand Duchy of Tuscany;изображение герба;1;1;from
+Q154849;Grand Duchy of Tuscany;категория для людей, родившихся здесь;1;1;from
+Q156199;Electorate of Saxony;это частный случай понятия;1;3;from
+Q156199;Electorate of Saxony;категория на Викискладе;1;1;from
+Q156199;Electorate of Saxony;код в Encyclopædia Universalis;1;1;from
+Q156199;Electorate of Saxony;используемый язык;1;1;from
+Q156199;Electorate of Saxony;описывается в источниках;1;1;from
+Q156199;Electorate of Saxony;численность населения;1;1;from
+Q156199;Electorate of Saxony;изображение герба;1;1;from
+Q156199;Electorate of Saxony;изображение флага;1;1;from
+Q156199;Electorate of Saxony;официальный язык;1;1;from
+Q156199;Electorate of Saxony;столица;1;4;from
+Q156199;Electorate of Saxony;глава государства;1;2;from
+Q156199;Electorate of Saxony;карта местонахождения;1;1;from
+Q154849;Grand Duchy of Tuscany;название на языке оригинала;1;1;from
+Q156199;Electorate of Saxony;государство;1;8;to
+Q156199;Electorate of Saxony;следующее по порядку;1;1;to
+Q156199;Electorate of Saxony;предыдущее по порядку;1;1;to
+Q155570;Saxe-Weimar-Eisenach;место жительства;1;1;to
+Q155570;Saxe-Weimar-Eisenach;является столицей;1;1;to
+Q155570;Saxe-Weimar-Eisenach;категория объединяет темы;1;1;to
+Q155570;Saxe-Weimar-Eisenach;основная тема;1;1;to
+Q155570;Saxe-Weimar-Eisenach;общая тема категории;1;1;to
+Q155570;Saxe-Weimar-Eisenach;род;1;10;to
+Q155570;Saxe-Weimar-Eisenach;административно делится на;1;1;to
+Q156199;Electorate of Saxony;участник организации или клуба;1;1;from
+Q156199;Electorate of Saxony;дата основания/создания/возникновения;1;1;from
+Q156199;Electorate of Saxony;дата прекращения существования;1;1;from
+Q156199;Electorate of Saxony;географические координаты;1;1;from
+Q157367;Brandenburg-Prussia;это частный случай понятия;1;3;from
+Q157367;Brandenburg-Prussia;часть света;1;1;from
+Q157367;Brandenburg-Prussia;карта местонахождения;1;1;from
+Q157367;Brandenburg-Prussia;следующее по порядку;1;1;to
+Q157367;Brandenburg-Prussia;предыдущее по порядку;1;1;to
+Q157367;Brandenburg-Prussia;форма правления;1;1;from
+Q156199;Electorate of Saxony;является столицей;1;1;to
+Q156199;Electorate of Saxony;работодатель;1;1;to
+Q156199;Electorate of Saxony;место жительства;1;2;to
+Q156199;Electorate of Saxony;подписавшийся;1;1;to
+Q156199;Electorate of Saxony;тематически относится к;1;1;to
+Q156199;Electorate of Saxony;основная тема;1;2;to
+Q156199;Electorate of Saxony;место рождения;1;10;to
+Q156199;Electorate of Saxony;принадлежность;1;2;to
+Q156199;Electorate of Saxony;общая тема категории;1;1;to
+Q156199;Electorate of Saxony;участник(и);1;7;to
+Q156199;Electorate of Saxony;предположительно одно и то же с;1;1;to
+Q156199;Electorate of Saxony;административно-территориальная единица;1;6;to
+Q156199;Electorate of Saxony;гражданство;1;83;to
+Q156199;Electorate of Saxony;основная категория по теме;1;1;from
+Q156199;Electorate of Saxony;код Freebase;1;1;from
+Q155570;Saxe-Weimar-Eisenach;гражданство;1;13;to
+Q155570;Saxe-Weimar-Eisenach;местонахождение;1;1;to
+Q155570;Saxe-Weimar-Eisenach;основная категория по теме;1;1;from
+Q155570;Saxe-Weimar-Eisenach;код VIAF;1;1;from
+Q155570;Saxe-Weimar-Eisenach;административно-территориальная единица;1;1;to
+Q155570;Saxe-Weimar-Eisenach;форма правления;1;1;from
+Q154849;Grand Duchy of Tuscany;является столицей;1;1;to
+Q154849;Grand Duchy of Tuscany;общая тема категории;1;1;to
+Q154849;Grand Duchy of Tuscany;владельцем является;1;1;to
+Q154849;Grand Duchy of Tuscany;часть от;1;1;to
+Q154849;Grand Duchy of Tuscany;принадлежность;1;1;to
+Q154849;Grand Duchy of Tuscany;заменён на;1;1;to
+Q154849;Grand Duchy of Tuscany;административно-территориальная единица;1;1;to
+Q154849;Grand Duchy of Tuscany;категория объединяет темы;1;58;to
+Q154849;Grand Duchy of Tuscany;участник(и);1;5;to
+Q154849;Grand Duchy of Tuscany;страна происхождения;1;11;to
+Q154849;Grand Duchy of Tuscany;гражданство;1;284;to
+Q154849;Grand Duchy of Tuscany;галерея на Викискладе;1;1;from
+Q154849;Grand Duchy of Tuscany;основная категория по теме;1;1;from
+Q154849;Grand Duchy of Tuscany;код Freebase;1;1;from
+Q154849;Grand Duchy of Tuscany;географические координаты;1;1;from
+Q154849;Grand Duchy of Tuscany;дата прекращения существования;1;1;from
+Q154849;Grand Duchy of Tuscany;дата основания/создания/возникновения;1;1;from
+Q154849;Grand Duchy of Tuscany;категория на Викискладе;1;1;from
+Q154849;Grand Duchy of Tuscany;идентификатор Ringgold;1;1;from
+Q155570;Saxe-Weimar-Eisenach;государство;1;2;to
+Q155570;Saxe-Weimar-Eisenach;код GND;1;1;from
+Q155570;Saxe-Weimar-Eisenach;категория карт на Викискладе;1;1;from
+Q155570;Saxe-Weimar-Eisenach;описание герба;1;1;from
+Q155570;Saxe-Weimar-Eisenach;код Freebase;1;1;from
+Q155570;Saxe-Weimar-Eisenach;географические координаты;1;1;from
+Q155570;Saxe-Weimar-Eisenach;дата прекращения существования;1;1;from
+Q155570;Saxe-Weimar-Eisenach;дата основания/создания/возникновения;1;2;from
+Q155570;Saxe-Weimar-Eisenach;код для сущности Wolfram Language;1;1;from
+Q155570;Saxe-Weimar-Eisenach;участник организации или клуба;1;1;from
+Q155570;Saxe-Weimar-Eisenach;категория на Викискладе;1;1;from
+Q155570;Saxe-Weimar-Eisenach;код Католической энциклопедии;1;1;from
+Q155570;Saxe-Weimar-Eisenach;площадь;1;1;from
+Q155570;Saxe-Weimar-Eisenach;название на языке оригинала;1;1;from
+Q155570;Saxe-Weimar-Eisenach;код в энциклопедии «Британника онлайн»;1;1;from
+Q155570;Saxe-Weimar-Eisenach;заменил;1;1;from
+Q155570;Saxe-Weimar-Eisenach;описывается в источниках;1;2;from
+Q155570;Saxe-Weimar-Eisenach;менеджер/директор;1;1;from
+Q155570;Saxe-Weimar-Eisenach;изображение герба;1;1;from
+Q155570;Saxe-Weimar-Eisenach;изображение флага;1;1;from
+Q155570;Saxe-Weimar-Eisenach;официальный язык;1;1;from
+Q155570;Saxe-Weimar-Eisenach;столица;1;1;from
+Q155570;Saxe-Weimar-Eisenach;это частный случай понятия;1;4;from
+Q155570;Saxe-Weimar-Eisenach;код LCNAF;1;1;from
+Q155570;Saxe-Weimar-Eisenach;карта местонахождения;1;1;from
+Q152420;Guelders;дата основания/создания/возникновения;1;1;from
+Q152420;Guelders;код в Итальянской энциклопедии;1;1;from
+Q152420;Guelders;категория на Викискладе;1;1;from
+Q42585;Kingdom of Bohemia;участвовал в;1;1;from
+Q42585;Kingdom of Bohemia;код темы Quora;1;1;from
+Q42585;Kingdom of Bohemia;LittleSis organisation ID;1;1;from
+Q42585;Kingdom of Bohemia;официальная религия;1;2;from
+Q42585;Kingdom of Bohemia;код BabelNet;1;1;from
+Q42585;Kingdom of Bohemia;владеет;1;1;from
+Q42585;Kingdom of Bohemia;название на языке оригинала;1;3;from
+Q42585;Kingdom of Bohemia;этнохороним;1;3;from
+Q42585;Kingdom of Bohemia;категория для людей, родившихся здесь;1;1;from
+Q42585;Kingdom of Bohemia;заменён на;1;1;to
+Q42585;Kingdom of Bohemia;заменил;1;3;to
+Q42585;Kingdom of Bohemia;изображение герба;1;4;from
+Q47261;Duchy of Bavaria;карта местонахождения;1;1;from
+Q42585;Kingdom of Bohemia;изображение флага;1;3;from
+Q42585;Kingdom of Bohemia;официальный язык;1;1;from
+Q42585;Kingdom of Bohemia;столица;1;1;from
+Q42585;Kingdom of Bohemia;это частный случай понятия;1;4;from
+Q42585;Kingdom of Bohemia;часть света;1;1;from
+Q42585;Kingdom of Bohemia;карта местонахождения;1;1;from
+Q42585;Kingdom of Bohemia;код GND;1;1;from
+Q42585;Kingdom of Bohemia;отношение к религии;1;3;from
+Q42585;Kingdom of Bohemia;административно-территориальная единица;1;13;to
+Q42585;Kingdom of Bohemia;форма правления;1;1;from
+Q42585;Kingdom of Bohemia;часть от;1;3;from
+Q42585;Kingdom of Bohemia;категория на Викискладе;1;1;from
+Q42585;Kingdom of Bohemia;дата основания/создания/возникновения;1;1;from
+Q42585;Kingdom of Bohemia;дата прекращения существования;1;1;from
+Q42585;Kingdom of Bohemia;основная тема;1;1;to
+Q42585;Kingdom of Bohemia;категория объединяет темы;1;1;to
+Q42585;Kingdom of Bohemia;административно делится на;1;1;to
+Q42585;Kingdom of Bohemia;местонахождение;1;1;to
+Q42585;Kingdom of Bohemia;участник(и);1;7;to
+Q42585;Kingdom of Bohemia;общая тема категории;1;1;to
+Q42585;Kingdom of Bohemia;история происходит в месте;1;1;to
+Q42585;Kingdom of Bohemia;имеет границы с;1;2;to
+Q42585;Kingdom of Bohemia;предыдущее по порядку;1;1;to
+Q42585;Kingdom of Bohemia;представляет страну в спорте;1;1;to
+Q42585;Kingdom of Bohemia;страна происхождения;1;6;to
+Q42585;Kingdom of Bohemia;место рождения;1;15;to
+Q42585;Kingdom of Bohemia;государство;1;48;to
+Q42585;Kingdom of Bohemia;место смерти;1;13;to
+Q42585;Kingdom of Bohemia;гражданство;1;102;to
+Q42585;Kingdom of Bohemia;юрисдикция распространяется на;1;3;to
+Q42585;Kingdom of Bohemia;владельцем является;1;1;to
+Q42585;Kingdom of Bohemia;код страны МОК;1;1;from
+Q42585;Kingdom of Bohemia;основная категория по теме;1;1;from
+Q42585;Kingdom of Bohemia;код NKC;1;1;from
+Q42585;Kingdom of Bohemia;код Freebase;1;1;from
+Q34762;Principality of Bayreuth;место жительства;1;1;to
+Q34762;Principality of Bayreuth;основная тема;1;1;to
+Q34762;Principality of Bayreuth;участник(и);1;1;to
+Q22880;Electoral Palatinate;названо в честь;1;1;to
+Q22880;Electoral Palatinate;участник(и);1;3;to
+Q22880;Electoral Palatinate;основная категория по теме;1;1;from
+Q22880;Electoral Palatinate;код NKC;1;1;from
+Q22880;Electoral Palatinate;код Freebase;1;1;from
+Q22880;Electoral Palatinate;географические координаты;1;1;from
+Q22880;Electoral Palatinate;дата прекращения существования;1;1;from
+Q22880;Electoral Palatinate;дата основания/создания/возникновения;1;1;from
+Q22880;Electoral Palatinate;категория на Викискладе;1;1;from
+Q22880;Electoral Palatinate;часть от;1;1;to
+Q22880;Electoral Palatinate;код BNF;1;1;from
+Q22880;Electoral Palatinate;должность главы государства;1;1;from
+Q22880;Electoral Palatinate;описывается в источниках;1;1;from
+Q22880;Electoral Palatinate;изображение герба;1;2;from
+Q22880;Electoral Palatinate;изображение флага;1;2;from
+Q22880;Electoral Palatinate;столица;1;6;from
+Q22880;Electoral Palatinate;это частный случай понятия;1;2;from
+Q22880;Electoral Palatinate;часть света;1;1;from
+Q22880;Electoral Palatinate;карта местонахождения;1;1;from
+Q22880;Electoral Palatinate;код GND;1;1;from
+Q22880;Electoral Palatinate;код VIAF;1;1;from
+Q22880;Electoral Palatinate;государство;1;1;from
+Q22880;Electoral Palatinate;гражданство;1;8;to
+Q22880;Electoral Palatinate;основная тема;1;1;to
+Q34762;Principality of Bayreuth;является столицей;1;1;to
+Q22880;Electoral Palatinate;местонахождение;1;2;to
+Q34762;Principality of Bayreuth;гражданство;1;3;to
+Q34762;Principality of Bayreuth;имеет границы с;1;3;to
+Q34762;Principality of Bayreuth;WorldCat Identities ID;1;1;from
+Q34762;Principality of Bayreuth;код Freebase;1;1;from
+Q34762;Principality of Bayreuth;дата прекращения существования;1;1;from
+Q34762;Principality of Bayreuth;дата основания/создания/возникновения;1;2;from
+Q34762;Principality of Bayreuth;категория на Викискладе;1;1;from
+Q34762;Principality of Bayreuth;описывается в источниках;1;1;from
+Q34762;Principality of Bayreuth;изображение герба;1;1;from
+Q34762;Principality of Bayreuth;столица;1;1;from
+Q34762;Principality of Bayreuth;это частный случай понятия;1;2;from
+Q34762;Principality of Bayreuth;карта местонахождения;1;1;from
+Q34762;Principality of Bayreuth;код GND;1;1;from
+Q34762;Principality of Bayreuth;код VIAF;1;1;from
+Q34762;Principality of Bayreuth;государство;1;2;to
+Q34762;Principality of Bayreuth;административно-территориальная единица;1;14;to
+Q22880;Electoral Palatinate;является столицей;1;3;to
+Q22880;Electoral Palatinate;принадлежность;1;1;to
+Q22880;Electoral Palatinate;общая тема категории;1;1;to
+Q22880;Electoral Palatinate;работодатель;1;1;to
+Q22880;Electoral Palatinate;место рождения;1;3;to
+Q47261;Duchy of Bavaria;код VIAF;1;1;from
+Q47261;Duchy of Bavaria;код LCNAF;1;1;from
+Q152420;Guelders;код в Большой российской энциклопедии онлайн;1;1;from
+Q151095;Duchy of Berg;столица;1;1;from
+Q151095;Duchy of Berg;географические координаты;1;1;from
+Q151095;Duchy of Berg;дата прекращения существования;1;2;from
+Q151095;Duchy of Berg;дата основания/создания/возникновения;1;2;from
+Q151095;Duchy of Berg;категория на Викискладе;1;1;from
+Q151095;Duchy of Berg;категория для людей, связанных с местностью;1;1;from
+Q151095;Duchy of Berg;заменил;1;4;from
+Q151095;Duchy of Berg;описывается в источниках;1;3;from
+Q151095;Duchy of Berg;код в Большой каталанской энциклопедии;1;1;from
+Q151095;Duchy of Berg;изображение герба;1;2;from
+Q151095;Duchy of Berg;официальный язык;1;1;from
+Q151095;Duchy of Berg;это частный случай понятия;1;2;from
+Q47261;Duchy of Bavaria;часть света;1;1;from
+Q151095;Duchy of Berg;часть света;1;1;from
+Q151095;Duchy of Berg;карта местонахождения;1;1;from
+Q151095;Duchy of Berg;государство;1;1;to
+Q151095;Duchy of Berg;форма правления;1;1;from
+Q148499;Margraviate of Brandenburg;основная тема;1;1;to
+Q148499;Margraviate of Brandenburg;занимаемая должность;1;1;to
+Q148499;Margraviate of Brandenburg;заменил;1;1;to
+Q148499;Margraviate of Brandenburg;предыдущее по порядку;1;1;to
+Q148499;Margraviate of Brandenburg;участник(и);1;3;to
+Q148499;Margraviate of Brandenburg;предположительно одно и то же с;1;1;to
+Q151095;Duchy of Berg;код Freebase;1;1;from
+Q151095;Duchy of Berg;основная категория по теме;1;1;from
+Q151095;Duchy of Berg;заменён на;1;4;to
+Q151095;Duchy of Berg;основная тема;1;1;to
+Q152420;Guelders;код BNF;1;1;from
+Q152420;Guelders;название на языке оригинала;1;2;from
+Q152420;Guelders;код в энциклопедии «Британника онлайн»;1;1;from
+Q152420;Guelders;описывается в источниках;1;2;from
+Q152420;Guelders;изображение герба;1;1;from
+Q152420;Guelders;столица;1;1;from
+Q152420;Guelders;это частный случай понятия;1;3;from
+Q152420;Guelders;часть света;1;1;from
+Q152420;Guelders;карта местонахождения;1;1;from
+Q152420;Guelders;код VIAF;1;1;from
+Q152420;Guelders;форма правления;1;1;from
+Q151095;Duchy of Berg;является столицей;1;1;to
+Q151095;Duchy of Berg;общая тема категории;1;1;to
+Q151095;Duchy of Berg;категория объединяет темы;1;1;to
+Q151095;Duchy of Berg;названо в честь;1;3;to
+Q151095;Duchy of Berg;исток водотока;1;1;to
+Q151095;Duchy of Berg;гражданство;1;1;to
+Q151095;Duchy of Berg;административно-территориальная единица;1;2;to
+Q151095;Duchy of Berg;род;1;1;to
+Q151095;Duchy of Berg;место рождения;1;2;to
+Q151095;Duchy of Berg;местонахождение;1;1;to
+Q148499;Margraviate of Brandenburg;подписавшийся;1;1;to
+Q148499;Margraviate of Brandenburg;часть от;1;1;to
+Q148499;Margraviate of Brandenburg;владельцем является;1;1;to
+Q148499;Margraviate of Brandenburg;столица;1;2;from
+Q148499;Margraviate of Brandenburg;часть света;1;1;from
+Q148499;Margraviate of Brandenburg;карта местонахождения;1;1;from
+Q148499;Margraviate of Brandenburg;следующее по порядку;1;1;from
+Q148499;Margraviate of Brandenburg;форма правления;1;1;from
+Q47261;Duchy of Bavaria;общая тема категории;1;1;to
+Q47261;Duchy of Bavaria;состоит из;1;1;to
+Q47261;Duchy of Bavaria;гражданство;1;5;to
+Q47261;Duchy of Bavaria;юрисдикция распространяется на;1;1;to
+Q47261;Duchy of Bavaria;место рождения;1;7;to
+Q47261;Duchy of Bavaria;государство;1;2;to
+Q47261;Duchy of Bavaria;занимаемая должность;1;1;to
+Q47261;Duchy of Bavaria;основная категория по теме;1;1;from
+Q47261;Duchy of Bavaria;код Freebase;1;1;from
+Q47261;Duchy of Bavaria;дата прекращения существования;1;1;from
+Q47261;Duchy of Bavaria;дата основания/создания/возникновения;1;1;from
+Q47261;Duchy of Bavaria;категория на Викискладе;1;1;from
+Q47261;Duchy of Bavaria;должность главы государства;1;1;from
+Q47261;Duchy of Bavaria;изображение герба;1;3;from
+Q47261;Duchy of Bavaria;изображение флага;1;2;from
+Q47261;Duchy of Bavaria;столица;1;1;from
+Q47261;Duchy of Bavaria;это частный случай понятия;1;3;from
+Q148499;Margraviate of Brandenburg;это частный случай понятия;1;4;from
+Q148499;Margraviate of Brandenburg;официальный язык;1;1;from
+Q148499;Margraviate of Brandenburg;государство;1;3;to
+Q148499;Margraviate of Brandenburg;изображение флага;1;2;from
+Q148499;Margraviate of Brandenburg;место смерти;1;3;to
+Q148499;Margraviate of Brandenburg;названо в честь;1;3;to
+Q148499;Margraviate of Brandenburg;общая тема категории;1;1;to
+Q148499;Margraviate of Brandenburg;область деятельности;1;2;to
+Q148499;Margraviate of Brandenburg;страна происхождения;1;1;to
+Q148499;Margraviate of Brandenburg;гражданство;1;13;to
+Q148499;Margraviate of Brandenburg;административно-территориальная единица;1;3;to
+Q148499;Margraviate of Brandenburg;место рождения;1;8;to
+Q148499;Margraviate of Brandenburg;основная категория по теме;1;1;from
+Q148499;Margraviate of Brandenburg;код Freebase;1;1;from
+Q148499;Margraviate of Brandenburg;дата прекращения существования;1;1;from
+Q148499;Margraviate of Brandenburg;дата основания/создания/возникновения;1;1;from
+Q148499;Margraviate of Brandenburg;состоит из;1;1;from
+Q148499;Margraviate of Brandenburg;участник организации или клуба;1;1;from
+Q148499;Margraviate of Brandenburg;произношение (звуковой файл);1;1;from
+Q148499;Margraviate of Brandenburg;код человека EMLO;1;1;from
+Q148499;Margraviate of Brandenburg;название на языке оригинала;1;1;from
+Q148499;Margraviate of Brandenburg;этнохороним;1;3;from
+Q148499;Margraviate of Brandenburg;заменён на;1;1;from
+Q148499;Margraviate of Brandenburg;описывается в источниках;1;1;from
+Q148499;Margraviate of Brandenburg;изображение герба;1;1;from
+Q157367;Brandenburg-Prussia;столица;1;2;from
+Q157367;Brandenburg-Prussia;официальный язык;1;1;from
+Q157367;Brandenburg-Prussia;изображение флага;1;1;from
+Q529605;Electorate of Hesse;географические координаты;1;1;from
+Q541169;Saxe-Zeitz;код VIAF;1;1;from
+Q541169;Saxe-Zeitz;изображение;1;1;from
+Q529605;Electorate of Hesse;общая тема категории;1;1;to
+Q529605;Electorate of Hesse;заменил;1;1;to
+Q529605;Electorate of Hesse;категория объединяет темы;1;4;to
+Q529605;Electorate of Hesse;место рождения;1;1;to
+Q529605;Electorate of Hesse;государство;1;1;to
+Q529605;Electorate of Hesse;гражданство;1;11;to
+Q529605;Electorate of Hesse;основная категория по теме;1;1;from
+Q529605;Electorate of Hesse;код Freebase;1;1;from
+Q529605;Electorate of Hesse;дата прекращения существования;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;географические координаты;1;1;from
+Q529605;Electorate of Hesse;дата основания/создания/возникновения;1;1;from
+Q529605;Electorate of Hesse;заменён на;1;1;from
+Q529605;Electorate of Hesse;описывается в источниках;1;1;from
+Q529605;Electorate of Hesse;это частный случай понятия;1;2;from
+Q529605;Electorate of Hesse;следующее по порядку;1;1;to
+Q529605;Electorate of Hesse;предыдущее по порядку;1;1;to
+Q529605;Electorate of Hesse;административно делится на;1;1;to
+Q529605;Electorate of Hesse;административно-территориальная единица;1;1;to
+Q477038;Gemen;место рождения;1;1;to
+Q477038;Gemen;NWBib ID;1;1;from
+Q541169;Saxe-Zeitz;код GND;1;1;from
+Q541169;Saxe-Zeitz;это частный случай понятия;1;2;from
+Q541169;Saxe-Zeitz;описывается в источниках;1;1;from
+Q541169;Saxe-Zeitz;категория на Викискладе;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;дата прекращения существования;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;дата основания/создания/возникновения;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;категория на Викискладе;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;код в Большой каталанской энциклопедии;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;изображение герба;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;официальный язык;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;столица;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;это частный случай понятия;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;часть света;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;код LCNAF;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;карта местонахождения;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;код GND;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;код VIAF;1;2;from
+Q556263;Duchy of Brunswick-Lüneburg;следующее по порядку;1;1;to
+Q556263;Duchy of Brunswick-Lüneburg;предыдущее по порядку;1;1;to
+Q556263;Duchy of Brunswick-Lüneburg;административно-территориальная единица;1;2;to
+Q556263;Duchy of Brunswick-Lüneburg;форма правления;1;1;from
+Q541169;Saxe-Zeitz;гражданство;1;1;to
+Q541169;Saxe-Zeitz;код Freebase;1;1;from
+Q541169;Saxe-Zeitz;дата прекращения существования;1;1;from
+Q541169;Saxe-Zeitz;дата основания/создания/возникновения;1;1;from
+Q477038;Gemen;код Freebase;1;1;from
+Q477038;Gemen;это частный случай понятия;1;2;from
+Q477038;Gemen;код GND;1;1;from
+Q319376;Hanau-Münzenberg;это частный случай понятия;1;2;from
+Q319376;Hanau-Münzenberg;код VIAF;1;1;from
+Q284667;Electorate of Mainz;владельцем является;1;1;to
+Q284667;Electorate of Mainz;категория объединяет темы;1;2;to
+Q284667;Electorate of Mainz;состоит из;1;1;to
+Q284667;Electorate of Mainz;административно-территориальная единица;1;1;to
+Q284667;Electorate of Mainz;гражданство;1;3;to
+Q284667;Electorate of Mainz;заказчик произведения;1;1;to
+Q284667;Electorate of Mainz;епархия;1;6;to
+Q284667;Electorate of Mainz;предположительно одно и то же с;1;1;to
+Q284667;Electorate of Mainz;участник(и);1;1;to
+Q284667;Electorate of Mainz;место рождения;1;1;to
+Q284667;Electorate of Mainz;общая тема категории;1;2;to
+Q284667;Electorate of Mainz;основная категория по теме;1;1;from
+Q284667;Electorate of Mainz;официальный сайт;1;1;from
+Q284667;Electorate of Mainz;категория карт на Викискладе;1;1;from
+Q284667;Electorate of Mainz;код Freebase;1;1;from
+Q284667;Electorate of Mainz;дата прекращения существования;1;1;from
+Q284667;Electorate of Mainz;дата основания/создания/возникновения;1;1;from
+Q284667;Electorate of Mainz;категория на Викискладе;1;1;from
+Q284667;Electorate of Mainz;код в Encyclopædia Universalis;1;1;from
+Q284667;Electorate of Mainz;официальная религия;1;1;from
+Q319376;Hanau-Münzenberg;код LCNAF;1;1;from
+Q319376;Hanau-Münzenberg;столица;1;1;from
+Q477038;Gemen;код VIAF;1;1;from
+Q319376;Hanau-Münzenberg;изображение герба;1;1;from
+Q457468;County of Rietberg;официальный сайт;1;1;from
+Q457468;County of Rietberg;NWBib ID;1;1;from
+Q457468;County of Rietberg;код Freebase;1;1;from
+Q457468;County of Rietberg;географические координаты;1;1;from
+Q457468;County of Rietberg;дата прекращения существования;1;1;from
+Q457468;County of Rietberg;дата основания/создания/возникновения;1;1;from
+Q457468;County of Rietberg;категория на Викискладе;1;1;from
+Q457468;County of Rietberg;код CERL;1;1;from
+Q457468;County of Rietberg;это частный случай понятия;1;1;from
+Q457468;County of Rietberg;код GND;1;1;from
+Q457468;County of Rietberg;код VIAF;1;2;from
+Q457468;County of Rietberg;государство;1;1;from
+Q457468;County of Rietberg;административно-территориальная единица;1;1;from
+Q339952;Principality of Orange-Nassau;дата прекращения существования;1;1;from
+Q339952;Principality of Orange-Nassau;дата основания/создания/возникновения;1;1;from
+Q339952;Principality of Orange-Nassau;столица;1;1;from
+Q339952;Principality of Orange-Nassau;это частный случай понятия;1;2;from
+Q339952;Principality of Orange-Nassau;часть света;1;1;from
+Q319376;Hanau-Münzenberg;общая тема категории;1;1;to
+Q319376;Hanau-Münzenberg;гражданство;1;1;to
+Q319376;Hanau-Münzenberg;основная категория по теме;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;дата начала;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;идентификатор Dizionario di Storia;1;1;from
+Q284667;Electorate of Mainz;название на языке оригинала;1;1;from
+Q622783;Spanish Netherlands;предыдущее по порядку;1;1;from
+Q622783;Spanish Netherlands;изображение герба;1;1;from
+Q622783;Spanish Netherlands;изображение флага;1;1;from
+Q622783;Spanish Netherlands;денежная единица;1;1;from
+Q622783;Spanish Netherlands;столица;1;2;from
+Q622783;Spanish Netherlands;это частный случай понятия;1;2;from
+Q622783;Spanish Netherlands;часть света;1;1;from
+Q622783;Spanish Netherlands;карта местонахождения;1;1;from
+Q622783;Spanish Netherlands;код VIAF;1;1;from
+Q622783;Spanish Netherlands;код ISNI;1;1;from
+Q622783;Spanish Netherlands;государство;1;5;to
+Q622783;Spanish Netherlands;отношение к религии;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;код Freebase;1;1;from
+Q622783;Spanish Netherlands;форма правления;1;1;from
+Q571653;Principality of Göttingen;является столицей;1;1;to
+Q571653;Principality of Göttingen;государство;1;1;to
+Q571653;Principality of Göttingen;код Freebase;1;1;from
+Q571653;Principality of Göttingen;дата прекращения существования;1;1;from
+Q571653;Principality of Göttingen;дата основания/создания/возникновения;1;1;from
+Q571653;Principality of Göttingen;изображение герба;1;1;from
+Q571653;Principality of Göttingen;столица;1;1;from
+Q571653;Principality of Göttingen;это частный случай понятия;1;2;from
+Q571653;Principality of Göttingen;код GND;1;1;from
+Q622783;Spanish Netherlands;заменил;1;1;to
+Q622783;Spanish Netherlands;заменён на;1;1;to
+Q622783;Spanish Netherlands;код в энциклопедии «Британника онлайн»;1;1;from
+Q622783;Spanish Netherlands;категория для людей, родившихся здесь;1;1;from
+Q622783;Spanish Netherlands;страна происхождения;1;1;to
+Q622783;Spanish Netherlands;юрисдикция распространяется на;1;2;to
+Q622783;Spanish Netherlands;категория объединяет темы;1;2;to
+Q622783;Spanish Netherlands;состоит из;1;1;to
+Q622783;Spanish Netherlands;местонахождение;1;2;to
+Q622783;Spanish Netherlands;место активности;1;1;to
+Q622783;Spanish Netherlands;место рождения;1;6;to
+Q622783;Spanish Netherlands;административно-территориальная единица;1;2;to
+Q622783;Spanish Netherlands;гражданство;1;61;to
+Q622783;Spanish Netherlands;следующее по порядку;1;1;to
+Q622783;Spanish Netherlands;является столицей;1;1;to
+Q622783;Spanish Netherlands;основная категория по теме;1;1;from
+Q622783;Spanish Netherlands;находится в пределах природно-географического объекта;1;1;from
+Q622783;Spanish Netherlands;код NKC;1;1;from
+Q622783;Spanish Netherlands;код Freebase;1;1;from
+Q622783;Spanish Netherlands;война/сражение;1;1;from
+Q622783;Spanish Netherlands;дата прекращения существования;1;1;from
+Q622783;Spanish Netherlands;дата основания/создания/возникновения;1;1;from
+Q622783;Spanish Netherlands;код EMLO location;1;1;from
+Q622783;Spanish Netherlands;категория на Викискладе;1;1;from
+Q622783;Spanish Netherlands;используемый язык;1;1;from
+Q571653;Principality of Göttingen;код VIAF;1;1;from
+Q565812;Principality of Calenberg;является столицей;1;1;to
+Q565812;Principality of Calenberg;код Freebase;1;1;from
+Q561334;Prince-Bishopric of Bamberg;код VIAF;1;1;from
+Q560771;Margraviate of Baden-Baden;общая тема категории;1;1;to
+Q560771;Margraviate of Baden-Baden;состоит из;1;1;to
+Q560771;Margraviate of Baden-Baden;находится в пределах природно-географического объекта;1;1;from
+Q560771;Margraviate of Baden-Baden;дата окончания;1;1;from
+Q560771;Margraviate of Baden-Baden;дата начала;1;1;from
+Q560771;Margraviate of Baden-Baden;это частный случай понятия;1;2;from
+Q560771;Margraviate of Baden-Baden;карта местонахождения;1;1;from
+Q560771;Margraviate of Baden-Baden;государство;1;1;from
+Q560771;Margraviate of Baden-Baden;форма правления;1;1;from
+Q556263;Duchy of Brunswick-Lüneburg;является столицей;1;1;to
+Q556263;Duchy of Brunswick-Lüneburg;общая тема категории;1;1;to
+Q556263;Duchy of Brunswick-Lüneburg;основная тема;1;1;to
+Q556263;Duchy of Brunswick-Lüneburg;названо в честь;1;4;to
+Q556263;Duchy of Brunswick-Lüneburg;место рождения;1;1;to
+Q556263;Duchy of Brunswick-Lüneburg;место публикации;1;2;to
+Q556263;Duchy of Brunswick-Lüneburg;государство;1;2;to
+Q556263;Duchy of Brunswick-Lüneburg;юрисдикция распространяется на;1;2;to
+Q556263;Duchy of Brunswick-Lüneburg;страна происхождения;1;1;to
+Q556263;Duchy of Brunswick-Lüneburg;участник(и);1;2;to
+Q556263;Duchy of Brunswick-Lüneburg;гражданство;1;9;to
+Q556263;Duchy of Brunswick-Lüneburg;основная категория по теме;1;1;from
+Q560771;Margraviate of Baden-Baden;гражданство;1;1;to
+Q561334;Prince-Bishopric of Bamberg;код GND;1;1;from
+Q565812;Principality of Calenberg;дата прекращения существования;1;1;from
+Q561334;Prince-Bishopric of Bamberg;код LCNAF;1;1;from
+Q565812;Principality of Calenberg;дата основания/создания/возникновения;1;1;from
+Q565812;Principality of Calenberg;участник организации или клуба;1;1;from
+Q565812;Principality of Calenberg;столица;1;1;from
+Q565812;Principality of Calenberg;это частный случай понятия;1;2;from
+Q565812;Principality of Calenberg;код LCNAF;1;1;from
+Q565812;Principality of Calenberg;код GND;1;1;from
+Q565812;Principality of Calenberg;код VIAF;1;1;from
+Q565812;Principality of Calenberg;изображение;1;1;from
+Q565812;Principality of Calenberg;административно-территориальная единица;1;1;to
+Q561334;Prince-Bishopric of Bamberg;состоит из;1;1;to
+Q561334;Prince-Bishopric of Bamberg;административно-территориальная единица;1;1;to
+Q561334;Prince-Bishopric of Bamberg;гражданство;1;1;to
+Q561334;Prince-Bishopric of Bamberg;участник(и);1;1;to
+Q561334;Prince-Bishopric of Bamberg;код Freebase;1;1;from
+Q561334;Prince-Bishopric of Bamberg;географические координаты;1;1;from
+Q561334;Prince-Bishopric of Bamberg;дата прекращения существования;1;1;from
+Q561334;Prince-Bishopric of Bamberg;дата основания/создания/возникновения;1;1;from
+Q561334;Prince-Bishopric of Bamberg;категория на Викискладе;1;1;from
+Q561334;Prince-Bishopric of Bamberg;описывается в источниках;1;1;from
+Q561334;Prince-Bishopric of Bamberg;код в Большой каталанской энциклопедии;1;1;from
+Q561334;Prince-Bishopric of Bamberg;это частный случай понятия;1;2;from
+Q284667;Electorate of Mainz;категория для людей, связанных с местностью;1;1;from
+Q284667;Electorate of Mainz;официальное название;1;1;from
+Q157367;Brandenburg-Prussia;изображение герба;1;2;from
+Q159856;Duchy of Brabant;код Freebase;1;1;from
+Q159856;Duchy of Brabant;место смерти;1;4;to
+Q159856;Duchy of Brabant;место изготовления;1;2;to
+Q159856;Duchy of Brabant;страна происхождения;1;3;to
+Q159856;Duchy of Brabant;основная тема;1;3;to
+Q159856;Duchy of Brabant;участник(и);1;1;to
+Q159856;Duchy of Brabant;место рождения;1;14;to
+Q159856;Duchy of Brabant;категория объединяет темы;1;2;to
+Q159856;Duchy of Brabant;гражданство;1;21;to
+Q159856;Duchy of Brabant;основная категория по теме;1;1;from
+Q159856;Duchy of Brabant;French Vikidia ID;1;1;from
+Q159856;Duchy of Brabant;дата прекращения существования;1;1;from
+Q164092;Duchy of Saxony;место смерти;1;1;to
+Q159856;Duchy of Brabant;дата основания/создания/возникновения;1;1;from
+Q159856;Duchy of Brabant;идентификатор местоположения ArchINFORM;1;1;from
+Q159856;Duchy of Brabant;код EMLO location;1;1;from
+Q159856;Duchy of Brabant;категория на Викискладе;1;1;from
+Q159856;Duchy of Brabant;код темы Quora;1;1;from
+Q159856;Duchy of Brabant;код в Encyclopædia Universalis;1;1;from
+Q159856;Duchy of Brabant;этнохороним;1;2;from
+Q159856;Duchy of Brabant;категория для людей, родившихся здесь;1;1;from
+Q159856;Duchy of Brabant;заменён на;1;1;from
+Q159856;Duchy of Brabant;описывается в источниках;1;3;from
+Q159856;Duchy of Brabant;место активности;1;2;to
+Q159856;Duchy of Brabant;общая тема категории;1;1;to
+Q159856;Duchy of Brabant;названо в честь;1;3;to
+Q159856;Duchy of Brabant;заменил;1;1;to
+Q164092;Duchy of Saxony;государство;1;1;to
+Q164092;Duchy of Saxony;участник(и);1;2;to
+Q164092;Duchy of Saxony;предыдущее по порядку;1;4;to
+Q164092;Duchy of Saxony;часть от;1;1;to
+Q164092;Duchy of Saxony;место рождения;1;7;to
+Q164092;Duchy of Saxony;гражданство;1;4;to
+Q164092;Duchy of Saxony;основная категория по теме;1;1;from
+Q164092;Duchy of Saxony;код Freebase;1;1;from
+Q164092;Duchy of Saxony;дата прекращения существования;1;1;from
+Q164092;Duchy of Saxony;дата основания/создания/возникновения;1;1;from
+Q164092;Duchy of Saxony;участник организации или клуба;1;1;from
+Q164092;Duchy of Saxony;категория на Викискладе;1;1;from
+Q164092;Duchy of Saxony;описывается в источниках;1;1;from
+Q164092;Duchy of Saxony;изображение герба;1;1;from
+Q164092;Duchy of Saxony;официальный язык;1;1;from
+Q164092;Duchy of Saxony;это частный случай понятия;1;10;from
+Q164092;Duchy of Saxony;код LCNAF;1;1;from
+Q164092;Duchy of Saxony;карта местонахождения;1;2;from
+Q164092;Duchy of Saxony;код GND;1;1;from
+Q164092;Duchy of Saxony;код VIAF;1;1;from
+Q164092;Duchy of Saxony;следующее по порядку;1;4;from
+Q159856;Duchy of Brabant;код в Большой каталанской энциклопедии;1;1;from
+Q159856;Duchy of Brabant;изображение герба;1;1;from
+Q159856;Duchy of Brabant;изображение флага;1;1;from
+Q158151;Duchy of Saxe-Altenburg;категория на Викискладе;1;1;from
+Q158151;Duchy of Saxe-Altenburg;код в энциклопедии «Британника онлайн»;1;1;from
+Q158151;Duchy of Saxe-Altenburg;описывается в источниках;1;5;from
+Q158151;Duchy of Saxe-Altenburg;изображение герба;1;1;from
+Q158151;Duchy of Saxe-Altenburg;изображение флага;1;1;from
+Q158151;Duchy of Saxe-Altenburg;столица;1;1;from
+Q158151;Duchy of Saxe-Altenburg;это частный случай понятия;1;2;from
+Q158151;Duchy of Saxe-Altenburg;часть света;1;1;from
+Q158151;Duchy of Saxe-Altenburg;карта местонахождения;1;1;from
+Q158151;Duchy of Saxe-Altenburg;административно-территориальная единица;1;3;to
+Q157367;Brandenburg-Prussia;место жительства;1;1;to
+Q157367;Brandenburg-Prussia;является столицей;1;1;to
+Q157367;Brandenburg-Prussia;административно-территориальная единица;1;1;to
+Q157367;Brandenburg-Prussia;изображённый объект;1;1;to
+Q157367;Brandenburg-Prussia;общая тема категории;1;1;to
+Q157367;Brandenburg-Prussia;участник(и);1;3;to
+Q157367;Brandenburg-Prussia;гражданство;1;5;to
+Q157367;Brandenburg-Prussia;основная категория по теме;1;1;from
+Q157367;Brandenburg-Prussia;код Freebase;1;1;from
+Q157367;Brandenburg-Prussia;географические координаты;1;1;from
+Q157367;Brandenburg-Prussia;дата прекращения существования;1;1;from
+Q157367;Brandenburg-Prussia;дата основания/создания/возникновения;1;1;from
+Q158151;Duchy of Saxe-Altenburg;код Католической энциклопедии;1;1;from
+Q158151;Duchy of Saxe-Altenburg;участник организации или клуба;1;1;from
+Q159856;Duchy of Brabant;официальный язык;1;1;from
+Q158151;Duchy of Saxe-Altenburg;дата основания/создания/возникновения;1;1;from
+Q159856;Duchy of Brabant;это частный случай понятия;1;4;from
+Q159856;Duchy of Brabant;часть света;1;1;from
+Q159856;Duchy of Brabant;код LCNAF;1;1;from
+Q159856;Duchy of Brabant;карта местонахождения;1;1;from
+Q159856;Duchy of Brabant;код VIAF;1;1;from
+Q159856;Duchy of Brabant;государство;1;3;to
+Q159856;Duchy of Brabant;предыдущее по порядку;1;1;from
+Q159856;Duchy of Brabant;административно-территориальная единица;1;4;to
+Q158151;Duchy of Saxe-Altenburg;гражданство;1;1;to
+Q158151;Duchy of Saxe-Altenburg;является столицей;1;1;to
+Q158151;Duchy of Saxe-Altenburg;общая тема категории;1;1;to
+Q158151;Duchy of Saxe-Altenburg;категория объединяет темы;1;1;to
+Q158151;Duchy of Saxe-Altenburg;государство;1;1;to
+Q158151;Duchy of Saxe-Altenburg;происходит из;1;1;to
+Q158151;Duchy of Saxe-Altenburg;основная тема;1;4;to
+Q158151;Duchy of Saxe-Altenburg;род;1;5;to
+Q158151;Duchy of Saxe-Altenburg;административно делится на;1;1;to
+Q158151;Duchy of Saxe-Altenburg;основная категория по теме;1;1;from
+Q158151;Duchy of Saxe-Altenburg;категория карт на Викискладе;1;1;from
+Q158151;Duchy of Saxe-Altenburg;код Freebase;1;1;from
+Q158151;Duchy of Saxe-Altenburg;дата прекращения существования;1;1;from
+Q164092;Duchy of Saxony;занимаемая должность;1;1;to
+Q164092;Duchy of Saxony;общая тема категории;1;1;to
+Q284667;Electorate of Mainz;код в Большой каталанской энциклопедии;1;1;from
+Q256961;Electorate of Bavaria;часть света;1;1;from
+Q256961;Electorate of Bavaria;основная категория по теме;1;1;from
+Q256961;Electorate of Bavaria;код Freebase;1;1;from
+Q256961;Electorate of Bavaria;дата прекращения существования;1;1;from
+Q256961;Electorate of Bavaria;дата основания/создания/возникновения;1;1;from
+Q256961;Electorate of Bavaria;архивы хранятся в;1;1;from
+Q256961;Electorate of Bavaria;изображение герба;1;2;from
+Q256961;Electorate of Bavaria;изображение флага;1;1;from
+Q256961;Electorate of Bavaria;официальный язык;1;1;from
+Q256961;Electorate of Bavaria;столица;1;1;from
+Q256961;Electorate of Bavaria;это частный случай понятия;1;1;from
+Q256961;Electorate of Bavaria;карта местонахождения;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;форма правления;1;1;from
+Q256961;Electorate of Bavaria;следующее по порядку;1;1;from
+Q170180;Margraviate of Meissen;общая тема категории;1;2;to
+Q170180;Margraviate of Meissen;основная тема;1;1;to
+Q170180;Margraviate of Meissen;участник(и);1;1;to
+Q170180;Margraviate of Meissen;основная категория по теме;1;1;from
+Q170180;Margraviate of Meissen;WorldCat Identities ID;1;1;from
+Q170180;Margraviate of Meissen;код NKC;1;1;from
+Q170180;Margraviate of Meissen;код Freebase;1;1;from
+Q170180;Margraviate of Meissen;географические координаты;1;1;from
+Q170180;Margraviate of Meissen;дата прекращения существования;1;1;from
+Q256961;Electorate of Bavaria;гражданство;1;13;to
+Q256961;Electorate of Bavaria;государство;1;14;to
+Q256961;Electorate of Bavaria;участник(и);1;4;to
+Q256961;Electorate of Bavaria;предыдущее по порядку;1;1;to
+Q284667;Electorate of Mainz;изображение герба;1;1;from
+Q284667;Electorate of Mainz;изображение флага;1;1;from
+Q284667;Electorate of Mainz;столица;1;1;from
+Q284667;Electorate of Mainz;это частный случай понятия;1;3;from
+Q284667;Electorate of Mainz;часть света;1;1;from
+Q284667;Electorate of Mainz;карта местонахождения;1;1;from
+Q284667;Electorate of Mainz;код VIAF;1;1;from
+Q284667;Electorate of Mainz;государство;1;1;from
+Q283627;Margraviate of Austria;гражданство;1;1;to
+Q283627;Margraviate of Austria;код Freebase;1;1;from
+Q283627;Margraviate of Austria;идентификатор Dizionario di Storia;1;1;from
+Q283627;Margraviate of Austria;дата прекращения существования;1;1;from
+Q283627;Margraviate of Austria;дата основания/создания/возникновения;1;1;from
+Q283627;Margraviate of Austria;официальный язык;1;1;from
+Q283627;Margraviate of Austria;столица;1;1;from
+Q283627;Margraviate of Austria;это частный случай понятия;1;3;from
+Q283627;Margraviate of Austria;часть света;1;1;from
+Q256961;Electorate of Bavaria;подписавшийся;1;1;to
+Q256961;Electorate of Bavaria;управляемая организация;1;1;to
+Q256961;Electorate of Bavaria;общая тема категории;1;1;to
+Q256961;Electorate of Bavaria;юрисдикция распространяется на;1;1;to
+Q170180;Margraviate of Meissen;дата основания/создания/возникновения;1;1;from
+Q170180;Margraviate of Meissen;категория на Викискладе;1;1;from
+Q170180;Margraviate of Meissen;код BabelNet;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;основная категория по теме;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;географические координаты;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;дата прекращения существования;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;дата основания/создания/возникновения;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;участник организации или клуба;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;категория на Викискладе;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;должность главы государства;1;2;from
+Q168651;Landgraviate of Hesse-Kassel;код в энциклопедии «Британника онлайн»;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;заменил;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;код в Большой каталанской энциклопедии;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;численность населения;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;изображение герба;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;изображение флага;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;официальный язык;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;столица;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;это частный случай понятия;1;2;from
+Q168651;Landgraviate of Hesse-Kassel;часть света;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;код LCNAF;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;карта местонахождения;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;код GND;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;код VIAF;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;отношение к религии;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;код Freebase;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;гражданство;1;7;to
+Q170180;Margraviate of Meissen;название на языке оригинала;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;принадлежность;1;3;to
+Q170180;Margraviate of Meissen;описывается в источниках;1;2;from
+Q170180;Margraviate of Meissen;изображение герба;1;1;from
+Q170180;Margraviate of Meissen;изображение флага;1;1;from
+Q170180;Margraviate of Meissen;столица;1;2;from
+Q170180;Margraviate of Meissen;это частный случай понятия;1;1;from
+Q170180;Margraviate of Meissen;часть света;1;1;from
+Q170180;Margraviate of Meissen;карта местонахождения;1;1;from
+Q170180;Margraviate of Meissen;код GND;1;1;from
+Q170180;Margraviate of Meissen;код VIAF;1;1;from
+Q170180;Margraviate of Meissen;государство;1;1;from
+Q170180;Margraviate of Meissen;административно-территориальная единица;1;1;from
+Q170180;Margraviate of Meissen;форма правления;1;1;from
+Q168651;Landgraviate of Hesse-Kassel;является столицей;1;1;to
+Q168651;Landgraviate of Hesse-Kassel;общая тема категории;1;1;to
+Q168651;Landgraviate of Hesse-Kassel;состоит из;1;1;to
+Q168651;Landgraviate of Hesse-Kassel;заменён на;1;2;to
+Q168651;Landgraviate of Hesse-Kassel;род;1;1;to
+Q168651;Landgraviate of Hesse-Kassel;государство;1;3;to
+Q168651;Landgraviate of Hesse-Kassel;административно-территориальная единица;1;1;to
+Q168651;Landgraviate of Hesse-Kassel;место рождения;1;9;to
+Q168651;Landgraviate of Hesse-Kassel;участник(и);1;4;to
+Q58942549;Lower Alsace;географические координаты;1;1;from

@@ -1,0 +1,158 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q7313;Yuan dynasty;форма правления;1;1;from
+Q1433670;Durrani Sadozai;код LCNAF;1;1;from
+Q1277895;Türgesh;используемый язык;1;1;from
+Q1277895;Türgesh;дата основания/создания/возникновения;1;1;from
+Q1277895;Türgesh;идентификатор Dizionario di Storia;1;1;from
+Q1277895;Türgesh;код Freebase;1;1;from
+Q1277895;Türgesh;основная категория по теме;1;1;from
+Q1277895;Türgesh;часть от;1;5;to
+Q1277895;Türgesh;общая тема категории;1;1;to
+Q1433670;Durrani Sadozai;это частный случай понятия;1;1;from
+Q1277895;Türgesh;столица;1;1;from
+Q1433670;Durrani Sadozai;код в энциклопедии «Британника онлайн»;1;1;from
+Q1433670;Durrani Sadozai;код BNF;1;1;from
+Q1433670;Durrani Sadozai;код в Иранике;1;1;from
+Q1433670;Durrani Sadozai;код Freebase;1;1;from
+Q1433670;Durrani Sadozai;род;1;3;to
+Q1433670;Durrani Sadozai;участник организации или клуба;1;1;to
+Q2090473;Khazar Khaganate;код VIAF;1;1;from
+Q1277895;Türgesh;название на языке оригинала;1;1;from
+Q1277895;Türgesh;это частный случай понятия;1;3;from
+Q1059046;Merkit people;карта местонахождения;1;1;from
+Q1122052;Cumania;это частный случай понятия;1;2;from
+Q1059046;Merkit people;часть света;1;1;from
+Q1059046;Merkit people;это частный случай понятия;1;1;from
+Q1059046;Merkit people;код в энциклопедии «Британника онлайн»;1;1;from
+Q1059046;Merkit people;дата прекращения существования;1;1;from
+Q1059046;Merkit people;код Freebase;1;1;from
+Q1059046;Merkit people;род;1;5;to
+Q1122052;Cumania;карта местонахождения;1;1;from
+Q1122052;Cumania;изображение герба;1;1;from
+Q1277895;Türgesh;карта местонахождения;1;1;from
+Q1122052;Cumania;код в Большой российской энциклопедии онлайн;1;1;from
+Q1122052;Cumania;категория на Викискладе;1;1;from
+Q1122052;Cumania;код в Башкирской энциклопедии (русская версия);1;1;from
+Q1122052;Cumania;дата основания/создания/возникновения;1;1;from
+Q1122052;Cumania;дата прекращения существования;1;1;from
+Q1122052;Cumania;код Freebase;1;1;from
+Q1122052;Cumania;место рождения;1;2;to
+Q2090473;Khazar Khaganate;карта местонахождения;1;1;from
+Q2090473;Khazar Khaganate;код LCNAF;1;1;from
+Q2090473;Khazar Khaganate;это частный случай понятия;1;4;from
+Q15146034;Turkic Khaganate;дата начала;1;1;from
+Q15146034;Turkic Khaganate;код TGN;1;1;from
+Q15146034;Turkic Khaganate;название на языке оригинала;1;1;from
+Q15146034;Turkic Khaganate;код в Большой российской энциклопедии онлайн;1;1;from
+Q15146034;Turkic Khaganate;категория на Викискладе;1;1;from
+Q15146034;Turkic Khaganate;код в Башкирской энциклопедии (русская версия);1;1;from
+Q15146034;Turkic Khaganate;дата основания/создания/возникновения;1;1;from
+Q15146034;Turkic Khaganate;дата прекращения существования;1;1;from
+Q15146034;Turkic Khaganate;дата окончания;1;1;from
+Q2090473;Khazar Khaganate;столица;1;2;from
+Q15146034;Turkic Khaganate;основная категория по теме;1;1;from
+Q15146034;Turkic Khaganate;государство;1;1;to
+Q15146034;Turkic Khaganate;место смерти;1;5;to
+Q15146034;Turkic Khaganate;общая тема категории;1;1;to
+Q16259603;Suibu;это частный случай понятия;1;1;from
+Q17059505;Ghafiri;это частный случай понятия;1;1;from
+Q17059505;Ghafiri;код в энциклопедии «Британника онлайн»;1;1;from
+Q15146034;Turkic Khaganate;официальный язык;1;1;from
+Q15146034;Turkic Khaganate;это частный случай понятия;1;2;from
+Q15146034;Turkic Khaganate;часть света;1;1;from
+Q2090473;Khazar Khaganate;категория объединяет темы;1;1;to
+Q2090473;Khazar Khaganate;официальный язык;1;1;from
+Q2090473;Khazar Khaganate;описывается в источниках;1;1;from
+Q2090473;Khazar Khaganate;код Еврейской энциклопедии;1;1;from
+Q2090473;Khazar Khaganate;код в Большой российской энциклопедии онлайн;1;1;from
+Q2090473;Khazar Khaganate;постоянный дубликат;1;1;to
+Q2090473;Khazar Khaganate;категория на Викискладе;1;1;from
+Q2090473;Khazar Khaganate;код в Башкирской энциклопедии (русская версия);1;1;from
+Q2090473;Khazar Khaganate;дата основания/создания/возникновения;1;1;from
+Q2090473;Khazar Khaganate;дата прекращения существования;1;1;from
+Q2090473;Khazar Khaganate;основная категория по теме;1;1;from
+Q2090473;Khazar Khaganate;государство;1;2;to
+Q2090473;Khazar Khaganate;место рождения;1;1;to
+Q2090473;Khazar Khaganate;гражданство;1;1;to
+Q2090473;Khazar Khaganate;является столицей;1;2;to
+Q2090473;Khazar Khaganate;общая тема категории;1;1;to
+Q1059046;Merkit people;код LCNAF;1;1;from
+Q1059046;Merkit people;законодательный орган;1;1;from
+Q7313;Yuan dynasty;административно делится на;1;16;from
+Q7313;Yuan dynasty;код Freebase;1;1;from
+Q7313;Yuan dynasty;категория на Викискладе;1;1;from
+Q7313;Yuan dynasty;тема JSTOR;1;1;from
+Q7313;Yuan dynasty;CHGIS ID;1;2;from
+Q7313;Yuan dynasty;дата основания/создания/возникновения;1;1;from
+Q7313;Yuan dynasty;дата прекращения существования;1;1;from
+Q7313;Yuan dynasty;географические координаты;1;1;from
+Q7313;Yuan dynasty;идентификатор Dizionario di Storia;1;1;from
+Q7313;Yuan dynasty;основная категория по теме;1;1;from
+Q7313;Yuan dynasty;код темы Quora;1;1;from
+Q7313;Yuan dynasty;гражданство;1;19461;to
+Q7313;Yuan dynasty;административно-территориальная единица;1;22;to
+Q7313;Yuan dynasty;является столицей;1;1;to
+Q7313;Yuan dynasty;принадлежность;1;3;to
+Q7313;Yuan dynasty;место смерти;1;1;to
+Q7313;Yuan dynasty;эра;1;17;to
+Q7313;Yuan dynasty;место рождения;1;7;to
+Q7313;Yuan dynasty;часть от;1;1;from
+Q7313;Yuan dynasty;код в Encyclopædia Universalis;1;3;from
+Q1059046;Merkit people;отношение к религии;1;2;from
+Q7313;Yuan dynasty;часть света;1;1;from
+Q7313;Yuan dynasty;следующее по порядку;1;1;from
+Q7313;Yuan dynasty;государство;1;44;to
+Q7313;Yuan dynasty;изображение;1;1;from
+Q7313;Yuan dynasty;код VIAF;1;1;from
+Q7313;Yuan dynasty;код GND;1;1;from
+Q7313;Yuan dynasty;карта местонахождения;1;1;from
+Q7313;Yuan dynasty;код LCNAF;1;1;from
+Q7313;Yuan dynasty;это частный случай понятия;1;3;from
+Q7313;Yuan dynasty;постоянный дубликат;1;1;to
+Q7313;Yuan dynasty;столица;1;1;from
+Q7313;Yuan dynasty;описывается в источниках;1;2;from
+Q7313;Yuan dynasty;заменил;1;2;to
+Q7313;Yuan dynasty;заменён на;1;2;to
+Q7313;Yuan dynasty;код в энциклопедии «Британника онлайн»;1;2;from
+Q7313;Yuan dynasty;официальное название;1;2;from
+Q7313;Yuan dynasty;не путать с;1;1;from
+Q7313;Yuan dynasty;основная тема;1;5;to
+Q7313;Yuan dynasty;участник(и);1;7;to
+Q7313;Yuan dynasty;страна происхождения;1;7;to
+Q494354;Kara-Khanid Khanate;место рождения;1;1;to
+Q494354;Kara-Khanid Khanate;идентификатор Dizionario di Storia;1;1;from
+Q494354;Kara-Khanid Khanate;код Freebase;1;1;from
+Q494354;Kara-Khanid Khanate;основная категория по теме;1;1;from
+Q494354;Kara-Khanid Khanate;гражданство;1;7;to
+Q494354;Kara-Khanid Khanate;является столицей;1;1;to
+Q494354;Kara-Khanid Khanate;род;1;3;to
+Q494354;Kara-Khanid Khanate;участник(и);1;1;to
+Q494354;Kara-Khanid Khanate;общая тема категории;1;2;to
+Q7313;Yuan dynasty;вызывает;1;1;to
+Q856958;Kutrigurs;это частный случай понятия;1;2;from
+Q856958;Kutrigurs;код в Итальянской энциклопедии онлайн;1;1;from
+Q856958;Kutrigurs;код Freebase;1;1;from
+Q856958;Kutrigurs;основная категория по теме;1;1;from
+Q856958;Kutrigurs;участник(и);1;1;to
+Q856958;Kutrigurs;общая тема категории;1;1;to
+Q1059046;Merkit people;форма правления;1;1;from
+Q494354;Kara-Khanid Khanate;дата прекращения существования;1;1;from
+Q494354;Kara-Khanid Khanate;дата основания/создания/возникновения;1;1;from
+Q494354;Kara-Khanid Khanate;категория на Викискладе;1;1;from
+Q494354;Kara-Khanid Khanate;код в Encyclopædia Universalis;1;1;from
+Q7313;Yuan dynasty;издатель;1;1;to
+Q7313;Yuan dynasty;действие происходит в эпоху;1;1;to
+Q7313;Yuan dynasty;история происходит в месте;1;1;to
+Q7313;Yuan dynasty;общая тема категории;1;1;to
+Q7313;Yuan dynasty;состоит из;1;1;to
+Q7313;Yuan dynasty;предыдущее по порядку;1;1;to
+Q494354;Kara-Khanid Khanate;отношение к религии;1;1;from
+Q494354;Kara-Khanid Khanate;карта местонахождения;1;1;from
+Q494354;Kara-Khanid Khanate;часть света;1;1;from
+Q494354;Kara-Khanid Khanate;это частный случай понятия;1;4;from
+Q494354;Kara-Khanid Khanate;столица;1;1;from
+Q494354;Kara-Khanid Khanate;официальный язык;1;1;from
+Q494354;Kara-Khanid Khanate;изображение флага;1;1;from
+Q494354;Kara-Khanid Khanate;код в энциклопедии «Британника онлайн»;1;1;from
+Q494354;Kara-Khanid Khanate;код в Nomisma.org;1;1;from
+Q48741247;Jemasa;это частный случай понятия;1;1;from

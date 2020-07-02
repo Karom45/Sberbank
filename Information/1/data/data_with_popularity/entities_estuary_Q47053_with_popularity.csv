@@ -1,0 +1,963 @@
+﻿entity;label;popularity
+Q35827;Río de la Plata;151
+Q867460;Long Island Sound;76
+Q213517;Gironde estuary;73
+Q1524840;Western Scheldt;59
+Q1266165;Oosterschelde;51
+Q1974485;Dniester Liman;44
+Q1585393;Haringvliet;35
+Q2619452;Tylihul Estuary;34
+Q2392921;Khadzhibey Estuary;33
+Q697092;Hokianga;32
+Q2731872;Estuary of Bilbao;31
+Q502233;Southampton Water;28
+Q3059075;Thames estuary;27
+Q12068771;Severn Estuary;23
+Q3059074;estuary of the Saint Lawrence River;23
+Q1314643;Lough Foyle;21
+Q3215249;Tuggerah Lake;20
+Q20575022;Mawddach Estuary;18
+Q14935920;Vasse-Wonnerup Estuary;18
+Q2837927;Ortigueira estuary;17
+Q2750104;Shannon Estuary;17
+Q2350307;Port Hacking;17
+Q8843595;Estuário do Espírito Santo;16
+Q5599921;Great Sandy Strait;16
+Q479030;Port Stephens;15
+Q1682481;Lake St. Lucia;15
+Q5419753;Exe Estuary;15
+Q5578622;Gold Coast Broadwater;15
+Q1045001;Carrick Roads;14
+Q3359189;Oyster Harbour;14
+Q8023100;Wilson Inlet;14
+Q74269;Hamoaze;13
+Q22004786;Colne Estuary;13
+Q3889761;Middle Harbour;12
+Q15262475;Nornalup Inlet;12
+Q3059071;Vilaine estuary;12
+Q35439168;Khlong Khao Thalu;12
+Q3059070;Loire estuary;12
+Q1699839;Pittwater;12
+Q1544365;Great Swanport;12
+Q4778433;Anzali Lagoon;11
+Q1149898;Alligator Rivers;11
+Q4297036;Miusskiy Liman;11
+Q3394949;Q3394949;11
+Q2179048;Ria of Tina Menor;11
+Q7963133;Wallis Lake;11
+Q4650620;ACE Basin;10
+Q2575947;Bahía Blanca;10
+Q35440677;Khlong Ko Pan Yi;10
+Q6530294;Leschenault Estuary;10
+Q1293938;Upper Newport Bay;9
+Q7680927;Tamar–Tavy Estuary;9
+Q68623684;Peel-Harvey Estuarine System;9
+Q34732051;Khlong Phlio;9
+Q3503114;Gabon Estuary;9
+Q7691149;Teacapan Estuary;9
+Q28457574;Harrison Bay;9
+Q5305656;Drakes Estero;9
+Q6075063;Irwin Inlet;9
+Q7322249;Ribble and Alt Estuaries;8
+Q21551826;Westray Firth;8
+Q5502980;Fresh Kills;8
+Q1893304;Reloncaví Estuary;8
+Q22035924;Mar Pequeno;8
+Q34716940;Dniprovs’kyy Lyman;8
+Q31934744;Estero Alemán;7
+Q31934836;Estero La Manzanilla;7
+Q31934806;Estero El Zapote;7
+Q31933754;Bocana El Sayte;7
+Q31579508;Estero de Tripa de Gallena;7
+Q31934800;Estero El Tamarindo;7
+Q31934793;Estero El Naranjal;7
+Q31934787;Estero El Estampido;7
+Q31934781;Estero El Encantado;7
+Q31934773;Estero El Brujo;7
+Q31933848;Canal Santa Rita;7
+Q31933871;Cañada El Guichoso;7
+Q31807527;Kuala Gigieng;7
+Q31933749;Bocana El Pecho;7
+Q31933704;Bocana de San Juan;7
+Q31807528;Malujo Estuary;7
+Q31934751;Estero Amatillo;7
+Q31934844;Estero Las Bocanitas;7
+Q31934768;Estero El Barraco;7
+Q34717166;Estero Brasil;7
+Q31934849;Estero Las Conchas;7
+Q34716963;El Presidio;7
+Q34717156;Estero Boca Tecuanillo;7
+Q34717147;Estero Boca de Pascuales;7
+Q34717120;Estero Batanga;7
+Q34717112;Estero Batamotos;7
+Q34717038;Estero Angola;7
+Q34717030;Estero Aguachil;7
+Q34717022;Estero Agua Zarca;7
+Q34717012;Estero Agua Pepe;7
+Q34716892;Buz’kyy Lyman;7
+Q31934855;Estero Llano Largo;7
+Q34716859;Berezans’kyy Lyman;7
+Q31565536;Tutac Estero;7
+Q33135725;Hever;7
+Q32224468;Ampalam Creek;7
+Q31934902;Estero Toluca;7
+Q31934889;Estero San Juan;7
+Q31934875;Estero Rincón Grande;7
+Q31934870;Estero Managuara;7
+Q31579459;Estero Marala;7
+Q25284554;Estero El Papalón;7
+Q31547585;Tavialan Estero;7
+Q25282658;Estero El Venado;7
+Q25283179;Estero de La Jagua;7
+Q34717201;Estero Cabuyal;7
+Q25283158;Estero El Espina;7
+Q25283155;Cogollo Salamar;7
+Q25282680;Estero de Los Comejenes;7
+Q25282670;Estero Boca Torcida;7
+Q25282665;Estero El Palacio;7
+Q25282659;Estero El Torcidito;7
+Q25282650;Estero de Las Mujeres;7
+Q25283209;Estero Dorado;7
+Q25282639;Estero Revienta Cadenas;7
+Q25282635;Estero Butus;7
+Q25282630;Estero Carrachi;7
+Q25282619;Estero El Cedro;7
+Q25282581;Estero La Simona;7
+Q25282576;Estero Los Barrancones;7
+Q25282572;Estero de Los Loros;7
+Q25282567;Estero Palo Seco;7
+Q25283189;Estero de La Berberia;7
+Q25283290;Boca de Conchalitos;7
+Q31520329;Busilac River;7
+Q25284556;Estero El Jicaro;7
+Q31472838;Po Estero;7
+Q29988263;Cao'ejiang Kou;7
+Q26763398;Narrabeen Lake;7
+Q25285092;Estero Jiotillo;7
+Q25284563;Estero Cabezas;7
+Q25284560;Estero El Corcovado;7
+Q25284558;Estero El Coyol;7
+Q25284557;Estero El Cubolero;7
+Q25284555;Estero El Lagarto;7
+Q25282555;Estero Vuelta Grande;7
+Q25284549;Estero Jiote Grande;7
+Q25284547;Estero Las Tinajas;7
+Q25284545;Estero Los Duros;7
+Q25284544;Estero Los Langues;7
+Q25284542;Estero Los Negros;7
+Q25284538;Estero Playa Salada;7
+Q25284536;Estero Río Viejo;7
+Q25284535;Estero Salinitas;7
+Q34717192;Estero Burubampo;7
+Q34717665;Estero el Coco;7
+Q34717210;Estero Cadeje;7
+Q34717217;Estero Caimanes;7
+Q34731738;Estero Viejo;7
+Q34731721;Estero Verde;7
+Q34731714;Estero Vallecitas;7
+Q34731707;Estero Vallecitas;7
+Q34731700;Estero Valentín;7
+Q34731692;Estero Vaditos;7
+Q34731683;Estero Uña de Gata;7
+Q34731666;Estero Tía Sostenes;7
+Q34731641;Estero Tiche;7
+Q34731634;Estero Ticha;7
+Q34731615;Estero Tecomate;7
+Q34731607;Estero Techoa;7
+Q34731590;Estero Taícury;7
+Q34731581;Estero Taribola;7
+Q34731573;Estero Tamecancari;7
+Q34731556;Estero Sopahui;7
+Q34731548;Estero Sin Punta;7
+Q34731532;Estero Sejurime;7
+Q34731087;Estero el Jiote;7
+Q34731746;Estero Vindramo;7
+Q34731754;Estero Vuelta del Tabaco;7
+Q34731763;Estero Yameto;7
+Q34732327;La Bocana;7
+Q56055354;Ballymacoda;7
+Q34732607;Port Beaver;7
+Q34732575;Pargo;7
+Q34732503;Ochakivs’ke Hyrlo;7
+Q34732486;Novostambul’s’ke Hyrlo;7
+Q34732444;Mto Kombe;7
+Q34732351;Las Garzas;7
+Q34732334;La Playa;7
+Q34732310;Kuala Yan Kechil;7
+Q34731779;Esteros Los Tubos;7
+Q34732303;Kuala Yan;7
+Q34732295;Kuala Tok Pasai;7
+Q34732245;Kuala Raga;7
+Q34732173;Kiliys’ke Hyrlo;7
+Q34731972;Hyrlo Musuna;7
+Q34731964;Hyrlo Murza;7
+Q34731909;Gironde;7
+Q34731787;Esteros Potrero Grande;7
+Q34731077;Estero el Jagüey;7
+Q34731061;Estero el Guachapore;7
+Q34731054;Estero el Gringo;7
+Q34717366;Estero Chiquero de los Puercos;7
+Q34717510;Estero el Angosto;7
+Q34717500;Estero El Ancresito;7
+Q34717492;Estero el Ahogado;7
+Q34717484;Estero Duranguito;7
+Q34717465;Estero del Tigre;7
+Q34717448;Estero de Punta Raza;7
+Q34717427;Estero Cutantenia;7
+Q34717394;Estero Ciega;7
+Q34717340;Estero Chichirigote;7
+Q34717568;Estero El Bracito;7
+Q34717323;Estero Chacalilla;7
+Q34717304;Estero Cañada de la Presita;7
+Q34717295;Estero Cañada Atravesada;7
+Q34717282;Estero Carnevaca;7
+Q34717265;Estero Capoa;7
+Q34717256;Estero Cangilones;7
+Q34717247;Estero Canarilebe;7
+Q34717226;Estero Cajones;7
+Q34717518;Estero El Atilaneño;7
+Q34717577;Estero El Brinco;7
+Q34731036;Estero El Gato;7
+Q34717734;Estero el Culantro;7
+Q34731013;Estero el Esterón;7
+Q34730995;Estero el Elote;7
+Q34730881;Estero Colorado;7
+Q34717803;Estero El Draguito;7
+Q34717781;Estero el Desecho;7
+Q34717773;Estero El Custodio;7
+Q34717763;Estero el Curi;7
+Q34717743;Estero El Culebro;7
+Q34717727;Estero el Cuchillo;7
+Q34717585;Estero el Bule;7
+Q34717692;Estero El Corcho;7
+Q25282542;Estero La Venado;7
+Q34717656;Estero el Clarín;7
+Q34717639;Estero el Chisguete;7
+Q34717621;Estero el Carrizal;7
+Q34717611;Estero el Carrizal;7
+Q34717602;Estero el Carnal;7
+Q34717593;Estero el Caimán;7
+Q25282547;Estero de Los Espabeles;7
+Q34716851;Baie de Yaté;7
+Q23726668;Estero Tamayo;7
+Q23746666;Estero Barbural;7
+Q23805367;Estero Altamira;7
+Q23803813;Ensenada Boma;7
+Q23800697;Estero de Caraguao;7
+Q23797147;Estero Garrapatica;7
+Q23796978;Estero el Españolito;7
+Q23795207;Estero Juanita;7
+Q23794532;Ensenada de Lora;7
+Q23794510;Estero de Lizarte;7
+Q23794134;Estero Manatí;7
+Q7085600;Oldfield Estuary;7
+Q23793095;Estero Palmitas;7
+Q7673648;Tabusintac Lagoon and River Estuary;7
+Q23792548;Ensenada la Plata;7
+Q23790158;Estero Remate;7
+Q23789627;Estero Sabanalamar;7
+Q4973275;Broke Inlet;7
+Q23806197;Estero Las Piedras;7
+Q23806244;Estero Carenero;7
+Q23875696;Estero Pedernales;7
+Q23880094;Estero del Gallo;7
+Q23879029;Estero Los Monos;7
+Q23878803;Estero Lagarto;7
+Q23877429;Estero de Muisne;7
+Q23877422;Estero del Muerto;7
+Q23877353;Estero de Mongón;7
+Q23874146;Estero Pongal;7
+Q23871361;Estero de San Miguel;7
+Q23873825;Estero Salinas;7
+Q23873768;Estero Salado;7
+Q23871685;Estero Soria;7
+Q23871562;Estero Segal;7
+Q1721483;Kaipara Harbour;7
+Q23871372;Estero San Pedro;7
+Q23787344;Estero Vertientes;7
+Q12002000;Songevannet;7
+Q23880141;Estero Gloria;7
+Q23746456;Estero Negro;7
+Q23726074;Estero Real;7
+Q23726674;Estero El Pailón;7
+Q23726076;Estero Secadero;7
+Q23726671;Estero del Caiman;7
+Q23726077;Estero Lagartero;7
+Q23726653;Estero Colebarco;7
+Q23726629;Estero Guerrero;7
+Q23726646;Estero Humane;7
+Q23726645;Estero Machetagedó;7
+Q23726632;Estero Crucecitas;7
+Q23726634;Estero Las Cruces;7
+Q23726635;Estero Santa Delicia;7
+Q23726644;Estero Brazo Largo;7
+Q23726640;Estero Limoncito;7
+Q23726642;Estero Limones;7
+Q23726676;Estero Hondo;7
+Q23726073;Estero Bringotero;7
+Q23726677;Estero Amazonas;7
+Q23716347;Estero Gamboa;7
+Q23745455;Estero Chobela;7
+Q23745425;Estero Chambulún;7
+Q23745309;Estero Camíbar;7
+Q23745261;Estero Caballos;7
+Q23743671;Estero El Encanto;7
+Q23738519;Estero Palo Redondo;7
+Q23736837;Boca del Río Parismina;7
+Q23726071;Estero Vuelta Los Guiños;7
+Q23716351;Estero La Barra;7
+Q23726683;Estero El Piñal;7
+Q23726682;Estero San Antonío;7
+Q23726680;Estero El Aguacate;7
+Q23726070;Estero El Covado;7
+Q23726679;Estero San Antonio;7
+Q23880123;Estero de Garzal;7
+Q23726641;Estero Hondo;7
+Q24880433;Estuaire du Mouni;7
+Q25280525;Estero Coyol;7
+Q25277504;Estero La Jagua;7
+Q25277360;Estero La Cutú;7
+Q25276895;Estero Jagua;7
+Q23885585;Estero Bagre;7
+Q25276556;Estero Guazonte;7
+Q25276451;Estero Guapinol;7
+Q25275953;Estero Fantasioso;7
+Q25273045;Estero Los Loros;7
+Q25273020;Estero Llano Largo;7
+Q23886362;Estero de la Aguada;7
+Q25272118;Estero Montoya;7
+Q25271857;Estero Los Puentes;7
+Q25271829;Estero Los Luises;7
+Q25271771;Estero Los Barrancones;7
+Q25268795;Estero San Bernardo;7
+Q25270103;Estero Pedregal;7
+Q23885703;Estero Boca;7
+Q25280191;Estero Ceibal;7
+Q25276644;Estero Hermoso;7
+Q25270181;Estero Piedra;7
+Q23880165;Estero Grande;7
+Q24641695;Inverness Firth;7
+Q25280667;Estero El Aceituno;7
+Q25280758;Estero El Cedro;7
+Q23880265;Estero Guanco;7
+Q23882573;Estero de Elices;7
+Q25179788;Estero El Esterón;7
+Q23884523;Estero Chirigoyo;7
+Q25280752;Estero El Carrizo;7
+Q25280841;Estero El Espino;7
+Q973945;Sir Creek;7
+Q23884556;Estero de Chongón;7
+Q25280738;Estero El Capulín;7
+Q25181634;Estero Patio de la Barra;7
+Q791272;Avon Heathcote Estuary;7
+Q23880191;Estero Guabi;7
+Q34732590;Pishchane Hyrlo;6
+Q35723037;Estero San Gregorio;6
+Q35723045;Estero San Jorge;6
+Q34732396;Mae Nam Bo Saen;6
+Q35723084;Estero San Juan;6
+Q3059068;Q3059068;6
+Q34732615;Puerto Guararé;6
+Q34732598;Poludenne Hyrlo;6
+Q34732404;Mae Nam Welu;6
+Q35723053;Estero San José;6
+Q34732566;Pak Phunphin;6
+Q34732557;Pak Phan Khuha;6
+Q34732548;Pak Nam Welu;6
+Q34732538;Pak Nam Satun;6
+Q34732520;Osen;6
+Q5594451;Grand Codroy Estuary;6
+Q34732477;Naktong-ganggu;6
+Q35723028;Estero San Francisco;6
+Q34732428;Mordarosen;6
+Q35723060;Estero San José;6
+Q34732412;Malpaso;6
+Q35723068;Estero San José;6
+Q35723076;Estero San Juan;6
+Q34732529;Osen;6
+Q35722980;Estero San Carlos;6
+Q35721536;Estero el Mangión;6
+Q35721544;Estero el Mangle;6
+Q35721752;Estero el Rey;6
+Q35721744;Estero el Remendado;6
+Q35721736;Estero el Rebozo;6
+Q35721727;Estero el Puente;6
+Q35721722;Estero El Puente;6
+Q35721713;Estero El Pozole;6
+Q35721705;Estero el Pozo;6
+Q35721697;Estero el Ponce;6
+Q35721688;Estero El Pichi;6
+Q35721680;Estero El Perro;6
+Q35721672;Estero El Patole;6
+Q35721665;Estero el Pato;6
+Q35721657;Estero El Pato;6
+Q35721649;Estero El Paso;6
+Q35721641;Estero El Parral;6
+Q35723020;Estero San Fernando;6
+Q35721633;Estero el Papayal;6
+Q35721625;Estero el Otate;6
+Q35721617;Estero el Oro;6
+Q34732388;Mae Nam Bang Toei;6
+Q35721601;Estero El Mezquite;6
+Q35721593;Estero El Mezquite;6
+Q35721586;Estero el Mezquite;6
+Q35721577;Estero el Merito;6
+Q35721569;Estero El Mechudo;6
+Q35721562;Estero El Martillo;6
+Q35721552;Estero el Manglón;6
+Q35721608;Estero el Negro;6
+Q34732263;Kuala Sala;6
+Q34732379;Lyngosen;6
+Q34732365;Liman Topolevskiy;6
+Q34731954;Hyrlo Laptysh;6
+Q34731947;Hyrlo Hneusheve;6
+Q34731940;Heggstadosen;6
+Q34731932;Hanganggu;6
+Q34731925;Grimsosen;6
+Q35723252;Skhidne Hyrlo;6
+Q34731857;Gediz Mansabı;6
+Q34731803;Estuário de Maputo;6
+Q34731795;Estuario de Virrila;6
+Q34731771;Estero Yoluc;6
+Q21712897;Q21712897;6
+Q34731729;Estero Verde Mar;6
+Q23716354;Brazo Guayabal;6
+Q35723260;Starostambul's'ke Hyrlo;6
+Q35723268;Stepove Hyrlo;6
+Q35723274;Sukhyy Lyman;6
+Q35723311;Utlyuts'kyy Lyman;6
+Q35723319;Valosen;6
+Q34731674;Estero Uvabo;6
+Q35723327;Vidnizhne Hyrlo;6
+Q34731649;Estero Tosalcahui;6
+Q49008373;Q49008373;6
+Q34731625;Estero Tejón;6
+Q23726633;Estero Doscientos Pesos;6
+Q34731598;Teacapan;6
+Q49008386;Q49008386;6
+Q68623096;Mandurah Estuary;6
+Q35723158;Estero Santa Barbara;6
+Q35723150;Estero Santa Ana;6
+Q34731980;Jambongan Harbor;6
+Q34732254;Kuala Redan;6
+Q35723092;Estero San Luciano;6
+Q35723101;Estero San Luis Gonzaga;6
+Q34732343;La Soledad;6
+Q7369255;Ross Creek;6
+Q35723109;Estero San Lázaro;6
+Q35723118;Estero San Marcos;6
+Q7825445;Torbay Inlet;6
+Q35723126;Estero San Rafael;6
+Q34732288;Kuala Tengah;6
+Q34732279;Kuala Sungai Jeram Batu;6
+Q34732272;Kuala Sungai Jawi;6
+Q35721769;Estero el Rodeo;6
+Q7981766;Wellstead Estuary;6
+Q34732003;Khlong Ko Samet;6
+Q35723134;Estero San Vicente;6
+Q34732236;Kuala Muar;6
+Q34732227;Kuala Kerian;6
+Q34732219;Kuala Karang;6
+Q34732210;Kuala Dinar;6
+Q35723142;Estero Santa Ana;6
+Q34732200;Kuala Batu Pahat;6
+Q34732084;Khlong Wang Duan;6
+Q34732076;Khlong Wak;6
+Q34732067;Khlong Sang Yut;6
+Q34732059;Khlong Phon;6
+Q34732042;Khlong Lamphaen;6
+Q35721760;Estero el Rillito;6
+Q35721794;Estero el Sulti;6
+Q35721777;Estero el Rosario;6
+Q35722720;Estero Migriño;6
+Q35722590;Estero Los Tanques;6
+Q35722598;Estero los Tules;6
+Q35722605;Estero los Títeres;6
+Q35722613;Estero Macho;6
+Q35722621;Estero Maito;6
+Q35722629;Estero Malacataya;6
+Q35722637;Estero Malacataya;6
+Q35722646;Estero Manchón;6
+Q35722655;Estero Manglón;6
+Q35722664;Estero Mapoli;6
+Q35722672;Estero Mar Muerto;6
+Q35722679;Estero Mayo;6
+Q35722687;Estero Medina;6
+Q35722695;Estero Mendías;6
+Q35722703;Estero Meroboca;6
+Q35722582;Estero los Potreros;6
+Q35722573;Estero Los Pericos;6
+Q35722564;Estero los Nidos;6
+Q35722485;Estero las Tijeras;6
+Q35722418;Estero Las Cruces;6
+Q35722426;Estero las Güiras;6
+Q35722433;Estero las Lajas;6
+Q35722442;Estero las Moras;6
+Q35722450;Estero Las Mujeres;6
+Q35722459;Estero las Palomas;6
+Q35722494;Estero Leones;6
+Q35722555;Estero los Islotes;6
+Q35722502;Estero los Algodones;6
+Q35722510;Estero los Algodones;6
+Q35722520;Estero los Candelones;6
+Q35722528;Estero Los Corchos;6
+Q35722537;Estero Los Cuates;6
+Q35722545;Estero los Cuatillos;6
+Q35722712;Estero Mezcala;6
+Q35722727;Estero Mudo;6
+Q35722403;Estero las Bocas;6
+Q35722735;Estero Mulegé;6
+Q35722895;Estero Pérula;6
+Q35722903;Estero Riachuelos;6
+Q35722910;Estero Rico;6
+Q35723012;Estero San Esteban;6
+Q35722918;Estero Rielecito;6
+Q35722926;Estero Rincón Largo;6
+Q35723004;Estero San Cosme;6
+Q35722996;Estero San Carlos Viejo;6
+Q35722934;Estero Río Chico;6
+Q35722942;Estero Río Lagartos;6
+Q35722951;Estero Sabancuy;6
+Q35722959;Estero Salado;6
+Q35722988;Estero San Carlos;6
+Q35722966;Estero Salinas;6
+Q35722972;Estero San Buto;6
+Q35722887;Estero Punta Verde;6
+Q35722879;Estero Puerto Rico;6
+Q35722871;Estero Puerto Gato;6
+Q35722791;Estero Osuna;6
+Q35722743;Estero Médano Blanco;6
+Q35722751;Estero Norte;6
+Q35722759;Estero Novoroma;6
+Q35722767;Estero Ojo de Liebre;6
+Q35722775;Estero Once Ríos;6
+Q35722783;Estero Oro Verde;6
+Q35722807;Estero Palo Blanco;6
+Q35722863;Estero Primero;6
+Q35722814;Estero Palo Santo;6
+Q35722821;Estero Palo Verde;6
+Q35722829;Estero Pampa Honda;6
+Q35722837;Estero Pancho Bueno;6
+Q35722845;Estero Paramán;6
+Q35722853;Estero Pimientillo;6
+Q35722410;Estero las Borregas;6
+Q35722394;Estero las Balsas;6
+Q35721786;Estero el Salado;6
+Q35722093;Estero la Cuchara;6
+Q35721953;Estero Hualabampito;6
+Q35721962;Estero Huituaca;6
+Q35721970;Estero Jacomo;6
+Q35721978;Estero Jeli;6
+Q35721987;Estero Jiamora;6
+Q35721995;Estero Jitzamuri;6
+Q35722003;Estero Juan González;6
+Q35722012;Estero la Atascosa;6
+Q35722029;Estero la Barrita;6
+Q35722037;Estero la Bocana;6
+Q35722045;Estero la Bolsa;6
+Q35722053;Estero la Boquita;6
+Q35722060;Estero la Burra;6
+Q35722068;Estero la Comisión;6
+Q35722077;Estero la Conducta;6
+Q35721945;Estero Grande;6
+Q35721937;Estero Grande;6
+Q35721929;Estero el Zapotillo;6
+Q35721850;Estero el Toro Mocho;6
+Q35721801;Estero El Sábalo;6
+Q35721810;Estero el Tambor;6
+Q35721818;Estero El Tasajal;6
+Q35721826;Estero el Tecolote;6
+Q35721833;Estero el Tiburón;6
+Q35721842;Estero el Tiburón;6
+Q35721857;Estero el Tubo;6
+Q35721920;Estero el Yugo;6
+Q35721864;Estero el Tular;6
+Q35721873;Estero El Tule;6
+Q35721887;Estero El Veinticinco;6
+Q35721895;Estero el Veintitrés;6
+Q35721904;Estero el Venado;6
+Q35721912;Estero el Venado;6
+Q35722085;Estero la Cruz;6
+Q35722103;Estero la Curvina;6
+Q35722386;Estero las Balizas;6
+Q34731564;Estero Tacuachero;6
+Q35722265;Estero la Presa;6
+Q35722273;Estero La Puerta del Río;6
+Q35722281;Estero la Punta Verde;6
+Q35722290;Estero La Resaca;6
+Q35722297;Estero la Robalera;6
+Q35722304;Estero la Salina;6
+Q35722312;Estero La Stanina;6
+Q35722321;Estero la Tabliza;6
+Q35722329;Estero la Tortuga;6
+Q35722337;Estero la Trinidad;6
+Q35722345;Estero La Virgen;6
+Q35722353;Estero la Víbora;6
+Q35722361;Estero la Yegua;6
+Q35722369;Estero las Agujas;6
+Q35722378;Estero las Amazonas;6
+Q35722257;Estero la Pitahaya;6
+Q35722248;Estero la Pitahaya;6
+Q35722240;Estero la Periquera;6
+Q35722170;Estero la Inicial;6
+Q35722121;Estero la Esperanza;6
+Q35722129;Estero la Estufa;6
+Q35722138;Estero la Güera;6
+Q35722145;Estero la Harina;6
+Q35722153;Estero la Herradura;6
+Q35722162;Estero la Horsuata;6
+Q35722178;Estero la Jacoba;6
+Q35722233;Estero La Pechuga;6
+Q35722186;Estero la Laguna;6
+Q35722193;Estero La Lisa;6
+Q35722200;Estero la Luna;6
+Q35722208;Estero la Media Luna;6
+Q35722216;Estero La Mojarra;6
+Q35722225;Estero La Palmita;6
+Q35722113;Estero La Escodama;6
+Q25282145;Paso Las Cuevitas;6
+Q34731540;Estero Sialiboca;6
+Q33136023;Nanga Endo;6
+Q33136018;Nakti Creek;6
+Q33136015;Nadayara Kāyal;6
+Q32309775;Baie de Daoulas;6
+Q33136009;Mundra Creek;6
+Q33136007;Muara Tekolok;6
+Q33136002;Muara Sungai Batang;6
+Q34731525;Estero Sebasco;6
+Q32309779;Baie de l'Authie;6
+Q33135668;Ban Creek;6
+Q33135671;Bassein Creek;6
+Q33135988;Muara Nunkurus;6
+Q33135985;Muara Mujur;6
+Q33135983;Muara Menangamayung;6
+Q33135673;Bavarwala Nār;6
+Q33135677;Bavliari Creek;6
+Q33135681;Bedi Bundar Creek;6
+Q33135684;Bhavnagar Creek;6
+Q33135689;Chachla Creek;6
+Q33135966;Muara Bangkakota;6
+Q33135963;Muara Bambanu Palasa;6
+Q33135693;Chinchani Tārāpur Creek;6
+Q33135954;Motapat Creek;6
+Q33135947;Meda Creek;6
+Q33135943;Manţaqeh-ye Khowr-e Būhamīr;6
+Q33135939;Mananga Yumbu;6
+Q33135936;Mananga Wairara;6
+Q33135931;Mananga Waipidu;6
+Q33135929;Mananga Tarakah;6
+Q33135925;Mananga Memboro;6
+Q33136020;Nanga Ba;6
+Q33136025;Nanga Gusung;6
+Q23873719;Estero de Sabana Grande;6
+Q33136028;Nanga Keo;6
+Q33136115;Varsoli Creek;6
+Q33136112;Uf Noni;6
+Q33136108;Totapua Bolangitang;6
+Q33136105;Thāna Creek;6
+Q33136102;Tena Creek;6
+Q33136098;Sugar Creek;6
+Q33136095;Stewartganj Creek;6
+Q33136093;Sarvār Creek;6
+Q33136089;Sara Creek;6
+Q33136086;Rāmsar Creek;6
+Q33136083;Rājpuri Creek;6
+Q33136081;Phang Creek;6
+Q33136077;Paulo Creek;6
+Q33136075;Parangara;6
+Q33136072;Nirani Creek;6
+Q33136068;Nhāva Creek;6
+Q33136066;Ngangoliyo Dehua;6
+Q33136063;Nanga Woja;6
+Q33136060;Nanga Waso;6
+Q33136057;Nanga Waekoe;6
+Q33136053;Nanga Toro;6
+Q33136050;Nanga Tilir;6
+Q33136047;Nanga Soroele;6
+Q32230253;Ankola Creek;6
+Q33136043;Nanga Rawa;6
+Q33136041;Nanga Pede;6
+Q33136038;Nanga Nisa;6
+Q33136033;Nanga Mese;6
+Q33136031;Nanga Mboi;6
+Q33135922;Mananga Lokogaro;6
+Q33135918;Mananga Kerewai;6
+Q33135915;Mananga Katewel;6
+Q33135912;Mananga Karendi;6
+Q33135799;Khowr-e Khowrīā;6
+Q33135794;Khowr-e Khowryā;6
+Q33135791;Khowr-e Khamīr;6
+Q33135788;Khowr-e Kashrī;6
+Q33135785;Khowr-e Haft Būn;6
+Q33135781;Khowr-e Gāv;6
+Q33135779;Khowr-e Damādūr;6
+Q33135775;Khowr-e Būdūd;6
+Q33135772;Khowr-e Bīdkhūn;6
+Q33135769;Khowr-e Bārīkū;6
+Q33135766;Khowr-e Bāhū;6
+Q33135763;Khowr-e Bostānū;6
+Q33135760;Khowr-e Besātīn;6
+Q33135757;Khondha Creek;6
+Q33135754;Kharo Creek;6
+Q33135750;Karanja Creek;6
+Q33135746;Kandla Creek;6
+Q33135743;Kanai Creek;6
+Q33135739;Kalavli Creek;6
+Q33135737;Kalara;6
+Q33135734;Jāfarābād Creek;6
+Q33135731;Jodiya Creek;6
+Q33135728;Jackson Creek;6
+Q23873578;Estero de Rincón Grande;6
+Q33135722;Hansthal Creek;6
+Q33135719;Hanmantu Creek;6
+Q33135715;Eider;6
+Q33135712;Dugong Creek;6
+Q33135709;Dharamtar Creek;6
+Q33135802;Khowr-e Khān;6
+Q33135805;Khowr-e Kolehā'ī;6
+Q33135809;Khowr-e Kolāhī;6
+Q33135868;Khowr-e Shīf;6
+Q33135909;Ma Tibubunut;6
+Q33135906;Kuala Pulautengah;6
+Q33135697;Daru Creek;6
+Q33135900;Kuala Maraja;6
+Q33135897;Kuala Jambi;6
+Q33135894;Kuala Batee;6
+Q33135891;Khowrdaryā'ī Galātū;6
+Q33135888;Khowrdarya'ī Ḩajjī;6
+Q33135885;Khowr-e Ḩalālī;6
+Q33135882;Khowr-e Āl Ḩoseynī;6
+Q33135880;Khowr-e Āl Pey;6
+Q33135876;Khowr-e Tīāb;6
+Q33135872;Khowr-e Solţānī;6
+Q33135866;Khowr-e Shāh Abū ol Qāsem;6
+Q33135811;Khowr-e Lashgarī;6
+Q33135863;Khowr-e Shangdūnī;6
+Q33135859;Khowr-e Seyyd Aḩmadī;6
+Q33135854;Khowr-e Sedīch;6
+Q33135851;Khowr-e Sangī-ye Kūchak;6
+Q33135847;Khowr-e Sangī-ye Bozorg;6
+Q33135844;Khowr-e Porāv;6
+Q33135841;Khowr-e Porāv;6
+Q33135837;Khowr-e Nokhgab;6
+Q33135833;Khowr-e Mūrīz Derāz;6
+Q33135829;Khowr-e Masāgeh;6
+Q33135823;Khowr-e Mardū;6
+Q33135819;Khowr-e Malakī;6
+Q33135815;Khowr-e Lashkarī;6
+Q32225088;Amurskiy Liman;6
+Q32222478;Hokianga River;6
+Q33135703;Dastūr;6
+Q23788630;Q23788630;6
+Q25283160;Paso Playa Salada;6
+Q25283161;Q25283161;6
+Q25272785;Q25272785;6
+Q23738520;Estero Palo Seco;6
+Q34717648;Estero el Chivo;6
+Q23740330;Estero de los Meros;6
+Q34717631;Estero el Chino;6
+Q23743589;Estero Damas;6
+Q34717560;Estero El Borrego;6
+Q34717551;Estero El Bifiereallo;6
+Q34717542;Estero el Bayado;6
+Q34717536;Estero el Batequi;6
+Q34717527;Estero el Barril;6
+Q23788672;Estero del Soldado;6
+Q23792336;Estero del Perro;6
+Q23789156;Estero Santa Ana;6
+Q25284540;Pasadero del Caoso;6
+Q25270332;Estero Prieto;6
+Q25201088;Q25201088;6
+Q25201045;Q25201045;6
+Q25199824;Rio Cacine;6
+Q34717474;Estero Delgadito;6
+Q34717456;Estero del Bachoco;6
+Q23789640;Estero Sabanillas;6
+Q34717441;Estero de Horconcitos;6
+Q34717435;Estero Dautillos;6
+Q23871563;Estero del Ceibo;6
+Q34717411;Estero Culito del Mar;6
+Q25276830;Q25276830;6
+Q25283146;Q25283146;6
+Q34717675;El Colorado;6
+Q25277278;Estero La Chinga;6
+Q34731519;El Sargento;6
+Q34731512;Estero Santo Domingo;6
+Q34731505;Estero Santiago;6
+Q34731499;Estero Santa Rosa;6
+Q34731494;Estero Santa Elenita;6
+Q34731068;Estero El Islote;6
+Q25282142;Paso Irinea;6
+Q34731046;Estero el Gato;6
+Q34731027;Estero el Garrotazo;6
+Q34731021;Estero el Esterón;6
+Q25282140;Paso Crucero;6
+Q34730987;Estero el Dátil;6
+Q34717813;Estero el Dátil;6
+Q34717791;Estero el Diablo;6
+Q34717753;Estero El Cureño;6
+Q23733126;Estero del Zapote;6
+Q23735139;Estero del Tigre;6
+Q34717718;Estero el Cuarenta;6
+Q25282136;Paso La Oscurana;6
+Q34717710;Estero el Coyote;6
+Q34717700;Estero el Costal;6
+Q25282556;Vuelta Chiquita Estero;6
+Q23736848;Boca del Río Tusubres;6
+Q34717683;Estero el Colorado;6
+Q25280997;Estero El Pedregal;6
+Q25280692;Estero El Apintal;6
+Q25279764;Estero Balfate;6
+Q34717405;Estero Cuautla;6
+Q34717419;Estero Cumora;6
+Q34717385;Estero Ciali;6
+Q34717375;Estero Chocohuital;6
+Q23805885;Estero Soldado Chiquito;6
+Q34717103;Barra San José;6
+Q34717096;Estero Banales;6
+Q34717088;Estero Bamocha;6
+Q34717079;Estero Balandra;6
+Q34717070;Estero Baira;6
+Q34717062;Estero Bahía Falsa;6
+Q31934759;Estero Cerique;6
+Q34717054;Estero Bacorehuis;6
+Q23878898;Estero Las Conchitas;6
+Q34717047;Estero Bacochibampo;6
+Q34717004;Estero Agua Amarga;6
+Q23878805;Estero de Lagarto;6
+Q34716995;Estero Agiabampo;6
+Q31934813;Estero Garita Palmera;6
+Q31934818;Estero La Candela;6
+Q31934830;Estero La Garatuza;6
+Q23871453;Estero Santa Ana;6
+Q34716947;El Esterón;6
+Q23871497;Estero de San Vicente;6
+Q23878665;Estero Jambelí;6
+Q31934883;Estero San Diego;6
+Q34716919;Cocoyoles;6
+Q34716912;Canal de Águas de Moura;6
+Q31934895;Estero Ticuisiapa;6
+Q32220312;Alībāg Creek;6
+Q34716884;Bocca Bevano;6
+Q34716874;Boca da Sachola;6
+Q34716866;Bilhorods’ke Hyrlo;6
+Q31934739;Esterito San Román;6
+Q33135706;Devrapura Creek;6
+Q34717174;Estero Buenaventura;6
+Q23886327;Estero Carrizal;6
+Q34717314;Estero Celestún;6
+Q29989480;Maxie He;6
+Q34717273;Estero Cardón;6
+Q29989522;Minjiang Kou;6
+Q23794908;Estero Las Cruces;6
+Q30915833;Q30915833;6
+Q34717237;Estero Camapochi;6
+Q23798330;Estero Cayuelo;6
+Q34717130;Estero Bayuco de Oro;6
+Q23805822;Estero Tejar;6
+Q23886412;Estero Algarrobal;6
+Q27925681;Burry Inlet;6
+Q34717332;Estero Chamela;6
+Q25197072;Rio Tombali;6
+Q34717349;Estero Chicura Viva;6
+Q34717358;Chilibal;6
+Q23886325;Isla Las Conchitas;6
+Q23886320;Estero Libertad;6
+Q31804180;Dongnan Kou;6
+Q23805823;Estero Santa Teresa;6
+Q23884631;Estero de Churutillo;6
+Q23884245;Estero Cerezal;6
+Q34717139;Estero Boca Colorado;6
+Q31933892;Cañón de Tasajera;6
+Q23793096;Estero las Palmitas;6
+Q35723282;Tafara Ain;5
+Q27925693;Porvoonjoki Estuary - Stensböle;5
+Q35723181;Rukav Bol'shoy Belinskiy Bank;5
+Q65064399;Inner Clyde Estuary;5
+Q35723222;Sherbro River;5
+Q64226297;Pretty Pool;5
+Q35723289;Tavrichanskiy Liman;5
+Q33135998;Muara Singgeni;5
+Q34731004;Estero el Esterito;5
+Q34716970;Embouchure de la Canche;5
+Q34716987;Embouchure de la Somme;5
+Q4118315;Khawr Abd Allah;5
+Q23805830;Estero Corojal;5
+Q34732493;Nyyskiy River;5
+Q34732469;Muara Nahancurun;5
+Q34732461;Muara Metibalo;5
+Q34732452;Muara Alasoan;5
+Q34731865;Girlo Akhtanizovskoye;5
+Q23795073;Boca de Jaruco;5
+Q34732372;Lindi River;5
+Q34732358;Liman Lebyazhiy;5
+Q33135958;Muara Ansam;5
+Q34732318;Kuban;5
+Q34731875;Girlo Kaban’ye;5
+Q34731883;Girlo Peresypskoye;5
+Q34731892;Girlo Shirokoye;5
+Q34731900;Girlo Stepanovskoye;5
+Q15134781;Q15134781;5
+Q14935003;St Georges Basin (New South Wales);5
+Q34716979;Embouchure de la Charente;5
+Q34732624;Punaruku Estuary;5
+Q34716933;Delta du Fleuve;5
+Q34705420;Boca Araguao;5
+Q33135971;Muara Bosibosi;5
+Q17775374;Q17775374;5
+Q33135973;Muara Buntu;5
+Q33135975;Muara Kapalis;5
+Q33135977;Muara Lampoara;5
+Q33135980;Muara Lonyi;5
+Q33135991;Muara Sadang;5
+Q33135995;Muara Saluanna;5
+Q12517995;Torasi Estuary;5
+Q34705636;Boca Grande;5
+Q34705677;Boca Lorán;5
+Q35723364;Waipapa Estuary;4
+Q35723349;Waikareao Estuary;4
+Q35723214;Salteyraróss;4
+Q35723334;Waihi Estuary;4
+Q35723238;Simba Uranga Mouth;4
+Q34731917;Gljufur;4
+Q35723205;Saint Lucia Estuary;4
+Q16904166;Ythan Estuary;4
+Q34731838;Fróðárós;4
+Q35723356;Waimapu Estuary;4
+Q35723372;Waipati Estuary;4
+Q34731847;Fróðáróss;4
+Q35723296;Te Puna Estuary;4
+Q35723342;Waihi Estuary;4
+Q34731829;Foce dell'Uso;4
+Q35723304;Tiligul'skiy Liman;4
+Q34731820;Foce del Savio;4
+Q33135903;Kuala Pulauburung;4
+Q35723197;Sado Estuary;4
+Q35723173;Reka Bol'shaya;4
+Q33135686;Campbell River;4
+Q35722799;Estero Pailebote;4
+Q35722020;Estero La Ballecita;4
+Q33136012;Mītha Dora Nār;4
+Q35721881;Estero El Vado;4
+Q32225696;Anadyr River;4
+Q34716900;Búlkárós;4
+Q34716906;Búðaós;4
+Q34716926;Cucuyachero;4
+Q35698159;Floet;4
+Q34732512;Oporito;4
+Q5730981;Bocas de Ceniza;4
+Q6747133;Manawatu Estuary;4
+Q34732436;Mssala Mouth;4
+Q22338172;Seine estuary;4
+Q25196641;Q25196641;4
+Q7376073;Rubicon Estuary;4
+Q34732191;Koppi;4
+Q34732181;Kiomboni Mouth;4
+Q8255206;Black Turtle Cove;4
+Q34732164;Kikunja Mouth;4
+Q34732118;Kiassi Mouth;4
+Q35723165;Raskes;4
+Q19967429;Paredones Estuary;4
+Q7357723;South Shore Estuary;3
+Q29824475;Smith Bay;2
+Q81099189;Q81099189;2

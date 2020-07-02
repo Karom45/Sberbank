@@ -1,0 +1,398 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q474876;Namangan Region;административно-территориальная единица;1;17;to
+Q487570;Navoiy Region;код GeoNames;1;1;from
+Q487570;Navoiy Region;категория для людей, родившихся здесь;1;1;from
+Q487570;Navoiy Region;численность населения;1;1;from
+Q487570;Navoiy Region;имеет границы с;1;5;to
+Q487570;Navoiy Region;столица;1;1;from
+Q487570;Navoiy Region;это частный случай понятия;1;1;from
+Q487570;Navoiy Region;карта местонахождения;1;1;from
+Q487570;Navoiy Region;государство;1;2;from
+Q487570;Navoiy Region;административно делится на;1;1;to
+Q487570;Navoiy Region;административно-территориальная единица;1;15;to
+Q487561;Xorazm Region;происходит из;1;1;to
+Q487561;Xorazm Region;общая тема категории;1;1;to
+Q487561;Xorazm Region;является столицей;1;1;to
+Q487561;Xorazm Region;категория объединяет темы;1;4;to
+Q487561;Xorazm Region;место рождения;1;6;to
+Q487561;Xorazm Region;основная категория по теме;1;1;from
+Q487561;Xorazm Region;FIPS 10-4 (страны и регионы);1;1;from
+Q487561;Xorazm Region;официальный сайт;1;1;from
+Q487561;Xorazm Region;Who's on First ID;1;1;from
+Q487561;Xorazm Region;код Freebase;1;1;from
+Q487561;Xorazm Region;географические координаты;1;1;from
+Q487561;Xorazm Region;дата основания/создания/возникновения;1;1;from
+Q487570;Navoiy Region;категория для людей, умерших здесь;1;1;from
+Q487570;Navoiy Region;название на языке оригинала;1;1;from
+Q487561;Xorazm Region;код автомобильного номера;1;1;from
+Q487570;Navoiy Region;категория для людей, связанных с местностью;1;1;from
+Q487570;Navoiy Region;общая тема категории;1;1;to
+Q487570;Navoiy Region;является столицей;1;1;to
+Q487570;Navoiy Region;место рождения;1;1;to
+Q487570;Navoiy Region;место смерти;1;1;to
+Q487570;Navoiy Region;происходит из;1;3;to
+Q487570;Navoiy Region;категория объединяет темы;1;3;to
+Q487570;Navoiy Region;основная категория по теме;1;1;from
+Q487570;Navoiy Region;FIPS 10-4 (страны и регионы);1;1;from
+Q487570;Navoiy Region;официальный сайт;1;1;from
+Q487570;Navoiy Region;Who's on First ID;1;1;from
+Q487570;Navoiy Region;код Freebase;1;1;from
+Q487570;Navoiy Region;географические координаты;1;1;from
+Q487570;Navoiy Region;дата прекращения существования;1;1;from
+Q487570;Navoiy Region;дата основания/создания/возникновения;1;2;from
+Q487570;Navoiy Region;часовой пояс;1;1;from
+Q487570;Navoiy Region;категория на Викискладе;1;1;from
+Q487570;Navoiy Region;ISO 3166-2;1;1;from
+Q487570;Navoiy Region;используемый язык;1;3;from
+Q487570;Navoiy Region;код BabelNet;1;1;from
+Q487570;Navoiy Region;площадь;1;1;from
+Q487570;Navoiy Region;высота над уровнем моря;1;1;from
+Q487561;Xorazm Region;часовой пояс;1;1;from
+Q487561;Xorazm Region;категория на Викискладе;1;1;from
+Q487547;Sirdaryo Region;административно-территориальная единица;1;15;to
+Q487547;Sirdaryo Region;общая тема категории;1;1;to
+Q487547;Sirdaryo Region;является столицей;1;1;to
+Q487547;Sirdaryo Region;место рождения;1;9;to
+Q487547;Sirdaryo Region;основная категория по теме;1;1;from
+Q487547;Sirdaryo Region;FIPS 10-4 (страны и регионы);1;1;from
+Q487547;Sirdaryo Region;официальный сайт;1;1;from
+Q487547;Sirdaryo Region;Who's on First ID;1;1;from
+Q487547;Sirdaryo Region;код Freebase;1;1;from
+Q487547;Sirdaryo Region;географические координаты;1;1;from
+Q487547;Sirdaryo Region;дата основания/создания/возникновения;1;1;from
+Q487547;Sirdaryo Region;часовой пояс;1;1;from
+Q487547;Sirdaryo Region;категория на Викискладе;1;1;from
+Q487547;Sirdaryo Region;ISO 3166-2;1;1;from
+Q487547;Sirdaryo Region;используемый язык;1;1;from
+Q487547;Sirdaryo Region;площадь;1;1;from
+Q487547;Sirdaryo Region;высота над уровнем моря;1;1;from
+Q487547;Sirdaryo Region;код GeoNames;1;1;from
+Q487547;Sirdaryo Region;категория для людей, родившихся здесь;1;1;from
+Q487547;Sirdaryo Region;имеет границы с;1;2;to
+Q487547;Sirdaryo Region;столица;1;1;from
+Q487547;Sirdaryo Region;это частный случай понятия;1;1;from
+Q487547;Sirdaryo Region;карта местонахождения;1;1;from
+Q487547;Sirdaryo Region;категория объединяет темы;1;1;to
+Q487547;Sirdaryo Region;административно делится на;1;1;to
+Q487561;Xorazm Region;ISO 3166-2;1;1;from
+Q487547;Sirdaryo Region;происходит из;1;1;to
+Q487561;Xorazm Region;используемый язык;1;1;from
+Q487561;Xorazm Region;площадь;1;1;from
+Q487561;Xorazm Region;высота над уровнем моря;1;1;from
+Q487561;Xorazm Region;категория для людей, связанных с местностью;1;1;from
+Q487561;Xorazm Region;категория для людей, похороненных здесь;1;1;from
+Q487561;Xorazm Region;название на языке оригинала;1;1;from
+Q487561;Xorazm Region;код GeoNames;1;1;from
+Q487561;Xorazm Region;категория для людей, умерших здесь;1;1;from
+Q487561;Xorazm Region;категория для людей, родившихся здесь;1;1;from
+Q487561;Xorazm Region;описывается в источниках;1;1;from
+Q487561;Xorazm Region;численность населения;1;1;from
+Q487561;Xorazm Region;глава правительства;1;1;from
+Q487561;Xorazm Region;имеет границы с;1;2;to
+Q487561;Xorazm Region;столица;1;1;from
+Q487561;Xorazm Region;это частный случай понятия;1;1;from
+Q487561;Xorazm Region;карта местонахождения;1;1;from
+Q487561;Xorazm Region;код GND;1;1;from
+Q487561;Xorazm Region;код VIAF;1;1;from
+Q487561;Xorazm Region;государство;1;2;from
+Q487561;Xorazm Region;административно делится на;1;1;to
+Q487561;Xorazm Region;административно-территориальная единица;1;27;to
+Q487577;Qashqadaryo Region;административно-территориальная единица;1;25;to
+Q487577;Qashqadaryo Region;государство;1;2;from
+Q487577;Qashqadaryo Region;карта местонахождения;1;1;from
+Q488811;Jizzakh Region;категория для людей, умерших здесь;1;1;from
+Q488811;Jizzakh Region;официальное название;1;1;from
+Q488811;Jizzakh Region;численность населения;1;2;from
+Q488811;Jizzakh Region;имеет границы с;1;3;to
+Q488811;Jizzakh Region;столица;1;1;from
+Q488811;Jizzakh Region;это частный случай понятия;1;1;from
+Q488811;Jizzakh Region;карта местонахождения;1;1;from
+Q488811;Jizzakh Region;государство;1;3;from
+Q488811;Jizzakh Region;административно-территориальная единица;1;22;to
+Q487585;Tashkent Region;анклав в;1;1;to
+Q487585;Tashkent Region;административно делится на;1;1;to
+Q487585;Tashkent Region;является столицей;1;2;to
+Q487585;Tashkent Region;общая тема категории;1;1;to
+Q487585;Tashkent Region;категория объединяет темы;1;4;to
+Q487585;Tashkent Region;расположение штаб-квартиры;1;2;to
+Q487585;Tashkent Region;место смерти;1;9;to
+Q487585;Tashkent Region;место рождения;1;45;to
+Q487585;Tashkent Region;баннер Викигида;1;1;from
+Q487585;Tashkent Region;основная категория по теме;1;1;from
+Q487585;Tashkent Region;FIPS 10-4 (страны и регионы);1;1;from
+Q487585;Tashkent Region;официальный сайт;1;1;from
+Q487585;Tashkent Region;Who's on First ID;1;1;from
+Q488811;Jizzakh Region;категория для людей, родившихся здесь;1;1;from
+Q488811;Jizzakh Region;код GeoNames;1;1;from
+Q487577;Qashqadaryo Region;это частный случай понятия;1;1;from
+Q488811;Jizzakh Region;название на языке оригинала;1;1;from
+Q488811;Jizzakh Region;административно делится на;1;1;to
+Q488811;Jizzakh Region;общая тема категории;1;1;to
+Q488811;Jizzakh Region;является столицей;1;1;to
+Q488811;Jizzakh Region;категория объединяет темы;1;3;to
+Q488811;Jizzakh Region;место рождения;1;7;to
+Q488811;Jizzakh Region;основная категория по теме;1;1;from
+Q488811;Jizzakh Region;FIPS 10-4 (страны и регионы);1;1;from
+Q488811;Jizzakh Region;официальный сайт;1;1;from
+Q488811;Jizzakh Region;Who's on First ID;1;1;from
+Q488811;Jizzakh Region;код Freebase;1;1;from
+Q488811;Jizzakh Region;географические координаты;1;1;from
+Q488811;Jizzakh Region;дата прекращения существования;1;1;from
+Q488811;Jizzakh Region;дата основания/создания/возникновения;1;2;from
+Q488811;Jizzakh Region;часовой пояс;1;1;from
+Q488811;Jizzakh Region;категория на Викискладе;1;1;from
+Q488811;Jizzakh Region;ISO 3166-2;1;1;from
+Q488811;Jizzakh Region;используемый язык;1;1;from
+Q488811;Jizzakh Region;код BabelNet;1;1;from
+Q488811;Jizzakh Region;площадь;1;2;from
+Q488811;Jizzakh Region;высота над уровнем моря;1;1;from
+Q488811;Jizzakh Region;категория для людей, связанных с местностью;1;1;from
+Q487585;Tashkent Region;код Freebase;1;1;from
+Q487585;Tashkent Region;географические координаты;1;1;from
+Q487585;Tashkent Region;дата основания/создания/возникновения;1;1;from
+Q487585;Tashkent Region;часовой пояс;1;1;from
+Q487577;Qashqadaryo Region;FIPS 10-4 (страны и регионы);1;1;from
+Q487577;Qashqadaryo Region;официальный сайт;1;1;from
+Q487577;Qashqadaryo Region;Who's on First ID;1;1;from
+Q487577;Qashqadaryo Region;код Freebase;1;1;from
+Q487577;Qashqadaryo Region;географические координаты;1;1;from
+Q487577;Qashqadaryo Region;дата прекращения существования;1;1;from
+Q487577;Qashqadaryo Region;дата основания/создания/возникновения;1;2;from
+Q487577;Qashqadaryo Region;часовой пояс;1;1;from
+Q487577;Qashqadaryo Region;ID отношения в OpenStreetMap;1;1;from
+Q487577;Qashqadaryo Region;категория на Викискладе;1;1;from
+Q487577;Qashqadaryo Region;ISO 3166-2;1;1;from
+Q487577;Qashqadaryo Region;используемый язык;1;1;from
+Q487577;Qashqadaryo Region;площадь;1;1;from
+Q487577;Qashqadaryo Region;высота над уровнем моря;1;1;from
+Q487577;Qashqadaryo Region;категория для людей, связанных с местностью;1;1;from
+Q487577;Qashqadaryo Region;код GeoNames;1;1;from
+Q487577;Qashqadaryo Region;категория для людей, умерших здесь;1;1;from
+Q487577;Qashqadaryo Region;категория для людей, родившихся здесь;1;1;from
+Q487577;Qashqadaryo Region;описывается в источниках;1;2;from
+Q487577;Qashqadaryo Region;имеет границы с;1;4;to
+Q487577;Qashqadaryo Region;столица;1;1;from
+Q487577;Qashqadaryo Region;основная категория по теме;1;1;from
+Q487577;Qashqadaryo Region;место рождения;1;14;to
+Q487577;Qashqadaryo Region;категория объединяет темы;1;3;to
+Q487585;Tashkent Region;имеет границы с;1;5;to
+Q487585;Tashkent Region;категория на Викискладе;1;1;from
+Q487585;Tashkent Region;ISO 3166-2;1;1;from
+Q487585;Tashkent Region;площадь;1;1;from
+Q487585;Tashkent Region;высота над уровнем моря;1;1;from
+Q487585;Tashkent Region;категория для людей, связанных с местностью;1;1;from
+Q487585;Tashkent Region;код GeoNames;1;1;from
+Q487585;Tashkent Region;категория для людей, умерших здесь;1;1;from
+Q487585;Tashkent Region;категория для людей, родившихся здесь;1;1;from
+Q487585;Tashkent Region;численность населения;1;1;from
+Q487585;Tashkent Region;столица;1;2;from
+Q487577;Qashqadaryo Region;происходит из;1;1;to
+Q487585;Tashkent Region;это частный случай понятия;1;1;from
+Q487585;Tashkent Region;карта местонахождения;1;1;from
+Q487585;Tashkent Region;изображение;1;1;from
+Q487585;Tashkent Region;государство;1;2;from
+Q487585;Tashkent Region;административно-территориальная единица;1;47;to
+Q487577;Qashqadaryo Region;административно делится на;1;1;to
+Q487577;Qashqadaryo Region;общая тема категории;1;1;to
+Q487577;Qashqadaryo Region;является столицей;1;1;to
+Q487577;Qashqadaryo Region;расположение штаб-квартиры;1;1;to
+Q487547;Sirdaryo Region;государство;1;2;from
+Q487537;Surxondaryo Region;административно делится на;1;1;to
+Q474876;Namangan Region;административно делится на;1;1;to
+Q487089;Fergana Region;административно делится на;1;1;to
+Q487089;Fergana Region;является столицей;1;1;to
+Q487089;Fergana Region;основная тема;1;1;to
+Q487089;Fergana Region;категория объединяет темы;1;3;to
+Q487089;Fergana Region;местонахождение;1;1;to
+Q487089;Fergana Region;место рождения;1;25;to
+Q487089;Fergana Region;место смерти;1;6;to
+Q487089;Fergana Region;заменён на;1;1;to
+Q487089;Fergana Region;место в MusicBrainz;1;1;from
+Q487089;Fergana Region;основная категория по теме;1;1;from
+Q487089;Fergana Region;FIPS 10-4 (страны и регионы);1;1;from
+Q487089;Fergana Region;официальный сайт;1;1;from
+Q487089;Fergana Region;Who's on First ID;1;1;from
+Q487089;Fergana Region;код Freebase;1;1;from
+Q487089;Fergana Region;географические координаты;1;1;from
+Q487089;Fergana Region;дата основания/создания/возникновения;1;1;from
+Q487089;Fergana Region;часовой пояс;1;1;from
+Q487089;Fergana Region;категория на Викискладе;1;1;from
+Q487089;Fergana Region;ISO 3166-2;1;1;from
+Q487089;Fergana Region;код в Большой российской энциклопедии онлайн;1;1;from
+Q487089;Fergana Region;площадь;1;1;from
+Q487089;Fergana Region;высота над уровнем моря;1;1;from
+Q487089;Fergana Region;общая тема категории;1;1;to
+Q487372;Bukhara Region;административно-территориальная единица;1;21;to
+Q487089;Fergana Region;категория для людей, связанных с местностью;1;1;from
+Q487372;Bukhara Region;государство;1;2;from
+Q487372;Bukhara Region;Who's on First ID;1;1;from
+Q487372;Bukhara Region;код Freebase;1;1;from
+Q487372;Bukhara Region;географические координаты;1;1;from
+Q487372;Bukhara Region;дата основания/создания/возникновения;1;1;from
+Q487372;Bukhara Region;часовой пояс;1;1;from
+Q487372;Bukhara Region;категория на Викискладе;1;1;from
+Q487372;Bukhara Region;ISO 3166-2;1;1;from
+Q487372;Bukhara Region;используемый язык;1;3;from
+Q487372;Bukhara Region;площадь;1;1;from
+Q487372;Bukhara Region;высота над уровнем моря;1;1;from
+Q487372;Bukhara Region;категория для людей, связанных с местностью;1;1;from
+Q487372;Bukhara Region;название на языке оригинала;1;1;from
+Q487372;Bukhara Region;код GeoNames;1;1;from
+Q487372;Bukhara Region;категория для людей, умерших здесь;1;1;from
+Q487372;Bukhara Region;категория для людей, родившихся здесь;1;1;from
+Q487372;Bukhara Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q487372;Bukhara Region;численность населения;1;1;from
+Q487372;Bukhara Region;имеет границы с;1;4;to
+Q487372;Bukhara Region;столица;1;1;from
+Q487372;Bukhara Region;это частный случай понятия;1;1;from
+Q487372;Bukhara Region;карта местонахождения;1;1;from
+Q487089;Fergana Region;позиционная карта;1;1;from
+Q487089;Fergana Region;код GeoNames;1;1;from
+Q487537;Surxondaryo Region;общая тема категории;1;1;to
+Q474876;Namangan Region;дата прекращения существования;1;1;from
+Q474876;Namangan Region;часовой пояс;1;1;from
+Q474876;Namangan Region;категория на Викискладе;1;1;from
+Q474876;Namangan Region;код темы Quora;1;1;from
+Q474876;Namangan Region;ISO 3166-2;1;1;from
+Q474876;Namangan Region;площадь;1;1;from
+Q474876;Namangan Region;высота над уровнем моря;1;1;from
+Q474876;Namangan Region;категория для людей, связанных с местностью;1;1;from
+Q474876;Namangan Region;название на языке оригинала;1;1;from
+Q474876;Namangan Region;код GeoNames;1;1;from
+Q474876;Namangan Region;категория для людей, умерших здесь;1;1;from
+Q474876;Namangan Region;категория для людей, родившихся здесь;1;1;from
+Q474876;Namangan Region;официальное название;1;1;from
+Q474876;Namangan Region;код в Большой каталанской энциклопедии;1;1;from
+Q474876;Namangan Region;численность населения;1;1;from
+Q474876;Namangan Region;имеет границы с;1;4;to
+Q474876;Namangan Region;столица;1;1;from
+Q474876;Namangan Region;это частный случай понятия;1;1;from
+Q474876;Namangan Region;карта местонахождения;1;1;from
+Q474876;Namangan Region;код GND;1;1;from
+Q474876;Namangan Region;код VIAF;1;1;from
+Q474876;Namangan Region;государство;1;2;from
+Q474876;Namangan Region;дата основания/создания/возникновения;1;2;from
+Q474876;Namangan Region;географические координаты;1;1;from
+Q487089;Fergana Region;категория для людей, умерших здесь;1;1;from
+Q474876;Namangan Region;код Freebase;1;1;from
+Q487089;Fergana Region;категория для людей, родившихся здесь;1;1;from
+Q487089;Fergana Region;официальное название;1;1;from
+Q487089;Fergana Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q487089;Fergana Region;описывается в источниках;1;4;from
+Q487089;Fergana Region;численность населения;1;1;from
+Q487089;Fergana Region;имеет границы с;1;4;to
+Q487089;Fergana Region;столица;1;1;from
+Q487089;Fergana Region;это частный случай понятия;1;1;from
+Q487089;Fergana Region;карта местонахождения;1;1;from
+Q487089;Fergana Region;код GND;1;1;from
+Q487089;Fergana Region;государство;1;2;from
+Q487089;Fergana Region;административно-территориальная единица;1;25;to
+Q474876;Namangan Region;общая тема категории;1;1;to
+Q474876;Namangan Region;является столицей;1;1;to
+Q474876;Namangan Region;категория объединяет темы;1;3;to
+Q474876;Namangan Region;место смерти;1;2;to
+Q474876;Namangan Region;место рождения;1;9;to
+Q474876;Namangan Region;основная категория по теме;1;1;from
+Q474876;Namangan Region;FIPS 10-4 (страны и регионы);1;1;from
+Q474876;Namangan Region;официальный сайт;1;1;from
+Q474876;Namangan Region;Who's on First ID;1;1;from
+Q487372;Bukhara Region;официальный сайт;1;1;from
+Q487372;Bukhara Region;FIPS 10-4 (страны и регионы);1;1;from
+Q487372;Bukhara Region;основная категория по теме;1;1;from
+Q487537;Surxondaryo Region;это частный случай понятия;1;1;from
+Q487537;Surxondaryo Region;государство;1;2;from
+Q487537;Surxondaryo Region;административно-территориальная единица;1;27;to
+Q487532;Samarqand Region;является столицей;1;1;to
+Q487532;Samarqand Region;административно делится на;1;1;to
+Q487532;Samarqand Region;общая тема категории;1;1;to
+Q487532;Samarqand Region;категория объединяет темы;1;3;to
+Q487532;Samarqand Region;место смерти;1;10;to
+Q487532;Samarqand Region;место рождения;1;27;to
+Q487532;Samarqand Region;место в MusicBrainz;1;1;from
+Q487532;Samarqand Region;основная категория по теме;1;1;from
+Q487532;Samarqand Region;FIPS 10-4 (страны и регионы);1;1;from
+Q487532;Samarqand Region;официальный сайт;1;1;from
+Q487532;Samarqand Region;Who's on First ID;1;1;from
+Q487532;Samarqand Region;код Freebase;1;1;from
+Q487532;Samarqand Region;географические координаты;1;1;from
+Q487532;Samarqand Region;дата основания/создания/возникновения;1;1;from
+Q487532;Samarqand Region;часовой пояс;1;1;from
+Q487532;Samarqand Region;категория на Викискладе;1;1;from
+Q487532;Samarqand Region;ISO 3166-2;1;1;from
+Q487532;Samarqand Region;площадь;1;1;from
+Q487532;Samarqand Region;высота над уровнем моря;1;1;from
+Q487537;Surxondaryo Region;карта местонахождения;1;1;from
+Q487537;Surxondaryo Region;столица;1;1;from
+Q487372;Bukhara Region;категория объединяет темы;1;3;to
+Q487537;Surxondaryo Region;имеет границы с;1;3;to
+Q487537;Surxondaryo Region;является столицей;1;1;to
+Q487537;Surxondaryo Region;категория объединяет темы;1;3;to
+Q487537;Surxondaryo Region;место рождения;1;15;to
+Q487537;Surxondaryo Region;основная категория по теме;1;1;from
+Q487537;Surxondaryo Region;FIPS 10-4 (страны и регионы);1;1;from
+Q487537;Surxondaryo Region;официальный сайт;1;1;from
+Q487537;Surxondaryo Region;Who's on First ID;1;1;from
+Q487537;Surxondaryo Region;код Freebase;1;1;from
+Q487537;Surxondaryo Region;географические координаты;1;1;from
+Q487537;Surxondaryo Region;дата основания/создания/возникновения;1;1;from
+Q487537;Surxondaryo Region;часовой пояс;1;1;from
+Q487537;Surxondaryo Region;категория на Викискладе;1;1;from
+Q487537;Surxondaryo Region;ISO 3166-2;1;1;from
+Q487537;Surxondaryo Region;площадь;1;1;from
+Q487537;Surxondaryo Region;высота над уровнем моря;1;1;from
+Q487537;Surxondaryo Region;категория для людей, связанных с местностью;1;1;from
+Q487537;Surxondaryo Region;код GeoNames;1;1;from
+Q487537;Surxondaryo Region;категория для людей, умерших здесь;1;1;from
+Q487537;Surxondaryo Region;категория для людей, родившихся здесь;1;1;from
+Q487537;Surxondaryo Region;описывается в источниках;1;2;from
+Q487537;Surxondaryo Region;глава правительства;1;1;from
+Q487532;Samarqand Region;категория для людей, связанных с местностью;1;1;from
+Q487532;Samarqand Region;код GeoNames;1;1;from
+Q487532;Samarqand Region;категория для людей, умерших здесь;1;1;from
+Q487532;Samarqand Region;категория для людей, родившихся здесь;1;1;from
+Q487384;Andijan Region;ISO 3166-2;1;1;from
+Q487384;Andijan Region;площадь;1;1;from
+Q487384;Andijan Region;категория для людей, связанных с местностью;1;1;from
+Q487384;Andijan Region;название на языке оригинала;1;1;from
+Q487384;Andijan Region;код GeoNames;1;1;from
+Q487384;Andijan Region;категория для людей, умерших здесь;1;1;from
+Q487384;Andijan Region;категория для людей, родившихся здесь;1;1;from
+Q487384;Andijan Region;официальное название;1;1;from
+Q487384;Andijan Region;численность населения;1;1;from
+Q487384;Andijan Region;имеет границы с;1;4;to
+Q487384;Andijan Region;столица;1;1;from
+Q487384;Andijan Region;это частный случай понятия;1;1;from
+Q487384;Andijan Region;карта местонахождения;1;1;from
+Q487384;Andijan Region;государство;1;2;from
+Q487384;Andijan Region;административно-территориальная единица;1;16;to
+Q487372;Bukhara Region;является столицей;1;1;to
+Q487372;Bukhara Region;административно делится на;1;1;to
+Q487372;Bukhara Region;общая тема категории;1;1;to
+Q487372;Bukhara Region;происходит из;1;3;to
+Q487372;Bukhara Region;место смерти;1;6;to
+Q487372;Bukhara Region;место рождения;1;20;to
+Q487384;Andijan Region;категория на Викискладе;1;1;from
+Q487384;Andijan Region;часовой пояс;1;1;from
+Q487384;Andijan Region;дата основания/создания/возникновения;1;1;from
+Q487384;Andijan Region;общая тема категории;1;1;to
+Q487532;Samarqand Region;численность населения;1;1;from
+Q487532;Samarqand Region;имеет границы с;1;3;to
+Q487532;Samarqand Region;столица;1;1;from
+Q487532;Samarqand Region;это частный случай понятия;1;1;from
+Q487532;Samarqand Region;карта местонахождения;1;1;from
+Q487532;Samarqand Region;изображение;1;1;from
+Q487532;Samarqand Region;государство;1;3;from
+Q487532;Samarqand Region;административно-территориальная единица;1;25;to
+Q487384;Andijan Region;административно делится на;1;1;to
+Q487384;Andijan Region;является столицей;1;1;to
+Q487384;Andijan Region;географические координаты;1;1;from
+Q487384;Andijan Region;место смерти;1;2;to
+Q487384;Andijan Region;категория объединяет темы;1;3;to
+Q487384;Andijan Region;место рождения;1;8;to
+Q487384;Andijan Region;место в MusicBrainz;1;1;from
+Q487384;Andijan Region;основная категория по теме;1;1;from
+Q487384;Andijan Region;FIPS 10-4 (страны и регионы);1;1;from
+Q487384;Andijan Region;официальный сайт;1;1;from
+Q487384;Andijan Region;Who's on First ID;1;1;from
+Q487384;Andijan Region;код Freebase;1;1;from
+Q488811;Jizzakh Region;происходит из;1;1;to

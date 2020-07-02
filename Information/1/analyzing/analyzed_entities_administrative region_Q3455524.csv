@@ -1,0 +1,2291 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q134638;Chūbu region;административно-территориальная единица;1;18;to
+Q22008351;Komuna e Qerretit;код GeoNames;1;1;from
+Q22008349;Komuna e Qelezes;код GNS;1;1;from
+Q22008349;Komuna e Qelezes;часовой пояс;1;1;from
+Q22008349;Komuna e Qelezes;географические координаты;1;1;from
+Q22008351;Komuna e Qerretit;административно-территориальная единица;1;1;from
+Q22008351;Komuna e Qerretit;государство;1;1;from
+Q22008351;Komuna e Qerretit;это частный случай понятия;1;1;from
+Q22008351;Komuna e Qerretit;высота над уровнем моря;1;1;from
+Q22008349;Komuna e Qelezes;код GeoNames;1;1;from
+Q22008351;Komuna e Qerretit;код GNS;1;1;from
+Q22008351;Komuna e Qerretit;часовой пояс;1;1;from
+Q22008351;Komuna e Qerretit;географические координаты;1;1;from
+Q22008352;Komuna e Qesaratit;административно-территориальная единица;1;1;from
+Q22008352;Komuna e Qesaratit;государство;1;1;from
+Q22008352;Komuna e Qesaratit;это частный случай понятия;1;1;from
+Q22008349;Komuna e Qelezes;высота над уровнем моря;1;1;from
+Q22008349;Komuna e Qelezes;это частный случай понятия;1;1;from
+Q22008352;Komuna e Qesaratit;высота над уровнем моря;1;1;from
+Q22008345;Bashkia e Pukes;государство;1;1;from
+Q22008339;Komuna e Prezes;код GeoNames;1;1;from
+Q22008339;Komuna e Prezes;высота над уровнем моря;1;1;from
+Q22008339;Komuna e Prezes;код GNS;1;1;from
+Q22008339;Komuna e Prezes;часовой пояс;1;1;from
+Q22008339;Komuna e Prezes;географические координаты;1;1;from
+Q22008345;Bashkia e Pukes;административно-территориальная единица;1;1;from
+Q22008345;Bashkia e Pukes;это частный случай понятия;1;1;from
+Q22008349;Komuna e Qelezes;государство;1;1;from
+Q22008345;Bashkia e Pukes;код GeoNames;1;1;from
+Q22008345;Bashkia e Pukes;высота над уровнем моря;1;1;from
+Q22008345;Bashkia e Pukes;код GNS;1;1;from
+Q22008345;Bashkia e Pukes;часовой пояс;1;1;from
+Q22008345;Bashkia e Pukes;географические координаты;1;1;from
+Q22008349;Komuna e Qelezes;административно-территориальная единица;1;1;from
+Q22008352;Komuna e Qesaratit;код GeoNames;1;1;from
+Q22008352;Komuna e Qesaratit;код GNS;1;1;from
+Q22008339;Komuna e Prezes;государство;1;1;from
+Q22008385;Komuna e Rrashbullit;географические координаты;1;1;from
+Q22008385;Komuna e Rrashbullit;государство;1;1;from
+Q22008385;Komuna e Rrashbullit;это частный случай понятия;1;1;from
+Q22008385;Komuna e Rrashbullit;код GeoNames;1;1;from
+Q22008385;Komuna e Rrashbullit;высота над уровнем моря;1;1;from
+Q22008385;Komuna e Rrashbullit;код GNS;1;1;from
+Q22008385;Komuna e Rrashbullit;часовой пояс;1;1;from
+Q22008386;Bashkia e Rreshenit;административно-территориальная единица;1;1;from
+Q22008378;Bashkia e Roskovecit;географические координаты;1;1;from
+Q22008386;Bashkia e Rreshenit;государство;1;1;from
+Q22008386;Bashkia e Rreshenit;это частный случай понятия;1;1;from
+Q22008386;Bashkia e Rreshenit;код GeoNames;1;1;from
+Q22008386;Bashkia e Rreshenit;высота над уровнем моря;1;1;from
+Q22008386;Bashkia e Rreshenit;код GNS;1;1;from
+Q22008386;Bashkia e Rreshenit;часовой пояс;1;1;from
+Q22008385;Komuna e Rrashbullit;административно-территориальная единица;1;1;from
+Q22008378;Bashkia e Roskovecit;часовой пояс;1;1;from
+Q22008352;Komuna e Qesaratit;часовой пояс;1;1;from
+Q22008367;Komuna e Remasit;код GNS;1;1;from
+Q22008352;Komuna e Qesaratit;географические координаты;1;1;from
+Q22008367;Komuna e Remasit;административно-территориальная единица;1;1;from
+Q22008367;Komuna e Remasit;государство;1;1;from
+Q22008367;Komuna e Remasit;это частный случай понятия;1;1;from
+Q22008367;Komuna e Remasit;код GeoNames;1;1;from
+Q22008367;Komuna e Remasit;высота над уровнем моря;1;1;from
+Q22008367;Komuna e Remasit;часовой пояс;1;1;from
+Q22008378;Bashkia e Roskovecit;код GNS;1;1;from
+Q22008367;Komuna e Remasit;географические координаты;1;1;from
+Q22008378;Bashkia e Roskovecit;административно-территориальная единица;1;1;from
+Q22008378;Bashkia e Roskovecit;государство;1;1;from
+Q22008378;Bashkia e Roskovecit;это частный случай понятия;1;1;from
+Q22008378;Bashkia e Roskovecit;код GeoNames;1;1;from
+Q22008378;Bashkia e Roskovecit;высота над уровнем моря;1;1;from
+Q22008339;Komuna e Prezes;это частный случай понятия;1;1;from
+Q22008339;Komuna e Prezes;административно-территориальная единица;1;1;from
+Q22009603;Bashkia e Kamzes;код GeoNames;1;1;from
+Q22008290;Komuna e Paperit;код GeoNames;1;1;from
+Q22008208;Komuna e Buzit;код GNS;1;1;from
+Q22008208;Komuna e Buzit;часовой пояс;1;1;from
+Q22008208;Komuna e Buzit;географические координаты;1;1;from
+Q22008290;Komuna e Paperit;административно-территориальная единица;1;1;from
+Q22008290;Komuna e Paperit;государство;1;1;from
+Q22008290;Komuna e Paperit;это частный случай понятия;1;1;from
+Q22008290;Komuna e Paperit;высота над уровнем моря;1;1;from
+Q22008208;Komuna e Buzit;код GeoNames;1;1;from
+Q22008290;Komuna e Paperit;код GNS;1;1;from
+Q22008290;Komuna e Paperit;часовой пояс;1;1;from
+Q22008290;Komuna e Paperit;географические координаты;1;1;from
+Q22008312;Bashkia e Peqinit;административно-территориальная единица;1;1;from
+Q22008312;Bashkia e Peqinit;государство;1;1;from
+Q22008312;Bashkia e Peqinit;это частный случай понятия;1;1;from
+Q22008208;Komuna e Buzit;высота над уровнем моря;1;1;from
+Q22008208;Komuna e Buzit;это частный случай понятия;1;1;from
+Q22008312;Bashkia e Peqinit;высота над уровнем моря;1;1;from
+Q22008205;Komuna e Bushtrices;государство;1;1;from
+Q22008203;Bashkia e Burrelit;код GeoNames;1;1;from
+Q22008203;Bashkia e Burrelit;высота над уровнем моря;1;1;from
+Q22008203;Bashkia e Burrelit;код GNS;1;1;from
+Q22008203;Bashkia e Burrelit;часовой пояс;1;1;from
+Q22008203;Bashkia e Burrelit;географические координаты;1;1;from
+Q22008205;Komuna e Bushtrices;административно-территориальная единица;1;1;from
+Q22008205;Komuna e Bushtrices;это частный случай понятия;1;1;from
+Q22008208;Komuna e Buzit;государство;1;1;from
+Q22008205;Komuna e Bushtrices;код GeoNames;1;1;from
+Q22008205;Komuna e Bushtrices;высота над уровнем моря;1;1;from
+Q22008205;Komuna e Bushtrices;код GNS;1;1;from
+Q22008205;Komuna e Bushtrices;часовой пояс;1;1;from
+Q22008205;Komuna e Bushtrices;географические координаты;1;1;from
+Q22008208;Komuna e Buzit;административно-территориальная единица;1;1;from
+Q22008312;Bashkia e Peqinit;код GeoNames;1;1;from
+Q22008312;Bashkia e Peqinit;код GNS;1;1;from
+Q22008334;Komuna e Poshnjes;географические координаты;1;1;from
+Q22008317;Komuna e Petreles;географические координаты;1;1;from
+Q22008317;Komuna e Petreles;государство;1;1;from
+Q22008317;Komuna e Petreles;это частный случай понятия;1;1;from
+Q22008317;Komuna e Petreles;код GeoNames;1;1;from
+Q22008317;Komuna e Petreles;высота над уровнем моря;1;1;from
+Q22008317;Komuna e Petreles;код GNS;1;1;from
+Q22008317;Komuna e Petreles;часовой пояс;1;1;from
+Q22008334;Komuna e Poshnjes;административно-территориальная единица;1;1;from
+Q22008315;Komuna e Perparimit;географические координаты;1;1;from
+Q22008334;Komuna e Poshnjes;государство;1;1;from
+Q22008334;Komuna e Poshnjes;это частный случай понятия;1;1;from
+Q22008334;Komuna e Poshnjes;код GeoNames;1;1;from
+Q22008334;Komuna e Poshnjes;высота над уровнем моря;1;1;from
+Q22008334;Komuna e Poshnjes;код GNS;1;1;from
+Q22008334;Komuna e Poshnjes;часовой пояс;1;1;from
+Q22008317;Komuna e Petreles;административно-территориальная единица;1;1;from
+Q22008315;Komuna e Perparimit;часовой пояс;1;1;from
+Q22008312;Bashkia e Peqinit;часовой пояс;1;1;from
+Q22008314;Komuna e Perondit;код GNS;1;1;from
+Q22008312;Bashkia e Peqinit;географические координаты;1;1;from
+Q22008314;Komuna e Perondit;административно-территориальная единица;1;1;from
+Q22008314;Komuna e Perondit;государство;1;1;from
+Q22008314;Komuna e Perondit;это частный случай понятия;1;1;from
+Q22008314;Komuna e Perondit;код GeoNames;1;1;from
+Q22008314;Komuna e Perondit;высота над уровнем моря;1;1;from
+Q22008314;Komuna e Perondit;часовой пояс;1;1;from
+Q22008315;Komuna e Perparimit;код GNS;1;1;from
+Q22008314;Komuna e Perondit;географические координаты;1;1;from
+Q22008315;Komuna e Perparimit;административно-территориальная единица;1;1;from
+Q22008315;Komuna e Perparimit;государство;1;1;from
+Q22008315;Komuna e Perparimit;это частный случай понятия;1;1;from
+Q22008315;Komuna e Perparimit;код GeoNames;1;1;from
+Q22008315;Komuna e Perparimit;высота над уровнем моря;1;1;from
+Q22008386;Bashkia e Rreshenit;географические координаты;1;1;from
+Q22008388;Bashkia e Rrogozhines;административно-территориальная единица;1;1;from
+Q22008388;Bashkia e Rrogozhines;государство;1;1;from
+Q22009534;Komuna e Gracenit;географические координаты;1;1;from
+Q22009534;Komuna e Gracenit;государство;1;1;from
+Q22009534;Komuna e Gracenit;это частный случай понятия;1;1;from
+Q22009534;Komuna e Gracenit;код GeoNames;1;1;from
+Q22009534;Komuna e Gracenit;высота над уровнем моря;1;1;from
+Q22009534;Komuna e Gracenit;код GNS;1;1;from
+Q22009534;Komuna e Gracenit;часовой пояс;1;1;from
+Q22009552;Komuna e Grekanit;административно-территориальная единица;1;1;from
+Q22009489;Komuna e Gjocajt;географические координаты;1;1;from
+Q22009552;Komuna e Grekanit;государство;1;1;from
+Q22009552;Komuna e Grekanit;это частный случай понятия;1;1;from
+Q22009552;Komuna e Grekanit;код GeoNames;1;1;from
+Q22009552;Komuna e Grekanit;высота над уровнем моря;1;1;from
+Q22009552;Komuna e Grekanit;код GNS;1;1;from
+Q22009552;Komuna e Grekanit;часовой пояс;1;1;from
+Q22009534;Komuna e Gracenit;административно-территориальная единица;1;1;from
+Q22009489;Komuna e Gjocajt;часовой пояс;1;1;from
+Q22009564;Komuna e Gurit i Zi;административно-территориальная единица;1;1;from
+Q22008440;Bashkia e Shkodres;часовой пояс;1;1;from
+Q22008440;Bashkia e Shkodres;код ISNI;1;1;from
+Q22008440;Bashkia e Shkodres;это частный случай понятия;1;1;from
+Q22008440;Bashkia e Shkodres;код GeoNames;1;1;from
+Q22008440;Bashkia e Shkodres;высота над уровнем моря;1;1;from
+Q22008440;Bashkia e Shkodres;код GNS;1;1;from
+Q22008440;Bashkia e Shkodres;идентификатор Ringgold;1;1;from
+Q22008440;Bashkia e Shkodres;географические координаты;1;1;from
+Q22009489;Komuna e Gjocajt;код GNS;1;1;from
+Q22008440;Bashkia e Shkodres;официальный сайт;1;1;from
+Q22009489;Komuna e Gjocajt;административно-территориальная единица;1;1;from
+Q22009489;Komuna e Gjocajt;государство;1;1;from
+Q22009489;Komuna e Gjocajt;это частный случай понятия;1;1;from
+Q22009489;Komuna e Gjocajt;код GeoNames;1;1;from
+Q22009489;Komuna e Gjocajt;высота над уровнем моря;1;1;from
+Q22009552;Komuna e Grekanit;географические координаты;1;1;from
+Q22009564;Komuna e Gurit i Zi;государство;1;1;from
+Q22008388;Bashkia e Rrogozhines;это частный случай понятия;1;1;from
+Q22009593;Komuna e Kajanit;это частный случай понятия;1;1;from
+Q22009584;Ishëm;высота над уровнем моря;1;1;from
+Q22009584;Ishëm;код GNS;1;1;from
+Q22009584;Ishëm;часовой пояс;1;1;from
+Q22009584;Ishëm;географические координаты;1;1;from
+Q22009593;Komuna e Kajanit;административно-территориальная единица;1;1;from
+Q22009593;Komuna e Kajanit;государство;1;1;from
+Q22009593;Komuna e Kajanit;код GeoNames;1;1;from
+Q22009584;Ishëm;это частный случай понятия;1;1;from
+Q22009593;Komuna e Kajanit;высота над уровнем моря;1;1;from
+Q22009593;Komuna e Kajanit;код GNS;1;1;from
+Q22009593;Komuna e Kajanit;часовой пояс;1;1;from
+Q22009593;Komuna e Kajanit;географические координаты;1;1;from
+Q22009603;Bashkia e Kamzes;административно-территориальная единица;1;1;from
+Q22009603;Bashkia e Kamzes;государство;1;1;from
+Q22009584;Ishëm;код GeoNames;1;1;from
+Q22009584;Ishëm;код VIAF;1;1;from
+Q22009564;Komuna e Gurit i Zi;это частный случай понятия;1;1;from
+Q22009581;Komuna e Iballes;государство;1;1;from
+Q22009564;Komuna e Gurit i Zi;код GeoNames;1;1;from
+Q22009564;Komuna e Gurit i Zi;высота над уровнем моря;1;1;from
+Q22009564;Komuna e Gurit i Zi;код GNS;1;1;from
+Q22009564;Komuna e Gurit i Zi;часовой пояс;1;1;from
+Q22009564;Komuna e Gurit i Zi;географические координаты;1;1;from
+Q22009581;Komuna e Iballes;административно-территориальная единица;1;1;from
+Q22009581;Komuna e Iballes;это частный случай понятия;1;1;from
+Q22009584;Ishëm;государство;1;1;from
+Q22009581;Komuna e Iballes;код GeoNames;1;1;from
+Q22009581;Komuna e Iballes;высота над уровнем моря;1;1;from
+Q22009581;Komuna e Iballes;код GNS;1;1;from
+Q22009581;Komuna e Iballes;часовой пояс;1;1;from
+Q22009581;Komuna e Iballes;географические координаты;1;1;from
+Q22009584;Ishëm;административно-территориальная единица;1;1;from
+Q22008440;Bashkia e Shkodres;государство;1;1;from
+Q22008440;Bashkia e Shkodres;административно-территориальная единица;1;1;from
+Q22008434;Bashkia e Shijakut;географические координаты;1;1;from
+Q22008405;Bashkia e Selenices;код GeoNames;1;1;from
+Q22008402;Komuna e Farkes;код GNS;1;1;from
+Q22008402;Komuna e Farkes;часовой пояс;1;1;from
+Q22008402;Komuna e Farkes;географические координаты;1;1;from
+Q22008405;Bashkia e Selenices;административно-территориальная единица;1;1;from
+Q22008405;Bashkia e Selenices;государство;1;1;from
+Q22008405;Bashkia e Selenices;это частный случай понятия;1;1;from
+Q22008405;Bashkia e Selenices;высота над уровнем моря;1;1;from
+Q22008402;Komuna e Farkes;код GeoNames;1;1;from
+Q22008405;Bashkia e Selenices;код GNS;1;1;from
+Q22008405;Bashkia e Selenices;часовой пояс;1;1;from
+Q22008405;Bashkia e Selenices;географические координаты;1;1;from
+Q22008413;Komuna e Sevasterit;административно-территориальная единица;1;1;from
+Q22008413;Komuna e Sevasterit;государство;1;1;from
+Q22008413;Komuna e Sevasterit;это частный случай понятия;1;1;from
+Q22008402;Komuna e Farkes;высота над уровнем моря;1;1;from
+Q22008402;Komuna e Farkes;это частный случай понятия;1;1;from
+Q22008434;Bashkia e Shijakut;часовой пояс;1;1;from
+Q22008395;Bashkia e Rubikut;государство;1;1;from
+Q22008388;Bashkia e Rrogozhines;код GeoNames;1;1;from
+Q22008388;Bashkia e Rrogozhines;высота над уровнем моря;1;1;from
+Q22008388;Bashkia e Rrogozhines;код GNS;1;1;from
+Q22008388;Bashkia e Rrogozhines;часовой пояс;1;1;from
+Q22008388;Bashkia e Rrogozhines;географические координаты;1;1;from
+Q22008395;Bashkia e Rubikut;административно-территориальная единица;1;1;from
+Q22008395;Bashkia e Rubikut;это частный случай понятия;1;1;from
+Q22008402;Komuna e Farkes;государство;1;1;from
+Q22008395;Bashkia e Rubikut;код GeoNames;1;1;from
+Q22008395;Bashkia e Rubikut;высота над уровнем моря;1;1;from
+Q22008395;Bashkia e Rubikut;код GNS;1;1;from
+Q22008395;Bashkia e Rubikut;часовой пояс;1;1;from
+Q22008395;Bashkia e Rubikut;географические координаты;1;1;from
+Q22008402;Komuna e Farkes;административно-территориальная единица;1;1;from
+Q22008413;Komuna e Sevasterit;код GeoNames;1;1;from
+Q22008413;Komuna e Sevasterit;высота над уровнем моря;1;1;from
+Q22008413;Komuna e Sevasterit;код GNS;1;1;from
+Q22008433;Komuna e Shezes;часовой пояс;1;1;from
+Q22008433;Komuna e Shezes;административно-территориальная единица;1;1;from
+Q22008433;Komuna e Shezes;государство;1;1;from
+Q22008433;Komuna e Shezes;это частный случай понятия;1;1;from
+Q22008433;Komuna e Shezes;код GeoNames;1;1;from
+Q22008433;Komuna e Shezes;высота над уровнем моря;1;1;from
+Q22008433;Komuna e Shezes;код GNS;1;1;from
+Q22008433;Komuna e Shezes;географические координаты;1;1;from
+Q22008413;Komuna e Sevasterit;часовой пояс;1;1;from
+Q22008434;Bashkia e Shijakut;административно-территориальная единица;1;1;from
+Q22008434;Bashkia e Shijakut;государство;1;1;from
+Q22008434;Bashkia e Shijakut;это частный случай понятия;1;1;from
+Q22008434;Bashkia e Shijakut;код GeoNames;1;1;from
+Q22008434;Bashkia e Shijakut;высота над уровнем моря;1;1;from
+Q22008434;Bashkia e Shijakut;код GNS;1;1;from
+Q22008416;Komuna e Shalesit;географические координаты;1;1;from
+Q22008416;Komuna e Shalesit;часовой пояс;1;1;from
+Q22008416;Komuna e Shalesit;код GNS;1;1;from
+Q22008416;Komuna e Shalesit;высота над уровнем моря;1;1;from
+Q22008416;Komuna e Shalesit;код GeoNames;1;1;from
+Q22008416;Komuna e Shalesit;это частный случай понятия;1;1;from
+Q22008416;Komuna e Shalesit;государство;1;1;from
+Q22008416;Komuna e Shalesit;административно-территориальная единица;1;1;from
+Q22008414;Komuna e Shales;географические координаты;1;1;from
+Q22008414;Komuna e Shales;часовой пояс;1;1;from
+Q22008414;Komuna e Shales;код GNS;1;1;from
+Q22008414;Komuna e Shales;высота над уровнем моря;1;1;from
+Q22008414;Komuna e Shales;код GeoNames;1;1;from
+Q22008414;Komuna e Shales;это частный случай понятия;1;1;from
+Q22008414;Komuna e Shales;государство;1;1;from
+Q22008414;Komuna e Shales;административно-территориальная единица;1;1;from
+Q22008413;Komuna e Sevasterit;географические координаты;1;1;from
+Q22008203;Bashkia e Burrelit;это частный случай понятия;1;1;from
+Q22008203;Bashkia e Burrelit;государство;1;1;from
+Q22008203;Bashkia e Burrelit;административно-территориальная единица;1;1;from
+Q22007657;Bashkia e Ballshit;географические координаты;1;1;from
+Q22007657;Bashkia e Ballshit;государство;1;1;from
+Q22007657;Bashkia e Ballshit;это частный случай понятия;1;1;from
+Q22007657;Bashkia e Ballshit;код GeoNames;1;1;from
+Q22007657;Bashkia e Ballshit;высота над уровнем моря;1;1;from
+Q22007657;Bashkia e Ballshit;код GNS;1;1;from
+Q22007657;Bashkia e Ballshit;часовой пояс;1;1;from
+Q22007670;Komuna e Lukoves;административно-территориальная единица;1;1;from
+Q22007630;Komuna e Zejmenit;географические координаты;1;1;from
+Q22007670;Komuna e Lukoves;государство;1;1;from
+Q22007670;Komuna e Lukoves;это частный случай понятия;1;1;from
+Q22007670;Komuna e Lukoves;код GeoNames;1;1;from
+Q22007670;Komuna e Lukoves;высота над уровнем моря;1;1;from
+Q22007670;Komuna e Lukoves;код GNS;1;1;from
+Q22007670;Komuna e Lukoves;часовой пояс;1;1;from
+Q22007657;Bashkia e Ballshit;административно-территориальная единица;1;1;from
+Q22007630;Komuna e Zejmenit;часовой пояс;1;1;from
+Q22007694;Gosturan;государство;1;1;from
+Q22007628;Komuna e Zall-herrit;код GNS;1;1;from
+Q22007627;Komuna e Zall-bastarit;географические координаты;1;1;from
+Q22007628;Komuna e Zall-herrit;административно-территориальная единица;1;1;from
+Q22007628;Komuna e Zall-herrit;государство;1;1;from
+Q22007628;Komuna e Zall-herrit;это частный случай понятия;1;1;from
+Q22007628;Komuna e Zall-herrit;код GeoNames;1;1;from
+Q22007628;Komuna e Zall-herrit;высота над уровнем моря;1;1;from
+Q22007628;Komuna e Zall-herrit;часовой пояс;1;1;from
+Q22007630;Komuna e Zejmenit;код GNS;1;1;from
+Q22007628;Komuna e Zall-herrit;географические координаты;1;1;from
+Q22007630;Komuna e Zejmenit;административно-территориальная единица;1;1;from
+Q22007630;Komuna e Zejmenit;государство;1;1;from
+Q22007630;Komuna e Zejmenit;это частный случай понятия;1;1;from
+Q22007630;Komuna e Zejmenit;код GeoNames;1;1;from
+Q22007630;Komuna e Zejmenit;высота над уровнем моря;1;1;from
+Q22007670;Komuna e Lukoves;географические координаты;1;1;from
+Q22007694;Gosturan;это частный случай понятия;1;1;from
+Q22007948;Komuna e Shengjergjit;высота над уровнем моря;1;1;from
+Q22007946;Komuna e Fushe Bulqizes;код GeoNames;1;1;from
+Q22007862;Corraj;высота над уровнем моря;1;1;from
+Q22007862;Corraj;часовой пояс;1;1;from
+Q22007862;Corraj;географические координаты;1;1;from
+Q22007946;Komuna e Fushe Bulqizes;административно-территориальная единица;1;1;from
+Q22007946;Komuna e Fushe Bulqizes;государство;1;1;from
+Q22007946;Komuna e Fushe Bulqizes;это частный случай понятия;1;1;from
+Q22007946;Komuna e Fushe Bulqizes;высота над уровнем моря;1;1;from
+Q22007862;Corraj;это частный случай понятия;1;1;from
+Q22007946;Komuna e Fushe Bulqizes;код GNS;1;1;from
+Q22007946;Komuna e Fushe Bulqizes;часовой пояс;1;1;from
+Q22007946;Komuna e Fushe Bulqizes;географические координаты;1;1;from
+Q22007948;Komuna e Shengjergjit;административно-территориальная единица;1;1;from
+Q22007948;Komuna e Shengjergjit;государство;1;1;from
+Q22007948;Komuna e Shengjergjit;это частный случай понятия;1;1;from
+Q22007862;Corraj;код GeoNames;1;1;from
+Q22007862;Corraj;государство;1;1;from
+Q22007694;Gosturan;код GeoNames;1;1;from
+Q22007707;Sinanaj;высота над уровнем моря;1;1;from
+Q22007694;Gosturan;высота над уровнем моря;1;1;from
+Q22007694;Gosturan;часовой пояс;1;1;from
+Q22007694;Gosturan;географические координаты;1;1;from
+Q22007707;Sinanaj;государство;1;1;from
+Q22007707;Sinanaj;это частный случай понятия;1;1;from
+Q22007707;Sinanaj;код GeoNames;1;1;from
+Q22007707;Sinanaj;часовой пояс;1;1;from
+Q22007709;Demaliaj;географические координаты;1;1;from
+Q22007707;Sinanaj;географические координаты;1;1;from
+Q22007709;Demaliaj;государство;1;1;from
+Q22007709;Demaliaj;это частный случай понятия;1;1;from
+Q22007709;Demaliaj;код GeoNames;1;1;from
+Q22007709;Demaliaj;высота над уровнем моря;1;1;from
+Q22007709;Demaliaj;часовой пояс;1;1;from
+Q22007627;Komuna e Zall-bastarit;часовой пояс;1;1;from
+Q22007627;Komuna e Zall-bastarit;код GNS;1;1;from
+Q22007627;Komuna e Zall-bastarit;высота над уровнем моря;1;1;from
+Q22007547;Bashkia e Tiranes;географические координаты;1;1;from
+Q22007530;Komuna e Terpanit;географические координаты;1;1;from
+Q22007547;Bashkia e Tiranes;государство;1;1;from
+Q22007547;Bashkia e Tiranes;это частный случай понятия;1;1;from
+Q22007547;Bashkia e Tiranes;код GeoNames;1;1;from
+Q22007547;Bashkia e Tiranes;высота над уровнем моря;1;1;from
+Q22007547;Bashkia e Tiranes;часовой пояс;1;1;from
+Q22007567;Komuna e Ulezes;административно-территориальная единица;1;1;from
+Q22007530;Komuna e Terpanit;код GNS;1;1;from
+Q22007567;Komuna e Ulezes;государство;1;1;from
+Q22007567;Komuna e Ulezes;это частный случай понятия;1;1;from
+Q22007567;Komuna e Ulezes;код GeoNames;1;1;from
+Q22007567;Komuna e Ulezes;высота над уровнем моря;1;1;from
+Q22007567;Komuna e Ulezes;код GNS;1;1;from
+Q22007567;Komuna e Ulezes;часовой пояс;1;1;from
+Q22007530;Komuna e Terpanit;часовой пояс;1;1;from
+Q22007530;Komuna e Terpanit;высота над уровнем моря;1;1;from
+Q22007627;Komuna e Zall-bastarit;код GeoNames;1;1;from
+Q22007516;Bashkia e Sukthit;код GeoNames;1;1;from
+Q22007507;Komuna e Strumit;код GNS;1;1;from
+Q22007507;Komuna e Strumit;часовой пояс;1;1;from
+Q22007507;Komuna e Strumit;географические координаты;1;1;from
+Q22007516;Bashkia e Sukthit;административно-территориальная единица;1;1;from
+Q22007516;Bashkia e Sukthit;государство;1;1;from
+Q22007516;Bashkia e Sukthit;это частный случай понятия;1;1;from
+Q22007516;Bashkia e Sukthit;высота над уровнем моря;1;1;from
+Q22007530;Komuna e Terpanit;код GeoNames;1;1;from
+Q22007516;Bashkia e Sukthit;код GNS;1;1;from
+Q22007516;Bashkia e Sukthit;часовой пояс;1;1;from
+Q22007516;Bashkia e Sukthit;географические координаты;1;1;from
+Q22007530;Komuna e Terpanit;административно-территориальная единица;1;1;from
+Q22007530;Komuna e Terpanit;государство;1;1;from
+Q22007530;Komuna e Terpanit;это частный случай понятия;1;1;from
+Q22007567;Komuna e Ulezes;географические координаты;1;1;from
+Q22007569;Komuna e Ungrejit;административно-территориальная единица;1;1;from
+Q22007569;Komuna e Ungrejit;государство;1;1;from
+Q22007590;Komuna e Velipojes;это частный случай понятия;1;1;from
+Q22007579;Komuna e Vaqarrit;высота над уровнем моря;1;1;from
+Q22007579;Komuna e Vaqarrit;код GNS;1;1;from
+Q22007579;Komuna e Vaqarrit;часовой пояс;1;1;from
+Q22007579;Komuna e Vaqarrit;географические координаты;1;1;from
+Q22007590;Komuna e Velipojes;административно-территориальная единица;1;1;from
+Q22007590;Komuna e Velipojes;государство;1;1;from
+Q22007590;Komuna e Velipojes;код GeoNames;1;1;from
+Q22007569;Komuna e Ungrejit;это частный случай понятия;1;1;from
+Q22007590;Komuna e Velipojes;код GNS;1;1;from
+Q22007590;Komuna e Velipojes;часовой пояс;1;1;from
+Q22007590;Komuna e Velipojes;географические координаты;1;1;from
+Q22007627;Komuna e Zall-bastarit;административно-территориальная единица;1;1;from
+Q22007627;Komuna e Zall-bastarit;государство;1;1;from
+Q22007627;Komuna e Zall-bastarit;это частный случай понятия;1;1;from
+Q22007579;Komuna e Vaqarrit;код GeoNames;1;1;from
+Q22007579;Komuna e Vaqarrit;это частный случай понятия;1;1;from
+Q22007579;Komuna e Vaqarrit;государство;1;1;from
+Q22007579;Komuna e Vaqarrit;административно-территориальная единица;1;1;from
+Q22007574;Bashkia e Ures Vajgurore;географические координаты;1;1;from
+Q22007574;Bashkia e Ures Vajgurore;часовой пояс;1;1;from
+Q22007574;Bashkia e Ures Vajgurore;код GNS;1;1;from
+Q22007574;Bashkia e Ures Vajgurore;высота над уровнем моря;1;1;from
+Q22007574;Bashkia e Ures Vajgurore;код GeoNames;1;1;from
+Q22007574;Bashkia e Ures Vajgurore;это частный случай понятия;1;1;from
+Q22007574;Bashkia e Ures Vajgurore;государство;1;1;from
+Q22007574;Bashkia e Ures Vajgurore;административно-территориальная единица;1;1;from
+Q22007569;Komuna e Ungrejit;географические координаты;1;1;from
+Q22007569;Komuna e Ungrejit;часовой пояс;1;1;from
+Q22007569;Komuna e Ungrejit;код GNS;1;1;from
+Q22007569;Komuna e Ungrejit;высота над уровнем моря;1;1;from
+Q22007569;Komuna e Ungrejit;код GeoNames;1;1;from
+Q22007948;Komuna e Shengjergjit;код GeoNames;1;1;from
+Q22007948;Komuna e Shengjergjit;код GNS;1;1;from
+Q22008196;Bashkia e Bulqizes;географические координаты;1;1;from
+Q22008144;Komuna e Barmashit;государство;1;1;from
+Q22008138;Komuna e Ballabanit;код GeoNames;1;1;from
+Q22008138;Komuna e Ballabanit;высота над уровнем моря;1;1;from
+Q22008138;Komuna e Ballabanit;код GNS;1;1;from
+Q22008138;Komuna e Ballabanit;часовой пояс;1;1;from
+Q22008138;Komuna e Ballabanit;географические координаты;1;1;from
+Q22008144;Komuna e Barmashit;административно-территориальная единица;1;1;from
+Q22008144;Komuna e Barmashit;это частный случай понятия;1;1;from
+Q22008138;Komuna e Ballabanit;государство;1;1;from
+Q22008144;Komuna e Barmashit;код GeoNames;1;1;from
+Q22008144;Komuna e Barmashit;высота над уровнем моря;1;1;from
+Q22008144;Komuna e Barmashit;код GNS;1;1;from
+Q22008144;Komuna e Barmashit;часовой пояс;1;1;from
+Q22008144;Komuna e Barmashit;географические координаты;1;1;from
+Q22008153;Begaj;государство;1;1;from
+Q22008138;Komuna e Ballabanit;это частный случай понятия;1;1;from
+Q22008138;Komuna e Ballabanit;административно-территориальная единица;1;1;from
+Q22008153;Begaj;код GeoNames;1;1;from
+Q22008102;Mejdan;географические координаты;1;1;from
+Q22007965;Komuna e Leskovikut;географические координаты;1;1;from
+Q22008102;Mejdan;государство;1;1;from
+Q22008102;Mejdan;это частный случай понятия;1;1;from
+Q22008102;Mejdan;код GeoNames;1;1;from
+Q22008102;Mejdan;высота над уровнем моря;1;1;from
+Q22008102;Mejdan;часовой пояс;1;1;from
+Q22008123;Komuna e Arrenit;административно-территориальная единица;1;1;from
+Q22008123;Komuna e Arrenit;географические координаты;1;1;from
+Q22008123;Komuna e Arrenit;государство;1;1;from
+Q22008123;Komuna e Arrenit;это частный случай понятия;1;1;from
+Q22008123;Komuna e Arrenit;код GeoNames;1;1;from
+Q22008123;Komuna e Arrenit;высота над уровнем моря;1;1;from
+Q22008123;Komuna e Arrenit;код GNS;1;1;from
+Q22008123;Komuna e Arrenit;часовой пояс;1;1;from
+Q22008153;Begaj;это частный случай понятия;1;1;from
+Q22008153;Begaj;высота над уровнем моря;1;1;from
+Q22007948;Komuna e Shengjergjit;часовой пояс;1;1;from
+Q22008190;Komuna e Bucimasit;географические координаты;1;1;from
+Q22008190;Komuna e Bucimasit;государство;1;1;from
+Q22008190;Komuna e Bucimasit;это частный случай понятия;1;1;from
+Q22008190;Komuna e Bucimasit;код GeoNames;1;1;from
+Q22008190;Komuna e Bucimasit;высота над уровнем моря;1;1;from
+Q22008190;Komuna e Bucimasit;код GNS;1;1;from
+Q22008190;Komuna e Bucimasit;часовой пояс;1;1;from
+Q22008196;Bashkia e Bulqizes;административно-территориальная единица;1;1;from
+Q22008182;Komuna e Funarit;географические координаты;1;1;from
+Q22008196;Bashkia e Bulqizes;государство;1;1;from
+Q22008196;Bashkia e Bulqizes;это частный случай понятия;1;1;from
+Q22008196;Bashkia e Bulqizes;код GeoNames;1;1;from
+Q22008196;Bashkia e Bulqizes;высота над уровнем моря;1;1;from
+Q22008196;Bashkia e Bulqizes;код GNS;1;1;from
+Q22008196;Bashkia e Bulqizes;часовой пояс;1;1;from
+Q22008190;Komuna e Bucimasit;административно-территориальная единица;1;1;from
+Q22008182;Komuna e Funarit;часовой пояс;1;1;from
+Q22008153;Begaj;часовой пояс;1;1;from
+Q22008175;Komuna e Blerimit;код GNS;1;1;from
+Q22008153;Begaj;географические координаты;1;1;from
+Q22008175;Komuna e Blerimit;административно-территориальная единица;1;1;from
+Q22008175;Komuna e Blerimit;государство;1;1;from
+Q22008175;Komuna e Blerimit;это частный случай понятия;1;1;from
+Q22008175;Komuna e Blerimit;код GeoNames;1;1;from
+Q22008175;Komuna e Blerimit;высота над уровнем моря;1;1;from
+Q22008175;Komuna e Blerimit;часовой пояс;1;1;from
+Q22008182;Komuna e Funarit;код GNS;1;1;from
+Q22008175;Komuna e Blerimit;географические координаты;1;1;from
+Q22008182;Komuna e Funarit;административно-территориальная единица;1;1;from
+Q22008182;Komuna e Funarit;государство;1;1;from
+Q22008182;Komuna e Funarit;это частный случай понятия;1;1;from
+Q22008182;Komuna e Funarit;код GeoNames;1;1;from
+Q22008182;Komuna e Funarit;высота над уровнем моря;1;1;from
+Q22007965;Komuna e Leskovikut;часовой пояс;1;1;from
+Q22007965;Komuna e Leskovikut;код GNS;1;1;from
+Q22007965;Komuna e Leskovikut;высота над уровнем моря;1;1;from
+Q22007956;Komuna e Qafa e Malit;код GeoNames;1;1;from
+Q22007955;Bashkia e Kukesit;высота над уровнем моря;1;1;from
+Q22007955;Bashkia e Kukesit;код GNS;1;1;from
+Q22007955;Bashkia e Kukesit;часовой пояс;1;1;from
+Q22007955;Bashkia e Kukesit;географические координаты;1;1;from
+Q22007956;Komuna e Qafa e Malit;государство;1;1;from
+Q22007956;Komuna e Qafa e Malit;это частный случай понятия;1;1;from
+Q22007956;Komuna e Qafa e Malit;высота над уровнем моря;1;1;from
+Q22007955;Bashkia e Kukesit;это частный случай понятия;1;1;from
+Q22007956;Komuna e Qafa e Malit;код GNS;1;1;from
+Q22007956;Komuna e Qafa e Malit;часовой пояс;1;1;from
+Q22007956;Komuna e Qafa e Malit;географические координаты;1;1;from
+Q22007957;Komuna e Malzit;государство;1;1;from
+Q22007957;Komuna e Malzit;это частный случай понятия;1;1;from
+Q22007957;Komuna e Malzit;код GeoNames;1;1;from
+Q22007955;Bashkia e Kukesit;код GeoNames;1;1;from
+Q22007955;Bashkia e Kukesit;государство;1;1;from
+Q22007965;Komuna e Leskovikut;код GeoNames;1;1;from
+Q22007951;Komuna e Sucit;часовой пояс;1;1;from
+Q22007948;Komuna e Shengjergjit;географические координаты;1;1;from
+Q22007951;Komuna e Sucit;государство;1;1;from
+Q22007951;Komuna e Sucit;это частный случай понятия;1;1;from
+Q22007951;Komuna e Sucit;код GeoNames;1;1;from
+Q22007951;Komuna e Sucit;высота над уровнем моря;1;1;from
+Q22007951;Komuna e Sucit;код GNS;1;1;from
+Q22007951;Komuna e Sucit;географические координаты;1;1;from
+Q22007952;Komuna e Lisit;географические координаты;1;1;from
+Q22007952;Komuna e Lisit;государство;1;1;from
+Q22007952;Komuna e Lisit;это частный случай понятия;1;1;from
+Q22007952;Komuna e Lisit;код GeoNames;1;1;from
+Q22007952;Komuna e Lisit;высота над уровнем моря;1;1;from
+Q22007952;Komuna e Lisit;код GNS;1;1;from
+Q22007952;Komuna e Lisit;часовой пояс;1;1;from
+Q22007957;Komuna e Malzit;высота над уровнем моря;1;1;from
+Q22007957;Komuna e Malzit;код GNS;1;1;from
+Q22007957;Komuna e Malzit;часовой пояс;1;1;from
+Q22007964;Bashkia e Bajram Curri;это частный случай понятия;1;1;from
+Q22007961;Komuna e Fierzes;высота над уровнем моря;1;1;from
+Q22007961;Komuna e Fierzes;код GNS;1;1;from
+Q22007961;Komuna e Fierzes;часовой пояс;1;1;from
+Q22007961;Komuna e Fierzes;географические координаты;1;1;from
+Q22007964;Bashkia e Bajram Curri;административно-территориальная единица;1;1;from
+Q22007964;Bashkia e Bajram Curri;государство;1;1;from
+Q22007964;Bashkia e Bajram Curri;код GeoNames;1;1;from
+Q22007957;Komuna e Malzit;географические координаты;1;1;from
+Q22007964;Bashkia e Bajram Curri;высота над уровнем моря;1;1;from
+Q22007964;Bashkia e Bajram Curri;код GNS;1;1;from
+Q22007964;Bashkia e Bajram Curri;часовой пояс;1;1;from
+Q22007964;Bashkia e Bajram Curri;географические координаты;1;1;from
+Q22007965;Komuna e Leskovikut;государство;1;1;from
+Q22007965;Komuna e Leskovikut;это частный случай понятия;1;1;from
+Q22007961;Komuna e Fierzes;код GeoNames;1;1;from
+Q22007961;Komuna e Fierzes;это частный случай понятия;1;1;from
+Q22007961;Komuna e Fierzes;государство;1;1;from
+Q22007960;Komuna e Fierzës;географические координаты;1;1;from
+Q22007960;Komuna e Fierzës;часовой пояс;1;1;from
+Q22007960;Komuna e Fierzës;код GNS;1;1;from
+Q22007960;Komuna e Fierzës;высота над уровнем моря;1;1;from
+Q22007960;Komuna e Fierzës;код GeoNames;1;1;from
+Q22007960;Komuna e Fierzës;это частный случай понятия;1;1;from
+Q22007960;Komuna e Fierzës;государство;1;1;from
+Q22007958;Komuna e Bytycit;географические координаты;1;1;from
+Q22007958;Komuna e Bytycit;часовой пояс;1;1;from
+Q22007958;Komuna e Bytycit;код GNS;1;1;from
+Q22007958;Komuna e Bytycit;высота над уровнем моря;1;1;from
+Q22007958;Komuna e Bytycit;код GeoNames;1;1;from
+Q22007958;Komuna e Bytycit;это частный случай понятия;1;1;from
+Q22007958;Komuna e Bytycit;государство;1;1;from
+Q22009603;Bashkia e Kamzes;это частный случай понятия;1;1;from
+Q22009603;Bashkia e Kamzes;высота над уровнем моря;1;1;from
+Q134638;Chūbu region;административно делится на;1;9;from
+Q22012023;Komuna e Dajtit;географические координаты;1;1;from
+Q22012023;Komuna e Dajtit;код LCNAF;1;1;from
+Q22012023;Komuna e Dajtit;это частный случай понятия;1;1;from
+Q22012023;Komuna e Dajtit;код GeoNames;1;1;from
+Q22012023;Komuna e Dajtit;высота над уровнем моря;1;1;from
+Q22012023;Komuna e Dajtit;код GNS;1;1;from
+Q22012023;Komuna e Dajtit;часовой пояс;1;1;from
+Q22012187;Komuna e Armenit;административно-территориальная единица;1;1;from
+Q22012023;Komuna e Dajtit;государство;1;1;from
+Q22012187;Komuna e Armenit;государство;1;1;from
+Q22012187;Komuna e Armenit;это частный случай понятия;1;1;from
+Q22012187;Komuna e Armenit;код GeoNames;1;1;from
+Q22012187;Komuna e Armenit;высота над уровнем моря;1;1;from
+Q22012187;Komuna e Armenit;код GNS;1;1;from
+Q22012187;Komuna e Armenit;часовой пояс;1;1;from
+Q22012023;Komuna e Dajtit;код VIAF;1;1;from
+Q22012022;Komuna e Gruemires;географические координаты;1;1;from
+Q22012199;Komuna e Balldushkut;административно-территориальная единица;1;1;from
+Q22012021;Komuna e Shkrelit;код GNS;1;1;from
+Q22012019;Komuna e Pultit;часовой пояс;1;1;from
+Q22012019;Komuna e Pultit;географические координаты;1;1;from
+Q22012021;Komuna e Shkrelit;государство;1;1;from
+Q22012021;Komuna e Shkrelit;это частный случай понятия;1;1;from
+Q22012021;Komuna e Shkrelit;код GeoNames;1;1;from
+Q22012021;Komuna e Shkrelit;высота над уровнем моря;1;1;from
+Q22012021;Komuna e Shkrelit;часовой пояс;1;1;from
+Q22012022;Komuna e Gruemires;часовой пояс;1;1;from
+Q22012021;Komuna e Shkrelit;географические координаты;1;1;from
+Q22012022;Komuna e Gruemires;государство;1;1;from
+Q22012022;Komuna e Gruemires;это частный случай понятия;1;1;from
+Q22012022;Komuna e Gruemires;код GeoNames;1;1;from
+Q22012022;Komuna e Gruemires;высота над уровнем моря;1;1;from
+Q22012022;Komuna e Gruemires;код GNS;1;1;from
+Q22012187;Komuna e Armenit;географические координаты;1;1;from
+Q22012199;Komuna e Balldushkut;государство;1;1;from
+Q22012019;Komuna e Pultit;высота над уровнем моря;1;1;from
+Q22012221;Bashkia e Belshit;код GeoNames;1;1;from
+Q22012216;Komuna e Bazit;код GNS;1;1;from
+Q22012216;Komuna e Bazit;часовой пояс;1;1;from
+Q22012216;Komuna e Bazit;географические координаты;1;1;from
+Q22012221;Bashkia e Belshit;административно-территориальная единица;1;1;from
+Q22012221;Bashkia e Belshit;государство;1;1;from
+Q22012221;Bashkia e Belshit;это частный случай понятия;1;1;from
+Q22012221;Bashkia e Belshit;высота над уровнем моря;1;1;from
+Q22012216;Komuna e Bazit;код GeoNames;1;1;from
+Q22012221;Bashkia e Belshit;код GNS;1;1;from
+Q22012221;Bashkia e Belshit;часовой пояс;1;1;from
+Q22012221;Bashkia e Belshit;географические координаты;1;1;from
+Q22012227;Bashkia e Beratit;административно-территориальная единица;1;1;from
+Q22012227;Bashkia e Beratit;государство;1;1;from
+Q22012227;Bashkia e Beratit;это частный случай понятия;1;1;from
+Q22012216;Komuna e Bazit;высота над уровнем моря;1;1;from
+Q22012216;Komuna e Bazit;это частный случай понятия;1;1;from
+Q22012199;Komuna e Balldushkut;это частный случай понятия;1;1;from
+Q22012204;Komuna e Barbullushit;государство;1;1;from
+Q22012199;Komuna e Balldushkut;код GeoNames;1;1;from
+Q22012199;Komuna e Balldushkut;высота над уровнем моря;1;1;from
+Q22012199;Komuna e Balldushkut;код GNS;1;1;from
+Q22012199;Komuna e Balldushkut;часовой пояс;1;1;from
+Q22012199;Komuna e Balldushkut;географические координаты;1;1;from
+Q22012204;Komuna e Barbullushit;административно-территориальная единица;1;1;from
+Q22012204;Komuna e Barbullushit;это частный случай понятия;1;1;from
+Q22012216;Komuna e Bazit;государство;1;1;from
+Q22012204;Komuna e Barbullushit;код GeoNames;1;1;from
+Q22012204;Komuna e Barbullushit;высота над уровнем моря;1;1;from
+Q22012204;Komuna e Barbullushit;код GNS;1;1;from
+Q22012204;Komuna e Barbullushit;часовой пояс;1;1;from
+Q22012204;Komuna e Barbullushit;географические координаты;1;1;from
+Q22012216;Komuna e Bazit;административно-территориальная единица;1;1;from
+Q22012019;Komuna e Pultit;код GNS;1;1;from
+Q22012019;Komuna e Pultit;код GeoNames;1;1;from
+Q22009603;Bashkia e Kamzes;код GNS;1;1;from
+Q22012011;Komuna e Fushe-kuqejes;часовой пояс;1;1;from
+Q22012009;Komuna e Koder Thumanes;географические координаты;1;1;from
+Q22012011;Komuna e Fushe-kuqejes;административно-территориальная единица;1;1;from
+Q22012011;Komuna e Fushe-kuqejes;государство;1;1;from
+Q22012011;Komuna e Fushe-kuqejes;это частный случай понятия;1;1;from
+Q22012011;Komuna e Fushe-kuqejes;код GeoNames;1;1;from
+Q22012011;Komuna e Fushe-kuqejes;код GNS;1;1;from
+Q22012011;Komuna e Fushe-kuqejes;географические координаты;1;1;from
+Q22012009;Komuna e Koder Thumanes;код GNS;1;1;from
+Q22012012;Komuna e Shenkollit;административно-территориальная единица;1;1;from
+Q22012012;Komuna e Shenkollit;государство;1;1;from
+Q22012012;Komuna e Shenkollit;это частный случай понятия;1;1;from
+Q22012012;Komuna e Shenkollit;код GeoNames;1;1;from
+Q22012012;Komuna e Shenkollit;высота над уровнем моря;1;1;from
+Q22012012;Komuna e Shenkollit;код GNS;1;1;from
+Q22012009;Komuna e Koder Thumanes;часовой пояс;1;1;from
+Q22012009;Komuna e Koder Thumanes;высота над уровнем моря;1;1;from
+Q22012012;Komuna e Shenkollit;географические координаты;1;1;from
+Q22012008;Komuna e Xhafzotajt;код GeoNames;1;1;from
+Q22012007;Komuna e Berxullit;код GNS;1;1;from
+Q22012007;Komuna e Berxullit;часовой пояс;1;1;from
+Q22012007;Komuna e Berxullit;географические координаты;1;1;from
+Q22012008;Komuna e Xhafzotajt;административно-территориальная единица;1;1;from
+Q22012008;Komuna e Xhafzotajt;государство;1;1;from
+Q22012008;Komuna e Xhafzotajt;это частный случай понятия;1;1;from
+Q22012008;Komuna e Xhafzotajt;высота над уровнем моря;1;1;from
+Q22012009;Komuna e Koder Thumanes;код GeoNames;1;1;from
+Q22012008;Komuna e Xhafzotajt;код GNS;1;1;from
+Q22012008;Komuna e Xhafzotajt;часовой пояс;1;1;from
+Q22012008;Komuna e Xhafzotajt;географические координаты;1;1;from
+Q22012009;Komuna e Koder Thumanes;административно-территориальная единица;1;1;from
+Q22012009;Komuna e Koder Thumanes;государство;1;1;from
+Q22012009;Komuna e Koder Thumanes;это частный случай понятия;1;1;from
+Q22012012;Komuna e Shenkollit;часовой пояс;1;1;from
+Q22012014;Komuna e Kolcit;административно-территориальная единица;1;1;from
+Q22012019;Komuna e Pultit;это частный случай понятия;1;1;from
+Q22012018;Komuna e Temalit;это частный случай понятия;1;1;from
+Q22012016;Bashkia e Vau i Dejes;высота над уровнем моря;1;1;from
+Q22012016;Bashkia e Vau i Dejes;код GNS;1;1;from
+Q22012016;Bashkia e Vau i Dejes;часовой пояс;1;1;from
+Q22012016;Bashkia e Vau i Dejes;географические координаты;1;1;from
+Q22012018;Komuna e Temalit;административно-территориальная единица;1;1;from
+Q22012018;Komuna e Temalit;государство;1;1;from
+Q22012018;Komuna e Temalit;код GeoNames;1;1;from
+Q22012016;Bashkia e Vau i Dejes;это частный случай понятия;1;1;from
+Q22012018;Komuna e Temalit;высота над уровнем моря;1;1;from
+Q22012018;Komuna e Temalit;код GNS;1;1;from
+Q22012018;Komuna e Temalit;часовой пояс;1;1;from
+Q22012018;Komuna e Temalit;географические координаты;1;1;from
+Q22012019;Komuna e Pultit;административно-территориальная единица;1;1;from
+Q22012019;Komuna e Pultit;государство;1;1;from
+Q22012016;Bashkia e Vau i Dejes;код GeoNames;1;1;from
+Q22012016;Bashkia e Vau i Dejes;государство;1;1;from
+Q22012014;Komuna e Kolcit;государство;1;1;from
+Q22012015;Komuna e Rrapes;административно-территориальная единица;1;1;from
+Q22012014;Komuna e Kolcit;это частный случай понятия;1;1;from
+Q22012014;Komuna e Kolcit;код GeoNames;1;1;from
+Q22012014;Komuna e Kolcit;высота над уровнем моря;1;1;from
+Q22012014;Komuna e Kolcit;код GNS;1;1;from
+Q22012014;Komuna e Kolcit;часовой пояс;1;1;from
+Q22012014;Komuna e Kolcit;географические координаты;1;1;from
+Q22012015;Komuna e Rrapes;государство;1;1;from
+Q22012016;Bashkia e Vau i Dejes;административно-территориальная единица;1;1;from
+Q22012015;Komuna e Rrapes;это частный случай понятия;1;1;from
+Q22012015;Komuna e Rrapes;код GeoNames;1;1;from
+Q22012015;Komuna e Rrapes;высота над уровнем моря;1;1;from
+Q22012015;Komuna e Rrapes;код GNS;1;1;from
+Q22012015;Komuna e Rrapes;часовой пояс;1;1;from
+Q22012015;Komuna e Rrapes;географические координаты;1;1;from
+Q22012227;Bashkia e Beratit;код GeoNames;1;1;from
+Q22012227;Bashkia e Beratit;высота над уровнем моря;1;1;from
+Q22012227;Bashkia e Beratit;код GNS;1;1;from
+Q22088613;Komuna e Kutallit;это частный случай понятия;1;1;from
+Q22012437;Komuna e Gjepalajt;высота над уровнем моря;1;1;from
+Q22012437;Komuna e Gjepalajt;код GNS;1;1;from
+Q22012437;Komuna e Gjepalajt;часовой пояс;1;1;from
+Q22012437;Komuna e Gjepalajt;географические координаты;1;1;from
+Q22088613;Komuna e Kutallit;административно-территориальная единица;1;1;from
+Q22088613;Komuna e Kutallit;государство;1;1;from
+Q22088613;Komuna e Kutallit;код GeoNames;1;1;from
+Q22012437;Komuna e Gjepalajt;это частный случай понятия;1;1;from
+Q22088613;Komuna e Kutallit;высота над уровнем моря;1;1;from
+Q22088613;Komuna e Kutallit;код GNS;1;1;from
+Q22088613;Komuna e Kutallit;часовой пояс;1;1;from
+Q22088613;Komuna e Kutallit;географические координаты;1;1;from
+Q22088624;Komuna e Pojanit;административно-территориальная единица;1;1;from
+Q22088624;Komuna e Pojanit;государство;1;1;from
+Q22012437;Komuna e Gjepalajt;код GeoNames;1;1;from
+Q22012437;Komuna e Gjepalajt;государство;1;1;from
+Q22088624;Komuna e Pojanit;код GeoNames;1;1;from
+Q22012408;Bashkia e Fushe-krujes;административно-территориальная единица;1;1;from
+Q22012400;Bashkia e Fierit;это частный случай понятия;1;1;from
+Q22012400;Bashkia e Fierit;код GeoNames;1;1;from
+Q22012400;Bashkia e Fierit;высота над уровнем моря;1;1;from
+Q22012400;Bashkia e Fierit;код GNS;1;1;from
+Q22012400;Bashkia e Fierit;часовой пояс;1;1;from
+Q22012400;Bashkia e Fierit;географические координаты;1;1;from
+Q22012408;Bashkia e Fushe-krujes;государство;1;1;from
+Q22012437;Komuna e Gjepalajt;административно-территориальная единица;1;1;from
+Q22012408;Bashkia e Fushe-krujes;это частный случай понятия;1;1;from
+Q22012408;Bashkia e Fushe-krujes;код GeoNames;1;1;from
+Q22012408;Bashkia e Fushe-krujes;высота над уровнем моря;1;1;from
+Q22012408;Bashkia e Fushe-krujes;код GNS;1;1;from
+Q22012408;Bashkia e Fushe-krujes;часовой пояс;1;1;from
+Q22012408;Bashkia e Fushe-krujes;географические координаты;1;1;from
+Q22088624;Komuna e Pojanit;это частный случай понятия;1;1;from
+Q22088624;Komuna e Pojanit;высота над уровнем моря;1;1;from
+Q22012227;Bashkia e Beratit;часовой пояс;1;1;from
+Q55998242;Administrative Region of Quebec;в этом списке перечисляются;1;1;to
+Q55998242;Administrative Region of Quebec;соответствующий список;1;1;from
+Q55998242;Administrative Region of Quebec;состоит из представителей класса;1;2;from
+Q55998242;Administrative Region of Quebec;подкласс от;1;1;to
+Q55998242;Administrative Region of Quebec;категория на Викискладе;1;1;from
+Q55998242;Administrative Region of Quebec;состоит из;1;2;from
+Q55998242;Administrative Region of Quebec;основная категория по теме;1;1;from
+Q55998242;Administrative Region of Quebec;общая тема категории;1;1;to
+Q55998242;Administrative Region of Quebec;это частный случай понятия;1;18;to
+Q55998242;Administrative Region of Quebec;категория содержит;1;1;to
+Q64685186;Bono Region;государство;1;1;from
+Q64685186;Bono Region;изображение;1;1;from
+Q64685186;Bono Region;карта местонахождения;1;1;from
+Q64685186;Bono Region;это частный случай понятия;1;1;from
+Q64685186;Bono Region;ID отношения в OpenStreetMap;1;1;from
+Q55998242;Administrative Region of Quebec;свойства у этого класса;1;10;from
+Q55998242;Administrative Region of Quebec;код LCNAF;1;1;from
+Q22088624;Komuna e Pojanit;код GNS;1;1;from
+Q28874598;Bogor Raya;это частный случай понятия;1;1;from
+Q22088624;Komuna e Pojanit;часовой пояс;1;1;from
+Q22088624;Komuna e Pojanit;географические координаты;1;1;from
+Q25421521;Q25421521;это частный случай понятия;1;1;from
+Q25421544;Q25421544;это частный случай понятия;1;1;from
+Q25421556;Q25421556;это частный случай понятия;1;1;from
+Q28874598;Bogor Raya;административно-территориальная единица;1;1;from
+Q43371212;Corporation and District Council of Clare;это частный случай понятия;1;1;from
+Q55998242;Administrative Region of Quebec;карта местонахождения;1;1;from
+Q43371212;Corporation and District Council of Clare;заменил;1;1;from
+Q43371212;Corporation and District Council of Clare;географические координаты;1;1;from
+Q43371212;Corporation and District Council of Clare;заменён на;1;1;to
+Q55998242;Administrative Region of Quebec;административно-территориальная единица;1;1;from
+Q55998242;Administrative Region of Quebec;государство;1;1;from
+Q55998242;Administrative Region of Quebec;код VIAF;1;1;from
+Q22012400;Bashkia e Fierit;государство;1;1;from
+Q22012400;Bashkia e Fierit;административно-территориальная единица;1;1;from
+Q22012370;Bashkia e Durresit;географические координаты;1;1;from
+Q22012290;Komuna e Bushatit;код GeoNames;1;1;from
+Q22012240;Komuna e Bubqit;географические координаты;1;1;from
+Q22012290;Komuna e Bushatit;административно-территориальная единица;1;1;from
+Q22012290;Komuna e Bushatit;государство;1;1;from
+Q22012290;Komuna e Bushatit;код VIAF;1;1;from
+Q22012290;Komuna e Bushatit;код LCNAF;1;1;from
+Q22012290;Komuna e Bushatit;это частный случай понятия;1;1;from
+Q22012290;Komuna e Bushatit;высота над уровнем моря;1;1;from
+Q22012240;Komuna e Bubqit;код GNS;1;1;from
+Q22012290;Komuna e Bushatit;код GNS;1;1;from
+Q22012290;Komuna e Bushatit;часовой пояс;1;1;from
+Q22012290;Komuna e Bushatit;географические координаты;1;1;from
+Q22012293;Komuna e Cakranit;административно-территориальная единица;1;1;from
+Q22012293;Komuna e Cakranit;государство;1;1;from
+Q22012293;Komuna e Cakranit;это частный случай понятия;1;1;from
+Q22012240;Komuna e Bubqit;часовой пояс;1;1;from
+Q22012240;Komuna e Bubqit;высота над уровнем моря;1;1;from
+Q22012370;Bashkia e Durresit;часовой пояс;1;1;from
+Q22012233;Komuna e Berzhites;код GNS;1;1;from
+Q22012227;Bashkia e Beratit;географические координаты;1;1;from
+Q22012233;Komuna e Berzhites;административно-территориальная единица;1;1;from
+Q22012233;Komuna e Berzhites;государство;1;1;from
+Q22012233;Komuna e Berzhites;это частный случай понятия;1;1;from
+Q22012233;Komuna e Berzhites;код GeoNames;1;1;from
+Q22012233;Komuna e Berzhites;высота над уровнем моря;1;1;from
+Q22012233;Komuna e Berzhites;часовой пояс;1;1;from
+Q22012240;Komuna e Bubqit;код GeoNames;1;1;from
+Q22012233;Komuna e Berzhites;географические координаты;1;1;from
+Q22012240;Komuna e Bubqit;административно-территориальная единица;1;1;from
+Q22012240;Komuna e Bubqit;государство;1;1;from
+Q22012240;Komuna e Bubqit;код VIAF;1;1;from
+Q22012240;Komuna e Bubqit;код LCNAF;1;1;from
+Q22012240;Komuna e Bubqit;это частный случай понятия;1;1;from
+Q22012293;Komuna e Cakranit;код GeoNames;1;1;from
+Q22012293;Komuna e Cakranit;высота над уровнем моря;1;1;from
+Q22012293;Komuna e Cakranit;код GNS;1;1;from
+Q22012325;Komuna e Dajçit;часовой пояс;1;1;from
+Q22012325;Komuna e Dajçit;административно-территориальная единица;1;1;from
+Q22012325;Komuna e Dajçit;государство;1;1;from
+Q22012325;Komuna e Dajçit;это частный случай понятия;1;1;from
+Q22012325;Komuna e Dajçit;код GeoNames;1;1;from
+Q22012325;Komuna e Dajçit;высота над уровнем моря;1;1;from
+Q22012325;Komuna e Dajçit;код GNS;1;1;from
+Q22012325;Komuna e Dajçit;географические координаты;1;1;from
+Q22012293;Komuna e Cakranit;часовой пояс;1;1;from
+Q22012370;Bashkia e Durresit;административно-территориальная единица;1;1;from
+Q22012370;Bashkia e Durresit;государство;1;1;from
+Q22012370;Bashkia e Durresit;это частный случай понятия;1;1;from
+Q22012370;Bashkia e Durresit;код GeoNames;1;1;from
+Q22012370;Bashkia e Durresit;высота над уровнем моря;1;1;from
+Q22012370;Bashkia e Durresit;код GNS;1;1;from
+Q22012324;Komuna e Dajcit;географические координаты;1;1;from
+Q22012324;Komuna e Dajcit;часовой пояс;1;1;from
+Q22012324;Komuna e Dajcit;код GNS;1;1;from
+Q22012324;Komuna e Dajcit;высота над уровнем моря;1;1;from
+Q22012324;Komuna e Dajcit;код GeoNames;1;1;from
+Q22012324;Komuna e Dajcit;это частный случай понятия;1;1;from
+Q22012324;Komuna e Dajcit;государство;1;1;from
+Q22012324;Komuna e Dajcit;административно-территориальная единица;1;1;from
+Q22012303;Bashkia e Cerrikut;географические координаты;1;1;from
+Q22012303;Bashkia e Cerrikut;часовой пояс;1;1;from
+Q22012303;Bashkia e Cerrikut;код GNS;1;1;from
+Q22012303;Bashkia e Cerrikut;высота над уровнем моря;1;1;from
+Q22012303;Bashkia e Cerrikut;код GeoNames;1;1;from
+Q22012303;Bashkia e Cerrikut;это частный случай понятия;1;1;from
+Q22012303;Bashkia e Cerrikut;государство;1;1;from
+Q22012303;Bashkia e Cerrikut;административно-территориальная единица;1;1;from
+Q22012293;Komuna e Cakranit;географические координаты;1;1;from
+Q22012007;Komuna e Berxullit;высота над уровнем моря;1;1;from
+Q22012007;Komuna e Berxullit;код GeoNames;1;1;from
+Q22012007;Komuna e Berxullit;это частный случай понятия;1;1;from
+Q22009677;Komuna e Kryevidhit;это частный случай понятия;1;1;from
+Q22009676;Komuna e Krutjes;высота над уровнем моря;1;1;from
+Q22009676;Komuna e Krutjes;код GNS;1;1;from
+Q22009676;Komuna e Krutjes;часовой пояс;1;1;from
+Q22009676;Komuna e Krutjes;географические координаты;1;1;from
+Q22009677;Komuna e Kryevidhit;административно-территориальная единица;1;1;from
+Q22009677;Komuna e Kryevidhit;государство;1;1;from
+Q22009677;Komuna e Kryevidhit;код GeoNames;1;1;from
+Q22009676;Komuna e Krutjes;это частный случай понятия;1;1;from
+Q22009677;Komuna e Kryevidhit;высота над уровнем моря;1;1;from
+Q22009677;Komuna e Kryevidhit;код GNS;1;1;from
+Q22009677;Komuna e Kryevidhit;часовой пояс;1;1;from
+Q22009677;Komuna e Kryevidhit;географические координаты;1;1;from
+Q22009678;Bashkia e Kucoves;административно-территориальная единица;1;1;from
+Q22009678;Bashkia e Kucoves;государство;1;1;from
+Q22009676;Komuna e Krutjes;код GeoNames;1;1;from
+Q22009676;Komuna e Krutjes;государство;1;1;from
+Q22009678;Bashkia e Kucoves;код GeoNames;1;1;from
+Q22009672;Bashkia e Krujes;административно-территориальная единица;1;1;from
+Q22009671;Rrethi i Krujes;код GeoNames;1;1;from
+Q22009671;Rrethi i Krujes;высота над уровнем моря;1;1;from
+Q22009671;Rrethi i Krujes;код GNS;1;1;from
+Q22009671;Rrethi i Krujes;часовой пояс;1;1;from
+Q22009671;Rrethi i Krujes;географические координаты;1;1;from
+Q22009671;Rrethi i Krujes;Who's on First ID;1;1;from
+Q22009672;Bashkia e Krujes;государство;1;1;from
+Q22009676;Komuna e Krutjes;административно-территориальная единица;1;1;from
+Q22009672;Bashkia e Krujes;это частный случай понятия;1;1;from
+Q22009672;Bashkia e Krujes;код GeoNames;1;1;from
+Q22009672;Bashkia e Krujes;высота над уровнем моря;1;1;from
+Q22009672;Bashkia e Krujes;код GNS;1;1;from
+Q22009672;Bashkia e Krujes;часовой пояс;1;1;from
+Q22009672;Bashkia e Krujes;географические координаты;1;1;from
+Q22009678;Bashkia e Kucoves;это частный случай понятия;1;1;from
+Q22009678;Bashkia e Kucoves;высота над уровнем моря;1;1;from
+Q22009720;Bashkia e Lezhes;географические координаты;1;1;from
+Q22009707;Komuna e Lekajt;часовой пояс;1;1;from
+Q22009707;Komuna e Lekajt;административно-территориальная единица;1;1;from
+Q22009707;Komuna e Lekajt;государство;1;1;from
+Q22009707;Komuna e Lekajt;это частный случай понятия;1;1;from
+Q22009707;Komuna e Lekajt;код GeoNames;1;1;from
+Q22009707;Komuna e Lekajt;высота над уровнем моря;1;1;from
+Q22009707;Komuna e Lekajt;код GNS;1;1;from
+Q22009707;Komuna e Lekajt;географические координаты;1;1;from
+Q22009697;Bashkia e Lacit;часовой пояс;1;1;from
+Q22009720;Bashkia e Lezhes;административно-территориальная единица;1;1;from
+Q22009720;Bashkia e Lezhes;государство;1;1;from
+Q22009720;Bashkia e Lezhes;это частный случай понятия;1;1;from
+Q22009720;Bashkia e Lezhes;код GeoNames;1;1;from
+Q22009720;Bashkia e Lezhes;высота над уровнем моря;1;1;from
+Q22009720;Bashkia e Lezhes;код GNS;1;1;from
+Q22009697;Bashkia e Lacit;географические координаты;1;1;from
+Q22009697;Bashkia e Lacit;код GNS;1;1;from
+Q22009678;Bashkia e Kucoves;код GNS;1;1;from
+Q22009695;Komuna e Kutes;высота над уровнем моря;1;1;from
+Q22009678;Bashkia e Kucoves;часовой пояс;1;1;from
+Q22009678;Bashkia e Kucoves;географические координаты;1;1;from
+Q22009695;Komuna e Kutes;административно-территориальная единица;1;1;from
+Q22009695;Komuna e Kutes;государство;1;1;from
+Q22009695;Komuna e Kutes;это частный случай понятия;1;1;from
+Q22009695;Komuna e Kutes;код GeoNames;1;1;from
+Q22009695;Komuna e Kutes;код GNS;1;1;from
+Q22009697;Bashkia e Lacit;высота над уровнем моря;1;1;from
+Q22009695;Komuna e Kutes;часовой пояс;1;1;from
+Q22009695;Komuna e Kutes;географические координаты;1;1;from
+Q22009697;Bashkia e Lacit;административно-территориальная единица;1;1;from
+Q22009697;Bashkia e Lacit;государство;1;1;from
+Q22009697;Bashkia e Lacit;это частный случай понятия;1;1;from
+Q22009697;Bashkia e Lacit;код GeoNames;1;1;from
+Q22009671;Rrethi i Krujes;численность населения;1;1;from
+Q22009671;Rrethi i Krujes;это частный случай понятия;1;1;from
+Q22009671;Rrethi i Krujes;код LCNAF;1;1;from
+Q22009624;Komuna e Katundit i Ri;часовой пояс;1;1;from
+Q22009624;Komuna e Katundit i Ri;административно-территориальная единица;1;1;from
+Q22009624;Komuna e Katundit i Ri;государство;1;1;from
+Q22009624;Komuna e Katundit i Ri;это частный случай понятия;1;1;from
+Q22009624;Komuna e Katundit i Ri;код GeoNames;1;1;from
+Q22009624;Komuna e Katundit i Ri;высота над уровнем моря;1;1;from
+Q22009624;Komuna e Katundit i Ri;код GNS;1;1;from
+Q22009624;Komuna e Katundit i Ri;географические координаты;1;1;from
+Q22009618;Komuna e Kasharit;часовой пояс;1;1;from
+Q22009627;Bashkia e Kavajes;административно-территориальная единица;1;1;from
+Q22009627;Bashkia e Kavajes;государство;1;1;from
+Q22009627;Bashkia e Kavajes;это частный случай понятия;1;1;from
+Q22009627;Bashkia e Kavajes;код GeoNames;1;1;from
+Q22009627;Bashkia e Kavajes;высота над уровнем моря;1;1;from
+Q22009627;Bashkia e Kavajes;код GNS;1;1;from
+Q22009618;Komuna e Kasharit;географические координаты;1;1;from
+Q22009618;Komuna e Kasharit;код GNS;1;1;from
+Q22009671;Rrethi i Krujes;код VIAF;1;1;from
+Q22009612;Komuna e Karines;высота над уровнем моря;1;1;from
+Q22009603;Bashkia e Kamzes;часовой пояс;1;1;from
+Q22009603;Bashkia e Kamzes;географические координаты;1;1;from
+Q22009612;Komuna e Karines;административно-территориальная единица;1;1;from
+Q22009612;Komuna e Karines;государство;1;1;from
+Q22009612;Komuna e Karines;это частный случай понятия;1;1;from
+Q22009612;Komuna e Karines;код GeoNames;1;1;from
+Q22009612;Komuna e Karines;код GNS;1;1;from
+Q22009618;Komuna e Kasharit;высота над уровнем моря;1;1;from
+Q22009612;Komuna e Karines;часовой пояс;1;1;from
+Q22009612;Komuna e Karines;географические координаты;1;1;from
+Q22009618;Komuna e Kasharit;административно-территориальная единица;1;1;from
+Q22009618;Komuna e Kasharit;государство;1;1;from
+Q22009618;Komuna e Kasharit;это частный случай понятия;1;1;from
+Q22009618;Komuna e Kasharit;код GeoNames;1;1;from
+Q22009627;Bashkia e Kavajes;часовой пояс;1;1;from
+Q22009627;Bashkia e Kavajes;географические координаты;1;1;from
+Q22009651;Komuna e Komesit;административно-территориальная единица;1;1;from
+Q22009661;Komuna e Kozares;государство;1;1;from
+Q22009659;Komuna e Kotes;код GeoNames;1;1;from
+Q22009659;Komuna e Kotes;высота над уровнем моря;1;1;from
+Q22009659;Komuna e Kotes;код GNS;1;1;from
+Q22009659;Komuna e Kotes;часовой пояс;1;1;from
+Q22009659;Komuna e Kotes;географические координаты;1;1;from
+Q22009661;Komuna e Kozares;административно-территориальная единица;1;1;from
+Q22009661;Komuna e Kozares;это частный случай понятия;1;1;from
+Q22009651;Komuna e Komesit;государство;1;1;from
+Q22009661;Komuna e Kozares;код GeoNames;1;1;from
+Q22009661;Komuna e Kozares;высота над уровнем моря;1;1;from
+Q22009661;Komuna e Kozares;код GNS;1;1;from
+Q22009661;Komuna e Kozares;часовой пояс;1;1;from
+Q22009661;Komuna e Kozares;географические координаты;1;1;from
+Q22009671;Rrethi i Krujes;государство;1;1;from
+Q22009659;Komuna e Kotes;это частный случай понятия;1;1;from
+Q22009659;Komuna e Kotes;государство;1;1;from
+Q22009659;Komuna e Kotes;административно-территориальная единица;1;1;from
+Q22009654;Bashkia e Koplikut;географические координаты;1;1;from
+Q22009654;Bashkia e Koplikut;часовой пояс;1;1;from
+Q22009654;Bashkia e Koplikut;код GNS;1;1;from
+Q22009654;Bashkia e Koplikut;высота над уровнем моря;1;1;from
+Q22009654;Bashkia e Koplikut;код GeoNames;1;1;from
+Q22009654;Bashkia e Koplikut;это частный случай понятия;1;1;from
+Q22009654;Bashkia e Koplikut;государство;1;1;from
+Q22009654;Bashkia e Koplikut;административно-территориальная единица;1;1;from
+Q22009651;Komuna e Komesit;географические координаты;1;1;from
+Q22009651;Komuna e Komesit;часовой пояс;1;1;from
+Q22009651;Komuna e Komesit;код GNS;1;1;from
+Q22009651;Komuna e Komesit;высота над уровнем моря;1;1;from
+Q22009651;Komuna e Komesit;код GeoNames;1;1;from
+Q22009651;Komuna e Komesit;это частный случай понятия;1;1;from
+Q22009720;Bashkia e Lezhes;часовой пояс;1;1;from
+Q22009722;Komuna e Libofshes;административно-территориальная единица;1;1;from
+Q22012007;Komuna e Berxullit;государство;1;1;from
+Q22011654;Ura e Baram Uks;географические координаты;1;1;from
+Q22011652;Lagjia e Imeraje;географические координаты;1;1;from
+Q22011654;Ura e Baram Uks;государство;1;1;from
+Q22011654;Ura e Baram Uks;это частный случай понятия;1;1;from
+Q22011654;Ura e Baram Uks;код GeoNames;1;1;from
+Q22011654;Ura e Baram Uks;высота над уровнем моря;1;1;from
+Q22011654;Ura e Baram Uks;часовой пояс;1;1;from
+Q22011655;Shkolla e Murat Pacit;государство;1;1;from
+Q22011652;Lagjia e Imeraje;высота над уровнем моря;1;1;from
+Q22011655;Shkolla e Murat Pacit;это частный случай понятия;1;1;from
+Q22011655;Shkolla e Murat Pacit;код GeoNames;1;1;from
+Q22011655;Shkolla e Murat Pacit;высота над уровнем моря;1;1;from
+Q22011655;Shkolla e Murat Pacit;часовой пояс;1;1;from
+Q22011655;Shkolla e Murat Pacit;географические координаты;1;1;from
+Q22011657;Ara e Rexhep Mals;государство;1;1;from
+Q22011652;Lagjia e Imeraje;часовой пояс;1;1;from
+Q22011652;Lagjia e Imeraje;код GeoNames;1;1;from
+Q22011657;Ara e Rexhep Mals;код GeoNames;1;1;from
+Q22009841;Komuna e Novoselës;географические координаты;1;1;from
+Q22009841;Komuna e Novoselës;государство;1;1;from
+Q22009841;Komuna e Novoselës;это частный случай понятия;1;1;from
+Q22009841;Komuna e Novoselës;код GeoNames;1;1;from
+Q22009841;Komuna e Novoselës;высота над уровнем моря;1;1;from
+Q22009841;Komuna e Novoselës;код GNS;1;1;from
+Q22009841;Komuna e Novoselës;часовой пояс;1;1;from
+Q22011651;Spitali i Pacit;государство;1;1;from
+Q22011652;Lagjia e Imeraje;это частный случай понятия;1;1;from
+Q22011651;Spitali i Pacit;это частный случай понятия;1;1;from
+Q22011651;Spitali i Pacit;код GeoNames;1;1;from
+Q22011651;Spitali i Pacit;высота над уровнем моря;1;1;from
+Q22011651;Spitali i Pacit;часовой пояс;1;1;from
+Q22011651;Spitali i Pacit;географические координаты;1;1;from
+Q22011652;Lagjia e Imeraje;государство;1;1;from
+Q22011657;Ara e Rexhep Mals;это частный случай понятия;1;1;from
+Q22011657;Ara e Rexhep Mals;высота над уровнем моря;1;1;from
+Q22009722;Komuna e Libofshes;государство;1;1;from
+Q22012005;Komuna e Paskuqanit;государство;1;1;from
+Q22012000;Rrethi i Mallakastres;код GeoNames;1;1;from
+Q22012000;Rrethi i Mallakastres;высота над уровнем моря;1;1;from
+Q22012000;Rrethi i Mallakastres;код GNS;1;1;from
+Q22012000;Rrethi i Mallakastres;часовой пояс;1;1;from
+Q22012000;Rrethi i Mallakastres;географические координаты;1;1;from
+Q22012005;Komuna e Paskuqanit;административно-территориальная единица;1;1;from
+Q22012005;Komuna e Paskuqanit;это частный случай понятия;1;1;from
+Q22012000;Rrethi i Mallakastres;это частный случай понятия;1;1;from
+Q22012005;Komuna e Paskuqanit;код GeoNames;1;1;from
+Q22012005;Komuna e Paskuqanit;высота над уровнем моря;1;1;from
+Q22012005;Komuna e Paskuqanit;код GNS;1;1;from
+Q22012005;Komuna e Paskuqanit;часовой пояс;1;1;from
+Q22012005;Komuna e Paskuqanit;географические координаты;1;1;from
+Q22012007;Komuna e Berxullit;административно-территориальная единица;1;1;from
+Q22012000;Rrethi i Mallakastres;численность населения;1;1;from
+Q22012000;Rrethi i Mallakastres;код LCNAF;1;1;from
+Q22011657;Ara e Rexhep Mals;часовой пояс;1;1;from
+Q22011658;Shkolla e Margegaja;географические координаты;1;1;from
+Q22011657;Ara e Rexhep Mals;географические координаты;1;1;from
+Q22011658;Shkolla e Margegaja;государство;1;1;from
+Q22011658;Shkolla e Margegaja;это частный случай понятия;1;1;from
+Q22011658;Shkolla e Margegaja;код GeoNames;1;1;from
+Q22011658;Shkolla e Margegaja;высота над уровнем моря;1;1;from
+Q22011658;Shkolla e Margegaja;часовой пояс;1;1;from
+Q22011661;Tella e Myhejanit;государство;1;1;from
+Q22012000;Rrethi i Mallakastres;код VIAF;1;1;from
+Q22011661;Tella e Myhejanit;это частный случай понятия;1;1;from
+Q22011661;Tella e Myhejanit;код GeoNames;1;1;from
+Q22011661;Tella e Myhejanit;высота над уровнем моря;1;1;from
+Q22011661;Tella e Myhejanit;часовой пояс;1;1;from
+Q22011661;Tella e Myhejanit;географические координаты;1;1;from
+Q22012000;Rrethi i Mallakastres;государство;1;1;from
+Q22009841;Komuna e Novoselës;административно-территориальная единица;1;1;from
+Q22009838;Komuna e Nikles;географические координаты;1;1;from
+Q22009838;Komuna e Nikles;часовой пояс;1;1;from
+Q22009769;Bashkia e Mamurrasit;это частный случай понятия;1;1;from
+Q22009768;Komuna e Maminasit;высота над уровнем моря;1;1;from
+Q22009768;Komuna e Maminasit;код GNS;1;1;from
+Q22009768;Komuna e Maminasit;часовой пояс;1;1;from
+Q22009768;Komuna e Maminasit;географические координаты;1;1;from
+Q22009769;Bashkia e Mamurrasit;административно-территориальная единица;1;1;from
+Q22009769;Bashkia e Mamurrasit;государство;1;1;from
+Q22009769;Bashkia e Mamurrasit;код GeoNames;1;1;from
+Q22009768;Komuna e Maminasit;это частный случай понятия;1;1;from
+Q22009769;Bashkia e Mamurrasit;высота над уровнем моря;1;1;from
+Q22009769;Bashkia e Mamurrasit;код GNS;1;1;from
+Q22009769;Bashkia e Mamurrasit;часовой пояс;1;1;from
+Q22009769;Bashkia e Mamurrasit;географические координаты;1;1;from
+Q22009772;Bashkia e Manzes;административно-территориальная единица;1;1;from
+Q22009772;Bashkia e Manzes;государство;1;1;from
+Q22009768;Komuna e Maminasit;код GeoNames;1;1;from
+Q22009768;Komuna e Maminasit;государство;1;1;from
+Q22009838;Komuna e Nikles;код GNS;1;1;from
+Q22009747;Bashkia e Lushnjes;административно-территориальная единица;1;1;from
+Q22009722;Komuna e Libofshes;это частный случай понятия;1;1;from
+Q22009722;Komuna e Libofshes;код GeoNames;1;1;from
+Q22009722;Komuna e Libofshes;высота над уровнем моря;1;1;from
+Q22009722;Komuna e Libofshes;код GNS;1;1;from
+Q22009722;Komuna e Libofshes;часовой пояс;1;1;from
+Q22009722;Komuna e Libofshes;географические координаты;1;1;from
+Q22009747;Bashkia e Lushnjes;государство;1;1;from
+Q22009768;Komuna e Maminasit;административно-территориальная единица;1;1;from
+Q22009747;Bashkia e Lushnjes;это частный случай понятия;1;1;from
+Q22009747;Bashkia e Lushnjes;код GeoNames;1;1;from
+Q22009747;Bashkia e Lushnjes;высота над уровнем моря;1;1;from
+Q22009747;Bashkia e Lushnjes;код GNS;1;1;from
+Q22009747;Bashkia e Lushnjes;часовой пояс;1;1;from
+Q22009747;Bashkia e Lushnjes;географические координаты;1;1;from
+Q22009772;Bashkia e Manzes;это частный случай понятия;1;1;from
+Q22009772;Bashkia e Manzes;код GeoNames;1;1;from
+Q22009772;Bashkia e Manzes;высота над уровнем моря;1;1;from
+Q22009835;Komuna e Ndroqit;код GNS;1;1;from
+Q22009804;Komuna e Milotit;географические координаты;1;1;from
+Q22009835;Komuna e Ndroqit;административно-территориальная единица;1;1;from
+Q22009835;Komuna e Ndroqit;государство;1;1;from
+Q22009835;Komuna e Ndroqit;это частный случай понятия;1;1;from
+Q22009835;Komuna e Ndroqit;код GeoNames;1;1;from
+Q22009835;Komuna e Ndroqit;высота над уровнем моря;1;1;from
+Q22009835;Komuna e Ndroqit;часовой пояс;1;1;from
+Q22009772;Bashkia e Manzes;код GNS;1;1;from
+Q22009835;Komuna e Ndroqit;географические координаты;1;1;from
+Q22009838;Komuna e Nikles;административно-территориальная единица;1;1;from
+Q22009838;Komuna e Nikles;государство;1;1;from
+Q22009838;Komuna e Nikles;это частный случай понятия;1;1;from
+Q22009838;Komuna e Nikles;код GeoNames;1;1;from
+Q22009838;Komuna e Nikles;высота над уровнем моря;1;1;from
+Q22009804;Komuna e Milotit;часовой пояс;1;1;from
+Q22009804;Komuna e Milotit;код GNS;1;1;from
+Q22009804;Komuna e Milotit;высота над уровнем моря;1;1;from
+Q22009804;Komuna e Milotit;код GeoNames;1;1;from
+Q22009804;Komuna e Milotit;это частный случай понятия;1;1;from
+Q22009804;Komuna e Milotit;государство;1;1;from
+Q22009804;Komuna e Milotit;административно-территориальная единица;1;1;from
+Q22009791;Bashkia e Memaliajt;географические координаты;1;1;from
+Q22009791;Bashkia e Memaliajt;часовой пояс;1;1;from
+Q22009791;Bashkia e Memaliajt;код GNS;1;1;from
+Q22009791;Bashkia e Memaliajt;высота над уровнем моря;1;1;from
+Q22009791;Bashkia e Memaliajt;код GeoNames;1;1;from
+Q22009791;Bashkia e Memaliajt;это частный случай понятия;1;1;from
+Q22009791;Bashkia e Memaliajt;государство;1;1;from
+Q22009791;Bashkia e Memaliajt;административно-территориальная единица;1;1;from
+Q22009772;Bashkia e Manzes;географические координаты;1;1;from
+Q22009772;Bashkia e Manzes;часовой пояс;1;1;from
+Q22007507;Komuna e Strumit;высота над уровнем моря;1;1;from
+Q22007507;Komuna e Strumit;код GeoNames;1;1;from
+Q22007507;Komuna e Strumit;это частный случай понятия;1;1;from
+Q22002620;Komuna e Stravajt;код GeoNames;1;1;from
+Q22002591;Komuna e Shushices;код GNS;1;1;from
+Q22002591;Komuna e Shushices;часовой пояс;1;1;from
+Q22002591;Komuna e Shushices;географические координаты;1;1;from
+Q22002620;Komuna e Stravajt;административно-территориальная единица;1;1;from
+Q22002620;Komuna e Stravajt;государство;1;1;from
+Q22002620;Komuna e Stravajt;это частный случай понятия;1;1;from
+Q22002620;Komuna e Stravajt;высота над уровнем моря;1;1;from
+Q22002591;Komuna e Shushices;код GeoNames;1;1;from
+Q22002620;Komuna e Stravajt;код GNS;1;1;from
+Q22002620;Komuna e Stravajt;часовой пояс;1;1;from
+Q22002620;Komuna e Stravajt;географические координаты;1;1;from
+Q22002629;Komuna e Sukes;государство;1;1;from
+Q22002629;Komuna e Sukes;это частный случай понятия;1;1;from
+Q22002629;Komuna e Sukes;код GeoNames;1;1;from
+Q22002591;Komuna e Shushices;высота над уровнем моря;1;1;from
+Q22002591;Komuna e Shushices;это частный случай понятия;1;1;from
+Q22002629;Komuna e Sukes;часовой пояс;1;1;from
+Q22002590;Komuna e Shupenzes;государство;1;1;from
+Q22002582;Komuna e Shtiqenit;код GeoNames;1;1;from
+Q22002582;Komuna e Shtiqenit;высота над уровнем моря;1;1;from
+Q22002582;Komuna e Shtiqenit;код GNS;1;1;from
+Q22002582;Komuna e Shtiqenit;часовой пояс;1;1;from
+Q22002582;Komuna e Shtiqenit;географические координаты;1;1;from
+Q22002590;Komuna e Shupenzes;административно-территориальная единица;1;1;from
+Q22002590;Komuna e Shupenzes;это частный случай понятия;1;1;from
+Q22002591;Komuna e Shushices;государство;1;1;from
+Q22002590;Komuna e Shupenzes;код GeoNames;1;1;from
+Q22002590;Komuna e Shupenzes;высота над уровнем моря;1;1;from
+Q22002590;Komuna e Shupenzes;код GNS;1;1;from
+Q22002590;Komuna e Shupenzes;часовой пояс;1;1;from
+Q22002590;Komuna e Shupenzes;географические координаты;1;1;from
+Q22002591;Komuna e Shushices;административно-территориальная единица;1;1;from
+Q22002629;Komuna e Sukes;высота над уровнем моря;1;1;from
+Q22002629;Komuna e Sukes;географические координаты;1;1;from
+Q22002582;Komuna e Shtiqenit;государство;1;1;from
+Q22002683;Komuna e Tunjes;государство;1;1;from
+Q22002680;Komuna e Leshnjes;код GeoNames;1;1;from
+Q22002680;Komuna e Leshnjes;высота над уровнем моря;1;1;from
+Q22002680;Komuna e Leshnjes;код GNS;1;1;from
+Q22002680;Komuna e Leshnjes;часовой пояс;1;1;from
+Q22002680;Komuna e Leshnjes;географические координаты;1;1;from
+Q22002683;Komuna e Tunjes;административно-территориальная единица;1;1;from
+Q22002683;Komuna e Tunjes;это частный случай понятия;1;1;from
+Q22002680;Komuna e Leshnjes;государство;1;1;from
+Q22002683;Komuna e Tunjes;код GeoNames;1;1;from
+Q22002683;Komuna e Tunjes;высота над уровнем моря;1;1;from
+Q22002683;Komuna e Tunjes;код GNS;1;1;from
+Q22002683;Komuna e Tunjes;часовой пояс;1;1;from
+Q22002683;Komuna e Tunjes;географические координаты;1;1;from
+Q22002687;Komuna e Udenishtit;административно-территориальная единица;1;1;from
+Q22002680;Komuna e Leshnjes;это частный случай понятия;1;1;from
+Q22002680;Komuna e Leshnjes;административно-территориальная единица;1;1;from
+Q22002645;Bashkia e Tepelenes;административно-территориальная единица;1;1;from
+Q22002645;Bashkia e Tepelenes;географические координаты;1;1;from
+Q22002645;Bashkia e Tepelenes;государство;1;1;from
+Q22002645;Bashkia e Tepelenes;это частный случай понятия;1;1;from
+Q22002645;Bashkia e Tepelenes;код GeoNames;1;1;from
+Q22002645;Bashkia e Tepelenes;высота над уровнем моря;1;1;from
+Q22002645;Bashkia e Tepelenes;код GNS;1;1;from
+Q22002645;Bashkia e Tepelenes;часовой пояс;1;1;from
+Q22002671;Komuna e Trebinjes;административно-территориальная единица;1;1;from
+Q22002671;Komuna e Trebinjes;географические координаты;1;1;from
+Q22002671;Komuna e Trebinjes;государство;1;1;from
+Q22002671;Komuna e Trebinjes;это частный случай понятия;1;1;from
+Q22002671;Komuna e Trebinjes;код GeoNames;1;1;from
+Q22002671;Komuna e Trebinjes;высота над уровнем моря;1;1;from
+Q22002671;Komuna e Trebinjes;код GNS;1;1;from
+Q22002671;Komuna e Trebinjes;часовой пояс;1;1;from
+Q22002582;Komuna e Shtiqenit;это частный случай понятия;1;1;from
+Q22002582;Komuna e Shtiqenit;административно-территориальная единица;1;1;from
+Q22007507;Komuna e Strumit;государство;1;1;from
+Q21974168;Sund;код GeoNames;1;1;from
+Q21076565;Sultanate of Showa;часть света;1;1;from
+Q21076565;Sultanate of Showa;это частный случай понятия;1;2;from
+Q21076565;Sultanate of Showa;географические координаты;1;1;from
+Q21974168;Sund;государство;1;1;from
+Q21974168;Sund;это частный случай понятия;1;1;from
+Q21974168;Sund;численность населения;1;1;from
+Q21974168;Sund;высота над уровнем моря;1;1;from
+Q20108125;Phrygia Minor;географические координаты;1;1;from
+Q21974168;Sund;часовой пояс;1;2;from
+Q21974168;Sund;географические координаты;1;1;from
+Q21974168;Sund;Who's on First ID;1;1;from
+Q22002500;Komuna e Qukesit;административно-территориальная единица;1;1;from
+Q22002500;Komuna e Qukesit;государство;1;1;from
+Q22002500;Komuna e Qukesit;это частный случай понятия;1;1;from
+Q20108125;Phrygia Minor;административно-территориальная единица;1;1;to
+Q20108125;Phrygia Minor;это частный случай понятия;1;2;from
+Q22002500;Komuna e Qukesit;высота над уровнем моря;1;1;from
+Q14202937;Western Bhutan;государство;1;1;from
+Q13583148;Syunik (historic province);административно-территориальная единица;1;15;to
+Q13583148;Syunik (historic province);предположительно одно и то же с;1;1;to
+Q13583148;Syunik (historic province);категория объединяет темы;1;1;to
+Q13583148;Syunik (historic province);место погребения;1;1;to
+Q13583148;Syunik (historic province);место рождения;1;1;to
+Q13583148;Syunik (historic province);место создания;1;1;to
+Q14202937;Western Bhutan;это частный случай понятия;1;1;from
+Q14202938;Eastern Bhutan;место рождения;1;1;to
+Q14202937;Western Bhutan;баннер Викигида;1;1;from
+Q14202937;Western Bhutan;административно-территориальная единица;1;3;to
+Q14202938;Eastern Bhutan;государство;1;1;from
+Q14202938;Eastern Bhutan;это частный случай понятия;1;1;from
+Q14202938;Eastern Bhutan;баннер Викигида;1;1;from
+Q14202938;Eastern Bhutan;часть от;1;1;to
+Q22002500;Komuna e Qukesit;код GeoNames;1;1;from
+Q22002500;Komuna e Qukesit;код GNS;1;1;from
+Q22002566;Komuna e Shishtaveci;географические координаты;1;1;from
+Q22002564;Komuna e Shirgjanit;географические координаты;1;1;from
+Q22002564;Komuna e Shirgjanit;государство;1;1;from
+Q22002564;Komuna e Shirgjanit;это частный случай понятия;1;1;from
+Q22002564;Komuna e Shirgjanit;код GeoNames;1;1;from
+Q22002564;Komuna e Shirgjanit;высота над уровнем моря;1;1;from
+Q22002564;Komuna e Shirgjanit;код GNS;1;1;from
+Q22002564;Komuna e Shirgjanit;часовой пояс;1;1;from
+Q22002566;Komuna e Shishtaveci;административно-территориальная единица;1;1;from
+Q22002542;Komuna e Selishtes;географические координаты;1;1;from
+Q22002566;Komuna e Shishtaveci;государство;1;1;from
+Q22002566;Komuna e Shishtaveci;это частный случай понятия;1;1;from
+Q22002566;Komuna e Shishtaveci;код GeoNames;1;1;from
+Q22002566;Komuna e Shishtaveci;высота над уровнем моря;1;1;from
+Q22002566;Komuna e Shishtaveci;код GNS;1;1;from
+Q22002566;Komuna e Shishtaveci;часовой пояс;1;1;from
+Q22002564;Komuna e Shirgjanit;административно-территориальная единица;1;1;from
+Q22002542;Komuna e Selishtes;часовой пояс;1;1;from
+Q22002500;Komuna e Qukesit;часовой пояс;1;1;from
+Q22002522;Komuna e Roshnikut;код GNS;1;1;from
+Q22002500;Komuna e Qukesit;географические координаты;1;1;from
+Q22002522;Komuna e Roshnikut;административно-территориальная единица;1;1;from
+Q22002522;Komuna e Roshnikut;государство;1;1;from
+Q22002522;Komuna e Roshnikut;это частный случай понятия;1;1;from
+Q22002522;Komuna e Roshnikut;код GeoNames;1;1;from
+Q22002522;Komuna e Roshnikut;высота над уровнем моря;1;1;from
+Q22002522;Komuna e Roshnikut;часовой пояс;1;1;from
+Q22002542;Komuna e Selishtes;код GNS;1;1;from
+Q22002522;Komuna e Roshnikut;географические координаты;1;1;from
+Q22002542;Komuna e Selishtes;административно-территориальная единица;1;1;from
+Q22002542;Komuna e Selishtes;государство;1;1;from
+Q22002542;Komuna e Selishtes;это частный случай понятия;1;1;from
+Q22002542;Komuna e Selishtes;код GeoNames;1;1;from
+Q22002542;Komuna e Selishtes;высота над уровнем моря;1;1;from
+Q22002687;Komuna e Udenishtit;государство;1;1;from
+Q22002687;Komuna e Udenishtit;это частный случай понятия;1;1;from
+Q22002687;Komuna e Udenishtit;код GeoNames;1;1;from
+Q22002799;Bashkia e Delvines;часовой пояс;1;1;from
+Q22002799;Bashkia e Delvines;административно-территориальная единица;1;1;from
+Q22002799;Bashkia e Delvines;государство;1;1;from
+Q22002799;Bashkia e Delvines;это частный случай понятия;1;1;from
+Q22002799;Bashkia e Delvines;код GeoNames;1;1;from
+Q22002799;Bashkia e Delvines;высота над уровнем моря;1;1;from
+Q22002799;Bashkia e Delvines;код GNS;1;1;from
+Q22002799;Bashkia e Delvines;географические координаты;1;1;from
+Q22002776;Bashkia e Bilishtit;часовой пояс;1;1;from
+Q22002807;Komuna e Finiqit;административно-территориальная единица;1;1;from
+Q22002807;Komuna e Finiqit;государство;1;1;from
+Q22002807;Komuna e Finiqit;это частный случай понятия;1;1;from
+Q22002807;Komuna e Finiqit;код GeoNames;1;1;from
+Q22002807;Komuna e Finiqit;высота над уровнем моря;1;1;from
+Q22002807;Komuna e Finiqit;код GNS;1;1;from
+Q22002776;Bashkia e Bilishtit;географические координаты;1;1;from
+Q22002776;Bashkia e Bilishtit;код GNS;1;1;from
+Q22002807;Komuna e Finiqit;географические координаты;1;1;from
+Q22002765;Zherke;код GeoNames;1;1;from
+Q22002763;Komuna e Zhepes;высота над уровнем моря;1;1;from
+Q22002763;Komuna e Zhepes;код GNS;1;1;from
+Q22002763;Komuna e Zhepes;часовой пояс;1;1;from
+Q22002763;Komuna e Zhepes;географические координаты;1;1;from
+Q22002765;Zherke;государство;1;1;from
+Q22002765;Zherke;это частный случай понятия;1;1;from
+Q22002765;Zherke;высота над уровнем моря;1;1;from
+Q22002776;Bashkia e Bilishtit;высота над уровнем моря;1;1;from
+Q22002765;Zherke;часовой пояс;1;1;from
+Q22002765;Zherke;географические координаты;1;1;from
+Q22002776;Bashkia e Bilishtit;административно-территориальная единица;1;1;from
+Q22002776;Bashkia e Bilishtit;государство;1;1;from
+Q22002776;Bashkia e Bilishtit;это частный случай понятия;1;1;from
+Q22002776;Bashkia e Bilishtit;код GeoNames;1;1;from
+Q22002807;Komuna e Finiqit;часовой пояс;1;1;from
+Q22002818;Bashkia e Konispolit;административно-территориальная единица;1;1;from
+Q22002687;Komuna e Udenishtit;высота над уровнем моря;1;1;from
+Q22002841;Bashkia e Sarandes;это частный случай понятия;1;1;from
+Q22002830;Komuna e Mesopotamit;высота над уровнем моря;1;1;from
+Q22002830;Komuna e Mesopotamit;код GNS;1;1;from
+Q22002830;Komuna e Mesopotamit;часовой пояс;1;1;from
+Q22002830;Komuna e Mesopotamit;географические координаты;1;1;from
+Q22002841;Bashkia e Sarandes;административно-территориальная единица;1;1;from
+Q22002841;Bashkia e Sarandes;государство;1;1;from
+Q22002841;Bashkia e Sarandes;код GeoNames;1;1;from
+Q22002830;Komuna e Mesopotamit;это частный случай понятия;1;1;from
+Q22002841;Bashkia e Sarandes;высота над уровнем моря;1;1;from
+Q22002841;Bashkia e Sarandes;код GNS;1;1;from
+Q22002841;Bashkia e Sarandes;часовой пояс;1;1;from
+Q22002841;Bashkia e Sarandes;географические координаты;1;1;from
+Q22004961;Komuna e Carshoves;административно-территориальная единица;1;1;from
+Q22004961;Komuna e Carshoves;государство;1;1;from
+Q22002830;Komuna e Mesopotamit;код GeoNames;1;1;from
+Q22002830;Komuna e Mesopotamit;государство;1;1;from
+Q22002818;Bashkia e Konispolit;государство;1;1;from
+Q22002827;Komuna e Livadhjes;административно-территориальная единица;1;1;from
+Q22002818;Bashkia e Konispolit;это частный случай понятия;1;1;from
+Q22002818;Bashkia e Konispolit;код GeoNames;1;1;from
+Q22002818;Bashkia e Konispolit;высота над уровнем моря;1;1;from
+Q22002818;Bashkia e Konispolit;код GNS;1;1;from
+Q22002818;Bashkia e Konispolit;часовой пояс;1;1;from
+Q22002818;Bashkia e Konispolit;географические координаты;1;1;from
+Q22002827;Komuna e Livadhjes;государство;1;1;from
+Q22002830;Komuna e Mesopotamit;административно-территориальная единица;1;1;from
+Q22002827;Komuna e Livadhjes;это частный случай понятия;1;1;from
+Q22002827;Komuna e Livadhjes;код GeoNames;1;1;from
+Q22002827;Komuna e Livadhjes;высота над уровнем моря;1;1;from
+Q22002827;Komuna e Livadhjes;код GNS;1;1;from
+Q22002827;Komuna e Livadhjes;часовой пояс;1;1;from
+Q22002827;Komuna e Livadhjes;географические координаты;1;1;from
+Q22002763;Komuna e Zhepes;код GeoNames;1;1;from
+Q22002763;Komuna e Zhepes;это частный случай понятия;1;1;from
+Q22002763;Komuna e Zhepes;государство;1;1;from
+Q22002725;Komuna e Vithkuqit;код GNS;1;1;from
+Q22002706;Komuna e Velcanit;географические координаты;1;1;from
+Q22002725;Komuna e Vithkuqit;административно-территориальная единица;1;1;from
+Q22002725;Komuna e Vithkuqit;государство;1;1;from
+Q22002725;Komuna e Vithkuqit;это частный случай понятия;1;1;from
+Q22002725;Komuna e Vithkuqit;код GeoNames;1;1;from
+Q22002725;Komuna e Vithkuqit;высота над уровнем моря;1;1;from
+Q22002725;Komuna e Vithkuqit;часовой пояс;1;1;from
+Q22002706;Komuna e Velcanit;код GNS;1;1;from
+Q22002725;Komuna e Vithkuqit;географические координаты;1;1;from
+Q22002738;Komuna e Voskopojes;административно-территориальная единица;1;1;from
+Q22002738;Komuna e Voskopojes;государство;1;1;from
+Q22002738;Komuna e Voskopojes;это частный случай понятия;1;1;from
+Q22002738;Komuna e Voskopojes;код GeoNames;1;1;from
+Q22002738;Komuna e Voskopojes;высота над уровнем моря;1;1;from
+Q22002706;Komuna e Velcanit;часовой пояс;1;1;from
+Q22002706;Komuna e Velcanit;высота над уровнем моря;1;1;from
+Q22002763;Komuna e Zhepes;административно-территориальная единица;1;1;from
+Q22002692;Komuna e Ujmishtit;код GeoNames;1;1;from
+Q22002687;Komuna e Udenishtit;код GNS;1;1;from
+Q22002687;Komuna e Udenishtit;часовой пояс;1;1;from
+Q22002687;Komuna e Udenishtit;географические координаты;1;1;from
+Q22002692;Komuna e Ujmishtit;административно-территориальная единица;1;1;from
+Q22002692;Komuna e Ujmishtit;государство;1;1;from
+Q22002692;Komuna e Ujmishtit;это частный случай понятия;1;1;from
+Q22002692;Komuna e Ujmishtit;высота над уровнем моря;1;1;from
+Q22002706;Komuna e Velcanit;код GeoNames;1;1;from
+Q22002692;Komuna e Ujmishtit;код GNS;1;1;from
+Q22002692;Komuna e Ujmishtit;часовой пояс;1;1;from
+Q22002692;Komuna e Ujmishtit;географические координаты;1;1;from
+Q22002706;Komuna e Velcanit;административно-территориальная единица;1;1;from
+Q22002706;Komuna e Velcanit;государство;1;1;from
+Q22002706;Komuna e Velcanit;это частный случай понятия;1;1;from
+Q22002738;Komuna e Voskopojes;код GNS;1;1;from
+Q22002738;Komuna e Voskopojes;часовой пояс;1;1;from
+Q22002738;Komuna e Voskopojes;географические координаты;1;1;from
+Q22002755;Komuna e Zerqanit;административно-территориальная единица;1;1;from
+Q22002747;Komuna e Zavalines;это частный случай понятия;1;1;from
+Q22002747;Komuna e Zavalines;код GeoNames;1;1;from
+Q22002747;Komuna e Zavalines;высота над уровнем моря;1;1;from
+Q22002747;Komuna e Zavalines;код GNS;1;1;from
+Q22002747;Komuna e Zavalines;часовой пояс;1;1;from
+Q22002747;Komuna e Zavalines;географические координаты;1;1;from
+Q22002755;Komuna e Zerqanit;государство;1;1;from
+Q22002741;Komuna e Xibrit;административно-территориальная единица;1;1;from
+Q22002755;Komuna e Zerqanit;это частный случай понятия;1;1;from
+Q22002755;Komuna e Zerqanit;код GeoNames;1;1;from
+Q22002755;Komuna e Zerqanit;высота над уровнем моря;1;1;from
+Q22002755;Komuna e Zerqanit;код GNS;1;1;from
+Q22002755;Komuna e Zerqanit;часовой пояс;1;1;from
+Q22002755;Komuna e Zerqanit;географические координаты;1;1;from
+Q22002747;Komuna e Zavalines;государство;1;1;from
+Q22002747;Komuna e Zavalines;административно-территориальная единица;1;1;from
+Q22002745;Komuna e Zapodit;географические координаты;1;1;from
+Q22002745;Komuna e Zapodit;часовой пояс;1;1;from
+Q22002745;Komuna e Zapodit;код GNS;1;1;from
+Q22002745;Komuna e Zapodit;высота над уровнем моря;1;1;from
+Q22002745;Komuna e Zapodit;код GeoNames;1;1;from
+Q22002745;Komuna e Zapodit;это частный случай понятия;1;1;from
+Q22002745;Komuna e Zapodit;государство;1;1;from
+Q22002745;Komuna e Zapodit;административно-территориальная единица;1;1;from
+Q22002741;Komuna e Xibrit;географические координаты;1;1;from
+Q22002741;Komuna e Xibrit;часовой пояс;1;1;from
+Q22002741;Komuna e Xibrit;код GNS;1;1;from
+Q22002741;Komuna e Xibrit;высота над уровнем моря;1;1;from
+Q22002741;Komuna e Xibrit;код GeoNames;1;1;from
+Q22002741;Komuna e Xibrit;это частный случай понятия;1;1;from
+Q22002741;Komuna e Xibrit;государство;1;1;from
+Q13583148;Syunik (historic province);общая тема категории;1;1;to
+Q13583148;Syunik (historic province);основная категория по теме;1;1;from
+Q13583148;Syunik (historic province);географические координаты;1;1;from
+Q1092446;South Slave Region;код Freebase;1;1;from
+Q1092228;Dehcho Region;основная категория по теме;1;1;from
+Q1092228;Dehcho Region;общая тема категории;1;1;to
+Q1092446;South Slave Region;административно-территориальная единица;1;13;to
+Q1092446;South Slave Region;государство;1;1;from
+Q1092446;South Slave Region;это частный случай понятия;1;1;from
+Q1092446;South Slave Region;географические координаты;1;1;from
+Q1092446;South Slave Region;основная категория по теме;1;1;from
+Q1092228;Dehcho Region;географические координаты;1;1;from
+Q1092446;South Slave Region;местонахождение;1;1;to
+Q1092446;South Slave Region;общая тема категории;1;1;to
+Q1092453;North Slave Region;административно-территориальная единица;1;17;to
+Q1092453;North Slave Region;государство;1;1;from
+Q1092453;North Slave Region;это частный случай понятия;1;1;from
+Q1092453;North Slave Region;географические координаты;1;1;from
+Q1092228;Dehcho Region;код Freebase;1;1;from
+Q1092228;Dehcho Region;это частный случай понятия;1;1;from
+Q1092453;North Slave Region;основная категория по теме;1;1;from
+Q782174;Banja Luka Region;категория на Викискладе;1;1;from
+Q782174;Banja Luka Region;карта ареала вида;1;1;from
+Q782174;Banja Luka Region;код VIAF;1;1;from
+Q782174;Banja Luka Region;карта местонахождения;1;1;from
+Q782174;Banja Luka Region;код LCNAF;1;1;from
+Q782174;Banja Luka Region;это частный случай понятия;1;1;from
+Q782174;Banja Luka Region;столица;1;1;from
+Q782174;Banja Luka Region;часовой пояс;1;1;from
+Q1092228;Dehcho Region;государство;1;1;from
+Q782174;Banja Luka Region;географические координаты;1;1;from
+Q782174;Banja Luka Region;код Freebase;1;1;from
+Q782174;Banja Luka Region;основная категория по теме;1;1;from
+Q782174;Banja Luka Region;общая тема категории;1;1;to
+Q782174;Banja Luka Region;административно делится на;1;1;to
+Q1092228;Dehcho Region;административно-территориальная единица;1;6;to
+Q1092453;North Slave Region;код Freebase;1;1;from
+Q1092453;North Slave Region;общая тема категории;1;1;to
+Q1552899;Novempopulania;основная категория по теме;1;1;from
+Q1455944;Twente;категория объединяет темы;1;1;to
+Q1455944;Twente;основная категория по теме;1;1;from
+Q1455944;Twente;названо в честь;1;5;to
+Q1455944;Twente;находится в пределах природно-географического объекта;1;2;to
+Q1455944;Twente;административно-территориальная единица;1;1;to
+Q1455944;Twente;местонахождение;1;2;to
+Q1455944;Twente;место смерти;1;2;to
+Q1455944;Twente;общая тема категории;1;1;to
+Q1455944;Twente;код Freebase;1;1;from
+Q1552899;Novempopulania;административно-территориальная единица;1;1;from
+Q1552899;Novempopulania;государство;1;1;from
+Q1552899;Novempopulania;код GND;1;1;from
+Q1552899;Novempopulania;это частный случай понятия;1;1;from
+Q1552899;Novempopulania;код в энциклопедии «Британника онлайн»;1;1;from
+Q1552899;Novempopulania;код тезауруса PACTOLS;1;1;from
+Q1455944;Twente;категория карт на Викискладе;1;1;from
+Q1455944;Twente;географические координаты;1;1;from
+Q1092564;Sahtu Region;административно-территориальная единица;1;3;to
+Q1455944;Twente;государство;1;1;from
+Q1092564;Sahtu Region;государство;1;1;from
+Q1092564;Sahtu Region;это частный случай понятия;1;1;from
+Q1092564;Sahtu Region;географические координаты;1;1;from
+Q1092564;Sahtu Region;код Freebase;1;1;from
+Q1092564;Sahtu Region;основная категория по теме;1;1;from
+Q1092564;Sahtu Region;общая тема категории;1;1;to
+Q1455944;Twente;карта местонахождения;1;1;from
+Q1455944;Twente;категория на Викискладе;1;1;from
+Q1455944;Twente;это частный случай понятия;1;1;from
+Q1455944;Twente;этнохороним;1;2;from
+Q1455944;Twente;код GeoNames;1;1;from
+Q1455944;Twente;код GAMEO;1;1;from
+Q1455944;Twente;код BNF;1;1;from
+Q1455944;Twente;код в Encyclopædia Universalis;1;1;from
+Q782174;Banja Luka Region;государство;1;1;from
+Q782174;Banja Luka Region;административно-территориальная единица;1;1;to
+Q780896;Zall-Reç;Who's on First ID;1;1;from
+Q134638;Chūbu region;баннер Викигида;1;1;from
+Q134638;Chūbu region;состоит из;1;1;to
+Q134638;Chūbu region;географические координаты;1;1;from
+Q134638;Chūbu region;код Freebase;1;1;from
+Q134638;Chūbu region;находится в пределах природно-географического объекта;1;1;from
+Q134638;Chūbu region;категория карт на Викискладе;1;1;from
+Q134638;Chūbu region;основная категория по теме;1;1;from
+Q134638;Chūbu region;dmoz;1;1;from
+Q134638;Chūbu region;часовой пояс;1;1;from
+Q134638;Chūbu region;часть от;1;14;to
+Q134638;Chūbu region;местонахождение;1;1;to
+Q134638;Chūbu region;создано на основе;1;1;to
+Q134638;Chūbu region;общая тема категории;1;1;to
+Q134638;Chūbu region;категория объединяет темы;1;1;to
+Q718887;Inuvik Region;административно-территориальная единица;1;12;to
+Q134638;Chūbu region;производная работа;1;1;from
+Q134638;Chūbu region;категория на Викискладе;1;1;from
+Q780896;Zall-Reç;код Freebase;1;1;from
+Q134638;Chūbu region;имеет границы с;1;3;to
+Q134638;Chūbu region;государство;1;1;from
+Q134638;Chūbu region;изображение;1;1;from
+Q134638;Chūbu region;код VIAF;1;1;from
+Q134638;Chūbu region;код GND;1;1;from
+Q134638;Chūbu region;карта местонахождения;1;1;from
+Q134638;Chūbu region;это частный случай понятия;1;2;from
+Q134638;Chūbu region;численность населения;1;1;from
+Q134638;Chūbu region;код NDL;1;1;from
+Q134638;Chūbu region;код в энциклопедии «Британника онлайн»;1;1;from
+Q134638;Chūbu region;написание каной;1;1;from
+Q134638;Chūbu region;площадь;1;1;from
+Q134638;Chūbu region;код BabelNet;1;1;from
+Q134638;Chūbu region;код в Encyclopædia Universalis;1;1;from
+Q134638;Chūbu region;код темы Quora;1;1;from
+Q718887;Inuvik Region;государство;1;1;from
+Q718887;Inuvik Region;это частный случай понятия;1;1;from
+Q718887;Inuvik Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q780896;Zall-Reç;включает населённый пункт;1;9;from
+Q768515;Thebaid;общая тема категории;1;1;to
+Q768515;Thebaid;место рождения;1;1;to
+Q768515;Thebaid;основная тема;1;1;to
+Q780896;Zall-Reç;административно-территориальная единица;1;9;to
+Q780896;Zall-Reç;государство;1;1;from
+Q780896;Zall-Reç;это частный случай понятия;1;3;from
+Q780896;Zall-Reç;код GeoNames;1;2;from
+Q718887;Inuvik Region;географические координаты;1;1;from
+Q780896;Zall-Reç;высота над уровнем моря;1;1;from
+Q780896;Zall-Reç;код GNS;1;1;from
+Q780896;Zall-Reç;почтовый индекс;1;1;from
+Q780896;Zall-Reç;код автомобильного номера;1;1;from
+Q780896;Zall-Reç;часовой пояс;1;1;from
+Q780896;Zall-Reç;географические координаты;1;2;from
+Q768515;Thebaid;место смерти;1;2;to
+Q768515;Thebaid;основная категория по теме;1;1;from
+Q768515;Thebaid;код Freebase;1;1;from
+Q768515;Thebaid;географические координаты;1;1;from
+Q768515;Thebaid;код тезауруса PACTOLS;1;1;from
+Q768515;Thebaid;код Католической энциклопедии;1;1;from
+Q768515;Thebaid;культура;1;2;from
+Q768515;Thebaid;эра;1;1;from
+Q768515;Thebaid;написание каной;1;1;from
+Q768515;Thebaid;это частный случай понятия;1;1;from
+Q768515;Thebaid;карта местонахождения;1;1;from
+Q768515;Thebaid;изображение;1;3;from
+Q768515;Thebaid;государство;1;1;from
+Q768515;Thebaid;административно-территориальная единица;1;12;to
+Q718887;Inuvik Region;общая тема категории;1;1;to
+Q718887;Inuvik Region;основная категория по теме;1;1;from
+Q718887;Inuvik Region;код Freebase;1;1;from
+Q1552899;Novempopulania;код Freebase;1;1;from
+Q1552899;Novempopulania;место рождения;1;2;to
+Q13583148;Syunik (historic province);код в Большой российской энциклопедии онлайн;1;1;from
+Q5845392;Mixcoac;основная категория по теме;1;1;from
+Q5690731;Health and Community Services St. John's Region;это частный случай понятия;1;1;from
+Q5845392;Mixcoac;государство;1;1;from
+Q5845392;Mixcoac;изображение;1;1;from
+Q5845392;Mixcoac;это частный случай понятия;1;2;from
+Q5845392;Mixcoac;категория на Викискладе;1;1;from
+Q5845392;Mixcoac;географические координаты;1;1;from
+Q5845392;Mixcoac;место смерти;1;2;to
+Q5314178;Dunbartonshire and Argyll & Bute;государство;1;1;from
+Q5845392;Mixcoac;общая тема категории;1;1;to
+Q9387568;Zawkrze;административно-территориальная единица;1;7;from
+Q9387568;Zawkrze;государство;1;1;from
+Q9387568;Zawkrze;карта ареала вида;1;2;from
+Q9387568;Zawkrze;это частный случай понятия;1;1;from
+Q9387568;Zawkrze;столица;1;1;from
+Q5314178;Dunbartonshire and Argyll & Bute;это частный случай понятия;1;1;from
+Q5314178;Dunbartonshire and Argyll & Bute;административно-территориальная единица;1;1;from
+Q9387568;Zawkrze;географические координаты;1;1;from
+Q4147087;Gowrie;административно-территориальная единица;1;1;from
+Q4101354;Buchan;основная категория по теме;1;1;from
+Q4101354;Buchan;местонахождение;1;2;to
+Q4101354;Buchan;основная тема;1;1;to
+Q4101354;Buchan;место рождения;1;2;to
+Q4101354;Buchan;место смерти;1;1;to
+Q4101354;Buchan;общая тема категории;1;1;to
+Q4147087;Gowrie;государство;1;2;from
+Q5081123;Q5081123;это частный случай понятия;1;1;from
+Q4147087;Gowrie;это частный случай понятия;1;1;from
+Q4147087;Gowrie;код в энциклопедии «Британника онлайн»;1;1;from
+Q4147087;Gowrie;место рождения;1;1;to
+Q4789855;Argyll and Clyde;административно-территориальная единица;1;1;from
+Q4789855;Argyll and Clyde;государство;1;1;from
+Q4789855;Argyll and Clyde;это частный случай понятия;1;1;from
+Q9387568;Zawkrze;водосборный бассейн;1;1;from
+Q9387568;Zawkrze;является столицей;1;1;to
+Q1552899;Novempopulania;общая тема категории;1;1;to
+Q11907274;Q11907274;это частный случай понятия;1;1;from
+Q10395247;West zone of Rio de Janeiro;ID отношения в OpenStreetMap;1;1;from
+Q10395247;West zone of Rio de Janeiro;баннер Викигида;1;1;from
+Q10395247;West zone of Rio de Janeiro;часть от;1;1;to
+Q10395247;West zone of Rio de Janeiro;общая тема категории;1;1;to
+Q11907274;Q11907274;административно-территориальная единица;1;1;from
+Q11907274;Q11907274;государство;1;3;from
+Q11907274;Q11907274;географические координаты;1;1;from
+Q10395247;West zone of Rio de Janeiro;не путать с;1;1;to
+Q11908191;Q11908191;административно-территориальная единица;1;1;from
+Q11908191;Q11908191;это частный случай понятия;1;1;from
+Q11908191;Q11908191;географические координаты;1;1;from
+Q13583148;Syunik (historic province);государство;1;2;from
+Q13583148;Syunik (historic province);это частный случай понятия;1;1;from
+Q13583148;Syunik (historic province);категория для людей, похороненных здесь;1;1;from
+Q10395247;West zone of Rio de Janeiro;категория на Викискладе;1;1;from
+Q10395247;West zone of Rio de Janeiro;это частный случай понятия;1;1;from
+Q10358684;Q10358684;административно-территориальная единица;1;17;to
+Q10358685;Q10358685;это частный случай понятия;1;1;from
+Q10358684;Q10358684;государство;1;1;from
+Q10358684;Q10358684;это частный случай понятия;1;1;from
+Q10358684;Q10358684;географические координаты;1;1;from
+Q10358685;Q10358685;административно-территориальная единица;1;12;to
+Q10358685;Q10358685;государство;1;1;from
+Q10358685;Q10358685;карта местонахождения;1;1;from
+Q10358685;Q10358685;категория на Викискладе;1;1;from
+Q10395247;West zone of Rio de Janeiro;государство;1;1;from
+Q10358685;Q10358685;географические координаты;1;1;from
+Q10358687;Q10358687;административно-территориальная единица;1;9;to
+Q10358687;Q10358687;государство;1;1;from
+Q10358687;Q10358687;это частный случай понятия;1;1;from
+Q10358687;Q10358687;географические координаты;1;1;from
+Q10395247;West zone of Rio de Janeiro;административно-территориальная единица;1;1;from
+Q4101354;Buchan;географические координаты;1;1;from
+Q4101354;Buchan;код GeoNames;1;1;from
+Q4101354;Buchan;описывается в источниках;1;2;from
+Q2573064;Marathwada;это частный случай понятия;1;1;from
+Q2445374;Ngo-Ketunjia;географические координаты;1;2;from
+Q2445374;Ngo-Ketunjia;код Freebase;1;1;from
+Q2445374;Ngo-Ketunjia;административно делится на;1;1;to
+Q2573064;Marathwada;административно-территориальная единица;1;2;to
+Q2573064;Marathwada;административно делится на;1;8;from
+Q2573064;Marathwada;государство;1;1;from
+Q2573064;Marathwada;численность населения;1;1;from
+Q2445374;Ngo-Ketunjia;высота над уровнем моря;1;1;from
+Q2573064;Marathwada;код GeoNames;1;1;from
+Q2573064;Marathwada;географические координаты;1;1;from
+Q2573064;Marathwada;код Freebase;1;1;from
+Q2573064;Marathwada;основная категория по теме;1;1;from
+Q2573064;Marathwada;баннер Викигида;1;1;from
+Q2573064;Marathwada;часть от;1;1;to
+Q2445374;Ngo-Ketunjia;площадь;1;1;from
+Q2445374;Ngo-Ketunjia;код GeoNames;1;1;from
+Q4101354;Buchan;это частный случай понятия;1;1;from
+Q1656571;Kapoeta South County;государство;1;1;from
+Q1572262;Sine-Saloum;государство;1;1;from
+Q1572262;Sine-Saloum;это частный случай понятия;1;1;from
+Q1572262;Sine-Saloum;код в Большой каталанской энциклопедии;1;1;from
+Q1572262;Sine-Saloum;географические координаты;1;1;from
+Q1572262;Sine-Saloum;код Freebase;1;1;from
+Q1572262;Sine-Saloum;род занятий;1;1;to
+Q1656571;Kapoeta South County;это частный случай понятия;1;1;from
+Q2445374;Ngo-Ketunjia;это частный случай понятия;1;2;from
+Q1656571;Kapoeta South County;географические координаты;1;1;from
+Q2445374;Ngo-Ketunjia;административно-территориальная единица;1;13;to
+Q2445374;Ngo-Ketunjia;государство;1;1;from
+Q2445374;Ngo-Ketunjia;код VIAF;1;1;from
+Q2445374;Ngo-Ketunjia;карта местонахождения;1;1;from
+Q2445374;Ngo-Ketunjia;код LCNAF;1;1;from
+Q2573064;Marathwada;общая тема категории;1;1;to
+Q2711677;Vergo;административно-территориальная единица;1;1;to
+Q2711677;Vergo;государство;1;1;from
+Q2727234;Steblevë;код Freebase;1;1;from
+Q2727234;Steblevë;высота над уровнем моря;1;1;from
+Q2727234;Steblevë;код GNS;1;1;from
+Q2727234;Steblevë;почтовый индекс;1;1;from
+Q2727234;Steblevë;код автомобильного номера;1;1;from
+Q2727234;Steblevë;часовой пояс;1;3;from
+Q2727234;Steblevë;географические координаты;1;1;from
+Q2727234;Steblevë;Who's on First ID;1;1;from
+Q2711677;Vergo;это частный случай понятия;1;3;from
+Q2727234;Steblevë;место рождения;1;3;to
+Q2727234;Steblevë;место смерти;1;1;to
+Q4101354;Buchan;административно-территориальная единица;1;1;from
+Q4101354;Buchan;государство;1;1;from
+Q4101354;Buchan;код VIAF;1;1;from
+Q4101354;Buchan;код LCNAF;1;1;from
+Q2727234;Steblevë;код GeoNames;1;2;from
+Q2727234;Steblevë;включает населённый пункт;1;7;from
+Q2727234;Steblevë;это частный случай понятия;1;3;from
+Q2727234;Steblevë;код VIAF;1;1;from
+Q2727234;Steblevë;государство;1;1;from
+Q2727234;Steblevë;административно-территориальная единица;1;7;to
+Q2711677;Vergo;Who's on First ID;1;1;from
+Q2711677;Vergo;код Freebase;1;1;from
+Q2711677;Vergo;географические координаты;1;2;from
+Q2711677;Vergo;часовой пояс;1;1;from
+Q2711677;Vergo;код автомобильного номера;1;1;from
+Q2711677;Vergo;часть от;1;1;from
+Q2711677;Vergo;почтовый индекс;1;1;from
+Q2711677;Vergo;код GNS;1;1;from
+Q2711677;Vergo;высота над уровнем моря;1;1;from
+Q2711677;Vergo;не путать с;1;1;to
+Q2711677;Vergo;код GeoNames;1;2;from
+Q22004961;Komuna e Carshoves;это частный случай понятия;1;1;from
+Q22004961;Komuna e Carshoves;код GeoNames;1;1;from
+Q22004961;Komuna e Carshoves;высота над уровнем моря;1;1;from
+Q22005436;Komuna e Mollasit;высота над уровнем моря;1;1;from
+Q22005435;Q22005435;часовой пояс;1;1;from
+Q22005435;Q22005435;географические координаты;1;1;from
+Q22005436;Komuna e Mollasit;административно-территориальная единица;1;1;from
+Q22005436;Komuna e Mollasit;государство;1;1;from
+Q22005436;Komuna e Mollasit;это частный случай понятия;1;1;from
+Q22005436;Komuna e Mollasit;код GeoNames;1;1;from
+Q22005436;Komuna e Mollasit;код GNS;1;1;from
+Q22005435;Q22005435;высота над уровнем моря;1;1;from
+Q22005436;Komuna e Mollasit;часовой пояс;1;1;from
+Q22005436;Komuna e Mollasit;географические координаты;1;1;from
+Q22005454;Myhejan;государство;1;1;from
+Q22005454;Myhejan;это частный случай понятия;1;1;from
+Q22005454;Myhejan;численность населения;1;1;from
+Q22005454;Myhejan;код GeoNames;1;1;from
+Q22005435;Q22005435;код GNS;1;1;from
+Q22005435;Q22005435;код GeoNames;1;1;from
+Q22005454;Myhejan;часовой пояс;1;1;from
+Q22005431;Komuna e Mirasit;это частный случай понятия;1;1;from
+Q22005412;Komuna e Melanit;высота над уровнем моря;1;1;from
+Q22005412;Komuna e Melanit;код GNS;1;1;from
+Q22005412;Komuna e Melanit;часовой пояс;1;1;from
+Q22005412;Komuna e Melanit;географические координаты;1;1;from
+Q22005431;Komuna e Mirasit;административно-территориальная единица;1;1;from
+Q22005431;Komuna e Mirasit;государство;1;1;from
+Q22005431;Komuna e Mirasit;код GeoNames;1;1;from
+Q22005435;Q22005435;это частный случай понятия;1;1;from
+Q22005431;Komuna e Mirasit;высота над уровнем моря;1;1;from
+Q22005431;Komuna e Mirasit;код GNS;1;1;from
+Q22005431;Komuna e Mirasit;часовой пояс;1;1;from
+Q22005431;Komuna e Mirasit;географические координаты;1;1;from
+Q22005435;Q22005435;административно-территориальная единица;1;1;from
+Q22005435;Q22005435;государство;1;1;from
+Q22005454;Myhejan;высота над уровнем моря;1;1;from
+Q22005454;Myhejan;географические координаты;1;1;from
+Q22005479;Komuna e Ostrenit;государство;1;1;from
+Q22005475;Komuna e Oroshit;административно-территориальная единица;1;1;from
+Q22005471;Komuna e Orenjes;это частный случай понятия;1;1;from
+Q22005471;Komuna e Orenjes;код GeoNames;1;1;from
+Q22005471;Komuna e Orenjes;высота над уровнем моря;1;1;from
+Q22005471;Komuna e Orenjes;код GNS;1;1;from
+Q22005471;Komuna e Orenjes;часовой пояс;1;1;from
+Q22005471;Komuna e Orenjes;географические координаты;1;1;from
+Q22005475;Komuna e Oroshit;государство;1;1;from
+Q22005471;Komuna e Orenjes;административно-территориальная единица;1;1;from
+Q22005475;Komuna e Oroshit;это частный случай понятия;1;1;from
+Q22005475;Komuna e Oroshit;код GeoNames;1;1;from
+Q22005475;Komuna e Oroshit;высота над уровнем моря;1;1;from
+Q22005475;Komuna e Oroshit;код GNS;1;1;from
+Q22005475;Komuna e Oroshit;часовой пояс;1;1;from
+Q22005475;Komuna e Oroshit;географические координаты;1;1;from
+Q22005471;Komuna e Orenjes;государство;1;1;from
+Q22005466;Komuna e Novoseles;географические координаты;1;1;from
+Q22005454;Myhejan;Who's on First ID;1;1;from
+Q22005464;Komuna e Zagorit;часовой пояс;1;1;from
+Q22005464;Komuna e Zagorit;административно-территориальная единица;1;1;from
+Q22005464;Komuna e Zagorit;государство;1;1;from
+Q22005464;Komuna e Zagorit;это частный случай понятия;1;1;from
+Q22005464;Komuna e Zagorit;код GeoNames;1;1;from
+Q22005464;Komuna e Zagorit;высота над уровнем моря;1;1;from
+Q22005464;Komuna e Zagorit;код GNS;1;1;from
+Q22005464;Komuna e Zagorit;географические координаты;1;1;from
+Q22005466;Komuna e Novoseles;часовой пояс;1;1;from
+Q22005466;Komuna e Novoseles;административно-территориальная единица;1;1;from
+Q22005466;Komuna e Novoseles;государство;1;1;from
+Q22005466;Komuna e Novoseles;это частный случай понятия;1;1;from
+Q22005466;Komuna e Novoseles;код GeoNames;1;1;from
+Q22005466;Komuna e Novoseles;высота над уровнем моря;1;1;from
+Q22005466;Komuna e Novoseles;код GNS;1;1;from
+Q22005412;Komuna e Melanit;код GeoNames;1;1;from
+Q22005412;Komuna e Melanit;это частный случай понятия;1;1;from
+Q22005412;Komuna e Melanit;государство;1;1;from
+Q22005361;Komuna e Macukullit;государство;1;1;from
+Q22005355;Komuna e Lunikut;код GeoNames;1;1;from
+Q22005355;Komuna e Lunikut;высота над уровнем моря;1;1;from
+Q22005355;Komuna e Lunikut;код GNS;1;1;from
+Q22005355;Komuna e Lunikut;часовой пояс;1;1;from
+Q22005355;Komuna e Lunikut;географические координаты;1;1;from
+Q22005361;Komuna e Macukullit;административно-территориальная единица;1;1;from
+Q22005361;Komuna e Macukullit;это частный случай понятия;1;1;from
+Q22005355;Komuna e Lunikut;государство;1;1;from
+Q22005361;Komuna e Macukullit;код GeoNames;1;1;from
+Q22005361;Komuna e Macukullit;высота над уровнем моря;1;1;from
+Q22005361;Komuna e Macukullit;код GNS;1;1;from
+Q22005361;Komuna e Macukullit;часовой пояс;1;1;from
+Q22005361;Komuna e Macukullit;географические координаты;1;1;from
+Q22005378;Bashkia e Maliqit;административно-территориальная единица;1;1;from
+Q22005355;Komuna e Lunikut;это частный случай понятия;1;1;from
+Q22005355;Komuna e Lunikut;административно-территориальная единица;1;1;from
+Q22005412;Komuna e Melanit;административно-территориальная единица;1;1;from
+Q22005333;Komuna e Liqenasit;географические координаты;1;1;from
+Q22005333;Komuna e Liqenasit;государство;1;1;from
+Q22005333;Komuna e Liqenasit;это частный случай понятия;1;1;from
+Q22005333;Komuna e Liqenasit;код GeoNames;1;1;from
+Q22005333;Komuna e Liqenasit;высота над уровнем моря;1;1;from
+Q22005333;Komuna e Liqenasit;код GNS;1;1;from
+Q22005333;Komuna e Liqenasit;часовой пояс;1;1;from
+Q22005352;Komuna e Lumasit;административно-территориальная единица;1;1;from
+Q22005352;Komuna e Lumasit;географические координаты;1;1;from
+Q22005352;Komuna e Lumasit;государство;1;1;from
+Q22005352;Komuna e Lumasit;это частный случай понятия;1;1;from
+Q22005352;Komuna e Lumasit;код GeoNames;1;1;from
+Q22005352;Komuna e Lumasit;высота над уровнем моря;1;1;from
+Q22005352;Komuna e Lumasit;код GNS;1;1;from
+Q22005352;Komuna e Lumasit;часовой пояс;1;1;from
+Q22005378;Bashkia e Maliqit;государство;1;1;from
+Q22005378;Bashkia e Maliqit;это частный случай понятия;1;1;from
+Q22005378;Bashkia e Maliqit;код GeoNames;1;1;from
+Q22005401;Komuna e Martaneshit;административно-территориальная единица;1;1;from
+Q22005398;Markaj;государство;1;1;from
+Q22005398;Markaj;это частный случай понятия;1;1;from
+Q22005398;Markaj;код GeoNames;1;1;from
+Q22005398;Markaj;высота над уровнем моря;1;1;from
+Q22005398;Markaj;часовой пояс;1;1;from
+Q22005398;Markaj;географические координаты;1;1;from
+Q22005401;Komuna e Martaneshit;государство;1;1;from
+Q22005378;Bashkia e Maliqit;высота над уровнем моря;1;1;from
+Q22005401;Komuna e Martaneshit;это частный случай понятия;1;1;from
+Q22005401;Komuna e Martaneshit;код GeoNames;1;1;from
+Q22005401;Komuna e Martaneshit;высота над уровнем моря;1;1;from
+Q22005401;Komuna e Martaneshit;код GNS;1;1;from
+Q22005401;Komuna e Martaneshit;часовой пояс;1;1;from
+Q22005401;Komuna e Martaneshit;географические координаты;1;1;from
+Q22005395;Komuna e Margegaje;географические координаты;1;1;from
+Q22005395;Komuna e Margegaje;часовой пояс;1;1;from
+Q22005395;Komuna e Margegaje;высота над уровнем моря;1;1;from
+Q22005395;Komuna e Margegaje;код GeoNames;1;1;from
+Q22005395;Komuna e Margegaje;это частный случай понятия;1;1;from
+Q22005395;Komuna e Margegaje;государство;1;1;from
+Q22005394;Komuna e Margegajt;географические координаты;1;1;from
+Q22005394;Komuna e Margegajt;часовой пояс;1;1;from
+Q22005394;Komuna e Margegajt;код GNS;1;1;from
+Q22005394;Komuna e Margegajt;высота над уровнем моря;1;1;from
+Q22005394;Komuna e Margegajt;код GeoNames;1;1;from
+Q22005394;Komuna e Margegajt;это частный случай понятия;1;1;from
+Q22005394;Komuna e Margegajt;государство;1;1;from
+Q22005394;Komuna e Margegajt;административно-территориальная единица;1;1;from
+Q22005378;Bashkia e Maliqit;географические координаты;1;1;from
+Q22005378;Bashkia e Maliqit;часовой пояс;1;1;from
+Q22005378;Bashkia e Maliqit;код GNS;1;1;from
+Q22005479;Komuna e Ostrenit;административно-территориальная единица;1;1;from
+Q22005479;Komuna e Ostrenit;это частный случай понятия;1;1;from
+Q22005324;Bashkia e Librazhdit;географические координаты;1;1;from
+Q22005558;Komuna e Potomit;код GNS;1;1;from
+Q22005553;Komuna e Porocanit;географические координаты;1;1;from
+Q22005558;Komuna e Potomit;административно-территориальная единица;1;1;from
+Q22005558;Komuna e Potomit;государство;1;1;from
+Q22005558;Komuna e Potomit;это частный случай понятия;1;1;from
+Q22005558;Komuna e Potomit;код GeoNames;1;1;from
+Q22005558;Komuna e Potomit;высота над уровнем моря;1;1;from
+Q22005558;Komuna e Potomit;часовой пояс;1;1;from
+Q22005553;Komuna e Porocanit;код GNS;1;1;from
+Q22005558;Komuna e Potomit;географические координаты;1;1;from
+Q22005560;Komuna e Rukajt;административно-территориальная единица;1;1;from
+Q22005560;Komuna e Rukajt;государство;1;1;from
+Q22005560;Komuna e Rukajt;это частный случай понятия;1;1;from
+Q22005560;Komuna e Rukajt;код GeoNames;1;1;from
+Q22005560;Komuna e Rukajt;высота над уровнем моря;1;1;from
+Q22005553;Komuna e Porocanit;часовой пояс;1;1;from
+Q22005553;Komuna e Porocanit;высота над уровнем моря;1;1;from
+Q22005560;Komuna e Rukajt;часовой пояс;1;1;from
+Q22005550;Komuna e Polisit;код GeoNames;1;1;from
+Q22005547;Bashkia e Policanit;код GNS;1;1;from
+Q22005547;Bashkia e Policanit;часовой пояс;1;1;from
+Q22005547;Bashkia e Policanit;географические координаты;1;1;from
+Q22005550;Komuna e Polisit;административно-территориальная единица;1;1;from
+Q22005550;Komuna e Polisit;государство;1;1;from
+Q22005550;Komuna e Polisit;это частный случай понятия;1;1;from
+Q22005550;Komuna e Polisit;высота над уровнем моря;1;1;from
+Q22005553;Komuna e Porocanit;код GeoNames;1;1;from
+Q22005550;Komuna e Polisit;код GNS;1;1;from
+Q22005550;Komuna e Polisit;часовой пояс;1;1;from
+Q22005550;Komuna e Polisit;географические координаты;1;1;from
+Q22005553;Komuna e Porocanit;административно-территориальная единица;1;1;from
+Q22005553;Komuna e Porocanit;государство;1;1;from
+Q22005553;Komuna e Porocanit;это частный случай понятия;1;1;from
+Q22005560;Komuna e Rukajt;код GNS;1;1;from
+Q22005560;Komuna e Rukajt;географические координаты;1;1;from
+Q22005479;Komuna e Ostrenit;код GeoNames;1;1;from
+Q22007482;Komuna e Sinjes;государство;1;1;from
+Q22007464;Komuna e Shoshit;код GeoNames;1;1;from
+Q22007464;Komuna e Shoshit;высота над уровнем моря;1;1;from
+Q22007464;Komuna e Shoshit;код GNS;1;1;from
+Q22007464;Komuna e Shoshit;часовой пояс;1;1;from
+Q22007464;Komuna e Shoshit;географические координаты;1;1;from
+Q22007482;Komuna e Sinjes;административно-территориальная единица;1;1;from
+Q22007482;Komuna e Sinjes;это частный случай понятия;1;1;from
+Q22007464;Komuna e Shoshit;государство;1;1;from
+Q22007482;Komuna e Sinjes;код GeoNames;1;1;from
+Q22007482;Komuna e Sinjes;высота над уровнем моря;1;1;from
+Q22007482;Komuna e Sinjes;код GNS;1;1;from
+Q22007482;Komuna e Sinjes;часовой пояс;1;1;from
+Q22007482;Komuna e Sinjes;географические координаты;1;1;from
+Q22007507;Komuna e Strumit;административно-территориальная единица;1;1;from
+Q22007464;Komuna e Shoshit;это частный случай понятия;1;1;from
+Q22007464;Komuna e Shoshit;административно-территориальная единица;1;1;from
+Q22005567;Komuna e Progerit;административно-территориальная единица;1;1;from
+Q22005567;Komuna e Progerit;географические координаты;1;1;from
+Q22005567;Komuna e Progerit;государство;1;1;from
+Q22005567;Komuna e Progerit;это частный случай понятия;1;1;from
+Q22005567;Komuna e Progerit;код GeoNames;1;1;from
+Q22005567;Komuna e Progerit;высота над уровнем моря;1;1;from
+Q22005567;Komuna e Progerit;код GNS;1;1;from
+Q22005567;Komuna e Progerit;часовой пояс;1;1;from
+Q22007462;Komuna e Shllakut;административно-территориальная единица;1;1;from
+Q22007462;Komuna e Shllakut;географические координаты;1;1;from
+Q22007462;Komuna e Shllakut;государство;1;1;from
+Q22007462;Komuna e Shllakut;это частный случай понятия;1;1;from
+Q22007462;Komuna e Shllakut;код GeoNames;1;1;from
+Q22007462;Komuna e Shllakut;высота над уровнем моря;1;1;from
+Q22007462;Komuna e Shllakut;код GNS;1;1;from
+Q22007462;Komuna e Shllakut;часовой пояс;1;1;from
+Q22005547;Bashkia e Policanit;высота над уровнем моря;1;1;from
+Q22005547;Bashkia e Policanit;код GeoNames;1;1;from
+Q22005547;Bashkia e Policanit;это частный случай понятия;1;1;from
+Q22005520;Bashkia e Peshkopise;часовой пояс;1;1;from
+Q22005520;Bashkia e Peshkopise;административно-территориальная единица;1;1;from
+Q22005520;Bashkia e Peshkopise;государство;1;1;from
+Q22005520;Bashkia e Peshkopise;это частный случай понятия;1;1;from
+Q22005520;Bashkia e Peshkopise;код GeoNames;1;1;from
+Q22005520;Bashkia e Peshkopise;высота над уровнем моря;1;1;from
+Q22005520;Bashkia e Peshkopise;код GNS;1;1;from
+Q22005520;Bashkia e Peshkopise;географические координаты;1;1;from
+Q22005517;Bashkia e Permetit;часовой пояс;1;1;from
+Q22005525;Komuna e Petranit;административно-территориальная единица;1;1;from
+Q22005525;Komuna e Petranit;государство;1;1;from
+Q22005525;Komuna e Petranit;это частный случай понятия;1;1;from
+Q22005525;Komuna e Petranit;код GeoNames;1;1;from
+Q22005525;Komuna e Petranit;высота над уровнем моря;1;1;from
+Q22005525;Komuna e Petranit;код GNS;1;1;from
+Q22005517;Bashkia e Permetit;географические координаты;1;1;from
+Q22005517;Bashkia e Permetit;код GNS;1;1;from
+Q22005547;Bashkia e Policanit;государство;1;1;from
+Q22005507;Pac;код GeoNames;1;1;from
+Q22005479;Komuna e Ostrenit;высота над уровнем моря;1;1;from
+Q22005479;Komuna e Ostrenit;код GNS;1;1;from
+Q22005479;Komuna e Ostrenit;часовой пояс;1;1;from
+Q22005479;Komuna e Ostrenit;географические координаты;1;1;from
+Q22005507;Pac;государство;1;1;from
+Q22005507;Pac;это частный случай понятия;1;1;from
+Q22005507;Pac;высота над уровнем моря;1;1;from
+Q22005517;Bashkia e Permetit;высота над уровнем моря;1;1;from
+Q22005507;Pac;часовой пояс;1;1;from
+Q22005507;Pac;географические координаты;1;1;from
+Q22005517;Bashkia e Permetit;административно-территориальная единица;1;1;from
+Q22005517;Bashkia e Permetit;государство;1;1;from
+Q22005517;Bashkia e Permetit;это частный случай понятия;1;1;from
+Q22005517;Bashkia e Permetit;код GeoNames;1;1;from
+Q22005525;Komuna e Petranit;часовой пояс;1;1;from
+Q22005525;Komuna e Petranit;географические координаты;1;1;from
+Q22005527;Komuna e Picarit;административно-территориальная единица;1;1;from
+Q22005546;Bashkia e Pogradecit;государство;1;1;from
+Q22005531;Komuna e Pishajt;код GeoNames;1;1;from
+Q22005531;Komuna e Pishajt;высота над уровнем моря;1;1;from
+Q22005531;Komuna e Pishajt;код GNS;1;1;from
+Q22005531;Komuna e Pishajt;часовой пояс;1;1;from
+Q22005531;Komuna e Pishajt;географические координаты;1;1;from
+Q22005546;Bashkia e Pogradecit;административно-территориальная единица;1;1;from
+Q22005546;Bashkia e Pogradecit;это частный случай понятия;1;1;from
+Q22005527;Komuna e Picarit;государство;1;1;from
+Q22005546;Bashkia e Pogradecit;код GeoNames;1;1;from
+Q22005546;Bashkia e Pogradecit;высота над уровнем моря;1;1;from
+Q22005546;Bashkia e Pogradecit;код GNS;1;1;from
+Q22005546;Bashkia e Pogradecit;часовой пояс;1;1;from
+Q22005546;Bashkia e Pogradecit;географические координаты;1;1;from
+Q22005547;Bashkia e Policanit;административно-территориальная единица;1;1;from
+Q22005531;Komuna e Pishajt;это частный случай понятия;1;1;from
+Q22005531;Komuna e Pishajt;государство;1;1;from
+Q22005531;Komuna e Pishajt;административно-территориальная единица;1;1;from
+Q22005530;Komuna e Pirgut;географические координаты;1;1;from
+Q22005530;Komuna e Pirgut;часовой пояс;1;1;from
+Q22005530;Komuna e Pirgut;код GNS;1;1;from
+Q22005530;Komuna e Pirgut;высота над уровнем моря;1;1;from
+Q22005530;Komuna e Pirgut;код GeoNames;1;1;from
+Q22005530;Komuna e Pirgut;это частный случай понятия;1;1;from
+Q22005530;Komuna e Pirgut;государство;1;1;from
+Q22005530;Komuna e Pirgut;административно-территориальная единица;1;1;from
+Q22005527;Komuna e Picarit;географические координаты;1;1;from
+Q22005527;Komuna e Picarit;часовой пояс;1;1;from
+Q22005527;Komuna e Picarit;код GNS;1;1;from
+Q22005527;Komuna e Picarit;высота над уровнем моря;1;1;from
+Q22005527;Komuna e Picarit;код GeoNames;1;1;from
+Q22005527;Komuna e Picarit;это частный случай понятия;1;1;from
+Q22005333;Komuna e Liqenasit;административно-территориальная единица;1;1;from
+Q22005324;Bashkia e Librazhdit;часовой пояс;1;1;from
+Q22004961;Komuna e Carshoves;код GNS;1;1;from
+Q22005066;Komuna e Gjergjanit;код GeoNames;1;1;from
+Q22005065;Komuna e Gjerbesit;код GNS;1;1;from
+Q22005065;Komuna e Gjerbesit;часовой пояс;1;1;from
+Q22005065;Komuna e Gjerbesit;географические координаты;1;1;from
+Q22005066;Komuna e Gjergjanit;административно-территориальная единица;1;1;from
+Q22005066;Komuna e Gjergjanit;государство;1;1;from
+Q22005066;Komuna e Gjergjanit;это частный случай понятия;1;1;from
+Q22005066;Komuna e Gjergjanit;высота над уровнем моря;1;1;from
+Q22005065;Komuna e Gjerbesit;код GeoNames;1;1;from
+Q22005066;Komuna e Gjergjanit;код GNS;1;1;from
+Q22005066;Komuna e Gjergjanit;часовой пояс;1;1;from
+Q22005066;Komuna e Gjergjanit;географические координаты;1;1;from
+Q22005068;Komuna e Gjinarit;административно-территориальная единица;1;1;from
+Q22005068;Komuna e Gjinarit;государство;1;1;from
+Q22005068;Komuna e Gjinarit;это частный случай понятия;1;1;from
+Q22005065;Komuna e Gjerbesit;высота над уровнем моря;1;1;from
+Q22005065;Komuna e Gjerbesit;это частный случай понятия;1;1;from
+Q22005068;Komuna e Gjinarit;высота над уровнем моря;1;1;from
+Q22005051;Komuna e Muhurit;государство;1;1;from
+Q22005049;Komuna e Fushe-cidhnes;код GeoNames;1;1;from
+Q22005049;Komuna e Fushe-cidhnes;высота над уровнем моря;1;1;from
+Q22005049;Komuna e Fushe-cidhnes;код GNS;1;1;from
+Q22005049;Komuna e Fushe-cidhnes;часовой пояс;1;1;from
+Q22005049;Komuna e Fushe-cidhnes;географические координаты;1;1;from
+Q22005051;Komuna e Muhurit;административно-территориальная единица;1;1;from
+Q22005051;Komuna e Muhurit;это частный случай понятия;1;1;from
+Q22005065;Komuna e Gjerbesit;государство;1;1;from
+Q22005051;Komuna e Muhurit;код GeoNames;1;1;from
+Q22005051;Komuna e Muhurit;высота над уровнем моря;1;1;from
+Q22005051;Komuna e Muhurit;код GNS;1;1;from
+Q22005051;Komuna e Muhurit;часовой пояс;1;1;from
+Q22005051;Komuna e Muhurit;географические координаты;1;1;from
+Q22005065;Komuna e Gjerbesit;административно-территориальная единица;1;1;from
+Q22005068;Komuna e Gjinarit;код GeoNames;1;1;from
+Q22005068;Komuna e Gjinarit;код GNS;1;1;from
+Q22005137;Komuna e Hotolishtit;административно-территориальная единица;1;1;from
+Q22005095;Komuna e Gostimes;географические координаты;1;1;from
+Q22005095;Komuna e Gostimes;государство;1;1;from
+Q22005095;Komuna e Gostimes;это частный случай понятия;1;1;from
+Q22005095;Komuna e Gostimes;код GeoNames;1;1;from
+Q22005095;Komuna e Gostimes;высота над уровнем моря;1;1;from
+Q22005095;Komuna e Gostimes;код GNS;1;1;from
+Q22005095;Komuna e Gostimes;часовой пояс;1;1;from
+Q22005130;Komuna e Hocishtit;административно-территориальная единица;1;1;from
+Q22005076;Komuna e Gjorices;географические координаты;1;1;from
+Q22005130;Komuna e Hocishtit;государство;1;1;from
+Q22005130;Komuna e Hocishtit;это частный случай понятия;1;1;from
+Q22005130;Komuna e Hocishtit;код GeoNames;1;1;from
+Q22005130;Komuna e Hocishtit;высота над уровнем моря;1;1;from
+Q22005130;Komuna e Hocishtit;код GNS;1;1;from
+Q22005130;Komuna e Hocishtit;часовой пояс;1;1;from
+Q22005095;Komuna e Gostimes;административно-территориальная единица;1;1;from
+Q22005076;Komuna e Gjorices;часовой пояс;1;1;from
+Q22005068;Komuna e Gjinarit;часовой пояс;1;1;from
+Q22005071;Bashkia e Gjirokastres;код GNS;1;1;from
+Q22005068;Komuna e Gjinarit;географические координаты;1;1;from
+Q22005071;Bashkia e Gjirokastres;административно-территориальная единица;1;1;from
+Q22005071;Bashkia e Gjirokastres;государство;1;1;from
+Q22005071;Bashkia e Gjirokastres;это частный случай понятия;1;1;from
+Q22005071;Bashkia e Gjirokastres;код GeoNames;1;1;from
+Q22005071;Bashkia e Gjirokastres;высота над уровнем моря;1;1;from
+Q22005071;Bashkia e Gjirokastres;часовой пояс;1;1;from
+Q22005076;Komuna e Gjorices;код GNS;1;1;from
+Q22005071;Bashkia e Gjirokastres;географические координаты;1;1;from
+Q22005076;Komuna e Gjorices;административно-территориальная единица;1;1;from
+Q22005076;Komuna e Gjorices;государство;1;1;from
+Q22005076;Komuna e Gjorices;это частный случай понятия;1;1;from
+Q22005076;Komuna e Gjorices;код GeoNames;1;1;from
+Q22005076;Komuna e Gjorices;высота над уровнем моря;1;1;from
+Q22005049;Komuna e Fushe-cidhnes;это частный случай понятия;1;1;from
+Q22005049;Komuna e Fushe-cidhnes;государство;1;1;from
+Q22005049;Komuna e Fushe-cidhnes;административно-территориальная единица;1;1;from
+Q22004979;Bashkia e Corovodes;часовой пояс;1;1;from
+Q22004979;Bashkia e Corovodes;административно-территориальная единица;1;1;from
+Q22004979;Bashkia e Corovodes;государство;1;1;from
+Q22004979;Bashkia e Corovodes;это частный случай понятия;1;1;from
+Q22004979;Bashkia e Corovodes;код GeoNames;1;1;from
+Q22004979;Bashkia e Corovodes;высота над уровнем моря;1;1;from
+Q22004979;Bashkia e Corovodes;код GNS;1;1;from
+Q22004979;Bashkia e Corovodes;географические координаты;1;1;from
+Q22004977;Komuna e Clirimit;часовой пояс;1;1;from
+Q22004994;Komuna e Derjanit;административно-территориальная единица;1;1;from
+Q22004994;Komuna e Derjanit;государство;1;1;from
+Q22004994;Komuna e Derjanit;это частный случай понятия;1;1;from
+Q22004994;Komuna e Derjanit;код GeoNames;1;1;from
+Q22004994;Komuna e Derjanit;высота над уровнем моря;1;1;from
+Q22004994;Komuna e Derjanit;код GNS;1;1;from
+Q22004977;Komuna e Clirimit;географические координаты;1;1;from
+Q22004977;Komuna e Clirimit;код GNS;1;1;from
+Q22005047;Bashkia e Fushe-arrezit;географические координаты;1;1;from
+Q22004966;Komuna e Cepanit;высота над уровнем моря;1;1;from
+Q22004961;Komuna e Carshoves;часовой пояс;1;1;from
+Q22004961;Komuna e Carshoves;географические координаты;1;1;from
+Q22004966;Komuna e Cepanit;административно-территориальная единица;1;1;from
+Q22004966;Komuna e Cepanit;государство;1;1;from
+Q22004966;Komuna e Cepanit;это частный случай понятия;1;1;from
+Q22004966;Komuna e Cepanit;код GeoNames;1;1;from
+Q22004966;Komuna e Cepanit;код GNS;1;1;from
+Q22004977;Komuna e Clirimit;высота над уровнем моря;1;1;from
+Q22004966;Komuna e Cepanit;часовой пояс;1;1;from
+Q22004966;Komuna e Cepanit;географические координаты;1;1;from
+Q22004977;Komuna e Clirimit;административно-территориальная единица;1;1;from
+Q22004977;Komuna e Clirimit;государство;1;1;from
+Q22004977;Komuna e Clirimit;это частный случай понятия;1;1;from
+Q22004977;Komuna e Clirimit;код GeoNames;1;1;from
+Q22004994;Komuna e Derjanit;часовой пояс;1;1;from
+Q22004994;Komuna e Derjanit;географические координаты;1;1;from
+Q22005031;Bashkia e Ersekes;административно-территориальная единица;1;1;from
+Q22005039;Komuna e Frasherit;географические координаты;1;1;from
+Q22005039;Komuna e Frasherit;код LCNAF;1;1;from
+Q22005039;Komuna e Frasherit;это частный случай понятия;1;1;from
+Q22005039;Komuna e Frasherit;код GeoNames;1;1;from
+Q22005039;Komuna e Frasherit;высота над уровнем моря;1;1;from
+Q22005039;Komuna e Frasherit;код GNS;1;1;from
+Q22005039;Komuna e Frasherit;часовой пояс;1;1;from
+Q22005047;Bashkia e Fushe-arrezit;административно-территориальная единица;1;1;from
+Q22005031;Bashkia e Ersekes;государство;1;1;from
+Q22005047;Bashkia e Fushe-arrezit;государство;1;1;from
+Q22005047;Bashkia e Fushe-arrezit;это частный случай понятия;1;1;from
+Q22005047;Bashkia e Fushe-arrezit;код GeoNames;1;1;from
+Q22005047;Bashkia e Fushe-arrezit;высота над уровнем моря;1;1;from
+Q22005047;Bashkia e Fushe-arrezit;код GNS;1;1;from
+Q22005047;Bashkia e Fushe-arrezit;часовой пояс;1;1;from
+Q22005039;Komuna e Frasherit;код VIAF;1;1;from
+Q22005039;Komuna e Frasherit;государство;1;1;from
+Q22005039;Komuna e Frasherit;административно-территориальная единица;1;1;from
+Q22005033;Komuna e Fajzes;географические координаты;1;1;from
+Q22005033;Komuna e Fajzes;часовой пояс;1;1;from
+Q22005033;Komuna e Fajzes;код GNS;1;1;from
+Q22005033;Komuna e Fajzes;высота над уровнем моря;1;1;from
+Q22005033;Komuna e Fajzes;код GeoNames;1;1;from
+Q22005033;Komuna e Fajzes;это частный случай понятия;1;1;from
+Q22005033;Komuna e Fajzes;государство;1;1;from
+Q22005033;Komuna e Fajzes;административно-территориальная единица;1;1;from
+Q22005031;Bashkia e Ersekes;географические координаты;1;1;from
+Q22005031;Bashkia e Ersekes;часовой пояс;1;1;from
+Q22005031;Bashkia e Ersekes;код GNS;1;1;from
+Q22005031;Bashkia e Ersekes;высота над уровнем моря;1;1;from
+Q22005031;Bashkia e Ersekes;код GeoNames;1;1;from
+Q22005031;Bashkia e Ersekes;это частный случай понятия;1;1;from
+Q22005130;Komuna e Hocishtit;географические координаты;1;1;from
+Q22005137;Komuna e Hotolishtit;государство;1;1;from
+Q22005324;Bashkia e Librazhdit;код GNS;1;1;from
+Q22005296;Komuna e Lazaratit;государство;1;1;from
+Q22005289;Komuna e Labinotit Fushe;код GeoNames;1;1;from
+Q22005289;Komuna e Labinotit Fushe;высота над уровнем моря;1;1;from
+Q22005289;Komuna e Labinotit Fushe;код GNS;1;1;from
+Q22005289;Komuna e Labinotit Fushe;часовой пояс;1;1;from
+Q22005289;Komuna e Labinotit Fushe;географические координаты;1;1;from
+Q22005296;Komuna e Lazaratit;административно-территориальная единица;1;1;from
+Q22005296;Komuna e Lazaratit;это частный случай понятия;1;1;from
+Q22005289;Komuna e Labinotit Fushe;государство;1;1;from
+Q22005296;Komuna e Lazaratit;код GeoNames;1;1;from
+Q22005296;Komuna e Lazaratit;высота над уровнем моря;1;1;from
+Q22005296;Komuna e Lazaratit;код GNS;1;1;from
+Q22005296;Komuna e Lazaratit;часовой пояс;1;1;from
+Q22005296;Komuna e Lazaratit;географические координаты;1;1;from
+Q22005299;Komuna e Lekasit;административно-территориальная единица;1;1;from
+Q22005289;Komuna e Labinotit Fushe;это частный случай понятия;1;1;from
+Q22005289;Komuna e Labinotit Fushe;административно-территориальная единица;1;1;from
+Q22005299;Komuna e Lekasit;это частный случай понятия;1;1;from
+Q22005250;Bashkia e Krumes;географические координаты;1;1;from
+Q22005250;Bashkia e Krumes;государство;1;1;from
+Q22005250;Bashkia e Krumes;это частный случай понятия;1;1;from
+Q22005250;Bashkia e Krumes;код GeoNames;1;1;from
+Q22005250;Bashkia e Krumes;высота над уровнем моря;1;1;from
+Q22005250;Bashkia e Krumes;код GNS;1;1;from
+Q22005250;Bashkia e Krumes;часовой пояс;1;1;from
+Q22005259;Komuna e Kukurit;административно-территориальная единица;1;1;from
+Q22005259;Komuna e Kukurit;географические координаты;1;1;from
+Q22005259;Komuna e Kukurit;государство;1;1;from
+Q22005259;Komuna e Kukurit;это частный случай понятия;1;1;from
+Q22005259;Komuna e Kukurit;код GeoNames;1;1;from
+Q22005259;Komuna e Kukurit;высота над уровнем моря;1;1;from
+Q22005259;Komuna e Kukurit;код GNS;1;1;from
+Q22005259;Komuna e Kukurit;часовой пояс;1;1;from
+Q22005299;Komuna e Lekasit;государство;1;1;from
+Q22005299;Komuna e Lekasit;код GeoNames;1;1;from
+Q22005137;Komuna e Hotolishtit;это частный случай понятия;1;1;from
+Q22005323;Bashkia e Libohoves;код GNS;1;1;from
+Q22005319;Bashkia e Leskovikut;географические координаты;1;1;from
+Q22005323;Bashkia e Libohoves;административно-территориальная единица;1;1;from
+Q22005323;Bashkia e Libohoves;государство;1;1;from
+Q22005323;Bashkia e Libohoves;это частный случай понятия;1;1;from
+Q22005323;Bashkia e Libohoves;код GeoNames;1;1;from
+Q22005323;Bashkia e Libohoves;высота над уровнем моря;1;1;from
+Q22005323;Bashkia e Libohoves;часовой пояс;1;1;from
+Q22005319;Bashkia e Leskovikut;код GNS;1;1;from
+Q22005323;Bashkia e Libohoves;географические координаты;1;1;from
+Q22005324;Bashkia e Librazhdit;административно-территориальная единица;1;1;from
+Q22005324;Bashkia e Librazhdit;государство;1;1;from
+Q22005324;Bashkia e Librazhdit;это частный случай понятия;1;1;from
+Q22005324;Bashkia e Librazhdit;код GeoNames;1;1;from
+Q22005324;Bashkia e Librazhdit;высота над уровнем моря;1;1;from
+Q22005319;Bashkia e Leskovikut;часовой пояс;1;1;from
+Q22005319;Bashkia e Leskovikut;высота над уровнем моря;1;1;from
+Q22005299;Komuna e Lekasit;высота над уровнем моря;1;1;from
+Q22005305;Komuna e Leniasit;код GeoNames;1;1;from
+Q22005299;Komuna e Lekasit;код GNS;1;1;from
+Q22005299;Komuna e Lekasit;часовой пояс;1;1;from
+Q22005299;Komuna e Lekasit;географические координаты;1;1;from
+Q22005305;Komuna e Leniasit;административно-территориальная единица;1;1;from
+Q22005305;Komuna e Leniasit;государство;1;1;from
+Q22005305;Komuna e Leniasit;это частный случай понятия;1;1;from
+Q22005305;Komuna e Leniasit;высота над уровнем моря;1;1;from
+Q22005319;Bashkia e Leskovikut;код GeoNames;1;1;from
+Q22005305;Komuna e Leniasit;код GNS;1;1;from
+Q22005305;Komuna e Leniasit;часовой пояс;1;1;from
+Q22005305;Komuna e Leniasit;географические координаты;1;1;from
+Q22005319;Bashkia e Leskovikut;административно-территориальная единица;1;1;from
+Q22005319;Bashkia e Leskovikut;государство;1;1;from
+Q22005319;Bashkia e Leskovikut;это частный случай понятия;1;1;from
+Q22005250;Bashkia e Krumes;административно-территориальная единица;1;1;from
+Q22005224;Bashkia e Korces;географические координаты;1;1;from
+Q22005224;Bashkia e Korces;часовой пояс;1;1;from
+Q22005180;Komuna e Kastriotit;это частный случай понятия;1;1;from
+Q22005157;Komuna e Kalisit;код GNS;1;1;from
+Q22005157;Komuna e Kalisit;часовой пояс;1;1;from
+Q22005157;Komuna e Kalisit;географические координаты;1;1;from
+Q22005180;Komuna e Kastriotit;административно-территориальная единица;1;2;from
+Q22005180;Komuna e Kastriotit;государство;1;1;from
+Q22005180;Komuna e Kastriotit;код VIAF;1;1;from
+Q22005180;Komuna e Kastriotit;код GeoNames;1;1;from
+Q22005157;Komuna e Kalisit;код GeoNames;1;1;from
+Q22005180;Komuna e Kastriotit;высота над уровнем моря;1;1;from
+Q22005180;Komuna e Kastriotit;код GNS;1;1;from
+Q22005180;Komuna e Kastriotit;часовой пояс;1;1;from
+Q22005180;Komuna e Kastriotit;географические координаты;1;1;from
+Q22005185;Bashkia e Kelcyres;административно-территориальная единица;1;1;from
+Q22005185;Bashkia e Kelcyres;государство;1;1;from
+Q22005157;Komuna e Kalisit;высота над уровнем моря;1;1;from
+Q22005157;Komuna e Kalisit;это частный случай понятия;1;1;from
+Q22005224;Bashkia e Korces;код GNS;1;1;from
+Q22005149;Komuna e Kalajes e Dodes;государство;1;1;from
+Q22005137;Komuna e Hotolishtit;код GeoNames;1;1;from
+Q22005137;Komuna e Hotolishtit;высота над уровнем моря;1;1;from
+Q22005137;Komuna e Hotolishtit;код GNS;1;1;from
+Q22005137;Komuna e Hotolishtit;часовой пояс;1;1;from
+Q22005137;Komuna e Hotolishtit;географические координаты;1;1;from
+Q22005149;Komuna e Kalajes e Dodes;административно-территориальная единица;1;1;from
+Q22005149;Komuna e Kalajes e Dodes;это частный случай понятия;1;1;from
+Q22005157;Komuna e Kalisit;государство;1;1;from
+Q22005149;Komuna e Kalajes e Dodes;код GeoNames;1;1;from
+Q22005149;Komuna e Kalajes e Dodes;высота над уровнем моря;1;1;from
+Q22005149;Komuna e Kalajes e Dodes;код GNS;1;1;from
+Q22005149;Komuna e Kalajes e Dodes;часовой пояс;1;1;from
+Q22005149;Komuna e Kalajes e Dodes;географические координаты;1;1;from
+Q22005157;Komuna e Kalisit;административно-территориальная единица;1;1;from
+Q22005185;Bashkia e Kelcyres;это частный случай понятия;1;1;from
+Q22005185;Bashkia e Kelcyres;код GeoNames;1;1;from
+Q22005185;Bashkia e Kelcyres;высота над уровнем моря;1;1;from
+Q22005207;Komuna e Kodovjatit;код GNS;1;1;from
+Q22005203;Komuna e Klosit;географические координаты;1;1;from
+Q22005207;Komuna e Kodovjatit;административно-территориальная единица;1;1;from
+Q22005207;Komuna e Kodovjatit;государство;1;1;from
+Q22005207;Komuna e Kodovjatit;это частный случай понятия;1;1;from
+Q22005207;Komuna e Kodovjatit;код GeoNames;1;1;from
+Q22005207;Komuna e Kodovjatit;высота над уровнем моря;1;1;from
+Q22005207;Komuna e Kodovjatit;часовой пояс;1;1;from
+Q22005185;Bashkia e Kelcyres;код GNS;1;1;from
+Q22005207;Komuna e Kodovjatit;географические координаты;1;1;from
+Q22005224;Bashkia e Korces;административно-территориальная единица;1;1;from
+Q22005224;Bashkia e Korces;государство;1;1;from
+Q22005224;Bashkia e Korces;это частный случай понятия;1;1;from
+Q22005224;Bashkia e Korces;код GeoNames;1;1;from
+Q22005224;Bashkia e Korces;высота над уровнем моря;1;1;from
+Q22005203;Komuna e Klosit;часовой пояс;1;1;from
+Q22005203;Komuna e Klosit;код GNS;1;1;from
+Q22005203;Komuna e Klosit;высота над уровнем моря;1;1;from
+Q22005203;Komuna e Klosit;код GeoNames;1;1;from
+Q22005203;Komuna e Klosit;это частный случай понятия;1;1;from
+Q22005203;Komuna e Klosit;государство;1;1;from
+Q22005203;Komuna e Klosit;административно-территориальная единица;1;1;from
+Q22005202;Komuna e Trebishtes;географические координаты;1;1;from
+Q22005202;Komuna e Trebishtes;часовой пояс;1;1;from
+Q22005202;Komuna e Trebishtes;код GNS;1;1;from
+Q22005202;Komuna e Trebishtes;высота над уровнем моря;1;1;from
+Q22005202;Komuna e Trebishtes;код GeoNames;1;1;from
+Q22005202;Komuna e Trebishtes;это частный случай понятия;1;1;from
+Q22005202;Komuna e Trebishtes;государство;1;1;from
+Q22005202;Komuna e Trebishtes;административно-территориальная единица;1;1;from
+Q22005185;Bashkia e Kelcyres;географические координаты;1;1;from
+Q22005185;Bashkia e Kelcyres;часовой пояс;1;1;from
+Q64685186;Bono Region;географические координаты;1;1;from

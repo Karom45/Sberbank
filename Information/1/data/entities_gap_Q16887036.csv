@@ -1,0 +1,4600 @@
+﻿entity;label
+Q182588;Pölshals Pass
+Q222860;Reschen Pass
+Q498788;Haast Pass
+Q505944;Montagu Pass
+Q525846;Colle Sommeiller
+Q609320;Antronapass
+Q680789;Lavazè Pass
+Q693468;Muretto Pass
+Q729190;Passo Tre Croci
+Q774126;Passo d'Aprica
+Q844327;Huangyaguan
+Q873294;Tuxer Joch
+Q873457;Obdacher Sattel
+Q877334;Timmelsjoch
+Q1101601;Passo del Cerreto
+Q1107392;Col de Torrent
+Q1108941;Colle del Lis
+Q1245920;Passo dell'Abetone
+Q1280176;Ecca Pass
+Q1398549;Vlárský Prŭsmyk
+Q1506597;Kleiner Semmering Pass
+Q1588283;Haselrast
+Q1726226;Passo del Bracco
+Q1730577;Sella di Dobbiaco
+Q1738679;Passo della Scoffera
+Q1754407;Predil Pass
+Q1859877;Passo del Bocco
+Q2355793;Strelapass
+Q2509338;Valles Pass
+Q2908284;Bocca Trabaria
+Q3031524;Sir Lowry's Pass
+Q3186677;Joubert's Pass
+Q3216368;Laing's Nek
+Q3267484;Lundin's Neck
+Q3304740;Meiringspoort
+Q3368399;Passo di Viamaggio
+Q3506452;Swartberg Pass
+Q3682746;Colle San Bernardo
+Q3682757;Colle dei Giovetti
+Q3682761;Colle del Contrasto
+Q3682778;Colle della Barma
+Q3682786;Colle della Mologna Grande
+Q3747941;Forcella Forada
+Q3747942;Aurine pass
+Q3897348;Passo Xon
+Q3897364;Passo del Cason di Lanza
+Q3897372;Passo del Giovà
+Q3897374;Passo del Muraglione
+Q3897399;Passo della Porretta
+Q3897403;Passo della Raticosa
+Q3897421;Passo dello Scalone
+Q3897439;Passo di Pietra Spada
+Q3897455;Passo di Sant'Osvaldo
+Q3954903;Sella di Conza
+Q3954905;Sella di Fadalto
+Q4010503;Vetta le Croci
+Q4698649;Aire Gap
+Q4803888;Bloukrans Pass
+Q4804032;Bloukrans Pass
+Q4861091;Barkly Pass
+Q4948623;Bothasnek
+Q4985940;Buffelshoek Pass
+Q5001531;Bushman's Nek Pass
+Q5003397;Buyspoort
+Q5018260;Cala Pass
+Q5049104;Caspersnek Pass
+Q5053995;Cats Pass
+Q5148068;Colonanek
+Q5202783;Cù Mông Pass
+Q5202986;Cả Pass
+Q5226795;Dasklip Pass
+Q5244459;De Jagers Pass
+Q5267066;Devil's Bellows
+Q5296906;Dontsa Pass
+Q5297865;Doringnek
+Q5310066;Du Plessis Pass
+Q5557753;Ghwarriepoort
+Q5655255;Abra del Infiernillo
+Q5748609;Hex River Pass
+Q6065857;Pichachen Pass
+Q6407620;Killian's Pass
+Q6422169;Knight's Pass
+Q6435101;Kowyn Pass
+Q6724539;Mackinnon Pass
+Q6732278;Magoebaskloof
+Q6782965;Masekwaspoort
+Q6821866;Messelpad Pass
+Q6881334;Mitchell Pass
+Q6885710;Mlengana Pass
+Q6908090;Moordenaarsnek
+Q6981084;Naude's Neck Pass
+Q7110233;Ouberg Pass
+Q7162829;Penhoek Pass
+Q7167669;Perdepoort
+Q7199044;Pitseng Pass
+Q7235233;Potter's Pass
+Q7425932;Satansnek
+Q7438963;Scree Gap
+Q7571515;Soutpansnek
+Q7622504;Strawberry Valley
+Q7652920;Swaershoek Pass
+Q7689322;Tawny Gap
+Q8039955;Wyllie's Poort
+Q9171208;Bielawska Polana
+Q9284317;Przełęcz Głuchaczki
+Q10840537;Đèo An Khê
+Q10840543;Đèo Lũng Lô
+Q10840546;Ngoạn Mục Pass
+Q10840547;Đèo Pha Đin
+Q10840550;Đèo Prenn
+Q10840552;Đèo Trạm Tôn
+Q10967680;Gydo Pass
+Q11056933;Houwhoek Pass
+Q11829508;Godthåppasset
+Q11829564;Kopernikuspasset
+Q11829592;Przełęcz Lubawska
+Q11914632;collada de Bracons
+Q11961838;Bolterskardet
+Q11971540;Gangskardet
+Q11973047;Grøndalspasset
+Q11997483;Reindalspasset
+Q12818393;Pereval Arashan
+Q12819626;Pereval Bel'auty
+Q13034330;Bergenaarspadpas
+Q13034383;Boesmanshoekpas
+Q13034390;Bonkolo Nek
+Q13034391;Boma Pass
+Q13034407;Bottlenek
+Q13034903;Helspoortpas
+Q13035131;Kareedouwpas
+Q13035448;Mitchell's Pass
+Q13035499;Munnikspas
+Q13035676;Ongeluksnek
+Q13035956;Rooinek
+Q13035961;Rossouwspoort
+Q13036285;Verwatersnek
+Q13036345;Wapadsbergpas
+Q15191430;Arthur's Pass
+Q15240752;Kumajaba Pass
+Q15272144;Red Hill Pass
+Q16399273;Bechenagskiy Pereval
+Q16587977;Pinnisjoch
+Q16740356;Mandlingpass
+Q16855554;Pass Luftenstein
+Q16892346;Hohenloheskaret
+Q16893590;Kongsvegpasset
+Q16896451;Passet
+Q17189229;Arlbergpass
+Q17631666;Giogo di Toirano
+Q17762074;Chamberlinpasset
+Q18027398;Riffelsattel
+Q19623194;Daggaboersnek
+Q19623461;Mfecani Pass
+Q19864297;Chehalis Gap
+Q19867706;Bluebird Gap
+Q19877361;Polvadero Gap
+Q19987270;Napier Gap
+Q21771764;Kōtal-e Dūrnāmah
+Q21771774;Kōtal-e Darah-ye Kalān
+Q21771777;Kōtal-e Shāh Now
+Q21772128;Kōtal-e Dasht-e Miḩrāb
+Q21772211;Kōtal-e Khazī Sharshal
+Q21772217;Kōtal-e Mangān
+Q21772241;Kōtal-e Asp Rāh
+Q21772301;Qizil Kōtal
+Q21772306;Kōtal-e Payak
+Q21772502;Kōtal-e Siwīchī
+Q21773541;Zarīn Kanḏow
+Q21773567;Ladōr Kanḏow
+Q21773652;Kōtal-e ‘Abdullāh
+Q21773668;Ingarak Kōtal
+Q21773705;Kōtal-e Fāj
+Q21773757;Kōtal-e Bārīk Pāyah
+Q21773759;Kōtal-e Tāwagak
+Q21773762;Kōtal-e Qarah Khwājah
+Q21773765;Kōtal-e Chahak
+Q21773782;Kōtal-e Tambah
+Q21773805;Gardanah-ye Jīj
+Q21774406;Kōtal-e Dum-Oshtur
+Q21774411;Kōtal-e Balkha'ī
+Q21774421;Kōtal-e Targhay Būlāq
+Q21774453;Band-e Chūāk
+Q21774467;Band-e Qūdūqak
+Q21774468;Kōtal-e Ayritān
+Q21774502;Gardanah-ye Galīrān
+Q21774551;Kōtal-e Bāgh
+Q21774559;Kōtal-e Bāgh
+Q21774579;Kōtal-e Surkh
+Q21774593;Kōtal-e Gazak
+Q21774595;Kōtal-e Qashqah
+Q21774596;Kōtal-e Oshtur Gardan
+Q21774623;Kōtal-e Pīādah Rāh
+Q21774642;Kōtal-e Tōrpichar
+Q21774646;Kōtal-e Kajā
+Q21774655;Kaj Kōtal
+Q21774657;Kōtal-e Tashkam
+Q21774659;Kōtal-e Kaj
+Q21774660;Kōtal-e Kajakō Pashakhān
+Q21774683;Kōtal-e Khāy
+Q21774692;Kōtal-e Jowah
+Q21774721;Gardanah-ye Deh Yak
+Q21774738;Band-e Fōlākhar
+Q21774780;Kōtal-e Jar Hamwār
+Q21774794;Kaj Kōtal
+Q21774836;Kōtal-e Faīẕullāh Kushtah
+Q21775104;Malik Kōtal
+Q21775153;Taymūr Kōl Kōtal
+Q21775160;Kōtal-e Bāḏām Ghar
+Q21775163;Kanḏow-e Ghar
+Q21775222;Kham-e Pīrān
+Q21775312;Kōtal-e Pīw
+Q21775493;Gardanah-ye Pā'īn
+Q21775562;Kōtal-e Qal‘ah
+Q21775585;Kōtal-e Takazār
+Q21775605;Kōtal-e Mīānah
+Q21775606;Kōtal-e Dandānshikan
+Q21775607;Kōtal-e Bād
+Q21775616;Kōtal-e Pusht-e Wāz
+Q21775627;Kōtal-e Siyāh Darah
+Q21775635;Kōtal-e Khushk Darah
+Q21775936;Kōtal-e Allāh wa Akbar
+Q21775997;Bādkah-Kōtal
+Q21776013;Kōtal-e Takhmak
+Q21776046;Kōtal-e Tāwah
+Q21776122;Gardanah-ye Safēdār-e Khushk
+Q21776182;Oshtur Gardan
+Q21776192;Gardanah-ye Ghōshak
+Q21776279;Gardanah-ye ‘Alīābād
+Q21776297;Gardanah-ye Sangbur
+Q21776392;Kōtal-e Bāzak
+Q21776416;Kōtal-e Zard
+Q21776504;Shahīd Kōtal
+Q21776707;Kōtal-e Ishtīk
+Q21776978;Kūzay Naray
+Q21777036;Dê Maṉē Kōtal
+Q21777177;Kōtal-e Shamīānah
+Q21777361;Īzak Kanḏow
+Q21777378;Maṉē Kanḏow
+Q21777379;Kharkhōṯī Kanḏow
+Q21777408;Walawas
+Q21777484;Tsūhay Naraī
+Q21777531;Ōrē Lārē Naraī
+Q21777544;Shamūl Tangay
+Q21777719;Zhawêr Ghās̲h̲ē
+Q21778461;Kabar Gardanah
+Q21778491;Dahānah-ye Anjīran
+Q21778540;Gardanah-ye Khārak
+Q21778621;Shênkay
+Q21778655;Naraī Sar
+Q21778685;Towd Ōbay Band
+Q21778686;Srah Kōṯ Band
+Q21778687;Kāfar Kōṯ Band
+Q21778894;Mashī Naraī
+Q21778918;Mīr Tsapêr Kanḏow
+Q21778922;Pereval Valikhannaray
+Q21779684;Dzil Band
+Q21779696;Būrī Band
+Q21779729;Kōtal-e Sang-e Sūrākh
+Q21779740;Gardanah-ye Zamīn Anjīr
+Q21779766;Kajāwē Gardanah
+Q21779785;Tashmē Band
+Q21779797;Dê ‘Īsá Band
+Q21780041;Kōtal-e Karghanah
+Q21780096;Khāshī Gardanah
+Q21781190;Haft Kōtal
+Q21781195;Kōtal-e Jifā
+Q21781201;Kōtal-e Yakh Būlāq
+Q21781224;Kōtal-e Rāqōl
+Q21781231;Kōtal-e Alasāy
+Q21781272;Kōtal-e Kharparīdah
+Q21781274;Kōtal-e Seh Sar-e Bālā
+Q21781281;Srē Khāwrē Kanḏow
+Q21781427;Kōtal-e Darwāzah
+Q21781457;Kāfar Kōtal
+Q21781471;Kōtal-e Qurb ‘Alī Baysar
+Q21781474;Kōtal-e Awdēw
+Q21781479;Kōtal-e Qash-e Sang
+Q21781480;Kōtal-e Dinagak
+Q21781484;Kōtal-e Rūk
+Q21781495;Kōtal-e Kantaltū
+Q21781510;Kōtal-e Talkhak
+Q21782121;Dê Bōlān Band
+Q21782122;Ibrāhīm Khēl Band
+Q21782123;Dê Zil Band
+Q21782124;Dê Kūpak Band
+Q21782164;Kōtal-e Kakrak
+Q21782238;Mêtā Khān Band
+Q21782343;Gardanah-ye Shādī Pūch
+Q21782358;Kōtal-e Khwājah Aḩmad
+Q21782371;Ābjōsh Nāwêr
+Q21782440;Kōtal-e Dahanah-ye Shēr
+Q21782493;Spīn Kōtal
+Q21782533;Kōtal-e Khar Gardan
+Q21782534;Kōtal-e Khar Gardan
+Q21782535;Kōtal-e Qīāghak
+Q21782536;Kōtal-e Qafak
+Q21782547;Kōtal-e Dowlat Bayū
+Q21782548;Kōtal-e Nirō
+Q21782565;Kōtal-e Kantāwah
+Q21782566;Kōtal-e Narm Tōp
+Q21782569;Kil Kōtalak
+Q21782572;Kōtal-e Khōsh Qōl
+Q21782584;Kōtal-e Mūshūk
+Q21782591;Kōtal-e Qafak
+Q21783609;Dāghān Kōtal
+Q21783612;Kōtal-e Gūlī
+Q21783629;Kōtal-e Khārzār
+Q21783646;Kōtal-e Ūnak
+Q21783650;Kōtal-e Lālah-Mūj
+Q21783661;Band-e Ūchah
+Q21783662;Band-e Jōyrān
+Q21783677;Band-e Buqchah
+Q21783680;Band-e Buqchah
+Q21783710;Kōtal-e Zard Kamar
+Q21783727;Chōbgardān
+Q21783731;Band-e Atak
+Q21783733;Band-e Tūsūr
+Q21783744;Band-e Pajandūr
+Q21783751;Kōtal-e Khārī
+Q21783770;Band-e Mōrūk
+Q21783906;Kōtal-e Masjid
+Q21783907;Kōtal-e Asgīr
+Q21784008;Kōtal-e Tarāfghān
+Q21784020;Kōtal-e Surkh
+Q21784063;Kōtal-e Lōrak
+Q21784065;Kōtal-e Masjidak
+Q21784066;Kōtal-e Espī
+Q21784074;Kōtal-e Anjīrah
+Q21784120;Kōtal-e Mughul Kand
+Q21784150;Kōtal-e Khar Kushtah
+Q21785287;Ghākhai Pass
+Q21785392;Khūnī Kōtal
+Q21785409;Chughak Kōtal
+Q21785449;Surkhāwē Kōtal
+Q21785453;Chambarak Kōtal
+Q21785456;Surkh Kōtal
+Q21785491;Bāgh Guzarī Gardanah
+Q21785513;Zhēṟ Kōtal
+Q21785575;Kōtal-e Ōzmin
+Q21785582;Kōtal-e Larwand
+Q21785665;Dê Hingī Band
+Q21786248;Kōtal-e Jalīl
+Q21786267;Kōtal-e Surkh
+Q21786269;Gawai Tangai
+Q21786270;Kirkai Tangai
+Q21786273;More Kandāo
+Q21786274;Khāndwala Kandāo
+Q21786275;Chawatkhai Kandao
+Q21786276;Dramu Drab Pass
+Q21787173;Band-e Rāz
+Q21787223;Dê Zīārat Band
+Q21787228;Āshūzō Band
+Q21787276;Gholāmḩeydar Khan Lār
+Q21787278;Darowkhān Lār
+Q21787375;Kōtal-e Gōlī
+Q21787376;Kōtal-e Gilak
+Q21787392;Kōtal-e Rūīān
+Q21787397;Kōtal-e Qapchaghay
+Q21787412;Surkh Kōtal
+Q21788880;Siyāh Kōtalak
+Q21788881;Kōtal-e Awlīāt
+Q21788891;Kōtal-e Ghowch Qōl
+Q21788907;Gardanah-ye Qarah Qōl
+Q21788910;Gardanah-ye Ūsah
+Q21789238;Qareh Kowtal
+Q21789279;Kōtal-e Sarbūz
+Q21789449;Kōtal-e Khinjak
+Q21789469;Kōtal-e Palangō
+Q21790740;Sarak Band
+Q21790787;Dērāwūt Kōtal
+Q21790792;Zartālē Kōtal
+Q21790794;Sōkhtī Kōtal
+Q21790795;Shāh Mazdurē Kōtal
+Q21790810;Sōkhtī Gardanah
+Q21790863;Surkh Kōtal
+Q21790938;Gardanah-ye Kaytī wa Surkh Qōlak
+Q21790963;Kōtal-e Arghadal
+Q21791044;Kōtal-e Khārzār
+Q21791061;Kōtal-e Chambar
+Q21791077;Kōtal-e Kharbayd
+Q21791079;Kōtal-e Murghgīr
+Q21791080;Kōtal-e Shāhī
+Q21791082;Kōtal-e Siyāh Qul
+Q21791156;Kōtal-e Talkhak
+Q21791182;Kōtal-e Shūsh
+Q21791188;Kōtal-e Kōrgah
+Q21791189;Kōtal-e Jīm
+Q21791257;Kōtal-e Nowjōk
+Q21791258;Kōtal-e Kajak
+Q21791265;Kōtal-e Ōbêh
+Q21791276;Kōtal-e Maydō
+Q21791284;Darrah-ye Qowlyaqowl
+Q21792802;Pizwan Kowtal
+Q21792928;Kōtal-e Ḩājī Rōgh
+Q21793000;Kōtal-e Shāh Manşūr
+Q21793024;Kōtal-e Chākah
+Q21793071;Kōtal-e Khārzār
+Q21793123;Kōtal-e Oshtur
+Q21793129;Kōtal-e Rāqōl
+Q21793166;Kōtal-e Kāfar Kōh
+Q21793182;Kōtal-e Katāb
+Q21793183;Kōtal-e Āwghār
+Q21793186;Kōtal-e Ghargharih
+Q21793223;Kōtal-e Sabīl
+Q21793227;Kōtal-e Āshrah
+Q21793240;Gardanah-ye Sakhī Şāḩib
+Q21793311;Kōtal-e Zindah Gānī
+Q21793331;Tskay Band
+Q21793346;Dê Bāīlōgh Band
+Q21793913;Gul Darah Kanḏow
+Q21793917;Jowhar
+Q21793919;Sulţānī Sar
+Q21793926;Tarakay Kowtal
+Q21793945;Kanḏow-e Sāw
+Q21794911;Manre Band
+Q21794923;Lakarai Sar Narai
+Q21794924;Lālīzai Narai
+Q21794925;Warāghboli Narai
+Q21794926;Manne Narai
+Q21794927;Chara Narai
+Q21794928;Inzarkai Narai
+Q21794929;Pashomon Narai
+Q21794930;Wuche Khore Narai
+Q21794935;Mānak Nikka
+Q21794942;Ziṟkōgay
+Q21794956;Garbizhay Kanḏow
+Q21794976;Mangṟītay Naray
+Q21794980;Mangṟētay Kanḏow
+Q21795018;Garkay Kandao
+Q21795025;Kamkaī Khaībar
+Q21795070;Dunni Narai
+Q21795116;Tir Pass
+Q21795123;Bādsamūr Kanḏow
+Q21795183;Gowhardēsh Ghar
+Q21795186;Gimīr Kanḏow
+Q21795213;Tringai Ghakhai Kandao
+Q21795216;Narai Kandao
+Q21795219;Suray Kandao
+Q21796776;Kōtal-e Katah Sang
+Q21796777;Kōtal-e Pasha'ī
+Q21796780;Kōtal-e Darah-ye Chap
+Q21796781;Kōtal-e Quţandar
+Q21796782;Kōtal-e Khar Parānak
+Q21796786;Kōtal-e Sar Band
+Q21796789;Kōtal-e Ghāzah
+Q21796790;Kōtal-e Takhtī
+Q21796794;Kōtal-e Darah-ye Rāst
+Q21796860;Pereval Badzhgakh
+Q21796866;Pereval Kaoshan
+Q21796874;Gornyy Prokhod Dakhanapayndzh-Angusht
+Q21796890;Gardanah-ye Sabz Pōsh
+Q21796918;Pereval Kotali-Umakay
+Q21796920;Pereval Shorchakotal'
+Q21796922;Pereval Guri
+Q21796925;Pereval Kotali-Amrutak
+Q21796950;Pereval Morchakotal'
+Q21796953;Pereval Kotal'-Bagkhay
+Q21796954;Pereval Kotal'sabzak
+Q21796955;Pereval Kotal'bamdara
+Q21796959;Nutali Gurz
+Q21796960;Pereval Khani-Tegiri
+Q21796971;Pereval Chekhardar
+Q21796980;Pereval Gardanayi-Kkharsang
+Q21796986;Tang-e Sakhai-e Sorkhak
+Q21797029;Gardanah-ye Sakhī
+Q21797032;Kōtal-e Pāmak
+Q21797172;Shīn Ghās̲h̲ē
+Q21797198;Isār Rāghêh
+Q21797292;Khar Tangay
+Q21797347;Mālgē Kanḏow
+Q21797387;Aşḩāb Kanḏow
+Q21797401;Kharat Pass
+Q21799740;Kutali Dzhalal
+Q21799752;Kōtal-e Tundak
+Q21799759;Kōtal-e Khamī
+Q21799832;Māh Kōtal
+Q21800048;Kōtal-e Sabz
+Q21800094;Kōtal-e Nāwah
+Q21800164;Kōtal-e Arghadal
+Q21800175;Kōtal-e Bārīkak
+Q21800187;Kōtal-e Fawāz
+Q21800188;Kōtal-e Sāy
+Q21800281;Kōtal-e Siyāh Bīnī
+Q21800304;Kōtal-e Arghandih
+Q21800317;Kōtal-e Sulţān Şāḩib
+Q21800322;Kōtal-e Baghal
+Q21800330;Kōtal-e Burj
+Q21800333;Kōtal-e Kuhnah Khumār
+Q21800336;Kōtal-e Katah Khēl
+Q21800338;Kōtal-e Sangī wa Zar Sang
+Q21800342;Kōtal-e Sārak
+Q21800345;Kōtal-e Munḏah
+Q21800346;Kōtal-e Rāqōl
+Q21802216;Kōtal-e Pazhak
+Q21802344;Lakhshān
+Q21802393;Kōtal-e 'Ub Sayyid
+Q21802398;Kōtal-e ‘Ulyād
+Q21802400;Kōtal-e Rēg
+Q21802416;Kōtal-e Qafzār
+Q21802434;Kōtal-e Yōr-e Kōk
+Q21802583;Kōtal-e Ōrsandān
+Q21802585;Perewal Shimilt
+Q21802586;Perewal Karnalakh
+Q21803126;Kōtal-e Laylay
+Q21803131;Kōtal-e Gardish
+Q21803142;Kōtal-e Karkarak-e Nāw
+Q21803169;Pereval Surkhakkotal'
+Q21804110;Kōtal-e Safēd Khāk
+Q21804122;Marghē Kanḏow
+Q21804139;Kōtal-e Takht
+Q21804141;Sabzak Kōtal
+Q21804161;Kōtal-e Yaklingah
+Q21804214;Kōtal-e Ghīghunak
+Q21804414;Kōtal-e Zangāb
+Q21805775;Kōtal-e Dēwālī
+Q21805819;Pereval Kotali-Navi-Daraz
+Q21805837;Nūy Sabz
+Q21805848;Pereval Khauz
+Q21805851;Sar-e Kajak
+Q21805856;Chuqrak
+Q21805920;Pereval Abdal'
+Q21805923;Band-e Yakhak
+Q21805927;Pereval Kasagao
+Q21805929;Pereval Gardan-Yakhak
+Q21805930;Prokhod Gardan-Yakhak
+Q21805955;Gardanah-ye Sabz
+Q21805965;Kōtal-e Yakhak
+Q21805978;Pereval Kotal'pel
+Q21805986;Kōtal-e ‘Azīz
+Q21805992;Kōtal-e Shahīdān
+Q21806021;Kōtal-e Qush Qōbī
+Q21806035;Kōtal-e Iskah
+Q21806086;Kōtal-e Şōbah
+Q21806094;Kōtal-e Zar Sang wa Nāw Jōy
+Q21806121;Kōtal-e Panj Pilān
+Q21806197;Shīn Kanḏow
+Q21806199;Kōtal-e Tāwah
+Q21806278;Kōtal-e But
+Q21806311;Dēwālgī Kanḏow
+Q21807913;Kōtal-e Khirs Khān
+Q21807926;Kōtal-e Takbīr Jāy
+Q21807928;Kōtal-e Safēd Dārhā
+Q21807932;Kōtal-e Āwak
+Q21808044;Kōtal-e Sangzārak
+Q21808090;Kōtal-e Āwak
+Q21808116;Kōtal-e Shuhadā
+Q21808151;Band-e Zānū
+Q21808154;Kōtal-e Stayghah
+Q21808317;Kōtal-e Gidargū
+Q21808325;Kōtal-e Sar-e Āb Qōl
+Q21808332;Rāh Kōtal
+Q21808334;Kōtal-e Espī Būlāq
+Q21808344;Kōtal-e Espī Bayd
+Q21808446;Kōtal-e Surkhak
+Q21808946;Khamīn-e Yōrmah
+Q21808969;Khamīn-e Lārghah
+Q21809069;Gardanah-ye Khāshak
+Q21809224;Gardanah-ye Khar Bayd
+Q21809295;Pereval Ao Bend Kutal
+Q21809417;Band-e Sowr
+Q21809419;Band-e Ānah
+Q21809420;Band-e Purway
+Q21809452;Gardanah-ye Khākpōlak
+Q21809501;Abshan
+Q21810296;Pereval Khauzi-Bangi
+Q21810297;Pereval Munara
+Q21810382;Band-e Turshak
+Q21810386;Pereval Ishtarkhin
+Q21810404;Band-e Bāyan
+Q21810409;Pereval Torbulak
+Q21810410;Band-e Uruzgān
+Q21810464;Kōtal-e Labrān
+Q21810472;Kōtal-e Zardālūgak
+Q21810480;Gardanah-ye Sīrzār
+Q21810499;Band-e Saybak
+Q21810505;Kōtal-e Farangī
+Q21810513;Kōtal-e Isparmān
+Q21810515;Kōtal-e Chashmah-ye Malakī
+Q21810527;Kōtal-e Piyān
+Q21810542;Kōtal-e Sūr Apan
+Q21810551;Kōtal-e ‘Arab
+Q21810552;Kōtal-e Lukah Sang
+Q21810566;Gardanah-ye Ḩowẕak
+Q21810754;Gardanah-ye Shīgatī
+Q21810891;Prokhod Dakhani-Kandast
+Q21810893;Kōtal-e Shākhzak
+Q21810909;Band-e Shibirg
+Q21810976;Pereval Dzhalavgirak
+Q21811022;Jowrūghūch
+Q21811040;Kōtal-e Siyāh Sang
+Q21811041;Kōtal-e Safēd
+Q21811218;Kōtal-e Tālā
+Q21811266;Kōtal-e Lukah Sang
+Q21811268;Kōtal-e Kamarak wa Qarah Qōl
+Q21811271;Kōtal-e Mēnah Gī
+Q21811279;Kōtal-e Sī
+Q21811319;Kōtal-e Sar Āb
+Q21811339;Kōtal-e Nāwêr Qādir
+Q21811342;Kōtal-e Rāqōl
+Q21811348;Kōtal-e Wardak
+Q21811440;Band-e Lashtī
+Q21811457;Kōtal-e Tagāb
+Q21811469;Kōtal-e Ulūrīk
+Q21811484;Band-e Lashkargāh
+Q21811547;Chāh Ghambān Tangay
+Q21811550;Pereval Bedem-Mazar
+Q21811559;Kajaţāq Band
+Q21811645;Kōtal-e Qarah Jangal
+Q21811839;Kōtal-e Zard
+Q21811953;Gardanah-ye Siyāh
+Q21811985;Kupak
+Q21812000;Archah Damāgh
+Q21812002;Shikāf
+Q21812003;Rāh-ye Safēd
+Q21812008;Aḩmad-e Bālā
+Q21812010;Rafak
+Q21812065;Kōtal-e Sag Sōkhtah
+Q21812293;Gardanah-ye Gul Talah
+Q21812517;Kōtal-e Tundak
+Q21812526;Kōtal-e Sang-e Minow Rōz
+Q21812528;Gardanah-ye Jowak
+Q21812574;Kōtal-e Ḩājī Būzāgh
+Q21812575;Kōtal-e Khwājah Qāsim
+Q21812577;Kōtal-e Bābā
+Q21812619;Kōtal-e Suchī
+Q21812634;Kōtal-e Chak Āw
+Q21812636;Kōtal-e Qashqah
+Q21812640;Khūknōl
+Q21812645;Kōtal-e Zard Aspān
+Q21812650;Kōtal-e Sōchī
+Q21812686;Band-e Hindūkush
+Q21812701;Kōtal-e Hindūkush
+Q21812702;Kōtal-e Firinjal
+Q21812715;Kōtal-e Khārzār
+Q21812720;Kōtalchah-ye Khushkak
+Q21812734;Kōtal-e Yakhpaj
+Q21812740;Band-e Tāwah
+Q21812744;Band-e Mazār
+Q21812887;Kōtal-e Gardangah
+Q21812889;Kōtal-e Rafak-e Safēd
+Q21812896;Kōtal-e Khākī
+Q21812904;Kōtal-e Sang Lēch
+Q21812910;Kōtal-e Jūgānī
+Q21812945;Kōtal-e Wīsh Kharū
+Q21812972;Kōtal-e Bāzd-e Qādir
+Q21812973;Kōtal-e Kōkuyūrmā
+Q21812974;Kōtal-e Mīr-e Gach Kār
+Q21812977;Kowtal-e Tāsh Beyl
+Q21813037;Kōtal-e Dasht-e Mīrzā Murād
+Q21813083;Kōtal-e Majar
+Q21813121;Hazārah Kōtal
+Q21813132;Safēd Kōtal
+Q21813133;Shēr-e Mard Kōtal
+Q21813136;Dēwālak-e Kōtal
+Q21813150;Khwarah Ghar
+Q21813175;Kōtal-e Kōkzār
+Q21813190;Kōtal-e Āw Khōrak
+Q21813193;Gardanah-ye Tāqibār
+Q21813252;Band-e Wāgh Darah
+Q21813735;Kōtal-e Bashinj
+Q21813736;Kōtal-e Madūd
+Q21813742;Kōtal-e Khwājah Madaṯman
+Q21813743;Kōtal-e Kūz
+Q21813762;Kōtal-e Tayshkān
+Q21813775;Kham-e Kowrī
+Q21813781;Kōtal-e Mūnjī
+Q21813782;Kōtal-e Pīāzī
+Q21813783;Kōtal-e Kharbuk
+Q21813785;Kōtal-e ‘Alī Mangū
+Q21813787;Kōtal-e Spīn Gāw
+Q21813793;Kōtal-e Chinār-e Gunjishkān
+Q21813805;Kōtal-e Ghargharah
+Q21813809;Kōtal-e Band-e Mapā'ī
+Q21813815;Zīreh Kowtal
+Q21813816;Kham-e Jānshar
+Q21813845;Ūzūn Kōtal
+Q21813846;Kōtal-e Gul Būlāq
+Q21813847;Kōtal-e Band Kulāgh
+Q21813848;Kōtal-e Dilgir Sāy
+Q21813851;Kōtal-e Mandāq
+Q21813872;Kōtal-e Qizil Kōchah
+Q21813892;Kōtal-e Yamgān
+Q21813932;Kōtal-e Rowān
+Q21813952;Narmah Kōtal
+Q21814018;Kaj Kōtal
+Q21814037;Kōtal-e Khargōshak
+Q21814060;Tōr Kōtal
+Q21814093;Kōtal-e Dēwār-e Tang
+Q21814100;Kōtal-e Barasī
+Q21814105;Kōtal-e Ūd Āb
+Q21814119;Kōtal-e Jowāz Khānah
+Q21814122;Kōtal-e Shāh Rāghêh
+Q21814134;Takht-e Shāhā
+Q21814153;Kōtal-e Gulzārī
+Q21814154;Kōtal-e Siyāh Sang
+Q21814158;Kōtal-e Kamāling
+Q21814162;Kōtal-e Wūrīs
+Q21814184;Kōtal-e Kārēz-e Khushk
+Q21814186;Kōtal-e Afẕal
+Q21814256;Kōtal-e Kowlīān
+Q21814260;Kōtal-e Āq Kōtal
+Q21814287;Kōtal-e Khwājah Qushqār
+Q21814288;Archah Kōtal
+Q21814319;Īrghaylī
+Q21814322;Surkh Khāk
+Q21814323;Qizishkan
+Q21814326;Sar-e Shahr
+Q21814327;Kāfir Qal‘eh
+Q21814329;Mitrabil
+Q21814538;Munāray Kanḏow
+Q21814551;Kōtal-e Rāh-e Ramah
+Q21814568;Kōtal-e Khartīzak
+Q21814618;Shād Khānē Kanḏow
+Q21814630;Salawāṯē Kanḏow
+Q21814735;Kōtal-e ‘Alī Malang
+Q21814739;Tang-e Waṟsaj
+Q21814762;Shahīdānō Kanḏow
+Q21814784;Pāykō Tangay
+Q21814839;Wutkay Tangay
+Q21814877;Kōtal-e Yō Band
+Q21814878;Kōtal-e Kōh-e Tak
+Q21814882;Kōtal-e Bād Rowūk
+Q21814884;Kōtal-e Rāh Darah
+Q21814912;Kōtal-e Dēg Dānak
+Q21814921;Kōtal-e Wurān Shahr
+Q21814940;Kōtal-e Khitif
+Q21814948;Kōtal-e Dar Bandak
+Q21814950;Kōtal-e Gird Bayd
+Q21814951;Kōtal-e Kajyā
+Q21814954;Kōtal-e Kham Bēw
+Q21814955;Kōtal-e Shud Wīst
+Q21814958;Kōtal-e Shakar Khāşah
+Q21814959;Kōtal-e Chahār Rāh
+Q21814962;Kōtal-e Kashtarmah
+Q21814963;Kōtal-e Kaskhāh
+Q21814970;Kōtal-e Bōstānak
+Q21814971;Kōtal-e Shālah
+Q21814972;Kōtal-e Bābā Yār Muḩammad
+Q21814973;Kōtal-e Gūmbāk
+Q21814974;Kōtal-e Kōh-e Bun
+Q21814977;Kōtal-e Narmah
+Q21814978;Kōtal-e Gulzārī
+Q21814981;Kōtal-e Band-e Qāpchīn
+Q21814987;Kōtal-e Sar-e Firyaz
+Q21814989;Kōtal-e Chār Sū
+Q21814990;Kōtal-e Chap Darah
+Q21814991;Kōtal-e Kāfirān
+Q21814997;Kōtal-e Safēd Kōh
+Q21815001;Kōtal-e Māyōr
+Q21815018;Kōtal-e Sar-e Bēl
+Q21815021;Kōtal-e Kurang
+Q21815029;Kōtal-e Ghār Jawīn
+Q21815035;Kōtal-e Dar Khān
+Q21815043;Kōtal-e Ūgar
+Q21815048;Kōtal-e Rizqān
+Q21815051;Kōtal-e Safēd Band Āb
+Q21815073;Kōtal-e Darah-ye Khāniqāh
+Q21815078;Kōtal-e Āldakht
+Q21815111;Kōtal-e Yazhūlīm
+Q21815476;Gardanah-ye Tūtak
+Q21815482;Gardanah-ye Patan
+Q21815518;Kōtal-e Bughā'ī
+Q21815537;Kōtal-e Qashqah
+Q21815539;Rāh Kōtal
+Q21815550;Kowtal-e Bēshgazah
+Q21815561;Kōtal-e Chakāw
+Q21815565;Guz̄ar-e Gharmazārak
+Q21815568;Kōtal-e Ambah
+Q21815569;Kōtal-e ‘Āshuqān
+Q21815622;Kōtal-e Siyāh Darah
+Q21815630;Namad Kōtal
+Q21815633;Kōtal-e Kōh-e Khwājah
+Q21815679;Kōtal-e Mātīk
+Q21815711;Zēṟ Darz
+Q21815835;Srē Pastay Kanḏow
+Q21815888;Wêchakay Tangay
+Q21815908;Chahārwāzē Ghās̲h̲ē
+Q21815920;Kanḏowūnah
+Q21815977;Gardanah-ye Sangow
+Q21815984;Kayshmagah
+Q21816026;Kōtal-e Gāwān
+Q21816062;Kōtal-e Chār Sang
+Q21816074;Kōtal-e Awnū
+Q21816077;Kōtal-e Pārwān
+Q21816094;Shotur Gardanah
+Q21816095;Kōtal-e Yaklingah
+Q21816100;Kōtal-e Hazhdah Gardanah
+Q21816107;Kōtal-e Sīgmān
+Q21816108;Kōtal-e Nowīdih
+Q21816123;Kōtal-e Khushkigasht
+Q21816134;Kōtal-e Zuryah
+Q21816342;Kōtal-e Laghak
+Q21816344;Kōtal-e Ghōzhdī
+Q21816345;Kōtal-e Gildān
+Q21816348;Kōtal-e Achah
+Q21816409;Gardanah-ye Gulbānah
+Q21816490;Kōtal-e Safēd
+Q21816495;Gardanah-ye Ḩowẕ-e Ghajar
+Q21816509;Gardanah-ye Bārīkak
+Q21816533;Sangar-e Rasūldād
+Q21816622;Khaṟaylūshak
+Q21816629;Gardaneh-ye Kawḏi
+Q21816631;Jiṟak
+Q21816633;Jiṟak
+Q21816637;Gardanah-ye Durum
+Q21816641;Neygaleh
+Q21816671;Sarācheh
+Q21816673;Kōtal-e Chighā
+Q21816688;Kōtal-e Tāwah
+Q21816719;Khākī
+Q21816721;Kōtal-e Lunḏōkī
+Q21816724;Kōtal-e Pārchī
+Q21816736;Khwāzah Tangah
+Q21816739;Petāwe Cheshmeh-ye Ūk
+Q21816761;Kōtal-e Safēd
+Q21817394;Zarai Khande Kandao
+Q21817407;Kōtal-e Khamīn
+Q21817420;Tishankay
+Q21817423;Kōtal-e Farāmōz
+Q21817431;Kōtal-e Showbāshak
+Q21817492;Kōtal-e Dōlghah
+Q21817505;Now Gardān
+Q21817548;Kōtal-e Jōshanak
+Q21817615;Kōtal-e Būragak
+Q21817632;Kōtal-e Ghargharah
+Q21817635;Kōtal-e Khāk-e Chighil
+Q21817638;Kōtal-e Gulī
+Q21817676;Yakah Baydak
+Q21817686;Pas-e Kharah-ye Bahārī
+Q21817694;Mardak Sang
+Q21817700;Amrōtak
+Q21817703;Damāghah-ye Jarmatū
+Q21817759;Gardanah-ye Raẕāqêlī
+Q21817774;Kōtal-e Zow
+Q21817796;Band-e Tāwah
+Q21817985;Kōtal-e Nughrīgak
+Q21817990;Kōtal-e Ghōzday
+Q21817998;Kōtal-e Kōdak
+Q21817999;Kharah-ye Kāband
+Q21818140;Prāng Tangay
+Q21818214;Kōtal-e Sikayn
+Q21818314;Dê Changōlak Band
+Q21818317;Dê Gūrāzān Band
+Q21818369;Kōtal-e Parāgandah
+Q21818424;Gardanah-ye Surkh Bayd
+Q21818466;Dēwār Safēd
+Q21818501;Damāghah-ye Shībar
+Q21818537;Kōtal-e Kilkilak
+Q21818549;Kōtal-e Ghārak
+Q21818667;Kōtal-e Pashahgar
+Q21818793;Spīnkay Kanḏow
+Q21818980;Khati Kandao
+Q21819026;Waṟah Galay
+Q21819132;Kōtal-e Zamīn Dāwar
+Q21819133;Kōtal-e Lakhshak
+Q21819138;Zīrkhār Kōtal
+Q21819141;Murch Kōtal
+Q21819148;Gardanah-ye Sabz
+Q21819183;Band-e ‘Abbās
+Q21819192;Band-e Chilah Khānah
+Q21819193;Band-e Jowzak
+Q21819194;Band-e Sar Jangalak
+Q21819200;Band-e Murghāw
+Q21819208;Band-e Nakhchīristān
+Q21819292;Tarowgalō
+Q21819460;Kōtal-e Shōrow
+Q21819589;Band-e Mūshkhān
+Q21819620;Band-e Iskēchah
+Q21819680;Dū Maskharah
+Q21819710;Kōtal-e Arpatū
+Q21819815;Kōtal-e Bayḏawan
+Q21819849;Kōtal-e Surkh Āb
+Q21820060;Darnābād Band
+Q21820094;Kōtal-e Wurzhghanah
+Q21820129;Zhaṟay Tangay
+Q21820300;War Ghar Band
+Q21820316;Kōtal-e Khānaqā
+Q21820321;Kōtal-e Ghāsh Kamar
+Q21820367;Kōtal-e Asphā
+Q21820375;Kōtal-e Pōshāl
+Q21820377;Kōtal-e Pāghar
+Q21820756;Bōkō Band
+Q21820824;Zōr Gar
+Q21820828;Tandutiz
+Q21820829;Band
+Q21820833;Posht-e Cheshmeh
+Q21820841;Kāfar Kūh
+Q21820883;Sōzkaī Tangay
+Q21820987;Gardanah-ye Jōy-e Khushk
+Q21820992;Kōtal-e Khar Parān
+Q21820995;Kōtal-e Kaj Nāwī
+Q21821014;Darāz Kōtal
+Q21821023;Dōghdarmah
+Q21821080;Kōtal-e Rāh-e Now
+Q21821212;Shīnkay Kōtal
+Q21821234;Kōtal-e Band-e Masjid
+Q21821475;Sūrki Ūwīn
+Q21821579;Kajatāq Band
+Q21821662;Safēd Kōtal
+Q21821677;Pereval Gardani-Bini-Darazak
+Q21821682;Kōtal-e Ābay
+Q21821687;Kōtal-e Oshtur
+Q21821702;Kōtal-e Pīrlī
+Q21821703;Kōtal-e Zardālū
+Q21821774;Pereval Khami-Nil'
+Q21821784;Karakhchay Band
+Q21821793;Pereval Chala
+Q21821801;Pereval Surkay-Sukhay
+Q21821807;Beylsah Kowtal
+Q21821822;Pereval Spin-Sang
+Q21821872;Dê Lāswandī Band
+Q21821877;Dê Kūhī Band
+Q21821901;Dê Zīārat Gardanah
+Q21821955;Lanḏêy Band
+Q21821959;Shīn Band
+Q21822082;‘Abdulī Band
+Q21822290;Kōtal-e Tugūzbāsh
+Q21822293;Kōtal-e Qarah-ye Qabchal
+Q21822333;Ās Tangay
+Q21822436;Dilisang Uween
+Q21822437;Qalandar Ūwīn
+Q21822619;Band-e Ghulghulī
+Q21822620;Band-e Ţibchāq
+Q21822636;Ōs̲h̲band
+Q21822698;Sar Kōshtah Band
+Q21822735;Kōtal-e Ghuchgak
+Q21822736;Tangī-ye Larwand
+Q21822769;Kōtal-e Dandānsêkan
+Q21822770;Kōtal-e Pārwāgz
+Q21822771;Kōtal-e Baīn Bugz̄ar
+Q21822778;Kōtal-e Khowẕ-e Rārīn
+Q21822783;Kōtal-e Rafak
+Q21822786;Kōtal-e Tarsīū-ye Dwahêm
+Q21822787;Kōtal-e Tarsīū-ye Awal
+Q21822802;Kōtal-e Rafak
+Q21822834;Gardanah-ye Sulţān Pādshāh
+Q21822849;Tangī-ye Sanak-e Nowishtah
+Q21822982;Kōtal-e Laghmānak
+Q21822987;Gōsfand Darē Kanḏow
+Q21822988;Chūnchatah
+Q21822989;Gow Kush
+Q21823027;Wêchē Marghē Band
+Q21823382;Rōd Kōchī Sāy Kanḏow
+Q21823383;Sūr Kanḏow
+Q21823419;Darah-ye Mōtak
+Q21823430;Khafā Kanḏow
+Q21823511;Khōstī Kōtal
+Q21823515;Kōtal-e Rang Sāy
+Q21823548;Band-e Muḩammad Khān
+Q21823598;Shōrak
+Q21823693;Band-e Haftād Chashmah
+Q21823749;Kōtal-e Khān
+Q21823820;Band-e Ḩabōlak
+Q21823847;Chahār Rāh
+Q21823870;Lalm
+Q21823959;Sūbah
+Q21823999;Khushkak
+Q21824064;Kōtal-e Palpī
+Q21824131;Band-e Shaydān
+Q21824149;Tangī-ye Ḩasanī
+Q21824194;Kham-e Āq Būlāq
+Q21824218;Kōtal-e Nālah
+Q21824227;Kōtal-e Tamazān
+Q21824242;Band-e Jahān Numāy
+Q21824244;Sar-e Siyāh Chalī
+Q21824247;Bāligardū
+Q21824253;Band-e Nowjōy
+Q21824267;Band-e Kāfar Kōtal
+Q21824274;Kharah-ye Kōtal-e Safēd
+Q21824279;Pulāw-e Gulnaz̧ar
+Q21824308;Kōtal-e Qudughak
+Q21824321;Zinishkanak
+Q21824345;Kōtal-e Sar-e Dāgh
+Q21824346;Band-e Jowzak
+Q21824383;Kōtal-e Tagāb-e ‘Ālam
+Q21824529;Endzêr Band
+Q21825674;Sapparāi Kandāo
+Q21825675;Tora Tigga Kandāo
+Q21825677;Guldarra Kandāo
+Q21825682;Khand Narai
+Q21825688;Ghushtna Narai
+Q21825689;Mamit Narai
+Q21825690;Maisara Narai
+Q21825691;Shikahra Narai
+Q21825692;Shushanke Narai
+Q21825694;Uch Mānke Narai
+Q21825751;Kōtal-e Arāẕī
+Q21825787;Kōtal-e Chamtalah
+Q21825808;Kōtal-e Deh-e Yaḩyá
+Q21825817;Kōtal-e Deh-e Yaḩiyá
+Q21825833;Dê Lēwānō Kanḏow
+Q21825898;Aḩad Band
+Q21825904;Band-e Gowargī
+Q21825905;Band-e Largar
+Q21825906;Chahār Band-e Barfshār
+Q21825907;Band-e Pālah Jōy
+Q21825911;Band-e Jūgī
+Q21825914;Band-e Tah-e Zard
+Q21825918;Bādām Band
+Q21825919;Tōr Kats Band
+Q21825920;Dê Anār Band
+Q21825921;Alāpanḏak
+Q21825926;Lakaṟī Band
+Q21825927;Ḩāmund Band
+Q21825942;Shīrīnō Ghās̲h̲ē
+Q21826001;Tōr Kanḏow
+Q21826002;Tōr Kanḏow
+Q21826028;Band-e Surkhāj
+Q21826064;Sōjān
+Q21826366;Lāray Ōbêh
+Q21826382;Ghōch Kanḏow
+Q21826386;Sūr Tangay
+Q21826390;Jārwāzī Ghās̲h̲ē
+Q21826397;Zā Khēlō Kanḏow
+Q21826419;Kamlī Ghās̲h̲ē
+Q21826423;Burjgay Kanḏow
+Q21826450;Kōtal-e Rāh Dāgak
+Q21826470;Khādihak
+Q21826502;Dilyowānū Ghās̲h̲ē
+Q21826609;Dê Katah Khēlō Ghās̲h̲ē
+Q21826610;Katah Khēlō Ghās̲h̲ē
+Q21826611;‘Alī Khēlō Kanḏow
+Q21826613;Dê Kābul Ghās̲h̲ē
+Q21826630;Sūrkī Ghās̲h̲ē
+Q21826645;Kōtal-e Mullā Khay
+Q21826674;Gaṟī Kanḏow
+Q21826676;Ghōch Kanḏow
+Q21826695;Wulāṟgaī Kōtal
+Q21826704;Lēwānō Ghās̲h̲ē
+Q21826723;Shinkaī Ghās̲h̲ē
+Q21828584;Abra Yaví Huaico
+Q21828610;Portezuelo de la Yesera
+Q21828615;Portillo Yesito
+Q21828639;Paso del Yunque
+Q21828653;Paso Zamora
+Q21828654;Paso Zaña Zaña
+Q21828657;Paso del Sancarrón
+Q21828691;Abra de Zenta
+Q21828692;Abra de Zenta
+Q21828721;Portezuelo del Morado
+Q21831263;Portezuelo de Soroche
+Q21831301;Portezuelo Sumich
+Q21831361;Abra del Tafí
+Q21831366;Abra de la Tala
+Q21831383;Puerta Talampaya
+Q21831386;Abra de Talar
+Q21831423;Abra del Tambor
+Q21831451;Portezuelo Tar
+Q21831486;Portillo del Telégrafo
+Q21831529;Paso de Tiburcio
+Q21831556;Portillo del Tigre
+Q21831570;Abra de Tilquiza
+Q21831588;Abra de Tintincillo
+Q21831606;Abrade Tíraxi
+Q21831615;Portezuelo de Tocino
+Q21831624;Abra de Tolar
+Q21831660;Paso del Tontal
+Q21831680;Abra del Toro
+Q21831723;Abra de la Torre
+Q21831764;Portezuelo Toscoso
+Q21831771;Abra de Totora
+Q21831779;Portillo la Totora
+Q21831908;Paso de Tres Quebradas
+Q21831943;Paso Trolón
+Q21831945;Paso Trolón Norte
+Q21831953;Paso Tromen Primero
+Q21831954;Paso Tromen Segundo
+Q21832022;Abra Tuscal
+Q21832060;Abrade Urcur
+Q21832069;Abra de Uriuri
+Q21832076;Portillo Urrutia
+Q21832118;Portillo de las Vacas
+Q21832128;Paso de Vacas Heladas
+Q21832140;Paso Valdés
+Q21832146;Paso de Valeriano
+Q21832157;Portezuelo de Valle Ancho Norte
+Q21832158;Portezuelo de Valle Ancho Sur
+Q21832159;Abra Vallecito
+Q21832168;Paso Vallecito
+Q21832178;Paso Valle Grande
+Q21832182;Paso de Valle Hermoso
+Q21832183;Paso del Valle Hermoso
+Q21832222;Portezuelo de Vega
+Q21832225;Portezuelo Vega del Loro
+Q21832260;Abra de la Ventana
+Q21832322;Paso del Verde
+Q21832331;Paso Vergara
+Q21832333;Paso Verlika
+Q21832356;Abra Vicuñayoc
+Q21832357;Abra Vicuñayoc
+Q21832362;Portezuelo Vicuñorco
+Q21832376;Paso el Viento
+Q21832377;Portezuelo del Viento
+Q21832378;Portillo del Viento
+Q21832397;Paso Villagra
+Q21832417;Paso Villegas
+Q21832461;Abra Vizcachayoc
+Q21832470;Abra de Volcán
+Q21832525;Abra de Yacyampa
+Q21832527;Abra de Yala
+Q21833161;Paso de Rahue
+Q21833169;Portezuelo Ralhue
+Q21833171;Paso de la Ramada
+Q21833217;Portezuelo Ranquiles
+Q21833227;Abra del Rastro
+Q21833242;Paso los Raulíes
+Q21833243;Portezuelo de los Raulíes
+Q21833346;Abra de Remate
+Q21833378;Abra de Ribera
+Q21833385;Paso de Rilul
+Q21833386;Paso Rilul Segundo
+Q21833408;Paso del Rincón de la Flecha Segundo
+Q21833409;Paso Rincón de la Flecha Tercero
+Q21833412;Paso Rincón de la Flecha Primero
+Q21833421;Portillo Rincón Guamparito
+Q21833427;Portezuelo Río Bayo Este
+Q21833428;Portezuelo Río Bayo Oeste
+Q21833430;Abra del Río Blanco
+Q21833452;Abra del Río Negro
+Q21833453;Paso Río Negro
+Q21833474;Paso Risco Bayo
+Q21833484;Abra Rivera
+Q21833488;Portezuelo de Robledo
+Q21833508;Portezuelo del Rodeo
+Q21833515;Paso Rodolfo Roballos
+Q21833537;Portezuelo de Romero
+Q21833549;Portezuelo del Rosal
+Q21833579;Abra de Rota
+Q21833724;Paso de Salín
+Q21833734;Paso de las Salinas
+Q21833768;Paso del Salto
+Q21833798;Paso San Andrés
+Q21833800;Abra de San Antonio
+Q21833832;Portezuelo de San Buenaventura
+Q21833859;Abra San Francisco
+Q21833874;Paso San Francisco Norte
+Q21833875;Paso San Francisco Sur
+Q21833884;Paso San Guillermito
+Q21833912;Abra San José
+Q21833963;Abra de San Marcus
+Q21833992;Abra de San Pedro
+Q21834009;Portezuelo Sanquilcó
+Q21834041;Portillo Santa Clara
+Q21834074;Abra de Santa Laura
+Q21834098;Paso Santa Rosa
+Q21834099;Portezuelo Santa Rosa
+Q21834205;Abra de Sauzal
+Q21834351;Abra de Senguel
+Q21834359;Abra Sepultura
+Q21834360;Abra Sepultura
+Q21834361;Abra de Sepultura
+Q21834362;Abra de la Sepultura
+Q21834364;Abra Sepulturas
+Q21834367;Portezuelo Laguna Fea
+Q21834390;Abra de la Sierra
+Q21834421;Portezuelo Sin Nombre
+Q21834422;Portezuelo Sin Nombre
+Q21834423;Portezuelo Sin Nombre
+Q21834424;Portezuelo Sin Nombre
+Q21834443;Paso del Soberado
+Q21834447;Abra de Sococha Corral
+Q21835006;Paso Palacios
+Q21835016;Portezuelo de Palauco
+Q21835021;Paso Palau Mahuida
+Q21835083;Portillo de la Pampa
+Q21835091;Paso de Pampaitara
+Q21835129;Portillo Pan de Azúcar
+Q21835159;Portezuelo Pantojo
+Q21835234;Abra Pastos Chicos
+Q21835248;Portezuelo de Pasto Ventura
+Q21835315;Portillo Pedernales
+Q21835340;Paso Pehuenche
+Q21835353;Abra Pelada
+Q21835393;Paso de Pelambres
+Q21835417;Abra Peña Negra
+Q21835418;Paso de Peña Negra
+Q21835424;Paso de las Peñas
+Q21835428;Abra de las Peñas Blancas
+Q21835458;Paso del Peñón
+Q21835485;Paso de Pérez Rosales
+Q21835583;Portillo del Pico
+Q21835627;Abra Piedra Blanca
+Q21835634;Portillo de la Piedra Blanca
+Q21835646;Abra de Piedra Parada
+Q21835664;Portezuelo Piedras Bayas
+Q21835708;Portezuelo Pilunchaya
+Q21835713;Paso Vallejos
+Q21835734;Paso Pino Solo
+Q21835784;Paso de Pircas Negras
+Q21835786;Paso Pirehueico
+Q21835795;Abra Piscuno
+Q21835809;Paso de los Piuquenes
+Q21835810;Portezuelo de Piuquenes
+Q21835811;Abra de Pives
+Q21835817;Paso del Planchón
+Q21835861;Abra de Pocoia
+Q21835934;Paso el Portillo
+Q21835935;Paso del Portillo
+Q21835936;Paso del Portillo
+Q21835953;Paso del Potrerillo
+Q21835964;Paso Potrerillos
+Q21835965;Portillo Potrerillos
+Q21835974;Abra del Potrero
+Q21836015;Portezuelo del Pozo Bravo
+Q21836032;Portillo de la Pozos
+Q21836078;Paso Pucón Mahuida
+Q21836099;Paso Puerta Nueva
+Q21836100;Paso Puerta Vieja
+Q21836126;Portezuelo de los Puestos
+Q21836138;Paso de Pulul
+Q21836152;Paso de la Punilla
+Q21836169;Abra de Punta Corral
+Q21836232;Subida de Puricelli
+Q21836239;Portezuelo Puyehue
+Q21836266;Portezuelo de la Quebrada del Camino
+Q21836280;Portezuelo de la Quebrada Fría
+Q21836283;Portezuelo de Quebrada Grande
+Q21836292;Portezuelo de la Quebrada Honda
+Q21836293;Portillo de la Quebrada Honda
+Q21836303;Portezuelo de Quebrada Seca
+Q21836304;Paso Norte de Quebrada Seca
+Q21836305;Paso de Quebrada Seca Sur
+Q21836319;Paso de Quelhuenco
+Q21836336;Portillo del Quemado
+Q21836337;Portillo del Quemado
+Q21836357;Abra Quesera
+Q21836365;Abra de Queta Chico
+Q21836369;Paso de Quetrú
+Q21836400;Paso Quillehue
+Q21836557;Paso de Nellocahui
+Q21836563;Portezuelo Nevada
+Q21836612;Portillo del Ñireco
+Q21836615;Paso de los Ñires
+Q21836662;Portillo del Norte
+Q21836663;Portillo del Norte
+Q21836681;Paso Novel
+Q21836682;Portezuelo Noveno
+Q21836686;Paso de las Nubes
+Q21836728;Paso Quebrada Seca
+Q21836784;Paso de la Ollita
+Q21836815;Paso Quebrada Seca Oriental
+Q21836816;Paso el Empedrado
+Q21836817;Paso el Lagarto
+Q21836835;Paso de Ortiz
+Q21836857;Abra de Ovejería
+Q21836867;Portezuelo Oveleros
+Q21836871;Paso Overas Norte
+Q21836872;Paso Overas Sur
+Q21836923;Portezuelo del Pachón
+Q21837114;Abra Matadero
+Q21837115;Abra del Matadero
+Q21837132;Abra Matancillas
+Q21837258;Portillo del Medio
+Q21837312;Portillo Mercedario
+Q21837316;Abra de Merco
+Q21837369;Abra Mesón de Afuera
+Q21837386;Portezuelo del Milico
+Q21837403;Paso de la Mina de Sal
+Q21837404;Abra de Minas
+Q21837405;Abra de Minas
+Q21837414;Paso de las Minas
+Q21837415;Portezuelo de las Minas
+Q21837432;Paso Mirador
+Q21837440;Paso de Miranda
+Q21837495;Paso de Molina
+Q21837496;Abrade Molinas
+Q21837520;Portillo el Molle
+Q21837547;Paso Montañecito
+Q21837588;Portillo Moradito
+Q21837617;Abra Morado Chico
+Q21837641;Abra de Moreta
+Q21837677;Abra de los Morteros
+Q21837698;Paso los Muchachos
+Q21837725;Portillo de Mulas
+Q21837788;Abra Negra
+Q21838058;Portillo de la Laguna
+Q21838067;Portezuelo Laguna Campana
+Q21838070;Paso Laguna de Epulafquén
+Q21838071;Paso de la Laguna Intermedio
+Q21838075;Paso de la Laguna del Pelado
+Q21838083;Portezuelo los Cristales
+Q21838089;Paso Laguna Negra
+Q21838096;Portezuelo de Lagunas
+Q21838099;Paso Laguna de Teno
+Q21838117;Abra Lagunita
+Q21838118;Abra de la Lagunita
+Q21838174;Portillo de La Laguna
+Q21838237;Abra de Lampazar
+Q21838267;Portillo de La Pampa
+Q21838437;Paso Las Carachas
+Q21838543;Portezuelo Las Numeradas
+Q21838590;Paso de las Tórtolas
+Q21838605;Paso Las Tunas
+Q21838717;Paso de Leiva
+Q21838724;Paso de las Leñas
+Q21838776;Paso del Leoncito
+Q21838804;Paso de los Leones
+Q21838811;Portezuelo de León Muerto
+Q21838884;Paso de Lipinza
+Q21838904;Abra de Lizoite
+Q21838907;Paso de Llaima
+Q21838924;Portezuelo Llullaillaco Norte
+Q21838925;Abra de Llumpaité
+Q21838967;Portezuelo de Loncoche
+Q21838986;Paso del Lonqueo
+Q21839015;Paso Los Ángeles
+Q21839060;Portillo Los Chilenos
+Q21839149;Paso Los Moscos
+Q21839174;Portillo de Los Patos
+Q21839201;Paso Los Puentes
+Q21839210;Portezuelo Los Rucos
+Q21839218;Portezuelo Los Tábanos
+Q21839248;Portezuelo de las Lozas
+Q21839273;Paso Lumabia B
+Q21839274;Paso de Lumabia
+Q21839286;Abra del Luyingo
+Q21839294;Paso de Machaco
+Q21839321;Subida de MacPherson
+Q21839347;Portezuelo de Maíz Gordo
+Q21839373;Paso de Malalco
+Q21839387;Portezuelo del Mal Barco
+Q21839402;Paso Mallín Chileno
+Q21839404;Paso de Mallin de Icalma
+Q21839430;Portezuelo Mal Paso
+Q21839492;Paso Manso
+Q21839645;Paso del Fierro
+Q21839673;Paso de la Flecha
+Q21839677;Portezuelo de las Flechas
+Q21839712;Paso de la Fortuna
+Q21839713;Portillo de la Fortuna
+Q21839716;Portezuelo Fósiles
+Q21839724;Paso del Fraile
+Q21839725;Paso del Fraile
+Q21839770;Abra de Fundiciones
+Q21839797;Abra del Gallo
+Q21839916;Paso de la Gloria
+Q21839952;Abra Granada
+Q21839969;Abra Grande
+Q21839970;Abra Grande
+Q21839971;Abra Grande
+Q21839972;Abra Grande
+Q21840057;Portillo Grande
+Q21840124;Portezuelo Greiner
+Q21840131;Portezuelo de Guacachica
+Q21840216;Paso del Guanaco
+Q21840229;Paso Guanaco Sonso
+Q21840247;Abra de Guaranguay
+Q21840248;Portillo de la Guardia
+Q21840252;Portillo de las Guardias
+Q21840304;Abra de Hacienda Ruana
+Q21840322;Abra Helada Chorro
+Q21840348;Paso del Hielo
+Q21840374;Paso de la Honda
+Q21840476;Abra de Huairahuasi
+Q21840479;Paso de Guaitiquina
+Q21840525;Paso de la Aduana de Valle Huemules
+Q21840558;Paso de Icalma
+Q21840568;Paso de la Iglesia
+Q21840586;Paso del Inca
+Q21840613;Paso del Indio
+Q21840628;Puerta del Infiernillo
+Q21840635;Abra de Ingamayo
+Q21840688;Abra Itamuyo
+Q21840820;Portezuelo La Atravesada
+Q21840929;Abra de La Cruz
+Q21840991;Portezuelo Lago Gris
+Q21840998;Portezuelo de las Lágrimas
+Q21840999;Portillo de la Lágrima Viva
+Q21841006;Abra Laguna
+Q21841117;Portezuelo Colorado
+Q21841118;Portezuelo Colorado
+Q21841119;Portillo del Colorado
+Q21841187;Paso Columpios
+Q21841205;Abra Compuel
+Q21841223;Portezuelo de Conconta
+Q21841225;Abra Cóndor
+Q21841226;Abra de Cóndor
+Q21841248;Portezuelo de Cóndorhuasi
+Q21841251;Portezuelo del Conejo
+Q21841286;Portillo de Contrabandistas
+Q21841301;Paso Copahué
+Q21841305;Paso de Copulhué
+Q21841321;Paso del Córdoba
+Q21841337;Paso de Coria
+Q21841411;Abra Cortadera
+Q21841421;Portillo Cortadera
+Q21841429;Portillo Cortaderal
+Q21841467;Subida de Couto Blanco
+Q21841472;Abra de Coyaguaima
+Q21841476;Abra Coyayo
+Q21841501;Portezuelo Crespo Poniente
+Q21841524;Abra Crugnios
+Q21841525;Abra Cruz
+Q21841526;Abra de la Cruz
+Q21841527;Abra de la Cruz
+Q21841528;Abra de la Cruz
+Q21841546;Paso Cruz de Piedra
+Q21841547;Portezuelo Cruz de Piedra
+Q21841548;Abra de Cruzniock
+Q21841601;Paso de Cudio
+Q21841617;Abra Cuesta Grande
+Q21841622;Portillo de la Cuestita
+Q21841631;Abra de las Cuevas
+Q21841640;Paso de las Cuevas
+Q21841708;Portezuelo Curuto
+Q21841725;Paso de las Damas
+Q21841743;Abra Delgada
+Q21841744;Abra Delgada
+Q21841767;Paso Deseado
+Q21841774;Paso Deshecho
+Q21841775;Paso Desecho
+Q21841781;Abra de Despensa
+Q21841785;Portezuelo de los Despoblados
+Q21841795;Abra del Diablo
+Q21841836;Paso Las Diucas
+Q21841928;Abra Durazno
+Q21841948;El Abra
+Q21842025;Paso El Cóndor
+Q21842212;Portezuelo El Risco Plateado
+Q21842258;Portezuelo El Toscal
+Q21842393;Portezuelo Esperanza
+Q21842397;Paso del Espinacito
+Q21842437;Abra Estancia Nueva
+Q21842440;Abra del Estanque
+Q21842477;Portillo de la Falda
+Q21842571;Portillo del Chifle
+Q21842587;Portezuelo de la Chilca
+Q21842626;Paso de las Chinas
+Q21842642;Puerta Chiquita
+Q21842645;Abra Chisca
+Q21842654;Paso del Chivato
+Q21842665;Portezuelo de Choique
+Q21842682;Paso Choroyales
+Q21842691;Abra de Chorrillos
+Q21842766;Abra Ciénaga Grande
+Q21842770;Abra Ciénaga Negra
+Q21842785;Abra Cilinias
+Q21842818;Subida de Clark
+Q21842834;Portillo de Cobre
+Q21842839;Abra Cobres
+Q21842843;Abra de Cochagasta
+Q21842846;Paso Cochamó
+Q21842874;Paso Codihué
+Q21842877;Paso Codorniz
+Q21842881;Abra de Cofradilla
+Q21842888;Paso Coihué
+Q21842922;Paso Coliqueo Norte
+Q21842948;Abra Colorada
+Q21842949;Abra Colorada
+Q21843757;Abra del Cajoncito
+Q21843761;Paso Cajón de la Brea
+Q21843783;Portezuelo de Calalaste
+Q21843816;Paso Calderón
+Q21843846;Portezuelo Calquenque
+Q21843899;Paso Campanario
+Q21843907;Portezuelo del Campo Colorado
+Q21843973;Abra del Cancillal
+Q21843975;Abra del Candado
+Q21844099;Paso Carilafquén
+Q21844112;Paso de Carirriñe
+Q21844163;Paso de las Carretas
+Q21844209;Paso del Carro Quebrado
+Q21844275;Abra Casillas
+Q21844330;Abra de los Catalanes
+Q21844354;Paso Catrinao
+Q21844459;Abra de Cerro Blanco
+Q21844463;Paso Cerro Colorado
+Q21844466;Abra de Cerro Gordo
+Q21844529;Portezuelo Chacay Melehue
+Q21844535;Abra Chachacome
+Q21844545;Paso del Chachil
+Q21844612;Abra Chañi
+Q21844648;Abra del Charco
+Q21845380;Abra del Altar
+Q21845471;Paso Alvarado Centro
+Q21845472;Paso Alvarado Norte
+Q21845473;Paso Alvarado Sur
+Q21845534;Paso Amarillo
+Q21845540;Paso los Amarillos
+Q21845601;Paso del Andarivel
+Q21845628;Paso Añihueraqui Primero
+Q21845635;Portezuelo de las Ánimas
+Q21845647;Paso Ansilta
+Q21845706;Portezuelo de Apichig
+Q21845727;Portillo Araya
+Q21845745;Portillo de Arce
+Q21845753;Paso del Arco
+Q21845755;Paso del Arco Norte
+Q21845759;Abra del Arenal
+Q21845779;Portillo Argentino
+Q21845824;Paso del Arroyo Turbio
+Q21845912;Paso de Atacalco
+Q21845914;Abra de Atacamara
+Q21845963;Portezuelo de Auquinco
+Q21846013;Abra Azul
+Q21846038;Portillo de los Azules
+Q21846059;Paso Baguales
+Q21846063;Paso Baguales Cuarto
+Q21846096;Paso del Baker
+Q21846112;Paso de la Balsa
+Q21846136;Paso Banderas
+Q21846150;Paso de Barahona
+Q21846171;Paso de Bariloche
+Q21846173;Abra Baritú
+Q21846182;Abra de Barrancas
+Q21846184;Abra de las Barrancas
+Q21846187;Paso Barrancas
+Q21846232;Abra Barro Negro
+Q21846246;Abra de los Barrosos
+Q21846253;Portezuelo Christie
+Q21846254;Portezuelo El Bastión
+Q21846493;Abra Blanca
+Q21846494;Abra Blanca
+Q21846495;Abra Blanca
+Q21846497;Abra Blanca
+Q21846498;Abra Blanca
+Q21846499;Abra Blanca
+Q21846500;Abra Blanca
+Q21846662;Portezuelo de los Blancos
+Q21846731;Portillo de Bonillo
+Q21846736;Paso Bonito
+Q21846746;Paso Borbollón
+Q21846829;Portezuelo de Buenaventura
+Q21846868;Abra de las Burras
+Q21846874;Portillo las Burras
+Q21846906;Portezuelo Butaco
+Q21846999;Portezuelo Cacho Norte
+Q21847001;Portezuelo Cacho Sur
+Q21847017;Abra del Cajón
+Q21848186;Abra de Agua Caliente
+Q21848244;Portezuelo Agua del Medio
+Q21848250;Portillo Agua del Toro
+Q21848286;Paso del Agua Negra
+Q21848288;Portezuelo del Agua Negra
+Q21848306;Paso de Aguas Calientes
+Q21848320;Abra de Agua Tibia
+Q21848334;Abra del Aguilar
+Q21848371;Puerta de Alaya
+Q21848404;Portillo Alfaro
+Q21848440;Paso Alitre
+Q21849843;Portezuelo La Tranca
+Q21849898;Paso Montañés
+Q21858081;Edenburgertörl
+Q21858162;Zirnitzsattel
+Q21858336;Sandgatterl
+Q21859019;Burgwartscharte
+Q21859152;Keilscharte
+Q21859156;Dockscharte
+Q21859158;Remsschartl
+Q21859280;Schmiedingerscharte
+Q21859293;Obere Jägerscharte
+Q21859294;Untere Jägerscharte
+Q21859317;Steingaßl
+Q21859321;Lakarscharte
+Q21859342;Stefflscharte
+Q21859343;Steinkarlscharte
+Q21859352;Brandlscharte
+Q21861161;Höfersteig
+Q21861214;Roßfeldsattel
+Q21861306;Gjaidsteinsattel
+Q21861320;Kufsteinscharte
+Q21863204;Stallertörl
+Q21863220;Stanzscharte
+Q21863266;Steinjöchle
+Q21863358;Stubeggsattel
+Q21863387;Sulzenjoch
+Q21863434;Taufkarjoch
+Q21863528;Torscharte
+Q21863553;Trasattel
+Q21863598;Trunnerjoch
+Q21863602;Passo di Capre
+Q21863603;Tschey Joch
+Q21863708;Valentintörl
+Q21863733;Verpeil Joch
+Q21863741;Vier Töre
+Q21863747;Villgraterjoch
+Q21863788;Vorderes Umbaltörl
+Q21863834;Waldhüttlsattel
+Q21863902;Weissbachscharte
+Q21863956;Wetterkreuz
+Q21864051;Winnebachjoch
+Q21864102;Zanitzenhöhe
+Q21864112;Zeblasjoch
+Q21864232;Klosterpass
+Q21864239;Sankt Antönierjoch
+Q21864809;Pfortscharte
+Q21864812;Pfunds Joch
+Q21864840;Pitztalerjöchl
+Q21864877;Plättentaljoch
+Q21864882;Plums Sattel
+Q21864907;Perwurzpolster
+Q21864919;Povererjöchl
+Q21864931;Prebertörl
+Q21864938;Predl
+Q21864943;Preinecksattel
+Q21864972;Pyhrnpaß
+Q21865008;Römersattel
+Q21865012;Ramoljoch
+Q21865016;Ramseider Scharte
+Q21865045;Rauhesjoch
+Q21865056;Regenfeldjoch
+Q21865062;Brandstättertörl
+Q21865122;Rettingscharte
+Q21865131;Riederberg
+Q21865148;Riffelscharte
+Q21865230;Rostitz Joch
+Q21865308;Sadererjoch
+Q21865323;Passo di Salez
+Q21865338;Salzsteig Joch
+Q21865394;Schadonapass
+Q21865396;Schafbücheljoch
+Q21865400;Schafhals Sattel
+Q21865418;Schareck
+Q21865419;Schareckscharte
+Q21865498;Schleimser Sattel
+Q21865531;Schneidjöchl
+Q21865585;Schrimmennieder
+Q21865635;Schwarzenberger Joch
+Q21865680;Schweinsteinjoch
+Q21865681;Schweizer Tor
+Q21865698;Seebachscharte
+Q21865701;Jezerski Vrh
+Q21865704;Seefelder Joch
+Q21865758;Sidan Joch
+Q21865763;Siedeljoch
+Q21865777;Silbertaler Winterjöchl
+Q21865793;Sölkerpass
+Q21866057;Mirnitzscharte
+Q21866113;Mlinca
+Q21866189;Murnauer Scharte
+Q21866192;Murtörl
+Q21866198;Muttenjoch
+Q21866199;Mutterberger Joch
+Q21866201;Mutterer Joch
+Q21866218;Naviser Jöchl
+Q21866256;Niedermunde
+Q21866257;Niederreich Scharte
+Q21866272;Passo Lodinut
+Q21868033;Hoher Sattel
+Q21868050;Hohes Tor
+Q21868060;Hohljoch
+Q21868091;Hornbachjoch
+Q21868096;Horntaler Joch
+Q21868097;Hösljoch
+Q21868122;Hüpflingerhals
+Q21868149;In der Eng
+Q21868151;In der Wetter Lucken
+Q21868198;Johannesjoch
+Q21868209;Junsjoch
+Q21868226;Kaiserjoch
+Q21868227;Kaiserjoch
+Q21868250;Kals-Matreier-Törl
+Q21868278;Kaponigtörl
+Q21868282;Kapruner Törl
+Q21868377;Kettentörl
+Q21868432;Klammjoch
+Q21868490;Kleiner Loiblpass
+Q21868576;Kneisltörl
+Q21868682;Kreuzbergsattel
+Q21868698;Kreuz Joch
+Q21868801;Lafatscher Joch
+Q21868808;Passo Giramondo
+Q21868916;Lattejoch
+Q21868930;Lautererseejoch
+Q21868948;Lehnerjoch
+Q21869035;Loassattel
+Q21869039;Löbbentörl
+Q21869077;Lünerkrinne
+Q21869091;Madatschjoch
+Q21869092;Madaun Joch
+Q21869114;Maiersteg
+Q21869126;Mallnitzerscharte
+Q21869146;March Scharte
+Q21869152;Marienbergjoch
+Q21870737;Fliesser Scharte
+Q21870793;Freinsattel
+Q21870809;Fröschnitz Sattel
+Q21870811;Frosnitztörl
+Q21870832;Furkajoch
+Q21870846;Gaaler Törl
+Q21870891;Gallruther Scharte
+Q21870957;Gatterl
+Q21870994;Gemstelpaß
+Q21870996;Gepatschjoch
+Q21870997;Geralscharte
+Q21871049;Glattjoch
+Q21871055;Gleirschjöchl
+Q21871086;Golmer Joch
+Q21871141;Grasjoch
+Q21871231;Grossberg Joch
+Q21871255;Grosselendscharte
+Q21871407;Grubenpass
+Q21871411;Grubigjöehl
+Q21871464;Gufelgrasjoch
+Q21871474;Gurgler Schartl
+Q21871590;Haseneckscharte
+Q21871715;Hinteres Umbaltörl
+Q21871731;Hippold Joch
+Q21873038;Gnoppnitz Törl
+Q21873046;Schobertörl
+Q21873053;Wölla Törl
+Q21873066;Schiestel Scharte
+Q21873112;Rudnigsattel
+Q21873115;Bartolo Sattel
+Q21873134;Lomsattel
+Q21873135;Forcella Manzon
+Q21873138;Hochalpljoch
+Q21873141;Passo Pecol di Ciaula
+Q21873145;Passo Pramosio
+Q21873150;Passo del Santicolo
+Q21873155;Giogo Veranis
+Q21873175;Blühnbachtörl
+Q21873186;Fiderepaß
+Q21873195;Hochsattel
+Q21873213;Mauerscharte
+Q21873229;Scharnitzpass
+Q21873243;Torrener Joch
+Q21873252;Windscharte
+Q21873308;Almajurjoch
+Q21873328;Alperschonjoch
+Q21873352;Amatschon Joch
+Q21873404;Arlscharte
+Q21873425;Arrezjoch
+Q21873429;Arzjoch
+Q21873445;Atterkarjöchl
+Q21873467;Aukar Scharte
+Q21873492;Balkenscharte
+Q21873509;Bärensulsattel
+Q21873513;Bärnbach Sattel
+Q21873528;Bei den drei Kreuzen
+Q21873538;Berger Törl
+Q21873550;Bettlerjoch
+Q21873554;Bildstöckljoch
+Q21873564;Blanka Joch
+Q21873572;Blaufeldscharte
+Q21873651;Breitlehnerjöchl
+Q21873706;Bucheck Sattel
+Q21873751;Defereggen Virgentörl
+Q21873890;Eckersattel
+Q21873919;Ehrenberger Klause
+Q21873957;Eisenpass
+Q21873975;Eiwegg Sattel
+Q21874074;Feisterscharte
+Q21874106;Ferchtlscharte
+Q21874151;Flattnitzer Höhe
+Q21874152;Flaurlinger Joch
+Q21874719;Mattlerjoch
+Q21874872;Brandberger Joch
+Q21874947;Winkler Joch
+Q21874960;Lahnerjoch
+Q21875006;Oreinzasattel
+Q21875010;Krischnig
+Q21875109;Wurmsattel
+Q21876556;Östliches Torjoch
+Q21876558;Baumgartenjoch
+Q21876590;Vilser Jöchl
+Q21876600;Plattjoch
+Q21876664;Gelbe Scharte
+Q21876852;Seeländer Sattel
+Q21876864;Pasterksattel
+Q21879159;Gollersattel
+Q21880541;Winterlücke
+Q21880565;Kematerscharte
+Q21880644;Saulajoch
+Q21880673;Hengstlhöhe
+Q21880943;Withers Pass
+Q21881115;Worrills Pass
+Q21881493;Sarojasattel
+Q21881616;Schnepfegg
+Q21881633;Herburg
+Q21881790;Kuhjoch
+Q21882528;Weld Pass
+Q21882662;Whiteblow Pass
+Q21882673;White Gorge
+Q21882999;Sunday Pass
+Q21883211;Taylors Gap
+Q21883606;Trews Gap
+Q21884578;Prowse Gap
+Q21884631;Pyramid Gap
+Q21884724;Raetjens Gap
+Q21884822;Redgum Pass
+Q21885066;Rogers Pass
+Q21885164;Ruby Gap
+Q21885447;Seal Passage
+Q21885520;Shay Gap
+Q21885555;Shipka Pass
+Q21885592;Simpsons Gap
+Q21885633;Sisters Gap
+Q21885640;Six Mile Gap
+Q21885927;Steele Gap
+Q21886359;Millie Windie Gap
+Q21886366;Millinup Pass
+Q21886556;Moodini Pass
+Q21886591;Moonera Pass
+Q21886816;Mullerins Gap
+Q21886971;Myally Gap
+Q21887589;Ord Gap
+Q21887684;Palmer Pass
+Q21887827;Paynes Pass
+Q21888144;Jackys Pass
+Q21888532;Kelly Gap
+Q21888550;Kennedy Gap
+Q21888581;Keynes Gap
+Q21888656;Kingston Pass
+Q21888677;Kittys Gap
+Q21888844;Kuthala Pass
+Q21888853;Kyber Pass
+Q21889208;Loaver Top Gap
+Q21889221;Lockyers Gap
+Q21889763;McGooslies Gap
+Q21889816;McSheary Gap
+Q21889875;Harris Gap
+Q21889974;Hectors Pass
+Q21890042;Hicks Gap
+Q21890078;Hills Pass
+Q21890345;Inglis Gap
+Q21890804;Florence Gap
+Q21891022;The Gap
+Q21891023;The Gap
+Q21891479;Gregorys Gap
+Q21891500;Grimwood Gap
+Q21891649;Hann Pass
+Q21892052;Cocklebiddy Pass
+Q21892121;Compass Pass
+Q21892156;Connors Gap
+Q21892321;Coppins Gap
+Q21892341;Corkscrew Pass
+Q21892455;Crocodile Gap
+Q21892853;Devils Pass
+Q21892967;The Dog Gap
+Q21894049;Berrys Pass
+Q21894406;Bone Gap
+Q21894652;Briscoe Pass
+Q21894661;Broadhurst Pass
+Q21894682;Brooking Gap
+Q21894728;Browns Pass
+Q21894799;Bugle Gap
+Q21895226;Carpenter Gap
+Q21895449;Chester Pass
+Q21896825;Pass of the Abencerrages
+Q21896854;Adnera Gap
+Q21896960;Alligator Pass
+Q21897644;Yaouk Gap
+Q21897856;Zillmans Gap
+Q21898301;Victoria Pass
+Q21898361;Wades Gap
+Q21899702;Stenhouse Gap
+Q21899944;Stuckey Gap
+Q21900589;Thornton Gap
+Q21900829;Toolebuck Gap
+Q21900839;Tooloombah Gap
+Q21900920;Townsend Gap
+Q21900929;Tozers Gap
+Q21901578;Ropers Pass
+Q21901805;Ryries Gap
+Q21901862;Saint Helens Gap
+Q21901891;Saint Pauls Gap
+Q21901910;Salmonds Saddle
+Q21903221;Spencer Gap
+Q21903587;O'Sullivans Gap
+Q21903702;Pallal Gap
+Q21904097;Pheasants Nest Pass
+Q21904719;Puppy Gap
+Q21904795;Quinns Gap
+Q21904896;Raspberry Gap
+Q21904986;Red Gap
+Q21905169;Richmond Gap
+Q21905813;O'Hara Gap
+Q21906234;Moolboolaman Gap
+Q21906407;Mount Abbot Pass
+Q21906472;Mount Vince Gap
+Q21906686;Murrays Gap
+Q21906880;Naughtons Gap
+Q21907033;Niddoes Gap
+Q21907732;Lone Star Gap
+Q21907891;Low Gap
+Q21907982;Macartneys Gap
+Q21908152;Malcolm Gap
+Q21908164;Malones Gap
+Q21908449;McAndrews Gap
+Q21908455;Mccabes Gap
+Q21908468;McDermotts Gap
+Q21908548;McLeod Pass
+Q21908560;McPartlan Pass
+Q21909072;Hatfields Gap
+Q21909082;Hawker Gate
+Q21909180;Hells Gates
+Q21909322;Hobson Gap
+Q21909551;Hull Gap
+Q21909972;Joes Gap
+Q21910014;Jones Pass
+Q21910030;Jordans Pass
+Q21910373;Killarney Gap
+Q21910445;King William Saddle
+Q21910573;Kungurri Gap
+Q21910923;Fenby Gap
+Q21911050;Fishing Gap
+Q21911511;The Gap
+Q21911512;The Gap
+Q21911513;The Gap
+Q21911514;The Gap
+Q21911515;The Gap
+Q21911576;Gee Gee Gap
+Q21911744;Ginns Gap
+Q21912488;Dryden Gap
+Q21912643;Durack Gap
+Q21912827;Edwards Gap
+Q21912852;Ehsmanns Gap
+Q21913009;Emmerson Gap
+Q21913249;Crawney Pass
+Q21913563;Dalrymple Gap
+Q21913842;Derra Gap
+Q21914274;Drovers Gap
+Q21914682;Brodies Gap
+Q21914721;Broughton Pass
+Q21914882;Bugaldie Gap
+Q21915048;Bulls Head Gap
+Q21915331;Calder Pass
+Q21915407;Camerons Gap
+Q21915448;Campbell Gap
+Q21916051;Christensens Gap
+Q21916067;Christy Gap
+Q21916076;Chummy Gap
+Q21916173;Clewleys Gap
+Q21916670;Copper Gap
+Q21916753;Cotter Gap
+Q21918794;Blackfellows Gap
+Q21918815;Black Gap
+Q21918909;Blackman Gap
+Q21918912;Blackman Gap
+Q21920717;Bowies Gap
+Q21922756;Alma Gap
+Q21922757;Alma Pass
+Q21922962;Aumuller Gap
+Q21929045;Kōtal-e Yakhak
+Q21929047;Kōtal-e ‘Arūsak
+Q21931585;Spidār Naraī
+Q21960268;Lamont Pass
+Q21961542;Goorlanawa Gap
+Q21961841;Burunga Gap
+Q21963188;Eucla Pass
+Q21971776;Tasman Passage
+Q21973196;Frodshams Pass
+Q21973440;South Passage
+Q21973441;North Passage
+Q21977611;Lısaqor Aşırımı
+Q21979093;Dindidağ Aşırımı
+Q21979180;Pereval Eshak-Meydany
+Q21979258;Pereval Kara-Mulla
+Q21979268;Pereval Pyaglyar
+Q21979295;Pereval Bazyrgyan
+Q21979347;Pereval Gyullyudzha
+Q21979350;Altıntaxta Aşırımı
+Q21979351;Pereval Sandruk
+Q21979469;Salavat Aşırımı
+Q21979470;Pereval Salavatskiy
+Q21979471;Pereval Samalit
+Q21980504;Pereval Mala-Rosso
+Q21980519;Pereval Mokhtykyan
+Q21980790;Pereval Khurayskiy
+Q21980821;Pereval Debe-Boyn
+Q21980826;Pereval Dolma-Yel
+Q21980827;Plovca Aşırımı
+Q21980842;Axar-Baxar Aşırımı
+Q21981782;Nial Aşırımı
+Q21981811;Lahıc Aşırımı
+Q21982082;Pereval Gemir
+Q21982159;Pereval Gorida
+Q21982169;Tsoorkats Aşırımı
+Q21982238;Tsitsernak'ari Lerrnants'k'
+Q21982244;Antarrot Lerrnants'k'
+Q21982286;Tsari Lerrnants'k'
+Q21982287;Darbnots' Lerrnants'k'
+Q21982301;Pereval Omar
+Q21982418;Pereval Alagadzh
+Q21982428;Pereval Chambarakskiy
+Q21982446;Pereval Gyadik
+Q21982453;Həzrəməscid Aşırımı
+Q21982499;Pereval Davyanny
+Q21982500;Pereval Tsudurskiy
+Q21982505;Pereval Attagayskiy
+Q21982506;Pereval Gyunakhay
+Q21982507;Pereval Dobalt
+Q21982508;Pereval Koledzh
+Q21982513;Pereval Kherakova
+Q21982529;Pereval Machkhalroso
+Q21982639;Xaltan Aşırımı
+Q21982642;Babadağ Aşırımı
+Q21982664;Pereval Fiyskiy
+Q21982665;Pereval Gdymskiy
+Q21982679;Pereval Gudurdag
+Q21982698;Pereval Bashkenskiy
+Q22067915;Passo do Portãosinho
+Q22067920;Passo Pascoal
+Q22068328;Passo da Amora
+Q22072046;Passo Raso
+Q22078072;Lower Narrows
+Q22379685;Rickenp Pass
+Q22386104;Undri Triftlimi
+Q22389211;Salaruel Joch
+Q22389870;Steinalper Jochli
+Q22398269;Risetenpass
+Q22409138;Lenzerheidepass
+Q22429136;Sattel
+Q22430797;Vorderjochli
+Q22439934;Greinapass
+Q22450204;Arflinafurgga
+Q22459559;Rohrsattel
+Q22460964;Fenetre d'Arpette
+Q22462510;Augstbord
+Q22466085;Fimber Pass
+Q22490819;Forcletta
+Q22491660;Parsennfurgga
+Q22494851;Pass Diesrut
+Q22519846;Col de Croix
+Q22519850;Col de Fenestral
+Q22519874;Col de Louvie
+Q22519882;Col de Mboma
+Q22519892;Col de Roux
+Q22519901;Col de Tenneverge
+Q22519910;Col de Verne
+Q22519919;Col des Essets
+Q22519939;Col du Bamba
+Q22519954;Col du Reidmatten
+Q22519976;Col Kissounga
+Q22519996;Col Prafleuri
+Q22520011;Col Termin
+Q22544457;Schinbergjochli
+Q22559485;Segnespass
+Q22562115;Wenneli
+Q22610421;Nideri
+Q22620990;Gafall Joch
+Q22627515;Hinterjochli
+Q22631288;Sisizgrat
+Q22634391;Gemsbleisspitze
+Q22650449;Gross Furgga
+Q22693918;Sella Carnizza
+Q22699398;Septimerpass
+Q22702546;Wolfgangpass
+Q22702936;Passo del Maloja
+Q23663165;Col Yanke
+Q23674887;Col de Hoy
+Q23677431;Col de Bana
+Q23678765;Col de Batié
+Q23684311;Boquerón del Quindío
+Q23684497;Boquerón Roaquira
+Q23684816;Boquerón de Perico
+Q23686517;Boquerón de Miraflores
+Q23687530;Paso de Las Cruces
+Q23688568;Callejón de La Palomay Peralonso
+Q23694965;Boquerón del Consuelo
+Q23716180;Boquerón de La Guerrera
+Q23717141;Paso La Manga
+Q23761258;Paso Sena
+Q23765017;Paso de Medio
+Q23767258;Passe Cacao
+Q23768490;La Puerta Larga del Palmar
+Q23769730;Paso de La Enea
+Q23774553;El Puerto
+Q23775721;Puerto Dos Brazos
+Q23776066;Paso del Corozo
+Q23785848;Paso Viejo
+Q23785864;Paso Vigueta
+Q23785881;Paso de la Virgen
+Q23786012;Paso Zambrano
+Q23790125;Paso Real
+Q23790131;Paso Real de San Diego
+Q23793149;Paso de los Paredones
+Q23793605;Paso la Manteca
+Q23793749;Paso del Medio
+Q23793817;Paso de las Minas
+Q23794420;Paso de Lebrije
+Q23794728;Paso La Entrada
+Q23794770;Paso Laja
+Q23794796;Paso La Lima
+Q23796520;Paso del General Lesca
+Q23796963;Paso de la Escalera
+Q23800752;El Paso del Carretón
+Q23803982;Paso de la Cabulla
+Q23804553;Paso Bahito
+Q23813918;Novosvětský Průsmyk
+Q23814016;Sedlo Papajské
+Q23815161;Lyský Průsmyk
+Q23817304;Sedlo Kunžvartské
+Q23926635;Coryell Pass
+Q23934751;Jeneig Sentamat
+Q23934985;Megsem Uld Mereisig
+Q23934994;Megsem Um el Beida
+Q23935616;Jang Ramla
+Q23936966;Gréier el Jail
+Q23937464;Adreig el Hiran
+Q23937465;Jang el Hiran
+Q23937491;Magsem Imilili
+Q23938661;Janguet Afdira
+Q23938663;Janguet Afdira
+Q23939311;Thaabra
+Q23939926;Ras Armas
+Q23939968;Sacar
+Q23939993;Sarat
+Q23940307;Lebca
+Q23940375;Massanco
+Q23940408;Mescelit
+Q23940415;Metenfus
+Q23940459;Nefasit
+Q23940807;Ghirghirret
+Q23940862;Hancar
+Q23940893;Hemmeret
+Q23940934;Itmet Debela
+Q23941006;Gab-Gabo
+Q23941163;Didic
+Q23941176;Dobac
+Q23941179;Dob Pass
+Q23941260;Etfo
+Q23941263;Faffato
+Q23941479;Caihat
+Q23941484;Cam-Scialla
+Q23941526;Cubub Ebana
+Q23941780;Aldo
+Q23941804;Amberbab
+Q23941831;Aotat
+Q23941861;Asciorum
+Q23941862;Asckub
+Q23941870;Asmat Auhe
+Q23941886;Atret
+Q23941916;Barca
+Q23942213;Abraccab
+Q23943194;Mefar Alleli
+Q23944291;Ebuko
+Q23944302;Assahadaga
+Q23945073;Kherumet Kogat
+Q23945110;Farra
+Q23945111;Gaabba
+Q23945140;Nakfa
+Q23945143;Angaf
+Q23945234;Niddo
+Q23945294;Heru
+Q23945295;Wadiid
+Q23945870;Kibi-Daba
+Q23945919;Amutanit
+Q23947556;Khatrat
+Q23947670;Sidima
+Q23947683;Merfaato
+Q23947881;Adogena
+Q23947914;Mamba
+Q23947919;Karburaben
+Q23948512;Dioita
+Q23948526;Ludercoma
+Q23948638;Shoskako
+Q23977147;Puerto del Zángano
+Q23977835;Puerto de la Venta
+Q23977926;Puerto de Villarta
+Q23977939;Puerto de la Virgen
+Q23978570;Puerto de Valdeflores
+Q23978578;Puerto de Valdehornillos
+Q23978579;Puerto de Valdehornos
+Q23978602;Collado de Valdenmedio
+Q23978618;Puerto de Valdeyerno
+Q23978679;Puerto de la Vaquilla
+Q23978881;Puerto del Toledano
+Q23978938;Collado de Torrejón
+Q23978947;Puerto de los Torreros
+Q23978990;Puerto de Tres Mojones
+Q23979037;Puerto Urraco
+Q23979047;Collado de las Vacas
+Q23979048;Collado de las Vacas
+Q23979053;Collado de Valbelladi
+Q23979058;Puerto de Valdecaceo
+Q23979173;Puerto de Santa Cruz
+Q23979243;Puerto de los Santos
+Q23979317;Collado de la Serrana
+Q23979318;Puerto de la Serrana
+Q23979360;Puerto del Solado
+Q23979398;Collado del Subterráneo
+Q23979574;Collado de la Rellena
+Q23979596;Collado de los Rehundideros
+Q23979625;Puerto del Rey
+Q23979693;Puerto de Ríofrío
+Q23979718;Collado de la Riscala
+Q23979729;Collado del Risco Romero
+Q23979757;Puerto de los Robledillos
+Q23979895;Puerto del Rubial
+Q23979913;Collado Ruiz
+Q23980234;Puerto de San Blas
+Q23980253;Puerto de Sancho Caballo
+Q23980322;Puerto de San Juan
+Q23982761;Puerto de Pilas
+Q23982909;Collado de los Pos
+Q23983010;Collado Puerto de Mesas
+Q23983055;Puerto del Quejigal
+Q23983118;El Portillo de Rastrojo
+Q23983128;Puerto del Rayo
+Q23983402;Puerto del Recuero
+Q24829474;Genting Tilan
+Q24910673;Aluzore Gap
+Q25007152;Wild Rose Pass
+Q25025440;Twisted Gun Gap
+Q25509695;Pereval Lyataband
+Q25520411;Tamshush Dovon
+Q25520639;Taxtaqoracha Dovon
+Q25524817;Pereval Chashmardak
+Q26757068;Genting Zanabara
+Q26757177;Genting Suwisawitapa
+Q26759414;Raan Liwan
+Q26759415;Garawat
+Q26759437;Raan Abang Bul
+Q26759438;Raan Malang
+Q26759445;Lembada
+Q26759446;Pa Pirit
+Q26759447;Raan Bul
+Q26759448;Ruan Latung
+Q26759852;Genting Bedo Bedotaka
+Q27691657;Foum el 'Alba
+Q27691669;Foumm el Aloûs
+Q27693511;Eolienne
+Q27696089;Chaukan Pass
+Q27698318;La-mu-ni Shan-k'ou
+Q27699237;Lagwi Hkyet
+Q27699525;Kaban Hkyet
+Q27699594;Kanda Bum Pass
+Q27699652;Kauliang Hkyet
+Q27699661;Kawchi Thara
+Q27699790;Kumjawng Pass
+Q27699981;Htawmshing Pass
+Q27700289;Chipyaw L'ka
+Q27700341;Daru Pass
+Q27700371;Dolam Hkyet
+Q27700415;Fenshuiling Hkyet
+Q27700434;Ka-mu-lang Shan-k'ou
+Q27700457;Gigi Pass
+Q27700579;Hkenitang Hkyet
+Q27700706;Hpimaw Hkyet
+Q27700808;Chhawngku Pass
+Q27700809;Chhitāungku Pass
+Q27701212;Chaukan Pass
+Q27701217;Agang L'ka
+Q27701243;Amansan L'ka
+Q27701266;An Pass
+Q27702316;Hoyligun Davaa
+Q27702319;Hulagash Davaa
+Q27702321;I-lo-ti-chi-yin-ta-fan
+Q27702328;Huy Davaa
+Q27702340;K'ai-erh-ken-ao-pao
+Q27702344;Ih Turgeniy Davaa
+Q27702346;Indertiyn Davaa
+Q27702347;Irmegteyn Davaa
+Q27702351;Ching-feng-ta-fan
+Q27702355;Korumty Davaa
+Q27702426;A-erh-shan-t'u-ta-fan
+Q27702474;Huo-mi-yin-ta-fan
+Q27702658;Arshaanta Davaa
+Q27702666;K'u-erh-mu-t'u-ta-fan
+Q27702700;Bayr Davaa
+Q27702703;Belchir Davaa
+Q27702705;K'u-mu-ta-su-ta-fan
+Q27702707;Bodohon Hötöl Dabaa
+Q27702726;Bumbatïn Davaa
+Q27702755;Dolootoyn Dabaa
+Q27702757;Dötiyn Davaa
+Q27702764;Dürvet Davaa
+Q27702766;Cha-ka-su-t'ing-ta-fan
+Q27702784;Egiyn Davaa
+Q27702789;Elstiyn Davaa
+Q27702797;Gantsïn Davaa
+Q27702798;Chia-le-ko-tzu-a-ka-hsi-ta-fan
+Q27702811;Hag Davaa
+Q27702813;Haldzan Davaa
+Q27702838;Hai-erh-t'e-ta-fan
+Q27702856;Hirgantayn Dabaa
+Q27703788;Hüryeeteyn Dabaa
+Q27703789;Husatayn Dabaa
+Q27703791;Hushuutayn Dabaa
+Q27703794;Hutal Davaa
+Q27703800;Hüysete Dabaa
+Q27703827;Irgay Dabaa
+Q27704149;Holchotoyn Dabaa
+Q27704152;Holtin Davaa
+Q27704169;Horlogiin Dabaa
+Q27704170;Horoonii Dabaa
+Q27704318;Duralji Dabaa
+Q27704333;Dzahariin Dabaa
+Q27704343;Dzamtayn Dabaa
+Q27704372;Elbegiin Dabaa
+Q27704380;Enger Hets
+Q27704442;Haalgïn Davaa
+Q27704475;Hamar Dabaa
+Q27704477;Hamariin Dabaa
+Q27704485;Hantay Dabaa
+Q27704583;Daltayn Dabaa
+Q27704607;Dengiyn Davaa
+Q27704611;Doloon Dabaa
+Q27704631;Dulaan Haan Davaa
+Q27704952;Barangiin Dabaa
+Q27704956;Barha Davaa
+Q27704996;Aydasaiin Davaa
+Q27705096;Bichigteyn Hötöl
+Q27705180;Bügseyn Dabaa
+Q27705186;Büheleyn Dabaa
+Q27705230;Buriyn Davaa
+Q27705264;Chirgantayn Dabaa
+Q27705275;Dabaatayn Dabaa
+Q27714573;Achaan Dabaa
+Q27714587;Agituin Davaa
+Q27714696;Arshantuin Davaa
+Q27727802;Hongor Ölöngiyn Davaa
+Q27727817;Haldzan Sogootïn Davaa
+Q27728652;Col Yang Ting
+Q27728661;Kalabera Pass
+Q27729993;Foum Tizegui
+Q27730468;Col de Sraïz
+Q27730471;Col de Suifort
+Q27730474;Khneïg Tabellit
+Q27731050;Foum er Ragg
+Q27731650;Gata Mohamèd
+Q27731736;Gat'a Na'âma
+Q27731738;Khang en Na'âm
+Q27732266;Gat'a Iznaye
+Q27732272;Jalt Atil
+Q27732281;Jeïlîbé
+Q27732310;Foum Jaoûl
+Q27732356;Chegg el Khaïl
+Q27732401;Kow Koluso
+Q27732912;Gat'a Çfeyyât
+Q27732918;Foum Gleïta
+Q27732928;Foum Goussas
+Q27733073;Ibenghâne el Jediâne
+Q27733113;Imourene
+Q27733654;Foum Faram
+Q27734394;Foum el Boueïr
+Q27734522;Foum Chouer
+Q27738058;Foum Arârech
+Q27738327;Foum el Batha
+Q27738334;Foum Batiel
+Q27738574;Amatil
+Q27743381;Gouel Sedou Tabar
+Q27743551;El Megsem el Abiod
+Q27743825;Akharaï
+Q27748548;Foum Djoûk
+Q27748557;Khneîg Ahel Chabboûti
+Q27748562;Foum el Koûz
+Q27748564;Khang Nouadar
+Q27748629;Chegg el Ghaïl
+Q27748669;Foum Teidart
+Q27749190;Khneg Lem'îz
+Q27767172;Fort Lister Gap
+Q27781705;Boca del Potrero
+Q27784660;El Puerto
+Q27784661;El Puerto
+Q27784662;El Puerto del Muerto
+Q27786708;Boca de Potrerillos
+Q27786749;Boquilla de Alvarado
+Q27803823;El Puerto
+Q28455246;Butterfield Pass
+Q29021779;Bipalyeong
+Q29880282;Soldier Pass
+Q29885211;Khalīf al ‘Alam al Aswad
+Q29885213;Naqīl Zubayr
+Q29885214;Naqīl Yislaḩ
+Q29885215;Naqīl al Wazlah
+Q29885216;Khalīf Wa‘layn
+Q29885218;Naqīl ‘Uzayz
+Q29885220;Najd ‘Urfuţ
+Q29885224;Naqīl Turbah
+Q29885228;Najd Thujahāt
+Q29885232;Najd al ‘Anaq
+Q29885235;Najd at Tabāh
+Q29885238;Naqīl Sumārah
+Q29885241;Bāb as Suhaymah
+Q29885244;Naqīl ash Shiqq
+Q29885246;Naqīl Shabah
+Q29885248;Naqīl Şanām
+Q29885249;Najd al Fajarah
+Q29885252;Najd as Safnah
+Q29885256;Najd Sa‘ādah
+Q29885258;Rahwat ar Rib‘ah
+Q29885260;Rahwat Umm Qufl
+Q29885265;Birḩ ar Rahaz
+Q29885266;Khalīf Qutayd
+Q29885273;Khalīf an Na‘am
+Q29885274;Najd Muţārid
+Q29885277;Khalīf Musayfah
+Q29885283;Birḩ Mukhayrah
+Q29885285;Naqīl Mudarraj
+Q29885289;Adhoh di-Mēlhoh
+Q29885292;Najd Ma‘war
+Q29885295;Najd Masraqah
+Q29885296;Najd al Maskhal
+Q29885299;Rahwat Maskabah
+Q29885302;Marşad Pass
+Q29885304;Najd Marqad
+Q29885310;Naqīl Maḩras
+Q29885315;Khalīf al Ma‘alay
+Q29885333;Najd al Jamā‘ī
+Q29885335;Naqīl Ibn Ghaylān
+Q29885343;Naqīl al Ḩumar
+Q29885346;Naqīl Hubayrī
+Q29885349;Khalīf al Ḩishmān
+Q29885352;Khalīf Ḩāyirat ‘Aywah
+Q29885354;Naqīl Hasūs
+Q29885357;Hariat ath Thanīyah
+Q29885358;Najd al Ḩamrā'
+Q29885362;Naqīl Halaqān
+Q29885364;Hajir Pass
+Q29885366;Naqīl Hajīmah
+Q29885367;Najd al Ḩajar
+Q29885369;Naqīl Ḩaddah
+Q29885373;Naqīl al Ghūlah
+Q29885380;Fijere el Gaitani Pass
+Q29885388;Najd Dhuba
+Q29885390;Rahwat ad Daqīqah
+Q29885392;Naqīl Danūbah
+Q29885395;Birḩ aḑ Ḑa‘īf
+Q29885396;Naqīl Busayţ
+Q29885398;Najd al Burāh
+Q29885400;Khalīf al Baqar
+Q29885406;Najd al ‘Athik
+Q29885410;Naqīl Ashja‘
+Q29885413;Naqīl ‘Arḑah
+Q29885422;Al Matnah
+Q29885423;Al Marmāh
+Q29885424;Lafwah
+Q29885430;Naqīl Maslal
+Q29885431;Naqīl Ḩajīyah
+Q29885432;Naqīl Bal Jarādī
+Q29885433;Najd aş Şabarī
+Q29885435;Naqīl aş Şanūn
+Q29885436;Najd Umm Fidnah
+Q29885438;Maluelane
+Q29885439;Naqīl ‘A‘shār
+Q29885441;Naqīl al Maḩwal
+Q29885442;Abwāb al Ḩadīd
+Q29885444;Naqīl Abū Rubāḩ
+Q29885445;Najd Ḑumrān
+Q29885446;Najd ‘Ayrīm
+Q29885448;Najd al Ḩumrānī
+Q29885449;Najd Ḩaql
+Q29885451;Najd Mārah
+Q29885452;Najd al Wuzuf
+Q29885453;Najd Kurbah
+Q29885454;Najd Z̧arīz
+Q29885456;Najd al ‘Armah
+Q29885457;Najd al Ḩurīm
+Q29885459;Najd al Kharābah
+Q29885460;Najd Nuqşān Nīrāb
+Q29885461;Najd A‘waj
+Q29885462;Najd al ‘Unşur Tashir
+Q29885464;Najd al ‘Abd
+Q29885466;Najd Miryah
+Q29885467;Najd al ‘Āmirah
+Q29885468;Najd Shuddād
+Q29885469;Naqīl al Maghārib
+Q29885470;Naqīl al Mush‘ur
+Q29885472;Naqīl ash Shaybah
+Q29885474;Najd Aḩmad
+Q29885475;Najd as Sidd
+Q29885476;Najd Mārikh
+Q29885477;Najd Madar
+Q29885478;Najd al Aslāf
+Q29885481;Naqīl al ‘Uqāb
+Q29885483;Najd ad Dār
+Q29885484;Najd Sāhib
+Q29885485;Najd al Milāḩī
+Q29885486;Naqīl al Maşna‘ah
+Q29885487;Naqīl Bin Ghaylān
+Q29885489;Najd al Jazar
+Q29885491;Naqīl ash Shaym
+Q29885492;Naqīl Ḩajar
+Q29885493;Naqīl al Khalfah
+Q29885494;Naqīl Kharshabī
+Q29885498;Khuraybah Pass
+Q29885500;Najd Bin Mayqār
+Q29885501;Najd al Dalama
+Q29885502;Najd an Nashamah
+Q29885503;Najd al ‘Azab
+Q29885505;Naqīl al Ḩufrah
+Q29885506;Bāb an Nāqah
+Q29885508;Mamar Khulayf al Bakr
+Q29885564;Naqīl aş Şuḩā
+Q29885565;Naqīl Ibūh
+Q29885569;Baḩrah
+Q29885570;An Nuşūb
+Q29885571;Al Khalīf
+Q29885572;Ad Daymah
+Q29885573;Najd al Barū
+Q29885575;Najd as Salf
+Q31285390;Naqīl Sitrān
+Q31285408;Naqīl Sitrān
+Q31285415;Najd as Salf
+Q31467743;Apo East Pass
+Q31473926;Polis Pass
+Q31480274;Pundaquit Pass
+Q31483671;Bangon Pass
+Q31489921;Batangan Pass
+Q31497437;Bessang Pass
+Q31519442;Burias Pass
+Q31519831;Silanguin Pass
+Q31535996;Subic Pass
+Q31540295;Centavo Pass
+Q31557525;Tirad Pass
+Q31562087;Tubalina Pass
+Q31565932;Diamolong Pass
+Q31572770;Vigan Gap
+Q31574068;Eagle Pass
+Q31809209;Igbon Pass
+Q31809210;Mangan Pass
+Q31809211;Naburut Pass
+Q31857414;Aasepasset
+Q31857440;Achmatovskardet
+Q31857764;Angelskardet
+Q31857999;Aucellaskardet
+Q31858237;De Beer se Pas
+Q31858457;Bekkeskardet
+Q31858555;Bergskardet
+Q31858855;Bjørnbrepasset
+Q31858862;Esperanzapoort
+Q31858924;Bjørnskardet
+Q31859040;Bleikskallpasset
+Q31859117;Gamsberg Pass
+Q31859397;Boltpasset
+Q31859546;Braastadskardet
+Q31859655;Goodhouse se Poort
+Q31859695;Graspforte
+Q31859819;Brentskardet
+Q31861307;Djupsalen
+Q31861362;Dolomittpasset
+Q31861386;Kanuspforte
+Q31861566;Drevpasset
+Q31862119;Kaukuruspoort
+Q31862510;Dyrskardet
+Q31862890;Engadinerpasset
+Q31863126;Evapasset
+Q31863634;Flatsalen
+Q31863701;Flowerskardet
+Q31863809;Fonnryggpasset
+Q31863952;Foxpasset
+Q31864072;Fridriksmanskardet
+Q31864337;Gangpasset
+Q31864716;Geologpasset
+Q31865511;Aasvogelkop
+Q31865797;Abel Erasmuspas
+Q31865927;Abra de Castellanos
+Q31865934;Abra de Cotto
+Q31865944;Abra de Francisco Dutra
+Q31865954;Abra de Francisco Veira
+Q31865970;Abra de Perdomo
+Q31865979;Abra de Pereira
+Q31865987;Abra de Urrutia
+Q31865996;Abra del Durazno
+Q31866003;Abra del Padre
+Q31866018;Abra del Zorro
+Q31866397;Adolphus Poort
+Q31866633;Afsaalnek
+Q31867100;Hermansenskardet
+Q31867142;Hestskankfallet
+Q31867246;Akkedisbergpas
+Q31867664;Huginaspisskardet
+Q31867772;Hytteskardet
+Q31868402;Isryggpasset
+Q31868672;Achuk-Dora Pass
+Q31870151;Allemansnek
+Q31870158;Allemansnek
+Q31870304;Agabat Tumabaf
+Q31870645;Amampoort
+Q31870656;Amandeihoogte
+Q31870697;Kleivdalen
+Q31870698;Amandelnek
+Q31871138;Kollerskardet
+Q31871234;Aninauspas
+Q31871460;Kreklingpasset
+Q31871675;Krykjeslukta
+Q31871933;Kvitingpasset
+Q31872199;Artushgor Dovon
+Q31872365;Al Buwaybīyah
+Q31872442;Al Bāzūm
+Q31873014;Lyseskardet
+Q31873256;MacRitchieskardet
+Q31873463;Mariepasset
+Q31873483;Mariskardet
+Q31874525;Al Makhdar
+Q31874563;Paso de las Trincheras
+Q31875114;Nordre Bellsundpasset
+Q31875238;Nordstrypet
+Q31875251;Bailey's Pass
+Q31875257;Bain's Kloof Pass
+Q31875303;Nornepasset
+Q31875354;Noskovskardet
+Q31875369;Al Mundafan
+Q31875372;Nuppasset
+Q31875437;Nürnbergpasset
+Q31875461;Al Mustandah
+Q31875488;Olafsonpasset
+Q31875936;Bakkerspas
+Q31875984;Bakoondshoogte
+Q31876200;Petuniaskardet
+Q31876437;Pretenderskardet
+Q31876481;Prinsepasset
+Q31876502;Prospektpasset
+Q31876676;Al ‘Awjā'
+Q31876787;Al ‘Udaynīyāt
+Q31876925;Al ‘Āh
+Q31876967;Bannerman's Pass
+Q31877205;Richthofenpasset
+Q31877682;Russepasset
+Q31877696;Russfjellpasset
+Q31878404;Sergievskipasset
+Q31878498;Bastardspoort
+Q31878524;Bastersnek
+Q31878533;Bastersnek
+Q31878539;Basterspoort
+Q31878695;Skarddalspasset
+Q31878721;Skarvpasset
+Q31878763;Baviaanspoort
+Q31879178;Bedrogfonteinspoort
+Q31879251;Beerpoort
+Q31879381;Snøklettpasset
+Q31879886;Bergkloof
+Q31880011;Besiespoort
+Q31880088;Beverass Kloof
+Q31880106;Beweraskloof
+Q31880129;Beyersnek
+Q31880150;Bezuidenhoutspas
+Q31880245;Biesiepoort
+Q31880266;Biesiespoort
+Q31880270;Biesiespoort
+Q31880672;Birdak Dovon
+Q31880702;Birkdale Pass
+Q31880818;Bitterwater se Hoogte
+Q31881070;Blinkbergpas
+Q31881187;Blockhouse Gap
+Q31881219;Bloenek
+Q31881283;Bloubanknek
+Q31881521;Blounek
+Q31881524;Blounek
+Q31881527;Blounek
+Q31881758;Bobbejaankloof
+Q31881811;Bobbejaanpoort
+Q31881993;Boesmanskloof
+Q31882044;Boesmansnek
+Q31882056;Boesmanspoort
+Q31882059;Boesmanspoort
+Q31882063;Boesmanspoort
+Q31882066;Boesmanspoort
+Q31882070;Boesmanspoort
+Q31882075;Boesmanspoort
+Q31882216;Bokpoort
+Q31882221;Bokpoort
+Q31882488;Booysenspoort
+Q31882641;Boskloof
+Q31882683;Bosluiskloofpas
+Q31882698;Amut Pass
+Q31882699;Bospoort
+Q31882703;Amya Pass
+Q31882854;Bothaspas
+Q31882938;An Nāşif
+Q31883024;Anane
+Q31883041;Braamhoekpas
+Q31883049;Braamnek
+Q31883084;Brakdam se Hoogte
+Q31883136;Brakkloof
+Q31883199;Brakpoort
+Q31883202;Brakpoort
+Q31883394;Brandon's Pass
+Q31883427;Breedtsnek
+Q31883664;Anjīri Sham
+Q31883728;Brook's Nek
+Q31883774;Brown's Cutting
+Q31883809;Bruinhekspoort
+Q31884222;Buffalo Nek
+Q31885335;Bulhoekpas
+Q31886026;Burgersnek
+Q31886044;Burgerspas
+Q31886051;Burgerspas
+Q31886062;Burke's Pass
+Q31886193;Aqabat Hamādib‘ēdōy
+Q31887797;Argesa Pass
+Q31888050;Caledonpoort
+Q31889010;Canteen Poort
+Q31889694;Cape Point Gap
+Q31890411;As Silf
+Q31890595;Cathkin Mountain Pass
+Q31891083;Cecil Mack's Pass
+Q31892358;Asut Duk Pass
+Q31895281;Aşābi‘ ad Durūb
+Q31895673;Bab Korosko
+Q31895766;Babar Chakha Kandao
+Q31899611;Bakellan
+Q31900219;Loibl Pass
+Q31900930;Medji Dol
+Q31902283;Chakchor Dovon
+Q31902593;Pastirk Sattel
+Q31902698;Charles's Pass
+Q31904576;Chimike Dovon
+Q31905239;Sanntaler Sattel
+Q31905265;Chiponde
+Q31906462;Christmas Pass
+Q31906917;Velika Vrata
+Q31907896;Cloetespas
+Q31908033;Coetzeespoort
+Q31908077;Col D
+Q31908089;Col de Chirongui
+Q31908096;Col de Deo Giang
+Q31908107;Col de Ho Tao
+Q31908114;Col de Kiu Vy Kiu Sin
+Q31908118;Col de Lea
+Q31908123;Col de Loung Phai
+Q31908133;Col de Ro Tuong
+Q31908137;Col de Rury
+Q31908140;Col de Saziley
+Q31908143;Col de Ta Ngao
+Q31908148;Col de Tcha Yin Tchai
+Q31908153;Col de Tchu Chang
+Q31908157;Col des Canons
+Q31908161;Col des Mans
+Q31908174;Col des Partisans
+Q31908178;Col des Vents
+Q31908207;Collins Pass
+Q31908289;Škrbina
+Q31908630;Cradocks Pass
+Q31909167;Ballaadhis Pass
+Q31909668;Damhoekpas
+Q31909811;Danstersnek
+Q31909855;Darter's Poort
+Q31910072;De Jagersnek
+Q31910079;De Kock's Gate
+Q31910085;De Poortjie
+Q31910129;Debeerspas
+Q31910133;Debeerspas
+Q31910148;Debruinspoort
+Q31910212;Delagerspas
+Q31910340;Deo Khiem Quang
+Q31910344;Deo Ma
+Q31910409;Derdepoort
+Q31910448;Devi'ls Window
+Q31910722;Didima
+Q31910744;Die Bloudraai
+Q31910750;Die Bottlenek
+Q31910765;Die Draai se Hoogte
+Q31910799;Die Helfte se Hoogte
+Q31910894;Die Nek
+Q31910898;Die Nek
+Q31910902;Die Nek
+Q31910906;Die Nek
+Q31910915;Die Noute
+Q31910927;Die Ou Voortrekkerpas
+Q31910931;Die Outol
+Q31910969;Die Poort
+Q31910973;Die Poort
+Q31910992;Die Poort se Nek
+Q31911063;Die Venster
+Q31911190;Diepkloof
+Q31911204;Diepnek
+Q31911669;Donkerpoort
+Q31911897;Doringkloof
+Q31911960;Doringpoort
+Q31912050;Draad se Poortjie
+Q31912490;Duismanspoort
+Q31912539;Duiwelsnek
+Q31912557;Dulcies Nek
+Q31912608;Duplessispas
+Q31912642;Dutoitskloofpas
+Q31912765;Dwarskloof
+Q31912995;East Poort
+Q31913148;Eerstepoort
+Q31913302;El Paso de Aribi
+Q31913306;El Paso de Mapirito
+Q31913458;Elandsnek
+Q31913469;Elandspoort
+Q31913482;Elandsrivierpoort
+Q31913760;ENdumeni Pass
+Q31914107;Erekroonspoort
+Q31914174;Eseljagpoort
+Q31915140;Beto Pass
+Q31915326;Bhoru Lak
+Q31915330;Bhut Kachho
+Q31915590;Coll de Ciuret
+Q31915606;Coll dels Llancers
+Q31915915;Bihan Gaha Pass
+Q31915967;Bilawul
+Q31916187;Fincham's Nek
+Q31916271;Flink se Poort
+Q31916394;Foxley's Trek Path
+Q31916424;Franschhoekpas
+Q31916655;Gamghas Nek
+Q31916694;Gandoupas
+Q31916733;Gannapas
+Q31916738;Gannapoort
+Q31916740;Gannapoort
+Q31916931;Geelpoort se Nek
+Q31916945;Geers se Nek
+Q31916987;Gemsbokpoort
+Q31917065;Geyersnek
+Q31917140;Ghwarrienek
+Q31917145;Giant's Castle Pass
+Q31917176;Gifkloof
+Q31917206;Gifnek
+Q31917573;Goodoo Pass
+Q31917881;Grasnek
+Q31917883;Grasnek
+Q31917926;Grasvleipoort
+Q31917932;Gray's Pass
+Q31918025;Gregory's Nek
+Q31918031;Bohol
+Q31918054;Groblerspas
+Q31918083;Groenkloof
+Q31918100;Groenpoort
+Q31918127;Groot Keirivierpas
+Q31918147;Groot-Doringhoekpas
+Q31918475;Grootkloof
+Q31918559;Grootnek
+Q31918604;Grootpoort
+Q31918608;Grootpoort
+Q31918625;Grootrivier Poort
+Q31918628;Grootrivierhoogte
+Q31918635;Grootrivierpoort
+Q31918654;Grootvlei Pas
+Q31918866;Gurungwe Gap
+Q31918897;Gutyeni Pass
+Q31919003;Gysmanshoekpas
+Q31919054;Haasfonteinpoort
+Q31919056;Haashoek
+Q31919066;Haaspoort
+Q31919381;Harpuisnek
+Q31919459;Hartbeesnek
+Q31919550;Haut Donai
+Q31919651;Helshoogte
+Q31919658;Helskloof se Hek
+Q31919666;Hemel-en-Aarde Valley
+Q31919682;Hendriks Pass
+Q31919710;Henningspas
+Q31919717;Herderspoort
+Q31919791;Heuningneshoogte
+Q31919820;Heuningnespoort
+Q31919926;Hlathimba Pass
+Q31919929;Hlatimba Pass
+Q31920146;Holnek
+Q31920310;Hornsnek
+Q31920481;Howison's Poort
+Q31920550;Hugos Nek
+Q31920565;Huisrivierpas
+Q31922977;Indagan Dovon
+Q31923014;Indwepoort
+Q31924381;Boqonrigo
+Q31925544;Israelspoort
+Q31925574;IThonyelana Pass
+Q31927062;Prislop
+Q31927069;Przełęcz pod Beskidem Krzyżowskim
+Q31927071;Prŭsmyk Branisko
+Q31927073;Prŭsmyk Hradiska
+Q31927131;Sedlo Parichvost
+Q31928263;Jagpoort
+Q31928282;Jakkalskuilnek
+Q31928332;Jan Trichardtpas
+Q31928343;Janka Dovon
+Q31928344;Janspoort
+Q31928370;Jaupaya Dovon
+Q31928537;Jones's Poort
+Q31928548;Jonkersnek
+Q31928549;Jonkersnek
+Q31928571;Joubertsnek
+Q31928619;Ka-Masihlenga
+Q31928623;Ka-Ntuba Pass
+Q31928641;Kaapsepoortjie
+Q31928683;Kabougaspoort
+Q31928808;Kaffernek
+Q31929294;Kalkhoogte
+Q31929307;Kalknek
+Q31929326;Kalkpoort
+Q31929386;Col d'Ura-faaa
+Q31929389;Col de Tepuatiafa
+Q31929500;Kamdeboo Poort
+Q31929545;Kamiesbergpas
+Q31929914;Kapteinskloof
+Q31929974;Kareebospoort
+Q31929984;Kareedouwbergpas
+Q31929990;Kareehoek
+Q31930032;Karel se Kloof
+Q31930036;Karelskraalpas
+Q31930068;Karnek
+Q31930093;Karoopoort
+Q31930287;Kastrolnek
+Q31930344;Katbergpas
+Q31930612;Keay's Pass
+Q31930643;Keikamspoort
+Q31930655;Keiskie se Poort
+Q31930725;Kendouspoort
+Q31930908;Kgaphamadi
+Q31931182;Khupes Pass
+Q31931303;Kiewiet se Hoogte
+Q31931454;Kingscote Cutting
+Q31932576;Klein-Jagpoort
+Q31932719;Klein-Perdepoort
+Q31933076;Kleinbosnek
+Q31933096;Kleinfonteinnek
+Q31933262;Klipdaggapoort
+Q31933325;Klipfonteinpoort
+Q31933370;Kliphoogte
+Q31933436;Klipnek
+Q31933508;Klippoort
+Q31933532;Klipsweetkrans
+Q31933553;Klipvleipoort
+Q31933716;Kobe Pass
+Q31933844;Koedoespoort
+Q31933889;Koeisehoogte
+Q31934001;Kogmanskloofpas
+Q31934279;Kommandonek
+Q31934283;Kommandonek
+Q31934356;Komsbergpas
+Q31934568;Konkaspoort
+Q31934718;Kootjiestafe se Hoogte
+Q31934794;Koppie se Nek
+Q31934854;Korbeelhuis
+Q31934945;Kortdraai
+Q31935167;Kouenek
+Q31935184;Kouga Poort
+Q31935369;Krakadouwpas
+Q31935581;Kranspoort
+Q31935693;Krokodilpoort
+Q31935876;Kruippoort
+Q31936291;Kumaxti Dovon
+Q31936648;Kwaaimanspas
+Q31936746;Kwaggashoek
+Q31936757;Kwaggaskolk
+Q31936774;Kwaggasnek
+Q31936778;Kwaggasnek
+Q31937010;Paso de Los Amates
+Q31937016;Paso El Tizate
+Q31937022;Paso Las Iguanas
+Q31937027;Paso San Antonio
+Q31939172;La Porte
+Q31939247;Laastepoort
+Q31941301;Laing's Nek Pass
+Q31941953;Langalibalele Pass
+Q31942074;Langhoogte
+Q31942175;Langkloof
+Q31942177;Langkloof
+Q31942388;Le Mata Pass
+Q31942487;Leeukloof
+Q31942533;Leeunek
+Q31942562;Leeupoort
+Q31942591;Lehana's Pass
+Q31942625;Lekhalo-la-Namahali
+Q31942628;Lekhalo-La-Namahali
+Q31942630;Lekhalong-la-Mafatle
+Q31942678;Lemoenpoort
+Q31942746;Leslie's Pass
+Q31942751;Lessingshoogte
+Q31943457;Lone Palm Pass
+Q31943621;Los Reyes
+Q31943872;Loteni Pass
+Q31945302;Lusi Poort
+Q31946609;Madalapoort
+Q31946797;Maerpoort
+Q31946983;Magatasnek
+Q31947270;Mahlabatshaneng
+Q31947479;Majoematso Pass
+Q31947495;Majubanek
+Q31948969;Mangaung Pass
+Q31949099;Mangwe Pass
+Q31949249;Mannetjiespoort
+Q31950646;Martjie se Nek
+Q31950921;Maselshoogte
+Q31951000;Mashai Pass
+Q31951204;Masjiennek
+Q31951551;Matabula
+Q31951963;Matjiesgoedpoort
+Q31952084;Matorashangu Pass
+Q31953252;Mbinzaan Poort
+Q31953512;McCabe's Nek
+Q31953716;Meidenek
+Q31953721;Meidepoort
+Q31953745;Mekoateng
+Q31954058;Merrys Pass
+Q31954484;Meulvoetpad
+Q31954713;Mhindamukova Pass
+Q31954771;Mhlopekazi Nek
+Q31954841;Michielshoogte
+Q31955397;Mike's Pass
+Q31955859;Mitchell's Pass
+Q31956094;Mlahlangubo Pass
+Q31956289;Mnweni Pass
+Q31956352;Modderasskloof
+Q31956402;Modderpoort
+Q31956446;Modjadjisnek
+Q31956587;Mohlerspas
+Q31956756;Mollshoogte
+Q31956765;Mollsnek
+Q31957434;Moodies Pass
+Q31957541;Moordenaars-poort
+Q31957583;Moordenaarspoort
+Q31957586;Moordenaarspoort
+Q31957588;Moordenaarspoort
+Q31958278;Motpoort
+Q31960217;Mu-nan Kuan
+Q31960842;Mules Nek
+Q31960941;Mullerspas
+Q31961088;Munali Pass
+Q31963296;Mupingi Pass
+Q31963450;Murray's Nek
+Q31965986;Naaspoort
+Q31966002;Nababeeppoort
+Q31967902;Napak-Agkala Pass
+Q31968120;Naroegaspoort
+Q31968156;Narrasnek
+Q31968306;Naudesbergpas
+Q31969228;Nelsbergpas
+Q31969277;Nelspoort
+Q31969336;Nene Pass
+Q31969408;Neuspoort
+Q31969661;Ngaqamadola Pass
+Q31970364;Nguza Pass
+Q31970723;Nicholson's Nek
+Q31970759;Niekerkspas
+Q31970787;Nieuwoudtspas
+Q31971558;Nonesi's Nek
+Q31971722;Noorspoort
+Q31971826;Normandienpas
+Q31972358;Nougaspoort
+Q31972440;Nounek
+Q31972471;Noupoortsnek
+Q31972487;Nous se Poort
+Q31972501;Noustroppas
+Q31973174;Ntoleni Desire
+Q31973593;Nuwekloofpas
+Q31979907;Old Port
+Q31979964;Olieboomspoort
+Q31980100;Olifantskloof
+Q31980133;Olifantsnek
+Q31980146;Olifantspoort
+Q31980200;Oliviershoekpas
+Q31980224;Olof Berghspas
+Q31980688;Oorlogspoort
+Q31980845;Oqravot Dovon
+Q31980900;Oranjefontein se Poort
+Q31981053;Orrie Baragwanath Pass
+Q31981455;Ottaspoort
+Q31981585;Ou Wapadsbergpas
+Q31981648;Oubergspas
+Q31981658;Oubergspas
+Q31981785;Oukloofpas
+Q31981789;Oukloofpoort
+Q31981854;Oupoort
+Q31981894;Outeniekwapas
+Q31982235;Paardebergpas
+Q31982483;Pakhuispas
+Q31982490;Pakhuispas
+Q31982564;Palingspoort
+Q31982945;Papkuilnek
+Q31982960;Papstraat
+Q31983853;Paso Acosta
+Q31983858;Paso Alpara
+Q31983866;Paso Antiguo Morenero
+Q31983872;Paso Bautista
+Q31983897;Paso Bucaral
+Q31983902;Paso Bucaral
+Q31983910;Paso Buenero
+Q31983922;Paso Cambural
+Q31983930;Paso Caramacate de San Luis
+Q31983936;Paso Casa de Zinc
+Q31983944;Paso Chamelero
+Q31983954;Paso Chiriguare
+Q31983959;Paso Cocuiza
+Q31983966;Paso Currucay
+Q31983973;Paso de Agua Negra
+Q31983981;Paso de Amoroso
+Q31983989;Paso de Boquerones
+Q31983995;Paso de Buritas
+Q31984008;Paso de Cadenas
+Q31984024;Paso de Chimire
+Q31984028;Paso de Cinaruco
+Q31984035;Paso de Cunaviche
+Q31984042;Paso de Curareque
+Q31984046;Paso de Gallo
+Q31984054;Paso de Guasdua
+Q31984062;Paso de Guasimal
+Q31984070;Paso de La Chivera
+Q31984078;Paso de La Chorrera
+Q31984087;Paso de La Cipriana
+Q31984096;Paso de La Cocuiza
+Q31984104;Paso de la Virgen
+Q31984110;Paso de Las Carretas
+Q31984117;Paso de Las Escudillas
+Q31984125;Paso de Las Monjas
+Q31984137;Paso de Las Yeguas
+Q31984145;Paso de Los Arrecifes
+Q31984152;Paso de Los Hachos
+Q31984176;Paso de Potrerito
+Q31984191;Paso de San Pablo
+Q31984205;Paso de Santa Rita
+Q31984214;Paso de Siquisique
+Q31984222;Paso de Turumba
+Q31984228;Paso del Banco
+Q31984246;Paso del Ganado
+Q31984254;Paso del Pueblito
+Q31984260;Paso del Puerto
+Q31984265;Paso del Zamuro
+Q31984272;Paso E Caballo
+Q31984279;Paso El Bueeo
+Q31984302;Paso El Chingo
+Q31984309;Paso El Fraile
+Q31984316;Paso El Gallo
+Q31984321;Paso El Guamo
+Q31984328;Paso El Guamo
+Q31984337;Paso El Moro
+Q31984344;Paso El Muertico
+Q31984352;Paso El Muerto
+Q31984358;Paso El Roble
+Q31984364;Paso El Tigre
+Q31984372;Paso El Venci
+Q31984379;Paso El Zulia
+Q31984388;Paso Garcerito
+Q31984395;Paso Garzon
+Q31984403;Paso Guanare Viejo
+Q31984416;Paso Hediondo
+Q31984423;Paso Igues
+Q31984428;Paso Jabillo
+Q31984434;Paso Juan Juanico
+Q31984441;Paso La Canoa
+Q31984449;Paso La Chorrera
+Q31984454;Paso La Dormida
+Q31984462;Paso La Fortuna
+Q31984468;Paso La Guate
+Q31984475;Paso La Horqueta
+Q31984482;Paso La India
+Q31984489;Paso La Joaquinera
+Q31984495;Paso La Laja de Curiapo
+Q31984503;Paso La Manga
+Q31984509;Paso La Manga de Arichunta
+Q31984514;Paso La Mulita
+Q31984520;Paso La Palmita
+Q31984532;Paso La Pampa
+Q31984538;Paso La Quinta
+Q31984557;Paso La Ramera
+Q31984562;Paso La Teja
+Q31984567;Paso La Villa
+Q31984573;Paso Las Cocuizas
+Q31984582;Paso Las Iguanas
+Q31984589;Paso Los Aceites
+Q31984596;Paso Los Arrecife
+Q31984602;Paso Manga de Los Indios
+Q31984618;Paso Mayita
+Q31984626;Paso Mazangano
+Q31984633;Paso Morichal del Medio
+Q31984639;Paso Morocho
+Q31984645;Paso Pachequero
+Q31984650;Paso Palma de la Horqueta
+Q31984656;Paso Perro de Agua
+Q31984661;Paso Pica del Medio
+Q31984666;Paso Potrero Viejo
+Q31984674;Paso Ramonero
+Q31984680;Paso Real
+Q31984687;Paso Real de Santa Catalina
+Q31984692;Paso Real de Villacoa
+Q31984710;Paso San Juan
+Q31984741;Paso Tamarindo
+Q31984747;Paso Tira Madrina
+Q31984754;Paso Toro Barroso
+Q31984762;Paso Trapiche
+Q31984778;Paso Tres Bocas
+Q31984786;Pass Cochero
+Q31985011;Patattanek
+Q31985084;Patrysfontein se Nek
+Q31985653;Perdefonteinpoort
+Q31986092;Perdepoort
+Q31986097;Perdepoort
+Q31986165;Pereval Ak-Bel'
+Q31986177;Pereval Alla-Isman
+Q31986183;Pereval Avgan
+Q31986195;Pereval Chapan-Kukdy
+Q31986202;Pereval Charrokh
+Q31986209;Pereval Chash-Akba
+Q31986221;Pereval Dzhinichke
+Q31986234;Pereval Dzhizlan
+Q31986241;Pereval Gava
+Q31986247;Pereval Guralash
+Q31986254;Pereval Kalon
+Q31986260;Pereval Kara-Bel'
+Q31986267;Pereval Karyk-Bel'
+Q31986273;Pereval Khodzha-Vakhalyuk
+Q31986281;Pereval Khoyat
+Q31986287;Pereval Koytash
+Q31986294;Pereval Kugisiya
+Q31986299;Pereval Kumtogel'dy
+Q31986305;Pereval Kyr-Shivar
+Q31986310;Pereval Kyzyl-Ata
+Q31986320;Pereval Maykata
+Q31986325;Pereval Nuytash
+Q31986332;Pereval Orda
+Q31986340;Pereval Qoramozor
+Q31986344;Pereval Saksankiya
+Q31986353;Pereval San-Tuba
+Q31986359;Pereval Saurbel'
+Q31986364;Pereval Shakhan
+Q31986369;Pereval Shaugaz
+Q31986377;Pereval Shur-Bel'
+Q31986383;Pereval Shur-Bel'
+Q31986391;Pereval Tashagukbel'
+Q31986399;Pereval Tikanli
+Q31986405;Pereval Ukhumskiy
+Q31986415;Pereval Ulaynar
+Q31986470;Perskedraai
+Q31986695;Eichsfelder Tor
+Q31986941;Phantom Pass
+Q31995698;Piekenierskloofpas
+Q31995713;Piekniekskloof
+Q31995753;Pienaarspoort
+Q31995760;Pienaarspoort
+Q31995841;Pieter se Poort
+Q31996086;Pispoort
+Q31996103;Pitsaneng Pass
+Q31996251;Planknek
+Q31997140;Plesierskloof
+Q31997204;Poeiernek
+Q31999111;Pondo Pass
+Q31999326;Portachuelo de Vigirima
+Q31999330;Portachuelo El Macho
+Q31999334;Portachuelo Muchurapo
+Q31999364;Posnek
+Q31999368;Pospoort
+Q31999661;Prieskapoort
+Q31999682;Prince Alfred's Pass
+Q31999765;Prinseshoogte
+Q31999771;Prinspoort
+Q31999792;Process Nek
+Q31999826;Providential Pass
+Q31999846;Pruimpoort
+Q31999871;Puerta Buena Vista
+Q31999872;Puerta de Hercules
+Q31999873;Puerta Mapurite
+Q32002913;Pypmaker se Poort
+Q32003672;Qacha's Nek
+Q32003754;Qamata Poort
+Q32004191;Qizilgaza Dovon
+Q32004197;Qizilsoy Dovon
+Q32004306;Qoraqarga Dovoni
+Q32004355;Qotoshe Nek
+Q32005774;Rabeskloof
+Q32006033;Ramatšeliso's Nek
+Q32006253;Rasfonteinpoort
+Q32006433;Ratelpoort
+Q32006605;Rebels' Kloof
+Q32006975;Remhoogte
+Q32007008;Remhoogtepas
+Q32007014;Remkloof
+Q32007022;Renbaan
+Q32007195;Renosterpoort
+Q32007200;Renosterpoort
+Q32007276;Retiefsnek
+Q32007904;Rietpoort
+Q32007909;Rietpoort
+Q32008201;Robinson Pass
+Q32008268;Rockeries Pass
+Q32008415;Rogers Pass
+Q32008951;Roodezandpas
+Q32009373;Rooibergpas
+Q32009457;Rooihoogte
+Q32009462;Rooihoogte
+Q32009466;Rooihoogte
+Q32009479;Rooihoogtepas
+Q32009871;Rooinek
+Q32009875;Rooinek
+Q32010014;Rooipoort
+Q32010020;Rooipoort
+Q32010023;Rooipoort
+Q32010026;Rooipoort
+Q32010030;Rooipoort
+Q32010034;Rooipoort
+Q32010036;Rooipoortjie
+Q32010129;Rooirantnek
+Q32010222;Rooiwalshoek
+Q32010226;Rooiwalspoort
+Q32010285;Rosesberg Pass
+Q32010739;Rundles Pass
+Q32012765;Saaipoort
+Q32012830;Saartjiesnek
+Q32013177;Sabana Pass
+Q32014511;Saddle Nek
+Q32014537;Safbreeknek
+Q32014767;Sak se Pad
+Q32014885;Saleryfontein se Hoogte
+Q32015311;Sand kraalspoort
+Q32015436;Sandfonteinspoort
+Q32015461;Sandies Glen
+Q32015664;Sandrivierspoort
+Q32015753;Sangatar Dovon
+Q32015807;Sannahspoort
+Q32016041;Sasivordovon Dovon
+Q32016124;Saunders Nek
+Q32016267;Schalk se Hoogte
+Q32016303;Schoemanspoort
+Q32016477;Sebico Pass
+Q32016571;Sederbergpas
+Q32016621;Seekoe Gat
+Q32016627;Seekoeinek
+Q32016698;Sefateng sa Mokgoba
+Q32017089;Sephton's Nek
+Q32017740;Seweweekspoort
+Q32017934;Shamolbeldovon Dovon
+Q32018175;Shaw's Mountain Pass
+Q32018608;Ships Prow Pass
+Q32018959;Shoxok Dovon
+Q32018995;Shui-k”ou Kuan
+Q32019404;Sidubi Poort
+Q32020004;Sikkeltoukloof
+Q32020253;Silkaatsnek
+Q32020859;Sir Lowrys Pass View Site
+Q32021051;Skaapdra-os se Poort
+Q32021061;Skaapkraalpoort
+Q32021090;Skelmplaat
+Q32021091;Skelmpoort
+Q32021117;Skietnek
+Q32021118;Skietnek
+Q32021120;Skietnek
+Q32021130;Skilderasie
+Q32021140;Skilpadhoogte
+Q32021179;Skimpersnek
+Q32021411;Skurfhoogte
+Q32021521;Skurwehoog
+Q32021656;Skurwenek
+Q32021664;Skurwenek
+Q32021755;Slabbertsnek
+Q32021822;Slagtersnek
+Q32021857;Slangberg Rietpoort
+Q32022019;Slotspoort
+Q32022189;Smutspas
+Q32022286;Snyderspoort
+Q32022414;Soetendalspoort
+Q32022745;Sondagsrivierpoort
+Q32023379;Soutpanspoort
+Q32023381;Soutpoort
+Q32023385;Soutpoort
+Q32023388;Soutpoort
+Q32023389;Soutpoort
+Q32023391;Soutpoortjie
+Q32023398;Soutrivierpoort
+Q32023418;Sovuqbuloq Dovon
+Q32023440;Spektakelpas
+Q32023445;Spiders Nek
+Q32023838;Spreeufontein Poort
+Q32024004;Sprinkaannek
+Q32024375;Stel se Nek
+Q32024424;Steps Pass
+Q32024678;Stofkloof
+Q32024760;Stormsrivierpas
+Q32024764;Stormvleipoort
+Q32024781;Strikfontein se Nek
+Q32024835;Strydpoort
+Q32024860;Studer's Pass
+Q32024864;Studer's Pass
+Q32025037;Suigpoort
+Q32025275;Sungubala Pass
+Q32025499;Suurbergpas
+Q32025633;Swaarmoedpas
+Q32025678;Swanepoelspoort
+Q32025682;Swanepoelspoort
+Q32025750;Swartbooiskloof
+Q32025960;Swartmodderfonteinpas
+Q32026006;Swartpoort
+Q32026009;Swartpoort
+Q32026012;Swartpoort
+Q32026013;Swartpoortjie
+Q32026147;Swartwaterspoort
+Q32026285;Systershoog
+Q32026547;Tabase Nek
+Q32027355;Tandjiesnek
+Q32027512;Tarentaalstraat
+Q32027523;Tarka Bothapas
+Q32027537;Tarkapas
+Q32027607;Tavalagi Pass
+Q32027731;Teekloofpas
+Q32027777;Telegraafnek
+Q32027820;Tembu Pass
+Q32028733;Theronsbergpas
+Q32028904;Three Sisters Pass
+Q32033313;Tienfontein se Hoogte
+Q32033851;Tierpoort
+Q32034002;Tintwapas
+Q32034065;Tituspoort
+Q32034100;Tlanyaku Pass
+Q32034252;Tolletjie se Poort
+Q32034492;Toorfonteinpoort
+Q32035276;Tradoupas
+Q32035386;Treknek
+Q32035491;Trompetterspoort
+Q32036116;Tsomo Poort
+Q32036741;Tweedepoort
+Q32036746;Tweedepoort
+Q32037277;Uitkykhoogte
+Q32037297;Uitkykpas
+Q32037337;Uitspanpoort
+Q32037552;Umkomaas Pass
+Q32037748;Uniondale Poort
+Q32038599;Vaalnek
+Q32039032;Van As se Nek
+Q32039046;Van der Waltspoort
+Q32039067;Van Reenenspas
+Q32039081;Van Stadenspas
+Q32039086;Vancollerspas
+Q32039100;Vandam se Kloof
+Q32039107;Vanderstelpas
+Q32039140;Vanrhynspas
+Q32039157;Vantonderspas
+Q32039371;Venterspoort
+Q32039480;Verraaiersnek
+Q32039508;Versveldpas
+Q32039531;Vetloerpoort
+Q32039538;Vetpoort
+Q32039622;Victoria Nek
+Q32039639;Vierlingkoppe
+Q32039662;Viljoenspas
+Q32039775;Visierkerf
+Q32039885;Vlaknek
+Q32039892;Vlaknekpas
+Q32039989;Vlermuispoort
+Q32039993;Vliegepoort
+Q32040003;Vloekpoort
+Q32040007;Vloekpoort
+Q32040148;Volstruisnek
+Q32040149;Volstruisnek
+Q32040153;Volstruisnek
+Q32040185;Volstruispoort
+Q32040230;Voortrekkerweg
+Q32040345;Vrothoutskloof
+Q32040350;Vrouenshoek
+Q32040381;Vryman se Nek
+Q32040848;Waainek
+Q32040854;Waaipoort
+Q32041001;Wakkerstroomnek
+Q32041195;Wapadskloof
+Q32041201;Wapadsnek
+Q32041212;Wapadspoort
+Q32041273;Wasbankpas
+Q32041620;Watervalsrivierpas
+Q32041755;Wepenersnek
+Q32042129;Wiegnaarspoort
+Q32042142;Wienandsnek
+Q32042185;Wildebeestepoortjie
+Q32042211;Wildehondenek
+Q32042245;Wildeperdehoek se Pas
+Q32042282;Wilgeboomnek
+Q32042335;Wilkop
+Q32042349;Willem Manelspoort
+Q32042415;Windheuwelpoort
+Q32042432;Windhoek se Poort
+Q32042465;Windnek
+Q32042473;Windpoort
+Q32042479;Windpoort
+Q32042498;Windwaai se Nek
+Q32042582;Wintersnek
+Q32042597;Wipoort
+Q32042758;Withoogte
+Q32042762;Withoogte
+Q32042765;Withoogte
+Q32042919;Witkransnek
+Q32042923;Witkranspoort
+Q32042931;Witnek
+Q32042937;Witnek
+Q32042940;Witnekke
+Q32042944;Witnekpas
+Q32043016;Witpoort
+Q32043147;Witwaterspoort
+Q32043174;Witzenbergpas
+Q32043354;Wolfshall Pass
+Q32043386;Wolwe Kloof
+Q32043422;Wolwefonteinspoort
+Q32043424;Wolwegate
+Q32043694;Wyehoek
+Q32043698;Wyenek
+Q32043700;Wyenek
+Q32043701;Wyenek
+Q32043704;Wyepoort
+Q32058668;Zackuilsnek
+Q32058710;Zaxana Dovoni
+Q32058725;Zeebraspoort
+Q32059138;Hochalp-Scharte
+Q32059205;Hochgschirr
+Q32114146;Abbey Pass
+Q32114503;Acheron Saddle
+Q32114657;Ada Pass
+Q32114691;Al Marmá
+Q32114721;Adams Col
+Q32114900;Adelaide Saddle
+Q32115039;Afton Saddle
+Q32115450;Ahuriri Pass
+Q32115783;Akatarawa Saddle
+Q32115971;Alabaster Pass
+Q32116049;Albert Burn Saddle
+Q32116283;Buwayb al Ghazwān
+Q32116682;Alma Col
+Q32116717;Alma Saddle
+Q32116905;Amber Col
+Q32116928;Ambrose Saddle
+Q32117042;Amuri Pass
+Q32117758;Fajj ar Ramīdī
+Q32117780;Angel Col
+Q32117998;Anne Saddle
+Q32118194;Antimony Saddle
+Q32118526;Aorere Saddle
+Q32118741;Apiti Saddle
+Q32118751;Apiti Saddle
+Q32119451;Arawata Saddle
+Q32119540;Arawhata Saddle
+Q32119668;Arcade Saddle
+Q32120130;Armadillo Saddle
+Q32120257;Armstrong Saddle
+Q32121112;Ashley Saddle
+Q32121293;Athene Col
+Q32121894;Fazr Dughayyimah
+Q32121904;Fazr Umm Raqabah
+Q32121913;Fazr ‘Imir
+Q32121923;Fazr ‘Urayq ad Duḩūl
+Q32121925;Avoca Col
+Q32122069;Avon Saddle
+Q32123236;Awaroa Saddle
+Q32124481;Baker Saddle
+Q32124576;Balaclava Saddle
+Q32124789;Ball Pass
+Q32124955;Balmacaan Saddle
+Q32125025;Bandolero Col
+Q32125326;Barefell Pass
+Q32125738;Barron Saddle
+Q32125768;Barrow Col
+Q32126153;Baton Saddle
+Q32126166;Baton Saddle
+Q32126271;Battleaxe Col
+Q32126874;Beau Saddle
+Q32127203;Beehive Saddle
+Q32127309;Begley Saddle
+Q32127613;Bells Saddle
+Q32128144;Beresford Pass
+Q32128188;Bernard Col
+Q32128479;Bevan Col
+Q32128727;Big Ben Saddle
+Q32129600;Big Pass
+Q32129912;Big Sand Pass
+Q32130080;Bijleveld Col
+Q32130187;Billiken Pass
+Q32130380;Billy Saddle
+Q32130426;Binser Saddle
+Q32130843;Birley Pass
+Q32131350;Kara Pass
+Q32133131;Blairich Pass
+Q32133615;Blind Saddle
+Q32134401;Blue Mountain Pass
+Q32135229;Khanqat ar Rimāḩī
+Q32135460;Boggy Saddle
+Q32136563;Boulder Col
+Q32138131;Bowen Col
+Q32138660;Boys Col
+Q32138711;Brabazon Saddle
+Q32139522;Mausafa Pass
+Q32140747;Bridges Saddle
+Q32140930;Bristol Pass
+Q32141032;Broad Passage
+Q32141229;Brodrick Pass
+Q32141929;Brown Saddle
+Q32142079;Browning Pass/Noti Raureka
+Q32142141;Brownings Pass
+Q32142531;Bruce Saddle
+Q32142618;Najd al Khiraq
+Q32142638;Najd al Qarfī
+Q32142658;Najd al ‘Aqabah
+Q32142677;Najd ash Shiqq
+Q32142679;Brunner Col
+Q32144046;Nukhayl Pass
+Q32144066;Bullock Bow Saddle
+Q32145573;Burnt Saddle
+Q32146581;Bushy Saddle
+Q32146706;Butcher Saddle
+Q32147035;Butler Saddle
+Q32147103;Butlers Saddle
+Q32148182;Calf Saddle
+Q32148313;Callery Saddle
+Q32148603;Cameron Col
+Q32149258;Qaţ‘ al Bidūn
+Q32149274;Qaţ‘at Ways
+Q32149288;Qaţ‘at Ḩuzayyib
+Q32149822;Camp Saddle
+Q32150304;Campbell Pass
+Q32150514;Campbells Saddle
+Q32153467;Carters Saddle
+Q32154067;Cascade Saddle
+Q32154215;Casey Saddle
+Q32154512;Cass Saddle
+Q32154526;Cass Saddle
+Q32154541;Cassandra Col
+Q32155527;Catsears Saddle
+Q32155556;Catseye Saddle
+Q32156594;Cedar Creek Saddle
+Q32156992;Centre Pass
+Q32157937;Charity Col
+Q32158068;Charlies Saddle
+Q32158337;Rī‘ al Fūhah
+Q32158345;Chasm Pass
+Q32158356;Rī‘ al Ghuzwān
+Q32158390;Rī‘ as Samin
+Q32158426;Rī‘ ash Sharārī
+Q32158455;Rī‘ ath Thumāmah
+Q32158471;Rī‘ az Zabnah
+Q32158485;Rī‘ Salāmah
+Q32158502;Rī‘ Umm Ruqaybah
+Q32158517;Rī‘ Umm ‘Ādhir
+Q32158533;Rī‘ ‘Uqlat Ţarfā'
+Q32158647;Chaytors Saddle
+Q32159595;Chloe Col
+Q32159668;Chowbok Col
+Q32159890;Christopher Col
+Q32160194;Cinerama Col
+Q32160807;Clarke Pass
+Q32160823;Clarke Pass
+Q32160932;Clarke Saddle
+Q32160985;Clarkes Pass
+Q32161047;Classen Saddle
+Q32161635;Clent Hills Saddle
+Q32161805;Climax Col
+Q32161850;Climbers Col
+Q32161911;Shadīdah Pass
+Q32162195;Sha‘ār Pass
+Q32163283;Coal Pit Saddle
+Q32164312;Coleridge Pass
+Q32164787;Collins Saddle
+Q32165533;Cone Saddle
+Q32166231;Cook Saddle
+Q32167050;Coppermine Saddle
+Q32168104;Cow Block Saddle
+Q32168214;Cow Saddle
+Q32168229;Cow Saddle
+Q32168243;Cow Saddle
+Q32168642;Cox Saddle
+Q32169221;Crampon Pass
+Q32170449;Crossbow Saddle
+Q32171054;Cuckoo Saddle
+Q32171852;Cuttance Col
+Q32172859;Dandys Saddle
+Q32173144;Danseys Pass
+Q32173490;Darkwater Saddle
+Q32173572;Darran Pass
+Q32173887;Dashwood Pass
+Q32174019;David Saddle
+Q32175689;Col de Bân Quang
+Q32175715;Col de Hò Ho
+Q32175766;Col des Mans
+Q32178005;Dennistoun Pass
+Q32178268;Desperation Pass
+Q32178908;Devilskin Saddle
+Q32179333;Dickson Pass
+Q32180513;Disappointment Saddle
+Q32180689;Dismal Saddle
+Q32180844;Divers Col
+Q32182425;Dome Pass
+Q32182741;Donegal Saddle
+Q32183111;Doolans Saddle
+Q32183258;Dore Pass
+Q32184416;Douglas Pass
+Q32184444;Douglas Saddle
+Q32184463;Douglas Saddle
+Q32184602;Dover Pass
+Q32184865;Downs Saddle
+Q32187221;Duffers Saddle
+Q32187393;Dummy Col
+Q32187533;Dun Saddle
+Q32188073;Dunn Saddle
+Q32188382;Dunstan Pass
+Q32188945;Dyers Pass
+Q32190576;Easy Col
+Q32190714;Echo Col
+Q32191007;Edith Saddle
+Q32191149;Edwards Pass
+Q32191886;Elcho Pass
+Q32193020;Emily Pass
+Q32193034;Emily Pass
+Q32193381;Endeavour Col
+Q32193420;Engineer Col
+Q32193791;Erewhon Col
+Q32194024;Escape Col
+Q32194240;Esk Saddle
+Q32194456;Ethne Saddle
+Q32194792;Evans Pass
+Q32194807;Evans Pass
+Q32195153;Excellent Saddle
+Q32195699;Faith Col
+Q32196004;False Col
+Q32196149;Fan Col
+Q32196636;Farquharson Saddle
+Q32197418;Fiery Col
+Q32198693;Fitzgerald Pass
+Q32198985;Five Mile Saddle
+Q32199272;Flanagan Pass
+Q32200291;Flora Saddle
+Q32200793;Fohn Saddle
+Q32200950;Fools Col
+Q32201348;Forgotten River Col
+Q32201842;Four Brothers Pass
+Q32202158;Fowlers Pass
+Q32202171;Fowlers Pass
+Q32202447;Foy Pass
+Q32202845;Fraser Col
+Q32203551;Frenchay Col
+Q32203802;Frew Saddle
+Q32204320;Full Moon Saddle
+Q32204386;Furket Pass
+Q32204501;Fyfe Pass
+Q32205345;Gargarus Saddle
+Q32205820;Gebbies Pass
+Q32206033;Gentle Annie Saddle
+Q32206045;Gentle Annie Saddle
+Q32206210;George Saddle
+Q32206491;Gertrude Saddle
+Q32206888;Gifford Gap
+Q32207042;Gillespie Pass
+Q32207263;Girdlestone Saddle
+Q32207328;Gizeh Col
+Q32207372;Glacier Col
+Q32207434;Glade Pass
+Q32207446;Gladiator Col
+Q32207629;Glen Alpin Pass
+Q32208274;Glenrae Saddle
+Q32208810;Goat Pass
+Q32208939;Godley Pass
+Q32209505;Goldney Saddle
+Q32210819;Governor Col
+Q32210867;Governors Pass
+Q32211246;Graham Saddle
+Q32212006;Grave Col
+Q32212072;Grave-Talbot Pass
+Q32212559;Green Gate Saddle
+Q32212828;Green Saddle
+Q32212837;Green Saddle
+Q32212935;Greenlaw Col
+Q32213075;Greenstone Saddle
+Q32213238;Grey Pass
+Q32213472;Griffiths Saddle
+Q32213593;Groove Col
+Q32214044;Gunn Pass
+Q32214212;Haast Pass/Tioripatea
+Q32214693;Hakataramea Pass
+Q32214784;Halcombe Col
+Q32214878;Half Moon Saddle
+Q32215012;Halfway Saddle
+Q32215031;Hall Col
+Q32215287;Hambone Saddle
+Q32215463;Hamilton Saddle
+Q32216206;Happy Valley Saddle
+Q32216507;Hardies Gut
+Q32216649;Harker Col
+Q32216707;Harman Pass
+Q32216874;Harpers Pass
+Q32216883;Harpers Saddle
+Q32217038;Harrison Saddle
+Q32217566;Haumaru Saddle
+Q32218371;Havelock Col
+Q32218861;Haycock Saddle
+Q32219301;Hector Col
+Q32219483;Helen Col
+Q32219571;Hells Gate
+Q32219828;Henry Pass
+Q32219859;Henry Saddle
+Q32219953;Ţirāq al Ḩadaq
+Q32219962;Ţirāq Mishlaḩ
+Q32220634;Hidden Col
+Q32220817;High Peak Saddle
+Q32220887;Highland Saddle
+Q32220897;Highland Saddle
+Q32221344;Hill Saddle
+Q32222560;Hokitika Saddle
+Q32223205;Homer Saddle
+Q32223216;Homers Saddle
+Q32223490;Ḩaysīyah
+Q32223532;Hoodoo Saddle
+Q32223772;Hope Col
+Q32223797;Hope Pass
+Q32223866;Hope Saddle
+Q32224262;‘Aqabat al Khurayţah
+Q32224271;‘Aqabat al Mishār
+Q32224278;‘Aqabat al ‘Alb
+Q32224287;‘Aqabat ash Sha‘ār
+Q32224295;‘Aqabat Miftāḩ al Khashabah
+Q32224304;‘Aqabat Sharāghib
+Q32224310;Phú Sơn
+Q32224314;‘Aqabat Shawḩaţah
+Q32224720;Hossack Saddle
+Q32224847;Hough Saddle
+Q32226278;Hunt Saddle
+Q32226352;Hunter Pass
+Q32226487;Hura Saddle
+Q32226597;Hurricane Col
+Q32227271;Ian Col
+Q32227298;Iceland Col
+Q32227398;Ignimbrite Saddle
+Q32227792;Inkerman Saddle
+Q32227839;Intervention Saddle
+Q32227899;Invitation Col
+Q32227904;Inwood Saddle
+Q32227940;Irene Pass
+Q32228344;Island Pass
+Q32228381;Island Saddle
+Q32228484;Isolated Saddle
+Q32228767;Jacks Pass
+Q32228787;Jacks Saddle
+Q32229018;Jacqueline Col
+Q32229035;Jagged Col
+Q32229083;Jamestown Saddle
+Q32229124;Jamiesons Saddle
+Q32229161;Jaquiery Pass
+Q32229558;Joes Saddle
+Q32229830;Jollie Saddle
+Q32229859;Jollies Pass
+Q32229958;Jones Saddle
+Q32229982;Bäitjandurre
+Q32230019;Jordan Saddle
+Q32230813;Kahutea Col
+Q32231971;Kaipo Saddle
+Q32232482;Kaituna Pass
+Q32232603;Kaiuma Saddle
+Q32232894;Kaka Saddle
+Q32233214;Kakapo Saddle
+Q32233217;Ekorrdörren
+Q32234278;Karangarua Saddle
+Q32234880;Katies Col
+Q32235819;Kawhaka Pass
+Q32235935;Kea Pass
+Q32235990;Kehua Pass
+Q32236072;Kelly Saddle
+Q32236188;Kenepuru Saddle
+Q32236352;Kent Passage
+Q32236636;Khyber Pass
+Q32236642;Khyber Pass
+Q32237832;Kiwi Saddle
+Q32237840;Kiwi Saddle
+Q32237848;Kiwi Saddle
+Q32237857;Kiwi Saddle
+Q32238272;Koeti Pass
+Q32241243;Kowhai Saddle
+Q32242437;Lagoon Saddle
+Q32243090;Lambert Col
+Q32243123;Lambing Saddle
+Q32243561;Larry Saddle
+Q32243648;Lathrop Saddle
+Q32243838;Lawrence Col
+Q32243875;Lawrence Saddle
+Q32244224;Leatherwood Saddle
+Q32244505;Lees Pass
+Q32244792;Lendenfeld Saddle
+Q32244817;Lennox Pass
+Q32244882;Leslie Pass
+Q32245542;Limestone Saddle
+Q32246474;Little Homer Saddle
+Q32246907;Little Pass
+Q32247224;Little Wanganui Saddle
+Q32248161;Long Hill Saddle
+Q32249158;Lower Otoko Pass
+Q32249166;Lower Studholme Pass
+Q32249264;Lowther Saddle
+Q32249420;Lucy Walker Pass
+Q32249611;Luncheon Col
+Q32249766;Lyndon Pass
+Q32249865;Lyttles Dip
+Q32249924;Mac Saddle
+Q32250038;Macfarlane Pass
+Q32250223;Mackenzie Pass
+Q32250231;Mackenzie Pass
+Q32250240;Mackenzie Pass/Manahuna
+Q32250510;Macpherson Pass
+Q32251826;Mairs Saddle
+Q32254410;Malcolm Col
+Q32254464;Malings Pass
+Q32254503;Malte Brun Pass
+Q32258788;Mangamingi Saddle
+Q32261357;Mangapapa Saddle
+Q32263924;Mangatainoka Saddle
+Q32265252;Mangatoa Saddle
+Q32268772;Maori Point Saddle
+Q32268790;Maori Saddle
+Q32268799;Maori Saddle
+Q32269738;Marcel Col
+Q32270520;Marshall Pass
+Q32270668;Martyr Saddle
+Q32270791;Maruia Saddle
+Q32270974;Mary Maruia Saddle
+Q32272831;Mataura Saddle
+Q32273320;Mathias Pass
+Q32273710;Matukituki Saddle
+Q32273775;Maud Pass
+Q32273937;Sachsenburger Pforte
+Q32274310;Maungatapu Saddle
+Q32274677;Maxwell Pass
+Q32275074;McCoy Col
+Q32275241;McGloin Pass
+Q32275544;McKellar Saddle
+Q32275637;McKenzie Col
+Q32275839;McKinnons Pass
+Q32276196;McPhersons Pass
+Q32276223;McQueens Pass
+Q32276490;Medway Saddle
+Q32276548;Meikleburn Saddle
+Q32276697;Menace Gap
+Q32276969;Meta Saddle
+Q32277476;Middle Saddle
+Q32278584;Minchin Pass
+Q32279078;Mistake Col
+Q32279177;Mistaken Saddle
+Q32279461;Moa Saddle
+Q32279777;Mockery Col
+Q32281190;Mole Saddle
+Q32281493;Moncrieff Col
+Q32281834;Montys Saddle
+Q32281868;Monument Saddle
+Q32282024;Moonlight Saddle
+Q32282032;Moonlight Saddle
+Q32282072;Moorcock Saddle
+Q32282360;Moria Gate
+Q32282817;Moss Pass
+Q32282850;Mosses Dip
+Q32283290;Schellenbergsattel
+Q32284529;Lunndörren
+Q32285744;Mouats Saddle
+Q32292072;Mueller Pass
+Q32292080;Mueller Pass
+Q32292376;Mungo Pass
+Q32292400;Mungo Saddle
+Q32292907;Murphys Saddle
+Q32293043;Murray Saddle
+Q32293122;Murrells Pass
+Q32293279;Musterers Col
+Q32293471;Mystery Col
+Q32293669;Nancy-Tass Saddle
+Q32293883;Narrow Passage
+Q32294290;Needles Eye
+Q32294346;Neill Saddle
+Q32294775;Neudorf Saddle
+Q32295028;New Year Pass
+Q32295060;Newland Pass
+Q32295152;Newton Pass
+Q32295198;Newton Saddle
+Q32296451;Ngapunatoru Pass
+Q32298431;Nicholas Saddle
+Q32300176;North Col
+Q32300770;North Saddle
+Q32300959;Northcroft Saddle
+Q32301362;Nydia Saddle
+Q32301443;O'Leary Pass
+Q32301451;O'Leary Pass
+Q32302444;Ohaoko Saddle
+Q32303654;Oho Saddle
+Q32304027;Oilskin Pass
+Q32305392;Okoha Saddle
+Q32305783;Okuku Pass
+Q32305834;Okuku Saddle
+Q32307018;Omarama Saddle
+Q32307536;Omoana Saddle
+Q32307594;Omoeroa Saddle
+Q32307936;One Tree Saddle
+Q32307942;One Tree Saddle
+Q32308717;Oonah Saddle
+Q32308756;Opaheru Saddle
+Q32356104;Abra de Munúa
+Q32360701;Andilabé
+Q32379636;Caño Las Veguitas
+Q32401336;Col Babonneau
+Q32401346;Col d'Ongojou
+Q32401407;Col de Mui Trau
+Q32409519;Droëvoetspoort
+Q32410315;Borsumer Paß
+Q32463144;KwaHlathikhulu
+Q32505815;Paso Caicareño
+Q32505824;Paso de Burón
+Q32505828;Paso de Caño Seco
+Q32505834;Paso de La Cañonera
+Q32505841;Paso de Las Piñitas
+Q32505846;Paso de Peña
+Q32505850;Paso de Santa Bárbara
+Q32505861;Paso El Cardón
+Q32505863;Paso El Chigüire
+Q32505873;Paso Güere
+Q32505886;Paso La Palmita
+Q32505895;Paso María Josefa
+Q32505906;Paso San Andrés
+Q32505908;Paso San José
+Q32505910;Paso San Román
+Q32505912;Paso Santa Lucía
+Q32505914;Paso Santa María
+Q32505916;Paso Santa Teresa
+Q32505918;Paso Santa Teresa
+Q32506159;Pereval Aktau
+Q32543768;Spieëlkraalpoort
+Q32561373;Voëlrivierspoort
+Q32561405;Voëlvlei se Poort
+Q32606938;Đèo Aihao
+Q32606957;Đèo Ban Bo
+Q32606967;Đèo Barthélemy
+Q32606977;Đèo Bu Gai
+Q32606987;Đèo Bình Thảo
+Q32606997;Đèo Bình Đê
+Q32607007;Đèo Búp Chuối
+Q32607016;Đèo Canh Khuyết
+Q32607026;Đèo Canh Sân
+Q32607035;Đèo Cao Bắc
+Q32607046;Đèo Cao Pha
+Q32607055;Đèo Chiềng Pấc
+Q32607065;Đèo Chiềng Đông
+Q32607075;Đèo Chẹn
+Q32607084;Đèo Cuc Kich
+Q32607094;Đèo Cà
+Q32607104;Đèo Cánh Căng
+Q32607113;Đèo Cáp Na
+Q32607122;Đèo Cò Chạy
+Q32607131;Đèo Cướm
+Q32607150;Đèo Cổng Trời
+Q32607159;Đèo Da Troun
+Q32607168;Đèo Dên
+Q32607178;Đèo Dệt
+Q32607189;Đèo Giang Giang Sơn
+Q32607199;Đèo Giang Ma
+Q32607208;Đèo Giap Gi
+Q32607221;Đèo Haloua
+Q32607230;Đèo Han
+Q32607239;Đèo Hang Pa
+Q32607248;Đèo Huổi Chan
+Q32607257;Đèo Hà My
+Q32607267;Đèo Hờ Kung Mừng
+Q32607277;Đèo Keo Gàn
+Q32607286;Đèo Keo Hin
+Q32607296;Đèo Keo Lóm
+Q32607305;Đèo Keo Ngoa
+Q32607315;Đèo Khao Giàng
+Q32607324;Đèo Khao La
+Q32607333;Đèo Khau Cọ
+Q32607417;Đèo Khau Kang
+Q32607470;Đèo Khau Kheo
+Q32607479;Đèo Khau Phụ
+Q32607488;Đèo Khách
+Q32607498;Đèo Khê Đao
+Q32607507;Đèo Khăng Chu Văn
+Q32607516;Đèo Kéo Pia
+Q32607525;Đèo Kéo Pứt
+Q32607534;Đèo Kéo Đẩy
+Q32607543;Đèo La Ken
+Q32607552;Đèo Loukhel
+Q32607560;Đèo Lân
+Q32607569;Đèo Lân Khinh
+Q32607578;Đèo Lân Phi
+Q32607587;Đèo Lân Rượi
+Q32607596;Đèo Lũng Chiều
+Q32607605;Đèo Lũng Cất
+Q32607623;Đèo Lũng Điếc
+Q32607632;Đèo Lắk
+Q32607641;Đèo Ma Phúc
+Q32607650;Đèo Ma Thi Hồ
+Q32607659;Đèo Mo
+Q32607668;Đèo Na Khâu
+Q32607689;Đèo Nghĩa Đô
+Q32607712;Đèo Nhọt
+Q32607724;Đèo Nuages
+Q32607733;Đèo Nàng Tiên
+Q32607742;Đèo Nậm Du
+Q32607751;Đèo Pa Sa
+Q32607760;Đèo Partisans
+Q32607778;Đèo Phu Sam Kap
+Q32607787;Đèo Phương Hoàng
+Q32607796;Đèo Phượng Hoàng
+Q32607805;Đèo Phủ Cũ
+Q32607824;Đèo Pò Trài
+Q32607833;Đèo Reng Nghiêu
+Q32607844;Đèo So
+Q32607854;Đèo Tam Canh
+Q32607863;Đèo Tay Chang
+Q32607873;Đèo Tcheou
+Q32607882;Đèo Tinh
+Q32607899;Đèo Tăng Quái
+Q32607908;Đèo Vang Rai
+Q32607917;Đèo Xa Không
+Q32607926;Đèo Xá Tổng
+Q32607936;Đèo Yankar
+Q32607946;Đèo Đại La
+Q32607954;Đèo Ải
+Q32627154;Löcherbergwasen
+Q32661611;Mädelejoch
+Q32663376;Mühleloch
+Q32749675;Sturmannsloch
+Q32750926;Teufelsloch
+Q32750928;Teufelstein
+Q33163854;Agnon, Bocchetta di
+Q33163865;Albano, Bocchetta di
+Q33163879;Altes Weisstor
+Q33163892;Alto, Passo
+Q33163904;Am Tor
+Q33163915;Amiante, Col d'
+Q33163928;Andolla, Passo d'
+Q33163942;Angroniettes, Col des
+Q33163955;Annibal, Col d'
+Q33163966;Antabia, Passo d'
+Q33163980;Antholzerscharte
+Q33164005;Anzana, Col d'
+Q33164016;Aouille Tseuque, Col de l'
+Q33164029;Arasè, Passo dell'
+Q33164051;Arcu Genna Bogai
+Q33164063;Arcu Gennargentu
+Q33164076;Arena, Bocchetta d'
+Q33164088;Argient, Fuorcla da l'
+Q33164100;Arsa, Pass d'
+Q33164115;Avino, Passo d'
+Q33164128;Ayace, Col d'
+Q33164140;Ban Darray, Col du
+Q33164152;Barna, Pass de
+Q33164165;Bassa della Cavallina
+Q33164176;Bellavista, Fuorcla
+Q33164189;Bles, Pass de la
+Q33164200;Blinnenjoch
+Q33164212;Bocca della Selva
+Q33164223;Bocca di Campei
+Q33164236;Bocca di Lorina
+Q33164248;Bocca di Piazza
+Q33164259;Bocca di Saval
+Q33164271;Bocca Serriola
+Q33164295;Bocchetta dei Due Denti
+Q33164306;Bocchetto Balme delle Basse
+Q33164320;Bochtepass
+Q33164333;Bondo, Passo di
+Q33164344;Bonello, Passo
+Q33164357;Bortellicke
+Q33164368;Bouquetins, Col des
+Q33164385;Braga, Bocchetta di
+Q33164397;Braghec, Bocchetta di
+Q33164406;Breithorn, Finestra del
+Q33164414;Breithornpass
+Q33164423;Breuiljoch
+Q33164432;Brumea, Bocchetta di
+Q33164440;Butzenpass
+Q33164450;By, Col de
+Q33164463;Bättelmattpass
+Q33164475;Büsin, Passo del
+Q33164486;Camedo, Bocchetta di
+Q33164498;Camposecco, Passo di
+Q33164510;Cancano, Bocchetta
+Q33164522;Cancian, Pass da
+Q33164534;Canfinal, Pass da
+Q33164545;Cantonascia, Bocchetta da
+Q33164558;Capucin, Col du
+Q33164569;Carnera, Passo
+Q33164582;Castello, Colle del
+Q33164593;Caurit, Bocchetta di
+Q33164604;Cavegna, Passo della
+Q33164617;Cazzòla, Passo
+Q33164628;Chaltwasserpass
+Q33164640;Chamois, Col des
+Q33164653;Chapütsch, Fuorcla dal
+Q33164665;Chardoney, Col du
+Q33164677;Chaschauna Pass
+Q33164690;Chriegalppass
+Q33164704;Cielo Largo, Bocchetta
+Q33164716;Cingino, Passo di
+Q33164728;Col Citrin
+Q33164740;Col de Bionnassay
+Q33164751;Col de Gimont
+Q33164764;Col de Guercia
+Q33164776;Col de la Mare
+Q33164789;Col Serena
+Q33164801;Colla di Casaglia
+Q33164812;Colla di Langan
+Q33164824;Colle Camino
+Q33164835;Colle Carisey
+Q33164847;Colle Chaparelle
+Q33164858;Colle Chardon
+Q33164871;Colle d'Ascione
+Q33164918;Colle del Lupo
+Q33164941;Colle della Colma
+Q33164954;Colle della Lace
+Q33164991;Colle della Vecchia
+Q33165002;Colle di Balisio
+Q33165014;Colle di Gubbio
+Q33165026;Colle di Rionda
+Q33165037;Colle di Xomo
+Q33165050;Colle Gragliasca
+Q33165073;Colle San Martino
+Q33165097;Colle Spaccato
+Q33165109;Collon, Col
+Q33165121;Colma di Sormano
+Q33165131;Contrabbandiere, Passo del
+Q33165144;Corno, Passo del
+Q33165157;Costainas, Fuorcla
+Q33165167;Crast'Agüzza, Fuorcla
+Q33165179;Croce della Serra
+Q33165192;Crotto, Passo
+Q33165202;Cruschetta
+Q33165213;Crête Sèche, Col de
+Q33165229;Dermone, Bocchetta
+Q33165243;Diavel, Fuorcla dal
+Q33165257;Egelsbacherscharte
+Q33165268;Eggerscharte
+Q33165280;Epicoune, Col d'
+Q33165293;Est de Barasson, Col
+Q33165306;Est de Blanchen, Col
+Q33165321;Evêque, Col de l'
+Q33165333;Fadnerjöchl
+Q33165344;Faloria
+Q33165357;Fecoz, Furcela da
+Q33165368;Federia, Fuorcla
+Q33165379;Felikjoch
+Q33165391;Fensterle
+Q33165402;Ferret, Fenêtre de
+Q33165414;Ferro, Passo del
+Q33165426;Ferrè, Sella del
+Q33165438;Fex - Scerscen, Fuorcla
+Q33165452;Fillarjoch
+Q33165466;Filon, Col du
+Q33165477;Fiorèra, Bocchetta di
+Q33165551;Fne, Passo
+Q33165573;Foce delle Radici
+Q33165583;Foce di Radici
+Q33165595;Foce di Scopetone
+Q33165607;Foglia, Bocchetta
+Q33165619;Fojorina, Passo di
+Q33165630;Fora, Bocchetta di
+Q33165643;Forca Campidello
+Q33165653;Forca Canapine
+Q33165665;Forca d'Ancarano
+Q33165678;Forca degli Agnelli
+Q33165690;Forca del Prete
+Q33165702;Forca della Civita
+Q33165714;Forca di Arrone
+Q33165738;Forca Pizzul
+Q33165749;Forca Pradulina
+Q33165763;Forca Rua la Cama
+Q33165775;Forca Sopareit
+Q33165799;Forcella Avalèsc
+Q33165810;Forcella Bassa
+Q33165823;Forcella Bregain
+Q33165836;Forcella Caserata
+Q33165849;Forcella Clautana
+Q33165860;Forcella Conters
+Q33165871;Forcella d'Alleghe
+Q33165884;Forcella d'Ambata
+Q33165896;Forcella del Coro
+Q33165908;Forcella dell'Omo
+Q33165920;Forcella della Fossa
+Q33165933;Forcella di Biéliga
+Q33165945;Forcella di Gallina
+Q33165957;Forcella di Giais
+Q33165970;Forcella di Giau
+Q33165981;Forcella di Lavardet
+Q33165992;Forcella di Liûs
+Q33166004;Forcella di Pala Barzana
+Q33166014;Forcella di Plumbs
+Q33166026;Forcella di Pregoiane
+Q33166037;Forcella di Sabbia
+Q33166050;Forcella Duron
+Q33166073;Forcella Franche
+Q33166084;Forcella Giaon
+Q33166095;Forcella Giaveid
+Q33166106;Forcella Giralba
+Q33166119;Forcella Grande
+Q33166130;Forcella Laste
+Q33166142;Forcella Lavaretta
+Q33166155;Forcella Moschesin
+Q33166167;Forcella Piccola
+Q33166180;Forcella Pongol
+Q33166191;Forcella Salincheit
+Q33166203;Forcella Spè
+Q33166215;Forche Caudine
+Q33166226;Forchetta del Venacquaro
+Q33166241;Forchetta delle Malecoste
+Q33166255;Forchia di Meduna
+Q33166266;Forchia Piccola
+Q33166279;Forcia Neigra
+Q33166293;Forcola dei Campanili
+Q33166306;Forcola di Monte Rest
+Q33166318;Forcola Musi
+Q33166330;Forcolaccia
+Q33166342;Forcoletta di Jon
+Q33166354;Fornale, Bocchetta del
+Q33166366;Foräät, Call del
+Q33166379;Fourchon, Col du
+Q33166404;Fregarolo
+Q33166416;Fuorcletta
+Q33166428;Fuori, Forcola di
+Q33166439;Furggjoch
+Q33166463;Furggubäumlicke
+Q33166488;Gaisscharte
+Q33166501;Gal, Fuorcla del
+Q33166513;Gamsschartl
+Q33166547;Gattascosa, Bocchetta
+Q33166559;Geisspfad
+Q33166571;Gelenkscharte
+Q33166585;Gembré, Passo di
+Q33166597;Gemelli, Colle dei
+Q33166608;Genna su Ludu
+Q33166621;Giogo del Maniva
+Q33166634;Giogo della Presolana
+Q33166672;Gischijoch
+Q33166683;Gnifetti, Colle
+Q33166695;Grampielpass
+Q33166707;Grasleitenscharte
+Q33166718;Grenzsattel
+Q33166741;Großes Tor
+Q33166755;Grubenjoch
+Q33166767;Grubscharte
+Q33166778;Grübelschaarte
+Q33166797;Gualdo, Passo del
+Q33166819;Guinzana, Passo
+Q33166833;Guriner Furggu
+Q33166862;Haut, Fenêtre d'en
+Q33166888;Hintere Scharte
+Q33166899;Hohsandjoch
+Q33166926;Il Calvario
+Q33166938;Il Giogo
+Q33166952;Innere Scharte
+Q33166976;Jägerjoch
+Q33166992;Kastellücke
+Q33167041;Kleines Tor
+Q33167054;Kleines Tor
+Q33167066;Klockerkarscharte
+Q33167080;Krameggpass
+Q33167116;Krinnersattel
+Q33167131;La Becca
+Q33167143;La Colletta
+Q33167157;La Forchetta
+Q33167169;La Forchia
+Q33167181;La Porta del Monte
+Q33167192;La Scharta
+Q33167216;Laghi, Passo dei
+Q33167227;Lago Cavegna, Passo del
+Q33167240;Lai Ner, Pass di
+Q33167253;Lappacherjöchl
+Q33167266;Lareggio, Passo
+Q33167278;Lavirun, Fuorcla
+Q33167291;Le Croci d'Acerno
+Q33167303;Le Palade
+Q33167315;Lenden, Bocchetta de
+Q33167328;Leone, Colle del
+Q33167340;Lisjoch
+Q33167356;Maddalena
+Q33167367;Madrisberg
+Q33167380;Madéi, Cata di
+Q33167392;Malgina, Bocchetta
+Q33167407;Marbelfleck-Scharte
+Q33167421;Masino, Colle
+Q33167432;Meden, Bocchetta dal
+Q33167457;Mittelbergpass
+Q33167485;Mittlebärgpass
+Q33167499;Mittlere Scharte
+Q33167511;Mogna, Bocchetta di
+Q33167523;Moleires, Brèche des
+Q33167535;Molenne,Col de
+Q33167547;Mondellipass
+Q33167559;Monscera, Passo di
+Q33167572;Mont Avril, Col du
+Q33167585;Mont Brulé, Col du
+Q33167597;Mottiscia, Bocca di
+Q33167610;Muggiolo, Bocchetta di
+Q33167622;Mulitt, Bocca dei
+Q33167633;Muraglia
+Q33167646;Murtaröl, Fuorcla
+Q33167659;Mühlbacher Jöchl
+Q33167673;Mühlwalderjöchl
+Q33167684;Müschauns, Fuorcla
+Q33167701;Nebion, Bocchetta del
+Q33167712;Nembruno, Bocchetta di
+Q33167725;Neues Weisstor
+Q33167750;Niemet, Pass da
+Q33167762;Nord de Menouve, Col
+Q33167773;Notar, Bocchetta del
+Q33167786;Ober Hohsandjoch
+Q33167808;Occidentale, Fuorcla
+Q33167820;Ofentalpass
+Q33167833;Ogé, Bassa d'
+Q33167845;Om, Pass da l'
+Q33167857;Ometti, Passo degli
+Q33167869;Oren, Col d'
+Q33167881;Oriaccia, Passo di
+Q33167893;Orientale, Fuorcla
+Q33167907;Ota, Fuorcla d'
+Q33167919;Otemma, Col d'
+Q33167929;Ouest de Barasson, Col
+Q33167941;Padion, Passo di
+Q33167953;Paina, Bocchetta di
+Q33167966;Pairolo, Passo
+Q33167979;Passenjoch
+Q33167991;Passo Abbruzzesi
+Q33168003;Passo Acquabona
+Q33168015;Passo Annunziata Lunga
+Q33168029;Passo Bocca alla Valle
+Q33168040;Passo Cinque Croci
+Q33168064;Passo d'Eira
+Q33168077;Passo d'Entralais
+Q33168089;Passo de la Nana
+Q33168103;Passo dei Cerrini
+Q33168116;Passo dei Fangacci
+Q33168128;Passo dei Lupatti
+Q33168175;Passo del Cane
+Q33168188;Passo del Cannone
+Q33168201;Passo del Carnaio
+Q33168271;Passo del Parol
+Q33168283;Passo del Penice
+Q33168295;Passo del Redebus
+Q33168307;Passo del Zovo
+Q33168333;Passo della Bertesca
+Q33168345;Passo della Biancarda
+Q33168358;Passo della Calla
+Q33168369;Passo della Cerventosa
+Q33168381;Passo della Consuma
+Q33168393;Passo della Crocina
+Q33168405;Passo della Digola
+Q33168418;Passo della Forzellina
+Q33168443;Passo della Portella
+Q33168480;Passo della Sella
+Q33168492;Passo della Somma
+Q33168505;Passo della Spingarda
+Q33168516;Passo della Spugna
+Q33168528;Passo della Teglia
+Q33168541;Passo della Val di Fumo
+Q33168553;Passo delle Crocelle
+Q33168566;Passo delle Tote
+Q33168589;Passo di Campogrosso
+Q33168602;Passo di Cento Croci
+Q33168616;Passo di Cresole
+Q33168627;Passo di Crocetta
+Q33168640;Passo di Finocchio
+Q33168652;Passo di Fundres
+Q33168664;Passo di Gobbera
+Q33168675;Passo di Lares
+Q33168698;Passo di Lupo
+Q33168711;Passo di Monte Croce
+Q33168734;Passo di Pretemorto
+Q33168746;Passo di S. Giacomo
+Q33168756;Passo di San Antonio
+Q33168779;Passo di Sugame
+Q33168789;Passo di Suola
+Q33168803;Passo di Tanamea
+Q33168815;Passo di Val Formiga
+Q33168827;Passo di Vallazza
+Q33168865;Passo di Zingaro
+Q33168874;Passo la Croce
+Q33168898;Passo Limo
+Q33168909;Passo Madonna della Neve
+Q33168920;Passo Mercatello
+Q33168930;Passo Piano delle Fugazze
+Q33168941;Passo Piazza
+Q33168953;Passo Pre de Lame
+Q33168966;Passo Serra
+Q33168989;Passo Valbana
+Q33169029;Passo Zube
+Q33169040;Pastori, Passo dei
+Q33169056;Petit Col Ferret
+Q33169067;Pezza, Passo della
+Q33169080;Pfaffenscharte
+Q33169103;Pian Vadà
+Q33169117;Pianca Bella, Passo di
+Q33169129;Piani, Sella dei
+Q33169141;Pioda, Pass de la
+Q33169154;Piodejoch
+Q33169166;Piz Cotschen, Sella da
+Q33169178;Piz Nair, Fuorcla del
+Q33169189;Pombi, Bocchetta del
+Q33169202;Pombi, Porton del
+Q33169216;Pontimia, Passo di
+Q33169227;Portella dei Bifolchi
+Q33169238;Portella del Vento
+Q33169251;Portella dello Zoppo
+Q33169262;Portella di Poira
+Q33169275;Portella di Recattivo
+Q33169288;Portella Grottacalda
+Q33169301;Portella Madonnuzza
+Q33169315;Portella Misilbesi
+Q33169327;Portella Pertusa
+Q33169337;Portella Scorciavacche
+Q33169350;Portola, Bocchetta di
+Q33169362;Portun, Pass
+Q33169377;Rassaserscharte
+Q33169390;Rayette, Col de la
+Q33169414;Rislahner-Scharte
+Q33169425;Ritterpass
+Q33169437;Roffelpass
+Q33169451;Roseg, Porta da
+Q33169462;Rosso, Forcola di
+Q33169475;Rosso, Passo del
+Q33169499;Rothornpass
+Q33169511;Rovano, Passo
+Q33169524;Russapass
+Q33169537;Sa Genna de su Cerbu
+Q33169546;Sa Variante
+Q33169557;Sach, Pass da
+Q33169570;Salarsa, Col da
+Q33169582;Saline, Passo
+Q33169594;Salzeck
+Q33169608;Sambrog, Bocchetta de
+Q33169620;San Bernardo, Bocchetta di
+Q33169633;Sancia, Pass de la
+Q33169647;Sattelscharte
+Q33169660;Scerscen-Bernina, Fuorcla
+Q33169673;Schartl
+Q33169700;Schinjoch
+Q33169724;Schumbraida, Fuorcla
+Q33169761;Schwarzenbachtörl
+Q33169775;Schwarztor
+Q33169785;Seewjinen, Bocchetta di
+Q33169810;Sella Cavone
+Q49137818;Q49137818
+Q49138073;Q49138073
+Q49145492;Q49145492
+Q55316874;Granite Wash Pass
+Q61133152;Col de Deo Le
+Q33169823;Sella Cercevesa
+Q33169837;Sella Cessuta
+Q33169848;Sella Chianzutan
+Q33169861;Sella Clinac
+Q33169873;Sella Contuberno
+Q33169886;Sella dei Due Corni
+Q33169899;Sella dei Grilli
+Q33169910;Sella del Brecciaio
+Q33169922;Sella del Corno Grande
+Q33169934;Sella del Rotolon
+Q33169949;Sella della Marzola
+Q33169973;Sella di Cereschiatis
+Q33169998;Sella di Corno
+Q33170011;Sella di Corticato
+Q33170048;Sella di Leonessa
+Q33170060;Sella di Monte Corvo
+Q33170073;Sella di San Cristoforo
+Q33170084;Sella Fontelacasa
+Q33170096;Sella Foredor
+Q33170109;Sella Iacci
+Q33170122;Sella Pradut
+Q33170134;Sella Spagnuola
+Q33170146;Sella Spinella
+Q33170159;Sella Venacquaro
+Q33170170;Sella, Fuorcla da la
+Q33170182;Serra Sant'Antonio
+Q33170196;Seserjoch
+Q33170208;Sesvenna, Fuorcla
+Q33170220;Setag, Bocchetta de
+Q33170233;Sevino, Bocchetta del
+Q33170246;Silbersattel
+Q33170258;Sissone, Passo
+Q33170272;Sommafiume, Bocchetta di
+Q33170284;Sonnigpass
+Q33170296;Stabbiello, Bocchetta di
+Q33170320;Starlex, Fuorcla
+Q33170334;Stazzona, Bocchetta di
+Q33170347;Stella, Passo della
+Q33170361;Stenigalchi, Bocchetta di
+Q33170371;Streccione, Passo
+Q33170382;Strem, Forcola de
+Q33170394;Sud de Menouve, Col
+Q33170408;Suretta, Pass da
+Q33170421;Tamierpass
+Q33170450;Tegiola, Bocchetta della
+Q33170475;Tiefmattenjoch
+Q33170489;Tizi n' Mourchene
+Q33170500;Tizi n' Oucheddene
+Q33170512;Tizi n' Tguemmi
+Q33170523;Torre di Chiunzi
+Q33170535;Tournanche, Colle
+Q33170545;Traversa, Passo della
+Q33170557;Tremoggia, Pass dal
+Q33170581;Trubinasca, Passo della
+Q33170594;Trupchun, Fuorcla
+Q33170606;Tsa de Tsan, Col de
+Q33170618;Uf de Galkernen
+Q33170643;Ur, Pass d'
+Q33170656;Vado del Piaverano
+Q33170668;Vado di Corno
+Q33170681;Vado di Ferruccio
+Q33170695;Vado di Siella
+Q33170706;Vado Mistongo
+Q33170718;Val Loga, Pass de
+Q33170731;Val Maggia, Bocchetta di
+Q33170743;Val Mela, Fuorcla
+Q33170756;Val Mera, Pass da
+Q33170769;Val Mora, Passo
+Q33170783;Val Nera, Colle
+Q33170791;Val Paolaccio, Passo di
+Q33170804;Val Viola, Pass da
+Q33170818;Valdeserta, Passo di
+Q33170830;Valico del Monte Fumaiolo
+Q33170842;Valico di Montecoronaro
+Q33170855;Vallaperta, Passo di
+Q33170867;Vallaro, Passo di
+Q33170879;Valle Piana, Bocchetta di
+Q33170891;Valon, Bocchetta del
+Q33170904;Valpelline, Col de
+Q33170916;Valsorey, Col de
+Q33170929;Valsscharte
+Q33170941;Valüa, Pass da
+Q33170954;Varco Pietrastretta
+Q33170967;Vartegna, Bocchetta da
+Q33170979;Vazzeda, Passo
+Q33170993;Ventina Nord, Passo di
+Q33171005;Ventina Sud, Passo di
+Q33171018;Vert, Col
+Q33171068;Wielenbacherjöchl
+Q33171080;Winterstallscharte
+Q33171104;Wurmtalerjöchl
+Q33171117;Zocca, Passo di
+Q33171130;Zoccone, Bocchetta
+Q33171143;Zoccone, Pass
+Q33171157;Zu Törla
+Q33171168;Fuorcla dal Zupò
+Q33171181;Zupò, Pass dal
+Q33171194;Zwillingsjoch
+Q33171206;Äussere Gelenkscharte
+Q47541558;Gaviota Pass

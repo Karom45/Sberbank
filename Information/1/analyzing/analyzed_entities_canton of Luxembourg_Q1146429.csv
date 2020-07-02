@@ -1,0 +1,275 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q188283;Canton of Esch-sur-Alzette;административно-территориальная единица;1;15;to
+Q720221;Canton of Echternach;часть от;1;1;to
+Q753917;Canton of Mersch;изображение;1;1;from
+Q753917;Canton of Mersch;государство;1;1;from
+Q753917;Canton of Mersch;административно-территориальная единица;1;3;to
+Q720221;Canton of Echternach;общая тема категории;1;1;to
+Q720221;Canton of Echternach;находится в пределах природно-географического объекта;1;1;to
+Q720221;Canton of Echternach;является столицей;1;1;to
+Q720221;Canton of Echternach;категория объединяет темы;1;1;to
+Q753917;Canton of Mersch;общая тема категории;1;1;to
+Q720221;Canton of Echternach;административно делится на;1;2;to
+Q720221;Canton of Echternach;основная категория по теме;1;1;from
+Q720221;Canton of Echternach;код Freebase;1;1;from
+Q720221;Canton of Echternach;географические координаты;1;1;from
+Q720221;Canton of Echternach;состоит из;1;1;from
+Q720221;Canton of Echternach;произношение (звуковой файл);1;3;from
+Q753917;Canton of Mersch;карта местонахождения;1;1;from
+Q753917;Canton of Mersch;это частный случай понятия;1;1;from
+Q753917;Canton of Mersch;столица;1;1;from
+Q753917;Canton of Mersch;имеет границы с;1;6;to
+Q753917;Canton of Mersch;численность населения;1;52;from
+Q753917;Canton of Mersch;код GeoNames;1;1;from
+Q753917;Canton of Mersch;высота над уровнем моря;1;1;from
+Q753917;Canton of Mersch;площадь;1;1;from
+Q753917;Canton of Mersch;код GNS;1;1;from
+Q753917;Canton of Mersch;ISO 3166-2;1;1;from
+Q753917;Canton of Mersch;категория на Викискладе;1;1;from
+Q753917;Canton of Mersch;ID отношения в OpenStreetMap;1;1;from
+Q753917;Canton of Mersch;произношение (звуковой файл);1;1;from
+Q753917;Canton of Mersch;географические координаты;1;1;from
+Q753917;Canton of Mersch;код Freebase;1;1;from
+Q753917;Canton of Mersch;основная категория по теме;1;1;from
+Q753917;Canton of Mersch;административно делится на;1;2;to
+Q720221;Canton of Echternach;ID отношения в OpenStreetMap;1;1;from
+Q720221;Canton of Echternach;категория на Викискладе;1;1;from
+Q720221;Canton of Echternach;ISO 3166-2;1;1;from
+Q691842;Canton of Diekirch;административно делится на;1;2;to
+Q691842;Canton of Diekirch;столица;1;1;from
+Q691842;Canton of Diekirch;имеет границы с;1;7;to
+Q691842;Canton of Diekirch;численность населения;1;52;from
+Q691842;Canton of Diekirch;код в Большой каталанской энциклопедии;1;1;from
+Q691842;Canton of Diekirch;категория для людей, родившихся здесь;1;1;from
+Q691842;Canton of Diekirch;код GeoNames;1;1;from
+Q691842;Canton of Diekirch;площадь;1;1;from
+Q691842;Canton of Diekirch;ISO 3166-2;1;1;from
+Q691842;Canton of Diekirch;категория на Викискладе;1;1;from
+Q691842;Canton of Diekirch;ID отношения в OpenStreetMap;1;1;from
+Q691842;Canton of Diekirch;произношение (звуковой файл);1;3;from
+Q691842;Canton of Diekirch;географические координаты;1;1;from
+Q691842;Canton of Diekirch;код Freebase;1;1;from
+Q691842;Canton of Diekirch;основная категория по теме;1;1;from
+Q691842;Canton of Diekirch;категория объединяет темы;1;1;to
+Q720221;Canton of Echternach;код BNF;1;1;from
+Q691842;Canton of Diekirch;общая тема категории;1;1;to
+Q691842;Canton of Diekirch;является столицей;1;1;to
+Q720221;Canton of Echternach;административно-территориальная единица;1;3;to
+Q720221;Canton of Echternach;государство;1;1;from
+Q720221;Canton of Echternach;изображение;1;1;from
+Q720221;Canton of Echternach;карта местонахождения;1;1;from
+Q720221;Canton of Echternach;это частный случай понятия;1;1;from
+Q720221;Canton of Echternach;столица;1;1;from
+Q720221;Canton of Echternach;имеет границы с;1;4;to
+Q720221;Canton of Echternach;численность населения;1;52;from
+Q720221;Canton of Echternach;код в Большой каталанской энциклопедии;1;1;from
+Q720221;Canton of Echternach;код GeoNames;1;1;from
+Q720221;Canton of Echternach;категория для людей, связанных с местностью;1;1;from
+Q720221;Canton of Echternach;площадь;1;1;from
+Q753917;Canton of Mersch;является столицей;1;1;to
+Q835980;Canton of Redange;административно-территориальная единица;1;3;to
+Q188283;Canton of Esch-sur-Alzette;государство;1;1;from
+Q836002;Canton of Grevenmacher;является столицей;1;1;to
+Q845600;Canton of Vianden;столица;1;1;from
+Q845600;Canton of Vianden;это частный случай понятия;1;1;from
+Q845600;Canton of Vianden;карта местонахождения;1;1;from
+Q845600;Canton of Vianden;государство;1;1;from
+Q845600;Canton of Vianden;административно-территориальная единица;1;3;to
+Q836002;Canton of Grevenmacher;общая тема категории;1;1;to
+Q836002;Canton of Grevenmacher;административно делится на;1;2;to
+Q835980;Canton of Redange;государство;1;1;from
+Q836002;Canton of Grevenmacher;основная категория по теме;1;1;from
+Q836002;Canton of Grevenmacher;код Freebase;1;1;from
+Q836002;Canton of Grevenmacher;географические координаты;1;1;from
+Q836002;Canton of Grevenmacher;произношение (звуковой файл);1;1;from
+Q836002;Canton of Grevenmacher;ID отношения в OpenStreetMap;1;1;from
+Q836002;Canton of Grevenmacher;категория на Викискладе;1;1;from
+Q845600;Canton of Vianden;имеет границы с;1;3;to
+Q845600;Canton of Vianden;численность населения;1;52;from
+Q845600;Canton of Vianden;код в Большой каталанской энциклопедии;1;1;from
+Q845600;Canton of Vianden;код GeoNames;1;1;from
+Q845600;Canton of Vianden;категория для людей, связанных с местностью;1;1;from
+Q845600;Canton of Vianden;высота над уровнем моря;1;1;from
+Q845600;Canton of Vianden;площадь;1;1;from
+Q845600;Canton of Vianden;ISO 3166-2;1;1;from
+Q845600;Canton of Vianden;категория на Викискладе;1;1;from
+Q845600;Canton of Vianden;ID отношения в OpenStreetMap;1;1;from
+Q845600;Canton of Vianden;произношение (звуковой файл);1;3;from
+Q845600;Canton of Vianden;географические координаты;1;1;from
+Q845600;Canton of Vianden;код Freebase;1;1;from
+Q845600;Canton of Vianden;основная категория по теме;1;1;from
+Q845600;Canton of Vianden;административно делится на;1;2;to
+Q845600;Canton of Vianden;общая тема категории;1;1;to
+Q845600;Canton of Vianden;является столицей;1;1;to
+Q836002;Canton of Grevenmacher;ISO 3166-2;1;1;from
+Q836002;Canton of Grevenmacher;код GNS;1;1;from
+Q836002;Canton of Grevenmacher;площадь;1;1;from
+Q835980;Canton of Redange;код Freebase;1;1;from
+Q835980;Canton of Redange;изображение;1;1;from
+Q835980;Canton of Redange;карта местонахождения;1;1;from
+Q835980;Canton of Redange;это частный случай понятия;1;1;from
+Q835980;Canton of Redange;столица;1;1;from
+Q835980;Canton of Redange;имеет границы с;1;6;to
+Q835980;Canton of Redange;численность населения;1;52;from
+Q835980;Canton of Redange;код в Большой каталанской энциклопедии;1;1;from
+Q835980;Canton of Redange;код GeoNames;1;1;from
+Q835980;Canton of Redange;высота над уровнем моря;1;1;from
+Q835980;Canton of Redange;площадь;1;1;from
+Q835980;Canton of Redange;ISO 3166-2;1;1;from
+Q835980;Canton of Redange;категория на Викискладе;1;1;from
+Q835980;Canton of Redange;ID отношения в OpenStreetMap;1;1;from
+Q835980;Canton of Redange;географические координаты;1;1;from
+Q835980;Canton of Redange;основная категория по теме;1;1;from
+Q836002;Canton of Grevenmacher;высота над уровнем моря;1;1;from
+Q835980;Canton of Redange;административно делится на;1;2;to
+Q835980;Canton of Redange;является столицей;1;1;to
+Q835980;Canton of Redange;место рождения;1;1;to
+Q835980;Canton of Redange;общая тема категории;1;1;to
+Q836002;Canton of Grevenmacher;административно-территориальная единица;1;4;to
+Q836002;Canton of Grevenmacher;государство;1;1;from
+Q836002;Canton of Grevenmacher;изображение;1;1;from
+Q836002;Canton of Grevenmacher;карта местонахождения;1;1;from
+Q836002;Canton of Grevenmacher;это частный случай понятия;1;1;from
+Q836002;Canton of Grevenmacher;столица;1;1;from
+Q836002;Canton of Grevenmacher;имеет границы с;1;4;to
+Q836002;Canton of Grevenmacher;численность населения;1;52;from
+Q836002;Canton of Grevenmacher;код в Большой каталанской энциклопедии;1;1;from
+Q836002;Canton of Grevenmacher;код GeoNames;1;1;from
+Q691842;Canton of Diekirch;это частный случай понятия;1;1;from
+Q691842;Canton of Diekirch;карта местонахождения;1;1;from
+Q691842;Canton of Diekirch;изображение;1;1;from
+Q397678;Canton of Capellen;является столицей;1;1;to
+Q550021;Canton of Wiltz;это частный случай понятия;1;1;from
+Q550021;Canton of Wiltz;карта местонахождения;1;1;from
+Q550021;Canton of Wiltz;изображение;1;1;from
+Q550021;Canton of Wiltz;государство;1;1;from
+Q550021;Canton of Wiltz;административно-территориальная единица;1;7;to
+Q397678;Canton of Capellen;общая тема категории;1;1;to
+Q397678;Canton of Capellen;административно делится на;1;2;to
+Q691842;Canton of Diekirch;государство;1;1;from
+Q397678;Canton of Capellen;основная категория по теме;1;1;from
+Q397678;Canton of Capellen;код Freebase;1;1;from
+Q397678;Canton of Capellen;географические координаты;1;1;from
+Q397678;Canton of Capellen;произношение (звуковой файл);1;1;from
+Q397678;Canton of Capellen;ID отношения в OpenStreetMap;1;1;from
+Q397678;Canton of Capellen;категория на Викискладе;1;1;from
+Q550021;Canton of Wiltz;столица;1;1;from
+Q550021;Canton of Wiltz;имеет границы с;1;4;to
+Q550021;Canton of Wiltz;численность населения;1;52;from
+Q550021;Canton of Wiltz;код в Большой каталанской энциклопедии;1;1;from
+Q550021;Canton of Wiltz;код GeoNames;1;1;from
+Q550021;Canton of Wiltz;высота над уровнем моря;1;1;from
+Q550021;Canton of Wiltz;площадь;1;1;from
+Q550021;Canton of Wiltz;ISO 3166-2;1;1;from
+Q550021;Canton of Wiltz;категория на Викискладе;1;1;from
+Q550021;Canton of Wiltz;ID отношения в OpenStreetMap;1;1;from
+Q550021;Canton of Wiltz;произношение (звуковой файл);1;3;from
+Q550021;Canton of Wiltz;географические координаты;1;1;from
+Q550021;Canton of Wiltz;код Freebase;1;1;from
+Q550021;Canton of Wiltz;основная категория по теме;1;1;from
+Q550021;Canton of Wiltz;административно делится на;1;2;to
+Q550021;Canton of Wiltz;является столицей;1;1;to
+Q550021;Canton of Wiltz;общая тема категории;1;1;to
+Q397678;Canton of Capellen;ISO 3166-2;1;1;from
+Q397678;Canton of Capellen;площадь;1;1;from
+Q397678;Canton of Capellen;код GeoNames;1;1;from
+Q188283;Canton of Esch-sur-Alzette;географические координаты;1;1;from
+Q188283;Canton of Esch-sur-Alzette;изображение;1;1;from
+Q188283;Canton of Esch-sur-Alzette;карта местонахождения;1;2;from
+Q188283;Canton of Esch-sur-Alzette;это частный случай понятия;1;1;from
+Q188283;Canton of Esch-sur-Alzette;столица;1;1;from
+Q188283;Canton of Esch-sur-Alzette;имеет границы с;1;8;to
+Q188283;Canton of Esch-sur-Alzette;численность населения;1;52;from
+Q188283;Canton of Esch-sur-Alzette;код в Большой каталанской энциклопедии;1;1;from
+Q188283;Canton of Esch-sur-Alzette;код GeoNames;1;1;from
+Q188283;Canton of Esch-sur-Alzette;площадь;1;1;from
+Q188283;Canton of Esch-sur-Alzette;ISO 3166-2;1;1;from
+Q188283;Canton of Esch-sur-Alzette;категория на Викискладе;1;1;from
+Q188283;Canton of Esch-sur-Alzette;ID отношения в OpenStreetMap;1;1;from
+Q188283;Canton of Esch-sur-Alzette;произношение (звуковой файл);1;1;from
+Q188283;Canton of Esch-sur-Alzette;предположительно одно и то же с;1;1;to
+Q188283;Canton of Esch-sur-Alzette;код Freebase;1;1;from
+Q397678;Canton of Capellen;код в Большой каталанской энциклопедии;1;1;from
+Q188283;Canton of Esch-sur-Alzette;основная категория по теме;1;1;from
+Q188283;Canton of Esch-sur-Alzette;баннер Викигида;1;1;from
+Q188283;Canton of Esch-sur-Alzette;административно делится на;1;2;to
+Q188283;Canton of Esch-sur-Alzette;общая тема категории;1;1;to
+Q188283;Canton of Esch-sur-Alzette;является столицей;1;1;to
+Q397678;Canton of Capellen;административно-территориальная единица;1;8;to
+Q397678;Canton of Capellen;государство;1;1;from
+Q397678;Canton of Capellen;изображение;1;1;from
+Q397678;Canton of Capellen;код GND;1;1;from
+Q397678;Canton of Capellen;карта местонахождения;1;1;from
+Q397678;Canton of Capellen;это частный случай понятия;1;1;from
+Q397678;Canton of Capellen;столица;1;1;from
+Q397678;Canton of Capellen;имеет границы с;1;5;to
+Q397678;Canton of Capellen;численность населения;1;52;from
+Q691741;Canton of Luxembourg;административно-территориальная единица;1;11;to
+Q691741;Canton of Luxembourg;государство;1;1;from
+Q691741;Canton of Luxembourg;изображение;1;1;from
+Q691793;Canton of Clervaux;категория для людей, связанных с местностью;1;1;from
+Q691781;Canton of Remich;код Freebase;1;1;from
+Q691781;Canton of Remich;основная категория по теме;1;1;from
+Q691781;Canton of Remich;административно делится на;1;2;to
+Q691781;Canton of Remich;является столицей;1;1;to
+Q691781;Canton of Remich;общая тема категории;1;1;to
+Q691793;Canton of Clervaux;административно-территориальная единица;1;7;to
+Q691793;Canton of Clervaux;государство;1;1;from
+Q691793;Canton of Clervaux;карта местонахождения;1;1;from
+Q691793;Canton of Clervaux;это частный случай понятия;1;1;from
+Q691793;Canton of Clervaux;столица;1;1;from
+Q691793;Canton of Clervaux;имеет границы с;1;6;to
+Q691793;Canton of Clervaux;численность населения;1;52;from
+Q691793;Canton of Clervaux;код в Большой каталанской энциклопедии;1;1;from
+Q691793;Canton of Clervaux;код GeoNames;1;1;from
+Q691793;Canton of Clervaux;площадь;1;1;from
+Q691781;Canton of Remich;произношение (звуковой файл);1;1;from
+Q691793;Canton of Clervaux;код GNS;1;1;from
+Q691793;Canton of Clervaux;ISO 3166-2;1;1;from
+Q691793;Canton of Clervaux;категория на Викискладе;1;1;from
+Q691793;Canton of Clervaux;ID отношения в OpenStreetMap;1;1;from
+Q691793;Canton of Clervaux;произношение (звуковой файл);1;3;from
+Q691793;Canton of Clervaux;наивысшая точка;1;1;from
+Q691793;Canton of Clervaux;географические координаты;1;1;from
+Q691793;Canton of Clervaux;код Freebase;1;1;from
+Q691793;Canton of Clervaux;основная категория по теме;1;1;from
+Q691793;Canton of Clervaux;административно делится на;1;2;to
+Q691793;Canton of Clervaux;категория объединяет темы;1;1;to
+Q691793;Canton of Clervaux;общая тема категории;1;1;to
+Q691793;Canton of Clervaux;является столицей;1;1;to
+Q691842;Canton of Diekirch;административно-территориальная единица;1;9;to
+Q691781;Canton of Remich;географические координаты;1;1;from
+Q691781;Canton of Remich;ID отношения в OpenStreetMap;1;1;from
+Q691741;Canton of Luxembourg;карта местонахождения;1;1;from
+Q691741;Canton of Luxembourg;административно делится на;1;2;to
+Q691741;Canton of Luxembourg;это частный случай понятия;1;1;from
+Q691741;Canton of Luxembourg;столица;1;1;from
+Q691741;Canton of Luxembourg;имеет границы с;1;5;to
+Q691741;Canton of Luxembourg;численность населения;1;52;from
+Q691741;Canton of Luxembourg;код в Большой каталанской энциклопедии;1;1;from
+Q691741;Canton of Luxembourg;код GeoNames;1;1;from
+Q691741;Canton of Luxembourg;площадь;1;1;from
+Q691741;Canton of Luxembourg;ISO 3166-2;1;1;from
+Q691741;Canton of Luxembourg;категория на Викискладе;1;1;from
+Q691741;Canton of Luxembourg;ID отношения в OpenStreetMap;1;1;from
+Q691741;Canton of Luxembourg;произношение (звуковой файл);1;1;from
+Q691741;Canton of Luxembourg;географические координаты;1;1;from
+Q691741;Canton of Luxembourg;код Freebase;1;1;from
+Q691741;Canton of Luxembourg;основная категория по теме;1;1;from
+Q691741;Canton of Luxembourg;место активности;1;1;to
+Q691781;Canton of Remich;категория на Викискладе;1;1;from
+Q691741;Canton of Luxembourg;общая тема категории;1;1;to
+Q691741;Canton of Luxembourg;является столицей;1;1;to
+Q691781;Canton of Remich;административно-территориальная единица;1;7;to
+Q691781;Canton of Remich;государство;1;1;from
+Q691781;Canton of Remich;изображение;1;1;from
+Q691781;Canton of Remich;карта местонахождения;1;1;from
+Q691781;Canton of Remich;это частный случай понятия;1;1;from
+Q691781;Canton of Remich;столица;1;1;from
+Q691781;Canton of Remich;имеет границы с;1;6;to
+Q691781;Canton of Remich;численность населения;1;52;from
+Q691781;Canton of Remich;код в Большой каталанской энциклопедии;1;1;from
+Q691781;Canton of Remich;код GeoNames;1;1;from
+Q691781;Canton of Remich;площадь;1;1;from
+Q691781;Canton of Remich;ISO 3166-2;1;1;from
+Q845600;Canton of Vianden;категория объединяет темы;1;1;to

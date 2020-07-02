@@ -1,0 +1,596 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q27916;Zaghouan Governorate;административно-территориальная единица;1;210;to
+Q327097;Sidi Bouzid Governorate;местонахождение;1;1;to
+Q328109;Tunis Governorate;административно-территориальная единица;1;397;to
+Q328109;Tunis Governorate;государство;1;1;from
+Q328109;Tunis Governorate;изображение;1;2;from
+Q328109;Tunis Governorate;карта местонахождения;1;1;from
+Q328109;Tunis Governorate;это частный случай понятия;1;1;from
+Q328109;Tunis Governorate;столица;1;1;from
+Q328109;Tunis Governorate;численность населения;1;1;from
+Q328109;Tunis Governorate;код в Большой каталанской энциклопедии;1;1;from
+Q328109;Tunis Governorate;категория для людей, родившихся здесь;1;1;from
+Q328109;Tunis Governorate;код GeoNames;1;1;from
+Q328109;Tunis Governorate;название на языке оригинала;1;1;from
+Q328109;Tunis Governorate;категория для людей, связанных с местностью;1;1;from
+Q328109;Tunis Governorate;площадь;1;1;from
+Q328109;Tunis Governorate;код BabelNet;1;1;from
+Q328109;Tunis Governorate;код BNF;1;1;from
+Q327097;Sidi Bouzid Governorate;административно делится на;1;1;to
+Q327097;Sidi Bouzid Governorate;является столицей;1;1;to
+Q328115;Siliana Governorate;основная категория по теме;1;1;from
+Q327097;Sidi Bouzid Governorate;часть от;1;1;to
+Q327097;Sidi Bouzid Governorate;численность населения;1;1;from
+Q327097;Sidi Bouzid Governorate;код GeoNames;1;1;from
+Q327097;Sidi Bouzid Governorate;название на языке оригинала;1;1;from
+Q327097;Sidi Bouzid Governorate;площадь;1;1;from
+Q327097;Sidi Bouzid Governorate;ISO 3166-2;1;1;from
+Q327097;Sidi Bouzid Governorate;категория на Викискладе;1;1;from
+Q327097;Sidi Bouzid Governorate;географический код Туниса;1;1;from
+Q327097;Sidi Bouzid Governorate;местный телефонный код;1;1;from
+Q327097;Sidi Bouzid Governorate;дата основания/создания/возникновения;1;1;from
+Q327097;Sidi Bouzid Governorate;географические координаты;1;1;from
+Q327097;Sidi Bouzid Governorate;код Freebase;1;1;from
+Q327097;Sidi Bouzid Governorate;Who's on First ID;1;1;from
+Q327097;Sidi Bouzid Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q327097;Sidi Bouzid Governorate;основная категория по теме;1;1;from
+Q327097;Sidi Bouzid Governorate;общая тема категории;1;1;to
+Q328109;Tunis Governorate;используемый язык;1;2;from
+Q328109;Tunis Governorate;ISO 3166-2;1;1;from
+Q328109;Tunis Governorate;категория на Викискладе;1;1;from
+Q328109;Tunis Governorate;код тезауруса PACTOLS;1;1;from
+Q328115;Siliana Governorate;карта местонахождения;1;1;from
+Q328115;Siliana Governorate;это частный случай понятия;1;1;from
+Q328115;Siliana Governorate;столица;1;1;from
+Q328115;Siliana Governorate;численность населения;1;1;from
+Q328115;Siliana Governorate;код GeoNames;1;1;from
+Q328115;Siliana Governorate;название на языке оригинала;1;1;from
+Q328115;Siliana Governorate;площадь;1;1;from
+Q328115;Siliana Governorate;почтовый индекс;1;1;from
+Q328115;Siliana Governorate;ISO 3166-2;1;1;from
+Q328115;Siliana Governorate;категория на Викискладе;1;1;from
+Q328115;Siliana Governorate;географический код Туниса;1;1;from
+Q328115;Siliana Governorate;местный телефонный код;1;1;from
+Q328115;Siliana Governorate;географические координаты;1;1;from
+Q328115;Siliana Governorate;код Freebase;1;1;from
+Q328115;Siliana Governorate;Who's on First ID;1;1;from
+Q328115;Siliana Governorate;изображение;1;1;from
+Q328115;Siliana Governorate;государство;1;1;from
+Q328115;Siliana Governorate;административно-территориальная единица;1;178;to
+Q328109;Tunis Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q328109;Tunis Governorate;географический код Туниса;1;1;from
+Q328109;Tunis Governorate;местный телефонный код;1;2;from
+Q328109;Tunis Governorate;дата основания/создания/возникновения;1;1;from
+Q328109;Tunis Governorate;географические координаты;1;1;from
+Q328109;Tunis Governorate;код Freebase;1;1;from
+Q328109;Tunis Governorate;Who's on First ID;1;1;from
+Q328109;Tunis Governorate;основная категория по теме;1;1;from
+Q328109;Tunis Governorate;административно делится на;1;1;to
+Q328109;Tunis Governorate;место в MusicBrainz;1;1;from
+Q328109;Tunis Governorate;состоит из;1;1;to
+Q328109;Tunis Governorate;место смерти;1;2;to
+Q328109;Tunis Governorate;категория объединяет темы;1;2;to
+Q328109;Tunis Governorate;происходит из;1;2;to
+Q328109;Tunis Governorate;общая тема категории;1;1;to
+Q327097;Sidi Bouzid Governorate;столица;1;1;from
+Q327097;Sidi Bouzid Governorate;это частный случай понятия;1;1;from
+Q327097;Sidi Bouzid Governorate;карта местонахождения;1;1;from
+Q327045;Tataouine Governorate;местный телефонный код;1;1;from
+Q318102;Monastir Governorate;общая тема категории;1;1;to
+Q318102;Monastir Governorate;происходит из;1;1;to
+Q318102;Monastir Governorate;административно делится на;1;1;to
+Q327045;Tataouine Governorate;административно-территориальная единица;1;209;to
+Q327045;Tataouine Governorate;государство;1;1;from
+Q327045;Tataouine Governorate;изображение;1;1;from
+Q327045;Tataouine Governorate;карта местонахождения;1;1;from
+Q327045;Tataouine Governorate;это частный случай понятия;1;1;from
+Q327045;Tataouine Governorate;столица;1;1;from
+Q327045;Tataouine Governorate;численность населения;1;1;from
+Q327045;Tataouine Governorate;код GeoNames;1;1;from
+Q327045;Tataouine Governorate;площадь;1;1;from
+Q327045;Tataouine Governorate;ISO 3166-2;1;1;from
+Q327045;Tataouine Governorate;код темы Quora;1;1;from
+Q327045;Tataouine Governorate;категория на Викискладе;1;1;from
+Q318102;Monastir Governorate;является столицей;1;1;to
+Q318102;Monastir Governorate;место в MusicBrainz;1;1;from
+Q318102;Monastir Governorate;основная категория по теме;1;1;from
+Q318102;Monastir Governorate;ISO 3166-2;1;1;from
+Q318102;Monastir Governorate;это частный случай понятия;1;1;from
+Q318102;Monastir Governorate;столица;1;1;from
+Q318102;Monastir Governorate;численность населения;1;1;from
+Q318102;Monastir Governorate;код GeoNames;1;1;from
+Q318102;Monastir Governorate;площадь;1;1;from
+Q318102;Monastir Governorate;используемый язык;1;1;from
+Q318102;Monastir Governorate;категория на Викискладе;1;1;from
+Q318102;Monastir Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q318102;Monastir Governorate;географический код Туниса;1;1;from
+Q318102;Monastir Governorate;местный телефонный код;1;1;from
+Q318102;Monastir Governorate;дата основания/создания/возникновения;1;1;from
+Q318102;Monastir Governorate;географические координаты;1;1;from
+Q318102;Monastir Governorate;код Freebase;1;1;from
+Q318102;Monastir Governorate;Who's on First ID;1;1;from
+Q327045;Tataouine Governorate;географический код Туниса;1;1;from
+Q327045;Tataouine Governorate;дата основания/создания/возникновения;1;1;from
+Q327097;Sidi Bouzid Governorate;государство;1;1;from
+Q327045;Tataouine Governorate;географические координаты;1;1;from
+Q327087;Medenine Governorate;ISO 3166-2;1;1;from
+Q327087;Medenine Governorate;категория на Викискладе;1;1;from
+Q327087;Medenine Governorate;географический код Туниса;1;1;from
+Q327087;Medenine Governorate;местный телефонный код;1;1;from
+Q327087;Medenine Governorate;географические координаты;1;1;from
+Q327087;Medenine Governorate;код Freebase;1;1;from
+Q327087;Medenine Governorate;Who's on First ID;1;1;from
+Q327087;Medenine Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q327087;Medenine Governorate;основная категория по теме;1;1;from
+Q327087;Medenine Governorate;местонахождение;1;2;to
+Q327087;Medenine Governorate;является столицей;1;1;to
+Q327087;Medenine Governorate;общая тема категории;1;1;to
+Q327087;Medenine Governorate;происходит из;1;1;to
+Q327087;Medenine Governorate;административно делится на;1;1;to
+Q327097;Sidi Bouzid Governorate;административно-территориальная единица;1;161;to
+Q327087;Medenine Governorate;используемый язык;1;1;from
+Q327087;Medenine Governorate;площадь;1;1;from
+Q327087;Medenine Governorate;название на языке оригинала;1;1;from
+Q327045;Tataouine Governorate;административно делится на;1;1;to
+Q327045;Tataouine Governorate;код Freebase;1;1;from
+Q327045;Tataouine Governorate;Who's on First ID;1;1;from
+Q327045;Tataouine Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q327045;Tataouine Governorate;основная категория по теме;1;1;from
+Q327045;Tataouine Governorate;является столицей;1;1;to
+Q327045;Tataouine Governorate;общая тема категории;1;1;to
+Q327087;Medenine Governorate;административно-территориальная единица;1;268;to
+Q327087;Medenine Governorate;код GeoNames;1;1;from
+Q327087;Medenine Governorate;государство;1;1;from
+Q327087;Medenine Governorate;изображение;1;1;from
+Q327087;Medenine Governorate;карта местонахождения;1;2;from
+Q327087;Medenine Governorate;это частный случай понятия;1;1;from
+Q327087;Medenine Governorate;столица;1;1;from
+Q327087;Medenine Governorate;численность населения;1;1;from
+Q328115;Siliana Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q328115;Siliana Governorate;общая тема категории;1;1;to
+Q318102;Monastir Governorate;изображение;1;1;from
+Q388047;Kasserine Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q388047;Kasserine Governorate;является столицей;1;1;to
+Q388047;Kasserine Governorate;категория объединяет темы;1;1;to
+Q388047;Kasserine Governorate;общая тема категории;1;1;to
+Q388047;Kasserine Governorate;административно делится на;1;1;to
+Q388059;Tozeur Governorate;административно-территориальная единица;1;57;to
+Q388059;Tozeur Governorate;государство;1;1;from
+Q388059;Tozeur Governorate;изображение;1;1;from
+Q388059;Tozeur Governorate;карта местонахождения;1;1;from
+Q388059;Tozeur Governorate;это частный случай понятия;1;1;from
+Q388059;Tozeur Governorate;столица;1;1;from
+Q388059;Tozeur Governorate;численность населения;1;1;from
+Q388059;Tozeur Governorate;код в Большой каталанской энциклопедии;1;1;from
+Q388059;Tozeur Governorate;код GeoNames;1;1;from
+Q388059;Tozeur Governorate;название на языке оригинала;1;1;from
+Q388059;Tozeur Governorate;площадь;1;1;from
+Q388047;Kasserine Governorate;основная категория по теме;1;1;from
+Q388047;Kasserine Governorate;Who's on First ID;1;1;from
+Q328115;Siliana Governorate;является столицей;1;1;to
+Q388047;Kasserine Governorate;код Freebase;1;1;from
+Q388047;Kasserine Governorate;карта местонахождения;1;1;from
+Q388047;Kasserine Governorate;это частный случай понятия;1;1;from
+Q388047;Kasserine Governorate;столица;1;1;from
+Q388047;Kasserine Governorate;численность населения;1;1;from
+Q388047;Kasserine Governorate;код US National Archives;1;1;from
+Q388047;Kasserine Governorate;код GeoNames;1;1;from
+Q388047;Kasserine Governorate;название на языке оригинала;1;1;from
+Q388047;Kasserine Governorate;категория для людей, связанных с местностью;1;1;from
+Q388047;Kasserine Governorate;площадь;1;1;from
+Q388047;Kasserine Governorate;ISO 3166-2;1;1;from
+Q388047;Kasserine Governorate;код темы Quora;1;1;from
+Q388047;Kasserine Governorate;категория на Викискладе;1;1;from
+Q388047;Kasserine Governorate;географический код Туниса;1;1;from
+Q388047;Kasserine Governorate;местный телефонный код;1;1;from
+Q388047;Kasserine Governorate;географические координаты;1;2;from
+Q388059;Tozeur Governorate;ISO 3166-2;1;1;from
+Q388059;Tozeur Governorate;категория на Викискладе;1;1;from
+Q388059;Tozeur Governorate;код тезауруса PACTOLS;1;1;from
+Q388059;Tozeur Governorate;географический код Туниса;1;1;from
+Q734328;Manouba Governorate;площадь;1;1;from
+Q734328;Manouba Governorate;ISO 3166-2;1;1;from
+Q734328;Manouba Governorate;категория на Викискладе;1;1;from
+Q734328;Manouba Governorate;географический код Туниса;1;1;from
+Q734328;Manouba Governorate;местный телефонный код;1;2;from
+Q734328;Manouba Governorate;дата основания/создания/возникновения;1;1;from
+Q734328;Manouba Governorate;географические координаты;1;1;from
+Q734328;Manouba Governorate;код Freebase;1;1;from
+Q734328;Manouba Governorate;Who's on First ID;1;1;from
+Q734328;Manouba Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q734328;Manouba Governorate;основная категория по теме;1;1;from
+Q734328;Manouba Governorate;состоит из;1;1;to
+Q734328;Manouba Governorate;местонахождение;1;1;to
+Q734328;Manouba Governorate;общая тема категории;1;1;to
+Q734328;Manouba Governorate;является столицей;1;1;to
+Q734328;Manouba Governorate;код GeoNames;1;1;from
+Q734328;Manouba Governorate;численность населения;1;1;from
+Q734328;Manouba Governorate;столица;1;1;from
+Q388059;Tozeur Governorate;основная категория по теме;1;1;from
+Q388059;Tozeur Governorate;местный телефонный код;1;1;from
+Q388059;Tozeur Governorate;дата основания/создания/возникновения;1;1;from
+Q388059;Tozeur Governorate;географические координаты;1;1;from
+Q388059;Tozeur Governorate;код Freebase;1;1;from
+Q388059;Tozeur Governorate;Who's on First ID;1;1;from
+Q388059;Tozeur Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q388059;Tozeur Governorate;является столицей;1;1;to
+Q734328;Manouba Governorate;это частный случай понятия;1;1;from
+Q388059;Tozeur Governorate;общая тема категории;1;1;to
+Q388059;Tozeur Governorate;административно делится на;1;1;to
+Q734328;Manouba Governorate;административно-территориальная единица;1;48;to
+Q734328;Manouba Governorate;государство;1;1;from
+Q734328;Manouba Governorate;изображение;1;1;from
+Q734328;Manouba Governorate;карта местонахождения;1;1;from
+Q388047;Kasserine Governorate;изображение;1;1;from
+Q388047;Kasserine Governorate;государство;1;1;from
+Q388047;Kasserine Governorate;административно-территориальная единица;1;299;to
+Q328164;Mahdia Governorate;название на языке оригинала;1;1;from
+Q328145;Nabeul Governorate;код Freebase;1;1;from
+Q328145;Nabeul Governorate;Who's on First ID;1;1;from
+Q328145;Nabeul Governorate;официальный сайт;1;1;from
+Q328145;Nabeul Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q328145;Nabeul Governorate;основная категория по теме;1;1;from
+Q328145;Nabeul Governorate;категория объединяет темы;1;1;to
+Q328145;Nabeul Governorate;является столицей;1;1;to
+Q328145;Nabeul Governorate;общая тема категории;1;1;to
+Q328145;Nabeul Governorate;административно делится на;1;1;to
+Q328164;Mahdia Governorate;административно-территориальная единица;1;92;to
+Q328164;Mahdia Governorate;государство;1;1;from
+Q328164;Mahdia Governorate;карта местонахождения;1;1;from
+Q328164;Mahdia Governorate;это частный случай понятия;1;1;from
+Q328164;Mahdia Governorate;столица;1;1;from
+Q328164;Mahdia Governorate;численность населения;1;1;from
+Q328145;Nabeul Governorate;географические координаты;1;1;from
+Q328145;Nabeul Governorate;дата основания/создания/возникновения;1;1;from
+Q328145;Nabeul Governorate;местный телефонный код;1;1;from
+Q328145;Nabeul Governorate;столица;1;1;from
+Q328115;Siliana Governorate;административно делится на;1;1;to
+Q328145;Nabeul Governorate;административно-территориальная единица;1;338;to
+Q328145;Nabeul Governorate;государство;1;1;from
+Q328145;Nabeul Governorate;изображение;1;1;from
+Q328145;Nabeul Governorate;карта местонахождения;1;1;from
+Q328145;Nabeul Governorate;это частный случай понятия;1;1;from
+Q328145;Nabeul Governorate;численность населения;1;1;from
+Q328145;Nabeul Governorate;географический код Туниса;1;1;from
+Q328145;Nabeul Governorate;код GeoNames;1;1;from
+Q328145;Nabeul Governorate;категория для людей, связанных с местностью;1;1;from
+Q328145;Nabeul Governorate;площадь;1;1;from
+Q328145;Nabeul Governorate;ISO 3166-2;1;1;from
+Q328145;Nabeul Governorate;категория на Викискладе;1;1;from
+Q328145;Nabeul Governorate;часовой пояс;1;4;from
+Q328164;Mahdia Governorate;код GeoNames;1;1;from
+Q328164;Mahdia Governorate;площадь;1;1;from
+Q328199;Kef Governorate;административно делится на;1;1;to
+Q328164;Mahdia Governorate;ISO 3166-2;1;1;from
+Q328199;Kef Governorate;название на языке оригинала;1;1;from
+Q328199;Kef Governorate;площадь;1;1;from
+Q328199;Kef Governorate;ISO 3166-2;1;1;from
+Q328199;Kef Governorate;категория на Викискладе;1;1;from
+Q328199;Kef Governorate;географический код Туниса;1;1;from
+Q328199;Kef Governorate;местный телефонный код;1;1;from
+Q328199;Kef Governorate;географические координаты;1;1;from
+Q328199;Kef Governorate;код Freebase;1;1;from
+Q328199;Kef Governorate;Who's on First ID;1;1;from
+Q328199;Kef Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q328199;Kef Governorate;основная категория по теме;1;1;from
+Q328199;Kef Governorate;dmoz;1;1;from
+Q328199;Kef Governorate;место рождения;1;1;to
+Q328199;Kef Governorate;общая тема категории;1;1;to
+Q328199;Kef Governorate;является столицей;1;1;to
+Q328199;Kef Governorate;код GeoNames;1;1;from
+Q328199;Kef Governorate;численность населения;1;1;from
+Q328199;Kef Governorate;столица;1;1;from
+Q328164;Mahdia Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q328164;Mahdia Governorate;категория на Викискладе;1;1;from
+Q328164;Mahdia Governorate;географический код Туниса;1;1;from
+Q328164;Mahdia Governorate;местный телефонный код;1;1;from
+Q328164;Mahdia Governorate;географические координаты;1;1;from
+Q328164;Mahdia Governorate;код Freebase;1;1;from
+Q328164;Mahdia Governorate;Who's on First ID;1;1;from
+Q328164;Mahdia Governorate;основная категория по теме;1;1;from
+Q328199;Kef Governorate;это частный случай понятия;1;1;from
+Q328164;Mahdia Governorate;общая тема категории;1;1;to
+Q328164;Mahdia Governorate;административно делится на;1;1;to
+Q328199;Kef Governorate;административно-территориальная единица;1;122;to
+Q328199;Kef Governorate;государство;1;1;from
+Q328199;Kef Governorate;изображение;1;1;from
+Q328199;Kef Governorate;карта местонахождения;1;1;from
+Q318102;Monastir Governorate;карта местонахождения;1;1;from
+Q318102;Monastir Governorate;государство;1;1;from
+Q27916;Zaghouan Governorate;государство;1;1;from
+Q241145;Sfax Governorate;административно-территориальная единица;1;297;to
+Q241145;Sfax Governorate;изображение;1;1;from
+Q241145;Sfax Governorate;код VIAF;1;1;from
+Q241145;Sfax Governorate;карта местонахождения;1;1;from
+Q241145;Sfax Governorate;это частный случай понятия;1;1;from
+Q241145;Sfax Governorate;столица;1;1;from
+Q241145;Sfax Governorate;численность населения;1;1;from
+Q241145;Sfax Governorate;категория для людей, родившихся здесь;1;1;from
+Q241145;Sfax Governorate;код GeoNames;1;1;from
+Q241145;Sfax Governorate;площадь;1;1;from
+Q241145;Sfax Governorate;ISO 3166-2;1;1;from
+Q241145;Sfax Governorate;категория на Викискладе;1;1;from
+Q241145;Sfax Governorate;код тезауруса PACTOLS;1;1;from
+Q241145;Sfax Governorate;географический код Туниса;1;1;from
+Q241145;Sfax Governorate;местный телефонный код;1;1;from
+Q241145;Sfax Governorate;дата основания/создания/возникновения;1;1;from
+Q241145;Sfax Governorate;государство;1;1;from
+Q241129;Bizerte Governorate;общая тема категории;1;1;to
+Q269968;Gafsa Governorate;административно-территориальная единица;1;35;to
+Q241129;Bizerte Governorate;место рождения;1;2;to
+Q241129;Bizerte Governorate;код GeoNames;1;1;from
+Q241129;Bizerte Governorate;площадь;1;1;from
+Q241129;Bizerte Governorate;ISO 3166-2;1;1;from
+Q241129;Bizerte Governorate;категория на Викискладе;1;1;from
+Q241129;Bizerte Governorate;географический код Туниса;1;1;from
+Q241129;Bizerte Governorate;местный телефонный код;1;1;from
+Q241129;Bizerte Governorate;географические координаты;1;1;from
+Q241129;Bizerte Governorate;код Freebase;1;1;from
+Q241129;Bizerte Governorate;Who's on First ID;1;1;from
+Q241129;Bizerte Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q241129;Bizerte Governorate;основная категория по теме;1;1;from
+Q241129;Bizerte Governorate;место в MusicBrainz;1;1;from
+Q241129;Bizerte Governorate;место смерти;1;1;to
+Q241129;Bizerte Governorate;является столицей;1;1;to
+Q241129;Bizerte Governorate;категория объединяет темы;1;2;to
+Q241145;Sfax Governorate;географические координаты;1;1;from
+Q241145;Sfax Governorate;код Freebase;1;1;from
+Q241145;Sfax Governorate;Who's on First ID;1;1;from
+Q241145;Sfax Governorate;официальный сайт;1;1;from
+Q242263;Gabès Governorate;название на языке оригинала;1;1;from
+Q242263;Gabès Governorate;площадь;1;1;from
+Q242263;Gabès Governorate;используемый язык;1;1;from
+Q242263;Gabès Governorate;ISO 3166-2;1;1;from
+Q242263;Gabès Governorate;категория на Викискладе;1;1;from
+Q242263;Gabès Governorate;географический код Туниса;1;1;from
+Q242263;Gabès Governorate;местный телефонный код;1;1;from
+Q242263;Gabès Governorate;географические координаты;1;2;from
+Q242263;Gabès Governorate;код Freebase;1;1;from
+Q242263;Gabès Governorate;Who's on First ID;1;1;from
+Q242263;Gabès Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q242263;Gabès Governorate;основная категория по теме;1;1;from
+Q242263;Gabès Governorate;является столицей;1;1;to
+Q242263;Gabès Governorate;общая тема категории;1;1;to
+Q242263;Gabès Governorate;происходит из;1;1;to
+Q242263;Gabès Governorate;код GeoNames;1;1;from
+Q242263;Gabès Governorate;численность населения;1;1;from
+Q242263;Gabès Governorate;изображение герба;1;1;from
+Q241145;Sfax Governorate;является столицей;1;1;to
+Q241145;Sfax Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q241145;Sfax Governorate;основная категория по теме;1;1;from
+Q241145;Sfax Governorate;место в MusicBrainz;1;1;from
+Q241145;Sfax Governorate;место рождения;1;2;to
+Q241145;Sfax Governorate;категория объединяет темы;1;1;to
+Q241145;Sfax Governorate;общая тема категории;1;1;to
+Q241145;Sfax Governorate;административно делится на;1;1;to
+Q242263;Gabès Governorate;официальный язык;1;1;from
+Q242263;Gabès Governorate;административно-территориальная единица;1;178;to
+Q242263;Gabès Governorate;государство;1;1;from
+Q242263;Gabès Governorate;изображение;1;1;from
+Q242263;Gabès Governorate;карта местонахождения;1;1;from
+Q242263;Gabès Governorate;это частный случай понятия;1;1;from
+Q242263;Gabès Governorate;столица;1;1;from
+Q241129;Bizerte Governorate;категория для людей, умерших здесь;1;1;from
+Q241129;Bizerte Governorate;категория для людей, родившихся здесь;1;1;from
+Q241129;Bizerte Governorate;код в Большой каталанской энциклопедии;1;1;from
+Q233116;Ariana Governorate;местный телефонный код;1;2;from
+Q27916;Zaghouan Governorate;общая тема категории;1;1;to
+Q27916;Zaghouan Governorate;административно делится на;1;1;to
+Q233116;Ariana Governorate;административно-территориальная единица;1;29;to
+Q233116;Ariana Governorate;административно делится на;1;1;to
+Q233116;Ariana Governorate;государство;1;1;from
+Q233116;Ariana Governorate;изображение;1;1;from
+Q233116;Ariana Governorate;карта местонахождения;1;1;from
+Q233116;Ariana Governorate;это частный случай понятия;1;1;from
+Q233116;Ariana Governorate;столица;1;1;from
+Q233116;Ariana Governorate;численность населения;1;1;from
+Q233116;Ariana Governorate;код GeoNames;1;1;from
+Q233116;Ariana Governorate;название на языке оригинала;1;1;from
+Q233116;Ariana Governorate;площадь;1;1;from
+Q233116;Ariana Governorate;ISO 3166-2;1;1;from
+Q233116;Ariana Governorate;категория на Викискладе;1;1;from
+Q27916;Zaghouan Governorate;является столицей;1;1;to
+Q27916;Zaghouan Governorate;место в MusicBrainz;1;1;from
+Q27916;Zaghouan Governorate;основная категория по теме;1;1;from
+Q27916;Zaghouan Governorate;площадь;1;1;from
+Q27916;Zaghouan Governorate;карта местонахождения;1;1;from
+Q27916;Zaghouan Governorate;это частный случай понятия;1;1;from
+Q27916;Zaghouan Governorate;столица;1;1;from
+Q27916;Zaghouan Governorate;численность населения;1;1;from
+Q27916;Zaghouan Governorate;код GeoNames;1;1;from
+Q27916;Zaghouan Governorate;название на языке оригинала;1;1;from
+Q27916;Zaghouan Governorate;ISO 3166-2;1;1;from
+Q27916;Zaghouan Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q27916;Zaghouan Governorate;категория на Викискладе;1;1;from
+Q27916;Zaghouan Governorate;географический код Туниса;1;1;from
+Q27916;Zaghouan Governorate;местный телефонный код;1;1;from
+Q27916;Zaghouan Governorate;географические координаты;1;1;from
+Q27916;Zaghouan Governorate;код Freebase;1;1;from
+Q27916;Zaghouan Governorate;Who's on First ID;1;1;from
+Q233116;Ariana Governorate;географический код Туниса;1;1;from
+Q233116;Ariana Governorate;географические координаты;1;1;from
+Q241129;Bizerte Governorate;численность населения;1;1;from
+Q233116;Ariana Governorate;код Freebase;1;1;from
+Q238555;Ben Arous Governorate;код Freebase;1;1;from
+Q238555;Ben Arous Governorate;Who's on First ID;1;1;from
+Q238555;Ben Arous Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q238555;Ben Arous Governorate;основная категория по теме;1;1;from
+Q238555;Ben Arous Governorate;состоит из;1;1;to
+Q238555;Ben Arous Governorate;является столицей;1;1;to
+Q238555;Ben Arous Governorate;общая тема категории;1;1;to
+Q238555;Ben Arous Governorate;административно делится на;1;1;to
+Q241129;Bizerte Governorate;административно-территориальная единица;1;445;to
+Q241129;Bizerte Governorate;административно делится на;1;1;to
+Q241129;Bizerte Governorate;государство;1;1;to
+Q241129;Bizerte Governorate;изображение;1;1;from
+Q241129;Bizerte Governorate;карта местонахождения;1;1;from
+Q241129;Bizerte Governorate;это частный случай понятия;1;1;from
+Q241129;Bizerte Governorate;столица;1;1;from
+Q238555;Ben Arous Governorate;географические координаты;1;1;from
+Q238555;Ben Arous Governorate;местный телефонный код;1;2;from
+Q238555;Ben Arous Governorate;географический код Туниса;1;1;from
+Q238555;Ben Arous Governorate;карта местонахождения;1;1;from
+Q233116;Ariana Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q233116;Ariana Governorate;основная категория по теме;1;1;from
+Q233116;Ariana Governorate;состоит из;1;1;to
+Q233116;Ariana Governorate;общая тема категории;1;1;to
+Q238555;Ben Arous Governorate;административно-территориальная единица;1;90;to
+Q238555;Ben Arous Governorate;государство;1;1;from
+Q238555;Ben Arous Governorate;это частный случай понятия;1;1;from
+Q238555;Ben Arous Governorate;категория на Викискладе;1;1;from
+Q238555;Ben Arous Governorate;столица;1;1;from
+Q238555;Ben Arous Governorate;численность населения;1;1;from
+Q238555;Ben Arous Governorate;код GeoNames;1;1;from
+Q238555;Ben Arous Governorate;название на языке оригинала;1;1;from
+Q238555;Ben Arous Governorate;площадь;1;1;from
+Q238555;Ben Arous Governorate;ISO 3166-2;1;1;from
+Q242263;Gabès Governorate;административно делится на;1;1;to
+Q269968;Gafsa Governorate;государство;1;1;from
+Q318102;Monastir Governorate;административно-территориальная единица;1;125;to
+Q276576;Kassrine;код Freebase;1;1;from
+Q276576;Kassrine;FIPS 10-4 (страны и регионы);1;1;from
+Q276576;Kassrine;основная категория по теме;1;1;from
+Q276576;Kassrine;является столицей;1;1;to
+Q276576;Kassrine;общая тема категории;1;1;to
+Q276576;Kassrine;административно делится на;1;1;to
+Q276580;Jendouba Governorate;административно-территориальная единица;1;196;to
+Q276580;Jendouba Governorate;государство;1;1;from
+Q276580;Jendouba Governorate;изображение;1;1;from
+Q276580;Jendouba Governorate;карта местонахождения;1;1;from
+Q276580;Jendouba Governorate;это частный случай понятия;1;1;from
+Q276580;Jendouba Governorate;столица;1;1;from
+Q276580;Jendouba Governorate;численность населения;1;1;from
+Q276580;Jendouba Governorate;код GeoNames;1;1;from
+Q276580;Jendouba Governorate;название на языке оригинала;1;1;from
+Q276580;Jendouba Governorate;площадь;1;1;from
+Q276576;Kassrine;Who's on First ID;1;1;from
+Q276576;Kassrine;географические координаты;1;2;from
+Q269968;Gafsa Governorate;изображение;1;1;from
+Q276576;Kassrine;дата основания/создания/возникновения;1;1;from
+Q276574;Kairouan Governorate;административно делится на;1;1;to
+Q276576;Kassrine;административно-территориальная единица;1;316;to
+Q276576;Kassrine;государство;1;1;from
+Q276576;Kassrine;изображение;1;1;from
+Q276576;Kassrine;карта местонахождения;1;1;from
+Q276576;Kassrine;это частный случай понятия;1;1;from
+Q276576;Kassrine;столица;1;1;from
+Q276576;Kassrine;численность населения;1;1;from
+Q276576;Kassrine;код в Большой каталанской энциклопедии;1;1;from
+Q276576;Kassrine;код GeoNames;1;1;from
+Q276576;Kassrine;площадь;1;1;from
+Q276576;Kassrine;ISO 3166-2;1;1;from
+Q276576;Kassrine;категория на Викискладе;1;1;from
+Q276576;Kassrine;географический код Туниса;1;1;from
+Q276576;Kassrine;местный телефонный код;1;1;from
+Q276580;Jendouba Governorate;ISO 3166-2;1;1;from
+Q276580;Jendouba Governorate;категория на Викискладе;1;1;from
+Q276580;Jendouba Governorate;географический код Туниса;1;1;from
+Q276580;Jendouba Governorate;местный телефонный код;1;1;from
+Q286063;Kebili Governorate;площадь;1;1;from
+Q286063;Kebili Governorate;ISO 3166-2;1;1;from
+Q286063;Kebili Governorate;категория на Викискладе;1;1;from
+Q286063;Kebili Governorate;географический код Туниса;1;1;from
+Q286063;Kebili Governorate;местный телефонный код;1;1;from
+Q286063;Kebili Governorate;географические координаты;1;1;from
+Q286063;Kebili Governorate;код Freebase;1;1;from
+Q286063;Kebili Governorate;Who's on First ID;1;1;from
+Q286063;Kebili Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q286063;Kebili Governorate;основная категория по теме;1;1;from
+Q286063;Kebili Governorate;категория объединяет темы;1;1;to
+Q286063;Kebili Governorate;место рождения;1;1;to
+Q286063;Kebili Governorate;общая тема категории;1;1;to
+Q286063;Kebili Governorate;является столицей;1;1;to
+Q286063;Kebili Governorate;административно делится на;1;1;to
+Q286063;Kebili Governorate;категория для людей, связанных с местностью;1;1;from
+Q286063;Kebili Governorate;название на языке оригинала;1;1;from
+Q286063;Kebili Governorate;код GeoNames;1;1;from
+Q276580;Jendouba Governorate;является столицей;1;1;to
+Q276580;Jendouba Governorate;географические координаты;1;2;from
+Q276580;Jendouba Governorate;код Freebase;1;1;from
+Q276580;Jendouba Governorate;Who's on First ID;1;1;from
+Q276580;Jendouba Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q276580;Jendouba Governorate;основная категория по теме;1;1;from
+Q276580;Jendouba Governorate;общая тема категории;1;1;to
+Q276580;Jendouba Governorate;административно делится на;1;1;to
+Q286063;Kebili Governorate;численность населения;1;1;from
+Q286063;Kebili Governorate;административно-территориальная единица;1;203;to
+Q286063;Kebili Governorate;государство;1;1;from
+Q286063;Kebili Governorate;изображение;1;1;from
+Q286063;Kebili Governorate;карта местонахождения;1;1;from
+Q286063;Kebili Governorate;это частный случай понятия;1;1;from
+Q286063;Kebili Governorate;столица;1;1;from
+Q276574;Kairouan Governorate;общая тема категории;1;1;to
+Q276574;Kairouan Governorate;место смерти;1;1;to
+Q276574;Kairouan Governorate;категория объединяет темы;1;2;to
+Q276565;Sousse Governorate;код тезауруса PACTOLS;1;1;from
+Q269968;Gafsa Governorate;административно делится на;1;1;to
+Q276565;Sousse Governorate;административно-территориальная единица;1;230;to
+Q276565;Sousse Governorate;государство;1;1;from
+Q276565;Sousse Governorate;изображение;1;1;from
+Q276565;Sousse Governorate;карта местонахождения;1;1;from
+Q276565;Sousse Governorate;это частный случай понятия;1;1;from
+Q276565;Sousse Governorate;столица;1;1;from
+Q276565;Sousse Governorate;численность населения;1;1;from
+Q276565;Sousse Governorate;код в энциклопедии «Британника онлайн»;1;1;from
+Q276565;Sousse Governorate;код GeoNames;1;1;from
+Q276565;Sousse Governorate;название на языке оригинала;1;1;from
+Q276565;Sousse Governorate;категория для людей, связанных с местностью;1;1;from
+Q276565;Sousse Governorate;площадь;1;1;from
+Q276565;Sousse Governorate;используемый язык;1;1;from
+Q276565;Sousse Governorate;ISO 3166-2;1;1;from
+Q269968;Gafsa Governorate;общая тема категории;1;1;to
+Q269968;Gafsa Governorate;является столицей;1;1;to
+Q269968;Gafsa Governorate;основная категория по теме;1;1;from
+Q269968;Gafsa Governorate;площадь;1;1;from
+Q269968;Gafsa Governorate;карта местонахождения;1;1;from
+Q269968;Gafsa Governorate;это частный случай понятия;1;1;from
+Q269968;Gafsa Governorate;столица;1;1;from
+Q269968;Gafsa Governorate;численность населения;1;1;from
+Q269968;Gafsa Governorate;код GeoNames;1;1;from
+Q269968;Gafsa Governorate;название на языке оригинала;1;1;from
+Q269968;Gafsa Governorate;ISO 3166-2;1;1;from
+Q269968;Gafsa Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q269968;Gafsa Governorate;категория на Викискладе;1;1;from
+Q269968;Gafsa Governorate;географический код Туниса;1;1;from
+Q269968;Gafsa Governorate;местный телефонный код;1;1;from
+Q269968;Gafsa Governorate;географические координаты;1;2;from
+Q269968;Gafsa Governorate;код Freebase;1;1;from
+Q269968;Gafsa Governorate;Who's on First ID;1;1;from
+Q276565;Sousse Governorate;категория на Викискладе;1;1;from
+Q276565;Sousse Governorate;географический код Туниса;1;1;from
+Q276574;Kairouan Governorate;основная категория по теме;1;1;from
+Q276565;Sousse Governorate;местный телефонный код;1;1;from
+Q276574;Kairouan Governorate;столица;1;1;from
+Q276574;Kairouan Governorate;численность населения;1;1;from
+Q276574;Kairouan Governorate;категория для людей, родившихся здесь;1;1;from
+Q276574;Kairouan Governorate;код GeoNames;1;1;from
+Q276574;Kairouan Governorate;название на языке оригинала;1;1;from
+Q276574;Kairouan Governorate;площадь;1;1;from
+Q276574;Kairouan Governorate;ISO 3166-2;1;1;from
+Q276574;Kairouan Governorate;категория на Викискладе;1;1;from
+Q276574;Kairouan Governorate;географический код Туниса;1;1;from
+Q276574;Kairouan Governorate;местный телефонный код;1;1;from
+Q276574;Kairouan Governorate;дата основания/создания/возникновения;1;1;from
+Q276574;Kairouan Governorate;географические координаты;1;1;from
+Q276574;Kairouan Governorate;код Freebase;1;1;from
+Q276574;Kairouan Governorate;Who's on First ID;1;1;from
+Q276574;Kairouan Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q276574;Kairouan Governorate;это частный случай понятия;1;1;from
+Q276574;Kairouan Governorate;карта местонахождения;1;1;from
+Q276574;Kairouan Governorate;изображение;1;1;from
+Q276565;Sousse Governorate;основная категория по теме;1;1;from
+Q276565;Sousse Governorate;дата основания/создания/возникновения;1;1;from
+Q276565;Sousse Governorate;географические координаты;1;2;from
+Q276565;Sousse Governorate;код Freebase;1;1;from
+Q276565;Sousse Governorate;Who's on First ID;1;1;from
+Q276565;Sousse Governorate;официальный сайт;1;1;from
+Q276565;Sousse Governorate;FIPS 10-4 (страны и регионы);1;1;from
+Q276565;Sousse Governorate;место в MusicBrainz;1;1;from
+Q276574;Kairouan Governorate;государство;1;1;from
+Q276565;Sousse Governorate;является столицей;1;1;to
+Q276565;Sousse Governorate;категория объединяет темы;1;1;to
+Q276565;Sousse Governorate;общая тема категории;1;1;to
+Q276565;Sousse Governorate;происходит из;1;1;to
+Q276565;Sousse Governorate;административно делится на;1;1;to
+Q276574;Kairouan Governorate;административно-территориальная единица;1;630;to
+Q734328;Manouba Governorate;административно делится на;1;1;to

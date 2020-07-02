@@ -1,0 +1,272 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q26061;Region of Southern Denmark;административно-территориальная единица;1;114;to
+Q26586;Central Denmark Region;площадь;1;1;from
+Q26586;Central Denmark Region;изображение флага;1;1;from
+Q26586;Central Denmark Region;имеет границы с;1;2;to
+Q26586;Central Denmark Region;глава правительства;1;4;from
+Q26586;Central Denmark Region;CVR;1;1;from
+Q26586;Central Denmark Region;численность населения;1;2;from
+Q26586;Central Denmark Region;код в Большой каталанской энциклопедии;1;1;from
+Q26586;Central Denmark Region;заменил;1;4;from
+Q26586;Central Denmark Region;категория для людей, родившихся здесь;1;1;from
+Q26586;Central Denmark Region;категория для людей, умерших здесь;1;1;from
+Q26586;Central Denmark Region;код GeoNames;1;1;from
+Q26586;Central Denmark Region;категория для людей, похороненных здесь;1;1;from
+Q26586;Central Denmark Region;категория для людей, связанных с местностью;1;1;from
+Q26586;Central Denmark Region;владеет;1;2;from
+Q26586;Central Denmark Region;высота над уровнем моря;1;1;from
+Q26586;Central Denmark Region;код grid global research;1;1;from
+Q26586;Central Denmark Region;это частный случай понятия;1;1;from
+Q26586;Central Denmark Region;ISO 3166-2;1;1;from
+Q26586;Central Denmark Region;EU VAT number;1;1;from
+Q26586;Central Denmark Region;код DigDag;1;1;from
+Q26586;Central Denmark Region;категория на Викискладе;1;1;from
+Q26586;Central Denmark Region;геоданные;1;1;from
+Q26586;Central Denmark Region;ID отношения в OpenStreetMap;1;1;from
+Q26586;Central Denmark Region;код тезауруса PACTOLS;1;1;from
+Q26586;Central Denmark Region;идентификатор местоположения ArchINFORM;1;1;from
+Q26586;Central Denmark Region;дата основания/создания/возникновения;1;1;from
+Q26586;Central Denmark Region;EU Research participant ID;1;1;from
+Q26586;Central Denmark Region;код NUTS;1;1;from
+Q26586;Central Denmark Region;географические координаты;1;1;from
+Q26586;Central Denmark Region;код Freebase;1;1;from
+Q26586;Central Denmark Region;Who's on First ID;1;1;from
+Q26586;Central Denmark Region;столица;1;1;from
+Q26586;Central Denmark Region;код LCNAF;1;1;from
+Q26586;Central Denmark Region;DR topic ID;1;1;from
+Q26073;Capital Region of Denmark;место рождения;1;11;to
+Q26073;Capital Region of Denmark;ID отношения в OpenStreetMap;1;1;from
+Q26073;Capital Region of Denmark;идентификатор местоположения ArchINFORM;1;1;from
+Q26073;Capital Region of Denmark;дата основания/создания/возникновения;1;1;from
+Q26073;Capital Region of Denmark;EU Research participant ID;1;1;from
+Q26073;Capital Region of Denmark;код NUTS;1;1;from
+Q26073;Capital Region of Denmark;географические координаты;1;1;from
+Q26073;Capital Region of Denmark;код Freebase;1;1;from
+Q26073;Capital Region of Denmark;Who's on First ID;1;1;from
+Q26073;Capital Region of Denmark;идентификатор ROR;1;1;from
+Q26073;Capital Region of Denmark;DR topic ID;1;1;from
+Q26073;Capital Region of Denmark;находится в пределах природно-географического объекта;1;1;to
+Q26073;Capital Region of Denmark;официальный сайт;1;1;from
+Q26073;Capital Region of Denmark;FIPS 10-4 (страны и регионы);1;1;from
+Q26073;Capital Region of Denmark;место в MusicBrainz;1;1;from
+Q26073;Capital Region of Denmark;категория объединяет темы;1;5;to
+Q26586;Central Denmark Region;карта местонахождения;1;1;from
+Q26073;Capital Region of Denmark;место погребения;1;1;to
+Q26073;Capital Region of Denmark;история происходит в месте;1;1;to
+Q26073;Capital Region of Denmark;работодатель;1;2;to
+Q26073;Capital Region of Denmark;состоит из;1;1;to
+Q26073;Capital Region of Denmark;спонсор;1;4;to
+Q26073;Capital Region of Denmark;место смерти;1;3;to
+Q26073;Capital Region of Denmark;общая тема категории;1;1;to
+Q26073;Capital Region of Denmark;является столицей;1;1;to
+Q26586;Central Denmark Region;административно-территориальная единица;1;80;to
+Q26586;Central Denmark Region;административно делится на;1;1;to
+Q26586;Central Denmark Region;государство;1;1;from
+Q26586;Central Denmark Region;город-побратим;1;1;to
+Q26586;Central Denmark Region;код VIAF;1;1;from
+Q26586;Central Denmark Region;код GND;1;1;from
+Q26586;Central Denmark Region;идентификатор ROR;1;1;from
+Q26586;Central Denmark Region;официальный сайт;1;1;from
+Q26073;Capital Region of Denmark;категория на Викискладе;1;1;from
+Q26589;Region Zealand;код Freebase;1;1;from
+Q26589;Region Zealand;код grid global research;1;1;from
+Q26589;Region Zealand;почтовый индекс;1;1;from
+Q26589;Region Zealand;ISO 3166-2;1;1;from
+Q26589;Region Zealand;EU VAT number;1;1;from
+Q26589;Region Zealand;часть от;1;1;from
+Q26589;Region Zealand;код DigDag;1;1;from
+Q26589;Region Zealand;категория на Викискладе;1;1;from
+Q26589;Region Zealand;геоданные;1;1;from
+Q26589;Region Zealand;ID отношения в OpenStreetMap;1;1;from
+Q26589;Region Zealand;идентификатор местоположения ArchINFORM;1;1;from
+Q26589;Region Zealand;дата основания/создания/возникновения;1;1;from
+Q26589;Region Zealand;EU Research participant ID;1;1;from
+Q26589;Region Zealand;код NUTS;1;1;from
+Q26589;Region Zealand;географические координаты;1;1;from
+Q26589;Region Zealand;Who's on First ID;1;1;from
+Q26589;Region Zealand;категория для людей, связанных с местностью;1;1;from
+Q26589;Region Zealand;идентификатор ROR;1;1;from
+Q26589;Region Zealand;DR topic ID;1;1;from
+Q26589;Region Zealand;категория карт на Викискладе;1;1;from
+Q26589;Region Zealand;официальный сайт;1;1;from
+Q26589;Region Zealand;FIPS 10-4 (страны и регионы);1;1;from
+Q26589;Region Zealand;основная категория по теме;1;1;from
+Q26589;Region Zealand;баннер Викигида;1;1;from
+Q26589;Region Zealand;адрес (УСТАРЕЛО);1;1;from
+Q26589;Region Zealand;место в MusicBrainz;1;1;from
+Q26589;Region Zealand;категория объединяет темы;1;6;to
+Q26589;Region Zealand;заменён на;1;1;to
+Q26589;Region Zealand;состоит из;1;1;to
+Q26589;Region Zealand;место рождения;1;1;to
+Q26589;Region Zealand;общая тема категории;1;1;to
+Q26589;Region Zealand;площадь;1;1;from
+Q26589;Region Zealand;категория для людей, похороненных здесь;1;1;from
+Q26586;Central Denmark Region;FIPS 10-4 (страны и регионы);1;1;from
+Q26589;Region Zealand;государство;1;1;from
+Q26586;Central Denmark Region;место в MusicBrainz;1;1;from
+Q26586;Central Denmark Region;место рождения;1;8;to
+Q26586;Central Denmark Region;основатель;1;1;to
+Q26586;Central Denmark Region;владельцем является;1;2;to
+Q26586;Central Denmark Region;категория объединяет темы;1;5;to
+Q26586;Central Denmark Region;история происходит в месте;1;1;to
+Q26586;Central Denmark Region;спонсор;1;1;to
+Q26586;Central Denmark Region;место смерти;1;2;to
+Q26586;Central Denmark Region;работодатель;1;1;to
+Q26586;Central Denmark Region;общая тема категории;1;1;to
+Q26586;Central Denmark Region;заменён на;1;1;to
+Q26586;Central Denmark Region;является столицей;1;1;to
+Q26589;Region Zealand;административно-территориальная единица;1;62;to
+Q26589;Region Zealand;административно делится на;1;1;to
+Q26589;Region Zealand;изображение;1;1;from
+Q26589;Region Zealand;код GeoNames;1;1;from
+Q26589;Region Zealand;код ISNI;1;1;from
+Q26589;Region Zealand;код GND;1;1;from
+Q26589;Region Zealand;карта местонахождения;1;2;from
+Q26589;Region Zealand;это частный случай понятия;1;1;from
+Q26589;Region Zealand;столица;1;1;from
+Q26589;Region Zealand;изображение флага;1;1;from
+Q26589;Region Zealand;имеет границы с;1;2;to
+Q26589;Region Zealand;глава правительства;1;8;from
+Q26589;Region Zealand;CVR;1;1;from
+Q26589;Region Zealand;численность населения;1;2;from
+Q26589;Region Zealand;участвовал в;1;1;from
+Q26589;Region Zealand;заменил;1;3;from
+Q26589;Region Zealand;категория для людей, родившихся здесь;1;1;from
+Q26589;Region Zealand;категория для людей, умерших здесь;1;1;from
+Q26073;Capital Region of Denmark;геоданные;1;1;from
+Q26073;Capital Region of Denmark;код DigDag;1;1;from
+Q26061;Region of Southern Denmark;административно делится на;1;1;to
+Q26067;North Denmark Region;административно-территориальная единица;1;66;to
+Q26061;Region of Southern Denmark;код Freebase;1;1;from
+Q26061;Region of Southern Denmark;Who's on First ID;1;1;from
+Q26061;Region of Southern Denmark;идентификатор ROR;1;1;from
+Q26061;Region of Southern Denmark;официальный сайт;1;1;from
+Q26061;Region of Southern Denmark;FIPS 10-4 (страны и регионы);1;1;from
+Q26061;Region of Southern Denmark;место в MusicBrainz;1;1;from
+Q26061;Region of Southern Denmark;категория объединяет темы;1;5;to
+Q26061;Region of Southern Denmark;место рождения;1;5;to
+Q26061;Region of Southern Denmark;спонсор;1;7;to
+Q26061;Region of Southern Denmark;место обнаружения;1;1;to
+Q26061;Region of Southern Denmark;работодатель;1;1;to
+Q26061;Region of Southern Denmark;соавтор, сделавший вклад в субъект;1;52;to
+Q26061;Region of Southern Denmark;общая тема категории;1;1;to
+Q26061;Region of Southern Denmark;является столицей;1;1;to
+Q26067;North Denmark Region;административно делится на;1;1;to
+Q26061;Region of Southern Denmark;код NUTS;1;1;from
+Q26067;North Denmark Region;государство;1;1;from
+Q26067;North Denmark Region;код VIAF;1;1;from
+Q26067;North Denmark Region;код GND;1;1;from
+Q26067;North Denmark Region;карта местонахождения;1;1;from
+Q26067;North Denmark Region;код LCNAF;1;1;from
+Q26067;North Denmark Region;это частный случай понятия;1;1;from
+Q26067;North Denmark Region;столица;1;1;from
+Q26067;North Denmark Region;изображение флага;1;1;from
+Q26067;North Denmark Region;имеет границы с;1;1;to
+Q26067;North Denmark Region;глава правительства;1;4;from
+Q26067;North Denmark Region;CVR;1;1;from
+Q26067;North Denmark Region;численность населения;1;2;from
+Q26067;North Denmark Region;код в Большой каталанской энциклопедии;1;1;from
+Q26067;North Denmark Region;участвовал в;1;1;from
+Q26061;Region of Southern Denmark;географические координаты;1;1;from
+Q26061;Region of Southern Denmark;дата основания/создания/возникновения;1;1;from
+Q26067;North Denmark Region;категория для людей, родившихся здесь;1;1;from
+Q26061;Region of Southern Denmark;заменил;1;4;from
+Q26061;Region of Southern Denmark;государство;1;1;from
+Q26061;Region of Southern Denmark;изображение;1;1;from
+Q26061;Region of Southern Denmark;код VIAF;1;1;from
+Q26061;Region of Southern Denmark;код GND;1;1;from
+Q26061;Region of Southern Denmark;карта местонахождения;1;1;from
+Q26061;Region of Southern Denmark;код LCNAF;1;1;from
+Q26061;Region of Southern Denmark;это частный случай понятия;1;1;from
+Q26061;Region of Southern Denmark;столица;1;1;from
+Q26061;Region of Southern Denmark;изображение флага;1;1;from
+Q26061;Region of Southern Denmark;имеет границы с;1;1;to
+Q26061;Region of Southern Denmark;глава правительства;1;4;from
+Q26061;Region of Southern Denmark;CVR;1;1;from
+Q26061;Region of Southern Denmark;численность населения;1;2;from
+Q26061;Region of Southern Denmark;код в Большой каталанской энциклопедии;1;1;from
+Q26061;Region of Southern Denmark;категория для людей, родившихся здесь;1;1;from
+Q26061;Region of Southern Denmark;идентификатор местоположения ArchINFORM;1;1;from
+Q26061;Region of Southern Denmark;категория для людей, умерших здесь;1;1;from
+Q26061;Region of Southern Denmark;код GeoNames;1;1;from
+Q26061;Region of Southern Denmark;название на языке оригинала;1;1;from
+Q26061;Region of Southern Denmark;категория для людей, похороненных здесь;1;1;from
+Q26061;Region of Southern Denmark;категория для людей, связанных с местностью;1;1;from
+Q26061;Region of Southern Denmark;высота над уровнем моря;1;1;from
+Q26061;Region of Southern Denmark;площадь;1;1;from
+Q26061;Region of Southern Denmark;код grid global research;1;1;from
+Q26061;Region of Southern Denmark;ISO 3166-2;1;1;from
+Q26061;Region of Southern Denmark;код DigDag;1;1;from
+Q26061;Region of Southern Denmark;категория на Викискладе;1;1;from
+Q26061;Region of Southern Denmark;геоданные;1;1;from
+Q26061;Region of Southern Denmark;ID отношения в OpenStreetMap;1;1;from
+Q26061;Region of Southern Denmark;код тезауруса PACTOLS;1;1;from
+Q26067;North Denmark Region;заменил;1;8;from
+Q26067;North Denmark Region;категория для людей, умерших здесь;1;1;from
+Q26073;Capital Region of Denmark;часть от;1;1;from
+Q26073;Capital Region of Denmark;заменил;1;5;from
+Q26073;Capital Region of Denmark;расположение штаб-квартиры;1;1;from
+Q26073;Capital Region of Denmark;государство;1;1;from
+Q26073;Capital Region of Denmark;изображение;1;1;from
+Q26073;Capital Region of Denmark;код ISNI;1;1;from
+Q26073;Capital Region of Denmark;карта местонахождения;1;1;from
+Q26073;Capital Region of Denmark;это частный случай понятия;1;1;from
+Q26073;Capital Region of Denmark;столица;1;1;from
+Q26073;Capital Region of Denmark;изображение флага;1;1;from
+Q26073;Capital Region of Denmark;имеет границы с;1;2;to
+Q26073;Capital Region of Denmark;глава правительства;1;4;from
+Q26073;Capital Region of Denmark;десятичная классификация Дьюи;1;1;from
+Q26073;Capital Region of Denmark;CVR;1;1;from
+Q26073;Capital Region of Denmark;численность населения;1;2;from
+Q26073;Capital Region of Denmark;код в Большой каталанской энциклопедии;1;1;from
+Q26073;Capital Region of Denmark;организационно-правовая форма;1;1;from
+Q26073;Capital Region of Denmark;административно-территориальная единица;1;89;to
+Q26073;Capital Region of Denmark;категория для людей, родившихся здесь;1;1;from
+Q26073;Capital Region of Denmark;категория для людей, умерших здесь;1;1;from
+Q26073;Capital Region of Denmark;женское население;1;1;from
+Q26073;Capital Region of Denmark;мужское население;1;1;from
+Q26073;Capital Region of Denmark;код GeoNames;1;1;from
+Q26073;Capital Region of Denmark;категория для людей, похороненных здесь;1;1;from
+Q26073;Capital Region of Denmark;категория для людей, связанных с местностью;1;1;from
+Q26073;Capital Region of Denmark;высота над уровнем моря;1;1;from
+Q26073;Capital Region of Denmark;площадь;1;1;from
+Q26073;Capital Region of Denmark;код grid global research;1;1;from
+Q26073;Capital Region of Denmark;ISO 3166-2;1;1;from
+Q26073;Capital Region of Denmark;код спонсора Crossref;1;1;from
+Q26073;Capital Region of Denmark;идентификатор Ringgold;1;1;from
+Q26073;Capital Region of Denmark;EU VAT number;1;1;from
+Q26073;Capital Region of Denmark;административно делится на;1;1;to
+Q26067;North Denmark Region;является столицей;1;1;to
+Q26067;North Denmark Region;код GeoNames;1;1;from
+Q26067;North Denmark Region;код NUTS;1;1;from
+Q26067;North Denmark Region;категория для людей, связанных с местностью;1;1;from
+Q26067;North Denmark Region;учётная запись в Твиттере;1;1;from
+Q26067;North Denmark Region;высота над уровнем моря;1;1;from
+Q26067;North Denmark Region;площадь;1;1;from
+Q26067;North Denmark Region;код grid global research;1;1;from
+Q26067;North Denmark Region;почтовый индекс;1;1;from
+Q26067;North Denmark Region;ISO 3166-2;1;1;from
+Q26067;North Denmark Region;код DigDag;1;1;from
+Q26067;North Denmark Region;категория на Викискладе;1;1;from
+Q26067;North Denmark Region;геоданные;1;1;from
+Q26067;North Denmark Region;ID отношения в OpenStreetMap;1;1;from
+Q26067;North Denmark Region;код тезауруса PACTOLS;1;1;from
+Q26067;North Denmark Region;идентификатор местоположения ArchINFORM;1;1;from
+Q26067;North Denmark Region;дата основания/создания/возникновения;1;1;from
+Q26067;North Denmark Region;географические координаты;1;1;from
+Q26067;North Denmark Region;заменён на;1;2;to
+Q26067;North Denmark Region;код Freebase;1;1;from
+Q26067;North Denmark Region;Who's on First ID;1;1;from
+Q26067;North Denmark Region;идентификатор ROR;1;1;from
+Q26067;North Denmark Region;официальный сайт;1;1;from
+Q26067;North Denmark Region;FIPS 10-4 (страны и регионы);1;1;from
+Q26067;North Denmark Region;баннер Викигида;1;1;from
+Q26067;North Denmark Region;адрес (УСТАРЕЛО);1;1;from
+Q26067;North Denmark Region;место в MusicBrainz;1;1;from
+Q26067;North Denmark Region;категория объединяет темы;1;3;to
+Q26067;North Denmark Region;место рождения;1;2;to
+Q26067;North Denmark Region;оператор;1;2;to
+Q26067;North Denmark Region;место смерти;1;3;to
+Q26067;North Denmark Region;работодатель;1;1;to
+Q26067;North Denmark Region;общая тема категории;1;1;to
+Q26589;Region Zealand;является столицей;1;1;to

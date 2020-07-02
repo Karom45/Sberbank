@@ -1,0 +1,215 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q281109;Estuaire Province;административно-территориальная единица;1;561;to
+Q823774;Ngounié Province;географические координаты;1;1;from
+Q823774;Ngounié Province;Who's on First ID;1;1;from
+Q823774;Ngounié Province;FIPS 10-4 (страны и регионы);1;1;from
+Q823774;Ngounié Province;основная категория по теме;1;1;from
+Q823774;Ngounié Province;место рождения;1;2;to
+Q823774;Ngounié Province;является столицей;1;1;to
+Q823774;Ngounié Province;происходит из;1;14;to
+Q823774;Ngounié Province;общая тема категории;1;1;to
+Q823774;Ngounié Province;административно делится на;1;1;to
+Q823800;Woleu-Ntem Province;административно-территориальная единица;1;369;to
+Q823800;Woleu-Ntem Province;названо в честь;1;1;from
+Q823800;Woleu-Ntem Province;государство;1;1;from
+Q823800;Woleu-Ntem Province;карта местонахождения;1;1;from
+Q823800;Woleu-Ntem Province;это частный случай понятия;1;1;from
+Q823800;Woleu-Ntem Province;столица;1;1;from
+Q823800;Woleu-Ntem Province;имеет границы с;1;3;to
+Q823800;Woleu-Ntem Province;код GeoNames;1;1;from
+Q823800;Woleu-Ntem Province;код TGN;1;1;from
+Q823800;Woleu-Ntem Province;площадь;1;1;from
+Q823800;Woleu-Ntem Province;код BabelNet;1;1;from
+Q823800;Woleu-Ntem Province;используемый язык;1;3;from
+Q823800;Woleu-Ntem Province;ISO 3166-2;1;1;from
+Q823800;Woleu-Ntem Province;ID отношения в OpenStreetMap;1;1;from
+Q823800;Woleu-Ntem Province;географические координаты;1;1;from
+Q823774;Ngounié Province;код Freebase;1;1;from
+Q823774;Ngounié Province;ID отношения в OpenStreetMap;1;1;from
+Q823800;Woleu-Ntem Province;Who's on First ID;1;1;from
+Q823774;Ngounié Province;ISO 3166-2;1;1;from
+Q823762;Ogooué-Lolo Province;используемый язык;1;10;from
+Q823762;Ogooué-Lolo Province;ISO 3166-2;1;1;from
+Q823762;Ogooué-Lolo Province;ID отношения в OpenStreetMap;1;1;from
+Q823762;Ogooué-Lolo Province;географические координаты;1;1;from
+Q823762;Ogooué-Lolo Province;код Freebase;1;1;from
+Q823762;Ogooué-Lolo Province;Who's on First ID;1;1;from
+Q823762;Ogooué-Lolo Province;FIPS 10-4 (страны и регионы);1;1;from
+Q823762;Ogooué-Lolo Province;основная категория по теме;1;1;from
+Q823762;Ogooué-Lolo Province;общая тема категории;1;1;to
+Q823762;Ogooué-Lolo Province;является столицей;1;1;to
+Q823762;Ogooué-Lolo Province;административно делится на;1;1;to
+Q823762;Ogooué-Lolo Province;происходит из;1;9;to
+Q823774;Ngounié Province;административно-территориальная единица;1;304;to
+Q823774;Ngounié Province;названо в честь;1;1;from
+Q823774;Ngounié Province;государство;1;1;from
+Q823774;Ngounié Province;карта местонахождения;1;1;from
+Q823774;Ngounié Province;это частный случай понятия;1;1;from
+Q823774;Ngounié Province;столица;1;1;from
+Q823774;Ngounié Province;имеет границы с;1;4;to
+Q823774;Ngounié Province;код в Большой каталанской энциклопедии;1;1;from
+Q823774;Ngounié Province;код GeoNames;1;1;from
+Q823774;Ngounié Province;площадь;1;1;from
+Q823774;Ngounié Province;используемый язык;1;14;from
+Q823800;Woleu-Ntem Province;код Freebase;1;1;from
+Q823800;Woleu-Ntem Province;FIPS 10-4 (страны и регионы);1;1;from
+Q281109;Estuaire Province;государство;1;1;from
+Q823822;Ogooué-Ivindo Province;происходит из;1;9;to
+Q823822;Ogooué-Ivindo Province;административно делится на;1;1;to
+Q846017;Nyanga Province;административно-территориальная единица;1;216;to
+Q846017;Nyanga Province;названо в честь;1;1;from
+Q846017;Nyanga Province;государство;1;1;from
+Q846017;Nyanga Province;карта местонахождения;1;1;from
+Q846017;Nyanga Province;это частный случай понятия;1;1;from
+Q846017;Nyanga Province;столица;1;1;from
+Q846017;Nyanga Province;имеет границы с;1;2;to
+Q846017;Nyanga Province;код в Большой каталанской энциклопедии;1;1;from
+Q846017;Nyanga Province;код GeoNames;1;1;from
+Q846017;Nyanga Province;площадь;1;1;from
+Q846017;Nyanga Province;используемый язык;1;6;from
+Q846017;Nyanga Province;ISO 3166-2;1;1;from
+Q846017;Nyanga Province;ID отношения в OpenStreetMap;1;1;from
+Q846017;Nyanga Province;географические координаты;1;1;from
+Q846017;Nyanga Province;код Freebase;1;1;from
+Q846017;Nyanga Province;Who's on First ID;1;1;from
+Q846017;Nyanga Province;FIPS 10-4 (страны и регионы);1;1;from
+Q846017;Nyanga Province;основная категория по теме;1;1;from
+Q846017;Nyanga Province;место рождения;1;1;to
+Q846017;Nyanga Province;происходит из;1;6;to
+Q846017;Nyanga Province;является столицей;1;1;to
+Q846017;Nyanga Province;общая тема категории;1;1;to
+Q823822;Ogooué-Ivindo Province;общая тема категории;1;1;to
+Q823822;Ogooué-Ivindo Province;является столицей;1;1;to
+Q823800;Woleu-Ntem Province;основная категория по теме;1;1;from
+Q823822;Ogooué-Ivindo Province;основная категория по теме;1;1;from
+Q823800;Woleu-Ntem Province;общая тема категории;1;1;to
+Q823800;Woleu-Ntem Province;место рождения;1;1;to
+Q823800;Woleu-Ntem Province;является столицей;1;1;to
+Q823800;Woleu-Ntem Province;административно делится на;1;1;to
+Q823800;Woleu-Ntem Province;происходит из;1;3;to
+Q823822;Ogooué-Ivindo Province;административно-территориальная единица;1;330;to
+Q823822;Ogooué-Ivindo Province;названо в честь;1;2;from
+Q823822;Ogooué-Ivindo Province;государство;1;1;from
+Q823822;Ogooué-Ivindo Province;карта местонахождения;1;1;from
+Q823822;Ogooué-Ivindo Province;это частный случай понятия;1;1;from
+Q823822;Ogooué-Ivindo Province;столица;1;1;from
+Q823822;Ogooué-Ivindo Province;имеет границы с;1;4;to
+Q823822;Ogooué-Ivindo Province;код в Большой каталанской энциклопедии;1;1;from
+Q823822;Ogooué-Ivindo Province;код GeoNames;1;1;from
+Q823822;Ogooué-Ivindo Province;код TGN;1;1;from
+Q823822;Ogooué-Ivindo Province;площадь;1;1;from
+Q823822;Ogooué-Ivindo Province;используемый язык;1;9;from
+Q823822;Ogooué-Ivindo Province;ISO 3166-2;1;1;from
+Q823822;Ogooué-Ivindo Province;ID отношения в OpenStreetMap;1;1;from
+Q823822;Ogooué-Ivindo Province;географические координаты;1;1;from
+Q823822;Ogooué-Ivindo Province;код Freebase;1;1;from
+Q823822;Ogooué-Ivindo Province;Who's on First ID;1;1;from
+Q823822;Ogooué-Ivindo Province;FIPS 10-4 (страны и регионы);1;1;from
+Q823762;Ogooué-Lolo Province;код BabelNet;1;1;from
+Q823762;Ogooué-Lolo Province;площадь;1;1;from
+Q823762;Ogooué-Lolo Province;код TGN;1;1;from
+Q590802;Moyen-Ogooué Province;это частный случай понятия;1;1;from
+Q590802;Moyen-Ogooué Province;имеет границы с;1;5;to
+Q590802;Moyen-Ogooué Province;код в Большой каталанской энциклопедии;1;1;from
+Q590802;Moyen-Ogooué Province;код GeoNames;1;1;from
+Q590802;Moyen-Ogooué Province;код TGN;1;1;from
+Q590802;Moyen-Ogooué Province;площадь;1;1;from
+Q590802;Moyen-Ogooué Province;используемый язык;1;4;from
+Q590802;Moyen-Ogooué Province;ISO 3166-2;1;1;from
+Q590802;Moyen-Ogooué Province;категория на Викискладе;1;1;from
+Q590802;Moyen-Ogooué Province;ID отношения в OpenStreetMap;1;1;from
+Q590802;Moyen-Ogooué Province;географические координаты;1;1;from
+Q590802;Moyen-Ogooué Province;код Freebase;1;1;from
+Q590802;Moyen-Ogooué Province;Who's on First ID;1;1;from
+Q590802;Moyen-Ogooué Province;FIPS 10-4 (страны и регионы);1;1;from
+Q590802;Moyen-Ogooué Province;основная категория по теме;1;1;from
+Q590802;Moyen-Ogooué Province;место в MusicBrainz;1;1;from
+Q590802;Moyen-Ogooué Province;общая тема категории;1;1;to
+Q590802;Moyen-Ogooué Province;является столицей;1;1;to
+Q590802;Moyen-Ogooué Province;административно делится на;1;1;to
+Q590802;Moyen-Ogooué Province;происходит из;1;4;to
+Q654438;Haut-Ogooué Province;административно-территориальная единица;1;193;to
+Q654438;Haut-Ogooué Province;названо в честь;1;1;from
+Q654438;Haut-Ogooué Province;государство;1;1;from
+Q654438;Haut-Ogooué Province;карта местонахождения;1;1;from
+Q590802;Moyen-Ogooué Province;столица;1;1;from
+Q590802;Moyen-Ogooué Province;карта местонахождения;1;1;from
+Q823762;Ogooué-Lolo Province;код GeoNames;1;1;from
+Q590802;Moyen-Ogooué Province;государство;1;1;from
+Q281109;Estuaire Province;карта местонахождения;1;1;from
+Q281109;Estuaire Province;это частный случай понятия;1;1;from
+Q281109;Estuaire Province;столица;1;1;from
+Q281109;Estuaire Province;имеет границы с;1;3;to
+Q281109;Estuaire Province;код в Большой каталанской энциклопедии;1;1;from
+Q281109;Estuaire Province;код GeoNames;1;1;from
+Q281109;Estuaire Province;площадь;1;1;from
+Q281109;Estuaire Province;код BNF;1;1;from
+Q281109;Estuaire Province;используемый язык;1;4;from
+Q281109;Estuaire Province;ISO 3166-2;1;1;from
+Q281109;Estuaire Province;категория на Викискладе;1;1;from
+Q281109;Estuaire Province;ID отношения в OpenStreetMap;1;1;from
+Q281109;Estuaire Province;географические координаты;1;1;from
+Q281109;Estuaire Province;код Freebase;1;1;from
+Q281109;Estuaire Province;Who's on First ID;1;1;from
+Q281109;Estuaire Province;FIPS 10-4 (страны и регионы);1;1;from
+Q281109;Estuaire Province;основная категория по теме;1;1;from
+Q281109;Estuaire Province;общая тема категории;1;1;to
+Q281109;Estuaire Province;административно делится на;1;1;to
+Q281109;Estuaire Province;происходит из;1;4;to
+Q281109;Estuaire Province;является столицей;1;1;to
+Q590802;Moyen-Ogooué Province;административно-территориальная единица;1;178;to
+Q590802;Moyen-Ogooué Province;названо в честь;1;1;from
+Q654438;Haut-Ogooué Province;это частный случай понятия;1;1;from
+Q654438;Haut-Ogooué Province;столица;1;1;from
+Q654438;Haut-Ogooué Province;имеет границы с;1;2;to
+Q654438;Haut-Ogooué Province;код в Большой каталанской энциклопедии;1;1;from
+Q823751;Ogooué-Maritime Province;код TGN;1;1;from
+Q823751;Ogooué-Maritime Province;площадь;1;1;from
+Q823751;Ogooué-Maritime Province;код BNF;1;1;from
+Q823751;Ogooué-Maritime Province;используемый язык;1;4;from
+Q823751;Ogooué-Maritime Province;ISO 3166-2;1;1;from
+Q823751;Ogooué-Maritime Province;ID отношения в OpenStreetMap;1;1;from
+Q823751;Ogooué-Maritime Province;географические координаты;1;1;from
+Q823751;Ogooué-Maritime Province;код Freebase;1;1;from
+Q823751;Ogooué-Maritime Province;Who's on First ID;1;1;from
+Q823751;Ogooué-Maritime Province;FIPS 10-4 (страны и регионы);1;1;from
+Q823751;Ogooué-Maritime Province;основная категория по теме;1;1;from
+Q823751;Ogooué-Maritime Province;является столицей;1;1;to
+Q823751;Ogooué-Maritime Province;общая тема категории;1;1;to
+Q823751;Ogooué-Maritime Province;административно делится на;1;1;to
+Q823751;Ogooué-Maritime Province;происходит из;1;4;to
+Q823762;Ogooué-Lolo Province;административно-территориальная единица;1;176;to
+Q823762;Ogooué-Lolo Province;названо в честь;1;2;from
+Q823762;Ogooué-Lolo Province;государство;1;1;from
+Q823762;Ogooué-Lolo Province;карта местонахождения;1;1;from
+Q823762;Ogooué-Lolo Province;это частный случай понятия;1;1;from
+Q823762;Ogooué-Lolo Province;столица;1;1;from
+Q823762;Ogooué-Lolo Province;имеет границы с;1;3;to
+Q823762;Ogooué-Lolo Province;код в Большой каталанской энциклопедии;1;1;from
+Q823751;Ogooué-Maritime Province;код GeoNames;1;1;from
+Q823751;Ogooué-Maritime Province;код в Большой каталанской энциклопедии;1;1;from
+Q823751;Ogooué-Maritime Province;имеет границы с;1;4;to
+Q654438;Haut-Ogooué Province;FIPS 10-4 (страны и регионы);1;1;from
+Q654438;Haut-Ogooué Province;код GeoNames;1;1;from
+Q654438;Haut-Ogooué Province;код TGN;1;1;from
+Q654438;Haut-Ogooué Province;площадь;1;1;from
+Q654438;Haut-Ogooué Province;код BNF;1;1;from
+Q654438;Haut-Ogooué Province;используемый язык;1;11;from
+Q654438;Haut-Ogooué Province;ISO 3166-2;1;1;from
+Q654438;Haut-Ogooué Province;ID отношения в OpenStreetMap;1;1;from
+Q654438;Haut-Ogooué Province;географические координаты;1;1;from
+Q654438;Haut-Ogooué Province;код Freebase;1;1;from
+Q654438;Haut-Ogooué Province;Who's on First ID;1;1;from
+Q654438;Haut-Ogooué Province;основная категория по теме;1;1;from
+Q823751;Ogooué-Maritime Province;столица;1;1;from
+Q654438;Haut-Ogooué Province;место рождения;1;1;to
+Q654438;Haut-Ogooué Province;является столицей;1;1;to
+Q654438;Haut-Ogooué Province;общая тема категории;1;1;to
+Q654438;Haut-Ogooué Province;административно делится на;1;1;to
+Q654438;Haut-Ogooué Province;происходит из;1;11;to
+Q823751;Ogooué-Maritime Province;административно-территориальная единица;1;359;to
+Q823751;Ogooué-Maritime Province;названо в честь;1;1;from
+Q823751;Ogooué-Maritime Province;государство;1;1;from
+Q823751;Ogooué-Maritime Province;карта местонахождения;1;1;from
+Q823751;Ogooué-Maritime Province;это частный случай понятия;1;1;from
+Q846017;Nyanga Province;административно делится на;1;1;to

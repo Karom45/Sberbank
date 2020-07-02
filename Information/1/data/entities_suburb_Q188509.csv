@@ -1,0 +1,4616 @@
+﻿entity;label
+Q14297;Davoren Park
+Q21319;Parramatta
+Q24052;Inverleith
+Q24462;Dehiwala-Mount Lavinia
+Q24533;Brunswick West
+Q29833;Peterculter
+Q32403;Renmore
+Q42272;Katugastota
+Q47002;Carlton
+Q59593;Fortitude Valley
+Q72216;Kew
+Q83475;Greenford
+Q83726;Ealing
+Q118974;Brunswick East
+Q120070;Petone
+Q123296;Petts Wood
+Q124370;Lindisfarne
+Q128438;Cherrybrook
+Q146346;Sudbury
+Q146705;Sidcup
+Q149680;Cockfosters
+Q149706;Ritopek
+Q150195;Hampstead Garden Suburb
+Q150209;North Finchley
+Q150212;East Barnet
+Q167179;Oerlikon
+Q205720;Aspendale
+Q225103;Garran
+Q247697;Meadowbank
+Q251170;Chembur
+Q253217;Minto Heights
+Q256629;Scullin
+Q256948;Hackett
+Q257618;Waterloo
+Q257622;Bandra
+Q264350;Rhodes
+Q280549;Hughes
+Q281242;Bexley
+Q282511;Badgerys Creek
+Q282765;Banyo
+Q288948;Aranda
+Q291305;Banks
+Q302921;Pearce
+Q306710;Abbotsford
+Q319540;Aberfeldie
+Q366428;Adouz
+Q368723;Metro East
+Q370896;Bethania
+Q371361;Mitchell
+Q378086;Baljevac, Obrenovac
+Q386354;Rookwood
+Q391877;Cherrywood
+Q407381;Air Itam
+Q426126;Hammondville
+Q429307;Doncaster
+Q430717;Dražanj
+Q434165;Howth
+Q434454;Mulhuddart
+Q441541;Marton
+Q443946;Altona
+Q443960;Altona Meadows
+Q443965;Altona North
+Q471064;Yarralumla
+Q474528;St Albans
+Q475443;Wildwood
+Q477145;Mount Eden
+Q482055;Acton
+Q487945;Tatarskaya Slabada
+Q487985;Ramanaŭskaja Slabada
+Q489744;Peradeniya
+Q493166;Stanwell Park
+Q495152;Kirribilli
+Q509716;Manly
+Q510262;Plimmerton
+Q516923;Evatt
+Q518754;Epsom
+Q520022;Forde
+Q522919;South Albury
+Q530368;Shellharbour
+Q532284;Chifley
+Q532974;Parkes
+Q538134;Symonston
+Q538592;Curtin
+Q539480;Hamworthy
+Q545586;Beverley Park
+Q548423;Kisač
+Q575863;Nelson
+Q579521;Kibera
+Q583980;Gardenvale
+Q586019;Balgowlah Heights
+Q588767;Aroor gram panchayat
+Q591771;Albert Park
+Q599338;Ostružnica
+Q599583;Terrigal
+Q605488;Yoogali
+Q607942;Belmont
+Q617029;Holder
+Q626697;Mathare
+Q631060;Newton, New Zealand
+Q636674;Bradwell
+Q638779;Ardeer
+Q640131;Springvale South
+Q642663;Rednal
+Q647356;Coburg
+Q652017;Crace
+Q660135;Florey
+Q662759;Warner
+Q664903;Newmarket
+Q665346;Shenfield
+Q671784;Deakin
+Q673418;Bondi Beach
+Q673919;Lauderdale
+Q674362;Juhu
+Q675598;Ropočevo
+Q676441;Armadale
+Q678351;Molino Nuovo
+Q680134;Pambio Noranco
+Q682963;Besso
+Q685700;Caversham
+Q691601;Clemton Park
+Q692156;Pazzallo
+Q692763;Bonner
+Q693420;Viganello
+Q705686;Albany Creek
+Q723342;Ascot Vale
+Q724906;Ashburton
+Q725263;Ashford
+Q726631;Ashwood
+Q728878;New Brighton
+Q730334;Higgins
+Q736110;Aspendale Gardens
+Q737528;Allestree
+Q742714;Māngere
+Q743940;Lewisham
+Q745822;Flynn
+Q758264;Attwood
+Q758544;Auburn
+Q763513;Cremorne
+Q765953;Macquarie
+Q766353;Hampton
+Q769709;Kifisia
+Q788178;Wentworth Point
+Q790094;Avalon Beach
+Q791305;Avondale Heights
+Q805854;Balwyn North
+Q812628;Bayswater
+Q812898;Beaconsfield
+Q813411;Beaumaris
+Q815564;Belgrave
+Q815565;Belgrave Heights
+Q815911;Bellerive
+Q823088;Campbell
+Q823531;St Kilda
+Q824473;Penshurst
+Q829245;Berwick
+Q831318;Bethlehem, New Zealand
+Q834009;Mount Victoria
+Q848872;Braddon
+Q850226;Reid
+Q856671;Söderort
+Q857625;Calwell
+Q860086;Chapman
+Q865555;Birkenhead
+Q868702;Conder
+Q869843;Loreto
+Q880513;Black Rock
+Q880723;Blackburn
+Q880922;Blackstone Heights
+Q880954;Blackwall
+Q892238;Bondi
+Q892243;Bondi Junction
+Q894057;Boronia
+Q894673;Botany Downs
+Q896447;Braamfontein
+Q904469;Klampenborg
+Q905081;Dickson
+Q909858;Randwick
+Q910857;Duffy
+Q915776;Brighton
+Q918947;Newtownabbey
+Q925282;Donnycarney
+Q926728;Bromma
+Q927298;McKellar
+Q930009;Lane Cove
+Q938446;Haberfield
+Q938471;Myslava
+Q940551;Weetangera
+Q946011;Totley
+Q947722;Isaacs
+Q949824;Sturt
+Q954368;Lydiate
+Q955941;Mona Vale
+Q963103;Southill
+Q964242;Alfords Point
+Q964275;Arndell Park
+Q964412;Allambie Heights
+Q964478;Artarmon
+Q965020;Petersham
+Q965338;Ambarvale
+Q965353;Agnes Banks
+Q965368;Allawah
+Q965388;Acacia Gardens
+Q965434;Annangrove
+Q965457;Airds
+Q976986;Carss Park
+Q978583;Brisbane City
+Q979981;Hume
+Q980396;Al Ahmadi
+Q984366;Eastwood
+Q984757;Las Piedras
+Q985205;Cottage Point
+Q985219;Gladesville
+Q985485;Epping
+Q985768;Norwood
+Q994135;Brunswick
+Q994840;Capital Hill
+Q995167;Rose Bay
+Q996554;Farrer
+Q1001552;Keratsini
+Q1001743;Fisher
+Q1002157;Inchicore
+Q1002650;Watsons Bay
+Q1003684;Fraser
+Q1006309;Ryde
+Q1007874;Hornsby
+Q1008692;Kingswells
+Q1008783;Newport
+Q1010508;Gilmore
+Q1010709;Giralang
+Q1011478;Darlinghurst
+Q1012058;Williamstown
+Q1012076;Richmond
+Q1014616;Papakura District
+Q1024118;Chorlton-cum-Hardy
+Q1024414;Baberton
+Q1026184;Redcliffe
+Q1026829;Redfern
+Q1027823;Paddington
+Q1028267;Cambridge
+Q1033731;Canterbury
+Q1034542;Hawker
+Q1037986;Holt
+Q1042117;Waterfall Gully
+Q1044568;Caroline Springs
+Q1045308;Carrum Downs
+Q1049218;Southbank
+Q1049641;Castleknock
+Q1049706;South Brisbane
+Q1058698;Chadwell Heath
+Q1061925;Burwood
+Q1064859;Port of Brisbane
+Q1069125;Chelsea Heights
+Q1072951;Beverly Hills
+Q1072959;Narwee
+Q1074618;Chipping Norton
+Q1088574;Chermside
+Q1090857;Eagle Farm
+Q1092480;Fitzroy Falls
+Q1098089;Isabella Plains
+Q1099171;Jacka
+Q1103462;Kaleen
+Q1103777;Kambah
+Q1104802;Coburg North
+Q1106989;Kenny
+Q1109698;Collingwood
+Q1109824;Collinsvale
+Q1114613;Woodville
+Q1125448;Bankhead, Edinburgh
+Q1128230;Latham
+Q1128422;Lawson
+Q1138446;Centennial Park
+Q1143939;Kariobangi
+Q1151185;Kingsbury
+Q1160037;Lyons
+Q1161208;Macgregor
+Q1175648;Melba
+Q1177790;Miskolctapolca
+Q1178840;Moncrieff
+Q1179881;Salwa
+Q1189913;Nizki Rynak
+Q1196395;Sydney Olympic Park
+Q1200355;Derrimut
+Q1206994;Devonport
+Q1210672;Didsbury
+Q1217662;Ngunnawal
+Q1227239;Oxley
+Q1227783;Page
+Q1228554;Palmerston
+Q1238194;Midway Point
+Q1242969;Abbeyhill
+Q1247835;Kingswood
+Q1261255;Drumcondra
+Q1261533;Dry Creek
+Q1278077;Eastbourne
+Q1278269;Eastleigh, Nairobi
+Q1279957;Indooroopilly
+Q1290748;Spence
+Q1320799;Cabramatta
+Q1334377;Elwood
+Q1368687;Essendon North
+Q1368694;Essendon
+Q1368695;Essendon West
+Q1373658;Charlottenlund
+Q1390092;Highfields
+Q1397015;Goodwood
+Q1421389;Fitzroy
+Q1424133;Keilor East
+Q1424944;Rodd Point
+Q1424946;Five Dock
+Q1426910;Bridgewater
+Q1427156;Barangaroo
+Q1427991;Flemington
+Q1438297;Port Kembla
+Q1442959;Klemzig
+Q1443310;Oriental Bay
+Q1461374;Mount Wellington
+Q1471471;Preston
+Q1473228;Üszögpuszta
+Q1500097;Albanvale
+Q1507872;Jericho
+Q1521059;Tullamarine
+Q1522001;Ghouta
+Q1522917;Thumba
+Q1530307;Mooloolaba
+Q1531050;Alexandra Headland
+Q1531061;Noosaville
+Q1531147;Glenorchy
+Q1531184;Glenview
+Q1535327;Mosman
+Q1586921;Moonee Ponds
+Q1589649;Toowong
+Q1592322;Headingley
+Q1594002;Heidelberg
+Q1610396;Egham Hythe
+Q1610452;Earlswood
+Q1617033;Worsley
+Q1623026;Port Melbourne
+Q1624406;Tawa, New Zealand
+Q1626233;Forest Hill
+Q1637528;Mango
+Q1637676;Kurnell
+Q1638235;Keilor
+Q1660730;Asquith
+Q1662750;Mount Clear
+Q1678355;Pioneers Park
+Q1708373;Goregaon
+Q1721795;Kaiti
+Q1723642;Kanata
+Q1733565;Prahran
+Q1769479;North Ryde
+Q1781036;Hutton
+Q1783858;Kooyong
+Q1788078;Selly Oak
+Q1788898;Addington
+Q1796979;Spotswood
+Q1802491;St Lucia
+Q1805451;Langwarrin
+Q1823585;Živkovac
+Q1827848;Tuolluvaara
+Q1838932;Springfield
+Q1851145;Newtown
+Q1852577;Sydney
+Q1854516;Braybrook
+Q1862021;Henbury
+Q1883377;St Peter the Great
+Q1889731;Amerić
+Q1932421;Shivajinagar
+Q1939663;Woodridge
+Q1947451;Mordialloc
+Q1950650;Mount Pleasant
+Q1953777;Cowley
+Q1964610;Sunrise Beach
+Q1964621;Marcus Beach
+Q1995123;Oxie
+Q2005005;Zaklopača, Grocka
+Q2009042;Beljevac
+Q2010555;North Shoebury
+Q2013871;Šiljakovac
+Q2024349;Lisović
+Q2026392;Kleparów
+Q2026479;Frankton
+Q2032519;Gelugor
+Q2036659;Otahuhu
+Q2037849;Inala
+Q2050563;Papamoa
+Q2052167;Paremoremo
+Q2065483;Badger Farm
+Q2066233;Strathpine
+Q2069212;Penrose
+Q2085861;Deansgrange
+Q2088787;Oulton
+Q2091225;Lake Albert
+Q2099884;Plymstock
+Q2104028;Rosebud
+Q2130190;Umčari
+Q2131643;Baćevac
+Q2137835;West End
+Q2157505;Ashfield
+Q2167769;Brookfield
+Q2171256;Underwood
+Q2195638;Holland Park
+Q2198178;Halewood
+Q2208149;Grenoside
+Q2228410;Middleton
+Q2230107;Schafhof
+Q2236090;Bankstown
+Q2249475;Toronto
+Q2264236;Dučina
+Q2268251;Selhurst
+Q2279903;Leichhardt
+Q2286892;Upton
+Q2292100;Manuel Antonio
+Q2296779;Glebe
+Q2300970;Austins Ferry
+Q2304228;South Arm
+Q2304617;South Yarra
+Q2306092;Horfield
+Q2315179;Virum
+Q2321177;Ascot
+Q2328356;Clontarf
+Q2334272;Kamendol
+Q2341373;Crumpsall
+Q2357178;North Lakes
+Q2357227;Westbury-on-Trym
+Q2361945;Lavington
+Q2362960;Forrest Hill
+Q2369961;Springfield
+Q2372476;Rogača, Sopot
+Q2376216;Clifton
+Q2379047;Leštane
+Q2379971;Ruislip
+Q2393670;Chapel Allerton
+Q2408864;Regents Park
+Q2409481;Little Thurrock
+Q2416373;Thebarton
+Q2429446;East Albury
+Q2429969;Rainhill
+Q2437209;Eltham
+Q2439907;Claremont
+Q2443083;Toorak
+Q2446861;Dundrum
+Q2451525;Debden
+Q2451937;Frankton
+Q2452968;Kallangur
+Q2453137;Veliki Borak
+Q2453146;Vranić, Barajevo
+Q2453157;Boždarevac
+Q2458541;Thornton
+Q2463724;Beljina
+Q2487341;Virar
+Q2487986;Komirić
+Q2507861;Popović
+Q2509805;Bagsværd
+Q2513134;Bastav
+Q2517345;Davenport
+Q2549639;Warrandyte
+Q2554010;Babe
+Q2558220;Weltevreden
+Q2563357;Werribee
+Q2567227;Khandallah
+Q2576944;Ngaio
+Q2579508;Begaljica
+Q2581013;Meljak
+Q2581289;Williamtown
+Q2581767;Guncati
+Q2584884;Winston Hills
+Q2588702;Shankill
+Q2593284;Sparkbrook
+Q2597496;Cheadle Hulme
+Q2598472;Warndon
+Q2598852;Carindale
+Q2604519;Allenton
+Q2608078;Kensington
+Q2634194;Red Hill
+Q2635920;Guberevac
+Q2646672;Low Head
+Q2651034;Alphington
+Q2660864;Pudarci
+Q2665449;Langley
+Q2669536;Douglas
+Q2672384;Rathmines
+Q2678637;Brestovik
+Q2678743;Woolloomooloo
+Q2683803;Wynnum
+Q2715755;Thondamuthur
+Q2722343;Kharghar
+Q2733536;Cronulla
+Q2735485;Roundhay
+Q2736088;Seacroft
+Q2737088;Arnajevo
+Q2756002;Port Sunlight
+Q2756444;Brighton
+Q2764596;Basford
+Q2767159;Noosa Heads
+Q2772176;Varachha
+Q2772631;Logan Central
+Q2775105;Bache
+Q2777749;Summer Hill
+Q2784750;Teneriffe
+Q2787790;Maidstone
+Q2793610;Nemenikuće
+Q2794199;Cornubia
+Q2832041;North Albury
+Q2832582;Petrie
+Q2859553;Arapovac, Lazarevac
+Q2866493;Ashbury
+Q2881464;Balmain
+Q2884580;Barič
+Q2884886;Baroševac
+Q2886252;Barzilovica
+Q2887295;Bass Hill
+Q2887395;Bassendean
+Q2891123;Bateau Bay
+Q2892791;Beachlands
+Q2894438;Beli Potok
+Q2895133;Phillip Bay
+Q2896400;Chifley
+Q2896858;Berala
+Q2900383;Millers Point
+Q2900456;Darling Point
+Q2900490;Queens Park
+Q2900505;Moore Park
+Q2900716;Erskineville
+Q2900723;Forest Lodge
+Q2900729;Dover Heights
+Q2900765;Point Piper
+Q2904548;Birrong
+Q2904938;Bittern
+Q2910049;Bongaree
+Q2914843;Maroubra
+Q2915324;Dahieh
+Q2915372;Bronte
+Q2915428;Annandale
+Q2915698;Surry Hills
+Q2915709;Malabar
+Q2915712;Coogee
+Q2915834;Clovelly
+Q2915846;Alexandria
+Q2915990;Ultimo
+Q2916103;Mascot
+Q2916104;Pyrmont
+Q2916106;Kensington
+Q2916328;Tamarama
+Q2916383;Vaucluse
+Q2916395;Chippendale
+Q2918153;La Perouse
+Q2918297;Woollahra
+Q2918388;Bellevue Hill
+Q2918677;Waverley
+Q2918686;Double Bay
+Q2918785;Beaconsfield
+Q2918789;Rosebery
+Q2918794;Elizabeth Bay
+Q2918802;Camperdown
+Q2918803;Potts Point
+Q2919185;Haymarket
+Q2919661;Rushcutters Bay
+Q2919706;Zetland
+Q2919710;Darlington
+Q2922704;Bowenfels
+Q2923454;Bradbury
+Q2929357;Nunthorpe
+Q2934668;Camberwell
+Q2940169;Carrara
+Q2943098;Caulfield North
+Q2962243;Cheltenham
+Q2962862;Chester Hill
+Q2967635;Chullora
+Q2975737;Daceyville
+Q2975743;Kingsford
+Q2975767;Matraville
+Q2975775;Hillsdale
+Q2975781;Banksmeadow
+Q2975785;Dawes Point
+Q2976045;Botany
+Q2976052;Little Bay
+Q2984526;Veliki Crljeni
+Q2992237;Condell Park
+Q2997829;Cippenham
+Q3003152;Croceverde
+Q3005483;Croydon
+Q3005485;Croydon Park
+Q3007987;Cvetovac
+Q3019323;Dayboro
+Q3019699;Ringwood
+Q3033831;Čelopek
+Q3034709;Dombivli
+Q3038670;Dragodol
+Q3042998;Hurlstone Park
+Q3043002;Lidcombe
+Q3046802;Ebenezer
+Q3047399;Eden Terrace
+Q3049221;Manić
+Q3055861;Epsom
+Q3060357;Eumundi
+Q3070419;Loftus
+Q3071868;Cultra
+Q3072050;McLeod Ganj
+Q3091345;Fyshwick
+Q3099255;Gateshead
+Q3100692;Rudovci
+Q3101642;Zuce
+Q3102484;Županjac
+Q3108678;Glen Iris
+Q3108712;Glen Waverley
+Q3108740;Glenelg
+Q3108837;Glenroy
+Q3109105;Milperra
+Q3112834;Gowrie
+Q3113225;Grafton
+Q3116137;Greenhill, Edinburgh
+Q3127741;Harrington
+Q3128258;Hastings
+Q3133187;Kilpauk
+Q3135680;Hillsborough
+Q3156237;Ivanhoe
+Q3175737;Pećani
+Q3175748;Rucka
+Q3176717;Ripanj
+Q3176725;Slanci
+Q3177250;Rušanj
+Q3177271;Velika Moštanica
+Q3177278;Veliko Selo
+Q3177538;Stojnik
+Q3177554;Ralja
+Q3184064;Morning Bay
+Q3193497;Karloo
+Q3194708;Keiraville
+Q3194997;Kemps Creek
+Q3196726;Albertslund
+Q3197125;Kingston
+Q3197126;Kingston
+Q3225407;Le Petit Bard
+Q3227602;Liverpool
+Q3229011;Leffe
+Q3235220;Hawalli
+Q3277874;Mahomets Flats
+Q3295888;Martinsville
+Q3306460;Merewether Heights
+Q3307425;Broad Green
+Q3309297;Cranbourne
+Q3309774;Ghatkopar
+Q3314513;Milton
+Q3316720;Mission Bay, New Zealand
+Q3326048;Mount Vernon
+Q3339119;Newington
+Q3341976;Ninewells
+Q3350503;Canterbury
+Q3352699;Onehunga
+Q3355106;Oranjezicht
+Q3356503;Orleans
+Q3356931;Manly Vale
+Q3359905;Bilgola Beach
+Q3362179;Panmure, New Zealand
+Q3365637;Parnell
+Q3373689;Skovlunde
+Q3398389;Whitchurch
+Q3400385;Rockdale
+Q3403526;Birchgrove
+Q3411122;Puyricard
+Q3417458;Ragama
+Q3422727;Red Hill
+Q3427921;Parkville
+Q3436169;Bukit Jalil
+Q3437255;Prospect
+Q3437266;Emu Heights
+Q3437291;Pendle Hill
+Q3437484;Oxley Park
+Q3437489;Werrington
+Q3437503;St Marys
+Q3437510;Kingswood
+Q3437520;Claremont Meadows
+Q3437529;Eastern Creek
+Q3437547;Orchard Hills
+Q3437549;Cambridge Park
+Q3437554;Werrington County
+Q3437567;Leonay
+Q3437574;Girraween
+Q3437600;Minchinbury
+Q3440803;Borrowdale
+Q3463066;St. Norbert, Winnipeg
+Q3463513;St. Vital, Winnipeg
+Q3463978;Saint Marys Bay, New Zealand
+Q3472028;Sandringham
+Q3482425;Shoal Bay
+Q3484027;Silverwater
+Q3492981;Speke
+Q3493697;Splitters Creek
+Q3494238;Springdale Heights
+Q3496549;Hurstville
+Q3505782;Salmiya
+Q3512773;Table Top
+Q3519303;Tewantin
+Q3526143;Thurgoona
+Q3530475;Perambur
+Q3531585;Homebush
+Q3534941;Koyambedu
+Q3536951;Malleswaram
+Q3537400;Vadapalani
+Q3537412;Transcona, Winnipeg
+Q3542003;Tumbi Umbi
+Q3553926;Hamilton Valley
+Q3556821;Eaglemont
+Q3559988;Trachonas
+Q3560789;Grey Lynn
+Q3570246;Wythenshawe
+Q3575986;Zonnebloem
+Q3609085;Alderley
+Q3612848;Alnwickhill
+Q3624991;Ashgrove
+Q3634336;Gants Hill
+Q3635083;Barnton, Edinburgh
+Q3635148;Harris Park
+Q3637422;Beechmount
+Q3637432;Bees Creek
+Q3640108;Bingham, Edinburgh
+Q3640796;Blackford
+Q3640797;Blackhall
+Q3642560;Borgo Wührer
+Q3643081;Lilli Pilli
+Q3643545;Braepark, Edinburgh
+Q3643583;Oyster Bay
+Q3643618;Taren Point
+Q3644248;Woolooware
+Q3644388;Balgowan
+Q3644691;Brighton
+Q3645376;Broomhouse
+Q3645406;Broughton, Edinburgh
+Q3647287;Burghmuirhead
+Q3663754;Cattinara
+Q3675041;Chiosi
+Q3697096;Crestmead
+Q3699290;Harborne
+Q3701493;Dandora
+Q3717659;East Fremantle
+Q3717828;Eaton
+Q3723370;Elizabeth
+Q3747847;Footdee
+Q3748789;Fortis Green
+Q3764261;Gilberton
+Q3773616;Gosnells
+Q3775768;Glasthule
+Q3776885;Bayside
+Q3785651;Hilton
+Q3812562;Kalamunda
+Q3815598;Kirk o' Field
+Q3815605;Kirkstall
+Q3827510;Latium adiectum
+Q3857059;Midland
+Q3859800;Modbury
+Q3894578;Hope Island
+Q3908652;Port Adelaide
+Q3909072;Portland
+Q3924087;Prospect
+Q3941559;Rosny Park
+Q3941722;Campbelltown
+Q3941757;Rothesay Bay
+Q3945542;Salisbury
+Q3965520;South Melbourne
+Q3965581;South Perth
+Q3966132;Spearwood
+Q3995665;Torrens Park
+Q3997687;Liberton
+Q4000735;Tusmore
+Q4005998;Unley
+Q4011294;Victoria Park
+Q4019311;Wheelers Hill
+Q4076739;Ballybrack
+Q4100396;Бутырки
+Q4109563;West End, Edinburgh
+Q4115240;Jabriya
+Q4116005;Mangaf
+Q4116008;Al Andalus
+Q4116012;Mahboula
+Q4116292;Surra
+Q4138314;Gilmerton
+Q4155281;Downer
+Q4179774;Mount Colah
+Q4205869;Yowie Bay
+Q4215374;Gledhow
+Q4216448;Blacktown
+Q4216576;Willoughby
+Q4216684;Gipton
+Q4216703;Wortley
+Q4234664;Корытово
+Q4240438;Кресты
+Q4262323;Lyneham
+Q4266651;Лопатино
+Q4268642;Bayan
+Q4271983;Любятово
+Q4328794;O'Connor
+Q4330803;Овсище
+Q4335072;Opawa
+Q4336536;Орлецы
+Q4347194;Palm Beach
+Q4355595;Whale Beach
+Q4382582;Marrickville
+Q4386146;Coolangatta
+Q4390379;Russell
+Q4421073;City
+Q4425703;Снятная Гора
+Q4455973;Turner
+Q4476251;Watson
+Q4497924;Heathcote Valley
+Q4519075;Шабаново
+Q4530072;Ainslie
+Q4575901;Parau
+Q4601403;Stanmore
+Q4664092;Abbeydale
+Q4664120;Abbeyview
+Q4664280;Abbotsbury
+Q4664298;Abbotsford
+Q4666845;Aberdare
+Q4667077;Aberfoyle Park
+Q4667103;Aberglasslyn
+Q4669566;Abronhill
+Q4670845;Acacia Ridge
+Q4674269;Acklam
+Q4674449;Acocks Green
+Q4675511;Sunnybank
+Q4677654;Acton
+Q4677678;Acton Park
+Q4680523;Adamstown Heights
+Q4681170;Addington
+Q4681820;Adelaide
+Q4688275;Aeroglen
+Q4691669;Agbrigg
+Q4696745;Aidanfield
+Q4696833;Aigburth
+Q4697475;Ainsdale
+Q4698927;Airport Oaks
+Q4698960;Airport West
+Q4699323;Aitkenvale
+Q4703714;Al Da'iya
+Q4703721;Al Dasma
+Q4704379;Al Mansouriah
+Q4704795;Al Shamiya
+Q4708892;Alawa
+Q4710968;Albert Park
+Q4712262;Alberton
+Q4712473;Albion
+Q4712478;Albion
+Q4712537;Albion Park
+Q4712542;Albion Park Rail
+Q4713686;Alderman's Green
+Q4713821;Aldinga
+Q4713822;Aldinga Beach
+Q4720713;Alexandra Park, Harare
+Q4722488;Alfred Cove
+Q4723904;Alfredton
+Q4723908;Alfriston
+Q4724190;Algester
+Q4726066;Alice River
+Q4726211;Alicetown
+Q4731978;Allenby Gardens
+Q4732035;Allenstown
+Q4732138;Allerton
+Q4732173;Allesley Green
+Q4736252;Altens
+Q4737993;Alverthorpe
+Q4740326;Amaroo
+Q4741354;Amberley
+Q4747744;Sunnynook
+Q4752761;Anchorsholme
+Q4754246;Andersons Bay
+Q4754255;Andersonstown
+Q4759049;Andrews
+Q4759071;Andrews Farm
+Q4763348;Angle Park
+Q4767920;Annandale
+Q4767941;Annanhill, East Ayrshire
+Q4769012;Annerley
+Q4770762;Anstead
+Q4776329;Castle Bromwich
+Q4777772;Anula
+Q4778786;Aotea
+Q4783866;Arakura
+Q4783901;Araluen
+Q4784158;Aranui
+Q4785110;Arcadia
+Q4785177;Arcadia Vale
+Q4785303;Arch Hill
+Q4785925;Archer
+Q4785977;Archerfield
+Q4787905;Arden
+Q4788164;Ardler
+Q4788185;Ardmore, New Zealand
+Q4788256;Ardross
+Q4789513;Argenton
+Q4792515;Armadale
+Q4793929;Armstrong Creek
+Q4793930;Armstrong Creek
+Q4794512;Arncliffe
+Q4795463;Aro Valley
+Q4795571;Aroona
+Q4800815;Arthurlie
+Q4801087;Baner
+Q4802223;Arundel
+Q4804018;Ascot
+Q4804024;Ascot
+Q4804033;Ascot Park
+Q4804757;Ashcroft
+Q4804808;Ashendon
+Q4804950;Ashfield
+Q4805684;Ashmont
+Q4805686;Ashmore
+Q4805978;Ashton
+Q4806094;Ashtonfield
+Q4806112;Ashulia
+Q4808165;Aspley
+Q4813352;Athelstone
+Q4815633;Athol Park
+Q4818052;Attadale
+Q4818260;Attercliffe
+Q4819393;Auchenflower
+Q4819400;Auchenharvie
+Q4819406;Auchenhowie
+Q4821179;Augustine Heights
+Q4821752;Auldana
+Q4823354;Austinmer
+Q4823362;Austinville
+Q4823377;Austral
+Q4827371;Ava, New Zealand
+Q4828233;Avenues, Harare
+Q4829107;Avoca Beach
+Q4829275;Avondale, Auckland
+Q4829276;Avondale
+Q4829282;Avondale, Harare
+Q4829336;Avongrove
+Q4829340;Avonhead
+Q4829357;Avonside
+Q4829653;Awaba
+Q4829808;Awapuni
+Q4829810;Awapuni
+Q4829949;Awatoto
+Q4831398;Aylestone
+Q4831892;Ayyanthole
+Q4842078;Bagot
+Q4842494;Bahati, Nairobi
+Q4842899;Bahrs Scrub
+Q4849082;Baker's Hill
+Q4849330;Bakery Hill
+Q4849343;Bakewell
+Q4849747;Balaclava
+Q4850251;Balcolyn
+Q4850319;Bald Hills
+Q4850734;Balewadi
+Q4850774;Balgal Beach
+Q4850782;Balgay
+Q4850787;Balgillo
+Q4850800;Balgownie
+Q4850804;Balgowlah
+Q4851203;Ball Hill
+Q4851458;Ballarat Central
+Q4851462;Ballarat East
+Q4852345;Balmain East
+Q4852370;Balmoral
+Q4852373;Balmoral
+Q4852374;Balmoral
+Q4852414;Balnagask
+Q4853147;Balwyn
+Q4854398;Bandar Dato' Onn
+Q4855159;Bangholme
+Q4855528;Bangor
+Q4856080;Govandi
+Q4856120;Mankhurd
+Q4856511;Banksia
+Q4856518;Wadala
+Q4856522;Banksia Beach
+Q4856537;Banksia Park
+Q4857032;Banora Point
+Q4857913;Bar Beach
+Q4857954;Bar Point
+Q4860125;Barden Ridge
+Q4860196;Bardon
+Q4860241;Bardwell Valley
+Q4860244;Bardwell Park
+Q4860409;Barellan Point
+Q4861836;Barnhill, Dundee
+Q4861887;Barnsley
+Q4862020;Barnwell
+Q4863151;Barrachnie
+Q4863159;Barrack Heights
+Q4863160;Barrack Point
+Q4863388;Barrengarry
+Q4865443;Bartley Green
+Q4866737;Basford
+Q4867494;Basin Pocket
+Q4868001;Bassaleg
+Q4869855;Battery Hill
+Q4869876;Battery Point
+Q4873309;Batu Ferringhi
+Q4873314;Batu Lanchang
+Q4873530;Baulkham Hills
+Q4874688;Bayonet Head
+Q4874852;Bayswater
+Q4874857;Bayswater North
+Q4874994;Bayview, New Zealand
+Q4874996;Bayview
+Q4875008;Bayview Heights
+Q4875714;Beach Haven, New Zealand
+Q4875940;Beacon Hill
+Q4876020;Beaconsfield
+Q4876826;Beasley
+Q4877535;Beaumont
+Q4877564;Beaumont Hills
+Q4878643;Beckenham
+Q4879088;Bedford
+Q4879178;Bedford Park
+Q4879718;Beecroft
+Q4879848;Beeliar
+Q4879907;Beenleigh
+Q4880063;Beerescourt
+Q4881870;Belair
+Q4882079;Belconnen
+Q4882368;Belfield
+Q4882371;Belfield
+Q4882466;Belgian Gardens
+Q4882676;Belgrave, Leicester
+Q4883170;Bell Green
+Q4883224;Bell Park
+Q4883233;Bell Post Hill
+Q4883381;Bella Vista
+Q4883440;Bellamack
+Q4883492;Bellara
+Q4883567;Bellbird Park
+Q4883699;Belle Vale
+Q4883707;Belle Vue
+Q4883711;Belle Vue
+Q4883932;Bellevue Heights
+Q4883981;Bellfield
+Q4883992;Belli Park
+Q4884074;Bellmere
+Q4884283;Belmont
+Q4884300;Belmont
+Q4884307;Belmont
+Q4884309;Belmont, Wellington
+Q4884398;Belmont North
+Q4884423;Belmont South
+Q4884453;Belmore
+Q4884668;Belrose
+Q4889772;Bennetts Green
+Q4889774;Bennetts End
+Q4890139;Benowa
+Q4890301;Bensville
+Q4890439;Bentleigh
+Q4890443;Bentleigh East
+Q4890451;Bentley
+Q4890491;Bentley Park
+Q4890989;Berambing
+Q4891291;Beresfield
+Q4891298;Beresford
+Q4891969;Berkeley
+Q4892124;Berkeley Vale
+Q4892289;Berkshire Park
+Q4894658;Berowra Creek
+Q4894660;Berowra
+Q4894664;Berowra Heights
+Q4894669;Berowra Waters
+Q4894694;Berriedale
+Q4894712;Berrilee
+Q4894715;Berrimah
+Q4894719;Berrinba
+Q4894853;Berryden
+Q4894915;Berserker
+Q4896380;Bessacarr
+Q4896441;Besses o' th' Barn
+Q4899274;Beulah Park
+Q4899382;Beverley
+Q4899788;Bexley
+Q4899803;Bexley North
+Q4900993;Bhandup
+Q4901059;Bhanwar Kua
+Q4901615;Bhayandar
+Q4903519;Bibra Lake
+Q4903682;Bickley Vale
+Q4903728;Bicton
+Q4904298;Bidwill
+Q4906907;Biggera Waters
+Q4907721;Bilgola Plateau
+Q4907769;Bilinga
+Q4914420;Binley
+Q4915773;Birchville
+Q4916391;Birkdale, New Zealand
+Q4916392;Birkdale
+Q4916420;Birkenhead
+Q4916699;Birmingham Gardens
+Q4917108;Birtinya
+Q4918030;Bishopdale
+Q4918111;Bishopsworth
+Q4919057;Bitterne Park
+Q4919059;Bitterne
+Q4920780;Black Forest
+Q4920932;Black Hill
+Q4922523;Blackalls Park
+Q4922699;Blackburn North
+Q4922714;Blackburn South
+Q4922757;Blackbutt
+Q4922815;Blackett
+Q4923150;Blackmans Bay
+Q4923187;Blackness, Dundee
+Q4923228;Black Pill
+Q4923362;Blacksmiths
+Q4923618;Blackwood
+Q4924042;Blair Athol
+Q4924044;Blair Athol
+Q4924226;Blairmount
+Q4924569;Blakehurst
+Q4924651;Blakeview
+Q4925567;Blaxlands Ridge
+Q4927276;Blockhouse Bay, New Zealand
+Q4928859;Blue Bay
+Q4930606;Bluewater
+Q4930614;Bluewater Park
+Q4930661;Bluff Point
+Q4930757;Blundellsands
+Q4930980;Bneid Al-Qar
+Q4931489;Boat Harbour
+Q4934244;Kopar Khairane
+Q4936020;Bobs Farm
+Q4937367;Bogangar
+Q4938724;Bokarina
+Q4939485;Bolivar
+Q4940853;Bomen
+Q4941224;Bonbeach
+Q4942179;Bonnells Bay
+Q4942204;Bonnet Bay
+Q4942206;Bonnet Hill
+Q4942523;Bonnyrigg
+Q4942526;Bonnyrigg Heights
+Q4942699;Bonython
+Q4942928;Book Book
+Q4943176;Booker Bay
+Q4943336;Boolaroo
+Q4943582;Boondall
+Q4943758;Booragul
+Q4943761;Boorara
+Q4943769;Boorooma
+Q4944726;Bordesley
+Q4945504;Borivali
+Q4946224;Boroko
+Q4946268;Boronia Heights
+Q4947611;Bossley Park
+Q4949346;Bouddi
+Q4949518;Boulcott
+Q4949743;Boulton
+Q4950183;Bourkelands
+Q4950474;Bouvard
+Q4950614;Bow Bowing
+Q4950729;Bowden
+Q4950813;Bowen Hills
+Q4951523;Box Hill
+Q4951524;Box Hill
+Q4951534;Box Hill North
+Q4951543;Box Hill South
+Q4954846;Bradley
+Q4955337;Braeside
+Q4955339;Braeside, Greenock
+Q4955340;Braeside
+Q4955499;Brahma Lodge
+Q4957506;Branksome
+Q4957907;Brassall
+Q4958524;Bray Park
+Q4959431;Breaker Bay
+Q4959462;Breakfast Point
+Q4959693;Breakwater
+Q4959722;Bream Beach
+Q4960795;Brendale
+Q4965769;Briar Hill
+Q4966521;Bridgeman Downs
+Q4966768;Bridgeton Cross
+Q4967574;Brighton
+Q4967581;Brighton-Le-Sands
+Q4967585;Brighton-le-Sands, Merseyside
+Q4967635;Brighton East
+Q4967818;Brightwaters
+Q4968341;Bringelly
+Q4968417;Brinkin
+Q4968532;Brisbane Airport
+Q4972031;Broadbeach
+Q4972034;Broadbeach Waters
+Q4972221;Broadmeadow
+Q4972237;Broadmeadows
+Q4972321;Broadview
+Q4972879;Brockville
+Q4973751;Brompton
+Q4974376;Brookby
+Q4974380;Brookdale
+Q4974549;Brookfield
+Q4974556;Brookfield
+Q4974665;Brooklands
+Q4974667;Brooklands
+Q4974668;Brooklands, Taranaki
+Q4974716;Brooklyn
+Q4974723;Brooklyn
+Q4974725;Brooklyn
+Q4974883;Brooklyn Park
+Q4975184;Brookvale
+Q4975216;Brookwater
+Q4975790;Broughton
+Q4976165;Brown Hill Creek
+Q4976515;Brownhill
+Q4976667;Browns Plains
+Q4976719;Brownshill Green
+Q4977003;Bruce
+Q4979466;Brunstane
+Q4980947;Bryndwr
+Q4982392;Buccan
+Q4983295;Buckland Park
+Q4983300;Bucklands Beach
+Q4983491;Bucksburn
+Q4984298;Buddina
+Q4985049;Budgewoi
+Q4985050;Budgewoi Peninsula
+Q4985610;Buff Point
+Q4985701;Buffalo Creek
+Q4986189;Bughtlin
+Q4986889;Bukit Damansara
+Q4986902;Bukit Indah
+Q4992166;Croxteth
+Q4996408;Bulimba
+Q4996552;Bull Creek
+Q4996743;Bulleen
+Q4996904;Bulli
+Q4997485;Bundaberg Central
+Q4997493;Bundall
+Q4997497;Bundamba
+Q4997514;Bundeena
+Q4997558;Bundoora
+Q4997625;Bungarribee
+Q4997964;Bunya
+Q4998144;Burbank
+Q4998297;Burdiehouse
+Q4998625;Burgh Muir
+Q4999119;Burleigh Heads
+Q4999125;Burleigh Waters
+Q4999720;Burngreave
+Q4999948;Burnley
+Q5000110;Burnside
+Q5000116;Burnside, Otago
+Q5000117;Burnside
+Q5000118;Burnside
+Q5000119;Burnside
+Q5000285;Burpengary
+Q5000379;Burraneer
+Q5000383;Burraton
+Q5000780;Burton
+Q5001054;Burwood
+Q5001056;Burwood
+Q5001058;Burwood East
+Q5001063;Burwood Heights
+Q5001296;Busby, East Renfrewshire
+Q5001299;Busby
+Q5001464;Bushbury
+Q5001524;Bushland Beach
+Q5001540;Bushmead
+Q5002772;Buttaba
+Q5004080;Byford
+Q5010697;Woolton
+Q5015256;Cabarita
+Q5015750;Caboolture South
+Q5015815;Cabramatta West
+Q5017696;Cairnlea
+Q5018506;Calamvale
+Q5019010;Calder Park
+Q5020525;California Gully
+Q5021706;Callaghan
+Q5023889;Caloundra
+Q5023895;Caloundra West
+Q5025428;Cambridge Gardens
+Q5025693;Cambusnethan
+Q5025797;Camden Park
+Q5025798;Camden Park
+Q5025818;Camden South
+Q5025902;Camellia
+Q5026329;Cameron Park
+Q5026397;Cameron Toll
+Q5026693;Camillo
+Q5026795;Camira
+Q5026863;Cammeray
+Q5026869;Cammo
+Q5027432;Camp Mountain
+Q5028192;Campbellfield
+Q5028204;Campbells Bay
+Q5028556;Campsie
+Q5028794;Cams Wharf
+Q5029318;Canada Bay
+Q5029628;Canadian
+Q5032320;Canford Heath
+Q5032505;Canklow
+Q5032515;Canley
+Q5032520;Canley Heights
+Q5032521;Canley Vale
+Q5032691;Canning Mills
+Q5032769;Cannon Hill
+Q5032781;Cannon Park
+Q5033153;Canoelands
+Q5033875;Canton Beach
+Q5034501;Capalaba
+Q5034507;Capalaba West
+Q5034628;Cape Burney
+Q5037805;Caravonica
+Q5038359;Cardiff
+Q5038466;Cardiff South
+Q5038500;Cardigan
+Q5039161;Carey Bay
+Q5039596;Carina Heights
+Q5039632;Caringbah
+Q5039633;Caringbah South
+Q5041319;Carlingford
+Q5042941;Carlton
+Q5043042;Carlton North
+Q5043244;Carmel
+Q5043528;Siruseri
+Q5043870;Carnegie
+Q5044012;Carnes Hill
+Q5044722;Carole Park
+Q5046011;Carramar
+Q5046145;Carrick Knowe
+Q5046427;Carrington
+Q5046428;Carrington
+Q5046748;Carrum
+Q5047443;Cartsdyke
+Q5047457;Cartwright
+Q5047468;Cartwrights Hill
+Q5048197;Cascades
+Q5048437;Casey
+Q5048759;Cashmere
+Q5048760;Cashmere
+Q5049619;Castaways Beach
+Q5049964;Castle
+Q5050035;Castle Cove
+Q5050133;Castle Hill
+Q5050484;Castlecrag
+Q5050577;Castlereagh
+Q5050647;Castletown
+Q5050929;Casuarina
+Q5050941;Casula
+Q5052673;Catherine Field
+Q5052730;Catherine Hill Bay
+Q5054045;Cattai
+Q5054063;Cattedown
+Q5054508;Caulfield East
+Q5054509;Caulfield
+Q5054518;Caulfield South
+Q5054834;Cavan
+Q5055096;Caves Beach
+Q5055212;Cawdor
+Q5056122;Cecil Hills
+Q5056585;Cedar Brush Creek
+Q5059077;Centenary Heights
+Q5059189;Centennial Park
+Q5061395;Central Mangrove
+Q5065575;Fitzroy
+Q5065696;Fairview Downs
+Q5066500;Chadstone
+Q5067913;Chain Valley Bay
+Q5068984;Challis
+Q5070011;Champion Lakes
+Q5070938;Chandan Nagar, Indore
+Q5071210;Chandlers Hill
+Q5072995;Chapel Downs
+Q5073004;Chapel Hill
+Q5073129;Chapelfields
+Q5074633;Charlemont
+Q5084072;Charleston, Dundee
+Q5084211;Charlestown
+Q5086276;Charlton
+Q5086573;Charnwood
+Q5086949;Chartwell Green
+Q5087793;Chatswood, New Zealand
+Q5087802;Chatswood West
+Q5089362;Cheero Point
+Q5089947;Chelmer
+Q5090027;Chelsea
+Q5090175;Cheltenham
+Q5090176;Cheltenham
+Q5090177;Cheltenham
+Q5092027;Chermside West
+Q5093354;Chesser
+Q5093926;Chestnut Hill
+Q5094307;Chevallum
+Q5094614;Cheylesmore
+Q5097245;Chigwell
+Q5098625;Childwall
+Q5100333;Chinderah
+Q5101947;Chirnside Park
+Q5102084;Chisholm
+Q5102167;Chiswick
+Q5102442;Chittaway Bay
+Q5102443;Chittaway Point
+Q5110665;Christie Downs
+Q5110724;Christies Beach
+Q5116214;Chunabhatti
+Q5116608;Church Hill, Edinburgh
+Q5116664;Church Point
+Q5118149;Churchill
+Q5118264;Churchtown, Merseyside
+Q5118331;Churton Park
+Q5118340;Churwell
+Q5118411;Chuwar
+Q5121998;Cotton Green
+Q5125046;Clagiraba
+Q5125861;Clapham
+Q5126534;Clarence Gardens
+Q5126692;Clarence Park
+Q5126848;Clarendon
+Q5126889;Clarendon Vale
+Q5126916;Clareville
+Q5126971;Clarinda
+Q5129607;Claverhouse
+Q5130088;Clayfield
+Q5130111;Claymore
+Q5130147;Clayton
+Q5130161;Clayton
+Q5130327;Clayton South
+Q5130726;Clear Island Waters
+Q5130760;Clear Mountain
+Q5130902;Clearview
+Q5131608;Clendon
+Q5131609;Clendon Park
+Q5131897;Clerkhill
+Q5131904;Clermiston
+Q5132034;Cleveland
+Q5133136;Clifton
+Q5133152;Clifton, York
+Q5133179;Clifton Beach
+Q5133240;Clifton Hill
+Q5135066;Clontarf
+Q5135073;Clontarf
+Q5135300;Closeburn
+Q5135847;Clovelly Park
+Q5135941;Cloverdale
+Q5136542;Clubmoor
+Q5136562;Cluden
+Q5136840;Clyde
+Q5136841;Clyde
+Q5136991;Clyde North
+Q5137173;Clyst Heath
+Q5137763;Coal Point
+Q5137874;Coalfalls
+Q5138378;Coasters Retreat
+Q5138798;Cobbitty
+Q5138845;Cobden
+Q5139593;Cockersdale
+Q5139620;Cockle Bay, New Zealand
+Q5139826;Coconut Grove
+Q5140831;Coes Creek
+Q5141278;Cogra Bay
+Q5142709;Colebee
+Q5142732;Coledale
+Q5144730;Coley Park
+Q5145731;Colinton
+Q5145965;Collaroy Plateau
+Q5145966;Collaroy
+Q5146405;College Grove
+Q5146476;College Milton, East Kilbride
+Q5146491;College Park
+Q5147307;Collingwood Heights
+Q5147313;Collingwood Park
+Q5147314;Collingwood Park
+Q5147467;Collinswood
+Q5147800;Colo Heights
+Q5148151;Colonel Light Gardens
+Q5148194;Colongra
+Q5148870;Korattur
+Q5149459;Colton
+Q5150359;Colyton
+Q5151504;Comely Bank
+Q5152007;Comiston
+Q5152043;Comleroy
+Q5155116;Como
+Q5155118;Como
+Q5155512;Company Bay
+Q5158754;Concord
+Q5159319;Condon
+Q5161060;Conifer Grove
+Q5161112;Coniston
+Q5161742;Connells Point
+Q5164103;Constitution Hill
+Q5166823;Coochin Creek
+Q5166826;Coodanup
+Q5166836;Cooee
+Q5166851;Coogee
+Q5166874;Cook
+Q5167177;Cooks Hill
+Q5167402;Coolana
+Q5167411;Coolaroo
+Q5167541;Coolum Beach
+Q5167560;Coombabah
+Q5167620;Coombs
+Q5167630;Coomera
+Q5167672;Coonawarra
+Q5167948;Coopers Plains
+Q5168048;Cooroy Mountain
+Q5168050;Coorparoo
+Q5168078;Coosan
+Q5168116;Cootharaba
+Q5168256;Copacabana
+Q5168350;Copeland
+Q5168831;Copperhouse
+Q5169909;Cordeaux Heights
+Q5170545;Corinda
+Q5170698;Corio
+Q5170906;Corlette
+Q5171193;Cornelian Bay
+Q5172097;Coromandel East
+Q5172987;Corrimal
+Q5173908;Cosham
+Q5176598;Coundon, Coventry
+Q5179458;Cowandilla
+Q5180517;Crafers
+Q5180518;Crafers West
+Q5181650;Craigburn Farm
+Q5181651;Craigcrook
+Q5181666;Craigentinny
+Q5181671;Craighall Park
+Q5181694;Craigiebank
+Q5181697;Craigiebuckler
+Q5181698;Craigieburn
+Q5181722;Craigmarloch
+Q5181733;Craigmore
+Q5181747;Craigour
+Q5181931;Cranbourne East
+Q5181934;Cranbourne North
+Q5181935;Cranbourne South
+Q5181937;Cranbourne West
+Q5181943;Cranbrook
+Q5182068;Cranebrook
+Q5182113;Crangan Bay
+Q5182207;Cranley
+Q5184107;Cremorne
+Q5184119;Cremorne Point
+Q5184829;Crewe Toll
+Q5185739;Cringila
+Q5187462;Croesyceiliog
+Q5187492;Crofton Downs
+Q5187591;Cromer
+Q5188709;Crosslet, Dumbarton
+Q5189034;Croudace Bay
+Q5189557;Crownhill
+Q5189586;Crows Nest
+Q5189637;Croydon
+Q5189639;Croydon
+Q5189674;Croydon Hills
+Q5189682;Croydon North
+Q5189692;Croydon Park
+Q5189701;Croydon South
+Q5190284;Crutherland
+Q5192876;Culburra Beach
+Q5193934;Cumberland Park
+Q5193953;Cumberland Reach
+Q5194004;Cumbernauld Village
+Q5194124;Cummings Park
+Q5194814;Curl Curl
+Q5194962;Currans Hill
+Q5195169;Currimundi
+Q5195187;Currumbin
+Q5195190;Currumbin Valley
+Q5197236;Cwmbwrla
+Q5207491;Dabeerpura
+Q5208643;Dagoretti
+Q5209435;Daimler Green
+Q5209907;Dakabin
+Q5210302;Daldowie
+Q5210824;Daleys Point
+Q5211219;Dallas
+Q5211486;Dallington
+Q5211794;Dalyellup
+Q5215671;Dandawailo
+Q5215700;Dandenong North
+Q5215909;Danestone
+Q5216659;Daniel Brink Park
+Q5221815;Dapto
+Q5223917;Darling Downs
+Q5223965;Darlington
+Q5224088;Darnall
+Q5224213;Darra
+Q5225749;Dartry
+Q5225763;Daruka
+Q5225948;Darwin
+Q5234100;Rotokauri
+Q5241624;Davidson's Mains
+Q5241626;Davidson
+Q5242027;Davistown
+Q5242254;Daw Park
+Q5242320;Dawesville
+Q5243103;Daybrook
+Q5245810;Deagon
+Q5246399;Dean Park
+Q5246697;Deane
+Q5249966;Dee Why
+Q5249970;Deebing Heights
+Q5250567;Deepdale
+Q5250574;Deepdene
+Q5250802;Deer Park
+Q5250870;Deeragun
+Q5253058;Delacombe
+Q5253079;Delahey
+Q5256973;Denham Court
+Q5257851;Denistone
+Q5257852;Denistone East
+Q5262869;Dernancourt
+Q5263341;Derwent Park
+Q5267678;Devon
+Q5267752;Devon Park
+Q5268097;Dewas Naka
+Q5269393;Dharruk
+Q5270756;Diamond Creek
+Q5273835;Dicky Beach
+Q5275644;Diggers Rest
+Q5276297;Diglis
+Q5277068;Dilston
+Q5277794;Dimsdale
+Q5278238;Dingley Village
+Q5278384;Dinmore
+Q5280732;Direk
+Q5287226;Docklands
+Q5288859;Dolans Bay
+Q5289307;Dolls Point
+Q5289970;Dombarton
+Q5295495;Doncaster East
+Q5296927;Donvale
+Q5297021;Doolandella
+Q5297168;Doonfoot
+Q5297180;Doonside
+Q5297220;Dooralong
+Q5297396;Dora Creek
+Q5297649;Doreen
+Q5298871;Dorset Vale
+Q5301146;Douglas, Dundee
+Q5301158;Douglas
+Q5302486;Dover Gardens
+Q5302556;Doveton
+Q5303145;Downfield, Dundee
+Q5303278;Downside
+Q5303663;Dowsing Point
+Q5303710;Doyalson
+Q5307332;Drewvale
+Q5307982;Driver
+Q5308332;Dronfield Woodhouse
+Q5309123;Drumbrae
+Q5309142;Drumcondra
+Q5309255;Drummoyne
+Q5309648;Dryburgh
+Q5311721;Duders Point
+Q5311786;Dudley
+Q5311937;Dudley Park
+Q5311939;Dudley Park
+Q5312411;Duffys Forest
+Q5313536;Dulwich
+Q5313549;Dulwich Hill
+Q5313686;Dumbarton East
+Q5313715;Dumbiedykes
+Q5313912;Dummar
+Q5314747;Dundas
+Q5314775;Dundas Valley
+Q5314978;Dunedin North
+Q5315441;Dunlop
+Q5315767;Duntroon
+Q5316120;Durack
+Q5316121;Durack
+Q5316161;Dural
+Q5316745;Durren Durren
+Q5317555;Dutton Park
+Q5319222;Dynnyrne
+Q5320606;Yeswanthpur
+Q5320813;Rajarajeshwari Nagar
+Q5325294;Eagle Vale
+Q5325321;Eagleby
+Q5325327;Eaglehawk
+Q5326560;Earlwood
+Q5327759;East Auckland
+Q5327944;East Brisbane
+Q5328102;East Coast Bays
+Q5328189;East Craigs
+Q5328218;East Denton
+Q5328276;East Ella
+Q5328412;East Geelong
+Q5328472;East Gosford
+Q5328646;East Ipswich
+Q5328732;East Kildonan, Winnipeg
+Q5328734;East Killara
+Q5328751;East Kurrajong
+Q5328810;East Launceston
+Q5328921;East Mains, East Kilbride
+Q5328922;East Maitland
+Q5328965;East Melbourne
+Q5329150;East Pilton
+Q5329163;East Point
+Q5329334;East Seaham
+Q5329480;East Tamaki
+Q5329483;East Tamworth
+Q5329627;East Wagga Wagga
+Q5330016;Eastern Beach, New Zealand
+Q5330162;Eastern Green
+Q5330173;Eastern Heights
+Q5330650;Eastfield, Edinburgh
+Q5330651;Eastfield
+Q5330660;Eastgardens
+Q5330718;Eastlakes
+Q5331563;Ebbw Vale
+Q5332285;Eccleston
+Q5336865;Eden Hill
+Q5336868;Eden Hills
+Q5337009;Edens Landing
+Q5337013;Edensor Park
+Q5337773;Edgeley
+Q5337932;Edgeworth
+Q5337966;Edgwick
+Q5338136;Edinburgh
+Q5338285;Edinburgh Waterfront
+Q5338704;Edithvale
+Q5338982;Edmonton
+Q5346153;Edwardstown
+Q5348998;Eight Mile Plains
+Q5350127;Ejigbo, Lagos
+Q5353454;Elanora
+Q5353456;Elanora Heights
+Q5353990;Elderslie
+Q5358602;Eleebana
+Q5359454;Elermore Vale
+Q5361040;Elimbah
+Q5362693;Elizabeth Downs
+Q5362707;Elizabeth East
+Q5362884;Elizabeth Grove
+Q5363269;Elizabeth North
+Q5363309;Elizabeth Park
+Q5363530;Elizabeth South
+Q5363661;Elizabeth Vale
+Q5363716;Elizabeth West
+Q5364856;Ellen Grove
+Q5365935;Ellis Lane
+Q5367746;Elsternwick
+Q5367801;Eltham North
+Q5367827;Elton
+Q5368087;Elvina Bay
+Q5369414;Embakasi
+Q5370440;Emerald Hill, New Zealand
+Q5370443;Emerald Hill
+Q5370962;Emerton
+Q5374040;Empire Bay
+Q5374858;Emu Point
+Q5375990;Endeavour Hills
+Q5377277;Enfield
+Q5377280;Enfield
+Q5377385;Engadine
+Q5378715;Englorie Park
+Q5379109;Enmore
+Q5379357;Enoggera
+Q5379362;Enoggera Reservoir
+Q5383056;Kurla
+Q5383865;Epping
+Q5384046;Epuni
+Q5384895;Eraring
+Q5389242;Erina
+Q5389246;Erina Heights
+Q5389265;Erindale
+Q5392481;Ermington
+Q5392632;Ernesford Grange
+Q5395812;Erskine
+Q5395851;Erskine Park
+Q5397213;Eschol Park
+Q5399482;Essendon Fields
+Q5400901;Estella
+Q5403281;Ethelton
+Q5404976;Ettalong Beach
+Q5409549;Eumemmerring
+Q5415588;Evandale
+Q5415991;Evanston
+Q5416000;Evanston Gardens
+Q5416004;Evanston Park
+Q5416007;Evanston South
+Q5416235;Eveleigh
+Q5416911;Everard Park
+Q5417404;Everton Hills
+Q5417412;Everton Park
+Q5420088;Exeter
+Q5429146;Fadden
+Q5429682;Failford
+Q5430219;Fairfield
+Q5430222;Fairfield
+Q5430224;Fairfield
+Q5430226;Fairfield, Wellington
+Q5430228;Fairfield
+Q5430277;Fairfield East
+Q5430288;Fairfield Heights
+Q5430412;Fairfield West
+Q5430549;Fairlight
+Q5430718;Fairstead
+Q5430843;Fairview Park
+Q5430902;Fairwater
+Q5430967;Fairy Meadow
+Q5431717;Falcon
+Q5432399;Fallings Park
+Q5433948;Fannie Bay
+Q5435476;Farm Cove
+Q5435669;Farmborough Heights
+Q5436240;Farrar
+Q5436850;Fassifern
+Q5438588;Favona
+Q5439142;Fazakerley
+Q5439980;Federal
+Q5442396;Felixstow
+Q5443217;Fendalton
+Q5443525;Fennell Bay
+Q5444438;Fern Bay
+Q5444485;Fern Tree
+Q5445109;Ferniehill
+Q5445110;Fernieside
+Q5445148;Ferntree Gully
+Q5445170;Ferny Grove
+Q5445534;Ferryden Park
+Q5445535;Ferryhill
+Q5445542;Ferrymead
+Q5446711;Fiddletown
+Q5447678;Fig Tree Pocket
+Q5447970;Figtree
+Q5450012;Findon
+Q5450179;Fingal Bay
+Q5450182;Fingal Head
+Q5450317;Finham
+Q5452090;Firle
+Q5452180;Firrhill
+Q5454917;Fishermans Bay
+Q5455023;Fishing Point
+Q5455622;Fitzgibbon
+Q5455681;Fitzroy
+Q5455682;Fitzroy
+Q5455716;Fitzroy North
+Q5456313;Fixby
+Q5456464;Jogeshwari
+Q5457017;Flagstaff Gully
+Q5457021;Flagstaff Hill
+Q5457728;Flat Bush
+Q5458752;Fletcher
+Q5459415;Flinders Park
+Q5459426;Flinders View
+Q5464312;Foleshill
+Q5466574;Footscray
+Q5467605;Ford
+Q5468871;Forest Glen
+Q5468912;Forest Hill
+Q5468920;Forest Hill
+Q5469223;Forestdale
+Q5469295;Forestville
+Q5469297;Forestville
+Q5469685;Forgewood
+Q5470426;Forrest
+Q5470475;Forrest Hill, New Zealand
+Q5470542;Forrestdale
+Q5470560;Forresters Beach
+Q5471194;Fort Garry, Winnipeg
+Q5476752;Fox Hollies
+Q5478784;Handsworth
+Q5491129;Frankleigh Park
+Q5491137;Franklin
+Q5492269;Frankston North
+Q5492271;Frankston South
+Q5501469;Fremantle
+Q5502737;Frenchs Forest
+Q5502759;Frenchville
+Q5503096;Freshwater
+Q5503282;Frewville
+Q5505077;Frizinghall
+Q5507907;Fulham
+Q5507920;Fulham Gardens
+Q5508220;Fullarton
+Q5508287;Fullerton Cove
+Q5509671;Furnissdale
+Q5516856;Gagebrook
+Q5517179;Gailes
+Q5519339;Galston
+Q5522045;Garbutt
+Q5522332;Garden Suburb
+Q5522445;Gardenhall
+Q5522628;Gardnersville
+Q5524303;Garston
+Q5524403;Garthdee
+Q5526992;Gate Pa
+Q5527033;Gateacre
+Q5527255;Gateway Island
+Q5527441;Gatley
+Q5528036;Gaven
+Q5528458;Gawler East
+Q5528464;Gawler South
+Q5528465;Gawler West
+Q5528939;Gaywood
+Q5529767;Geebung
+Q5529867;Geelong West
+Q5530141;Geilston Bay
+Q5546819;Georges Hall
+Q5546953;Georgetown
+Q5548708;Gepps Cross
+Q5550554;Gerehu
+Q5550649;Heathcote
+Q5561574;Gilead
+Q5562080;Gilles Plains
+Q5562395;Gillman
+Q5562619;Gilston
+Q5564818;Girraween
+Q5566343;Gladstone Park
+Q5566609;Glandore
+Q5566656;Glanville
+Q5567425;Glebe
+Q5567462;Gledhow
+Q5567468;Gledswood Hills
+Q5567566;Glen Alpine
+Q5567718;Glen Eden
+Q5567817;Glen Huntly
+Q5567823;Glen Innes
+Q5567936;Glen Osmond
+Q5568131;Glenalta
+Q5568215;Glenburn, Paisley
+Q5568403;Glendene
+Q5568410;Glendenning
+Q5568441;Glendowie, New Zealand
+Q5568468;Glenelg East
+Q5568473;Glenelg North
+Q5568477;Glenelg South
+Q5568503;Glenfield
+Q5568504;Glenfield
+Q5568508;Glenfield North
+Q5568509;Glenfield Park
+Q5568552;Glengowrie
+Q5568559;Glenhaven
+Q5568597;Glenlusk
+Q5568632;Glenmore Park
+Q5569214;Glenning Valley
+Q5569269;Glenorie
+Q5569340;Glenside
+Q5569372;Glenunga
+Q5569377;Glenvale
+Q5569497;Glenworth Valley
+Q5570975;Globe Derby Park
+Q5571914;Glossodia
+Q5572914;Glynde
+Q5575417;Gobbagombalin
+Q5579192;Golden Beach
+Q5579520;Golden Grove
+Q5579809;Golden Square
+Q5580211;Goldington
+Q5583486;Goodna
+Q5583704;Goodwood
+Q5583919;Googong
+Q5584124;Gooseberry Hill
+Q5584743;Gordon
+Q5584750;Gordon
+Q5586063;Gordonvale
+Q5586797;Gorokan
+Q5587199;Gosforth
+Q5589839;Govind Nagar
+Q5589982;Gowanbrae
+Q5590138;Gowrie Park
+Q5591478;Graceville
+Q5595626;Grange
+Q5595670;Grange Park
+Q5596661;Granton
+Q5596852;Granville
+Q5597512;Grassendale
+Q5598128;Gray
+Q5598373;Grays Point
+Q5598698;Great Barr
+Q5599026;Great Crosthwaite
+Q5599321;Great Hollands
+Q5599524;Great Mackerel Beach
+Q5602539;Green Fields
+Q5602771;Green Lane
+Q5603073;Green Point
+Q5603077;Green Point
+Q5603358;Green Valley
+Q5603642;Greenacres
+Q5603671;Greenbank
+Q5603673;Greenbank
+Q5603807;Greendale, Harare
+Q5603823;Greendykes
+Q5603981;Greenfield Park
+Q5604027;Greenfields
+Q5604058;Greengates
+Q5604069;Greengrove
+Q5604110;Greenhill
+Q5604113;Greenhill
+Q5604128;Greenhills, East Kilbride
+Q5604136;Greenhithe
+Q5604250;Greenlane
+Q5604297;Greenleigh
+Q5604476;Greensborough
+Q5604545;Greenslopes
+Q5604620;Greenvale
+Q5604771;Greenway
+Q5604822;Greenwich
+Q5604921;Greenwith
+Q5606470;Gregadoo
+Q5606966;Gregory Hills
+Q5607629;Greta
+Q5608774;Griffin
+Q5608859;Griffith
+Q5608946;Griffithstown
+Q5610440;Grose Vale
+Q5610446;Grose Wold
+Q5611478;Grovedale
+Q5613532;Guanaba
+Q5615788;Guildford
+Q5617644;Gulfview Heights
+Q5617793;Gulliver
+Q5618098;Gumdale
+Q5618155;Gumly Gumly
+Q5618755;Gungahlin
+Q5618901;Gunn
+Q5623286;Gwandalan
+Q5623895;Gwynneville
+Q5624152;Gymea
+Q5624154;Gymea Bay
+Q5637284;Hacketts Gully
+Q5637296;Hackham
+Q5637298;Hackham West
+Q5637334;Hackney
+Q5637794;Hadfield
+Q5641476;Halekulani
+Q5641697;Half Moon Bay
+Q5641918;Halfway, South Lanarkshire
+Q5641929;Halfway Bush
+Q5642748;Hallam
+Q5642914;Hallett Cove
+Q5643015;Halliwell
+Q5643149;Halls Head
+Q5643588;Halswell
+Q5644763;Hamilton
+Q5644792;Hamilton
+Q5644915;Hamilton East, New Zealand
+Q5644998;Hamilton Hill
+Q5645144;Hamilton South
+Q5645244;Hamilton West
+Q5645522;Hamlyn Heights
+Q5645523;Hamlyn Terrace
+Q5646117;Hampstead Gardens
+Q5646144;Hampton
+Q5646195;Hampton East
+Q5646261;Hampton Park
+Q5646803;Whitton
+Q5647672;Handsworth
+Q5651329;Hanuabada
+Q5653118;Happy Valley
+Q5653127;Happy Valley, Wellington
+Q5654890;Harbour View, New Zealand
+Q5655845;Harden
+Q5656925;Hareskovby
+Q5658134;Harkaway
+Q5658455;Harlaxton
+Q5665330;Harrisdale
+Q5666656;Harrowgate Hill
+Q5678693;Hasbury
+Q5679492;Hassall Grove
+Q5680232;Seven Hills
+Q5680878;Hataitai
+Q5681339;Hatfield, Harare
+Q5682778;Hauraki
+Q5685466;Hawthorn
+Q5685475;Hawthorn
+Q5685486;Hawthorn East
+Q5685520;Hawthorndene
+Q5685534;Hawthorne
+Q5686104;Hayatabad
+Q5688191;Hazelwood Park
+Q5694207;Heatherbrae
+Q5694243;Heatherton
+Q5694258;Heathfield
+Q5694307;Heathmont
+Q5694320;Heathpool
+Q5694384;Heathwood
+Q5694404;Heaton
+Q5694406;Heaton
+Q5694415;Heaton Chapel
+Q5694419;Heaton Mersey
+Q5694420;Heaton Moor
+Q5694426;Heaton Norris
+Q5695744;Hebersham
+Q5696386;Heckenberg
+Q5697027;Hectorville
+Q5697963;Heeley
+Q5698660;Heidelberg Heights
+Q5698734;Heidelberg West
+Q5712320;Hemmant
+Q5713613;Hendra
+Q5714587;Henley Beach South
+Q5733379;Herbert
+Q5738256;Heretaunga
+Q5738973;Heritage Park
+Q5741738;Hermit Park
+Q5742317;Herne Bay
+Q5742341;Herne Hill
+Q5744618;Herston
+Q5748399;Hewett
+Q5751977;Hidden Valley
+Q5755282;High Cross
+Q5755580;High Green
+Q5757861;Highbury, Auckland
+Q5757873;Highbury
+Q5758468;Highett
+Q5758477;Highfield, Harare
+Q5758483;Highfield
+Q5758546;Highgate
+Q5758555;Highgate Hill
+Q5758929;Highland Park, New Zealand
+Q5759614;Highridge
+Q5759711;Highton
+Q5760076;Highworth
+Q5762711;Hillcrest
+Q5762756;Hillcrest
+Q5763117;Hillfields
+Q5763275;Hillier
+Q5763639;Hillsborough
+Q5763864;Hillside
+Q5765710;Hinchinbrook
+Q5766124;Hindmarsh
+Q5768815;Hirabad
+Q5790897;Lucas Heights
+Q5874777;Hobart
+Q5874786;Hobartville
+Q5877697;Hohola
+Q5878236;Hokowhitu
+Q5878800;Holbrooks
+Q5881831;Holloways Beach
+Q5883703;Holmesville
+Q5884778;Holtze
+Q5885028;Holy Corner
+Q5887422;Homai
+Q5889325;Homebush West
+Q5898181;Hoole
+Q5898247;Hoon Hay
+Q5899571;Hope Valley
+Q5901240;Hoppers Crossing
+Q5902502;Horahora, Whangarei
+Q5902554;Horamavu
+Q5904115;Hornby
+Q5904415;Horninglow
+Q5904429;Horningsea Park
+Q5906190;Horsfield Bay
+Q5906359;Horsley
+Q5906384;Horsley Park
+Q5912903;Houghton
+Q5912935;Houghton Bay
+Q5921418;Howden
+Q5921421;Howden
+Q5921903;Howick
+Q5922480;Howrah
+Q5933486;Hughesdale
+Q5934918;Huia, New Zealand
+Q5942110;Hunchy
+Q5944784;Hunters Hill
+Q5945068;Huntingdale
+Q5945171;Huntingfield
+Q5945586;Huntingwood
+Q5945689;Huntleys Point
+Q5945777;Huntsbury
+Q5951517;Huyton with Roby Urban District
+Q5952749;Hyams Beach
+Q5952779;Mount Coot-tha
+Q5953601;Hyde Park
+Q5953604;Hyde Park
+Q5962294;Hyson Green
+Q5987581;Idalia
+Q5996959;Ilam
+Q5998844;Illawong
+Q6015657;Indahpura
+Q6026546;Indore G.P.O.
+Q6032545;Ingle Farm
+Q6032559;Ingleburn
+Q6032633;Ingleside
+Q6033347;Ingrow
+Q6060152;Invermay
+Q6082996;Island Bay
+Q6084282;Islev
+Q6084318;Islington
+Q6098125;Ivanhoe East
+Q6116079;Jackass Flat
+Q6127839;Jamboree Heights
+Q6147880;Jamisontown
+Q6155089;Jannali
+Q6177009;Jelutong
+Q6189587;Jewells
+Q6193191;Jilliby
+Q6202323;Jingili
+Q6207268;Jock's Lodge
+Q6268554;Johnsonville, New Zealand
+Q6268601;Johnston
+Q6270336;Monterey
+Q6270655;Waterfall
+Q6270744;Pennant Hills
+Q6270771;Sefton
+Q6270986;Rozelle
+Q6271051;Riverview
+Q6271095;Riverwood
+Q6271112;Roselands
+Q6271175;Punchbowl
+Q6271208;Mortlake
+Q6271274;Tempe
+Q6271749;South Hurstville
+Q6271827;Hurstville Grove
+Q6271864;Seaforth
+Q6271890;Potts Hill
+Q6271966;Lakemba
+Q6272013;Kings Langley
+Q6272400;St Peters
+Q6272440;St Leonards
+Q6272457;Kingsgrove
+Q6272472;Kogarah Bay
+Q6272504;Woolwich
+Q6272546;Sans Souci
+Q6273396;Turrella
+Q6274053;Sydenham
+Q6274081;Kyle Bay
+Q6276190;Joppa, Edinburgh
+Q6276315;Jordan
+Q6291014;Joslin
+Q6301868;Jubilee Hills
+Q6311789;Junction Village
+Q6333575;Pelican Waters
+Q6343714;Kaba Town
+Q6348022;Kaimhill
+Q6354279;Kalorama
+Q6360311;Kanahooka
+Q6362581;Kangaroo Point
+Q6362949;Kangy Angy
+Q6363531;Kanjurmarg
+Q6365710;Kanwal
+Q6368213;Karalee
+Q6368250;Karama
+Q6368507;Karanodai
+Q6369183;Kareela
+Q6373264;Karoro
+Q6373340;Karragullen
+Q6373821;Kothrud
+Q6377847;Katraj
+Q6378889;Kauri Park
+Q6378912;Kausa
+Q6379622;Kawana
+Q6382123;Kealba
+Q6382211;Kearns
+Q6382623;Kedron
+Q6383741;Keilor Downs
+Q6383745;Keilor Lodge
+Q6383747;Keilor Park
+Q6385513;Kelburn
+Q6386381;Kellyville
+Q6386382;Kellyville Ridge
+Q6386397;Kelmscott
+Q6386527;Kelso
+Q6386555;Kelson, New Zealand
+Q6386562;Kelston, New Zealand
+Q6386669;Kelvin Grove
+Q6386880;Kembla Heights
+Q6386881;Kemblawarra
+Q6389146;Kenepuru
+Q6389457;Kenmore
+Q6390914;Kennington
+Q6391411;Kensington
+Q6391418;Kensington
+Q6391446;Kensington Gardens
+Q6391470;Kensington Park
+Q6391937;Kent Town
+Q6392025;Kenthurst
+Q6392053;Kentlyn
+Q6392490;Kenwick
+Q6393112;Keperra
+Q6395265;Keswick
+Q6397892;Kew East
+Q6397943;Kewdale
+Q6398390;Keysborough
+Q6400523;Kharadi
+Q6402126;Kholo
+Q6403702;Kiama Downs
+Q6404768;Kidman Park
+Q6406492;Kilaben Bay
+Q6406612;Kilburn
+Q6407023;Kilkenny
+Q6407286;Killara
+Q6407331;Killarney Vale
+Q6407359;Killcare
+Q6407836;Killingworth
+Q6408209;Kilsyth
+Q6408217;Kilsyth South
+Q6410485;Kincorth
+Q6412753;Kingfisher Shores
+Q6412871;Kings Beach
+Q6412950;Kings Meadows
+Q6412977;Kings Park
+Q6412978;Kings Park
+Q6412981;Kings Park
+Q6413177;Kingscliff
+Q6413246;Kingsknowe
+Q6413252;Kingsland
+Q6413312;Kingsley Heights
+Q6413464;Kingston Beach
+Q6413574;Kingston Park
+Q6413698;Kingsville
+Q6413755;Kingswood
+Q6413759;Kingswood
+Q6414670;Kippa-Ring
+Q6415666;Kirkham
+Q6415844;Kirkton, Dundee
+Q6415845;Kirkton, Livingston
+Q6415998;Kirrawee
+Q6416295;Kirwan
+Q6422833;Knockboy, County Waterford
+Q6423129;Knotty Ash
+Q6423635;Knoxfield
+Q6425315;Kodigehalli
+Q6425995;Kohimarama
+Q6428594;Kompally
+Q6429071;Konedobu
+Q6429355;Konik, Montenegro
+Q6429390;Konini
+Q6430605;Koolewong
+Q6430672;Koonawarra
+Q6430739;Kooralbyn
+Q6432483;Korobosea
+Q6432504;Korokoro
+Q6433876;Kotara
+Q6435019;Kowdiar
+Q6441723;Kudla
+Q6443177;Kulnura
+Q6443283;Kuluin
+Q6444243;Kunda Park
+Q6445512;Kuraby
+Q6446191;Kurmond
+Q6446481;Kurrajong
+Q6446487;Kurralta Park
+Q6447466;Kurunjang
+Q6448804;Kuwadzana
+Q6450566;Kwun Chung
+Q6450862;Kybong
+Q6450896;Kyeemagh
+Q6456285;L.I.G. Colony
+Q6467584;Labrador
+Q6474591;Lakdi ka pul
+Q6476131;Lake Heights
+Q6476265;Lake Illawarra
+Q6476719;Lake MacDonald
+Q6477013;Lake Munmorah
+Q6478468;Lake Wendouree
+Q6478846;Lakelands
+Q6480572;Lalor
+Q6480574;Lalor Park
+Q6481586;Lambton
+Q6484919;Landore
+Q6485375;Lane Cove North
+Q6485381;Lane Cove West
+Q6485576;Lang'ata
+Q6485829;Lange
+Q6487358;Lansdowne
+Q6487359;Lansdowne
+Q6487508;Lansvale
+Q6488407;Lapstone
+Q6488696;Larapinta
+Q6489301;Largs
+Q6489307;Largs Bay
+Q6489313;Largs North
+Q6489783;Larrakeyah
+Q6498237;Laughtondale
+Q6502507;Lavender Bay
+Q6502627;Laverton
+Q6502635;Laverton North
+Q6503721;Lawnton
+Q6508267;Leabrook
+Q6509883;Leanyer
+Q6510816;Leawood Gardens
+Q6513021;Lee Bank
+Q6514736;Lee Point
+Q6517338;Titirangi
+Q6520403;Leith Valley
+Q6521157;Lemington
+Q6521341;Lemon Tree
+Q6521346;Lemon Tree Passage
+Q6522219;Lenaghan
+Q6522224;Lenah Valley
+Q6526896;Leopold
+Q6527803;Leppington
+Q6548291;Lillington, Warwickshire
+Q6548615;Lilydale
+Q6548638;Lilyvale
+Q6550361;Lincoln, Auckland
+Q6552252;Linden
+Q6552339;Linden Park
+Q6552459;Lindfield
+Q6554462;Linley Point
+Q6555138;Linwood
+Q6558562;Lisarow
+Q6647845;Litherland
+Q6650097;Little France
+Q6650268;Little Harwood
+Q6650509;Little Jilliby
+Q6652548;Little Wobby
+Q6653027;Littleover
+Q6661214;Llandilo
+Q6661778;Llantarnam
+Q6661924;Llanyrafon
+Q6662239;Lloyd
+Q6665087;Lochee
+Q6665089;Lochend, Edinburgh
+Q6665121;Lochinvar
+Q6665164;Lochrin
+Q6665693;Lockleys
+Q6665885;Lockwood
+Q6665913;Lockyer
+Q6667232;Logan Village
+Q6667265;Loganholme
+Q6667278;Loganlea
+Q6671177;Londonderry
+Q6672748;Long Jetty
+Q6673074;Long Point
+Q6673820;Longford
+Q6674314;Longstone
+Q6674400;Longueville
+Q6674820;Lonsdale
+Q6681321;Lorn
+Q6684604;Lota
+Q6692265;Lovely Banks
+Q6692520;Lovett Bay
+Q6693060;Lowanna
+Q6693585;Lower Mangrove
+Q6693626;Lower Mitcham
+Q6693710;Lower Plenty
+Q6693719;Lower Portland
+Q6698700;Luddenham
+Q6698920;Ludmilla
+Q6699746;Lugarno
+Q6704968;Lurnea
+Q6705196;Luskintyre
+Q6705382;Lutana
+Q6706000;Lutwyche
+Q6707742;Lye
+Q6708388;Lynbrook
+Q6708651;Lyndhurst
+Q6708875;Lynmouth, New Zealand
+Q6709505;Lynton
+Q6709756;Lyons
+Q6710294;Lysterfield South
+Q6710412;Lytton
+Q6721560;Mabelreign, Harare
+Q6721677;Mabvuku
+Q6721831;MacDonald Park
+Q6722032;MacMasters Beach
+Q6722506;Macandrew Bay
+Q6722652;Macarthur
+Q6723293;Macgregor
+Q6724343;Mackenzie
+Q6724673;Macleod
+Q6726632;Maddington
+Q6728437;Madora Bay
+Q6729265;Maeroa
+Q6730114;Magenta
+Q6734834;Mahora
+Q6735368;Maiden Gully
+Q6736895;Mairangi Bay
+Q6736923;Mairehau
+Q6739861;Makokoba
+Q6740929;Malad
+Q6741113;Malak
+Q6743493;Maligawatta
+Q6744023;Mallabula
+Q6744130;Mallepally
+Q6745044;Malvern
+Q6745046;Malvern
+Q6745056;Malvern East
+Q6746604;Manadon
+Q6747790;Mandalong
+Q6748818;Mangapapa
+Q6748835;Mangaroa
+Q6748975;Māngere Bridge
+Q6748987;Mangerton
+Q6749126;Mangrove Creek
+Q6749131;Mangrove Mountain
+Q6749563;Manifold Heights
+Q6750603;Manly
+Q6750733;Mannamead
+Q6750802;Mannering Park
+Q6750851;Manning
+Q6750890;Manningham
+Q6750891;Manningham
+Q6753177;Manurewa
+Q6753180;Manurewa East
+Q6753676;Maoribank
+Q6754069;Mapleton
+Q6754156;Mapperley
+Q6754613;Maraenui
+Q6754823;Maranoa Heights
+Q6755119;Maraylya
+Q6755122;Marayong
+Q6758627;Marden
+Q6758645;Mardi
+Q6759079;Margam
+Q6760248;Margate
+Q6762533;Maribyrnong
+Q6764422;Marino
+Q6765051;Marion
+Q6771387;Marks Point
+Q6771643;Marlborough
+Q6771773;Marleston
+Q6771978;Marlow
+Q6771988;Marlow Lagoon
+Q6772155;Marmong Point
+Q6772338;Maroochy River
+Q6772344;Maroochydore
+Q6772381;Maroota
+Q6772409;Maroubra Junction
+Q6772795;Marrara
+Q6773066;Marryatville
+Q6773221;Marsden
+Q6773240;Marsden Park
+Q6773288;Marsfield
+Q6773455;Marshall
+Q6773718;Marshall Mount
+Q6777195;Martins Creek
+Q6777293;Marton
+Q6781190;Maryhill
+Q6781253;Maryland
+Q6781799;Maryville
+Q6783461;Maslin Beach
+Q6784598;Massey
+Q6785612;Mastrick
+Q6786238;Matcham
+Q6787597;Matirogo
+Q6792336;Maudsland
+Q6792561;Maungaraki
+Q6794454;Mawson
+Q6794461;Mawson Lakes
+Q6796996;Maybury
+Q6797147;Mayfield
+Q6797160;Mayfield
+Q6797203;Mayfield West
+Q6797362;Maymorn
+Q6797955;Mays Hill
+Q6799629;Mbare Township
+Q6799702;Mbizo
+Q6801003;McDowall
+Q6801676;McKail
+Q6801991;McKinnon
+Q6802076;McLaren Park
+Q6802293;McMahons Point
+Q6802388;McMinns Lagoon
+Q6803241;Meadow Heights
+Q6803286;Meadow Springs
+Q6803300;Meadowbank
+Q6803323;Meadowbrook
+Q6804118;Meanwood
+Q6806947;Medindie
+Q6806949;Medindie Gardens
+Q6806958;Medini Iskandar Malaysia
+Q6807276;Medowie
+Q6808511;Megalong
+Q6813110;Melling, New Zealand
+Q6813175;Mellons Bay
+Q6813665;Melrose Park
+Q6813667;Melrose Park
+Q6813776;Melton
+Q6813803;Melton West
+Q6813846;Melville
+Q6816453;Menangle Park
+Q6817731;Menzieshill
+Q6817744;Meole Brace
+Q6819576;Merivale
+Q6819639;Merkinch
+Q6819850;Mermaid Beach
+Q6819892;Mernda
+Q6820149;Merrilands
+Q6820498;Merrylands
+Q6820500;Merrylands West
+Q6823533;Metford
+Q6827232;Miami
+Q6838865;Mickleover
+Q6841287;Middle Cove
+Q6841308;Middle Dural
+Q6841516;Middle Park
+Q6841517;Middle Park
+Q6841545;Middle Ridge
+Q6841816;Middlemore
+Q6842002;Middleton Beach
+Q6842008;Middleton Grange
+Q6843026;Midstocket
+Q6851062;Mile End
+Q6851074;Mile End South
+Q6858372;Mill Park
+Q6858590;Millbridge
+Q6858599;Millbrook
+Q6859031;Miller
+Q6859897;Millner
+Q6860057;Millswood
+Q6860698;Milpara
+Q6867881;Minmi
+Q6867930;Minnamurra
+Q6869644;Minto
+Q6871238;Minyama
+Q6872217;Mira Mar
+Q6872688;Miramar
+Q6872779;Miranda
+Q6874496;Mirrabooka
+Q6881033;Mitcham
+Q6881034;Mitcham
+Q6881094;Mitchell
+Q6881331;Mitchell Park
+Q6881501;Mitchelton
+Q6886392;Moana
+Q6888060;Modbury Heights
+Q6888066;Modbury North
+Q6890238;Moera
+Q6894595;Moil
+Q6896078;Molendinar
+Q6896718;Mollymook
+Q6898218;Monash
+Q6898457;Monbulk
+Q6900684;Monkerai
+Q6902457;Mons
+Q6903020;Mont Albert
+Q6903022;Mont Albert North
+Q6906086;Montmorency
+Q6906454;Montrose
+Q6906456;Montrose
+Q6906660;Montville
+Q6907358;Moolap
+Q6907380;Mooloolah Valley
+Q6907636;Moonah
+Q6907752;Mooney Mooney
+Q6908064;Moorabbin
+Q6908281;Moorebank
+Q6908438;Moorong
+Q6908439;Mooroobool
+Q6908447;Moorooka
+Q6908450;Mooroolbark
+Q6909459;Morayfield
+Q6911232;Moredun
+Q6911416;Moresby
+Q6912338;Morisset
+Q6912339;Morisset Park
+Q6912960;Morningside, Auckland
+Q6912963;Morningside, Gauteng
+Q6913012;Mornington, Otago
+Q6913013;Mornington
+Q6913014;Mornington
+Q6913331;Morpeth
+Q6913373;Morphett Vale
+Q6913378;Morphettville
+Q6914424;Mortdale
+Q6914978;Mortonhall
+Q6915606;Moseley
+Q6916601;Moss Side
+Q6916985;Moston
+Q6918771;Moturoa
+Q6918971;Moulden
+Q6919028;Moulsham
+Q6919326;Mount Albert
+Q6919413;Mount Annan
+Q6920160;Mount Clarence
+Q6920237;Mount Coolum
+Q6920500;Mount Druitt
+Q6920515;Mount Duneed
+Q6920613;Mount Elliot
+Q6921377;Mount Hutton
+Q6921731;Mount Kuring-gai
+Q6921738;Mount Kynoch
+Q6921834;Mount Lewis
+Q6921865;Mount Lofty
+Q6922032;Mount Martha
+Q6922147;Mount Melville
+Q6922356;Mount Nasura
+Q6922380;Mount Nelson
+Q6922587;Mount Ommaney
+Q6922611;Mount Osmond
+Q6922624;Mount Ousley
+Q6922823;Mount Pleasant, Harare
+Q6922859;Mount Pleasant, Swansea
+Q6922865;Mount Pleasant
+Q6923055;Mount Pritchard
+Q6923145;Mount Rascal
+Q6923218;Mount Richon
+Q6923352;Mount Rumney
+Q6924049;Mount Tarcoola
+Q6924151;Mount Tomah
+Q6924432;Mount Victoria
+Q6924444;Mount View
+Q6924491;Mount Warrigal
+Q6924525;Mount Waverley
+Q6924570;Mount White
+Q6924909;Mountain Creek
+Q6925761;Mountcastle, Edinburgh
+Q6927230;Mowbray
+Q6931736;Mudgeeraba
+Q6931835;Mudjimba
+Q6932073;Mugalivakkam
+Q6933244;Muirhead
+Q6933248;Muirhouse
+Q6933967;Mulgoa
+Q6933974;Mulgrave
+Q6935818;Mundingburra
+Q6936801;Munno Para
+Q6936802;Munno Para Downs
+Q6936804;Munno Para West
+Q6936853;Munruben
+Q6937361;Murarrie
+Q6938213;Murdoch
+Q6939109;Murray Aynsley Hill
+Q6939551;Murrays Bay
+Q6939635;Murrumbeena
+Q6940278;Muscle Creek
+Q6943102;Musselburgh
+Q6948587;Myrtle Bank
+Q6948794;Mysterton
+Q6949299;Myuna Bay
+Q6956861;Nabiac
+Q6958111;Naenae
+Q6959545;Naigaon
+Q6959635;Nailsworth
+Q6960299;Nakara
+Q6965390;Narara
+Q6965754;Narellan
+Q6965755;Narellan Vale
+Q6965767;Naremburn
+Q6966155;Narrabundah
+Q6966236;Narre Warren
+Q6966241;Narre Warren South
+Q6966300;Narrow Neck
+Q6986915;Neepsend
+Q6989601;Neilsland
+Q6990824;Nelsons Plains
+Q6996664;Nerrina
+Q6996756;Nerul
+Q6999013;Netherby
+Q6999653;Netherton
+Q6999758;Netley
+Q7002958;Neutral Bay
+Q7007563;New Farm
+Q7008960;New Inn
+Q7009701;New Kru Town
+Q7009724;New Lambton
+Q7009725;New Lambton Heights
+Q7017401;Newcastle East
+Q7017516;Newcastle West
+Q7017603;Newcomb
+Q7017655;Newcraighall
+Q7018241;Newington
+Q7018535;Newmarket
+Q7018651;Newnham
+Q7018710;Newport
+Q7020653;Newtown
+Q7022179;Ngauranga
+Q7022541;Ngongotaha
+Q7023737;Niagara Park
+Q7024033;Niangala
+Q7026520;Nicholls
+Q7030825;Niddrie, Edinburgh
+Q7030829;Niddrie
+Q7030830;Niddrie Mains
+Q7032200;Nigdi
+Q7033778;Nightcliff
+Q7038231;Ninderry
+Q7045548;Noarlunga Downs
+Q7045757;Noble Park
+Q7045759;Noble Park North
+Q7050209;Norah Head
+Q7050274;Noraville
+Q7050871;Nords Wharf
+Q7053027;Normandale, New Zealand
+Q7053663;North Adelaide
+Q7053965;North Arm
+Q7053968;North Arm Cove
+Q7054033;North Avoca
+Q7054050;North Balgowlah
+Q7055244;North East Valley
+Q7055322;North Epping
+Q7055450;North Fremantle
+Q7055470;North Geelong
+Q7055499;North Gosford
+Q7055568;North Haven
+Q7055645;North Hobart
+Q7055787;North Kildonan, Winnipeg
+Q7055896;North Lambton
+Q7056033;North Malvern
+Q7056074;North Melbourne
+Q7056174;North Narrabeen
+Q7056290;North Parramatta
+Q7056359;North Plympton
+Q7056480;North Richmond
+Q7056551;North Rocks
+Q7056814;North St Marys
+Q7056933;North Tamworth
+Q7057044;North Turramurra
+Q7057135;North Wagga Wagga
+Q7057139;North Wahroonga
+Q7057186;North Ward
+Q7057191;North Warrandyte
+Q7057395;North Willoughby
+Q7057564;Northam
+Q7057712;Northbridge
+Q7057754;Northcote
+Q7057757;Northcote Central
+Q7057784;Northcross
+Q7059351;Northfield, Edinburgh
+Q7059358;Northfield
+Q7059431;Northgate
+Q7059436;Northgate
+Q7059500;Northland, Wellington
+Q7059575;Northmead
+Q7060456;Northwood
+Q7060557;Norton
+Q7060651;Norton Lees
+Q7064435;Novar Gardens
+Q7068369;Nudgee
+Q7068370;Nudgee Beach
+Q7069760;Nunawading
+Q7069789;Nundah
+Q7071724;O'Connor
+Q7071805;O'Halloran Hill
+Q7071868;O'Malley
+Q7071963;O'Sullivan Beach
+Q7073458;Oak Flats
+Q7073652;Oak Park
+Q7073819;Oakden
+Q7073821;Oakdowns
+Q7073910;Oakhurst
+Q7074083;Oaklands Junction
+Q7074084;Oaklands Park
+Q7074107;Oakleigh
+Q7074111;Oakleigh East
+Q7074118;Oakleigh South
+Q7074190;Oakridge
+Q7074245;Oakville
+Q7074489;Oatlands
+Q7074491;Oatlands
+Q7074499;Oatley
+Q7074921;Obi Obi
+Q7076101;Ocean View
+Q7078841;Ofafa
+Q7079440;Officer
+Q7080674;Ohinemutu
+Q7083446;Old Beach
+Q7084153;Old Guildford
+Q7084324;Old Kildonan
+Q7084622;Old Noarlunga
+Q7084834;Old Reynella
+Q7085164;Old Swan
+Q7085239;Old Toongabbie
+Q7088392;Ollur
+Q7093305;One Tree Hill
+Q7093702;Onekawa
+Q7093737;Onepoto, Wellington
+Q7093745;Onerahi
+Q7093975;Onkaparinga Hills
+Q7095370;Oonoonba
+Q7098433;Opossum Bay
+Q7099353;Orakei
+Q7099444;Oran Park
+Q7099447;Orana
+Q7099466;Oranga
+Q7099917;Oratia
+Q7100973;Ore
+Q7103375;Ormeau
+Q7103405;Ormiston
+Q7104068;Orrell Park
+Q7104069;Orrell
+Q7105773;Osborne
+Q7107661;Osterley
+Q7108337;Otago
+Q7108433;Otangarei
+Q7108451;Ōtara
+Q7108541;Otford
+Q7110003;Ottoway
+Q7111284;Ourimbah
+Q7111975;Outer Harbor
+Q7114170;Ovingham
+Q7114263;Owairaka
+Q7114791;Ōwhiro Bay
+Q7115185;Oxenford
+Q7115610;Oxgangs
+Q7115680;Oxley
+Q7115690;Oxley Vale
+Q7122614;Pacific Paradise
+Q7122622;Pacific Pines
+Q7123321;Paddington
+Q7123961;Padstow Heights
+Q7123965;Padstow
+Q7124258;Page Moss
+Q7124351;Pagewood
+Q7124605;Pahurehure
+Q7126082;Pakuranga
+Q7126085;Pakuranga Heights
+Q7126760;Palasia
+Q7127509;Pali Hill
+Q7127739;Pallara
+Q7127741;Pallarenda
+Q7127972;Palm Beach
+Q7128027;Palm Cove
+Q7128036;Palm Grove
+Q7128302;Palmerston City
+Q7128445;Palmview
+Q7128446;Palmwoods
+Q7128820;Paluma
+Q7130032;Panania
+Q7131485;Panorama
+Q7132409;Papakōwhai
+Q7132483;Papanui
+Q7132514;Papatoetoe
+Q7133648;Para Hills
+Q7133650;Para Hills West
+Q7133664;Para Vista
+Q7134189;Paradise
+Q7134339;Paradise Point
+Q7134526;Parafield
+Q7134528;Parafield Gardens
+Q7135062;Paralowie
+Q7135606;Parap
+Q7136728;Paremata
+Q7137788;Park Holme
+Q7137963;Park Ridge
+Q7138105;Park Town
+Q7138209;Parkdale
+Q7138454;Parkeston
+Q7138478;Parkgrove
+Q7138481;Parkhead, Edinburgh
+Q7138538;Parkinson
+Q7138580;Parklands
+Q7138583;Parklands
+Q7138584;Parklands
+Q7138602;Parklea
+Q7138698;Parkside
+Q7138722;Parkstone
+Q7139766;Parrearra
+Q7141523;Pasadena
+Q7141806;Paschim Vihar
+Q7141839;Pascoe Vale
+Q7141845;Pascoe Vale South
+Q7144573;Paterson
+Q7145084;Patlipada
+Q7145183;Patonga
+Q7148453;Patterson Lakes
+Q7148608;Pattom
+Q7148830;Pāuatahanui
+Q7156640;Paya Terubong
+Q7156843;Payneham South
+Q7156844;Payneham
+Q7157686;Peachester
+Q7157889;Peakhurst Heights
+Q7158041;Pearl Beach
+Q7158474;Peats Ridge
+Q7159324;Pedmore
+Q7161215;Pelaw Main
+Q7161423;Pelican Point
+Q7162048;Pemulwuy
+Q7162637;Penfield
+Q7162646;Penfield Gardens
+Q7162898;Penilee
+Q7163075;Penlan
+Q7163130;Penn
+Q7163358;Penna
+Q7163456;Pennington
+Q7163461;Pennington
+Q7163626;Pennsylvania, Exeter
+Q7167769;Peregian Springs
+Q7170808;Perth Airport
+Q7178052;Peterhead
+Q7178638;Petra Jaya
+Q7178798;Petrie Terrace
+Q7181164;Phegans Bay
+Q7185600;Phillip
+Q7185969;Phillipstown
+Q7190033;Pialba
+Q7190038;Pialligo
+Q7190234;Piara Waters
+Q7190803;Pickering Brook
+Q7190861;Picketts Valley
+Q7190973;Picnic Bay
+Q7190982;Picnic Point
+Q7194505;Pilrig
+Q7194527;Pilton
+Q7194872;Pinbarren
+Q7195487;Pinehaven
+Q7195519;Pinelands
+Q7196169;Pinkenba
+Q7198975;Pitkerro
+Q7199054;Pitsmoor
+Q7199097;Pitt Town
+Q7201803;Plasmarl
+Q7204289;Pleasure Point
+Q7205460;Plumpton
+Q7205889;Plympton
+Q7205891;Plympton
+Q7205895;Plympton Park
+Q7206362;Pocket-Greenhaven, Sacramento, California
+Q7207941;Point Arkwright
+Q7207981;Point Chevalier
+Q7207983;Point Clare
+Q7207994;Point Cook
+Q7208018;Point England
+Q7208029;Point Frederick
+Q7208428;Poisar
+Q7226020;Polsloe
+Q7226065;Polwarth
+Q7227372;Pomona
+Q7227974;Ponsonby
+Q7228313;Pontnewydd
+Q7228845;Pooraka
+Q7230512;Port Botany
+Q7230825;Port Noarlunga
+Q7230828;Port Noarlunga South
+Q7231045;Port Willunga
+Q7232402;Portsburgh
+Q7235309;Potternewton
+Q7235317;Potters Green
+Q7236024;Powderhall
+Q7238079;Prairiewood
+Q7241798;Preston
+Q7242057;Prestons
+Q7242892;Priestdale
+Q7242898;Priesthill
+Q7243212;Primbee
+Q7244455;Princes Hill
+Q7250721;Prospect
+Q7259256;Pulau Tikus
+Q7259868;Pumwani
+Q7259966;Punchbowl
+Q7263111;Pymble
+Q7263423;Pyree
+Q7269215;Quarry Hill
+Q7269325;Quartermile
+Q7269973;Queen's Cross
+Q7270063;Queen's Park, Glasgow
+Q7270872;Queenscliff
+Q7278830;Raby
+Q7280142;Radford, Coventry
+Q7290260;Ramsgate Beach
+Q7290261;Ramsgate
+Q7293269;Rankin Park
+Q7294152;Rapid Creek
+Q7294275;Raploch
+Q7295660;Rathmines
+Q7296091;Rau Colony
+Q7296215;Raumanga
+Q7296369;Ravelston
+Q7296450;Ravenhead
+Q7296492;Ravensbourne
+Q7296561;Ravenswood
+Q7303732;Red Beach
+Q7305435;Redan
+Q7305554;Redcliffe
+Q7305572;Redcliffs
+Q7305859;Redford, Edinburgh
+Q7305887;Redhead
+Q7306536;Redwoodtown
+Q7308012;Regency Park
+Q7308131;Regents Park
+Q7308139;Regentville
+Q7309930;Reid
+Q7312235;Remuera
+Q7313456;Renown Park
+Q7315046;Research
+Q7315303;Reservoir
+Q7315304;Reservoir
+Q7316063;Restalrig
+Q7318324;Revesby
+Q7318325;Revesby Heights
+Q7319576;Reynella
+Q7319578;Reynella East
+Q7320726;Rhiwbina
+Q7322942;Riccarton
+Q7322943;Riccarton
+Q7330307;Richardson
+Q7330734;Richmond
+Q7330735;Richmond
+Q7332463;Riddrie
+Q7332754;Ridgehaven
+Q7332812;Ridgeway
+Q7333029;Ridleyton
+Q7334918;Ringlestone
+Q7335020;Ringwood East
+Q7335023;Ringwood North
+Q7335735;Rippleside
+Q7335744;Ripponlea
+Q7335851;Risdon
+Q7335855;Risdon Vale
+Q7338397;Riverside
+Q7338654;Riverstone
+Q7338658;Riverstone Terraces
+Q7338698;Rivervale
+Q7338840;Rivett
+Q7352919;Robina
+Q7353853;Rochedale
+Q7353913;Rocherlea
+Q7353917;Roches Beach
+Q7355472;Rocklea
+Q7355963;Rocky Point
+Q7357690;Rogans Hill
+Q7359975;Rokeby
+Q7360682;Roleystone
+Q7365665;Rongotai
+Q7366386;Roose
+Q7366681;Rooty Hill
+Q7366748;Ropes Crossing
+Q7367325;Rosanna
+Q7367642;Rose Bay
+Q7367886;Rose Park
+Q7368057;Rosebank
+Q7368077;Rosebery
+Q7368119;Roseburn
+Q7368198;Rosehill
+Q7368489;Rosemount
+Q7368678;Rosetta
+Q7368731;Roseville Chase
+Q7368751;Rosewater
+Q7369040;Roslyn
+Q7369093;Rosny
+Q7370069;Rostrevor
+Q7370522;Rothwell
+Q7370615;Rototuna
+Q7370908;Roughmussel
+Q7371323;Rouse Hill
+Q7372303;Rowville
+Q7372398;Roxburgh Park
+Q7374617;Royal Oak, New Zealand
+Q7374689;Royal Park
+Q7375260;Royston Park
+Q7376161;Rubislaw
+Q7380656;Ruse
+Q7381843;Russell Vale
+Q7384866;Rydalmere
+Q7396843;Sackville
+Q7396858;Sackville North
+Q7397996;Sadleir
+Q7401357;Saint Heliers
+Q7403550;Salamander Bay
+Q7404279;Salendine Nook
+Q7404762;Salisbury Downs
+Q7404764;Salisbury East
+Q7404770;Salisbury Heights
+Q7404788;Salisbury North
+Q7404791;Salisbury Park
+Q7404793;Salisbury Plain
+Q7404809;Salisbury South
+Q7405804;Salt Ash
+Q7406081;Salter Point
+Q7408932;Samayapuram
+Q7409308;Samford
+Q7410349;Samson
+Q7414313;San Isidore
+Q7415241;San Remo
+Q7416203;Sandford
+Q7416224;Sandgate
+Q7416230;Sandgate
+Q7416832;Sandringham
+Q7417154;Sandy Bay
+Q7417294;Sandy Hollow
+Q7417408;Sandy Point
+Q7418905;Sanpada
+Q7420006;Santacruz, Mumbai
+Q7421988;Saraga
+Q7423340;Saratoga
+Q7426882;Satya Sai Chouraha
+Q7427216;Saughton
+Q7427447;Saunders Beach
+Q7428228;Savile Town
+Q7430255;Scarborough
+Q7430256;Scarborough
+Q7432005;Schofields
+Q7435336;Scoresby
+Q7436458;Scott Hall, Leeds
+Q7440220;Seabrook
+Q7440257;Seacliff
+Q7440262;Seacliff Park
+Q7440283;Seacombe Gardens
+Q7440284;Seacombe Heights
+Q7440341;Seafield, Ayr
+Q7440342;Seafield
+Q7440368;Seaford
+Q7440369;Seaford
+Q7440380;Seaford Heights
+Q7440385;Seaford Meadows
+Q7440389;Seaford Rise
+Q7440403;Seaforth
+Q7440476;Seaham
+Q7440482;Seahampton
+Q7440490;Seaholme
+Q7442000;Seaton
+Q7442032;Seatoun
+Q7442249;Seaview Downs
+Q7442721;Sebastopol
+Q7445161;Seddon
+Q7446120;Sefton Park
+Q7447542;Selby
+Q7448643;Sellicks Beach
+Q7448644;Sellicks Hill
+Q7449109;Semaphore
+Q7449112;Semaphore Park
+Q7449113;Semaphore South
+Q7451224;Senthaneerpuram
+Q7457276;Seven Hills
+Q7457635;Seventeen Mile Rocks
+Q7458058;Seville
+Q7458067;Seville Grove
+Q7461116;Shaftesbury
+Q7462381;Shai Hills
+Q7484744;Silverdale
+Q7487342;Shalvey
+Q7487913;Shandon, Edinburgh
+Q7488345;Shanes Park
+Q7490404;Sharples
+Q7490451;Sharq, Kuwait
+Q7491272;Shawlands
+Q7492868;Sheidow Park
+Q7493651;Shell Cove
+Q7493755;Shelley
+Q7493882;Shelly Bay
+Q7493885;Shelly Beach
+Q7493886;Shelly Beach
+Q7493998;Shelton
+Q7495485;Sherwood
+Q7496147;Shiel Hill
+Q7498667;Shirley
+Q7498669;Shirley
+Q7501507;Shorncliffe
+Q7502190;Shortland
+Q7516742;Silvermills
+Q7516794;Silverstream
+Q7521261;Simshill
+Q7524120;Singletons Mill
+Q7524656;Sinnamon Park
+Q7525343;Sion, Mumbai
+Q7537667;Skye
+Q7538419;Slacks Creek
+Q7538462;Slade Point
+Q7538872;Slateford
+Q7544327;Smeaton Grange
+Q7545483;Smithfield
+Q7545489;Smithfield
+Q7545508;Smithfield Plains
+Q7545578;Smiths Lake
+Q7545629;Smithstone
+Q7557396;Soldiers Point
+Q7559744;Somerfield
+Q7559790;Somersby
+Q7559946;Somerton Park
+Q7566405;South Brighton
+Q7566896;South Coogee
+Q7567086;South Dunedin
+Q7567315;South Fremantle
+Q7567339;South Geelong
+Q7567383;South Granville
+Q7567398;South Gyle
+Q7567497;South Hobart
+Q7567622;South Kingsville
+Q7567800;South Launceston
+Q7567914;South Maroota
+Q7567979;South Morang
+Q7568206;South Penrith
+Q7568240;South Plympton
+Q7568435;South Shore
+Q7568615;South Tamworth
+Q7568666;South Toowoomba
+Q7568679;South Turramurra
+Q7569250;Southcote
+Q7570825;Southill
+Q7570932;Southpark Village
+Q7571022;Southshore
+Q7571033;Southside
+Q7571459;Southwick, Ooty
+Q7572963;Spalding
+Q7575962;Spencer
+Q7576147;Spencer Park
+Q7576250;Spencerville
+Q7578938;Spon End
+Q7580325;Spreydon
+Q7580393;Spring Bluff
+Q7580564;Spring Hill
+Q7580566;Spring Hill
+Q7580903;Springfield
+Q7580908;Springfield
+Q7580980;Springfield Lakes
+Q7581150;Springlands
+Q7581216;Springvale
+Q7581218;Springvale
+Q7581273;Springwood
+Q7588416;St. James-Assiniboia, Winnipeg
+Q7592225;St Agnes
+Q7592248;St Albans
+Q7592277;St Albans Park
+Q7592428;St Andrews
+Q7592807;St Clair
+Q7593203;St George
+Q7593243;St Georges
+Q7593327;St Helena
+Q7593360;St Helens Park
+Q7593405;St Ives
+Q7593409;St Ives Chase
+Q7593813;St Johns Park
+Q7593898;St Kilda
+Q7593899;St Kilda
+Q7593906;St Kilda East
+Q7593916;St Kilda West
+Q7594006;St Leonards
+Q7594220;St Martins
+Q7594673;St Marys, Dundee
+Q7594675;St Marys
+Q7594807;St Michael's Hamlet
+Q7594893;St Morris
+Q7595375;St Peters
+Q7596594;Stafford
+Q7596629;Stafford Heights
+Q7597141;Stake Hill
+Q7598847;Stanground
+Q7598866;Stanhope Gardens
+Q7600101;Stanmore Bay
+Q7600313;Stanwell Tops
+Q7600478;Stapleton
+Q7604259;Towradgi
+Q7607566;Stenhouse, Edinburgh
+Q7611044;Stepney
+Q7617547;Stirling
+Q7617690;Stivichall
+Q7617804;Stobswell
+Q7617942;Stockbridge
+Q7617955;Stockbridge Village
+Q7618117;Stockleigh
+Q7618206;Stockton
+Q7618437;Stoke Aldermoor
+Q7618458;Stoke Heath
+Q7618543;Stokes Valley
+Q7619620;Stonyfell
+Q7621907;Stratford
+Q7621910;Stratford
+Q7622019;Strathalbyn
+Q7622104;Strathfield South
+Q7622109;Strathfieldsaye
+Q7622134;Strathmore
+Q7622144;Strathmore Heights
+Q7623514;Stretton
+Q7624926;Strowan
+Q7626232;Stuart
+Q7626934;Stuart Park
+Q7637594;Summerhill
+Q7637611;Summerland Point
+Q7637708;Summertown
+Q7637943;Sumner
+Q7639806;Sundorne
+Q7640772;Sunnybank Hills
+Q7640810;Sunnyhills
+Q7640919;Sunnyvale, Auckland
+Q7641224;Sunset Beach
+Q7641402;Sunshine
+Q7641406;Sunshine
+Q7641436;Sunshine Beach
+Q7641541;Sunshine North
+Q7641592;Sunshine West
+Q7646797;Surrey Downs
+Q7646816;Surrey Hills
+Q7653652;Swansea
+Q7653753;Swanston, Edinburgh
+Q7659766;Sydenham
+Q7659769;Sydenham
+Q7660710;Sylvania Waters
+Q7673980;Tacoma
+Q7675966;Taigum
+Q7676505;Taitā
+Q7677248;Takapuna
+Q7677254;Takapūwāhia
+Q7680885;Tamaree
+Q7681458;Taminda
+Q7682221;Tanah Merah
+Q7682333;Tanawha
+Q7682473;Tando Thoro
+Q7683408;Tanjung Bungah
+Q7683443;Tanjung Tokong
+Q7684545;Taperoo
+Q7685370;Tarampa
+Q7685693;Tarcoola Beach
+Q7686107;Taringa
+Q7686407;Tarneit
+Q7686553;Taroona
+Q7686638;Tarragindi
+Q7686704;Tarro
+Q7687118;Tascott
+Q7688436;Tatton
+Q7689819;Taylor
+Q7690233;Taylors Beach
+Q7690243;Taylors Hill
+Q7690766;Te Aro
+Q7690778;Te Atatu
+Q7690779;Te Atatū Peninsula
+Q7690782;Te Atatū South
+Q7690799;Te Hapara
+Q7690853;Te Kowhai
+Q7690871;Te Mārua
+Q7690888;Taylors Mistake
+Q7690898;Te Papapa
+Q7690948;Te Rapa
+Q7691105;Tea Tree Gully
+Q7695648;Telarah
+Q7697817;Telopea
+Q7698696;Temple View
+Q7698810;Templestowe
+Q7698813;Templestowe Lower
+Q7699466;Tenambit
+Q7700512;Tennyson
+Q7700513;Tennyson
+Q7700515;Tennyson
+Q7700522;Tennyson Point
+Q7701550;Teralba
+Q7702426;Teringie
+Q7702585;Termeil
+Q7703564;Terrey Hills
+Q7708917;Thackley
+Q7710098;Thana, Kannur
+Q7710760;Tharbogang
+Q7715767;The Basin
+Q7720958;The Calders
+Q7727000;The Common
+Q7732316;The Entrance North
+Q7735781;The Gap
+Q7735786;The Gap
+Q7735863;The Gardens, Auckland
+Q7735866;The Gardens
+Q7737522;The Grange, Edinburgh
+Q7743820;The Junction
+Q7750788;The Meadows
+Q7752689;The Murray, East Kilbride
+Q7753100;The Narrows
+Q7756136;The Park Estate
+Q7756315;The Patch
+Q7757721;The Ponds
+Q7764845;The Slopes
+Q7772628;The Village, East Kilbride
+Q7781658;Theodore
+Q7785125;Thirroul
+Q7785315;Thirumala, Thiruvananthapuram
+Q7795600;Thomastown
+Q7795853;Thomson
+Q7796328;Thornbury
+Q7796366;Thorndon
+Q7796414;Thorngate
+Q7796450;Thornlands
+Q7796458;Thornleigh
+Q7796469;Thornliebank
+Q7796490;Thornton
+Q7797555;Three Kings, New Zealand
+Q7798372;Throsby
+Q7801940;Tikipunga
+Q7802110;Tile Hill
+Q7802921;Tillydrone
+Q7804635;Timber Bush
+Q7804703;Timberlea
+Q7808125;Tingalpa
+Q7808149;Tingira Heights
+Q7808461;Tinsley
+Q7808517;Tintinhull
+Q7809256;Tirohanga
+Q7810475;Tiwi
+Q7811941;Tocal
+Q7813489;Tokarara
+Q7814360;Tollcross, Edinburgh
+Q7814444;Tolmans Hill
+Q7818199;Tomago
+Q7821065;Tonge
+Q7824056;Toolakea
+Q7824137;Toomulla
+Q7824173;Toongabbie
+Q7824206;Toorak Gardens
+Q7826758;Torphin
+Q7826775;Torquay
+Q7827020;Torrens
+Q7827036;Torrensville
+Q7827136;Torrington
+Q7827168;Torry
+Q7827502;Toryglen
+Q7828268;Totara Heights
+Q7828269;Tōtara Park
+Q7828856;Toukley
+Q7833435;Tranmere
+Q7833436;Tranmere
+Q7835866;Travancore
+Q7837849;Tregear
+Q7838497;Trentham
+Q7838498;Trentham
+Q7838914;Trevallyn
+Q7838973;Trevethin
+Q7842528;Trinity, Edinburgh
+Q7842589;Trinity Beach
+Q7842813;Trinity Gardens
+Q7846355;Trott Park
+Q7847627;Truganina
+Q7849447;Tsawwassen
+Q7851293;Tudor Hill
+Q7851631;Tuggerah
+Q7851647;Tuggerawong
+Q7851674;Tugun
+Q7852211;Tulloch
+Q7852222;Tullos
+Q7852597;Tumbulgum
+Q7856211;Turramurra
+Q7856536;Turvey Park
+Q7857175;Tuxedo, Winnipeg
+Q7858335;Twin Waters
+Q7859672;Tyalgum
+Q7882274;Unanderra
+Q7883556;Underdale
+Q7897035;Unley Park
+Q7898517;Upper Brookfield
+Q7898581;Upper Coomera
+Q7898645;Upper Ferntree Gully
+Q7898701;Upper Hutt
+Q7898716;Upper Kedron
+Q7898767;Upper Mangrove
+Q7898810;Upper Mount Gravatt
+Q7898881;Upper Riccarton
+Q7898942;Upper Sturt
+Q7899493;Upwey
+Q7899637;Urangan
+Q7901120;Urrbrae
+Q7901916;Usher
+Q7902555;Utakarra
+Q7908083;Vacy
+Q7909446;Valdora
+Q7909493;Vale Park
+Q7910917;Valentine
+Q7912257;Valley View
+Q7916100;Varroville
+Q7916151;Varsity Lakes
+Q7917451;Vauxhall
+Q7921664;Vermont
+Q7921770;Vermont South
+Q7922305;Vernor
+Q7922572;Verrierdale
+Q7926510;Victoria
+Q7926917;Victoria Park
+Q7926964;Victoria Point
+Q7927501;Victory Heights
+Q7928784;Viewbank
+Q7929183;Vijay Nagar, Indore
+Q7930977;Villawood
+Q7931637;Vincent
+Q7932479;Vineyard
+Q7934082;Virginia
+Q7934083;Virginia
+Q7935268;Virugambakkam
+Q7936413;Vista
+Q7939389;Vogeltown, Taranaki
+Q7958868;Wacol
+Q7958942;Wadalba
+Q7959172;Wadestown
+Q7959323;Wadsley
+Q7959471;Wagaman
+Q7959547;Waggrakine
+Q7959681;Wagstaffe
+Q7959849;Wahroonga
+Q7959883;Wai O Taiki Bay
+Q7959935;Waigani
+Q7960031;Waikiwi
+Q7960047;Waikowhai
+Q7960079;Waima
+Q7960178;Wainoni
+Q7960468;Waitangirua
+Q7960819;Wakari
+Q7961024;Wakefield
+Q7961127;Wakerley
+Q7962191;Walker
+Q7962395;Walkerville
+Q7962548;Walkley
+Q7962553;Walkley Heights
+Q7962951;Wallaceville
+Q7962961;Wallacia
+Q7963153;Walliston
+Q7963243;Wallsend
+Q7963805;Walsgrave on Sowe
+Q7966588;Waltham
+Q7966697;Walton
+Q7966919;Wamberal
+Q7966967;Wamuran
+Q7967154;Wandal
+Q7967163;Wandana Heights
+Q7967165;Wandandian
+Q7967260;Wandin North
+Q7967262;Wandina
+Q7967874;Wangi Wangi
+Q7967917;Wanguri
+Q7968044;Wanniassa
+Q7968057;Wanora
+Q7968177;Wantirna
+Q7968179;Wantirna South
+Q7968765;Warabrook
+Q7968787;Waramanga
+Q7968790;Warana
+Q7968806;Waratah
+Q7968819;Waratah West
+Q7969266;Wareemba
+Q7969426;Warilla
+Q7969790;Warners Bay
+Q7969794;Warnervale
+Q7969914;Warradale
+Q7969935;Warrane
+Q7969962;Warranwood
+Q7969965;Warrawong
+Q7969967;Warrawee
+Q7970637;Warrenheip
+Q7970696;Warriewood
+Q7970699;Warrimoo
+Q7970835;Warriston
+Q7971132;Warwick Farm
+Q7972992;Watanobbi
+Q7973971;Waterfalls, Harare
+Q7973999;Waterford
+Q7974001;Waterford
+Q7974187;Waterloo
+Q7974223;Waterloo Corner
+Q7974568;Waterways
+Q7974877;Watsonia
+Q7974879;Watsonia North
+Q7974929;Wattala
+Q7974975;Wattle Downs
+Q7974980;Wattle Grove
+Q7974987;Wattle Park
+Q7974998;Wattleup
+Q7975212;Waurn Ponds
+Q7975373;Wavell Heights
+Q7975403;Waverley
+Q7975404;Waverley
+Q7975508;Waverton
+Q7976896;Wayville
+Q7978701;Webberton
+Q7979037;Wedderburn
+Q7980526;Welbourn, New Zealand
+Q7981145;Welland
+Q7981187;Wellcamp
+Q7982052;Welshpool
+Q7982535;Wendoree Park
+Q7982538;Wendouree
+Q7983051;Wentworthville
+Q7983581;Werribee South
+Q7983589;Werrington Downs
+Q7984417;West Beach
+Q7984852;West Coates
+Q7984914;West Croydon
+Q7984951;West Derby
+Q7985038;West End
+Q7985168;West Footscray
+Q7985236;West Gosford
+Q7985301;West Harbour, Auckland
+Q7985398;West Hindmarsh
+Q7985404;West Hobart
+Q7985424;West Hoxton
+Q7985621;West Kildonan, Winnipeg
+Q7985630;West Killara
+Q7985682;West Lakes
+Q7985684;West Lakes Shore
+Q7985716;West Launceston
+Q7985840;West Mains, East Kilbride
+Q7986024;West Moonah
+Q7986177;West Paschim Vihar
+Q7986189;West Pennant Hills
+Q7986222;West Pilton
+Q7986305;West Pymble
+Q7986341;West Richmond
+Q7986634;West Tamworth
+Q7986973;West Wallsend
+Q7987011;West Wollongong
+Q7987140;Westbourne
+Q7987151;Westbourne Park
+Q7987210;Westbury Park
+Q7987357;Wester Broom
+Q7987359;Wester Hailes
+Q7987895;Western Heights, Auckland
+Q7988316;Western Springs
+Q7988617;Westfield, Edinburgh
+Q7988960;Westlake
+Q7988962;Westlake
+Q7989038;Westleigh
+Q7989076;Westmead
+Q7989302;Westmorland
+Q7989345;Weston
+Q7989366;Weston
+Q7989538;Westown
+Q7989874;Westwood Heath
+Q7989922;Westwoodhill, East Kilbride
+Q7990100;Wetherill Park
+Q7990282;Weyba Downs
+Q7991659;Whataupoko
+Q7992221;Wheeler Heights
+Q7994158;Whitby
+Q7994742;White Gum Valley
+Q7994799;White Hills
+Q7995265;White River, Honiara
+Q7995750;Whitebridge
+Q7996062;Whitehills
+Q7996159;Whitemans Valley
+Q7996224;Whites Valley
+Q7996434;Whitfield, Dundee
+Q7996640;Whitmore Park
+Q7996900;Whittington
+Q7997486;Whoberley
+Q7998371;Wickham
+Q7999696;Wigram
+Q8001633;Wiley Park
+Q8003513;Willaston
+Q8003520;Willawong
+Q8003659;Willenhall
+Q8021059;Williams Landing
+Q8021306;Williamstown North
+Q8022186;Willmot
+Q8022215;Willoughby East
+Q8022944;Wilson
+Q8023302;Wilsonton
+Q8024062;Windang
+Q8024068;Windaroo
+Q8024123;Windermere Park
+Q8024263;Windle
+Q8024534;Windsor
+Q8024538;Windsor
+Q8024591;Windsor Downs
+Q8024607;Windsor Gardens
+Q8024858;Windy Ridge, New Zealand
+Q8025194;Wingfield
+Q8025516;Winmalee
+Q8025568;Winnellie
+Q8026553;Winthrop
+Q8026945;Wiri
+Q8027569;Wishart
+Q8028125;Withdean
+Q8030327;Wollaton
+Q8030353;Wolli Creek
+Q8030385;Wollstonecraft
+Q8030780;Wombarra
+Q8031705;Wondabyne
+Q8032056;Wongawilli
+Q8032110;Wonthella
+Q8032183;Wood End
+Q8032347;Woodberry
+Q8032360;Woodbine
+Q8032545;Woodcroft
+Q8032547;Woodcroft
+Q8032636;Woodford
+Q8032638;Woodford
+Q8032710;Woodhatch
+Q8032945;Woodlands Park
+Q8033126;Woodpark
+Q8033149;Woodrising
+Q8033152;Woodroffe
+Q8033307;Woodside, Dundee
+Q8033508;Woodville
+Q8033523;Woodville Gardens
+Q8033534;Woodville Park
+Q8033540;Woodville South
+Q8033543;Woodville West
+Q8033858;Woolloongabba
+Q8033892;Woolner
+Q8033906;Wooloowin
+Q8033945;Woolston
+Q8033947;Woolston
+Q8034012;Woongarrah
+Q8034014;Woonona
+Q8034505;Woree
+Q8035003;Workington
+Q8036920;Woronora
+Q8036922;Woronora Heights
+Q8037471;Woy Woy
+Q8038156;Wright
+Q8038296;Wrights Beach
+Q8039143;Wulagi
+Q8039209;Wulkuraka
+Q8039256;Wungong
+Q8039725;Wyee
+Q8039868;Wyken
+Q8040095;Wyndford
+Q8040132;Wyndham Vale
+Q8040186;Wynn Vale
+Q8040236;Wynnum West
+Q8040287;Wyoming
+Q8040426;Wyong Creek
+Q8047046;Yakamia
+Q8047488;Yallambie
+Q8048329;Yandina
+Q8048331;Yandina Creek
+Q8049376;Yarmouk, Kuwait
+Q8049529;Yarramalong
+Q8049542;Yarraville
+Q8049548;Yarrawarrah
+Q8049551;Yarrawonga
+Q8050155;Yatala
+Q8050161;Yatala Vale
+Q8050287;Yattalunga
+Q8051118;Yeerongpilly
+Q8052365;Yenişehir, Nicosia
+Q8052379;Yennora
+Q8052643;Yeronga
+Q8058680;Youngtown
+Q8071918;Zillmere
+Q8216929;Khaitan
+Q8272780;Strathfield
+Q8272809;Lilyfield
+Q8273347;Narraweena
+Q8273407;Macquarie Park
+Q8273433;Milsons Point
+Q8273446;Peakhurst
+Q8563806;Flinders
+Q9291876;Hexham
+Q9295004;Huntleys Cove
+Q10310838;Mira Road
+Q10400942;Adamstown
+Q10410085;Anambah
+Q10418428;Arrawarra
+Q10509639;Грют
+Q10546519;Claudelands
+Q10688461;Q10688461
+Q10738963;Bellambi
+Q10767974;Holden Hill
+Q10791163;Mansfield Park
+Q10909949;Carseldine
+Q11005962;Willowvale
+Q11694208;Digby
+Q11755678;Liberty Grove
+Q11790731;Netherton
+Q11802208;Painters Ash
+Q11832547;Płaszów
+Q11873200;Kujala
+Q11968371;Fagernes
+Q12006208;Thornbury
+Q12008132;Tømmerup
+Q12010545;West Melbourne
+Q12056834;Earlsdon
+Q12059592;Harrison
+Q12059859;Hendon
+Q12059873;Henley Beach
+Q12060435;Holroyd
+Q12060438;Holsworthy
+Q12060523;Hooe, Plymouth
+Q12060876;Jindalee
+Q12061144;Leumeah
+Q12061365;Long Gully
+Q12061437;Magill
+Q12061524;Maylands
+Q12061667;Melton South
+Q12061681;Menai
+Q12061932;Moggill
+Q12062126;Mount Wilson
+Q12064022;Newtown, Reading
+Q12064298;Noarlunga Centre
+Q12067007;Reddish
+Q12067575;Roseville
+Q12069696;South Wharf
+Q12070280;Sumner
+Q12070425;Sylvania
+Q12072339;Voyager Point
+Q12072397;Waitara
+Q12072769;Westmeadows
+Q12206125;Jamhour
+Q12243100;Mishref
+Q12304235;Q12304235
+Q12320311;Jonstrup
+Q12322422;Q12322422
+Q12324248;Q12324248
+Q12336052;Q12336052
+Q12413015;Andheri
+Q12721583;Baulkham Hills West
+Q12732116;Lethbridge Park
+Q12734679;Macquarie Fields
+Q12734735;Maianbar
+Q12735205;McGraths Hill
+Q12736408;Narrabeen
+Q12736886;Normanhurst
+Q12736890;North Manly
+Q12737729;Pendle Hill South
+Q12741759;Sutherland
+Q12743876;Whalan
+Q12814041;Darwin River
+Q13000069;Desapatrunipalem
+Q13030793;Zalataja Horka
+Q13129604;Llanbeblig
+Q13157254;Durham Lead
+Q13420360;Barton
+Q13580431;Mulgrave
+Q13580458;Oxford Falls
+Q13580786;South Windsor
+Q13651238;Murrurundi
+Q14206190;Belmont
+Q14210737;The Rocks
+Q14226542;Nelson Bay
+Q14229690;Pokolbin
+Q14345895;Sint-Mariaburg
+Q14518805;Wharton
+Q14906070;Q14906070
+Q14934769;Black Hill
+Q14934782;Calala
+Q14934783;Callala Bay
+Q14934789;Coalcliff
+Q14934794;Darawank
+Q14934797;Denistone West
+Q14934802;Eunanoreenya
+Q14934806;Gillieston Heights
+Q14934807;Glen Oak
+Q14934809;Glendale
+Q14934810;Glenroy
+Q14934820;Hardys Bay
+Q14934824;Harrington Park
+Q14934833;Holgate
+Q14934848;Jesmond
+Q14934852;Kahibah
+Q14934855;Kapooka
+Q14934856;Kariong
+Q14934861;Kincumber
+Q14934862;Kincumber South
+Q14934867;Kooringal
+Q14934878;Little Pelican
+Q14934887;Macquarie Hills
+Q14934888;Macquarie Links
+Q14934892;Mayfield
+Q14934893;Mayfield East
+Q14934903;Milsons Passage
+Q14934910;Mooney Mooney Creek
+Q14934917;Mount Austin
+Q14934930;Murulla
+Q14934935;Nemingha
+Q14934958;North Rothbury
+Q14934959;North Wollongong
+Q14934969;Parkville
+Q14934976;Pitt Town Bottoms
+Q14934979;Port Hacking
+Q14935001;Sodwalls
+Q14935012;Tahlee
+Q14935015;Tarrawanna
+Q14935021;Tighes Hill
+Q14935023;Tolland
+Q14935031;Wallalong
+Q14935040;Windermere
+Q14935047;Woy Woy Bay
+Q14935048;Wyee Point
+Q14935049;Wyongah
+Q14935070;Brown Hill
+Q14935085;Dandenong South
+Q14935141;Fawkner
+Q14935142;Fishermans Bend
+Q14935170;Jacana
+Q14935177;Keilor North
+Q14935213;Melbourne Airport
+Q14935220;Mentone
+Q14935251;Newport
+Q14935255;Newtown
+Q14935260;Norlane
+Q14935265;Notting Hill
+Q14935266;Ormond
+Q14935287;Skye
+Q14935294;Taylors Lakes
+Q14935296;Tecoma
+Q14935302;Tottenham
+Q14935343;Bellbowrie
+Q14935345;Blackstone
+Q14935349;Booval
+Q14935351;Bracken Ridge
+Q14935367;Carbrook
+Q14935396;Crohamhurst
+Q14935408;Eimeo
+Q14935421;Gaythorne
+Q14935426;Glenview
+Q14935431;Harristown
+Q14935436;Helensvale
+Q14935441;Holland Park West
+Q14935448;Ipswich
+Q14935456;Kangaroo Point
+Q14935457;Kawungan
+Q14935458;Kearneys Spring
+Q14935459;Kewarra Beach
+Q14935463;Koongal
+Q14935466;Kurwongbah
+Q14935483;Mango Hill
+Q14935500;Monkland
+Q14935516;Mount Warren Park
+Q14935526;Newstead
+Q14935530;Ningi
+Q14935533;Norman Park
+Q14935538;Oak Valley
+Q14935542;Parkhurst
+Q14935543;Pimpama
+Q14935548;Rosemount
+Q14935592;Wellington Point
+Q14935598;Woorim
+Q14935633;Mount Stuart
+Q14935638;New Town
+Q14935639;Newstead
+Q14935640;Norwood
+Q14935644;St Leonards
+Q14935663;Queanbeyan East
+Q14935674;Gunn Point
+Q14935698;Blewitt Springs
+Q14935703;Coromandel Valley
+Q14935705;Eastwood
+Q14935714;Hillbank
+Q14935719;Hove
+Q14935721;Huntfield Heights
+Q14935726;Ironbank
+Q14935752;Newton
+Q14935755;North Brighton
+Q14935760;Queenstown
+Q14935761;Redwood Park
+Q14935764;Rosslyn Park
+Q14935768;St Clair
+Q14935770;Uleybury
+Q14935775;Woodville North
+Q14935811;Hilton
+Q14935817;Huntingdale
+Q14935832;Kalgoorlie
+Q14935876;Narngulu
+Q14935888;North Coogee
+Q14935924;Wannanup
+Q14948842;Curriehill
+Q14948849;Kaimes
+Q14948852;Newington, Edinburgh
+Q14948853;Piershill
+Q14948854;Prestonfield
+Q14948855;Sciennes
+Q14948856;Sighthill, Edinburgh
+Q14948857;Silverknowes
+Q14956924;Bonogin
+Q14956926;Montagu Bay
+Q14956932;Redland Bay
+Q15045456;Nhyiaeso, Kumasi
+Q15059482;Rossmore
+Q15116985;Ratmalana
+Q15120892;Larkin
+Q15186203;Arani, Chennai
+Q15192590;Ascot Park
+Q15197602;Bavdhan
+Q15204944;Broadgreen
+Q15211860;Courthouse Green
+Q15214865;Dovecot
+Q15221748;Glen Norah, Harare
+Q15222143;Grenada North
+Q15223060;Harlescott
+Q15223899;High Earnock
+Q15226882;Hunt's Cross
+Q15227018;Hurdon
+Q15227913;Idle
+Q15232379;Kahawa
+Q15233920;Karori
+Q15238439;Kilbirnie
+Q15238483;Kilton
+Q15240169;Kovilpalayam
+Q15241237;Ladywell, Livingston
+Q15242412;Lindsayfield, East Kilbride
+Q15242621;Logie, Dundee
+Q15243710;Mahape
+Q15244580;Maney
+Q15245916;Maori Hill
+Q15252606;Mechanics Bay
+Q15256283;Mornington
+Q15256495;Mossley Hill
+Q15256498;Mossneuk, East Kilbride
+Q15256743;Mount Cook
+Q15261816;Netherley
+Q15262068;New Lynn
+Q15262081;New Moston
+Q15262210;Newtown
+Q15263772;Old Drumchapel
+Q15264192;Opoho
+Q15264681;Otūmoetai
+Q15265131;Palam
+Q15704496;Butibum
+Q15733741;Black River
+Q15976093;Papendorp
+Q15976206;Erasmusrand
+Q15979161;San Bernabé
+Q16022602;Промежицы
+Q16083982;Q16083982
+Q16242408;3 Mile, Lae
+Q16248418;Tonge
+Q16248696;West Cross
+Q16253209;Bannockburn
+Q16254081;Belivah
+Q16255848;Bundaberg North
+Q16591378;Q16591378
+Q16733307;Abossey Okai
+Q16825179;Cadder
+Q16836135;Avoca
+Q16845526;Bracalba
+Q16867120;Summerhill
+Q16867403;Greerton
+Q16890097;Cairns City
+Q16890356;Chinatown, Lae
+Q16890779;Currajong
+Q16891142;Eriku
+Q16891437;Goolman, Queensland
+Q16891545;Garden City
+Q16892449;Horseshoe Bend
+Q16892604;Bolwarra Heights
+Q16892609;Farley
+Q16892617;Windella
+Q16892804;Jacobs Well
+Q16892964;Judgeford
+Q16893267;Kepnock
+Q16894459;Machans Beach
+Q16894515;Malahang
+Q16895450;Mount Helen
+Q16895710;Navlakha
+Q16896195;Omili
+Q16897630;West End, Aberdeen
+Q16899476;Runda
+Q16899849;Scarborough
+Q16900657;Stapylton
+Q16900726;Stephens
+Q16900871;Sunniside
+Q16901029;Tāhunanui
+Q16901224;Taraka, Papua New Guinea
+Q16901418;Tent City, Papua New Guinea
+Q16901741;Tītahi Bay
+Q16902361;Unsworth Heights
+Q16902787;Voco Point
+Q16902843;Wainoni
+Q16903126;Westdene
+Q16903294;Whitley
+Q16903747;Worongary
+Q16917646;Edgeware
+Q16918003;Townend
+Q16939374;Rahatani
+Q16948203;Nawton
+Q16962422;Atawhai
+Q16999376;Yugar
+Q17001263;Beaconsfield
+Q17006889;Hollywell
+Q17007340;Denman Prospect
+Q17014177;Molonglo
+Q17049567;Bugandi
+Q17049589;Bumayong
+Q17049600;Bumneng
+Q17050401;Dowsett, Papua New Guinea
+Q17051257;Hillsborough
+Q17053804;Goshamahal
+Q17054168;Moncks Bay
+Q17062140;Kennedys Bush
+Q17063277;Richmond Hill
+Q17082412;Pavangad, Kozhikode
+Q17986840;Mogalrajapuram
+Q18085805;Jordan Springs
+Q18110274;Bashettihalli
+Q18161590;Newall
+Q18164724;Edinburgh North
+Q18165882;New Port
+Q18166393;Southern Moreton Bay Islands
+Q18166735;Toolooa
+Q18210888;Reshun
+Q18349294;6 Mile, Lae
+Q18750174;Austin Town
+Q19277889;Moor Pool
+Q19623181;Cosmo City
+Q19623403;Libradene
+Q19872513;Coonamia
+Q19876494;Sockburn
+Q19879561;Stones Corner
+Q20027862;Inch, Edinburgh
+Q20161307;Blaenclydach
+Q20422139;Donk
+Q20590352;Pentredŵr
+Q20592856;Lenton Pool
+Q20601022;Trefechan, Ceredigion
+Q20602203;Q20602203
+Q20625027;Q20625027
+Q20901658;Fichardt Park
+Q20975610;Bellfields
+Q20976247;Westdene
+Q21028315;Summerfield
+Q21056416;Sunnyside
+Q21057301;Akoka
+Q21064982;Erasmia
+Q21476525;Earlham
+Q21505016;Allbrook
+Q21547789;el Pont
+Q21621670;Whipton
+Q21716670;Tilehurst
+Q21884505;Port Augusta West
+Q21885755;Solomontown
+Q21893921;Bedfordale
+Q21895169;Cardup
+Q21898178;Underwood
+Q21898410;Wallabi Point
+Q21899248;Wivenhoe
+Q21900527;Thabeban
+Q21903141;South Nanango
+Q21903695;Pakenham South
+Q21903696;Pakenham Upper
+Q21905016;Redlynch
+Q21905664;Nunamara
+Q21907263;Lebrina
+Q21910207;Karoola
+Q21913476;Currarong
+Q21923468;South Burnie
+Q21924820;Yorkeys Knob
+Q21928705;Ettalong
+Q21957014;Long Beach
+Q21973255;Araluen
+Q21973339;Charmhaven
+Q22080127;Whitlam
+Q22240435;Astley Bridge
+Q22266334;Upperton
+Q22266416;Hei Hei
+Q22290760;Sandwell
+Q22336826;Goose Green, Greater Manchester
+Q22525629;Gillen
+Q22676642;Fulwood
+Q22691000;Aemiliana
+Q23035267;Whyalla Barson
+Q23804014;Ciccone
+Q23844842;Eling
+Q24033501;Launceston
+Q24089915;North Bendigo
+Q24089990;Hillcrest
+Q24089991;Montello
+Q24089995;Park Grove
+Q24089996;Parklands
+Q24090005;Romaine
+Q24090006;Downlands
+Q24090131;Flora Hill
+Q24090232;Millbank
+Q24114977;Folkstone
+Q24185560;Bundaberg East
+Q24185561;Kalkie
+Q24185576;Cow Flat
+Q24185577;Adelaide Airport
+Q24189348;Alexandra
+Q24189354;Calton Hill
+Q24189415;Paparangi
+Q24189513;Braitling
+Q24189515;Bundaberg West
+Q24189517;Bundaberg South
+Q24189564;Tauranga South
+Q24189720;Larapinta
+Q24189915;Wami Kata
+Q24190136;Shorewell Park
+Q24190244;Whyalla Norrie
+Q24190336;Upper Burnie
+Q24190459;Edge Hill
+Q24190657;Cleland
+Q24190991;Lightsview
+Q24191107;Davenport
+Q24191461;Hilbert
+Q24191463;Haynes
+Q24197245;Clovenstone
+Q24239665;Eaton
+Q24247354;Holmes
+Q24286812;Bunbury
+Q24885156;Bishopdale
+Q24885182;Washington Valley
+Q24885187;Britannia Heights
+Q24885207;Maitai, New Zealand
+Q24885214;Enner Glynn
+Q24885234;Moana
+Q24885259;Nayland
+Q24885260;Annesbrook
+Q24886794;Dodson Valley
+Q24896164;Charters Towers City
+Q24896183;Richmond Hill
+Q24896188;Grand Secret
+Q24896211;Alabama Hill
+Q24896278;Towers Hill
+Q24896339;Mosman Park
+Q24896375;Millchester
+Q24912660;Mapranam
+Q24912662;Karanakodam
+Q24932086;Mogra Village
+Q24935697;Puduvoyal
+Q24942321;Sukhliya, Indore
+Q24950011;Khandwa Naka
+Q24997559;Queenton
+Q25042010;Skyline, Honiara
+Q25042019;Burns Creek, Honiara
+Q25042024;Vura, Honiara
+Q25042036;King George, Honiara
+Q25042039;Sun Valley, Honiara
+Q25042048;Bloody Ridge, Honiara
+Q25042052;Upper Tasahe
+Q25042058;Nggosi
+Q25042063;Mbumburu
+Q25042068;Mbokona
+Q25042072;Tuvaruhu
+Q25042079;Namoliki
+Q25042086;East Kola'a Ridge
+Q25042093;Ferakusia
+Q25042100;Bahai Centre
+Q25042105;Kola'ale
+Q25042110;Mount Austen
+Q25042116;Fishing Village/Kukum
+Q25042123;Gilbert Camp
+Q25042126;Panatina
+Q25042127;Naha, Honiara
+Q25042132;Jackson Ridge
+Q25042136;Ranadi
+Q25042143;Baranaba
+Q25042149;Nggeukama
+Q25042156;Panatina Creek
+Q25042159;Lungga Point
+Q25042166;Betikama
+Q25042169;Lungga Plantation
+Q25042174;NZ Camp
+Q25042176;Guadacanal Resort
+Q25042184;Henderson West
+Q25042188;Henderson Central
+Q25042191;Henderson East
+Q25054468;Sognaayili
+Q25112668;Vuhokesa
+Q25112673;Town Ground, Honiara
+Q25113066;Rove, Honiara
+Q25113069;Tandai, Honiara
+Q25182746;King George Creek
+Q25182751;Lungga
+Q25227021;Athurugiriya
+Q25239236;Kakabona
+Q25240791;Water Pump
+Q25247490;Uttam Nagar
+Q25247828;Mount Pleasant
+Q25345005;Gurunagar
+Q25351932;Richmond
+Q25393909;One Tree Hill
+Q25551562;Passaiyoor
+Q25614073;Wonderboom South
+Q25660075;Ōwhata
+Q25660303;Waiake
+Q25660304;Albany Heights
+Q25660568;Arataki
+Q25660706;Te Maunga
+Q25661045;Putiki
+Q27058184;Bolton
+Q27575848;Lowther
+Q27957522;Northfield
+Q27958598;Westburn, South Lanarkshire
+Q27958668;Collegelands
+Q27959913;Ramouseh
+Q28040593;Blouberg
+Q28153722;Dapodi
+Q28180931;Waimairi Beach
+Q28182527;Days Bay
+Q28197113;Dehiwala
+Q28223968;Parkside
+Q28223970;Mornington
+Q28224622;Castle Hill
+Q28225108;Shelly Beach
+Q28359615;Richwood
+Q28406546;Whitlawburn
+Q28406591;Wellhouse, Glasgow
+Q28446872;Mount-Lavinia
+Q28553291;Weeke
+Q28553305;Florence
+Q28704083;Bankstown Aerodrome
+Q28937085;Moorabbin Airport
+Q28942217;Mardella
+Q28942224;Tonsley
+Q28942225;Victory Heights
+Q28942226;Karlkurla
+Q28942235;Lamington
+Q28942236;Aintree
+Q28942248;Grangefields
+Q28942249;Harkness
+Q29025864;Kappalur
+Q29162121;Geraldton
+Q29190851;Flynn
+Q29191133;East Side
+Q29191719;Arumbera
+Q29191807;Connellan
+Q29191967;Desert Springs
+Q29197572;Shoal Bay
+Q29272640;Ilparpa
+Q29272782;Mount Johns
+Q29272931;Ross
+Q29273015;Sadadeen
+Q29273113;Stuart
+Q29273186;The Gap
+Q29273241;Undoolya
+Q29273297;Irlpme
+Q29273453;White Gums
+Q29326144;Miandetta
+Q29364268;Pioneer
+Q29421379;Greenhills
+Q29467119;Māngere East
+Q29467812;Ambleside
+Q29468096;Quoiba
+Q29468100;Tugrah
+Q29533426;Strathern
+Q29914592;Three Mile Bush
+Q30345898;Burnie
+Q30346986;Old Erowal Bay
+Q30525596;Nowra Hill
+Q30525624;Louth Park
+Q30587957;Risdon Park
+Q30593033;Mandi Mohalla
+Q30595240;Perambakkam
+Q30622619;Midge Point
+Q30622632;Shoal Point
+Q30624894;Gwalior West
+Q30688714;Ashtown, Ghana
+Q30688827;Laterbiokorshie
+Q30694176;Zuccoli
+Q30840494;Yellow Rock
+Q30841296;Patersonia
+Q30845431;Big Springs
+Q30851282;Mount Isa City
+Q30909121;Avenell Heights
+Q30973024;Lucknow
+Q31033230;Strathdale
+Q31033472;Spring Gully
+Q31044630;Glen Eden
+Q31048659;Wondunna
+Q31053515;Heatley
+Q31202245;Trinity Park
+Q31202273;Mica Creek
+Q31202283;Svensson Heights
+Q31202335;Murray
+Q31202457;West Point
+Q31202461;White Rock
+Q31203555;Cossack
+Q31204632;Tindal
+Q31213340;Q31213340
+Q31223562;Lansdowne
+Q31249405;Mitchell
+Q31397550;Hassans Walls
+Q31398447;Westdale
+Q31399331;Vale of Clwydd
+Q31401465;South Bowenfels
+Q31408132;Turners Marsh
+Q31408411;White Hills
+Q31408499;Windermere
+Q31409373;Ocean Vista
+Q31409641;Relbia
+Q31410196;Swan Bay
+Q31410472;Dulcot
+Q31410573;East Devonport
+Q31410601;Emu Heights
+Q31410984;Havenview
+Q31411102;Herdsmans Cove
+Q31440028;Bonshaw
+Q31440437;Riverglades
+Q31440697;Whyalla Playford
+Q31440698;Whyalla Stuart
+Q31443098;Longwood
+Q31606844;East Bendigo
+Q32023901;Springbokpan
+Q32091421;Burrum River
+Q32092754;Breakfast Creek
+Q32093298;Belmore River
+Q33730587;Cleveland
+Q35314258;Punta di Grumo Beach (Lierna)
+Q36086566;Woodstock
+Q36207513;East Molesey
+Q36277775;Q36277775
+Q36277785;Q36277785
+Q39061210;Lambak Kanan
+Q41145597;Shaw
+Q41416626;North Macquarie
+Q41574958;Targa
+Q41792199;Kiamba
+Q41798907;Kilgariff
+Q41992716;Q41992716
+Q42842738;The Gap
+Q42844023;Pretty Beach
+Q42844627;Mayfield
+Q42867012;Hillgrove
+Q42867060;Hillsborough
+Q42867091;Huntley
+Q42887872;Ravenswood, Cumbernauld
+Q43606972;Kalinga
+Q46995559;Round Hill
+Q47007020;Bangor
+Q47007030;Burns Creek
+Q47007058;Tayene
+Q47007060;Myrtle Bank
+Q47007062;North Lilydale
+Q47007064;Retreat
+Q47007069;Tunnel
+Q48724115;Vesu
+Q48724991;Jakkur
+Q48726789;Ganga Nagar, Meerut
+Q48741957;Torbrex Village
+Q48790171;Belmont Hills
+Q48792953;Eyre, South Australia
+Q48818104;Carrickstone
+Q48988864;Donside Village
+Q50395285;Woodburn
+Q53714989;Kooba
+Q54817270;Tophill
+Q54817283;Tin Town
+Q54817287;Hart Hill
+Q54817288;Vauxhall Park
+Q54817289;Napier Park
+Q54865400;Bromley
+Q54865427;Broomfield
+Q54865436;Casebrook
+Q54865467;Chaneys
+Q54865483;Coutts Island
+Q54865570;Kainga
+Q54865605;Islington
+Q54865649;Hillmorton
+Q54866203;Oaklands
+Q54866213;Northwood
+Q54866235;Northcote
+Q54866253;North New Brighton
+Q54866276;Middleton
+Q54866298;Marshland
+Q54866352;Russley
+Q54866395;South New Brighton
+Q54866417;Styx
+Q54866446;Yaldhurst
+Q54869688;Moray Estate
+Q54869800;Victoria Park, Edinburgh
+Q55234309;Murrays Beach
+Q55403860;Gallowgate, Glasgow
+Q55447153;Pottery Estate
+Q55453273;Lanskey
+Q55606014;Broomhouse, Glasgow
+Q55607195;Cheeta Camp
+Q55610440;Easthall
+Q55615643;Kandawala, Negombo
+Q55621831;Makhubung
+Q55621837;Makouspan
+Q55628497;Panambakkam
+Q55629074;Parkhouse, Glasgow G22
+Q55629076;Parkhouse, Glasgow G53
+Q55632858;Senji, Chennai
+Q55637054;Verdwaal
+Q55641282;North Kellyville
+Q55641287;Norwest
+Q55740507;Pokey Oaks County
+Q55807982;Spreadborough
+Q56245294;Kanana Park
+Q56245323;Lakeside
+Q56280207;Mubarak Pur Dabas
+Q56581517;El Orégano (suburb of Mexico, Sonora State, lat 29,63, long -110,37)
+Q56612949;Western Park, Leicester
+Q56731434;Chilgol
+Q57386013;Horahora
+Q57472197;Alice Springs
+Q57551359;Popley
+Q59313711;Warehouse Precinct
+Q60452283;Whyalla
+Q62009500;Pathadippalam
+Q63175465;Bathurst
+Q64541401;Macnamara
+Q64541414;Strathnairn
+Q64852893;Middleton
+Q65044179;Tamatea
+Q65044773;Akina
+Q65044777;Camberley
+Q65067343;Koutu
+Q65067364;Lynmore
+Q65068594;Waipahihi
+Q65088937;Nukuhau
+Q65090876;Judea
+Q65924430;Brunswick
+Q66269909;Mount Roskill
+Q66622187;Dawsholm
+Q66761847;Q66761847
+Q67143844;Kelvinhaugh
+Q67666986;Kelvingrove, Glasgow
+Q67775320;Chawson
+Q68377654;Eastwood, Glasgow
+Q68658315;Bensham
+Q69762607;Broadwater Down
+Q69775332;Kirkby Woodhouse
+Q71715211;West Craigs
+Q71757651;Househillwood
+Q71757666;Rosshall
+Q72190930;Sarahart
+Q72765857;Amisfield
+Q73463130;Porirua City Centre
+Q73480523;Matipo Heights
+Q74135468;Abbotsford
+Q74135919;Andrewville
+Q76212283;Lucas Heights
+Q76855882;Whitwood
+Q77251625;Westrip
+Q78019059;Hawks Green
+Q78916521;Undercliffe
+Q78917572;Windhill
+Q78943485;Hospital Hill
+Q79325928;Higher Broughton
+Q79395370;Parkfield
+Q79395889;Rough Hills
+Q79611131;Sandyford
+Q79611259;Moorepark
+Q80110508;Scotswood
+Q80169605;Oxon
+Q80464946;Sandylands
+Q81724603;East Worthing
+Q81755813;Wincobank
+Q82570215;Appleby
+Q82576794;Aramoho
+Q82618836;Rototuna North
+Q82622529;Seatoun Heights
+Q82622869;Tihiotonga
+Q82623393;Moanataiari
+Q82624028;Moncks Spur
+Q82624579;Collinswood
+Q82632727;Kaikorai
+Q82822278;North Titirangi
+Q82824505;Rānui
+Q82825904;Rangoon Heights
+Q83199807;Awamoa
+Q83300166;Newsham
+Q83467563;Oldmixon
+Q83565353;Stranton
+Q83850466;Devonport
+Q83944116;Carley Hill
+Q83991650;Aotea
+Q83991829;Bastia Hill
+Q84095329;Ulverstone
+Q84118850;Tūī Glen
+Q84442759;Starrtown
+Q84506354;New Basford
+Q85177074;Stephneyville
+Q85257247;Allenton
+Q85287366;Gleniti
+Q85328868;Oughtrington
+Q85757305;Doha
+Q85823252;garden suburb
+Q85826249;Waimataitai
+Q86492754;Bader
+Q86492838;Blagdon
+Q86492839;Belleknowes
+Q86812115;Mairtown

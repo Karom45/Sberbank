@@ -1,0 +1,528 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q326254;Madang Province;административно-территориальная единица;1;250;to
+Q862584;Enga Province;место рождения;1;1;to
+Q862584;Enga Province;основная категория по теме;1;1;from
+Q862584;Enga Province;FIPS 10-4 (страны и регионы);1;1;from
+Q862584;Enga Province;Who's on First ID;1;1;from
+Q862584;Enga Province;код Freebase;1;1;from
+Q862584;Enga Province;географические координаты;1;1;from
+Q862584;Enga Province;часовой пояс;1;1;from
+Q862584;Enga Province;категория на Викискладе;1;1;from
+Q862584;Enga Province;ISO 3166-2;1;1;from
+Q862584;Enga Province;используемый язык;1;12;from
+Q862584;Enga Province;площадь;1;1;from
+Q862584;Enga Province;код GeoNames;1;1;from
+Q862584;Enga Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q862584;Enga Province;код в Большой каталанской энциклопедии;1;1;from
+Q862584;Enga Province;численность населения;1;1;from
+Q862584;Enga Province;имеет границы с;1;5;to
+Q862584;Enga Province;изображение флага;1;1;from
+Q862584;Enga Province;столица;1;1;from
+Q862584;Enga Province;это частный случай понятия;1;1;from
+Q862584;Enga Province;карта местонахождения;1;1;from
+Q862584;Enga Province;государство;1;1;from
+Q862584;Enga Province;административно-территориальная единица;1;65;to
+Q853664;Morobe Province;административно делится на;1;1;to
+Q853664;Morobe Province;общая тема категории;1;1;to
+Q853664;Morobe Province;является столицей;1;1;to
+Q853664;Morobe Province;местонахождение;1;1;to
+Q853664;Morobe Province;место рождения;1;1;to
+Q853664;Morobe Province;происходит из;1;102;to
+Q853664;Morobe Province;основная категория по теме;1;1;from
+Q853664;Morobe Province;FIPS 10-4 (страны и регионы);1;1;from
+Q862584;Enga Province;происходит из;1;12;to
+Q862584;Enga Province;является столицей;1;1;to
+Q853664;Morobe Province;код Freebase;1;1;from
+Q862584;Enga Province;место смерти;1;1;to
+Q874942;Central Province;государство;1;1;from
+Q874942;Central Province;административно-территориальная единица;1;407;to
+Q874935;Manus Province;административно делится на;1;1;to
+Q874935;Manus Province;общая тема категории;1;1;to
+Q874935;Manus Province;происходит из;1;30;to
+Q874935;Manus Province;является столицей;1;1;to
+Q874935;Manus Province;dmoz;1;1;from
+Q874935;Manus Province;основная категория по теме;1;1;from
+Q874935;Manus Province;FIPS 10-4 (страны и регионы);1;1;from
+Q874935;Manus Province;код NKC;1;1;from
+Q874935;Manus Province;Who's on First ID;1;1;from
+Q874935;Manus Province;код Freebase;1;1;from
+Q874935;Manus Province;географические координаты;1;1;from
+Q874935;Manus Province;часовой пояс;1;1;from
+Q874935;Manus Province;ISO 3166-2;1;1;from
+Q874935;Manus Province;используемый язык;1;31;from
+Q874935;Manus Province;площадь;1;1;from
+Q874935;Manus Province;код TGN;1;1;from
+Q874935;Manus Province;код GeoNames;1;1;from
+Q874935;Manus Province;код в Большой каталанской энциклопедии;1;1;from
+Q874935;Manus Province;изображение флага;1;1;from
+Q874935;Manus Province;столица;1;1;from
+Q874935;Manus Province;это частный случай понятия;1;1;from
+Q874935;Manus Province;код LCNAF;1;1;from
+Q874935;Manus Province;карта местонахождения;1;1;from
+Q874935;Manus Province;государство;1;1;from
+Q874935;Manus Province;административно-территориальная единица;1;261;to
+Q862584;Enga Province;административно делится на;1;1;to
+Q862584;Enga Province;общая тема категории;1;1;to
+Q853664;Morobe Province;Who's on First ID;1;1;from
+Q853664;Morobe Province;географические координаты;1;1;from
+Q874942;Central Province;это частный случай понятия;1;1;from
+Q849812;Eastern Highlands Province;площадь;1;1;from
+Q849812;Eastern Highlands Province;код TGN;1;1;from
+Q849812;Eastern Highlands Province;код GeoNames;1;1;from
+Q849812;Eastern Highlands Province;код в Большой каталанской энциклопедии;1;1;from
+Q849812;Eastern Highlands Province;имеет границы с;1;4;to
+Q849812;Eastern Highlands Province;изображение флага;1;1;from
+Q849812;Eastern Highlands Province;столица;1;1;from
+Q849812;Eastern Highlands Province;это частный случай понятия;1;1;from
+Q849812;Eastern Highlands Province;карта местонахождения;1;1;from
+Q849812;Eastern Highlands Province;код GND;1;1;from
+Q849812;Eastern Highlands Province;код VIAF;1;1;from
+Q849812;Eastern Highlands Province;государство;1;1;from
+Q849812;Eastern Highlands Province;административно-территориальная единица;1;72;to
+Q849807;Western Highlands Province;административно делится на;1;1;to
+Q849807;Western Highlands Province;общая тема категории;1;1;to
+Q849807;Western Highlands Province;происходит из;1;14;to
+Q849807;Western Highlands Province;является столицей;1;1;to
+Q849807;Western Highlands Province;основная категория по теме;1;1;from
+Q849807;Western Highlands Province;FIPS 10-4 (страны и регионы);1;1;from
+Q849807;Western Highlands Province;код NKC;1;1;from
+Q849807;Western Highlands Province;Who's on First ID;1;1;from
+Q849807;Western Highlands Province;код Freebase;1;1;from
+Q849807;Western Highlands Province;географические координаты;1;1;from
+Q849807;Western Highlands Province;часовой пояс;1;1;from
+Q849807;Western Highlands Province;ISO 3166-2;1;1;from
+Q849807;Western Highlands Province;используемый язык;1;15;from
+Q849807;Western Highlands Province;площадь;1;1;from
+Q849807;Western Highlands Province;код TGN;1;1;from
+Q849807;Western Highlands Province;код GeoNames;1;1;from
+Q849807;Western Highlands Province;код в Большой каталанской энциклопедии;1;1;from
+Q849812;Eastern Highlands Province;название на языке оригинала;1;2;from
+Q849812;Eastern Highlands Province;используемый язык;1;36;from
+Q853664;Morobe Province;категория на Викискладе;1;1;from
+Q849812;Eastern Highlands Province;ISO 3166-2;1;1;from
+Q853664;Morobe Province;ISO 3166-2;1;1;from
+Q853664;Morobe Province;используемый язык;1;102;from
+Q853664;Morobe Province;площадь;1;1;from
+Q853664;Morobe Province;название на языке оригинала;1;1;from
+Q853664;Morobe Province;код TGN;1;1;from
+Q853664;Morobe Province;код GeoNames;1;1;from
+Q853664;Morobe Province;код в Большой каталанской энциклопедии;1;1;from
+Q853664;Morobe Province;код US National Archives;1;1;from
+Q853664;Morobe Province;имеет границы с;1;5;to
+Q853664;Morobe Province;изображение флага;1;1;from
+Q853664;Morobe Province;столица;1;1;from
+Q853664;Morobe Province;это частный случай понятия;1;1;from
+Q853664;Morobe Province;карта местонахождения;1;1;from
+Q853664;Morobe Province;код VIAF;1;1;from
+Q853664;Morobe Province;государство;1;1;from
+Q853664;Morobe Province;административно-территориальная единица;1;420;to
+Q849812;Eastern Highlands Province;административно делится на;1;1;to
+Q849812;Eastern Highlands Province;общая тема категории;1;1;to
+Q849812;Eastern Highlands Province;является столицей;1;1;to
+Q849812;Eastern Highlands Province;место рождения;1;1;to
+Q849812;Eastern Highlands Province;происходит из;1;35;to
+Q849812;Eastern Highlands Province;основная категория по теме;1;1;from
+Q849812;Eastern Highlands Province;FIPS 10-4 (страны и регионы);1;1;from
+Q849812;Eastern Highlands Province;официальный сайт;1;1;from
+Q849812;Eastern Highlands Province;WorldCat Identities ID;1;1;from
+Q849812;Eastern Highlands Province;Who's on First ID;1;1;from
+Q849812;Eastern Highlands Province;код Freebase;1;1;from
+Q849812;Eastern Highlands Province;географические координаты;1;1;from
+Q849812;Eastern Highlands Province;дата основания/создания/возникновения;1;1;from
+Q874942;Central Province;карта местонахождения;1;1;from
+Q874942;Central Province;столица;1;1;from
+Q849807;Western Highlands Province;имеет границы с;1;4;to
+Q1382499;Hela;ISO 3166-2;1;1;from
+Q1382499;Hela;площадь;1;1;from
+Q1382499;Hela;код TGN;1;1;from
+Q1382499;Hela;код GeoNames;1;1;from
+Q1382499;Hela;имеет границы с;1;5;to
+Q1382499;Hela;изображение флага;1;1;from
+Q1382499;Hela;столица;1;1;from
+Q1382499;Hela;это частный случай понятия;1;1;from
+Q1382499;Hela;карта местонахождения;1;1;from
+Q1382499;Hela;государство;1;1;from
+Q1382499;Hela;административно-территориальная единица;1;7;to
+Q1378310;National Capital District;административно делится на;1;1;to
+Q1378310;National Capital District;общая тема категории;1;1;to
+Q1378310;National Capital District;основная категория по теме;1;1;from
+Q1378310;National Capital District;Who's on First ID;1;1;from
+Q1378310;National Capital District;географические координаты;1;2;from
+Q1378310;National Capital District;код GNS;1;1;from
+Q1378310;National Capital District;код GeoNames;1;1;from
+Q1378310;National Capital District;имеет границы с;1;1;to
+Q1378310;National Capital District;изображение флага;1;1;from
+Q1378310;National Capital District;столица;1;1;from
+Q1378310;National Capital District;это частный случай понятия;1;1;from
+Q1378310;National Capital District;карта местонахождения;1;1;from
+Q1378310;National Capital District;код GND;1;1;from
+Q1378310;National Capital District;государство;1;1;from
+Q1378310;National Capital District;административно-территориальная единица;1;5;to
+Q874980;Gulf;административно делится на;1;1;to
+Q874980;Gulf;место активности;1;1;to
+Q874980;Gulf;общая тема категории;1;1;to
+Q874980;Gulf;место изготовления;1;1;to
+Q1382499;Hela;используемый язык;1;2;from
+Q1382499;Hela;дата основания/создания/возникновения;1;1;from
+Q874980;Gulf;происходит из;1;34;to
+Q1382499;Hela;географические координаты;1;1;from
+Q84103102;North Solomons;основная тема;1;1;to
+Q84103102;North Solomons;дата прекращения существования;1;1;from
+Q84103102;North Solomons;заменён на;1;1;from
+Q84103102;North Solomons;это частный случай понятия;1;1;from
+Q84103102;North Solomons;код VIAF;1;1;from
+Q84103102;North Solomons;государство;1;1;from
+Q84103102;North Solomons;административно-территориальная единица;1;1;from
+Q1400625;Jiwaka Province;административно делится на;1;1;to
+Q1400625;Jiwaka Province;общая тема категории;1;1;to
+Q1400625;Jiwaka Province;основная категория по теме;1;1;from
+Q1400625;Jiwaka Province;код Freebase;1;1;from
+Q1400625;Jiwaka Province;географические координаты;1;1;from
+Q1400625;Jiwaka Province;дата основания/создания/возникновения;1;1;from
+Q1400625;Jiwaka Province;ISO 3166-2;1;1;from
+Q1400625;Jiwaka Province;площадь;1;1;from
+Q1400625;Jiwaka Province;код TGN;1;1;from
+Q1400625;Jiwaka Province;код GeoNames;1;1;from
+Q1400625;Jiwaka Province;имеет границы с;1;4;to
+Q1400625;Jiwaka Province;изображение флага;1;1;from
+Q1400625;Jiwaka Province;это частный случай понятия;1;1;from
+Q1400625;Jiwaka Province;карта местонахождения;1;1;from
+Q1400625;Jiwaka Province;государство;1;1;from
+Q1400625;Jiwaka Province;административно-территориальная единица;1;1;from
+Q1382499;Hela;административно делится на;1;1;to
+Q1382499;Hela;общая тема категории;1;1;to
+Q1382499;Hela;является столицей;1;1;to
+Q1382499;Hela;происходит из;1;2;to
+Q1382499;Hela;основная категория по теме;1;1;from
+Q1382499;Hela;код Freebase;1;1;from
+Q874980;Gulf;является столицей;1;1;to
+Q874980;Gulf;основная категория по теме;1;1;from
+Q874942;Central Province;изображение флага;1;1;from
+Q874962;Milne Bay Province;используемый язык;1;59;from
+Q874962;Milne Bay Province;код TGN;1;1;from
+Q874962;Milne Bay Province;код GeoNames;1;1;from
+Q874962;Milne Bay Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q874962;Milne Bay Province;код в Большой каталанской энциклопедии;1;1;from
+Q874962;Milne Bay Province;код US National Archives;1;1;from
+Q874962;Milne Bay Province;имеет границы с;1;2;to
+Q874962;Milne Bay Province;изображение флага;1;1;from
+Q874962;Milne Bay Province;столица;1;1;from
+Q874962;Milne Bay Province;это частный случай понятия;1;1;from
+Q874962;Milne Bay Province;карта местонахождения;1;1;from
+Q874962;Milne Bay Province;изображение;1;1;from
+Q874962;Milne Bay Province;государство;1;1;from
+Q874962;Milne Bay Province;административно-территориальная единица;1;1127;to
+Q874942;Central Province;административно делится на;1;1;to
+Q874942;Central Province;общая тема категории;1;1;to
+Q874942;Central Province;место рождения;1;1;to
+Q874942;Central Province;происходит из;1;58;to
+Q874942;Central Province;основная категория по теме;1;1;from
+Q874942;Central Province;FIPS 10-4 (страны и регионы);1;1;from
+Q874942;Central Province;Who's on First ID;1;1;from
+Q874942;Central Province;код Freebase;1;1;from
+Q874942;Central Province;географические координаты;1;2;from
+Q874942;Central Province;ISO 3166-2;1;1;from
+Q874942;Central Province;используемый язык;1;58;from
+Q874942;Central Province;площадь;1;1;from
+Q874942;Central Province;код TGN;1;1;from
+Q874942;Central Province;код GeoNames;1;1;from
+Q874942;Central Province;код в Большой каталанской энциклопедии;1;1;from
+Q874942;Central Province;имеет границы с;1;5;to
+Q874962;Milne Bay Province;площадь;1;1;from
+Q874962;Milne Bay Province;ISO 3166-2;1;1;from
+Q874980;Gulf;FIPS 10-4 (страны и регионы);1;1;from
+Q874962;Milne Bay Province;категория на Викискладе;1;1;from
+Q874980;Gulf;Who's on First ID;1;1;from
+Q874980;Gulf;код Freebase;1;1;from
+Q874980;Gulf;географические координаты;1;1;from
+Q874980;Gulf;ISO 3166-2;1;1;from
+Q874980;Gulf;используемый язык;1;34;from
+Q874980;Gulf;площадь;1;1;from
+Q874980;Gulf;код TGN;1;1;from
+Q874980;Gulf;код GeoNames;1;1;from
+Q874980;Gulf;код в энциклопедии «Британника онлайн»;1;1;from
+Q874980;Gulf;численность населения;1;1;from
+Q874980;Gulf;имеет границы с;1;6;to
+Q874980;Gulf;изображение флага;1;1;from
+Q874980;Gulf;столица;1;1;from
+Q874980;Gulf;это частный случай понятия;1;1;from
+Q874980;Gulf;карта местонахождения;1;1;from
+Q874980;Gulf;государство;1;1;from
+Q874980;Gulf;административно-территориальная единица;1;254;to
+Q874962;Milne Bay Province;административно делится на;1;1;to
+Q874962;Milne Bay Province;место рождения;1;1;to
+Q874962;Milne Bay Province;общая тема категории;1;1;to
+Q874962;Milne Bay Province;является столицей;1;1;to
+Q874962;Milne Bay Province;происходит из;1;59;to
+Q874962;Milne Bay Province;основная категория по теме;1;1;from
+Q874962;Milne Bay Province;FIPS 10-4 (страны и регионы);1;1;from
+Q874962;Milne Bay Province;код NKC;1;1;from
+Q874962;Milne Bay Province;Who's on First ID;1;1;from
+Q874962;Milne Bay Province;код Freebase;1;1;from
+Q874962;Milne Bay Province;географические координаты;1;1;from
+Q874962;Milne Bay Province;часовой пояс;1;1;from
+Q849807;Western Highlands Province;глава правительства;1;1;from
+Q849807;Western Highlands Province;изображение флага;1;1;from
+Q326254;Madang Province;государство;1;1;from
+Q753686;Oro Province;административно-территориальная единица;1;199;to
+Q690880;East Sepik Province;общая тема категории;1;1;to
+Q690880;East Sepik Province;происходит из;1;101;to
+Q690880;East Sepik Province;является столицей;1;1;to
+Q690880;East Sepik Province;основная категория по теме;1;1;from
+Q690880;East Sepik Province;FIPS 10-4 (страны и регионы);1;1;from
+Q690880;East Sepik Province;Who's on First ID;1;1;from
+Q690880;East Sepik Province;код Freebase;1;1;from
+Q690880;East Sepik Province;географические координаты;1;1;from
+Q690880;East Sepik Province;категория на Викискладе;1;1;from
+Q690880;East Sepik Province;ISO 3166-2;1;1;from
+Q690880;East Sepik Province;используемый язык;1;104;from
+Q690880;East Sepik Province;площадь;1;1;from
+Q690880;East Sepik Province;код TGN;1;1;from
+Q690880;East Sepik Province;код GeoNames;1;1;from
+Q690880;East Sepik Province;код в Большой каталанской энциклопедии;1;1;from
+Q690880;East Sepik Province;численность населения;1;1;from
+Q690880;East Sepik Province;имеет границы с;1;4;to
+Q690880;East Sepik Province;изображение флага;1;1;from
+Q690880;East Sepik Province;столица;1;1;from
+Q690880;East Sepik Province;это частный случай понятия;1;1;from
+Q690880;East Sepik Province;карта местонахождения;1;1;from
+Q690880;East Sepik Province;изображение;1;1;from
+Q690880;East Sepik Province;государство;1;1;from
+Q690880;East Sepik Province;административно-территориальная единица;1;169;to
+Q667468;West New Britain Province;административно делится на;1;1;to
+Q667468;West New Britain Province;является столицей;1;1;to
+Q667468;West New Britain Province;общая тема категории;1;1;to
+Q667468;West New Britain Province;происходит из;1;45;to
+Q667468;West New Britain Province;место в MusicBrainz;1;1;from
+Q690880;East Sepik Province;административно делится на;1;2;to
+Q753686;Oro Province;государство;1;1;from
+Q667468;West New Britain Province;FIPS 10-4 (страны и регионы);1;1;from
+Q753686;Oro Province;карта местонахождения;1;1;from
+Q753689;Sandaun Province;код TGN;1;1;from
+Q753689;Sandaun Province;код GeoNames;1;1;from
+Q753689;Sandaun Province;код в Большой каталанской энциклопедии;1;1;from
+Q753689;Sandaun Province;имеет границы с;1;4;to
+Q753689;Sandaun Province;изображение флага;1;1;from
+Q753689;Sandaun Province;столица;1;1;from
+Q753689;Sandaun Province;это частный случай понятия;1;1;from
+Q753689;Sandaun Province;карта местонахождения;1;1;from
+Q753689;Sandaun Province;государство;1;1;from
+Q753689;Sandaun Province;административно-территориальная единица;1;318;to
+Q753686;Oro Province;административно делится на;1;1;to
+Q753686;Oro Province;общая тема категории;1;1;to
+Q753686;Oro Province;место рождения;1;2;to
+Q753686;Oro Province;происходит из;1;160;to
+Q753686;Oro Province;является столицей;1;1;to
+Q753686;Oro Province;основная категория по теме;1;1;from
+Q753686;Oro Province;FIPS 10-4 (страны и регионы);1;1;from
+Q753686;Oro Province;Who's on First ID;1;1;from
+Q753686;Oro Province;код Freebase;1;1;from
+Q753686;Oro Province;географические координаты;1;1;from
+Q753686;Oro Province;ISO 3166-2;1;1;from
+Q753686;Oro Province;используемый язык;1;161;from
+Q753686;Oro Province;площадь;1;1;from
+Q753686;Oro Province;код TGN;1;1;from
+Q753686;Oro Province;код GeoNames;1;1;from
+Q753686;Oro Province;имеет границы с;1;3;to
+Q753686;Oro Province;изображение флага;1;1;from
+Q753686;Oro Province;столица;1;1;from
+Q753686;Oro Province;это частный случай понятия;1;1;from
+Q667468;West New Britain Province;основная категория по теме;1;1;from
+Q667468;West New Britain Province;Who's on First ID;1;1;from
+Q753689;Sandaun Province;используемый язык;1;115;from
+Q599448;Chimbu Province;численность населения;1;1;from
+Q599448;Chimbu Province;изображение флага;1;1;from
+Q599448;Chimbu Province;столица;1;1;from
+Q599448;Chimbu Province;это частный случай понятия;1;1;from
+Q599448;Chimbu Province;карта местонахождения;1;1;from
+Q599448;Chimbu Province;изображение;1;1;from
+Q599448;Chimbu Province;государство;1;1;from
+Q599448;Chimbu Province;административно-территориальная единица;1;27;to
+Q326254;Madang Province;административно делится на;1;1;to
+Q326254;Madang Province;общая тема категории;1;1;to
+Q326254;Madang Province;место смерти;1;1;to
+Q326254;Madang Province;является столицей;1;1;to
+Q326254;Madang Province;происходит из;1;172;to
+Q326254;Madang Province;основная категория по теме;1;1;from
+Q326254;Madang Province;FIPS 10-4 (страны и регионы);1;1;from
+Q326254;Madang Province;Who's on First ID;1;1;from
+Q326254;Madang Province;код Freebase;1;1;from
+Q326254;Madang Province;географические координаты;1;1;from
+Q326254;Madang Province;ISO 3166-2;1;1;from
+Q326254;Madang Province;используемый язык;1;173;from
+Q326254;Madang Province;площадь;1;1;from
+Q326254;Madang Province;код TGN;1;1;from
+Q326254;Madang Province;код GeoNames;1;1;from
+Q326254;Madang Province;код в Большой каталанской энциклопедии;1;1;from
+Q326254;Madang Province;код US National Archives;1;1;from
+Q326254;Madang Province;имеет границы с;1;7;to
+Q326254;Madang Province;изображение флага;1;1;from
+Q326254;Madang Province;столица;1;1;from
+Q326254;Madang Province;это частный случай понятия;1;1;from
+Q326254;Madang Province;карта местонахождения;1;1;from
+Q599448;Chimbu Province;имеет границы с;1;5;to
+Q599448;Chimbu Province;код в Большой каталанской энциклопедии;1;1;from
+Q667468;West New Britain Province;код Freebase;1;1;from
+Q599448;Chimbu Province;код GeoNames;1;1;from
+Q667468;West New Britain Province;географические координаты;1;1;from
+Q667468;West New Britain Province;ISO 3166-2;1;1;from
+Q667468;West New Britain Province;используемый язык;1;47;from
+Q667468;West New Britain Province;площадь;1;1;from
+Q667468;West New Britain Province;код TGN;1;1;from
+Q667468;West New Britain Province;код GeoNames;1;1;from
+Q667468;West New Britain Province;код в Большой каталанской энциклопедии;1;1;from
+Q667468;West New Britain Province;имеет границы с;1;1;to
+Q667468;West New Britain Province;изображение флага;1;1;from
+Q667468;West New Britain Province;столица;1;1;from
+Q667468;West New Britain Province;это частный случай понятия;1;1;from
+Q667468;West New Britain Province;карта местонахождения;1;1;from
+Q667468;West New Britain Province;государство;1;1;from
+Q667468;West New Britain Province;административно-территориальная единица;1;438;to
+Q599448;Chimbu Province;административно делится на;1;1;to
+Q599448;Chimbu Province;общая тема категории;1;1;to
+Q599448;Chimbu Province;место рождения;1;1;to
+Q599448;Chimbu Province;является столицей;1;1;to
+Q599448;Chimbu Province;происходит из;1;14;to
+Q599448;Chimbu Province;основная категория по теме;1;1;from
+Q599448;Chimbu Province;FIPS 10-4 (страны и регионы);1;1;from
+Q599448;Chimbu Province;Who's on First ID;1;1;from
+Q599448;Chimbu Province;код Freebase;1;1;from
+Q599448;Chimbu Province;географические координаты;1;1;from
+Q599448;Chimbu Province;дата основания/создания/возникновения;1;1;from
+Q599448;Chimbu Province;ISO 3166-2;1;1;from
+Q599448;Chimbu Province;используемый язык;1;14;from
+Q599448;Chimbu Province;площадь;1;1;from
+Q599448;Chimbu Province;код TGN;1;1;from
+Q753689;Sandaun Province;площадь;1;1;from
+Q753689;Sandaun Province;ISO 3166-2;1;1;from
+Q849807;Western Highlands Province;столица;1;1;from
+Q849801;Southern Highlands Province;это частный случай понятия;1;1;from
+Q849801;Southern Highlands Province;код GND;1;1;from
+Q849801;Southern Highlands Province;код VIAF;1;1;from
+Q849801;Southern Highlands Province;государство;1;1;from
+Q849801;Southern Highlands Province;административно-территориальная единица;1;196;to
+Q849790;Western Province;административно делится на;1;1;to
+Q849790;Western Province;общая тема категории;1;1;to
+Q849790;Western Province;является столицей;1;1;to
+Q849790;Western Province;происходит из;1;84;to
+Q849790;Western Province;основная категория по теме;1;1;from
+Q849790;Western Province;FIPS 10-4 (страны и регионы);1;1;from
+Q849790;Western Province;Who's on First ID;1;1;from
+Q849790;Western Province;код Freebase;1;1;from
+Q849790;Western Province;географические координаты;1;1;from
+Q849790;Western Province;категория на Викискладе;1;1;from
+Q849790;Western Province;ISO 3166-2;1;1;from
+Q849790;Western Province;используемый язык;1;86;from
+Q849790;Western Province;площадь;1;1;from
+Q849790;Western Province;код TGN;1;1;from
+Q849790;Western Province;код GeoNames;1;1;from
+Q849790;Western Province;код в Большой каталанской энциклопедии;1;1;from
+Q849790;Western Province;имеет границы с;1;5;to
+Q849790;Western Province;изображение флага;1;1;from
+Q849790;Western Province;столица;1;1;from
+Q849790;Western Province;это частный случай понятия;1;1;from
+Q849790;Western Province;карта местонахождения;1;1;from
+Q849790;Western Province;изображение;1;1;from
+Q849790;Western Province;государство;1;1;from
+Q849790;Western Province;административно-территориальная единица;1;307;to
+Q838690;New Ireland Province;административно делится на;1;1;to
+Q849801;Southern Highlands Province;карта местонахождения;1;1;from
+Q849801;Southern Highlands Province;столица;1;1;from
+Q838690;New Ireland Province;категория объединяет темы;1;1;to
+Q849801;Southern Highlands Province;официальный язык;1;1;from
+Q849807;Western Highlands Province;это частный случай понятия;1;1;from
+Q849807;Western Highlands Province;карта местонахождения;1;1;from
+Q849807;Western Highlands Province;код GND;1;1;from
+Q849807;Western Highlands Province;код VIAF;1;1;from
+Q849807;Western Highlands Province;государство;1;1;from
+Q849807;Western Highlands Province;административно-территориальная единица;1;46;to
+Q849801;Southern Highlands Province;административно делится на;1;1;to
+Q849801;Southern Highlands Province;общая тема категории;1;1;to
+Q849801;Southern Highlands Province;место рождения;1;2;to
+Q849801;Southern Highlands Province;происходит из;1;27;to
+Q849801;Southern Highlands Province;является столицей;1;1;to
+Q849801;Southern Highlands Province;место в MusicBrainz;1;1;from
+Q849801;Southern Highlands Province;основная категория по теме;1;1;from
+Q849801;Southern Highlands Province;FIPS 10-4 (страны и регионы);1;1;from
+Q849801;Southern Highlands Province;Who's on First ID;1;1;from
+Q849801;Southern Highlands Province;код Freebase;1;1;from
+Q849801;Southern Highlands Province;географические координаты;1;1;from
+Q849801;Southern Highlands Province;часовой пояс;1;1;from
+Q849801;Southern Highlands Province;категория на Викискладе;1;1;from
+Q849801;Southern Highlands Province;ISO 3166-2;1;1;from
+Q849801;Southern Highlands Province;используемый язык;1;27;from
+Q849801;Southern Highlands Province;площадь;1;1;from
+Q849801;Southern Highlands Province;код TGN;1;1;from
+Q849801;Southern Highlands Province;код GeoNames;1;1;from
+Q849801;Southern Highlands Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q849801;Southern Highlands Province;численность населения;1;1;from
+Q849801;Southern Highlands Province;имеет границы с;1;7;to
+Q849801;Southern Highlands Province;изображение флага;1;1;from
+Q849801;Southern Highlands Province;денежная единица;1;1;from
+Q838690;New Ireland Province;общая тема категории;1;1;to
+Q838690;New Ireland Province;происходит из;1;24;to
+Q753689;Sandaun Province;категория на Викискладе;1;1;from
+Q753702;East New Britain;FIPS 10-4 (страны и регионы);1;1;from
+Q753702;East New Britain;Who's on First ID;1;1;from
+Q753702;East New Britain;код Freebase;1;1;from
+Q753702;East New Britain;географические координаты;1;1;from
+Q753702;East New Britain;дата основания/создания/возникновения;1;1;from
+Q753702;East New Britain;ISO 3166-2;1;1;from
+Q753702;East New Britain;используемый язык;1;22;from
+Q753702;East New Britain;площадь;1;1;from
+Q753702;East New Britain;код TGN;1;1;from
+Q753702;East New Britain;код GeoNames;1;1;from
+Q753702;East New Britain;код в Большой каталанской энциклопедии;1;1;from
+Q753702;East New Britain;имеет границы с;1;1;to
+Q753702;East New Britain;изображение флага;1;1;from
+Q753702;East New Britain;столица;1;1;from
+Q753702;East New Britain;это частный случай понятия;1;1;from
+Q753702;East New Britain;карта местонахождения;1;1;from
+Q753702;East New Britain;государство;1;1;from
+Q753702;East New Britain;административно-территориальная единица;1;247;to
+Q753689;Sandaun Province;общая тема категории;1;1;to
+Q753689;Sandaun Province;административно делится на;1;2;to
+Q753689;Sandaun Province;место рождения;1;1;to
+Q753689;Sandaun Province;происходит из;1;112;to
+Q753689;Sandaun Province;является столицей;1;1;to
+Q753689;Sandaun Province;место в MusicBrainz;1;1;from
+Q753689;Sandaun Province;основная категория по теме;1;1;from
+Q753689;Sandaun Province;FIPS 10-4 (страны и регионы);1;1;from
+Q753689;Sandaun Province;Who's on First ID;1;1;from
+Q753689;Sandaun Province;код Freebase;1;1;from
+Q753689;Sandaun Province;географические координаты;1;1;from
+Q753689;Sandaun Province;часовой пояс;1;1;from
+Q753702;East New Britain;находится в пределах природно-географического объекта;1;1;from
+Q753702;East New Britain;основная категория по теме;1;1;from
+Q838690;New Ireland Province;является столицей;1;1;to
+Q753702;East New Britain;происходит из;1;20;to
+Q838690;New Ireland Province;dmoz;1;1;from
+Q838690;New Ireland Province;место в MusicBrainz;1;1;from
+Q838690;New Ireland Province;основная категория по теме;1;1;from
+Q838690;New Ireland Province;FIPS 10-4 (страны и регионы);1;1;from
+Q838690;New Ireland Province;категория карт на Викискладе;1;1;from
+Q838690;New Ireland Province;код NKC;1;1;from
+Q838690;New Ireland Province;Who's on First ID;1;1;from
+Q838690;New Ireland Province;код Freebase;1;1;from
+Q838690;New Ireland Province;географические координаты;1;1;from
+Q838690;New Ireland Province;часовой пояс;1;1;from
+Q838690;New Ireland Province;категория на Викискладе;1;1;from
+Q838690;New Ireland Province;код NE.se;1;1;from
+Q838690;New Ireland Province;ISO 3166-2;1;1;from
+Q838690;New Ireland Province;используемый язык;1;24;from
+Q838690;New Ireland Province;код BabelNet;1;1;from
+Q838690;New Ireland Province;код TGN;1;1;from
+Q838690;New Ireland Province;код GeoNames;1;1;from
+Q838690;New Ireland Province;код в энциклопедии «Британника онлайн»;1;1;from
+Q838690;New Ireland Province;код US National Archives;1;1;from
+Q838690;New Ireland Province;глава правительства;1;1;from
+Q838690;New Ireland Province;изображение флага;1;1;from
+Q838690;New Ireland Province;столица;1;1;from
+Q838690;New Ireland Province;это частный случай понятия;1;1;from
+Q838690;New Ireland Province;карта местонахождения;1;1;from
+Q838690;New Ireland Province;государство;1;1;from
+Q838690;New Ireland Province;административно-территориальная единица;1;434;to
+Q753702;East New Britain;административно делится на;1;1;to
+Q753702;East New Britain;общая тема категории;1;1;to
+Q753702;East New Britain;место рождения;1;5;to
+Q84103102;North Solomons;заменил;1;1;to

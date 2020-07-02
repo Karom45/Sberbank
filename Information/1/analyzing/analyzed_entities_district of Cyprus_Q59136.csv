@@ -1,0 +1,257 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q59133;Paphos District;административно-территориальная единица;1;363;to
+Q59133;Paphos District;названо в честь;1;1;from
+Q59148;Famagusta District;является столицей;1;1;to
+Q59148;Famagusta District;юрисдикция распространяется на;1;1;to
+Q59148;Famagusta District;местонахождение;1;1;to
+Q59148;Famagusta District;общая тема категории;1;1;to
+Q59150;Limassol District;административно-территориальная единица;1;243;to
+Q59150;Limassol District;названо в честь;1;1;from
+Q59150;Limassol District;административно делится на;1;1;to
+Q59150;Limassol District;государство;1;1;from
+Q59150;Limassol District;находится на берегу водоёма;1;1;from
+Q59150;Limassol District;карта местонахождения;1;2;from
+Q59150;Limassol District;это частный случай понятия;1;1;from
+Q59150;Limassol District;столица;1;1;from
+Q59150;Limassol District;имеет границы с;1;3;to
+Q59150;Limassol District;глава правительства;1;1;from
+Q59150;Limassol District;численность населения;1;54;from
+Q59150;Limassol District;код в Большой каталанской энциклопедии;1;1;from
+Q59150;Limassol District;должность главы правительства;1;1;from
+Q59150;Limassol District;самая северная точка;1;1;from
+Q59150;Limassol District;самая южная точка;1;1;from
+Q59150;Limassol District;самая восточная точка;1;1;from
+Q59150;Limassol District;самая западная точка;1;1;from
+Q59150;Limassol District;официальное название;1;1;from
+Q59150;Limassol District;код GeoNames;1;1;from
+Q59150;Limassol District;название на языке оригинала;1;1;from
+Q59150;Limassol District;изображение дорожного знака с названием населённого пункта;1;2;from
+Q59150;Limassol District;площадь;1;1;from
+Q59150;Limassol District;код BabelNet;1;1;from
+Q59150;Limassol District;используемый язык;1;1;from
+Q59150;Limassol District;ISO 3166-2;1;1;from
+Q59148;Famagusta District;категория объединяет темы;1;3;to
+Q59148;Famagusta District;место рождения;1;1;to
+Q59148;Famagusta District;состоит из;1;1;to
+Q59148;Famagusta District;ISO 3166-2;1;1;from
+Q59148;Famagusta District;находится на берегу водоёма;1;1;from
+Q59148;Famagusta District;карта местонахождения;1;2;from
+Q59148;Famagusta District;это частный случай понятия;1;1;from
+Q59148;Famagusta District;столица;1;1;from
+Q59148;Famagusta District;имеет границы с;1;3;to
+Q59148;Famagusta District;глава правительства;1;1;from
+Q59148;Famagusta District;численность населения;1;56;from
+Q59148;Famagusta District;должность главы правительства;1;1;from
+Q59148;Famagusta District;официальное название;1;1;from
+Q59148;Famagusta District;код GeoNames;1;1;from
+Q59148;Famagusta District;название на языке оригинала;1;1;from
+Q59148;Famagusta District;не путать с;1;1;to
+Q59148;Famagusta District;площадь;1;1;from
+Q59148;Famagusta District;код темы Quora;1;1;from
+Q59148;Famagusta District;баннер Викигида;1;1;from
+Q59148;Famagusta District;часть от;1;98;to
+Q59148;Famagusta District;категория на Викискладе;1;1;from
+Q59148;Famagusta District;геоданные;1;1;from
+Q59148;Famagusta District;часовой пояс;1;2;from
+Q59148;Famagusta District;Statistical Service of Cyprus Geocode;1;1;from
+Q59148;Famagusta District;идентификатор местоположения ArchINFORM;1;1;from
+Q59148;Famagusta District;географические координаты;1;1;from
+Q59148;Famagusta District;код Freebase;1;1;from
+Q59148;Famagusta District;Who's on First ID;1;1;from
+Q59148;Famagusta District;категория карт на Викискладе;1;1;from
+Q59148;Famagusta District;официальный сайт;1;1;from
+Q59148;Famagusta District;FIPS 10-4 (страны и регионы);1;1;from
+Q59148;Famagusta District;основная категория по теме;1;1;from
+Q59150;Limassol District;часть от;1;113;to
+Q59150;Limassol District;категория на Викискладе;1;1;from
+Q59150;Limassol District;геоданные;1;1;from
+Q59153;Larnaca District;состоит из;1;1;to
+Q59153;Larnaca District;код в Большой каталанской энциклопедии;1;1;from
+Q59153;Larnaca District;должность главы правительства;1;1;from
+Q59153;Larnaca District;официальное название;1;1;from
+Q59153;Larnaca District;код GeoNames;1;1;from
+Q59153;Larnaca District;название на языке оригинала;1;1;from
+Q59153;Larnaca District;площадь;1;1;from
+Q59153;Larnaca District;ISO 3166-2;1;1;from
+Q59153;Larnaca District;код темы Quora;1;1;from
+Q59153;Larnaca District;часть от;1;60;to
+Q59153;Larnaca District;категория на Викискладе;1;1;from
+Q59153;Larnaca District;геоданные;1;1;from
+Q59153;Larnaca District;часовой пояс;1;2;from
+Q59153;Larnaca District;Statistical Service of Cyprus Geocode;1;1;from
+Q59153;Larnaca District;идентификатор местоположения ArchINFORM;1;1;from
+Q59153;Larnaca District;глава правительства;1;1;from
+Q59153;Larnaca District;географические координаты;1;1;from
+Q59153;Larnaca District;код Freebase;1;1;from
+Q59153;Larnaca District;Who's on First ID;1;1;from
+Q59153;Larnaca District;категория карт на Викискладе;1;1;from
+Q59153;Larnaca District;официальный сайт;1;2;from
+Q59153;Larnaca District;FIPS 10-4 (страны и регионы);1;1;from
+Q59153;Larnaca District;основная категория по теме;1;1;from
+Q59153;Larnaca District;баннер Викигида;1;1;from
+Q59153;Larnaca District;место в MusicBrainz;1;1;from
+Q59153;Larnaca District;категория объединяет темы;1;3;to
+Q59153;Larnaca District;является столицей;1;1;to
+Q59153;Larnaca District;юрисдикция распространяется на;1;1;to
+Q59153;Larnaca District;эксклав от;1;1;to
+Q59153;Larnaca District;численность населения;1;54;from
+Q59153;Larnaca District;имеет границы с;1;3;to
+Q59150;Limassol District;часовой пояс;1;2;from
+Q59150;Limassol District;зона обслуживания;1;3;to
+Q59150;Limassol District;Statistical Service of Cyprus Geocode;1;1;from
+Q59150;Limassol District;идентификатор местоположения ArchINFORM;1;1;from
+Q59150;Limassol District;географические координаты;1;1;from
+Q59150;Limassol District;код Freebase;1;1;from
+Q59150;Limassol District;Who's on First ID;1;1;from
+Q59150;Limassol District;категория карт на Викискладе;1;1;from
+Q59150;Limassol District;официальный сайт;1;2;from
+Q59150;Limassol District;FIPS 10-4 (страны и регионы);1;1;from
+Q59150;Limassol District;основная категория по теме;1;1;from
+Q59150;Limassol District;баннер Викигида;1;1;from
+Q59150;Limassol District;состоит из;1;1;to
+Q59150;Limassol District;категория объединяет темы;1;3;to
+Q59150;Limassol District;местонахождение;1;3;to
+Q59150;Limassol District;является столицей;1;1;to
+Q59153;Larnaca District;столица;1;1;from
+Q59150;Limassol District;место рождения;1;1;to
+Q59150;Limassol District;основная тема;1;1;to
+Q59150;Limassol District;юрисдикция распространяется на;1;1;to
+Q59150;Limassol District;общая тема категории;1;1;to
+Q59150;Limassol District;происходит из;1;1;to
+Q59153;Larnaca District;административно-территориальная единица;1;148;to
+Q59153;Larnaca District;названо в честь;1;1;to
+Q59153;Larnaca District;административно делится на;1;1;to
+Q59153;Larnaca District;государство;1;1;from
+Q59153;Larnaca District;изображение;1;1;from
+Q59153;Larnaca District;находится на берегу водоёма;1;1;from
+Q59153;Larnaca District;карта местонахождения;1;2;from
+Q59153;Larnaca District;это частный случай понятия;1;1;from
+Q59148;Famagusta District;государство;1;1;from
+Q59148;Famagusta District;административно делится на;1;1;to
+Q59148;Famagusta District;названо в честь;1;1;from
+Q59146;Kyrenia District;административно-территориальная единица;1;141;to
+Q59133;Paphos District;FIPS 10-4 (страны и регионы);1;1;from
+Q59133;Paphos District;основная категория по теме;1;1;from
+Q59133;Paphos District;баннер Викигида;1;1;from
+Q59133;Paphos District;место в MusicBrainz;1;1;from
+Q59133;Paphos District;пример использования свойства;1;1;to
+Q59133;Paphos District;состоит из;1;1;to
+Q59133;Paphos District;обслуживаемый город;1;1;to
+Q59133;Paphos District;является столицей;1;1;to
+Q59133;Paphos District;юрисдикция распространяется на;1;1;to
+Q59133;Paphos District;местонахождение;1;2;to
+Q59133;Paphos District;зона обслуживания;1;2;to
+Q59133;Paphos District;общая тема категории;1;1;to
+Q59133;Paphos District;категория объединяет темы;1;2;to
+Q59146;Kyrenia District;названо в честь;1;1;from
+Q59133;Paphos District;категория карт на Викискладе;1;1;from
+Q59146;Kyrenia District;административно делится на;1;1;to
+Q59146;Kyrenia District;государство;1;1;from
+Q59146;Kyrenia District;изображение;1;2;from
+Q59146;Kyrenia District;находится на берегу водоёма;1;1;from
+Q59146;Kyrenia District;карта местонахождения;1;2;from
+Q59146;Kyrenia District;это частный случай понятия;1;1;from
+Q59146;Kyrenia District;столица;1;1;from
+Q59146;Kyrenia District;имеет границы с;1;2;to
+Q59146;Kyrenia District;глава правительства;1;1;from
+Q59146;Kyrenia District;численность населения;1;34;from
+Q59146;Kyrenia District;должность главы правительства;1;1;from
+Q59146;Kyrenia District;официальное название;1;1;from
+Q59146;Kyrenia District;код GeoNames;1;1;from
+Q59133;Paphos District;официальный сайт;1;2;from
+Q59133;Paphos District;Who's on First ID;1;1;from
+Q59146;Kyrenia District;не путать с;1;1;to
+Q59133;Paphos District;самая западная точка;1;1;from
+Q59133;Paphos District;административно делится на;1;1;to
+Q59133;Paphos District;государство;1;1;from
+Q59133;Paphos District;находится на берегу водоёма;1;1;from
+Q59133;Paphos District;карта местонахождения;1;2;from
+Q59133;Paphos District;это частный случай понятия;1;1;from
+Q59133;Paphos District;столица;1;1;from
+Q59133;Paphos District;имеет границы с;1;2;to
+Q59133;Paphos District;глава правительства;1;1;from
+Q59133;Paphos District;численность населения;1;54;from
+Q59133;Paphos District;должность главы правительства;1;1;from
+Q59133;Paphos District;самая северная точка;1;1;from
+Q59133;Paphos District;самая южная точка;1;1;from
+Q59133;Paphos District;самая восточная точка;1;1;from
+Q59133;Paphos District;официальное название;1;1;from
+Q59133;Paphos District;код Freebase;1;1;from
+Q59133;Paphos District;код GeoNames;1;1;from
+Q59133;Paphos District;название на языке оригинала;1;1;from
+Q59133;Paphos District;категория для людей, связанных с местностью;1;1;from
+Q59133;Paphos District;площадь;1;1;from
+Q59133;Paphos District;код BNF;1;1;from
+Q59133;Paphos District;ISO 3166-2;1;1;from
+Q59133;Paphos District;часть от;1;1;from
+Q59133;Paphos District;категория на Викискладе;1;1;from
+Q59133;Paphos District;геоданные;1;1;from
+Q59133;Paphos District;часовой пояс;1;2;from
+Q59133;Paphos District;Statistical Service of Cyprus Geocode;1;1;from
+Q59133;Paphos District;идентификатор местоположения ArchINFORM;1;1;from
+Q59133;Paphos District;географические координаты;1;1;from
+Q59146;Kyrenia District;название на языке оригинала;1;1;from
+Q59146;Kyrenia District;площадь;1;1;from
+Q59148;Famagusta District;административно-территориальная единица;1;476;to
+Q59147;Nicosia District;Statistical Service of Cyprus Geocode;1;1;from
+Q59147;Nicosia District;код US National Archives;1;1;from
+Q59147;Nicosia District;должность главы правительства;1;1;from
+Q59147;Nicosia District;официальное название;1;1;from
+Q59147;Nicosia District;код GeoNames;1;1;from
+Q59147;Nicosia District;название на языке оригинала;1;1;from
+Q59147;Nicosia District;не путать с;1;1;to
+Q59147;Nicosia District;площадь;1;1;from
+Q59147;Nicosia District;используемый язык;1;1;from
+Q59147;Nicosia District;ISO 3166-2;1;1;from
+Q59147;Nicosia District;часть от;1;175;to
+Q59147;Nicosia District;категория на Викискладе;1;1;from
+Q59147;Nicosia District;геоданные;1;1;from
+Q59147;Nicosia District;часовой пояс;1;2;from
+Q59147;Nicosia District;состоит из;1;1;to
+Q59147;Nicosia District;глава правительства;1;1;from
+Q59147;Nicosia District;идентификатор местоположения ArchINFORM;1;1;from
+Q59147;Nicosia District;географические координаты;1;1;from
+Q59147;Nicosia District;код Freebase;1;1;from
+Q59147;Nicosia District;Who's on First ID;1;1;from
+Q59147;Nicosia District;официальный сайт;1;1;from
+Q59147;Nicosia District;FIPS 10-4 (страны и регионы);1;1;from
+Q59147;Nicosia District;основная категория по теме;1;1;from
+Q59147;Nicosia District;место в MusicBrainz;1;1;from
+Q59147;Nicosia District;категория объединяет темы;1;2;to
+Q59147;Nicosia District;является столицей;1;1;to
+Q59147;Nicosia District;юрисдикция распространяется на;1;1;to
+Q59147;Nicosia District;общая тема категории;1;1;to
+Q59147;Nicosia District;происходит из;1;1;to
+Q59147;Nicosia District;численность населения;1;52;from
+Q59147;Nicosia District;имеет границы с;1;5;to
+Q59146;Kyrenia District;используемый язык;1;1;from
+Q59146;Kyrenia District;основная категория по теме;1;1;from
+Q59146;Kyrenia District;ISO 3166-2;1;1;from
+Q59146;Kyrenia District;часть от;1;48;to
+Q59146;Kyrenia District;категория на Викискладе;1;1;from
+Q59146;Kyrenia District;часовой пояс;1;2;from
+Q59146;Kyrenia District;Statistical Service of Cyprus Geocode;1;1;from
+Q59146;Kyrenia District;идентификатор местоположения ArchINFORM;1;1;from
+Q59146;Kyrenia District;географические координаты;1;1;from
+Q59146;Kyrenia District;код Freebase;1;1;from
+Q59146;Kyrenia District;Who's on First ID;1;1;from
+Q59146;Kyrenia District;Heritage Gazetteer of Cyprus;1;1;from
+Q59146;Kyrenia District;категория карт на Викискладе;1;1;from
+Q59146;Kyrenia District;официальный сайт;1;1;from
+Q59146;Kyrenia District;FIPS 10-4 (страны и регионы);1;1;from
+Q59146;Kyrenia District;баннер Викигида;1;1;from
+Q59147;Nicosia District;столица;1;1;from
+Q59146;Kyrenia District;состоит из;1;1;to
+Q59146;Kyrenia District;категория объединяет темы;1;2;to
+Q59146;Kyrenia District;является столицей;1;1;to
+Q59146;Kyrenia District;юрисдикция распространяется на;1;1;to
+Q59146;Kyrenia District;общая тема категории;1;1;to
+Q59146;Kyrenia District;происходит из;1;1;to
+Q59147;Nicosia District;административно-территориальная единица;1;478;to
+Q59147;Nicosia District;названо в честь;1;1;from
+Q59147;Nicosia District;административно делится на;1;1;to
+Q59147;Nicosia District;государство;1;1;from
+Q59147;Nicosia District;находится на берегу водоёма;1;1;from
+Q59147;Nicosia District;карта местонахождения;1;2;from
+Q59147;Nicosia District;это частный случай понятия;1;1;from
+Q59153;Larnaca District;общая тема категории;1;1;to

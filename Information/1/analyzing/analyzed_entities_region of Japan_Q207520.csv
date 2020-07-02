@@ -1,0 +1,464 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q127864;Chūgoku region;административно-территориальная единица;1;50;to
+Q4113790;Mainland Japan;не путать с;1;1;to
+Q4113790;Mainland Japan;изображение;1;1;from
+Q4113790;Mainland Japan;государство;1;1;from
+Q3695586;Kansai Science City;общая тема категории;1;1;to
+Q3695586;Kansai Science City;местонахождение;1;2;to
+Q3695586;Kansai Science City;основная категория по теме;1;1;from
+Q3695586;Kansai Science City;код Freebase;1;1;from
+Q3695586;Kansai Science City;географические координаты;1;1;from
+Q3695586;Kansai Science City;категория на Викискладе;1;1;from
+Q3695586;Kansai Science City;это частный случай понятия;1;1;from
+Q3695586;Kansai Science City;код VIAF;1;1;from
+Q3695586;Kansai Science City;изображение;1;1;from
+Q3695586;Kansai Science City;государство;1;1;from
+Q3209390;Kōshin region;административно-территориальная единица;1;1;to
+Q3209390;Kōshin region;состоит из;1;2;to
+Q3209390;Kōshin region;часть от;1;2;from
+Q3209390;Kōshin region;написание каной;1;1;from
+Q3209390;Kōshin region;это частный случай понятия;1;1;from
+Q3209390;Kōshin region;государство;1;1;from
+Q3209390;Kōshin region;названо в честь;1;2;from
+Q3208289;Jōshin'etsu region;часть от;1;1;to
+Q3208289;Jōshin'etsu region;это частный случай понятия;1;1;from
+Q3208289;Jōshin'etsu region;карта местонахождения;1;1;from
+Q3208289;Jōshin'etsu region;государство;1;1;from
+Q1775108;Q1775108;часть от;1;1;from
+Q1775108;Q1775108;это частный случай понятия;1;1;from
+Q4113790;Mainland Japan;это частный случай понятия;1;1;from
+Q4113790;Mainland Japan;географические координаты;1;1;from
+Q1138596;Tokyo islands;общая тема категории;1;1;to
+Q4113790;Mainland Japan;код Freebase;1;1;from
+Q5358249;Q5358249;написание каной;1;1;from
+Q5358249;Q5358249;это частный случай понятия;1;1;from
+Q5358249;Q5358249;государство;1;1;from
+Q5358240;Q5358240;часть от;1;1;from
+Q5358240;Q5358240;написание каной;1;1;from
+Q5358240;Q5358240;это частный случай понятия;1;1;from
+Q5358240;Q5358240;государство;1;1;from
+Q5358181;Chūgoku - Shikoku-chihō;общая тема категории;1;1;to
+Q5358181;Chūgoku - Shikoku-chihō;часть от;1;1;to
+Q5358181;Chūgoku - Shikoku-chihō;основная категория по теме;1;1;from
+Q5358181;Chūgoku - Shikoku-chihō;состоит из;1;2;from
+Q5358181;Chūgoku - Shikoku-chihō;написание каной;1;1;from
+Q5358181;Chūgoku - Shikoku-chihō;это частный случай понятия;1;1;from
+Q5358181;Chūgoku - Shikoku-chihō;государство;1;1;from
+Q5358173;Q5358173;часть от;1;1;from
+Q5358173;Q5358173;написание каной;1;1;from
+Q5358173;Q5358173;это частный случай понятия;1;1;from
+Q5358173;Q5358173;государство;1;1;from
+Q4648384;Tōsan region;происходит из;1;1;to
+Q4648384;Tōsan region;часть от;1;1;from
+Q4648384;Tōsan region;это частный случай понятия;1;1;from
+Q4648384;Tōsan region;государство;1;1;from
+Q4648384;Tōsan region;названо в честь;1;1;from
+Q4113790;Mainland Japan;общая тема категории;1;1;to
+Q4113790;Mainland Japan;основная категория по теме;1;1;from
+Q1775108;Q1775108;государство;1;1;from
+Q1138596;Tokyo islands;юрисдикция распространяется на;1;1;to
+Q5358256;Q5358256;это частный случай понятия;1;1;from
+Q398989;Tōkai region;состоит из;1;2;to
+Q398989;Tōkai region;код Freebase;1;1;from
+Q398989;Tōkai region;географические координаты;1;1;from
+Q398989;Tōkai region;категория на Викискладе;1;1;from
+Q398989;Tōkai region;часть от;1;2;from
+Q398989;Tōkai region;код NDL;1;1;from
+Q398989;Tōkai region;площадь;1;1;from
+Q398989;Tōkai region;код в энциклопедии «Британника онлайн»;1;1;from
+Q398989;Tōkai region;численность населения;1;1;from
+Q398989;Tōkai region;это частный случай понятия;1;1;from
+Q398989;Tōkai region;карта местонахождения;1;2;from
+Q398989;Tōkai region;код VIAF;1;1;from
+Q398989;Tōkai region;находится на берегу водоёма;1;1;from
+Q398989;Tōkai region;государство;1;1;from
+Q398989;Tōkai region;названо в честь;1;1;from
+Q398989;Tōkai region;административно-территориальная единица;1;53;to
+Q398310;San'in region;общая тема категории;1;1;to
+Q398310;San'in region;происходит из;1;1;to
+Q398310;San'in region;основная категория по теме;1;1;from
+Q398310;San'in region;находится в пределах природно-географического объекта;1;1;from
+Q398310;San'in region;код Freebase;1;1;from
+Q398310;San'in region;часть от;1;1;from
+Q398310;San'in region;код NDL;1;1;from
+Q398310;San'in region;площадь;1;1;from
+Q398310;San'in region;это частный случай понятия;1;1;from
+Q398310;San'in region;код VIAF;1;1;from
+Q398989;Tōkai region;основная категория по теме;1;1;from
+Q398989;Tōkai region;общая тема категории;1;1;to
+Q1138596;Tokyo islands;основная тема шаблона;1;1;to
+Q398989;Tōkai region;происходит из;1;1;to
+Q1138596;Tokyo islands;часть от;1;1;to
+Q1138596;Tokyo islands;административно делится на;1;1;to
+Q1138596;Tokyo islands;основная категория по теме;1;1;from
+Q1138596;Tokyo islands;состоит из;1;2;from
+Q1138596;Tokyo islands;основной шаблон по теме;1;1;from
+Q1138596;Tokyo islands;это частный случай понятия;1;1;from
+Q1138596;Tokyo islands;карта местонахождения;1;1;from
+Q1138596;Tokyo islands;государство;1;1;from
+Q1138596;Tokyo islands;административно-территориальная единица;1;2;to
+Q858131;Hokushin'etsu region;часть от;1;3;to
+Q858131;Hokushin'etsu region;место рождения;1;1;to
+Q858131;Hokushin'etsu region;категория на Викискладе;1;1;from
+Q858131;Hokushin'etsu region;это частный случай понятия;1;1;from
+Q858131;Hokushin'etsu region;государство;1;1;from
+Q586218;Q586218;находится в пределах природно-географического объекта;1;1;from
+Q586218;Q586218;противоположно;1;1;to
+Q586218;Q586218;это частный случай понятия;1;1;from
+Q586218;Q586218;карта местонахождения;1;1;from
+Q586218;Q586218;находится на берегу водоёма;1;1;from
+Q586218;Q586218;государство;1;1;from
+Q513662;Chūtan;состоит из;1;1;to
+Q513662;Chūtan;это частный случай понятия;1;1;from
+Q513662;Chūtan;государство;1;1;from
+Q513662;Chūtan;административно-территориальная единица;1;1;from
+Q398989;Tōkai region;место рождения;1;1;to
+Q5358249;Q5358249;часть от;1;1;from
+Q5364244;Jōetsu region;административно-территориальная единица;1;1;from
+Q398310;San'in region;изображение;1;1;from
+Q11626447;Q11626447;написание каной;1;1;from
+Q11626447;Q11626447;находится на берегу водоёма;1;1;from
+Q11626447;Q11626447;государство;1;1;from
+Q11430701;Tama;это частный случай понятия;1;1;from
+Q11430701;Tama;код VIAF;1;1;from
+Q11408517;Nanbu region;происходит из;1;1;to
+Q11408517;Nanbu region;часть от;1;1;to
+Q11408517;Nanbu region;состоит из;1;1;from
+Q11408517;Nanbu region;это частный случай понятия;1;1;from
+Q11408517;Nanbu region;государство;1;1;from
+Q11408517;Nanbu region;административно-территориальная единица;1;3;from
+Q11404359;Q11404359;часть от;1;1;to
+Q11404359;Q11404359;состоит из;1;1;from
+Q11404359;Q11404359;это частный случай понятия;1;1;from
+Q11404359;Q11404359;государство;1;1;from
+Q11370154;Q11370154;часть от;1;1;to
+Q11370154;Q11370154;состоит из;1;2;from
+Q11370154;Q11370154;это частный случай понятия;1;1;from
+Q11370154;Q11370154;государство;1;1;from
+Q11362648;Ryōmō;часть от;1;2;to
+Q11362648;Ryōmō;состоит из;1;2;from
+Q11362648;Ryōmō;это частный случай понятия;1;1;from
+Q11362648;Ryōmō;государство;1;1;from
+Q11271363;Q11271363;это частный случай понятия;1;1;from
+Q11235137;Q11235137;часть от;1;2;to
+Q11235137;Q11235137;состоит из;1;2;from
+Q11626447;Q11626447;это частный случай понятия;1;1;from
+Q11626447;Q11626447;противоположно;1;1;to
+Q11235137;Q11235137;государство;1;1;from
+Q55524253;Q55524253;государство;1;1;from
+Q60228081;Hokkaidō (region);это частный случай понятия;1;1;from
+Q60228081;Hokkaidō (region);государство;1;1;from
+Q60228081;Hokkaidō (region);административно делится на;1;1;from
+Q60228081;Hokkaidō (region);административно-территориальная единица;1;1;from
+Q60213102;Kyūshū (region);юрисдикция распространяется на;1;4;to
+Q60213102;Kyūshū (region);состоит из;1;1;to
+Q60213102;Kyūshū (region);происходит из;1;1;to
+Q60213102;Kyūshū (region);основная категория по теме;1;1;from
+Q60213102;Kyūshū (region);часть от;1;5;to
+Q60213102;Kyūshū (region);написание каной;1;1;from
+Q60213102;Kyūshū (region);это частный случай понятия;1;1;from
+Q60213102;Kyūshū (region);государство;1;1;from
+Q60213102;Kyūshū (region);административно делится на;1;8;from
+Q60213102;Kyūshū (region);административно-территориальная единица;1;1;from
+Q60213044;Shikoku (region);происходит из;1;1;to
+Q60213044;Shikoku (region);часть от;1;6;to
+Q60213044;Shikoku (region);основная категория по теме;1;1;from
+Q60213044;Shikoku (region);написание каной;1;1;from
+Q60213044;Shikoku (region);это частный случай понятия;1;1;from
+Q60213044;Shikoku (region);код LCNAF;1;1;from
+Q60213044;Shikoku (region);государство;1;1;from
+Q60213044;Shikoku (region);административно делится на;1;4;from
+Q60213044;Shikoku (region);административно-территориальная единица;1;1;from
+Q55524253;Q55524253;состоит из;1;3;from
+Q55524253;Q55524253;это частный случай понятия;1;1;from
+Q11235137;Q11235137;это частный случай понятия;1;1;from
+Q10856044;Nanki;обслуживаемый город;1;1;to
+Q5364244;Jōetsu region;государство;1;1;from
+Q5367907;Nakadōri;административно-территориальная единица;1;1;from
+Q5367096;South Tohoku region;это частный случай понятия;1;1;from
+Q5367096;South Tohoku region;государство;1;1;from
+Q5366730;Q5366730;состоит из;1;1;to
+Q5366730;Q5366730;часть от;1;2;from
+Q5366730;Q5366730;это частный случай понятия;1;1;from
+Q5366730;Q5366730;государство;1;1;from
+Q5366578;North Tohoku region;часть от;1;1;from
+Q5366578;North Tohoku region;это частный случай понятия;1;1;from
+Q5366578;North Tohoku region;государство;1;1;from
+Q5366184;Q5366184;часть от;1;1;from
+Q5366184;Q5366184;это частный случай понятия;1;1;from
+Q5366184;Q5366184;находится на берегу водоёма;1;1;from
+Q5366184;Q5366184;государство;1;1;from
+Q5366089;Q5366089;общая тема категории;1;1;to
+Q5366089;Q5366089;основная категория по теме;1;1;from
+Q5366089;Q5366089;часть от;1;1;from
+Q5366089;Q5366089;написание каной;1;1;from
+Q5366089;Q5366089;это частный случай понятия;1;1;from
+Q5366089;Q5366089;находится на берегу водоёма;1;1;from
+Q5366089;Q5366089;государство;1;1;from
+Q5365576;Q5365576;часть от;1;1;from
+Q5365576;Q5365576;это частный случай понятия;1;1;from
+Q5365576;Q5365576;государство;1;1;from
+Q5364244;Jōetsu region;происходит из;1;1;to
+Q5364244;Jōetsu region;это частный случай понятия;1;1;from
+Q5367096;South Tohoku region;часть от;1;1;from
+Q5367907;Nakadōri;названо в честь;1;1;to
+Q10856044;Nanki;названо в честь;1;2;to
+Q5367907;Nakadōri;государство;1;1;from
+Q10856044;Nanki;это частный случай понятия;1;1;from
+Q10856044;Nanki;государство;1;1;from
+Q8017707;Southern Kyushu;часть от;1;1;from
+Q8017707;Southern Kyushu;это частный случай понятия;1;1;from
+Q8017707;Southern Kyushu;государство;1;1;from
+Q8016941;Setouchi Region;часть от;1;1;to
+Q8016941;Setouchi Region;местонахождение;1;1;to
+Q8016941;Setouchi Region;код NDL;1;1;from
+Q8016941;Setouchi Region;площадь;1;1;from
+Q8016941;Setouchi Region;написание каной;1;1;from
+Q8016941;Setouchi Region;код в энциклопедии «Британника онлайн»;1;1;from
+Q8016941;Setouchi Region;это частный случай понятия;1;1;from
+Q8016941;Setouchi Region;код VIAF;1;1;from
+Q8016941;Setouchi Region;находится на берегу водоёма;1;1;from
+Q8016941;Setouchi Region;изображение;1;1;from
+Q8016941;Setouchi Region;государство;1;1;from
+Q6443650;Kumaso Province;это частный случай понятия;1;1;from
+Q6443650;Kumaso Province;государство;1;1;from
+Q6443450;Kumano Region;это частный случай понятия;1;1;from
+Q6443450;Kumano Region;государство;1;1;from
+Q5367907;Nakadōri;код Freebase;1;1;from
+Q5367907;Nakadōri;географические координаты;1;1;from
+Q5367907;Nakadōri;это частный случай понятия;1;1;from
+Q5367907;Nakadōri;карта местонахождения;1;1;from
+Q5367907;Nakadōri;изображение;1;1;from
+Q398310;San'in region;находится на берегу водоёма;1;1;from
+Q398310;San'in region;государство;1;1;from
+Q127864;Chūgoku region;административно делится на;1;5;from
+Q132480;Kantō region;состоит из;1;1;to
+Q132480;Kantō region;категория на Викискладе;1;1;from
+Q132480;Kantō region;код NDL;1;1;from
+Q132480;Kantō region;код в Encyclopædia Universalis;1;1;from
+Q132480;Kantō region;код BabelNet;1;1;from
+Q132480;Kantō region;площадь;1;1;from
+Q132480;Kantō region;написание каной;1;1;from
+Q132480;Kantō region;название на языке оригинала;1;1;from
+Q132480;Kantō region;код US National Archives;1;1;from
+Q132480;Kantō region;численность населения;1;1;from
+Q132480;Kantō region;имеет границы с;1;2;to
+Q132480;Kantō region;это частный случай понятия;1;2;from
+Q132480;Kantō region;карта местонахождения;1;1;from
+Q132480;Kantō region;код GND;1;1;from
+Q132480;Kantō region;код VIAF;1;1;from
+Q132480;Kantō region;изображение;1;1;from
+Q132480;Kantō region;государство;1;1;from
+Q132480;Kantō region;административно делится на;1;7;from
+Q132480;Kantō region;названо в честь;1;2;to
+Q132480;Kantō region;административно-территориальная единица;1;153;to
+Q129465;Tōhoku region;состоит из;1;1;to
+Q129465;Tōhoku region;общая тема категории;1;1;to
+Q129465;Tōhoku region;история происходит в месте;1;1;to
+Q129465;Tōhoku region;происходит из;1;1;to
+Q129465;Tōhoku region;категория объединяет темы;1;2;to
+Q129465;Tōhoku region;часть от;1;5;to
+Q132480;Kantō region;производная работа;1;1;from
+Q132480;Kantō region;географические координаты;1;1;from
+Q129465;Tōhoku region;местонахождение;1;1;to
+Q132480;Kantō region;код Freebase;1;1;from
+Q134638;Chūbu region;имеет границы с;1;3;to
+Q134638;Chūbu region;это частный случай понятия;1;2;from
+Q134638;Chūbu region;карта местонахождения;1;1;from
+Q134638;Chūbu region;код GND;1;1;from
+Q134638;Chūbu region;код VIAF;1;1;from
+Q134638;Chūbu region;изображение;1;1;from
+Q134638;Chūbu region;государство;1;1;from
+Q134638;Chūbu region;административно делится на;1;9;from
+Q134638;Chūbu region;административно-территориальная единица;1;18;to
+Q132480;Kantō region;категория объединяет темы;1;1;to
+Q132480;Kantō region;общая тема категории;1;1;to
+Q132480;Kantō region;происходит из;1;1;to
+Q132480;Kantō region;место жительства;1;1;to
+Q132480;Kantō region;место смерти;1;1;to
+Q132480;Kantō region;создано на основе;1;1;to
+Q132480;Kantō region;история происходит в месте;1;1;to
+Q132480;Kantō region;часть от;1;8;to
+Q132480;Kantō region;юрисдикция распространяется на;1;5;to
+Q132480;Kantō region;предки из;1;1;to
+Q132480;Kantō region;местонахождение;1;6;to
+Q132480;Kantō region;dmoz;1;1;from
+Q132480;Kantō region;баннер Викигида;1;1;from
+Q132480;Kantō region;основная категория по теме;1;1;from
+Q132480;Kantō region;категория карт на Викискладе;1;1;from
+Q132480;Kantō region;находится в пределах природно-географического объекта;1;2;to
+Q129465;Tōhoku region;место рождения;1;2;to
+Q129465;Tōhoku region;административно-территориальная единица;1;123;to
+Q134638;Chūbu region;код в энциклопедии «Британника онлайн»;1;1;from
+Q127864;Chūgoku region;происходит из;1;1;to
+Q127864;Chūgoku region;dmoz;1;1;from
+Q127864;Chūgoku region;баннер Викигида;1;1;from
+Q127864;Chūgoku region;основная категория по теме;1;1;from
+Q127864;Chūgoku region;категория карт на Викискладе;1;1;from
+Q127864;Chūgoku region;код Freebase;1;1;from
+Q127864;Chūgoku region;географические координаты;1;1;from
+Q127864;Chūgoku region;состоит из;1;1;to
+Q127864;Chūgoku region;часовой пояс;1;1;from
+Q127864;Chūgoku region;категория на Викискладе;1;1;from
+Q127864;Chūgoku region;часть от;1;7;to
+Q127864;Chūgoku region;код NDL;1;1;from
+Q127864;Chūgoku region;код в Encyclopædia Universalis;1;1;from
+Q127864;Chūgoku region;код BabelNet;1;1;from
+Q127864;Chūgoku region;площадь;1;1;from
+Q127864;Chūgoku region;написание каной;1;1;from
+Q127864;Chūgoku region;код US National Archives;1;1;from
+Q127864;Chūgoku region;численность населения;1;1;from
+Q127864;Chūgoku region;десятичная классификация Дьюи;1;1;from
+Q127864;Chūgoku region;имеет границы с;1;1;to
+Q127864;Chūgoku region;это частный случай понятия;1;1;from
+Q127864;Chūgoku region;карта местонахождения;1;1;from
+Q127864;Chūgoku region;код GND;1;1;from
+Q127864;Chūgoku region;код VIAF;1;1;from
+Q127864;Chūgoku region;изображение;1;1;from
+Q127864;Chūgoku region;государство;1;1;from
+Q127864;Chūgoku region;местонахождение;1;3;to
+Q127864;Chūgoku region;общая тема категории;1;1;to
+Q129465;Tōhoku region;dmoz;1;1;from
+Q127864;Chūgoku region;категория объединяет темы;1;1;to
+Q129465;Tōhoku region;баннер Викигида;1;1;from
+Q129465;Tōhoku region;основная категория по теме;1;1;from
+Q129465;Tōhoku region;категория карт на Викискладе;1;1;from
+Q129465;Tōhoku region;находится в пределах природно-географического объекта;1;1;from
+Q129465;Tōhoku region;код Freebase;1;1;from
+Q129465;Tōhoku region;географические координаты;1;1;from
+Q129465;Tōhoku region;предположительно одно и то же с;1;1;to
+Q129465;Tōhoku region;категория на Викискладе;1;1;from
+Q129465;Tōhoku region;код NDL;1;1;from
+Q129465;Tōhoku region;код темы Quora;1;1;from
+Q129465;Tōhoku region;код в Encyclopædia Universalis;1;1;from
+Q129465;Tōhoku region;изучается в;1;1;from
+Q129465;Tōhoku region;площадь;1;1;from
+Q129465;Tōhoku region;написание каной;1;1;from
+Q129465;Tōhoku region;код US National Archives;1;1;from
+Q129465;Tōhoku region;численность населения;1;1;from
+Q129465;Tōhoku region;имеет границы с;1;1;to
+Q129465;Tōhoku region;это частный случай понятия;1;1;from
+Q129465;Tōhoku region;карта местонахождения;1;1;from
+Q129465;Tōhoku region;код GND;1;1;from
+Q129465;Tōhoku region;код VIAF;1;1;from
+Q129465;Tōhoku region;изображение;1;1;from
+Q129465;Tōhoku region;государство;1;1;from
+Q129465;Tōhoku region;административно делится на;1;6;from
+Q129465;Tōhoku region;названо в честь;1;1;to
+Q134638;Chūbu region;численность населения;1;1;from
+Q134638;Chūbu region;написание каной;1;1;from
+Q398310;San'in region;названо в честь;1;1;from
+Q398087;San'yō region;названо в честь;1;1;from
+Q397703;Northern Kyushu;код Freebase;1;1;from
+Q397703;Northern Kyushu;часть от;1;1;from
+Q397703;Northern Kyushu;код в энциклопедии «Британника онлайн»;1;1;from
+Q397703;Northern Kyushu;это частный случай понятия;1;1;from
+Q397703;Northern Kyushu;государство;1;1;from
+Q381025;Hokuriku region;общая тема категории;1;1;to
+Q381025;Hokuriku region;происходит из;1;1;to
+Q381025;Hokuriku region;состоит из;1;1;to
+Q381025;Hokuriku region;административно-территориальная единица;1;33;to
+Q381025;Hokuriku region;основная категория по теме;1;1;from
+Q381025;Hokuriku region;код Freebase;1;1;from
+Q381025;Hokuriku region;географические координаты;1;1;from
+Q381025;Hokuriku region;категория на Викискладе;1;1;from
+Q381025;Hokuriku region;часть от;1;1;to
+Q381025;Hokuriku region;код NDL;1;1;from
+Q381025;Hokuriku region;код BabelNet;1;1;from
+Q381025;Hokuriku region;код в энциклопедии «Британника онлайн»;1;1;from
+Q381025;Hokuriku region;это частный случай понятия;1;1;from
+Q381025;Hokuriku region;карта местонахождения;1;1;from
+Q381025;Hokuriku region;код GND;1;1;from
+Q381025;Hokuriku region;код VIAF;1;1;from
+Q381025;Hokuriku region;находится на берегу водоёма;1;1;from
+Q381025;Hokuriku region;государство;1;1;from
+Q381025;Hokuriku region;названо в честь;1;1;from
+Q164256;Kansai region;общая тема категории;1;1;to
+Q397703;Northern Kyushu;местонахождение;1;2;to
+Q398087;San'yō region;государство;1;1;from
+Q164256;Kansai region;создано на основе;1;1;to
+Q398087;San'yō region;находится на берегу водоёма;1;1;from
+Q398310;San'in region;административно-территориальная единица;1;1;from
+Q398208;Kōshin'etsu region;часть от;1;3;to
+Q398208;Kōshin'etsu region;административно-территориальная единица;1;144;to
+Q398208;Kōshin'etsu region;код Freebase;1;1;from
+Q398208;Kōshin'etsu region;состоит из;1;2;from
+Q398208;Kōshin'etsu region;категория на Викискладе;1;1;from
+Q398208;Kōshin'etsu region;это частный случай понятия;1;1;from
+Q398208;Kōshin'etsu region;карта местонахождения;1;1;from
+Q398208;Kōshin'etsu region;государство;1;1;from
+Q398205;Shin'etsu region;код Freebase;1;1;from
+Q398205;Shin'etsu region;состоит из;1;1;to
+Q398205;Shin'etsu region;категория на Викискладе;1;1;from
+Q398205;Shin'etsu region;часть от;1;3;from
+Q398205;Shin'etsu region;это частный случай понятия;1;1;from
+Q398205;Shin'etsu region;государство;1;1;from
+Q398205;Shin'etsu region;названо в честь;1;2;from
+Q398087;San'yō region;общая тема категории;1;1;to
+Q398087;San'yō region;происходит из;1;1;to
+Q398087;San'yō region;основная категория по теме;1;1;from
+Q398087;San'yō region;код Freebase;1;1;from
+Q398087;San'yō region;часть от;1;2;from
+Q398087;San'yō region;код NDL;1;1;from
+Q398087;San'yō region;это частный случай понятия;1;1;from
+Q398087;San'yō region;карта местонахождения;1;1;from
+Q398087;San'yō region;код VIAF;1;1;from
+Q164256;Kansai region;зона обслуживания;1;1;to
+Q164256;Kansai region;место смерти;1;1;to
+Q134638;Chūbu region;площадь;1;1;from
+Q164256;Kansai region;карта местонахождения;1;1;from
+Q164256;Kansai region;код VIAF;1;1;from
+Q164256;Kansai region;изображение;1;1;from
+Q164256;Kansai region;государство;1;1;from
+Q164256;Kansai region;административно делится на;1;7;from
+Q164256;Kansai region;административно-территориальная единица;1;58;to
+Q134638;Chūbu region;категория объединяет темы;1;1;to
+Q134638;Chūbu region;общая тема категории;1;1;to
+Q134638;Chūbu region;создано на основе;1;1;to
+Q134638;Chūbu region;местонахождение;1;1;to
+Q134638;Chūbu region;часть от;1;14;to
+Q134638;Chūbu region;dmoz;1;1;from
+Q134638;Chūbu region;баннер Викигида;1;1;from
+Q134638;Chūbu region;основная категория по теме;1;1;from
+Q134638;Chūbu region;категория карт на Викискладе;1;1;from
+Q134638;Chūbu region;находится в пределах природно-географического объекта;1;1;from
+Q134638;Chūbu region;код Freebase;1;1;from
+Q134638;Chūbu region;географические координаты;1;1;from
+Q134638;Chūbu region;состоит из;1;1;to
+Q134638;Chūbu region;производная работа;1;1;from
+Q134638;Chūbu region;часовой пояс;1;1;from
+Q134638;Chūbu region;категория на Викискладе;1;1;from
+Q134638;Chūbu region;код NDL;1;1;from
+Q134638;Chūbu region;код темы Quora;1;1;from
+Q134638;Chūbu region;код в Encyclopædia Universalis;1;1;from
+Q134638;Chūbu region;код BabelNet;1;1;from
+Q164256;Kansai region;код GND;1;1;from
+Q164256;Kansai region;это частный случай понятия;1;1;from
+Q164256;Kansai region;место рождения;1;5;to
+Q164256;Kansai region;имеет границы с;1;1;to
+Q164256;Kansai region;названо в честь;1;1;to
+Q164256;Kansai region;категория объединяет темы;1;2;to
+Q164256;Kansai region;местонахождение;1;2;to
+Q164256;Kansai region;часть от;1;7;to
+Q164256;Kansai region;происходит из;1;1;to
+Q164256;Kansai region;место активности;1;38;to
+Q164256;Kansai region;баннер Викигида;1;1;from
+Q164256;Kansai region;основная категория по теме;1;1;from
+Q164256;Kansai region;категория карт на Викискладе;1;1;from
+Q164256;Kansai region;код NKC;1;1;from
+Q164256;Kansai region;код Freebase;1;1;from
+Q164256;Kansai region;географические координаты;1;1;from
+Q164256;Kansai region;производная работа;1;1;from
+Q164256;Kansai region;часовой пояс;1;1;from
+Q164256;Kansai region;категория на Викискладе;1;1;from
+Q164256;Kansai region;код NDL;1;1;from
+Q164256;Kansai region;код темы Quora;1;1;from
+Q164256;Kansai region;код в Encyclopædia Universalis;1;1;from
+Q164256;Kansai region;площадь;1;1;from
+Q164256;Kansai region;не путать с;1;1;to
+Q164256;Kansai region;написание каной;1;1;from
+Q164256;Kansai region;код в энциклопедии «Британника онлайн»;1;1;from
+Q164256;Kansai region;частично совпадает с;1;1;to
+Q164256;Kansai region;код US National Archives;1;1;from
+Q164256;Kansai region;численность населения;1;1;from
+Q60228081;Hokkaidō (region);написание каной;1;1;from

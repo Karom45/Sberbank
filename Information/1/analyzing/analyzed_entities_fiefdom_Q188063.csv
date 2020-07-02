@@ -1,0 +1,174 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q154849;Grand Duchy of Tuscany;форма правления;1;1;from
+Q1483373;Land van Arkel;описывается в источниках;1;1;from
+Q788291;Fief of Viborg;изображение;1;1;from
+Q788291;Fief of Viborg;это частный случай понятия;1;1;from
+Q788291;Fief of Viborg;столица;1;1;from
+Q788291;Fief of Viborg;дата основания/создания/возникновения;1;1;from
+Q788291;Fief of Viborg;дата окончания;1;1;from
+Q1483373;Land van Arkel;код VIAF;1;1;from
+Q1483373;Land van Arkel;код GND;1;1;from
+Q1483373;Land van Arkel;это частный случай понятия;1;1;from
+Q1483373;Land van Arkel;код Freebase;1;1;from
+Q788291;Fief of Viborg;административно-территориальная единица;1;4;from
+Q1483373;Land van Arkel;Deutsche Biographie ID;1;1;from
+Q1483373;Land van Arkel;основная тема;1;1;to
+Q3358872;Trondhjem County;это частный случай понятия;1;1;from
+Q3556994;viscountcy;это частный случай понятия;1;192;to
+Q3556994;viscountcy;должность руководителя организации;1;1;from
+Q3556994;viscountcy;подкласс от;1;3;to
+Q3556994;viscountcy;основная категория по теме;1;1;from
+Q3556994;viscountcy;управляемая организация;1;1;to
+Q788291;Fief of Viborg;государство;1;8;from
+Q699964;Archduchy of Austria;страна происхождения;1;1;to
+Q699964;Archduchy of Austria;столица;1;1;from
+Q699964;Archduchy of Austria;гражданство;1;35;to
+Q699964;Archduchy of Austria;код BAV;1;1;from
+Q699964;Archduchy of Austria;описывается в источниках;1;2;from
+Q699964;Archduchy of Austria;часть от;1;1;from
+Q699964;Archduchy of Austria;дата основания/создания/возникновения;1;1;from
+Q699964;Archduchy of Austria;дата прекращения существования;1;1;from
+Q699964;Archduchy of Austria;географические координаты;1;1;from
+Q699964;Archduchy of Austria;код Freebase;1;1;from
+Q699964;Archduchy of Austria;основная категория по теме;1;1;from
+Q699964;Archduchy of Austria;история происходит в месте;1;8;to
+Q699964;Archduchy of Austria;является столицей;1;1;to
+Q699964;Archduchy of Austria;предыдущее по порядку;1;1;to
+Q699964;Archduchy of Austria;место рождения;1;1;to
+Q699964;Archduchy of Austria;участник(и);1;4;to
+Q699964;Archduchy of Austria;общая тема категории;1;1;to
+Q699964;Archduchy of Austria;основная тема;1;1;to
+Q699964;Archduchy of Austria;место смерти;1;1;to
+Q699964;Archduchy of Austria;изображённый объект;1;1;to
+Q699964;Archduchy of Austria;принадлежность;1;1;to
+Q3556994;viscountcy;общая тема категории;1;1;to
+Q4891575;Bergenhus len;это частный случай понятия;1;1;from
+Q4891575;Bergenhus len;Lokalhistoriewiki.no ID;1;1;from
+Q16034048;Q16034048;это частный случай понятия;1;1;from
+Q13406636;county of Comminges;род;1;3;to
+Q13406636;county of Comminges;владельцем является;1;1;to
+Q13406636;county of Comminges;гражданство;1;1;to
+Q13406636;county of Comminges;юрисдикция распространяется на;1;1;to
+Q13406636;county of Comminges;управляемая организация;1;1;to
+Q13406636;county of Comminges;общая тема категории;1;1;to
+Q13406636;county of Comminges;основная тема;1;1;to
+Q16034048;Q16034048;государство;1;1;from
+Q16034048;Q16034048;столица;1;1;from
+Q5446032;Feudum Acinganorum;это частный случай понятия;1;1;from
+Q16034048;Q16034048;дата основания/создания/возникновения;1;1;from
+Q16034048;Q16034048;дата прекращения существования;1;1;from
+Q17748330;Q17748330;это частный случай понятия;1;1;from
+Q17748330;Q17748330;работодатель;1;1;to
+Q64524702;Q64524702;административно-территориальная единица;1;1;from
+Q64524702;Q64524702;государство;1;1;from
+Q64524702;Q64524702;это частный случай понятия;1;1;from
+Q64524702;Q64524702;часть от;1;1;from
+Q13406636;county of Comminges;основная категория по теме;1;1;from
+Q13406636;county of Comminges;код Freebase;1;1;from
+Q13406636;county of Comminges;категория на Викискладе;1;1;from
+Q13406636;county of Comminges;должность руководителя организации;1;1;from
+Q5719526;Bardaruex;государство;1;1;from
+Q5719526;Bardaruex;это частный случай понятия;1;2;from
+Q5719526;Bardaruex;столица;1;1;from
+Q5719526;Bardaruex;должность руководителя организации;1;1;from
+Q5719526;Bardaruex;находится в границах современной административной единицы;1;2;from
+Q5719526;Bardaruex;находится в пределах природно-географического объекта;1;1;from
+Q5719526;Bardaruex;юрисдикция распространяется на;1;1;to
+Q5719526;Bardaruex;управляемая организация;1;1;to
+Q5719526;Bardaruex;является столицей;1;1;to
+Q10466612;Q10466612;это частный случай понятия;1;15;to
+Q10466612;Q10466612;подкласс от;1;1;from
+Q11284695;Senyoriu de Rebollet;государство;1;1;from
+Q11284695;Senyoriu de Rebollet;это частный случай понятия;1;1;from
+Q11284695;Senyoriu de Rebollet;географические координаты;1;1;from
+Q13406636;county of Comminges;государство;1;1;from
+Q13406636;county of Comminges;это частный случай понятия;1;3;from
+Q13406636;county of Comminges;соответствующий список;1;1;from
+Q699964;Archduchy of Austria;изображение флага;1;1;from
+Q699964;Archduchy of Austria;это частный случай понятия;1;4;from
+Q154849;Grand Duchy of Tuscany;государство;1;22;to
+Q154849;Grand Duchy of Tuscany;принадлежность;1;1;to
+Q154849;Grand Duchy of Tuscany;основная категория по теме;1;1;from
+Q154849;Grand Duchy of Tuscany;галерея на Викискладе;1;1;from
+Q154849;Grand Duchy of Tuscany;гражданство;1;284;to
+Q154849;Grand Duchy of Tuscany;страна происхождения;1;11;to
+Q154849;Grand Duchy of Tuscany;участник(и);1;5;to
+Q154849;Grand Duchy of Tuscany;категория объединяет темы;1;58;to
+Q154849;Grand Duchy of Tuscany;административно-территориальная единица;1;1;to
+Q154849;Grand Duchy of Tuscany;заменён на;1;1;to
+Q154849;Grand Duchy of Tuscany;часть от;1;1;to
+Q154849;Grand Duchy of Tuscany;географические координаты;1;1;from
+Q154849;Grand Duchy of Tuscany;владельцем является;1;1;to
+Q154849;Grand Duchy of Tuscany;общая тема категории;1;1;to
+Q154849;Grand Duchy of Tuscany;является столицей;1;1;to
+Q156020;State of the Teutonic Order;форма правления;1;1;from
+Q156020;State of the Teutonic Order;отношение к религии;1;1;from
+Q156020;State of the Teutonic Order;следующее по порядку;1;3;from
+Q156020;State of the Teutonic Order;законодательный орган;1;1;from
+Q156020;State of the Teutonic Order;код ISNI;1;1;from
+Q154849;Grand Duchy of Tuscany;код Freebase;1;1;from
+Q154849;Grand Duchy of Tuscany;дата прекращения существования;1;1;from
+Q699964;Archduchy of Austria;часть света;1;1;from
+Q154849;Grand Duchy of Tuscany;столица;1;1;from
+Q154849;Grand Duchy of Tuscany;изображение;1;1;from
+Q154849;Grand Duchy of Tuscany;код ISNI;1;1;from
+Q154849;Grand Duchy of Tuscany;код VIAF;1;1;from
+Q154849;Grand Duchy of Tuscany;код GND;1;1;from
+Q154849;Grand Duchy of Tuscany;карта местонахождения;1;1;from
+Q154849;Grand Duchy of Tuscany;код LCNAF;1;1;from
+Q154849;Grand Duchy of Tuscany;часть света;1;1;from
+Q154849;Grand Duchy of Tuscany;это частный случай понятия;1;5;from
+Q154849;Grand Duchy of Tuscany;официальный язык;1;1;from
+Q154849;Grand Duchy of Tuscany;дата основания/создания/возникновения;1;1;from
+Q154849;Grand Duchy of Tuscany;денежная единица;1;2;from
+Q154849;Grand Duchy of Tuscany;изображение флага;1;1;from
+Q154849;Grand Duchy of Tuscany;имеет границы с;1;2;to
+Q154849;Grand Duchy of Tuscany;изображение герба;1;1;from
+Q154849;Grand Duchy of Tuscany;категория для людей, родившихся здесь;1;1;from
+Q154849;Grand Duchy of Tuscany;название на языке оригинала;1;1;from
+Q154849;Grand Duchy of Tuscany;идентификатор Ringgold;1;1;from
+Q154849;Grand Duchy of Tuscany;категория на Викискладе;1;1;from
+Q156020;State of the Teutonic Order;код VIAF;1;1;from
+Q156020;State of the Teutonic Order;код GND;1;1;from
+Q156020;State of the Teutonic Order;карта местонахождения;1;1;from
+Q513498;County of Rodez;категория на Викискладе;1;1;from
+Q156020;State of the Teutonic Order;участник(и);1;3;to
+Q156020;State of the Teutonic Order;гражданство;1;3;to
+Q156020;State of the Teutonic Order;местонахождение;1;3;to
+Q156020;State of the Teutonic Order;страна происхождения;1;1;to
+Q156020;State of the Teutonic Order;является столицей;1;1;to
+Q156020;State of the Teutonic Order;юрисдикция распространяется на;1;1;to
+Q513498;County of Rodez;это частный случай понятия;1;1;from
+Q513498;County of Rodez;в этом списке перечисляются;1;1;from
+Q513498;County of Rodez;дата основания/создания/возникновения;1;1;from
+Q156020;State of the Teutonic Order;часть света;1;1;from
+Q513498;County of Rodez;код Freebase;1;1;from
+Q513498;County of Rodez;юрисдикция распространяется на;1;1;to
+Q513498;County of Rodez;общая тема категории;1;1;to
+Q699964;Archduchy of Austria;отношение к религии;1;1;from
+Q699964;Archduchy of Austria;следующее по порядку;1;1;from
+Q699964;Archduchy of Austria;государство;1;7;to
+Q699964;Archduchy of Austria;код VIAF;1;2;from
+Q699964;Archduchy of Austria;код GND;1;1;from
+Q156020;State of the Teutonic Order;подкласс от;1;1;to
+Q156020;State of the Teutonic Order;основная тема;1;1;to
+Q156020;State of the Teutonic Order;общая тема категории;1;1;to
+Q156020;State of the Teutonic Order;имеет границы с;1;1;to
+Q156020;State of the Teutonic Order;это частный случай понятия;1;3;from
+Q156020;State of the Teutonic Order;столица;1;1;from
+Q156020;State of the Teutonic Order;официальный язык;1;1;from
+Q156020;State of the Teutonic Order;денежная единица;1;1;from
+Q156020;State of the Teutonic Order;изображение флага;1;1;from
+Q156020;State of the Teutonic Order;изображение герба;1;1;from
+Q156020;State of the Teutonic Order;должность главы государства;1;1;from
+Q156020;State of the Teutonic Order;категория на Викискладе;1;1;from
+Q156020;State of the Teutonic Order;идентификатор местоположения ArchINFORM;1;1;from
+Q156020;State of the Teutonic Order;дата основания/создания/возникновения;1;1;from
+Q156020;State of the Teutonic Order;дата прекращения существования;1;1;from
+Q156020;State of the Teutonic Order;код Freebase;1;1;from
+Q156020;State of the Teutonic Order;основная категория по теме;1;1;from
+Q156020;State of the Teutonic Order;государство;1;6;to
+Q156020;State of the Teutonic Order;место рождения;1;1;to
+Q156020;State of the Teutonic Order;история происходит в месте;1;1;to
+Q156020;State of the Teutonic Order;предыдущее по порядку;1;3;to
+Q64524702;Q64524702;названо в честь;1;1;to

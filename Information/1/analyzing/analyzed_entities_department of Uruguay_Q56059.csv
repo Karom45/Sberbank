@@ -1,0 +1,743 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q16575;Cerro Largo Department;административно-территориальная единица;1;218;to
+Q16595;Salto Department;административно делится на;1;1;to
+Q16595;Salto Department;дата основания/создания/возникновения;1;1;from
+Q16595;Salto Department;географические координаты;1;1;from
+Q16595;Salto Department;код Freebase;1;1;from
+Q16595;Salto Department;Who's on First ID;1;1;from
+Q16595;Salto Department;категория карт на Викискладе;1;1;from
+Q16595;Salto Department;официальный сайт;1;1;from
+Q16595;Salto Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16595;Salto Department;основная категория по теме;1;1;from
+Q16595;Salto Department;место в MusicBrainz;1;1;from
+Q16595;Salto Department;владельцем является;1;1;to
+Q16594;Montevideo Department;категория объединяет темы;1;1;to
+Q16595;Salto Department;место рождения;1;7;to
+Q16595;Salto Department;место смерти;1;2;to
+Q16595;Salto Department;категория объединяет темы;1;3;to
+Q16595;Salto Department;является столицей;1;1;to
+Q16595;Salto Department;общая тема категории;1;1;to
+Q16595;Salto Department;юрисдикция распространяется на;1;1;to
+Q16596;Río Negro Department;административно-территориальная единица;1;249;to
+Q16596;Río Negro Department;государство;1;1;from
+Q16596;Río Negro Department;изображение;1;1;from
+Q16595;Salto Department;идентификатор местоположения ArchINFORM;1;1;from
+Q16595;Salto Department;ID отношения в OpenStreetMap;1;1;from
+Q16595;Salto Department;категория на Викискладе;1;1;from
+Q16595;Salto Department;ISO 3166-2;1;1;from
+Q16594;Montevideo Department;является столицей;1;1;to
+Q16595;Salto Department;административно-территориальная единица;1;238;to
+Q16595;Salto Department;государство;1;1;from
+Q16595;Salto Department;изображение;1;1;from
+Q16595;Salto Department;описание герба;1;1;from
+Q16595;Salto Department;карта местонахождения;1;1;from
+Q16595;Salto Department;это частный случай понятия;1;1;from
+Q16595;Salto Department;столица;1;1;from
+Q16595;Salto Department;изображение флага;1;1;from
+Q16595;Salto Department;имеет границы с;1;6;to
+Q16595;Salto Department;изображение герба;1;1;from
+Q16595;Salto Department;десятичная классификация Дьюи;1;1;from
+Q16595;Salto Department;код в Большой каталанской энциклопедии;1;1;from
+Q16595;Salto Department;категория для людей, родившихся здесь;1;1;from
+Q16595;Salto Department;код GeoNames;1;1;from
+Q16595;Salto Department;код TGN;1;1;from
+Q16595;Salto Department;категория для людей, связанных с местностью;1;1;from
+Q16595;Salto Department;владеет;1;1;from
+Q16595;Salto Department;высота над уровнем моря;1;1;from
+Q16596;Río Negro Department;описание герба;1;1;from
+Q16596;Río Negro Department;карта местонахождения;1;1;from
+Q16596;Río Negro Department;это частный случай понятия;1;1;from
+Q16596;Río Negro Department;место в MusicBrainz;1;1;from
+Q16596;Río Negro Department;место рождения;1;6;to
+Q16596;Río Negro Department;категория объединяет темы;1;3;to
+Q16596;Río Negro Department;место смерти;1;2;to
+Q16596;Río Negro Department;является столицей;1;1;to
+Q16596;Río Negro Department;общая тема категории;1;1;to
+Q16596;Río Negro Department;юрисдикция распространяется на;1;1;to
+Q16603;Artigas Department;административно-территориальная единица;1;232;to
+Q16603;Artigas Department;государство;1;1;from
+Q16603;Artigas Department;изображение;1;1;from
+Q16603;Artigas Department;карта местонахождения;1;1;from
+Q16603;Artigas Department;это частный случай понятия;1;1;from
+Q16603;Artigas Department;столица;1;1;from
+Q16603;Artigas Department;изображение флага;1;1;from
+Q16603;Artigas Department;имеет границы с;1;4;to
+Q16603;Artigas Department;изображение герба;1;1;from
+Q16603;Artigas Department;десятичная классификация Дьюи;1;1;from
+Q16603;Artigas Department;код в Большой каталанской энциклопедии;1;1;from
+Q16603;Artigas Department;основной шаблон по теме;1;1;from
+Q16603;Artigas Department;категория для людей, родившихся здесь;1;1;from
+Q16596;Río Negro Department;административно делится на;1;1;to
+Q16596;Río Negro Department;основная категория по теме;1;1;from
+Q16596;Río Negro Department;столица;1;1;from
+Q16596;Río Negro Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16596;Río Negro Department;изображение флага;1;1;from
+Q16596;Río Negro Department;имеет границы с;1;6;to
+Q16596;Río Negro Department;изображение герба;1;1;from
+Q16596;Río Negro Department;десятичная классификация Дьюи;1;1;from
+Q16596;Río Negro Department;код в Большой каталанской энциклопедии;1;1;from
+Q16596;Río Negro Department;категория для людей, родившихся здесь;1;1;from
+Q16596;Río Negro Department;код GeoNames;1;1;from
+Q16596;Río Negro Department;код TGN;1;1;from
+Q16596;Río Negro Department;категория для людей, связанных с местностью;1;1;from
+Q16596;Río Negro Department;высота над уровнем моря;1;1;from
+Q16596;Río Negro Department;ISO 3166-2;1;1;from
+Q16596;Río Negro Department;код NE.se;1;1;from
+Q16596;Río Negro Department;категория на Викискладе;1;1;from
+Q16596;Río Negro Department;ID отношения в OpenStreetMap;1;1;from
+Q16596;Río Negro Department;дата основания/создания/возникновения;1;1;from
+Q16596;Río Negro Department;географические координаты;1;1;from
+Q16596;Río Negro Department;код Freebase;1;1;from
+Q16596;Río Negro Department;Who's on First ID;1;1;from
+Q16596;Río Negro Department;категория карт на Викискладе;1;1;from
+Q16594;Montevideo Department;общая тема категории;1;1;to
+Q16594;Montevideo Department;владельцем является;1;4;to
+Q16603;Artigas Department;подробная карта;1;1;from
+Q16593;Florida Department;категория для людей, связанных с местностью;1;1;from
+Q16593;Florida Department;изображение флага;1;1;from
+Q16593;Florida Department;имеет границы с;1;6;to
+Q16593;Florida Department;изображение герба;1;1;from
+Q16593;Florida Department;десятичная классификация Дьюи;1;1;from
+Q16593;Florida Department;код в Большой каталанской энциклопедии;1;1;from
+Q16593;Florida Department;категория для людей, родившихся здесь;1;1;from
+Q16593;Florida Department;этнохороним;1;1;from
+Q16593;Florida Department;код GeoNames;1;1;from
+Q16593;Florida Department;код TGN;1;1;from
+Q16593;Florida Department;высота над уровнем моря;1;1;from
+Q16594;Montevideo Department;место рождения;1;449;to
+Q16593;Florida Department;площадь;1;1;from
+Q16593;Florida Department;код BNF;1;1;from
+Q16593;Florida Department;ISO 3166-2;1;1;from
+Q16593;Florida Department;категория на Викискладе;1;1;from
+Q16593;Florida Department;ID отношения в OpenStreetMap;1;1;from
+Q16593;Florida Department;часовой пояс;1;1;from
+Q16593;Florida Department;местный телефонный код;1;1;from
+Q16593;Florida Department;дата основания/создания/возникновения;1;1;from
+Q16593;Florida Department;географические координаты;1;1;from
+Q16593;Florida Department;столица;1;1;from
+Q16593;Florida Department;это частный случай понятия;1;1;from
+Q16593;Florida Department;карта местонахождения;1;1;from
+Q16593;Florida Department;изображение;1;1;from
+Q16591;Durazno Department;ID отношения в OpenStreetMap;1;1;from
+Q16591;Durazno Department;идентификатор местоположения ArchINFORM;1;1;from
+Q16591;Durazno Department;дата основания/создания/возникновения;1;1;from
+Q16591;Durazno Department;географические координаты;1;1;from
+Q16591;Durazno Department;код Freebase;1;1;from
+Q16591;Durazno Department;Who's on First ID;1;1;from
+Q16591;Durazno Department;категория карт на Викискладе;1;1;from
+Q16591;Durazno Department;официальный сайт;1;1;from
+Q16591;Durazno Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16591;Durazno Department;основная категория по теме;1;1;from
+Q16591;Durazno Department;место в MusicBrainz;1;1;from
+Q16591;Durazno Department;административно делится на;1;1;to
+Q16591;Durazno Department;место рождения;1;19;to
+Q16591;Durazno Department;категория объединяет темы;1;3;to
+Q16591;Durazno Department;место смерти;1;1;to
+Q16591;Durazno Department;общая тема категории;1;1;to
+Q16591;Durazno Department;является столицей;1;1;to
+Q16593;Florida Department;административно-территориальная единица;1;202;to
+Q16593;Florida Department;государство;1;1;from
+Q16593;Florida Department;код Freebase;1;1;from
+Q16593;Florida Department;Who's on First ID;1;1;from
+Q16593;Florida Department;категория карт на Викискладе;1;1;from
+Q16594;Montevideo Department;код GeoNames;1;1;from
+Q16594;Montevideo Department;владеет;1;3;from
+Q16594;Montevideo Department;высота над уровнем моря;1;1;from
+Q16594;Montevideo Department;код BNF;1;1;from
+Q16594;Montevideo Department;почтовый индекс;1;1;from
+Q16594;Montevideo Department;ISO 3166-2;1;1;from
+Q16594;Montevideo Department;категория на Викискладе;1;1;from
+Q16594;Montevideo Department;код автомобильного номера;1;1;from
+Q16594;Montevideo Department;ID отношения в OpenStreetMap;1;1;from
+Q16594;Montevideo Department;идентификатор местоположения ArchINFORM;1;1;from
+Q16594;Montevideo Department;дата основания/создания/возникновения;1;1;from
+Q16594;Montevideo Department;географические координаты;1;1;from
+Q16594;Montevideo Department;код Freebase;1;1;from
+Q16594;Montevideo Department;Who's on First ID;1;1;from
+Q16594;Montevideo Department;категория карт на Викискладе;1;1;from
+Q16594;Montevideo Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16594;Montevideo Department;основная категория по теме;1;1;from
+Q16594;Montevideo Department;место в MusicBrainz;1;1;from
+Q16594;Montevideo Department;административно делится на;1;1;to
+Q16594;Montevideo Department;юрисдикция распространяется на;1;2;to
+Q16594;Montevideo Department;код TGN;1;1;from
+Q16594;Montevideo Department;код US National Archives;1;1;from
+Q16593;Florida Department;официальный сайт;1;1;from
+Q16594;Montevideo Department;десятичная классификация Дьюи;1;1;from
+Q16593;Florida Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16593;Florida Department;основная категория по теме;1;1;from
+Q16593;Florida Department;место в MusicBrainz;1;1;from
+Q16593;Florida Department;административно делится на;1;1;to
+Q16593;Florida Department;место рождения;1;17;to
+Q16593;Florida Department;место смерти;1;1;to
+Q16593;Florida Department;категория объединяет темы;1;3;to
+Q16593;Florida Department;является столицей;1;1;to
+Q16593;Florida Department;общая тема категории;1;1;to
+Q16594;Montevideo Department;административно-территориальная единица;1;504;to
+Q16594;Montevideo Department;государство;1;1;from
+Q16594;Montevideo Department;изображение;1;1;from
+Q16594;Montevideo Department;описание герба;1;1;from
+Q16594;Montevideo Department;карта местонахождения;1;1;from
+Q16594;Montevideo Department;это частный случай понятия;1;1;from
+Q16594;Montevideo Department;столица;1;1;from
+Q16594;Montevideo Department;имеет границы с;1;2;to
+Q16594;Montevideo Department;глава правительства;1;1;from
+Q16594;Montevideo Department;изображение герба;1;1;from
+Q16603;Artigas Department;код GeoNames;1;1;from
+Q16603;Artigas Department;код TGN;1;1;from
+Q16575;Cerro Largo Department;описание флага;1;1;from
+Q331196;Maldonado Department;ID отношения в OpenStreetMap;1;1;from
+Q331196;Maldonado Department;код TGN;1;1;from
+Q331196;Maldonado Department;категория для людей, связанных с местностью;1;1;from
+Q331196;Maldonado Department;владеет;1;1;from
+Q331196;Maldonado Department;высота над уровнем моря;1;1;from
+Q331196;Maldonado Department;площадь;1;1;from
+Q331196;Maldonado Department;код BNF;1;1;from
+Q331196;Maldonado Department;ISO 3166-2;1;1;from
+Q331196;Maldonado Department;идентификатор Ringgold;1;1;from
+Q331196;Maldonado Department;категория на Викискладе;1;1;from
+Q331196;Maldonado Department;часовой пояс;1;1;from
+Q16610;Treinta y Tres Department;основная категория по теме;1;1;from
+Q331196;Maldonado Department;местный телефонный код;1;1;from
+Q331196;Maldonado Department;дата основания/создания/возникновения;1;1;from
+Q331196;Maldonado Department;географические координаты;1;1;from
+Q331196;Maldonado Department;код Freebase;1;1;from
+Q331196;Maldonado Department;Who's on First ID;1;1;from
+Q331196;Maldonado Department;категория карт на Викискладе;1;1;from
+Q331196;Maldonado Department;FIPS 10-4 (страны и регионы);1;1;from
+Q331196;Maldonado Department;основная категория по теме;1;1;from
+Q331196;Maldonado Department;место в MusicBrainz;1;1;from
+Q331196;Maldonado Department;код GeoNames;1;1;from
+Q331196;Maldonado Department;категория для людей, родившихся здесь;1;1;from
+Q331196;Maldonado Department;код в Большой каталанской энциклопедии;1;1;from
+Q331196;Maldonado Department;десятичная классификация Дьюи;1;1;from
+Q16610;Treinta y Tres Department;административно делится на;1;1;to
+Q16610;Treinta y Tres Department;место создания;1;1;to
+Q16610;Treinta y Tres Department;место рождения;1;12;to
+Q16610;Treinta y Tres Department;категория объединяет темы;1;3;to
+Q16610;Treinta y Tres Department;общая тема категории;1;2;to
+Q16610;Treinta y Tres Department;является столицей;1;1;to
+Q16610;Treinta y Tres Department;владельцем является;1;1;to
+Q331196;Maldonado Department;административно-территориальная единица;1;288;to
+Q331196;Maldonado Department;карта этой дороги;1;1;from
+Q331196;Maldonado Department;государство;1;1;from
+Q331196;Maldonado Department;изображение;1;1;from
+Q331196;Maldonado Department;код ISNI;1;1;from
+Q331196;Maldonado Department;описание герба;1;1;from
+Q331196;Maldonado Department;карта местонахождения;1;1;from
+Q331196;Maldonado Department;это частный случай понятия;1;1;from
+Q331196;Maldonado Department;столица;1;1;from
+Q331196;Maldonado Department;изображение флага;1;1;from
+Q331196;Maldonado Department;имеет границы с;1;3;to
+Q331196;Maldonado Department;изображение герба;1;1;from
+Q331196;Maldonado Department;административно делится на;1;1;to
+Q331196;Maldonado Department;место рождения;1;20;to
+Q331196;Maldonado Department;категория объединяет темы;1;4;to
+Q460435;Lavalleja Department;код TGN;1;1;from
+Q460435;Lavalleja Department;высота над уровнем моря;1;1;from
+Q460435;Lavalleja Department;ISO 3166-2;1;1;from
+Q460435;Lavalleja Department;категория на Викискладе;1;1;from
+Q460435;Lavalleja Department;ID отношения в OpenStreetMap;1;1;from
+Q460435;Lavalleja Department;часовой пояс;1;1;from
+Q460435;Lavalleja Department;дата основания/создания/возникновения;1;1;from
+Q460435;Lavalleja Department;географические координаты;1;1;from
+Q460435;Lavalleja Department;код Freebase;1;1;from
+Q460435;Lavalleja Department;Who's on First ID;1;1;from
+Q460435;Lavalleja Department;категория карт на Викискладе;1;1;from
+Q460435;Lavalleja Department;официальный сайт;1;1;from
+Q460435;Lavalleja Department;FIPS 10-4 (страны и регионы);1;1;from
+Q460435;Lavalleja Department;основная категория по теме;1;1;from
+Q460435;Lavalleja Department;место в MusicBrainz;1;1;from
+Q460435;Lavalleja Department;административно делится на;1;1;to
+Q460435;Lavalleja Department;место рождения;1;13;to
+Q460435;Lavalleja Department;юрисдикция распространяется на;1;2;to
+Q460435;Lavalleja Department;категория объединяет темы;1;3;to
+Q460435;Lavalleja Department;общая тема категории;1;1;to
+Q460435;Lavalleja Department;категория для людей, связанных с местностью;1;1;from
+Q460435;Lavalleja Department;код GeoNames;1;1;from
+Q331196;Maldonado Department;место смерти;1;2;to
+Q460435;Lavalleja Department;категория для людей, родившихся здесь;1;1;from
+Q331196;Maldonado Department;местонахождение;1;1;to
+Q331196;Maldonado Department;общая тема категории;1;1;to
+Q331196;Maldonado Department;юрисдикция распространяется на;1;1;to
+Q331196;Maldonado Department;является столицей;1;1;to
+Q331196;Maldonado Department;владельцем является;1;1;to
+Q460435;Lavalleja Department;административно-территориальная единица;1;298;to
+Q460435;Lavalleja Department;описание флага;1;1;from
+Q460435;Lavalleja Department;государство;1;1;from
+Q460435;Lavalleja Department;изображение;1;1;from
+Q460435;Lavalleja Department;код VIAF;1;1;from
+Q460435;Lavalleja Department;код GND;1;1;from
+Q460435;Lavalleja Department;описание герба;1;1;from
+Q460435;Lavalleja Department;карта местонахождения;1;1;from
+Q460435;Lavalleja Department;это частный случай понятия;1;1;from
+Q460435;Lavalleja Department;столица;1;1;from
+Q460435;Lavalleja Department;изображение флага;1;1;from
+Q460435;Lavalleja Department;имеет границы с;1;5;to
+Q460435;Lavalleja Department;изображение герба;1;1;from
+Q460435;Lavalleja Department;десятичная классификация Дьюи;1;1;from
+Q16610;Treinta y Tres Department;место в MusicBrainz;1;1;from
+Q16610;Treinta y Tres Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16603;Artigas Department;название на языке оригинала;1;1;from
+Q16609;Rivera Department;имеет границы с;1;5;to
+Q16603;Artigas Department;юрисдикция распространяется на;1;1;to
+Q16609;Rivera Department;административно-территориальная единица;1;156;to
+Q16609;Rivera Department;государство;1;1;from
+Q16609;Rivera Department;изображение;1;1;from
+Q16609;Rivera Department;описание герба;1;1;from
+Q16609;Rivera Department;карта местонахождения;1;1;from
+Q16609;Rivera Department;это частный случай понятия;1;1;from
+Q16609;Rivera Department;столица;1;1;from
+Q16609;Rivera Department;изображение флага;1;1;from
+Q16609;Rivera Department;изображение герба;1;1;from
+Q16610;Treinta y Tres Department;официальный сайт;1;1;from
+Q16609;Rivera Department;десятичная классификация Дьюи;1;1;from
+Q16609;Rivera Department;код в Большой каталанской энциклопедии;1;1;from
+Q16609;Rivera Department;категория для людей, родившихся здесь;1;1;from
+Q16609;Rivera Department;код GeoNames;1;1;from
+Q16609;Rivera Department;код TGN;1;1;from
+Q16609;Rivera Department;категория для людей, связанных с местностью;1;1;from
+Q16609;Rivera Department;высота над уровнем моря;1;1;from
+Q16609;Rivera Department;площадь;1;1;from
+Q16609;Rivera Department;код BNF;1;1;from
+Q16603;Artigas Department;общая тема категории;1;1;to
+Q16603;Artigas Department;является столицей;1;1;to
+Q16603;Artigas Department;основная тема шаблона;1;1;to
+Q16603;Artigas Department;в ролях;1;1;to
+Q16603;Artigas Department;категория для людей, связанных с местностью;1;1;from
+Q16603;Artigas Department;высота над уровнем моря;1;1;from
+Q16603;Artigas Department;площадь;1;1;from
+Q16603;Artigas Department;код BabelNet;1;1;from
+Q16603;Artigas Department;ISO 3166-2;1;1;from
+Q16603;Artigas Department;категория на Викискладе;1;1;from
+Q16603;Artigas Department;ID отношения в OpenStreetMap;1;1;from
+Q16603;Artigas Department;часовой пояс;1;1;from
+Q16603;Artigas Department;идентификатор местоположения ArchINFORM;1;1;from
+Q16603;Artigas Department;дата основания/создания/возникновения;1;1;from
+Q16603;Artigas Department;географические координаты;1;1;from
+Q16603;Artigas Department;код Freebase;1;1;from
+Q16603;Artigas Department;Who's on First ID;1;1;from
+Q16603;Artigas Department;категория карт на Викискладе;1;1;from
+Q16603;Artigas Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16603;Artigas Department;основная категория по теме;1;1;from
+Q16603;Artigas Department;административно делится на;1;1;to
+Q16603;Artigas Department;место рождения;1;10;to
+Q16603;Artigas Department;категория объединяет темы;1;3;to
+Q16609;Rivera Department;ISO 3166-2;1;1;from
+Q16609;Rivera Department;категория на Викискладе;1;1;from
+Q16609;Rivera Department;ID отношения в OpenStreetMap;1;1;from
+Q16610;Treinta y Tres Department;столица;1;1;from
+Q16610;Treinta y Tres Department;имеет границы с;1;6;to
+Q16610;Treinta y Tres Department;изображение герба;1;1;from
+Q16610;Treinta y Tres Department;десятичная классификация Дьюи;1;1;from
+Q16610;Treinta y Tres Department;код в Большой каталанской энциклопедии;1;1;from
+Q16610;Treinta y Tres Department;категория для людей, родившихся здесь;1;1;from
+Q16610;Treinta y Tres Department;код GeoNames;1;1;from
+Q16610;Treinta y Tres Department;код TGN;1;1;from
+Q16610;Treinta y Tres Department;категория для людей, связанных с местностью;1;1;from
+Q16610;Treinta y Tres Department;владеет;1;1;from
+Q16610;Treinta y Tres Department;высота над уровнем моря;1;1;from
+Q16610;Treinta y Tres Department;площадь;1;1;from
+Q16610;Treinta y Tres Department;ISO 3166-2;1;1;from
+Q16610;Treinta y Tres Department;категория на Викискладе;1;1;from
+Q16610;Treinta y Tres Department;ID отношения в OpenStreetMap;1;1;from
+Q16610;Treinta y Tres Department;дата основания/создания/возникновения;1;1;from
+Q16610;Treinta y Tres Department;географические координаты;1;1;from
+Q16610;Treinta y Tres Department;код Freebase;1;1;from
+Q16610;Treinta y Tres Department;Who's on First ID;1;1;from
+Q16610;Treinta y Tres Department;категория карт на Викискладе;1;1;from
+Q16610;Treinta y Tres Department;изображение флага;1;1;from
+Q16610;Treinta y Tres Department;это частный случай понятия;1;1;from
+Q16609;Rivera Department;часовой пояс;1;1;from
+Q16610;Treinta y Tres Department;карта местонахождения;1;1;from
+Q16609;Rivera Department;местный телефонный код;1;1;from
+Q16609;Rivera Department;дата основания/создания/возникновения;1;1;from
+Q16609;Rivera Department;географические координаты;1;1;from
+Q16609;Rivera Department;код Freebase;1;1;from
+Q16609;Rivera Department;Who's on First ID;1;1;from
+Q16609;Rivera Department;категория карт на Викискладе;1;1;from
+Q16609;Rivera Department;официальный сайт;1;1;from
+Q16609;Rivera Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16609;Rivera Department;основная категория по теме;1;1;from
+Q16609;Rivera Department;место в MusicBrainz;1;1;from
+Q16609;Rivera Department;административно делится на;1;1;to
+Q16609;Rivera Department;место рождения;1;13;to
+Q16609;Rivera Department;категория объединяет темы;1;3;to
+Q16609;Rivera Department;является столицей;1;1;to
+Q16609;Rivera Department;общая тема категории;1;1;to
+Q16609;Rivera Department;юрисдикция распространяется на;1;1;to
+Q16610;Treinta y Tres Department;административно-территориальная единица;1;153;to
+Q16610;Treinta y Tres Department;государство;1;1;from
+Q16610;Treinta y Tres Department;изображение;1;1;from
+Q16591;Durazno Department;категория на Викискладе;1;1;from
+Q16591;Durazno Department;код темы Quora;1;1;from
+Q16591;Durazno Department;ISO 3166-2;1;1;from
+Q16577;Canelones Department;является столицей;1;1;to
+Q16577;Canelones Department;основная категория по теме;1;1;from
+Q16577;Canelones Department;место в MusicBrainz;1;1;from
+Q16577;Canelones Department;административно делится на;1;1;to
+Q16577;Canelones Department;категория объединяет темы;1;5;to
+Q16577;Canelones Department;место рождения;1;14;to
+Q16577;Canelones Department;владельцем является;1;1;to
+Q16577;Canelones Department;названо в честь;1;1;to
+Q16577;Canelones Department;место погребения;1;1;to
+Q16577;Canelones Department;общая тема категории;1;1;to
+Q16577;Canelones Department;юрисдикция распространяется на;1;1;to
+Q16577;Canelones Department;изображение герба;1;1;from
+Q16577;Canelones Department;место смерти;1;1;to
+Q16578;Flores Department;административно-территориальная единица;1;116;to
+Q16578;Flores Department;описание флага;1;1;from
+Q16578;Flores Department;государство;1;1;from
+Q16578;Flores Department;изображение;1;1;from
+Q16578;Flores Department;описание герба;1;1;from
+Q16578;Flores Department;карта местонахождения;1;1;from
+Q16578;Flores Department;это частный случай понятия;1;1;from
+Q16578;Flores Department;столица;1;1;from
+Q16577;Canelones Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16577;Canelones Department;официальный сайт;1;1;from
+Q16577;Canelones Department;категория карт на Викискладе;1;1;from
+Q16577;Canelones Department;Who's on First ID;1;1;from
+Q16577;Canelones Department;численность населения;1;1;from
+Q16577;Canelones Department;код в Большой каталанской энциклопедии;1;1;from
+Q16577;Canelones Department;категория для людей, родившихся здесь;1;1;from
+Q16577;Canelones Department;этнохороним;1;2;from
+Q16577;Canelones Department;код GeoNames;1;1;from
+Q16577;Canelones Department;код TGN;1;1;from
+Q16577;Canelones Department;категория для людей, похороненных здесь;1;1;from
+Q16577;Canelones Department;категория для людей, связанных с местностью;1;1;from
+Q16577;Canelones Department;владеет;1;1;from
+Q16577;Canelones Department;площадь;1;1;from
+Q16577;Canelones Department;ISO 3166-2;1;1;from
+Q16577;Canelones Department;категория на Викискладе;1;1;from
+Q16577;Canelones Department;ID отношения в OpenStreetMap;1;1;from
+Q16577;Canelones Department;часовой пояс;1;1;from
+Q16577;Canelones Department;местный телефонный код;1;1;from
+Q16577;Canelones Department;идентификатор местоположения ArchINFORM;1;1;from
+Q16577;Canelones Department;дата основания/создания/возникновения;1;1;from
+Q16577;Canelones Department;географические координаты;1;1;from
+Q16577;Canelones Department;код Freebase;1;1;from
+Q16578;Flores Department;изображение флага;1;1;from
+Q16578;Flores Department;имеет границы с;1;6;to
+Q16578;Flores Department;изображение герба;1;1;from
+Q16578;Flores Department;общая тема категории;1;1;to
+Q16579;San José Department;административно-территориальная единица;1;157;to
+Q16579;San José Department;описание флага;1;1;from
+Q16579;San José Department;государство;1;1;from
+Q16579;San José Department;изображение;1;1;from
+Q16579;San José Department;код GND;1;1;from
+Q16579;San José Department;описание герба;1;1;from
+Q16579;San José Department;карта местонахождения;1;1;from
+Q16579;San José Department;это частный случай понятия;1;1;from
+Q16579;San José Department;столица;1;1;from
+Q16579;San José Department;изображение флага;1;1;from
+Q16579;San José Department;имеет границы с;1;6;to
+Q16579;San José Department;изображение герба;1;1;from
+Q16579;San José Department;десятичная классификация Дьюи;1;1;from
+Q16579;San José Department;код в Большой каталанской энциклопедии;1;1;from
+Q16579;San José Department;категория для людей, родившихся здесь;1;1;from
+Q16579;San José Department;этнохороним;1;2;from
+Q16579;San José Department;код GeoNames;1;1;from
+Q16579;San José Department;код TGN;1;1;from
+Q16579;San José Department;категория для людей, связанных с местностью;1;1;from
+Q16578;Flores Department;является столицей;1;1;to
+Q16578;Flores Department;категория объединяет темы;1;4;to
+Q16578;Flores Department;десятичная классификация Дьюи;1;1;from
+Q16578;Flores Department;юрисдикция распространяется на;1;2;to
+Q16578;Flores Department;код в Большой каталанской энциклопедии;1;1;from
+Q16578;Flores Department;категория для людей, родившихся здесь;1;1;from
+Q16578;Flores Department;код GeoNames;1;1;from
+Q16578;Flores Department;код TGN;1;1;from
+Q16578;Flores Department;категория для людей, связанных с местностью;1;1;from
+Q16578;Flores Department;высота над уровнем моря;1;1;from
+Q16578;Flores Department;ISO 3166-2;1;1;from
+Q16578;Flores Department;категория на Викискладе;1;1;from
+Q16578;Flores Department;ID отношения в OpenStreetMap;1;1;from
+Q16578;Flores Department;дата основания/создания/возникновения;1;1;from
+Q16578;Flores Department;географические координаты;1;1;from
+Q16578;Flores Department;код Freebase;1;1;from
+Q16578;Flores Department;Who's on First ID;1;1;from
+Q16578;Flores Department;категория карт на Викискладе;1;1;from
+Q16578;Flores Department;официальный сайт;1;1;from
+Q16578;Flores Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16578;Flores Department;основная категория по теме;1;1;from
+Q16578;Flores Department;административно делится на;1;1;to
+Q16578;Flores Department;место рождения;1;14;to
+Q16577;Canelones Department;десятичная классификация Дьюи;1;1;from
+Q16577;Canelones Department;имеет границы с;1;5;to
+Q16591;Durazno Department;площадь;1;1;from
+Q16575;Cerro Largo Department;место в MusicBrainz;1;1;from
+Q16575;Cerro Largo Department;часовой пояс;1;1;from
+Q16575;Cerro Largo Department;дата основания/создания/возникновения;1;1;from
+Q16575;Cerro Largo Department;географические координаты;1;1;from
+Q16575;Cerro Largo Department;код Freebase;1;1;from
+Q16575;Cerro Largo Department;Who's on First ID;1;1;from
+Q16575;Cerro Largo Department;категория карт на Викискладе;1;1;from
+Q16575;Cerro Largo Department;официальный сайт;1;1;from
+Q16575;Cerro Largo Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16575;Cerro Largo Department;основная категория по теме;1;1;from
+Q16575;Cerro Largo Department;административно делится на;1;1;to
+Q16577;Canelones Department;изображение флага;1;1;from
+Q16575;Cerro Largo Department;место рождения;1;19;to
+Q16575;Cerro Largo Department;место смерти;1;4;to
+Q16575;Cerro Largo Department;категория объединяет темы;1;3;to
+Q16575;Cerro Largo Department;владельцем является;1;1;to
+Q16575;Cerro Largo Department;юрисдикция распространяется на;1;1;to
+Q16575;Cerro Largo Department;местонахождение;1;1;to
+Q16575;Cerro Largo Department;является столицей;1;1;to
+Q16575;Cerro Largo Department;общая тема категории;1;1;to
+Q16576;Paysandú Department;административно-территориальная единица;1;337;to
+Q16575;Cerro Largo Department;ID отношения в OpenStreetMap;1;1;from
+Q16575;Cerro Largo Department;категория на Викискладе;1;1;from
+Q16575;Cerro Largo Department;ISO 3166-2;1;1;from
+Q16575;Cerro Largo Department;площадь;1;1;from
+Q16575;Cerro Largo Department;государство;1;1;from
+Q16575;Cerro Largo Department;изображение;1;1;from
+Q16575;Cerro Largo Department;код GND;1;1;from
+Q16575;Cerro Largo Department;описание герба;1;1;from
+Q16575;Cerro Largo Department;карта местонахождения;1;1;from
+Q16575;Cerro Largo Department;это частный случай понятия;1;1;from
+Q16575;Cerro Largo Department;столица;1;1;from
+Q16575;Cerro Largo Department;изображение флага;1;1;from
+Q16575;Cerro Largo Department;имеет границы с;1;5;to
+Q16575;Cerro Largo Department;изображение герба;1;1;from
+Q16575;Cerro Largo Department;десятичная классификация Дьюи;1;1;from
+Q16575;Cerro Largo Department;численность населения;1;1;from
+Q16575;Cerro Largo Department;код в Большой каталанской энциклопедии;1;1;from
+Q16575;Cerro Largo Department;категория для людей, родившихся здесь;1;1;from
+Q16575;Cerro Largo Department;код GeoNames;1;1;from
+Q16575;Cerro Largo Department;код TGN;1;1;from
+Q16575;Cerro Largo Department;категория для людей, связанных с местностью;1;1;from
+Q16575;Cerro Largo Department;владеет;1;1;from
+Q16575;Cerro Largo Department;высота над уровнем моря;1;1;from
+Q16576;Paysandú Department;государство;1;1;from
+Q16576;Paysandú Department;изображение;1;1;from
+Q16576;Paysandú Department;карта местонахождения;1;1;from
+Q16576;Paysandú Department;категория карт на Викискладе;1;1;from
+Q16576;Paysandú Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16576;Paysandú Department;основная категория по теме;1;1;from
+Q16576;Paysandú Department;место в MusicBrainz;1;1;from
+Q16576;Paysandú Department;административно делится на;1;1;to
+Q16576;Paysandú Department;место рождения;1;10;to
+Q16576;Paysandú Department;категория объединяет темы;1;4;to
+Q16576;Paysandú Department;является столицей;1;1;to
+Q16576;Paysandú Department;место смерти;1;1;to
+Q16576;Paysandú Department;место активности;1;1;to
+Q16576;Paysandú Department;общая тема категории;1;1;to
+Q16576;Paysandú Department;владельцем является;1;1;to
+Q16577;Canelones Department;административно-территориальная единица;1;382;to
+Q16577;Canelones Department;описание флага;1;1;from
+Q16577;Canelones Department;государство;1;1;from
+Q16577;Canelones Department;изображение;1;1;from
+Q16577;Canelones Department;описание герба;1;1;from
+Q16577;Canelones Department;карта местонахождения;1;1;from
+Q16577;Canelones Department;это частный случай понятия;1;1;from
+Q16577;Canelones Department;столица;1;1;from
+Q16576;Paysandú Department;официальный сайт;1;1;from
+Q16576;Paysandú Department;Who's on First ID;1;1;from
+Q16576;Paysandú Department;код LCNAF;1;1;from
+Q16576;Paysandú Department;код Freebase;1;1;from
+Q16576;Paysandú Department;это частный случай понятия;1;1;from
+Q16576;Paysandú Department;столица;1;1;from
+Q16576;Paysandú Department;изображение флага;1;1;from
+Q16576;Paysandú Department;имеет границы с;1;4;to
+Q16576;Paysandú Department;изображение герба;1;1;from
+Q16576;Paysandú Department;десятичная классификация Дьюи;1;1;from
+Q16576;Paysandú Department;категория для людей, родившихся здесь;1;1;from
+Q16576;Paysandú Department;код GeoNames;1;1;from
+Q16576;Paysandú Department;код TGN;1;1;from
+Q16576;Paysandú Department;категория для людей, связанных с местностью;1;1;from
+Q16576;Paysandú Department;владеет;1;1;from
+Q16576;Paysandú Department;высота над уровнем моря;1;1;from
+Q16576;Paysandú Department;код BNF;1;1;from
+Q16576;Paysandú Department;ISO 3166-2;1;1;from
+Q16576;Paysandú Department;код темы Quora;1;1;from
+Q16576;Paysandú Department;категория на Викискладе;1;1;from
+Q16576;Paysandú Department;ID отношения в OpenStreetMap;1;1;from
+Q16576;Paysandú Department;дата основания/создания/возникновения;1;1;from
+Q16576;Paysandú Department;географические координаты;1;1;from
+Q16579;San José Department;владеет;1;1;from
+Q16579;San José Department;высота над уровнем моря;1;1;from
+Q16579;San José Department;площадь;1;1;from
+Q16584;Soriano Department;административно делится на;1;1;to
+Q16584;Soriano Department;ID отношения в OpenStreetMap;1;1;from
+Q16584;Soriano Department;дата основания/создания/возникновения;1;1;from
+Q16584;Soriano Department;географические координаты;1;1;from
+Q16584;Soriano Department;код Freebase;1;1;from
+Q16584;Soriano Department;Who's on First ID;1;1;from
+Q16584;Soriano Department;категория карт на Викискладе;1;1;from
+Q16584;Soriano Department;официальный сайт;1;1;from
+Q16584;Soriano Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16584;Soriano Department;основная категория по теме;1;1;from
+Q16584;Soriano Department;категория объединяет темы;1;4;to
+Q16579;San José Department;ISO 3166-2;1;1;from
+Q16584;Soriano Department;место рождения;1;12;to
+Q16584;Soriano Department;местонахождение;1;1;to
+Q16584;Soriano Department;место смерти;1;1;to
+Q16584;Soriano Department;является столицей;1;1;to
+Q16584;Soriano Department;общая тема категории;1;1;to
+Q16584;Soriano Department;юрисдикция распространяется на;1;1;to
+Q16587;Tacuarembó Department;административно-территориальная единица;1;225;to
+Q16587;Tacuarembó Department;государство;1;1;from
+Q16587;Tacuarembó Department;изображение;1;1;from
+Q16584;Soriano Department;категория на Викискладе;1;1;from
+Q16584;Soriano Department;ISO 3166-2;1;1;from
+Q16584;Soriano Department;высота над уровнем моря;1;1;from
+Q16584;Soriano Department;категория для людей, связанных с местностью;1;1;from
+Q16582;Rocha Department;место рождения;1;9;to
+Q16582;Rocha Department;место смерти;1;1;to
+Q16582;Rocha Department;владельцем является;1;1;to
+Q16582;Rocha Department;расположение штаб-квартиры;1;1;to
+Q16582;Rocha Department;общая тема категории;1;1;to
+Q16584;Soriano Department;административно-территориальная единица;1;243;to
+Q16584;Soriano Department;государство;1;1;from
+Q16584;Soriano Department;изображение;1;1;from
+Q16584;Soriano Department;описание герба;1;1;from
+Q16584;Soriano Department;карта местонахождения;1;1;from
+Q16584;Soriano Department;это частный случай понятия;1;1;from
+Q16584;Soriano Department;столица;1;1;from
+Q16584;Soriano Department;изображение флага;1;1;from
+Q16584;Soriano Department;имеет границы с;1;5;to
+Q16584;Soriano Department;изображение герба;1;1;from
+Q16584;Soriano Department;десятичная классификация Дьюи;1;1;from
+Q16584;Soriano Department;категория для людей, родившихся здесь;1;1;from
+Q16584;Soriano Department;код GeoNames;1;1;from
+Q16584;Soriano Department;код TGN;1;1;from
+Q16587;Tacuarembó Department;карта местонахождения;1;1;from
+Q16587;Tacuarembó Department;это частный случай понятия;1;1;from
+Q16587;Tacuarembó Department;столица;1;1;from
+Q16587;Tacuarembó Department;категория объединяет темы;1;3;to
+Q16587;Tacuarembó Department;является столицей;1;1;to
+Q16587;Tacuarembó Department;общая тема категории;1;1;to
+Q16591;Durazno Department;административно-территориальная единица;1;170;to
+Q16591;Durazno Department;описание флага;1;1;from
+Q16591;Durazno Department;государство;1;1;from
+Q16591;Durazno Department;изображение;1;1;from
+Q16591;Durazno Department;карта местонахождения;1;1;from
+Q16591;Durazno Department;это частный случай понятия;1;1;from
+Q16591;Durazno Department;столица;1;1;from
+Q16591;Durazno Department;изображение флага;1;1;from
+Q16591;Durazno Department;имеет границы с;1;6;to
+Q16591;Durazno Department;изображение герба;1;1;from
+Q16591;Durazno Department;десятичная классификация Дьюи;1;1;from
+Q16591;Durazno Department;код в Большой каталанской энциклопедии;1;1;from
+Q16591;Durazno Department;категория для людей, родившихся здесь;1;1;from
+Q16591;Durazno Department;код GeoNames;1;1;from
+Q16591;Durazno Department;код TGN;1;1;from
+Q16591;Durazno Department;категория для людей, связанных с местностью;1;1;from
+Q16591;Durazno Department;высота над уровнем моря;1;1;from
+Q16587;Tacuarembó Department;место жительства;1;1;to
+Q16587;Tacuarembó Department;место рождения;1;14;to
+Q16587;Tacuarembó Department;имеет границы с;1;6;to
+Q16587;Tacuarembó Department;административно делится на;1;1;to
+Q16587;Tacuarembó Department;изображение герба;1;1;from
+Q16587;Tacuarembó Department;десятичная классификация Дьюи;1;1;from
+Q16587;Tacuarembó Department;код в Большой каталанской энциклопедии;1;1;from
+Q16587;Tacuarembó Department;категория для людей, родившихся здесь;1;1;from
+Q16587;Tacuarembó Department;код GeoNames;1;1;from
+Q16587;Tacuarembó Department;код TGN;1;1;from
+Q16587;Tacuarembó Department;категория для людей, связанных с местностью;1;1;from
+Q16587;Tacuarembó Department;высота над уровнем моря;1;1;from
+Q16587;Tacuarembó Department;ISO 3166-2;1;1;from
+Q16587;Tacuarembó Department;категория на Викискладе;1;1;from
+Q16587;Tacuarembó Department;ID отношения в OpenStreetMap;1;1;from
+Q16587;Tacuarembó Department;дата основания/создания/возникновения;1;1;from
+Q16587;Tacuarembó Department;географические координаты;1;1;from
+Q16587;Tacuarembó Department;код Freebase;1;1;from
+Q16587;Tacuarembó Department;Who's on First ID;1;1;from
+Q16587;Tacuarembó Department;категория карт на Викискладе;1;1;from
+Q16587;Tacuarembó Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16587;Tacuarembó Department;основная категория по теме;1;1;from
+Q16587;Tacuarembó Department;место в MusicBrainz;1;1;from
+Q16582;Rocha Department;место создания;1;1;to
+Q16582;Rocha Department;категория объединяет темы;1;4;to
+Q16582;Rocha Department;основная тема шаблона;1;1;to
+Q16580;Colonia Department;изображение;1;1;from
+Q16580;Colonia Department;карта местонахождения;1;1;from
+Q16580;Colonia Department;это частный случай понятия;1;1;from
+Q16580;Colonia Department;столица;1;1;from
+Q16580;Colonia Department;изображение флага;1;1;from
+Q16580;Colonia Department;имеет границы с;1;5;to
+Q16580;Colonia Department;изображение герба;1;1;from
+Q16580;Colonia Department;десятичная классификация Дьюи;1;1;from
+Q16580;Colonia Department;код в Большой каталанской энциклопедии;1;1;from
+Q16580;Colonia Department;категория для людей, родившихся здесь;1;1;from
+Q16580;Colonia Department;код GeoNames;1;1;from
+Q16580;Colonia Department;код TGN;1;1;from
+Q16580;Colonia Department;категория для людей, связанных с местностью;1;1;from
+Q16580;Colonia Department;владеет;1;1;from
+Q16580;Colonia Department;высота над уровнем моря;1;1;from
+Q16580;Colonia Department;ISO 3166-2;1;1;from
+Q16580;Colonia Department;категория на Викискладе;1;1;from
+Q16580;Colonia Department;ID отношения в OpenStreetMap;1;1;from
+Q16580;Colonia Department;часовой пояс;1;1;from
+Q16580;Colonia Department;дата основания/создания/возникновения;1;1;from
+Q16580;Colonia Department;описание герба;1;1;from
+Q16580;Colonia Department;государство;1;1;from
+Q16580;Colonia Department;код Freebase;1;1;from
+Q16580;Colonia Department;административно-территориальная единица;1;228;to
+Q16579;San José Department;категория на Викискладе;1;1;from
+Q16579;San José Department;ID отношения в OpenStreetMap;1;1;from
+Q16579;San José Department;часовой пояс;1;2;from
+Q16579;San José Department;местный телефонный код;1;1;from
+Q16579;San José Department;дата основания/создания/возникновения;1;1;from
+Q16579;San José Department;географические координаты;1;1;from
+Q16579;San José Department;код Freebase;1;1;from
+Q16579;San José Department;Who's on First ID;1;1;from
+Q16579;San José Department;категория карт на Викискладе;1;1;from
+Q16579;San José Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16579;San José Department;основная категория по теме;1;1;from
+Q16579;San José Department;место в MusicBrainz;1;1;from
+Q16579;San José Department;административно делится на;1;1;to
+Q16579;San José Department;место рождения;1;18;to
+Q16579;San José Department;категория объединяет темы;1;4;to
+Q16579;San José Department;юрисдикция распространяется на;1;2;to
+Q16579;San José Department;владельцем является;1;1;to
+Q16579;San José Department;общая тема категории;1;1;to
+Q16579;San José Department;является столицей;1;1;to
+Q16580;Colonia Department;географические координаты;1;1;from
+Q16580;Colonia Department;Who's on First ID;1;1;from
+Q16582;Rocha Department;является столицей;1;1;to
+Q16582;Rocha Department;десятичная классификация Дьюи;1;1;from
+Q16582;Rocha Department;основной шаблон по теме;1;1;from
+Q16582;Rocha Department;категория для людей, родившихся здесь;1;1;from
+Q16582;Rocha Department;код GeoNames;1;1;from
+Q16582;Rocha Department;код TGN;1;1;from
+Q16582;Rocha Department;категория для людей, связанных с местностью;1;1;from
+Q16582;Rocha Department;владеет;1;1;from
+Q16582;Rocha Department;высота над уровнем моря;1;1;from
+Q16582;Rocha Department;ISO 3166-2;1;1;from
+Q16582;Rocha Department;категория на Викискладе;1;1;from
+Q16582;Rocha Department;ID отношения в OpenStreetMap;1;1;from
+Q16582;Rocha Department;географические координаты;1;1;from
+Q16582;Rocha Department;код Freebase;1;1;from
+Q16582;Rocha Department;Who's on First ID;1;1;from
+Q16582;Rocha Department;категория карт на Викискладе;1;1;from
+Q16582;Rocha Department;официальный сайт;1;1;from
+Q16582;Rocha Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16582;Rocha Department;основная категория по теме;1;1;from
+Q16582;Rocha Department;место в MusicBrainz;1;1;from
+Q16582;Rocha Department;административно делится на;1;1;to
+Q16582;Rocha Department;код в Большой каталанской энциклопедии;1;1;from
+Q16582;Rocha Department;изображение герба;1;1;from
+Q16580;Colonia Department;категория карт на Викискладе;1;1;from
+Q16582;Rocha Department;имеет границы с;1;4;to
+Q16580;Colonia Department;FIPS 10-4 (страны и регионы);1;1;from
+Q16580;Colonia Department;основная категория по теме;1;1;from
+Q16580;Colonia Department;место в MusicBrainz;1;1;from
+Q16580;Colonia Department;административно делится на;1;1;to
+Q16580;Colonia Department;названо в честь;1;1;to
+Q16580;Colonia Department;место рождения;1;18;to
+Q16580;Colonia Department;категория объединяет темы;1;5;to
+Q16580;Colonia Department;место смерти;1;1;to
+Q16580;Colonia Department;юрисдикция распространяется на;1;1;to
+Q16580;Colonia Department;общая тема категории;1;1;to
+Q16580;Colonia Department;владельцем является;1;1;to
+Q16580;Colonia Department;является столицей;1;1;to
+Q16582;Rocha Department;административно-территориальная единица;1;318;to
+Q16582;Rocha Department;государство;1;1;from
+Q16582;Rocha Department;изображение;1;1;from
+Q16582;Rocha Department;карта местонахождения;1;1;from
+Q16582;Rocha Department;это частный случай понятия;1;1;from
+Q16582;Rocha Department;столица;1;1;from
+Q16582;Rocha Department;изображение флага;1;1;from
+Q460435;Lavalleja Department;является столицей;1;1;to

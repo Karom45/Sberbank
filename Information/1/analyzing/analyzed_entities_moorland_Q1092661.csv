@@ -1,0 +1,134 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q214823;Dartmoor;административно-территориальная единица;1;1;to
+Q3503824;Long Mynd;государство;1;1;from
+Q8261166;Q8261166;это частный случай понятия;1;1;from
+Q8261166;Q8261166;изображение;1;1;from
+Q8261166;Q8261166;государство;1;1;from
+Q8261166;Q8261166;административно-территориальная единица;1;2;from
+Q3503824;Long Mynd;исток водотока;1;1;to
+Q3503824;Long Mynd;код Freebase;1;1;from
+Q3503824;Long Mynd;географические координаты;1;1;from
+Q3503824;Long Mynd;категория на Викискладе;1;1;from
+Q3503824;Long Mynd;ширина;1;1;from
+Q3503824;Long Mynd;площадь;1;1;from
+Q3503824;Long Mynd;высота над уровнем моря;1;1;from
+Q3503824;Long Mynd;длина;1;1;from
+Q3503824;Long Mynd;это частный случай понятия;1;3;from
+Q3503824;Long Mynd;изображение;1;1;from
+Q3503824;Long Mynd;административно-территориальная единица;1;1;from
+Q593627;Exmoor;местонахождение;1;2;to
+Q681929;Ilkley Moor;место рождения;1;1;to
+Q681929;Ilkley Moor;код Freebase;1;1;from
+Q681929;Ilkley Moor;географические координаты;1;1;from
+Q681929;Ilkley Moor;категория на Викискладе;1;1;from
+Q681929;Ilkley Moor;родительская вершина;1;1;from
+Q681929;Ilkley Moor;TOID;1;1;from
+Q681929;Ilkley Moor;высота над уровнем моря;1;1;from
+Q681929;Ilkley Moor;вице-графство;1;1;from
+Q681929;Ilkley Moor;это частный случай понятия;1;1;from
+Q681929;Ilkley Moor;изображение;1;1;from
+Q681929;Ilkley Moor;государство;1;1;from
+Q681929;Ilkley Moor;административно-территориальная единица;1;1;from
+Q593627;Exmoor;общая тема категории;1;1;to
+Q593627;Exmoor;категория объединяет темы;1;1;to
+Q8261166;Q8261166;категория на Викискладе;1;1;from
+Q8261166;Q8261166;географические координаты;1;1;from
+Q8261166;Q8261166;находится в пределах природно-географического объекта;1;1;from
+Q12800161;Lake Ribnica;государство;1;1;from
+Q65075114;Greenlaw Moor;географические координаты;1;1;from
+Q65075114;Greenlaw Moor;код Ramsar Sites Information Service;1;1;from
+Q65075114;Greenlaw Moor;это частный случай понятия;1;2;from
+Q65075114;Greenlaw Moor;государство;1;1;from
+Q65075114;Greenlaw Moor;административно-территориальная единица;1;1;from
+Q65050926;Thrunton Wood;географические координаты;1;1;from
+Q65050926;Thrunton Wood;это частный случай понятия;1;2;from
+Q65050926;Thrunton Wood;государство;1;1;from
+Q65050926;Thrunton Wood;административно-территориальная единица;1;1;from
+Q59504026;Jenny's Lantern;состоит из;1;2;from
+Q59504026;Jenny's Lantern;это частный случай понятия;1;1;from
+Q59504026;Jenny's Lantern;государство;1;1;from
+Q59504026;Jenny's Lantern;административно-территориальная единица;1;1;from
+Q30587778;Denbigh Moors;основная тема;1;1;to
+Q30587778;Denbigh Moors;изображённый объект;1;1;to
+Q30587778;Denbigh Moors;географические координаты;1;1;from
+Q30587778;Denbigh Moors;категория на Викискладе;1;1;from
+Q30587778;Denbigh Moors;это частный случай понятия;1;1;from
+Q30587778;Denbigh Moors;изображение;1;1;from
+Q20712630;Weetwood Moor;категория на Викискладе;1;1;from
+Q20712630;Weetwood Moor;это частный случай понятия;1;1;from
+Q20712630;Weetwood Moor;государство;1;1;from
+Q20712630;Weetwood Moor;административно-территориальная единица;1;1;from
+Q18281779;Derbyshire moors;это частный случай понятия;1;1;from
+Q18281779;Derbyshire moors;государство;1;1;from
+Q18281779;Derbyshire moors;административно-территориальная единица;1;1;from
+Q12800161;Lake Ribnica;географические координаты;1;1;from
+Q12800161;Lake Ribnica;категория на Викискладе;1;1;from
+Q12800161;Lake Ribnica;это частный случай понятия;1;1;from
+Q593627;Exmoor;основная тема;1;3;to
+Q593627;Exmoor;названо в честь;1;1;to
+Q214823;Dartmoor;государство;1;1;from
+Q214823;Dartmoor;дата основания/создания/возникновения;1;1;from
+Q214823;Dartmoor;история происходит в месте;1;3;to
+Q214823;Dartmoor;dmoz;1;1;from
+Q214823;Dartmoor;баннер Викигида;1;1;from
+Q214823;Dartmoor;галерея на Викискладе;1;1;from
+Q214823;Dartmoor;основная категория по теме;1;1;from
+Q214823;Dartmoor;официальный сайт;1;1;from
+Q214823;Dartmoor;категория карт на Викискладе;1;1;from
+Q214823;Dartmoor;French Vikidia ID;1;1;from
+Q214823;Dartmoor;значимое место;1;1;from
+Q214823;Dartmoor;код NKC;1;1;from
+Q214823;Dartmoor;код Freebase;1;1;from
+Q214823;Dartmoor;географические координаты;1;2;from
+Q214823;Dartmoor;наивысшая точка;1;1;from
+Q214823;Dartmoor;код Comic Vine;1;1;from
+Q214823;Dartmoor;часовой пояс;1;1;from
+Q593627;Exmoor;dmoz;1;1;from
+Q214823;Dartmoor;категория на Викискладе;1;1;from
+Q214823;Dartmoor;Vision of Britain place ID;1;1;from
+Q214823;Dartmoor;код темы Quora;1;1;from
+Q214823;Dartmoor;находится в охранной зоне;1;1;from
+Q214823;Dartmoor;код BabelNet;1;1;from
+Q214823;Dartmoor;площадь;1;1;from
+Q214823;Dartmoor;высота над уровнем моря;1;1;from
+Q214823;Dartmoor;код GeoNames;1;1;from
+Q214823;Dartmoor;код в энциклопедии «Британника онлайн»;1;1;from
+Q214823;Dartmoor;это частный случай понятия;1;1;from
+Q214823;Dartmoor;код LCNAF;1;1;from
+Q214823;Dartmoor;код VIAF;1;1;from
+Q214823;Dartmoor;сделано из;1;1;from
+Q214823;Dartmoor;изображение;1;1;from
+Q214823;Dartmoor;местонахождение;1;5;to
+Q214823;Dartmoor;названо в честь;1;3;to
+Q214823;Dartmoor;часть от;1;2;to
+Q214823;Dartmoor;находится в пределах природно-географического объекта;1;5;to
+Q593627;Exmoor;аудиозапись прочитанного текста;1;1;from
+Q593627;Exmoor;баннер Викигида;1;1;from
+Q593627;Exmoor;основная категория по теме;1;1;from
+Q593627;Exmoor;категория защищённых зон МСОП;1;1;from
+Q593627;Exmoor;категория карт на Викискладе;1;1;from
+Q593627;Exmoor;код NKC;1;1;from
+Q593627;Exmoor;код Freebase;1;1;from
+Q593627;Exmoor;географические координаты;1;1;from
+Q593627;Exmoor;наивысшая точка;1;1;from
+Q593627;Exmoor;дата основания/создания/возникновения;1;1;from
+Q593627;Exmoor;категория на Викискладе;1;1;from
+Q593627;Exmoor;находится в охранной зоне;1;1;from
+Q593627;Exmoor;ширина;1;1;from
+Q593627;Exmoor;высота над уровнем моря;1;1;from
+Q593627;Exmoor;длина;1;1;from
+Q593627;Exmoor;код TGN;1;1;from
+Q593627;Exmoor;код в энциклопедии «Британника онлайн»;1;1;from
+Q593627;Exmoor;это частный случай понятия;1;2;from
+Q593627;Exmoor;код LCNAF;1;1;from
+Q593627;Exmoor;код VIAF;1;1;from
+Q593627;Exmoor;сделано из;1;1;from
+Q593627;Exmoor;изображение;1;1;from
+Q593627;Exmoor;государство;1;1;from
+Q593627;Exmoor;административно-территориальная единица;1;9;to
+Q214823;Dartmoor;категория объединяет темы;1;1;to
+Q214823;Dartmoor;общая тема категории;1;1;to
+Q214823;Dartmoor;место рождения;1;1;to
+Q214823;Dartmoor;открывает вид на;1;1;to
+Q214823;Dartmoor;основная тема;1;34;to
+Q65075114;Greenlaw Moor;значимое место;1;1;from

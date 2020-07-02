@@ -1,0 +1,642 @@
+﻿entity;label
+Q224934;Great Escarpment
+Q1166369;Darling Scarp
+Q2002146;Baltic Klint
+Q2280548;Discovery Rupes
+Q4011296;Victoria Rupes
+Q4997480;Bunda cliffs
+Q5267218;Devil's Rock
+Q5359983;Elgeyo Escarpment
+Q5492204;Franko Escarpment
+Q5599117;Great Escarpment, Australia
+Q5599119;Great Escarpment, Brazil
+Q5604433;Greensand Ridge
+Q6794458;Mawson Escarpment
+Q6821713;Mess Creek Escarpment
+Q6933867;Muldraugh Hill
+Q7179341;Pettigrew Scarp
+Q7619043;Stone Wall
+Q7782979;Therfield Heath
+Q11912097;Cap de Plan-de-riba
+Q11913510;Centucall
+Q11913852;Cingle de la Coma
+Q11913856;Cingle del Castell
+Q11913858;Cingle del Solà
+Q11913860;Cinglera de Castellfollit
+Q11913861;Cinglera de Rocablanca
+Q11913865;Cinglera de la Rovira de Sant Amanç
+Q11913866;Cingles de Montbrú
+Q11913867;Cingles de Sant Sadurní
+Q11913872;Cingles del Vilar
+Q11913874;Cinglo de les Esplugues
+Q11913875;Cinglo de la Censada
+Q11913881;Cints de Can Blanc
+Q11919715;Escards de la Font del Comí
+Q11921721;Feixa de Viu
+Q11921724;Feixanc de les Vaques
+Q11921725;Feixanc de Montpedrós
+Q11921726;Feixanc del Gavatx
+Q11921727;Feixancs de la Torreta
+Q11921731;Feixans de Penalta
+Q11931500;Les Cadiretes
+Q11945853;Roc de la Feixa
+Q11945863;Roc de les Cases
+Q11945883;Roc del Miqueló
+Q11945948;Roca Roia
+Q11945949;Roca Roia
+Q11945979;Roca de Cavalls
+Q11946024;Roca de les Tosques
+Q11946110;Rocs de la Torre de Senyús
+Q11946112;Rocs del Solà de Baiarri
+Q11950828;Tallat dels Bassons
+Q11953726;Turó del Migdia
+Q12369197;Silurian Klint
+Q17597443;Cingle de Cossialls
+Q17597447;Cingle de la Serra
+Q17597462;Cingles de Bertí
+Q17597471;Cingles de l'Estoviada
+Q17597476;Cingles de l'Onyó
+Q17597483;Cingles de la Lleixa
+Q17597487;Cingles de Mussarra
+Q17597493;Cingles de Serramitja
+Q17597523;Cinglo del Paborde
+Q17603593;Feixanc de Tomàs
+Q17603598;Q17603598
+Q17616592;La Tàpia
+Q17616835;Les Balçs
+Q18004177;La Roqueta
+Q18006359;Roc de Caminal
+Q18006363;Roc de la Feixa
+Q18006364;Roc de la Pentinella
+Q18006369;Roc de Penalta
+Q18006370;Roc de Sant Cristòfol
+Q18006372;Roc dels Seguers
+Q18006373;Roc des Cases
+Q18006375;Roc Roi
+Q18006379;Roca Cavalls
+Q18006381;Roca de l'Abeller de Carrutxo
+Q18006383;Roca de la Rua
+Q18006403;Rocs del Comeller
+Q18006442;Roques de Calastre
+Q18006451;Roques del Congost
+Q20103259;Q20103259
+Q21873289;Aibl
+Q22421553;Eardley Escarpment
+Q22433055;Caps Rouges
+Q23659693;Salto del Huilo Huilo
+Q23663759;Q23663759
+Q23679087;Ngo Djo
+Q23680303;Tlata
+Q23680311;Guebere
+Q23680335;Mubang
+Q23764093;Farallón Palo Verde
+Q23764364;Loma de Ofillé
+Q23764673;Loma de los Naños
+Q23766860;Farallón Los Córbanos
+Q23768379;Loma La Pesada
+Q23769466;La Jarda
+Q23778118;Loma Caballo
+Q23934875;Carb Tichia
+Q23935448;Tarf Lemmuil-lah
+Q23935978;Lebreiga
+Q23937239;Udei ed Diba
+Q23937323;Gor Enjala
+Q23937358;Eyniat
+Q23937359;Eznia el Jadra
+Q23937391;Gleib el Fuch
+Q23937499;Imussán el Grara
+Q23938612;Khanfrat al 'Atf
+Q23938660;Carb Afdira
+Q24019087;Risco de las Cuevas
+Q24027847;Q24027847
+Q24028213;Horo Tereter
+Q24031368;Q24031368
+Q24032334;Q24032334
+Q24074698;Espai natural de Gallifa
+Q24696575;Fiameketo
+Q24696602;Gambaga Scarp
+Q25288444;Q25288444
+Q25311776;Q25311776
+Q25314136;Q25314136
+Q26221866;Q26221866
+Q26764245;Q26764245
+Q26764346;Q26764346
+Q26840623;Q26840623
+Q26841089;Q26841089
+Q26841178;Q26841178
+Q26841425;Khashm al Mujaddar
+Q26841428;Q26841428
+Q27122928;Q27122928
+Q27122935;Mahd an Najm
+Q27125270;Al Muzayyir
+Q27125502;Q27125502
+Q27191821;Oleleishua
+Q27192212;Soit Ololol Escarpment
+Q27192960;Q27192960
+Q27193168;Nthawe Escarpment
+Q27193197;Nyando Escarpment
+Q27195128;Koora Escarpment
+Q27195259;Laikipia Escarpment
+Q27195313;Lematakwa
+Q27196234;Kaniamwia Escarpment
+Q27196285;Q27196285
+Q27197411;Esoit Narok
+Q27197692;Ingkatorongoi
+Q27197694;Inkulupuok Naaibor
+Q27197712;Isoito Adoru Escarpment
+Q27197807;Kaimat Escarpment
+Q27198624;Cheptaram Escarpment
+Q27198934;Baboon Escarpment
+Q27198939;Bahati Escarpment
+Q27223397;Q27223397
+Q27223443;Q27223443
+Q27345618;Q27345618
+Q27347010;Q27347010
+Q27347035;Q27347035
+Q27347133;Q27347133
+Q27347157;Q27347157
+Q27487988;Q27487988
+Q27488107;Q27488107
+Q27488163;Q27488163
+Q27488455;Q27488455
+Q27488587;Q27488587
+Q27488613;Q27488613
+Q27488668;Q27488668
+Q27489917;Q27489917
+Q27489949;Q27489949
+Q27489963;Q27489963
+Q27490591;Q27490591
+Q27490661;Q27490661
+Q27491126;Q27491126
+Q27491143;Q27491143
+Q27491952;Q27491952
+Q27492779;Q27492779
+Q27493525;Q27493525
+Q27494033;Q27494033
+Q27494873;Q27494873
+Q27495761;Q27495761
+Q27496316;Lawdh Gharandal
+Q27497843;Q27497843
+Q27497894;Lawdh al Barnis
+Q27499558;Q27499558
+Q27499602;Q27499602
+Q27499636;Q27499636
+Q27572236;Aderg
+Q27575576;Hantsambaton Angavo
+Q27689172;Kahal Ti-n-Etissane
+Q27689202;Q27689202
+Q27689239;Adrar Tiouoouort
+Q27689745;Kreb de Séssao
+Q27689820;Ad-Takelout
+Q27689913;Kreb de Terrecht
+Q27689939;Kreb Tiderghine
+Q27690353;I-n-Tedjenane
+Q27690365;Irélalene
+Q27690368;Q27690368
+Q27690375;Issinene
+Q27690410;Karkaryindao
+Q27690412;Kreb I-n-Karoua
+Q27690443;Kizou
+Q27690455;Komodyou
+Q27690506;Q27690506
+Q27690548;Q27690548
+Q27690550;Q27690550
+Q27690560;Kreb en Nâga
+Q27690597;Adrar Ouartazalett
+Q27690973;Debetbié
+Q27691074;Erzegoussan
+Q27691086;Kreb I-n-Ezemmi
+Q27691106;Férasséguen
+Q27691167;Guiji Guidé
+Q27691178;Hamid Guidé
+Q27691196;Iderianene
+Q27691200;Ad-Ijounyan
+Q27691265;I-n-Esselsel
+Q27691500;Tekaouelt
+Q27691502;El Houassi
+Q27691506;I-n-Zemmi
+Q27691547;I-n-Abeg
+Q27691586;Adrar Achchel
+Q27691595;Kreb d'Adjindjer
+Q27691692;Kreb Anéchag
+Q27691693;An Ekneïchad
+Q27691716;Arkoud
+Q27691720;Asler
+Q27691723;Adrar Ti-n-Asmas
+Q27691724;Adrar Asref
+Q27691784;Kreb de Bekati el Bass
+Q27691790;Bérédji Kouro
+Q27692174;Kreb el Maouafa
+Q27692175;Kreb el Djemel
+Q27692181;Jafa
+Q27692186;Mdennah
+Q27692332;Afarag
+Q27692336;Kreb Issassatene
+Q27692338;Agarak
+Q27692384;Akoubaïen
+Q27692385;Chetteïkou
+Q27692386;Akilo
+Q27692425;Acharchay
+Q27692463;Q27692463
+Q27692479;Gora el Rahet
+Q27692716;I-n-Tamat
+Q27692723;Agabagèy
+Q27692727;Arandjaban
+Q27692728;Esawèlt
+Q27692846;Q27692846
+Q27692932;Q27692932
+Q27693024;I-n-Tamassalt
+Q27693025;I-n-Bellah
+Q27693035;I-n-Akek
+Q27693036;I-n-Aréoud
+Q27693038;Arkach
+Q27693501;Houba
+Q27693551;Agérmam
+Q27693552;I-n-Ahèz
+Q27693574;I-n-Katayan
+Q27693576;El Goub
+Q27693580;Goûr Areïs
+Q27693627;Majibo
+Q27693759;El M'atcha
+Q27693807;Agaïtondi
+Q27693818;Gréede Sennatt
+Q27693955;Kouloufing
+Q27693967;Djigan
+Q27693972;Minyankoulou
+Q27694112;Dangan
+Q27694115;Danbala
+Q27694116;Chéni
+Q27694156;Glaba
+Q27694289;Q27694289
+Q27694294;Dâni
+Q27694313;Banbari
+Q27694355;Dankani
+Q27694387;Kolonkoti
+Q27695514;Guidinérouré
+Q27729981;Tirabane
+Q27730107;Youdlane el Akhdar
+Q27730570;Gleïbât Tebnenna
+Q27730620;Tessal
+Q27730632;Q27730632
+Q27731115;Er Roueïssât
+Q27731204;Ceratât
+Q27731583;Gleïb el Mbétih
+Q27731600;Meflez el Meran
+Q27731640;Q27731640
+Q27731704;Q27731704
+Q27731706;Q27731706
+Q27731720;Gleïbat Naaj
+Q27731748;Kreb en Nâga
+Q27731758;En Nâniouât
+Q27731867;E-n-ouakâne
+Q27731905;'Oglat Machoussif
+Q27731919;Dahr Oualâta
+Q27732265;El Groûnîyât
+Q27732302;Jouali
+Q27732375;Dal'et el Kherizi
+Q27732378;Khneïfîssa
+Q27732506;Q27732506
+Q27732876;'Argoûb el Fras
+Q27732977;Guet Chmogmog
+Q27732978;Guet el Ba'îr
+Q27733005;Haheïkat
+Q27733010;Gleïtât el Hamane
+Q27733046;Q27733046
+Q27733469;Gleïbât Dokhene
+Q27733471;Aïré Dolol Sué
+Q27733480;Hank Douik
+Q27733503;Kediet Eimert
+Q27733515;El Amzeïlé
+Q27733526;El Arzet
+Q27733564;El Hank
+Q27733567;El Gheïcha
+Q27733578;El Khat
+Q27733595;El Mahbes
+Q27733637;Erbous
+Q27733638;Eîrch
+Q27733651;Et Telia
+Q27734428;Bou Safia
+Q27734449;Boû Ṭreïfîya
+Q27734505;Cherirat
+Q27734560;Q27734560
+Q27734588;Agrour Diab
+Q27734613;Dkheïnât
+Q27734690;Berbouchi Çghîr
+Q27734691;Berbouchiya
+Q27734724;Boû Habcha
+Q27737938;Amadel Guibli
+Q27737981;Amzeïli
+Q27738106;Arhmounjeït
+Q27738152;Q27738152
+Q27738213;Atomaï
+Q27738323;Bâtene
+Q27743427;Dahr
+Q27743526;Dalaat Dammia
+Q27743614;Adbeïnât
+Q27743627;Argoub Admar
+Q27743649;Aghinzererb
+Q27743773;'Âïdîyât Souîd Aḥmed
+Q27743829;Akhmenchika
+Q27748439;Abreïrizât
+Q27748452;Et Taoumîyât
+Q27748453;'Azeïlet Açabâï
+Q27748482;Khaïkham
+Q27748550;Q27748550
+Q27748593;Ahel el Boueïz
+Q27748641;Q27748641
+Q27748670;Akjinjeïr
+Q27748694;Q27748694
+Q27748744;Al Moun
+Q27749182;Gleïbât Aouled Boû Sba'
+Q27749185;Agroûr edh Dhîb
+Q27749188;Q27749188
+Q27749352;Dal'et el Magroûna
+Q27749354;Kedouachât
+Q27749369;Dal'et el Makeçra
+Q27749372;Dal'et el Tichor
+Q27749374;El Metreïougha
+Q27749375;Khneïfissâ
+Q27749458;Mtreouakh
+Q27749462;Tarf Aouchkech
+Q27749466;Q27749466
+Q27749480;Amdîr eç Çghîr
+Q27749505;Atreïré
+Q27749565;Jâlet el Lâbda
+Q27749566;Jālet Ahel Moḥammed el Kbîr
+Q27766513;Majete Escarpment
+Q27767126;Cholo Escarpment
+Q27767132;Chowe Escarpment
+Q27817626;Ceja La Pirinola
+Q27817629;Ceja Tierra Prieta
+Q27817635;Ceja La Tinaja
+Q27817655;Ceja de Enmedio
+Q27817659;Ceja La Cantera
+Q27817693;Ceja Los Amoles
+Q28105045;Alderley Edge
+Q29081421;Isek Ifis
+Q29090543;Msireb Labghal
+Q29090553;Lhammar
+Q29090562;Dafae Lamzaraa
+Q29091463;Kouifat
+Q29093970;Dhar El Ghar
+Q29096047;Hit Lamdal
+Q29096050;Hit Foum Belgouchi
+Q29096351;Jorf Gaour
+Q29096355;Jorf Lmachloukh
+Q29100438;Belghoula
+Q29103555;Jbel Moughaz
+Q29875884;Ḩayd Muḑabḑab
+Q29875983;Ḩayd ash Sharīf
+Q31472560;Jabal al ‘Āmirī
+Q31476543;Obryv Fedyashin
+Q31480263;Loskop
+Q31490514;Komsberg
+Q31495453;Es Sabaloqa al Hawawet
+Q31496952;Nimra
+Q31501596;Grunnegga
+Q31526910;Rauhe Alb
+Q31536964;God's Window
+Q31537691;Kulankwi Escarpment
+Q31537872;Kalaye Escarpment
+Q31537988;Chilingala Escarpment
+Q31538022;Chansamasaka Escarpment
+Q31538809;Muchinga Escarpment
+Q31540858;Hinterberg
+Q31541482;Situmba Escarpment
+Q31541543;Siambgwami Escarpment
+Q31541773;Samakhohwa Escarpment
+Q31541790;Sakwan Escarpment
+Q31544895;Masikiri Escarpment
+Q31545815;Kwaaieepa Escarpment
+Q31546555;Frohnheller Berg
+Q31549409;Zambezi Escarpment
+Q31549512;Zambezi Escarpment
+Q31549745;Zambezi Escarpment
+Q31560631;Cunacho Escarpamento
+Q31568439;Cingles de Falgars
+Q31572935;Buuraha Xeedho
+Q31574104;Cerro Negro
+Q31575236;Montaña de Bombón
+Q31575316;Montaña de Macanillal
+Q31575620;Buuraha Nuuga Kacaale
+Q31576227;Montaña de Palenque
+Q31576928;Labadauli
+Q31578940;Guhun
+Q31579616;Gheizani
+Q31580834;Costone Far Druei
+Q31581547;Buuraha Dhuuro
+Q31584410;Bur Afuugle
+Q31584527;Buuraha Bobole
+Q31591040;Obryv Skynchak
+Q31594189;Tidé Berdégi
+Q31594579;Oarda Goulji
+Q31594830;Hadjer Milésé
+Q31594891;Meïna
+Q31595051;Hadjer Kournio
+Q31595110;Hadjer Koudougous
+Q31595153;Kossomia Doudou
+Q31595273;Koïnamena
+Q31595617;Idrisinga
+Q31595912;Hadjer Garlou
+Q31596280;Dièndaléme
+Q31596354;Hadjer Darbara
+Q31596565;Bibidozédo
+Q31596789;Azrenga
+Q31596846;Hadjer Artiniarinié
+Q31596993;Amerouk
+Q31597811;Taïmanga
+Q31598299;Ouassar
+Q31598493;Ndré
+Q31599425;Korozo
+Q31600218;Ehi Gobada
+Q31601079;Boda Noussaour
+Q31601106;Bilinga
+Q31601670;Ehi Abénao
+Q31601879;Anicha Danga
+Q31601893;Magazona
+Q31601934;Kossouma Naho
+Q31601962;Arkatoringa
+Q31601977;Bornatéhé
+Q31602099;Ehi Modidi
+Q31602110;Ehi Goujda
+Q31602124;Ehi Lourinnga
+Q31602151;Falaise d'Angamma
+Q31602314;Hadjer Orobo
+Q31602325;Hadjer Mai
+Q31602336;Hadjer Bilitaméker
+Q31602348;Hadjer Honousourou Ha
+Q31602456;Abéda Dji
+Q31602607;Les Santons
+Q31603062;La Barre des Toubibs
+Q31604013;Les Escarpes
+Q31604290;Le Grand Balcon
+Q31604413;Le Bastion
+Q31604575;L'Ailefroide
+Q31604602;La Grande Casse
+Q31604659;La Courtine
+Q31605981;Tokpono
+Q31606536;Mont Nandodjouaré
+Q31606618;Mandjouaré
+Q31606682;Léboulégalé
+Q31607179;Djogodjouaré
+Q31607253;Mont Diamarok
+Q31607331;Mont Boureleman
+Q31625592;Matuginigi Escarpment
+Q31625604;Matisiwi Escarpment
+Q31625696;Malbadow Escarpment
+Q31625746;Magara Escarpment
+Q31626435;Fufu Escarpment
+Q31626488;Dabil Escarpment
+Q31626550;Aitcho Escarpment
+Q31679485;Umm al Ḩammām
+Q31679504;‘Urqūb ar Rukbah
+Q31679521;‘Arāqīb Wādī al Bīr
+Q31679557;Tilā‘ al Ghūl
+Q31679591;Ḩājib an Naqīb
+Q31795347;Kaokadam
+Q31795354;Falaise de Farak
+Q31795363;Filijingui
+Q31795378;Birjin Toro
+Q31795395;Lali
+Q31795412;Kanlakali
+Q31795421;Kabouna
+Q31795429;Biga Halip
+Q31795439;Kolo Kiriram
+Q31795446;Fokina
+Q31795463;Kao Kalankaloula
+Q31795471;Kao Kiriboul
+Q31795478;Yanoum Sovorné
+Q31795499;Kayaya
+Q31795508;Kotoumo
+Q31795522;Guirmagadou
+Q31795530;Kao Kiné
+Q31795535;Koli Kolatchando
+Q31795543;Baoumi Bitoa
+Q31795555;Bangou Taoy
+Q31795600;Boméni
+Q31795607;Gueymé
+Q31795617;Kiba
+Q31795635;Wèyrougorou
+Q31795644;Soloto
+Q31795690;Falaise de Fachi
+Q31795699;Tossom Korné
+Q31795728;Assassa
+Q31795744;I-n-Eis
+Q31795998;‘Urqūb Şahbā'
+Q31796038;Qurnat Shaḩtūrah
+Q31796563;Al Qurnah
+Q31804750;Déras
+Q31804759;Lama
+Q31804761;Kaoubrous
+Q49684567;Chinese Wall
+Q49699744;Q49699744
+Q49699745;Q49699745
+Q49699747;Q49699747
+Q49699748;Q49699748
+Q49699750;Q49699750
+Q49699751;Q49699751
+Q52007414;Q52007414
+Q62168506;Hassans Walls
+Q62168509;China Walls
+Q62168512;Douglas Scarp
+Q86812135;St. Martha Slopes
+Q31679612;Ḩājib as Saḩīlah
+Q31680211;Ksiksou
+Q31700288;Ouberg
+Q31706201;Mukerenke
+Q31707637;Jāl Mudarraj
+Q31712645;Kali
+Q31727849;Jabal Zawlawl
+Q31728332;Rumaylī
+Q31729573;Al Huḑaybah
+Q31748735;Hindenburg Wall
+Q31752186;Peñas Malacatepec
+Q31759996;Khuda Band
+Q31761865;Moljabal
+Q31764814;Dārbalai Warsak
+Q31784842;Great Escarpment
+Q31787832;Sari Jabal
+Q31791763;Zankay Tondi
+Q31791801;Ti-n-Banichi
+Q31791821;Tiémazéy
+Q31791837;Térzémasour
+Q31791854;Téyndi
+Q31791913;Tamangourt
+Q31791919;Takarkart
+Q31791932;Kahal Taguenit
+Q31791942;Falaise de Tadera
+Q31791956;Kahal Séssao
+Q31791962;Sagarana
+Q31792000;Kahal Mentès
+Q31792005;Martala
+Q31792072;I-n-Zeïnet
+Q31792136;Imelaz
+Q31792280;Fandou Kiangaré
+Q31792430;Chin Chaouini
+Q31792479;Kahal Batel Bakom
+Q31792491;Batel Bakom
+Q31792652;Ang Amma
+Q31792689;Takachouar Amoumad
+Q31792818;Falaise d'Achegour
+Q31792859;Ichinene
+Q31792869;Tagharaba
+Q31793005;Idaoudane
+Q31793094;Ehaïna
+Q31793103;Ti-n-Aggour
+Q31793120;Télillit
+Q31793129;Tabotabo
+Q31793154;Terlemgouyene
+Q31793178;Akara
+Q31793472;Ousguenet
+Q31793616;Kahal Selmi
+Q31793621;Adrar l-n-Ouagar
+Q31793626;Chatouila
+Q31793634;Idibalbal
+Q31793637;Takachouar Ghaléméla
+Q31793641;Takachouar Tabada
+Q31793644;Ejab
+Q31793647;Irèk
+Q31793649;Iguif Tabada
+Q31793653;Ti-n-Lalene
+Q31793656;I-n-Èlras
+Q31793658;Ibougoua
+Q31793661;Kasso
+Q31793668;Nadenes
+Q31793670;I-n-Akazam
+Q31793673;Artdouzour
+Q31793688;Fako
+Q31793691;Tabzagor
+Q31793695;Afaka
+Q31793700;Tamakas
+Q31793703;Tirouzal
+Q31793705;Rolingous
+Q31793727;Tigidit
+Q31793754;Tedouit
+Q31793807;I-n-Abeggui
+Q31793812;Agouélira
+Q31793816;Anéker
+Q31793819;Laguéla
+Q31793821;I-n-Aridal
+Q31793824;Aghardefel
+Q31793825;Takene Baouat
+Q31793827;Okdoutatil
+Q31793830;Tadreilat
+Q31793834;Azérèk
+Q31793837;Tékrat
+Q31793959;Idabonene
+Q31794491;Bichnaou
+Q31794690;Taghès Azekki
+Q31794721;Iferâne-n-Tatkaki
+Q31794750;Tchamia
+Q31795031;Goujé
+Q31795198;I-n-Gadou
+Q31795205;Tikajati
+Q31795211;Féssa Wata
+Q31795217;Iguiraran Zagarni
+Q31795259;Rougoumia
+Q31795301;Kolkodé
+Q31795313;Fourourou
+Q31795320;Tiro
+Q31795331;Goska
+Q31795338;Kachatcham
+Q31795344;Diarakatam

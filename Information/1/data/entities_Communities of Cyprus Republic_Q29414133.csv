@@ -1,0 +1,581 @@
+﻿entity;label
+Q73787;Zygi
+Q81490;Xylotymvou
+Q81570;Ormideia
+Q280124;Platanisteia
+Q353854;Agros
+Q353925;Foini
+Q370519;Zoopigi
+Q389897;Choli
+Q516882;Agios Mamas
+Q521403;Alassa
+Q546060;Liopetri
+Q582175;Peristerona
+Q590477;Avdimou
+Q591348;Apliki
+Q603018;Lageia
+Q611494;Ayios Amvrosios
+Q650962;Goudi
+Q653279;Klavdia
+Q659542;Arminou
+Q672215;Klirou
+Q687725;Kannavia
+Q691096;Moutoullas
+Q733386;Sotira
+Q738681;Dhrymou
+Q744626;Argaka
+Q747896;Delikipos
+Q779408;Treis Elies
+Q784742;Kampi
+Q827206;Alampra
+Q843172;Prodromos
+Q927576;Kalo Chorio
+Q930838;Kouklia
+Q935668;Saranti
+Q936411;Asgata
+Q984814;Pedoulas
+Q1307574;Tera
+Q1308220;Kakopetria
+Q1382672;Evrychou
+Q1455222;Frenaros
+Q1632691;Potamia
+Q1722060;Kalavasos
+Q1828011;Ergates
+Q1942703;Agia Varvara, Nicosia
+Q1968566;Pyla
+Q1985470;Pissouri
+Q2009604;Aradhippou
+Q2070422;Tochni
+Q2333477;Stroumbi
+Q2699026;Omodos
+Q3353547;Kolossi
+Q3409988;Psimolofou
+Q3499503;Kyperounta
+Q3557407;Pachna
+Q3557616;Kato Platres
+Q3557686;Lofou
+Q3557700;Palaiometocho
+Q3559623;Maroni
+Q3559631;Tsada
+Q3559692;Giolou
+Q3560533;Avgorou
+Q3561641;Pelendri
+Q3561752;Simou
+Q3563309;Pera Chorio
+Q3563343;Nisou
+Q3566171;Mammari
+Q3646772;Akaki
+Q3843917;Malia, Cyprus
+Q3907469;Politiko
+Q4319691;Nikitari
+Q4343821;Pano Panagia
+Q4692490;Agia Anna
+Q4692498;Agia Eirini Lefkosias
+Q4692506;Agia Marina Xyliatou
+Q4692596;Agioi Vavatsinias
+Q4692621;Agios Epifanios Soleas
+Q4692623;Agios Epifanios Oreinis
+Q4692630;Agios Georgios Kafkallou
+Q4692632;Agios Georgios Soleas
+Q4692639;Agios Ioannis Malountas
+Q4692641;Agios Ioannis Selemani
+Q4692656;Agios Nikolaos Soleas
+Q4692665;Agios Sozomenos
+Q4692671;Agios Theodoros
+Q4692672;Agios Theodoros Soleas
+Q4694107;Agridia
+Q4694248;Agrokipia
+Q4700284;Akapnou
+Q4700714;Akhelia
+Q4701560;Akoursos
+Q4701722;Akrounta
+Q4705928;Alaminos
+Q4716046;Alektora
+Q4716519;Alethriko
+Q4716568;Alevga
+Q4727371;Alithinou
+Q4734356;Alona
+Q4740228;Amargheti
+Q4750758;Anadhiou
+Q4750816;Anafotida
+Q4750828;Anageia
+Q4751031;Analiontas
+Q4751714;Anarita
+Q4759475;Androlykou
+Q4763572;Anglisides
+Q4769871;Anogyra
+Q4773823;Anthoupolis
+Q4779398;Apesia
+Q4779947;Aplanta
+Q4782190;Apsiou
+Q4783805;Arakapas
+Q4788730;Arediou
+Q4791988;Pano Archimandrita
+Q4793771;Armou
+Q4795469;Kato Arodes
+Q4796609;Arsos, Limassol
+Q4807149;Askas
+Q4807589;Asomatos, Limassol
+Q4808229;Asproyia
+Q4810069;Peristerona Lefkosias
+Q4811597;Astromeritis
+Q4817645;Zacharia
+Q4817755;Ayia Marina Chrysochous
+Q4818096;Agia Varvara
+Q4818301;Kato Koutrafas
+Q4818326;Ayia Marinoudha
+Q4818374;Ayia Marina Kelokedharon
+Q4818415;Pomos
+Q4818441;Kelokedhara
+Q4827920;Avdellero
+Q4830720;Axylou
+Q4831282;Ayios Dhimitrios
+Q4831284;Agios Dimitrianos
+Q4831288;Ayios Ioannis
+Q4831290;Agios Ioannis
+Q4831291;Agios Isidoros
+Q4831295;Ayios Konstantinos
+Q4831298;Agios Nikolaos
+Q4831300;Ayios Pavlos
+Q4831305;Ayios Theodhoros
+Q4831306;Ayios Therapon
+Q4831309;Ayios Thomas
+Q4831310;Ayios Tykhonas
+Q4831311;Ayios Yeoryios
+Q4831312;Ayios Yeoryios
+Q5071493;Chandria
+Q5102908;Chloraka
+Q5104086;Choirokoitia
+Q5256884;Deneia
+Q5269806;Dhrousha
+Q5274991;Dierona
+Q5297375;Dora, Cyprus
+Q5298207;Doros, Cyprus
+Q5318845;Dymes
+Q5358599;Eledhio
+Q5369408;Emba
+Q5383502;Episkopeio
+Q5383505;Episkopi
+Q5383507;Episkopi
+Q5384035;Eptagoneia
+Q5389081;Erimi
+Q5418792;Evretou
+Q5436840;Fasoula, Limassol
+Q5448228;Fikardou
+Q5457679;Flasou
+Q5464169;Foinikaria
+Q5505146;Frodisia
+Q5506814;Fterikoudi
+Q5518003;Galata
+Q5548853;Gerakies
+Q5552475;Gerovasa
+Q5555258;Galataria
+Q5588469;Gourri
+Q6088924;Istinjon
+Q6352500;Kaliana
+Q6353749;Kallepia
+Q6354156;Kalo Chorio Oreinis
+Q6354269;Kalopanagiotis
+Q6358153;Kaminaria
+Q6359346;Kampos
+Q6364013;Kannaviou
+Q6366531;Kapedes
+Q6366663;Kapilio
+Q6368348;Karamoullides
+Q6375067;Kataliontas
+Q6376621;Kathikas
+Q6377735;Amiantos
+Q6377736;Kato Akourdhalia
+Q6377739;Kato Drys
+Q6377748;Kato Moni
+Q6377749;Kato Mylos
+Q6378557;Katydata
+Q6382604;Kedhares
+Q6385632;Kellaki
+Q6385783;Kellia
+Q6402111;Kholetria
+Q6402638;Khoulou
+Q6406886;Kili
+Q6406987;Kilinia
+Q6414210;Kinousa
+Q6417285;Kissonerga
+Q6417288;Kissousa
+Q6418213;Kiti, Cyprus
+Q6418797;Pano Kivides
+Q6421243;Klonari
+Q6425729;Kofinou
+Q6426287;Koilani
+Q6426673;Kokkinotrimithia
+Q6427511;Koloni, Cyprus
+Q6429311;Konia
+Q6431377;Korakou
+Q6432203;Korfi
+Q6432453;Kornos
+Q6434250;Kotsiatis
+Q6434528;Kouka, Cyprus
+Q6434729;Kourtaka
+Q6438582;Kritou Terra
+Q6472646;Lagoudera
+Q6485486;Laneia
+Q6488239;Lapithiou
+Q6505770;Lazanias
+Q6521167;Lemithou
+Q6521369;Lemona
+Q6521475;Lempa
+Q6533895;Letymvou
+Q6549737;Limnatis, Limassol
+Q6554762;Linou
+Q6654220;Livadia Lefkosias
+Q6689616;Loukrounou
+Q6689879;Louvaras
+Q6708289;Lympia
+Q6710277;Lysos
+Q6710344;Lythrodontas
+Q6732397;Magounda
+Q6744561;Malounta
+Q6745914;Mamonia
+Q6745952;Mamountali
+Q6748198;Mandria
+Q6748199;Mandria, Limassol
+Q6751864;Mansoura
+Q6755041;Marathounta
+Q6760355;Margi
+Q6760875;Mari
+Q6772313;Maronas
+Q6787178;Mathiatis
+Q6787255;Mathikoloni
+Q6798641;Mazotos
+Q6810943;Meladeia
+Q6811214;Melandra
+Q6812534;Melini
+Q6817059;Meniko
+Q6817236;Menogeia
+Q6821057;Mesa Chorio
+Q6821132;Mesana
+Q6821492;Mesogi
+Q6882951;Mitsero
+Q6897914;Monagri
+Q6897919;Monagroulli
+Q6899872;Moniatis
+Q6916042;Mosfileri
+Q6926115;Mousere
+Q6947729;Mylikouri
+Q6967909;Nata
+Q6983929;Nea Dimmata
+Q7035475;Nikokleia
+Q7078332;Odou
+Q7081268;Oikos
+Q7099186;Ora
+Q7103757;Oroklini
+Q7103891;Orounta
+Q7122083;Pachyammos
+Q7126579;Palaiomylos
+Q7128555;Palodia
+Q7131430;Pano Akourdaleia
+Q7131438;Pano Koutrafas
+Q7135418;Paramytha
+Q7136707;Parekklisia
+Q7161212;Pelathousa
+Q7165004;Pentakomo
+Q7165011;Pentalia
+Q7166855;Pera
+Q7166856;Pera Pedi
+Q7168940;Perivolia
+Q7178911;Petrofani
+Q7180294;Phalia
+Q7181028;Phasli
+Q7181048;Phasoula
+Q7186299;Philousa Kelokedharon
+Q7186301;Philousa Khrysokhous
+Q7186388;Phinikas
+Q7186469;Phiti
+Q7202162;Platanistasa
+Q7209281;Polemi
+Q7227003;Polystypos
+Q7234615;Potami
+Q7234620;Potamiou
+Q7234621;Potamitissa
+Q7238116;Praitori
+Q7238568;Prastio
+Q7238569;Prastio (Avdimou)
+Q7238570;Prastio Kellakiou
+Q7254037;Psathi
+Q7254097;Psematismenos
+Q7255745;Psevdas
+Q7263474;Pyrga
+Q7263520;Pyrgos
+Q7403589;Salamiou
+Q7418284;Sanida
+Q7423027;Sarama
+Q7506498;Sia
+Q7515072;Silikou
+Q7521792;Sinaoros
+Q7534010;Skarinou
+Q7536477;Skoulli
+Q7536487;Skouriotissa
+Q7554068;Softades
+Q7565030;Souni-Zanakia
+Q7565245;Souskiou
+Q7577250;Spilia
+Q7578281;Spitali
+Q7604465;Statos-Agios Fotios
+Q7604841;Stavrokonnou
+Q7607571;Steni
+Q7660529;Sykopetra
+Q7678734;Tala
+Q7699096;Temvria
+Q7705213;Tersefanou
+Q7781026;Theletra
+Q7798255;Drinia
+Q7806650;Timi
+Q7831340;Trachoni
+Q7831404;Trachypedoula
+Q7838121;Tremithousa
+Q7842231;Trimiklini
+Q7842235;Trimithousa
+Q7846552;Troulloi
+Q7849330;Tsakistra
+Q7849568;Tserkezoi
+Q7916291;Vasa Kellakiou
+Q7916293;Vasa Koilaniou
+Q7917491;Vavatsinia
+Q7917510;Vavla
+Q7929534;Vikla
+Q7942718;Vretsia
+Q7944064;Vyzakia
+Q8045407;Xyliatos
+Q8045452;Xylofagou
+Q8053480;Yialia
+Q9142938;Agioi Trimithias
+Q9159968;Armenokhori
+Q9190933;Khrysokhou
+Q9258062;Farmakas
+Q9335117;Selladi tou Appi
+Q9371020;Variseia
+Q9378878;Vouni
+Q10588215;Moni, Cyprus
+Q11712531;Inia
+Q11724234;Gerasa, Cyprus
+Q11733885;Kalo Chorio, Limassol
+Q11733931;Kampia
+Q11735005;Kantou, Cyprus
+Q11738941;Kidhasi
+Q11739568;Kivisili
+Q11748240;Kritou Marottou
+Q11781220;Milia
+Q11781254;Miliou
+Q11785710;Mosfiloti
+Q11786854;Mouttagiaka
+Q11802699;Pano Deftera
+Q11811164;Paramali
+Q11816998;Pigenia
+Q11818707;Pitargou
+Q12880005;Lasa
+Q12883498;Platres
+Q14623619;Akrotiri
+Q16269888;Pano Polemidia
+Q16269991;Kato Lefkara
+Q16329309;Orga
+Q18639390;Kosi
+Q18639579;Neo Chorio
+Q18712727;Agioi Iliofotoi
+Q19401193;Kato Kivides
+Q22988437;Kato Pyrgos
+Q22988498;Pano Arodes
+Q47310184;Troodos (community)
+Q47313286;Livadi
+Q47317422;Agios Theodoros Tilliria
+Q47317880;Margo
+Q47317971;Kato Deftera
+Q47318051;Pano Zodeia
+Q47318142;Palaichori Morfou
+Q47318147;Palaichori Oreinis
+Q47318217;Pano Pyrgos
+Q55966163;Statos
+Q55966164;Agios Fotios
+Q56266866;Agia Eirini Keryneias
+Q56266867;Agios Amvrosios Keryneias
+Q56266868;Agios Georgios Keryneias
+Q56266869;Agios Epiktitos Kyrenia
+Q56266870;Agios Ermolaos
+Q56266871;Agridaki
+Q56266872;Agirda
+Q56266874;Asomatos Keryneias
+Q56266875;Vasileia
+Q56266876;Vouno
+Q56266877;Diorios
+Q56266878;Elia Keryneias
+Q56266879;Thermeia
+Q56266880;Kazafani
+Q56266881;Kalograia
+Q56266882;Kampyli
+Q56266885;Karakoumi
+Q56266886;Karmi
+Q56266887;Karpaseia
+Q56266888;Kato Dikomo
+Q56266890;Kiomourtzou
+Q56266891;Klepini
+Q56266892;Kontemenos
+Q56266893;Kormakitis
+Q56266894;Koutsoventis
+Q56266895;Krini
+Q56266897;Larnakas Lapithou
+Q56266898;Livera
+Q56266899;Motides
+Q56266900;Belapais
+Q56266901;Myrtou
+Q56266904;Palaiosofos
+Q56266905;Panagra
+Q56266906;Pano Dikomo
+Q56266907;Pileri
+Q56266908;Sichari
+Q56266909;Sysklipos
+Q56266910;Templos
+Q56266911;Trapeza
+Q56266912;Trimithi
+Q56266913;Ftericha
+Q56266914;Fota
+Q56266915;Charkeia
+Q56421321;Agia Trias
+Q56421322;Agios Andronikos Karpasias
+Q56421323;Agios Andronikos Trikomou
+Q56421324;Agios Georgios Ammochostou
+Q56421325;Agios Efstathios
+Q56421326;Agios Ilias
+Q56421328;Agios Theodoros Ammochostou
+Q56421329;Agios Iakovos
+Q56421330;Agios Nikolaos Ammochostou
+Q56421331;Agios Sergios
+Q56421333;Agios Symeon
+Q56421334;Agios Chariton
+Q56421335;Angastina
+Q56421336;Aloda
+Q56421337;Ardana
+Q56421338;Arnadi
+Q56421339;Artemi
+Q56421340;Asseia
+Q56421341;Avgolida
+Q56421342;Afanteia-Ornithi
+Q56421343;Acheritou
+Q56421345;Achna
+Q56421346;Vathylakas
+Q56421347;Vasili
+Q56421348;Vatili
+Q56421349;Vitsada
+Q56421350;Vokolida
+Q56421351;Gaidouras
+Q56421352;Galateia
+Q56421353;Galinoporni
+Q56421355;Gastria
+Q56421356;Genagra
+Q56421357;Gerani
+Q56421358;Aigialousa
+Q56421359;Goufes
+Q56421360;Gypsou
+Q56421361;Davlos
+Q56421362;Egkomi Ammochostou
+Q56421364;Eptakomi
+Q56421365;Kalopsida
+Q56421366;Knodara
+Q56421367;Koilanemos
+Q56421368;Kontea
+Q56421370;Kornokipos
+Q56421371;Koroveia
+Q56421372;Kouklia Ammochostou
+Q56421373;Krideia
+Q56421374;Koma tou Gialou
+Q56421375;Komi Kepir
+Q56421376;Lapathos
+Q56421378;Livadia Ammochostou
+Q56421379;Leonarisso
+Q56421380;Limnia
+Q56421381;Lythragkomi
+Q56421382;Makrasyka
+Q56421383;Mandres Ammochostou
+Q56421385;Maratha
+Q56421386;Marathovounos
+Q56421387;Melanarga
+Q56421388;Melounta
+Q56421389;Milia Ammochostou
+Q56421391;Monarga
+Q56421392;Mousoulita
+Q56421393;Bogazi
+Q56421394;Neta
+Q56421395;Ovgoros
+Q56421397;Patriki
+Q56421398;Perivolia Trikomou
+Q56421399;Peristerona Ammochostou
+Q56421400;Pigi
+Q56421401;Platani
+Q56421402;Platanissos
+Q56421404;Prastio Ammochostou
+Q56421405;Pyrga Ammochostou
+Q56421406;Rizokarpaso
+Q56421407;Santalaris
+Q56421408;Sinta
+Q56421410;Spathariko
+Q56421411;Strongylos
+Q56421412;Stylloi
+Q56421413;Sygkrasi
+Q56421414;Tavrou
+Q56421415;Kiados
+Q56421416;Trikomo
+Q56421417;Trypimeni
+Q56421418;Flamoudi
+Q56421419;Psyllatos
+Q56425758;Ortakioï
+Q56425759;Trachonas
+Q56425761;Agia Kepir
+Q56425763;Tymvou
+Q56425764;Mora
+Q56425765;Mia Milia
+Q56425766;Mandres Lefkosias
+Q56425768;Palaikythro
+Q56425773;Exo Metochi
+Q56425774;Epicho
+Q56425775;Voni
+Q56425776;Trachoni Lefkosias
+Q56425778;Neo Chorio Lefkosias
+Q56425780;Beïkioï
+Q56425781;Petra tou Digeni
+Q56425782;Kalyvakia
+Q56425783;Kourou Monastiri
+Q56425785;Agia Marina Skyllouras
+Q56425787;Skylloura
+Q56425788;Agios Vasileios
+Q56425789;Dyo Potamoi
+Q56425790;Kanli
+Q56425791;Kioneli
+Q56425794;Kato Zodeia
+Q56425795;Kazivera
+Q56425796;Prastio Lefkosias
+Q56425797;Nikitas
+Q56425798;Syrianochori
+Q56425799;Kalo Chorio Kapouti
+Q56425801;Argaki
+Q56425802;Masari
+Q56425803;Fyllia
+Q56425804;Kyra
+Q56425805;Kalo Chorio Soleas
+Q56425807;Peristeronari
+Q56425808;Elia Lefkosias
+Q56425809;Karavostasi
+Q56425810;Pentageia
+Q56425811;Loutros
+Q56435761;Louroukina
+Q56435762;Pyrogi
+Q56435764;Gerolakkos
+Q56435766;Avlona
+Q56435767;Katokopia
+Q56435768;Petra
+Q56435769;Lefka
+Q56435770;Ampelikou
+Q56435771;Angolemi
+Q56435772;Galini
+Q56435773;Xerovounos
+Q56435774;Ammadies
+Q56435775;Kokkina
+Q56448937;Arsos, Larnaca
+Q56448957;Melouseia
+Q56448972;Tremetousia
+Q56449024;Pergamos, Cyprus

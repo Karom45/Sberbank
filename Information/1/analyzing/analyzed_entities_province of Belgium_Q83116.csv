@@ -1,0 +1,678 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q1095;Limburg;административно-территориальная единица;1;148;to
+Q1126;Luxembourg;названо в честь;1;1;from
+Q1125;Namur;место рождения;1;12;to
+Q1125;Namur;юрисдикция распространяется на;1;1;to
+Q1125;Namur;категория объединяет темы;1;7;to
+Q1125;Namur;основная тема;1;2;to
+Q1125;Namur;зона обслуживания;1;1;to
+Q1125;Namur;общая тема категории;1;1;to
+Q1125;Namur;основные направления;1;1;to
+Q1126;Luxembourg;административно-территориальная единица;1;101;to
+Q1126;Luxembourg;административно делится на;1;1;to
+Q1125;Namur;геоданные;1;1;from
+Q1126;Luxembourg;описание флага;1;1;from
+Q1126;Luxembourg;государство;1;1;from
+Q1126;Luxembourg;изображение;1;1;from
+Q1126;Luxembourg;карта местонахождения;1;1;from
+Q1126;Luxembourg;это частный случай понятия;1;1;from
+Q1126;Luxembourg;столица;1;1;from
+Q1126;Luxembourg;изображение флага;1;1;from
+Q1126;Luxembourg;имеет границы с;1;8;to
+Q1125;Namur;расположение штаб-квартиры;1;1;to
+Q1125;Namur;основная тема портала Викимедиа;1;1;to
+Q1125;Namur;является столицей;1;1;to
+Q1125;Namur;место смерти;1;24;to
+Q1125;Namur;часовой пояс;1;1;from
+Q1125;Namur;идентификатор местоположения ArchINFORM;1;1;from
+Q1125;Namur;ежегодное количество свадеб;1;1;from
+Q1125;Namur;код NUTS;1;1;from
+Q1125;Namur;наивысшая точка;1;1;from
+Q1125;Namur;географические координаты;1;1;from
+Q1125;Namur;код Freebase;1;1;from
+Q1125;Namur;Who's on First ID;1;1;from
+Q1125;Namur;French Vikidia ID;1;1;from
+Q1125;Namur;категория карт на Викискладе;1;1;from
+Q1125;Namur;официальный сайт;1;1;from
+Q1125;Namur;FIPS 10-4 (страны и регионы);1;1;from
+Q1125;Namur;основная категория по теме;1;1;from
+Q1125;Namur;баннер Викигида;1;1;from
+Q1125;Namur;место в MusicBrainz;1;1;from
+Q1125;Namur;dmoz;1;1;from
+Q1125;Namur;происходит из;1;3;to
+Q1126;Luxembourg;глава правительства;1;1;from
+Q1126;Luxembourg;изображение герба;1;1;from
+Q1126;Luxembourg;численность населения;1;2;from
+Q1126;Luxembourg;ID отношения в OpenStreetMap;1;1;from
+Q1126;Luxembourg;код тезауруса PACTOLS;1;1;from
+Q1126;Luxembourg;идентификатор местоположения ArchINFORM;1;1;from
+Q1126;Luxembourg;дата основания/создания/возникновения;1;1;from
+Q1126;Luxembourg;ежегодное количество свадеб;1;1;from
+Q1126;Luxembourg;код NUTS;1;1;from
+Q1126;Luxembourg;наивысшая точка;1;1;from
+Q1126;Luxembourg;географические координаты;1;1;from
+Q1126;Luxembourg;код Freebase;1;1;from
+Q1126;Luxembourg;Who's on First ID;1;1;from
+Q1126;Luxembourg;French Vikidia ID;1;1;from
+Q1126;Luxembourg;официальный сайт;1;1;from
+Q1126;Luxembourg;FIPS 10-4 (страны и регионы);1;1;from
+Q1126;Luxembourg;основная категория по теме;1;1;from
+Q1126;Luxembourg;баннер Викигида;1;1;from
+Q1126;Luxembourg;место в MusicBrainz;1;1;from
+Q1126;Luxembourg;dmoz;1;1;from
+Q1126;Luxembourg;место смерти;1;12;to
+Q1126;Luxembourg;часовой пояс;1;1;from
+Q1126;Luxembourg;геоданные;1;1;from
+Q1126;Luxembourg;портал Викимедиа;1;1;from
+Q1126;Luxembourg;категория на Викискладе;1;1;from
+Q1126;Luxembourg;код в Большой каталанской энциклопедии;1;1;from
+Q1126;Luxembourg;описывается в источниках;1;1;from
+Q1126;Luxembourg;код в энциклопедии «Британника онлайн»;1;1;from
+Q1126;Luxembourg;список памятников;1;1;from
+Q1126;Luxembourg;категория для людей, родившихся здесь;1;1;from
+Q1126;Luxembourg;категория для людей, умерших здесь;1;1;from
+Q1126;Luxembourg;код GeoNames;1;1;from
+Q1126;Luxembourg;код NIS/INS;1;1;from
+Q1126;Luxembourg;название на языке оригинала;1;1;from
+Q1126;Luxembourg;категория для людей, связанных с местностью;1;1;from
+Q1126;Luxembourg;высота над уровнем моря;1;1;from
+Q1126;Luxembourg;площадь;1;1;from
+Q1126;Luxembourg;код BabelNet;1;1;from
+Q1126;Luxembourg;используемый язык;1;1;from
+Q1126;Luxembourg;ISO 3166-2;1;1;from
+Q1126;Luxembourg;код в Encyclopædia Universalis;1;1;from
+Q1126;Luxembourg;часть от;1;1;to
+Q1125;Namur;ID отношения в OpenStreetMap;1;1;from
+Q1125;Namur;категория на Викискладе;1;1;from
+Q1122;Walloon Brabant;изображение герба;1;1;from
+Q1122;Walloon Brabant;Who's on First ID;1;1;from
+Q1122;Walloon Brabant;часовой пояс;1;1;from
+Q1122;Walloon Brabant;код тезауруса PACTOLS;1;1;from
+Q1122;Walloon Brabant;произношение (звуковой файл);1;1;from
+Q1122;Walloon Brabant;идентификатор местоположения ArchINFORM;1;1;from
+Q1122;Walloon Brabant;ежегодное количество свадеб;1;1;from
+Q1122;Walloon Brabant;код NUTS;1;1;from
+Q1122;Walloon Brabant;географические координаты;1;1;from
+Q1122;Walloon Brabant;код Freebase;1;1;from
+Q1122;Walloon Brabant;French Vikidia ID;1;1;from
+Q1125;Namur;часть от;1;1;from
+Q1122;Walloon Brabant;официальный сайт;1;1;from
+Q1122;Walloon Brabant;FIPS 10-4 (страны и регионы);1;1;from
+Q1122;Walloon Brabant;основная категория по теме;1;1;from
+Q1122;Walloon Brabant;баннер Викигида;1;1;from
+Q1122;Walloon Brabant;место в MusicBrainz;1;1;from
+Q1122;Walloon Brabant;dmoz;1;1;from
+Q1122;Walloon Brabant;происходит из;1;2;to
+Q1122;Walloon Brabant;место смерти;1;12;to
+Q1122;Walloon Brabant;ID отношения в OpenStreetMap;1;1;from
+Q1122;Walloon Brabant;геоданные;1;1;from
+Q1122;Walloon Brabant;категория на Викискладе;1;1;from
+Q1122;Walloon Brabant;код темы Quora;1;1;from
+Q1122;Walloon Brabant;численность населения;1;2;from
+Q1122;Walloon Brabant;портал Викимедиа;1;1;from
+Q1122;Walloon Brabant;код в Большой каталанской энциклопедии;1;1;from
+Q1122;Walloon Brabant;код в энциклопедии «Британника онлайн»;1;1;from
+Q1122;Walloon Brabant;список памятников;1;1;from
+Q1122;Walloon Brabant;категория для людей, родившихся здесь;1;1;from
+Q1122;Walloon Brabant;категория для людей, умерших здесь;1;1;from
+Q1122;Walloon Brabant;код GeoNames;1;1;from
+Q1122;Walloon Brabant;код NIS/INS;1;1;from
+Q1122;Walloon Brabant;название на языке оригинала;1;2;from
+Q1122;Walloon Brabant;категория для людей, связанных с местностью;1;1;from
+Q1122;Walloon Brabant;высота над уровнем моря;1;1;from
+Q1122;Walloon Brabant;площадь;1;1;from
+Q1122;Walloon Brabant;код BabelNet;1;1;from
+Q1122;Walloon Brabant;код BNF;1;1;from
+Q1122;Walloon Brabant;используемый язык;1;2;from
+Q1122;Walloon Brabant;ISO 3166-2;1;1;from
+Q1122;Walloon Brabant;место рождения;1;11;to
+Q1122;Walloon Brabant;основная тема портала Викимедиа;1;1;to
+Q1122;Walloon Brabant;является столицей;1;1;to
+Q1125;Namur;портал Викимедиа;1;1;from
+Q1125;Namur;описывается в источниках;1;3;from
+Q1125;Namur;код в энциклопедии «Британника онлайн»;1;1;from
+Q1125;Namur;официальное название;1;1;from
+Q1125;Namur;список памятников;1;1;from
+Q1125;Namur;категория для людей, родившихся здесь;1;1;from
+Q1125;Namur;категория для людей, умерших здесь;1;1;from
+Q1125;Namur;код GeoNames;1;1;from
+Q1125;Namur;код NIS/INS;1;1;from
+Q1125;Namur;название на языке оригинала;1;2;from
+Q1125;Namur;категория для людей, связанных с местностью;1;1;from
+Q1125;Namur;высота над уровнем моря;1;1;from
+Q1125;Namur;площадь;1;1;from
+Q1125;Namur;код BabelNet;1;1;from
+Q1125;Namur;код BNF;1;1;from
+Q1125;Namur;используемый язык;1;2;from
+Q1125;Namur;ISO 3166-2;1;1;from
+Q1125;Namur;код в Encyclopædia Universalis;1;1;from
+Q1125;Namur;код в Большой каталанской энциклопедии;1;1;from
+Q1125;Namur;численность населения;1;3;from
+Q1122;Walloon Brabant;место жительства;1;1;to
+Q1125;Namur;изображение герба;1;1;from
+Q1122;Walloon Brabant;категория объединяет темы;1;6;to
+Q1122;Walloon Brabant;юрисдикция распространяется на;1;1;to
+Q1122;Walloon Brabant;зона обслуживания;1;1;to
+Q1122;Walloon Brabant;местонахождение;1;2;to
+Q1122;Walloon Brabant;общая тема категории;1;1;to
+Q1122;Walloon Brabant;следующее по порядку;1;1;to
+Q1125;Namur;административно-территориальная единица;1;69;to
+Q1125;Namur;названо в честь;1;1;from
+Q1125;Namur;административно делится на;1;1;to
+Q1125;Namur;описание флага;1;1;from
+Q1125;Namur;государство;1;1;from
+Q1125;Namur;карта местонахождения;1;1;from
+Q1125;Namur;это частный случай понятия;1;1;from
+Q1125;Namur;столица;1;1;from
+Q1125;Namur;изображение флага;1;1;from
+Q1125;Namur;имеет границы с;1;5;to
+Q1125;Namur;глава правительства;1;1;from
+Q1126;Luxembourg;место рождения;1;12;to
+Q1126;Luxembourg;основная тема портала Викимедиа;1;1;to
+Q1126;Luxembourg;юрисдикция распространяется на;1;1;to
+Q1129;Hainaut;идентификатор местоположения ArchINFORM;1;1;from
+Q1129;Hainaut;используемый язык;1;3;from
+Q1129;Hainaut;ISO 3166-2;1;1;from
+Q1129;Hainaut;код в Encyclopædia Universalis;1;1;from
+Q1129;Hainaut;идентификатор Ringgold;1;1;from
+Q1129;Hainaut;категория на Викискладе;1;1;from
+Q1129;Hainaut;геоданные;1;1;from
+Q1129;Hainaut;ID отношения в OpenStreetMap;1;1;from
+Q1129;Hainaut;часовой пояс;1;1;from
+Q1129;Hainaut;ежегодное количество свадеб;1;1;from
+Q1126;Luxembourg;категория объединяет темы;1;5;to
+Q1129;Hainaut;код NUTS;1;1;from
+Q1129;Hainaut;географические координаты;1;1;from
+Q1129;Hainaut;код Freebase;1;1;from
+Q1129;Hainaut;Who's on First ID;1;1;from
+Q1129;Hainaut;French Vikidia ID;1;1;from
+Q1129;Hainaut;официальный сайт;1;1;from
+Q1129;Hainaut;FIPS 10-4 (страны и регионы);1;1;from
+Q1129;Hainaut;основная категория по теме;1;1;from
+Q1129;Hainaut;код BabelNet;1;1;from
+Q1129;Hainaut;площадь;1;1;from
+Q1129;Hainaut;высота над уровнем моря;1;1;from
+Q1129;Hainaut;категория для людей, связанных с местностью;1;1;from
+Q1129;Hainaut;столица;1;1;from
+Q1129;Hainaut;изображение флага;1;1;from
+Q1129;Hainaut;имеет границы с;1;9;to
+Q1129;Hainaut;глава правительства;1;1;from
+Q1129;Hainaut;изображение герба;1;1;from
+Q1129;Hainaut;численность населения;1;2;from
+Q1129;Hainaut;портал Викимедиа;1;1;from
+Q1129;Hainaut;код в Большой каталанской энциклопедии;1;1;from
+Q1129;Hainaut;код в энциклопедии «Британника онлайн»;1;1;from
+Q1129;Hainaut;официальное название;1;1;from
+Q1129;Hainaut;список памятников;1;1;from
+Q1129;Hainaut;категория для людей, родившихся здесь;1;1;from
+Q1129;Hainaut;категория для людей, умерших здесь;1;1;from
+Q1129;Hainaut;этнохороним;1;1;from
+Q1129;Hainaut;код GeoNames;1;1;from
+Q1129;Hainaut;код NIS/INS;1;1;from
+Q1129;Hainaut;название на языке оригинала;1;2;from
+Q1129;Hainaut;галерея на Викискладе;1;1;from
+Q1129;Hainaut;баннер Викигида;1;1;from
+Q1129;Hainaut;место в MusicBrainz;1;1;from
+Q848831;Province of Brabant;следующее по порядку;1;1;to
+Q848831;Province of Brabant;карта местонахождения;1;1;from
+Q848831;Province of Brabant;это частный случай понятия;1;1;from
+Q848831;Province of Brabant;столица;1;1;from
+Q848831;Province of Brabant;официальный язык;1;1;from
+Q848831;Province of Brabant;изображение флага;1;1;from
+Q848831;Province of Brabant;код NIS/INS;1;1;from
+Q848831;Province of Brabant;код BabelNet;1;1;from
+Q848831;Province of Brabant;архивы хранятся в;1;1;from
+Q848831;Province of Brabant;дата основания/создания/возникновения;1;1;from
+Q848831;Province of Brabant;дата прекращения существования;1;1;from
+Q848831;Province of Brabant;географические координаты;1;1;from
+Q848831;Province of Brabant;код Freebase;1;1;from
+Q848831;Province of Brabant;FIPS 10-4 (страны и регионы);1;1;from
+Q848831;Province of Brabant;имеет границы с;1;1;to
+Q848831;Province of Brabant;место рождения;1;4;to
+Q848831;Province of Brabant;местонахождение;1;1;to
+Q848831;Province of Brabant;источник материала;1;2;to
+Q848831;Province of Brabant;государство;1;1;from
+Q848831;Province of Brabant;предыдущее по порядку;1;3;to
+Q1129;Hainaut;dmoz;1;1;from
+Q848831;Province of Brabant;названо в честь;1;5;to
+Q1129;Hainaut;происходит из;1;3;to
+Q1129;Hainaut;место рождения;1;28;to
+Q1129;Hainaut;место смерти;1;20;to
+Q1129;Hainaut;основная тема портала Викимедиа;1;1;to
+Q1129;Hainaut;основная тема;1;1;to
+Q1129;Hainaut;исток водотока;1;1;to
+Q1129;Hainaut;категория объединяет темы;1;8;to
+Q1129;Hainaut;юрисдикция распространяется на;1;1;to
+Q1129;Hainaut;командовал;1;1;to
+Q1129;Hainaut;местонахождение;1;1;to
+Q1129;Hainaut;владельцем является;1;1;to
+Q1129;Hainaut;хранится в коллекции;1;1;to
+Q1129;Hainaut;эксклав от;1;1;to
+Q1129;Hainaut;общая тема категории;1;1;to
+Q1129;Hainaut;часть от;1;2;to
+Q1129;Hainaut;является столицей;1;1;to
+Q848831;Province of Brabant;административно-территориальная единица;1;3;to
+Q1129;Hainaut;это частный случай понятия;1;1;from
+Q1129;Hainaut;карта местонахождения;1;1;from
+Q1129;Hainaut;код ISNI;1;1;from
+Q1127;Liège;изображение флага;1;1;from
+Q1127;Liège;глава правительства;1;3;from
+Q1127;Liège;изображение герба;1;1;from
+Q1127;Liège;численность населения;1;2;from
+Q1127;Liège;портал Викимедиа;1;1;from
+Q1127;Liège;код US National Archives;1;1;from
+Q1127;Liège;значение в OmegaWiki;1;1;from
+Q1127;Liège;код в Большой каталанской энциклопедии;1;1;from
+Q1127;Liège;код в энциклопедии «Британника онлайн»;1;1;from
+Q1127;Liège;официальное название;1;1;from
+Q1127;Liège;список памятников;1;1;from
+Q1127;Liège;категория для людей, родившихся здесь;1;1;from
+Q1127;Liège;категория для людей, умерших здесь;1;1;from
+Q1127;Liège;код GeoNames;1;1;from
+Q1127;Liège;код NIS/INS;1;1;from
+Q1127;Liège;код TGN;1;1;from
+Q1127;Liège;название на языке оригинала;1;3;from
+Q1127;Liège;категория для людей, связанных с местностью;1;1;from
+Q1127;Liège;имеет границы с;1;12;to
+Q1127;Liège;официальный язык;1;2;from
+Q1127;Liège;код BabelNet;1;1;from
+Q1127;Liège;столица;1;1;from
+Q1126;Luxembourg;командовал;1;1;to
+Q1126;Luxembourg;основная тема;1;1;to
+Q1126;Luxembourg;место изготовления;1;1;to
+Q1126;Luxembourg;зона обслуживания;1;1;to
+Q1126;Luxembourg;общая тема категории;1;1;to
+Q1126;Luxembourg;происходит из;1;1;to
+Q1127;Liège;административно-территориальная единица;1;202;to
+Q1127;Liège;названо в честь;1;1;to
+Q1127;Liège;административно делится на;1;1;to
+Q1127;Liège;описание флага;1;1;from
+Q1127;Liège;государство;1;1;from
+Q1127;Liège;изображение;1;1;from
+Q1127;Liège;код ISNI;1;1;from
+Q1127;Liège;код VIAF;1;1;from
+Q1127;Liège;код GND;1;1;from
+Q1127;Liège;карта местонахождения;1;1;from
+Q1127;Liège;это частный случай понятия;1;1;from
+Q1127;Liège;площадь;1;1;from
+Q1127;Liège;код BNF;1;1;from
+Q1129;Hainaut;государство;1;1;from
+Q1127;Liège;происходит из;1;4;to
+Q1127;Liège;место рождения;1;18;to
+Q1127;Liège;место смерти;1;27;to
+Q1127;Liège;местонахождение;1;4;to
+Q1127;Liège;основная тема портала Викимедиа;1;1;to
+Q1127;Liège;находится в пределах природно-географического объекта;1;1;to
+Q1127;Liège;основная тема;1;1;to
+Q1127;Liège;юрисдикция распространяется на;1;3;to
+Q1127;Liège;категория объединяет темы;1;7;to
+Q1127;Liège;часть от;1;1;to
+Q1127;Liège;анклав в;1;1;to
+Q1127;Liège;зона обслуживания;1;1;to
+Q1127;Liège;общая тема категории;1;1;to
+Q1127;Liège;является столицей;1;1;to
+Q1129;Hainaut;административно-территориальная единица;1;136;to
+Q1129;Hainaut;названо в честь;1;1;to
+Q1129;Hainaut;административно делится на;1;1;to
+Q1129;Hainaut;описание флага;1;1;from
+Q1127;Liège;место активности;1;1;to
+Q1127;Liège;dmoz;1;1;from
+Q1127;Liège;используемый язык;1;3;from
+Q1127;Liège;место в MusicBrainz;1;1;from
+Q1127;Liège;ISO 3166-2;1;1;from
+Q1127;Liège;код в Encyclopædia Universalis;1;1;from
+Q1127;Liège;категория на Викискладе;1;1;from
+Q1127;Liège;ID отношения в OpenStreetMap;1;1;from
+Q1127;Liège;часовой пояс;1;1;from
+Q1127;Liège;идентификатор местоположения ArchINFORM;1;1;from
+Q1127;Liège;код NUTS;1;1;from
+Q1127;Liège;географические координаты;1;1;from
+Q1127;Liège;код Freebase;1;1;from
+Q1127;Liège;Who's on First ID;1;1;from
+Q1127;Liège;код NKC;1;1;from
+Q1127;Liège;French Vikidia ID;1;1;from
+Q1127;Liège;категория карт на Викискладе;1;1;from
+Q1127;Liège;официальный сайт;1;1;from
+Q1127;Liège;FIPS 10-4 (страны и регионы);1;1;from
+Q1127;Liège;основная категория по теме;1;1;from
+Q1127;Liège;баннер Викигида;1;1;from
+Q1122;Walloon Brabant;индекс человеческого развития;1;2;from
+Q1122;Walloon Brabant;глава правительства;1;3;from
+Q1095;Limburg;названо в честь;1;1;to
+Q1113;West Flanders;место смерти;1;50;to
+Q1113;West Flanders;French Vikidia ID;1;1;from
+Q1113;West Flanders;официальный сайт;1;1;from
+Q1113;West Flanders;FIPS 10-4 (страны и регионы);1;1;from
+Q1113;West Flanders;основная категория по теме;1;1;from
+Q1113;West Flanders;баннер Викигида;1;1;from
+Q1113;West Flanders;место в MusicBrainz;1;1;from
+Q1113;West Flanders;dmoz;1;1;from
+Q1113;West Flanders;пример использования свойства;1;1;to
+Q1113;West Flanders;местонахождение;1;10;to
+Q1113;West Flanders;категория для людей, умерших здесь;1;1;from
+Q1113;West Flanders;место рождения;1;9;to
+Q1113;West Flanders;гражданство;1;1;to
+Q1113;West Flanders;основная тема портала Викимедиа;1;1;to
+Q1113;West Flanders;командовал;1;1;to
+Q1113;West Flanders;категория объединяет темы;1;8;to
+Q1113;West Flanders;основная тема;1;1;to
+Q1113;West Flanders;юрисдикция распространяется на;1;3;to
+Q1113;West Flanders;владельцем является;1;2;to
+Q1113;West Flanders;Who's on First ID;1;1;from
+Q1113;West Flanders;код Freebase;1;1;from
+Q1113;West Flanders;географические координаты;1;1;from
+Q1113;West Flanders;наивысшая точка;1;1;from
+Q1113;West Flanders;код NIS/INS;1;1;from
+Q1113;West Flanders;код TGN;1;1;from
+Q1113;West Flanders;категория для людей, связанных с местностью;1;1;from
+Q1113;West Flanders;площадь;1;1;from
+Q1113;West Flanders;код BabelNet;1;1;from
+Q1113;West Flanders;код BNF;1;1;from
+Q1113;West Flanders;туристический центр;1;1;from
+Q1113;West Flanders;ISO 3166-2;1;1;from
+Q1113;West Flanders;код в Encyclopædia Universalis;1;1;from
+Q1113;West Flanders;код темы Quora;1;1;from
+Q1113;West Flanders;категория на Викискладе;1;1;from
+Q1113;West Flanders;геоданные;1;1;from
+Q1113;West Flanders;ID отношения в OpenStreetMap;1;1;from
+Q1113;West Flanders;часовой пояс;1;1;from
+Q1113;West Flanders;идентификатор местоположения ArchINFORM;1;1;from
+Q1113;West Flanders;ежегодное количество свадеб;1;1;from
+Q1113;West Flanders;код NUTS;1;1;from
+Q1113;West Flanders;зона обслуживания;1;1;to
+Q1113;West Flanders;часть от;1;2;to
+Q1113;West Flanders;расположение штаб-квартиры;1;2;to
+Q1114;East Flanders;портал Викимедиа;1;1;from
+Q1114;East Flanders;описывается в источниках;1;1;from
+Q1114;East Flanders;код в энциклопедии «Британника онлайн»;1;1;from
+Q1114;East Flanders;официальное название;1;1;from
+Q1114;East Flanders;список памятников;1;1;from
+Q1114;East Flanders;категория для людей, родившихся здесь;1;1;from
+Q1114;East Flanders;категория для людей, умерших здесь;1;1;from
+Q1114;East Flanders;код GeoNames;1;1;from
+Q1114;East Flanders;код NIS/INS;1;1;from
+Q1114;East Flanders;код TGN;1;1;from
+Q1114;East Flanders;название на языке оригинала;1;1;from
+Q1114;East Flanders;категория для людей, связанных с местностью;1;1;from
+Q1114;East Flanders;площадь;1;1;from
+Q1114;East Flanders;код BabelNet;1;1;from
+Q1114;East Flanders;используемый язык;1;1;from
+Q1114;East Flanders;ISO 3166-2;1;1;from
+Q1114;East Flanders;код в Encyclopædia Universalis;1;1;from
+Q1114;East Flanders;идентификатор Ringgold;1;1;from
+Q1114;East Flanders;код в Большой каталанской энциклопедии;1;1;from
+Q1114;East Flanders;численность населения;1;2;from
+Q1113;West Flanders;исток водотока;1;1;to
+Q1114;East Flanders;изображение герба;1;1;from
+Q1113;West Flanders;место жительства;1;9;to
+Q1113;West Flanders;место активности;1;1;to
+Q1113;West Flanders;общая тема категории;1;1;to
+Q1113;West Flanders;является столицей;1;1;to
+Q1114;East Flanders;административно-территориальная единица;1;214;to
+Q1114;East Flanders;названо в честь;1;1;from
+Q1114;East Flanders;административно делится на;1;1;to
+Q1114;East Flanders;описание флага;1;1;from
+Q1114;East Flanders;государство;1;1;from
+Q1114;East Flanders;изображение;1;1;from
+Q1114;East Flanders;код ISNI;1;1;from
+Q1114;East Flanders;карта местонахождения;1;1;from
+Q1114;East Flanders;это частный случай понятия;1;1;from
+Q1114;East Flanders;столица;1;1;from
+Q1114;East Flanders;изображение флага;1;1;from
+Q1114;East Flanders;имеет границы с;1;5;to
+Q1114;East Flanders;глава правительства;1;3;from
+Q1113;West Flanders;код GeoNames;1;1;from
+Q1113;West Flanders;категория для людей, родившихся здесь;1;1;from
+Q1122;Walloon Brabant;имеет границы с;1;4;to
+Q1095;Limburg;ISO 3166-2;1;1;from
+Q1095;Limburg;категория для людей, умерших здесь;1;1;from
+Q1095;Limburg;код GeoNames;1;1;from
+Q1095;Limburg;код NIS/INS;1;1;from
+Q1095;Limburg;название на языке оригинала;1;2;from
+Q1095;Limburg;категория для людей, связанных с местностью;1;1;from
+Q1095;Limburg;площадь;1;1;from
+Q1095;Limburg;код BabelNet;1;1;from
+Q1095;Limburg;используемый язык;1;2;from
+Q1095;Limburg;код в Encyclopædia Universalis;1;1;from
+Q1113;West Flanders;список памятников;1;1;from
+Q1095;Limburg;часть от;1;2;to
+Q1095;Limburg;категория на Викискладе;1;1;from
+Q1095;Limburg;геоданные;1;1;from
+Q1095;Limburg;ID отношения в OpenStreetMap;1;1;from
+Q1095;Limburg;часовой пояс;1;1;from
+Q1095;Limburg;идентификатор местоположения ArchINFORM;1;1;from
+Q1095;Limburg;ежегодное количество свадеб;1;1;from
+Q1095;Limburg;код NUTS;1;1;from
+Q1095;Limburg;категория для людей, родившихся здесь;1;1;from
+Q1095;Limburg;список памятников;1;1;from
+Q1095;Limburg;официальное название;1;1;from
+Q1095;Limburg;код в энциклопедии «Британника онлайн»;1;1;from
+Q1095;Limburg;административно делится на;1;1;to
+Q1095;Limburg;описание флага;1;1;from
+Q1095;Limburg;государство;1;1;from
+Q1095;Limburg;изображение;1;1;from
+Q1095;Limburg;код VIAF;1;1;from
+Q1095;Limburg;код GND;1;1;from
+Q1095;Limburg;карта местонахождения;1;1;from
+Q1095;Limburg;это частный случай понятия;1;1;from
+Q1095;Limburg;столица;1;1;from
+Q1095;Limburg;официальный язык;1;1;from
+Q1095;Limburg;изображение флага;1;1;from
+Q1095;Limburg;имеет границы с;1;5;to
+Q1095;Limburg;глава правительства;1;1;from
+Q1095;Limburg;изображение герба;1;1;from
+Q1095;Limburg;численность населения;1;2;from
+Q1095;Limburg;код в Большой каталанской энциклопедии;1;1;from
+Q1095;Limburg;описывается в источниках;1;1;from
+Q1095;Limburg;географические координаты;1;1;from
+Q1095;Limburg;код Freebase;1;1;from
+Q1095;Limburg;Who's on First ID;1;1;from
+Q1113;West Flanders;названо в честь;1;1;from
+Q1113;West Flanders;описание флага;1;1;from
+Q1113;West Flanders;государство;1;1;from
+Q1113;West Flanders;изображение;1;1;from
+Q1113;West Flanders;код ISNI;1;1;from
+Q1113;West Flanders;карта местонахождения;1;1;from
+Q1113;West Flanders;это частный случай понятия;1;1;from
+Q1113;West Flanders;столица;1;1;from
+Q1113;West Flanders;изображение флага;1;1;from
+Q1113;West Flanders;имеет границы с;1;4;to
+Q1113;West Flanders;глава правительства;1;1;from
+Q1113;West Flanders;изображение герба;1;1;from
+Q1113;West Flanders;десятичная классификация Дьюи;1;1;from
+Q1113;West Flanders;численность населения;1;3;from
+Q1113;West Flanders;портал Викимедиа;1;1;from
+Q1113;West Flanders;код в Большой каталанской энциклопедии;1;1;from
+Q1113;West Flanders;описывается в источниках;1;1;from
+Q1113;West Flanders;код в энциклопедии «Британника онлайн»;1;1;from
+Q1113;West Flanders;административно делится на;1;1;to
+Q1113;West Flanders;административно-территориальная единица;1;274;to
+Q1095;Limburg;French Vikidia ID;1;1;from
+Q1095;Limburg;является столицей;1;1;to
+Q1095;Limburg;официальный сайт;1;1;from
+Q1095;Limburg;FIPS 10-4 (страны и регионы);1;1;from
+Q1095;Limburg;основная категория по теме;1;1;from
+Q1095;Limburg;баннер Викигида;1;1;from
+Q1095;Limburg;место в MusicBrainz;1;1;from
+Q1095;Limburg;происходит из;1;2;to
+Q1095;Limburg;место смерти;1;9;to
+Q1095;Limburg;место рождения;1;12;to
+Q1095;Limburg;заменён на;1;1;to
+Q1095;Limburg;категория объединяет темы;1;7;to
+Q1095;Limburg;основная тема;1;1;to
+Q1095;Limburg;юрисдикция распространяется на;1;1;to
+Q1095;Limburg;эксклав от;1;1;to
+Q1095;Limburg;место съёмок;1;1;to
+Q1095;Limburg;местонахождение;1;6;to
+Q1095;Limburg;расположение штаб-квартиры;1;1;to
+Q1095;Limburg;общая тема категории;1;1;to
+Q1114;East Flanders;категория на Викискладе;1;1;from
+Q1114;East Flanders;геоданные;1;1;from
+Q1114;East Flanders;ID отношения в OpenStreetMap;1;1;from
+Q1118;Flemish Brabant;категория для людей, умерших здесь;1;1;from
+Q1118;Flemish Brabant;изображение герба;1;1;from
+Q1118;Flemish Brabant;численность населения;1;2;from
+Q1118;Flemish Brabant;портал Викимедиа;1;1;from
+Q1118;Flemish Brabant;код в Большой каталанской энциклопедии;1;1;from
+Q1118;Flemish Brabant;код в энциклопедии «Британника онлайн»;1;1;from
+Q1118;Flemish Brabant;официальное название;1;1;from
+Q1118;Flemish Brabant;список памятников;1;1;from
+Q1118;Flemish Brabant;категория для людей, родившихся здесь;1;1;from
+Q1118;Flemish Brabant;код GeoNames;1;1;from
+Q1114;East Flanders;часовой пояс;1;1;from
+Q1118;Flemish Brabant;код NIS/INS;1;1;from
+Q1118;Flemish Brabant;название на языке оригинала;1;1;from
+Q1118;Flemish Brabant;категория для людей, похороненных здесь;1;1;from
+Q1118;Flemish Brabant;категория для людей, связанных с местностью;1;1;from
+Q1118;Flemish Brabant;площадь;1;1;from
+Q1118;Flemish Brabant;код BabelNet;1;1;from
+Q1118;Flemish Brabant;используемый язык;1;1;from
+Q1118;Flemish Brabant;ISO 3166-2;1;1;from
+Q1118;Flemish Brabant;глава правительства;1;1;from
+Q1118;Flemish Brabant;имеет границы с;1;7;to
+Q1118;Flemish Brabant;изображение флага;1;1;from
+Q1118;Flemish Brabant;столица;1;1;from
+Q1116;Antwerp;категория объединяет темы;1;7;to
+Q1116;Antwerp;эксклав от;1;1;to
+Q1116;Antwerp;место активности;1;2;to
+Q1116;Antwerp;юрисдикция распространяется на;1;2;to
+Q1116;Antwerp;общая тема категории;1;1;to
+Q1116;Antwerp;местонахождение;1;1;to
+Q1116;Antwerp;является столицей;1;1;to
+Q1116;Antwerp;происходит из;1;1;to
+Q1118;Flemish Brabant;административно-территориальная единица;1;147;to
+Q1118;Flemish Brabant;названо в честь;1;2;from
+Q1118;Flemish Brabant;административно делится на;1;1;to
+Q1118;Flemish Brabant;предыдущее по порядку;1;1;from
+Q1118;Flemish Brabant;описание флага;1;1;from
+Q1118;Flemish Brabant;государство;1;1;from
+Q1118;Flemish Brabant;город-побратим;1;1;to
+Q1118;Flemish Brabant;карта местонахождения;1;1;from
+Q1118;Flemish Brabant;это частный случай понятия;1;1;from
+Q1118;Flemish Brabant;категория на Викискладе;1;1;from
+Q1118;Flemish Brabant;ID отношения в OpenStreetMap;1;1;from
+Q1118;Flemish Brabant;часовой пояс;1;1;from
+Q1118;Flemish Brabant;часть от;1;2;to
+Q1118;Flemish Brabant;место погребения;1;2;to
+Q1118;Flemish Brabant;местонахождение;1;2;to
+Q1118;Flemish Brabant;общая тема категории;1;1;to
+Q1118;Flemish Brabant;следующее по порядку;1;1;to
+Q1118;Flemish Brabant;происходит из;1;1;to
+Q1122;Walloon Brabant;административно-территориальная единица;1;42;to
+Q1122;Walloon Brabant;названо в честь;1;2;from
+Q1122;Walloon Brabant;административно делится на;1;1;to
+Q1122;Walloon Brabant;предыдущее по порядку;1;1;from
+Q1122;Walloon Brabant;описание флага;1;1;from
+Q1122;Walloon Brabant;государство;1;1;from
+Q1122;Walloon Brabant;описание герба;1;1;from
+Q1122;Walloon Brabant;карта местонахождения;1;1;from
+Q1122;Walloon Brabant;часть света;1;1;from
+Q1122;Walloon Brabant;это частный случай понятия;1;1;from
+Q1122;Walloon Brabant;столица;1;1;from
+Q1122;Walloon Brabant;изображение флага;1;1;from
+Q1118;Flemish Brabant;владельцем является;1;1;to
+Q1118;Flemish Brabant;категория объединяет темы;1;8;to
+Q1118;Flemish Brabant;идентификатор местоположения ArchINFORM;1;1;from
+Q1118;Flemish Brabant;юрисдикция распространяется на;1;2;to
+Q1118;Flemish Brabant;ежегодное количество свадеб;1;1;from
+Q1118;Flemish Brabant;код NUTS;1;1;from
+Q1118;Flemish Brabant;географические координаты;1;1;from
+Q1118;Flemish Brabant;код Freebase;1;1;from
+Q1118;Flemish Brabant;Who's on First ID;1;1;from
+Q1118;Flemish Brabant;French Vikidia ID;1;1;from
+Q1118;Flemish Brabant;официальный сайт;1;1;from
+Q1118;Flemish Brabant;FIPS 10-4 (страны и регионы);1;1;from
+Q1118;Flemish Brabant;основная категория по теме;1;1;from
+Q1118;Flemish Brabant;баннер Викигида;1;1;from
+Q1118;Flemish Brabant;место в MusicBrainz;1;1;from
+Q1118;Flemish Brabant;анклав в;1;1;to
+Q1118;Flemish Brabant;место смерти;1;23;to
+Q1118;Flemish Brabant;является столицей;1;1;to
+Q1118;Flemish Brabant;основная тема портала Викимедиа;1;1;to
+Q1118;Flemish Brabant;место рождения;1;8;to
+Q1118;Flemish Brabant;история происходит в месте;1;1;to
+Q1116;Antwerp;место смерти;1;1;to
+Q1116;Antwerp;расположение штаб-квартиры;1;1;to
+Q1116;Antwerp;владельцем является;1;6;to
+Q1114;East Flanders;зона обслуживания;1;2;to
+Q1114;East Flanders;категория объединяет темы;1;7;to
+Q1114;East Flanders;общая тема категории;1;1;to
+Q1114;East Flanders;часть от;1;3;to
+Q1114;East Flanders;является столицей;1;1;to
+Q1114;East Flanders;происходит из;1;1;to
+Q1116;Antwerp;административно-территориальная единица;1;168;to
+Q1116;Antwerp;названо в честь;1;1;from
+Q1116;Antwerp;административно делится на;1;2;to
+Q1116;Antwerp;государство;1;1;from
+Q1116;Antwerp;изображение;1;4;from
+Q1116;Antwerp;код ISNI;1;1;from
+Q1116;Antwerp;карта местонахождения;1;1;from
+Q1116;Antwerp;это частный случай понятия;1;1;from
+Q1116;Antwerp;столица;1;1;from
+Q1116;Antwerp;изображение флага;1;1;from
+Q1116;Antwerp;имеет границы с;1;6;to
+Q1116;Antwerp;глава правительства;1;1;from
+Q1114;East Flanders;основная тема;1;1;to
+Q1114;East Flanders;место рождения;1;11;to
+Q1116;Antwerp;десятичная классификация Дьюи;1;1;from
+Q1114;East Flanders;основная тема портала Викимедиа;1;1;to
+Q1114;East Flanders;идентификатор местоположения ArchINFORM;1;1;from
+Q1114;East Flanders;ежегодное количество свадеб;1;1;from
+Q1114;East Flanders;код NUTS;1;1;from
+Q1114;East Flanders;наивысшая точка;1;1;from
+Q1114;East Flanders;географические координаты;1;1;from
+Q1114;East Flanders;код Freebase;1;1;from
+Q1114;East Flanders;Who's on First ID;1;1;from
+Q1114;East Flanders;French Vikidia ID;1;1;from
+Q1114;East Flanders;официальный сайт;1;1;from
+Q1114;East Flanders;FIPS 10-4 (страны и регионы);1;1;from
+Q1114;East Flanders;основная категория по теме;1;1;from
+Q1114;East Flanders;баннер Викигида;1;1;from
+Q1114;East Flanders;место в MusicBrainz;1;1;from
+Q1114;East Flanders;dmoz;1;1;from
+Q1114;East Flanders;пример использования свойства;1;1;to
+Q1114;East Flanders;место смерти;1;8;to
+Q1114;East Flanders;юрисдикция распространяется на;1;2;to
+Q1116;Antwerp;изображение герба;1;1;from
+Q1116;Antwerp;численность населения;1;2;from
+Q1116;Antwerp;основная тема портала Викимедиа;1;1;to
+Q1116;Antwerp;категория на Викискладе;1;1;from
+Q1116;Antwerp;ID отношения в OpenStreetMap;1;1;from
+Q1116;Antwerp;часовой пояс;1;1;from
+Q1116;Antwerp;код RA Collections;1;1;from
+Q1116;Antwerp;состоит из;1;1;from
+Q1116;Antwerp;идентификатор местоположения ArchINFORM;1;1;from
+Q1116;Antwerp;ежегодное количество свадеб;1;1;from
+Q1116;Antwerp;код NUTS;1;1;from
+Q1116;Antwerp;географические координаты;1;1;from
+Q1116;Antwerp;код Freebase;1;1;from
+Q1116;Antwerp;French Vikidia ID;1;1;from
+Q1116;Antwerp;официальный сайт;1;1;from
+Q1116;Antwerp;FIPS 10-4 (страны и регионы);1;1;from
+Q1116;Antwerp;основная категория по теме;1;1;from
+Q1116;Antwerp;баннер Викигида;1;1;from
+Q1116;Antwerp;место в MusicBrainz;1;1;from
+Q1116;Antwerp;место изготовления;1;4;to
+Q1116;Antwerp;место рождения;1;2;to
+Q1116;Antwerp;геоданные;1;1;from
+Q1116;Antwerp;часть от;1;2;to
+Q1116;Antwerp;портал Викимедиа;1;1;from
+Q1116;Antwerp;идентификатор Ringgold;1;1;from
+Q1116;Antwerp;код в Большой каталанской энциклопедии;1;1;from
+Q1116;Antwerp;официальное название;1;1;from
+Q1116;Antwerp;список памятников;1;1;from
+Q1116;Antwerp;категория для людей, родившихся здесь;1;1;from
+Q1116;Antwerp;категория для людей, умерших здесь;1;1;from
+Q1116;Antwerp;код GeoNames;1;1;from
+Q1116;Antwerp;код NIS/INS;1;1;from
+Q1116;Antwerp;код TGN;1;1;from
+Q1116;Antwerp;название на языке оригинала;1;1;from
+Q1116;Antwerp;категория для людей, связанных с местностью;1;1;from
+Q1116;Antwerp;высота над уровнем моря;1;1;from
+Q1116;Antwerp;площадь;1;1;from
+Q1116;Antwerp;код BabelNet;1;1;from
+Q1116;Antwerp;код BNF;1;1;from
+Q1116;Antwerp;используемый язык;1;1;from
+Q1116;Antwerp;ISO 3166-2;1;1;from
+Q1116;Antwerp;код в Encyclopædia Universalis;1;1;from
+Q848831;Province of Brabant;юрисдикция распространяется на;1;1;to

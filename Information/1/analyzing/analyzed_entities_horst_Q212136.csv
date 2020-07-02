@@ -1,0 +1,94 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q378245;Q378245;административно-территориальная единица;1;3;from
+Q18610947;Q18610947;код VIAF;1;1;from
+Q21767889;Horst Ven;географические координаты;1;1;from
+Q21767889;Horst Ven;код GNS;1;1;from
+Q21767889;Horst Ven;высота над уровнем моря;1;1;from
+Q21767889;Horst Ven;код GeoNames;1;1;from
+Q21767889;Horst Ven;это частный случай понятия;1;1;from
+Q21767889;Horst Ven;государство;1;1;from
+Q18745240;Q18745240;это частный случай понятия;1;1;from
+Q18613127;Q18613127;это частный случай понятия;1;1;from
+Q18610947;Q18610947;это частный случай понятия;1;1;from
+Q10605460;Nävlingeåsen;географические координаты;1;2;from
+Q2695839;Linderödsåsen;код Freebase;1;1;from
+Q10605460;Nävlingeåsen;код GNS;1;1;from
+Q10605460;Nävlingeåsen;высота над уровнем моря;1;1;from
+Q10605460;Nävlingeåsen;код GeoNames;1;1;from
+Q10605460;Nävlingeåsen;это частный случай понятия;1;2;from
+Q10605460;Nävlingeåsen;государство;1;1;from
+Q10605460;Nävlingeåsen;административно-территориальная единица;1;1;from
+Q3228862;Peelhorst;находится в пределах природно-географического объекта;1;1;from
+Q3228862;Peelhorst;это частный случай понятия;1;1;from
+Q3228862;Peelhorst;государство;1;2;from
+Q23817526;Krumlovský Les;административно-территориальная единица;1;2;from
+Q23817526;Krumlovský Les;названо в честь;1;1;from
+Q23817526;Krumlovský Les;государство;1;1;from
+Q23817526;Krumlovský Les;это частный случай понятия;1;3;from
+Q54912386;Q54912386;наивысшая точка;1;1;from
+Q54912386;Q54912386;часть от;1;1;from
+Q54912386;Q54912386;площадь;1;1;from
+Q54912386;Q54912386;это частный случай понятия;1;3;from
+Q54912386;Q54912386;государство;1;1;from
+Q54908409;Q54908409;состоит из;1;1;to
+Q54908409;Q54908409;часть от;1;1;from
+Q54908409;Q54908409;это частный случай понятия;1;3;from
+Q54908409;Q54908409;государство;1;1;from
+Q50478630;Q50478630;состоит из;1;1;to
+Q50478630;Q50478630;часть от;1;1;from
+Q50478630;Q50478630;это частный случай понятия;1;2;from
+Q50478630;Q50478630;государство;1;1;from
+Q23817526;Krumlovský Les;состоит из;1;1;to
+Q23817526;Krumlovský Les;географические координаты;1;1;from
+Q23817526;Krumlovský Les;часть от;1;1;from
+Q23817526;Krumlovský Les;код GNS;1;1;from
+Q23817526;Krumlovský Les;высота над уровнем моря;1;1;from
+Q23817526;Krumlovský Les;код GeoNames;1;1;from
+Q3140826;Q3140826;это частный случай понятия;1;1;from
+Q2695839;Linderödsåsen;географические координаты;1;1;from
+Q378245;Q378245;государство;1;1;from
+Q1530442;Söderåsen National Park;это частный случай понятия;1;2;from
+Q1530442;Söderåsen National Park;географические координаты;1;1;from
+Q1530442;Söderåsen National Park;дата основания/создания/возникновения;1;1;from
+Q1530442;Söderåsen National Park;код места в Instagram;1;1;from
+Q1530442;Söderåsen National Park;категория на Викискладе;1;1;from
+Q1530442;Söderåsen National Park;Naturvårdsregistret ID;1;1;from
+Q1530442;Söderåsen National Park;площадь;1;4;from
+Q1530442;Söderåsen National Park;высота над уровнем моря;1;1;from
+Q1530442;Söderåsen National Park;учётная запись в Instagram;1;1;from
+Q1530442;Söderåsen National Park;код GeoNames;1;2;from
+Q1530442;Söderåsen National Park;изображение;1;1;from
+Q2695839;Linderödsåsen;высота над уровнем моря;1;1;from
+Q1530442;Söderåsen National Park;государство;1;1;from
+Q1530442;Söderåsen National Park;оператор;1;1;from
+Q1530442;Söderåsen National Park;административно-территориальная единица;1;4;from
+Q378245;Q378245;географические координаты;1;1;from
+Q378245;Q378245;категория на Викискладе;1;1;from
+Q378245;Q378245;высота над уровнем моря;1;1;from
+Q378245;Q378245;код GeoNames;1;1;from
+Q378245;Q378245;это частный случай понятия;1;2;from
+Q378245;Q378245;изображение;1;1;from
+Q1530442;Söderåsen National Park;код Freebase;1;1;from
+Q1530442;Söderåsen National Park;находится в пределах природно-географического объекта;1;1;from
+Q1530442;Söderåsen National Park;значимое место;1;1;from
+Q1530442;Söderåsen National Park;WDPA;1;1;from
+Q2695839;Linderödsåsen;код GeoNames;1;1;from
+Q2695839;Linderödsåsen;это частный случай понятия;1;1;from
+Q2695839;Linderödsåsen;государство;1;1;from
+Q2695839;Linderödsåsen;административно-территориальная единица;1;1;from
+Q1571379;Hallandsåsen;проходит над/под;1;1;to
+Q1571379;Hallandsåsen;код Freebase;1;1;from
+Q1571379;Hallandsåsen;географические координаты;1;1;from
+Q1571379;Hallandsåsen;высота над уровнем моря;1;1;from
+Q1571379;Hallandsåsen;код GeoNames;1;1;from
+Q1571379;Hallandsåsen;это частный случай понятия;1;1;from
+Q1571379;Hallandsåsen;изображение;1;1;from
+Q1571379;Hallandsåsen;государство;1;1;from
+Q1571379;Hallandsåsen;административно-территориальная единица;1;4;from
+Q1530442;Söderåsen National Park;общая тема категории;1;1;to
+Q1530442;Söderåsen National Park;баннер Викигида;1;1;from
+Q1530442;Söderåsen National Park;галерея на Викискладе;1;1;from
+Q1530442;Söderåsen National Park;основная категория по теме;1;1;from
+Q1530442;Söderåsen National Park;официальный сайт;1;1;from
+Q1530442;Söderåsen National Park;категория защищённых зон МСОП;1;1;from
+Q54912386;Q54912386;состоит из;1;1;to

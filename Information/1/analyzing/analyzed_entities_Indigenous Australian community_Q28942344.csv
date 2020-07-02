@@ -1,0 +1,819 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q17908;Aputula;административно-территориальная единица;1;2;from
+Q8039114;Wujal Wujal;Who's on First ID;1;1;from
+Q8039114;Wujal Wujal;WOEID;1;1;from
+Q8039114;Wujal Wujal;является столицей;1;1;from
+Q8039114;Wujal Wujal;женское население;1;3;from
+Q8039114;Wujal Wujal;мужское население;1;3;from
+Q8039114;Wujal Wujal;код GeoNames;1;1;from
+Q8039114;Wujal Wujal;почтовый индекс;1;1;from
+Q8039114;Wujal Wujal;Queensland place ID;1;2;from
+Q8039114;Wujal Wujal;Australian Statistical Geography 2011 ID;1;2;from
+Q8039114;Wujal Wujal;Australian Statistical Geography 2016 ID;1;1;from
+Q8039114;Wujal Wujal;географические координаты;1;1;from
+Q8039114;Wujal Wujal;столица;1;1;to
+Q8039114;Wujal Wujal;это частный случай понятия;1;1;from
+Q8039114;Wujal Wujal;местонахождение;1;1;to
+Q8039114;Wujal Wujal;значимое место;1;1;to
+Q8039304;Wurrenranginy Community;административно-территориальная единица;1;1;from
+Q8039304;Wurrenranginy Community;государство;1;1;from
+Q8039304;Wurrenranginy Community;это частный случай понятия;1;1;from
+Q8039304;Wurrenranginy Community;географические координаты;1;1;from
+Q8047051;Yakanarra Community;административно-территориальная единица;1;1;from
+Q8047051;Yakanarra Community;государство;1;1;from
+Q8047051;Yakanarra Community;это частный случай понятия;1;1;from
+Q8047051;Yakanarra Community;почтовый индекс;1;1;from
+Q8039114;Wujal Wujal;численность населения;1;3;from
+Q8039114;Wujal Wujal;изображение;1;1;from
+Q8061279;Yungngora Community;код GeoNames;1;1;from
+Q8030338;Wollergerberleng Community;географические координаты;1;1;from
+Q7969972;Warrayu community;географические координаты;1;1;from
+Q7990396;Weymul Community;административно-территориальная единица;1;1;from
+Q7990396;Weymul Community;государство;1;1;from
+Q7990396;Weymul Community;это частный случай понятия;1;1;from
+Q7990396;Weymul Community;почтовый индекс;1;1;from
+Q7990396;Weymul Community;географические координаты;1;1;from
+Q8030338;Wollergerberleng Community;административно-территориальная единица;1;1;from
+Q8030338;Wollergerberleng Community;государство;1;1;from
+Q8030338;Wollergerberleng Community;это частный случай понятия;1;1;from
+Q8030338;Wollergerberleng Community;почтовый индекс;1;1;from
+Q8033768;Woolah Community;административно-территориальная единица;1;1;from
+Q8039114;Wujal Wujal;государство;1;1;from
+Q8033768;Woolah Community;государство;1;1;from
+Q8033768;Woolah Community;это частный случай понятия;1;1;from
+Q8033768;Woolah Community;почтовый индекс;1;1;from
+Q8033768;Woolah Community;географические координаты;1;1;from
+Q8039069;Wuggubun Community;административно-территориальная единица;1;1;from
+Q8039069;Wuggubun Community;государство;1;1;from
+Q8039069;Wuggubun Community;это частный случай понятия;1;1;from
+Q8039069;Wuggubun Community;почтовый индекс;1;1;from
+Q8039069;Wuggubun Community;географические координаты;1;1;from
+Q8039114;Wujal Wujal;административно-территориальная единица;1;2;from
+Q8047051;Yakanarra Community;географические координаты;1;1;from
+Q8048324;Yandeyarra Community;административно-территориальная единица;1;1;from
+Q8048324;Yandeyarra Community;государство;1;1;from
+Q8053957;Yiyili Community;код GeoNames;1;1;from
+Q8049588;Yarrunga Community;почтовый индекс;1;1;from
+Q8049588;Yarrunga Community;географические координаты;1;1;from
+Q8053826;Yirrallelm Community;административно-территориальная единица;1;1;from
+Q8053826;Yirrallelm Community;государство;1;1;from
+Q8053826;Yirrallelm Community;это частный случай понятия;1;1;from
+Q8053826;Yirrallelm Community;почтовый индекс;1;1;from
+Q8053826;Yirrallelm Community;географические координаты;1;1;from
+Q8053957;Yiyili Community;административно-территориальная единица;1;1;from
+Q8053957;Yiyili Community;государство;1;1;from
+Q8053957;Yiyili Community;это частный случай понятия;1;1;from
+Q8053957;Yiyili Community;почтовый индекс;1;1;from
+Q8048324;Yandeyarra Community;это частный случай понятия;1;1;from
+Q8053957;Yiyili Community;географические координаты;1;1;from
+Q8053957;Yiyili Community;Who's on First ID;1;1;from
+Q8053957;Yiyili Community;местонахождение;1;1;to
+Q8060919;Yulga Jinna Community;административно-территориальная единица;1;1;from
+Q8060919;Yulga Jinna Community;государство;1;1;from
+Q8060919;Yulga Jinna Community;это частный случай понятия;1;1;from
+Q8060919;Yulga Jinna Community;почтовый индекс;1;1;from
+Q8060919;Yulga Jinna Community;географические координаты;1;1;from
+Q8061279;Yungngora Community;административно-территориальная единица;1;1;from
+Q8061279;Yungngora Community;государство;1;1;from
+Q8049588;Yarrunga Community;это частный случай понятия;1;1;from
+Q8049588;Yarrunga Community;государство;1;1;from
+Q8049588;Yarrunga Community;административно-территориальная единица;1;1;from
+Q8049518;Yarrabah;местонахождение;1;1;to
+Q8048324;Yandeyarra Community;почтовый индекс;1;1;from
+Q8048324;Yandeyarra Community;географические координаты;1;1;from
+Q8049518;Yarrabah;административно-территориальная единица;1;2;from
+Q8049518;Yarrabah;государство;1;1;from
+Q8049518;Yarrabah;это частный случай понятия;1;1;from
+Q8049518;Yarrabah;численность населения;1;3;from
+Q8049518;Yarrabah;является столицей;1;1;from
+Q8049518;Yarrabah;женское население;1;3;from
+Q8049518;Yarrabah;мужское население;1;3;from
+Q8049518;Yarrabah;код GeoNames;1;1;from
+Q8049518;Yarrabah;почтовый индекс;1;1;from
+Q8049518;Yarrabah;Queensland place ID;1;2;from
+Q8049518;Yarrabah;категория на Викискладе;1;1;from
+Q8049518;Yarrabah;Australian Statistical Geography 2011 ID;1;2;from
+Q8049518;Yarrabah;Australian Statistical Geography 2016 ID;1;1;from
+Q8049518;Yarrabah;географические координаты;1;1;from
+Q8049518;Yarrabah;Who's on First ID;1;1;from
+Q8049518;Yarrabah;место жительства;1;1;to
+Q8049518;Yarrabah;место смерти;1;1;to
+Q8049518;Yarrabah;место рождения;1;1;to
+Q8049518;Yarrabah;столица;1;1;to
+Q7969972;Warrayu community;это частный случай понятия;1;1;from
+Q7969972;Warrayu community;государство;1;1;from
+Q7969972;Warrayu community;административно-территориальная единица;1;1;from
+Q7615107;Tjuntjuntjara;государство;1;1;from
+Q7145067;Patjarr Community;это частный случай понятия;1;1;from
+Q7145067;Patjarr Community;почтовый индекс;1;1;from
+Q7145067;Patjarr Community;географические координаты;1;1;from
+Q7145067;Patjarr Community;место жительства;1;1;to
+Q7190009;Pia Wadjari Community;административно-территориальная единица;1;1;from
+Q7190009;Pia Wadjari Community;государство;1;1;from
+Q7190009;Pia Wadjari Community;это частный случай понятия;1;1;from
+Q7190009;Pia Wadjari Community;почтовый индекс;1;1;from
+Q7190009;Pia Wadjari Community;географические координаты;1;1;from
+Q7615107;Tjuntjuntjara;административно-территориальная единица;1;1;from
+Q7615107;Tjuntjuntjara;это частный случай понятия;1;1;from
+Q7810639;Tjukurla Community;административно-территориальная единица;1;1;from
+Q7615107;Tjuntjuntjara;почтовый индекс;1;1;from
+Q7615107;Tjuntjuntjara;Australian Statistical Geography 2011 ID;1;1;from
+Q7615107;Tjuntjuntjara;географические координаты;1;1;from
+Q7653531;Swan Valley Nyungah Community;административно-территориальная единица;1;1;from
+Q7653531;Swan Valley Nyungah Community;государство;1;1;from
+Q7653531;Swan Valley Nyungah Community;это частный случай понятия;1;1;from
+Q7810619;Tjirrkarli Community;административно-территориальная единица;1;1;from
+Q7810619;Tjirrkarli Community;государство;1;1;from
+Q7810619;Tjirrkarli Community;это частный случай понятия;1;1;from
+Q7810619;Tjirrkarli Community;почтовый индекс;1;1;from
+Q7145067;Patjarr Community;государство;1;1;from
+Q7145067;Patjarr Community;административно-территориальная единица;1;1;from
+Q7139345;Parnpajinya community;географические координаты;1;1;from
+Q7139345;Parnpajinya community;это частный случай понятия;1;1;from
+Q7095336;Oombulgurri Community;код GeoNames;1;1;from
+Q7095336;Oombulgurri Community;почтовый индекс;1;1;from
+Q7095336;Oombulgurri Community;Australian Statistical Geography 2011 ID;1;1;from
+Q7095336;Oombulgurri Community;Australian Statistical Geography 2016 ID;1;1;from
+Q7095336;Oombulgurri Community;дата основания/создания/возникновения;1;1;from
+Q7095336;Oombulgurri Community;географические координаты;1;1;from
+Q7130498;Pandanus Park Community;административно-территориальная единица;1;1;from
+Q7130498;Pandanus Park Community;государство;1;1;from
+Q7130498;Pandanus Park Community;это частный случай понятия;1;1;from
+Q7130498;Pandanus Park Community;почтовый индекс;1;1;from
+Q7130498;Pandanus Park Community;Australian Statistical Geography 2016 ID;1;1;from
+Q7130498;Pandanus Park Community;географические координаты;1;1;from
+Q7133222;Papulankutja Community;административно-территориальная единица;1;1;from
+Q7133222;Papulankutja Community;государство;1;1;from
+Q7133222;Papulankutja Community;это частный случай понятия;1;1;from
+Q7133222;Papulankutja Community;почтовый индекс;1;1;from
+Q7133222;Papulankutja Community;Australian Statistical Geography 2011 ID;1;1;from
+Q7133222;Papulankutja Community;географические координаты;1;1;from
+Q7133222;Papulankutja Community;место рождения;1;1;to
+Q7139345;Parnpajinya community;административно-территориальная единица;1;1;from
+Q7139345;Parnpajinya community;государство;1;1;from
+Q7810619;Tjirrkarli Community;географические координаты;1;1;from
+Q7810639;Tjukurla Community;государство;1;1;from
+Q7969928;Warralong Community;географические координаты;1;1;from
+Q7969653;Warmun Community;часть от;1;1;from
+Q7968786;Warakurna;Australian Statistical Geography 2016 ID;1;2;from
+Q7968786;Warakurna;географические координаты;1;1;from
+Q7969653;Warmun Community;административно-территориальная единица;1;2;from
+Q7969653;Warmun Community;государство;1;1;from
+Q7969653;Warmun Community;это частный случай понятия;1;2;from
+Q7969653;Warmun Community;численность населения;1;3;from
+Q7969653;Warmun Community;женское население;1;3;from
+Q7969653;Warmun Community;мужское население;1;3;from
+Q7969653;Warmun Community;код GeoNames;1;1;from
+Q7969653;Warmun Community;почтовый индекс;1;1;from
+Q7969653;Warmun Community;Australian Statistical Geography 2011 ID;1;4;from
+Q7810639;Tjukurla Community;это частный случай понятия;1;1;from
+Q7969653;Warmun Community;Australian Statistical Geography 2016 ID;1;1;from
+Q7969653;Warmun Community;географические координаты;1;1;from
+Q7969653;Warmun Community;Who's on First ID;1;1;from
+Q7969653;Warmun Community;dmoz;1;1;from
+Q7969653;Warmun Community;место рождения;1;1;to
+Q7969653;Warmun Community;место активности;1;3;to
+Q7969928;Warralong Community;административно-территориальная единица;1;1;from
+Q7969928;Warralong Community;государство;1;1;from
+Q7969928;Warralong Community;это частный случай понятия;1;1;from
+Q7969928;Warralong Community;почтовый индекс;1;1;from
+Q7968786;Warakurna;почтовый индекс;1;1;from
+Q7968786;Warakurna;численность населения;1;3;from
+Q7968786;Warakurna;это частный случай понятия;1;1;from
+Q7968786;Warakurna;государство;1;1;from
+Q7810639;Tjukurla Community;почтовый индекс;1;1;from
+Q7810639;Tjukurla Community;географические координаты;1;1;from
+Q7960845;Wakathuni Community;административно-территориальная единица;1;1;from
+Q7960845;Wakathuni Community;государство;1;1;from
+Q7960845;Wakathuni Community;это частный случай понятия;1;1;from
+Q7960845;Wakathuni Community;почтовый индекс;1;1;from
+Q7960845;Wakathuni Community;географические координаты;1;1;from
+Q7967065;Wanarn Community;административно-территориальная единица;1;1;from
+Q7967065;Wanarn Community;государство;1;1;from
+Q7967065;Wanarn Community;это частный случай понятия;1;1;from
+Q7967065;Wanarn Community;почтовый индекс;1;1;from
+Q7967065;Wanarn Community;Australian Statistical Geography 2016 ID;1;1;from
+Q7967065;Wanarn Community;географические координаты;1;1;from
+Q7967065;Wanarn Community;место рождения;1;1;to
+Q7967169;Wandanooka community;административно-территориальная единица;1;1;from
+Q7967169;Wandanooka community;государство;1;1;from
+Q7967169;Wandanooka community;это частный случай понятия;1;1;from
+Q7967169;Wandanooka community;код GeoNames;1;1;from
+Q7967169;Wandanooka community;географические координаты;1;1;from
+Q7967169;Wandanooka community;Who's on First ID;1;1;from
+Q7968786;Warakurna;административно-территориальная единица;1;1;from
+Q8061279;Yungngora Community;это частный случай понятия;1;1;from
+Q8061279;Yungngora Community;почтовый индекс;1;1;from
+Q17908;Aputula;государство;1;1;from
+Q31206426;Nauiyu Community;численность населения;1;3;from
+Q31205084;Santa Teresa Community;это частный случай понятия;1;1;from
+Q31205084;Santa Teresa Community;численность населения;1;3;from
+Q31205084;Santa Teresa Community;код GeoNames;1;1;from
+Q31205084;Santa Teresa Community;почтовый индекс;1;1;from
+Q31205084;Santa Teresa Community;Australian Statistical Geography 2011 ID;1;1;from
+Q31205084;Santa Teresa Community;Australian Statistical Geography 2016 ID;1;1;from
+Q31205084;Santa Teresa Community;географические координаты;1;1;from
+Q31206426;Nauiyu Community;административно-территориальная единица;1;2;from
+Q31206426;Nauiyu Community;государство;1;1;from
+Q31206426;Nauiyu Community;это частный случай понятия;1;1;from
+Q31206426;Nauiyu Community;женское население;1;3;from
+Q31205084;Santa Teresa Community;названо в честь;1;1;from
+Q31206426;Nauiyu Community;мужское население;1;3;from
+Q31206426;Nauiyu Community;код GeoNames;1;1;from
+Q31206426;Nauiyu Community;почтовый индекс;1;1;from
+Q31206426;Nauiyu Community;Australian Statistical Geography 2011 ID;1;1;from
+Q31206426;Nauiyu Community;Australian Statistical Geography 2016 ID;1;1;from
+Q31206426;Nauiyu Community;географические координаты;1;1;from
+Q31206523;Mount Liebig Community;административно-территориальная единица;1;2;from
+Q31206523;Mount Liebig Community;государство;1;1;from
+Q31206523;Mount Liebig Community;это частный случай понятия;1;1;from
+Q31206523;Mount Liebig Community;численность населения;1;3;from
+Q31205084;Santa Teresa Community;государство;1;1;from
+Q31205084;Santa Teresa Community;административно-территориальная единица;1;2;from
+Q8061279;Yungngora Community;Australian Statistical Geography 2011 ID;1;1;from
+Q30525498;Laramba Community;Australian Statistical Geography 2016 ID;1;1;from
+Q30514180;Canteen Creek Community;географические координаты;1;1;from
+Q30525498;Laramba Community;административно-территориальная единица;1;2;from
+Q30525498;Laramba Community;государство;1;1;from
+Q30525498;Laramba Community;это частный случай понятия;1;1;from
+Q30525498;Laramba Community;численность населения;1;3;from
+Q30525498;Laramba Community;женское население;1;3;from
+Q30525498;Laramba Community;мужское население;1;3;from
+Q30525498;Laramba Community;код GeoNames;1;1;from
+Q30525498;Laramba Community;почтовый индекс;1;1;from
+Q30525498;Laramba Community;Australian Statistical Geography 2011 ID;1;3;from
+Q30525498;Laramba Community;географические координаты;1;1;from
+Q31203244;Belyuen;географические координаты;1;1;from
+Q31203244;Belyuen;административно-территориальная единица;1;4;from
+Q31203244;Belyuen;государство;1;1;from
+Q31203244;Belyuen;это частный случай понятия;1;1;from
+Q31203244;Belyuen;численность населения;1;3;from
+Q31203244;Belyuen;женское население;1;3;from
+Q31203244;Belyuen;мужское население;1;3;from
+Q31203244;Belyuen;код GeoNames;1;1;from
+Q31203244;Belyuen;почтовый индекс;1;1;from
+Q31203244;Belyuen;Australian Statistical Geography 2011 ID;1;1;from
+Q31203244;Belyuen;Australian Statistical Geography 2016 ID;1;1;from
+Q31206523;Mount Liebig Community;женское население;1;3;from
+Q31206523;Mount Liebig Community;мужское население;1;3;from
+Q31206523;Mount Liebig Community;код GeoNames;1;1;from
+Q47466033;Maloga Mission;изображение;1;1;from
+Q41869663;Murputja;административно-территориальная единица;1;4;from
+Q41869663;Murputja;государство;1;1;from
+Q41869663;Murputja;это частный случай понятия;1;1;from
+Q41869663;Murputja;численность населения;1;3;from
+Q41869663;Murputja;почтовый индекс;1;1;from
+Q41869663;Murputja;Australian Statistical Geography 2016 ID;1;1;from
+Q41869663;Murputja;географические координаты;1;1;from
+Q41869663;Murputja;местонахождение;1;1;to
+Q47466033;Maloga Mission;административно-территориальная единица;1;1;from
+Q47466033;Maloga Mission;государство;1;1;from
+Q47466033;Maloga Mission;это частный случай понятия;1;1;from
+Q31206523;Mount Liebig Community;почтовый индекс;1;1;from
+Q47466033;Maloga Mission;дата основания/создания/возникновения;1;1;from
+Q47466033;Maloga Mission;дата прекращения существования;1;1;from
+Q68321125;Ali Curung;административно-территориальная единица;1;2;from
+Q68321125;Ali Curung;государство;1;1;from
+Q68321125;Ali Curung;это частный случай понятия;1;1;from
+Q68321125;Ali Curung;численность населения;1;3;from
+Q68321125;Ali Curung;женское население;1;3;from
+Q68321125;Ali Curung;мужское население;1;3;from
+Q68321125;Ali Curung;Australian Statistical Geography 2011 ID;1;3;from
+Q68321125;Ali Curung;Australian Statistical Geography 2016 ID;1;1;from
+Q41869614;Iwantja;географические координаты;1;1;from
+Q41869614;Iwantja;Australian Statistical Geography 2016 ID;1;1;from
+Q41869614;Iwantja;численность населения;1;3;from
+Q41869614;Iwantja;это частный случай понятия;1;1;from
+Q31206523;Mount Liebig Community;Australian Statistical Geography 2011 ID;1;1;from
+Q31206523;Mount Liebig Community;Australian Statistical Geography 2016 ID;1;1;from
+Q31206523;Mount Liebig Community;географические координаты;1;1;from
+Q31206597;Milyakburra Community;административно-территориальная единица;1;2;from
+Q31206597;Milyakburra Community;государство;1;1;from
+Q31206597;Milyakburra Community;это частный случай понятия;1;1;from
+Q31206597;Milyakburra Community;численность населения;1;3;from
+Q31206597;Milyakburra Community;женское население;1;3;from
+Q31206597;Milyakburra Community;мужское население;1;3;from
+Q31206597;Milyakburra Community;код GeoNames;1;1;from
+Q31206597;Milyakburra Community;почтовый индекс;1;1;from
+Q31206597;Milyakburra Community;Australian Statistical Geography 2011 ID;1;1;from
+Q31206597;Milyakburra Community;Australian Statistical Geography 2016 ID;1;1;from
+Q31206597;Milyakburra Community;географические координаты;1;1;from
+Q41092493;Nauiyu Nambiyu Community;административно-территориальная единица;1;1;from
+Q41092493;Nauiyu Nambiyu Community;государство;1;1;from
+Q41092493;Nauiyu Nambiyu Community;это частный случай понятия;1;1;from
+Q41092493;Nauiyu Nambiyu Community;Australian Statistical Geography 2016 ID;1;1;from
+Q41092493;Nauiyu Nambiyu Community;географические координаты;1;1;from
+Q41869614;Iwantja;административно-территориальная единица;1;2;from
+Q41869614;Iwantja;государство;1;1;from
+Q30514180;Canteen Creek Community;Australian Statistical Geography 2016 ID;1;1;from
+Q30514180;Canteen Creek Community;Australian Statistical Geography 2011 ID;1;2;from
+Q30514180;Canteen Creek Community;почтовый индекс;1;1;from
+Q14935934;Wijilawarrim Community;административно-территориальная единица;1;1;from
+Q14935779;Bayulu Community;Who's on First ID;1;1;from
+Q14935819;Ilkulka Community;административно-территориальная единица;1;3;from
+Q14935819;Ilkulka Community;государство;1;1;from
+Q14935819;Ilkulka Community;изображение;1;1;from
+Q14935819;Ilkulka Community;это частный случай понятия;1;1;from
+Q14935819;Ilkulka Community;географические координаты;1;1;from
+Q14935839;Koorabye community;административно-территориальная единица;1;1;from
+Q14935839;Koorabye community;государство;1;1;from
+Q14935839;Koorabye community;это частный случай понятия;1;1;from
+Q14935839;Koorabye community;географические координаты;1;1;from
+Q14935934;Wijilawarrim Community;государство;1;1;from
+Q17008400;Jimbalakudunj Community;почтовый индекс;1;1;from
+Q14935934;Wijilawarrim Community;это частный случай понятия;1;1;from
+Q14935934;Wijilawarrim Community;почтовый индекс;1;1;from
+Q14935934;Wijilawarrim Community;географические координаты;1;1;from
+Q16892636;Imintji Community;административно-территориальная единица;1;1;from
+Q16892636;Imintji Community;государство;1;1;from
+Q16892636;Imintji Community;это частный случай понятия;1;1;from
+Q16892636;Imintji Community;почтовый индекс;1;1;from
+Q16892636;Imintji Community;географические координаты;1;1;from
+Q17008400;Jimbalakudunj Community;административно-территориальная единица;1;1;from
+Q17008400;Jimbalakudunj Community;государство;1;1;from
+Q14935779;Bayulu Community;географические координаты;1;1;from
+Q14935779;Bayulu Community;Australian Statistical Geography 2011 ID;1;1;from
+Q14935779;Bayulu Community;почтовый индекс;1;1;from
+Q14935779;Bayulu Community;код GeoNames;1;1;from
+Q8061279;Yungngora Community;географические координаты;1;1;from
+Q8061279;Yungngora Community;Who's on First ID;1;1;from
+Q8565087;Four Mile;административно-территориальная единица;1;2;from
+Q8565087;Four Mile;государство;1;1;from
+Q8565087;Four Mile;это частный случай понятия;1;1;from
+Q8565087;Four Mile;почтовый индекс;1;1;from
+Q8565087;Four Mile;географические координаты;1;1;from
+Q11593180;Iltur;административно-территориальная единица;1;1;from
+Q11593180;Iltur;государство;1;1;from
+Q11593180;Iltur;это частный случай понятия;1;1;from
+Q11593180;Iltur;код GeoNames;1;1;from
+Q11593180;Iltur;географические координаты;1;1;from
+Q14935084;Cummeragunja Reserve;административно-территориальная единица;1;1;from
+Q14935084;Cummeragunja Reserve;государство;1;1;from
+Q14935084;Cummeragunja Reserve;это частный случай понятия;1;1;from
+Q14935084;Cummeragunja Reserve;дата основания/создания/возникновения;1;1;from
+Q14935084;Cummeragunja Reserve;географические координаты;1;1;from
+Q14935084;Cummeragunja Reserve;место рождения;1;4;to
+Q14935779;Bayulu Community;административно-территориальная единица;1;1;from
+Q14935779;Bayulu Community;государство;1;1;from
+Q14935779;Bayulu Community;это частный случай понятия;1;1;from
+Q17008400;Jimbalakudunj Community;это частный случай понятия;1;1;from
+Q17008400;Jimbalakudunj Community;географические координаты;1;1;from
+Q30514180;Canteen Creek Community;код GeoNames;1;1;from
+Q30400333;Galiwinku Community;почтовый индекс;1;1;from
+Q21959548;Nicholson Camp Community;код GeoNames;1;1;from
+Q21959548;Nicholson Camp Community;код GNS;1;1;from
+Q21959548;Nicholson Camp Community;географические координаты;1;1;from
+Q30400333;Galiwinku Community;административно-территориальная единица;1;2;from
+Q30400333;Galiwinku Community;государство;1;1;from
+Q30400333;Galiwinku Community;это частный случай понятия;1;1;from
+Q30400333;Galiwinku Community;численность населения;1;3;from
+Q30400333;Galiwinku Community;женское население;1;3;from
+Q30400333;Galiwinku Community;мужское население;1;3;from
+Q30400333;Galiwinku Community;код GeoNames;1;1;from
+Q30400333;Galiwinku Community;Australian Statistical Geography 2011 ID;1;3;from
+Q17011592;Lundja community;административно-территориальная единица;1;1;from
+Q30400333;Galiwinku Community;Australian Statistical Geography 2016 ID;1;1;from
+Q30400333;Galiwinku Community;географические координаты;1;1;from
+Q30400333;Galiwinku Community;находится в пределах природно-географического объекта;1;1;from
+Q30400333;Galiwinku Community;место рождения;1;1;to
+Q30514180;Canteen Creek Community;административно-территориальная единица;1;2;from
+Q30514180;Canteen Creek Community;государство;1;1;from
+Q30514180;Canteen Creek Community;это частный случай понятия;1;1;from
+Q30514180;Canteen Creek Community;численность населения;1;3;from
+Q30514180;Canteen Creek Community;женское население;1;3;from
+Q30514180;Canteen Creek Community;мужское население;1;3;from
+Q21959548;Nicholson Camp Community;это частный случай понятия;1;1;from
+Q21959548;Nicholson Camp Community;государство;1;1;from
+Q21959548;Nicholson Camp Community;административно-территориальная единица;1;1;from
+Q21074864;Ngukurr;место рождения;1;1;to
+Q17011592;Lundja community;государство;1;1;from
+Q17011592;Lundja community;это частный случай понятия;1;1;from
+Q17011592;Lundja community;почтовый индекс;1;1;from
+Q17011592;Lundja community;географические координаты;1;1;from
+Q17017084;Ngurrawaana Community;административно-территориальная единица;1;1;from
+Q17017084;Ngurrawaana Community;государство;1;1;from
+Q17017084;Ngurrawaana Community;это частный случай понятия;1;1;from
+Q17017084;Ngurrawaana Community;географические координаты;1;1;from
+Q21074864;Ngukurr;административно-территориальная единица;1;2;from
+Q21074864;Ngukurr;государство;1;1;from
+Q21074864;Ngukurr;это частный случай понятия;1;1;from
+Q21074864;Ngukurr;численность населения;1;3;from
+Q21074864;Ngukurr;женское население;1;3;from
+Q21074864;Ngukurr;мужское население;1;3;from
+Q21074864;Ngukurr;код GeoNames;1;1;from
+Q21074864;Ngukurr;почтовый индекс;1;1;from
+Q21074864;Ngukurr;Australian Statistical Geography 2011 ID;1;2;from
+Q21074864;Ngukurr;Australian Statistical Geography 2016 ID;1;1;from
+Q21074864;Ngukurr;географические координаты;1;1;from
+Q21074864;Ngukurr;Who's on First ID;1;1;from
+Q21074864;Ngukurr;место активности;1;1;to
+Q7095336;Oombulgurri Community;мужское население;1;3;from
+Q7095336;Oombulgurri Community;женское население;1;3;from
+Q7095336;Oombulgurri Community;численность населения;1;3;from
+Q1792051;Kunawarritji;Australian Statistical Geography 2011 ID;1;1;from
+Q1688947;Jigalong;мужское население;1;3;from
+Q1688947;Jigalong;почтовый индекс;1;1;from
+Q1688947;Jigalong;Australian Statistical Geography 2011 ID;1;2;from
+Q1688947;Jigalong;Australian Statistical Geography 2016 ID;1;2;from
+Q1688947;Jigalong;географические координаты;1;1;from
+Q1688947;Jigalong;Who's on First ID;1;1;from
+Q1792051;Kunawarritji;административно-территориальная единица;1;2;from
+Q1792051;Kunawarritji;государство;1;1;from
+Q1792051;Kunawarritji;изображение;1;1;from
+Q1792051;Kunawarritji;это частный случай понятия;1;2;from
+Q1792051;Kunawarritji;Australian Statistical Geography 2016 ID;1;1;from
+Q1688947;Jigalong;численность населения;1;3;from
+Q1792051;Kunawarritji;географические координаты;1;1;from
+Q1934778;Milingimbi;административно-территориальная единица;1;2;from
+Q1934778;Milingimbi;государство;1;1;from
+Q1934778;Milingimbi;код VIAF;1;1;from
+Q1934778;Milingimbi;это частный случай понятия;1;1;from
+Q1934778;Milingimbi;численность населения;1;3;from
+Q1934778;Milingimbi;женское население;1;3;from
+Q1934778;Milingimbi;мужское население;1;3;from
+Q1934778;Milingimbi;код GeoNames;1;1;from
+Q1934778;Milingimbi;Australian Statistical Geography 2011 ID;1;2;from
+Q1688947;Jigalong;женское население;1;3;from
+Q1688947;Jigalong;это частный случай понятия;1;2;from
+Q7095336;Oombulgurri Community;это частный случай понятия;1;1;from
+Q177502;Framlingham;код GeoNames;1;1;from
+Q18072;Umuwa;место рождения;1;1;to
+Q18072;Umuwa;местонахождение;1;1;to
+Q177502;Framlingham;административно-территориальная единица;1;5;from
+Q177502;Framlingham;государство;1;1;from
+Q177502;Framlingham;код VIAF;1;1;from
+Q177502;Framlingham;код LCNAF;1;1;from
+Q177502;Framlingham;это частный случай понятия;1;1;from
+Q177502;Framlingham;численность населения;1;3;from
+Q177502;Framlingham;женское население;1;3;from
+Q177502;Framlingham;мужское население;1;3;from
+Q177502;Framlingham;почтовый индекс;1;1;from
+Q1688947;Jigalong;государство;1;1;from
+Q177502;Framlingham;код темы Quora;1;1;from
+Q177502;Framlingham;VICNAMES Place ID;1;1;from
+Q177502;Framlingham;Australian Statistical Geography 2011 ID;1;1;from
+Q177502;Framlingham;Australian Statistical Geography 2016 ID;1;1;from
+Q177502;Framlingham;дата основания/создания/возникновения;1;1;from
+Q177502;Framlingham;географические координаты;1;1;from
+Q177502;Framlingham;Who's on First ID;1;1;from
+Q177502;Framlingham;место рождения;1;2;to
+Q177502;Framlingham;место смерти;1;1;to
+Q1688947;Jigalong;административно-территориальная единица;1;4;from
+Q1934778;Milingimbi;Australian Statistical Geography 2016 ID;1;1;from
+Q1934778;Milingimbi;географические координаты;1;1;from
+Q1934778;Milingimbi;находится в пределах природно-географического объекта;1;1;from
+Q4883259;Bell Springs Community;государство;1;1;from
+Q4876087;Beagle Bay Community;административно-территориальная единица;1;1;from
+Q4876087;Beagle Bay Community;государство;1;1;from
+Q4876087;Beagle Bay Community;это частный случай понятия;1;2;from
+Q4876087;Beagle Bay Community;код GeoNames;1;1;from
+Q4876087;Beagle Bay Community;почтовый индекс;1;1;from
+Q4876087;Beagle Bay Community;Australian Statistical Geography 2011 ID;1;1;from
+Q4876087;Beagle Bay Community;Australian Statistical Geography 2016 ID;1;1;from
+Q4876087;Beagle Bay Community;географические координаты;1;1;from
+Q4876087;Beagle Bay Community;Who's on First ID;1;1;from
+Q4883259;Bell Springs Community;административно-территориальная единица;1;1;from
+Q4883259;Bell Springs Community;это частный случай понятия;1;1;from
+Q1934778;Milingimbi;обслуживаемый город;1;1;to
+Q4883259;Bell Springs Community;почтовый индекс;1;1;from
+Q4883259;Bell Springs Community;географические координаты;1;1;from
+Q4904011;Bidan Community;административно-территориальная единица;1;1;from
+Q4904011;Bidan Community;государство;1;1;from
+Q4904011;Bidan Community;это частный случай понятия;1;1;from
+Q4904011;Bidan Community;почтовый индекс;1;1;from
+Q4904011;Bidan Community;географические координаты;1;1;from
+Q4904297;Bidyadanga;административно-территориальная единица;1;4;from
+Q4904297;Bidyadanga;государство;1;1;from
+Q4904297;Bidyadanga;это частный случай понятия;1;2;from
+Q4766148;Anmatjere Community;местонахождение;1;1;to
+Q4766148;Anmatjere Community;географические координаты;1;1;from
+Q4766148;Anmatjere Community;дата основания/создания/возникновения;1;1;from
+Q4766148;Anmatjere Community;Australian Statistical Geography 2016 ID;1;1;from
+Q2118511;Punmu Community;административно-территориальная единица;1;1;from
+Q2118511;Punmu Community;государство;1;1;from
+Q2118511;Punmu Community;это частный случай понятия;1;1;from
+Q2118511;Punmu Community;почтовый индекс;1;1;from
+Q2118511;Punmu Community;Australian Statistical Geography 2011 ID;1;1;from
+Q2118511;Punmu Community;географические координаты;1;1;from
+Q2503419;Utopia;административно-территориальная единица;1;1;from
+Q2503419;Utopia;государство;1;1;from
+Q2503419;Utopia;это частный случай понятия;1;1;from
+Q2503419;Utopia;географические координаты;1;1;from
+Q2503419;Utopia;место рождения;1;3;to
+Q2503419;Utopia;место активности;1;1;to
+Q4766148;Anmatjere Community;административно-территориальная единица;1;2;from
+Q4766148;Anmatjere Community;государство;1;1;from
+Q4766148;Anmatjere Community;это частный случай понятия;1;2;from
+Q4766148;Anmatjere Community;численность населения;1;3;from
+Q4766148;Anmatjere Community;женское население;1;3;from
+Q4766148;Anmatjere Community;мужское население;1;3;from
+Q4766148;Anmatjere Community;код GeoNames;1;1;from
+Q4766148;Anmatjere Community;почтовый индекс;1;1;from
+Q4766148;Anmatjere Community;Australian Statistical Geography 2011 ID;1;1;from
+Q18072;Umuwa;географические координаты;1;1;from
+Q18072;Umuwa;почтовый индекс;1;1;from
+Q18072;Umuwa;это частный случай понятия;1;1;from
+Q18049;Indulkana;место жительства;1;1;to
+Q18049;Indulkana;административно-территориальная единица;1;4;from
+Q18049;Indulkana;государство;1;1;from
+Q18049;Indulkana;это частный случай понятия;1;1;from
+Q18049;Indulkana;код GeoNames;1;1;from
+Q18049;Indulkana;почтовый индекс;1;1;from
+Q18049;Indulkana;Australian Statistical Geography 2011 ID;1;1;from
+Q18049;Indulkana;Australian Statistical Geography 2016 ID;1;1;from
+Q18049;Indulkana;географические координаты;1;1;from
+Q18049;Indulkana;Who's on First ID;1;1;from
+Q18049;Indulkana;названо в честь;1;1;to
+Q18049;Indulkana;местонахождение;1;2;to
+Q18056;Kaltjiti;местонахождение;1;2;to
+Q18056;Kaltjiti;административно-территориальная единица;1;4;from
+Q18056;Kaltjiti;государство;1;1;from
+Q18056;Kaltjiti;это частный случай понятия;1;1;from
+Q18056;Kaltjiti;численность населения;1;3;from
+Q18056;Kaltjiti;женское население;1;3;from
+Q18056;Kaltjiti;мужское население;1;3;from
+Q18056;Kaltjiti;почтовый индекс;1;1;from
+Q18056;Kaltjiti;ID отношения в OpenStreetMap;1;1;from
+Q18056;Kaltjiti;Australian Statistical Geography 2016 ID;1;1;from
+Q18056;Kaltjiti;географические координаты;1;2;from
+Q18045;Amata;местонахождение;1;2;to
+Q18045;Amata;обслуживаемый город;1;1;to
+Q18045;Amata;место рождения;1;1;to
+Q18045;Amata;место жительства;1;3;to
+Q17908;Aputula;это частный случай понятия;1;1;from
+Q17908;Aputula;численность населения;1;3;from
+Q17908;Aputula;женское население;1;3;from
+Q17908;Aputula;мужское население;1;3;from
+Q17908;Aputula;почтовый индекс;1;1;from
+Q17908;Aputula;Australian Statistical Geography 2011 ID;1;1;from
+Q17908;Aputula;Australian Statistical Geography 2016 ID;1;1;from
+Q17908;Aputula;географические координаты;1;1;from
+Q17908;Aputula;максимальная температура;1;2;from
+Q17908;Aputula;место рождения;1;1;to
+Q18045;Amata;административно-территориальная единица;1;4;from
+Q18045;Amata;государство;1;1;from
+Q18045;Amata;изображение;1;1;from
+Q18045;Amata;это частный случай понятия;1;1;from
+Q18045;Amata;численность населения;1;3;from
+Q18045;Amata;код GeoNames;1;1;from
+Q18045;Amata;почтовый индекс;1;1;from
+Q18045;Amata;Australian Statistical Geography 2011 ID;1;1;from
+Q18045;Amata;Australian Statistical Geography 2016 ID;1;1;from
+Q18045;Amata;географические координаты;1;1;from
+Q18045;Amata;Who's on First ID;1;1;from
+Q18056;Kaltjiti;место жительства;1;1;to
+Q18062;Mimili;административно-территориальная единица;1;4;from
+Q18072;Umuwa;государство;1;1;from
+Q18070;Pukatja;Australian Statistical Geography 2011 ID;1;1;from
+Q18067;Pipalyatjara;конечная;1;1;to
+Q18067;Pipalyatjara;местонахождение;1;2;to
+Q18070;Pukatja;административно-территориальная единица;1;4;from
+Q18070;Pukatja;государство;1;1;from
+Q18070;Pukatja;это частный случай понятия;1;1;from
+Q18070;Pukatja;численность населения;1;3;from
+Q18070;Pukatja;заменил;1;1;from
+Q18070;Pukatja;женское население;1;3;from
+Q18070;Pukatja;мужское население;1;3;from
+Q18070;Pukatja;почтовый индекс;1;1;from
+Q18070;Pukatja;ID отношения в OpenStreetMap;1;1;from
+Q18062;Mimili;государство;1;1;from
+Q18070;Pukatja;Australian Statistical Geography 2016 ID;1;1;from
+Q18070;Pukatja;дата основания/создания/возникновения;1;1;from
+Q18070;Pukatja;географические координаты;1;1;from
+Q18070;Pukatja;Who's on First ID;1;1;from
+Q18070;Pukatja;место жительства;1;7;to
+Q18070;Pukatja;место смерти;1;2;to
+Q18070;Pukatja;место рождения;1;2;to
+Q18070;Pukatja;заменён на;1;1;to
+Q18070;Pukatja;местонахождение;1;2;to
+Q18072;Umuwa;административно-территориальная единица;1;4;from
+Q18067;Pipalyatjara;место рождения;1;2;to
+Q18067;Pipalyatjara;географические координаты;1;1;from
+Q18067;Pipalyatjara;Australian Statistical Geography 2016 ID;1;2;from
+Q18067;Pipalyatjara;ID отношения в OpenStreetMap;1;1;from
+Q18062;Mimili;это частный случай понятия;1;1;from
+Q18062;Mimili;численность населения;1;3;from
+Q18062;Mimili;код GeoNames;1;1;from
+Q18062;Mimili;почтовый индекс;1;1;from
+Q18062;Mimili;Australian Statistical Geography 2011 ID;1;1;from
+Q18062;Mimili;ID отношения в OpenStreetMap;1;1;from
+Q18062;Mimili;Australian Statistical Geography 2016 ID;1;2;from
+Q18062;Mimili;географические координаты;1;1;from
+Q18062;Mimili;Who's on First ID;1;1;from
+Q18062;Mimili;место жительства;1;1;to
+Q18062;Mimili;место рождения;1;1;to
+Q18062;Mimili;местонахождение;1;1;to
+Q18067;Pipalyatjara;административно-территориальная единица;1;2;from
+Q18067;Pipalyatjara;государство;1;1;from
+Q18067;Pipalyatjara;это частный случай понятия;1;1;from
+Q18067;Pipalyatjara;численность населения;1;3;from
+Q18067;Pipalyatjara;женское население;1;3;from
+Q18067;Pipalyatjara;мужское население;1;3;from
+Q18067;Pipalyatjara;код GeoNames;1;1;from
+Q18067;Pipalyatjara;почтовый индекс;1;1;from
+Q18067;Pipalyatjara;Australian Statistical Geography 2011 ID;1;1;from
+Q4904297;Bidyadanga;код GeoNames;1;1;from
+Q4904297;Bidyadanga;почтовый индекс;1;1;from
+Q4904297;Bidyadanga;Australian Statistical Geography 2011 ID;1;2;from
+Q6751975;Mantamaru Community;географические координаты;1;1;from
+Q6744218;Mallingbar community;географические координаты;1;1;from
+Q6747807;Mandangala Community;административно-территориальная единица;1;1;from
+Q6747807;Mandangala Community;государство;1;1;from
+Q6747807;Mandangala Community;это частный случай понятия;1;1;from
+Q6747807;Mandangala Community;почтовый индекс;1;1;from
+Q6747807;Mandangala Community;географические координаты;1;1;from
+Q6751975;Mantamaru Community;административно-территориальная единица;1;1;from
+Q6751975;Mantamaru Community;государство;1;1;from
+Q6751975;Mantamaru Community;это частный случай понятия;1;1;from
+Q6751975;Mantamaru Community;почтовый индекс;1;1;from
+Q6864817;Mingullatharndo Community;административно-территориальная единица;1;1;from
+Q6913497;Morrell Park community;географические координаты;1;1;from
+Q6864817;Mingullatharndo Community;государство;1;1;from
+Q6864817;Mingullatharndo Community;это частный случай понятия;1;1;from
+Q6864817;Mingullatharndo Community;почтовый индекс;1;1;from
+Q6864817;Mingullatharndo Community;географические координаты;1;1;from
+Q6873537;Mirima community;административно-территориальная единица;1;1;from
+Q6873537;Mirima community;государство;1;1;from
+Q6873537;Mirima community;это частный случай понятия;1;1;from
+Q6873537;Mirima community;географические координаты;1;1;from
+Q6913497;Morrell Park community;административно-территориальная единица;1;1;from
+Q6913497;Morrell Park community;государство;1;1;from
+Q6744218;Mallingbar community;почтовый индекс;1;1;from
+Q6744218;Mallingbar community;это частный случай понятия;1;1;from
+Q6744218;Mallingbar community;государство;1;1;from
+Q6744218;Mallingbar community;административно-территориальная единица;1;1;from
+Q6446501;Kurrawang community;государство;1;1;from
+Q6446501;Kurrawang community;это частный случай понятия;1;1;from
+Q6446501;Kurrawang community;почтовый индекс;1;1;from
+Q6446501;Kurrawang community;географические координаты;1;1;from
+Q6448465;Kutkabubba Community;административно-территориальная единица;1;1;from
+Q6448465;Kutkabubba Community;государство;1;1;from
+Q6448465;Kutkabubba Community;это частный случай понятия;1;1;from
+Q6448465;Kutkabubba Community;почтовый индекс;1;1;from
+Q6448465;Kutkabubba Community;географические координаты;1;1;from
+Q6481507;Lamboo Gunian Community;административно-территориальная единица;1;1;from
+Q6481507;Lamboo Gunian Community;государство;1;1;from
+Q6481507;Lamboo Gunian Community;это частный случай понятия;1;1;from
+Q6481507;Lamboo Gunian Community;почтовый индекс;1;1;from
+Q6481507;Lamboo Gunian Community;географические координаты;1;1;from
+Q6675543;Looma Community;административно-территориальная единица;1;1;from
+Q6675543;Looma Community;государство;1;1;from
+Q6675543;Looma Community;это частный случай понятия;1;2;from
+Q6675543;Looma Community;почтовый индекс;1;1;from
+Q6675543;Looma Community;Australian Statistical Geography 2011 ID;1;1;from
+Q6675543;Looma Community;географические координаты;1;1;from
+Q6675543;Looma Community;Who's on First ID;1;1;from
+Q6913497;Morrell Park community;это частный случай понятия;1;1;from
+Q6922014;Mount Margaret Aboriginal Community;административно-территориальная единица;1;1;from
+Q6446204;Kurnangki community;географические координаты;1;1;from
+Q7022713;Ngunulum Community;это частный случай понятия;1;1;from
+Q6936989;Munthamar Community;это частный случай понятия;1;1;from
+Q6936989;Munthamar Community;почтовый индекс;1;1;from
+Q6936989;Munthamar Community;географические координаты;1;1;from
+Q7021911;Ngallagunda Community;административно-территориальная единица;1;1;from
+Q7021911;Ngallagunda Community;государство;1;1;from
+Q7021911;Ngallagunda Community;это частный случай понятия;1;1;from
+Q7021911;Ngallagunda Community;почтовый индекс;1;1;from
+Q7021911;Ngallagunda Community;географические координаты;1;1;from
+Q7022713;Ngunulum Community;административно-территориальная единица;1;1;from
+Q7022713;Ngunulum Community;государство;1;1;from
+Q7022713;Ngunulum Community;почтовый индекс;1;1;from
+Q6922014;Mount Margaret Aboriginal Community;государство;1;1;from
+Q7022713;Ngunulum Community;географические координаты;1;1;from
+Q7073751;Oak Valley;административно-территориальная единица;1;3;from
+Q7073751;Oak Valley;государство;1;1;from
+Q7073751;Oak Valley;это частный случай понятия;1;1;from
+Q7073751;Oak Valley;почтовый индекс;1;1;from
+Q7073751;Oak Valley;географические координаты;1;1;from
+Q7073751;Oak Valley;официальный сайт;1;1;from
+Q7073751;Oak Valley;место погребения;1;1;to
+Q7095336;Oombulgurri Community;административно-территориальная единица;1;2;from
+Q7095336;Oombulgurri Community;государство;1;1;from
+Q6936989;Munthamar Community;государство;1;1;from
+Q6936989;Munthamar Community;административно-территориальная единица;1;1;from
+Q6933957;Mulga Queen Community;географические координаты;1;1;from
+Q6933957;Mulga Queen Community;почтовый индекс;1;1;from
+Q6922014;Mount Margaret Aboriginal Community;это частный случай понятия;1;1;from
+Q6922014;Mount Margaret Aboriginal Community;почтовый индекс;1;1;from
+Q6922014;Mount Margaret Aboriginal Community;географические координаты;1;1;from
+Q6927218;Mowanjum Community;административно-территориальная единица;1;1;from
+Q6927218;Mowanjum Community;государство;1;1;from
+Q6927218;Mowanjum Community;это частный случай понятия;1;1;from
+Q6927218;Mowanjum Community;географические координаты;1;1;from
+Q6927218;Mowanjum Community;пример использования свойства;1;1;to
+Q6931451;Mud Springs Community;административно-территориальная единица;1;1;from
+Q6931451;Mud Springs Community;государство;1;1;from
+Q6931451;Mud Springs Community;это частный случай понятия;1;1;from
+Q6931451;Mud Springs Community;почтовый индекс;1;1;from
+Q6931451;Mud Springs Community;географические координаты;1;1;from
+Q6933734;Mulan;административно-территориальная единица;1;2;from
+Q6933734;Mulan;государство;1;1;from
+Q6933734;Mulan;это частный случай понятия;1;1;from
+Q6933734;Mulan;Australian Statistical Geography 2016 ID;1;1;from
+Q6933734;Mulan;географические координаты;1;1;from
+Q6933957;Mulga Queen Community;административно-территориальная единица;1;1;from
+Q6933957;Mulga Queen Community;государство;1;1;from
+Q6933957;Mulga Queen Community;это частный случай понятия;1;1;from
+Q6446501;Kurrawang community;административно-территориальная единица;1;1;from
+Q6446204;Kurnangki community;почтовый индекс;1;1;from
+Q4904297;Bidyadanga;Australian Statistical Geography 2016 ID;1;2;from
+Q6035287;Innawonga Community;географические координаты;1;1;from
+Q5617646;Gulgagulganeng community;географические координаты;1;1;from
+Q5935968;Hull River Aboriginal Settlement;административно-территориальная единица;1;1;from
+Q5935968;Hull River Aboriginal Settlement;государство;1;1;from
+Q5935968;Hull River Aboriginal Settlement;это частный случай понятия;1;1;from
+Q5935968;Hull River Aboriginal Settlement;дата прекращения существования;1;1;from
+Q5935968;Hull River Aboriginal Settlement;географические координаты;1;1;from
+Q6035287;Innawonga Community;административно-территориальная единица;1;1;from
+Q6035287;Innawonga Community;государство;1;1;from
+Q6035287;Innawonga Community;это частный случай понятия;1;1;from
+Q6035287;Innawonga Community;почтовый индекс;1;1;from
+Q6066386;Iragul Community;административно-территориальная единица;1;1;from
+Q6199150;Jimbilum;это частный случай понятия;1;2;from
+Q6066386;Iragul Community;государство;1;1;from
+Q6066386;Iragul Community;это частный случай понятия;1;1;from
+Q6066386;Iragul Community;почтовый индекс;1;1;from
+Q6066386;Iragul Community;географические координаты;1;1;from
+Q6160339;Jarlmadangah Burru Community;административно-территориальная единица;1;1;from
+Q6160339;Jarlmadangah Burru Community;государство;1;1;from
+Q6160339;Jarlmadangah Burru Community;это частный случай понятия;1;1;from
+Q6160339;Jarlmadangah Burru Community;почтовый индекс;1;1;from
+Q6160339;Jarlmadangah Burru Community;географические координаты;1;1;from
+Q6199150;Jimbilum;административно-территориальная единица;1;1;from
+Q5617646;Gulgagulganeng community;это частный случай понятия;1;1;from
+Q5617646;Gulgagulganeng community;государство;1;1;from
+Q5617646;Gulgagulganeng community;административно-территориальная единица;1;1;from
+Q5614499;Guda Guda Community;географические координаты;1;1;from
+Q4904297;Bidyadanga;географические координаты;1;1;from
+Q4904297;Bidyadanga;место активности;1;2;to
+Q4941418;Bondini;административно-территориальная единица;1;1;from
+Q4941418;Bondini;государство;1;1;from
+Q4941418;Bondini;это частный случай понятия;1;1;from
+Q4941418;Bondini;почтовый индекс;1;1;from
+Q4941418;Bondini;географические координаты;1;1;from
+Q5002773;Buttah Windee;административно-территориальная единица;1;2;from
+Q5002773;Buttah Windee;государство;1;1;from
+Q5002773;Buttah Windee;это частный случай понятия;1;1;from
+Q5002773;Buttah Windee;почтовый индекс;1;1;from
+Q5002773;Buttah Windee;географические координаты;1;1;from
+Q5285247;Djarindjin Community;административно-территориальная единица;1;1;from
+Q5285247;Djarindjin Community;государство;1;1;from
+Q5285247;Djarindjin Community;это частный случай понятия;1;1;from
+Q5285247;Djarindjin Community;часть от;1;1;from
+Q5285247;Djarindjin Community;географические координаты;1;1;from
+Q5285247;Djarindjin Community;состоит из;1;1;to
+Q5614499;Guda Guda Community;административно-территориальная единица;1;1;from
+Q5614499;Guda Guda Community;государство;1;1;from
+Q5614499;Guda Guda Community;это частный случай понятия;1;1;from
+Q6199150;Jimbilum;государство;1;1;from
+Q6199150;Jimbilum;почтовый индекс;1;1;from
+Q6446204;Kurnangki community;это частный случай понятия;1;2;from
+Q6372984;Karnparri community;государство;1;1;from
+Q6368227;Karalundi;государство;1;1;from
+Q6368227;Karalundi;это частный случай понятия;1;2;from
+Q6368227;Karalundi;численность населения;1;3;from
+Q6368227;Karalundi;женское население;1;3;from
+Q6368227;Karalundi;мужское население;1;3;from
+Q6368227;Karalundi;почтовый индекс;1;1;from
+Q6368227;Karalundi;Australian Statistical Geography 2011 ID;1;1;from
+Q6368227;Karalundi;Australian Statistical Geography 2016 ID;1;1;from
+Q6368227;Karalundi;географические координаты;1;1;from
+Q6372984;Karnparri community;административно-территориальная единица;1;1;from
+Q6372984;Karnparri community;это частный случай понятия;1;1;from
+Q6199150;Jimbilum;географические координаты;1;1;from
+Q6372984;Karnparri community;код GeoNames;1;1;from
+Q6372984;Karnparri community;географические координаты;1;1;from
+Q6372984;Karnparri community;Who's on First ID;1;1;from
+Q6445449;Kupungarri Community;административно-территориальная единица;1;1;from
+Q6445449;Kupungarri Community;государство;1;1;from
+Q6445449;Kupungarri Community;это частный случай понятия;1;1;from
+Q6445449;Kupungarri Community;почтовый индекс;1;1;from
+Q6445449;Kupungarri Community;географические координаты;1;1;from
+Q6446204;Kurnangki community;административно-территориальная единица;1;1;from
+Q6446204;Kurnangki community;государство;1;1;from
+Q6368227;Karalundi;административно-территориальная единица;1;2;from
+Q6361558;Kandiwal community;географические координаты;1;1;from
+Q6361558;Kandiwal community;почтовый индекс;1;1;from
+Q6361558;Kandiwal community;это частный случай понятия;1;1;from
+Q6297263;Joy Springs Community;административно-территориальная единица;1;1;from
+Q6297263;Joy Springs Community;государство;1;1;from
+Q6297263;Joy Springs Community;это частный случай понятия;1;1;from
+Q6297263;Joy Springs Community;почтовый индекс;1;1;from
+Q6297263;Joy Springs Community;географические координаты;1;1;from
+Q6310932;Jumbun;административно-территориальная единица;1;2;from
+Q6310932;Jumbun;государство;1;1;from
+Q6310932;Jumbun;это частный случай понятия;1;1;from
+Q6310932;Jumbun;почтовый индекс;1;1;from
+Q6310932;Jumbun;Australian Statistical Geography 2011 ID;1;1;from
+Q6310932;Jumbun;географические координаты;1;1;from
+Q6313788;Junjuwa community;административно-территориальная единица;1;1;from
+Q6313788;Junjuwa community;государство;1;1;from
+Q6313788;Junjuwa community;это частный случай понятия;1;1;from
+Q6313788;Junjuwa community;географические координаты;1;1;from
+Q6345594;Kadjina Community;административно-территориальная единица;1;1;from
+Q6345594;Kadjina Community;государство;1;1;from
+Q6345594;Kadjina Community;это частный случай понятия;1;2;from
+Q6345594;Kadjina Community;географические координаты;1;1;from
+Q6361558;Kandiwal community;административно-территориальная единица;1;1;from
+Q6361558;Kandiwal community;государство;1;1;from
+Q68321125;Ali Curung;географические координаты;1;1;from

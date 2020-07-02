@@ -1,0 +1,289 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q147738;Saint Helier;административно-территориальная единица;1;39;to
+Q147738;Saint Helier;государство;1;1;from
+Q2305318;Saint Ouen;основная категория по теме;1;1;from
+Q2305318;Saint Ouen;код Freebase;1;1;from
+Q2305318;Saint Ouen;географические координаты;1;1;from
+Q2305318;Saint Ouen;категория на Викискладе;1;1;from
+Q2305318;Saint Ouen;почтовый индекс;1;1;from
+Q2305318;Saint Ouen;площадь;1;1;from
+Q2305318;Saint Ouen;категория для людей, связанных с местностью;1;1;from
+Q2305318;Saint Ouen;код GeoNames;1;1;from
+Q2305318;Saint Ouen;категория для людей, родившихся здесь;1;1;from
+Q2305318;Saint Ouen;численность населения;1;1;from
+Q2305318;Saint Ouen;изображение герба;1;1;from
+Q2305318;Saint Ouen;имеет границы с;1;2;to
+Q2305318;Saint Ouen;это частный случай понятия;1;1;from
+Q2305318;Saint Ouen;карта местонахождения;1;1;from
+Q2305318;Saint Ouen;город-побратим;1;1;to
+Q2305318;Saint Ouen;место в MusicBrainz;1;1;from
+Q2305318;Saint Ouen;место жительства;1;1;to
+Q2305318;Saint Ouen;место рождения;1;5;to
+Q2429741;Grouville;карта местонахождения;1;1;from
+Q2429741;Grouville;категория на Викискладе;1;1;from
+Q2429741;Grouville;IWM memorial ID;1;1;from
+Q2429741;Grouville;площадь;1;1;from
+Q2429741;Grouville;код GeoNames;1;1;from
+Q2429741;Grouville;изображение герба;1;1;from
+Q2429741;Grouville;это частный случай понятия;1;1;from
+Q2429741;Grouville;город-побратим;1;1;to
+Q2305318;Saint Ouen;место смерти;1;1;to
+Q2429741;Grouville;изображение;1;1;from
+Q2429741;Grouville;государство;1;1;from
+Q2429741;Grouville;административно-территориальная единица;1;10;to
+Q2305318;Saint Ouen;административно делится на;1;1;to
+Q2305318;Saint Ouen;общая тема категории;1;1;to
+Q2305318;Saint Ouen;категория объединяет темы;1;2;to
+Q2305318;Saint Ouen;изображение;1;1;from
+Q2305318;Saint Ouen;государство;1;1;from
+Q2305318;Saint Ouen;административно-территориальная единица;1;11;to
+Q1835699;Saint Brélade;место в MusicBrainz;1;1;from
+Q1835699;Saint Brélade;общая тема категории;1;1;to
+Q1835699;Saint Brélade;место рождения;1;1;to
+Q1835699;Saint Brélade;место погребения;1;1;to
+Q1835699;Saint Brélade;место смерти;1;6;to
+Q1835699;Saint Brélade;место жительства;1;6;to
+Q1835699;Saint Brélade;расположение конечной точки;1;1;to
+Q1835699;Saint Brélade;баннер Викигида;1;1;from
+Q2212948;Saint Mary;административно-территориальная единица;1;4;to
+Q1835699;Saint Brélade;галерея на Викискладе;1;1;from
+Q1835699;Saint Brélade;основная категория по теме;1;1;from
+Q1835699;Saint Brélade;официальный сайт;1;1;from
+Q1835699;Saint Brélade;код Freebase;1;1;from
+Q1835699;Saint Brélade;географические координаты;1;1;from
+Q1835699;Saint Brélade;произношение (звуковой файл);1;1;from
+Q1835699;Saint Brélade;административно делится на;1;1;to
+Q2212948;Saint Mary;государство;1;1;from
+Q2212948;Saint Mary;административно делится на;1;1;to
+Q2212948;Saint Mary;категория на Викискладе;1;1;from
+Q2212948;Saint Mary;общая тема категории;1;1;to
+Q2212948;Saint Mary;посвящено;1;1;to
+Q2212948;Saint Mary;баннер Викигида;1;1;from
+Q2212948;Saint Mary;основная категория по теме;1;1;from
+Q2212948;Saint Mary;код Freebase;1;1;from
+Q2212948;Saint Mary;географические координаты;1;1;from
+Q2212948;Saint Mary;площадь;1;1;from
+Q2212948;Saint Mary;изображение;1;1;from
+Q2212948;Saint Mary;код GeoNames;1;1;from
+Q2212948;Saint Mary;численность населения;1;1;from
+Q2212948;Saint Mary;изображение герба;1;1;from
+Q2212948;Saint Mary;имеет границы с;1;3;to
+Q2212948;Saint Mary;это частный случай понятия;1;1;from
+Q2212948;Saint Mary;карта местонахождения;1;1;from
+Q2429741;Grouville;географические координаты;1;1;from
+Q2429741;Grouville;код Freebase;1;1;from
+Q2429741;Grouville;официальный сайт;1;1;from
+Q3058152;Saint Peter;общая тема категории;1;1;to
+Q3058160;Saint Clement;карта местонахождения;1;1;from
+Q3058160;Saint Clement;изображение;1;1;from
+Q3058160;Saint Clement;государство;1;1;from
+Q3058160;Saint Clement;административно-территориальная единица;1;16;to
+Q3058152;Saint Peter;часть от;1;1;to
+Q3058152;Saint Peter;административно делится на;1;1;to
+Q3058152;Saint Peter;город-побратим;1;1;to
+Q3058160;Saint Clement;имеет границы с;1;1;to
+Q3058152;Saint Peter;место рождения;1;1;to
+Q3058152;Saint Peter;место смерти;1;3;to
+Q3058152;Saint Peter;баннер Викигида;1;1;from
+Q3058152;Saint Peter;основная категория по теме;1;1;from
+Q3058152;Saint Peter;код Freebase;1;1;from
+Q3058152;Saint Peter;географические координаты;1;1;from
+Q3058160;Saint Clement;это частный случай понятия;1;1;from
+Q3058160;Saint Clement;изображение герба;1;1;from
+Q3058152;Saint Peter;площадь;1;1;from
+Q3058160;Saint Clement;основная категория по теме;1;1;from
+Q3058160;Saint Clement;общая тема категории;1;1;to
+Q3058160;Saint Clement;место рождения;1;1;to
+Q3058160;Saint Clement;место жительства;1;1;to
+Q3058160;Saint Clement;местонахождение;1;1;to
+Q3058160;Saint Clement;баннер Викигида;1;1;from
+Q3058160;Saint Clement;галерея на Викискладе;1;1;from
+Q3058160;Saint Clement;официальный сайт;1;1;from
+Q3058160;Saint Clement;код GeoNames;1;1;from
+Q3058160;Saint Clement;код Freebase;1;1;from
+Q3058160;Saint Clement;географические координаты;1;1;from
+Q3058160;Saint Clement;часовой пояс;1;1;from
+Q3058160;Saint Clement;категория на Викискладе;1;1;from
+Q3058160;Saint Clement;площадь;1;1;from
+Q3058160;Saint Clement;код места в Facebook;1;1;from
+Q3058152;Saint Peter;категория на Викискладе;1;1;from
+Q3058152;Saint Peter;высота над уровнем моря;1;1;from
+Q2429741;Grouville;основная категория по теме;1;1;from
+Q2594704;Trinity;государство;1;1;from
+Q2594704;Trinity;высота над уровнем моря;1;1;from
+Q2594704;Trinity;код GeoNames;1;1;from
+Q2594704;Trinity;изображение герба;1;1;from
+Q2594704;Trinity;это частный случай понятия;1;1;from
+Q2594704;Trinity;карта местонахождения;1;1;from
+Q2594704;Trinity;изображение;1;1;from
+Q2594704;Trinity;административно-территориальная единица;1;7;to
+Q2594704;Trinity;категория на Викискладе;1;1;from
+Q2429741;Grouville;административно делится на;1;1;to
+Q2429741;Grouville;общая тема категории;1;1;to
+Q2429741;Grouville;место смерти;1;1;to
+Q2429741;Grouville;место жительства;1;2;to
+Q2429741;Grouville;место рождения;1;10;to
+Q2429741;Grouville;место обнаружения;1;1;to
+Q2594704;Trinity;площадь;1;1;from
+Q2594704;Trinity;географические координаты;1;1;from
+Q3058152;Saint Peter;код GeoNames;1;1;from
+Q3058152;Saint Peter;административно-территориальная единица;1;12;to
+Q3058152;Saint Peter;изображение герба;1;1;from
+Q3058152;Saint Peter;имеет границы с;1;4;to
+Q3058152;Saint Peter;это частный случай понятия;1;1;from
+Q3058152;Saint Peter;карта местонахождения;1;1;from
+Q3058152;Saint Peter;изображение;1;1;from
+Q3058152;Saint Peter;государство;1;1;from
+Q2594704;Trinity;административно делится на;1;1;to
+Q2594704;Trinity;код Freebase;1;1;from
+Q2594704;Trinity;имеет границы с;1;1;to
+Q2594704;Trinity;общая тема категории;1;1;to
+Q2594704;Trinity;место обнаружения;1;1;to
+Q2594704;Trinity;место рождения;1;2;to
+Q2594704;Trinity;баннер Викигида;1;1;from
+Q2594704;Trinity;основная категория по теме;1;1;from
+Q1835699;Saint Brélade;категория на Викискладе;1;1;from
+Q1835699;Saint Brélade;код BabelNet;1;1;from
+Q1835699;Saint Brélade;площадь;1;1;from
+Q147738;Saint Helier;административно делится на;1;1;to
+Q509090;Saint Lawrence;это частный случай понятия;1;1;from
+Q509090;Saint Lawrence;карта местонахождения;1;1;from
+Q509090;Saint Lawrence;город-побратим;1;1;to
+Q509090;Saint Lawrence;изображение;1;1;from
+Q509090;Saint Lawrence;государство;1;1;from
+Q509090;Saint Lawrence;административно-территориальная единица;1;9;to
+Q147738;Saint Helier;столица;1;1;to
+Q509090;Saint Lawrence;изображение герба;1;1;from
+Q147738;Saint Helier;общая тема категории;1;1;to
+Q147738;Saint Helier;категория объединяет темы;1;2;to
+Q147738;Saint Helier;место жительства;1;3;to
+Q147738;Saint Helier;начало пути;1;1;to
+Q147738;Saint Helier;местонахождение;1;6;to
+Q147738;Saint Helier;лицензия на вещание в;1;1;to
+Q509090;Saint Lawrence;имеет границы с;1;4;to
+Q509090;Saint Lawrence;код GeoNames;1;1;from
+Q147738;Saint Helier;расположение конечной точки;1;1;to
+Q509090;Saint Lawrence;место смерти;1;1;to
+Q593645;Saint Martin;карта местонахождения;1;1;from
+Q593645;Saint Martin;изображение;1;1;from
+Q593645;Saint Martin;государство;1;1;from
+Q509090;Saint Lawrence;административно делится на;1;1;to
+Q509090;Saint Lawrence;общая тема категории;1;1;to
+Q509090;Saint Lawrence;место погребения;1;2;to
+Q509090;Saint Lawrence;основная категория по теме;1;1;from
+Q509090;Saint Lawrence;код места в Facebook;1;1;from
+Q509090;Saint Lawrence;официальный сайт;1;1;from
+Q509090;Saint Lawrence;код Freebase;1;1;from
+Q509090;Saint Lawrence;географические координаты;1;1;from
+Q509090;Saint Lawrence;категория на Викискладе;1;1;from
+Q509090;Saint Lawrence;код BabelNet;1;1;from
+Q509090;Saint Lawrence;площадь;1;1;from
+Q147738;Saint Helier;место погребения;1;2;to
+Q147738;Saint Helier;место смерти;1;18;to
+Q593645;Saint Martin;изображение герба;1;1;from
+Q147738;Saint Helier;имеет границы с;1;4;to
+Q147738;Saint Helier;код в энциклопедии «Британника онлайн»;1;1;from
+Q147738;Saint Helier;является столицей;1;1;from
+Q147738;Saint Helier;код US National Archives;1;1;from
+Q147738;Saint Helier;численность населения;1;4;from
+Q147738;Saint Helier;изображение герба;1;1;from
+Q147738;Saint Helier;глава правительства;1;1;from
+Q147738;Saint Helier;изображение флага;1;1;from
+Q147738;Saint Helier;код GeoNames;1;1;from
+Q147738;Saint Helier;это частный случай понятия;1;3;from
+Q147738;Saint Helier;код LCNAF;1;1;from
+Q147738;Saint Helier;карта местонахождения;1;1;from
+Q147738;Saint Helier;код VIAF;1;1;from
+Q147738;Saint Helier;город-побратим;1;3;to
+Q147738;Saint Helier;изображение;1;1;from
+Q147738;Saint Helier;категория для людей, родившихся здесь;1;1;from
+Q147738;Saint Helier;категория для людей, связанных с местностью;1;1;from
+Q147738;Saint Helier;расположение штаб-квартиры;1;34;to
+Q147738;Saint Helier;код NKC;1;1;from
+Q147738;Saint Helier;место рождения;1;58;to
+Q147738;Saint Helier;место в MusicBrainz;1;1;from
+Q147738;Saint Helier;баннер Викигида;1;1;from
+Q147738;Saint Helier;галерея на Викискладе;1;1;from
+Q147738;Saint Helier;основная категория по теме;1;1;from
+Q147738;Saint Helier;официальный сайт;1;1;from
+Q147738;Saint Helier;Who's on First ID;1;1;from
+Q147738;Saint Helier;площадь;1;1;from
+Q147738;Saint Helier;код Freebase;1;1;from
+Q147738;Saint Helier;географические координаты;1;1;from
+Q147738;Saint Helier;часовой пояс;1;1;from
+Q147738;Saint Helier;категория на Викискладе;1;1;from
+Q147738;Saint Helier;код темы Quora;1;1;from
+Q147738;Saint Helier;почтовый индекс;1;1;from
+Q593645;Saint Martin;это частный случай понятия;1;1;from
+Q593645;Saint Martin;код GeoNames;1;1;from
+Q1835699;Saint Brélade;код GeoNames;1;1;from
+Q1808243;Saint Saviour;изображение герба;1;1;from
+Q1808243;Saint Saviour;категория на Викискладе;1;1;from
+Q1808243;Saint Saviour;площадь;1;1;from
+Q1808243;Saint Saviour;код BBC Your Paintings venue;1;1;from
+Q1808243;Saint Saviour;код GeoNames;1;1;from
+Q1808243;Saint Saviour;официальное название;1;1;from
+Q1808243;Saint Saviour;численность населения;1;1;from
+Q1808243;Saint Saviour;имеет границы с;1;1;to
+Q1808243;Saint Saviour;код Freebase;1;1;from
+Q1808243;Saint Saviour;это частный случай понятия;1;1;from
+Q1808243;Saint Saviour;карта местонахождения;1;1;from
+Q1808243;Saint Saviour;изображение;1;1;from
+Q1808243;Saint Saviour;государство;1;1;from
+Q1808243;Saint Saviour;административно-территориальная единица;1;15;to
+Q954721;Saint John;административно делится на;1;1;to
+Q1808243;Saint Saviour;географические координаты;1;1;from
+Q1808243;Saint Saviour;основная категория по теме;1;1;from
+Q954721;Saint John;место погребения;1;1;to
+Q1835699;Saint Brélade;административно-территориальная единица;1;14;to
+Q1835699;Saint Brélade;изображение герба;1;1;from
+Q1835699;Saint Brélade;имеет границы с;1;1;to
+Q1835699;Saint Brélade;это частный случай понятия;1;1;from
+Q1835699;Saint Brélade;карта местонахождения;1;1;from
+Q1835699;Saint Brélade;изображение;1;1;from
+Q1835699;Saint Brélade;государство;1;1;from
+Q1808243;Saint Saviour;административно делится на;1;1;to
+Q1808243;Saint Saviour;баннер Викигида;1;1;from
+Q1808243;Saint Saviour;общая тема категории;1;1;to
+Q1808243;Saint Saviour;расположение штаб-квартиры;1;2;to
+Q1808243;Saint Saviour;местонахождение;1;1;to
+Q1808243;Saint Saviour;место погребения;1;1;to
+Q1808243;Saint Saviour;место рождения;1;3;to
+Q1808243;Saint Saviour;место смерти;1;2;to
+Q954721;Saint John;общая тема категории;1;1;to
+Q954721;Saint John;расположение штаб-квартиры;1;1;to
+Q593645;Saint Martin;код места в Facebook;1;1;from
+Q593645;Saint Martin;место рождения;1;2;to
+Q954721;Saint John;государство;1;1;from
+Q954721;Saint John;административно-территориальная единица;1;5;to
+Q593645;Saint Martin;административно делится на;1;1;to
+Q593645;Saint Martin;общая тема категории;1;1;to
+Q593645;Saint Martin;местонахождение;1;7;to
+Q593645;Saint Martin;место смерти;1;2;to
+Q593645;Saint Martin;административно-территориальная единица;1;13;to
+Q954721;Saint John;город-побратим;1;1;to
+Q593645;Saint Martin;баннер Викигида;1;1;from
+Q593645;Saint Martin;основная категория по теме;1;1;from
+Q593645;Saint Martin;код Freebase;1;1;from
+Q593645;Saint Martin;географические координаты;1;1;from
+Q593645;Saint Martin;категория на Викискладе;1;1;from
+Q593645;Saint Martin;площадь;1;1;from
+Q954721;Saint John;изображение;1;1;from
+Q954721;Saint John;карта местонахождения;1;1;from
+Q954721;Saint John;место рождения;1;2;to
+Q954721;Saint John;категория на Викискладе;1;1;from
+Q954721;Saint John;место жительства;1;1;to
+Q954721;Saint John;основная категория по теме;1;1;from
+Q954721;Saint John;официальный сайт;1;1;from
+Q954721;Saint John;Who's on First ID;1;1;from
+Q954721;Saint John;код Freebase;1;1;from
+Q954721;Saint John;географические координаты;1;1;from
+Q954721;Saint John;почтовый индекс;1;1;from
+Q954721;Saint John;это частный случай понятия;1;1;from
+Q954721;Saint John;площадь;1;1;from
+Q954721;Saint John;код места в Facebook;1;1;from
+Q954721;Saint John;код GeoNames;1;1;from
+Q954721;Saint John;численность населения;1;1;from
+Q954721;Saint John;изображение герба;1;1;from
+Q954721;Saint John;имеет границы с;1;2;to
+Q3058160;Saint Clement;административно делится на;1;1;to

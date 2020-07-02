@@ -1,0 +1,674 @@
+﻿entity_id;entity_name;prop_name;prop_count;prop_count_value;prop_dir
+Q201085;Prizren District;административно-территориальная единица;1;1;from
+Q967339;Zaječar District;карта местонахождения;1;1;from
+Q915380;Moravica District;основная категория по теме;1;1;from
+Q915380;Moravica District;место в MusicBrainz;1;1;from
+Q915380;Moravica District;является столицей;1;1;to
+Q915380;Moravica District;категория объединяет темы;1;2;to
+Q915380;Moravica District;общая тема категории;1;1;to
+Q915380;Moravica District;административно делится на;1;1;to
+Q967339;Zaječar District;административно-территориальная единица;1;27;to
+Q967339;Zaječar District;государство;1;1;from
+Q967339;Zaječar District;это частный случай понятия;1;1;from
+Q861539;Braničevo District;категория на Викискладе;1;1;from
+Q967339;Zaječar District;столица;1;1;from
+Q967339;Zaječar District;категория для людей, родившихся здесь;1;1;from
+Q967339;Zaječar District;название на языке оригинала;1;1;from
+Q967339;Zaječar District;категория для людей, связанных с местностью;1;1;from
+Q967339;Zaječar District;площадь;1;1;from
+Q967339;Zaječar District;ISO 3166-2;1;1;from
+Q967339;Zaječar District;код темы Quora;1;1;from
+Q967339;Zaječar District;категория на Викискладе;1;1;from
+Q915380;Moravica District;официальный сайт;1;1;from
+Q915380;Moravica District;код Freebase;1;1;from
+Q915380;Moravica District;географические координаты;1;1;from
+Q915380;Moravica District;идентификатор местоположения ArchINFORM;1;1;from
+Q915380;Moravica District;государство;1;1;from
+Q915380;Moravica District;карта местонахождения;1;1;from
+Q915380;Moravica District;это частный случай понятия;1;1;from
+Q915380;Moravica District;столица;1;1;from
+Q915380;Moravica District;имеет границы с;1;4;to
+Q915380;Moravica District;численность населения;1;1;from
+Q915380;Moravica District;официальное название;1;1;from
+Q915380;Moravica District;категория для людей, родившихся здесь;1;1;from
+Q915380;Moravica District;подробная карта;1;1;from
+Q915380;Moravica District;название на языке оригинала;1;1;from
+Q915380;Moravica District;категория для людей, связанных с местностью;1;1;from
+Q915380;Moravica District;площадь;1;1;from
+Q915380;Moravica District;ISO 3166-2;1;1;from
+Q915380;Moravica District;категория на Викискладе;1;1;from
+Q915380;Moravica District;ID отношения в OpenStreetMap;1;1;from
+Q915380;Moravica District;часовой пояс;1;1;from
+Q915380;Moravica District;местный телефонный код;1;1;from
+Q967339;Zaječar District;идентификатор местоположения ArchINFORM;1;1;from
+Q967339;Zaječar District;географические координаты;1;1;from
+Q967339;Zaječar District;код Freebase;1;1;from
+Q1043446;Rasina District;категория на Викискладе;1;1;from
+Q1043446;Rasina District;идентификатор местоположения ArchINFORM;1;1;from
+Q1043446;Rasina District;географические координаты;1;1;from
+Q1043446;Rasina District;код Freebase;1;1;from
+Q1043446;Rasina District;Who's on First ID;1;1;from
+Q1043446;Rasina District;основная категория по теме;1;1;from
+Q1043446;Rasina District;является столицей;1;1;to
+Q1043446;Rasina District;категория объединяет темы;1;2;to
+Q1043446;Rasina District;общая тема категории;1;1;to
+Q1043446;Rasina District;административно делится на;1;1;to
+Q1048139;Kolubara District;административно-территориальная единица;1;57;to
+Q1048139;Kolubara District;административно делится на;1;2;to
+Q1048139;Kolubara District;государство;1;1;from
+Q1048139;Kolubara District;изображение;1;1;from
+Q1048139;Kolubara District;карта местонахождения;1;2;from
+Q1048139;Kolubara District;это частный случай понятия;1;1;from
+Q1048139;Kolubara District;столица;1;1;from
+Q1048139;Kolubara District;имеет границы с;1;5;to
+Q1043446;Rasina District;ID отношения в OpenStreetMap;1;1;from
+Q1043446;Rasina District;ISO 3166-2;1;1;from
+Q967339;Zaječar District;категория карт на Викискладе;1;1;from
+Q1043446;Rasina District;код BabelNet;1;1;from
+Q967339;Zaječar District;основная категория по теме;1;1;from
+Q967339;Zaječar District;место в MusicBrainz;1;1;from
+Q967339;Zaječar District;имеет границы с;1;2;to
+Q967339;Zaječar District;является столицей;1;1;to
+Q967339;Zaječar District;категория объединяет темы;1;3;to
+Q967339;Zaječar District;общая тема категории;1;1;to
+Q967339;Zaječar District;административно делится на;1;1;to
+Q1043446;Rasina District;административно-территориальная единица;1;29;to
+Q1043446;Rasina District;государство;1;1;from
+Q1043446;Rasina District;карта местонахождения;1;1;from
+Q1043446;Rasina District;это частный случай понятия;1;1;from
+Q1043446;Rasina District;столица;1;1;from
+Q1043446;Rasina District;имеет границы с;1;3;to
+Q1043446;Rasina District;категория для людей, родившихся здесь;1;1;from
+Q1043446;Rasina District;название на языке оригинала;1;1;from
+Q1043446;Rasina District;категория для людей, связанных с местностью;1;1;from
+Q1043446;Rasina District;площадь;1;1;from
+Q915380;Moravica District;административно-территориальная единица;1;6;to
+Q876541;Jablanica District;административно делится на;1;1;to
+Q876541;Jablanica District;общая тема категории;1;1;to
+Q867803;Mačva District;подробная карта;1;1;from
+Q867803;Mačva District;категория для людей, связанных с местностью;1;1;from
+Q867803;Mačva District;площадь;1;1;from
+Q867803;Mačva District;ISO 3166-2;1;1;from
+Q867803;Mačva District;категория на Викискладе;1;1;from
+Q867803;Mačva District;ID отношения в OpenStreetMap;1;1;from
+Q867803;Mačva District;часовой пояс;1;1;from
+Q867803;Mačva District;местный телефонный код;1;1;from
+Q867803;Mačva District;идентификатор местоположения ArchINFORM;1;1;from
+Q867803;Mačva District;географические координаты;1;1;from
+Q867803;Mačva District;код Freebase;1;1;from
+Q867803;Mačva District;категория карт на Викискладе;1;1;from
+Q867803;Mačva District;официальный сайт;1;1;from
+Q867803;Mačva District;основная категория по теме;1;1;from
+Q867803;Mačva District;место в MusicBrainz;1;1;from
+Q867803;Mačva District;является столицей;1;1;to
+Q867803;Mačva District;категория объединяет темы;1;3;to
+Q867803;Mačva District;общая тема категории;1;1;to
+Q867803;Mačva District;название на языке оригинала;1;1;from
+Q867803;Mačva District;категория для людей, родившихся здесь;1;1;from
+Q867816;Pomoravlje District;административно-территориальная единица;1;23;to
+Q867803;Mačva District;официальное название;1;1;from
+Q861539;Braničevo District;географические координаты;1;1;from
+Q861539;Braničevo District;код Freebase;1;1;from
+Q861539;Braničevo District;Who's on First ID;1;1;from
+Q861539;Braničevo District;категория карт на Викискладе;1;1;from
+Q861539;Braničevo District;официальный сайт;1;1;from
+Q861539;Braničevo District;основная категория по теме;1;1;from
+Q861539;Braničevo District;является столицей;1;1;to
+Q861539;Braničevo District;категория объединяет темы;1;3;to
+Q861539;Braničevo District;общая тема категории;1;1;to
+Q861539;Braničevo District;административно делится на;1;1;to
+Q867803;Mačva District;административно-территориальная единица;1;42;to
+Q867803;Mačva District;государство;1;1;from
+Q867803;Mačva District;карта местонахождения;1;2;from
+Q867803;Mačva District;это частный случай понятия;1;1;from
+Q867803;Mačva District;столица;1;1;from
+Q867803;Mačva District;имеет границы с;1;4;to
+Q867803;Mačva District;численность населения;1;1;from
+Q867803;Mačva District;административно делится на;1;1;to
+Q867816;Pomoravlje District;государство;1;1;from
+Q876541;Jablanica District;категория объединяет темы;1;1;to
+Q876541;Jablanica District;карта местонахождения;1;1;from
+Q876541;Jablanica District;столица;1;1;from
+Q876541;Jablanica District;имеет границы с;1;3;to
+Q876541;Jablanica District;не путать с;1;1;to
+Q876541;Jablanica District;площадь;1;1;from
+Q876541;Jablanica District;используемый язык;1;2;from
+Q876541;Jablanica District;ISO 3166-2;1;1;from
+Q876541;Jablanica District;категория на Викискладе;1;1;from
+Q876541;Jablanica District;идентификатор местоположения ArchINFORM;1;1;from
+Q876541;Jablanica District;географические координаты;1;1;from
+Q876541;Jablanica District;код Freebase;1;1;from
+Q876541;Jablanica District;Who's on First ID;1;1;from
+Q876541;Jablanica District;категория карт на Викискладе;1;1;from
+Q876541;Jablanica District;официальный сайт;1;1;from
+Q876541;Jablanica District;основная категория по теме;1;1;from
+Q876541;Jablanica District;происходит из;1;2;to
+Q876541;Jablanica District;является столицей;1;1;to
+Q876541;Jablanica District;часть от;1;1;to
+Q876541;Jablanica District;это частный случай понятия;1;1;from
+Q876541;Jablanica District;государство;1;1;from
+Q867816;Pomoravlje District;карта местонахождения;1;1;from
+Q876541;Jablanica District;административно-территориальная единица;1;10;to
+Q867816;Pomoravlje District;это частный случай понятия;1;1;from
+Q867816;Pomoravlje District;столица;1;1;from
+Q867816;Pomoravlje District;имеет границы с;1;2;to
+Q867816;Pomoravlje District;название на языке оригинала;1;1;from
+Q867816;Pomoravlje District;площадь;1;1;from
+Q867816;Pomoravlje District;ISO 3166-2;1;1;from
+Q867816;Pomoravlje District;категория на Викискладе;1;1;from
+Q867816;Pomoravlje District;ID отношения в OpenStreetMap;1;1;from
+Q867816;Pomoravlje District;идентификатор местоположения ArchINFORM;1;1;from
+Q867816;Pomoravlje District;географические координаты;1;1;from
+Q867816;Pomoravlje District;код Freebase;1;1;from
+Q867816;Pomoravlje District;Who's on First ID;1;1;from
+Q867816;Pomoravlje District;основная категория по теме;1;1;from
+Q867816;Pomoravlje District;место в MusicBrainz;1;1;from
+Q867816;Pomoravlje District;является столицей;1;1;to
+Q867816;Pomoravlje District;общая тема категории;1;1;to
+Q867816;Pomoravlje District;административно делится на;1;1;to
+Q1048139;Kolubara District;численность населения;1;1;from
+Q1048139;Kolubara District;категория для людей, родившихся здесь;1;1;from
+Q1048139;Kolubara District;код GeoNames;1;1;from
+Q1061099;Pčinja District;категория для людей, родившихся здесь;1;1;from
+Q1061099;Pčinja District;категория для людей, связанных с местностью;1;1;from
+Q1061099;Pčinja District;площадь;1;1;from
+Q1061099;Pčinja District;ISO 3166-2;1;1;from
+Q1061099;Pčinja District;категория на Викискладе;1;1;from
+Q1061099;Pčinja District;ID отношения в OpenStreetMap;1;1;from
+Q1061099;Pčinja District;идентификатор местоположения ArchINFORM;1;1;from
+Q1061099;Pčinja District;географические координаты;1;1;from
+Q1061099;Pčinja District;код Freebase;1;1;from
+Q1061099;Pčinja District;категория карт на Викискладе;1;1;from
+Q1061099;Pčinja District;основная категория по теме;1;1;from
+Q1061099;Pčinja District;категория объединяет темы;1;3;to
+Q1061099;Pčinja District;является столицей;1;1;to
+Q1061099;Pčinja District;общая тема категории;1;1;to
+Q1061099;Pčinja District;административно делится на;1;1;to
+Q1452368;Kosovo District;административно-территориальная единица;1;3;to
+Q1452368;Kosovo District;государство;1;1;from
+Q1452368;Kosovo District;карта местонахождения;1;1;from
+Q1061099;Pčinja District;название на языке оригинала;1;1;from
+Q1061099;Pčinja District;имеет границы с;1;2;to
+Q1452368;Kosovo District;столица;1;1;from
+Q1061099;Pčinja District;столица;1;1;from
+Q1061082;Raška District;категория на Викискладе;1;1;from
+Q1061082;Raška District;ID отношения в OpenStreetMap;1;1;from
+Q1061082;Raška District;часовой пояс;1;1;from
+Q1061082;Raška District;местный телефонный код;1;1;from
+Q1061082;Raška District;идентификатор местоположения ArchINFORM;1;1;from
+Q1061082;Raška District;географические координаты;1;1;from
+Q1061082;Raška District;код Freebase;1;1;from
+Q1061082;Raška District;официальный сайт;1;1;from
+Q1061082;Raška District;основная категория по теме;1;1;from
+Q1061082;Raška District;категория объединяет темы;1;2;to
+Q1061082;Raška District;является столицей;1;1;to
+Q1061082;Raška District;общая тема категории;1;1;to
+Q1061082;Raška District;административно делится на;1;1;to
+Q1061099;Pčinja District;административно-территориальная единица;1;23;to
+Q1061099;Pčinja District;государство;1;1;from
+Q1061099;Pčinja District;карта местонахождения;1;1;from
+Q1061099;Pčinja District;это частный случай понятия;1;1;from
+Q1452368;Kosovo District;это частный случай понятия;1;2;from
+Q1452368;Kosovo District;численность населения;1;1;from
+Q1061082;Raška District;площадь;1;1;from
+Q2074197;Belgrade District;изображение герба;1;1;from
+Q2074197;Belgrade District;код GeoNames;1;1;from
+Q2074197;Belgrade District;подробная карта;1;1;from
+Q2074197;Belgrade District;название на языке оригинала;1;1;from
+Q2074197;Belgrade District;не путать с;1;1;to
+Q2074197;Belgrade District;высота над уровнем моря;1;1;from
+Q2074197;Belgrade District;площадь;1;1;from
+Q2074197;Belgrade District;ISO 3166-2;1;1;from
+Q2074197;Belgrade District;ID отношения в OpenStreetMap;1;1;from
+Q2074197;Belgrade District;часовой пояс;1;1;from
+Q2074197;Belgrade District;местный телефонный код;1;1;from
+Q2074197;Belgrade District;дата основания/создания/возникновения;1;1;from
+Q2074197;Belgrade District;географические координаты;1;2;from
+Q2074197;Belgrade District;Who's on First ID;1;1;from
+Q2074197;Belgrade District;официальный сайт;1;1;from
+Q2074197;Belgrade District;основная категория по теме;1;1;from
+Q2074197;Belgrade District;общая тема категории;1;1;to
+Q2074197;Belgrade District;является столицей;1;1;to
+Q2074197;Belgrade District;численность населения;1;1;from
+Q2074197;Belgrade District;глава правительства;1;1;from
+Q1452368;Kosovo District;площадь;1;1;from
+Q2074197;Belgrade District;имеет границы с;1;7;to
+Q1452368;Kosovo District;используемый язык;1;2;from
+Q1452368;Kosovo District;ISO 3166-2;1;1;from
+Q1452368;Kosovo District;категория на Викискладе;1;1;from
+Q1452368;Kosovo District;географические координаты;1;1;from
+Q1452368;Kosovo District;код Freebase;1;1;from
+Q1452368;Kosovo District;основная категория по теме;1;1;from
+Q1452368;Kosovo District;происходит из;1;2;to
+Q1452368;Kosovo District;общая тема категории;1;1;to
+Q1452368;Kosovo District;административно делится на;1;2;to
+Q1452368;Kosovo District;является столицей;1;1;to
+Q2074197;Belgrade District;административно-территориальная единица;1;147;to
+Q2074197;Belgrade District;государство;1;1;from
+Q2074197;Belgrade District;код ISNI;1;1;from
+Q2074197;Belgrade District;карта местонахождения;1;1;from
+Q2074197;Belgrade District;это частный случай понятия;1;1;from
+Q2074197;Belgrade District;столица;1;1;from
+Q2074197;Belgrade District;изображение флага;1;1;from
+Q1061082;Raška District;ISO 3166-2;1;1;from
+Q1061082;Raška District;позиционная карта;1;1;from
+Q1048139;Kolubara District;название на языке оригинала;1;2;from
+Q1048184;Toplica District;карта местонахождения;1;1;from
+Q1048184;Toplica District;столица;1;1;from
+Q1048184;Toplica District;название на языке оригинала;1;1;from
+Q1048184;Toplica District;площадь;1;1;from
+Q1048184;Toplica District;код BabelNet;1;1;from
+Q1048184;Toplica District;используемый язык;1;1;from
+Q1048184;Toplica District;ISO 3166-2;1;1;from
+Q1048184;Toplica District;категория на Викискладе;1;1;from
+Q1048184;Toplica District;идентификатор местоположения ArchINFORM;1;1;from
+Q1048184;Toplica District;географические координаты;1;1;from
+Q1048184;Toplica District;код Freebase;1;1;from
+Q1048184;Toplica District;Who's on First ID;1;1;from
+Q1048184;Toplica District;код NKC;1;1;from
+Q1048184;Toplica District;категория карт на Викискладе;1;1;from
+Q1048184;Toplica District;основная категория по теме;1;1;from
+Q1048184;Toplica District;место в MusicBrainz;1;1;from
+Q1048184;Toplica District;имеет границы с;1;1;to
+Q1048184;Toplica District;местонахождение;1;1;to
+Q1048184;Toplica District;это частный случай понятия;1;1;from
+Q1048184;Toplica District;государство;1;1;from
+Q1048184;Toplica District;является столицей;1;1;to
+Q1048184;Toplica District;административно-территориальная единица;1;5;to
+Q1048139;Kolubara District;категория для людей, связанных с местностью;1;1;from
+Q1048139;Kolubara District;площадь;1;1;from
+Q1048139;Kolubara District;ISO 3166-2;1;1;from
+Q1048139;Kolubara District;категория на Викискладе;1;1;from
+Q1048139;Kolubara District;ID отношения в OpenStreetMap;1;1;from
+Q1048139;Kolubara District;местный телефонный код;1;1;from
+Q1048139;Kolubara District;идентификатор местоположения ArchINFORM;1;1;from
+Q1048139;Kolubara District;географические координаты;1;1;from
+Q1048139;Kolubara District;код Freebase;1;1;from
+Q1048139;Kolubara District;Who's on First ID;1;1;from
+Q1048139;Kolubara District;категория карт на Викискладе;1;1;from
+Q1048139;Kolubara District;официальный сайт;1;1;from
+Q1048139;Kolubara District;основная категория по теме;1;1;from
+Q1048139;Kolubara District;место в MusicBrainz;1;1;from
+Q1048139;Kolubara District;категория объединяет темы;1;3;to
+Q1048139;Kolubara District;является столицей;1;1;to
+Q1048139;Kolubara District;общая тема категории;1;1;to
+Q1048184;Toplica District;происходит из;1;1;to
+Q1048184;Toplica District;категория объединяет темы;1;1;to
+Q1061082;Raška District;категория для людей, связанных с местностью;1;1;from
+Q1061076;Nišava District;категория карт на Викискладе;1;1;from
+Q1061076;Nišava District;основная категория по теме;1;1;from
+Q1061076;Nišava District;место в MusicBrainz;1;1;from
+Q1061076;Nišava District;является столицей;1;1;to
+Q1061076;Nišava District;категория объединяет темы;1;3;to
+Q1061076;Nišava District;общая тема категории;1;1;to
+Q1061076;Nišava District;административно делится на;1;1;to
+Q1061082;Raška District;административно-территориальная единица;1;17;to
+Q1061082;Raška District;государство;1;1;from
+Q1061082;Raška District;карта местонахождения;1;1;from
+Q1061082;Raška District;это частный случай понятия;1;1;from
+Q1061082;Raška District;столица;1;1;from
+Q1061082;Raška District;имеет границы с;1;6;to
+Q1061082;Raška District;численность населения;1;1;from
+Q1061082;Raška District;официальное название;1;1;from
+Q1061082;Raška District;категория для людей, родившихся здесь;1;1;from
+Q1061082;Raška District;подробная карта;1;1;from
+Q1061082;Raška District;название на языке оригинала;1;1;from
+Q1061076;Nišava District;официальный сайт;1;1;from
+Q1061076;Nišava District;Who's on First ID;1;1;from
+Q1048184;Toplica District;общая тема категории;1;1;to
+Q1061076;Nišava District;код Freebase;1;1;from
+Q1048184;Toplica District;административно делится на;1;1;to
+Q1061076;Nišava District;административно-территориальная единица;1;44;to
+Q1061076;Nišava District;государство;1;1;from
+Q1061076;Nišava District;изображение;1;1;from
+Q1061076;Nišava District;карта местонахождения;1;2;from
+Q1061076;Nišava District;это частный случай понятия;1;1;from
+Q1061076;Nišava District;столица;1;1;from
+Q1061076;Nišava District;имеет границы с;1;1;to
+Q1061076;Nišava District;категория для людей, родившихся здесь;1;1;from
+Q1061076;Nišava District;код GeoNames;1;1;from
+Q1061076;Nišava District;название на языке оригинала;1;1;from
+Q1061076;Nišava District;категория для людей, связанных с местностью;1;1;from
+Q1061076;Nišava District;площадь;1;1;from
+Q1061076;Nišava District;ISO 3166-2;1;1;from
+Q1061076;Nišava District;категория на Викискладе;1;1;from
+Q1061076;Nišava District;идентификатор местоположения ArchINFORM;1;1;from
+Q1061076;Nišava District;географические координаты;1;1;from
+Q861539;Braničevo District;идентификатор местоположения ArchINFORM;1;1;from
+Q861539;Braničevo District;ISO 3166-2;1;1;from
+Q201085;Prizren District;государство;1;1;from
+Q478278;Zlatibor District;официальный сайт;1;1;from
+Q478278;Zlatibor District;категория на Викискладе;1;1;from
+Q478278;Zlatibor District;ID отношения в OpenStreetMap;1;1;from
+Q478278;Zlatibor District;часовой пояс;1;1;from
+Q478278;Zlatibor District;местный телефонный код;1;2;from
+Q478278;Zlatibor District;идентификатор местоположения ArchINFORM;1;1;from
+Q478278;Zlatibor District;географические координаты;1;1;from
+Q478278;Zlatibor District;код Freebase;1;1;from
+Q478278;Zlatibor District;Who's on First ID;1;1;from
+Q478278;Zlatibor District;основная категория по теме;1;1;from
+Q861539;Braničevo District;площадь;1;1;from
+Q478278;Zlatibor District;баннер Викигида;1;1;from
+Q478278;Zlatibor District;место в MusicBrainz;1;1;from
+Q478278;Zlatibor District;анклав в;1;1;to
+Q478278;Zlatibor District;история происходит в месте;1;1;to
+Q478278;Zlatibor District;категория объединяет темы;1;2;to
+Q478278;Zlatibor District;общая тема категории;1;1;to
+Q478278;Zlatibor District;является столицей;1;1;to
+Q544118;Šumadija District;административно-территориальная единица;1;22;to
+Q478278;Zlatibor District;ISO 3166-2;1;1;from
+Q478278;Zlatibor District;площадь;1;1;from
+Q478278;Zlatibor District;категория для людей, связанных с местностью;1;1;from
+Q478278;Zlatibor District;название на языке оригинала;1;1;from
+Q477586;Bor District;категория карт на Викискладе;1;1;from
+Q477586;Bor District;официальный сайт;1;1;from
+Q477586;Bor District;основная категория по теме;1;1;from
+Q477586;Bor District;категория объединяет темы;1;3;to
+Q477586;Bor District;является столицей;1;1;to
+Q477586;Bor District;общая тема категории;1;1;to
+Q477586;Bor District;административно делится на;1;1;to
+Q478278;Zlatibor District;административно-территориальная единица;1;29;to
+Q478278;Zlatibor District;административно делится на;1;2;to
+Q478278;Zlatibor District;государство;1;1;from
+Q478278;Zlatibor District;карта местонахождения;1;1;from
+Q478278;Zlatibor District;это частный случай понятия;1;1;from
+Q478278;Zlatibor District;столица;1;1;from
+Q478278;Zlatibor District;имеет границы с;1;4;to
+Q478278;Zlatibor District;численность населения;1;1;from
+Q478278;Zlatibor District;официальное название;1;1;from
+Q478278;Zlatibor District;категория для людей, родившихся здесь;1;1;from
+Q544118;Šumadija District;государство;1;1;from
+Q544118;Šumadija District;изображение;1;1;from
+Q544118;Šumadija District;карта местонахождения;1;4;from
+Q544118;Šumadija District;категория объединяет темы;1;3;to
+Q544118;Šumadija District;административно делится на;1;1;to
+Q580069;Pirot District;административно-территориальная единица;1;8;to
+Q580069;Pirot District;государство;1;1;from
+Q580069;Pirot District;карта местонахождения;1;1;from
+Q580069;Pirot District;это частный случай понятия;1;1;from
+Q580069;Pirot District;столица;1;1;from
+Q580069;Pirot District;имеет границы с;1;2;to
+Q580069;Pirot District;название на языке оригинала;1;1;from
+Q580069;Pirot District;площадь;1;1;from
+Q580069;Pirot District;используемый язык;1;2;from
+Q580069;Pirot District;ISO 3166-2;1;1;from
+Q580069;Pirot District;категория на Викискладе;1;1;from
+Q580069;Pirot District;ID отношения в OpenStreetMap;1;1;from
+Q580069;Pirot District;идентификатор местоположения ArchINFORM;1;1;from
+Q580069;Pirot District;географические координаты;1;1;from
+Q580069;Pirot District;код Freebase;1;1;from
+Q580069;Pirot District;Who's on First ID;1;1;from
+Q544118;Šumadija District;общая тема категории;1;1;to
+Q544118;Šumadija District;является столицей;1;1;to
+Q544118;Šumadija District;это частный случай понятия;1;1;from
+Q544118;Šumadija District;место в MusicBrainz;1;1;from
+Q544118;Šumadija District;столица;1;1;from
+Q544118;Šumadija District;имеет границы с;1;7;to
+Q544118;Šumadija District;категория для людей, родившихся здесь;1;1;from
+Q544118;Šumadija District;категория для людей, умерших здесь;1;1;from
+Q544118;Šumadija District;название на языке оригинала;1;1;from
+Q544118;Šumadija District;категория для людей, связанных с местностью;1;1;from
+Q544118;Šumadija District;не путать с;1;1;to
+Q544118;Šumadija District;площадь;1;1;from
+Q544118;Šumadija District;ISO 3166-2;1;1;from
+Q544118;Šumadija District;категория на Викискладе;1;1;from
+Q544118;Šumadija District;ID отношения в OpenStreetMap;1;1;from
+Q544118;Šumadija District;идентификатор местоположения ArchINFORM;1;1;from
+Q544118;Šumadija District;дата основания/создания/возникновения;1;1;from
+Q544118;Šumadija District;географические координаты;1;1;from
+Q544118;Šumadija District;код Freebase;1;1;from
+Q544118;Šumadija District;основная категория по теме;1;1;from
+Q544118;Šumadija District;баннер Викигида;1;1;from
+Q477586;Bor District;Who's on First ID;1;1;from
+Q477586;Bor District;код Freebase;1;1;from
+Q477586;Bor District;географические координаты;1;1;from
+Q217331;Srem District;название на языке оригинала;1;1;from
+Q217331;Srem District;площадь;1;1;from
+Q217331;Srem District;ISO 3166-2;1;1;from
+Q217331;Srem District;категория на Викискладе;1;1;from
+Q217331;Srem District;ID отношения в OpenStreetMap;1;1;from
+Q217331;Srem District;идентификатор местоположения ArchINFORM;1;1;from
+Q217331;Srem District;географические координаты;1;1;from
+Q217331;Srem District;код Freebase;1;1;from
+Q217331;Srem District;Who's on First ID;1;1;from
+Q217331;Srem District;основная категория по теме;1;1;from
+Q217331;Srem District;общая тема категории;1;1;to
+Q217331;Srem District;категория объединяет темы;1;2;to
+Q217331;Srem District;является столицей;1;1;to
+Q217331;Srem District;место рождения;1;1;to
+Q217331;Srem District;административно делится на;1;2;to
+Q425782;Central Banat District;административно-территориальная единица;1;18;to
+Q425782;Central Banat District;административно делится на;1;2;to
+Q425782;Central Banat District;государство;1;1;from
+Q217331;Srem District;категория для людей, связанных с местностью;1;1;from
+Q217331;Srem District;категория для людей, родившихся здесь;1;1;from
+Q425782;Central Banat District;это частный случай понятия;1;1;from
+Q217331;Srem District;численность населения;1;1;from
+Q201085;Prizren District;карта ареала вида;1;1;from
+Q201085;Prizren District;карта местонахождения;1;1;from
+Q201085;Prizren District;это частный случай понятия;1;1;from
+Q201085;Prizren District;ISO 3166-2;1;1;from
+Q201085;Prizren District;категория на Викискладе;1;1;from
+Q201085;Prizren District;географические координаты;1;1;from
+Q201085;Prizren District;код Freebase;1;1;from
+Q201085;Prizren District;основная категория по теме;1;1;from
+Q201085;Prizren District;общая тема категории;1;1;to
+Q201085;Prizren District;административно делится на;1;2;to
+Q217331;Srem District;административно-территориальная единица;1;37;to
+Q217331;Srem District;государство;1;1;from
+Q217331;Srem District;карта местонахождения;1;1;from
+Q217331;Srem District;это частный случай понятия;1;1;from
+Q217331;Srem District;столица;1;1;from
+Q217331;Srem District;имеет границы с;1;2;to
+Q217331;Srem District;десятичная классификация Дьюи;1;1;from
+Q425782;Central Banat District;карта местонахождения;1;1;from
+Q425782;Central Banat District;столица;1;1;from
+Q477586;Bor District;идентификатор местоположения ArchINFORM;1;1;from
+Q477586;Bor District;административно-территориальная единица;1;28;to
+Q477586;Bor District;карта местонахождения;1;2;from
+Q477586;Bor District;это частный случай понятия;1;1;from
+Q477586;Bor District;столица;1;1;from
+Q477586;Bor District;изображение герба;1;1;from
+Q477586;Bor District;численность населения;1;1;from
+Q477586;Bor District;категория для людей, родившихся здесь;1;1;from
+Q477586;Bor District;код GeoNames;1;1;from
+Q477586;Bor District;подробная карта;1;1;from
+Q477586;Bor District;название на языке оригинала;1;1;from
+Q477586;Bor District;категория для людей, связанных с местностью;1;1;from
+Q477586;Bor District;высота над уровнем моря;1;1;from
+Q477586;Bor District;площадь;1;1;from
+Q477586;Bor District;код BabelNet;1;1;from
+Q477586;Bor District;ISO 3166-2;1;1;from
+Q477586;Bor District;категория на Викискладе;1;1;from
+Q477586;Bor District;ID отношения в OpenStreetMap;1;1;from
+Q477586;Bor District;местный телефонный код;1;1;from
+Q477586;Bor District;государство;1;1;from
+Q425782;Central Banat District;происходит из;1;1;to
+Q425782;Central Banat District;имеет границы с;1;1;to
+Q425782;Central Banat District;категория объединяет темы;1;2;to
+Q425782;Central Banat District;десятичная классификация Дьюи;1;1;from
+Q425782;Central Banat District;официальное название;1;1;from
+Q425782;Central Banat District;категория для людей, родившихся здесь;1;1;from
+Q425782;Central Banat District;название на языке оригинала;1;1;from
+Q425782;Central Banat District;категория для людей, связанных с местностью;1;1;from
+Q425782;Central Banat District;площадь;1;1;from
+Q425782;Central Banat District;используемый язык;1;1;from
+Q425782;Central Banat District;ISO 3166-2;1;1;from
+Q425782;Central Banat District;категория на Викискладе;1;1;from
+Q425782;Central Banat District;ID отношения в OpenStreetMap;1;1;from
+Q425782;Central Banat District;идентификатор местоположения ArchINFORM;1;1;from
+Q425782;Central Banat District;географические координаты;1;1;from
+Q425782;Central Banat District;код Freebase;1;1;from
+Q425782;Central Banat District;Who's on First ID;1;1;from
+Q425782;Central Banat District;основная категория по теме;1;1;from
+Q425782;Central Banat District;место в MusicBrainz;1;1;from
+Q425782;Central Banat District;общая тема категории;1;1;to
+Q580069;Pirot District;категория карт на Викискладе;1;1;from
+Q580069;Pirot District;основная категория по теме;1;1;from
+Q580069;Pirot District;общая тема категории;1;1;to
+Q728041;North Banat District;ISO 3166-2;1;1;from
+Q728041;North Banat District;ID отношения в OpenStreetMap;1;1;from
+Q728041;North Banat District;идентификатор местоположения ArchINFORM;1;1;from
+Q728041;North Banat District;географические координаты;1;1;from
+Q728041;North Banat District;код Freebase;1;1;from
+Q728041;North Banat District;Who's on First ID;1;1;from
+Q728041;North Banat District;основная категория по теме;1;1;from
+Q728041;North Banat District;общая тема категории;1;1;to
+Q728041;North Banat District;категория объединяет темы;1;3;to
+Q728041;North Banat District;является столицей;1;1;to
+Q728041;North Banat District;происходит из;1;1;to
+Q735169;West Bačka District;административно-территориальная единица;1;14;to
+Q735169;West Bačka District;государство;1;1;from
+Q735169;West Bačka District;карта местонахождения;1;1;from
+Q735169;West Bačka District;это частный случай понятия;1;1;from
+Q735169;West Bačka District;столица;1;1;from
+Q735169;West Bačka District;десятичная классификация Дьюи;1;1;from
+Q735169;West Bačka District;численность населения;1;1;from
+Q728041;North Banat District;категория на Викискладе;1;1;from
+Q728041;North Banat District;используемый язык;1;1;from
+Q735169;West Bačka District;название на языке оригинала;1;1;from
+Q728041;North Banat District;площадь;1;1;from
+Q720030;South Banat District;место в MusicBrainz;1;1;from
+Q720030;South Banat District;является столицей;1;1;to
+Q720030;South Banat District;категория объединяет темы;1;2;to
+Q720030;South Banat District;место рождения;1;1;to
+Q720030;South Banat District;общая тема категории;1;1;to
+Q720030;South Banat District;административно делится на;1;2;to
+Q728041;North Banat District;административно-территориальная единица;1;32;to
+Q728041;North Banat District;административно делится на;1;2;to
+Q728041;North Banat District;государство;1;1;from
+Q728041;North Banat District;карта местонахождения;1;1;from
+Q728041;North Banat District;это частный случай понятия;1;1;from
+Q728041;North Banat District;столица;1;1;from
+Q728041;North Banat District;десятичная классификация Дьюи;1;1;from
+Q728041;North Banat District;категория для людей, родившихся здесь;1;1;from
+Q728041;North Banat District;категория для людей, умерших здесь;1;1;from
+Q728041;North Banat District;название на языке оригинала;1;1;from
+Q728041;North Banat District;категория для людей, связанных с местностью;1;1;from
+Q735169;West Bačka District;категория для людей, родившихся здесь;1;1;from
+Q735169;West Bačka District;категория для людей, связанных с местностью;1;1;from
+Q720030;South Banat District;официальный сайт;1;1;from
+Q778561;Podunavlje District;категория на Викискладе;1;1;from
+Q778561;Podunavlje District;географические координаты;1;1;from
+Q778561;Podunavlje District;код Freebase;1;1;from
+Q778561;Podunavlje District;Who's on First ID;1;1;from
+Q778561;Podunavlje District;категория карт на Викискладе;1;1;from
+Q778561;Podunavlje District;основная категория по теме;1;1;from
+Q778561;Podunavlje District;является столицей;1;1;to
+Q778561;Podunavlje District;категория объединяет темы;1;1;to
+Q778561;Podunavlje District;общая тема категории;1;1;to
+Q778561;Podunavlje District;административно делится на;1;1;to
+Q861539;Braničevo District;административно-территориальная единица;1;46;to
+Q861539;Braničevo District;государство;1;1;from
+Q861539;Braničevo District;карта местонахождения;1;1;from
+Q861539;Braničevo District;это частный случай понятия;1;1;from
+Q861539;Braničevo District;столица;1;1;from
+Q861539;Braničevo District;категория для людей, родившихся здесь;1;1;from
+Q861539;Braničevo District;название на языке оригинала;1;1;from
+Q861539;Braničevo District;категория для людей, связанных с местностью;1;1;from
+Q778561;Podunavlje District;идентификатор местоположения ArchINFORM;1;1;from
+Q778561;Podunavlje District;ISO 3166-2;1;1;from
+Q735169;West Bačka District;площадь;1;1;from
+Q778561;Podunavlje District;площадь;1;1;from
+Q735169;West Bačka District;ISO 3166-2;1;1;from
+Q735169;West Bačka District;категория на Викискладе;1;1;from
+Q735169;West Bačka District;ID отношения в OpenStreetMap;1;1;from
+Q735169;West Bačka District;идентификатор местоположения ArchINFORM;1;1;from
+Q735169;West Bačka District;географические координаты;1;1;from
+Q735169;West Bačka District;код Freebase;1;1;from
+Q735169;West Bačka District;основная категория по теме;1;1;from
+Q735169;West Bačka District;является столицей;1;1;to
+Q735169;West Bačka District;категория объединяет темы;1;2;to
+Q735169;West Bačka District;общая тема категории;1;1;to
+Q735169;West Bačka District;административно делится на;1;2;to
+Q778561;Podunavlje District;административно-территориальная единица;1;7;to
+Q778561;Podunavlje District;государство;1;1;from
+Q778561;Podunavlje District;карта местонахождения;1;1;from
+Q778561;Podunavlje District;это частный случай понятия;1;1;from
+Q778561;Podunavlje District;столица;1;1;from
+Q778561;Podunavlje District;имеет границы с;1;2;to
+Q720030;South Banat District;основная категория по теме;1;1;from
+Q720030;South Banat District;код Freebase;1;1;from
+Q580069;Pirot District;происходит из;1;2;to
+Q648718;South Bačka District;ISO 3166-2;1;1;from
+Q648718;South Bačka District;ID отношения в OpenStreetMap;1;1;from
+Q648718;South Bačka District;идентификатор местоположения ArchINFORM;1;1;from
+Q648718;South Bačka District;географические координаты;1;1;from
+Q648718;South Bačka District;код Freebase;1;1;from
+Q648718;South Bačka District;Who's on First ID;1;1;from
+Q648718;South Bačka District;официальный сайт;1;1;from
+Q648718;South Bačka District;основная категория по теме;1;1;from
+Q648718;South Bačka District;место в MusicBrainz;1;1;from
+Q648718;South Bačka District;место рождения;1;1;to
+Q648718;South Bačka District;категория объединяет темы;1;3;to
+Q648718;South Bačka District;общая тема категории;1;1;to
+Q648718;South Bačka District;является столицей;1;1;to
+Q648718;South Bačka District;происходит из;1;1;to
+Q648758;North Bačka District;административно-территориальная единица;1;7;to
+Q648758;North Bačka District;административно делится на;1;2;to
+Q648758;North Bačka District;государство;1;1;from
+Q648758;North Bačka District;карта местонахождения;1;1;from
+Q648718;South Bačka District;категория на Викискладе;1;1;from
+Q648718;South Bačka District;используемый язык;1;1;from
+Q648758;North Bačka District;столица;1;1;from
+Q648718;South Bačka District;площадь;1;1;from
+Q580069;Pirot District;названо в честь;1;1;to
+Q580069;Pirot District;является столицей;1;1;to
+Q580069;Pirot District;категория объединяет темы;1;1;to
+Q580069;Pirot District;административно делится на;1;1;to
+Q648718;South Bačka District;административно-территориальная единица;1;46;to
+Q648718;South Bačka District;административно делится на;1;2;to
+Q648718;South Bačka District;государство;1;1;from
+Q648718;South Bačka District;карта местонахождения;1;1;from
+Q648718;South Bačka District;это частный случай понятия;1;1;from
+Q648718;South Bačka District;столица;1;1;from
+Q648718;South Bačka District;десятичная классификация Дьюи;1;1;from
+Q648718;South Bačka District;численность населения;1;1;from
+Q648718;South Bačka District;категория для людей, родившихся здесь;1;1;from
+Q648718;South Bačka District;категория для людей, умерших здесь;1;1;from
+Q648718;South Bačka District;название на языке оригинала;1;1;from
+Q648718;South Bačka District;категория для людей, связанных с местностью;1;1;from
+Q648718;South Bačka District;позиционная карта;1;1;from
+Q648758;North Bačka District;это частный случай понятия;1;1;from
+Q648758;North Bačka District;десятичная классификация Дьюи;1;1;from
+Q720030;South Banat District;географические координаты;1;1;from
+Q648758;North Bačka District;общая тема категории;1;1;to
+Q720030;South Banat District;административно-территориальная единица;1;26;to
+Q720030;South Banat District;государство;1;1;from
+Q720030;South Banat District;карта местонахождения;1;1;from
+Q720030;South Banat District;это частный случай понятия;1;1;from
+Q720030;South Banat District;столица;1;1;from
+Q720030;South Banat District;имеет границы с;1;1;to
+Q720030;South Banat District;десятичная классификация Дьюи;1;1;from
+Q720030;South Banat District;численность населения;1;1;from
+Q720030;South Banat District;официальное название;1;1;from
+Q720030;South Banat District;категория для людей, родившихся здесь;1;1;from
+Q720030;South Banat District;название на языке оригинала;1;1;from
+Q720030;South Banat District;категория для людей, связанных с местностью;1;1;from
+Q720030;South Banat District;площадь;1;1;from
+Q720030;South Banat District;ISO 3166-2;1;1;from
+Q720030;South Banat District;категория на Викискладе;1;1;from
+Q720030;South Banat District;ID отношения в OpenStreetMap;1;1;from
+Q720030;South Banat District;идентификатор местоположения ArchINFORM;1;1;from
+Q648758;North Bačka District;происходит из;1;1;to
+Q648758;North Bačka District;категория объединяет темы;1;3;to
+Q648758;North Bačka District;численность населения;1;1;from
+Q648758;North Bačka District;является столицей;1;1;to
+Q648758;North Bačka District;официальное название;1;2;from
+Q648758;North Bačka District;категория для людей, родившихся здесь;1;1;from
+Q648758;North Bačka District;категория для людей, умерших здесь;1;1;from
+Q648758;North Bačka District;название на языке оригинала;1;1;from
+Q648758;North Bačka District;категория для людей, связанных с местностью;1;1;from
+Q648758;North Bačka District;площадь;1;1;from
+Q648758;North Bačka District;используемый язык;1;2;from
+Q648758;North Bačka District;ISO 3166-2;1;1;from
+Q648758;North Bačka District;категория на Викискладе;1;1;from
+Q648758;North Bačka District;ID отношения в OpenStreetMap;1;1;from
+Q648758;North Bačka District;часовой пояс;1;1;from
+Q648758;North Bačka District;идентификатор местоположения ArchINFORM;1;1;from
+Q648758;North Bačka District;географические координаты;1;1;from
+Q648758;North Bačka District;код Freebase;1;1;from
+Q648758;North Bačka District;Who's on First ID;1;1;from
+Q648758;North Bačka District;официальный сайт;1;1;from
+Q648758;North Bačka District;основная категория по теме;1;1;from
+Q2074197;Belgrade District;административно делится на;1;1;to
