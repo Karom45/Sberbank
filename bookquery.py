@@ -150,3 +150,9 @@ WHERE
 ?show wdt:P279 ?parent
 SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru,en". }}
 }}'''
+
+subclass_entity_count = ''' SELECT (COUNT(?entity) AS ?entitycount)
+WHERE {{ BIND(wd:{entity_id} as ?show).
+?entity wdt:P31 ?show
+}}
+'''
