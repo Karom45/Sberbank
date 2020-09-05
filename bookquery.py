@@ -9,7 +9,8 @@
 # wd - опять же возвращает , что и в p,но label вернет название этого отношения - жанр , изображение и тд
 # то что в optional - вернет просто все qualifier для сущности(одно и тоже значение будет выводиться, пока не обрабоатет все qualifiers
 query_from = """
-    SELECT ?wd ?wdLabel ?ps_ ?ps_Label ?wdpqLabel ?pq_Label ?direction {{
+    SELECT ?wd ?wdLabel ?ps_ ?ps_Label ?wd
+    Label ?pq_Label ?direction {{
       VALUES (?company) {{(wd:{book_id})}}
 
       ?company ?p ?statement .
@@ -48,8 +49,17 @@ SELECT  ?obj ?objLabel ?wd ?prop_label ?bookLabel ?direction ?prop_id ?prop_idLa
 entity_finding = '''
 Select ?item ?itemLabel ?showLabel WHERE{{ BIND(wd:{entity_id} as ?show)
   ?item p:P31/ps:P31 ?show;
-  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en,ru". }}
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru , en". }}
 }}
+limit 40000
+'''
+
+entity_finding_2 = '''
+Select ?item ?itemLabel ?showLabel WHERE{{ BIND(wd:{entity_id} as ?show)
+  ?item wdt:P31/wdt:P279* ?show;
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru , en". }}
+}}
+limit 40000
 '''
 
 subclass_entity_finding = '''
@@ -156,3 +166,32 @@ WHERE {{ BIND(wd:{entity_id} as ?show).
 ?entity wdt:P31 ?show
 }}
 '''
+
+predicat_reciver = '''SELECT ?item ?itemLabel ?answer
+WHERE 
+{{BIND(wd:{entity_id} as ?item)
+  BIND(wdt:{pred_id} as ?pred)
+  ?item ?pred ?answer.
+ SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru,en". }}
+}}'''
+
+leaders = '''SELECT  DISTINCT ?leader {{
+        BIND (wd:{entity_id} as ?country)
+		{{?country p:P35  [ps:P35 ?leader].}}
+        UNION
+        {{?country p:P6  [ps:P6 ?leader].}}
+        SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru,en"}}
+        }}'''
+
+leaders_position = '''SELECT  DISTINCT ?person ?personLabel ?position ?positionLabel ?startTime ?startTimeNode ?endTime ?endTimeNode
+        where{{
+        BIND (wd:{entity_id}  as ?person)
+		?person p:P39 ?pos.
+        ?pos ps:P39 ?position.
+        OPTIONAL{{?pos pq:P580 ?startTime;
+                           pqv:P580 ?startTimeNode
+                }}
+        OPTIONAL{{?pos pq:P582 ?endTime;
+                           pqv:P582 ?endTimeNode}}
+        SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru,en"}}
+        }}'''
