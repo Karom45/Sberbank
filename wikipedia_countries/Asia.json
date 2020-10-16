@@ -1,0 +1,3198 @@
+{
+    "Afghanistan": [
+        {
+            "Durrani_Empire": {
+                "begin": "1747",
+                "end": "1826"
+            }
+        },
+        {
+            "Emirate_of_Afghanistan": {
+                "begin": "1823",
+                "end": "1926"
+            }
+        },
+        {
+            "Kingdom_of_Afghanistan": {
+                "begin": "1926",
+                "end": "1973"
+            }
+        },
+        {
+            "Republic_of_Afghanistan": {
+                "begin": "1973",
+                "end": "1978"
+            }
+        },
+        {
+            "Democratic_Republic_of_Afghanistan": {
+                "begin": "1978",
+                "end": "1992"
+            }
+        },
+        {
+            "Islamic_State_of_Afghanistan": {
+                "begin": "1992",
+                "end": "2001and"
+            }
+        },
+        {
+            "Islamic_Emirate_of_Afghanistan": {
+                "begin": "1996",
+                "end": "2001"
+            }
+        },
+        {
+            "Taliban": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Afghan_Interim_Administration": {
+                "begin": "2001",
+                "end": "2002"
+            }
+        },
+        {
+            "Provisional_government": {
+                "begin": "2001",
+                "end": "2002"
+            }
+        },
+        {
+            "Afghan_Transitional_Administration": {
+                "begin": "2002",
+                "end": "2004"
+            }
+        },
+        {
+            "Afghanistan": {
+                "begin": "2004",
+                "end": "present"
+            }
+        }
+    ],
+    "Armenia": [
+        {
+            "Achaemenid_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kingdom_of_Armenia_(antiquity)": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Safavid_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Afsharid_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Qajar_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ottoman_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Empire": {
+                "begin": "1828",
+                "end": "1917"
+            }
+        },
+        {
+            "Transcaucasian_Democratic_Federative_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "First_Republic_of_Armenia": {
+                "begin": "1918",
+                "end": "1920"
+            }
+        },
+        {
+            "Armenian_Soviet_Socialist_Republic": {
+                "begin": "1920",
+                "end": "1922"
+            }
+        },
+        {
+            "Federative_Union_of_Socialist_Soviet_Republics_of_Transcaucasia": {
+                "begin": "1922",
+                "end": "1936"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Armenian_Soviet_Socialist_Republic": {
+                "begin": "1936",
+                "end": "1990"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Armenian_Soviet_Socialist_Republic": {
+                "begin": "1990",
+                "end": "1995"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Armenia": {
+                "begin": "1995",
+                "end": "present"
+            }
+        }
+    ],
+    "Azerbaijan": [
+        {
+            "Azerbaijan_Democratic_Republic": {
+                "begin": "1918",
+                "end": "1920"
+            }
+        },
+        {
+            "Azerbaijan_Soviet_Socialist_Republic": {
+                "begin": "1920",
+                "end": "1922"
+            }
+        },
+        {
+            "Federative_Union_of_Socialist_Soviet_Republics_of_Transcaucasia": {
+                "begin": "1922",
+                "end": "1936"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Azerbaijan_Soviet_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Azerbaijan": {
+                "begin": "1991",
+                "end": "present"
+            }
+        },
+        {
+            "Nagorno-Karabakh_Autonomous_Oblast": {
+                "begin": "1923",
+                "end": "1991"
+            }
+        },
+        {
+            "Republic_of_Artsakh": {
+                "begin": "1991",
+                "end": "2017"
+            }
+        },
+        {
+            "Republic_of_Artsakh": {
+                "begin": "2017",
+                "end": "present"
+            }
+        }
+    ],
+    "Bahrain": [
+        {
+            "Bahrain": {
+                "begin": "1783",
+                "end": "1971"
+            }
+        },
+        {
+            "Bahrain": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Trucial_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "State_of_Bahrain": {
+                "begin": "1971",
+                "end": "2002"
+            }
+        },
+        {
+            "Bahrain": {
+                "begin": "2002",
+                "end": "present"
+            }
+        }
+    ],
+    "Bangladesh": [
+        {
+            "Company_rule_in_India": {
+                "begin": "1757",
+                "end": "1858"
+            }
+        },
+        {
+            "British_Raj": {
+                "begin": "1858",
+                "end": "1947"
+            }
+        },
+        {
+            "Dominion_of_Pakistan": {
+                "begin": "1947",
+                "end": "1956"
+            }
+        },
+        {
+            "Islamic_Republic_of_Pakistan": {
+                "begin": "1956",
+                "end": "1971"
+            }
+        },
+        {
+            "East_Pakistan": {
+                "begin": "1956",
+                "end": "1971"
+            }
+        },
+        {
+            "Bangladesh": {
+                "begin": "1971",
+                "end": "present"
+            }
+        }
+    ],
+    "Bhutan": [
+        {
+            "Bhutan": {
+                "begin": "1907",
+                "end": "present"
+            }
+        }
+    ],
+    "Brunei": [
+        {
+            "Bruneian_Empire": {
+                "begin": "7thCentury",
+                "end": "1888"
+            }
+        },
+        {
+            "Brunei": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Malay_language": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        }
+    ],
+    "Cambodia": [
+        {
+            "Chenla": {
+                "begin": "550",
+                "end": "802"
+            }
+        },
+        {
+            "Khmer_Empire": {
+                "begin": "802",
+                "end": "1431"
+            }
+        },
+        {
+            "Dark_ages_of_Cambodia": {
+                "begin": "1431",
+                "end": "1863and"
+            }
+        },
+        {
+            "Rattanakosin_Kingdom": {
+                "begin": "1782",
+                "end": "1867"
+            }
+        },
+        {
+            "French_Protectorate_of_Cambodia": {
+                "begin": "1863",
+                "end": "1953"
+            }
+        },
+        {
+            "French_Indochina": {
+                "begin": "1887",
+                "end": "1953"
+            }
+        },
+        {
+            "French_Indochina": {
+                "begin": "1887",
+                "end": "1946"
+            }
+        },
+        {
+            "Kingdom_of_Cambodia_(1953%E2%80%9370)": {
+                "begin": "1953",
+                "end": "1970"
+            }
+        },
+        {
+            "Khmer_Republic": {
+                "begin": "1970",
+                "end": "1975"
+            }
+        },
+        {
+            "Democratic_Kampuchea": {
+                "begin": "1975",
+                "end": "1982"
+            }
+        },
+        {
+            "People%27s_Republic_of_Kampuchea": {
+                "begin": "1979",
+                "end": "1989"
+            }
+        },
+        {
+            "Coalition_Government_of_Democratic_Kampuchea": {
+                "begin": "1982",
+                "end": "1990,"
+            }
+        },
+        {
+            "United_Nations_Transitional_Authority_in_Cambodia": {
+                "begin": "1992",
+                "end": "1993"
+            }
+        },
+        {
+            "Coalition_Government_of_Democratic_Kampuchea": {
+                "begin": "1990",
+                "end": "1993"
+            }
+        },
+        {
+            "Cambodia": {
+                "begin": "1993",
+                "end": "present"
+            }
+        }
+    ],
+    "Greater_China": [
+        {
+            "Mainland_China": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Qin_dynasty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Han_dynasty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Three_Kingdoms": {
+                "begin": "220",
+                "end": "280"
+            }
+        },
+        {
+            "Jin_dynasty_(265%E2%80%93420)": {
+                "begin": "265",
+                "end": "420"
+            }
+        },
+        {
+            "North_and_South_dynasties": {
+                "begin": "386",
+                "end": "590"
+            }
+        },
+        {
+            "Sui_dynasty": {
+                "begin": "581",
+                "end": "618"
+            }
+        },
+        {
+            "Tang_dynasty": {
+                "begin": "618",
+                "end": "907"
+            }
+        },
+        {
+            "Five_Dynasties_and_Ten_Kingdoms_period": {
+                "begin": "907",
+                "end": "960"
+            }
+        },
+        {
+            "Liao_dynasty": {
+                "begin": "907",
+                "end": "1125,"
+            }
+        },
+        {
+            "Song_dynasty": {
+                "begin": "960",
+                "end": "1279and"
+            }
+        },
+        {
+            "Jin_dynasty_(1115%E2%80%931234)": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Mongol_Empire": {
+                "begin": "1206",
+                "end": "1368and"
+            }
+        },
+        {
+            "Yuan_dynasty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ming_dynasty": {
+                "begin": "1368",
+                "end": "1644"
+            }
+        },
+        {
+            "Qing_dynasty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Republic_of_China_(1912%E2%80%931949)": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Beiyang_government": {
+                "begin": "1912",
+                "end": "1928"
+            }
+        },
+        {
+            "Nationalist_government": {
+                "begin": "1925",
+                "end": "1948"
+            }
+        },
+        {
+            "Republic_of_China_retreat_to_Taiwan": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Fujian_Province,_Republic_of_China": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Fujian": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "China": {
+                "begin": "1949",
+                "end": "present"
+            }
+        },
+        {
+            "Geography_of_Taiwan": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Political_status_of_Taiwan": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Taiwan_independence_movement": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Chinese_unification": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kingdom_of_Middag": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Taiwanese_indigenous_peoples": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Taiwanese_indigenous_peoples": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Dutch_Formosa": {
+                "begin": "1624",
+                "end": "1662"
+            }
+        },
+        {
+            "Geography_of_Taiwan": {
+                "begin": "1624",
+                "end": "1662"
+            }
+        },
+        {
+            "Spanish_Formosa": {
+                "begin": "1626",
+                "end": "1642"
+            }
+        },
+        {
+            "Kingdom_of_Tungning": {
+                "begin": "1661",
+                "end": "1683"
+            }
+        },
+        {
+            "Chinese_people": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Taiwan_under_Qing_rule": {
+                "begin": "1683",
+                "end": "1895"
+            }
+        },
+        {
+            "Qing_dynasty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Qing_dynasty": {
+                "begin": "'TaiwanPrefecture'1684",
+                "end": "1887"
+            }
+        },
+        {
+            "Qing_dynasty": {
+                "begin": "'TaiwanProvince'1887",
+                "end": "1895"
+            }
+        },
+        {
+            "Republic_of_Formosa": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Proto-state": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Proto-state": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Taiwan_under_Japanese_rule": {
+                "begin": "1895",
+                "end": "1945"
+            }
+        },
+        {
+            "Empire_of_Japan": {
+                "begin": "1895",
+                "end": "1945"
+            }
+        },
+        {
+            "History_of_Taiwan_since_1945": {
+                "begin": "1945",
+                "end": "1949"
+            }
+        },
+        {
+            "Republic_of_China_(1912%E2%80%931949)": {
+                "begin": "1945",
+                "end": "1949"
+            }
+        },
+        {
+            "Taiwan": {
+                "begin": "1949",
+                "end": "present"
+            }
+        },
+        {
+            "List_of_states_with_limited_recognition": {
+                "begin": "1949",
+                "end": "present"
+            }
+        }
+    ],
+    "Cyprus": [
+        {
+            "Vilayet_of_the_Archipelago": {
+                "begin": "1867",
+                "end": "1912"
+            }
+        },
+        {
+            "Vilayet": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ottoman_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "British_Cyprus_(1914%E2%80%931960)": {
+                "begin": "1914",
+                "end": "1960"
+            }
+        },
+        {
+            "Cyprus": {
+                "begin": "1960",
+                "end": "present"
+            }
+        },
+        {
+            "index.php?title=Provisional_Turkish_Cypriot_Administration&action=edit&redlink=1": {
+                "begin": "1967",
+                "end": "1974"
+            }
+        },
+        {
+            "Autonomous_Turkish_Cypriot_Administration": {
+                "begin": "1974",
+                "end": "1975"
+            }
+        },
+        {
+            "Turkish_Federated_State_of_Cyprus": {
+                "begin": "1975",
+                "end": "1983"
+            }
+        },
+        {
+            "Northern_Cyprus": {
+                "begin": "1983",
+                "end": "present"
+            }
+        }
+    ],
+    "Egypt": [
+        {
+            "First_Dynasty_of_Egypt": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ptolemaic_Kingdom": {
+                "begin": "305BC",
+                "end": "30BC"
+            }
+        },
+        {
+            "Tulunids": {
+                "begin": "868",
+                "end": "905"
+            }
+        },
+        {
+            "Abbasid_Caliphate": {
+                "begin": "868",
+                "end": "905"
+            }
+        },
+        {
+            "Ikhshidid_dynasty": {
+                "begin": "935",
+                "end": "969"
+            }
+        },
+        {
+            "Abbasid_Caliphate": {
+                "begin": "935",
+                "end": "969"
+            }
+        },
+        {
+            "Fatimid_Caliphate": {
+                "begin": "969",
+                "end": "1171"
+            }
+        },
+        {
+            "Ayyubid_Dynasty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Mamluk_Sultanate_(Cairo)": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ottoman_Empire": {
+                "begin": "1517",
+                "end": "1914"
+            }
+        },
+        {
+            "Khedivate_of_Egypt": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ottoman_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ottoman_Empire": {
+                "begin": "formallyrecognized1867",
+                "end": "1914"
+            }
+        },
+        {
+            "Ottoman_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "United_Kingdom": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Sultanate_of_Egypt": {
+                "begin": "1914",
+                "end": "1922"
+            }
+        },
+        {
+            "United_Kingdom": {
+                "begin": "1914",
+                "end": "1922"
+            }
+        },
+        {
+            "Kingdom_of_Egypt": {
+                "begin": "1922",
+                "end": "1953"
+            }
+        },
+        {
+            "Republic_of_Egypt_(1953%E2%80%9358)": {
+                "begin": "1953",
+                "end": "1958"
+            }
+        },
+        {
+            "United_Arab_Republic": {
+                "begin": "1958",
+                "end": "1972"
+            }
+        },
+        {
+            "Syria": {
+                "begin": "1958",
+                "end": "1961"
+            }
+        },
+        {
+            "Syria": {
+                "begin": "retainedofficialnamefollowingSyria'ssuccession1961",
+                "end": "1972"
+            }
+        },
+        {
+            "Egypt": {
+                "begin": "1972",
+                "end": "present"
+            }
+        }
+    ],
+    "Georgia_(country)": [
+        {
+            "Kingdom_of_Iberia": {
+                "begin": "302BC",
+                "end": "580AD"
+            }
+        },
+        {
+            "Principality_of_Iberia": {
+                "begin": "588",
+                "end": "1008"
+            }
+        },
+        {
+            "Kingdom_of_Georgia": {
+                "begin": "1008",
+                "end": "1490"
+            }
+        },
+        {
+            "Kingdom_of_Kartli": {
+                "begin": "1490",
+                "end": "1762"
+            }
+        },
+        {
+            "Kingdom_of_Kartli-Kakheti": {
+                "begin": "1762",
+                "end": "1800"
+            }
+        },
+        {
+            "Russian_Empire": {
+                "begin": "1721",
+                "end": "1917"
+            }
+        },
+        {
+            "Transcaucasian_Democratic_Federative_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Democratic_Republic_of_Georgia": {
+                "begin": "1918",
+                "end": "1921"
+            }
+        },
+        {
+            "Georgian_Soviet_Socialist_Republic": {
+                "begin": "1921",
+                "end": "1922"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Federative_Union_of_Socialist_Soviet_Republics_of_Transcaucasia": {
+                "begin": "1922",
+                "end": "1936"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Georgian_Soviet_Socialist_Republic": {
+                "begin": "1936",
+                "end": "1991"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Georgia_(country)": {
+                "begin": "1995",
+                "end": "present"
+            }
+        },
+        {
+            "Socialist_Soviet_Republic_of_Abkhazia": {
+                "begin": "1921",
+                "end": "1931"
+            }
+        },
+        {
+            "Abkhaz_Autonomous_Soviet_Socialist_Republic": {
+                "begin": "1931",
+                "end": "1991"
+            }
+        },
+        {
+            "Abkhazia": {
+                "begin": "1991",
+                "end": "present"
+            }
+        },
+        {
+            "South_Ossetian_Autonomous_Oblast": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "South_Ossetia": {
+                "begin": "1991",
+                "end": "present"
+            }
+        }
+    ],
+    "India": [
+        {
+            "Janapada": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Mahajanapadas": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Maurya_Empire": {
+                "begin": "322",
+                "end": "185BCE"
+            }
+        },
+        {
+            "Middle_kingdoms_of_India": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Gupta_Empire": {
+                "begin": "",
+                "end": "GoldenAge320"
+            }
+        },
+        {
+            "Medieval_India": {
+                "begin": "550",
+                "end": "1200CE"
+            }
+        },
+        {
+            "Medieval_India": {
+                "begin": "1200",
+                "end": "1526CE"
+            }
+        },
+        {
+            "Early_modern_period": {
+                "begin": "1526",
+                "end": "1858CE"
+            }
+        },
+        {
+            "French_India": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Portuguese_India": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "British_Raj": {
+                "begin": "1858",
+                "end": "1947and"
+            }
+        },
+        {
+            "Company_rule_in_India": {
+                "begin": "1757",
+                "end": "1858"
+            }
+        },
+        {
+            "List_of_princely_states_of_British_India_(alphabetical)": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Dominion_of_India": {
+                "begin": "1947",
+                "end": "1950"
+            }
+        },
+        {
+            "India": {
+                "begin": "1950",
+                "end": "present"
+            }
+        }
+    ],
+    "Indonesia": [
+        {
+            "Dutch_East_India_Company_in_Indonesia": {
+                "begin": "1603",
+                "end": "1800"
+            }
+        },
+        {
+            "Dutch_East_Indies": {
+                "begin": "1800",
+                "end": "1949"
+            }
+        },
+        {
+            "United_States_of_Indonesia": {
+                "begin": "1949",
+                "end": "1950"
+            }
+        },
+        {
+            "Kingdom_of_the_Netherlands": {
+                "begin": "1949",
+                "end": "1950"
+            }
+        },
+        {
+            "Netherlands_New_Guinea": {
+                "begin": "1949",
+                "end": "1962"
+            }
+        },
+        {
+            "Indonesia": {
+                "begin": "1950",
+                "end": "present"
+            }
+        }
+    ],
+    "Iran": [
+        {
+            "Achaemenid_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Seleucid_Empire": {
+                "begin": "312BC",
+                "end": "63BC"
+            }
+        },
+        {
+            "Parthian_Empire": {
+                "begin": "247BC",
+                "end": "224AD"
+            }
+        },
+        {
+            "Sasanian_Empire": {
+                "begin": "224",
+                "end": "651"
+            }
+        },
+        {
+            "Kara_Koyunlu": {
+                "begin": "1375",
+                "end": "1468"
+            }
+        },
+        {
+            "Aq_Qoyunlu": {
+                "begin": "1378",
+                "end": "1501"
+            }
+        },
+        {
+            "Safavid_Empire": {
+                "begin": "1501",
+                "end": "1736"
+            }
+        },
+        {
+            "Afsharid_Empire": {
+                "begin": "1736",
+                "end": "1796"
+            }
+        },
+        {
+            "Qajar_dynasty": {
+                "begin": "1785",
+                "end": "1925"
+            }
+        },
+        {
+            "Pahlavi_dynasty": {
+                "begin": "1925",
+                "end": "1979"
+            }
+        },
+        {
+            "Iran": {
+                "begin": "1979",
+                "end": "present"
+            }
+        }
+    ],
+    "Iraq": [
+        {
+            "Ottoman_Empire": {
+                "begin": "1299",
+                "end": "1923"
+            }
+        },
+        {
+            "Mandatory_Iraq": {
+                "begin": "1920",
+                "end": "1932"
+            }
+        },
+        {
+            "Kingdom_of_Iraq": {
+                "begin": "1932",
+                "end": "1958"
+            }
+        },
+        {
+            "Arab_Federation": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Iraqi_Republic_(1958%E2%80%9368)": {
+                "begin": "1958",
+                "end": "1968"
+            }
+        },
+        {
+            "Ba%27athist_Iraq": {
+                "begin": "1968",
+                "end": "2003"
+            }
+        },
+        {
+            "Coalition_Provisional_Authority": {
+                "begin": "2003",
+                "end": "2004"
+            }
+        },
+        {
+            "Iraq": {
+                "begin": "2004",
+                "end": "present"
+            }
+        }
+    ],
+    "Israel": [
+        {
+            "Kingdom_of_Israel_(united_monarchy)": {
+                "begin": "c.1047BCE",
+                "end": "930BCE"
+            }
+        },
+        {
+            "Mandatory_Palestine": {
+                "begin": "1920",
+                "end": "1948"
+            }
+        },
+        {
+            "Israel": {
+                "begin": "1948",
+                "end": "present"
+            }
+        }
+    ],
+    "Japan": [
+        {
+            "Tokugawa_Shogunate": {
+                "begin": "1600",
+                "end": "1868and"
+            }
+        },
+        {
+            "Ryukyu_Kingdom": {
+                "begin": "1429",
+                "end": "1879"
+            }
+        },
+        {
+            "Empire_of_Japan": {
+                "begin": "1868",
+                "end": "1947"
+            }
+        },
+        {
+            "Occupation_of_Japan": {
+                "begin": "1947",
+                "end": "1952"
+            }
+        },
+        {
+            "Japan": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        }
+    ],
+    "Jordan": [
+        {
+            "Ottoman_Empire": {
+                "begin": "1299",
+                "end": "1923"
+            }
+        },
+        {
+            "Occupied_Enemy_Territory_Administration": {
+                "begin": "1917",
+                "end": "1920"
+            }
+        },
+        {
+            "Emirate_of_Transjordan": {
+                "begin": "1921",
+                "end": "1946"
+            }
+        },
+        {
+            "Jordan": {
+                "begin": "1946",
+                "end": "present"
+            }
+        }
+    ],
+    "Kazakhstan": [
+        {
+            "Golden_Horde": {
+                "begin": "1240s",
+                "end": "1456"
+            }
+        },
+        {
+            "Kazakh_Khanate": {
+                "begin": "1456",
+                "end": "1847"
+            }
+        },
+        {
+            "Russian_Empire": {
+                "begin": "1735/1860",
+                "end": "1919"
+            }
+        },
+        {
+            "Russian_Soviet_Federative_Socialist_Republic": {
+                "begin": "1919",
+                "end": "1993"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Kazakh_Soviet_Socialist_Republic": {
+                "begin": "1936",
+                "end": "1991"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kazakhstan": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        }
+    ],
+    "North_Korea": [
+        {
+            "Goguryeo": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Unified_Silla": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Balhae": {
+                "begin": "698",
+                "end": "926"
+            }
+        },
+        {
+            "Kingdom_of_Goryeo": {
+                "begin": "918",
+                "end": "1392"
+            }
+        },
+        {
+            "Joseon": {
+                "begin": "1392",
+                "end": "1897"
+            }
+        },
+        {
+            "Korean_Empire": {
+                "begin": "1897",
+                "end": "1910"
+            }
+        },
+        {
+            "Korea_under_Japanese_rule": {
+                "begin": "1910",
+                "end": "1945"
+            }
+        },
+        {
+            "People%27s_Republic_of_Korea": {
+                "begin": "1945",
+                "end": "1946"
+            }
+        },
+        {
+            "Seoul": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Provisional_People%27s_Committee_for_North_Korea": {
+                "begin": "1946",
+                "end": "1948"
+            }
+        },
+        {
+            "North_Korea": {
+                "begin": "1948",
+                "end": "present"
+            }
+        }
+    ],
+    "South_Korea": [
+        {
+            "Silla": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Baekje": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Unified_Silla": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kingdom_of_Goryeo": {
+                "begin": "918",
+                "end": "1392"
+            }
+        },
+        {
+            "Joseon": {
+                "begin": "1392",
+                "end": "1897"
+            }
+        },
+        {
+            "Korean_Empire": {
+                "begin": "1897",
+                "end": "1910"
+            }
+        },
+        {
+            "Korea_under_Japanese_rule": {
+                "begin": "1910",
+                "end": "1945and"
+            }
+        },
+        {
+            "Provisional_Government_of_the_Republic_of_Korea": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Republic_of_China_(1912%E2%80%9349)": {
+                "begin": "1919",
+                "end": "1948"
+            }
+        },
+        {
+            "People%27s_Republic_of_Korea": {
+                "begin": "1945",
+                "end": "1946"
+            }
+        },
+        {
+            "Seoul": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "United_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "United_States_Army_Military_Government_in_Korea": {
+                "begin": "1945",
+                "end": "1948"
+            }
+        },
+        {
+            "South_Korea": {
+                "begin": "1948",
+                "end": "present"
+            }
+        }
+    ],
+    "Kuwait": [
+        {
+            "State_of_Kuwait": {
+                "begin": "1913",
+                "end": "1990"
+            }
+        },
+        {
+            "Republic_of_Kuwait": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Puppet_state": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ba%27athist_Iraq": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kuwait_Governorate": {
+                "begin": "1990",
+                "end": "1991"
+            }
+        },
+        {
+            "Governorates_of_Iraq": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ba%27athist_Iraq": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kuwait": {
+                "begin": "1990",
+                "end": "present"
+            }
+        }
+    ],
+    "Kyrgyzstan": [
+        {
+            "Russian_Turkestan": {
+                "begin": "1867",
+                "end": "1918"
+            }
+        },
+        {
+            "Krais_of_the_Russian_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Turkestan_Autonomous_Soviet_Socialist_Republic": {
+                "begin": "1918",
+                "end": "1924"
+            }
+        },
+        {
+            "Autonomous_administrative_division": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Soviet_Federative_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kara-Kirghiz_Autonomous_Oblast": {
+                "begin": "1924",
+                "end": "1926"
+            }
+        },
+        {
+            "Russian_Soviet_Federative_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kirghiz_Autonomous_Socialist_Soviet_Republic_(1926%E2%80%931936)": {
+                "begin": "1926",
+                "end": "1936"
+            }
+        },
+        {
+            "Autonomous_administrative_division": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Soviet_Federative_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Kirghiz_Soviet_Socialist_Republic": {
+                "begin": "1936",
+                "end": "1991"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kyrgyzstan": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        }
+    ],
+    "Laos": [
+        {
+            "Lan_Xang": {
+                "begin": "1354",
+                "end": "1707"
+            }
+        },
+        {
+            "Kingdom_of_Luang_Phrabang": {
+                "begin": "1707",
+                "end": "1949,"
+            }
+        },
+        {
+            "Kingdom_of_Champasak": {
+                "begin": "1713",
+                "end": "1904,and"
+            }
+        },
+        {
+            "Rattanakosin_Kingdom": {
+                "begin": "1782",
+                "end": "1893"
+            }
+        },
+        {
+            "Kingdom_of_Vientiane": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "French_Protectorate_of_Laos": {
+                "begin": "1893",
+                "end": "1953"
+            }
+        },
+        {
+            "French_Indochina": {
+                "begin": "1893",
+                "end": "1953"
+            }
+        },
+        {
+            "Kingdom_of_Laos": {
+                "begin": "1947",
+                "end": "1975"
+            }
+        },
+        {
+            "Laos": {
+                "begin": "1975",
+                "end": "present"
+            }
+        }
+    ],
+    "Lebanon": [
+        {
+            "Ottoman_Empire": {
+                "begin": "1299",
+                "end": "1923"
+            }
+        },
+        {
+            "Occupied_Enemy_Territory_Administration": {
+                "begin": "1917",
+                "end": "1920"
+            }
+        },
+        {
+            "Greater_Lebanon": {
+                "begin": "1920",
+                "end": "1943"
+            }
+        },
+        {
+            "French_Mandate_for_Syria_and_the_Lebanon": {
+                "begin": "1920",
+                "end": "1943"
+            }
+        },
+        {
+            "Lebanon": {
+                "begin": "1943",
+                "end": "present"
+            }
+        }
+    ],
+    "Malaysia": [
+        {
+            "Federated_Malay_States": {
+                "begin": "1895",
+                "end": "1946and"
+            }
+        },
+        {
+            "Unfederated_Malay_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Malayan_Union": {
+                "begin": "1946",
+                "end": "1948"
+            }
+        },
+        {
+            "Federation_of_Malaya": {
+                "begin": "1948",
+                "end": "1963"
+            }
+        },
+        {
+            "Malaysia": {
+                "begin": "1963",
+                "end": "present"
+            }
+        }
+    ],
+    "Maldives": [
+        {
+            "List_of_sultans_of_the_Maldives": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "List_of_sultans_of_the_Maldives": {
+                "begin": "HuraaDynasty1774",
+                "end": "1953"
+            }
+        },
+        {
+            "List_of_sultans_of_the_Maldives": {
+                "begin": "1954",
+                "end": "1968"
+            }
+        },
+        {
+            "Maldives": {
+                "begin": "1953",
+                "end": "1954"
+            }
+        },
+        {
+            "Maldives": {
+                "begin": "1968",
+                "end": "1969"
+            }
+        },
+        {
+            "Maldives": {
+                "begin": "1969",
+                "end": "present"
+            }
+        }
+    ],
+    "Mongolia": [
+        {
+            "Mongol_Empire": {
+                "begin": "1206",
+                "end": "1368and"
+            }
+        },
+        {
+            "Yuan_dynasty": {
+                "begin": "1271",
+                "end": "1368"
+            }
+        },
+        {
+            "Northern_Yuan_dynasty": {
+                "begin": "1368",
+                "end": "1635"
+            }
+        },
+        {
+            "Mongolia_under_Qing_rule": {
+                "begin": "1635",
+                "end": "1911"
+            }
+        },
+        {
+            "Bogd_Khanate_of_Mongolia": {
+                "begin": "1911",
+                "end": "1924"
+            }
+        },
+        {
+            "Occupation_of_Mongolia": {
+                "begin": "1919",
+                "end": "1921"
+            }
+        },
+        {
+            "Mongolian_People%27s_Republic": {
+                "begin": "1924",
+                "end": "1992"
+            }
+        },
+        {
+            "Mongolia": {
+                "begin": "1992",
+                "end": "present"
+            }
+        }
+    ],
+    "Myanmar": [
+        {
+            "Konbaung_Dynasty": {
+                "begin": "1752",
+                "end": "1885"
+            }
+        },
+        {
+            "British_Raj": {
+                "begin": "1858",
+                "end": "1937"
+            }
+        },
+        {
+            "British_rule_in_Burma": {
+                "begin": "1937",
+                "end": "1947"
+            }
+        },
+        {
+            "Post-independence_Burma,_1948%E2%80%9362": {
+                "begin": "1948",
+                "end": "1962"
+            }
+        },
+        {
+            "Burmese_Way_to_Socialism": {
+                "begin": "1962",
+                "end": "1988"
+            }
+        },
+        {
+            "State_Peace_and_Development_Council": {
+                "begin": "1988",
+                "end": "2011"
+            }
+        },
+        {
+            "Myanmar": {
+                "begin": "2011",
+                "end": "present"
+            }
+        }
+    ],
+    "Nepal": [
+        {
+            "Gorkha_Kingdom": {
+                "begin": "1743",
+                "end": "1768"
+            }
+        },
+        {
+            "Kingdom_of_Nepal": {
+                "begin": "1768",
+                "end": "2008"
+            }
+        },
+        {
+            "Nepal": {
+                "begin": "2008",
+                "end": "present"
+            }
+        }
+    ],
+    "Oman": [
+        {
+            "Muscat_and_Oman": {
+                "begin": "1820",
+                "end": "1970"
+            }
+        },
+        {
+            "Oman_proper": {
+                "begin": "751",
+                "end": "1970"
+            }
+        },
+        {
+            "Muscat_and_Oman": {
+                "begin": "751",
+                "end": "1970"
+            }
+        },
+        {
+            "Oman": {
+                "begin": "1970",
+                "end": "present"
+            }
+        }
+    ],
+    "Pakistan": [
+        {
+            "Company_rule_in_India": {
+                "begin": "1757",
+                "end": "1858"
+            }
+        },
+        {
+            "British_Raj": {
+                "begin": "1858",
+                "end": "1947"
+            }
+        },
+        {
+            "Dominion_of_Pakistan": {
+                "begin": "1947",
+                "end": "1956"
+            }
+        },
+        {
+            "Pakistan": {
+                "begin": "1956",
+                "end": "present"
+            }
+        }
+    ],
+    "State_of_Palestine": [
+        {
+            "Ptolemaic_Kingdom": {
+                "begin": "305BC",
+                "end": "30BC"
+            }
+        },
+        {
+            "Syria_Palaestina": {
+                "begin": "135",
+                "end": "390"
+            }
+        },
+        {
+            "Tulunids": {
+                "begin": "868",
+                "end": "905"
+            }
+        },
+        {
+            "Abbasid_Caliphate": {
+                "begin": "868",
+                "end": "905"
+            }
+        },
+        {
+            "Ikhshidid_dynasty": {
+                "begin": "935",
+                "end": "969"
+            }
+        },
+        {
+            "Abbasid_Caliphate": {
+                "begin": "935",
+                "end": "969"
+            }
+        },
+        {
+            "Fatimid_Caliphate": {
+                "begin": "969",
+                "end": "1171"
+            }
+        },
+        {
+            "Ayyubid_Dynasty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Mamluk_Sultanate_(Cairo)": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ottoman_Empire": {
+                "begin": "1299",
+                "end": "1923"
+            }
+        },
+        {
+            "Occupied_Enemy_Territory_Administration": {
+                "begin": "1917",
+                "end": "1920"
+            }
+        },
+        {
+            "Mandatory_Palestine": {
+                "begin": "1920",
+                "end": "1948"
+            }
+        },
+        {
+            "All-Palestine_Government": {
+                "begin": "1948",
+                "end": "1959,later"
+            }
+        },
+        {
+            "Occupation_of_the_Gaza_Strip_by_Egypt": {
+                "begin": "1959",
+                "end": "1967and"
+            }
+        },
+        {
+            "Jordanian_annexation_of_the_West_Bank": {
+                "begin": "1948",
+                "end": "1967"
+            }
+        },
+        {
+            "Palestinian_Liberation_Organization": {
+                "begin": "1964",
+                "end": "present"
+            }
+        },
+        {
+            "Israeli_Military_Governorate": {
+                "begin": "1967",
+                "end": "1981"
+            }
+        },
+        {
+            "Israeli_Civil_Administration": {
+                "begin": "1981",
+                "end": "1994"
+            }
+        },
+        {
+            "Palestinian_National_Authority": {
+                "begin": "1994",
+                "end": "2013"
+            }
+        },
+        {
+            "State_of_Palestine": {
+                "begin": "2013",
+                "end": "present"
+            }
+        }
+    ],
+    "Philippines": [
+        {
+            "Spanish_East_Indies": {
+                "begin": "1565",
+                "end": "1898and"
+            }
+        },
+        {
+            "British_occupation_of_Manila": {
+                "begin": "1762",
+                "end": "1764"
+            }
+        },
+        {
+            "First_Philippine_Republic": {
+                "begin": "1899",
+                "end": "1901"
+            }
+        },
+        {
+            "Insular_Government": {
+                "begin": "1901",
+                "end": "1935"
+            }
+        },
+        {
+            "Unincorporated_territories_of_the_United_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "United_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Commonwealth_of_the_Philippines": {
+                "begin": "1935",
+                "end": "1946and"
+            }
+        },
+        {
+            "Second_Philippine_Republic": {
+                "begin": "1943",
+                "end": "1945"
+            }
+        },
+        {
+            "Philippines": {
+                "begin": "1946",
+                "end": "present"
+            }
+        }
+    ],
+    "Qatar": [
+        {
+            "Qatar": {
+                "begin": "1971",
+                "end": "present"
+            }
+        }
+    ],
+    "Russia": [
+        {
+            "Grand_Duchy_of_Moscow": {
+                "begin": "1283",
+                "end": "1547"
+            }
+        },
+        {
+            "Tsardom_of_Russia": {
+                "begin": "1547",
+                "end": "1721"
+            }
+        },
+        {
+            "Russian_Empire": {
+                "begin": "1721",
+                "end": "1917"
+            }
+        },
+        {
+            "Russian_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Soviet_Federative_Socialist_Republic": {
+                "begin": "1917",
+                "end": "1991"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Russian_Soviet_Federative_Socialist_Republic": {
+                "begin": "1991",
+                "end": "1993"
+            }
+        },
+        {
+            "Russia": {
+                "begin": "1993",
+                "end": "present"
+            }
+        }
+    ],
+    "Saudi_Arabia": [
+        {
+            "Emirate_of_Diriyah": {
+                "begin": "FirstSaudiState1744",
+                "end": "1818"
+            }
+        },
+        {
+            "Emirate_of_Nejd": {
+                "begin": "SecondSaudiState1824",
+                "end": "1891"
+            }
+        },
+        {
+            "Emirate_of_Jabal_Shammar": {
+                "begin": "1836",
+                "end": "1921and"
+            }
+        },
+        {
+            "Hejaz_Vilayet": {
+                "begin": "1872",
+                "end": "1916"
+            }
+        },
+        {
+            "Emirate_of_Nejd_and_Hasa": {
+                "begin": "1902",
+                "end": "1921"
+            }
+        },
+        {
+            "Sultanate_of_Nejd": {
+                "begin": "1921",
+                "end": "1926,"
+            }
+        },
+        {
+            "Kingdom_of_Hejaz": {
+                "begin": "1916",
+                "end": "1925and"
+            }
+        },
+        {
+            "Idrisid_Emirate_of_Asir": {
+                "begin": "1906",
+                "end": "1934"
+            }
+        },
+        {
+            "Kingdom_of_Hejaz_and_Nejd": {
+                "begin": "1926",
+                "end": "1932"
+            }
+        },
+        {
+            "Dual_monarchy": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kingdom_of_Hejaz": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Sultanate_of_Nejd": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Saudi_Arabia": {
+                "begin": "1932",
+                "end": "present"
+            }
+        }
+    ],
+    "Singapore": [
+        {
+            "Founding_of_modern_Singapore": {
+                "begin": "1819",
+                "end": "1826"
+            }
+        },
+        {
+            "Straits_Settlements": {
+                "begin": "1926",
+                "end": "1946"
+            }
+        },
+        {
+            "Post-war_Singapore": {
+                "begin": "1946",
+                "end": "1963"
+            }
+        },
+        {
+            "Singapore_in_Malaysia": {
+                "begin": "1963",
+                "end": "1965"
+            }
+        },
+        {
+            "States_and_federal_territories_of_Malaysia": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Malaysia": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Singapore": {
+                "begin": "1965",
+                "end": "present"
+            }
+        }
+    ],
+    "Sri_Lanka": [
+        {
+            "Sinhala_Kingdom": {
+                "begin": "543BC",
+                "end": "1597"
+            }
+        },
+        {
+            "Kingdom_of_Tambapanni": {
+                "begin": "543BC",
+                "end": "437BC"
+            }
+        },
+        {
+            "Anuradhapura_Kingdom": {
+                "begin": "437BC",
+                "end": "1017"
+            }
+        },
+        {
+            "Chola_conquest_of_Anuradhapura": {
+                "begin": "1017",
+                "end": "1055"
+            }
+        },
+        {
+            "Kingdom_of_Polonnaruwa": {
+                "begin": "1055",
+                "end": "1232"
+            }
+        },
+        {
+            "Kingdom_of_Dambadeniya": {
+                "begin": "1232",
+                "end": "1341"
+            }
+        },
+        {
+            "Kingdom_of_Gampola": {
+                "begin": "1341",
+                "end": "1371"
+            }
+        },
+        {
+            "Kingdom_of_Kotte": {
+                "begin": "1371",
+                "end": "1597"
+            }
+        },
+        {
+            "Kingdom_of_Kandy": {
+                "begin": "1469",
+                "end": "1815"
+            }
+        },
+        {
+            "British_Ceylon": {
+                "begin": "1815",
+                "end": "1948"
+            }
+        },
+        {
+            "Dominion_of_Ceylon": {
+                "begin": "1948",
+                "end": "1972"
+            }
+        },
+        {
+            "Sri_Lanka": {
+                "begin": "1972",
+                "end": "present"
+            }
+        },
+        {
+            "Jaffna_Kingdom": {
+                "begin": "1232",
+                "end": "1620andthe"
+            }
+        },
+        {
+            "Kingdom_of_Sitawaka": {
+                "begin": "1521",
+                "end": "1594"
+            }
+        },
+        {
+            "Transitional_period_of_Sri_Lanka": {
+                "begin": "1232",
+                "end": "1597"
+            }
+        }
+    ],
+    "Syria": [
+        {
+            "Ottoman_Empire": {
+                "begin": "1299",
+                "end": "1923"
+            }
+        },
+        {
+            "Occupied_Enemy_Territory_Administration": {
+                "begin": "1917",
+                "end": "1920"
+            }
+        },
+        {
+            "Alawite_State": {
+                "begin": "1920",
+                "end": "1936and"
+            }
+        },
+        {
+            "Arab_Kingdom_of_Syria": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Jabal_Druze_State": {
+                "begin": "1921",
+                "end": "1936and"
+            }
+        },
+        {
+            "State_of_Aleppo": {
+                "begin": "1920",
+                "end": "1924and"
+            }
+        },
+        {
+            "State_of_Damascus": {
+                "begin": "1920",
+                "end": "1924,later"
+            }
+        },
+        {
+            "State_of_Syria_(1924%E2%80%9330)": {
+                "begin": "1924",
+                "end": "1930"
+            }
+        },
+        {
+            "Mandatory_Syrian_Republic": {
+                "begin": "1930",
+                "end": "1946"
+            }
+        },
+        {
+            "Syrian_Republic_(1946%E2%80%9363)": {
+                "begin": "1946",
+                "end": "1958"
+            }
+        },
+        {
+            "United_Arab_Republic": {
+                "begin": "1958",
+                "end": "1961"
+            }
+        },
+        {
+            "Syria": {
+                "begin": "1961",
+                "end": "present"
+            }
+        },
+        {
+            "Syrian_opposition": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Syrian_Civil_War": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Autonomous_Administration_of_North_and_East_Syria": {
+                "begin": "2013",
+                "end": "present"
+            }
+        }
+    ],
+    "Tajikistan": [
+        {
+            "Russian_Turkestan": {
+                "begin": "1867",
+                "end": "1918"
+            }
+        },
+        {
+            "Krais_of_the_Russian_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Turkestan_Autonomous_Soviet_Socialist_Republic": {
+                "begin": "1918",
+                "end": "1924"
+            }
+        },
+        {
+            "Autonomous_administrative_division": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Soviet_Federative_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Tajik_Autonomous_Soviet_Socialist_Republic": {
+                "begin": "1924",
+                "end": "1929"
+            }
+        },
+        {
+            "Autonomous_Soviet_Socialist_Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Uzbek_Soviet_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Tajik_Soviet_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Tajikistan": {
+                "begin": "1991",
+                "end": "present"
+            }
+        }
+    ],
+    "Thailand": [
+        {
+            "Sukhothai_Kingdom": {
+                "begin": "1238",
+                "end": "1438,"
+            }
+        },
+        {
+            "Lan_Na": {
+                "begin": "1292",
+                "end": "1775,"
+            }
+        },
+        {
+            "Nakhon_Si_Thammarat_Kingdom": {
+                "begin": "1stmillennium",
+                "end": "15thcentury"
+            }
+        },
+        {
+            "Ayutthaya_Kingdom": {
+                "begin": "1350",
+                "end": "1767"
+            }
+        },
+        {
+            "Thonburi_Kingdom": {
+                "begin": "1767",
+                "end": "1782"
+            }
+        },
+        {
+            "Rattanakosin_Kingdom": {
+                "begin": "1782",
+                "end": "1932"
+            }
+        },
+        {
+            "Thailand": {
+                "begin": "1932",
+                "end": "present"
+            }
+        }
+    ],
+    "East_Timor": [
+        {
+            "Portuguese_Timor": {
+                "begin": "1702",
+                "end": "1975"
+            }
+        },
+        {
+            "Timor_Timur": {
+                "begin": "1975",
+                "end": "1999"
+            }
+        },
+        {
+            "Indonesian_occupation_of_East_Timor": {
+                "begin": "1975",
+                "end": "1999"
+            }
+        },
+        {
+            "United_Nations_Transitional_Administration_in_East_Timor": {
+                "begin": "1999",
+                "end": "2002"
+            }
+        },
+        {
+            "East_Timor": {
+                "begin": "2002",
+                "end": "present"
+            }
+        }
+    ],
+    "Turkey": [
+        {
+            "Hittites": {
+                "begin": "1600",
+                "end": "1178BC"
+            }
+        },
+        {
+            "Phrygia": {
+                "begin": "1200",
+                "end": "700BC"
+            }
+        },
+        {
+            "Achaemenid_Empire": {
+                "begin": "550",
+                "end": "330BC"
+            }
+        },
+        {
+            "Roman_Republic": {
+                "begin": "167",
+                "end": "27BC"
+            }
+        },
+        {
+            "Roman_Empire": {
+                "begin": "27BC",
+                "end": "476AD"
+            }
+        },
+        {
+            "Byzantine_Empire": {
+                "begin": "476",
+                "end": "1453"
+            }
+        },
+        {
+            "Empire_of_Trebizond": {
+                "begin": "1204",
+                "end": "1461"
+            }
+        },
+        {
+            "Seljuq_Empire": {
+                "begin": "1037",
+                "end": "1194"
+            }
+        },
+        {
+            "Seljuq_Sultanate_of_Rum": {
+                "begin": "1077",
+                "end": "1307"
+            }
+        },
+        {
+            "Karamanids": {
+                "begin": "1250",
+                "end": "1487"
+            }
+        },
+        {
+            "Ottoman_Empire": {
+                "begin": "1299",
+                "end": "1923"
+            }
+        },
+        {
+            "Turkey": {
+                "begin": "1923",
+                "end": "present"
+            }
+        }
+    ],
+    "Turkmenistan": [
+        {
+            "Russian_Turkestan": {
+                "begin": "1867",
+                "end": "1918"
+            }
+        },
+        {
+            "Krais_of_the_Russian_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Turkestan_Autonomous_Soviet_Socialist_Republic": {
+                "begin": "1918",
+                "end": "1924"
+            }
+        },
+        {
+            "Autonomous_administrative_division": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Soviet_Federative_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Khorezm_People%27s_Soviet_Republic": {
+                "begin": "1920",
+                "end": "1925,"
+            }
+        },
+        {
+            "Bukharan_People%27s_Soviet_Republic": {
+                "begin": "1920",
+                "end": "1925"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Turkmen_Soviet_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Turkmenistan": {
+                "begin": "1991",
+                "end": "present"
+            }
+        }
+    ],
+    "United_Arab_Emirates": [
+        {
+            "Trucial_States": {
+                "begin": "1820",
+                "end": "1971"
+            }
+        },
+        {
+            "United_Arab_Emirates": {
+                "begin": "1971",
+                "end": "present"
+            }
+        }
+    ],
+    "Uzbekistan": [
+        {
+            "Russian_Turkestan": {
+                "begin": "1867",
+                "end": "1918"
+            }
+        },
+        {
+            "Krais_of_the_Russian_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Turkestan_Autonomous_Soviet_Socialist_Republic": {
+                "begin": "1918",
+                "end": "1924"
+            }
+        },
+        {
+            "Autonomous_administrative_division": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Russian_Soviet_Federative_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Khorezm_People%27s_Soviet_Republic": {
+                "begin": "1920",
+                "end": "1925,"
+            }
+        },
+        {
+            "Bukharan_People%27s_Soviet_Republic": {
+                "begin": "1920",
+                "end": "1925"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Uzbek_Soviet_Socialist_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Republics_of_the_Soviet_Union": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Soviet_Union": {
+                "begin": "1922",
+                "end": "1991"
+            }
+        },
+        {
+            "Uzbekistan": {
+                "begin": "1991",
+                "end": "present"
+            }
+        }
+    ],
+    "Vietnam": [
+        {
+            "Nguy%E1%BB%85n_dynasty": {
+                "begin": "1802",
+                "end": "1887stillenthroneduntil1945"
+            }
+        },
+        {
+            "French_Indochina": {
+                "begin": "1887",
+                "end": "1946"
+            }
+        },
+        {
+            "Cochinchina": {
+                "begin": "1862",
+                "end": "1949"
+            }
+        },
+        {
+            "Annam_(French_protectorate)": {
+                "begin": "1884",
+                "end": "1949"
+            }
+        },
+        {
+            "Tonkin": {
+                "begin": "1884",
+                "end": "1949"
+            }
+        },
+        {
+            "State_of_Vietnam": {
+                "begin": "1949",
+                "end": "1955"
+            }
+        },
+        {
+            "North_Vietnam": {
+                "begin": "1945",
+                "end": "1976"
+            }
+        },
+        {
+            "South_Vietnam": {
+                "begin": "1955",
+                "end": "1975"
+            }
+        },
+        {
+            "Provisional_Revolutionary_Government_of_the_Republic_of_South_Vietnam": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "South_Vietnam": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Vietnam": {
+                "begin": "1976",
+                "end": "present"
+            }
+        }
+    ],
+    "Yemen": [
+        {
+            "Yemen_Vilayet": {
+                "begin": "1872",
+                "end": "1918"
+            }
+        },
+        {
+            "Vilayet": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Ottoman_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Mutawakkilite_Kingdom_of_Yemen": {
+                "begin": "1918",
+                "end": "1962"
+            }
+        },
+        {
+            "Yemen_Arab_Republic": {
+                "begin": "1962",
+                "end": "1990"
+            }
+        },
+        {
+            "Aden_Protectorate": {
+                "begin": "1869",
+                "end": "1963"
+            }
+        },
+        {
+            "Federation_of_South_Arabia": {
+                "begin": "1963",
+                "end": "1967"
+            }
+        },
+        {
+            "People%27s_Democratic_Republic_of_Yemen": {
+                "begin": "1967",
+                "end": "1990"
+            }
+        },
+        {
+            "Yemen": {
+                "begin": "1990",
+                "end": "present"
+            }
+        }
+    ]
+}

@@ -167,8 +167,7 @@ WHERE {{ BIND(wd:{entity_id} as ?show).
 }}
 '''
 
-predicat_reciver = '''SELECT ?item ?itemLabel ?answer
-WHERE 
+predicat_reciver = '''SELECT ?item ?itemLabel ?an
 {{BIND(wd:{entity_id} as ?item)
   BIND(wdt:{pred_id} as ?pred)
   ?item ?pred ?answer.
@@ -186,8 +185,10 @@ leaders = '''SELECT  DISTINCT ?leader {{
 leaders_position = '''SELECT  DISTINCT ?person ?personLabel ?position ?positionLabel ?startTime ?startTimeNode ?endTime ?endTimeNode
         where{{
         BIND (wd:{entity_id}  as ?person)
+        BIND (wd:{country_id}  as ?country)
 		?person p:P39 ?pos.
         ?pos ps:P39 ?position.
+        ?position wdt:P17 ?country.
         OPTIONAL{{?pos pq:P580 ?startTime;
                            pqv:P580 ?startTimeNode
                 }}
@@ -195,3 +196,9 @@ leaders_position = '''SELECT  DISTINCT ?person ?personLabel ?position ?positionL
                            pqv:P582 ?endTimeNode}}
         SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru,en"}}
         }}'''
+
+labels = '''
+SELECT ?qid ?qidLabel WHERE {{
+  VALUES ?qid {{ {qid} }}.
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru,en". }}
+}}'''

@@ -1,0 +1,606 @@
+{
+    "Argentina": [
+        {
+            "Viceroyalty_of_Peru": {
+                "begin": "1542",
+                "end": "1776"
+            }
+        },
+        {
+            "Viceroyalty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Crown_of_Castile": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Viceroyalty_of_the_R%C3%ADo_de_la_Plata": {
+                "begin": "1776",
+                "end": "1810"
+            }
+        },
+        {
+            "Viceroyalty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Spanish_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "United_Provinces_of_the_River_Plate": {
+                "begin": "1810",
+                "end": "1831"
+            }
+        },
+        {
+            "Argentine_Confederation": {
+                "begin": "1831",
+                "end": "1861"
+            }
+        },
+        {
+            "Argentina": {
+                "begin": "1861",
+                "end": "present"
+            }
+        }
+    ],
+    "Bolivia": [
+        {
+            "Governorate_of_New_Toledo": {
+                "begin": "1528",
+                "end": "1542"
+            }
+        },
+        {
+            "Viceroyalty_of_Peru": {
+                "begin": "1542",
+                "end": "1776"
+            }
+        },
+        {
+            "Viceroyalty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Crown_of_Castile": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Viceroyalty_of_the_R%C3%ADo_de_la_Plata": {
+                "begin": "1776",
+                "end": "1810"
+            }
+        },
+        {
+            "Viceroyalty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Spanish_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Viceroyalty_of_Peru": {
+                "begin": "1810",
+                "end": "1825"
+            }
+        },
+        {
+            "Viceroyalty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Spanish_Empire": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Bolivia": {
+                "begin": "1825",
+                "end": "2009/"
+            }
+        },
+        {
+            "Bolivia": {
+                "begin": "2009",
+                "end": "present"
+            }
+        }
+    ],
+    "Brazil": [
+        {
+            "Colonial_Brazil": {
+                "begin": "1500",
+                "end": "1815"
+            }
+        },
+        {
+            "Colony": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kingdom_of_Portugal": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "United_Kingdom_of_Portugal,_Brazil_and_the_Algarves": {
+                "begin": "1815",
+                "end": "1822"
+            }
+        },
+        {
+            "Empire_of_Brazil": {
+                "begin": "1822",
+                "end": "1889"
+            }
+        },
+        {
+            "First_Brazilian_Republic": {
+                "begin": "1889",
+                "end": "1937"
+            }
+        },
+        {
+            "Second_Brazilian_Republic": {
+                "begin": "1937",
+                "end": "1967"
+            }
+        },
+        {
+            "Brazil": {
+                "begin": "1967",
+                "end": "present"
+            }
+        }
+    ],
+    "Chile": [
+        {
+            "Captaincy_General_of_Chile": {
+                "begin": "1542",
+                "end": "1818"
+            }
+        },
+        {
+            "Chile": {
+                "begin": "1818",
+                "end": "present"
+            }
+        }
+    ],
+    "Colombia": [
+        {
+            "Governorate_of_New_Toledo": {
+                "begin": "1528",
+                "end": "1542"
+            }
+        },
+        {
+            "Viceroyalty_of_Peru": {
+                "begin": "1542",
+                "end": "1776"
+            }
+        },
+        {
+            "Viceroyalty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Crown_of_Castile": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Viceroyalty_of_New_Granada": {
+                "begin": "1717",
+                "end": "1819"
+            }
+        },
+        {
+            "Gran_Colombia": {
+                "begin": "1819",
+                "end": "1831"
+            }
+        },
+        {
+            "Republic_of_New_Granada": {
+                "begin": "1831",
+                "end": "1858"
+            }
+        },
+        {
+            "Granadine_Confederation": {
+                "begin": "1858",
+                "end": "1863"
+            }
+        },
+        {
+            "United_States_of_Colombia": {
+                "begin": "1863",
+                "end": "1886"
+            }
+        },
+        {
+            "Colombia": {
+                "begin": "1886",
+                "end": "present"
+            }
+        }
+    ],
+    "Ecuador": [
+        {
+            "Governorate_of_New_Toledo": {
+                "begin": "1528",
+                "end": "1542"
+            }
+        },
+        {
+            "Viceroyalty_of_Peru": {
+                "begin": "1542",
+                "end": "1776"
+            }
+        },
+        {
+            "Viceroyalty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Crown_of_Castile": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Viceroyalty_of_New_Granada": {
+                "begin": "1717",
+                "end": "1822"
+            }
+        },
+        {
+            "Gran_Colombia": {
+                "begin": "1822",
+                "end": "1830"
+            }
+        },
+        {
+            "Ecuador": {
+                "begin": "1830",
+                "end": "present"
+            }
+        }
+    ],
+    "Guyana": [
+        {
+            "Essequibo_(colony)": {
+                "begin": "1616",
+                "end": "1815,"
+            }
+        },
+        {
+            "Berbice": {
+                "begin": "1627",
+                "end": "1815and"
+            }
+        },
+        {
+            "Demerara": {
+                "begin": "1745",
+                "end": "1815"
+            }
+        },
+        {
+            "Dutch_Empire": {
+                "begin": "1745",
+                "end": "1815"
+            }
+        },
+        {
+            "British_Guiana": {
+                "begin": "1814",
+                "end": "1966"
+            }
+        },
+        {
+            "Guyana_(1966%E2%80%931970)": {
+                "begin": "1966",
+                "end": "1970"
+            }
+        },
+        {
+            "Guyana": {
+                "begin": "1970",
+                "end": "present"
+            }
+        }
+    ],
+    "Panama": [
+        {
+            "Governorate_of_New_Toledo": {
+                "begin": "1528",
+                "end": "1542"
+            }
+        },
+        {
+            "Viceroyalty_of_Peru": {
+                "begin": "1542",
+                "end": "1776"
+            }
+        },
+        {
+            "Viceroyalty": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Crown_of_Castile": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Viceroyalty_of_New_Granada": {
+                "begin": "1717",
+                "end": "1819"
+            }
+        },
+        {
+            "Gran_Colombia": {
+                "begin": "1819",
+                "end": "1831"
+            }
+        },
+        {
+            "Republic_of_New_Granada": {
+                "begin": "1831",
+                "end": "1858"
+            }
+        },
+        {
+            "Granadine_Confederation": {
+                "begin": "1858",
+                "end": "1863"
+            }
+        },
+        {
+            "United_States_of_Colombia": {
+                "begin": "1863",
+                "end": "1886"
+            }
+        },
+        {
+            "Colombia": {
+                "begin": "1886",
+                "end": "1903"
+            }
+        },
+        {
+            "Panama": {
+                "begin": "1903",
+                "end": "present"
+            }
+        }
+    ],
+    "Paraguay": [
+        {
+            "Viceroyalty_of_the_R%C3%ADo_de_la_Plata": {
+                "begin": "1776",
+                "end": "1814"
+            }
+        },
+        {
+            "Paraguay": {
+                "begin": "1814",
+                "end": "present"
+            }
+        }
+    ],
+    "Peru": [
+        {
+            "Inca_Empire": {
+                "begin": "1438",
+                "end": "1533"
+            }
+        },
+        {
+            "Governorate_of_New_Castile": {
+                "begin": "1528",
+                "end": "1542and"
+            }
+        },
+        {
+            "Governorate_of_New_Toledo": {
+                "begin": "1528",
+                "end": "1542"
+            }
+        },
+        {
+            "Spanish_Empire": {
+                "begin": "1528",
+                "end": "1542"
+            }
+        },
+        {
+            "Viceroyalty_of_Peru": {
+                "begin": "1542",
+                "end": "1824"
+            }
+        },
+        {
+            "Peru": {
+                "begin": "1824",
+                "end": "present"
+            }
+        }
+    ],
+    "Suriname": [
+        {
+            "Surinam_(Dutch_colony)": {
+                "begin": "1630",
+                "end": "1954"
+            }
+        },
+        {
+            "Suriname_(Kingdom_of_the_Netherlands)": {
+                "begin": "1954",
+                "end": "1975"
+            }
+        },
+        {
+            "Countries_of_the_Kingdom_of_the_Netherlands": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kingdom_of_the_Netherlands": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Suriname": {
+                "begin": "1975",
+                "end": "present"
+            }
+        }
+    ],
+    "Trinidad_and_Tobago": [
+        {
+            "Viceroyalty_of_New_Granada": {
+                "begin": "1717",
+                "end": "1797"
+            }
+        },
+        {
+            "British_West_Indies": {
+                "begin": "1797",
+                "end": "1962"
+            }
+        },
+        {
+            "Dominion_of_Trinidad_and_Tobago": {
+                "begin": "1962",
+                "end": "1976"
+            }
+        },
+        {
+            "Trinidad_and_Tobago": {
+                "begin": "1976",
+                "end": "present"
+            }
+        }
+    ],
+    "Uruguay": [
+        {
+            "United_Provinces_of_the_River_Plate": {
+                "begin": "1810",
+                "end": "1816"
+            }
+        },
+        {
+            "United_Kingdom_of_Portugal,_Brazil_and_the_Algarves": {
+                "begin": "1816",
+                "end": "1822"
+            }
+        },
+        {
+            "Empire_of_Brazil": {
+                "begin": "1822",
+                "end": "1828"
+            }
+        },
+        {
+            "Uruguay": {
+                "begin": "1828",
+                "end": "present"
+            }
+        }
+    ],
+    "Venezuela": [
+        {
+            "Viceroyalty_of_New_Spain": {
+                "begin": "1521",
+                "end": "1717"
+            }
+        },
+        {
+            "Viceroyalty_of_New_Granada": {
+                "begin": "1717",
+                "end": "1777"
+            }
+        },
+        {
+            "Captaincy_General_of_Venezuela": {
+                "begin": "1777",
+                "end": "1821"
+            }
+        },
+        {
+            "Gran_Colombia": {
+                "begin": "1821",
+                "end": "1830"
+            }
+        },
+        {
+            "History_of_Venezuela_(1830%E2%80%931908)": {
+                "begin": "1830",
+                "end": "1857"
+            }
+        },
+        {
+            "History_of_Venezuela_(1830%E2%80%931908)": {
+                "begin": "1858",
+                "end": "1864"
+            }
+        },
+        {
+            "United_States_of_Venezuela": {
+                "begin": "1864",
+                "end": "1953"
+            }
+        },
+        {
+            "History_of_Venezuela_(1958%E2%80%9399)": {
+                "begin": "1953",
+                "end": "1999"
+            }
+        },
+        {
+            "Venezuela": {
+                "begin": "1999",
+                "end": "present"
+            }
+        }
+    ]
+}
