@@ -48,8 +48,9 @@ SELECT  ?obj ?objLabel ?wd ?prop_label ?bookLabel ?direction ?prop_id ?prop_idLa
 entity_finding = '''
 Select ?item ?itemLabel ?showLabel WHERE{{ BIND(wd:{entity_id} as ?show)
   ?item p:P31/ps:P31 ?show;
-  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en,ru". }}
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru , en". }}
 }}
+limit 50
 '''
 
 subclass_entity_finding = '''
@@ -156,3 +157,11 @@ WHERE {{ BIND(wd:{entity_id} as ?show).
 ?entity wdt:P31 ?show
 }}
 '''
+
+predicat_reciver = '''SELECT ?item ?itemLabel ?answer
+WHERE 
+{{BIND(wd:{entity_id} as ?item)
+  BIND(wdt:{pred_id} as ?pred)
+  ?item ?pred ?answer.
+ SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru,en". }}
+}}'''
