@@ -1,0 +1,402 @@
+{
+    "Australia": [
+        {
+            "History_of_Australia_(1788%E2%80%931850)": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Colony_of_New_South_Wales": {
+                "begin": "1788",
+                "end": "1901"
+            }
+        },
+        {
+            "Van_Diemen%27s_Land": {
+                "begin": "1825",
+                "end": "1856,later"
+            }
+        },
+        {
+            "Colony_of_Tasmania": {
+                "begin": "1856",
+                "end": "1901"
+            }
+        },
+        {
+            "Australia": {
+                "begin": "1901",
+                "end": "present"
+            }
+        }
+    ],
+    "Fiji": [
+        {
+            "Kingdom_of_Fiji": {
+                "begin": "1871",
+                "end": "1874"
+            }
+        },
+        {
+            "Colony_of_Fiji": {
+                "begin": "1874",
+                "end": "1970"
+            }
+        },
+        {
+            "Dominion_of_Fiji": {
+                "begin": "1970",
+                "end": "1987"
+            }
+        },
+        {
+            "Fiji": {
+                "begin": "1987",
+                "end": "present"
+            }
+        }
+    ],
+    "Kiribati": [
+        {
+            "Gilbert_and_Ellice_Islands": {
+                "begin": "1892",
+                "end": "1976"
+            }
+        },
+        {
+            "Kiribati": {
+                "begin": "1976",
+                "end": "present"
+            }
+        }
+    ],
+    "Marshall_Islands": [
+        {
+            "German_New_Guinea": {
+                "begin": "1884",
+                "end": "1919"
+            }
+        },
+        {
+            "South_Pacific_Mandate": {
+                "begin": "1919",
+                "end": "1947"
+            }
+        },
+        {
+            "Trust_Territory_of_the_Pacific_Islands": {
+                "begin": "1947",
+                "end": "1994"
+            }
+        },
+        {
+            "Marshall_Islands": {
+                "begin": "1979",
+                "end": "present"
+            }
+        }
+    ],
+    "Federated_States_of_Micronesia": [
+        {
+            "Spanish_East_Indies": {
+                "begin": "1565",
+                "end": "1898"
+            }
+        },
+        {
+            "German_New_Guinea": {
+                "begin": "1884",
+                "end": "1919"
+            }
+        },
+        {
+            "South_Pacific_Mandate": {
+                "begin": "1919",
+                "end": "1947"
+            }
+        },
+        {
+            "Trust_Territory_of_the_Pacific_Islands": {
+                "begin": "1947",
+                "end": "1994"
+            }
+        },
+        {
+            "Federated_States_of_Micronesia": {
+                "begin": "1979",
+                "end": "present"
+            }
+        }
+    ],
+    "Nauru": [
+        {
+            "German_New_Guinea": {
+                "begin": "1884",
+                "end": "1919"
+            }
+        },
+        {
+            "League_of_Nations_mandate": {
+                "begin": "1932",
+                "end": "1942"
+            }
+        },
+        {
+            "Japanese_occupation_of_Nauru": {
+                "begin": "1942",
+                "end": "1945"
+            }
+        },
+        {
+            "United_Nations_Trust_Territory": {
+                "begin": "1947",
+                "end": "1968"
+            }
+        },
+        {
+            "Nauru": {
+                "begin": "1968",
+                "end": "present"
+            }
+        }
+    ],
+    "New_Zealand": [
+        {
+            "Colony_of_New_South_Wales": {
+                "begin": "1788",
+                "end": "1901"
+            }
+        },
+        {
+            "Colony_of_New_Zealand": {
+                "begin": "1841",
+                "end": "1907"
+            }
+        },
+        {
+            "Dominion_of_New_Zealand": {
+                "begin": "1907",
+                "end": "1947"
+            }
+        },
+        {
+            "New_Zealand": {
+                "begin": "1947",
+                "end": "present"
+            }
+        }
+    ],
+    "Palau": [
+        {
+            "Spanish_East_Indies": {
+                "begin": "1565",
+                "end": "1898"
+            }
+        },
+        {
+            "German_New_Guinea": {
+                "begin": "1884",
+                "end": "1919"
+            }
+        },
+        {
+            "South_Pacific_Mandate": {
+                "begin": "1919",
+                "end": "1947"
+            }
+        },
+        {
+            "Trust_Territory_of_the_Pacific_Islands": {
+                "begin": "1947",
+                "end": "1994"
+            }
+        },
+        {
+            "Palau": {
+                "begin": "1994",
+                "end": "present"
+            }
+        }
+    ],
+    "Papua_New_Guinea": [
+        {
+            "Territory_of_Papua": {
+                "begin": "1884",
+                "end": "1975and"
+            }
+        },
+        {
+            "German_New_Guinea": {
+                "begin": "1884",
+                "end": "1919,later"
+            }
+        },
+        {
+            "Territory_of_New_Guinea": {
+                "begin": "1919",
+                "end": "1975"
+            }
+        },
+        {
+            "League_of_Nations_mandate": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "United_Nations_Trust_Territory": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Territory_of_Papua_and_New_Guinea": {
+                "begin": "1949",
+                "end": "1975"
+            }
+        },
+        {
+            "Papua_New_Guinea": {
+                "begin": "1975",
+                "end": "present"
+            }
+        }
+    ],
+    "Samoa": [
+        {
+            "German_Samoa": {
+                "begin": "1900",
+                "end": "1920"
+            }
+        },
+        {
+            "Western_Samoa_Trust_Territory": {
+                "begin": "1920",
+                "end": "1962"
+            }
+        },
+        {
+            "League_of_Nations_mandate": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "United_Kingdom": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "United_Nations_Trust_Territory": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "New_Zealand": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Samoa": {
+                "begin": "1962",
+                "end": "1997"
+            }
+        },
+        {
+            "Samoa": {
+                "begin": "1997",
+                "end": "present"
+            }
+        }
+    ],
+    "Solomon_Islands": [
+        {
+            "German_New_Guinea": {
+                "begin": "1884",
+                "end": "1919"
+            }
+        },
+        {
+            "British_Solomon_Islands": {
+                "begin": "1893",
+                "end": "1978"
+            }
+        },
+        {
+            "Solomon_Islands": {
+                "begin": "1978",
+                "end": "present"
+            }
+        }
+    ],
+    "Tonga": [
+        {
+            "Tonga": {
+                "begin": "1845",
+                "end": "present"
+            }
+        },
+        {
+            "United_Kingdom": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Protectorate": {
+                "begin": "1900",
+                "end": "1970"
+            }
+        }
+    ],
+    "Tuvalu": [
+        {
+            "Gilbert_and_Ellice_Islands": {
+                "begin": "1892",
+                "end": "1976"
+            }
+        },
+        {
+            "Tuvalu": {
+                "begin": "1976",
+                "end": "present"
+            }
+        }
+    ],
+    "Vanuatu": [
+        {
+            "Anglo-French_Joint_Naval_Commission": {
+                "begin": "1887",
+                "end": "1889"
+            }
+        },
+        {
+            "Franceville,_New_Hebrides": {
+                "begin": "1889",
+                "end": "1890"
+            }
+        },
+        {
+            "Anglo-French_Joint_Naval_Commission": {
+                "begin": "1890",
+                "end": "1906"
+            }
+        },
+        {
+            "New_Hebrides": {
+                "begin": "1906",
+                "end": "1980"
+            }
+        },
+        {
+            "Vanuatu": {
+                "begin": "1980",
+                "end": "present"
+            }
+        }
+    ]
+}

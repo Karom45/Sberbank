@@ -1,0 +1,974 @@
+{
+    "Antigua_and_Barbuda": [
+        {
+            "British_Leeward_Islands": {
+                "begin": "1671",
+                "end": "1816"
+            }
+        },
+        {
+            "British_Leeward_Islands": {
+                "begin": "1833",
+                "end": "1958"
+            }
+        },
+        {
+            "West_Indies_Federation": {
+                "begin": "1958",
+                "end": "1962"
+            }
+        },
+        {
+            "West_Indies_Associated_States": {
+                "begin": "1967",
+                "end": "present"
+            }
+        },
+        {
+            "Antigua_and_Barbuda": {
+                "begin": "1981",
+                "end": "present"
+            }
+        },
+        {
+            "Commonwealth_realm": {
+                "begin": "1981",
+                "end": "present"
+            }
+        }
+    ],
+    "The_Bahamas": [
+        {
+            "Eleutheran_Adventurers": {
+                "begin": "1648",
+                "end": "1717"
+            }
+        },
+        {
+            "The_Bahamas": {
+                "begin": "1973",
+                "end": "present"
+            }
+        }
+    ],
+    "Barbados": [
+        {
+            "History_of_Barbados": {
+                "begin": "1625",
+                "end": "1885"
+            }
+        },
+        {
+            "British_Windward_Islands": {
+                "begin": "1625",
+                "end": "1885"
+            }
+        },
+        {
+            "West_Indies_Federation": {
+                "begin": "1958",
+                "end": "1962"
+            }
+        },
+        {
+            "Barbados": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Commonwealth_realm": {
+                "begin": "1966",
+                "end": "present"
+            }
+        }
+    ],
+    "Belize": [
+        {
+            "British_Honduras": {
+                "begin": "1862",
+                "end": "1973"
+            }
+        },
+        {
+            "British_Honduras": {
+                "begin": "1973",
+                "end": "1981"
+            }
+        },
+        {
+            "Belize": {
+                "begin": "1981",
+                "end": "present"
+            }
+        },
+        {
+            "Commonwealth_realm": {
+                "begin": "1981",
+                "end": "present"
+            }
+        }
+    ],
+    "Canada": [
+        {
+            "Canada_(New_France)": {
+                "begin": "1535",
+                "end": "1763"
+            }
+        },
+        {
+            "French_Colonial_Empire": {
+                "begin": "1535",
+                "end": "1763"
+            }
+        },
+        {
+            "Province_of_Quebec_(1763%E2%80%931791)": {
+                "begin": "1763",
+                "end": "1791"
+            }
+        },
+        {
+            "Upper_Canada": {
+                "begin": "1791",
+                "end": "1841"
+            }
+        },
+        {
+            "Lower_Canada": {
+                "begin": "1791",
+                "end": "1841"
+            }
+        },
+        {
+            "United_Province_of_Canada": {
+                "begin": "1841",
+                "end": "1867"
+            }
+        },
+        {
+            "Rupert%27s_Land": {
+                "begin": "1670",
+                "end": "1870"
+            }
+        },
+        {
+            "Hudson%27s_Bay_Company": {
+                "begin": "1670",
+                "end": "1870"
+            }
+        },
+        {
+            "North-Western_Territory": {
+                "begin": "1859",
+                "end": "1870"
+            }
+        },
+        {
+            "Colony_of_British_Columbia_(1866%E2%80%9371)": {
+                "begin": "1858",
+                "end": "1871"
+            }
+        },
+        {
+            "Colony_of_Vancouver_Island": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Colony_of_British_Columbia_(1858%E2%80%9366)": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Provisional_Government_of_Saskatchewan": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Newfoundland_Colony": {
+                "begin": "1610",
+                "end": "1907"
+            }
+        },
+        {
+            "Dominion_of_Newfoundland": {
+                "begin": "1907",
+                "end": "1949"
+            }
+        },
+        {
+            "British_Empire": {
+                "begin": "1907",
+                "end": "1934,adependencyof"
+            }
+        },
+        {
+            "United_Kingdom": {
+                "begin": "1934",
+                "end": "1949"
+            }
+        },
+        {
+            "Canada": {
+                "begin": "1867",
+                "end": "present"
+            }
+        }
+    ],
+    "Costa_Rica": [
+        {
+            "Real_Audiencia_of_Guatemala": {
+                "begin": "1543",
+                "end": "1609"
+            }
+        },
+        {
+            "New_Spain": {
+                "begin": "1543",
+                "end": "1609"
+            }
+        },
+        {
+            "Captaincy_General_of_Guatemala": {
+                "begin": "1609",
+                "end": "1821"
+            }
+        },
+        {
+            "New_Spain": {
+                "begin": "1609",
+                "end": "1821"
+            }
+        },
+        {
+            "First_Mexican_Empire": {
+                "begin": "1821",
+                "end": "1823"
+            }
+        },
+        {
+            "Federal_Republic_of_Central_America": {
+                "begin": "1823",
+                "end": "1838"
+            }
+        },
+        {
+            "Costa_Rica": {
+                "begin": "1838",
+                "end": "present"
+            }
+        }
+    ],
+    "Cuba": [
+        {
+            "Captaincy_General_of_Santo_Domingo": {
+                "begin": "1512",
+                "end": "1607"
+            }
+        },
+        {
+            "Captaincy_General_of_Cuba": {
+                "begin": "1607",
+                "end": "1898"
+            }
+        },
+        {
+            "United_States_Military_Government_in_Cuba": {
+                "begin": "1898",
+                "end": "1902"
+            }
+        },
+        {
+            "Cuba": {
+                "begin": "1902",
+                "end": "present"
+            }
+        }
+    ],
+    "Dominica": [
+        {
+            "British_Leeward_Islands": {
+                "begin": "1871",
+                "end": "19581763"
+            }
+        },
+        {
+            "West_Indies_Federation": {
+                "begin": "1958",
+                "end": "1962"
+            }
+        },
+        {
+            "West_Indies_Associated_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Dominica": {
+                "begin": "1978",
+                "end": "present"
+            }
+        }
+    ],
+    "Dominican_Republic": [
+        {
+            "Captaincy_General_of_Santo_Domingo": {
+                "begin": "1492",
+                "end": "1795"
+            }
+        },
+        {
+            "Era_de_Francia": {
+                "begin": "1795",
+                "end": "1809"
+            }
+        },
+        {
+            "Espa%C3%B1a_Boba": {
+                "begin": "1809",
+                "end": "1821"
+            }
+        },
+        {
+            "Republic_of_Spanish_Haiti": {
+                "begin": "1821",
+                "end": "1822"
+            }
+        },
+        {
+            "Unification_of_Hispaniola": {
+                "begin": "1822",
+                "end": "1844"
+            }
+        },
+        {
+            "Dominican_Republic": {
+                "begin": "1844",
+                "end": "1861"
+            }
+        },
+        {
+            "Spanish_occupation_of_the_Dominican_Republic": {
+                "begin": "1861",
+                "end": "1865"
+            }
+        },
+        {
+            "Dominican_Republic": {
+                "begin": "1865",
+                "end": "present"
+            }
+        }
+    ],
+    "El_Salvador": [
+        {
+            "Real_Audiencia_of_Guatemala": {
+                "begin": "1543",
+                "end": "1609"
+            }
+        },
+        {
+            "New_Spain": {
+                "begin": "1543",
+                "end": "1609"
+            }
+        },
+        {
+            "Captaincy_General_of_Guatemala": {
+                "begin": "1609",
+                "end": "1821"
+            }
+        },
+        {
+            "New_Spain": {
+                "begin": "1609",
+                "end": "1821"
+            }
+        },
+        {
+            "First_Mexican_Empire": {
+                "begin": "1821",
+                "end": "1823"
+            }
+        },
+        {
+            "Federal_Republic_of_Central_America": {
+                "begin": "1823",
+                "end": "1841"
+            }
+        },
+        {
+            "El_Salvador": {
+                "begin": "1841",
+                "end": "present"
+            }
+        }
+    ],
+    "Grenada": [
+        {
+            "British_Windward_Islands": {
+                "begin": "1833",
+                "end": "958"
+            }
+        },
+        {
+            "West_Indies_Federation": {
+                "begin": "1958",
+                "end": "1962"
+            }
+        },
+        {
+            "West_Indies_Associated_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Grenada": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Commonwealth_realm": {
+                "begin": "1974",
+                "end": "present"
+            }
+        }
+    ],
+    "Guatemala": [
+        {
+            "Real_Audiencia_of_Guatemala": {
+                "begin": "1543",
+                "end": "1609"
+            }
+        },
+        {
+            "Captaincy_General_of_Guatemala": {
+                "begin": "1609",
+                "end": "1821"
+            }
+        },
+        {
+            "First_Mexican_Empire": {
+                "begin": "1821",
+                "end": "1823"
+            }
+        },
+        {
+            "Federal_Republic_of_Central_America": {
+                "begin": "1823",
+                "end": "1839"
+            }
+        },
+        {
+            "Guatemala": {
+                "begin": "1839",
+                "end": "present"
+            }
+        }
+    ],
+    "Haiti": [
+        {
+            "Saint-Domingue": {
+                "begin": "1625",
+                "end": "1804"
+            }
+        },
+        {
+            "First_Empire_of_Haiti": {
+                "begin": "1804",
+                "end": "1806"
+            }
+        },
+        {
+            "State_of_Haiti": {
+                "begin": "1806",
+                "end": "1811"
+            }
+        },
+        {
+            "Haiti": {
+                "begin": "1806",
+                "end": "1811"
+            }
+        },
+        {
+            "Kingdom_of_Haiti": {
+                "begin": "1811",
+                "end": "1820"
+            }
+        },
+        {
+            "Haiti": {
+                "begin": "1806",
+                "end": "1849"
+            }
+        },
+        {
+            "Kingdom_of_Haiti": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kingdom_of_Haiti": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Unification_of_Hispaniola": {
+                "begin": "1822",
+                "end": "1844"
+            }
+        },
+        {
+            "Second_Empire_of_Haiti": {
+                "begin": "1849",
+                "end": "1859"
+            }
+        },
+        {
+            "Haiti": {
+                "begin": "1859",
+                "end": "present"
+            }
+        },
+        {
+            "United_States_occupation_of_Haiti": {
+                "begin": "1915",
+                "end": "1934"
+            }
+        }
+    ],
+    "Honduras": [
+        {
+            "Real_Audiencia_of_Guatemala": {
+                "begin": "1543",
+                "end": "1609"
+            }
+        },
+        {
+            "Captaincy_General_of_Guatemala": {
+                "begin": "1609",
+                "end": "1821"
+            }
+        },
+        {
+            "First_Mexican_Empire": {
+                "begin": "1821",
+                "end": "1823"
+            }
+        },
+        {
+            "Federal_Republic_of_Central_America": {
+                "begin": "1823",
+                "end": "1838"
+            }
+        },
+        {
+            "Honduras": {
+                "begin": "1838",
+                "end": "present"
+            }
+        }
+    ],
+    "Jamaica": [
+        {
+            "Colony_of_Jamaica": {
+                "begin": "1655",
+                "end": "1962"
+            }
+        },
+        {
+            "Jamaica": {
+                "begin": "1962",
+                "end": "present"
+            }
+        },
+        {
+            "Commonwealth_realm": {
+                "begin": "1962",
+                "end": "present"
+            }
+        }
+    ],
+    "Mexico": [
+        {
+            "New_Spain": {
+                "begin": "1521",
+                "end": "1821"
+            }
+        },
+        {
+            "First_Mexican_Empire": {
+                "begin": "1821",
+                "end": "1823"
+            }
+        },
+        {
+            "Provisional_Government_of_Mexico_(1823%E2%80%9324)": {
+                "begin": "1823",
+                "end": "1824"
+            }
+        },
+        {
+            "First_Mexican_Republic": {
+                "begin": "1824",
+                "end": "1835"
+            }
+        },
+        {
+            "Centralist_Republic_of_Mexico": {
+                "begin": "1835",
+                "end": "1846"
+            }
+        },
+        {
+            "Second_Federal_Republic_of_Mexico": {
+                "begin": "1846",
+                "end": "1863"
+            }
+        },
+        {
+            "Second_Mexican_Empire": {
+                "begin": "1863",
+                "end": "1867"
+            }
+        },
+        {
+            "Mexico": {
+                "begin": "1867",
+                "end": "present"
+            }
+        }
+    ],
+    "Nicaragua": [
+        {
+            "Real_Audiencia_of_Guatemala": {
+                "begin": "1543",
+                "end": "1609"
+            }
+        },
+        {
+            "Captaincy_General_of_Guatemala": {
+                "begin": "1609",
+                "end": "1821"
+            }
+        },
+        {
+            "First_Mexican_Empire": {
+                "begin": "1821",
+                "end": "1823"
+            }
+        },
+        {
+            "Federal_Republic_of_Central_America": {
+                "begin": "1823",
+                "end": "1838"
+            }
+        },
+        {
+            "Nicaragua": {
+                "begin": "1838",
+                "end": "present"
+            }
+        }
+    ],
+    "Saint_Kitts_and_Nevis": [
+        {
+            "Saint_Kitts": {
+                "begin": "1623",
+                "end": "1882"
+            }
+        },
+        {
+            "British_Leeward_Islands": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Nevis": {
+                "begin": "1628",
+                "end": "1882"
+            }
+        },
+        {
+            "British_Leeward_Islands": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Saint_Christopher-Nevis-Anguilla": {
+                "begin": "1882",
+                "end": "1958"
+            }
+        },
+        {
+            "British_Leeward_Islands": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "British_Leeward_Islands": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Anguilla": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "West_Indies_Federation": {
+                "begin": "1958",
+                "end": "1962"
+            }
+        },
+        {
+            "Saint_Christopher-Nevis-Anguilla": {
+                "begin": "1962",
+                "end": "1983"
+            }
+        },
+        {
+            "West_Indies_Associated_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "West_Indies_Associated_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Anguilla": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Saint_Kitts_and_Nevis": {
+                "begin": "1983",
+                "end": "present"
+            }
+        }
+    ],
+    "Saint_Lucia": [
+        {
+            "British_Windward_Islands": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "West_Indies_Federation": {
+                "begin": "1958",
+                "end": "1962"
+            }
+        },
+        {
+            "West_Indies_Associated_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Saint_Lucia": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Commonwealth_realm": {
+                "begin": "1979",
+                "end": "present"
+            }
+        }
+    ],
+    "Saint_Vincent_and_the_Grenadines": [
+        {
+            "British_Windward_Islands": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "West_Indies_Federation": {
+                "begin": "1958",
+                "end": "1962"
+            }
+        },
+        {
+            "West_Indies_Associated_States": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Saint_Vincent_and_the_Grenadines": {
+                "begin": "1979",
+                "end": "present"
+            }
+        },
+        {
+            "Commonwealth_realm": {
+                "begin": "1979",
+                "end": "present"
+            }
+        }
+    ],
+    "United_States": [
+        {
+            "Thirteen_Colonies": {
+                "begin": "1732",
+                "end": "1776"
+            }
+        },
+        {
+            "Province_of_New_Hampshire": {
+                "begin": "1732",
+                "end": "1776"
+            }
+        },
+        {
+            "Province_of_Massachusetts_Bay": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Colony_of_Rhode_Island_and_Providence_Plantations": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Connecticut_Colony": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Province_of_New_York": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Province_of_New_Jersey": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Province_of_Pennsylvania": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Delaware_Colony": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Province_of_Maryland": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Colony_of_Virginia": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Province_of_Carolina": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Province_of_North_Carolina": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Province_of_South_Carolina": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Province_of_Georgia": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Vermont_Republic": {
+                "begin": "1777",
+                "end": "1791"
+            }
+        },
+        {
+            "Republic_of_West_Florida": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Republic_of_Indian_Stream": {
+                "begin": "1832",
+                "end": "1835"
+            }
+        },
+        {
+            "Republic_of_Texas": {
+                "begin": "1836",
+                "end": "1846"
+            }
+        },
+        {
+            "California_Republic": {
+                "begin": "нет",
+                "end": "нет"
+            }
+        },
+        {
+            "Kingdom_of_Hawaii": {
+                "begin": "1795",
+                "end": "1893,"
+            }
+        },
+        {
+            "Republic_of_Hawaii": {
+                "begin": "1894",
+                "end": "1898"
+            }
+        },
+        {
+            "United_States": {
+                "begin": "1776",
+                "end": "present"
+            }
+        }
+    ]
+}
