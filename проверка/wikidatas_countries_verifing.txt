@@ -1,0 +1,111 @@
+Asia_1
+Q593662_United_Nations_Transitional_Authority_in_Cambodia - организация, удаляем.
+???_Republic of Geirgia - если не нашли qid , то удаляем
+Q12057021_Medieval_India - два временных промежутка подряд, можно их объединить в 1.
+Q5308718_Early_modern_period - идентификатор для Нового времени
+Q7075820_Occupied_Enemy_Territory_Administration - не представляет для нас важности.
+
+Asia_2
+(3)Q7075820_Occupied_Enemy_Territory_Administration - не представляет для нас важности.
+???	Konbaung_Dynasty - есть qid Q1062422
+x	Union of Myanmar - организация, удаляем 
+Q559069	British_occupation_of_Manila - война
+Q3408526	Mongolia_under_Qing_rule - тут скорее подойдет Q8733(империя ЦИнь)
+x	Crown Colony of Singapore - удаляем
+Q1965597	Anuradhapura_Kingdom два временных промежутка подряд, можно их объединить в 1.
+Q622778	Tonkin - регион, нам не подходит
+
+North America
+(6)Q7985529	West_Indies_Associated_States - ассоциативное государство - удаляем
+Q2206741	History_of_Barbados - есть колония Барбадос
+(5)Q4233720	Real_Audiencia_of_Guatemala - что-то странное , вряд ли нужно
+Q5502314	Era_de_Francia - пустая ссылка, убираем
+Q31389	Espa%C3%B1a_Boba - геологический период
+Q207794	Nevis - остров
+
+
+OCeania
+(3)Q426759	League_of_Nations_mandate - лучше Q1545934 Британские Западно-Тихоокеанские Территории
+Q683	Samoa два временных промежутка подряд, можно их объединить в 1
+(2)Q4763626	Anglo-French_Joint_Naval_Commission - какая-то комиссия 
+
+South America
+Q39501433	History_of_Venezuela_1830%E2%80%931908 - два временных промежутка подряд, можно их объединить в 1
+
+Europe1
+Q161205	Safavid_dynasty - династия, есть Q18234383 (Сефевидское государство)
+Q388739	Afsharid_dynasty - династия , есть  Q63149558 (Афшаридская империя)
+Q189326	Qajar_dynasty - династия , есть Q63158027 (Каджарская империя) 
+!!! Не смог найти кусок Армении
+(2)Q12548	Holy_Roman_Empire - лишнее 
+Q151624	German_Confederation - лишнее
+Q1642939	Shirvanshah - указан титул, есть ссылка на гсоударство, но по гос-ву инфы мало, однако на должность много ссылок ~50. Q28470114 (Shirvan) 
+(2)Q236036	Republics_of_the_Soviet_Union - точно лишнее 
+
+Europe_2
+Q153128	Independent_State_of_Croatia - даты.
+(2)Q156031	Reichskommissariat_Ostland - думаю, что можно оставить.
+!!!Q938504	Connachta - почти 1000 лет дыра
+Q34266	Russian_Empire - одну из строк можно удалить
+Q151624	German_Confederation - можно убрать
+Q186096(Российское гос-во) - на тот момент уже не существовало , нужно Q34266 (Российская империя) 
+
+Europe_3
+Q13107370	Principality_of_Serbia - по википедии дата окончания 969
+(4)Q191077	Kingdom_of_Yugoslavia - есть другой лейбл для даты (1918-1929) спасибо Ульяне Царевой Q15102440
+Q249561	Paeonia_kingdom - поставим примерную дату со смерти первого короля -358
+Q201546	Hellinistic_States - скорее династия или народность
+Q221	Republic_of_Macedonia - два временных промежутка подряд, можно их объединить в 1
+Q841376	Petty_kingdoms_of_Norway - поставим примерную дату начала, нашел царя примерно с 6 века, ставим 500
+Q903779	United_Kingdom_of_Portugal_Brazil_and_the_Algarves - дата
+Q14606226	Kingdom_of_Portugal_and_the_Algarves - ссылка на историческую страницу 
+Q45670	Kingdom_of_Portugal - объединяем все даты с 1139 по 1910
+Q12560	Ottoman_Empire - лишнее 
+Q2603851	Kingdom_of_Serbia_1718%E2%80%931739 -существовало до 1739
+Q1281856	New Serbia - добавил 
+Q504557	United_Nations_Interim_Administration_Mission_in_Kosovo - не подходит 
+!!! Q1255	Autonomous_Province_of_Kosovo_and_Metohija - не уверен, стоит ли убирать.
+Q253094	Royal_Hungary  - перестало существовать к тому моменту, лучше Q171150 (Королевство Венгрия)
+Q2454585	Czechoslovak_Republic_1945%E2%80%9348 - существовала до 1948
+Q11178782	Czechoslovak Republic - добавил 	
+Q103333	Odoacer - это правитель, скорее всего нужно поставить Византию
+
+Africa
+Q12560	Ottoman_Empire - найдена колония , убираем
+Q962	Benin - временной интервал (1958-1975) нужно Q798431 (Республика Дагомея) 
+(2)Q1028848	League_of_Nations_Mandate - в этот момент был Французский Камерун (Q1028848), можно убрать 
+Federal Islamic Republic of the Comoros английский (Q16674377) - добавил 
+Q970	Comoros - был двойной этап , по всей видимость и перерыв на исламскую республику
+Египет (Q202311) - добавил(римская провинция) 2 даты 
+Sasanian Egypt английский (Q20987778) - добавил
+Добавил строки с 58 по 69
+Q282428 - даты 
+Q12560	Ottoman Egypt - даты 
+Много добавил для ЕГипта...
+Q2603305	Federation of Ethiopia and Eritrea добавил 
+Q14645015	Eritrea Province добавил 
+Q115	Ethiopia - лишнее в Эритрее 
+Q1232988	Italian_Eritrea - была под оккупацией Великобритании Q174193	United Kingdom of Great Britain and Ireland
+Q1050	History_of_Swaziland - до оккупации не нашел qid
+Q828005	Derg - военная хунта, оставляем
+Q332071	Transitional_Government_of_Ethiopia временное правительство , оставляем 
+Q271894	French_Equatorial_Africa - колония , оставляем
+Q7735661	Commonwealth realm of the Gambia добавил 
+Q1016	Libya  -даты
+Q12060804	France - правильная сущность Q12060804	Isle de France (Mauritius)
+!!!Дырка в 500 лет в Марокко , т.к. указаны династии 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

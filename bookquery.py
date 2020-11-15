@@ -51,9 +51,6 @@ Select ?item ?itemLabel ?showLabel WHERE{{ BIND(wd:{entity_id} as ?show)
   ?item p:P31/ps:P31 ?show;
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru , en". }}
 }}
-<<<<<<< HEAD
-limit 50
-=======
 limit 40000
 '''
 
@@ -63,7 +60,6 @@ Select ?item ?itemLabel ?showLabel WHERE{{ BIND(wd:{entity_id} as ?show)
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru , en". }}
 }}
 limit 40000
->>>>>>> 9601f91f9595f908962b9888569ad9fb8ed4521f
 '''
 
 subclass_entity_finding = '''
@@ -120,13 +116,6 @@ rus_names = '''Select ?item ?itemLabel  WHERE{{ BIND(wd:{entity_id} as ?item)
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru,en". }}
 }}
 '''
-subclass_of = '''SELECT ?show ?showLabel ?subclass ?subclassLabel
-WHERE
-{{ BIND(wd:{entity_id} as ?show).
-?show wdt:P31 ?subclass
-SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE], ru, en". }}
-}}
-'''
 
 subclass_name = '''SELECT ?show ?showLabel
 WHERE
@@ -171,18 +160,11 @@ WHERE {{ BIND(wd:{entity_id} as ?show).
 }}
 '''
 
-<<<<<<< HEAD
-predicat_reciver = '''SELECT ?item ?itemLabel ?answer
-WHERE 
-=======
 predicat_reciver = '''SELECT ?item ?itemLabel ?an
->>>>>>> 9601f91f9595f908962b9888569ad9fb8ed4521f
 {{BIND(wd:{entity_id} as ?item)
   BIND(wdt:{pred_id} as ?pred)
   ?item ?pred ?answer.
  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru,en". }}
-<<<<<<< HEAD
-=======
 }}'''
 
 leaders = '''SELECT  DISTINCT ?leader {{
@@ -212,5 +194,42 @@ labels = '''
 SELECT ?qid ?qidLabel WHERE {{
   VALUES ?qid {{ {qid} }}.
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "ru,en". }}
->>>>>>> 9601f91f9595f908962b9888569ad9fb8ed4521f
 }}'''
+
+instance_of = '''SELECT ?instaceOf ?instaceOfLabel
+WHERE{{
+VALUES ?qid {{ {qid} }}.
+?qid wdt:P31 ?instaceOf
+SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE], ru, en". }}
+}}
+'''
+subclass_of = '''SELECT ?subclass ?subclassLabel
+WHERE{{
+VALUES ?qid {{ {qid} }}.
+?qid wdt:P279 ?subclass
+SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE], ru, en". }}
+}}
+'''
+
+instance_of_with_entities = '''SELECT ?qid ?qidLabel ?instanceOf ?instanceOfLabel
+WHERE
+{{ VALUES ?qid {{ {qid} }}.
+?qid wdt:P31 ?instanceOf
+SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE], ru, en". }}
+}}
+'''
+
+subclass_of_with_entities = '''SELECT ?qid ?qidLabel ?subclass ?subclassLabel
+WHERE
+{{ VALUES ?qid {{ {qid} }}.
+?qid wdt:P279 ?subclass
+SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE], ru, en". }}
+}}
+'''
+subclass_of_with_entities = '''SELECT ?qid ?qidLabel ?subclass ?subclassLabel
+WHERE
+{{ VALUES ?qid {{ {qid} }}.
+?qid wdt:P279 ?subclass
+SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE], ru, en". }}
+}}
+'''

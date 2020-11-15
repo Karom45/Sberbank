@@ -23,7 +23,7 @@ class SPARQLExecutor(object):
         if not self.simplified:
             return results
         else:
-            return [{k: v['value'] for k, v in answer.items()} for answer in results]
+            return [{k: v['value'].split('/')[-1] for k, v in answer.items()} for answer in results]
 
 
 # In[ ]:
